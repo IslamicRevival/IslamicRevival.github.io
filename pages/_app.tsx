@@ -1,6 +1,15 @@
-import '../styles/globals.css'
-import type { AppProps } from 'next/app'
+import React from "react";
+import { AppProps } from "next/app";
+import "bootstrap/dist/css/bootstrap.min.css";
+import "@styles/global.css";
+import { RootStoreProvider } from "@mobx";
 
-export default function App({ Component, pageProps }: AppProps) {
-  return <Component {...pageProps} />
+function MyApp({ Component, pageProps }: AppProps): JSX.Element {
+  return (
+    <RootStoreProvider>
+      <Component {...pageProps} />
+    </RootStoreProvider>
+  );
 }
+
+export default MyApp;

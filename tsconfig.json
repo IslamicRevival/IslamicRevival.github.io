@@ -13,8 +13,23 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "jsx": "preserve",
-    "incremental": true
+    "baseUrl": ".",
+    "paths": {
+      "@components/*": ["src/components/*"],
+      "@components": ["src/components"],
+      "@styles/*": ["src/styles/*"],
+      "@styles": ["src/styles"],
+      "@public/*": ["public/*"],
+      "@public": ["public"],
+      "@components/icons/*": ["src/components/icons/*"],
+      "@components/icons": ["src/components/icons"],
+      "@mobx/*": ["src/mobx/*"],
+      "@mobx": ["src/mobx"],
+      "@i18n": ["./i18n.json"],
+      "@test/*": ["test/*"],
+      "@test": ["test"]
+    }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
-  "exclude": ["node_modules"]
+  "exclude": ["node_modules", "test/*", "cypress/*"]
 }
