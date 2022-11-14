@@ -55,5 +55,20 @@
     "dotenv": "^8.2.0",
     "cypress": "^6.2.1",
     "start-server-and-test": "^1.11.0"
-  }
+  },
+  "description": "",
+  "main": "next.config.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IslamicRevival/IslamicRevival.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IslamicRevival/IslamicRevival.github.io/issues"
+  },
+  "homepage": "https://github.com/IslamicRevival/IslamicRevival.github.io#readme"
 }
