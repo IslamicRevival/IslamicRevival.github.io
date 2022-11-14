@@ -1,7 +1,11 @@
 {
   "compilerOptions": {
     "target": "es5",
-    "lib": ["dom", "dom.iterable", "esnext"],
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
     "allowJs": true,
     "skipLibCheck": true,
     "strict": true,
@@ -15,21 +19,56 @@
     "jsx": "preserve",
     "baseUrl": ".",
     "paths": {
-      "@components/*": ["src/components/*"],
-      "@components": ["src/components"],
-      "@styles/*": ["src/styles/*"],
-      "@styles": ["src/styles"],
-      "@public/*": ["public/*"],
-      "@public": ["public"],
-      "@components/icons/*": ["src/components/icons/*"],
-      "@components/icons": ["src/components/icons"],
-      "@mobx/*": ["src/mobx/*"],
-      "@mobx": ["src/mobx"],
-      "@i18n": ["./i18n.json"],
-      "@test/*": ["test/*"],
-      "@test": ["test"]
-    }
+      "@components/*": [
+        "src/components/*"
+      ],
+      "@components": [
+        "src/components"
+      ],
+      "@styles/*": [
+        "src/styles/*"
+      ],
+      "@styles": [
+        "src/styles"
+      ],
+      "@public/*": [
+        "public/*"
+      ],
+      "@public": [
+        "public"
+      ],
+      "@components/icons/*": [
+        "src/components/icons/*"
+      ],
+      "@components/icons": [
+        "src/components/icons"
+      ],
+      "@mobx/*": [
+        "src/mobx/*"
+      ],
+      "@mobx": [
+        "src/mobx"
+      ],
+      "@i18n": [
+        "./i18n.json"
+      ],
+      "@test/*": [
+        "test/*"
+      ],
+      "@test": [
+        "test"
+      ]
+    },
+    "incremental": true
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
-  "exclude": ["node_modules", "test/*", "cypress/*"]
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx"
+  ],
+  "exclude": [
+    "node_modules",
+    "test/*",
+    "cypress/*"
+  ]
 }
