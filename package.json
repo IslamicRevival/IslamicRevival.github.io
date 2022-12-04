@@ -1,14 +1,26 @@
 {
-  "private": true,
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "dev": "vitepress dev --port=3005",
-    "build": "vitepress build",
-    "preview": "vitepress preview docs --port 8080",
-    "serve": "vitepress serve"
+    "dev": "cross-env NODE_ENV=development vitepress dev content --host --port 4000",
+    "build": "cross-env NODE_ENV=production vitepress build content",
+    "serve": "cross-env NODE_ENV=production vitepress serve content"
   },
+  "author": "",
+  "license": "ISC",
   "devDependencies": {
-    "@vue/theme": "^1.1.0",
-    "vitepress": "^0.22.4",
+    "@tailwindcss/forms": "^0.5.2",
+    "autoprefixer": "^10.4.7",
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.0.1",
+    "postcss-import": "^14.1.0",
+    "tailwindcss": "^3.1.6",
+    "types-quill-delta": "^1.0.0",
+    "vitepress": "^1.0.0-alpha.29",
     "vue": "^3.2.37"
-  }
+  },
+  "dependencies": {
+    "@vueup/vue-quill": "^1.0.0-beta.9"  }
 }
