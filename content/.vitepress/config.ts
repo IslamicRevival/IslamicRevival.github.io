@@ -1,10 +1,11 @@
 import 'dotenv/config'
-import { defineConfig } from 'vitepress'
+import { defineConfig} from 'vitepress'
+
 
 export default defineConfig({
   base: '/',
   lang: 'en-US',
-  title: 'As-salamu alaykum!, welcome to Islamic Revival!',
+  title: 'Islamic Revival',
   description: 'A free framework to share Islamically scholarly works',
   head: [
     [
@@ -30,8 +31,7 @@ export default defineConfig({
 			{ icon: 'twitter', link: 'https://twitter.com/' },
 		],
     footer: {
-      message: 'Released under the MIT License.',
-      copyright: 'Made with ❤️ by SirVival',
+      copyright: 'As-salamu alaykum! Content by SirVival',
     },
 
     nav: [

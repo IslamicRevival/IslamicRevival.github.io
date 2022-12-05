@@ -8,9 +8,9 @@ hero:
   name: Islamic Revival
   text: a framework to share Islamic works 
   tagline: through the crowdsourcing of knowledge
-  image:
-    src: /quill.svg
-    alt: Vite
+  #image:
+   # src: /quill.svg
+   # alt: Vite
   actions:
     - theme: brand
       text: Add/edit content
@@ -30,3 +30,25 @@ features:
     title: crowdsourced
     details:    Contribute Islamic knowledge freely using coding techniques of peer-reviewing and versioning
 ---
+
+
+<script setup>
+import { withBase } from 'vitepress'
+</script>
+
+<style>
+.VPHero {
+  margin: auto;
+  align-content: center;
+  float: right;
+  width: 80%;
+}
+
+.actions {
+  margin: auto;
+  width: 95%;
+  align-content: center;
+  float: right;
+}
+
+</style>
