@@ -1,4 +1,5 @@
 
+<template>
 	<Layout>
 		<template #doc-after>
 			<Comment v-if="!hideCommentRef" />
@@ -6,7 +7,6 @@
 		</template>
 	</Layout>
 </template>
-
 
 <script lang="ts" setup src="https://giscus.app/client.js"
         data-repo="IslamicRevival/IslamicRevival.github.io"
@@ -31,5 +31,4 @@ import { useGiscus } from '../hooks/useGiscus'
 //const { Layout } = Theme
 const { hideCommentRef } = useGiscus()
 </script>
-
 */
