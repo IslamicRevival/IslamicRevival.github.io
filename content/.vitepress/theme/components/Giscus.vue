@@ -1,5 +1,5 @@
 <template>
-  <div class="comments-container"
+  <div class="comments-container" style="width:80%; padding-left:300px"
        v-if="!page.frontmatter.hideComment">
     <Giscus id="comments"
             repo="IslamicRevival/IslamicRevival.github.io"
