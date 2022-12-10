@@ -6,7 +6,7 @@ import Layout from './components/Layout.vue'
 import './styles/tailwind.css'
 import './styles/vars.css'
 
-import { useGiscus } from './hooks/useGiscus'
+//import { useGiscus } from './hooks/useGiscus'
 
 //import '@vueup/vue-quill/dist/vue-quill.core.css' // import styles
 //import '@vueup/vue-quill/dist/vue-quill.bubble.css' // for bubble theme
@@ -20,8 +20,10 @@ export default {
   ...Theme,
   Layout() {
     return h(Theme.Layout, null, {
-      'home-features-after': () => h(useGiscus()),
+      'home-features-after': () => h(Layout),
       // 'aside-ads-before': () => h(AsideSponsors)
+    //  'home-features-after': () => h(useGiscus()),
+
     })
   }, 
 }
