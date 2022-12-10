@@ -12,6 +12,25 @@ import './styles/vars.css'
 //import '@vueup/vue-quill/dist/vue-quill.bubble.css' // for bubble theme
 //import '@vueup/vue-quill/dist/vue-quill.snow.css' // for snow theme
 
+const giscusConfig = (currentTheme) => ({
+  'data-repo': 'IslamicRevival/IslamicRevival.github.io',
+  'data-repo-id': 'R_kgDOIaj3hg',
+  'data-category': 'General',
+  'data-category-id': 'DIC_kwDOIaj3hs4CS5zb',
+  'data-mapping': 'pathname',
+  'data-strict': '0',
+  'data-reactions-enabled': '1',
+  'data-emit-metadata': '0',
+  'data-input-position': 'top',
+  'data-theme': 'currentTheme',
+  'data-lang': 'en',
+  'crossorigin': 'anonymous',
+  'async': 'true',
+  'src': 'https://giscus.app/client.js',
+})
+
+export { giscusConfig }
+
 export default {
   enhanceApp({ app, router, siteData }) {
     // app is the Vue 3 app instance from `createApp()`. router is VitePress'
