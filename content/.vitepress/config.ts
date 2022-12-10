@@ -1,7 +1,6 @@
 import 'dotenv/config'
 import { defineConfig} from 'vitepress'
 
-
 export default defineConfig({
   base: '/',
   lang: 'en-US',
@@ -23,7 +22,7 @@ export default defineConfig({
     logo: '/logo.svg',
     editLink: {
       pattern:
-        'https://github.com/vueup/vue-quill/edit/beta/docs/content/:path',
+        'https://github.com/IslamicRevival/IslamicRevival.github.io/edit/main/content/:path',
       text: 'Edit this page on GitHub',
     },
 		socialLinks: [

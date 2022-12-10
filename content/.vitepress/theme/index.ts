@@ -1,10 +1,15 @@
 import { h, defineAsyncComponent } from 'vue'
 import Theme from 'vitepress/theme'
-//import HomeDemo from './components/HomeDemo.vue'
-import Loading from './components/Loading.vue'
+import Layout from './components/Layout.vue'
+
 
 import './styles/tailwind.css'
 import './styles/vars.css'
+
+import { useGiscus } from './hooks/useGiscus'
+//import Theme from 'vitepress/theme'
+//const { Layout } = Theme
+//const { hideCommentRef } = useGiscus()
 
 //import '@vueup/vue-quill/dist/vue-quill.core.css' // import styles
 //import '@vueup/vue-quill/dist/vue-quill.bubble.css' // for bubble theme
@@ -18,7 +23,8 @@ export default {
   ...Theme,
   Layout() {
     return h(Theme.Layout, null, {
-//      'home-features-after': () => h(HomeDemo),
+      'home-features-after': () => h(useGiscus()),
+      // 'aside-ads-before': () => h(AsideSponsors)
     })
-  },
+  }, 
 }
