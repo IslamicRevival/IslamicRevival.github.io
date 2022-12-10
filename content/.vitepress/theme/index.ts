@@ -7,9 +7,6 @@ import './styles/tailwind.css'
 import './styles/vars.css'
 
 import { useGiscus } from './hooks/useGiscus'
-//import Theme from 'vitepress/theme'
-//const { Layout } = Theme
-//const { hideCommentRef } = useGiscus()
 
 //import '@vueup/vue-quill/dist/vue-quill.core.css' // import styles
 //import '@vueup/vue-quill/dist/vue-quill.bubble.css' // for bubble theme
