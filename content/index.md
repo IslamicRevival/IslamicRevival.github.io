@@ -14,10 +14,10 @@ hero:
   actions:
     - theme: brand
       text: Add/edit content
-      link: /how-to-content.html
+      link: /contributing/how-to-content.html
     - theme: alt
       text: ⭐ Writing guide
-      link: /writing-guide.html
+      link: /contributing/writing-guide.html
 
 features:
   - icon: 💚

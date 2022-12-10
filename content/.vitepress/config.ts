@@ -1,5 +1,6 @@
 import 'dotenv/config'
 import { defineConfig} from 'vitepress'
+import { getSideBar }  from  'vitepress-plugin-autobar'
 
 export default defineConfig({
   base: '/',
@@ -36,8 +37,8 @@ export default defineConfig({
     nav: [
       { 	text: 'Contributing', 
 		items: [
-			{ text: "Add/edit content", link: '/how-to-content' },
-			{ text: "Writing guide", link: '/writing-guide' },
+			{ text: "Add/edit content", link: '/contributing/how-to-content' },
+			{ text: "Writing guide", link: '/contributing/writing-guide' },
 		],
 	},
 	{
@@ -60,28 +61,9 @@ export default defineConfig({
 		],
 	}
     ],
-    sidebar: [
-      {
-        text: 'Contributing',
-        items: [
-          { text: "Add/edit content", link: '/how-to-content' },
-          { text: "Writing guide", link: '/writing-guide' },
-        ],
-      },
-      {
-        text: 'Aqeedah',
-        items: [
-          { text: 'Belief', link: '/aqeedah/belief' },
-          { text: 'Iman', link: '/aqeedah/iman' }			
-        ],
-      },
-      {
-        text: 'Concepts',
-        items: [
-          { text: 'Mental Models', link: '/concepts/mental-models' },
-          { text: 'Thinking', link: '/concepts/thinking' },
-        ],
-      }
-    ],
+    sidebar:  getSideBar( "./content", {
+      ignoreMDFiles: ['index'],
+      ignoreDirectory: ['node_modules'],
+    }),
   }
 })

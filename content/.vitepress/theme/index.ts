@@ -1,14 +1,10 @@
 import { h, defineAsyncComponent } from 'vue'
 import Theme from 'vitepress/theme'
-import Layout from './components/Layout.vue'
+import Layout from './components/Giscus.vue'
 
 
-import './styles/tailwind.css'
-import './styles/vars.css'
-
-//import '@vueup/vue-quill/dist/vue-quill.core.css' // import styles
-//import '@vueup/vue-quill/dist/vue-quill.bubble.css' // for bubble theme
-//import '@vueup/vue-quill/dist/vue-quill.snow.css' // for snow theme
+//import './styles/tailwind.css'
+//import './styles/vars.css'
 
 export default {
   enhanceApp({ app, router, siteData }) {
@@ -19,9 +15,6 @@ export default {
   Layout() {
     return h(Theme.Layout, null, {
       'home-features-after': () => h(Layout),
-      // 'aside-ads-before': () => h(AsideSponsors)
-    //  'home-features-after': () => h(useGiscus()),
-
     })
   }, 
 }
