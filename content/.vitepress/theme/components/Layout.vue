@@ -1,44 +1,32 @@
-<script setup src="https://giscus.app/client.js"
-        data-repo="IslamicRevival/IslamicRevival.github.io"
-        data-repo-id="R_kgDOIaj3hg"
-        data-category="General"
-        data-category-id="DIC_kwDOIaj3hs4CS5zb"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-import {onMounted, ref } from 'vue'
-const giscusRef = ref()
-const setAttributes = (el, attrs) => {
-    for (const key in attrs) {
-        el.setAttribute(key, attrs[key]);
-    }
-}
-const currentTheme = document.documentElement.classList.value === 'dark' ? 'dark_dimmed' : 'light'
-const renderGiscus = (currentTheme) => {
-    const giscus = document.createElement('script')
-    Utils.setAttributes(giscus, giscusConfig(currentTheme))
-    giscusRef.value.appendChild(giscus)
-}
-onMounted(() => {
-    renderGiscus(currentTheme)
-})
-
-onload(renderGiscus(currentTheme))
-
-</script>
-
 <template>
-    <div ref="giscusRef"></div>
+  <div class="comments-container"
+       v-if="!page.frontmatter.hideComment">
+    <Giscus id="comments"
+            repo="IslamicRevival/IslamicRevival.github.io"
+            repoId="R_kgDOIaj3hg"
+            category="General"
+            categoryId="DIC_kwDOIaj3hs4CS5zb"
+            mapping="title"
+            strict="1"
+            reactionsEnabled="1"
+            emitMetadata="0"
+            inputPosition="top"
+            lang="en"
+            crossorigin="anonymous"
+            :theme="isDark ? 'transparent_dark' : 'light'"
+            :term="page.title"
+            async="true" />
+  </div>
 </template>
 
+<script setup lang="ts" src='https://giscus.app/client.js'>
+import Giscus from '@giscus/vue'
+import { useData } from 'vitepress'
+const { isDark, page } = useData()
+</script>
+
 <style scoped>
-.comments {
-    padding-top: 10px;
+.comments-container {
+  margin-top: 30px;
 }
 </style>
