@@ -1,5 +1,12 @@
 <script setup>
 import {onMounted, ref } from 'vue'
+const giscusRef = ref()
+const setAttributes = (el, attrs) => {
+    for (const key in attrs) {
+        el.setAttribute(key, attrs[key]);
+    }
+}
+const currentTheme = document.documentElement.classList.value === 'dark' ? 'dark_dimmed' : 'light'
 const renderGiscus = (currentTheme) => {
     const giscus = document.createElement('script')
     Utils.setAttributes(giscus, giscusConfig(currentTheme))
@@ -11,7 +18,7 @@ onMounted(() => {
 </script>
 
 <template>
-    <div ref="giscusRef" class="comments"></div>
+    <div ref="giscusRef"></div>
 </template>
 
 <style scoped>
@@ -19,4 +26,3 @@ onMounted(() => {
     padding-top: 10px;
 }
 </style>
-
