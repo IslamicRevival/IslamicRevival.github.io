@@ -19,7 +19,7 @@
   </div>
 </template>
 
-<script setup lang="ts" src='https://giscus.app/client.js'>
+<script setup lang="ts">
 import Giscus from '@giscus/vue'
 import { useData } from 'vitepress'
 const { isDark, page } = useData()
