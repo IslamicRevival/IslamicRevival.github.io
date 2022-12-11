@@ -23,18 +23,18 @@ Amazon Store Link:  https://www.amazon.co.uk/s?i=stripbooks&rh=p_27%3ARenascence
 Ground breaking research on the first Bayah to Abu Bakr RA, completely destroying the Myth of the Shia Narrative wrt Kingdon of Heaven
 It is a very rough format, and a working translation, still to be cleaned up
 
-![Saqeefah](Saqeefah%20-%20English-RoughTranslation-2022.pdf)
+![Saqeefah](Saqeefah - English-RoughTranslation-2022.pdf)
 
 ## Sahaeefah Al Madinah (Madinan Constitution)
 
 Compelling research into the first Islamic Constitution of Madina written at the time of the Prophet (SAW)
 It is a very rough format, and a working translation, still to be cleaned up
 
-![Sahaeefah Al Madinah](Saheefah%20-%20(MadinaConstitution)%20-%20Draft.pdf)
+![Sahaeefah Al Madinah](Saheefah - (MadinaConstitution) - Draft.pdf)
 
 ## Tawheed Hakimiyyah (Rough Translation)
 
-![Tawheed Hakimiyyah (Rough Translation)](Al-Haakimiyah%20Wa%20Siyaadat%20ush-Shar%E2%80%99i%20-%20ROUGH%20TRANSLATION.pdf)
+![Tawheed Hakimiyyah (Rough Translation)](Al-Haakimiyah Wa Siyaadat ush-Shari - ROUGH TRANSLATION.pdf)
 
 
 
