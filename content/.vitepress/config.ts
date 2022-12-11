@@ -1,10 +1,10 @@
 import 'dotenv/config'
 import { defineConfig} from 'vitepress'
 import { getSideBar }  from  'vitepress-plugin-autobar'
-import { SimpleSearch } from "vitepress-plugin-simple-search";
+
+// see vite.config.js for search
 
 export default defineConfig({
-  plugins: [SimpleSearch('/')],
   base: '/',
   lang: 'en-US',
   title: 'Islamic Revival',

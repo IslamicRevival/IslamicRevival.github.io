@@ -4,10 +4,6 @@ import Layout from './components/Giscus.vue'
 import './styles/vars.css'
 
 
-
-//import './styles/tailwind.css'
-//import './styles/vars.css'
-
 export default {
   enhanceApp({ app, router, siteData }) {
     // app is the Vue 3 app instance from `createApp()`. router is VitePress'
