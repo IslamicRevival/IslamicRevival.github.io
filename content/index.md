@@ -20,18 +20,23 @@ hero:
       link: /contributing/writing-guide.html
 
 features:
-  - icon: 💚
-    title: universal
-    details: Share & archive books, articles, documents, pdfs and files on various Islaamic sciences, non-partisan, non-sectarian
-  - icon: 🧙‍♂️
-    title: powerful
-    details:  Latest javascript libraries for performant content, administration and searching
-  - icon: 🛠️
-    title: crowdsourced
-    details:    Contribute Islamic knowledge freely using coding techniques of peer-reviewing and versioning
+  - icon: 🔈
+    title: videos
+    details: Study Circles of Professor Dr. Muhammad AL-Massari
+    link: https://www.youtube.com/channel/UC0uyPbeJ56twBLoHUbwFKnA
+  - icon: 📹
+    title: tafseers
+    details: Tafseer-ul-Quran by Professor Dr. Muhammad AL-Massari
+    link:  https://www.youtube.com/watch?v=xLag2QiTysQ&list=PLmpU7KBqn11qRqZEUDJyzPSLK_0DhE9bl
+  - icon: ✏️
+    title: history
+    details: History of Al-Saud and the Najdi "Wahabi" movement
+    link: https://www.youtube.com/watch?v=6E9dWGt9qIQ&t=734s
+  - icon: 📕
+    title: books
+    details: Free downloads on Tawheed, Saqeefah, Sahaeefah & more!
+    link: /files/pdfs
 ---
-
-
 <script setup>
 import { withBase } from 'vitepress'
 </script>
@@ -49,6 +54,13 @@ import { withBase } from 'vitepress'
   width: 95%;
   align-content: center;
   float: right;
+}
+
+.comments-container {
+    margin: auto;
+  width: 80%;
+  align-content: center;
+  float: center;
 }
 
 </style>

@@ -1,5 +1,5 @@
 <template>
-  <div class="comments-container" style="width:80%; padding-left:300px"
+  <div class="comments-container" 
        v-if="!page.frontmatter.hideComment">
     <Giscus id="comments"
             repo="IslamicRevival/IslamicRevival.github.io"
@@ -10,7 +10,7 @@
             strict="1"
             reactionsEnabled="0"
             emitMetadata="0"
-            inputPosition="top"
+            inputPosition="bottom"
             lang="en"
             crossorigin="anonymous"
             :theme="isDark ? 'transparent_dark' : 'light'"
@@ -27,6 +27,6 @@ const { isDark, page } = useData()
 
 <style scoped>
 .comments-container {
-  margin-top: 30px;
+  margin-top: 10px;
 }
 </style>

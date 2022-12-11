@@ -53,7 +53,7 @@ export default defineConfig({
 {
   text: 'Files',
   items: [
-    { text: 'PDFs', link: '/files/' }
+    { text: 'PDFs', link: '/files/pdfs' }
   ],
  },
 	{
