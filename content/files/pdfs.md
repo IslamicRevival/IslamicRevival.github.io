@@ -43,8 +43,6 @@ It is a very rough format, and a working translation, still to be cleaned up
 
 
 ## Other books
-![Al-HaakimiyahWaSiyaadatush-Shari-ROUGHTRANSLATION.pdf](Al-HaakimiyahWaSiyaadatush-Shari-ROUGHTRANSLATION.pdf)
-![Al-ManahWaTalabAn-Nusrah-FINAL.pdf](Al-ManahWaTalabAn-Nusrah-FINAL.pdf)
 ![An-answer-to-supposed-Contradictions-in-Quran-In-regards-to-Creation-of-the-Universe.pdf](An-answer-to-supposed-Contradictions-in-Quran-In-regards-to-Creation-of-the-Universe.pdf)
 ![arabic-books.pdf](arabic-books.pdf)
 ![Darius-the-Mede.pdf](Darius-the-Mede.pdf)
@@ -53,15 +51,12 @@ It is a very rough format, and a working translation, still to be cleaned up
 ![Kufr-Buwah.pdf](Kufr-Buwah.pdf)
 ![Laws-of-the-previous-Prophets.pdf](Laws-of-the-previous-Prophets.pdf)
 ![‘Liberty’-afforded-by-the-Shari’ah.pdf](‘Liberty’-afforded-by-the-Shari’ah.pdf)
-![pdfs.md](pdfs.md)
 ![Permissibility-or-Impermissibility-of-Foods.pdf](Permissibility-or-Impermissibility-of-Foods.pdf)
 ![PERMISSIBILITY_OR_IMPERMISSIBILITY_OF_FOODS.pdf](PERMISSIBILITY_OR_IMPERMISSIBILITY_OF_FOODS.pdf)
 ![Questions-on-kingship-1.pdf](Questions-on-kingship-1.pdf)
 ![Ruling-by-Kufr-is-Haraam-Dr-Mohammad-Al-Masari.pdf](Ruling-by-Kufr-is-Haraam-Dr-Mohammad-Al-Masari.pdf)
 ![Ruling-on-Basic-Permissibility.pdf](Ruling-on-Basic-Permissibility.pdf)
-![Saheefah-(MadinaConstitution)-Draft.pdf](Saheefah-(MadinaConstitution)-Draft.pdf)
-![Saqeefah-English-RoughTranslation-2022.pdf](Saqeefah-English-RoughTranslation-2022.pdf)
-![Strong-Drinks-Ap3(English)v5-PE.doc](Strong-Drinks-Ap3(English)v5-PE.doc)
+<a href="Strong-Drinks-Ap3(English)v5-PE.doc">Strong-Drinks-Ap3(English)v5-PE.doc)</a>
 ![Tawheed-Arabic-Final-red.pdf](Tawheed-Arabic-Final-red.pdf)
 ![Tawheed-Part-1-ch7-Feb17.pdf](Tawheed-Part-1-ch7-Feb17.pdf)
 ![Tawheed-Sunnah-as-Law.pdf](Tawheed-Sunnah-as-Law.pdf)
