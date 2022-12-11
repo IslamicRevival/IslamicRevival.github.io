@@ -4,8 +4,7 @@ title: How to add or update content
 
 # How to add or update content
 
-The Islamic Revival framework is powered by Vitepress, VueJS and various other opensource packages. It uses Markdown in the `/content/` folder to render every document. If you don't know what Markdown is (or need a
-refresher), take a minute to look over [the basics][1].
+The Islamic Revival framework is powered by Vitepress, VueJS and various other opensource packages. It uses Markdown in the `/content/` folder to render every document. If you don't know what Markdown is (or need a refresher), take a minute to look over [the basics][1].
 
 ## Adding Articles
 
@@ -61,6 +60,16 @@ click the "Preview changes" tab at the top.
 When you're all done, fill out the "Commit changes" form at the bottom with the
 description of your changes and press the "Commit changes" button. This will generate a Pull Request for an admin to review.
 
+## Beautifying Markdown content
+To beautify markdown content, you can use a markdown editor or previewer that supports formatting options such as headings, bold and italic text, lists, links, and images. Some examples of markdown editors and previewers include Typora, Dillinger, and StackEdit.
+
+To use these tools, simply open the editor or previewer and paste your markdown content into the editor window. The editor or previewer will automatically format the content according to the markdown syntax, making it easier to read and understand.
+
+You can also use markdown extensions or plugins for your text editor or word processor to add markdown formatting options directly within the editor. For example, if you use Microsoft Word, you can install the Markdown Monster extension to add markdown formatting options to the editor.
+
+Additionally, there are online markdown tools that allow you to convert markdown content into HTML or PDF format, which can be useful for sharing your content with others or for publishing it on the web. Some examples of online markdown converters include Markdown to HTML and Markdown to PDF.
+
+Overall, using a markdown editor or previewer, along with extensions and online tools, can help make your markdown content more readable and visually appealing.
 
 ## Files, Images, and Links
 
@@ -71,10 +80,6 @@ Anything in that folder will be available at the base URL.
 When linking to files, please use the absolute path, i.e.
 `/images/islam.png`.
 
-
-<kbd>
-  <font-awesome-icon :icon="['fab', 'pop-os']"></font-awesome-icon>
-</kbd>
 
 ## Local Development
 

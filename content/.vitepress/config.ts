@@ -37,31 +37,38 @@ export default defineConfig({
     },
 
     nav: [
-      { 	text: 'Contributing', 
-		items: [
-			{ text: "Add/edit content", link: '/contributing/how-to-content' },
-			{ text: "Writing guide", link: '/contributing/writing-guide' },
-		],
-	},
 	{
 		text: 'Aqeedah',
 		items: [
-			{ text: 'Belief', link: '/aqeedah/belief' },
+			{ text: 'Misunderstanding Ibada', link: '/aqeedah/misunderstanding_ibada' },
 			{ text: 'Iman', link: '/aqeedah/iman' },
 		],
 	},
+  { 	text: 'Contributing', 
+  items: [
+    { text: "Add/edit content", link: '/contributing/how-to-content' },
+    { text: "Writing guide", link: '/contributing/writing-guide' },
+  ],
+},
+{
+  text: 'Files',
+  items: [
+    { text: 'PDFs', link: '/files/' }
+  ],
+ },
 	{
-		text: 'Concepts',
+		text: 'Fiqh & Sunnah',
 		items: [
-			{ text: 'Actions', link: '/concepts/actions' }
+			{ text: 'seerah', link: '/fiqhsunnah/seerah' }
 		],
 	},
-	{
-		text: 'Files',
+  {
+		text: 'History',
 		items: [
-			{ text: 'PDFs', link: '/pdfs/' }
+			{ text: 'Actions', link: '/history/events' }
 		],
-	}
+	},
+
     ],
     sidebar:  getSideBar( "./content", {
       ignoreMDFiles: ['index'],
