@@ -1,5 +1,5 @@
 ---
-outline: deep
+title: How to add or update content
 ---
 
 # How to add or update content

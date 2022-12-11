@@ -1,6 +1,8 @@
 import { h, defineAsyncComponent } from 'vue'
 import Theme from 'vitepress/theme'
 import Layout from './components/Giscus.vue'
+import './styles/vars.css'
+
 
 
 //import './styles/tailwind.css'

@@ -1,5 +1,5 @@
 ---
-layout: home
+title: home
 ---
 
 Coming soon.

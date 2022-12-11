@@ -1,8 +1,10 @@
 import 'dotenv/config'
 import { defineConfig} from 'vitepress'
 import { getSideBar }  from  'vitepress-plugin-autobar'
+import { SimpleSearch } from "vitepress-plugin-simple-search";
 
 export default defineConfig({
+  plugins: [SimpleSearch('/')],
   base: '/',
   lang: 'en-US',
   title: 'Islamic Revival',
@@ -17,7 +19,20 @@ export default defineConfig({
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
     ['meta', { name: 'HandheldFriendly', content: 'True' }],
     ['meta', { name: 'MobileOptimized', content: '320' }],
-    ['meta', { name: 'theme-color', content: '#d8b4fe' }]
+    ['meta', { name: 'theme-color', content: '#d8b4fe' }],
+    ['script', { type: 'application/javascript' }, `
+    setTimeout(function() {
+        const searchBox = document.querySelector('.search-text');
+        if (searchBox) {
+            searchBox.textContent = 'Search (⌘K)';
+            document.addEventListener('keydown', (e) => {
+                if (e.metaKey && e.keyCode === 75) {
+                    searchBox.click();
+                }
+            });
+        }
+    }, 200);
+    `],
   ],
   themeConfig: {
     logo: '/logo.svg',
