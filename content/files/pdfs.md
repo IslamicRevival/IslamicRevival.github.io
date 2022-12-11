@@ -10,6 +10,8 @@ Note: some of the above are only in draft form. All we ask is contributions back
 
 - Links to Arabic Material/Social Media https://linktr.ee/Tajdeed
 
+Right click any of the images and choose "save image as" to download as a pdf.
+
 ## Kitab ut Tawheed Volume 01
 ![Kitab ut Tawheed Volume 01](Kitab_utTawheed-Vol-(01)-English-Final_Proof.pdf)
 
