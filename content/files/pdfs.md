@@ -40,7 +40,7 @@ It is a very rough format, and a working translation, still to be cleaned up
 
 ## Arabic books
 الحاكمية وسيادة الشرع
-![Arabic books](الحاكمية%20وسيادة%20الشرع.pdf)
+![Arabic books](arabic-books.pdf)
 
 
 
