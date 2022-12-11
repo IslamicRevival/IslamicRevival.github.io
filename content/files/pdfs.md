@@ -57,7 +57,6 @@ It is a very rough format, and a working translation, still to be cleaned up
 ![Permissibility-or-Impermissibility-of-Foods.pdf](Permissibility-or-Impermissibility-of-Foods.pdf)
 ![PERMISSIBILITY_OR_IMPERMISSIBILITY_OF_FOODS.pdf](PERMISSIBILITY_OR_IMPERMISSIBILITY_OF_FOODS.pdf)
 ![Questions-on-kingship-1.pdf](Questions-on-kingship-1.pdf)
-![Quran-Recording-essentials.docx](Quran-Recording-essentials.docx)
 ![Ruling-by-Kufr-is-Haraam-Dr-Mohammad-Al-Masari.pdf](Ruling-by-Kufr-is-Haraam-Dr-Mohammad-Al-Masari.pdf)
 ![Ruling-on-Basic-Permissibility.pdf](Ruling-on-Basic-Permissibility.pdf)
 ![Saheefah-(MadinaConstitution)-Draft.pdf](Saheefah-(MadinaConstitution)-Draft.pdf)
