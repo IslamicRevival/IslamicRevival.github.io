@@ -12,8 +12,7 @@ Note: some of the books are only in draft form. All we ask is contributions back
 **Click on an image to download the file as a pdf**
 
 ## Kitab ut Tawheed Volume 01
-<a href="Kitab_utTawheed-Vol-(01)-English-Final_Proof.pdf" download>Kitab ut Tawheed Volume 01
-  <img src="Kitab_utTawheed-Vol-(01)-English-Final_Proof.pdf" alt="download by clicking this image">
+<a href="Kitab_utTawheed-Vol-(01)-English-Final_Proof.pdf" download>Kitab ut Tawheed Volume 01<img src="Kitab_utTawheed-Vol-(01)-English-Final_Proof.pdf" alt="download by clicking this image">
 </a>
 
 Amazon Store Link:  https://www.amazon.co.uk/s?i=stripbooks&rh=p_27%3ARenascence+Foundation&s=relevancerank&text=Renascence+Foundation&ref=dp_byline_sr_book_2
