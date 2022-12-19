@@ -18,7 +18,7 @@ Note: some of the books are only in draft form. All we ask is contributions back
 Amazon Store Link:  https://www.amazon.co.uk/s?i=stripbooks&rh=p_27%3ARenascence+Foundation&s=relevancerank&text=Renascence+Foundation&ref=dp_byline_sr_book_2
 
 ## Al-Man'ah Wa Talab An-Nusrah
-<a href="/files/Al-ManahWaTalabAn-Nusrah-FINAL.pdf" download>Al-Manah Wa Talab An-Nusrah<img src="/files/Al-ManahWaTalabAn-Nusrah-FINAL.pdf" alt="download by clicking this image">
+<a href="/Al-ManahWaTalabAn-Nusrah-FINAL.pdf" download>Al-Manah Wa Talab An-Nusrah<img src="/Al-ManahWaTalabAn-Nusrah-FINAL.pdf" alt="download by clicking this image">
 </a>
 
 ## Saqeefah
