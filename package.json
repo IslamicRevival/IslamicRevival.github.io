@@ -24,7 +24,9 @@
   },
   "dependencies": {
     "@giscus/vue": "^2.2.4",
+    "@types/file-saver": "^2.0.5",
     "@vueup/vue-quill": "^1.0.0-beta.9",
+    "file-saver": "^2.0.5",
     "flexsearch": "^0.7.31",
     "markdown-it": "^13.0.1",
     "tslib": "^2.4.1",

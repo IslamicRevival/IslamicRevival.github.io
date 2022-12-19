@@ -57,7 +57,7 @@ import { withBase } from 'vitepress'
 }
 
 .comments-container {
-    margin: auto;
+  margin: auto;
   width: 80%;
   align-content: center;
   float: center;
