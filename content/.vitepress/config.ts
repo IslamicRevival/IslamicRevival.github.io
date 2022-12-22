@@ -1,6 +1,6 @@
 import 'dotenv/config'
 import { defineConfig} from 'vitepress'
-import { getSideBar }  from  'vitepress-plugin-autobar'
+import { getSideBar }  from  './theme/vitepress-plugin-autobar/'
 
 // see vite.config.js for search
 
