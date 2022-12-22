@@ -38,10 +38,9 @@ export default defineConfig({
 
     nav: [
 	{
-		text: 'Aqeedah',
+		text: 'Answers',
 		items: [
 			{ text: 'Misunderstanding Ibada', link: '/aqeedah/misunderstanding_ibada' },
-			{ text: 'Iman', link: '/aqeedah/iman' },
 		],
 	},
   { 	text: 'Contributing', 
@@ -56,16 +55,10 @@ export default defineConfig({
     { text: 'PDFs', link: '/files/pdfs' }
   ],
  },
-	{
-		text: 'Fiqh & Sunnah',
-		items: [
-			{ text: 'seerah', link: '/fiqhsunnah/seerah' }
-		],
-	},
   {
-		text: 'History',
+		text: 'Transcripts',
 		items: [
-			{ text: 'Actions', link: '/history/events' }
+			{ text: 'Video transcripts', link: '/transcripts/02_-_Establishing_an_Islamic_State__Is_it_an_Obligation_(Fardh)' }
 		],
 	},
 

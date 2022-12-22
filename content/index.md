@@ -16,18 +16,21 @@ hero:
       text: Add/edit content
       link: /contributing/how-to-content.html
     - theme: alt
-      text: ⭐ Writing guide
+      text: Writing guide
       link: /contributing/writing-guide.html
+    - theme: brand
+      text: ⭐ Searchable lecure transcripts
+      link: /transcripts/02_-_Establishing_an_Islamic_State__Is_it_an_Obligation_(Fardh)
 
 features:
   - icon: 🔈
-    title: videos
-    details: Study Circles of Professor Dr. Muhammad AL-Massari
-    link: https://www.youtube.com/channel/UC0uyPbeJ56twBLoHUbwFKnA
+    title: transcripts
+    details: Transcripts of lectures by Professor Dr. Muhammad AL-Massari
+    link: /transcripts/02_-_Establishing_an_Islamic_State__Is_it_an_Obligation_(Fardh)
   - icon: 📹
-    title: tafseers
-    details: Tafseer-ul-Quran by Professor Dr. Muhammad AL-Massari
-    link:  https://www.youtube.com/watch?v=xLag2QiTysQ&list=PLmpU7KBqn11qRqZEUDJyzPSLK_0DhE9bl
+    title: videos
+    details: Study circles & tafseer by Professor Dr. Muhammad AL-Massari
+    link:  https://www.youtube.com/@user-rd1df7ug9q/videos
   - icon: ✏️
     title: history
     details: History of Al-Saud and the Najdi "Wahabi" movement
