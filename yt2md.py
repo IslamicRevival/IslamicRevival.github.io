@@ -19,7 +19,7 @@ from youtube_transcript_api import YouTubeTranscriptApi
 ## sample run: ./yt2md.py -u https://www.youtube.com/watch?v=39Vep9aTNa4
 
 API_KEY = "AIzaSyBdbQ-WPIkQkEad2EtRPfbRMiMURPxyqm8"  # Google Data (YouTube v3 key)
-CHANNEL_ID = ['UC0uyPbeJ56twBLoHUbwFKnA']
+CHANNEL_ID = ['UC0uyPbeJ56twBLoHUbwFKnA', "UC57cqHgR_IZEs3gx0nxyZ-g"]
 
 log = logging.getLogger(__file__)
 
@@ -143,57 +143,58 @@ def get_transcript_by_vid_id(video_id: str, path: str, channel_id: str):
     return None
 
 #def main(channel_id="UC0uyPbeJ56twBLoHUbwFKnA"):
-def main(channel_id="UC57cqHgR_IZEs3gx0nxyZ-g"):
+def main(channel_ids=CHANNEL_ID):
 
-    api = Api(api_key="AIzaSyABaeCa_GEW4ePYNfYwP9qtsHAMN8s8kxs")
-    path="content/transcripts/"
-    print ("\tFetch all the playlists")
-    playlists_by_channel = api.get_playlists(channel_id=channel_id,count=None)
-    print("\tFetch all the videos of the playlist")
-    playlists_videos = []
-    for playlist in playlists_by_channel.items:
-        print("\t\tFetching videos IDs of playlist %s" %(playlist.id))
-        playlists_videos.append(api.get_playlist_items(playlist_id=playlist.id,count=None))
+    for channel_id in channel_ids:
+        api = Api(api_key="AIzaSyABaeCa_GEW4ePYNfYwP9qtsHAMN8s8kxs")
+        path="content/transcripts/"
+        print ("\tFetch all the playlists")
+        playlists_by_channel = api.get_playlists(channel_id=channel_id,count=None)
+        print("\tFetch all the videos of the playlist")
+        playlists_videos = []
+        for playlist in playlists_by_channel.items:
+            print("\t\tFetching videos IDs of playlist %s" %(playlist.id))
+            playlists_videos.append(api.get_playlist_items(playlist_id=playlist.id,count=None))
 
-    videos_ids = []
-    for playlist in playlists_videos:
-        for video in playlist.items:
-            videos_ids.append(video.snippet.resourceId.videoId) 
-    print("We gathered now %s videos, saving save to file" %(len(videos_ids)))
-    with open("yt2md-channel_id_file",'w') as f:
-        json.dump(videos_ids,f)
+        videos_ids = []
+        for playlist in playlists_videos:
+            for video in playlist.items:
+                videos_ids.append(video.snippet.resourceId.videoId) 
+        print("We gathered now %s videos, saving save to file" %(len(videos_ids)))
+        with open("yt2md-channel_id_file",'w') as f:
+            json.dump(videos_ids,f)
+            
+        print("Save %s channel videos transcripts" % (channel_id) )
         
-    print("Save %s channel videos transcripts" % (channel_id) )
-    
-    for video_id in videos_ids:
-        print ("The video ID is %s" % (video_id))
-        try:
-            video_metadata = api.get_video_by_id(video_id=video_id).items[0]
-            title = video_metadata.snippet.title
-            preview_path = get_preview_image(img_url=video_metadata.snippet.thumbnails.default.url, video_id=video_id, path=path)
+        for video_id in videos_ids:
+            print ("The video ID is %s" % (video_id))
+            try:
+                video_metadata = api.get_video_by_id(video_id=video_id).items[0]
+                title = video_metadata.snippet.title
+                preview_path = get_preview_image(img_url=video_metadata.snippet.thumbnails.default.url, video_id=video_id, path=path)
 
-            # check if video was already downloaded
-            if os.path.exists(preview_path):
-                    print("video was already downloaded because thumbnail already exists, skipping")
-                # return
+                # check if video was already downloaded
+                if os.path.exists(preview_path):
+                        print("video was already downloaded because thumbnail already exists, skipping")
+                    # return
 
-            description = video_metadata.snippet.description
-            date = datetime.datetime.strptime(video_metadata.snippet.publishedAt, "%Y-%m-%dT%H:%M:%S%z")
-            captions = YouTubeTranscriptApi.get_transcript(video_id)
+                description = video_metadata.snippet.description
+                date = datetime.datetime.strptime(video_metadata.snippet.publishedAt, "%Y-%m-%dT%H:%M:%S%z")
+                captions = YouTubeTranscriptApi.get_transcript(video_id)
 
-            md_file_name = os.path.join(path, string_to_filename(title)) + '.md'
-            with open(md_file_name, 'w') as handle:
-                    handle.write(
-                gen_markdown_page(video_id=video_id,
-                                title=title,
-                                path=preview_path,
-                                description=description,
-                                date=date,
-                                captions=captions))
-        except Exception as e:
-            print(e)
+                md_file_name = os.path.join(path, string_to_filename(title)) + '.md'
+                with open(md_file_name, 'w') as handle:
+                        handle.write(
+                    gen_markdown_page(video_id=video_id,
+                                    title=title,
+                                    path=preview_path,
+                                    description=description,
+                                    date=date,
+                                    captions=captions))
+            except Exception as e:
+                print(e)
 
-    print("Finish main")
+        print(f"Finished {channel_id}")
     
 
 if __name__ == '__main__':
