@@ -3,9 +3,10 @@
 import datetime
 import logging
 import os
-import json
 
 import requests
+from markdownify import markdownify as md
+import re
 
 from py_youtube import Data ## doesn't need API key
 
@@ -16,7 +17,10 @@ from youtube_transcript_api import YouTubeTranscriptApi
 
 ## sample run: ./yt2md.py -u https://www.youtube.com/watch?v=39Vep9aTNa4
 
-API_KEY = "AIzaSyBdbQ-WPIkQkEad2EtRPfbRMiMURPxyqm8"  # Google Data (YouTube v3 key)
+#API_KEY = "AIzaSyBdbQ-WPIkQkEad2EtRPfbRMiMURPxyqm8"  # Google Data (YouTube v3 key)
+#API_KEY = "AIzaSyABaeCa_GEW4ePYNfYwP9qtsHAMN8s8kxs"
+#API_KEY = "AIzaSyBXmobEX1fX31VQk55p6YxJ5qQ5Q7fHYDc"
+#API_KEY = "AIzaSyCPv-GvwuO6k-VlPuX_Ki8ZmGlDdaN-DlM"
 CHANNEL_ID = ['UC0uyPbeJ56twBLoHUbwFKnA', "UC57cqHgR_IZEs3gx0nxyZ-g"]
 
 log = logging.getLogger(__file__)
@@ -68,7 +72,7 @@ def get_preview_image(img_file_name:str, img_url: str, video_id: str, path: str)
         return img_file_name
 
 
-def gen_markdown_page(video_id: str, title: str, description: str, path: str, date: datetime, captions: list):
+def gen_markdown_page(video_id: str, title: str, description: str, smarkdown: str, path: str, date: datetime, captions: list):
     markdown = ""
 
     markdown += "# {title} ({date})\n\n".format(title=title, date=date)
@@ -76,7 +80,9 @@ def gen_markdown_page(video_id: str, title: str, description: str, path: str, da
     markdown += "## Description\n\n"
     markdown += description.strip()
     markdown += "\n\n"
-    markdown += "## Transcript\n\n"
+    markdown += smarkdown.strip()
+    markdown += "\n\n"
+    markdown += "## Full transcript with timestamps\n\n"
     for c in captions:
         markdown += "[{time}](https://youtu.be/{id}?t={seconds}) {text}  \n".format(time=str(
             datetime.timedelta(seconds=int(c['start']))),
@@ -98,57 +104,12 @@ def string_to_filename(filename, raw=False):
         filename = filename.encode('ascii', errors='ignore').decode() # remove non-english
     return filename
 
-
-def get_transcript_by_vid_id(video_id: str, path: str, channel_id: str):
-    api = Api(api_key="AIzaSyABaeCa_GEW4ePYNfYwP9qtsHAMN8s8kxs")
-    video_metadata = api.get_video_by_id(video_id=video_id).items[0]
-    title = video_metadata.snippet.title
-    preview_path = get_preview_image(img_url=video_metadata.snippet.thumbnails.default.url, video_id=video_id, path=path)
-
-    # check if video was already downloaded
-    if os.path.exists(preview_path):
-            print("video was already downloaded because thumbnail already exists, skipping")
-           # return
-
-    description = video_metadata.snippet.description
-    date = datetime.datetime.strptime(video_metadata.snippet.publishedAt, "%Y-%m-%dT%H:%M:%S%z")
-    captions = YouTubeTranscriptApi.get_transcript(video_id)
-
-    md_file_name = os.path.join(path, string_to_filename(title)) + '.md'
-    with open(md_file_name, 'w') as handle:
-            handle.write(
-        gen_markdown_page(video_id=video_id,
-                          title=title,
-                          path=preview_path,
-                          description=description,
-                          date=date,
-                          captions=captions))
-    return None
-
-#def main(channel_id="UC0uyPbeJ56twBLoHUbwFKnA"):
 def main(channel_ids=CHANNEL_ID):
 
     for channel_id in channel_ids:
-        #api = Api(api_key="AIzaSyABaeCa_GEW4ePYNfYwP9qtsHAMN8s8kxs")
-        api = Api(api_key="AIzaSyBdbQ-WPIkQkEad2EtRPfbRMiMURPxyqm8")  # Google Data (YouTube v3 key)
+        api = Api(api_key=API_KEY)
 
         path="content/transcripts/"
-        # print ("\n\n\tFetch all the playlists")
-        # playlists_by_channel = api.get_playlists(channel_id=channel_id,count=None)
-        # print("\tFetch all the videos of the playlist")
-        # playlists_videos = []
-        # for playlist in playlists_by_channel.items:
-        #     print("\t\tFetching videos IDs of playlist %s" %(playlist.id))
-        #     playlists_videos.append(api.get_playlist_items(playlist_id=playlist.id,count=None))
-
-        
-        # for playlist in playlists_videos:
-        #     for video in playlist.items:
-        #         videos_ids.append(video.snippet.resourceId.videoId) 
-        # vid_count = len(videos_ids)
-        # print(f"Gathered {vid_count} videos for {channel_id} saving to json file" )
-        # with open("yt2md-channel_id_file",'w') as f:
-        #     json.dump(videos_ids,f)
         videos_ids = []
         limit = 100
         count = 25
@@ -172,6 +133,7 @@ def main(channel_ids=CHANNEL_ID):
             print('Error getting vids for channel:', e)
         vid_count = len(videos_ids)
         print(f"Gathered {vid_count} videos for {channel_id} now pulling metadata for each video" )
+        videos_ids= ['aKjLxPGk5C4']
 
         for video_id in videos_ids:
             try:
@@ -183,13 +145,73 @@ def main(channel_ids=CHANNEL_ID):
                     print(f"{video_id} already downloaded, skipping. ", end="")
                     continue
                 preview_path = get_preview_image(img_file_name=img_file_name, img_url=video_metadata.snippet.thumbnails.default.url, video_id=video_id, path=path)
-
                 title = video_metadata.snippet.title
                 print(f"\n\nVideo ID is {video_id} with title {title}")
-
                 description = video_metadata.snippet.description
                 date = datetime.datetime.strptime(video_metadata.snippet.publishedAt, "%Y-%m-%dT%H:%M:%S%z")
                 captions = YouTubeTranscriptApi.get_transcript(video_id)
+
+                ## Get AI summary
+                ## from requests_html import HTMLSession
+                url = f"https://www.summarize.tech/www.youtube.com/watch?v={video_id}"
+
+                ## sudo apt  install chromium-chromedriver --fix-missing
+                ## wget https://chromedriver.storage.googleapis.com/108.0.5359.71/chromedriver_linux64.zip
+                from selenium import webdriver
+                from selenium.webdriver.chrome.options import Options
+                from selenium.webdriver.support.ui import WebDriverWait
+                from selenium.webdriver.common.by import By
+                from selenium.webdriver.support import expected_conditions as EC
+
+                ## configure webdriver
+                options = Options()
+                options.headless = True  # hide GUI
+                options.add_argument('--headless')
+                options.add_argument('--disable-infobars')
+                options.add_argument('--no-sandbox')
+                #options.add_argument('--remote-debugging-port=9222')
+                options.add_argument("--window-size=1920,1080")  # set window size to native GUI size
+                options.add_argument("--start-maximized")  # ensure window is full-screen
+                options.add_argument("--disable-extensions")
+                options.add_argument("--disable-gpu")
+                options.add_argument("--no-sandbox")
+               #options.add_argument("--disable-dev-shm-usage")
+                options.binary_location = "/usr/bin/google-chrome-stable"    #chrome binary location specified here
+
+                ## configure chrome browser to not load images and javascript
+                chrome_options = webdriver.ChromeOptions()
+                chrome_options.add_argument('--headless')
+                chrome_options.add_experimental_option("prefs", {"profile.managed_default_content_settings.images": 2}) 
+                chrome_options.add_argument("--disable-setuid-sandbox") 
+                #chrome_options.add_argument("--remote-debugging-port=9222")  # this
+                chrome_options.add_argument("--disable-extensions") 
+                chrome_options.add_argument("--disable-gpu") 
+                chrome_options.add_argument("--start-maximized") 
+                chrome_options.add_argument('--no-sandbox')
+                #chrome_options.add_argument('--disable-dev-shm-usage')
+                chrome_options.add_experimental_option(
+                    # this will disable image loading
+                    "prefs", {"profile.managed_default_content_settings.images": 2}
+                )
+
+                driver = webdriver.Chrome('./chromedriver', options=options, chrome_options=chrome_options)
+                driver.get(url)
+                wait = WebDriverWait(driver, 70)
+                wait.until(EC.presence_of_element_located((By.TAG_NAME,"h1")))
+
+                mdresponse = driver.page_source
+
+                smarkdown = md(mdresponse, strip=['title', 'head', 'gtag', 'props', 'could not summarize', '<could not summarize>'])
+                smarkdown = re.sub(r'\{\"props.*\"', '', smarkdown)
+                smarkdown = re.sub(r'See more\* ','', smarkdown)
+                smarkdown = re.sub(r'summary for:.*summarize.tech.*Summary','## Summary', smarkdown)
+                smarkdown = re.sub(r'summarize.tech ','', smarkdown)
+                smarkdown = re.sub(r'<could not summarize>','', smarkdown)
+                smarkdown = re.sub(r'Summarize another video','', smarkdown)
+                smarkdown = re.sub(r'.*gtag.*','', smarkdown)
+                smarkdown = re.sub(r'.*dataLayer.*','', smarkdown)
+                smarkdown = re.sub(r'.==.*','', smarkdown)
+                print(smarkdown)
 
                 md_file_name = os.path.join(path, string_to_filename(title)) + '.md'
                 with open(md_file_name, 'w') as handle:
@@ -197,12 +219,12 @@ def main(channel_ids=CHANNEL_ID):
                     gen_markdown_page(video_id=video_id,
                                     title=title,
                                     path=preview_path,
+                                    smarkdown=smarkdown,
                                     description=description,
                                     date=date,
                                     captions=captions))
             except Exception as e:
                 print(e)
-
         print(f"Finished processing videos and md for {channel_id}")
     
 

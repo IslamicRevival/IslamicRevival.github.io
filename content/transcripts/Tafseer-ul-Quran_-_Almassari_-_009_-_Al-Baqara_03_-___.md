@@ -12,7 +12,36 @@ Laa Rayb
 Muttaqeen
 Meaning of Iman, relation to Ghayb
 
-## Transcript
+## Summary of [Tafseer-ul-Quran - Almassari - 009 - Al-Baqara 03 - تفسير سورة البقرة](https://www.youtube.com/watch?v=QKcXkc_hRSA)
+
+
+*This is an AI generated summary. There may be inaccuracies. [](/)*
+
+### [00:00:00](https://www.youtube.com/watch?v=QKcXkc_hRSA&t=0) - [01:00:00](https://www.youtube.com/watch?v=QKcXkc_hRSA&t=3600)
+
+In the video, Tafseer-ul-Quran Almassari discusses the different accusations and doubts Muslims may have about each other, and how these doubts should not exist based on the Quran's clear teachings. He also mentions how, due to the Brexit vote, the word "evil" had been removed from a particular location in the Quran.
+
+**[00:00:00](https://www.youtube.com/watch?v=QKcXkc_hRSA&t=0)** This video discussed the different accusations and doubts Muslims may have about each other, and how these doubts should not exist based on the Quran's clear teachings. It also mentioned how, due to the Brexit vote, the word "evil" had been removed from a particular location in the Quran.
+* **[00:05:00](https://www.youtube.com/watch?v=QKcXkc_hRSA&t=300)** In this video, a Sufi scholar discusses the different perspectives on the will to know and reveal before you in relation to the Quran. Some scholars believe that the will to know and reveal before you is only for believers who have received the previous revelation, while others believe that it applies to all believers.
+* **[00:10:00](https://www.youtube.com/watch?v=QKcXkc_hRSA&t=600)** Tafseer-ul-Quran Almassari discusses the difference between believing in a general principle and believing in specific aspects of a religion. He argues that the ideology approach is better because it addresses the concepts of belief and interpretation more comprehensively.
+* **[00:15:00](https://www.youtube.com/watch?v=QKcXkc_hRSA&t=900)** The speaker reviews the definition of faith, noting that originally it referred to a strong belief in something, but over time it has become associated with the Christian faith. He says that while the Quran does not provide an explanation for the word muta, it is connected to the concept of being god aware and good aware by being rational. He concludes that these attributes are necessary for someone to be a true Muslim.
+* **[00:20:00](https://www.youtube.com/watch?v=QKcXkc_hRSA&t=1200)** The video discusses the meaning of the word "iman," which is translated as "security." The video explains that this word originally referred to the security that comes from having a strong government and from having a safe environment. However, over time this meaning has been corrupted, and today it is often used to refer to things like faith and belief in God. Islam does not approve of this use of the word, and considers faith to be a matter of trust, not evidence.
+* **[00:25:00](https://www.youtube.com/watch?v=QKcXkc_hRSA&t=1500)** The video discusses the idea of belief, specifically how it relates to the Arabic word 'aman. 'Aman refers to security or safety, and in this case, refers to the certainty that a person will be safe from rejection and disagreement. Linguistically, relying on aman is also a form of admitting defeat.
+* **[00:30:00](https://www.youtube.com/watch?v=QKcXkc_hRSA&t=1800)** The speaker discusses how belief in Allah is more than just belief, citing examples of where trust is already included in the Quran. The speaker also discusses how certain beliefs, such as the resurrection of the dead, must be mentally drained for someone not to believe in them.
+* **[00:35:00](https://www.youtube.com/watch?v=QKcXkc_hRSA&t=2100)** The speaker discusses how belief in something does not need to be based on evidence, as long as it is based on one's mental judgment. He goes on to explain that iman refers to having trust in something, which is necessary for a believer to be successful.
+* **[00:40:00](https://www.youtube.com/watch?v=QKcXkc_hRSA&t=2400)** The speaker discusses various Islamic theories about the meaning of the nation, which can be complex and deep. One of the main points made is that a person's belief should be based on evidence and corresponding to external reality. However, this is not always the case, and even the iman of a mukhalid is valid.
+* **[00:45:00](https://www.youtube.com/watch?v=QKcXkc_hRSA&t=2700)** In this video, Almassari discusses the difference between need for iman and need for miracles, and how some people (like the man who came for hajj) only need the Quran's words. He also points out that some people (like the prophet Muhammad) need both words and miracles.
+* **[00:50:00](https://www.youtube.com/watch?v=QKcXkc_hRSA&t=3000)** This video discusses Islamic theology, specifically the different schools of thought on iman (faith) and israel (belief in one God). It explains that some people have an agenda, because they accept certain individuals to judge in matters of faith, such as the Dean of Allāh. It also discusses how some people believe that the party of Maurya (the founder of the Mauryan dynasty) is a kāfir (disbeliever).
+* **[00:55:00](https://www.youtube.com/watch?v=QKcXkc_hRSA&t=3300)** In this video, Almassari explains the difference between epileptic seizures and muhammad's reported revelations. He notes that epileptic seizures can have a variety of different appearances, but the one described in this particular instance is unique and specific to muhammad. He also points out that even if epileptic seizures did occur during muhammad's revelations, it would not explain why he did not follow the western so-called scholar's practice of claiming his revelations were due to epilepsy.
+### [01:00:00](https://www.youtube.com/watch?v=QKcXkc_hRSA&t=3600) - [01:10:00](https://www.youtube.com/watch?v=QKcXkc_hRSA&t=4200)
+
+This YouTube video discusses the different schools of thought on the nature of iman, and how some of these views can lead to disagreements. The speaker also points out that iman is a complex issue, and that it is important to have a rational, comprehensive view on it in order to avoid infighting and partisanship.
+
+**[01:00:00](https://www.youtube.com/watch?v=QKcXkc_hRSA&t=3600)** The speaker in this YouTube video discusses the different schools of thought on the nature of iman, and how some of these views can lead to disagreements. He also points out that iman is a complex issue, and that it is important to have a rational, comprehensive view on it in order to avoid infighting and partisanship.
+* **[01:05:00](https://www.youtube.com/watch?v=QKcXkc_hRSA&t=3900)** The speaker discusses how some people interpret Quran verses in a shallow way, based on their understanding of the 29 letters. This shallow understanding can lead to mistakes, as in the case of someone who believed that paradise is a place of dust and burns.
+* **[01:10:00](https://www.youtube.com/watch?v=QKcXkc_hRSA&t=4200)** The speaker discusses how some Muslims have lost trust in the Qur'an due to their lack of understanding of it. He says that the Qur'an is much deeper than what most people think and that it can help clarify some of the doubts that people have.
+
+## Full transcript with timestamps
 
 [0:00:00](https://youtu.be/QKcXkc_hRSA?t=0) [Music]  
 [0:00:22](https://youtu.be/QKcXkc_hRSA?t=22) let's continue  

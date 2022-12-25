@@ -12,7 +12,23 @@ We want to recommend Kitab ut-Tawheed: The Basis of Islam and the Reality of Mon
 - https://www.amazon.com/dp/1986123596/ref=cm_sw_em_r_mt_dp_U_o8NaFbZBDXA4Q
 - https://www.amazon.co.uk/dp/1986123596/ref=cm_sw_em_r_mt_dp_U_v9NaFbYHGSK3H
 
-## Transcript
+## Summary of [Ibn Taymiyya's gruesome misstep led to his inverted definition of the concept of worship](https://www.youtube.com/watch?v=itqbL8KzOcs)
+
+
+*This is an AI generated summary. There may be inaccuracies. [](/)*
+
+### [00:00:00](https://www.youtube.com/watch?v=itqbL8KzOcs&t=0) - [00:25:00](https://www.youtube.com/watch?v=itqbL8KzOcs&t=1500)
+
+Ibn Taymiyya's mistake in defining worship led him to develop an extreme and inverted view of the concept. This ultimately caused him to cooperate with the British against other Muslims and attribute sovereignty to religious figures.
+
+**[00:00:00](https://www.youtube.com/watch?v=itqbL8KzOcs&t=0)** Ibn Taymiyya's horrific misstep led to his inverted definition of the concept of worship, in which actions are considered primary and the divine being is superseded. However, even this mistake is not the worst of Ibn Taymiyya's. He also read the Quran upside down, insisting that it should be interpreted based on his definition of Taheed (the oneness of God). This caused many people to challenge his views, most prominently Muhammad al-Osama Hadid.
+* **[00:05:00](https://www.youtube.com/watch?v=itqbL8KzOcs&t=300)** Ibn Taymiyya argued that the concept of worship is circular and that it is impossible to define a divine being outside of itself. He also argued that worshipping any other entity besides Allah is invalid and has no value.
+* **[00:10:00](https://www.youtube.com/watch?v=itqbL8KzOcs&t=600)** 
+* **[00:15:00](https://www.youtube.com/watch?v=itqbL8KzOcs&t=900)** Ibn Taymiyya's gruesome misstep led to his inverted definition of the concept of worship, in which the creator of your reason can be wrong. If reason dictates that allah can be questioned, then questioning him undermines reason itself. This problem is compounded when one deduces things related to the fundamental vision of the universe, such as the necessarily existing free agent ultimate being, and attributes them to allah. This can lead to the conclusion that allah is not perfect, and ultimately undermines one's faith in him.
+* **[00:20:00](https://www.youtube.com/watch?v=itqbL8KzOcs&t=1200)** Ibn Taymiyya's gruesome misstep led to his inverted definition of the concept of worship, which breaks with the traditional Islamic understanding of worship. This ultimately prevented him from fully understanding the concept and making sound decisions in his experiments. It is important to take care when designing experiments involving humans, as even with proper safeguards, human desires and motivations can still interfere.
+* **[00:25:00](https://www.youtube.com/watch?v=itqbL8KzOcs&t=1500)** Ibn Taymiyya made a mistake in his definition of worship, which led to him developing an inverted view of the concept. This mistake caused him to go to extremes in his fight against Muslims, cooperate with the British against other Muslims, and attribute sovereignty to religious figures.
+
+## Full transcript with timestamps
 
 [0:00:00](https://youtu.be/itqbL8KzOcs?t=0) [Music]  
 [0:00:28](https://youtu.be/itqbL8KzOcs?t=28) so we have just one question  

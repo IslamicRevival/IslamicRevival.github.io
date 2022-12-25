@@ -9,7 +9,26 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 تنقيط وتشكيل القرآن: وحي إلهي أم اختراع بشري
 Quranic Diacritical marks divine revelation or human invention 1
 
-## Transcript
+## Summary of [Dr. Muhammad AL-MASSARI: Quranic Diacritical Marks Divine Revelation or Human Invention 1](https://www.youtube.com/watch?v=WAMIgyQ7QWk)
+
+
+*This is an AI generated summary. There may be inaccuracies. [](/)*
+
+### [00:00:00](https://www.youtube.com/watch?v=WAMIgyQ7QWk&t=0) - [00:40:00](https://www.youtube.com/watch?v=WAMIgyQ7QWk&t=2400)
+
+This video discusses the various diacritical marks found in the Quran, and argues that they were either divine revelation or human invention. Two of these marks, fatah yano and the circle on top of the world, were added by later scholars. The video also discusses the controversy over whether or not there was a Qur'anic copy written by Muhammad's companions. It argues that the available evidence suggests that there was not, and instead that the copy of the Quran written by Muhammad's companions was a copy of a copy.
+
+**[00:00:00](https://www.youtube.com/watch?v=WAMIgyQ7QWk&t=0)** Dr. Muhammad AL-MASSARI discusses the evidence that the Qur'an is a written revelation from God. He points out that there is no other narration in contradiction to this fact, and that it is clear from the wording of the ayah that it was multiple narrations that led to the revelation's compilation into a book. He then discusses the issue of reading the Qur'an, mentioning that some people claim that the Prophet Muhammad could not read. He clarifies that this was not actually the case, and that the Prophet was asked to read something in writing. He goes on to say that even if someone cannot read, they are still able to recite the Qur'an correctly.
+* **[00:05:00](https://www.youtube.com/watch?v=WAMIgyQ7QWk&t=300)** 
+* **[00:10:00](https://www.youtube.com/watch?v=WAMIgyQ7QWk&t=600)** The video discusses the origins of the Arabic script, which is believed to have been developed either as a result of divine revelation or human invention. It also discusses the origins of punctuation, which was not present in the original writing. Various fragments of the Quran that have been discovered contain no punctuation, which is likely a result of the script being adopted later by someone educated in the form of writing. Finally, the video discusses a document that has been discovered which dates back to the time of the Roman Empire. This document confirms that the Arabic script was developed during this time period.
+* **[00:15:00](https://www.youtube.com/watch?v=WAMIgyQ7QWk&t=900)** The video discusses how the arabic letters in the Qur'an were distinguished by the Arabs in Mecca, and how the dots between HA and BA were known and used by the early Muslims. The second hypothesis, that the dots were a revelation from God, is supported by the fact that they are uniform across all versions of the Qur'an and there is no other variation except in a few places. This opens the door to various possible readings, including the idea that the dots were intended to be like modern-day punctuation marks.
+* **[00:20:00](https://www.youtube.com/watch?v=WAMIgyQ7QWk&t=1200)** This video discusses the various diacritical marks found in the Quran, and argues that they were either divine revelation or human invention. Two of these marks, fatah yano and the circle on top of the world, were added by later scholars.
+* **[00:25:00](https://www.youtube.com/watch?v=WAMIgyQ7QWk&t=1500)** The video discusses the controversy over whether or not there was a Qur'anic copy written by Muhammad's companions. It argues that the available evidence suggests that there was not, and instead that the copy of the Quran written by Muhammad's companions was a copy of a copy.
+* **[00:30:00](https://www.youtube.com/watch?v=WAMIgyQ7QWk&t=1800)** The video discusses the origins of the diacritical marks in the Qur'an, which some scholars believe were copied from earlier scripture. It also discusses the possibility that the Prophet Muhammad was aware of this, and may have avoided or ordered them not to be included in the Qur'an intentionally to make it appear as a miraculous product of divine revelation.
+* **[00:35:00](https://www.youtube.com/watch?v=WAMIgyQ7QWk&t=2100)** The video discusses how punctuation in the Quran can be either understood rationally or as divine revelation. The speaker notes that there is no rational explanation for why some letters were omitted, and that this is evidence in support of the divine origin of the Quran.
+* **[00:40:00](https://www.youtube.com/watch?v=WAMIgyQ7QWk&t=2400)** In this video, Dr. Muhammad AL-MASSARI discusses the Quranic diacritical marks and their origins. He notes that the marks are different in different parts of the world and that they were likely invented by humans. He goes on to say that despite their origins being human-made, they still make sense and can be seen as a product of divine revelation.
+
+## Full transcript with timestamps
 
 [0:00:00](https://youtu.be/WAMIgyQ7QWk?t=0) [Music]  
 [0:00:24](https://youtu.be/WAMIgyQ7QWk?t=24) okay  
