@@ -6,7 +6,19 @@
 
 Professor Muhammad Al Massari discusses matters related to the prophecised Imam Al Mahdi from authentic Islamic texts, scrutinizes all evidences and assembles a chronology of events based on authentic narrations.
 
-## Transcript
+## Summary of [Imam Al Mahdi (AS) - Professor Al Massari Part 5 of 13](https://www.youtube.com/watch?v=tTGAdQQzuAY)
+
+
+*This is an AI generated summary. There may be inaccuracies. [](/)*
+
+### [00:00:00](https://www.youtube.com/watch?v=tTGAdQQzuAY&t=0) - [00:05:00](https://www.youtube.com/watch?v=tTGAdQQzuAY&t=300)
+
+Imam Al Mahdi (AS) is a professor who discusses a hadith about an army that will be swallowed by the earth. The hadith has been corroborated by other hadith, but has a flaw in that it includes a man named Sofiani.
+
+**[00:00:00](https://www.youtube.com/watch?v=tTGAdQQzuAY&t=0)** Imam Al Mahdi (AS) discusses a hadith in which an army led by a man from his tribe will be swallowed by the land. Hakim, a Muslim scholar, reports that the hadith is authentic, but has a flaw in that it includes a man named Sofiani.
+* **[00:05:00](https://www.youtube.com/watch?v=tTGAdQQzuAY&t=300)** Imam Al Mahdi (AS) is a professor who discusses a hadith about an army that will be swallowed by the earth. The hadith has been corroborated by other hadith.
+
+## Full transcript with timestamps
 
 [0:00:04](https://youtu.be/tTGAdQQzuAY?t=4) and then the tribes from  
 [0:00:06](https://youtu.be/tTGAdQQzuAY?t=6) adnan is called kai's tribe try to fight  

@@ -20,8 +20,8 @@ from youtube_transcript_api import YouTubeTranscriptApi
 #API_KEY = "AIzaSyBdbQ-WPIkQkEad2EtRPfbRMiMURPxyqm8"  # Google Data (YouTube v3 key)
 #API_KEY = "AIzaSyABaeCa_GEW4ePYNfYwP9qtsHAMN8s8kxs"
 #API_KEY = "AIzaSyBXmobEX1fX31VQk55p6YxJ5qQ5Q7fHYDc"
-#API_KEY = "AIzaSyCPv-GvwuO6k-VlPuX_Ki8ZmGlDdaN-DlM"
-CHANNEL_ID = ['UC0uyPbeJ56twBLoHUbwFKnA', "UC57cqHgR_IZEs3gx0nxyZ-g"]
+API_KEY = "AIzaSyCPv-GvwuO6k-VlPuX_Ki8ZmGlDdaN-DlM"
+CHANNEL_ID = ['UC0uyPbeJ56twBLoHUbwFKnA', "UC57cqHgR_IZEs3gx0nxyZ-g", "UC_SLXSHcCwK2RSZTXVL26SA"] # doc, bloggingtheology,
 
 log = logging.getLogger(__file__)
 
@@ -109,7 +109,12 @@ def main(channel_ids=CHANNEL_ID):
     for channel_id in channel_ids:
         api = Api(api_key=API_KEY)
 
-        path="content/transcripts/"
+        # TODO make the channel_id list a dict with paths
+        if channel_id == 'UC_SLXSHcCwK2RSZTXVL26SA':
+            path="content/blogging_theology/"
+        else:
+            path="content/massari/"
+
         videos_ids = []
         limit = 100
         count = 25
@@ -133,19 +138,23 @@ def main(channel_ids=CHANNEL_ID):
             print('Error getting vids for channel:', e)
         vid_count = len(videos_ids)
         print(f"Gathered {vid_count} videos for {channel_id} now pulling metadata for each video" )
-        videos_ids= ['aKjLxPGk5C4']
+        # videos_ids= ['aKjLxPGk5C4'] ## enter single video_id here if overridding full list for testing
 
         for video_id in videos_ids:
             try:
                 video_metadata = api.get_video_by_id(video_id=video_id).items[0]
                 img_file_name = os.path.join(path, video_id) + '.jpg'
+                title = video_metadata.snippet.title
 
                 # check if video was already downloaded
-                if os.path.exists(img_file_name):
-                    print(f"{video_id} already downloaded, skipping. ", end="")
+                md_file_name = os.path.join(path, string_to_filename(title)) + '.md'
+                if os.path.exists(md_file_name):
+                    print(f"MD FILE FOR {video_id} {title} md already downloaded, skipping. ", end="")
                     continue
-                preview_path = get_preview_image(img_file_name=img_file_name, img_url=video_metadata.snippet.thumbnails.default.url, video_id=video_id, path=path)
-                title = video_metadata.snippet.title
+                #if os.path.exists(img_file_name):
+                #    print(f"IMG FOR {video_id} img already downloaded, skipping. ", end="")
+                #    continue
+                preview_path = get_preview_image(img_file_name=img_file_name, img_url=video_metadata.snippet.thumbnails.default.url, video_id=video_id, path=path) 
                 print(f"\n\nVideo ID is {video_id} with title {title}")
                 description = video_metadata.snippet.description
                 date = datetime.datetime.strptime(video_metadata.snippet.publishedAt, "%Y-%m-%dT%H:%M:%S%z")
@@ -196,9 +205,10 @@ def main(channel_ids=CHANNEL_ID):
 
                 driver = webdriver.Chrome('./chromedriver', options=options, chrome_options=chrome_options)
                 driver.get(url)
-                wait = WebDriverWait(driver, 70)
+                wait = WebDriverWait(driver, 40)
                 wait.until(EC.presence_of_element_located((By.TAG_NAME,"h1")))
-
+                import time
+                time.sleep(20) #sleep for 1 sec
                 mdresponse = driver.page_source
 
                 smarkdown = md(mdresponse, strip=['title', 'head', 'gtag', 'props', 'could not summarize', '<could not summarize>'])
@@ -213,7 +223,6 @@ def main(channel_ids=CHANNEL_ID):
                 smarkdown = re.sub(r'.==.*','', smarkdown)
                 print(smarkdown)
 
-                md_file_name = os.path.join(path, string_to_filename(title)) + '.md'
                 with open(md_file_name, 'w') as handle:
                         handle.write(
                     gen_markdown_page(video_id=video_id,

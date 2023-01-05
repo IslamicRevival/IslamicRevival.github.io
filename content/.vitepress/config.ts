@@ -38,15 +38,28 @@ export default defineConfig({
 
     nav: [
 	{
-		text: 'Answers',
+		text: 'Articles',
 		items: [
-			{ text: 'Misunderstanding Ibada', link: '/aqeedah/misunderstanding_ibada' },
+			{ text: 'Misunderstanding Ibada', link: '/articles/misunderstanding_ibada' },
 		],
 	},
-  { 	text: 'Contributing', 
+  {
+		text: 'Blogging Theology',
+		items: [
+			{ text: 'Video summaries', link: '/blogging_theology/index.md' }
+		],
+	},
+  {
+    text: 'Contributing', 
+    items: [
+      { text: "Add/edit content", link: '/contributing/how-to-content' },
+      { text: "Writing guide", link: '/contributing/writing-guide' },
+    ],
+},
+{
+  text: 'Dr Massari',
   items: [
-    { text: "Add/edit content", link: '/contributing/how-to-content' },
-    { text: "Writing guide", link: '/contributing/writing-guide' },
+    { text: 'Video summaries', link: '/massari/02_-_Establishing_an_Islamic_State__Is_it_an_Obligation_(Fardh)' }
   ],
 },
 {
@@ -55,13 +68,6 @@ export default defineConfig({
     { text: 'PDFs', link: '/files/pdfs' }
   ],
  },
-  {
-		text: 'Transcripts',
-		items: [
-			{ text: 'Video transcripts', link: '/transcripts/02_-_Establishing_an_Islamic_State__Is_it_an_Obligation_(Fardh)' }
-		],
-	},
-
     ],
     sidebar:  getSideBar( "./content", {
       ignoreMDFiles: ['index'],
