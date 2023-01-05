@@ -19,18 +19,18 @@ hero:
       text: Writing guide
       link: /contributing/writing-guide.html
     - theme: brand
-      text: ⭐ Searchable lecure transcripts
+      text: ⭐ Searchable video transcripts
       link: /transcripts/02_-_Establishing_an_Islamic_State__Is_it_an_Obligation_(Fardh)
 
 features:
   - icon: 🔈
-    title: transcripts
-    details: Transcripts of lectures by Professor Dr. Muhammad AL-Massari
-    link: /transcripts/02_-_Establishing_an_Islamic_State__Is_it_an_Obligation_(Fardh)
+    title: Massari
+    details: Transcripts & summaries of lectures by Professor Dr. Muhammad AL-Massari
+    link: /massari/02_-_Establishing_an_Islamic_State__Is_it_an_Obligation_(Fardh)
   - icon: 📹
-    title: videos
-    details: Study circles & tafseer by Professor Dr. Muhammad AL-Massari
-    link:  https://www.youtube.com/@user-rd1df7ug9q/videos
+    title: Williams
+    details: Blogging Theology transcripts & summarys from Paul Williams
+    link:  /blogging_theology/
   - icon: ✏️
     title: history
     details: History of Al-Saud and the Najdi "Wahabi" movement

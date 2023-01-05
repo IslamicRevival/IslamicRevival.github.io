@@ -3,6 +3,8 @@
 import datetime
 import logging
 import os
+import time
+               
 
 import requests
 from markdownify import markdownify as md
@@ -19,8 +21,8 @@ from youtube_transcript_api import YouTubeTranscriptApi
 
 #API_KEY = "AIzaSyBdbQ-WPIkQkEad2EtRPfbRMiMURPxyqm8"  # Google Data (YouTube v3 key)
 #API_KEY = "AIzaSyABaeCa_GEW4ePYNfYwP9qtsHAMN8s8kxs"
-#API_KEY = "AIzaSyBXmobEX1fX31VQk55p6YxJ5qQ5Q7fHYDc"
-API_KEY = "AIzaSyCPv-GvwuO6k-VlPuX_Ki8ZmGlDdaN-DlM"
+API_KEY = "AIzaSyBXmobEX1fX31VQk55p6YxJ5qQ5Q7fHYDc"
+#API_KEY = "AIzaSyCPv-GvwuO6k-VlPuX_Ki8ZmGlDdaN-DlM"
 CHANNEL_ID = ['UC0uyPbeJ56twBLoHUbwFKnA', "UC57cqHgR_IZEs3gx0nxyZ-g", "UC_SLXSHcCwK2RSZTXVL26SA"] # doc, bloggingtheology,
 
 log = logging.getLogger(__file__)
@@ -184,7 +186,7 @@ def main(channel_ids=CHANNEL_ID):
                 options.add_argument("--disable-extensions")
                 options.add_argument("--disable-gpu")
                 options.add_argument("--no-sandbox")
-               #options.add_argument("--disable-dev-shm-usage")
+                options.add_argument("--disable-dev-shm-usage")
                 options.binary_location = "/usr/bin/google-chrome-stable"    #chrome binary location specified here
 
                 ## configure chrome browser to not load images and javascript
@@ -197,7 +199,7 @@ def main(channel_ids=CHANNEL_ID):
                 chrome_options.add_argument("--disable-gpu") 
                 chrome_options.add_argument("--start-maximized") 
                 chrome_options.add_argument('--no-sandbox')
-                #chrome_options.add_argument('--disable-dev-shm-usage')
+                chrome_options.add_argument('--disable-dev-shm-usage')
                 chrome_options.add_experimental_option(
                     # this will disable image loading
                     "prefs", {"profile.managed_default_content_settings.images": 2}
@@ -205,10 +207,9 @@ def main(channel_ids=CHANNEL_ID):
 
                 driver = webdriver.Chrome('./chromedriver', options=options, chrome_options=chrome_options)
                 driver.get(url)
-                wait = WebDriverWait(driver, 40)
+                wait = WebDriverWait(driver, 30)
                 wait.until(EC.presence_of_element_located((By.TAG_NAME,"h1")))
-                import time
-                time.sleep(20) #sleep for 1 sec
+                time.sleep(10) #sleep for X sec
                 mdresponse = driver.page_source
 
                 smarkdown = md(mdresponse, strip=['title', 'head', 'gtag', 'props', 'could not summarize', '<could not summarize>'])
