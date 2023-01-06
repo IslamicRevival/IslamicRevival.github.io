@@ -211,6 +211,7 @@ def main(channel_ids=CHANNEL_ID):
                 #wait.until(EC.presence_of_element_located((By.ID,"__NEXT_DATA__")))
                 time.sleep(20) #sleep for X sec
                 mdresponse = driver.page_source
+                driver.close()
                 driver.quit()
 
                 smarkdown = md(mdresponse, strip=['title', 'head', 'gtag', 'props', 'could not summarize', '<could not summarize>'])
