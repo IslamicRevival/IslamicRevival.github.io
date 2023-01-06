@@ -30,7 +30,7 @@ features:
   - icon: 📹
     title: Blogging Theology
     details: Transcript summaries of podcasts by Paul Williams
-    link:  /blogging_theology/
+    link:  /blogging_theology/The_Life_of_Muhammad__Chapter_11__A_Pact_of_Chivalry
   - icon: 📕
     title: books
     details: Free downloads on Tawheed, Saqeefah, Sahaeefah & more!
