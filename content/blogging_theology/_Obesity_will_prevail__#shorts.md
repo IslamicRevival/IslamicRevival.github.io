@@ -6,7 +6,16 @@
 
 Filmed in the Kutubiyya Mosque which the largest mosque in Marrakesh, Morocco.
 
+## Summary of ['Obesity will prevail' #shorts](https://www.youtube.com/watch?v=APUh7wrplgI)
 
+
+*This is an AI generated summary. There may be inaccuracies. [](/)*
+
+### [00:00:00](https://www.youtube.com/watch?v=APUh7wrplgI&t=0) - [00:00:00](https://www.youtube.com/watch?v=APUh7wrplgI&t=0)
+
+In this video, it is claimed that obesity will prevail among Muslims, and that Prophet Muhammad said that the best of them are his contemporaries and those who follow them.
+
+**[00:00:00](https://www.youtube.com/watch?v=APUh7wrplgI&t=0)** This video is about how obesity will prevail among Muslims, and how Prophet Muhammad said that the best of them are his contemporaries and those who follow them.
 
 ## Full transcript with timestamps
 

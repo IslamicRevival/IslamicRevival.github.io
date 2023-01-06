@@ -10,7 +10,16 @@ https://www.patreon.com/Bloggingtheology
 My Paypal Link: 
 https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
+## Summary of [Who are those who suffer the greatest loss?](https://www.youtube.com/watch?v=awFP8HAdCgE)
 
+
+*This is an AI generated summary. There may be inaccuracies. [](/)*
+
+### [00:00:00](https://www.youtube.com/watch?v=awFP8HAdCgE&t=0) - [00:00:00](https://www.youtube.com/watch?v=awFP8HAdCgE&t=0)
+
+Abu DHA relates that the Prophet said that those who suffer the greatest loss are those who have the most wealth, except for those who give in every way they can. Abu DHA concludes that few people exemplify this latter category.
+
+**[00:00:00](https://www.youtube.com/watch?v=awFP8HAdCgE&t=0)** Abu DHA relates that he heard the Prophet say that those who suffer the greatest loss are those who have the most wealth, except for those who give in every way they can. Few people exemplify this latter category, Abu DHA concludes.
 
 ## Full transcript with timestamps
 

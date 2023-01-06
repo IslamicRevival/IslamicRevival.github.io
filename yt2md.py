@@ -19,12 +19,12 @@ from youtube_transcript_api import YouTubeTranscriptApi
 
 ## sample run: ./yt2md.py -u https://www.youtube.com/watch?v=39Vep9aTNa4
 
-#API_KEY = "AIzaSyBdbQ-WPIkQkEad2EtRPfbRMiMURPxyqm8"  # Google Data (YouTube v3 key)
+API_KEY = "AIzaSyBdbQ-WPIkQkEad2EtRPfbRMiMURPxyqm8"  # Google Data (YouTube v3 key)
 #API_KEY = "AIzaSyABaeCa_GEW4ePYNfYwP9qtsHAMN8s8kxs"
-API_KEY = "AIzaSyBXmobEX1fX31VQk55p6YxJ5qQ5Q7fHYDc"
+#API_KEY = "AIzaSyBXmobEX1fX31VQk55p6YxJ5qQ5Q7fHYDc"
 #API_KEY = "AIzaSyCPv-GvwuO6k-VlPuX_Ki8ZmGlDdaN-DlM"
-#CHANNEL_ID = ["UC0uyPbeJ56twBLoHUbwFKnA", "UC57cqHgR_IZEs3gx0nxyZ-g", "UC_SLXSHcCwK2RSZTXVL26SA"] # doc, bloggingtheology,
-CHANNEL_ID = ["UC_SLXSHcCwK2RSZTXVL26SA"] # doc, bloggingtheology,
+CHANNEL_ID = ["UC_SLXSHcCwK2RSZTXVL26SA", "UC0uyPbeJ56twBLoHUbwFKnA", "UC57cqHgR_IZEs3gx0nxyZ-g"] # doc, bloggingtheology,
+#CHANNEL_ID = ["UC_SLXSHcCwK2RSZTXVL26SA"] # doc, bloggingtheology,
 
 
 log = logging.getLogger(__file__)
@@ -143,6 +143,7 @@ def main(channel_ids=CHANNEL_ID):
         vid_count = len(videos_ids)
         print(f"Gathered {vid_count} videos for {channel_id} now pulling metadata for each video" )
         #videos_ids= ['37K1mPnMIeE'] ## enter single video_id here if overridding full list for testing
+        ## search for vids missing AI summary: grep -riL "AI" *.md
 
         for video_id in videos_ids:
             try:
@@ -180,37 +181,36 @@ def main(channel_ids=CHANNEL_ID):
                 options = Options()
                 options.headless = True  # hide GUI
                 options.add_argument('--headless')
-                options.add_argument('--disable-infobars')
+                #options.add_argument('--disable-infobars')
                 options.add_argument('--no-sandbox')
                 #options.add_argument('--remote-debugging-port=9222')
-                options.add_argument("--window-size=1920,1080")  # set window size to native GUI size
-                options.add_argument("--start-maximized")  # ensure window is full-screen
-                options.add_argument("--disable-extensions")
-                options.add_argument("--disable-gpu")
-                options.add_argument("--no-sandbox")
+                #options.add_argument("--window-size=1920,1080")  # set window size to native GUI size
+                #options.add_argument("--start-maximized")  # ensure window is full-screen
+                #options.add_argument("--disable-extensions")
+                #options.add_argument("--disable-gpu")
                 options.add_argument("--disable-dev-shm-usage")
                 options.binary_location = "/usr/bin/google-chrome-stable"    #chrome binary location specified here
 
                 ## configure chrome browser to not load images and javascript
                 chrome_options = webdriver.ChromeOptions()
                 chrome_options.add_argument('--headless')
-                chrome_options.add_experimental_option("prefs", {"profile.managed_default_content_settings.images": 2}) 
-                chrome_options.add_argument("--disable-setuid-sandbox") 
+                #chrome_options.add_experimental_option("prefs", {"profile.managed_default_content_settings.images": 2}) 
+                #chrome_options.add_argument("--disable-setuid-sandbox") 
                 #chrome_options.add_argument("--remote-debugging-port=9222")  # this
-                chrome_options.add_argument("--disable-extensions") 
-                chrome_options.add_argument("--disable-gpu") 
-                chrome_options.add_argument("--start-maximized") 
+                #chrome_options.add_argument("--disable-extensions") 
+                #chrome_options.add_argument("--disable-gpu") 
+                #chrome_options.add_argument("--start-maximized") 
                 chrome_options.add_argument('--no-sandbox')
                 chrome_options.add_argument('--disable-dev-shm-usage')
-                chrome_options.add_experimental_option(
-                    # this will disable image loading
-                    "prefs", {"profile.managed_default_content_settings.images": 2}
-                )
+                #chrome_options.add_experimental_option(
+                #    # this will disable image loading
+                #    "prefs", {"profile.managed_default_content_settings.images": 2}
+                #)
 
                 driver = webdriver.Chrome('./chromedriver', options=options, chrome_options=chrome_options)
                 driver.get(url)
-                #wait = WebDriverWait(driver, 30)
-                #wait.until(EC.presence_of_element_located((By.TAG_NAME,"h1")))
+                wait = WebDriverWait(driver, 30)
+                wait.until(EC.presence_of_element_located((By.TAG_NAME,"h1")))
                 #wait.until(EC.presence_of_element_located((By.ID,"__NEXT_DATA__")))
                 time.sleep(20) #sleep for X sec
                 mdresponse = driver.page_source

@@ -10,7 +10,16 @@ https://www.patreon.com/Bloggingtheology
 My Paypal Link: 
 https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
+## Summary of [Hadith About A Prostitute](https://www.youtube.com/watch?v=H6R4KYsPVT4)
 
+
+*This is an AI generated summary. There may be inaccuracies. [](/)*
+
+### [00:00:00](https://www.youtube.com/watch?v=H6R4KYsPVT4&t=0) - [00:00:00](https://www.youtube.com/watch?v=H6R4KYsPVT4&t=0)
+
+This hadith from Muhammad tells the story of a prostitute who helps a thirsty dog, and is forgiven for her sins. The act of kindness earns the prostitute a reward.
+
+**[00:00:00](https://www.youtube.com/watch?v=H6R4KYsPVT4&t=0)** This hadith tells the story of a prostitute who helps a thirsty dog, and is forgiven for her sins. The messenger of God, Muhammad, says that this act of kindness earns the prostitute a reward.
 
 ## Full transcript with timestamps
 

@@ -12,7 +12,16 @@ https://www.patreon.com/Bloggingtheology
 My Paypal Link: 
 https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
+## Summary of [A bit of Philosophy from Marrakesh](https://www.youtube.com/watch?v=952CLhm97ik)
 
+
+*This is an AI generated summary. There may be inaccuracies. [](/)*
+
+### [00:00:00](https://www.youtube.com/watch?v=952CLhm97ik&t=0) - [00:00:00](https://www.youtube.com/watch?v=952CLhm97ik&t=0)
+
+Ontologists argue that there is a objective reality that exists independently of our perception of it, while epistemologists contend that all knowledge is subjective and exists only in our minds. The video provides a clear and concise explanation of these two philosophical viewpoints.
+
+**[00:00:00](https://www.youtube.com/watch?v=952CLhm97ik&t=0)** The video discusses the difference between ontologists and epistemologists, and provides a succinct definition of the two terms.
 
 ## Full transcript with timestamps
 

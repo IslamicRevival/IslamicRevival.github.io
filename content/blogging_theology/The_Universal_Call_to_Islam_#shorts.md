@@ -10,7 +10,16 @@ https://www.patreon.com/Bloggingtheology
 My Paypal Link: 
 https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
+## Summary of [The Universal Call to Islam #shorts](https://www.youtube.com/watch?v=j5eEe4cPxdM)
 
+
+*This is an AI generated summary. There may be inaccuracies. [](/)*
+
+### [00:00:00](https://www.youtube.com/watch?v=j5eEe4cPxdM&t=0) - [00:00:00](https://www.youtube.com/watch?v=j5eEe4cPxdM&t=0)
+
+The video provides evidence for the existence of God and argues that those who believe in him will be rewarded with mercy and grace. Those who are too proud and arrogant will be subjected to a painful punishment.
+
+**[00:00:00](https://www.youtube.com/watch?v=j5eEe4cPxdM&t=0)** The video provides conclusive evidence that God exists and that those who believe in him will be rewarded with full mercy and grace. Those who are too proud and arrogant will be subjected to a painful punishment.
 
 ## Full transcript with timestamps
 

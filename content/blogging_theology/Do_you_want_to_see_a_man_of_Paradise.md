@@ -12,7 +12,16 @@ That was his secret.
 
 (Rancour is bitterness or resentfulness)
 
+## Summary of [Do you want to see a man of Paradise?](https://www.youtube.com/watch?v=SPLd1iCHxd8)
 
+
+*This is an AI generated summary. There may be inaccuracies. [](/)*
+
+### [00:00:00](https://www.youtube.com/watch?v=SPLd1iCHxd8&t=0) - [00:00:00](https://www.youtube.com/watch?v=SPLd1iCHxd8&t=0)
+
+A man is observed to be an average man living in Medina. He is asked what had earned him the prophet's commendation. The man replied that he avoided anger and bitterness in his heart.
+
+**[00:00:00](https://www.youtube.com/watch?v=SPLd1iCHxd8&t=0)** The companion observed that the man appeared to be an average man living in Medina, and he asked the man what had earned him the prophet's commendation. The man replied that he avoided anger and bitterness in his heart.
 
 ## Full transcript with timestamps
 

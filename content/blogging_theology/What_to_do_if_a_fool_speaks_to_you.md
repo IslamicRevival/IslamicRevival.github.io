@@ -10,7 +10,16 @@ https://www.patreon.com/Bloggingtheology
 My Paypal Link: 
 https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
+## Summary of [What to do if a fool speaks to you](https://www.youtube.com/watch?v=LZUkiI10_AU)
 
+
+*This is an AI generated summary. There may be inaccuracies. [](/)*
+
+### [00:00:00](https://www.youtube.com/watch?v=LZUkiI10_AU&t=0) - [00:00:00](https://www.youtube.com/watch?v=LZUkiI10_AU&t=0)
+
+If you encounter a fool, the best response is to remain silent. If you must speak to the fool, be gentle and understanding, as it is harder for the fool to deal with rejection than with a dialogue. This advice is echoed by many Muslim scholars.
+
+**[00:00:00](https://www.youtube.com/watch?v=LZUkiI10_AU&t=0)** If you encounter a fool, don't answer him, as the best response is silence. This is advice that is echoed by many of the Muslim scholars who preceded Imam al-Shafi. If you do speak to him, be gentle and understanding, as it is harder for the fool to deal with rejection than with a dialogue.
 
 ## Full transcript with timestamps
 

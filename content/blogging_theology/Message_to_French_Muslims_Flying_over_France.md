@@ -10,7 +10,16 @@ https://www.patreon.com/Bloggingtheology
 My Paypal Link: 
 https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
+## Summary of [Message to French Muslims Flying over France](https://www.youtube.com/watch?v=dobRqeW2HNA)
 
+
+*This is an AI generated summary. There may be inaccuracies. [](/)*
+
+### [00:00:00](https://www.youtube.com/watch?v=dobRqeW2HNA&t=0) - [00:00:00](https://www.youtube.com/watch?v=dobRqeW2HNA&t=0)
+
+In this YouTube video, a speaker addresses French Muslims who are flying over France. He reminds them that the Quran says that Muslims should follow the teachings of God, not the teachings of the Jews and Christians. If French Muslims follow the teachings of God, they will find no protection from God or help in their lives.
+
+**[00:00:00](https://www.youtube.com/watch?v=dobRqeW2HNA&t=0)** This YouTube video is a message to French Muslims who are flying over France. The speaker reminds them that the Quran says that Muslims should follow the teachings of God, not the teachings of the Jews and Christians. If French Muslims follow the teachings of God, they will find no protection from God or help in their lives.
 
 ## Full transcript with timestamps
 

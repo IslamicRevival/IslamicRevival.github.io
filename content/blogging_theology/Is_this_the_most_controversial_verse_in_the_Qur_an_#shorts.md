@@ -10,7 +10,16 @@ https://www.patreon.com/Bloggingtheology
 My Paypal Link: 
 https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
+## Summary of [Is this the most controversial verse in the Qur'an? #shorts](https://www.youtube.com/watch?v=kofEZyh678w)
 
+
+*This is an AI generated summary. There may be inaccuracies. [](/)*
+
+### [00:00:00](https://www.youtube.com/watch?v=kofEZyh678w&t=0) - [00:00:00](https://www.youtube.com/watch?v=kofEZyh678w&t=0)
+
+This video discusses a verse from the Qur'an that instructs husbands to be responsible for their wives and to protect them from harm. The verse also suggests that wives should be obedient and guard their husbands' belongings while they're away. If a wife behaves disloyally, husbands are instructed to "admonish" her first, before resorting to other measures such as withholding sex or spanking her.
+
+**[00:00:00](https://www.youtube.com/watch?v=kofEZyh678w&t=0)** This verse from the Qur'an instructs husbands to be responsible for their wives and to protect them from harm. It also suggests that wives should be obedient and guard their husbands' belongings while they're away. If a wife behaves disloyally, husbands are instructed to "admonish" her first, before resorting to other measures such as withholding sex or spanking her.
 
 ## Full transcript with timestamps
 
