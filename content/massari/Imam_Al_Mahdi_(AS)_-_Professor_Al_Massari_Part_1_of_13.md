@@ -6,7 +6,17 @@
 
 Professor Muhammad Al Massari discusses matters related to the prophecised Imam Al Mahdi from authentic Islamic texts, scrutinizes all evidences and assembles a chronology of events based on authentic narrations.
 
+## Summary of [Imam Al Mahdi (AS) - Professor Al Massari Part 1 of 13](https://www.youtube.com/watch?v=pHMBh7--XOM)
 
+
+*This is an AI generated summary. There may be inaccuracies. [](/)*
+
+### [00:00:00](https://www.youtube.com/watch?v=pHMBh7--XOM&t=0) - [00:05:00](https://www.youtube.com/watch?v=pHMBh7--XOM&t=300)
+
+The video discusses the idea that the state will last more than a thousand years, based on indications of a habit that has been shown in reality. He also mentions that prophecies of Muhammad say almost everything is near, and that a thousand years almost like a fraction of a second is possible. He goes on to say that there may be a time order, although it is difficult to determine. He also says that after Muhammad said there is no other prophet coming, it is over, so it is extremely difficult to determine an order. However, based on various hadith, he believes some sort of order may be possible. He concludes by saying that, although there are many uncertainties, indications suggest that the state will last more than a thousand years.
+
+**[00:00:00](https://www.youtube.com/watch?v=pHMBh7--XOM&t=0)** Imam Al Mahdi (AS) discusses the idea that the state will last more than a thousand years, based on indications of a habit that has been shown in reality. He also mentions that prophecies of Muhammad say almost everything is near, and that a thousand years almost like a fraction of a second is possible. He goes on to say that there may be a time order, although it is difficult to determine. He also says that after Muhammad said there is no other prophet coming, it is over, so it is extremely difficult to determine an order. However, based on various hadith, he believes some sort of order may be possible. He concludes by saying that, although there are many uncertainties, indications suggest that the state will last more than a thousand years.
+* **[00:05:00](https://www.youtube.com/watch?v=pHMBh7--XOM&t=300)** The video discusses the belief that there will be a major battle between the Muslims and the Romans, after which the Muslims will be victorious and take control of most of Europe and North America. The video also discusses the belief that the antichrist will come before all of this, and that it will be a time of great conflict and loss for both sides.
 
 ## Full transcript with timestamps
 

@@ -1,13 +1,13 @@
 ---
 layout: home
 
-title: Islamic Revival - crowdsourcing framework for knowledge sharing & archiving
-titleTemplate: Islamic Revival - crowdsourcing framework for knowledge sharing & archiving
+title: Islamic Revival - AI crowdsourcing framework for knowledge sharing & archiving
+titleTemplate: Islamic Revival - AI crowdsourcing framework for knowledge sharing & archiving
 
 hero:
   name: Islamic Revival
   text: a framework to share Islamic works 
-  tagline: through the crowdsourcing of knowledge
+  tagline: through crowdsourcing knowledge using AI
   #image:
    # src: /quill.svg
    # alt: Vite
@@ -24,17 +24,13 @@ hero:
 
 features:
   - icon: 🔈
-    title: Massari
-    details: Transcripts & summaries of lectures by Professor Dr. Muhammad AL-Massari
+    title: Fiqh & Tafseer
+    details: Transcript summaries of misc. lectures by Prof. Dr. Muhammad AL-Massari
     link: /massari/02_-_Establishing_an_Islamic_State__Is_it_an_Obligation_(Fardh)
   - icon: 📹
-    title: Williams
-    details: Blogging Theology transcripts & summarys from Paul Williams
+    title: Blogging Theology
+    details: Transcript summaries of podcasts by Paul Williams
     link:  /blogging_theology/
-  - icon: ✏️
-    title: history
-    details: History of Al-Saud and the Najdi "Wahabi" movement
-    link: https://www.youtube.com/watch?v=6E9dWGt9qIQ&t=734s
   - icon: 📕
     title: books
     details: Free downloads on Tawheed, Saqeefah, Sahaeefah & more!

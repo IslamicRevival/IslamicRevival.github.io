@@ -21,10 +21,11 @@ from youtube_transcript_api import YouTubeTranscriptApi
 
 #API_KEY = "AIzaSyBdbQ-WPIkQkEad2EtRPfbRMiMURPxyqm8"  # Google Data (YouTube v3 key)
 #API_KEY = "AIzaSyABaeCa_GEW4ePYNfYwP9qtsHAMN8s8kxs"
-#API_KEY = "AIzaSyBXmobEX1fX31VQk55p6YxJ5qQ5Q7fHYDc"
-API_KEY = "AIzaSyCPv-GvwuO6k-VlPuX_Ki8ZmGlDdaN-DlM"
-#CHANNEL_ID = ['UC0uyPbeJ56twBLoHUbwFKnA', "UC57cqHgR_IZEs3gx0nxyZ-g", "UC_SLXSHcCwK2RSZTXVL26SA"] # doc, bloggingtheology,
-CHANNEL_ID = ["UC_SLXSHcCwK2RSZTXVL26SA"]
+API_KEY = "AIzaSyBXmobEX1fX31VQk55p6YxJ5qQ5Q7fHYDc"
+#API_KEY = "AIzaSyCPv-GvwuO6k-VlPuX_Ki8ZmGlDdaN-DlM"
+#CHANNEL_ID = ["UC0uyPbeJ56twBLoHUbwFKnA", "UC57cqHgR_IZEs3gx0nxyZ-g", "UC_SLXSHcCwK2RSZTXVL26SA"] # doc, bloggingtheology,
+CHANNEL_ID = ["UC_SLXSHcCwK2RSZTXVL26SA"] # doc, bloggingtheology,
+
 
 log = logging.getLogger(__file__)
 
@@ -141,7 +142,7 @@ def main(channel_ids=CHANNEL_ID):
             print('Error getting vids for channel:', e)
         vid_count = len(videos_ids)
         print(f"Gathered {vid_count} videos for {channel_id} now pulling metadata for each video" )
-        # videos_ids= ['aKjLxPGk5C4'] ## enter single video_id here if overridding full list for testing
+        #videos_ids= ['37K1mPnMIeE'] ## enter single video_id here if overridding full list for testing
 
         for video_id in videos_ids:
             try:
@@ -161,8 +162,7 @@ def main(channel_ids=CHANNEL_ID):
                 print(f"\n\nVideo ID is {video_id} with title {title}")
                 description = video_metadata.snippet.description
                 date = datetime.datetime.strptime(video_metadata.snippet.publishedAt, "%Y-%m-%dT%H:%M:%S%z")
-                #captions = YouTubeTranscriptApi.get_transcript(video_id)
-                captions =""
+                captions = YouTubeTranscriptApi.get_transcript(video_id)
 
                 ## Get AI summary
                 ## from requests_html import HTMLSession
@@ -209,10 +209,10 @@ def main(channel_ids=CHANNEL_ID):
 
                 driver = webdriver.Chrome('./chromedriver', options=options, chrome_options=chrome_options)
                 driver.get(url)
-                wait = WebDriverWait(driver, 40)
+                #wait = WebDriverWait(driver, 30)
                 #wait.until(EC.presence_of_element_located((By.TAG_NAME,"h1")))
-                wait.until(EC.presence_of_element_located((By.id,"__NEXT_DATA__")))
-                time.sleep(30) #sleep for X sec
+                #wait.until(EC.presence_of_element_located((By.ID,"__NEXT_DATA__")))
+                time.sleep(20) #sleep for X sec
                 mdresponse = driver.page_source
 
                 smarkdown = md(mdresponse, strip=['title', 'head', 'gtag', 'props', 'could not summarize', '<could not summarize>'])

@@ -46,7 +46,7 @@ export default defineConfig({
   {
 		text: 'Blogging Theology',
 		items: [
-			{ text: 'Video summaries', link: '/blogging_theology/index.md' }
+			{ text: 'Video summaries', link: '/blogging_theology/_Pagan_influences__on_the_Christian_Gospels_&_Paul.md' }
 		],
 	},
   {
@@ -57,17 +57,17 @@ export default defineConfig({
     ],
 },
 {
-  text: 'Dr Massari',
-  items: [
-    { text: 'Video summaries', link: '/massari/02_-_Establishing_an_Islamic_State__Is_it_an_Obligation_(Fardh)' }
-  ],
-},
-{
   text: 'Files',
   items: [
     { text: 'PDFs', link: '/files/pdfs' }
   ],
  },
+ {
+  text: 'Fiqh & Tafseer',
+  items: [
+    { text: 'Video summaries', link: '/massari/02_-_Establishing_an_Islamic_State__Is_it_an_Obligation_(Fardh)' }
+  ],
+},
     ],
     sidebar:  getSideBar( "./content", {
       ignoreMDFiles: ['index'],

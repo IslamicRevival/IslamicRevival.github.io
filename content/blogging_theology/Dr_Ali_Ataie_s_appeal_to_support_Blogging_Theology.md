@@ -10,7 +10,16 @@ https://www.patreon.com/Bloggingtheology
 My Paypal Link: 
 https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
+## Summary of [Dr Ali Ataie's appeal to support Blogging Theology](https://www.youtube.com/watch?v=C7xHWKjK-uI)
 
+
+*This is an AI generated summary. There may be inaccuracies. [](/)*
+
+### [00:00:00](https://www.youtube.com/watch?v=C7xHWKjK-uI&t=0) - [00:00:00](https://www.youtube.com/watch?v=C7xHWKjK-uI&t=0)
+
+In his video, Dr. Ali Ataie asks for viewers' support in continuing his work blogging about theology. He expresses his gratitude for the ability to do this work, and thanks God for the opportunity.
+
+**[00:00:00](https://www.youtube.com/watch?v=C7xHWKjK-uI&t=0)** Dr. Ali Ataie urges viewers to subscribe to his channel and consider supporting him through Patreon, as he dedicates a lot of time and effort into blogging theology. He thanks God for the means to do this work and thanks his creator alone.
 
 ## Full transcript with timestamps
 

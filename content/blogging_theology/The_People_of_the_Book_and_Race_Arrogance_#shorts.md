@@ -10,7 +10,16 @@ https://www.patreon.com/Bloggingtheology
 My Paypal Link: 
 https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
+## Summary of [The People of the Book and Race Arrogance #shorts](https://www.youtube.com/watch?v=unsSVzqUWMg)
 
+
+*This is an AI generated summary. There may be inaccuracies. [](/)*
+
+### [00:00:00](https://www.youtube.com/watch?v=unsSVzqUWMg&t=0) - [00:00:00](https://www.youtube.com/watch?v=unsSVzqUWMg&t=0)
+
+The narrator of the YouTube video "The People of the Book and Race Arrogance #shorts" discusses a controversy among Muslims about whether or not to keep faith with non-Muslims. He says that those who keep their faith and act are right, while those who sell the faith they owe to Allah and their own plighted word for a small price will have no part in the hereafter.
+
+**[00:00:00](https://www.youtube.com/watch?v=unsSVzqUWMg&t=0)** The narrator discusses a controversy among Muslims about whether or not to keep faith with non-Muslims. He says that those who keep their faith and act are right, while those who sell the faith they owe to Allah and their own plighted word for a small price will have no part in the hereafter.
 
 ## Full transcript with timestamps
 
