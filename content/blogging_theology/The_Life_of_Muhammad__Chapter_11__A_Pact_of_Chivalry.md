@@ -17,10 +17,10 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 ### [00:00:00](https://www.youtube.com/watch?v=nRCX73fSUMA&t=0) - [00:05:00](https://www.youtube.com/watch?v=nRCX73fSUMA&t=300)
 
-This video discusses Muhammad's early life and how he became a skilled fighter. It also covers the story of the Pact of Chivalry, which was a treaty between the clans of Mecca to stand together against oppression.
+ discusses Muhammad's early life and how he became a skilled fighter. It also covers the story of the Pact of Chivalry, which was a treaty between the clans of Mecca to stand together against oppression.
 
 **[00:00:00](https://www.youtube.com/watch?v=nRCX73fSUMA&t=0)** In this chapter, we learn about Muhammad's early life and how he became skilled in using weapons of war. His uncle taught him how to use a sword and a shield, and Muhammad soon became a skilled fighter. He also became skilled in archery, and was praised for his skills. In response to a merchant who was wronged, Muhammad led a large group of people in an appeal to quraish to help him get justice. quraish responded immediately and helped the merchant get his revenge.
-* **[00:05:00](https://www.youtube.com/watch?v=nRCX73fSUMA&t=300)** This video covers the story of the Pact of Chivalry, which was a treaty between the clans of Mecca to stand together against oppression. One of the leaders of this pact was the wealthy chief of clan 'Abdullah ibn Juden. Another founder of the pact was Muhammad's first cousin, Abu Bakr. Abu Bakr was to become Muhammad's closest friend.
+* **[00:05:00](https://www.youtube.com/watch?v=nRCX73fSUMA&t=300)**  covers the story of the Pact of Chivalry, which was a treaty between the clans of Mecca to stand together against oppression. One of the leaders of this pact was the wealthy chief of clan 'Abdullah ibn Juden. Another founder of the pact was Muhammad's first cousin, Abu Bakr. Abu Bakr was to become Muhammad's closest friend.
 
 ## Full transcript with timestamps
 

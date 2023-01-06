@@ -26,9 +26,9 @@ https://twitter.com/freemonotheist
 
 ### [00:00:00](https://www.youtube.com/watch?v=4UK2TQsg0_w&t=0) - [00:00:00](https://www.youtube.com/watch?v=4UK2TQsg0_w&t=0)
 
-This video discusses the consequences of people who die rejecting Islam. All of them will be cursed by Allah, angels, and all of humanity. Their punishment will not be eased, and they will have no respite from it.
+ discusses the consequences of people who die rejecting Islam. All of them will be cursed by Allah, angels, and all of humanity. Their punishment will not be eased, and they will have no respite from it.
 
-**[00:00:00](https://www.youtube.com/watch?v=4UK2TQsg0_w&t=0)** This video discusses the consequences of people who die rejecting Islam. All of them will be cursed by Allah, angels, and all of humanity. Their punishment will not be eased, and they will have no respite from it.
+**[00:00:00](https://www.youtube.com/watch?v=4UK2TQsg0_w&t=0)**  discusses the consequences of people who die rejecting Islam. All of them will be cursed by Allah, angels, and all of humanity. Their punishment will not be eased, and they will have no respite from it.
 
 ## Full transcript with timestamps
 

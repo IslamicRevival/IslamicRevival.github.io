@@ -17,9 +17,9 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 ### [00:00:00](https://www.youtube.com/watch?v=j5eEe4cPxdM&t=0) - [00:00:00](https://www.youtube.com/watch?v=j5eEe4cPxdM&t=0)
 
-The video provides evidence for the existence of God and argues that those who believe in him will be rewarded with mercy and grace. Those who are too proud and arrogant will be subjected to a painful punishment.
+ provides evidence for the existence of God and argues that those who believe in him will be rewarded with mercy and grace. Those who are too proud and arrogant will be subjected to a painful punishment.
 
-**[00:00:00](https://www.youtube.com/watch?v=j5eEe4cPxdM&t=0)** The video provides conclusive evidence that God exists and that those who believe in him will be rewarded with full mercy and grace. Those who are too proud and arrogant will be subjected to a painful punishment.
+**[00:00:00](https://www.youtube.com/watch?v=j5eEe4cPxdM&t=0)**  provides conclusive evidence that God exists and that those who believe in him will be rewarded with full mercy and grace. Those who are too proud and arrogant will be subjected to a painful punishment.
 
 ## Full transcript with timestamps
 

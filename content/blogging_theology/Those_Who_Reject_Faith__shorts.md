@@ -26,9 +26,9 @@ https://twitter.com/freemonotheist
 
 ### [00:00:00](https://www.youtube.com/watch?v=c6_PVUhW3zQ&t=0) - [00:00:00](https://www.youtube.com/watch?v=c6_PVUhW3zQ&t=0)
 
-This video discusses the fact that those who reject faith will face the same punishments as those who do believe. Allah has sealed their hearts and ears, and has placed a veil over their eyes, in order to punish them severely.
+ discusses the fact that those who reject faith will face the same punishments as those who do believe. Allah has sealed their hearts and ears, and has placed a veil over their eyes, in order to punish them severely.
 
-**[00:00:00](https://www.youtube.com/watch?v=c6_PVUhW3zQ&t=0)** This video discusses the fact that those who reject faith will face the same punishments as those who do believe. Allah has sealed their hearts and ears, and has placed a veil over their eyes, in order to punish them severely.
+**[00:00:00](https://www.youtube.com/watch?v=c6_PVUhW3zQ&t=0)**  discusses the fact that those who reject faith will face the same punishments as those who do believe. Allah has sealed their hearts and ears, and has placed a veil over their eyes, in order to punish them severely.
 
 ## Full transcript with timestamps
 

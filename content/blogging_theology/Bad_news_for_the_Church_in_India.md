@@ -13,9 +13,9 @@ Taken from The Gospels that did NOT make it into the Bible with Professor Dale M
 
 ### [00:00:00](https://www.youtube.com/watch?v=xFPWxELcLRk&t=0) - [00:00:00](https://www.youtube.com/watch?v=xFPWxELcLRk&t=0)
 
-This video discusses the history of Christianity in India and the importance of the four canonical gospels. It highlights the influence of Ireneaus and points out that there was disagreement over which gospel should be considered the most important. Indian Christians still practice the faith without knowing about the existence of other gospels.
+ discusses the history of Christianity in India and the importance of the four canonical gospels. It highlights the influence of Ireneaus and points out that there was disagreement over which gospel should be considered the most important. Indian Christians still practice the faith without knowing about the existence of other gospels.
 
-**[00:00:00](https://www.youtube.com/watch?v=xFPWxELcLRk&t=0)** This video provides a history of the development of Christianity in India, and highlights the importance of the four canonical gospels. It discusses the influence of Ireneaus, who wrote around 180 AD, and points out that there was disagreement over which gospel should be considered the most important. Christianity in India is still important, as many Indian Christians practice the faith without knowing about the existence of other gospels.
+**[00:00:00](https://www.youtube.com/watch?v=xFPWxELcLRk&t=0)**  provides a history of the development of Christianity in India, and highlights the importance of the four canonical gospels. It discusses the influence of Ireneaus, who wrote around 180 AD, and points out that there was disagreement over which gospel should be considered the most important. Christianity in India is still important, as many Indian Christians practice the faith without knowing about the existence of other gospels.
 
 ## Full transcript with timestamps
 

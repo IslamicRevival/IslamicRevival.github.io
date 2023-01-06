@@ -20,9 +20,9 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 ### [00:00:00](https://www.youtube.com/watch?v=AtIeUGDtjdQ&t=0) - [00:00:00](https://www.youtube.com/watch?v=AtIeUGDtjdQ&t=0)
 
-This video discusses why following the Qur'an is important to Muslims. The main points made are that it is a way of showing love for God, and that God is forgiving and merciful. Following the Qur'an is also seen as important even if people reject faith, as Allah loves those who obey him.
+ discusses why following the Qur'an is important to Muslims. The main points made are that it is a way of showing love for God, and that God is forgiving and merciful. Following the Qur'an is also seen as important even if people reject faith, as Allah loves those who obey him.
 
-**[00:00:00](https://www.youtube.com/watch?v=AtIeUGDtjdQ&t=0)** In this video, a group of Muslims discuss why following the Qur'an is important. One of the main points they make is that following the Qur'an is a way of showing love for God, and that God is forgiving and merciful. They also point out that following the Qur'an is important even if people reject faith, as Allah loves those who obey him.
+**[00:00:00](https://www.youtube.com/watch?v=AtIeUGDtjdQ&t=0)**  a group of Muslims discuss why following the Qur'an is important. One of the main points they make is that following the Qur'an is a way of showing love for God, and that God is forgiving and merciful. They also point out that following the Qur'an is important even if people reject faith, as Allah loves those who obey him.
 
 ## Full transcript with timestamps
 

@@ -13,9 +13,9 @@ Surah 57: 22-23
 
 ### [00:00:00](https://www.youtube.com/watch?v=7ZWAEw-dCkk&t=0) - [00:00:00](https://www.youtube.com/watch?v=7ZWAEw-dCkk&t=0)
 
-This video discusses the idea that everything that happens on Earth, and to the soul, is recorded by God beforehand. This allows people to have hope in difficult times, and reminds them not to boast about what God has done for them.
+ discusses the idea that everything that happens on Earth, and to the soul, is recorded by God beforehand. This allows people to have hope in difficult times, and reminds them not to boast about what God has done for them.
 
-**[00:00:00](https://www.youtube.com/watch?v=7ZWAEw-dCkk&t=0)** The video discusses the idea that no misfortune can happen on Earth or in the soul without being recorded beforehand by God. This allows people to have hope in difficult times, and reminds them not to boast about what God has done for them.
+**[00:00:00](https://www.youtube.com/watch?v=7ZWAEw-dCkk&t=0)**  discusses the idea that no misfortune can happen on Earth or in the soul without being recorded beforehand by God. This allows people to have hope in difficult times, and reminds them not to boast about what God has done for them.
 
 ## Full transcript with timestamps
 

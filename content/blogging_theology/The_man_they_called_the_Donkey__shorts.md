@@ -17,9 +17,9 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 ### [00:00:00](https://www.youtube.com/watch?v=I_o2SAGnlOs&t=0) - [00:00:00](https://www.youtube.com/watch?v=I_o2SAGnlOs&t=0)
 
-This video is about a man named Abdullah who was known as the Donkey. Abdullah was used to make the prophet laugh, but the prophet had to order him whipped several times for drunkenness. One day, Abdullah was brought before the prophet drunk and he ordered him whipped yet again. Someone asked the prophet why he did that, and the prophet replied that Abdullah loved God and His messenger.
+ is about a man named Abdullah who was known as the Donkey. Abdullah was used to make the prophet laugh, but the prophet had to order him whipped several times for drunkenness. One day, Abdullah was brought before the prophet drunk and he ordered him whipped yet again. Someone asked the prophet why he did that, and the prophet replied that Abdullah loved God and His messenger.
 
-**[00:00:00](https://www.youtube.com/watch?v=I_o2SAGnlOs&t=0)** This video follows a man named Abdullah, who was known as the Donkey. Abdullah was used to make the prophet laugh, but the prophet had to order him whipped several times for drunkenness. One day, Abdullah was brought before the prophet drunk and he ordered him whipped yet again. Someone asked the prophet why he did that, and the prophet replied that Abdullah loved God and His messenger.
+**[00:00:00](https://www.youtube.com/watch?v=I_o2SAGnlOs&t=0)**  follows a man named Abdullah, who was known as the Donkey. Abdullah was used to make the prophet laugh, but the prophet had to order him whipped several times for drunkenness. One day, Abdullah was brought before the prophet drunk and he ordered him whipped yet again. Someone asked the prophet why he did that, and the prophet replied that Abdullah loved God and His messenger.
 
 ## Full transcript with timestamps
 

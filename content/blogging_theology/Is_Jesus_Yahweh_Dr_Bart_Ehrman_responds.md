@@ -20,7 +20,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 Dr. Bart Ehrman responds to those who believe that Jesus is Yahweh. He argues that, while Jesus is exalted to the highest possible level, he is not identified as Yahweh in the sense that God is. He cites biblical passages which seem to indicate that Jesus is not Yahweh, and concludes that the belief that Jesus is Yahweh is not supported by the evidence.
 
-**[00:00:00](https://www.youtube.com/watch?v=J6V8qXHw1fI&t=0)** In this YouTube video, Dr. Bart Ehrman responds to those who believe that Jesus is Yahweh. He argues that, while Jesus is exalted to the highest possible level, he is not identified as Yahweh in the sense that God is.
+**[00:00:00](https://www.youtube.com/watch?v=J6V8qXHw1fI&t=0)**  Dr. Bart Ehrman responds to those who believe that Jesus is Yahweh. He argues that, while Jesus is exalted to the highest possible level, he is not identified as Yahweh in the sense that God is.
 
 ## Full transcript with timestamps
 

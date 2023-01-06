@@ -13,7 +13,7 @@ I read from 'The New Testament: A Historical Introduction to the Early Christian
 
 ### [00:00:00](https://www.youtube.com/watch?v=6uiAfPQIo_o&t=0) - [00:00:00](https://www.youtube.com/watch?v=6uiAfPQIo_o&t=0)
 
-The video argues that there is no evidence to suggest that Jesus was married, despite the popular belief that he was. It cites the lack of mention of a wife in any ancient Christian literature, as well as the fact that there were many single, celibate adults in Jesus' time, as evidence that he was not married.
+ argues that there is no evidence to suggest that Jesus was married, despite the popular belief that he was. It cites the lack of mention of a wife in any ancient Christian literature, as well as the fact that there were many single, celibate adults in Jesus' time, as evidence that he was not married.
 
 **[00:00:00](https://www.youtube.com/watch?v=6uiAfPQIo_o&t=0)** Some people believe that Jesus was likely married, based on the assumption that at the time, Jewish men did not typically abstain from sexual activity. However, this is not the case - there are many single celibate adults from the time of Jesus, and no ancient Christian literature mentions Jesus having a wife.
 

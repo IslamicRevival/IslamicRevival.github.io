@@ -17,9 +17,9 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 ### [00:00:00](https://www.youtube.com/watch?v=c_CG2lONjpw&t=0) - [00:00:00](https://www.youtube.com/watch?v=c_CG2lONjpw&t=0)
 
-The video explains that Qur'an has final authority over all previous Scriptures. It urges people to do good and to judge based on what Allah has revealed in Qur'an.
+ explains that Qur'an has final authority over all previous Scriptures. It urges people to do good and to judge based on what Allah has revealed in Qur'an.
 
-**[00:00:00](https://www.youtube.com/watch?v=c_CG2lONjpw&t=0)** The video discusses how Qur'an has final authority over previous Scriptures. It also encourages people to compete in doing good and to judge between them based on what Allah has revealed.
+**[00:00:00](https://www.youtube.com/watch?v=c_CG2lONjpw&t=0)**  discusses how Qur'an has final authority over previous Scriptures. It also encourages people to compete in doing good and to judge between them based on what Allah has revealed.
 
 ## Full transcript with timestamps
 

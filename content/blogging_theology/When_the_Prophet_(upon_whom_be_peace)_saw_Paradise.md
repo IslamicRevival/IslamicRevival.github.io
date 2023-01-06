@@ -13,7 +13,7 @@
 
 ### [00:00:00](https://www.youtube.com/watch?v=F10UhOu2dwE&t=0) - [00:00:00](https://www.youtube.com/watch?v=F10UhOu2dwE&t=0)
 
-The video is a retelling of a Hadith, or Islamic story, about Prophet Muhammad's (PBUH) visit to Paradise. In the story, Muhammad sees a piece of fruit that he desires to take back to Earth with him. If he had taken the fruit, he would have been able to eat from it forever.
+ is a retelling of a Hadith, or Islamic story, about Prophet Muhammad's (PBUH) visit to Paradise. In the story, Muhammad sees a piece of fruit that he desires to take back to Earth with him. If he had taken the fruit, he would have been able to eat from it forever.
 
 **[00:00:00](https://www.youtube.com/watch?v=F10UhOu2dwE&t=0)** This Hadith tells the story of how Prophet Muhammad (PBUH) saw paradise and desired to take a piece of it home with him. If he had taken the piece, he would have been able to eat of it forever.
 

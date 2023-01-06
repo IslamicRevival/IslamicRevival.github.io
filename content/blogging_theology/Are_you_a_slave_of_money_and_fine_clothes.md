@@ -17,7 +17,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 ### [00:00:00](https://www.youtube.com/watch?v=_qa43_5VIvk&t=0) - [00:00:00](https://www.youtube.com/watch?v=_qa43_5VIvk&t=0)
 
-This video is about a Hadith from Bukhari which teaches that people who are content with their material possessions and fine clothes are slaves to their desires. Those who are determined to follow God's path are happier and more content with their conditions, no matter what they are assigned to do.
+ is about a Hadith from Bukhari which teaches that people who are content with their material possessions and fine clothes are slaves to their desires. Those who are determined to follow God's path are happier and more content with their conditions, no matter what they are assigned to do.
 
 **[00:00:00](https://www.youtube.com/watch?v=_qa43_5VIvk&t=0)** This Hadith from Bukhari teaches that a person who is content with their material possessions and fine clothes is a slave to their desires, and is unhappy and confused when they don't have them. Those who are determined to follow God's path are happier and more content with their conditions, no matter what they are assigned to do.
 

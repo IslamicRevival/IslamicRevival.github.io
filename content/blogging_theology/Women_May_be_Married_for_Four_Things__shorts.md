@@ -13,7 +13,7 @@ Hadith from Sahih Muslim 5090
 
 ### [00:00:00](https://www.youtube.com/watch?v=_3ztKw-Gorc&t=0) - [00:00:00](https://www.youtube.com/watch?v=_3ztKw-Gorc&t=0)
 
-In this video, a man discusses the Prophet Muhammad's saying that women may be married for four reasons: for their wealth, their lineage, their beauty, and their religion. He advises that religious women be married, as otherwise they will be losers in life.
+ a man discusses the Prophet Muhammad's saying that women may be married for four reasons: for their wealth, their lineage, their beauty, and their religion. He advises that religious women be married, as otherwise they will be losers in life.
 
 **[00:00:00](https://www.youtube.com/watch?v=_3ztKw-Gorc&t=0)** The Prophet Muhammad said that women may be married for four reasons: for their wealth, their lineage, their beauty, and their religion. It is advised that religious women be married, as otherwise they will be losers in life.
 

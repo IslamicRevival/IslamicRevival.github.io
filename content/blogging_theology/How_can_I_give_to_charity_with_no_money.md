@@ -17,9 +17,9 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 ### [00:00:00](https://www.youtube.com/watch?v=eou5hLCwTGs&t=0) - [00:00:00](https://www.youtube.com/watch?v=eou5hLCwTGs&t=0)
 
-The video provides advice on how to give charity, regardless of one's financial situation. The advice includes suggestions for working with one's hands, helping others in distress, and refraining from harming others.
+ provides advice on how to give charity, regardless of one's financial situation. The advice includes suggestions for working with one's hands, helping others in distress, and refraining from harming others.
 
-**[00:00:00](https://www.youtube.com/watch?v=eou5hLCwTGs&t=0)** This video provides advice on how to give charity, regardless of one's financial situation. The advice includes suggestions for working with one's hands, helping others in distress, and refraining from harming others.
+**[00:00:00](https://www.youtube.com/watch?v=eou5hLCwTGs&t=0)**  provides advice on how to give charity, regardless of one's financial situation. The advice includes suggestions for working with one's hands, helping others in distress, and refraining from harming others.
 
 ## Full transcript with timestamps
 

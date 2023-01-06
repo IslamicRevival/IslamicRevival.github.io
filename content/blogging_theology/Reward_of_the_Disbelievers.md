@@ -17,9 +17,9 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 ### [00:00:00](https://www.youtube.com/watch?v=zuBe4WP_Vus&t=0) - [00:00:00](https://www.youtube.com/watch?v=zuBe4WP_Vus&t=0)
 
-The video from speaker's corner urges believers to be mindful of Allah and to strive to be closer to Him. The video also warns of the punishment awaiting disbelievers, even if they had all the wealth and possessions in the world. They will never be able to escape the punishment of the Day of Judgment, and will suffer an everlasting punishment.
+ from speaker's corner urges believers to be mindful of Allah and to strive to be closer to Him.  also warns of the punishment awaiting disbelievers, even if they had all the wealth and possessions in the world. They will never be able to escape the punishment of the Day of Judgment, and will suffer an everlasting punishment.
 
-**[00:00:00](https://www.youtube.com/watch?v=zuBe4WP_Vus&t=0)** The video presents a message from speaker's corner urging believers to be mindful of Allah and to strive to be closer to Him. The video also warns of the punishment awaiting disbelievers, even if they had all the wealth and possessions in the world. They will never be able to escape the punishment of the Day of Judgment, and will suffer an everlasting punishment.
+**[00:00:00](https://www.youtube.com/watch?v=zuBe4WP_Vus&t=0)**  presents a message from speaker's corner urging believers to be mindful of Allah and to strive to be closer to Him.  also warns of the punishment awaiting disbelievers, even if they had all the wealth and possessions in the world. They will never be able to escape the punishment of the Day of Judgment, and will suffer an everlasting punishment.
 
 ## Full transcript with timestamps
 

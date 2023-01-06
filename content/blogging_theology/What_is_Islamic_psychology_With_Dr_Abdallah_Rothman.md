@@ -21,7 +21,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 ### [00:00:00](https://www.youtube.com/watch?v=dYGFhqdQfdI&t=0) - [00:40:00](https://www.youtube.com/watch?v=dYGFhqdQfdI&t=2400)
 
-This video discusses Islamic psychology, with a focus on the work of Dr. Abdallah Rothman. Dr. Rothman discusses the importance of engaging in honest and authentic dialogue, and discusses the Cambridge Muslim College.
+ discusses Islamic psychology, with a focus on the work of Dr. Abdallah Rothman. Dr. Rothman discusses the importance of engaging in honest and authentic dialogue, and discusses the Cambridge Muslim College.
 
 **[00:00:00](https://www.youtube.com/watch?v=dYGFhqdQfdI&t=0)** Islamic psychology is a field that deals with the understanding of the human soul from an Islamic perspective. It draws from ontological and epistemological assumptions based on the Quran and Islamic tradition. In addition to understanding mental processes and behavior, it examines big concepts like epistemology and the nature of knowledge. This research often looks at conventional psychology from a materialist perspective, focusing on behavior and cognition.
 * **[00:05:00](https://www.youtube.com/watch?v=dYGFhqdQfdI&t=300)** Islamic psychology takes into account the Unseen World, recognizing knowledge that comes from things that we can't understand unless it comes from Revelation. There is disagreement among Islamic psychologists on the location of the soul, but it is one thing.
@@ -31,7 +31,7 @@ This video discusses Islamic psychology, with a focus on the work of Dr. Abdalla
 * **[00:25:00](https://www.youtube.com/watch?v=dYGFhqdQfdI&t=1500)** Sufism is the inner reality of Islam, which includes the esoteric and theological aspects of the practice. In Sufism, the spiritual journey of the Soul is all about understanding the inner and transforming what is within oneself. Western psychology can learn a lot from Sufism, regardless of whether the person becomes Muslim or not.
 * **[00:30:00](https://www.youtube.com/watch?v=dYGFhqdQfdI&t=1800)** Islamic psychology is a field of psychology that focuses on the human being in a way that is open to the heart rather than just dealing with thoughts. Abdallah Rothman provides resources for people interested in learning more about Islamic psychology.
 * **[00:35:00](https://www.youtube.com/watch?v=dYGFhqdQfdI&t=2100)** Abdallah Rothman discusses Islamic psychology, which is a model of the soul that draws from traditional Islamic scholarship and Western academic thought. He sees the future of the Cambridge Muslim College as being one that engages both Islamic tradition and the contemporary world, and helps young leaders to understand both Islamic and Western thought.
-* **[00:40:00](https://www.youtube.com/watch?v=dYGFhqdQfdI&t=2400)** This video discusses Islamic psychology, with a focus on the work of Dr. Abdallah Rothman. Dr. Rothman discusses the importance of engaging in honest and authentic dialogue, and discusses the Cambridge Muslim College.
+* **[00:40:00](https://www.youtube.com/watch?v=dYGFhqdQfdI&t=2400)**  discusses Islamic psychology, with a focus on the work of Dr. Abdallah Rothman. Dr. Rothman discusses the importance of engaging in honest and authentic dialogue, and discusses the Cambridge Muslim College.
 
 ## Full transcript with timestamps
 

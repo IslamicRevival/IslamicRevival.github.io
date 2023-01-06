@@ -26,9 +26,9 @@ https://twitter.com/freemonotheist
 
 ### [00:00:00](https://www.youtube.com/watch?v=uWs7smzqz0o&t=0) - [00:00:00](https://www.youtube.com/watch?v=uWs7smzqz0o&t=0)
 
-This video is about a French village where residents are speaking about the Qur'an. They discuss its importance and how it affects their lives. One resident notes that if Allah touches someone with hurt, there is no one who can remove it but Him. If someone enjoys Allah's benefit, He will keep His favor for them. Another resident quotes Qur'an verse 107, which states that Allah is the most merciful.
+ is about a French village where residents are speaking about the Qur'an. They discuss its importance and how it affects their lives. One resident notes that if Allah touches someone with hurt, there is no one who can remove it but Him. If someone enjoys Allah's benefit, He will keep His favor for them. Another resident quotes Qur'an verse 107, which states that Allah is the most merciful.
 
-**[00:00:00](https://www.youtube.com/watch?v=uWs7smzqz0o&t=0)** This video shows a French village where residents are speaking about the Qur'an. They discuss its importance and how it affects their lives. One resident notes that if Allah touches someone with hurt, there is no one who can remove it but Him. If someone enjoys Allah's benefit, He will keep His favor for them. Another resident quotes Qur'an verse 107, which states that Allah is the most merciful.
+**[00:00:00](https://www.youtube.com/watch?v=uWs7smzqz0o&t=0)**  shows a French village where residents are speaking about the Qur'an. They discuss its importance and how it affects their lives. One resident notes that if Allah touches someone with hurt, there is no one who can remove it but Him. If someone enjoys Allah's benefit, He will keep His favor for them. Another resident quotes Qur'an verse 107, which states that Allah is the most merciful.
 
 ## Full transcript with timestamps
 

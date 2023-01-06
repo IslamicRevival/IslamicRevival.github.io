@@ -23,9 +23,9 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 ### [00:00:00](https://www.youtube.com/watch?v=AHgWY-kY9LQ&t=0) - [00:00:00](https://www.youtube.com/watch?v=AHgWY-kY9LQ&t=0)
 
-The video discusses the importance of disclosing and performing acts of charity, but also emphasizes the importance of hiding these acts to avoid being stained with evil. The Prophet Muhammad is not required to set people on the right path, but Allah sets people on the right path whom He pleases. When performing acts of charity, it is important to remember that the goal is to help others and not to receive rewards yourself.
+ discusses the importance of disclosing and performing acts of charity, but also emphasizes the importance of hiding these acts to avoid being stained with evil. The Prophet Muhammad is not required to set people on the right path, but Allah sets people on the right path whom He pleases. When performing acts of charity, it is important to remember that the goal is to help others and not to receive rewards yourself.
 
-**[00:00:00](https://www.youtube.com/watch?v=AHgWY-kY9LQ&t=0)** The video discusses the importance of disclosing and performing acts of charity, but also emphasizes the importance of hiding these acts to avoid being stained with evil. The Prophet Muhammad is not required to set people on the right path, but Allah sets people on the right path whom He pleases. When performing acts of charity, it is important to remember that the goal is to help others and not to receive rewards yourself.
+**[00:00:00](https://www.youtube.com/watch?v=AHgWY-kY9LQ&t=0)**  discusses the importance of disclosing and performing acts of charity, but also emphasizes the importance of hiding these acts to avoid being stained with evil. The Prophet Muhammad is not required to set people on the right path, but Allah sets people on the right path whom He pleases. When performing acts of charity, it is important to remember that the goal is to help others and not to receive rewards yourself.
 
 ## Full transcript with timestamps
 
