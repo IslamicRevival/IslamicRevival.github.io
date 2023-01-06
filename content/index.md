@@ -20,7 +20,7 @@ hero:
       link: /contributing/writing-guide.html
     - theme: brand
       text: ⭐ Searchable video transcripts
-      link: /transcripts/02_-_Establishing_an_Islamic_State__Is_it_an_Obligation_(Fardh)
+      link: /blogging_theology/What_is_Truth_with_Firas_Zahabi
 
 features:
   - icon: 🔈
@@ -30,7 +30,7 @@ features:
   - icon: 📹
     title: Blogging Theology
     details: Transcript summaries of podcasts by Paul Williams
-    link:  /blogging_theology/The_Life_of_Muhammad__Chapter_11__A_Pact_of_Chivalry
+    link:  /blogging_theology/What_is_Truth_with_Firas_Zahabi
   - icon: 📕
     title: books
     details: Free downloads on Tawheed, Saqeefah, Sahaeefah & more!
