@@ -95,7 +95,7 @@ def gen_markdown_page(video_id: str, title: str, description: str, smarkdown: st
 
 def string_to_filename(filename, raw=False):
     """if raw, will delete all illegal characters. Else will replace '?' with '¿' and all others with '-'"""
-    illegal_characters_in_file_names = r'"/\*?<>|:\' '
+    illegal_characters_in_file_names = r'"/\*?<>|:\' \#'
 
     if raw:
         return ''.join(c for c in filename if c not in illegal_characters_in_file_names)
