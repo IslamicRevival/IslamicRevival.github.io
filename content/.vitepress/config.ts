@@ -46,7 +46,7 @@ export default defineConfig({
   {
 		text: 'Blogging Theology',
 		items: [
-			{ text: 'Video summaries', link: '/blogging_theology/_Pagan_influences__on_the_Christian_Gospels_&_Paul.md' }
+			{ text: 'Video summaries', link: '/blogging_theology/The_Life_of_Muhammad__Chapter_11__A_Pact_of_Chivalry.md' }
 		],
 	},
   {
