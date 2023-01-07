@@ -17,7 +17,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 ### [00:00:00](https://www.youtube.com/watch?v=ZCfwDGDfWtg&t=0) - [00:00:00](https://www.youtube.com/watch?v=ZCfwDGDfWtg&t=0)
 
-In this video, an attendee at the Charlottenburg Palace in Berlin reads from the Quran. The attendee explains that all Allah requires of believers is that they "abandon their faith" in order to be replaced by others who love Allah and are loved by Him. The believer should be humble with the disbelievers, but firm in the way of Allah. Allah will not blame them for anything, and this is Allah's favor.
+ an attendee at the Charlottenburg Palace in Berlin reads from the Quran. The attendee explains that all Allah requires of believers is that they "abandon their faith" in order to be replaced by others who love Allah and are loved by Him. The believer should be humble with the disbelievers, but firm in the way of Allah. Allah will not blame them for anything, and this is Allah's favor.
 
 **[00:00:00](https://www.youtube.com/watch?v=ZCfwDGDfWtg&t=0)** This video is at the Charlottenburg Palace in Berlin, Germany, and shows the Quran being read by an attendee. The attendee explains that all Allah requires of believers is that they "abandon their faith" in order to be replaced by others who love Allah and are loved by Him. The believer should be humble with the disbelievers, but firm in the way of Allah. Allah will not blame them for anything, and this is Allah's favor.
 

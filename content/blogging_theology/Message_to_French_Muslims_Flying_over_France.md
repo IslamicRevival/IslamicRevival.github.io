@@ -19,7 +19,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
  a speaker addresses French Muslims who are flying over France. He reminds them that the Quran says that Muslims should follow the teachings of God, not the teachings of the Jews and Christians. If French Muslims follow the teachings of God, they will find no protection from God or help in their lives.
 
-**[00:00:00](https://www.youtube.com/watch?v=dobRqeW2HNA&t=0)** This YouTube video is a message to French Muslims who are flying over France. The speaker reminds them that the Quran says that Muslims should follow the teachings of God, not the teachings of the Jews and Christians. If French Muslims follow the teachings of God, they will find no protection from God or help in their lives.
+**[00:00:00](https://www.youtube.com/watch?v=dobRqeW2HNA&t=0)** is a message to French Muslims who are flying over France. reminds them that the Quran says that Muslims should follow the teachings of God, not the teachings of the Jews and Christians. If French Muslims follow the teachings of God, they will find no protection from God or help in their lives.
 
 ## Full transcript with timestamps
 

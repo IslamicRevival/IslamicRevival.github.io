@@ -17,11 +17,11 @@ I read from 'There Is a God: How the World's Most Notorious Atheist Changed His 
 
 ### [00:00:00](https://www.youtube.com/watch?v=Gc-3QVEkfbM&t=0) - [00:10:00](https://www.youtube.com/watch?v=Gc-3QVEkfbM&t=600)
 
-Atheist philosopher Anthony Flew changed his mind about the existence of God after studying evidence, and now believes in an intelligent creator of the universe. In this video, Flew discusses his reasons for changing his belief, and how his colleagues and fellow atheists reacted to his change.
+Atheist philosopher Anthony Flew changed his mind about the existence of God after studying evidence, and now believes in an intelligent creator of the universe.  Flew discusses his reasons for changing his belief, and how his colleagues and fellow atheists reacted to his change.
 
 **[00:00:00](https://www.youtube.com/watch?v=Gc-3QVEkfbM&t=0)** Philosopher Anthony Flew changed his mind about God after studying evidence. He now believes in the existence of an intelligent creator of the universe.
 
-In this video, Anthony Flew discusses how he changed his mind about God after studying evidence. He now believes in the existence of an intelligent creator of the universe. Flew's colleagues and fellow atheists were shocked by his change of belief, but he remains committed to going wherever the evidence leads.
+ Anthony Flew discusses how he changed his mind about God after studying evidence. He now believes in the existence of an intelligent creator of the universe. Flew's colleagues and fellow atheists were shocked by his change of belief, but he remains committed to going wherever the evidence leads.
 * **[00:05:00](https://www.youtube.com/watch?v=Gc-3QVEkfbM&t=300)** The video's speaker discusses how he changed his mind about god, and cites scientific reasons why he believes in theism. He also discusses the challenges of biogenesis, and quotes a Nobel Prize-winning physiologist who argues that we must believe in the impossible that life arose spontaneously by chance.
 * **[00:10:00](https://www.youtube.com/watch?v=Gc-3QVEkfbM&t=600)** Nobel Prize-winning scientist Richard Dawkins discusses his gradual realization that there must be a Mind or God behind the universe, citing scientific discoveries such as the role of genes and proteins in producing life.
 

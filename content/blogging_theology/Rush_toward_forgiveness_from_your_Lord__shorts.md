@@ -17,9 +17,9 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 ### [00:00:00](https://www.youtube.com/watch?v=BKokpNwdZXI&t=0) - [00:00:00](https://www.youtube.com/watch?v=BKokpNwdZXI&t=0)
 
-The speaker urges believers to avoid usury, be quick in seeking forgiveness from their Lord, and to race to do good. Those who spend freely, whether prospering or in adversity, are praised. Those who restrain their anger and pardon everyone are also favored.
+urges believers to avoid usury, be quick in seeking forgiveness from their Lord, and to race to do good. Those who spend freely, whether prospering or in adversity, are praised. Those who restrain their anger and pardon everyone are also favored.
 
-**[00:00:00](https://www.youtube.com/watch?v=BKokpNwdZXI&t=0)** The speaker urges believers to avoid usury and to be quick in seeking forgiveness from their Lord. The race to do good is an important part of being blessed by Allah, and those who spend freely, whether prospering or in adversity, are praised. Those who restrain their anger and pardon everyone are also favored.
+**[00:00:00](https://www.youtube.com/watch?v=BKokpNwdZXI&t=0)** urges believers to avoid usury and to be quick in seeking forgiveness from their Lord. The race to do good is an important part of being blessed by Allah, and those who spend freely, whether prospering or in adversity, are praised. Those who restrain their anger and pardon everyone are also favored.
 
 ## Full transcript with timestamps
 

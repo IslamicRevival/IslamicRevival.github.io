@@ -13,7 +13,7 @@ A reading from the Revival of the Religious Sciences by Al-Ghazali.
 
 ### [00:00:00](https://www.youtube.com/watch?v=Nl1Mri_qhG4&t=0) - [00:00:00](https://www.youtube.com/watch?v=Nl1Mri_qhG4&t=0)
 
-In this video, Al-Ghazali discusses death and its implications according to his magnum opus Revival of the Religious Sciences. He praises God for breaking the necks of tyrants and shattering the backs of Persia's kings. He also quotes the Qur'an, which states that death is a crime. He asks if anyone in history has found strength and protection from death, and concludes that, unfortunately, most people have not.
+ Al-Ghazali discusses death and its implications according to his magnum opus Revival of the Religious Sciences. He praises God for breaking the necks of tyrants and shattering the backs of Persia's kings. He also quotes the Qur'an, which states that death is a crime. He asks if anyone in history has found strength and protection from death, and concludes that, unfortunately, most people have not.
 
 **[00:00:00](https://www.youtube.com/watch?v=Nl1Mri_qhG4&t=0)** Al-Ghazali discusses death in his magnum opus Revival of the Religious Sciences. He praises God for breaking the necks of tyrants and shattering the backs of Persia's kings. He also quotes the Qur'an, which states that death is a crime. He asks if anyone in history has found strength and protection from death, and concludes that, unfortunately, most people have not.
 

@@ -28,7 +28,7 @@ https://twitter.com/freemonotheist
 
 This video is about how Allah's grace can transform our lives if we have faith in him. The woman argues that Allah is generous and will reward those who are obedient to him. This is an inspiring message for Muslims who want to live their lives according to their faith.
 
-**[00:00:00](https://www.youtube.com/watch?v=Bt6xSrtVFV0&t=0)** This short video features a Muslim woman talking about the importance of having faith in Allah, and how his grace can transform our lives. According to the woman, surah 16 verses 96 to 97 describe Allah's rewards for those who are obedient and have faith.
+**[00:00:00](https://www.youtube.com/watch?v=Bt6xSrtVFV0&t=0)**  features a Muslim woman talking about the importance of having faith in Allah, and how his grace can transform our lives. According to the woman, surah 16 verses 96 to 97 describe Allah's rewards for those who are obedient and have faith.
 
 ## Full transcript with timestamps
 

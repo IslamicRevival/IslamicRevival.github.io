@@ -19,11 +19,11 @@ I quote from 'The New Jerome Biblical Commentary' by Raymond E. Brown, page 641.
 
 ### [00:00:00](https://www.youtube.com/watch?v=yhJ_0dVmAEc&t=0) - [00:10:00](https://www.youtube.com/watch?v=yhJ_0dVmAEc&t=600)
 
-The YouTube video discusses the different interpretations of what Jesus said regarding the Old Testament law. Some scholars say that Jesus abolished the law while others say that he renewed it. The video argues that Islam is closer to the original teaching of Jesus.
+ discusses the different interpretations of what Jesus said regarding the Old Testament law. Some scholars say that Jesus abolished the law while others say that he renewed it. The video argues that Islam is closer to the original teaching of Jesus.
 
 **[00:00:00](https://www.youtube.com/watch?v=yhJ_0dVmAEc&t=0)** In Matthew 5-7, Jesus teaches that the law in the kingdom of God is to be followed with renewed intensity, even your righteousness must exceed that of the Pharisees and the Scribes. In Ephesians 2:15, Paul says that Jesus abolished the law with its commandments and ordinances so that he could create a new humanity in its place.
 * **[00:05:00](https://www.youtube.com/watch?v=yhJ_0dVmAEc&t=300)** These biblical scholars say that the teaching in Matthew 5:17-19 that "do not think I have come to abolish the law or the prophets" contradicts Paul's teaching in Ephesians 2:15-16 that "the law has been abolished." They also say that there is a gap between the teaching in this passage and the practice of Christians today, who follow just a handful of Old Testament laws.
-* **[00:10:00](https://www.youtube.com/watch?v=yhJ_0dVmAEc&t=600)** This YouTube video discusses the difference between the original teaching of Jesus and the later teachings of Paul, which resulted in the death of true Christianity. Islam, which takes a middle path between the two extremes, is said to be closer to the original teaching of Jesus.
+* **[00:10:00](https://www.youtube.com/watch?v=yhJ_0dVmAEc&t=600)** discusses the difference between the original teaching of Jesus and the later teachings of Paul, which resulted in the death of true Christianity. Islam, which takes a middle path between the two extremes, is said to be closer to the original teaching of Jesus.
 
 ## Full transcript with timestamps
 

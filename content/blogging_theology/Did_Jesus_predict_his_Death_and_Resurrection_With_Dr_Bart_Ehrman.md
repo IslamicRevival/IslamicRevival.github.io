@@ -19,7 +19,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 ### [00:00:00](https://www.youtube.com/watch?v=AVeUVbr1RqA&t=0) - [00:00:00](https://www.youtube.com/watch?v=AVeUVbr1RqA&t=0)
 
-In the video, Dr. Bart Ehrman discusses the predictions made by Jesus about his death and resurrection. He notes that scholars are skeptical of these predictions because they do not make sense when viewed in light of everything that is known about Jesus' life and teachings.
+Dr. Bart Ehrman discusses the predictions made by Jesus about his death and resurrection. He notes that scholars are skeptical of these predictions because they do not make sense when viewed in light of everything that is known about Jesus' life and teachings.
 
 **[00:00:00](https://www.youtube.com/watch?v=AVeUVbr1RqA&t=0)** In his video, Dr. Bart Ehrman discusses the specific predictions made by Jesus about his death and resurrection, and how scholars are skeptical of these predictions because they do not make sense when viewed in light of everything that is known about Jesus' life and teachings.
 

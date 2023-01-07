@@ -17,7 +17,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 ### [00:00:00](https://www.youtube.com/watch?v=t479eVpUGOU&t=0) - [00:00:00](https://www.youtube.com/watch?v=t479eVpUGOU&t=0)
 
-In the video, the speaker explains that a verse in the Quran says that Jews and Christians have no excuse for not believing in Islam. He goes on to say that Allah is the best planner and can do anything, so Jews and Christians should have faith in Islam.
+the speaker explains that a verse in the Quran says that Jews and Christians have no excuse for not believing in Islam. He goes on to say that Allah is the best planner and can do anything, so Jews and Christians should have faith in Islam.
 
 **[00:00:00](https://www.youtube.com/watch?v=t479eVpUGOU&t=0)** In this verse, God says that the Jews and Christians have no excuse for their lack of faith. He points out that a messenger has come to them, and that this messenger is bringing good news and warning. Allah is the best of all planners, and He can do anything.
 

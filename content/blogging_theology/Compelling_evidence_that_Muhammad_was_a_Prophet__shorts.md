@@ -16,7 +16,7 @@ Please consider supporting my work on Patreon: https://www.patreon.com/Bloggingt
 
 ### [00:00:00](https://www.youtube.com/watch?v=vtxDK8NlX9M&t=0) - [00:00:00](https://www.youtube.com/watch?v=vtxDK8NlX9M&t=0)
 
-This YouTube video presents evidence that Muhammad was a true prophet. The most compelling evidence cited is an incident in which Muhammad is told that the eclipse was caused by the death of his son. This incident is seen as evidence of Muhammad's prophetic abilities because he was able to correctly interpret the eclipse as a sign from God.
+presents evidence that Muhammad was a true prophet. The most compelling evidence cited is an incident in which Muhammad is told that the eclipse was caused by the death of his son. This incident is seen as evidence of Muhammad's prophetic abilities because he was able to correctly interpret the eclipse as a sign from God.
 
 **[00:00:00](https://www.youtube.com/watch?v=vtxDK8NlX9M&t=0)** The most compelling evidence that Muhammad was a true prophet is an incident in which he is told that the eclipse was caused by the death of his son.
 

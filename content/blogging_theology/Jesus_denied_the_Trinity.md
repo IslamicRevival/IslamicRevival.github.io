@@ -17,9 +17,9 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 ### [00:00:00](https://www.youtube.com/watch?v=p0gz1CSZbtA&t=0) - [00:00:00](https://www.youtube.com/watch?v=p0gz1CSZbtA&t=0)
 
-The speaker in the video claims that Christians who believe in the Trinity have fallen into disbelief, and quotes Jesus as saying that anyone who associates others with God in worship will be forbidden from Paradise. He also says that those who believe in the Trinity have fallen into disbelief, and that only one God exists. If they do not stop saying this, they will be afflicted with a painful punishment.
+claims that Christians who believe in the Trinity have fallen into disbelief, and quotes Jesus as saying that anyone who associates others with God in worship will be forbidden from Paradise. He also says that those who believe in the Trinity have fallen into disbelief, and that only one God exists. If they do not stop saying this, they will be afflicted with a painful punishment.
 
-**[00:00:00](https://www.youtube.com/watch?v=p0gz1CSZbtA&t=0)** The speaker discusses how Christians who believe in the Trinity have fallen into disbelief, and quotes Jesus as saying that anyone who associates others with God in worship will be forbidden from Paradise. He also says that those who believe in the Trinity have fallen into disbelief, and that only one God exists. If they do not stop saying this, they will be afflicted with a painful punishment.
+**[00:00:00](https://www.youtube.com/watch?v=p0gz1CSZbtA&t=0)** discusses how Christians who believe in the Trinity have fallen into disbelief, and quotes Jesus as saying that anyone who associates others with God in worship will be forbidden from Paradise. He also says that those who believe in the Trinity have fallen into disbelief, and that only one God exists. If they do not stop saying this, they will be afflicted with a painful punishment.
 
 ## Full transcript with timestamps
 

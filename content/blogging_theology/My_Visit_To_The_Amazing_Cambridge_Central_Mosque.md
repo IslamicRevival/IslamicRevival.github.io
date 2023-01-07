@@ -19,7 +19,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 The video explores the architecture and facilities of the Cambridge Central Mosque. The Sheikh's sermon on empathy is featured, as well as the impressive Wudu facilities.
 
-**[00:00:00](https://www.youtube.com/watch?v=cYamuG78Hl0&t=0)** This YouTube video explores the architecture and facilities of Cambridge Central Mosque. The Sheikh's sermon on empathy was very beautiful and sophisticated, and the Wudu facilities were impressive.
+**[00:00:00](https://www.youtube.com/watch?v=cYamuG78Hl0&t=0)** explores the architecture and facilities of Cambridge Central Mosque. The Sheikh's sermon on empathy was very beautiful and sophisticated, and the Wudu facilities were impressive.
 
 ## Full transcript with timestamps
 

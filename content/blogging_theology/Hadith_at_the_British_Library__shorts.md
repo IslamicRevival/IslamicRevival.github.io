@@ -15,7 +15,7 @@
 
  is a man talking about a hadith, or saying of the Prophet Muhammad, that says whoever dies knowing there is no deity but God will enter paradise. He is standing outside the British Library, which has a large collection of hadith.
 
-**[00:00:00](https://www.youtube.com/watch?v=RiD581r_MAQ&t=0)** This YouTube video shows a man standing outside the British Library, one of the largest libraries in the world. The messenger of God, upon whom be peace, said that whoever dies knowing there is no deity but God will enter paradise. Hadith and sahih Muslim provide further information on this hadith.
+**[00:00:00](https://www.youtube.com/watch?v=RiD581r_MAQ&t=0)** shows a man standing outside the British Library, one of the largest libraries in the world. The messenger of God, upon whom be peace, said that whoever dies knowing there is no deity but God will enter paradise. Hadith and sahih Muslim provide further information on this hadith.
 
 ## Full transcript with timestamps
 

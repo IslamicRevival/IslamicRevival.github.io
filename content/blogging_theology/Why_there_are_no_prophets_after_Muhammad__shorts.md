@@ -13,7 +13,7 @@ Hadith in Bukhari & Muslim
 
 ### [00:00:00](https://www.youtube.com/watch?v=OGKgz3pH5Kg&t=0) - [00:00:00](https://www.youtube.com/watch?v=OGKgz3pH5Kg&t=0)
 
-The YouTube video titled "Why there are no prophets after Muhammad #shorts" compares Muhammad's relationship with the prophets who came before him to the unfinished construction of a house. The prophets are similar to the brick in the house, and Muhammad is the one who completes their work. This analogy is used to explain why there are no prophets after Muhammad.
+ titled "Why there are no prophets after Muhammad #shorts" compares Muhammad's relationship with the prophets who came before him to the unfinished construction of a house. The prophets are similar to the brick in the house, and Muhammad is the one who completes their work. This analogy is used to explain why there are no prophets after Muhammad.
 
 **[00:00:00](https://www.youtube.com/watch?v=OGKgz3pH5Kg&t=0)** This hadith compares Muhammad's relationship with the prophets who came before him to the unfinished construction of a house. The prophets are similar to the brick in the house, and Muhammad is the one who completes their work. This analogy is used to explain why there are no prophets after Muhammad.
 

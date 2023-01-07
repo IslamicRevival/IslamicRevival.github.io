@@ -13,9 +13,9 @@ A Warning To The Atheists |  #shorts by Paul Williams
 
 ### [00:00:00](https://www.youtube.com/watch?v=c0TGBQlcFmA&t=0) - [00:00:00](https://www.youtube.com/watch?v=c0TGBQlcFmA&t=0)
 
-In this video, Paul Williams warns atheists that they may end up in hellfire if they do not believe in God. He also encourages believers to live good lives and be rewarded by God.
+ Paul Williams warns atheists that they may end up in hellfire if they do not believe in God. He also encourages believers to live good lives and be rewarded by God.
 
-**[00:00:00](https://www.youtube.com/watch?v=c0TGBQlcFmA&t=0)** In this short video, Paul Williams warns atheists that they may end up in hellfire if they do not believe in God. He also encourages believers to live good lives and be rewarded by God.
+**[00:00:00](https://www.youtube.com/watch?v=c0TGBQlcFmA&t=0)** Paul Williams warns atheists that they may end up in hellfire if they do not believe in God. He also encourages believers to live good lives and be rewarded by God.
 
 ## Full transcript with timestamps
 

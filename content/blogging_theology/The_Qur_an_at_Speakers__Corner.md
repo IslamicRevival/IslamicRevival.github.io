@@ -17,9 +17,9 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 ### [00:00:00](https://www.youtube.com/watch?v=WXhzF7YCkMQ&t=0) - [00:00:00](https://www.youtube.com/watch?v=WXhzF7YCkMQ&t=0)
 
-The speaker at Speakers' Corner shares the Qur'an's message of forgiveness and compassion. The speaker also warns of the dangers of breaking one's covenant with Allah, but urges people to forgive those who sin.
+at Speakers' Corner shares the Qur'an's message of forgiveness and compassion. also warns of the dangers of breaking one's covenant with Allah, but urges people to forgive those who sin.
 
-**[00:00:00](https://www.youtube.com/watch?v=WXhzF7YCkMQ&t=0)** The speaker at Speakers' Corner shares the Qur'an's message of forgiveness and compassion, emphasizing that Allah is always with those who do good deeds. The speaker also warns of the dangers of breaking one's covenant with Allah, noting that those who do so will incur his wrath. Nonetheless, the speaker urges people to forgive those who sin, noting that Allah loves those who obey him.
+**[00:00:00](https://www.youtube.com/watch?v=WXhzF7YCkMQ&t=0)** at Speakers' Corner shares the Qur'an's message of forgiveness and compassion, emphasizing that Allah is always with those who do good deeds. also warns of the dangers of breaking one's covenant with Allah, noting that those who do so will incur his wrath. Nonetheless, the speaker urges people to forgive those who sin, noting that Allah loves those who obey him.
 
 ## Full transcript with timestamps
 

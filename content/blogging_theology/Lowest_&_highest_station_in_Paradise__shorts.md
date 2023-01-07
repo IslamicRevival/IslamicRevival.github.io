@@ -13,7 +13,7 @@ Hadith from Ahmad and Tirmidhi
 
 ### [00:00:00](https://www.youtube.com/watch?v=bpzb1rjHUkI&t=0) - [00:00:00](https://www.youtube.com/watch?v=bpzb1rjHUkI&t=0)
 
-In the video, a man discusses the hadith that the lowest in station in Paradise will be the one who looks at his gardens, wives, bliss, and servants, while the most honored person will be the one who looks at his face morning and evening. The man goes on to say that this shows that what really matters is not what we have, but how we use what we have.
+a man discusses the hadith that the lowest in station in Paradise will be the one who looks at his gardens, wives, bliss, and servants, while the most honored person will be the one who looks at his face morning and evening. The man goes on to say that this shows that what really matters is not what we have, but how we use what we have.
 
 **[00:00:00](https://www.youtube.com/watch?v=bpzb1rjHUkI&t=0)** According to a hadith recorded by Ahmed Termiti, the lowest in station in Paradise will be the one who looks at his gardens, his wives, his bliss, and his servants. The most honored person in Paradise will be the one who looks at his face morning and evening.
 

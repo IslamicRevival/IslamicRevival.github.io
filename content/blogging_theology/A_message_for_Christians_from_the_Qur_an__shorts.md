@@ -17,9 +17,9 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 ### [00:00:00](https://www.youtube.com/watch?v=EYs_2mSzpjY&t=0) - [00:00:00](https://www.youtube.com/watch?v=EYs_2mSzpjY&t=0)
 
-In the YouTube video "A message for Christians from the Qur'an #shorts", the speaker urges Christians to believe in Allah and his messengers, and to refrain from believing in the Trinity. Allah is sufficient as a trustee of affairs, and is above having a son.
+"A message for Christians from the Qur'an #shorts", the speaker urges Christians to believe in Allah and his messengers, and to refrain from believing in the Trinity. Allah is sufficient as a trustee of affairs, and is above having a son.
 
-**[00:00:00](https://www.youtube.com/watch?v=EYs_2mSzpjY&t=0)** The speaker urges Christians not to go too far when discussing Allah, stating that Jesus was nothing more than a messenger of Allah. They also advise Christians to believe in Allah and his messengers, and to refrain from believing in the Trinity. Allah is sufficient as a trustee of affairs, and is above having a son.
+**[00:00:00](https://www.youtube.com/watch?v=EYs_2mSzpjY&t=0)** urges Christians not to go too far when discussing Allah, stating that Jesus was nothing more than a messenger of Allah. They also advise Christians to believe in Allah and his messengers, and to refrain from believing in the Trinity. Allah is sufficient as a trustee of affairs, and is above having a son.
 
 ## Full transcript with timestamps
 

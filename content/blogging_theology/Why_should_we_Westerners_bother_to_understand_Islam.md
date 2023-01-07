@@ -21,10 +21,10 @@ Misquoting Muhammad: The Challenge and Choices of Interpreting the Prophet’s L
 
 ### [00:00:00](https://www.youtube.com/watch?v=INNV-NVO8jM&t=0) - [00:05:00](https://www.youtube.com/watch?v=INNV-NVO8jM&t=300)
 
-The speaker in this video argues that it is important for Westerners to take the time to learn about Islam, as it is a religion with a universal mission that has clashed with the Western world throughout history. He believes that by understanding Islam, we can help to bring peace and order to our world and promote coexistence between different cultures.
+in this video argues that it is important for Westerners to take the time to learn about Islam, as it is a religion with a universal mission that has clashed with the Western world throughout history. He believes that by understanding Islam, we can help to bring peace and order to our world and promote coexistence between different cultures.
 
 **[00:00:00](https://www.youtube.com/watch?v=INNV-NVO8jM&t=0)** Islam is a religion with a universal mission, and it has clashed with the Western world throughout history. Today, the clash between Islam and the secular Western world is again resurfacing, as Islam claims a universal mandate. To understand Islam, it is important to begin by reading translations of the Quran into English, which can be found in books like "Muhammad: His Life Based on the Earliest Sources" by Martin Ling and "Guidance for Classic Work: Islam and the Destiny of Man" by Professor Ac Jonathan Brown.
-* **[00:05:00](https://www.youtube.com/watch?v=INNV-NVO8jM&t=300)** The speaker argues that Islam is not just a religion, but a way of life that we should all strive to understand and learn more about. He believes that by doing so, we can help to bring peace and order to our world, and help to promote coexistence between different cultures.
+* **[00:05:00](https://www.youtube.com/watch?v=INNV-NVO8jM&t=300)** argues that Islam is not just a religion, but a way of life that we should all strive to understand and learn more about. He believes that by doing so, we can help to bring peace and order to our world, and help to promote coexistence between different cultures.
 
 ## Full transcript with timestamps
 

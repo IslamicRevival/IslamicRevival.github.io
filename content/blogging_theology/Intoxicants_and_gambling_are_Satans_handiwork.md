@@ -17,7 +17,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 ### [00:00:00](https://www.youtube.com/watch?v=7Yy0dnQUe0U&t=0) - [00:00:00](https://www.youtube.com/watch?v=7Yy0dnQUe0U&t=0)
 
-The speaker in this video sermonizes against the use of intoxicants and gambling, calling them the handiwork of Satan. He urges people to avoid them in order to achieve success.
+in this video sermonizes against the use of intoxicants and gambling, calling them the handiwork of Satan. He urges people to avoid them in order to achieve success.
 
 **[00:00:00](https://www.youtube.com/watch?v=7Yy0dnQUe0U&t=0)**  is a sermon at a mosque open day, in which the speaker condemns intoxicants and gambling as evil works of Satan. He encourages people to shun them in order to achieve success.
 

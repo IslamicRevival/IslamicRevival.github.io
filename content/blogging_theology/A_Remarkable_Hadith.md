@@ -17,7 +17,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 ### [00:00:00](https://www.youtube.com/watch?v=7Nac9ap7HnE&t=0) - [00:00:00](https://www.youtube.com/watch?v=7Nac9ap7HnE&t=0)
 
-This YouTube video is titled "A Remarkable Hadith." In it, a speaker talks about a hadith, or saying of the Prophet Muhammad, which states that those who do even a tenth of what they have been commanded by God will be saved. The speaker goes on to say that this hadith is a reminder to Muslims to not abandon their religion, as doing so will lead to their destruction.
+ "A Remarkable Hadith." In it, a speaker talks about a hadith, or saying of the Prophet Muhammad, which states that those who do even a tenth of what they have been commanded by God will be saved. goes on to say that this hadith is a reminder to Muslims to not abandon their religion, as doing so will lead to their destruction.
 
 **[00:00:00](https://www.youtube.com/watch?v=7Nac9ap7HnE&t=0)** This Hadith tells us that anyone who abandons a tenth of what they have been commanded by God will perish, but that a time will come when anyone who does a tenth of what they have been commanded will be saved.
 

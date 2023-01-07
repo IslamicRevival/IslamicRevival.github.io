@@ -214,8 +214,10 @@ def main(channel_ids=CHANNEL_ID):
                 driver.close()
                 driver.quit()
 
-                # find ./ -type f -name "*.md" -exec sed -i 's/According to this video,//g' {} \;
-                smarkdown = md(mdresponse, strip=['title', 'head', 'gtag', 'props', 'could not summarize', '<could not summarize>', 'In this video,', 'in this video,', 'In this YouTube video','The video', 'This video', 'According to this video,'])
+                # find ./ -type f -name "*.md" -exec sed -i 's/The author //g' {} \;
+                smarkdown = md(mdresponse, strip=['title', 'head', 'gtag', 'props', 'could not summarize', '<could not summarize>', 'In this video,', 'in this video,',
+                    'In this YouTube video','The video', 'This video', 'According to this video,', 'This short video', 'This YouTube video is titled', 'The YouTube video', 'In this video,', ' In this short video,',
+                    'The speaker in the video ', 'The speaker ', 'This YouTube video ', 'In the video, ', 'In the YouTube video ', 'The author ' ])
                 smarkdown = re.sub(r'\{\"props.*\"', '', smarkdown)
                 smarkdown = re.sub(r'See more\* ','', smarkdown)
                 smarkdown = re.sub(r'summary for:.*summarize.tech.*Summary','## Summary', smarkdown)

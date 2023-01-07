@@ -17,7 +17,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 ### [00:00:00](https://www.youtube.com/watch?v=65AmWwNKAlk&t=0) - [00:00:00](https://www.youtube.com/watch?v=65AmWwNKAlk&t=0)
 
-This YouTube video is a reminder to Muslims to be careful of their actions and to trust in God. If anything bad happens, they should not blame themselves because it was God's will. Saying "if only" will only give Satan a chance to work against them.
+is a reminder to Muslims to be careful of their actions and to trust in God. If anything bad happens, they should not blame themselves because it was God's will. Saying "if only" will only give Satan a chance to work against them.
 
 **[00:00:00](https://www.youtube.com/watch?v=65AmWwNKAlk&t=0)** This Hadith from Muslim reminds the faithful to be watchful over their own actions and to seek the aid of God in order to achieve their goals. If anything bad should happen, do not blame yourself; it was God's will, not yours, that led to the situation. Saying "if only" will only open the door for Satan to work against you.
 

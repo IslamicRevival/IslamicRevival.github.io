@@ -17,9 +17,9 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 ### [00:00:00](https://www.youtube.com/watch?v=_-qhqj7ZySU&t=0) - [00:00:00](https://www.youtube.com/watch?v=_-qhqj7ZySU&t=0)
 
-The speaker at Speaker's Corner in London is judging between believers and non-believers. He reminds believers that all of what Allah has revealed to them is true, and advises them to beware of unbelievers who may try to lure them away from the truth. If believers turn away from Allah's judgment, it is Allah's will to repay them for some of their sins.
+at Speaker's Corner in London is judging between believers and non-believers. He reminds believers that all of what Allah has revealed to them is true, and advises them to beware of unbelievers who may try to lure them away from the truth. If believers turn away from Allah's judgment, it is Allah's will to repay them for some of their sins.
 
-**[00:00:00](https://www.youtube.com/watch?v=_-qhqj7ZySU&t=0)** The speaker is at Speaker's Corner in London and is judging between believers and non-believers. He reminds believers that all of what Allah has revealed to them is true, and advises them to beware of unbelievers who may try to lure them away from the truth. If believers turn away from Allah's judgment, it is Allah's will to repay them for some of their sins.
+**[00:00:00](https://www.youtube.com/watch?v=_-qhqj7ZySU&t=0)** is at Speaker's Corner in London and is judging between believers and non-believers. He reminds believers that all of what Allah has revealed to them is true, and advises them to beware of unbelievers who may try to lure them away from the truth. If believers turn away from Allah's judgment, it is Allah's will to repay them for some of their sins.
 
 ## Full transcript with timestamps
 

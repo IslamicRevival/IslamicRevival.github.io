@@ -17,9 +17,9 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 ### [00:00:00](https://www.youtube.com/watch?v=4NedOrIattw&t=0) - [00:00:00](https://www.youtube.com/watch?v=4NedOrIattw&t=0)
 
-The speaker gives advice on how Muslims and Christians can eat together without violating their dietary restrictions. They state that all good, pure foods are now permissible for Muslims and Christians, provided that they are paid their dowries in marriage. Marriage to disbelievers is forbidden, as is fornication and taking mistresses. Those who reject faith will have their good deeds void in this life and in the hereafter.
+gives advice on how Muslims and Christians can eat together without violating their dietary restrictions. They state that all good, pure foods are now permissible for Muslims and Christians, provided that they are paid their dowries in marriage. Marriage to disbelievers is forbidden, as is fornication and taking mistresses. Those who reject faith will have their good deeds void in this life and in the hereafter.
 
-**[00:00:00](https://www.youtube.com/watch?v=4NedOrIattw&t=0)** The speaker provides advice on religious dietary restrictions for Muslims and Christians. The speaker states that all good, pure foods are now permissible for Muslims and Christians, provided that they are paid their dowries in marriage. Marriage to disbelievers is forbidden, as is fornication and taking mistresses. Those who reject faith will have their good deeds void in this life and in the hereafter.
+**[00:00:00](https://www.youtube.com/watch?v=4NedOrIattw&t=0)** provides advice on religious dietary restrictions for Muslims and Christians. states that all good, pure foods are now permissible for Muslims and Christians, provided that they are paid their dowries in marriage. Marriage to disbelievers is forbidden, as is fornication and taking mistresses. Those who reject faith will have their good deeds void in this life and in the hereafter.
 
 ## Full transcript with timestamps
 

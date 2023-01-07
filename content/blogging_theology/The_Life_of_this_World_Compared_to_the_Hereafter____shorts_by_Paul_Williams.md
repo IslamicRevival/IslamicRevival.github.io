@@ -13,9 +13,9 @@ The Life of this World Compared to the Hereafter | #shorts by Paul Williams
 
 ### [00:00:00](https://www.youtube.com/watch?v=YplduJNWvkg&t=0) - [00:00:00](https://www.youtube.com/watch?v=YplduJNWvkg&t=0)
 
-This short video compares the life on earth to the afterlife, highlighting the difference between the two. According to the prophet Muhammad, the life on earth is like a person putting their finger into the ocean and taking it out again, then comparing the water that remains on their finger to the water that remains in the ocean. The life on earth is short and insignificant in comparison to the eternal life that awaits people in the afterlife.
+ compares the life on earth to the afterlife, highlighting the difference between the two. According to the prophet Muhammad, the life on earth is like a person putting their finger into the ocean and taking it out again, then comparing the water that remains on their finger to the water that remains in the ocean. The life on earth is short and insignificant in comparison to the eternal life that awaits people in the afterlife.
 
-**[00:00:00](https://www.youtube.com/watch?v=YplduJNWvkg&t=0)** This short video compares the life on earth to the afterlife, highlighting the difference between the two. According to the prophet Muhammad, the life on earth is like a person putting their finger into the ocean and taking it out again, then comparing the water that remains on their finger to the water that remains in the ocean. The life on earth is short and insignificant in comparison to the eternal life that awaits people in the afterlife.
+**[00:00:00](https://www.youtube.com/watch?v=YplduJNWvkg&t=0)**  compares the life on earth to the afterlife, highlighting the difference between the two. According to the prophet Muhammad, the life on earth is like a person putting their finger into the ocean and taking it out again, then comparing the water that remains on their finger to the water that remains in the ocean. The life on earth is short and insignificant in comparison to the eternal life that awaits people in the afterlife.
 
 ## Full transcript with timestamps
 

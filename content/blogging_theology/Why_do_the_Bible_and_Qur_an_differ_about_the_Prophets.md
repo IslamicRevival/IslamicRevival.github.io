@@ -18,11 +18,11 @@ by Professor Sidney H. Griffith https://www.amazon.co.uk/Bible-Arabic-Scriptures
 
 ### [00:00:00](https://www.youtube.com/watch?v=vIfz9zrAf4E&t=0) - [00:10:00](https://www.youtube.com/watch?v=vIfz9zrAf4E&t=600)
 
-The video discusses the ways in which the Quran's portrayal of prophets and patriarchs differs from that of the Bible. The author argues that the Quran is more concerned with well-known accounts of the Bible's principle characters than with the Bible itself. He provides quotes from the Qur'an to illustrate his point.
+The video discusses the ways in which the Quran's portrayal of prophets and patriarchs differs from that of the Bible. argues that the Quran is more concerned with well-known accounts of the Bible's principle characters than with the Bible itself. He provides quotes from the Qur'an to illustrate his point.
 
 **[00:00:00](https://www.youtube.com/watch?v=vIfz9zrAf4E&t=0)** The author, Sydney Griffith, argues that the Quran distinguishes itself from the Bible in its portrayal of the prophets and patriarchs. Griffith suggests that the Quran is more interested in well-known accounts of the Bible's principle characters than in the Bible itself.
-* **[00:05:00](https://www.youtube.com/watch?v=vIfz9zrAf4E&t=300)** The author discusses the differences between the Bible and the Qur'an regarding the prophets. He points out that although the Qur'an does contain references to earlier scriptures, it does so according to its own unique prophetology, and is corrective of and even polemical towards earlier readings of the scripture. He provides quotes from the Qur'an illustrating this point.
-* **[00:10:00](https://www.youtube.com/watch?v=vIfz9zrAf4E&t=600)** The author of the video discusses the differences between the Bible and the Qur'an with regards to the prophets. He argues that the Quran's reprise of certain stories from the Bible reflects the opening of a new book, and that this analogy supports the Muslim belief that the Quran corrects and gives the truth about ancient stories.
+* **[00:05:00](https://www.youtube.com/watch?v=vIfz9zrAf4E&t=300)** discusses the differences between the Bible and the Qur'an regarding the prophets. He points out that although the Qur'an does contain references to earlier scriptures, it does so according to its own unique prophetology, and is corrective of and even polemical towards earlier readings of the scripture. He provides quotes from the Qur'an illustrating this point.
+* **[00:10:00](https://www.youtube.com/watch?v=vIfz9zrAf4E&t=600)** of the video discusses the differences between the Bible and the Qur'an with regards to the prophets. He argues that the Quran's reprise of certain stories from the Bible reflects the opening of a new book, and that this analogy supports the Muslim belief that the Quran corrects and gives the truth about ancient stories.
 
 ## Full transcript with timestamps
 

@@ -17,7 +17,7 @@ The video discusses the possible problems with the translation of surah 4:34 in 
 
 **[00:00:00](https://www.youtube.com/watch?v=JhkYto2hX44&t=0)** The Clear Quran translation of surah 4:34 states that husbands should take good care of their wives with the bounties God has given to some more than others and with what they spend out of their own money. If a wife senses her husband is ill-behaved, she can get help from her guardian or seek divorce. However, the translation includes the phrase "likely as part of the translation," which some viewers interpreted to mean that husbands should physically discipline their wives.
 * **[00:05:00](https://www.youtube.com/watch?v=JhkYto2hX44&t=300)** Jonathan Brown discusses the problem of verse 4:34 in the Qur'an, and how it has led to violence against women in some cases. He notes that neither the pre-modern ulama nor the prophet themselves endorsed spousal abuse, and that the translation tries to be faithful to the Arabic while allowing for interpretation.
-* **[00:10:00](https://www.youtube.com/watch?v=JhkYto2hX44&t=600)** The Clear Quran translation of surah 4:34 is highly regarded by western academics, but some translation issues may exist. The author has not read all of the Quran in the new translation, but is less confident in its literal translation.
+* **[00:10:00](https://www.youtube.com/watch?v=JhkYto2hX44&t=600)** The Clear Quran translation of surah 4:34 is highly regarded by western academics, but some translation issues may exist. has not read all of the Quran in the new translation, but is less confident in its literal translation.
 
 ## Full transcript with timestamps
 

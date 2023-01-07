@@ -17,7 +17,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 ### [00:00:00](https://www.youtube.com/watch?v=7oqEl21yGFs&t=0) - [00:00:00](https://www.youtube.com/watch?v=7oqEl21yGFs&t=0)
 
-The YouTube video "Is the world out of control? #Shorts" discusses the idea that the world seems to be out of control and how this makes people feel. However, the believer knows that all is from Allah, and that good and bad come from destiny. This is the essence of being Muslim, and it brings healing.
+ "Is the world out of control? #Shorts" discusses the idea that the world seems to be out of control and how this makes people feel. However, the believer knows that all is from Allah, and that good and bad come from destiny. This is the essence of being Muslim, and it brings healing.
 
 **[00:00:00](https://www.youtube.com/watch?v=7oqEl21yGFs&t=0)** People in the video feel frightened because the world seems to be out of control. However, the believer knows that all is from Allah, and that good and bad come from destiny. This is the essence of being Muslim, and it brings healing.
 

@@ -13,7 +13,7 @@ Muhammad is the one closest to Jesus | #shorts by Paul Williams. Filmed in the c
 
 ### [00:00:00](https://www.youtube.com/watch?v=I8wkXzSZKfc&t=0) - [00:00:00](https://www.youtube.com/watch?v=I8wkXzSZKfc&t=0)
 
-In this video, Paul Williams discusses the claim that Muhammad is the closest person to Jesus in this world. He cites hadith from both Bukhari and Muslim to support this claim.
+ Paul Williams discusses the claim that Muhammad is the closest person to Jesus in this world. He cites hadith from both Bukhari and Muslim to support this claim.
 
 **[00:00:00](https://www.youtube.com/watch?v=I8wkXzSZKfc&t=0)** This video by Paul Williams discusses the claim that Muhammad is the closest person to Jesus in this world. The video cites hadith from both Bukhari and Muslim to support this claim.
 

@@ -16,7 +16,7 @@ Filmed at Speakers' Corner last weekend.
  discusses the idea that the figure of the "paracletos" in the Bible could be interpreted as Muhammad, despite the objections of Christians. It is argued that this is possible with the understanding that God has sent other prophets.
 
 **[00:00:00](https://www.youtube.com/watch?v=JbH7lO06z6o&t=0)** This individual believes that the scriptures can be read in a way that references Muhammad, despite the objections of Christians. They state that this is done with the understanding that God has sent other prophets.
-* **[00:05:00](https://www.youtube.com/watch?v=JbH7lO06z6o&t=300)** This YouTube video discusses the idea that there will be a human figure who comes after Jesus in the Bible, known as the "paracletos." Scholars from both Christianity and Islam agree that this figure is not Muhammad, but instead another figure from early Christianity.
+* **[00:05:00](https://www.youtube.com/watch?v=JbH7lO06z6o&t=300)** discusses the idea that there will be a human figure who comes after Jesus in the Bible, known as the "paracletos." Scholars from both Christianity and Islam agree that this figure is not Muhammad, but instead another figure from early Christianity.
 
 ## Full transcript with timestamps
 

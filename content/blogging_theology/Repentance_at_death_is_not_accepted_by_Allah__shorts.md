@@ -17,9 +17,9 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 ### [00:00:00](https://www.youtube.com/watch?v=Ry0Wmjr9O60&t=0) - [00:00:00](https://www.youtube.com/watch?v=Ry0Wmjr9O60&t=0)
 
-The speaker in the video explains that repentance at death is not accepted by Allah. He states that repentance is only accepted when done in ignorance and that those who repent soon after committing evil will be mercyned by Allah. However, those who continue to commit evil will suffer a punishment most grievous.
+explains that repentance at death is not accepted by Allah. He states that repentance is only accepted when done in ignorance and that those who repent soon after committing evil will be mercyned by Allah. However, those who continue to commit evil will suffer a punishment most grievous.
 
-**[00:00:00](https://www.youtube.com/watch?v=Ry0Wmjr9O60&t=0)** The speaker explains that repentance at death is not accepted by Allah, as it is only accepted when done in ignorance. Those who repent soon after committing evil will be mercyned by Allah, while those who continue to commit evil will suffer a punishment most grievous.
+**[00:00:00](https://www.youtube.com/watch?v=Ry0Wmjr9O60&t=0)** explains that repentance at death is not accepted by Allah, as it is only accepted when done in ignorance. Those who repent soon after committing evil will be mercyned by Allah, while those who continue to commit evil will suffer a punishment most grievous.
 
 ## Full transcript with timestamps
 

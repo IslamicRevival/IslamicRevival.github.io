@@ -17,10 +17,10 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 ### [00:00:00](https://www.youtube.com/watch?v=FVRTmCbVJYE&t=0) - [00:05:00](https://www.youtube.com/watch?v=FVRTmCbVJYE&t=300)
 
-The YouTube video "Amazed by The Qur'an" presents the author's renewed amazement at the Quran, a holy book written by the prophet Muhammad. The author points out that, despite being criticized by God himself, the prophet delivered the revelations in all honesty. This speaks to his nobility and beauty as a way of reproaching those who deny the resurrection and last day.
+ "Amazed by The Qur'an" presents the author's renewed amazement at the Quran, a holy book written by the prophet Muhammad. points out that, despite being criticized by God himself, the prophet delivered the revelations in all honesty. This speaks to his nobility and beauty as a way of reproaching those who deny the resurrection and last day.
 
 **[00:00:00](https://www.youtube.com/watch?v=FVRTmCbVJYE&t=0)** The Quran continues to surprise and amaze Muslims who have read it from cover to cover in English, as Professor Abdul Haleem points out in his translation. Chapter 80, which discusses the prophet's reaction to a blind man coming to learn from him, is particularly revealing.
-* **[00:05:00](https://www.youtube.com/watch?v=FVRTmCbVJYE&t=300)** This YouTube video presents the author's renewed amazement at the Quran, a holy book written by the prophet Muhammad. The author points out that, despite being criticized by God himself, the prophet delivered the revelations in all honesty. This speaks to his nobility and beauty as a way of reproaching those who deny the resurrection and last day.
+* **[00:05:00](https://www.youtube.com/watch?v=FVRTmCbVJYE&t=300)** presents the author's renewed amazement at the Quran, a holy book written by the prophet Muhammad. points out that, despite being criticized by God himself, the prophet delivered the revelations in all honesty. This speaks to his nobility and beauty as a way of reproaching those who deny the resurrection and last day.
 
 ## Full transcript with timestamps
 

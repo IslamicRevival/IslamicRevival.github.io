@@ -13,9 +13,9 @@
 
 ### [00:00:00](https://www.youtube.com/watch?v=Nq9dkSVb8_s&t=0) - [00:00:00](https://www.youtube.com/watch?v=Nq9dkSVb8_s&t=0)
 
-The speaker in the video makes observations about the growing number of Muslim women who are wearing hijabs at the university he attends. He speculates about what this might mean for the future.
+makes observations about the growing number of Muslim women who are wearing hijabs at the university he attends. He speculates about what this might mean for the future.
 
-**[00:00:00](https://www.youtube.com/watch?v=Nq9dkSVb8_s&t=0)** The speaker noted that, in recent times, half of the female students at a university he attended were wearing hijabs, and that this was a new development. He speculated about what this might mean for the future.
+**[00:00:00](https://www.youtube.com/watch?v=Nq9dkSVb8_s&t=0)** noted that, in recent times, half of the female students at a university he attended were wearing hijabs, and that this was a new development. He speculated about what this might mean for the future.
 
 ## Full transcript with timestamps
 

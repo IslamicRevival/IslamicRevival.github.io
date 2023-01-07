@@ -31,7 +31,7 @@ Principle of Sufficient Reason and the Infinite Regress   1
 * **[00:55:00](https://www.youtube.com/watch?v=s1M1TfxIhSQ&t=3300)** The theory of a matrix is a failed explanation of reality, according to the author. Mathematics is a language of the mind, and if people do not study it, they will not be able to understand it. Most teachers are not skilled mathematicians, and this results in students not enjoying mathematics.
 ### [01:00:00](https://www.youtube.com/watch?v=s1M1TfxIhSQ&t=3600) - [01:00:00](https://www.youtube.com/watch?v=s1M1TfxIhSQ&t=3600)
 
-The YouTube video explains the principle of sufficient reason and how it leads to the principle of convergence.  uses the example of a sequence of numbers to illustrate how the two principles work together to produce a result.
+ explains the principle of sufficient reason and how it leads to the principle of convergence.  uses the example of a sequence of numbers to illustrate how the two principles work together to produce a result.
 
 **[01:00:00](https://www.youtube.com/watch?v=s1M1TfxIhSQ&t=3600)** The Principle of Sufficient Reason states that a sequence must converge to an upper limit. The Principle of Convergence states that, based on neighborhoods, a sequence will converge to a certain point.
 

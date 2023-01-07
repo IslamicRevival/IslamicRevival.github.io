@@ -15,7 +15,7 @@ If You See An Evil Action: hadith from Muslim
 
 ### [00:00:00](https://www.youtube.com/watch?v=coNRG83gUyY&t=0) - [00:00:00](https://www.youtube.com/watch?v=coNRG83gUyY&t=0)
 
-The YouTube video urges Muslims to take action against evil, even if they can't do everything themselves.
+ urges Muslims to take action against evil, even if they can't do everything themselves.
 
 **[00:00:00](https://www.youtube.com/watch?v=coNRG83gUyY&t=0)** The Hadith quoted above urges Muslims to take action when they see evil happening, even if they can't do everything themselves.
 

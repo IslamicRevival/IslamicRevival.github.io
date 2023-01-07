@@ -15,7 +15,7 @@ What is the Greatest Sin? | #shorts by Paul Williams
 
 The greatest sin, according to a messenger of God, is worshipping anything other than the creator God. This is supported by several hadith references.
 
-**[00:00:00](https://www.youtube.com/watch?v=cC2nqEOhlbc&t=0)** In this video, a man asks a messenger of God what the greatest sin is. The messenger replies that the greatest sin is worshipping anything other than God, who created us. Several hadith references support this claim.
+**[00:00:00](https://www.youtube.com/watch?v=cC2nqEOhlbc&t=0)**  a man asks a messenger of God what the greatest sin is. The messenger replies that the greatest sin is worshipping anything other than God, who created us. Several hadith references support this claim.
 
 ## Full transcript with timestamps
 

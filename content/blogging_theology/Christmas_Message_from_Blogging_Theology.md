@@ -29,10 +29,10 @@ Also consider these contradictions:
 
 ### [00:00:00](https://www.youtube.com/watch?v=UKfoEkJ_Yi0&t=0) - [00:05:00](https://www.youtube.com/watch?v=UKfoEkJ_Yi0&t=300)
 
-The video discusses how Christians imagine the very first Christmas, 2000 years ago, and points out that the idea of God changing is contradictory and therefore cannot be true. The author of the video urges people to abandon theology and belief in something simpler, purer, and monotheistic, which he believes is what Jesus himself proclaimed.
+The video discusses how Christians imagine the very first Christmas, 2000 years ago, and points out that the idea of God changing is contradictory and therefore cannot be true. of the video urges people to abandon theology and belief in something simpler, purer, and monotheistic, which he believes is what Jesus himself proclaimed.
 
 **[00:00:00](https://www.youtube.com/watch?v=UKfoEkJ_Yi0&t=0)** The video discusses how Christians imagine the very first Christmas, which 2000 years ago involved the conception, growth, and birth of Jesus Christ. It points out that the idea of God changing is contradictory and therefore cannot be true, and that behind all of these beliefs is the idea that God changes big time in his very nature but the Bible teaches over and over that God does not change.
-* **[00:05:00](https://www.youtube.com/watch?v=UKfoEkJ_Yi0&t=300)** The author of the video offers a Christmas message advocating for people to abandon theology and belief in something simpler, purer, and monotheistic. He believes that this is what Jesus himself proclaimed to the Jews and the prophets before him, and urges people to believe in that monotheism. He also says that Muslims believe in the same monotheism as Christians, and that abandoning these contradictory beliefs would be a good step in accepting God's perfection.
+* **[00:05:00](https://www.youtube.com/watch?v=UKfoEkJ_Yi0&t=300)** of the video offers a Christmas message advocating for people to abandon theology and belief in something simpler, purer, and monotheistic. He believes that this is what Jesus himself proclaimed to the Jews and the prophets before him, and urges people to believe in that monotheism. He also says that Muslims believe in the same monotheism as Christians, and that abandoning these contradictory beliefs would be a good step in accepting God's perfection.
 
 ## Full transcript with timestamps
 

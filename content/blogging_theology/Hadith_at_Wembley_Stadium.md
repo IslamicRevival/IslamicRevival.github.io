@@ -17,7 +17,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 ### [00:00:00](https://www.youtube.com/watch?v=xG2EbXyuQQQ&t=0) - [00:00:00](https://www.youtube.com/watch?v=xG2EbXyuQQQ&t=0)
 
-In this video, a Hadith is narrated in which Aisha says she once competed with a messenger of God in running and overtook him. She says that she again competed with him, but this time he overtook her and said they are even now.
+ a Hadith is narrated in which Aisha says she once competed with a messenger of God in running and overtook him. She says that she again competed with him, but this time he overtook her and said they are even now.
 
 **[00:00:00](https://www.youtube.com/watch?v=xG2EbXyuQQQ&t=0)** This video presents a Hadith in which Hadith narrator Aisha (may God be pleased with her) says that she competed with a messenger of God in running and overtook him later. She also says that she once again competed with him, but this time he overtook her and said they are even now.
 

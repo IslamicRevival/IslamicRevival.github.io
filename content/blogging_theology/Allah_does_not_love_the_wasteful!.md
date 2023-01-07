@@ -17,9 +17,9 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 ### [00:00:00](https://www.youtube.com/watch?v=K76Z9mG9giE&t=0) - [00:00:00](https://www.youtube.com/watch?v=K76Z9mG9giE&t=0)
 
-The speaker in the video discusses an Islamic proverb that states that Allah does not love wasteful people. The proverb is used to encourage people to be responsible with their resources, and to ensure that they give back to the poor as part of their religious obligations. The video is a reminder that people should be mindful of their actions and not take resources for granted, as Allah does not condone wastefulness.
+discusses an Islamic proverb that states that Allah does not love wasteful people. The proverb is used to encourage people to be responsible with their resources, and to ensure that they give back to the poor as part of their religious obligations. The video is a reminder that people should be mindful of their actions and not take resources for granted, as Allah does not condone wastefulness.
 
-**[00:00:00](https://www.youtube.com/watch?v=K76Z9mG9giE&t=0)** The speaker discusses an Islamic proverb that states that Allah does not love wasteful people. The proverb is used to encourage people to be responsible with their resources, and to ensure that they give back to the poor as part of their religious obligations.
+**[00:00:00](https://www.youtube.com/watch?v=K76Z9mG9giE&t=0)** discusses an Islamic proverb that states that Allah does not love wasteful people. The proverb is used to encourage people to be responsible with their resources, and to ensure that they give back to the poor as part of their religious obligations.
 
 ## Full transcript with timestamps
 

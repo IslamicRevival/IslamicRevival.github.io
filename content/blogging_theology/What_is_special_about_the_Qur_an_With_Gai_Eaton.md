@@ -20,7 +20,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 Gai Eaton discusses the significance of the Quran and its ability to provide salvation to people of all backgrounds. He shares a short excerpt from his book Islam and the Destiny of Man in which he discusses the Quran's use of images, symbols, and parables. Eaton believes that the Quran is the perfect book for conveying divine messages to humanity due to its unique properties.
 
 **[00:00:00](https://www.youtube.com/watch?v=Osc1p4wW-v8&t=0)** The author, Gai Eaton, discusses the significance of the Quran and why it is special. He shares a short excerpt from his book Islam and the Destiny of Man in which he discusses the Quran's use of images, symbols, and parables. Eaton believes that no book of human authorship can be for everyone, but the Quran fulfills its purpose by providing salvation to people of all backgrounds.
-* **[00:05:00](https://www.youtube.com/watch?v=Osc1p4wW-v8&t=300)** The author discusses the unique properties of the Qur'an, which make it the perfect tool for conveying divine messages to humanity. The text is effective in transforming its readers, and its effects have been seen throughout history in the lives of millions of people.
+* **[00:05:00](https://www.youtube.com/watch?v=Osc1p4wW-v8&t=300)** discusses the unique properties of the Qur'an, which make it the perfect tool for conveying divine messages to humanity. The text is effective in transforming its readers, and its effects have been seen throughout history in the lives of millions of people.
 
 ## Full transcript with timestamps
 

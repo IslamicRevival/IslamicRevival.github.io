@@ -17,7 +17,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 ### [00:00:00](https://www.youtube.com/watch?v=EbRprrC6InY&t=0) - [00:00:00](https://www.youtube.com/watch?v=EbRprrC6InY&t=0)
 
-The speaker in the video challenges the idea that Jesus was crucified, arguing that it was only made to appear so. He provides evidence that Jesus was instead raised up to Allah and all wise.
+challenges the idea that Jesus was crucified, arguing that it was only made to appear so. He provides evidence that Jesus was instead raised up to Allah and all wise.
 
 **[00:00:00](https://www.youtube.com/watch?v=EbRprrC6InY&t=0)** The video speaker challenges the idea that Jesus was crucified, arguing that it was only made to appear so. He provides evidence that Jesus was instead raised up to Allah and all wise.
 

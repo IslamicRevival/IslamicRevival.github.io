@@ -14,7 +14,7 @@ https://www.tiktok.com/@dennis.fang/video/7169367944206585090?is_copy_url=1&is_f
 
 ### [00:00:00](https://www.youtube.com/watch?v=0RLpcXt7M2g&t=0) - [00:00:00](https://www.youtube.com/watch?v=0RLpcXt7M2g&t=0)
 
-In the YouTube video "LGBT+ Qatar and Islam brilliantly explained by non-Muslim," Dennis Fang, a non-Muslim, explains why Muslims in Qatar are struggling to accept LGBT people. He points out that the values of secular liberalism, which are prevalent in Qatar, are at odds with Islamic morality. Muslims appreciate his perspective, and it is rare to find a non-Muslim who understands Islam's stance on LGBT.
+"LGBT+ Qatar and Islam brilliantly explained by non-Muslim," Dennis Fang, a non-Muslim, explains why Muslims in Qatar are struggling to accept LGBT people. He points out that the values of secular liberalism, which are prevalent in Qatar, are at odds with Islamic morality. Muslims appreciate his perspective, and it is rare to find a non-Muslim who understands Islam's stance on LGBT.
 
 **[00:00:00](https://www.youtube.com/watch?v=0RLpcXt7M2g&t=0)** Muslims in Qatar are struggling to accept LGBT people because their values are based on secular liberalism, which is at odds with Islamic morality. Dennis Fang, a non-Muslim, explains why in a concise video. Muslims appreciate his perspective, and it is rare to find a non-Muslim who understands Islam's stance on LGBT.
 

@@ -13,9 +13,9 @@ Hadith from al-Bukhari, number 80.
 
 ### [00:00:00](https://www.youtube.com/watch?v=ubNQq4ywo0Y&t=0) - [00:00:00](https://www.youtube.com/watch?v=ubNQq4ywo0Y&t=0)
 
-The speaker in the video discusses the signs that will be present during the upcoming hour. One of these signs is that knowledge will be taken away, which will lead to an increase in ignorance. Alcohol will also be widely used, and a popular TV show called Xena will become popular.
+discusses the signs that will be present during the upcoming hour. One of these signs is that knowledge will be taken away, which will lead to an increase in ignorance. Alcohol will also be widely used, and a popular TV show called Xena will become popular.
 
-**[00:00:00](https://www.youtube.com/watch?v=ubNQq4ywo0Y&t=0)** The speaker discusses the various signs that will be present during the upcoming hour. One of these signs is that knowledge will be taken away, which will lead to an increase in ignorance. Alcohol will also be widely used, and a popular TV show called Xena will become popular.
+**[00:00:00](https://www.youtube.com/watch?v=ubNQq4ywo0Y&t=0)** discusses the various signs that will be present during the upcoming hour. One of these signs is that knowledge will be taken away, which will lead to an increase in ignorance. Alcohol will also be widely used, and a popular TV show called Xena will become popular.
 
 ## Full transcript with timestamps
 

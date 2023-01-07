@@ -17,7 +17,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 ### [00:00:00](https://www.youtube.com/watch?v=jh8qlWG251Y&t=0) - [00:00:00](https://www.youtube.com/watch?v=jh8qlWG251Y&t=0)
 
-In this video, the Islamic prophet Muhammad delivers a speech in which he perfects the religion for Muslims. He bans many practices that were considered evil and tells Muslims not to fear the disbelievers, as they have no hope of undermining the Muslim faith.
+ the Islamic prophet Muhammad delivers a speech in which he perfects the religion for Muslims. He bans many practices that were considered evil and tells Muslims not to fear the disbelievers, as they have no hope of undermining the Muslim faith.
 
 **[00:00:00](https://www.youtube.com/watch?v=jh8qlWG251Y&t=0)** Today, the Islamic prophet Muhammad perfected the religion for Muslims, banning many practices that were considered evil. Fear not the disbelievers, Muhammad says, as they have given up all hope of undermining Muslims' faith.
 

@@ -13,9 +13,9 @@ Surah 29 verses 2-5
 
 ### [00:00:00](https://www.youtube.com/watch?v=BRDyA6eneQ4&t=0) - [00:00:00](https://www.youtube.com/watch?v=BRDyA6eneQ4&t=0)
 
-The speaker in this video discusses the idea that people will be tested in the afterlife, and how those who practice evil will ultimately be punished. He also notes that those who have hope in meeting Allah in the hereafter should strive hard. This is a brief but insightful video that provides some food for thought on what happens after we die.
+in this video discusses the idea that people will be tested in the afterlife, and how those who practice evil will ultimately be punished. He also notes that those who have hope in meeting Allah in the hereafter should strive hard. This is a brief but insightful video that provides some food for thought on what happens after we die.
 
-**[00:00:00](https://www.youtube.com/watch?v=BRDyA6eneQ4&t=0)** The speaker discusses the idea that people will be tested in the afterlife, and how those who practice evil will ultimately be punished. He also notes that those who have hope in meeting Allah in the hereafter should strive hard.
+**[00:00:00](https://www.youtube.com/watch?v=BRDyA6eneQ4&t=0)** discusses the idea that people will be tested in the afterlife, and how those who practice evil will ultimately be punished. He also notes that those who have hope in meeting Allah in the hereafter should strive hard.
 
 ## Full transcript with timestamps
 

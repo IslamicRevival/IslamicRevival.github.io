@@ -17,9 +17,9 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 ### [00:00:00](https://www.youtube.com/watch?v=8WtWjyqoDFA&t=0) - [00:00:00](https://www.youtube.com/watch?v=8WtWjyqoDFA&t=0)
 
-The speaker in the video argues that Jesus is not God, based on the differences between Jesus and Allah, and on the fact that Jesus is not considered to be God by Jews and Christians.
+argues that Jesus is not God, based on the differences between Jesus and Allah, and on the fact that Jesus is not considered to be God by Jews and Christians.
 
-**[00:00:00](https://www.youtube.com/watch?v=8WtWjyqoDFA&t=0)** The speaker argues that there are major differences between Jesus and Allah, and that Allah is far more powerful and capable than Jesus. He also points out that Jesus is not considered to be God by the Jews and Christians, and that Allah is the only true god.
+**[00:00:00](https://www.youtube.com/watch?v=8WtWjyqoDFA&t=0)** argues that there are major differences between Jesus and Allah, and that Allah is far more powerful and capable than Jesus. He also points out that Jesus is not considered to be God by the Jews and Christians, and that Allah is the only true god.
 
 ## Full transcript with timestamps
 
