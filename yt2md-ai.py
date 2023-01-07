@@ -258,7 +258,7 @@ def main(channel_ids=channel_ids_input):
                     smarkdown = smarkdown.replace(word, "")
 
                 smarkdown = re.sub(r'\* of this video ', '', smarkdown)
-                smarkdown = re.sub(r'\*\s+discusses ', ' Discusses', smarkdown)
+                smarkdown = re.sub(r'\*\s+discusses ', ' Discusses ', smarkdown)
                 smarkdown = re.sub(r'\{\"props.*\"', '', smarkdown)
                 smarkdown = re.sub(r'See more\* ','', smarkdown)
                 smarkdown = re.sub(r'summary for:.*summarize.tech.*Summary','## Summary', smarkdown)

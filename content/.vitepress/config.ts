@@ -71,7 +71,7 @@ export default defineConfig({
 {
   text: 'Mohammed Hijab',
   items: [
-    { text: 'PDFs', link: '/hijab/Liberalism_as_Religion____Turkey_Lecture' }
+    { text: 'PDFs', link: '/hijab/Hard_Questions_to_Hamza_Tzortzis' }
   ],
  },
     ],

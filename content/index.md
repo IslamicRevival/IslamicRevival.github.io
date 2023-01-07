@@ -34,7 +34,7 @@ features:
   - icon: 🔈
     title: Mohammed Hijab
     details: Transcript summaries of videos by Mohammed Hijab
-    link: //hijab/Liberalism_as_Religion____Turkey_Lecture
+    link: //hijab/Hard_Questions_to_Hamza_Tzortzis
   - icon: 📕
     title: books
     details: Free downloads on Tawheed, Saqeefah, Sahaeefah & more!
