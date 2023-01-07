@@ -17,7 +17,7 @@ discusses the recent rise in Islam in England, which is in contrast to Christian
 
 **[00:00:00](https://www.youtube.com/watch?v=R1IF9maoMj8&t=0)** The BBC reports that, according to the 2021 Census, fewer than half of people in England and Wales describe themselves as Christian - a 10-year change. Meanwhile, the number of people who identify as Muslim has increased by 43%.
 * **[00:05:00](https://www.youtube.com/watch?v=R1IF9maoMj8&t=300)** discusses the recent rise in Islam in England, which is in contrast to Christianity's dramatic decline. Murad, a Christian scholar, writes that the reasons for this trend are both immigration and conversion. He points out that, historically speaking, Islam has roots in the Middle East, which is significant given that Christianity has been accepted as part of British history.
-* **[00:10:00](https://www.youtube.com/watch?v=R1IF9maoMj8&t=600)** In this YouTube video, an Englishman discusses the increasing popularity of Islam in his country and the corresponding decline in Christianity. He predicts that, in the future, Islam will become the main focus of monotheistic energy in Britain.
+* **[00:10:00](https://www.youtube.com/watch?v=R1IF9maoMj8&t=600)** an Englishman discusses the increasing popularity of Islam in his country and the corresponding decline in Christianity. He predicts that, in the future, Islam will become the main focus of monotheistic energy in Britain.
 
 ## Full transcript with timestamps
 

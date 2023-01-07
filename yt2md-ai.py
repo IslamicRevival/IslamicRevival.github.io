@@ -235,7 +235,7 @@ def main(channel_ids=channel_ids_input):
                 # start the webdriver and load the webpage
                 driver = webdriver.Chrome('./chromedriver', options=options, chrome_options=chrome_options)
                 driver.get(url)
-                wait = WebDriverWait(driver, 30)
+                wait = WebDriverWait(driver, 50)
                 #wait.until(EC.presence_of_element_located((By.TAG_NAME,"h1")))
                 wait.until(EC.presence_of_element_located((By.ID,"__NEXT_DATA__")))
                 time.sleep(20) #sleep for X sec
@@ -243,22 +243,26 @@ def main(channel_ids=channel_ids_input):
                 driver.close()
                 driver.quit()
                 # grep -rL "AI" *.md|xargs rm -f ##find and rm missing AI
-                # find ./ -type f -name "*.md" -exec sed -i 's/*  discusses / Discusses /g' {} \;
-                smarkdown = md(mdresponse, strip=['title', 'head', 'gtag', 'props', 'could not summarize', '<could not summarize>', 'In this video,', 'in this video,',
-                    'In this YouTube video','The video', 'This video', 'According to this video,', 'This short video', 'This YouTube video is titled', 'The YouTube video', 'In this video,', ' In this short video,',
-                    'The speaker in the video ', 'The speaker ', 'This YouTube video ', 'In the video, ', 'In the YouTube video ', 'The author ', 'The main points of this video are that ', 'The narrator of this video ' ])
-                smarkdown = re.sub(r'\* of this video ', '', smarkdown)
-                smarkdown = re.sub(r'\*\s+discusses ', ' Discusses', smarkdown)
+                # find ./ -type f -name "*.md" -exec sed -i 's/In this video, / /g' {} \;
+                smarkdown = md(mdresponse)
+                
+                # list of AI NLP words to remove
+                words_to_remove = ['title', 'head', 'gtag', 'props', 'could not summarize', '<could not summarize>', 'In this video,', 'in this video,',
+                                    'In this YouTube video','The video', 'This video', 'According to this video,', 'This short video', 'This YouTube video is titled', 'The YouTube video', 'In this video,', ' In this short video,',
+                                    'The speaker in the video ', 'The speaker ', 'This YouTube video ', 'In the video, ', 'In the YouTube video ', 'The author ', 'The main points of this video are that ', 'The narrator of this video ',
+                                    ' The video ', ' In this YouTube video, ', 'In this video, ', '\* of this video ', 'summarize.tech ', 'Summarize another video']
+
+                # remove each word from the string
+                for word in words_to_remove:
+                    smarkdown = smarkdown.replace(word, "")
+
                 smarkdown = re.sub(r'\{\"props.*\"', '', smarkdown)
                 smarkdown = re.sub(r'See more\* ','', smarkdown)
                 smarkdown = re.sub(r'summary for:.*summarize.tech.*Summary','## Summary', smarkdown)
-                smarkdown = re.sub(r'summarize.tech ','', smarkdown)
-                smarkdown = re.sub(r'<could not summarize>','', smarkdown)
-                smarkdown = re.sub(r'Summarize another video','', smarkdown)
                 smarkdown = re.sub(r'.*gtag.*','', smarkdown)
                 smarkdown = re.sub(r'.*dataLayer.*','', smarkdown)
                 smarkdown = re.sub(r'.==.*','', smarkdown)
-                if smarkdown and smarkdown.strip():
+                if not smarkdown and not smarkdown.strip():
                     logging.warn("SKIPPING: no summary markdown generated")
                     continue
                 logging.info(smarkdown)

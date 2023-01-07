@@ -28,7 +28,7 @@ https://twitter.com/freemonotheist
 
 This video discusses the life of Muhammad and how he is seen as a prophet of both the Abrahamic and Ishmaelic religious traditions. It describes the building of the Kaaba and notes that the most holy object in the Kaaba is a celestial stone brought down to earth by an angel.
 
-**[00:00:00](https://www.youtube.com/watch?v=nGWuZcyGIvs&t=0)** In this video, Martin Ling reads from a chapter of his book, Life of Muhammad, about the life of Muhammad. He discusses how the story of Abraham and Sarah is repeated in Muhammad's life, and how Muhammad is a prophet of God.
+**[00:00:00](https://www.youtube.com/watch?v=nGWuZcyGIvs&t=0)**  Martin Ling reads from a chapter of his book, Life of Muhammad, about the life of Muhammad. He discusses how the story of Abraham and Sarah is repeated in Muhammad's life, and how Muhammad is a prophet of God.
 * **[00:05:00](https://www.youtube.com/watch?v=nGWuZcyGIvs&t=300)** This video discusses the life of Muhammad, from his birth to his ascension to heaven. It notes that there are two main religious streams in Islam: Abrahamic and Ishmaelic. Muhammad is seen as a prophet of both traditions, bridging the gap between the two. He is praised in the Psalms for his mother's faith in him.
 
 The water at Zamzam Springs is said to have come from Muhammad's heel, and the valley soon became a stop for caravans. Muhammad is also praised for his faith in God. However, there is indirect praise of Muhammad and his mother in the Psalms.

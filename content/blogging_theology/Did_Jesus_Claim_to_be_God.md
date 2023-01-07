@@ -15,11 +15,11 @@ https://www.amazon.co.uk/How-Jesus-Became-Bart-Ehrman/dp/0061778184
 
 ### [00:00:00](https://www.youtube.com/watch?v=TZoC-iPb7uU&t=0) - [00:10:00](https://www.youtube.com/watch?v=TZoC-iPb7uU&t=600)
 
-In this video, Bart Ehrman discusses the evidence that Jesus did not claim to be God, but instead may have been claiming a priestly prerogative. He points out that there are few, if any, explicit claims of this nature in earlier sources, and that this suggests that Jesus did not consider himself to be divine. The video also argues that Jesus' miracles and forgiveness are indicative of his divine nature, and that he is worshipped as if he were a god.
+ Bart Ehrman discusses the evidence that Jesus did not claim to be God, but instead may have been claiming a priestly prerogative. He points out that there are few, if any, explicit claims of this nature in earlier sources, and that this suggests that Jesus did not consider himself to be divine. The video also argues that Jesus' miracles and forgiveness are indicative of his divine nature, and that he is worshipped as if he were a god.
 
 **[00:00:00](https://www.youtube.com/watch?v=TZoC-iPb7uU&t=0)** In his book "Did Jesus Claim to Be God?" Bart Ehrman discusses the mainstream view among biblical scholars that Jesus claimed to be God. He points out that these claims are found only in John's gospel and are not found in any other source. They are not credible when taken in context, and there is no record of anyone else claiming this same thing about themselves.
 * **[00:05:00](https://www.youtube.com/watch?v=TZoC-iPb7uU&t=300)** The video discusses the evidence for Jesus' claims to be divine. It notes that there are few, if any, explicit claims of this nature in earlier sources, and that this suggests that Jesus did not consider himself to be divine. The video also argues that Jesus' miracles and forgiveness are indicative of his divine nature, and that he is worshipped as if he were a god.
-* **[00:10:00](https://www.youtube.com/watch?v=TZoC-iPb7uU&t=600)** In this video, Bart Ehrman discusses the evidence that Jesus did not claim to be God, and instead may have been claiming a priestly prerogative. Scholars from all over the world agree with this conclusion, and believe that Jesus was a prophet and a messiah sent by God.
+* **[00:10:00](https://www.youtube.com/watch?v=TZoC-iPb7uU&t=600)**  Bart Ehrman discusses the evidence that Jesus did not claim to be God, and instead may have been claiming a priestly prerogative. Scholars from all over the world agree with this conclusion, and believe that Jesus was a prophet and a messiah sent by God.
 
 ## Full transcript with timestamps
 

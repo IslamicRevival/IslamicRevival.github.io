@@ -30,9 +30,9 @@ The video discusses different Gospels that did not make it into the Bible, and a
 * **[00:55:00](https://www.youtube.com/watch?v=11NiLEydjjg&t=3300)** The author discusses apocryphal gospels, which were once thought to be less important than canonical gospel texts. He points out that this is not always the case, and that there is still much to be discovered about the Bible.
 ### [01:00:00](https://www.youtube.com/watch?v=11NiLEydjjg&t=3600) - [01:00:00](https://www.youtube.com/watch?v=11NiLEydjjg&t=3600)
 
-In this video, Dale Martin discusses some of the Gospels that did not make it into the Bible. He notes that while there may not be anything new to be said about these texts, they are still important because they offer a different perspective on certain aspects of Christianity.
+ Dale Martin discusses some of the Gospels that did not make it into the Bible. He notes that while there may not be anything new to be said about these texts, they are still important because they offer a different perspective on certain aspects of Christianity.
 
-**[01:00:00](https://www.youtube.com/watch?v=11NiLEydjjg&t=3600)** In this video, Dale Martin discusses some of the Gospels that did not make it into the Bible. He notes that while there may not be anything new to be said about these texts, they are still important because they offer a different perspective on certain aspects of Christianity. Martin also talks about his inspiration for his work as a professor, which comes from monk Monk.
+**[01:00:00](https://www.youtube.com/watch?v=11NiLEydjjg&t=3600)**  Dale Martin discusses some of the Gospels that did not make it into the Bible. He notes that while there may not be anything new to be said about these texts, they are still important because they offer a different perspective on certain aspects of Christianity. Martin also talks about his inspiration for his work as a professor, which comes from monk Monk.
 
 ## Full transcript with timestamps
 

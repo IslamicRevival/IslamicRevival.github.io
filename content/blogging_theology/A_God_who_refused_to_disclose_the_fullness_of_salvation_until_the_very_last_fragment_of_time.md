@@ -33,7 +33,7 @@ According to a Prophetic narration collected by Ibn Ḥibbân, the total number 
 in this YouTube video discusses the idea that God may have withheld salvation from humanity for over two thousand years in order to teach them a lesson. references a Christmas poem by Thomas Hardy which speaks to this issue. also mentions that Christianity expected the world to be converted within a few years, and that they had no concept of deep time before that.
 
 **[00:00:00](https://www.youtube.com/watch?v=j5-OShW1_Zs&t=0)** ponders how a god who has withheld salvation from humanity for over two thousand years can be admired. references a Christmas poem by Thomas Hardy which speaks to this issue.
-* **[00:05:00](https://www.youtube.com/watch?v=j5-OShW1_Zs&t=300)** In this YouTube video, the speaker discusses why God left salvation until the very last millisecond, and how this might be related to deep time and humanity's existence on Earth. also mentions that Christianity expected the world to be converted within a few years, and that they had no concept of deep time before that.
+* **[00:05:00](https://www.youtube.com/watch?v=j5-OShW1_Zs&t=300)** the speaker discusses why God left salvation until the very last millisecond, and how this might be related to deep time and humanity's existence on Earth. also mentions that Christianity expected the world to be converted within a few years, and that they had no concept of deep time before that.
 
 ## Full transcript with timestamps
 
