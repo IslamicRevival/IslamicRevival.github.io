@@ -19,7 +19,7 @@ from youtube_transcript_api import YouTubeTranscriptApi
 
 ## sample run: ./yt2md.py -u https://www.youtube.com/watch?v=39Vep9aTNa4
 
-API_KEY = os.getenv('API_KEY7') ## codespaces secrets
+API_KEY = os.getenv('API_KEY4') ## codespaces secrets
 CHANNEL_ID = ["UC_SLXSHcCwK2RSZTXVL26SA", "UC0uyPbeJ56twBLoHUbwFKnA", "UC57cqHgR_IZEs3gx0nxyZ-g"] # bloggingtheology, docs, doc
 #CHANNEL_ID = ["UC_SLXSHcCwK2RSZTXVL26SA"] # doc, bloggingtheology,
 
@@ -214,10 +214,11 @@ def main(channel_ids=CHANNEL_ID):
                 driver.close()
                 driver.quit()
 
-                # find ./ -type f -name "*.md" -exec sed -i 's/The author //g' {} \;
+                # find ./ -type f -name "*.md" -exec sed -i 's/* of this video //g' {} \;
                 smarkdown = md(mdresponse, strip=['title', 'head', 'gtag', 'props', 'could not summarize', '<could not summarize>', 'In this video,', 'in this video,',
                     'In this YouTube video','The video', 'This video', 'According to this video,', 'This short video', 'This YouTube video is titled', 'The YouTube video', 'In this video,', ' In this short video,',
-                    'The speaker in the video ', 'The speaker ', 'This YouTube video ', 'In the video, ', 'In the YouTube video ', 'The author ' ])
+                    'The speaker in the video ', 'The speaker ', 'This YouTube video ', 'In the video, ', 'In the YouTube video ', 'The author ', 'The main points of this video are that ', 'The narrator of this video ' ])
+                smarkdown = re.sub(r'* of this video ', '', smarkdown)
                 smarkdown = re.sub(r'\{\"props.*\"', '', smarkdown)
                 smarkdown = re.sub(r'See more\* ','', smarkdown)
                 smarkdown = re.sub(r'summary for:.*summarize.tech.*Summary','## Summary', smarkdown)

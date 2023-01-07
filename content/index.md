@@ -7,7 +7,7 @@ titleTemplate: Islamic Revival - AI crowdsourcing framework for knowledge sharin
 hero:
   name: Islamic Revival
   text: a framework to share Islamic works 
-  tagline: through crowdsourcing knowledge using AI
+  tagline: using AI to crowdsource knowledge
   #image:
    # src: /quill.svg
    # alt: Vite
@@ -25,7 +25,7 @@ hero:
 features:
   - icon: 🔈
     title: Fiqh & Tafseer
-    details: Transcript summaries of misc. lectures by Prof. Dr. Muhammad AL-Massari
+    details: Transcript summaries of lectures by Prof. Dr. Muhammad AL-Massari
     link: /massari/02_-_Establishing_an_Islamic_State__Is_it_an_Obligation_(Fardh)
   - icon: 📹
     title: Blogging Theology

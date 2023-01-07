@@ -19,7 +19,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
  the narrator explains how the Qur'an tells us that Jesus was human, not divine. They go on to explain how many messengers have come before him, and how his mother was a woman of truth. The narrator encourages people to stay within the bounds of the truth and to avoid going too far off course.
 
-**[00:00:00](https://www.youtube.com/watch?v=VC203oe7q5c&t=0)** The narrator of this video points out that the Qur'an tells us that Jesus was human, not divine. They go on to explain how many messengers have come before him, and how his mother was a woman of truth. They also point out that despite these clear signs, many people are still misguided and have gone astray. The narrator encourages people to stay within the bounds of the truth and to avoid going too far off course.
+**[00:00:00](https://www.youtube.com/watch?v=VC203oe7q5c&t=0)** points out that the Qur'an tells us that Jesus was human, not divine. They go on to explain how many messengers have come before him, and how his mother was a woman of truth. They also point out that despite these clear signs, many people are still misguided and have gone astray. The narrator encourages people to stay within the bounds of the truth and to avoid going too far off course.
 
 ## Full transcript with timestamps
 

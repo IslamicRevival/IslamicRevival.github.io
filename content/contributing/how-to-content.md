@@ -4,13 +4,13 @@ title: How to add or update content
 
 # How to add or update content
 
-We want everyone to share & archive books, articles, documents, pdfs and files on various Islaamic sciences as we are a non-partisan, non-sectarian site.    
+We want everyone to share & archive books, articles, documents, pdfs, videos files on various Islaamic sciences as we are a non-partisan, non-sectarian site.    
 
 Contribute Islamic knowledge freely using coding techniques of peer-reviewing and versioning
 
 ## Technology
 
-The Islamic Revival framework is powered by Vitepress, VueJS and various other opensource packages for performant content, administration and searching
+The Islamic Revival framework is powered by Vitepress, VueJS, ChatGPT (Darwin AI NLP), custom python code, YouTube APIs and various other opensource packages for performant content, administration and searching.
 
 It uses Markdown in the `/content/` folder to render every document. If you don't know what Markdown is (or need a refresher), take a minute to look over [the basics][1].
 
