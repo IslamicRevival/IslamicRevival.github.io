@@ -53,7 +53,7 @@ Discussion on Futures Contracts
 * **[01:55:00](https://www.youtube.com/watch?v=YLyj7tvOI7o&t=6900)** Islamic finance is a system of financial transactions that take into account Islamic values and principles. Crypto is a type of asset that uses cryptography to secure its transactions and to control the creation of new units.
 ### [02:00:00](https://www.youtube.com/watch?v=YLyj7tvOI7o&t=7200) - [02:10:00](https://www.youtube.com/watch?v=YLyj7tvOI7o&t=7800)
 
-discusses Islamic finance and cryptocurrency. It offers a brief overview of various crypto-related activities and currencies, and suggests that governments should allow Islamic finance to be used in their countries.
+Discusses Islamic finance and cryptocurrency. It offers a brief overview of various crypto-related activities and currencies, and suggests that governments should allow Islamic finance to be used in their countries.
 
 **[02:00:00](https://www.youtube.com/watch?v=YLyj7tvOI7o&t=7200)** Islamic finance is a sophisticated and secure way to borrow money, with Bitcoin and Ethereum being two of the most popular options. Yield farming is a technique that allows people to invest in pools of liquidity to earn a fixed return, while avoiding the risk of losing their money.
 * **[02:05:00](https://www.youtube.com/watch?v=YLyj7tvOI7o&t=7500)* Discusses Islamic finance and crypto, and offers a brief overview of various crypto-related activities and currencies. It suggests that governments should allow Islamic finance to be used in their countries, as this would benefit the common man.

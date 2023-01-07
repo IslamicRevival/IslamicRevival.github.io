@@ -17,7 +17,7 @@ Modal Collapse
 
 ### [00:00:00](https://www.youtube.com/watch?v=K9ZEKZKenjw&t=0) - [01:00:00](https://www.youtube.com/watch?v=K9ZEKZKenjw&t=3600)
 
-discusses the idea of modal collapse, or the idea that the physical reality may be different depending on the structure of the reality. The presenter argues that this concept is consistent with mathematical imagination, but not with the direct imagination. He also discusses the concept, and argues that it may exist in reality.
+Discusses the idea of modal collapse, or the idea that the physical reality may be different depending on the structure of the reality. The presenter argues that this concept is consistent with mathematical imagination, but not with the direct imagination. He also discusses the concept, and argues that it may exist in reality.
 
 **[00:00:00](https://www.youtube.com/watch?v=K9ZEKZKenjw&t=0)* Discusses the problem of model collapse, or the idea that certain principles or concepts can have multiple, possibly contradictory, meanings. goes on to present the argument that if classical theism is true, then it is impossible for God to have accidents, and consequently, the argument is false.
 * **[00:05:00](https://www.youtube.com/watch?v=K9ZEKZKenjw&t=300)** Professor Al-Massari discusses the development of formal modal logics, and how these have helped to provide a more comprehensive understanding of the concepts of existence, necessity, and possibility. He suggests that starting from the cast (or starting point), one should proceed step-by-step in a cautious manner, always keeping in mind the overarching goal of achieving "square zero," or a complete understanding of the matter at hand.

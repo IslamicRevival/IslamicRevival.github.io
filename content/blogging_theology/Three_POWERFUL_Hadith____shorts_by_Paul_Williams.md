@@ -13,7 +13,7 @@ Three POWERFUL Hadith | #shorts by Paul Williams
 
 ### [00:00:00](https://www.youtube.com/watch?v=SShHyz5VOtU&t=0) - [00:00:00](https://www.youtube.com/watch?v=SShHyz5VOtU&t=0)
 
-discusses three powerful hadith, or sayings of the Prophet Muhammad. The first is that acts of kindness are charity, the second is that one can avoid being burned in the afterlife by repenting and doing good deeds, and the third is that one can protect oneself from the fire by seeking refuge in Allah.
+Discusses three powerful hadith, or sayings of the Prophet Muhammad. The first is that acts of kindness are charity, the second is that one can avoid being burned in the afterlife by repenting and doing good deeds, and the third is that one can protect oneself from the fire by seeking refuge in Allah.
 
 **[00:00:00](https://www.youtube.com/watch?v=SShHyz5VOtU&t=0)** The three powerful hadith discussed in this video are about how acts of kindness are charity, how to avoid being burned in the afterlife, and how to protect oneself from the fire.
 

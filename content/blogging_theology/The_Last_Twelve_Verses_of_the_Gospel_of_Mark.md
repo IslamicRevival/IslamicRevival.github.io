@@ -15,7 +15,7 @@ I explain why.
 
 ### [00:00:00](https://www.youtube.com/watch?v=vAX__ok05JU&t=0) - [00:00:00](https://www.youtube.com/watch?v=vAX__ok05JU&t=0)
 
-discusses the theory that the last twelve verses of the Gospel of Mark were added by later scribes, and explores the possibility that the original ending of the gospel did not include the story of Jesus' resurrection.
+Discusses the theory that the last twelve verses of the Gospel of Mark were added by later scribes, and explores the possibility that the original ending of the gospel did not include the story of Jesus' resurrection.
 
 **[00:00:00](https://www.youtube.com/watch?v=vAX__ok05JU&t=0)** The earliest gospel, Mark, does not include the resurrection of Jesus story. Scribes who were copying the gospel later added verses to make it more in line with their own beliefs and with the endings of the other gospels.
 

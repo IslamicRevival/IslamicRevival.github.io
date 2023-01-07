@@ -17,7 +17,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 ### [00:00:00](https://www.youtube.com/watch?v=_z4HtL1jpwk&t=0) - [00:00:00](https://www.youtube.com/watch?v=_z4HtL1jpwk&t=0)
 
-discusses the idea that we are always being observed, even when we think we're alone. It points to the fact that we are constantly being watched by angels and God, who is also always observing us. This video provides a different perspective on feeling alone and being watched.
+Discusses the idea that we are always being observed, even when we think we're alone. It points to the fact that we are constantly being watched by angels and God, who is also always observing us. This video provides a different perspective on feeling alone and being watched.
 
 **[00:00:00](https://www.youtube.com/watch?v=_z4HtL1jpwk&t=0)** The video discusses the idea that we are always being observed, even when we think we're alone. It points to the fact that we are constantly being watched by angels and God, who is also always observing us.
 
