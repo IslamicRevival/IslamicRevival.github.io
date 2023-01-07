@@ -29,7 +29,7 @@ https://twitter.com/freemonotheist
 
  "The Day of Judgement #shorts" discusses Surah 20 of the Quran, which describes the day of judgement. All beings will be humbled before God, the Living, Self-Subsisting, Eternal. Those who do good deeds will have no fear of harm, and those who have faith will have no fear of poverty or lack of life.
 
-**[00:00:00](https://www.youtube.com/watch?v=--wgGuc9wMU&t=0)**  discusses Surah 20, which describes the day of judgement. All beings will be humbled before God, the Living, Self-Subsisting, Eternal. Those who do good deeds will have no fear of harm, and those who have faith will have no fear of poverty or lack of life.
+**[00:00:00](https://www.youtube.com/watch?v=--wgGuc9wMU&t=0)* Discusses Surah 20, which describes the day of judgement. All beings will be humbled before God, the Living, Self-Subsisting, Eternal. Those who do good deeds will have no fear of harm, and those who have faith will have no fear of poverty or lack of life.
 
 ## Full transcript with timestamps
 

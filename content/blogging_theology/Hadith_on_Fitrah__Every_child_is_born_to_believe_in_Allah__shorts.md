@@ -16,7 +16,7 @@ Surah 30:30.
 
  discusses the hadith that every child is born with a natural inclination towards faith in God. It cites two sources to support this claim.
 
-**[00:00:00](https://www.youtube.com/watch?v=RQ7YDB1pKTE&t=0)**  discusses the hadith that states that everyone is born with a natural inclination towards faith in God. It cites two sources, both of which support this claim.
+**[00:00:00](https://www.youtube.com/watch?v=RQ7YDB1pKTE&t=0)* Discusses the hadith that states that everyone is born with a natural inclination towards faith in God. It cites two sources, both of which support this claim.
 
 ## Full transcript with timestamps
 

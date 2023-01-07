@@ -20,7 +20,7 @@ from youtube_transcript_api import YouTubeTranscriptApi
 ## sample run: ./yt2md.py -u https://www.youtube.com/watch?v=39Vep9aTNa4
 
 API_KEY = os.getenv('API_KEY4') ## codespaces secrets
-CHANNEL_ID = ["UC_SLXSHcCwK2RSZTXVL26SA", "UC0uyPbeJ56twBLoHUbwFKnA", "UC57cqHgR_IZEs3gx0nxyZ-g"] # bloggingtheology, docs, doc
+channel_ids = ["UC_SLXSHcCwK2RSZTXVL26SA", "UC0uyPbeJ56twBLoHUbwFKnA", "UC57cqHgR_IZEs3gx0nxyZ-g"] # bloggingtheology, docs, doc
 #CHANNEL_ID = ["UC_SLXSHcCwK2RSZTXVL26SA"] # doc, bloggingtheology,
 
 
@@ -105,7 +105,7 @@ def string_to_filename(filename, raw=False):
         filename = filename.encode('ascii', errors='ignore').decode() # remove non-english
     return filename
 
-def main(channel_ids=CHANNEL_ID):
+def main(channel_ids=channel_ids):
 
     for channel_id in channel_ids:
         api = Api(api_key=API_KEY)
@@ -135,8 +135,8 @@ def main(channel_ids=CHANNEL_ID):
                     count=count,
                     page_token=next_page_token
                 )
-        except Exception as e:
-            print('Error getting vids for channel:', e)
+        except Exception as E:
+            print('Error getting vids for channel:', E)
         vid_count = len(videos_ids)
         print(f"Gathered {vid_count} videos for {channel_id} now pulling metadata for each video" )
         #videos_ids= ['37K1mPnMIeE'] ## enter single video_id here if overridding full list for testing
@@ -214,11 +214,12 @@ def main(channel_ids=CHANNEL_ID):
                 driver.close()
                 driver.quit()
 
-                # find ./ -type f -name "*.md" -exec sed -i 's/* of this video //g' {} \;
+                # find ./ -type f -name "*.md" -exec sed -i 's/*  discusses / Discusses /g' {} \;
                 smarkdown = md(mdresponse, strip=['title', 'head', 'gtag', 'props', 'could not summarize', '<could not summarize>', 'In this video,', 'in this video,',
                     'In this YouTube video','The video', 'This video', 'According to this video,', 'This short video', 'This YouTube video is titled', 'The YouTube video', 'In this video,', ' In this short video,',
                     'The speaker in the video ', 'The speaker ', 'This YouTube video ', 'In the video, ', 'In the YouTube video ', 'The author ', 'The main points of this video are that ', 'The narrator of this video ' ])
-                smarkdown = re.sub(r'* of this video ', '', smarkdown)
+                smarkdown = re.sub(r'\* of this video ', '', smarkdown)
+                smarkdown = re.sub(r'\*\s+discusses ', ' Discusses', smarkdown)
                 smarkdown = re.sub(r'\{\"props.*\"', '', smarkdown)
                 smarkdown = re.sub(r'See more\* ','', smarkdown)
                 smarkdown = re.sub(r'summary for:.*summarize.tech.*Summary','## Summary', smarkdown)
