@@ -50,9 +50,13 @@ jobs:
         with:
           node-version: "16"
           cache: ${{ steps.detect-package-manager.outputs.manager }}
+        env:
+          NODE_OPTIONS: --max_old_space_size=4096
       - run: yarn install --frozen-lockfile
       - name: Build
         run: yarn build
+        env:
+          NODE_OPTIONS: --max_old_space_size=4096
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
