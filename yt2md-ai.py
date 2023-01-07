@@ -5,59 +5,19 @@ import logging
 import os
 import time
 
-from pyyoutube import Api
-from youtube_transcript_api import YouTubeTranscriptApi
-
-import requests
 import re
 
 from markdownify import markdownify as md
+from pyyoutube import Api ## Needs Google Data (YouTube v3 key)
+from youtube_transcript_api import YouTubeTranscriptApi
 
+import requests
 
-API_KEY = os.getenv('API_KEY3') ## codespaces secrets
+API_KEY = os.getenv('API_KEY') ## codespaces secrets
 channel_ids_input = ["UC_SLXSHcCwK2RSZTXVL26SA", "UC0uyPbeJ56twBLoHUbwFKnA", "UC57cqHgR_IZEs3gx0nxyZ-g"]  ## bloggingtheology, docs, doc
 
-logging.basicConfig(level=3, format='[%(asctime)s] %(levelname)s: %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
+logging.basicConfig(level=15, format='[%(asctime)s] %(levelname)s: %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
 logger = logging.getLogger()
-
-
-def get_channel_video_ids(channel_id: str):
-    """Get the video IDs for all videos in a channel.
-    
-    Args:
-        channel_id (str): The ID of the YouTube channel.
-        
-    Returns:
-        List[str]: A list of video IDs for all videos in the channel.
-    """
-    api = Api(api_key=API_KEY)
-    playlists = api.get_playlists(channel_id=channel_id, count=200)
-    video_ids = []
-    for playlist in playlists.items:
-        videos = api.get_playlist_items(playlist_id=playlist.id, count=200)
-        for video in videos.items:
-            video_id = video.snippet.resourceId.videoId
-            video_ids.append(video_id)
-    return video_ids
-
-def get_caption_markdown(video_id: str):
-    """Get the captions for a YouTube video in markdown format.
-    
-    Args:
-        video_id (str): The ID of the YouTube video.
-        
-    Returns:
-        List[str]: A list of strings containing the captions in markdown format.
-    """
-    captions = YouTubeTranscriptApi.get_transcript(video_id)
-    markdown = [
-        "[{time}](https://youtu.be/{id}?t={seconds}) {text}\n".format(
-            time=str(datetime.timedelta(seconds=int(caption['start']))),
-            seconds=int(caption['start']),
-            id=video_id,
-            text=caption["text"]
-        ) for caption in captions
-    ]
 
 def get_preview_image(img_file_name:str, img_url: str, video_id: str, path: str) -> str:
     """
@@ -73,7 +33,7 @@ def get_preview_image(img_file_name:str, img_url: str, video_id: str, path: str)
         str: The file name of the saved image. Returns None if the image could not be fetched.
     """
     with open(img_file_name, 'wb') as handle:
-        headers = {'Content-Type': 'application/json','Referer': '*.[my-app].appspot.com/*'}
+        headers = {'Content-Type': 'application/json','Referer': '*.my-app.appspot.com/*'}
         response = requests.get(img_url, stream=True, headers=headers)
 
         if not response.ok:
@@ -141,6 +101,30 @@ def string_to_filename(filename: str, raw: bool = False):
         filename = filename.encode('ascii', errors='ignore').decode() # remove non-english
     return filename
 
+def yt_time(duration="P1W2DT6H21M32S"):
+    """
+    Converts YouTube duration (ISO 8061)
+    into Seconds
+
+    see http://en.wikipedia.org/wiki/ISO_8601#Durations
+    """
+    ISO_8601 = re.compile(
+        'P'   # designates a period
+        '(?:(?P<years>\d+)Y)?'   # years
+        '(?:(?P<months>\d+)M)?'  # months
+        '(?:(?P<weeks>\d+)W)?'   # weeks
+        '(?:(?P<days>\d+)D)?'    # days
+        '(?:T' # time part must begin with a T
+        '(?:(?P<hours>\d+)H)?'   # hours
+        '(?:(?P<minutes>\d+)M)?' # minutes
+        '(?:(?P<seconds>\d+)S)?' # seconds
+        ')?')   # end of time part
+    # Convert regex matches into a short list of time units
+    units = list(ISO_8601.match(duration).groups()[-3:])
+    # Put list in ascending order & remove 'None' types
+    units = list(reversed([int(x) if x != None else 0 for x in units]))
+    # Do the maths
+    return sum([x*60**units.index(x) for x in units])
 
 def main(channel_ids=channel_ids_input):
     """Fetch metadata for all videos in the specified YouTube channels
@@ -160,6 +144,7 @@ def main(channel_ids=channel_ids_input):
         videos_ids = []
         limit = 100
         count = 25
+        length = 1800 ## only interested in vids > 30minutes
         try:
             logger.info(f"Fetching all vids in channel {channel_id}")
             response = api.search(channel_id=channel_id, limit=limit, count=count)
@@ -186,13 +171,15 @@ def main(channel_ids=channel_ids_input):
         for video_id in videos_ids:
             try:
                 video_metadata = api.get_video_by_id(video_id=video_id).items[0]
+                if yt_time(video_metadata.contentDetails.duration) < length:
+                    continue
                 img_file_name = os.path.join(path, video_id) + '.jpg'
                 title = video_metadata.snippet.title
 
                 # check if video was already downloaded
                 md_file_name = os.path.join(path, string_to_filename(title)) + '.md'
                 if os.path.exists(md_file_name):
-                    logging.warning(f"MD FILE FOR {video_id} {title} md already downloaded, skipping.")
+                    logging.info(f"SKIPPING: MD file file {video_id} {title} md already downloaded")
                     continue
                 #if os.path.exists(img_file_name):
                 #    print(f"IMG FOR {video_id} img already downloaded, skipping. ", end="")
@@ -247,13 +234,13 @@ def main(channel_ids=channel_ids_input):
                 driver = webdriver.Chrome('./chromedriver', options=options, chrome_options=chrome_options)
                 driver.get(url)
                 wait = WebDriverWait(driver, 30)
-                wait.until(EC.presence_of_element_located((By.TAG_NAME,"h1")))
-                #wait.until(EC.presence_of_element_located((By.ID,"__NEXT_DATA__")))
+                #wait.until(EC.presence_of_element_located((By.TAG_NAME,"h1")))
+                wait.until(EC.presence_of_element_located((By.ID,"__NEXT_DATA__")))
                 time.sleep(20) #sleep for X sec
                 mdresponse = driver.page_source
                 driver.close()
                 driver.quit()
-
+                # find .  -name '*.md' -exec  grep  -H -E -o -c  "AI"  {} \; | grep :0\$ ##find missing AI
                 # find ./ -type f -name "*.md" -exec sed -i 's/*  discusses / Discusses /g' {} \;
                 smarkdown = md(mdresponse, strip=['title', 'head', 'gtag', 'props', 'could not summarize', '<could not summarize>', 'In this video,', 'in this video,',
                     'In this YouTube video','The video', 'This video', 'According to this video,', 'This short video', 'This YouTube video is titled', 'The YouTube video', 'In this video,', ' In this short video,',
@@ -269,7 +256,7 @@ def main(channel_ids=channel_ids_input):
                 smarkdown = re.sub(r'.*gtag.*','', smarkdown)
                 smarkdown = re.sub(r'.*dataLayer.*','', smarkdown)
                 smarkdown = re.sub(r'.==.*','', smarkdown)
-                print(smarkdown)
+                logging.info(smarkdown)
 
                 with open(md_file_name, 'w') as handle:
                         handle.write(

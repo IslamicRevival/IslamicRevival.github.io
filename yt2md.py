@@ -12,7 +12,7 @@ import re
 
 from py_youtube import Data ## doesn't need API key
 
-import pyyoutube  ## Needs Google Data (YouTube v3 key)
+import pyyoutube  
 from pyyoutube import Api
 
 from youtube_transcript_api import YouTubeTranscriptApi
