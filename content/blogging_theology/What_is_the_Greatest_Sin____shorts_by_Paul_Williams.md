@@ -1,4 +1,4 @@
-# What is the Greatest Sin? | #shorts by Paul Williams (2021-10-18 16:50:32+00:00)
+# What is the Greatest Sin? | #shorts by Paul Williams (2021-10-18)
 
 ![alt What is the Greatest Sin? | #shorts by Paul Williams](cC2nqEOhlbc.jpg "What is the Greatest Sin? | #shorts by Paul Williams")
 
@@ -9,7 +9,7 @@ What is the Greatest Sin? | #shorts by Paul Williams
 ## Summary of [What is the Greatest Sin? | #shorts by Paul Williams](https://www.youtube.com/watch?v=cC2nqEOhlbc)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=cC2nqEOhlbc&t=0) - [00:00:00](https://www.youtube.com/watch?v=cC2nqEOhlbc&t=0)
 

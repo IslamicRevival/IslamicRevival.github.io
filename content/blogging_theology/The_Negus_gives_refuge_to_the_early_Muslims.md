@@ -1,4 +1,4 @@
-# The Negus gives refuge to the early Muslims (2022-06-26 19:43:33+00:00)
+# The Negus gives refuge to the early Muslims (2022-06-26)
 
 ![alt The Negus gives refuge to the early Muslims](zQjAMSpTYMc.jpg "The Negus gives refuge to the early Muslims")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [The Negus gives refuge to the early Muslims](https://www.youtube.com/watch?v=zQjAMSpTYMc)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=zQjAMSpTYMc&t=0) - [00:15:00](https://www.youtube.com/watch?v=zQjAMSpTYMc&t=900)
 

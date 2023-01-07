@@ -1,4 +1,4 @@
-# The Qur'an at Speakers' Corner (2022-05-15 21:36:03+00:00)
+# The Qur'an at Speakers' Corner (2022-05-15)
 
 ![alt The Qur'an at Speakers' Corner](WXhzF7YCkMQ.jpg "The Qur'an at Speakers' Corner")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [The Qur'an at Speakers' Corner](https://www.youtube.com/watch?v=WXhzF7YCkMQ)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=WXhzF7YCkMQ&t=0) - [00:00:00](https://www.youtube.com/watch?v=WXhzF7YCkMQ&t=0)
 

@@ -1,4 +1,4 @@
-# Despair Not of The Mercy of Allah #shorts (2021-11-17 17:11:35+00:00)
+# Despair Not of The Mercy of Allah #shorts (2021-11-17)
 
 ![alt Despair Not of The Mercy of Allah #shorts](fhrd0ZAoixo.jpg "Despair Not of The Mercy of Allah #shorts")
 
@@ -9,7 +9,7 @@ Qur'an Surah 39 verses 53-54
 ## Summary of [Despair Not of The Mercy of Allah #shorts](https://www.youtube.com/watch?v=fhrd0ZAoixo)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=fhrd0ZAoixo&t=0) - [00:00:00](https://www.youtube.com/watch?v=fhrd0ZAoixo&t=0)
 

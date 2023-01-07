@@ -1,4 +1,4 @@
-# What are Hadith? With Prof Jonathan Brown (2022-02-18 16:05:32+00:00)
+# What are Hadith? With Prof Jonathan Brown (2022-02-18)
 
 ![alt What are Hadith? With Prof Jonathan Brown](KOsc-uI9Lro.jpg "What are Hadith? With Prof Jonathan Brown")
 
@@ -34,7 +34,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [What are Hadith? With Prof Jonathan Brown](https://www.youtube.com/watch?v=KOsc-uI9Lro)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=KOsc-uI9Lro&t=0) - [01:00:00](https://www.youtube.com/watch?v=KOsc-uI9Lro&t=3600)
 

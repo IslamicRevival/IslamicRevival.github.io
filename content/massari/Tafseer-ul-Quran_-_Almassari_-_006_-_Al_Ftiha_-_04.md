@@ -16,7 +16,7 @@ We want to recommend Kitab ut-Tawheed: The Basis of Islam and the Reality of Mon
 ## Summary of [Tafseer-ul-Quran - Almassari - 006 - Al Fātiha - 04](https://www.youtube.com/watch?v=kKgCSar1_So)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=kKgCSar1_So&t=0) - [00:50:00](https://www.youtube.com/watch?v=kKgCSar1_So&t=3000)
 

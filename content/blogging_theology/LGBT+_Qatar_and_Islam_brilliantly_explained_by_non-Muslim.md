@@ -1,4 +1,4 @@
-# LGBT+ Qatar and Islam brilliantly explained by non-Muslim (2022-11-28 20:48:19+00:00)
+# LGBT+ Qatar and Islam brilliantly explained by non-Muslim (2022-11-28)
 
 ![alt LGBT+ Qatar and Islam brilliantly explained by non-Muslim](0RLpcXt7M2g.jpg "LGBT+ Qatar and Islam brilliantly explained by non-Muslim")
 
@@ -10,7 +10,7 @@ https://www.tiktok.com/@dennis.fang/video/7169367944206585090?is_copy_url=1&is_f
 ## Summary of [LGBT+ Qatar and Islam brilliantly explained by non-Muslim](https://www.youtube.com/watch?v=0RLpcXt7M2g)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=0RLpcXt7M2g&t=0) - [00:00:00](https://www.youtube.com/watch?v=0RLpcXt7M2g&t=0)
 

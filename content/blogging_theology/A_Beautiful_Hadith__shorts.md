@@ -1,4 +1,4 @@
-# A Beautiful Hadith #shorts (2021-04-24 16:26:01+00:00)
+# A Beautiful Hadith #shorts (2021-04-24)
 
 ![alt A Beautiful Hadith #shorts](uI0F_KThuIo.jpg "A Beautiful Hadith #shorts")
 
@@ -11,7 +11,7 @@ Please consider supporting my work on Patreon: https://www.patreon.com/Bloggingt
 ## Summary of [A Beautiful Hadith #shorts](https://www.youtube.com/watch?v=uI0F_KThuIo)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+<span style="color:red; font-size:125%">This summary is AI generated - there are inaccuracies</span> [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=uI0F_KThuIo&t=0) - [00:00:00](https://www.youtube.com/watch?v=uI0F_KThuIo&t=0)
 

@@ -1,4 +1,4 @@
-# An important Announcement by Paul Williams (2022-02-12 19:13:35+00:00)
+# An important Announcement by Paul Williams (2022-02-12)
 
 ![alt An important Announcement by Paul Williams](fNgzPfNtmO0.jpg "An important Announcement by Paul Williams")
 
@@ -16,7 +16,7 @@ Further platforms will be added soon...
 ## Summary of [An important Announcement by Paul Williams](https://www.youtube.com/watch?v=fNgzPfNtmO0)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=fNgzPfNtmO0&t=0) - [00:00:00](https://www.youtube.com/watch?v=fNgzPfNtmO0&t=0)
 

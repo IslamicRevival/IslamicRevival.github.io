@@ -1,4 +1,4 @@
-# Prophet Muhammad and a black woman #Shorts (2021-08-09 15:44:20+00:00)
+# Prophet Muhammad and a black woman #Shorts (2021-08-09)
 
 ![alt Prophet Muhammad and a black woman #Shorts](ZNMRzpCSWSg.jpg "Prophet Muhammad and a black woman #Shorts")
 
@@ -9,7 +9,7 @@ Hadith from Bukhari and Muslim
 ## Summary of [Prophet Muhammad and a black woman #Shorts](https://www.youtube.com/watch?v=ZNMRzpCSWSg)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=ZNMRzpCSWSg&t=0) - [00:00:00](https://www.youtube.com/watch?v=ZNMRzpCSWSg&t=0)
 

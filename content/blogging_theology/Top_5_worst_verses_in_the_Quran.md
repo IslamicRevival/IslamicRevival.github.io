@@ -1,4 +1,4 @@
-# Top 5 worst verses in the Qur’an (2021-01-31 22:35:22+00:00)
+# Top 5 worst verses in the Qur’an (2021-01-31)
 
 ![alt Top 5 worst verses in the Qur’an](vvMo_Ax195I.jpg "Top 5 worst verses in the Qur’an")
 
@@ -14,7 +14,7 @@ Also see this amazing video: https://www.youtube.com/watch?v=riDlxCvFZWw
 ## Summary of [Top 5 worst verses in the Qur’an](https://www.youtube.com/watch?v=vvMo_Ax195I)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=vvMo_Ax195I&t=0) - [00:05:00](https://www.youtube.com/watch?v=vvMo_Ax195I&t=300)
 

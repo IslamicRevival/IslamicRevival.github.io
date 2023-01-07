@@ -1,4 +1,4 @@
-# The Prophet Muhammad ﷺ and Sufism (2022-02-23 18:32:09+00:00)
+# The Prophet Muhammad ﷺ and Sufism (2022-02-23)
 
 ![alt The Prophet Muhammad ﷺ and Sufism](yHQfbRii2pI.jpg "The Prophet Muhammad ﷺ and Sufism")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [The Prophet Muhammad ﷺ and Sufism](https://www.youtube.com/watch?v=yHQfbRii2pI)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=yHQfbRii2pI&t=0) - [00:10:00](https://www.youtube.com/watch?v=yHQfbRii2pI&t=600)
 

@@ -1,4 +1,4 @@
-# Why the West is Wrong about Islam with Peter Oborne (2022-05-16 16:20:40+00:00)
+# Why the West is Wrong about Islam with Peter Oborne (2022-05-16)
 
 ![alt Why the West is Wrong about Islam with Peter Oborne](qu5VHqDBePI.jpg "Why the West is Wrong about Islam with Peter Oborne")
 
@@ -15,7 +15,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [Why the West is Wrong about Islam with Peter Oborne](https://www.youtube.com/watch?v=qu5VHqDBePI)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=qu5VHqDBePI&t=0) - [00:45:00](https://www.youtube.com/watch?v=qu5VHqDBePI&t=2700)
 

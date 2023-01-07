@@ -1,4 +1,4 @@
-# Ageing process is unstoppable, finds unprecedented study (2021-06-18 12:17:36+00:00)
+# Ageing process is unstoppable, finds unprecedented study (2021-06-18)
 
 ![alt Ageing process is unstoppable, finds unprecedented study](GhwWGm7qzRc.jpg "Ageing process is unstoppable, finds unprecedented study")
 
@@ -10,7 +10,7 @@ Ageing process is unstoppable, finds unprecedented study: https://www.theguardia
 ## Summary of [Ageing process is unstoppable, finds unprecedented study](https://www.youtube.com/watch?v=GhwWGm7qzRc)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=GhwWGm7qzRc&t=0) - [00:00:00](https://www.youtube.com/watch?v=GhwWGm7qzRc&t=0)
 

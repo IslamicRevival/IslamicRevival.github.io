@@ -1,4 +1,4 @@
-# Prophet Muhammad in the Bible? A personal view. (2021-04-19 20:39:01+00:00)
+# Prophet Muhammad in the Bible? A personal view. (2021-04-19)
 
 ![alt Prophet Muhammad in the Bible? A personal view.](JbH7lO06z6o.jpg "Prophet Muhammad in the Bible? A personal view.")
 
@@ -9,7 +9,7 @@ Filmed at Speakers' Corner last weekend.
 ## Summary of [Prophet Muhammad in the Bible? A personal view.](https://www.youtube.com/watch?v=JbH7lO06z6o)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=JbH7lO06z6o&t=0) - [00:05:00](https://www.youtube.com/watch?v=JbH7lO06z6o&t=300)
 

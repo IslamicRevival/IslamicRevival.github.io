@@ -1,4 +1,4 @@
-# Superficial belief #shorts (2021-09-03 19:15:51+00:00)
+# Superficial belief #shorts (2021-09-03)
 
 ![alt Superficial belief #shorts](JHpa0TD6TGc.jpg "Superficial belief #shorts")
 
@@ -9,7 +9,7 @@ Surah al-Hajj 11
 ## Summary of [Superficial belief #shorts](https://www.youtube.com/watch?v=JHpa0TD6TGc)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=JHpa0TD6TGc&t=0) - [00:00:00](https://www.youtube.com/watch?v=JHpa0TD6TGc&t=0)
 

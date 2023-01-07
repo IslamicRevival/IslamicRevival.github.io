@@ -32,7 +32,7 @@ https://www.youtube.com/channel/UCoGIB6_SWhLWNP0916iqA7A
 ## Summary of [Roe Vs Wade, Abortion and liberties provided to Non Muslims in Islam](https://www.youtube.com/watch?v=ExrE8ICNhSE)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=ExrE8ICNhSE&t=0) - [00:30:00](https://www.youtube.com/watch?v=ExrE8ICNhSE&t=1800)
 

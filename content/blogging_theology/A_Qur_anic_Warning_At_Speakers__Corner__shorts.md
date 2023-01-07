@@ -1,4 +1,4 @@
-# A Qur'anic Warning At Speakers' Corner #shorts (2022-01-30 18:40:11+00:00)
+# A Qur'anic Warning At Speakers' Corner #shorts (2022-01-30)
 
 ![alt A Qur'anic Warning At Speakers' Corner #shorts](vgiDEmB_Zmw.jpg "A Qur'anic Warning At Speakers' Corner #shorts")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [A Qur'anic Warning At Speakers' Corner #shorts](https://www.youtube.com/watch?v=vgiDEmB_Zmw)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=vgiDEmB_Zmw&t=0) - [00:00:00](https://www.youtube.com/watch?v=vgiDEmB_Zmw&t=0)
 

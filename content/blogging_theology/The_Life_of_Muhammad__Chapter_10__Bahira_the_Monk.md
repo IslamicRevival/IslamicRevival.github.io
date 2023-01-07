@@ -1,4 +1,4 @@
-# The Life of Muhammad ﷺ Chapter 10: Bahira the Monk (2022-02-05 17:03:22+00:00)
+# The Life of Muhammad ﷺ Chapter 10: Bahira the Monk (2022-02-05)
 
 ![alt The Life of Muhammad ﷺ Chapter 10: Bahira the Monk](InxNDE8FCUM.jpg "The Life of Muhammad ﷺ Chapter 10: Bahira the Monk")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [The Life of Muhammad ﷺ Chapter 10: Bahira the Monk](https://www.youtube.com/watch?v=InxNDE8FCUM)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=InxNDE8FCUM&t=0) - [00:05:00](https://www.youtube.com/watch?v=InxNDE8FCUM&t=300)
 

@@ -71,7 +71,7 @@ export default defineConfig({
 {
   text: 'Mohammed Hijab',
   items: [
-    { text: 'PDFs', link: '/hijab/Hard_Questions_to_Hamza_Tzortzis' }
+    { text: 'Video Summaries', link: '/hijab/Hard_Questions_to_Hamza_Tzortzis' }
   ],
  },
     ],

@@ -1,4 +1,4 @@
-# The Gospels that did NOT make it into the Bible with Prof Dale Martin (2021-08-26 22:23:59+00:00)
+# The Gospels that did NOT make it into the Bible with Prof Dale Martin (2021-08-26)
 
 ![alt The Gospels that did NOT make it into the Bible with Prof Dale Martin](11NiLEydjjg.jpg "The Gospels that did NOT make it into the Bible with Prof Dale Martin")
 
@@ -10,7 +10,7 @@ https://www.marquette.edu/maqom/Gospel%20of%20Thomas%20Lambdin.pdf
 ## Summary of [The Gospels that did NOT make it into the Bible with Prof Dale Martin](https://www.youtube.com/watch?v=11NiLEydjjg)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=11NiLEydjjg&t=0) - [01:00:00](https://www.youtube.com/watch?v=11NiLEydjjg&t=3600)
 

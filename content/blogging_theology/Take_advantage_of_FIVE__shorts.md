@@ -1,4 +1,4 @@
-# Take advantage of FIVE #shorts (2021-07-04 13:27:36+00:00)
+# Take advantage of FIVE #shorts (2021-07-04)
 
 ![alt Take advantage of FIVE #shorts](LVUIg-ZayEQ.jpg "Take advantage of FIVE #shorts")
 
@@ -13,7 +13,7 @@ Grade: Sahih (authentic) according to Al-Albani
 ## Summary of [Take advantage of FIVE #shorts](https://www.youtube.com/watch?v=LVUIg-ZayEQ)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=LVUIg-ZayEQ&t=0) - [00:00:00](https://www.youtube.com/watch?v=LVUIg-ZayEQ&t=0)
 

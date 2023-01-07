@@ -1,4 +1,4 @@
-# The beliefs of the earliest Christians about Jesus (2021-01-25 23:22:43+00:00)
+# The beliefs of the earliest Christians about Jesus (2021-01-25)
 
 ![alt The beliefs of the earliest Christians about Jesus](K51AcZBWS68.jpg "The beliefs of the earliest Christians about Jesus")
 
@@ -10,7 +10,7 @@ https://www.penguinrandomhouse.com/books/260984/the-history-of-the-church-by-eus
 ## Summary of [The beliefs of the earliest Christians about Jesus](https://www.youtube.com/watch?v=K51AcZBWS68)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=K51AcZBWS68&t=0) - [00:05:00](https://www.youtube.com/watch?v=K51AcZBWS68&t=300)
 

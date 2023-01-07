@@ -1,4 +1,4 @@
-# A very amateur guide to Hagia Sophia (2021-11-06 02:13:55+00:00)
+# A very amateur guide to Hagia Sophia (2021-11-06)
 
 ![alt A very amateur guide to Hagia Sophia](Hf-l1I5Wta4.jpg "A very amateur guide to Hagia Sophia")
 
@@ -9,7 +9,7 @@ Filmed in Turkey on Thursday 4th November. For more information about Hagia Soph
 ## Summary of [A very amateur guide to Hagia Sophia](https://www.youtube.com/watch?v=Hf-l1I5Wta4)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=Hf-l1I5Wta4&t=0) - [00:10:00](https://www.youtube.com/watch?v=Hf-l1I5Wta4&t=600)
 

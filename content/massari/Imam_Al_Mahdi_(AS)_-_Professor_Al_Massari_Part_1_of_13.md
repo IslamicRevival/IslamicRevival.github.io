@@ -9,7 +9,7 @@ Professor Muhammad Al Massari discusses matters related to the prophecised Imam 
 ## Summary of [Imam Al Mahdi (AS) - Professor Al Massari Part 1 of 13](https://www.youtube.com/watch?v=pHMBh7--XOM)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=pHMBh7--XOM&t=0) - [00:05:00](https://www.youtube.com/watch?v=pHMBh7--XOM&t=300)
 

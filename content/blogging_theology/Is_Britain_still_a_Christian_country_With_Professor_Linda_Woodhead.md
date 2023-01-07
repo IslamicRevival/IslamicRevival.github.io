@@ -1,4 +1,4 @@
-# Is Britain still a Christian country? With Professor Linda Woodhead (2022-12-18 14:18:15+00:00)
+# Is Britain still a Christian country? With Professor Linda Woodhead (2022-12-18)
 
 ![alt Is Britain still a Christian country? With Professor Linda Woodhead](-FoNkisQYkU.jpg "Is Britain still a Christian country? With Professor Linda Woodhead")
 
@@ -17,7 +17,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [Is Britain still a Christian country? With Professor Linda Woodhead](https://www.youtube.com/watch?v=-FoNkisQYkU)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=-FoNkisQYkU&t=0) - [01:00:00](https://www.youtube.com/watch?v=-FoNkisQYkU&t=3600)
 

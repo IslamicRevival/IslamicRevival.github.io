@@ -1,4 +1,4 @@
-# Qur’an at Piccadilly Circus #shorts (2021-11-18 15:29:51+00:00)
+# Qur’an at Piccadilly Circus #shorts (2021-11-18)
 
 ![alt Qur’an at Piccadilly Circus #shorts](Wi7kyqiwkuk.jpg "Qur’an at Piccadilly Circus #shorts")
 
@@ -9,7 +9,7 @@
 ## Summary of [Qur’an at Piccadilly Circus #shorts](https://www.youtube.com/watch?v=Wi7kyqiwkuk)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=Wi7kyqiwkuk&t=0) - [00:00:00](https://www.youtube.com/watch?v=Wi7kyqiwkuk&t=0)
 

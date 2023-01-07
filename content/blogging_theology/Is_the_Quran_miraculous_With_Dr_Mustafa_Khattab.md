@@ -1,4 +1,4 @@
-# Is the Quran miraculous? With Dr Mustafa Khattab (2022-03-10 18:45:08+00:00)
+# Is the Quran miraculous? With Dr Mustafa Khattab (2022-03-10)
 
 ![alt Is the Quran miraculous? With Dr Mustafa Khattab](UB4gOfl0ets.jpg "Is the Quran miraculous? With Dr Mustafa Khattab")
 
@@ -15,7 +15,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [Is the Quran miraculous? With Dr Mustafa Khattab](https://www.youtube.com/watch?v=UB4gOfl0ets)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=UB4gOfl0ets&t=0) - [00:45:00](https://www.youtube.com/watch?v=UB4gOfl0ets&t=2700)
 

@@ -16,7 +16,7 @@ Dispelling Misconceptions?
 ## Summary of [Discussion on Zakat](https://www.youtube.com/watch?v=39Vep9aTNa4)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=39Vep9aTNa4&t=0) - [00:35:00](https://www.youtube.com/watch?v=39Vep9aTNa4&t=2100)
 

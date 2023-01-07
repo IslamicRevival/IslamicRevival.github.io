@@ -1,4 +1,4 @@
-# Qur'an in Berlin (2022-07-22 17:18:08+00:00)
+# Qur'an in Berlin (2022-07-22)
 
 ![alt Qur'an in Berlin](ZCfwDGDfWtg.jpg "Qur'an in Berlin")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [Qur'an in Berlin](https://www.youtube.com/watch?v=ZCfwDGDfWtg)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=ZCfwDGDfWtg&t=0) - [00:00:00](https://www.youtube.com/watch?v=ZCfwDGDfWtg&t=0)
 

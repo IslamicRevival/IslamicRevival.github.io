@@ -1,4 +1,4 @@
-# What are The Portents of the Hour #shorts (2021-09-07 15:48:28+00:00)
+# What are The Portents of the Hour #shorts (2021-09-07)
 
 ![alt What are The Portents of the Hour #shorts](ubNQq4ywo0Y.jpg "What are The Portents of the Hour #shorts")
 
@@ -9,7 +9,7 @@ Hadith from al-Bukhari, number 80.
 ## Summary of [What are The Portents of the Hour #shorts](https://www.youtube.com/watch?v=ubNQq4ywo0Y)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=ubNQq4ywo0Y&t=0) - [00:00:00](https://www.youtube.com/watch?v=ubNQq4ywo0Y&t=0)
 

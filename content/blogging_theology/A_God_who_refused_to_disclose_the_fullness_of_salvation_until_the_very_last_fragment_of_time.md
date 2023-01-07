@@ -1,4 +1,4 @@
-# A God who refused to disclose the fullness of salvation until the very last fragment of time? (2020-12-20 17:13:31+00:00)
+# A God who refused to disclose the fullness of salvation until the very last fragment of time? (2020-12-20)
 
 ![alt A God who refused to disclose the fullness of salvation until the very last fragment of time?](j5-OShW1_Zs.jpg "A God who refused to disclose the fullness of salvation until the very last fragment of time?")
 
@@ -26,7 +26,7 @@ According to a Prophetic narration collected by Ibn Ḥibbân, the total number 
 ## Summary of [A God who refused to disclose the fullness of salvation until the very last fragment of time?](https://www.youtube.com/watch?v=j5-OShW1_Zs)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=j5-OShW1_Zs&t=0) - [00:05:00](https://www.youtube.com/watch?v=j5-OShW1_Zs&t=300)
 
@@ -35,7 +35,8 @@ in this YouTube video discusses the idea that God may have withheld salvation fr
 **[00:00:00](https://www.youtube.com/watch?v=j5-OShW1_Zs&t=0)** ponders how a god who has withheld salvation from humanity for over two thousand years can be admired. references a Christmas poem by Thomas Hardy which speaks to this issue.
 * **[00:05:00](https://www.youtube.com/watch?v=j5-OShW1_Zs&t=300)** the speaker discusses why God left salvation until the very last millisecond, and how this might be related to deep time and humanity's existence on Earth. also mentions that Christianity expected the world to be converted within a few years, and that they had no concept of deep time before that.
 
-## Full transcript with timestamps
+
+<details><summary><h2>Full transcript with timestamps - CLICK TO EXPAND</h2></summary><div>
 
 [0:00:01](https://youtu.be/j5-OShW1_Zs?t=1) hello i've been pondering this  
 [0:00:03](https://youtu.be/j5-OShW1_Zs?t=3) question how can one admire a god  
@@ -234,3 +235,4 @@ in this YouTube video discusses the idea that God may have withheld salvation fr
 [0:07:12](https://youtu.be/j5-OShW1_Zs?t=432) thinking i don't know what uh  
 [0:07:14](https://youtu.be/j5-OShW1_Zs?t=434) you think but um so time matters  
 [0:07:17](https://youtu.be/j5-OShW1_Zs?t=437) at the end of the day  
+</div></details>

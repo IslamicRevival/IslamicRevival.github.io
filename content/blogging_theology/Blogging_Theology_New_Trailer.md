@@ -1,4 +1,4 @@
-# Blogging Theology New Trailer (2021-10-28 12:29:06+00:00)
+# Blogging Theology New Trailer (2021-10-28)
 
 ![alt Blogging Theology New Trailer](H-UO4G-m7E0.jpg "Blogging Theology New Trailer")
 
@@ -21,7 +21,7 @@ Till next time!
 ## Summary of [Blogging Theology New Trailer](https://www.youtube.com/watch?v=H-UO4G-m7E0)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=H-UO4G-m7E0&t=0) - [00:00:00](https://www.youtube.com/watch?v=H-UO4G-m7E0&t=0)
 

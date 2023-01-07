@@ -1,4 +1,4 @@
-# Abu Ayyub al-Ansari Mosque (2021-11-03 14:12:42+00:00)
+# Abu Ayyub al-Ansari Mosque (2021-11-03)
 
 ![alt Abu Ayyub al-Ansari Mosque](AcR0xZBxnW0.jpg "Abu Ayyub al-Ansari Mosque")
 
@@ -9,7 +9,7 @@
 ## Summary of [Abu Ayyub al-Ansari Mosque](https://www.youtube.com/watch?v=AcR0xZBxnW0)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=AcR0xZBxnW0&t=0) - [00:00:00](https://www.youtube.com/watch?v=AcR0xZBxnW0&t=0)
 

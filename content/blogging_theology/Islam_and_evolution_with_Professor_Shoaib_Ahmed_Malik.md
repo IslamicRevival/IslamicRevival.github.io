@@ -1,4 +1,4 @@
-# Islam and evolution with Professor Shoaib Ahmed Malik (2021-12-09 20:29:39+00:00)
+# Islam and evolution with Professor Shoaib Ahmed Malik (2021-12-09)
 
 ![alt Islam and evolution with Professor Shoaib Ahmed Malik](rmRH80lj9UM.jpg "Islam and evolution with Professor Shoaib Ahmed Malik")
 
@@ -44,7 +44,7 @@ https://twitter.com/freemonotheist
 ## Summary of [Islam and evolution with Professor Shoaib Ahmed Malik](https://www.youtube.com/watch?v=rmRH80lj9UM)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=rmRH80lj9UM&t=0) - [01:00:00](https://www.youtube.com/watch?v=rmRH80lj9UM&t=3600)
 

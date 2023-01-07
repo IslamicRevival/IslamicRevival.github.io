@@ -1,4 +1,4 @@
-# Refuting some Christian scholars' claims about God in the Qur'an (2021-09-08 16:11:34+00:00)
+# Refuting some Christian scholars' claims about God in the Qur'an (2021-09-08)
 
 ![alt Refuting some Christian scholars' claims about God in the Qur'an](4nZzszqcOfM.jpg "Refuting some Christian scholars' claims about God in the Qur'an")
 
@@ -11,7 +11,7 @@ Usman Sheikh discusses his recent Oxford University MPhil thesis where he counte
 ## Summary of [Refuting some Christian scholars' claims about God in the Qur'an](https://www.youtube.com/watch?v=4nZzszqcOfM)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=4nZzszqcOfM&t=0) - [01:00:00](https://www.youtube.com/watch?v=4nZzszqcOfM&t=3600)
 

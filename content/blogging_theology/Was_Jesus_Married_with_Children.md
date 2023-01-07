@@ -1,4 +1,4 @@
-# Was Jesus Married with Children? (2021-02-06 21:27:18+00:00)
+# Was Jesus Married with Children? (2021-02-06)
 
 ![alt Was Jesus Married with Children?](6uiAfPQIo_o.jpg "Was Jesus Married with Children?")
 
@@ -9,7 +9,7 @@ I read from 'The New Testament: A Historical Introduction to the Early Christian
 ## Summary of [Was Jesus Married with Children?](https://www.youtube.com/watch?v=6uiAfPQIo_o)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=6uiAfPQIo_o&t=0) - [00:00:00](https://www.youtube.com/watch?v=6uiAfPQIo_o&t=0)
 

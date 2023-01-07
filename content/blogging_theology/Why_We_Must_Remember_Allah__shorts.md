@@ -1,4 +1,4 @@
-# Why We Must Remember Allah #shorts (2022-01-02 15:41:30+00:00)
+# Why We Must Remember Allah #shorts (2022-01-02)
 
 ![alt Why We Must Remember Allah #shorts](lrScKt0PxKc.jpg "Why We Must Remember Allah #shorts")
 
@@ -22,7 +22,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [Why We Must Remember Allah #shorts](https://www.youtube.com/watch?v=lrScKt0PxKc)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=lrScKt0PxKc&t=0) - [00:00:00](https://www.youtube.com/watch?v=lrScKt0PxKc&t=0)
 

@@ -1,4 +1,4 @@
-# When Angels Take Souls of unbelievers at Death #shorts (2021-12-01 14:33:57+00:00)
+# When Angels Take Souls of unbelievers at Death #shorts (2021-12-01)
 
 ![alt When Angels Take Souls of unbelievers at Death #shorts](Bz8iTXuRv-Y.jpg "When Angels Take Souls of unbelievers at Death #shorts")
 
@@ -22,7 +22,7 @@ https://twitter.com/freemonotheist
 ## Summary of [When Angels Take Souls of unbelievers at Death #shorts](https://www.youtube.com/watch?v=Bz8iTXuRv-Y)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=Bz8iTXuRv-Y&t=0) - [00:00:00](https://www.youtube.com/watch?v=Bz8iTXuRv-Y&t=0)
 

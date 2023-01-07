@@ -1,4 +1,4 @@
-# NEW SERIES: Professor Dale Martin talks about the Gospels (2021-06-11 07:17:42+00:00)
+# NEW SERIES: Professor Dale Martin talks about the Gospels (2021-06-11)
 
 ![alt NEW SERIES: Professor Dale Martin talks about the Gospels](YPOcTIYZtNQ.jpg "NEW SERIES: Professor Dale Martin talks about the Gospels")
 
@@ -10,7 +10,7 @@ Please consider supporting my work on Patreon: https://www.patreon.com/Bloggingt
 ## Summary of [NEW SERIES: Professor Dale Martin talks about the Gospels](https://www.youtube.com/watch?v=YPOcTIYZtNQ)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=YPOcTIYZtNQ&t=0) - [01:00:00](https://www.youtube.com/watch?v=YPOcTIYZtNQ&t=3600)
 

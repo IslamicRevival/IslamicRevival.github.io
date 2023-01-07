@@ -1,4 +1,4 @@
-# Inside the Holocaust Memorial in Berlin (2022-07-23 20:36:20+00:00)
+# Inside the Holocaust Memorial in Berlin (2022-07-23)
 
 ![alt Inside the Holocaust Memorial in Berlin](O2ffWfKKNjk.jpg "Inside the Holocaust Memorial in Berlin")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [Inside the Holocaust Memorial in Berlin](https://www.youtube.com/watch?v=O2ffWfKKNjk)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=O2ffWfKKNjk&t=0) - [00:00:00](https://www.youtube.com/watch?v=O2ffWfKKNjk&t=0)
 

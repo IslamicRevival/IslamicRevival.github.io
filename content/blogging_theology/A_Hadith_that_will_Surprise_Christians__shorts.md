@@ -1,4 +1,4 @@
-# A Hadith that will Surprise Christians #shorts (2021-10-06 19:11:30+00:00)
+# A Hadith that will Surprise Christians #shorts (2021-10-06)
 
 ![alt A Hadith that will Surprise Christians #shorts](SFIJTi6I7Fo.jpg "A Hadith that will Surprise Christians #shorts")
 
@@ -9,7 +9,7 @@ Hadith from Bukhari and Muslim
 ## Summary of [A Hadith that will Surprise Christians #shorts](https://www.youtube.com/watch?v=SFIJTi6I7Fo)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=SFIJTi6I7Fo&t=0) - [00:00:00](https://www.youtube.com/watch?v=SFIJTi6I7Fo&t=0)
 

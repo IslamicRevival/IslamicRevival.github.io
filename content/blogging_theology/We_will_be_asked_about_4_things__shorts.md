@@ -1,4 +1,4 @@
-# We will be asked about 4 things #shorts (2021-10-03 17:45:42+00:00)
+# We will be asked about 4 things #shorts (2021-10-03)
 
 ![alt We will be asked about 4 things #shorts](B8y7sW8Uf04.jpg "We will be asked about 4 things #shorts")
 
@@ -9,7 +9,7 @@ Hadith at Speakers' Corner: Sunan ad-Darimi 539. #shorts
 ## Summary of [We will be asked about 4 things #shorts](https://www.youtube.com/watch?v=B8y7sW8Uf04)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=B8y7sW8Uf04&t=0) - [00:00:00](https://www.youtube.com/watch?v=B8y7sW8Uf04&t=0)
 

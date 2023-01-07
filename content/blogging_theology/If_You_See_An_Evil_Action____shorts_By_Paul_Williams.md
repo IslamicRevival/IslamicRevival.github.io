@@ -1,4 +1,4 @@
-# If You See An Evil Action | #shorts By Paul Williams (2021-09-13 18:19:04+00:00)
+# If You See An Evil Action | #shorts By Paul Williams (2021-09-13)
 
 ![alt If You See An Evil Action | #shorts By Paul Williams](coNRG83gUyY.jpg "If You See An Evil Action | #shorts By Paul Williams")
 
@@ -11,7 +11,7 @@ If You See An Evil Action: hadith from Muslim
 ## Summary of [If You See An Evil Action | #shorts By Paul Williams](https://www.youtube.com/watch?v=coNRG83gUyY)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=coNRG83gUyY&t=0) - [00:00:00](https://www.youtube.com/watch?v=coNRG83gUyY&t=0)
 

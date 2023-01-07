@@ -1,4 +1,4 @@
-# Allah's grace transforms our life #shorts (2021-11-29 16:51:39+00:00)
+# Allah's grace transforms our life #shorts (2021-11-29)
 
 ![alt Allah's grace transforms our life #shorts](Bt6xSrtVFV0.jpg "Allah's grace transforms our life #shorts")
 
@@ -22,7 +22,7 @@ https://twitter.com/freemonotheist
 ## Summary of [Allah's grace transforms our life #shorts](https://www.youtube.com/watch?v=Bt6xSrtVFV0)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=Bt6xSrtVFV0&t=0) - [00:00:00](https://www.youtube.com/watch?v=Bt6xSrtVFV0&t=0)
 

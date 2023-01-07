@@ -1,4 +1,4 @@
-# The Life of Muhammad ﷺ Chapter 4: The Recovery of a Loss (2021-12-14 20:29:36+00:00)
+# The Life of Muhammad ﷺ Chapter 4: The Recovery of a Loss (2021-12-14)
 
 ![alt The Life of Muhammad ﷺ Chapter 4: The Recovery of a Loss](OfaguOrr-Hs.jpg "The Life of Muhammad ﷺ Chapter 4: The Recovery of a Loss")
 
@@ -22,7 +22,7 @@ https://twitter.com/freemonotheist
 ## Summary of [The Life of Muhammad ﷺ Chapter 4: The Recovery of a Loss](https://www.youtube.com/watch?v=OfaguOrr-Hs)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=OfaguOrr-Hs&t=0) - [00:05:00](https://www.youtube.com/watch?v=OfaguOrr-Hs&t=300)
 

@@ -1,4 +1,4 @@
-# Anti-Terrorism Law in Qur'an (2022-06-21 19:04:57+00:00)
+# Anti-Terrorism Law in Qur'an (2022-06-21)
 
 ![alt Anti-Terrorism Law in Qur'an](pBWaX7juDGI.jpg "Anti-Terrorism Law in Qur'an")
 
@@ -15,7 +15,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [Anti-Terrorism Law in Qur'an](https://www.youtube.com/watch?v=pBWaX7juDGI)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=pBWaX7juDGI&t=0) - [00:00:00](https://www.youtube.com/watch?v=pBWaX7juDGI&t=0)
 

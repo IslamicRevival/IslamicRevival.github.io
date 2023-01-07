@@ -1,4 +1,4 @@
-# 'Obesity will prevail' #shorts (2022-11-21 19:48:13+00:00)
+# 'Obesity will prevail' #shorts (2022-11-21)
 
 ![alt 'Obesity will prevail' #shorts](APUh7wrplgI.jpg "'Obesity will prevail' #shorts")
 
@@ -9,7 +9,7 @@ Filmed in the Kutubiyya Mosque which the largest mosque in Marrakesh, Morocco.
 ## Summary of ['Obesity will prevail' #shorts](https://www.youtube.com/watch?v=APUh7wrplgI)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=APUh7wrplgI&t=0) - [00:00:00](https://www.youtube.com/watch?v=APUh7wrplgI&t=0)
 

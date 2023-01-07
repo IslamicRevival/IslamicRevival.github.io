@@ -1,4 +1,4 @@
-# Hadith at the British Library #shorts (2021-11-11 10:30:19+00:00)
+# Hadith at the British Library #shorts (2021-11-11)
 
 ![alt Hadith at the British Library #shorts](RiD581r_MAQ.jpg "Hadith at the British Library #shorts")
 
@@ -9,7 +9,7 @@
 ## Summary of [Hadith at the British Library #shorts](https://www.youtube.com/watch?v=RiD581r_MAQ)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=RiD581r_MAQ&t=0) - [00:00:00](https://www.youtube.com/watch?v=RiD581r_MAQ&t=0)
 

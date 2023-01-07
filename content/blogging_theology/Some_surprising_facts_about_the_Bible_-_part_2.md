@@ -1,4 +1,4 @@
-# Some surprising facts about the Bible - part 2 (2021-01-16 19:48:52+00:00)
+# Some surprising facts about the Bible - part 2 (2021-01-16)
 
 ![alt Some surprising facts about the Bible - part 2](U1SiSCwpcVQ.jpg "Some surprising facts about the Bible - part 2")
 
@@ -11,7 +11,7 @@ It is important to understand that the Bible is a *library of books* written ove
 ## Summary of [Some surprising facts about the Bible - part 2](https://www.youtube.com/watch?v=U1SiSCwpcVQ)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=U1SiSCwpcVQ&t=0) - [00:05:00](https://www.youtube.com/watch?v=U1SiSCwpcVQ&t=300)
 

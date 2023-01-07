@@ -9,7 +9,7 @@
 ## Summary of [Live Exclusive: Andrew Tate Discussion with Mohammed Hijab](https://www.youtube.com/watch?v=diqgTxR99JE)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=diqgTxR99JE&t=0) - [01:00:00](https://www.youtube.com/watch?v=diqgTxR99JE&t=3600)
 

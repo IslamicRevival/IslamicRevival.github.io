@@ -1,4 +1,4 @@
-# My Visit To The Amazing Cambridge Central Mosque (2022-06-10 22:08:15+00:00)
+# My Visit To The Amazing Cambridge Central Mosque (2022-06-10)
 
 ![alt My Visit To The Amazing Cambridge Central Mosque](cYamuG78Hl0.jpg "My Visit To The Amazing Cambridge Central Mosque")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [My Visit To The Amazing Cambridge Central Mosque](https://www.youtube.com/watch?v=cYamuG78Hl0)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=cYamuG78Hl0&t=0) - [00:00:00](https://www.youtube.com/watch?v=cYamuG78Hl0&t=0)
 

@@ -11,7 +11,7 @@ Principle of Sufficient Reason and the Infinite Regress   3
 ## Summary of [Principle of Sufficient Reason and the Infinite Regress 3](https://www.youtube.com/watch?v=C8nlQ2AJJq4)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=C8nlQ2AJJq4&t=0) - [00:55:00](https://www.youtube.com/watch?v=C8nlQ2AJJq4&t=3300)
 

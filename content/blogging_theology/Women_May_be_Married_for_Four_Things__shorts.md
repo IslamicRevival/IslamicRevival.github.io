@@ -1,4 +1,4 @@
-# Women May be Married for Four Things #shorts (2021-09-15 19:26:22+00:00)
+# Women May be Married for Four Things #shorts (2021-09-15)
 
 ![alt Women May be Married for Four Things #shorts](_3ztKw-Gorc.jpg "Women May be Married for Four Things #shorts")
 
@@ -9,7 +9,7 @@ Hadith from Sahih Muslim 5090
 ## Summary of [Women May be Married for Four Things #shorts](https://www.youtube.com/watch?v=_3ztKw-Gorc)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=_3ztKw-Gorc&t=0) - [00:00:00](https://www.youtube.com/watch?v=_3ztKw-Gorc&t=0)
 

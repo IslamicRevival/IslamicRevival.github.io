@@ -1,4 +1,4 @@
-# Qur'an in a French Village #shorts (2021-12-02 14:20:33+00:00)
+# Qur'an in a French Village #shorts (2021-12-02)
 
 ![alt Qur'an in a French Village #shorts](uWs7smzqz0o.jpg "Qur'an in a French Village #shorts")
 
@@ -22,7 +22,7 @@ https://twitter.com/freemonotheist
 ## Summary of [Qur'an in a French Village #shorts](https://www.youtube.com/watch?v=uWs7smzqz0o)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=uWs7smzqz0o&t=0) - [00:00:00](https://www.youtube.com/watch?v=uWs7smzqz0o&t=0)
 

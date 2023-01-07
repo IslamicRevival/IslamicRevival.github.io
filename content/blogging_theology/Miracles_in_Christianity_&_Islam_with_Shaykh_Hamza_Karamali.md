@@ -1,4 +1,4 @@
-# Miracles in Christianity & Islam with Shaykh Hamza Karamali (2022-03-21 18:40:08+00:00)
+# Miracles in Christianity & Islam with Shaykh Hamza Karamali (2022-03-21)
 
 ![alt Miracles in Christianity & Islam with Shaykh Hamza Karamali](s5V5huEfy4A.jpg "Miracles in Christianity & Islam with Shaykh Hamza Karamali")
 
@@ -39,7 +39,7 @@ Chapters:
 ## Summary of [Miracles in Christianity & Islam with Shaykh Hamza Karamali](https://www.youtube.com/watch?v=s5V5huEfy4A)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=s5V5huEfy4A&t=0) - [00:40:00](https://www.youtube.com/watch?v=s5V5huEfy4A&t=2400)
 

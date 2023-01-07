@@ -1,4 +1,4 @@
-# Daniel Haqiqatjou and The Modernist Menace To Islam (2021-12-24 13:00:12+00:00)
+# Daniel Haqiqatjou and The Modernist Menace To Islam (2021-12-24)
 
 ![alt Daniel Haqiqatjou and The Modernist Menace To Islam](mZAZktv6HWM.jpg "Daniel Haqiqatjou and The Modernist Menace To Islam")
 
@@ -49,7 +49,7 @@ Viewers are reminded that the personal beliefs or non-beliefs of the guest do no
 ## Summary of [Daniel Haqiqatjou and The Modernist Menace To Islam](https://www.youtube.com/watch?v=mZAZktv6HWM)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=mZAZktv6HWM&t=0) - [01:00:00](https://www.youtube.com/watch?v=mZAZktv6HWM&t=3600)
 

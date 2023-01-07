@@ -1,4 +1,4 @@
-# Religious Experiences in a Secular Age with Prof Dale C. Allison of Princeton (2022-12-12 18:53:53+00:00)
+# Religious Experiences in a Secular Age with Prof Dale C. Allison of Princeton (2022-12-12)
 
 ![alt Religious Experiences in a Secular Age with Prof Dale C. Allison of Princeton](VqP8tHfSPR0.jpg "Religious Experiences in a Secular Age with Prof Dale C. Allison of Princeton")
 
@@ -16,7 +16,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [Religious Experiences in a Secular Age with Prof Dale C. Allison of Princeton](https://www.youtube.com/watch?v=VqP8tHfSPR0)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=VqP8tHfSPR0&t=0) - [00:55:00](https://www.youtube.com/watch?v=VqP8tHfSPR0&t=3300)
 

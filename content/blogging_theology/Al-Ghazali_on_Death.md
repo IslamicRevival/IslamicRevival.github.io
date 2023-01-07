@@ -1,4 +1,4 @@
-# Al-Ghazali on Death (2021-11-06 21:39:12+00:00)
+# Al-Ghazali on Death (2021-11-06)
 
 ![alt Al-Ghazali on Death](Nl1Mri_qhG4.jpg "Al-Ghazali on Death")
 
@@ -9,7 +9,7 @@ A reading from the Revival of the Religious Sciences by Al-Ghazali.
 ## Summary of [Al-Ghazali on Death](https://www.youtube.com/watch?v=Nl1Mri_qhG4)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=Nl1Mri_qhG4&t=0) - [00:00:00](https://www.youtube.com/watch?v=Nl1Mri_qhG4&t=0)
 

@@ -1,4 +1,4 @@
-# Compelling evidence that Muhammad was a Prophet? #shorts (2021-04-20 17:44:00+00:00)
+# Compelling evidence that Muhammad was a Prophet? #shorts (2021-04-20)
 
 ![alt Compelling evidence that Muhammad was a Prophet? #shorts](vtxDK8NlX9M.jpg "Compelling evidence that Muhammad was a Prophet? #shorts")
 
@@ -12,7 +12,7 @@ Please consider supporting my work on Patreon: https://www.patreon.com/Bloggingt
 ## Summary of [Compelling evidence that Muhammad was a Prophet? #shorts](https://www.youtube.com/watch?v=vtxDK8NlX9M)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=vtxDK8NlX9M&t=0) - [00:00:00](https://www.youtube.com/watch?v=vtxDK8NlX9M&t=0)
 

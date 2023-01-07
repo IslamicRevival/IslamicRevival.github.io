@@ -1,4 +1,4 @@
-# Did Jesus Claim to be God? (2021-01-26 19:32:45+00:00)
+# Did Jesus Claim to be God? (2021-01-26)
 
 ![alt Did Jesus Claim to be God?](TZoC-iPb7uU.jpg "Did Jesus Claim to be God?")
 
@@ -11,7 +11,7 @@ https://www.amazon.co.uk/How-Jesus-Became-Bart-Ehrman/dp/0061778184
 ## Summary of [Did Jesus Claim to be God?](https://www.youtube.com/watch?v=TZoC-iPb7uU)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=TZoC-iPb7uU&t=0) - [00:10:00](https://www.youtube.com/watch?v=TZoC-iPb7uU&t=600)
 

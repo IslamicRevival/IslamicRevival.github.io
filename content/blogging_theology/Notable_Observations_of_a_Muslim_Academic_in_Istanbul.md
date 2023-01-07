@@ -1,4 +1,4 @@
-# Notable Observations of a Muslim Academic in Istanbul (2021-11-02 21:00:42+00:00)
+# Notable Observations of a Muslim Academic in Istanbul (2021-11-02)
 
 ![alt Notable Observations of a Muslim Academic in Istanbul](Nq9dkSVb8_s.jpg "Notable Observations of a Muslim Academic in Istanbul")
 
@@ -9,7 +9,7 @@
 ## Summary of [Notable Observations of a Muslim Academic in Istanbul](https://www.youtube.com/watch?v=Nq9dkSVb8_s)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=Nq9dkSVb8_s&t=0) - [00:00:00](https://www.youtube.com/watch?v=Nq9dkSVb8_s&t=0)
 

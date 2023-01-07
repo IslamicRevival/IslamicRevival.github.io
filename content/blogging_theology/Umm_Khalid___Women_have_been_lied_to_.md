@@ -1,4 +1,4 @@
-# Umm Khalid: "Women have been lied to" (2021-12-16 22:16:21+00:00)
+# Umm Khalid: "Women have been lied to" (2021-12-16)
 
 ![alt Umm Khalid: "Women have been lied to"](2nENnMKESOA.jpg "Umm Khalid: "Women have been lied to"")
 
@@ -9,7 +9,7 @@ source: https://www.facebook.com/UmmKhalidMuslimMom
 ## Summary of [Umm Khalid: "Women have been lied to"](https://www.youtube.com/watch?v=2nENnMKESOA)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=2nENnMKESOA&t=0) - [00:10:00](https://www.youtube.com/watch?v=2nENnMKESOA&t=600)
 

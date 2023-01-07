@@ -1,4 +1,4 @@
-# French Presidential Election Results - Should Muslims Be Worried? (2022-04-11 19:54:03+00:00)
+# French Presidential Election Results - Should Muslims Be Worried? (2022-04-11)
 
 ![alt French Presidential Election Results - Should Muslims Be Worried?](Gzqb26NhuAI.jpg "French Presidential Election Results - Should Muslims Be Worried?")
 
@@ -15,7 +15,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [French Presidential Election Results - Should Muslims Be Worried?](https://www.youtube.com/watch?v=Gzqb26NhuAI)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=Gzqb26NhuAI&t=0) - [00:30:00](https://www.youtube.com/watch?v=Gzqb26NhuAI&t=1800)
 

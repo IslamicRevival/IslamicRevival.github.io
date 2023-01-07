@@ -1,4 +1,4 @@
-# Dr Ali Ataie's appeal to support Blogging Theology (2023-01-01 20:30:13+00:00)
+# Dr Ali Ataie's appeal to support Blogging Theology (2023-01-01)
 
 ![alt Dr Ali Ataie's appeal to support Blogging Theology](C7xHWKjK-uI.jpg "Dr Ali Ataie's appeal to support Blogging Theology")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [Dr Ali Ataie's appeal to support Blogging Theology](https://www.youtube.com/watch?v=C7xHWKjK-uI)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=C7xHWKjK-uI&t=0) - [00:00:00](https://www.youtube.com/watch?v=C7xHWKjK-uI&t=0)
 

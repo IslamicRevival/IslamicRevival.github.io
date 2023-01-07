@@ -1,4 +1,4 @@
-# One of my favourite Qur'an verses #shorts (2021-09-11 19:32:58+00:00)
+# One of my favourite Qur'an verses #shorts (2021-09-11)
 
 ![alt One of my favourite Qur'an verses #shorts](lchWCxl_wxw.jpg "One of my favourite Qur'an verses #shorts")
 
@@ -11,7 +11,7 @@ Surah 2:177 as translated by Abdullah Yusuf Ali
 ## Summary of [One of my favourite Qur'an verses #shorts](https://www.youtube.com/watch?v=lchWCxl_wxw)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=lchWCxl_wxw&t=0) - [00:00:00](https://www.youtube.com/watch?v=lchWCxl_wxw&t=0)
 

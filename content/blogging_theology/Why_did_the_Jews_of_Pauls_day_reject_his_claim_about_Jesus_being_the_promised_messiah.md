@@ -1,4 +1,4 @@
-# Why did the Jews of Paul’s day reject his claim about Jesus being the promised messiah? (2021-02-14 13:46:44+00:00)
+# Why did the Jews of Paul’s day reject his claim about Jesus being the promised messiah? (2021-02-14)
 
 ![alt Why did the Jews of Paul’s day reject his claim about Jesus being the promised messiah?](6_NfquS4Enk.jpg "Why did the Jews of Paul’s day reject his claim about Jesus being the promised messiah?")
 
@@ -11,7 +11,7 @@ Throughout history, when Christians have pointed to “predictions of Jesus” i
 ## Summary of [Why did the Jews of Paul’s day reject his claim about Jesus being the promised messiah?](https://www.youtube.com/watch?v=6_NfquS4Enk)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=6_NfquS4Enk&t=0) - [00:05:00](https://www.youtube.com/watch?v=6_NfquS4Enk&t=300)
 

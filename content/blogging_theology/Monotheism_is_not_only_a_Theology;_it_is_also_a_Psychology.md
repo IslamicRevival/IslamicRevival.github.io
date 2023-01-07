@@ -1,4 +1,4 @@
-# Monotheism is not only a Theology; it is also a Psychology (2021-09-25 19:03:50+00:00)
+# Monotheism is not only a Theology; it is also a Psychology (2021-09-25)
 
 ![alt Monotheism is not only a Theology; it is also a Psychology](KgFnibU7Auc.jpg "Monotheism is not only a Theology; it is also a Psychology")
 
@@ -9,7 +9,7 @@ I read from Islam and the Destiny of Man by Gai Eaton https://www.amazon.co.uk/I
 ## Summary of [Monotheism is not only a Theology; it is also a Psychology](https://www.youtube.com/watch?v=KgFnibU7Auc)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=KgFnibU7Auc&t=0) - [00:05:00](https://www.youtube.com/watch?v=KgFnibU7Auc&t=300)
 

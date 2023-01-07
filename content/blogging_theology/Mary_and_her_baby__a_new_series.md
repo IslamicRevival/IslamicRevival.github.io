@@ -1,4 +1,4 @@
-# Mary and her baby: a new series (2021-07-12 16:39:58+00:00)
+# Mary and her baby: a new series (2021-07-12)
 
 ![alt Mary and her baby: a new series](DPApumzcyf8.jpg "Mary and her baby: a new series")
 
@@ -9,7 +9,7 @@ Islamic Jesus: How the King of the Jews Became a Prophet of the Muslims by Musta
 ## Summary of [Mary and her baby: a new series](https://www.youtube.com/watch?v=DPApumzcyf8)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=DPApumzcyf8&t=0) - [00:10:00](https://www.youtube.com/watch?v=DPApumzcyf8&t=600)
 

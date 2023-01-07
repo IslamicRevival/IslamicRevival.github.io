@@ -1,4 +1,4 @@
-# Dr Ali Ataie: Who's not the Prophet of Deuteronomy 18:18 (2021-08-13 20:15:07+00:00)
+# Dr Ali Ataie: Who's not the Prophet of Deuteronomy 18:18 (2021-08-13)
 
 ![alt Dr Ali Ataie: Who's not the Prophet of Deuteronomy 18:18](v_tKoiIxYGA.jpg "Dr Ali Ataie: Who's not the Prophet of Deuteronomy 18:18")
 
@@ -9,7 +9,7 @@ Extract from The Prophet Muhammad in the Bible with Dr. Ali Ataie https://www.yo
 ## Summary of [Dr Ali Ataie: Who's not the Prophet of Deuteronomy 18:18](https://www.youtube.com/watch?v=v_tKoiIxYGA)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=v_tKoiIxYGA&t=0) - [00:00:00](https://www.youtube.com/watch?v=v_tKoiIxYGA&t=0)
 

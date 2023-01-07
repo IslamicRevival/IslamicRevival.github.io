@@ -13,7 +13,7 @@ What happens to them and how should we be with them?
 ## Summary of [Tafseer-ul-Quran - Almassari - 012 - Al-Baqara - 06 - تفسير سورة البقرة](https://www.youtube.com/watch?v=m722n0ZG3uE)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=m722n0ZG3uE&t=0) - [01:00:00](https://www.youtube.com/watch?v=m722n0ZG3uE&t=3600)
 

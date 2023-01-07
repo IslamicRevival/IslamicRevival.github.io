@@ -1,4 +1,4 @@
-# Hadith About A Prostitute (2022-10-15 16:01:22+00:00)
+# Hadith About A Prostitute (2022-10-15)
 
 ![alt Hadith About A Prostitute](H6R4KYsPVT4.jpg "Hadith About A Prostitute")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [Hadith About A Prostitute](https://www.youtube.com/watch?v=H6R4KYsPVT4)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=H6R4KYsPVT4&t=0) - [00:00:00](https://www.youtube.com/watch?v=H6R4KYsPVT4&t=0)
 

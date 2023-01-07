@@ -1,4 +1,4 @@
-# Welcome to Blogging Theology (2021-04-14 18:59:25+00:00)
+# Welcome to Blogging Theology (2021-04-14)
 
 ![alt Welcome to Blogging Theology](wlU3hDC1u1U.jpg "Welcome to Blogging Theology")
 
@@ -21,7 +21,7 @@ Till next time!
 ## Summary of [Welcome to Blogging Theology](https://www.youtube.com/watch?v=wlU3hDC1u1U)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=wlU3hDC1u1U&t=0) - [00:00:00](https://www.youtube.com/watch?v=wlU3hDC1u1U&t=0)
 

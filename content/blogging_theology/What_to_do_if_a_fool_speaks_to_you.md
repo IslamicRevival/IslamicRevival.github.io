@@ -1,4 +1,4 @@
-# What to do if a fool speaks to you (2022-12-10 14:21:58+00:00)
+# What to do if a fool speaks to you (2022-12-10)
 
 ![alt What to do if a fool speaks to you](LZUkiI10_AU.jpg "What to do if a fool speaks to you")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [What to do if a fool speaks to you](https://www.youtube.com/watch?v=LZUkiI10_AU)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=LZUkiI10_AU&t=0) - [00:00:00](https://www.youtube.com/watch?v=LZUkiI10_AU&t=0)
 

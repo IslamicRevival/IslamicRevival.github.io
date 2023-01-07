@@ -1,4 +1,4 @@
-# The First Council of Constantinople - and why Jesus would have wept. (2020-12-11 20:49:20+00:00)
+# The First Council of Constantinople - and why Jesus would have wept. (2020-12-11)
 
 ![alt The First Council of Constantinople - and why Jesus would have wept.](Uei51koTiQU.jpg "The First Council of Constantinople - and why Jesus would have wept.")
 
@@ -11,7 +11,7 @@ I explain why Jesus - had he observed the proceedings of the council - would hav
 ## Summary of [The First Council of Constantinople - and why Jesus would have wept.](https://www.youtube.com/watch?v=Uei51koTiQU)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=Uei51koTiQU&t=0) - [00:10:00](https://www.youtube.com/watch?v=Uei51koTiQU&t=600)
 

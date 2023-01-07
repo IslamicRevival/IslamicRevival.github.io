@@ -1,4 +1,4 @@
-# The Resurrection (2021-09-15 18:21:00+00:00)
+# The Resurrection (2021-09-15)
 
 ![alt The Resurrection](IxRDbYZ9-os.jpg "The Resurrection")
 
@@ -9,7 +9,7 @@ More about Professor Geza Vermes: https://www.haaretz.com/jewish/1924-the-priest
 ## Summary of [The Resurrection](https://www.youtube.com/watch?v=IxRDbYZ9-os)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=IxRDbYZ9-os&t=0) - [00:20:00](https://www.youtube.com/watch?v=IxRDbYZ9-os&t=1200)
 

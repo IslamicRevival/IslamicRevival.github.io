@@ -1,4 +1,4 @@
-# The Significance of the Dead Sea Scrolls (2022-01-03 15:53:32+00:00)
+# The Significance of the Dead Sea Scrolls (2022-01-03)
 
 ![alt The Significance of the Dead Sea Scrolls](lm4b5lDSJKE.jpg "The Significance of the Dead Sea Scrolls")
 
@@ -15,7 +15,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [The Significance of the Dead Sea Scrolls](https://www.youtube.com/watch?v=lm4b5lDSJKE)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=lm4b5lDSJKE&t=0) - [00:05:00](https://www.youtube.com/watch?v=lm4b5lDSJKE&t=300)
 

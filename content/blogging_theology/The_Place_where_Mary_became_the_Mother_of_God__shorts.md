@@ -1,4 +1,4 @@
-# The Place where Mary became the ‘Mother of God’ #shorts (2021-10-31 16:32:58+00:00)
+# The Place where Mary became the ‘Mother of God’ #shorts (2021-10-31)
 
 ![alt The Place where Mary became the ‘Mother of God’ #shorts](FQmfCM4xswk.jpg "The Place where Mary became the ‘Mother of God’ #shorts")
 
@@ -10,7 +10,7 @@ Read about the Council of Ephesus: https://en.wikipedia.org/wiki/Council_of_Ephe
 ## Summary of [The Place where Mary became the ‘Mother of God’ #shorts](https://www.youtube.com/watch?v=FQmfCM4xswk)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=FQmfCM4xswk&t=0) - [00:00:00](https://www.youtube.com/watch?v=FQmfCM4xswk&t=0)
 

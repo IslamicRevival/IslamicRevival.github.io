@@ -9,7 +9,7 @@ Discussion on the recent outbreak of COVID-19 misconceptions, conspiracies, how 
 ## Summary of [Debunking COVID-19 Conspiracy Theories and Constructing Political Analysis](https://www.youtube.com/watch?v=RjKs1YVLcug)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=RjKs1YVLcug&t=0) - [01:00:00](https://www.youtube.com/watch?v=RjKs1YVLcug&t=3600)
 

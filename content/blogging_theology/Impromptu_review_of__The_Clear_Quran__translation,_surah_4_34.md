@@ -1,4 +1,4 @@
-# Impromptu review of 'The Clear Quran' translation, surah 4:34 (2020-12-05 20:30:52+00:00)
+# Impromptu review of 'The Clear Quran' translation, surah 4:34 (2020-12-05)
 
 ![alt Impromptu review of 'The Clear Quran' translation, surah 4:34](JhkYto2hX44.jpg "Impromptu review of 'The Clear Quran' translation, surah 4:34")
 
@@ -9,7 +9,7 @@ The Clear Quran website: https://theclearquran.org//
 ## Summary of [Impromptu review of 'The Clear Quran' translation, surah 4:34](https://www.youtube.com/watch?v=JhkYto2hX44)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=JhkYto2hX44&t=0) - [00:10:00](https://www.youtube.com/watch?v=JhkYto2hX44&t=600)
 

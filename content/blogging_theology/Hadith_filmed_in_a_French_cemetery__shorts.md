@@ -1,4 +1,4 @@
-# Hadith filmed in a French cemetery #shorts (2021-07-05 13:02:47+00:00)
+# Hadith filmed in a French cemetery #shorts (2021-07-05)
 
 ![alt Hadith filmed in a French cemetery #shorts](JtC8efMkq8g.jpg "Hadith filmed in a French cemetery #shorts")
 
@@ -10,7 +10,7 @@
 ## Summary of [Hadith filmed in a French cemetery #shorts](https://www.youtube.com/watch?v=JtC8efMkq8g)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=JtC8efMkq8g&t=0) - [00:00:00](https://www.youtube.com/watch?v=JtC8efMkq8g&t=0)
 

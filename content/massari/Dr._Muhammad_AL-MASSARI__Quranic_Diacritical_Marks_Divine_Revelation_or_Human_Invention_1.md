@@ -12,7 +12,7 @@ Quranic Diacritical marks divine revelation or human invention 1
 ## Summary of [Dr. Muhammad AL-MASSARI: Quranic Diacritical Marks Divine Revelation or Human Invention 1](https://www.youtube.com/watch?v=WAMIgyQ7QWk)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=WAMIgyQ7QWk&t=0) - [00:40:00](https://www.youtube.com/watch?v=WAMIgyQ7QWk&t=2400)
 

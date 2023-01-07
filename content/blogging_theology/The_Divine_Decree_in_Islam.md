@@ -1,4 +1,4 @@
-# The Divine Decree in Islam (2022-01-11 18:25:56+00:00)
+# The Divine Decree in Islam (2022-01-11)
 
 ![alt The Divine Decree in Islam](QvUy-KwRHBE.jpg "The Divine Decree in Islam")
 
@@ -14,7 +14,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [The Divine Decree in Islam](https://www.youtube.com/watch?v=QvUy-KwRHBE)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=QvUy-KwRHBE&t=0) - [00:50:00](https://www.youtube.com/watch?v=QvUy-KwRHBE&t=3000)
 

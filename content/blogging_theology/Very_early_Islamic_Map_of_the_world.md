@@ -1,4 +1,4 @@
-# Very early Islamic Map of the world (2021-11-02 14:33:59+00:00)
+# Very early Islamic Map of the world (2021-11-02)
 
 ![alt Very early Islamic Map of the world](KB-ygUzYId8.jpg "Very early Islamic Map of the world")
 
@@ -9,7 +9,7 @@
 ## Summary of [Very early Islamic Map of the world](https://www.youtube.com/watch?v=KB-ygUzYId8)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=KB-ygUzYId8&t=0) - [00:00:00](https://www.youtube.com/watch?v=KB-ygUzYId8&t=0)
 

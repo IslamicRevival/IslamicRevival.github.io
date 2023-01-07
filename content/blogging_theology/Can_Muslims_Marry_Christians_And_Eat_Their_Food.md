@@ -1,4 +1,4 @@
-# Can Muslims Marry Christians And Eat Their Food? (2022-05-05 18:24:41+00:00)
+# Can Muslims Marry Christians And Eat Their Food? (2022-05-05)
 
 ![alt Can Muslims Marry Christians And Eat Their Food?](4NedOrIattw.jpg "Can Muslims Marry Christians And Eat Their Food?")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [Can Muslims Marry Christians And Eat Their Food?](https://www.youtube.com/watch?v=4NedOrIattw)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=4NedOrIattw&t=0) - [00:00:00](https://www.youtube.com/watch?v=4NedOrIattw&t=0)
 

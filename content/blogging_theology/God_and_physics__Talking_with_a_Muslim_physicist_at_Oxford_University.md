@@ -1,4 +1,4 @@
-# God and physics: Talking with a Muslim physicist at Oxford University (2022-09-12 11:45:29+00:00)
+# God and physics: Talking with a Muslim physicist at Oxford University (2022-09-12)
 
 ![alt God and physics: Talking with a Muslim physicist at Oxford University](dQstuTSkWD8.jpg "God and physics: Talking with a Muslim physicist at Oxford University")
 
@@ -15,7 +15,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [God and physics: Talking with a Muslim physicist at Oxford University](https://www.youtube.com/watch?v=dQstuTSkWD8)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=dQstuTSkWD8&t=0) - [01:00:00](https://www.youtube.com/watch?v=dQstuTSkWD8&t=3600)
 

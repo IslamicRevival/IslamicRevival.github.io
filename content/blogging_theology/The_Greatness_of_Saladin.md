@@ -1,4 +1,4 @@
-# The Greatness of Saladin (2021-07-14 15:57:31+00:00)
+# The Greatness of Saladin (2021-07-14)
 
 ![alt The Greatness of Saladin](-I8uL3vG1hI.jpg "The Greatness of Saladin")
 
@@ -9,7 +9,7 @@ Said to his son al-Malik al-Zahir, on his return from a journey. Source: Abdul H
 ## Summary of [The Greatness of Saladin](https://www.youtube.com/watch?v=-I8uL3vG1hI)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=-I8uL3vG1hI&t=0) - [00:00:00](https://www.youtube.com/watch?v=-I8uL3vG1hI&t=0)
 

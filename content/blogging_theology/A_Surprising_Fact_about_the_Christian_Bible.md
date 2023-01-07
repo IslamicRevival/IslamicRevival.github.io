@@ -1,4 +1,4 @@
-# A Surprising Fact about the Christian Bible (2022-02-17 18:30:16+00:00)
+# A Surprising Fact about the Christian Bible (2022-02-17)
 
 ![alt A Surprising Fact about the Christian Bible](rQIgCtMcoEo.jpg "A Surprising Fact about the Christian Bible")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [A Surprising Fact about the Christian Bible](https://www.youtube.com/watch?v=rQIgCtMcoEo)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=rQIgCtMcoEo&t=0) - [00:10:00](https://www.youtube.com/watch?v=rQIgCtMcoEo&t=600)
 

@@ -1,4 +1,4 @@
-# Why is the Ummah weak? #shorts (2021-07-02 11:05:47+00:00)
+# Why is the Ummah weak? #shorts (2021-07-02)
 
 ![alt Why is the Ummah weak? #shorts](4EBmK1j2bgs.jpg "Why is the Ummah weak? #shorts")
 
@@ -21,7 +21,7 @@ Grade: Sahih (authentic) according to Al-Albani
 ## Summary of [Why is the Ummah weak? #shorts](https://www.youtube.com/watch?v=4EBmK1j2bgs)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=4EBmK1j2bgs&t=0) - [00:00:00](https://www.youtube.com/watch?v=4EBmK1j2bgs&t=0)
 

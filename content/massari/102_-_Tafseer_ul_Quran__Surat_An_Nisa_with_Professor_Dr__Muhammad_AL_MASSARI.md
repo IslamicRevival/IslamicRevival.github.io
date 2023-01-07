@@ -16,7 +16,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 ## Summary of [102 - Tafseer ul Quran: Surat An Nisa with Professor Dr Muhammad AL MASSARI](https://www.youtube.com/watch?v=4-olgD8JezQ)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=4-olgD8JezQ&t=0) - [01:00:00](https://www.youtube.com/watch?v=4-olgD8JezQ&t=3600)
 

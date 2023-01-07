@@ -1,4 +1,4 @@
-# Did Jesus deny he was God in the Bible? You decide. (2022-01-08 17:30:13+00:00)
+# Did Jesus deny he was God in the Bible? You decide. (2022-01-08)
 
 ![alt Did Jesus deny he was God in the Bible? You decide.](Ch0T5K1O5y4.jpg "Did Jesus deny he was God in the Bible? You decide.")
 
@@ -15,7 +15,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [Did Jesus deny he was God in the Bible? You decide.](https://www.youtube.com/watch?v=Ch0T5K1O5y4)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=Ch0T5K1O5y4&t=0) - [00:00:00](https://www.youtube.com/watch?v=Ch0T5K1O5y4&t=0)
 

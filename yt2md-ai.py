@@ -13,7 +13,7 @@ from youtube_transcript_api import YouTubeTranscriptApi
 
 import requests
 
-API_KEY = os.getenv('API_KEY11') ## codespaces secrets 1-8
+API_KEY = os.getenv('API_KEY12') ## codespaces secrets 1-12
 channel_ids_input = ["UCHDFNoOk8WOXtHo8DIc8efQ", "UC_SLXSHcCwK2RSZTXVL26SA", "UC0uyPbeJ56twBLoHUbwFKnA", "UC57cqHgR_IZEs3gx0nxyZ-g"]  ## hijab, bloggingtheology, docs, doc
 
 logging.basicConfig(level=15, format='[%(asctime)s] %(levelname)s: %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
@@ -72,9 +72,12 @@ def gen_markdown_page(video_id: str, title: str, description: str, smarkdown: st
     markdown += "\n\n"
     markdown += smarkdown.strip()
     markdown += "\n\n"
-    markdown += "## Full transcript with timestamps\n\n"
+    markdown += "<details><summary><h2>Full transcript with timestamps - CLICK TO EXPAND</h2></summary><div>\n\n"
+    print(captions)
     for c in captions:
         markdown += f"[{datetime.timedelta(seconds=int(c['start']))}](https://youtu.be/{video_id}?t={int(c['start'])}) {c['text']}  \n"
+    markdown += "</div></details>"
+    #exit()
     return markdown          
 
 def string_to_filename(filename: str, raw: bool = False):
@@ -191,7 +194,8 @@ def main(channel_ids=channel_ids_input):
                 preview_path = get_preview_image(img_file_name=img_file_name, img_url=video_metadata.snippet.thumbnails.default.url, video_id=video_id, path=path) 
                 logging.info(f"\n\nVideo ID is {video_id} with title {title}")
                 description = video_metadata.snippet.description
-                date = datetime.datetime.strptime(video_metadata.snippet.publishedAt, "%Y-%m-%dT%H:%M:%S%z")
+                date = datetime.datetime.strptime(video_metadata.snippet.publishedAt, "%Y-%m-%dT%H:%M:%SZ")
+                date = datetime.time.strftime("%Y.%m.%d", date)
                 captions = YouTubeTranscriptApi.get_transcript(video_id)
 
                 # Get AI summary
@@ -246,6 +250,9 @@ def main(channel_ids=channel_ids_input):
                 driver.quit()
                 # grep -rL "AI" *.md|xargs rm -f ##find and rm missing AI
                 # find ./ -type f -name "*.md" -exec sed -i 's/Discusses\w+/Discusses /g' {} \;
+                # find ./ -type f -name "*.md" -exec sed -Ei "s/ [0-9][0-9]\:[0-9][0-9]\:[0-9][0-9]\+[0-9][0-9]\:[0-9][0-9]//g" {} \;
+                # find ./ -type f -name "*.md" -exec sed -i 's/This is an AI generated summary. There may be inaccuracies/<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies<\/span>/g' {} \;
+                # find ./ -type f -name "A_Beautiful_Hadith__shorts.md" -exec sed -i 's/## Full transcript with timestamps/<details><summary><h2>Full transcript with timestamps - CLICK TO EXPAND<\/h2><\/summary><div>
                 smarkdown = md(mdresponse, strip=['title', 'head', 'gtag', 'props', 'could not summarize', '<could not summarize>', 'js', 'config'])
                 # list of AI NLP words to remove
                 words_to_remove = ['title', 'head', 'gtag', 'props', 'could not summarize', '<could not summarize>', 'In this video,', 'in this video,',
@@ -267,6 +274,7 @@ def main(channel_ids=channel_ids_input):
                 smarkdown = re.sub(r'.*config\', \'G-.*','', smarkdown)
                 smarkdown = re.sub(r'.*dataLayer.*','', smarkdown)
                 smarkdown = re.sub(r'.==.*','', smarkdown)
+                smarkdown = re.sub(r'This is an AI generated summary. There may be inaccuracies', '<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>', smarkdown)
                 if not "AI generated" in smarkdown:
                     logging.warn("SKIPPING: no summary markdown generated")
                     continue

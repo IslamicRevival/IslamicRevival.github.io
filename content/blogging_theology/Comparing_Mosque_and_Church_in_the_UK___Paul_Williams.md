@@ -1,4 +1,4 @@
-# Comparing Mosque and Church in the UK | Paul Williams (2021-09-28 18:41:23+00:00)
+# Comparing Mosque and Church in the UK | Paul Williams (2021-09-28)
 
 ![alt Comparing Mosque and Church in the UK | Paul Williams](vd8uAbkTWyY.jpg "Comparing Mosque and Church in the UK | Paul Williams")
 
@@ -9,7 +9,7 @@ See the BBC article 'Young more likely to pray than over-55s - survey': https://
 ## Summary of [Comparing Mosque and Church in the UK | Paul Williams](https://www.youtube.com/watch?v=vd8uAbkTWyY)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=vd8uAbkTWyY&t=0) - [00:05:00](https://www.youtube.com/watch?v=vd8uAbkTWyY&t=300)
 

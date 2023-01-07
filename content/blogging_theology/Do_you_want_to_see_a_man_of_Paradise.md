@@ -1,4 +1,4 @@
-# Do you want to see a man of Paradise? (2022-09-13 20:29:36+00:00)
+# Do you want to see a man of Paradise? (2022-09-13)
 
 ![alt Do you want to see a man of Paradise?](SPLd1iCHxd8.jpg "Do you want to see a man of Paradise?")
 
@@ -15,7 +15,7 @@ That was his secret.
 ## Summary of [Do you want to see a man of Paradise?](https://www.youtube.com/watch?v=SPLd1iCHxd8)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=SPLd1iCHxd8&t=0) - [00:00:00](https://www.youtube.com/watch?v=SPLd1iCHxd8&t=0)
 

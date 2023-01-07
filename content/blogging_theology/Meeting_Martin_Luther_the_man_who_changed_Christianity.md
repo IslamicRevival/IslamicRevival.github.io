@@ -1,4 +1,4 @@
-# Meeting Martin Luther the man who changed Christianity (2022-11-08 09:18:26+00:00)
+# Meeting Martin Luther the man who changed Christianity (2022-11-08)
 
 ![alt Meeting Martin Luther the man who changed Christianity](5LcwuG8V2xo.jpg "Meeting Martin Luther the man who changed Christianity")
 
@@ -9,7 +9,7 @@ For more on Martin Luther https://en.wikipedia.org/wiki/Martin_Luther
 ## Summary of [Meeting Martin Luther the man who changed Christianity](https://www.youtube.com/watch?v=5LcwuG8V2xo)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=5LcwuG8V2xo&t=0) - [00:00:00](https://www.youtube.com/watch?v=5LcwuG8V2xo&t=0)
 

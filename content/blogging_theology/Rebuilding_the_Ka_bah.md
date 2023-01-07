@@ -1,4 +1,4 @@
-# Rebuilding the Ka'bah (2022-03-06 14:16:33+00:00)
+# Rebuilding the Ka'bah (2022-03-06)
 
 ![alt Rebuilding the Ka'bah](Maihu1XOM6U.jpg "Rebuilding the Ka'bah")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [Rebuilding the Ka'bah](https://www.youtube.com/watch?v=Maihu1XOM6U)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=Maihu1XOM6U&t=0) - [00:05:00](https://www.youtube.com/watch?v=Maihu1XOM6U&t=300)
 

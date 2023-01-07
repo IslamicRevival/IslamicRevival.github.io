@@ -15,7 +15,7 @@ We want to recommend Kitab ut-Tawheed: The Basis of Islam and the Reality of Mon
 ## Summary of [Ibn Taymiyya's gruesome misstep led to his inverted definition of the concept of worship](https://www.youtube.com/watch?v=itqbL8KzOcs)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=itqbL8KzOcs&t=0) - [00:25:00](https://www.youtube.com/watch?v=itqbL8KzOcs&t=1500)
 

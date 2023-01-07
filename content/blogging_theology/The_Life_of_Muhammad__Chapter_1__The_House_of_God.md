@@ -1,4 +1,4 @@
-# The Life of Muhammad ﷺ Chapter 1: The House of God (2021-12-04 14:56:59+00:00)
+# The Life of Muhammad ﷺ Chapter 1: The House of God (2021-12-04)
 
 ![alt The Life of Muhammad ﷺ Chapter 1: The House of God](nGWuZcyGIvs.jpg "The Life of Muhammad ﷺ Chapter 1: The House of God")
 
@@ -22,7 +22,7 @@ https://twitter.com/freemonotheist
 ## Summary of [The Life of Muhammad ﷺ Chapter 1: The House of God](https://www.youtube.com/watch?v=nGWuZcyGIvs)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=nGWuZcyGIvs&t=0) - [00:10:00](https://www.youtube.com/watch?v=nGWuZcyGIvs&t=600)
 

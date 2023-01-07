@@ -11,7 +11,7 @@ You can view an article I wrote here -http://www.salam.org.uk/2018/10/01/the-pro
 ## Summary of [liberalism: White Colonialist's New Religion](https://www.youtube.com/watch?v=2Dyzc282ZFE)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=2Dyzc282ZFE&t=0) - [00:30:00](https://www.youtube.com/watch?v=2Dyzc282ZFE&t=1800)
 

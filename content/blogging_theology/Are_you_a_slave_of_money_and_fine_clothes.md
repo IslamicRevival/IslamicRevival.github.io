@@ -1,4 +1,4 @@
-# Are you a slave of money and fine clothes? (2022-12-14 00:02:19+00:00)
+# Are you a slave of money and fine clothes? (2022-12-14)
 
 ![alt Are you a slave of money and fine clothes?](_qa43_5VIvk.jpg "Are you a slave of money and fine clothes?")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [Are you a slave of money and fine clothes?](https://www.youtube.com/watch?v=_qa43_5VIvk)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=_qa43_5VIvk&t=0) - [00:00:00](https://www.youtube.com/watch?v=_qa43_5VIvk&t=0)
 

@@ -1,4 +1,4 @@
-# Why Jesus is not God (2022-06-01 15:52:48+00:00)
+# Why Jesus is not God (2022-06-01)
 
 ![alt Why Jesus is not God](8WtWjyqoDFA.jpg "Why Jesus is not God")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [Why Jesus is not God](https://www.youtube.com/watch?v=8WtWjyqoDFA)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=8WtWjyqoDFA&t=0) - [00:00:00](https://www.youtube.com/watch?v=8WtWjyqoDFA&t=0)
 

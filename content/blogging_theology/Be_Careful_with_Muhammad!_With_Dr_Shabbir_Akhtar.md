@@ -1,4 +1,4 @@
-# Be Careful with Muhammad! With Dr Shabbir Akhtar (2021-08-10 15:42:43+00:00)
+# Be Careful with Muhammad! With Dr Shabbir Akhtar (2021-08-10)
 
 ![alt Be Careful with Muhammad! With Dr Shabbir Akhtar](YbwyFNXXC00.jpg "Be Careful with Muhammad! With Dr Shabbir Akhtar")
 
@@ -15,7 +15,7 @@ The Quran and the Secular Mind: A Philosophy of Islam https://www.amazon.co.uk/Q
 ## Summary of [Be Careful with Muhammad! With Dr Shabbir Akhtar](https://www.youtube.com/watch?v=YbwyFNXXC00)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=YbwyFNXXC00&t=0) - [00:45:00](https://www.youtube.com/watch?v=YbwyFNXXC00&t=2700)
 

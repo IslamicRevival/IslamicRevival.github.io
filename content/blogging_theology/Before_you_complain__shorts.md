@@ -1,4 +1,4 @@
-# Before you complain #shorts (2021-05-25 18:21:28+00:00)
+# Before you complain #shorts (2021-05-25)
 
 ![alt Before you complain #shorts](lxHp0hWjR0g.jpg "Before you complain #shorts")
 
@@ -10,7 +10,7 @@ Please consider supporting my work on Patreon: https://www.patreon.com/Bloggingt
 ## Summary of [Before you complain #shorts](https://www.youtube.com/watch?v=lxHp0hWjR0g)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=lxHp0hWjR0g&t=0) - [00:00:00](https://www.youtube.com/watch?v=lxHp0hWjR0g&t=0)
 

@@ -1,4 +1,4 @@
-# Democracy, Islam & the Middle East (2021-06-16 16:39:58+00:00)
+# Democracy, Islam & the Middle East (2021-06-16)
 
 ![alt Democracy, Islam & the Middle East](gMSH8tlXhs0.jpg "Democracy, Islam & the Middle East")
 
@@ -9,7 +9,7 @@ I read from A Thinking Person’s Guide to Our Times by H.R.H. Prince Ghazi bin 
 ## Summary of [Democracy, Islam & the Middle East](https://www.youtube.com/watch?v=gMSH8tlXhs0)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=gMSH8tlXhs0&t=0) - [00:00:00](https://www.youtube.com/watch?v=gMSH8tlXhs0&t=0)
 

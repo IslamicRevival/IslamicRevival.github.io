@@ -1,4 +1,4 @@
-# Repentance at death is not accepted by Allah #shorts (2022-02-19 17:48:42+00:00)
+# Repentance at death is not accepted by Allah #shorts (2022-02-19)
 
 ![alt Repentance at death is not accepted by Allah #shorts](Ry0Wmjr9O60.jpg "Repentance at death is not accepted by Allah #shorts")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [Repentance at death is not accepted by Allah #shorts](https://www.youtube.com/watch?v=Ry0Wmjr9O60)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=Ry0Wmjr9O60&t=0) - [00:00:00](https://www.youtube.com/watch?v=Ry0Wmjr9O60&t=0)
 

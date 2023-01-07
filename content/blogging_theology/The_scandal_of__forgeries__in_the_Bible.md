@@ -1,4 +1,4 @@
-# The scandal of 'forgeries' in the Bible (2021-05-31 23:00:16+00:00)
+# The scandal of 'forgeries' in the Bible (2021-05-31)
 
 ![alt The scandal of 'forgeries' in the Bible](DY7V9Ch7Q5k.jpg "The scandal of 'forgeries' in the Bible")
 
@@ -10,7 +10,7 @@ Please consider supporting my work on Patreon: https://www.patreon.com/Bloggingt
 ## Summary of [The scandal of 'forgeries' in the Bible](https://www.youtube.com/watch?v=DY7V9Ch7Q5k)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=DY7V9Ch7Q5k&t=0) - [00:10:00](https://www.youtube.com/watch?v=DY7V9Ch7Q5k&t=600)
 

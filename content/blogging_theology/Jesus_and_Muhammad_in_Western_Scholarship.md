@@ -1,4 +1,4 @@
-# Jesus and Muhammad in Western Scholarship (2021-10-15 21:14:47+00:00)
+# Jesus and Muhammad in Western Scholarship (2021-10-15)
 
 ![alt Jesus and Muhammad in Western Scholarship](gC7r8WifrbM.jpg "Jesus and Muhammad in Western Scholarship")
 
@@ -9,7 +9,7 @@ Usman Sheikh discusses the historical Jesus and the historical Muhammad in weste
 ## Summary of [Jesus and Muhammad in Western Scholarship](https://www.youtube.com/watch?v=gC7r8WifrbM)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=gC7r8WifrbM&t=0) - [01:00:00](https://www.youtube.com/watch?v=gC7r8WifrbM&t=3600)
 

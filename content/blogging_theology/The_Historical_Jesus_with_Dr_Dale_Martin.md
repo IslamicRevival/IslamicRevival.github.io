@@ -1,4 +1,4 @@
-# The Historical Jesus with Dr Dale Martin (2021-11-16 11:44:09+00:00)
+# The Historical Jesus with Dr Dale Martin (2021-11-16)
 
 ![alt The Historical Jesus with Dr Dale Martin](YSNrTsBTH7Q.jpg "The Historical Jesus with Dr Dale Martin")
 
@@ -42,7 +42,7 @@ Chapters :
 ## Summary of [The Historical Jesus with Dr Dale Martin](https://www.youtube.com/watch?v=YSNrTsBTH7Q)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=YSNrTsBTH7Q&t=0) - [01:00:00](https://www.youtube.com/watch?v=YSNrTsBTH7Q&t=3600)
 

@@ -1,4 +1,4 @@
-# The man they called the Donkey #shorts (2022-11-15 21:17:31+00:00)
+# The man they called the Donkey #shorts (2022-11-15)
 
 ![alt The man they called the Donkey #shorts](I_o2SAGnlOs.jpg "The man they called the Donkey #shorts")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [The man they called the Donkey #shorts](https://www.youtube.com/watch?v=I_o2SAGnlOs)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=I_o2SAGnlOs&t=0) - [00:00:00](https://www.youtube.com/watch?v=I_o2SAGnlOs&t=0)
 

@@ -1,4 +1,4 @@
-# In Ephesus where Paul preached his Gospel #shorts (2021-10-30 16:35:09+00:00)
+# In Ephesus where Paul preached his Gospel #shorts (2021-10-30)
 
 ![alt In Ephesus where Paul preached his Gospel #shorts](GG6A7U1XVh4.jpg "In Ephesus where Paul preached his Gospel #shorts")
 
@@ -9,7 +9,7 @@
 ## Summary of [In Ephesus where Paul preached his Gospel #shorts](https://www.youtube.com/watch?v=GG6A7U1XVh4)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=GG6A7U1XVh4&t=0) - [00:00:00](https://www.youtube.com/watch?v=GG6A7U1XVh4&t=0)
 

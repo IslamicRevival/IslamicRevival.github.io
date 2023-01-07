@@ -1,4 +1,4 @@
-# Dr Laurence B. Brown Discusses Da'wah (2021-10-14 20:13:25+00:00)
+# Dr Laurence B. Brown Discusses Da'wah (2021-10-14)
 
 ![alt Dr Laurence B. Brown Discusses Da'wah](6zMpe1hui7g.jpg "Dr Laurence B. Brown Discusses Da'wah")
 
@@ -15,7 +15,7 @@ You can purchase all of Dr Brown's books here: https://www.amazon.co.uk/Laurence
 ## Summary of [Dr Laurence B. Brown Discusses Da'wah](https://www.youtube.com/watch?v=6zMpe1hui7g)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=6zMpe1hui7g&t=0) - [01:00:00](https://www.youtube.com/watch?v=6zMpe1hui7g&t=3600)
 

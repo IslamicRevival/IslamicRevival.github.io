@@ -1,4 +1,4 @@
-# PRIDE (2021-06-07 14:57:08+00:00)
+# PRIDE (2021-06-07)
 
 ![alt PRIDE](f3iGNyqz4Kk.jpg "PRIDE")
 
@@ -9,7 +9,7 @@ Mr Hassan Shibly is a Civil Rights Lawyer in the USA https://www.facebook.com/hs
 ## Summary of [PRIDE](https://www.youtube.com/watch?v=f3iGNyqz4Kk)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=f3iGNyqz4Kk&t=0) - [00:00:00](https://www.youtube.com/watch?v=f3iGNyqz4Kk&t=0)
 

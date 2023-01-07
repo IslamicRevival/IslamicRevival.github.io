@@ -1,4 +1,4 @@
-# How Science Became Religion Friendly with Prof Keith Ward (2022-05-02 19:38:08+00:00)
+# How Science Became Religion Friendly with Prof Keith Ward (2022-05-02)
 
 ![alt How Science Became Religion Friendly with Prof Keith Ward](SqfTLlb1lSw.jpg "How Science Became Religion Friendly with Prof Keith Ward")
 
@@ -17,7 +17,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [How Science Became Religion Friendly with Prof Keith Ward](https://www.youtube.com/watch?v=SqfTLlb1lSw)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=SqfTLlb1lSw&t=0) - [00:45:00](https://www.youtube.com/watch?v=SqfTLlb1lSw&t=2700)
 

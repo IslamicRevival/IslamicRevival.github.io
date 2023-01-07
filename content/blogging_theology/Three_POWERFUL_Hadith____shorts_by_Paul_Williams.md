@@ -1,4 +1,4 @@
-# Three POWERFUL Hadith | #shorts by Paul Williams (2021-09-30 19:24:14+00:00)
+# Three POWERFUL Hadith | #shorts by Paul Williams (2021-09-30)
 
 ![alt Three POWERFUL Hadith | #shorts by Paul Williams](SShHyz5VOtU.jpg "Three POWERFUL Hadith | #shorts by Paul Williams")
 
@@ -9,7 +9,7 @@ Three POWERFUL Hadith | #shorts by Paul Williams
 ## Summary of [Three POWERFUL Hadith | #shorts by Paul Williams](https://www.youtube.com/watch?v=SShHyz5VOtU)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=SShHyz5VOtU&t=0) - [00:00:00](https://www.youtube.com/watch?v=SShHyz5VOtU&t=0)
 

@@ -1,4 +1,4 @@
-# Islam and Christianity are under threat (2021-10-20 21:49:02+00:00)
+# Islam and Christianity are under threat (2021-10-20)
 
 ![alt Islam and Christianity are under threat](fSyo0e186uQ.jpg "Islam and Christianity are under threat")
 
@@ -11,7 +11,7 @@ The Daily Mail article here: https://www.dailymail.co.uk/news/article-10101671/F
 ## Summary of [Islam and Christianity are under threat](https://www.youtube.com/watch?v=fSyo0e186uQ)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=fSyo0e186uQ&t=0) - [00:10:00](https://www.youtube.com/watch?v=fSyo0e186uQ&t=600)
 

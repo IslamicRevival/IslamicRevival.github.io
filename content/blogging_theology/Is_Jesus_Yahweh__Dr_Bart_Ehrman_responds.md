@@ -1,4 +1,4 @@
-# Is Jesus Yahweh? Dr Bart Ehrman responds (2021-12-27 15:02:47+00:00)
+# Is Jesus Yahweh? Dr Bart Ehrman responds (2021-12-27)
 
 ![alt Is Jesus Yahweh? Dr Bart Ehrman responds](J6V8qXHw1fI.jpg "Is Jesus Yahweh? Dr Bart Ehrman responds")
 
@@ -14,7 +14,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [Is Jesus Yahweh? Dr Bart Ehrman responds](https://www.youtube.com/watch?v=J6V8qXHw1fI)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=J6V8qXHw1fI&t=0) - [00:00:00](https://www.youtube.com/watch?v=J6V8qXHw1fI&t=0)
 

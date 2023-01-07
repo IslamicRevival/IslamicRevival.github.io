@@ -1,4 +1,4 @@
-# Hadith on Fitrah: Every child is born to believe in Allah #shorts (2021-06-22 13:26:54+00:00)
+# Hadith on Fitrah: Every child is born to believe in Allah #shorts (2021-06-22)
 
 ![alt Hadith on Fitrah: Every child is born to believe in Allah #shorts](RQ7YDB1pKTE.jpg "Hadith on Fitrah: Every child is born to believe in Allah #shorts")
 
@@ -10,7 +10,7 @@ Surah 30:30.
 ## Summary of [Hadith on Fitrah: Every child is born to believe in Allah #shorts](https://www.youtube.com/watch?v=RQ7YDB1pKTE)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=RQ7YDB1pKTE&t=0) - [00:00:00](https://www.youtube.com/watch?v=RQ7YDB1pKTE&t=0)
 

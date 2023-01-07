@@ -1,4 +1,4 @@
-# Prof Dale Martin: Surprises in the Gospel of John (2021-07-16 10:35:41+00:00)
+# Prof Dale Martin: Surprises in the Gospel of John (2021-07-16)
 
 ![alt Prof Dale Martin: Surprises in the Gospel of John](cjCRhgD_XIQ.jpg "Prof Dale Martin: Surprises in the Gospel of John")
 
@@ -9,7 +9,7 @@ We continue our series of talks on the New Testament with the Gospel of John. Pr
 ## Summary of [Prof Dale Martin: Surprises in the Gospel of John](https://www.youtube.com/watch?v=cjCRhgD_XIQ)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=cjCRhgD_XIQ&t=0) - [00:50:00](https://www.youtube.com/watch?v=cjCRhgD_XIQ&t=3000)
 

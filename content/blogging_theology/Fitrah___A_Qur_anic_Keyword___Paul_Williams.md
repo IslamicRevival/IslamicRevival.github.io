@@ -1,4 +1,4 @@
-# Fitrah | A Qur'anic Keyword | Paul Williams (2021-09-16 20:03:06+00:00)
+# Fitrah | A Qur'anic Keyword | Paul Williams (2021-09-16)
 
 ![alt Fitrah | A Qur'anic Keyword | Paul Williams](ae51YI1XJ20.jpg "Fitrah | A Qur'anic Keyword | Paul Williams")
 
@@ -9,7 +9,7 @@ I read from Quranic Keywords: A Reference Guide by Abdur Rashid Siddiqui https:/
 ## Summary of [Fitrah | A Qur'anic Keyword | Paul Williams](https://www.youtube.com/watch?v=ae51YI1XJ20)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=ae51YI1XJ20&t=0) - [00:05:00](https://www.youtube.com/watch?v=ae51YI1XJ20&t=300)
 

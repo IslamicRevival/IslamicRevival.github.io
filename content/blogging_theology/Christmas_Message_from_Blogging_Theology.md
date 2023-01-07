@@ -1,4 +1,4 @@
-# Christmas Message from Blogging Theology (2020-12-24 20:46:54+00:00)
+# Christmas Message from Blogging Theology (2020-12-24)
 
 ![alt Christmas Message from Blogging Theology](UKfoEkJ_Yi0.jpg "Christmas Message from Blogging Theology")
 
@@ -25,7 +25,7 @@ Also consider these contradictions:
 ## Summary of [Christmas Message from Blogging Theology](https://www.youtube.com/watch?v=UKfoEkJ_Yi0)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=UKfoEkJ_Yi0&t=0) - [00:05:00](https://www.youtube.com/watch?v=UKfoEkJ_Yi0&t=300)
 

@@ -1,4 +1,4 @@
-# Presumptions about God’s wisdom in Muslim Arguments for and against evolution (2022-03-01 17:08:27+00:00)
+# Presumptions about God’s wisdom in Muslim Arguments for and against evolution (2022-03-01)
 
 ![alt Presumptions about God’s wisdom in Muslim Arguments for and against evolution](0IzntNKcmLQ.jpg "Presumptions about God’s wisdom in Muslim Arguments for and against evolution")
 
@@ -15,7 +15,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [Presumptions about God’s wisdom in Muslim Arguments for and against evolution](https://www.youtube.com/watch?v=0IzntNKcmLQ)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=0IzntNKcmLQ&t=0) - [01:00:00](https://www.youtube.com/watch?v=0IzntNKcmLQ&t=3600)
 

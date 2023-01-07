@@ -1,4 +1,4 @@
-# What is the true teaching of Jesus about the Old Testament Law? (2021-01-02 18:35:49+00:00)
+# What is the true teaching of Jesus about the Old Testament Law? (2021-01-02)
 
 ![alt What is the true teaching of Jesus about the Old Testament Law?](yhJ_0dVmAEc.jpg "What is the true teaching of Jesus about the Old Testament Law?")
 
@@ -15,7 +15,7 @@ I quote from 'The New Jerome Biblical Commentary' by Raymond E. Brown, page 641.
 ## Summary of [What is the true teaching of Jesus about the Old Testament Law?](https://www.youtube.com/watch?v=yhJ_0dVmAEc)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=yhJ_0dVmAEc&t=0) - [00:10:00](https://www.youtube.com/watch?v=yhJ_0dVmAEc&t=600)
 

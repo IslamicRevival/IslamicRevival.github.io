@@ -1,4 +1,4 @@
-# AMAZING! Revd Professor Keith Ward on Muhammad as a Prophet of God (2021-05-02 11:12:46+00:00)
+# AMAZING! Revd Professor Keith Ward on Muhammad as a Prophet of God (2021-05-02)
 
 ![alt AMAZING! Revd Professor Keith Ward on Muhammad as a Prophet of God](FkeoGRT_ATE.jpg "AMAZING! Revd Professor Keith Ward on Muhammad as a Prophet of God")
 
@@ -12,7 +12,7 @@ Keith Ward is an English Anglican priest, philosopher, and theologian. He is a f
 ## Summary of [AMAZING! Revd Professor Keith Ward on Muhammad as a Prophet of God](https://www.youtube.com/watch?v=FkeoGRT_ATE)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+<span style="color:red; font-size:125%">This summary is AI generated - there are inaccuracies</span> [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=FkeoGRT_ATE&t=0) - [00:10:00](https://www.youtube.com/watch?v=FkeoGRT_ATE&t=600)
 

@@ -1,4 +1,4 @@
-# Allah does not love the wasteful! (2022-11-24 19:11:54+00:00)
+# Allah does not love the wasteful! (2022-11-24)
 
 ![alt Allah does not love the wasteful!](K76Z9mG9giE.jpg "Allah does not love the wasteful!")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [Allah does not love the wasteful!](https://www.youtube.com/watch?v=K76Z9mG9giE)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=K76Z9mG9giE&t=0) - [00:00:00](https://www.youtube.com/watch?v=K76Z9mG9giE&t=0)
 

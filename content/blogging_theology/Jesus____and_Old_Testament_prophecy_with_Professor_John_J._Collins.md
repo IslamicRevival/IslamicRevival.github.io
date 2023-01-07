@@ -1,4 +1,4 @@
-# Jesus عليه السلام  and Old Testament prophecy with Professor John J. Collins (2022-02-24 16:55:39+00:00)
+# Jesus عليه السلام  and Old Testament prophecy with Professor John J. Collins (2022-02-24)
 
 ![alt Jesus عليه السلام  and Old Testament prophecy with Professor John J. Collins](VEGbGICJwBo.jpg "Jesus عليه السلام  and Old Testament prophecy with Professor John J. Collins")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [Jesus عليه السلام and Old Testament prophecy with Professor John J. Collins](https://www.youtube.com/watch?v=VEGbGICJwBo)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=VEGbGICJwBo&t=0) - [00:45:00](https://www.youtube.com/watch?v=VEGbGICJwBo&t=2700)
 

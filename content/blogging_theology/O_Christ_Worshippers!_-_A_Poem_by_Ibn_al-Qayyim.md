@@ -1,4 +1,4 @@
-# O Christ Worshippers! - A Poem by Ibn al-Qayyim (2021-02-08 19:38:53+00:00)
+# O Christ Worshippers! - A Poem by Ibn al-Qayyim (2021-02-08)
 
 ![alt O Christ Worshippers! - A Poem by Ibn al-Qayyim](pMB-v2Q5ijU.jpg "O Christ Worshippers! - A Poem by Ibn al-Qayyim")
 
@@ -9,7 +9,7 @@ Ibn al-Qayyim was an important medieval Islamic jurisconsult, theologian, and sp
 ## Summary of [O Christ Worshippers! - A Poem by Ibn al-Qayyim](https://www.youtube.com/watch?v=pMB-v2Q5ijU)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=pMB-v2Q5ijU&t=0) - [00:00:00](https://www.youtube.com/watch?v=pMB-v2Q5ijU&t=0)
 

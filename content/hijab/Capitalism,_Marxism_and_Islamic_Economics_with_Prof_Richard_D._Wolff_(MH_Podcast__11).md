@@ -18,7 +18,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 ## Summary of [Capitalism, Marxism and Islamic Economics with Prof Richard D. Wolff (MH Podcast #11)](https://www.youtube.com/watch?v=cWUEdtPMqYw)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=cWUEdtPMqYw&t=0) - [01:00:00](https://www.youtube.com/watch?v=cWUEdtPMqYw&t=3600)
 

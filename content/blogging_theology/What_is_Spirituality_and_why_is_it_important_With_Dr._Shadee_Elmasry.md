@@ -1,4 +1,4 @@
-# What is Spirituality and why is it important? With Dr. Shadee Elmasry (2022-06-23 17:13:08+00:00)
+# What is Spirituality and why is it important? With Dr. Shadee Elmasry (2022-06-23)
 
 ![alt What is Spirituality and why is it important? With Dr. Shadee Elmasry](IFxvXl8f6sk.jpg "What is Spirituality and why is it important? With Dr. Shadee Elmasry")
 
@@ -15,7 +15,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [What is Spirituality and why is it important? With Dr. Shadee Elmasry](https://www.youtube.com/watch?v=IFxvXl8f6sk)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=IFxvXl8f6sk&t=0) - [00:55:00](https://www.youtube.com/watch?v=IFxvXl8f6sk&t=3300)
 

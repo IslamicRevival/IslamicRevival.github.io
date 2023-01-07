@@ -1,4 +1,4 @@
-# Islam on the Problem of Suffering with Dr Abdullah Sueidi (2021-12-28 11:30:12+00:00)
+# Islam on the Problem of Suffering with Dr Abdullah Sueidi (2021-12-28)
 
 ![alt Islam on the Problem of Suffering with Dr Abdullah Sueidi](p2h4eTlwz1k.jpg "Islam on the Problem of Suffering with Dr Abdullah Sueidi")
 
@@ -43,7 +43,7 @@ Chapters ::
 ## Summary of [Islam on the Problem of Suffering with Dr Abdullah Sueidi](https://www.youtube.com/watch?v=p2h4eTlwz1k)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=p2h4eTlwz1k&t=0) - [01:00:00](https://www.youtube.com/watch?v=p2h4eTlwz1k&t=3600)
 

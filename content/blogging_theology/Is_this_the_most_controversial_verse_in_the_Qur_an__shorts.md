@@ -1,4 +1,4 @@
-# Is this the most controversial verse in the Qur'an? #shorts (2022-02-22 18:33:33+00:00)
+# Is this the most controversial verse in the Qur'an? #shorts (2022-02-22)
 
 ![alt Is this the most controversial verse in the Qur'an? #shorts](kofEZyh678w.jpg "Is this the most controversial verse in the Qur'an? #shorts")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [Is this the most controversial verse in the Qur'an? #shorts](https://www.youtube.com/watch?v=kofEZyh678w)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=kofEZyh678w&t=0) - [00:00:00](https://www.youtube.com/watch?v=kofEZyh678w&t=0)
 

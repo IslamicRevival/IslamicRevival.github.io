@@ -1,4 +1,4 @@
-# Indirect Proof of the Prophethood of Muhammad ﷺ ? (2022-02-03 12:45:04+00:00)
+# Indirect Proof of the Prophethood of Muhammad ﷺ ? (2022-02-03)
 
 ![alt Indirect Proof of the Prophethood of Muhammad ﷺ ?](FgAMysWHCvo.jpg "Indirect Proof of the Prophethood of Muhammad ﷺ ?")
 
@@ -14,7 +14,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [Indirect Proof of the Prophethood of Muhammad ﷺ ?](https://www.youtube.com/watch?v=FgAMysWHCvo)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=FgAMysWHCvo&t=0) - [00:00:00](https://www.youtube.com/watch?v=FgAMysWHCvo&t=0)
 

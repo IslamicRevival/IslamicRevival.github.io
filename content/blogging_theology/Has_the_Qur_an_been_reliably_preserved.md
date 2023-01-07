@@ -1,4 +1,4 @@
-# Has the Qur'an been reliably preserved? (2021-02-19 20:13:00+00:00)
+# Has the Qur'an been reliably preserved? (2021-02-19)
 
 ![alt Has the Qur'an been reliably preserved?](WKlSJa-ZnJQ.jpg "Has the Qur'an been reliably preserved?")
 
@@ -14,7 +14,7 @@ https://www.cambridge.org/core/books/cambridge-companion-to-the-quran/C396A0E0B9
 ## Summary of [Has the Qur'an been reliably preserved?](https://www.youtube.com/watch?v=WKlSJa-ZnJQ)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=WKlSJa-ZnJQ&t=0) - [00:10:00](https://www.youtube.com/watch?v=WKlSJa-ZnJQ&t=600)
 

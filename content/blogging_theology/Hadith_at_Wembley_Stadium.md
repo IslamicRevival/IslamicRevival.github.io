@@ -1,4 +1,4 @@
-# Hadith at Wembley Stadium (2022-09-25 09:26:52+00:00)
+# Hadith at Wembley Stadium (2022-09-25)
 
 ![alt Hadith at Wembley Stadium](xG2EbXyuQQQ.jpg "Hadith at Wembley Stadium")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [Hadith at Wembley Stadium](https://www.youtube.com/watch?v=xG2EbXyuQQQ)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=xG2EbXyuQQQ&t=0) - [00:00:00](https://www.youtube.com/watch?v=xG2EbXyuQQQ&t=0)
 

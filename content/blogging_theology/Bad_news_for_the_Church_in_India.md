@@ -1,4 +1,4 @@
-# Bad news for the Church in India (2021-08-31 21:03:50+00:00)
+# Bad news for the Church in India (2021-08-31)
 
 ![alt Bad news for the Church in India](xFPWxELcLRk.jpg "Bad news for the Church in India")
 
@@ -9,7 +9,7 @@ Taken from The Gospels that did NOT make it into the Bible with Professor Dale M
 ## Summary of [Bad news for the Church in India](https://www.youtube.com/watch?v=xFPWxELcLRk)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=xFPWxELcLRk&t=0) - [00:00:00](https://www.youtube.com/watch?v=xFPWxELcLRk&t=0)
 

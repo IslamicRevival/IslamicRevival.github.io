@@ -1,4 +1,4 @@
-# The Jews of Medina were expecting a Prophet (2022-04-15 21:19:19+00:00)
+# The Jews of Medina were expecting a Prophet (2022-04-15)
 
 ![alt The Jews of Medina were expecting a Prophet](Z4pm2fSYhCI.jpg "The Jews of Medina were expecting a Prophet")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [The Jews of Medina were expecting a Prophet](https://www.youtube.com/watch?v=Z4pm2fSYhCI)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=Z4pm2fSYhCI&t=0) - [00:05:00](https://www.youtube.com/watch?v=Z4pm2fSYhCI&t=300)
 

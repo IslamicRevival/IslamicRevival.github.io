@@ -11,7 +11,7 @@ Principle of Sufficient Reason and the Infinite Regress   4
 ## Summary of [Principle of Sufficient Reason and the Infinite Regress 4](https://www.youtube.com/watch?v=hYFpm7PKzbA)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=hYFpm7PKzbA&t=0) - [01:00:00](https://www.youtube.com/watch?v=hYFpm7PKzbA&t=3600)
 

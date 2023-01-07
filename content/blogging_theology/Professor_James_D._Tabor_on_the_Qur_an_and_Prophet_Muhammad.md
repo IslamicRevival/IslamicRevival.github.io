@@ -1,4 +1,4 @@
-# Professor James D. Tabor on the Qur'an and Prophet Muhammad (2021-05-15 19:28:31+00:00)
+# Professor James D. Tabor on the Qur'an and Prophet Muhammad (2021-05-15)
 
 ![alt Professor James D. Tabor on the Qur'an and Prophet Muhammad](Atz9V7iH91g.jpg "Professor James D. Tabor on the Qur'an and Prophet Muhammad")
 
@@ -9,7 +9,7 @@ James D. Tabor is a Biblical scholar and Professor of Ancient Judaism and Early 
 ## Summary of [Professor James D. Tabor on the Qur'an and Prophet Muhammad](https://www.youtube.com/watch?v=Atz9V7iH91g)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=Atz9V7iH91g&t=0) - [00:00:00](https://www.youtube.com/watch?v=Atz9V7iH91g&t=0)
 

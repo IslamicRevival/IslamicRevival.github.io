@@ -16,7 +16,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 ## Summary of [109 Tafseer ul Quran Surat Al Ma'idah Professor Dr Muhammad AL MASSARI](https://www.youtube.com/watch?v=FZO3ctGlQZM)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=FZO3ctGlQZM&t=0) - [01:00:00](https://www.youtube.com/watch?v=FZO3ctGlQZM&t=3600)
 

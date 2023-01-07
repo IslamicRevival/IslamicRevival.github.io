@@ -1,4 +1,4 @@
-# Insights from the Unseen in The Qur'an | #shorts By Paul Williams (2021-09-18 19:36:05+00:00)
+# Insights from the Unseen in The Qur'an | #shorts By Paul Williams (2021-09-18)
 
 ![alt Insights from the Unseen in The Qur'an | #shorts By Paul Williams](7ZWAEw-dCkk.jpg "Insights from the Unseen in The Qur'an | #shorts By Paul Williams")
 
@@ -9,7 +9,7 @@ Surah 57: 22-23
 ## Summary of [Insights from the Unseen in The Qur'an | #shorts By Paul Williams](https://www.youtube.com/watch?v=7ZWAEw-dCkk)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=7ZWAEw-dCkk&t=0) - [00:00:00](https://www.youtube.com/watch?v=7ZWAEw-dCkk&t=0)
 

@@ -1,4 +1,4 @@
-# The Antichrist (al-Dajjal) (2021-06-01 19:36:31+00:00)
+# The Antichrist (al-Dajjal) (2021-06-01)
 
 ![alt The Antichrist (al-Dajjal)](pPpg14D7GbM.jpg "The Antichrist (al-Dajjal)")
 
@@ -9,7 +9,7 @@ I read from Man and the Universe: An Islamic Perspective by Dr Mostafa Al-Badawi
 ## Summary of [The Antichrist (al-Dajjal)](https://www.youtube.com/watch?v=pPpg14D7GbM)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=pPpg14D7GbM&t=0) - [00:10:00](https://www.youtube.com/watch?v=pPpg14D7GbM&t=600)
 

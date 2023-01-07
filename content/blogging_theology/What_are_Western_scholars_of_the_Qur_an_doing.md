@@ -1,4 +1,4 @@
-# What are Western scholars of the Qur'an doing? (2021-08-29 16:50:47+00:00)
+# What are Western scholars of the Qur'an doing? (2021-08-29)
 
 ![alt What are Western scholars of the Qur'an doing?](9JSVA39PkS0.jpg "What are Western scholars of the Qur'an doing?")
 
@@ -10,7 +10,7 @@ The Qur'an: A Historical-Critical Introduction (New Edinburgh Islamic Surveys) b
 ## Summary of [What are Western scholars of the Qur'an doing?](https://www.youtube.com/watch?v=9JSVA39PkS0)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=9JSVA39PkS0&t=0) - [00:10:00](https://www.youtube.com/watch?v=9JSVA39PkS0&t=600)
 

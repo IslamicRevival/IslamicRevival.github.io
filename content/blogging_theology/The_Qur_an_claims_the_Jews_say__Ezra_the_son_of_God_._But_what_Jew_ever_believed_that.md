@@ -1,4 +1,4 @@
-# The Qur'an claims the Jews say 'Ezra the son of God'. But what Jew ever believed that? (2020-12-10 00:05:43+00:00)
+# The Qur'an claims the Jews say 'Ezra the son of God'. But what Jew ever believed that? (2020-12-10)
 
 ![alt The Qur'an claims the Jews say 'Ezra the son of God'. But what Jew ever believed that?](N4w9gU5YO40.jpg "The Qur'an claims the Jews say 'Ezra the son of God'. But what Jew ever believed that?")
 
@@ -29,7 +29,7 @@ So the Quran's polemic is directed against a medieval Jewish aberration rather t
 ## Summary of [The Qur'an claims the Jews say 'Ezra the son of God'. But what Jew ever believed that?](https://www.youtube.com/watch?v=N4w9gU5YO40)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=N4w9gU5YO40&t=0) - [00:05:00](https://www.youtube.com/watch?v=N4w9gU5YO40&t=300)
 

@@ -12,7 +12,7 @@ Quranic Diacritical marks divine revelation or human invention 3
 ## Summary of [Quranic Diacritical marks divine revelation or human invention 3](https://www.youtube.com/watch?v=0rg8p-H6M0w)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=0rg8p-H6M0w&t=0) - [00:40:00](https://www.youtube.com/watch?v=0rg8p-H6M0w&t=2400)
 

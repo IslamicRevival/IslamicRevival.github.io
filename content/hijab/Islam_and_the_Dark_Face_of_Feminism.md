@@ -9,7 +9,7 @@ This lecture attempts to assess the changing premise of feminism throughout the 
 ## Summary of [Islam and the Dark Face of Feminism](https://www.youtube.com/watch?v=sC5K5PT-atA)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=sC5K5PT-atA&t=0) - [00:30:00](https://www.youtube.com/watch?v=sC5K5PT-atA&t=1800)
 

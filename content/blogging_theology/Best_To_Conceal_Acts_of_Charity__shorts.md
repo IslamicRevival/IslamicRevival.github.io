@@ -1,4 +1,4 @@
-# Best To Conceal Acts of Charity #shorts (2021-12-26 13:51:01+00:00)
+# Best To Conceal Acts of Charity #shorts (2021-12-26)
 
 ![alt Best To Conceal Acts of Charity #shorts](AHgWY-kY9LQ.jpg "Best To Conceal Acts of Charity #shorts")
 
@@ -19,7 +19,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [Best To Conceal Acts of Charity #shorts](https://www.youtube.com/watch?v=AHgWY-kY9LQ)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=AHgWY-kY9LQ&t=0) - [00:00:00](https://www.youtube.com/watch?v=AHgWY-kY9LQ&t=0)
 

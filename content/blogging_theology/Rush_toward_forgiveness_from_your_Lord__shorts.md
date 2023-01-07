@@ -1,4 +1,4 @@
-# Rush toward forgiveness from your Lord #shorts (2022-01-14 18:14:29+00:00)
+# Rush toward forgiveness from your Lord #shorts (2022-01-14)
 
 ![alt Rush toward forgiveness from your Lord #shorts](BKokpNwdZXI.jpg "Rush toward forgiveness from your Lord #shorts")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [Rush toward forgiveness from your Lord #shorts](https://www.youtube.com/watch?v=BKokpNwdZXI)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=BKokpNwdZXI&t=0) - [00:00:00](https://www.youtube.com/watch?v=BKokpNwdZXI&t=0)
 

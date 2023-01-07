@@ -15,7 +15,7 @@ Meaning of Iman, relation to Ghayb
 ## Summary of [Tafseer-ul-Quran - Almassari - 009 - Al-Baqara 03 - تفسير سورة البقرة](https://www.youtube.com/watch?v=QKcXkc_hRSA)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=QKcXkc_hRSA&t=0) - [01:00:00](https://www.youtube.com/watch?v=QKcXkc_hRSA&t=3600)
 

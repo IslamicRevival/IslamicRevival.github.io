@@ -1,4 +1,4 @@
-# The Gospel of Luke denies Jesus died for our sins! (2021-07-05 21:17:13+00:00)
+# The Gospel of Luke denies Jesus died for our sins! (2021-07-05)
 
 ![alt The Gospel of Luke denies Jesus died for our sins!](PMIyqDwrnjY.jpg "The Gospel of Luke denies Jesus died for our sins!")
 
@@ -9,7 +9,7 @@ We continue a series of talks on the New Testament with the Gospel of Luke and t
 ## Summary of [The Gospel of Luke denies Jesus died for our sins!](https://www.youtube.com/watch?v=PMIyqDwrnjY)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=PMIyqDwrnjY&t=0) - [00:50:00](https://www.youtube.com/watch?v=PMIyqDwrnjY&t=3000)
 

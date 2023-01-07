@@ -1,4 +1,4 @@
-# When the Ottomans first tried coffee (2022-10-16 11:14:10+00:00)
+# When the Ottomans first tried coffee (2022-10-16)
 
 ![alt When the Ottomans first tried coffee](hIixS9zaUhE.jpg "When the Ottomans first tried coffee")
 
@@ -15,7 +15,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [When the Ottomans first tried coffee](https://www.youtube.com/watch?v=hIixS9zaUhE)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=hIixS9zaUhE&t=0) - [00:15:00](https://www.youtube.com/watch?v=hIixS9zaUhE&t=900)
 

@@ -1,4 +1,4 @@
-# 👉 Qur’an at Shepherd’s Bush Market #shorts (2021-11-19 15:26:25+00:00)
+# 👉 Qur’an at Shepherd’s Bush Market #shorts (2021-11-19)
 
 ![alt 👉 Qur’an at Shepherd’s Bush Market #shorts](vLASAJ8nAlQ.jpg "👉 Qur’an at Shepherd’s Bush Market #shorts")
 
@@ -9,7 +9,7 @@
 ## Summary of [👉 Qur’an at Shepherd’s Bush Market #shorts](https://www.youtube.com/watch?v=vLASAJ8nAlQ)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=vLASAJ8nAlQ&t=0) - [00:00:00](https://www.youtube.com/watch?v=vLASAJ8nAlQ&t=0)
 

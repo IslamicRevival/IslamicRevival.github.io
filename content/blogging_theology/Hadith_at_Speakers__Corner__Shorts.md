@@ -1,4 +1,4 @@
-# Hadith at Speakers' Corner #Shorts (2021-08-15 20:13:57+00:00)
+# Hadith at Speakers' Corner #Shorts (2021-08-15)
 
 ![alt Hadith at Speakers' Corner #Shorts](SOkeqm14RlI.jpg "Hadith at Speakers' Corner #Shorts")
 
@@ -9,7 +9,7 @@
 ## Summary of [Hadith at Speakers' Corner #Shorts](https://www.youtube.com/watch?v=SOkeqm14RlI)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=SOkeqm14RlI&t=0) - [00:00:00](https://www.youtube.com/watch?v=SOkeqm14RlI&t=0)
 

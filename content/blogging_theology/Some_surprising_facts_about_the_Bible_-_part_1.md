@@ -1,4 +1,4 @@
-# Some surprising facts about the Bible - part 1 (2021-01-16 19:08:20+00:00)
+# Some surprising facts about the Bible - part 1 (2021-01-16)
 
 ![alt Some surprising facts about the Bible - part 1](ITZHvxxRpj8.jpg "Some surprising facts about the Bible - part 1")
 
@@ -9,7 +9,7 @@ Nowhere does the Christian Bible claim to be the word of God, or inspired of God
 ## Summary of [Some surprising facts about the Bible - part 1](https://www.youtube.com/watch?v=ITZHvxxRpj8)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=ITZHvxxRpj8&t=0) - [00:10:00](https://www.youtube.com/watch?v=ITZHvxxRpj8&t=600)
 

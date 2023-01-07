@@ -1,4 +1,4 @@
-# Islamic manners and morality (2022-03-22 18:34:25+00:00)
+# Islamic manners and morality (2022-03-22)
 
 ![alt Islamic manners and morality](HWzf359ROjw.jpg "Islamic manners and morality")
 
@@ -12,7 +12,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [Islamic manners and morality](https://www.youtube.com/watch?v=HWzf359ROjw)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=HWzf359ROjw&t=0) - [00:10:00](https://www.youtube.com/watch?v=HWzf359ROjw&t=600)
 

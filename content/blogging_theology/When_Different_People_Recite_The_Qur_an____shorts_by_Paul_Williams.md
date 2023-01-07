@@ -1,4 +1,4 @@
-# When Different People Recite The Qur'an | #shorts by Paul Williams (2021-10-01 19:40:55+00:00)
+# When Different People Recite The Qur'an | #shorts by Paul Williams (2021-10-01)
 
 ![alt When Different People Recite The Qur'an | #shorts by Paul Williams](VPF6bpMOVNg.jpg "When Different People Recite The Qur'an | #shorts by Paul Williams")
 
@@ -9,7 +9,7 @@ When Different People Recite The Qur'an | #shorts by Paul Williams
 ## Summary of [When Different People Recite The Qur'an | #shorts by Paul Williams](https://www.youtube.com/watch?v=VPF6bpMOVNg)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=VPF6bpMOVNg&t=0) - [00:00:00](https://www.youtube.com/watch?v=VPF6bpMOVNg&t=0)
 

@@ -1,4 +1,4 @@
-# The Qur'an says Jesus was Human, not Divine (2022-08-22 17:18:40+00:00)
+# The Qur'an says Jesus was Human, not Divine (2022-08-22)
 
 ![alt The Qur'an says Jesus was Human, not Divine](VC203oe7q5c.jpg "The Qur'an says Jesus was Human, not Divine")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [The Qur'an says Jesus was Human, not Divine](https://www.youtube.com/watch?v=VC203oe7q5c)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=VC203oe7q5c&t=0) - [00:00:00](https://www.youtube.com/watch?v=VC203oe7q5c&t=0)
 

@@ -1,4 +1,4 @@
-# The People of the Book and Race Arrogance #shorts (2022-01-08 16:03:41+00:00)
+# The People of the Book and Race Arrogance #shorts (2022-01-08)
 
 ![alt The People of the Book and Race Arrogance #shorts](unsSVzqUWMg.jpg "The People of the Book and Race Arrogance #shorts")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [The People of the Book and Race Arrogance #shorts](https://www.youtube.com/watch?v=unsSVzqUWMg)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=unsSVzqUWMg&t=0) - [00:00:00](https://www.youtube.com/watch?v=unsSVzqUWMg&t=0)
 

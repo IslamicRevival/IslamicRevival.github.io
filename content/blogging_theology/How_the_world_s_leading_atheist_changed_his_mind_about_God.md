@@ -1,4 +1,4 @@
-# How the world's leading atheist changed his mind about God (2021-02-13 21:06:15+00:00)
+# How the world's leading atheist changed his mind about God (2021-02-13)
 
 ![alt How the world's leading atheist changed his mind about God](Gc-3QVEkfbM.jpg "How the world's leading atheist changed his mind about God")
 
@@ -13,7 +13,7 @@ I read from 'There Is a God: How the World's Most Notorious Atheist Changed His 
 ## Summary of [How the world's leading atheist changed his mind about God](https://www.youtube.com/watch?v=Gc-3QVEkfbM)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=Gc-3QVEkfbM&t=0) - [00:10:00](https://www.youtube.com/watch?v=Gc-3QVEkfbM&t=600)
 

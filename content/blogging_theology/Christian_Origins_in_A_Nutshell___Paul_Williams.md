@@ -1,4 +1,4 @@
-# Christian Origins in A Nutshell | Paul Williams (2021-09-13 15:16:48+00:00)
+# Christian Origins in A Nutshell | Paul Williams (2021-09-13)
 
 ![alt Christian Origins in A Nutshell | Paul Williams](QCl5DL_wf3w.jpg "Christian Origins in A Nutshell | Paul Williams")
 
@@ -9,7 +9,7 @@ Christian Origins in A Nutshell from The Real Jesus: Then and Now by Professor G
 ## Summary of [Christian Origins in A Nutshell | Paul Williams](https://www.youtube.com/watch?v=QCl5DL_wf3w)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=QCl5DL_wf3w&t=0) - [00:15:00](https://www.youtube.com/watch?v=QCl5DL_wf3w&t=900)
 

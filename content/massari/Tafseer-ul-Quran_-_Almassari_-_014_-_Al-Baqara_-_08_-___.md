@@ -13,7 +13,7 @@ Misconceptions of Munafiqeen
 ## Summary of [Tafseer-ul-Quran - Almassari - 014 - Al-Baqara - 08 - تفسير سورة البقرة](https://www.youtube.com/watch?v=j5unWL0_bx4)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=j5unWL0_bx4&t=0) - [01:00:00](https://www.youtube.com/watch?v=j5unWL0_bx4&t=3600)
 

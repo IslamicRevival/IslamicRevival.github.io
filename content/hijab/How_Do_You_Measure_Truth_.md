@@ -9,7 +9,7 @@ A brief discussion on truth standards with a friendly agnostic man .
 ## Summary of [How Do You Measure Truth ?](https://www.youtube.com/watch?v=_9qRZVO6JKQ)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=_9qRZVO6JKQ&t=0) - [00:40:00](https://www.youtube.com/watch?v=_9qRZVO6JKQ&t=2400)
 

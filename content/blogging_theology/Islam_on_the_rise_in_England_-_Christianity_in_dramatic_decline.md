@@ -1,4 +1,4 @@
-# Islam on the rise in England - Christianity in dramatic decline (2022-12-01 17:28:05+00:00)
+# Islam on the rise in England - Christianity in dramatic decline (2022-12-01)
 
 ![alt Islam on the rise in England - Christianity in dramatic decline](R1IF9maoMj8.jpg "Islam on the rise in England - Christianity in dramatic decline")
 
@@ -9,7 +9,7 @@ Less than half of England and Wales population Christian, Census 2021 shows http
 ## Summary of [Islam on the rise in England - Christianity in dramatic decline](https://www.youtube.com/watch?v=R1IF9maoMj8)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=R1IF9maoMj8&t=0) - [00:10:00](https://www.youtube.com/watch?v=R1IF9maoMj8&t=600)
 

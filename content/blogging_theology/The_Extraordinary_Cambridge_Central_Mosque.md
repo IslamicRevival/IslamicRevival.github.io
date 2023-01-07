@@ -1,4 +1,4 @@
-# The Extraordinary Cambridge Central Mosque (2021-10-11 17:40:58+00:00)
+# The Extraordinary Cambridge Central Mosque (2021-10-11)
 
 ![alt The Extraordinary Cambridge Central Mosque](CyOcGExNclY.jpg "The Extraordinary Cambridge Central Mosque")
 
@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=kfcBq5VKEgU
 ## Summary of [The Extraordinary Cambridge Central Mosque](https://www.youtube.com/watch?v=CyOcGExNclY)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=CyOcGExNclY&t=0) - [00:05:00](https://www.youtube.com/watch?v=CyOcGExNclY&t=300)
 

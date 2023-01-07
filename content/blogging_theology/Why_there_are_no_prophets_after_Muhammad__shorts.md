@@ -1,4 +1,4 @@
-# Why there are no prophets after Muhammad #shorts (2021-08-21 12:06:58+00:00)
+# Why there are no prophets after Muhammad #shorts (2021-08-21)
 
 ![alt Why there are no prophets after Muhammad #shorts](OGKgz3pH5Kg.jpg "Why there are no prophets after Muhammad #shorts")
 
@@ -9,7 +9,7 @@ Hadith in Bukhari & Muslim
 ## Summary of [Why there are no prophets after Muhammad #shorts](https://www.youtube.com/watch?v=OGKgz3pH5Kg)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=OGKgz3pH5Kg&t=0) - [00:00:00](https://www.youtube.com/watch?v=OGKgz3pH5Kg&t=0)
 

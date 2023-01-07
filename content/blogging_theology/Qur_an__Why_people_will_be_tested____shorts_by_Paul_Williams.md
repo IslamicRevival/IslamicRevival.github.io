@@ -1,4 +1,4 @@
-# Qur'an: Why people will be tested | #shorts by Paul Williams (2021-11-23 17:22:32+00:00)
+# Qur'an: Why people will be tested | #shorts by Paul Williams (2021-11-23)
 
 ![alt Qur'an: Why people will be tested | #shorts by Paul Williams](BRDyA6eneQ4.jpg "Qur'an: Why people will be tested | #shorts by Paul Williams")
 
@@ -9,7 +9,7 @@ Surah 29 verses 2-5
 ## Summary of [Qur'an: Why people will be tested | #shorts by Paul Williams](https://www.youtube.com/watch?v=BRDyA6eneQ4)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=BRDyA6eneQ4&t=0) - [00:00:00](https://www.youtube.com/watch?v=BRDyA6eneQ4&t=0)
 

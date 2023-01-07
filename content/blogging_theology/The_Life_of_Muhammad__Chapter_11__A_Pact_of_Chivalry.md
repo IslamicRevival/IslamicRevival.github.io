@@ -1,4 +1,4 @@
-# The Life of Muhammad ﷺ Chapter 11: A Pact of Chivalry (2022-02-10 19:12:58+00:00)
+# The Life of Muhammad ﷺ Chapter 11: A Pact of Chivalry (2022-02-10)
 
 ![alt The Life of Muhammad ﷺ Chapter 11: A Pact of Chivalry](nRCX73fSUMA.jpg "The Life of Muhammad ﷺ Chapter 11: A Pact of Chivalry")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [The Life of Muhammad ﷺ Chapter 11: A Pact of Chivalry](https://www.youtube.com/watch?v=nRCX73fSUMA)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=nRCX73fSUMA&t=0) - [00:05:00](https://www.youtube.com/watch?v=nRCX73fSUMA&t=300)
 

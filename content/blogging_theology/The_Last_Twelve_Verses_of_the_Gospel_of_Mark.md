@@ -1,4 +1,4 @@
-# The Last Twelve Verses of the Gospel of Mark (2021-01-04 00:26:46+00:00)
+# The Last Twelve Verses of the Gospel of Mark (2021-01-04)
 
 ![alt The Last Twelve Verses of the Gospel of Mark](vAX__ok05JU.jpg "The Last Twelve Verses of the Gospel of Mark")
 
@@ -11,7 +11,7 @@ I explain why.
 ## Summary of [The Last Twelve Verses of the Gospel of Mark](https://www.youtube.com/watch?v=vAX__ok05JU)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=vAX__ok05JU&t=0) - [00:00:00](https://www.youtube.com/watch?v=vAX__ok05JU&t=0)
 

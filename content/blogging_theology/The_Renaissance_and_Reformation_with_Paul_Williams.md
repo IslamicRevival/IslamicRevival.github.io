@@ -1,4 +1,4 @@
-# The Renaissance and Reformation with Paul Williams (2022-08-07 21:09:17+00:00)
+# The Renaissance and Reformation with Paul Williams (2022-08-07)
 
 ![alt The Renaissance and Reformation with Paul Williams](gezns0xCCrg.jpg "The Renaissance and Reformation with Paul Williams")
 
@@ -16,7 +16,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [The Renaissance and Reformation with Paul Williams](https://www.youtube.com/watch?v=gezns0xCCrg)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=gezns0xCCrg&t=0) - [01:00:00](https://www.youtube.com/watch?v=gezns0xCCrg&t=3600)
 

@@ -1,4 +1,4 @@
-# Does the Qur’an Deny the Crucifixion of Jesus? with Dr Louay Fatoohi (2022-02-02 16:58:46+00:00)
+# Does the Qur’an Deny the Crucifixion of Jesus? with Dr Louay Fatoohi (2022-02-02)
 
 ![alt Does the Qur’an Deny the Crucifixion of Jesus? with Dr Louay Fatoohi](99AOlNniUXw.jpg "Does the Qur’an Deny the Crucifixion of Jesus? with Dr Louay Fatoohi")
 
@@ -15,7 +15,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [Does the Qur’an Deny the Crucifixion of Jesus? with Dr Louay Fatoohi](https://www.youtube.com/watch?v=99AOlNniUXw)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=99AOlNniUXw&t=0) - [01:00:00](https://www.youtube.com/watch?v=99AOlNniUXw&t=3600)
 

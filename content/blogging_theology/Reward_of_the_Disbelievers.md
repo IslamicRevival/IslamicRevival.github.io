@@ -1,4 +1,4 @@
-# Reward of the Disbelievers (2022-06-27 20:07:41+00:00)
+# Reward of the Disbelievers (2022-06-27)
 
 ![alt Reward of the Disbelievers](zuBe4WP_Vus.jpg "Reward of the Disbelievers")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [Reward of the Disbelievers](https://www.youtube.com/watch?v=zuBe4WP_Vus)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=zuBe4WP_Vus&t=0) - [00:00:00](https://www.youtube.com/watch?v=zuBe4WP_Vus&t=0)
 

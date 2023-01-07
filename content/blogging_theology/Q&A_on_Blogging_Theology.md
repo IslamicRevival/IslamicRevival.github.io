@@ -1,4 +1,4 @@
-# Q&A on Blogging Theology (2021-08-19 14:18:14+00:00)
+# Q&A on Blogging Theology (2021-08-19)
 
 ![alt Q&A on Blogging Theology](2TKVGQ9OsnA.jpg "Q&A on Blogging Theology")
 
@@ -9,7 +9,7 @@ Please leave your suggestions below.
 ## Summary of [Q&A on Blogging Theology](https://www.youtube.com/watch?v=2TKVGQ9OsnA)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=2TKVGQ9OsnA&t=0) - [00:00:00](https://www.youtube.com/watch?v=2TKVGQ9OsnA&t=0)
 

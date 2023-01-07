@@ -1,4 +1,4 @@
-# Who is the Holy Spirit? (2021-08-05 12:10:56+00:00)
+# Who is the Holy Spirit? (2021-08-05)
 
 ![alt Who is the Holy Spirit?](VGd59ASK_VM.jpg "Who is the Holy Spirit?")
 
@@ -11,7 +11,7 @@ I read from 'Islamic Jesus: How the King of the Jews Became a Prophet of the Mus
 ## Summary of [Who is the Holy Spirit?](https://www.youtube.com/watch?v=VGd59ASK_VM)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=VGd59ASK_VM&t=0) - [00:05:00](https://www.youtube.com/watch?v=VGd59ASK_VM&t=300)
 

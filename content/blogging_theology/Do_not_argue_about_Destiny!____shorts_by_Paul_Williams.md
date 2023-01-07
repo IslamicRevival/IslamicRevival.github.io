@@ -1,4 +1,4 @@
-# Do not argue about Destiny! | #shorts by Paul Williams (2021-10-23 11:59:16+00:00)
+# Do not argue about Destiny! | #shorts by Paul Williams (2021-10-23)
 
 ![alt Do not argue about Destiny! | #shorts by Paul Williams](-THUbUXj-7E.jpg "Do not argue about Destiny! | #shorts by Paul Williams")
 
@@ -9,7 +9,7 @@ Hadiths from Tirmidhi and Ahmad.
 ## Summary of [Do not argue about Destiny! | #shorts by Paul Williams](https://www.youtube.com/watch?v=-THUbUXj-7E)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=-THUbUXj-7E&t=0) - [00:00:00](https://www.youtube.com/watch?v=-THUbUXj-7E&t=0)
 

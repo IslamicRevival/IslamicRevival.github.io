@@ -1,4 +1,4 @@
-# 'Yahweh' the Name of God is not in the Qur'an! (2021-10-24 20:41:42+00:00)
+# 'Yahweh' the Name of God is not in the Qur'an! (2021-10-24)
 
 ![alt 'Yahweh' the Name of God is not in the Qur'an!](6yfMHGC1um4.jpg "'Yahweh' the Name of God is not in the Qur'an!")
 
@@ -9,7 +9,7 @@ Complete video: The Prophet Muhammad in Isaiah 42 with Dr. Ali Ataie https://www
 ## Summary of ['Yahweh' the Name of God is not in the Qur'an!](https://www.youtube.com/watch?v=6yfMHGC1um4)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=6yfMHGC1um4&t=0) - [00:05:00](https://www.youtube.com/watch?v=6yfMHGC1um4&t=300)
 

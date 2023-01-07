@@ -1,4 +1,4 @@
-# O Allah! Lord of Power and Rule #shorts (2022-01-01 16:08:57+00:00)
+# O Allah! Lord of Power and Rule #shorts (2022-01-01)
 
 ![alt O Allah! Lord of Power and Rule #shorts](VwA3moSlU2w.jpg "O Allah! Lord of Power and Rule #shorts")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [O Allah! Lord of Power and Rule #shorts](https://www.youtube.com/watch?v=VwA3moSlU2w)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=VwA3moSlU2w&t=0) - [00:00:00](https://www.youtube.com/watch?v=VwA3moSlU2w&t=0)
 

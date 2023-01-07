@@ -1,4 +1,4 @@
-# When I First Met Muslims (2021-11-21 15:46:01+00:00)
+# When I First Met Muslims (2021-11-21)
 
 ![alt When I First Met Muslims](w13UZhOOOd0.jpg "When I First Met Muslims")
 
@@ -9,7 +9,7 @@ The original video: https://www.youtube.com/watch?v=Kz6btHlXxb4
 ## Summary of [When I First Met Muslims](https://www.youtube.com/watch?v=w13UZhOOOd0)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=w13UZhOOOd0&t=0) - [00:00:00](https://www.youtube.com/watch?v=w13UZhOOOd0&t=0)
 

@@ -1,4 +1,4 @@
-# New Christian Series 2: The Trinity (2021-11-29 21:28:51+00:00)
+# New Christian Series 2: The Trinity (2021-11-29)
 
 ![alt New Christian Series 2: The Trinity](DZ5aLzm6tMw.jpg "New Christian Series 2: The Trinity")
 
@@ -22,7 +22,7 @@ https://twitter.com/freemonotheist
 ## Summary of [New Christian Series 2: The Trinity](https://www.youtube.com/watch?v=DZ5aLzm6tMw)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=DZ5aLzm6tMw&t=0) - [00:45:00](https://www.youtube.com/watch?v=DZ5aLzm6tMw&t=2700)
 

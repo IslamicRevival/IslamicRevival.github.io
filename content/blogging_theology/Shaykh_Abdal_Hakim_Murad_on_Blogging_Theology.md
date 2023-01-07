@@ -1,4 +1,4 @@
-# Shaykh Abdal Hakim Murad on Blogging Theology (2021-07-15 16:53:50+00:00)
+# Shaykh Abdal Hakim Murad on Blogging Theology (2021-07-15)
 
 ![alt Shaykh Abdal Hakim Murad on Blogging Theology](laFLPKZBUZE.jpg "Shaykh Abdal Hakim Murad on Blogging Theology")
 
@@ -9,7 +9,7 @@ We discuss his latest book Travelling Home: Essays on Islam in Europe https://ww
 ## Summary of [Shaykh Abdal Hakim Murad on Blogging Theology](https://www.youtube.com/watch?v=laFLPKZBUZE)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=laFLPKZBUZE&t=0) - [01:00:00](https://www.youtube.com/watch?v=laFLPKZBUZE&t=3600)
 

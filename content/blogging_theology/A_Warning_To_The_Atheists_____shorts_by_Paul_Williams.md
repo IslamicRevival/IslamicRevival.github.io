@@ -1,4 +1,4 @@
-# A Warning To The Atheists |  #shorts by Paul Williams (2021-09-21 21:46:45+00:00)
+# A Warning To The Atheists |  #shorts by Paul Williams (2021-09-21)
 
 ![alt A Warning To The Atheists |  #shorts by Paul Williams](c0TGBQlcFmA.jpg "A Warning To The Atheists |  #shorts by Paul Williams")
 
@@ -9,7 +9,7 @@ A Warning To The Atheists |  #shorts by Paul Williams
 ## Summary of [A Warning To The Atheists | #shorts by Paul Williams](https://www.youtube.com/watch?v=c0TGBQlcFmA)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=c0TGBQlcFmA&t=0) - [00:00:00](https://www.youtube.com/watch?v=c0TGBQlcFmA&t=0)
 

@@ -1,4 +1,4 @@
-# Today, I have perfected your religion for you: Islam (2022-04-30 17:59:01+00:00)
+# Today, I have perfected your religion for you: Islam (2022-04-30)
 
 ![alt Today, I have perfected your religion for you: Islam](jh8qlWG251Y.jpg "Today, I have perfected your religion for you: Islam")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [Today, I have perfected your religion for you: Islam](https://www.youtube.com/watch?v=jh8qlWG251Y)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=jh8qlWG251Y&t=0) - [00:00:00](https://www.youtube.com/watch?v=jh8qlWG251Y&t=0)
 

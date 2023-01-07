@@ -1,4 +1,4 @@
-# When will you? #shorts (2021-07-15 10:08:27+00:00)
+# When will you? #shorts (2021-07-15)
 
 ![alt When will you? #shorts](Tn6fPsrQtQo.jpg "When will you? #shorts")
 
@@ -9,7 +9,7 @@
 ## Summary of [When will you? #shorts](https://www.youtube.com/watch?v=Tn6fPsrQtQo)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=Tn6fPsrQtQo&t=0) - [00:00:00](https://www.youtube.com/watch?v=Tn6fPsrQtQo&t=0)
 

@@ -1,4 +1,4 @@
-# The Jews And Christians Have No Excuse (2022-06-09 16:44:17+00:00)
+# The Jews And Christians Have No Excuse (2022-06-09)
 
 ![alt The Jews And Christians Have No Excuse](t479eVpUGOU.jpg "The Jews And Christians Have No Excuse")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [The Jews And Christians Have No Excuse](https://www.youtube.com/watch?v=t479eVpUGOU)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=t479eVpUGOU&t=0) - [00:00:00](https://www.youtube.com/watch?v=t479eVpUGOU&t=0)
 

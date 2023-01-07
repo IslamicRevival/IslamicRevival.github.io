@@ -1,4 +1,4 @@
-# Did Jesus predict his Death and Resurrection? With Dr Bart Ehrman (2021-12-29 14:59:57+00:00)
+# Did Jesus predict his Death and Resurrection? With Dr Bart Ehrman (2021-12-29)
 
 ![alt Did Jesus predict his Death and Resurrection? With Dr Bart Ehrman](AVeUVbr1RqA.jpg "Did Jesus predict his Death and Resurrection? With Dr Bart Ehrman")
 
@@ -15,7 +15,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [Did Jesus predict his Death and Resurrection? With Dr Bart Ehrman](https://www.youtube.com/watch?v=AVeUVbr1RqA)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=AVeUVbr1RqA&t=0) - [00:00:00](https://www.youtube.com/watch?v=AVeUVbr1RqA&t=0)
 

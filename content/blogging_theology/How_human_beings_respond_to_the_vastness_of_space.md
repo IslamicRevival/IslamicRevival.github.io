@@ -1,4 +1,4 @@
-# How human beings respond to the vastness of space (2020-12-14 15:14:46+00:00)
+# How human beings respond to the vastness of space (2020-12-14)
 
 ![alt How human beings respond to the vastness of space](24N6NJc15RM.jpg "How human beings respond to the vastness of space")
 
@@ -11,7 +11,7 @@ I read from 'Islam and the Destiny of Man' by Gai Eaton https://www.amazon.co.uk
 ## Summary of [How human beings respond to the vastness of space](https://www.youtube.com/watch?v=24N6NJc15RM)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=24N6NJc15RM&t=0) - [00:00:00](https://www.youtube.com/watch?v=24N6NJc15RM&t=0)
 

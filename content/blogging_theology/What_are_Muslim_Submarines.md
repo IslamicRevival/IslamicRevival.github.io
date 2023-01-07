@@ -1,4 +1,4 @@
-# What are Muslim Submarines? (2021-09-02 18:50:40+00:00)
+# What are Muslim Submarines? (2021-09-02)
 
 ![alt What are Muslim Submarines?](2JUSe1VPljs.jpg "What are Muslim Submarines?")
 
@@ -9,7 +9,7 @@ Shaykh Abdal Hakim Murad (Professor Tim Winter of Cambridge University) on Blogg
 ## Summary of [What are Muslim Submarines?](https://www.youtube.com/watch?v=2JUSe1VPljs)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=2JUSe1VPljs&t=0) - [00:00:00](https://www.youtube.com/watch?v=2JUSe1VPljs&t=0)
 

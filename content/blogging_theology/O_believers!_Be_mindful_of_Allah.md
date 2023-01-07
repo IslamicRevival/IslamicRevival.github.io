@@ -1,4 +1,4 @@
-# O believers! Be mindful of Allah (2022-02-09 18:32:17+00:00)
+# O believers! Be mindful of Allah (2022-02-09)
 
 ![alt O believers! Be mindful of Allah](kuL1yKXddvc.jpg "O believers! Be mindful of Allah")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [O believers! Be mindful of Allah](https://www.youtube.com/watch?v=kuL1yKXddvc)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=kuL1yKXddvc&t=0) - [00:00:00](https://www.youtube.com/watch?v=kuL1yKXddvc&t=0)
 

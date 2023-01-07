@@ -1,4 +1,4 @@
-# Death Penalty, the West, and Islam (2021-06-16 17:43:55+00:00)
+# Death Penalty, the West, and Islam (2021-06-16)
 
 ![alt Death Penalty, the West, and Islam](6l-ASSaAPS4.jpg "Death Penalty, the West, and Islam")
 
@@ -9,7 +9,7 @@ I read from A Thinking Person’s Guide to Our Times by H.R.H. Prince Ghazi bin 
 ## Summary of [Death Penalty, the West, and Islam](https://www.youtube.com/watch?v=6l-ASSaAPS4)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=6l-ASSaAPS4&t=0) - [00:00:00](https://www.youtube.com/watch?v=6l-ASSaAPS4&t=0)
 

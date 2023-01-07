@@ -1,4 +1,4 @@
-# Lucidity before death: Extraordinary challenges to materialism (2022-12-29 21:26:44+00:00)
+# Lucidity before death: Extraordinary challenges to materialism (2022-12-29)
 
 ![alt Lucidity before death: Extraordinary challenges to materialism](Xsuu31AUCRw.jpg "Lucidity before death: Extraordinary challenges to materialism")
 
@@ -15,7 +15,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [Lucidity before death: Extraordinary challenges to materialism](https://www.youtube.com/watch?v=Xsuu31AUCRw)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=Xsuu31AUCRw&t=0) - [00:35:00](https://www.youtube.com/watch?v=Xsuu31AUCRw&t=2100)
 

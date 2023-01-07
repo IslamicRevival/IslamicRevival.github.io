@@ -1,4 +1,4 @@
-# How the Bible was changed... (2022-02-21 21:18:06+00:00)
+# How the Bible was changed... (2022-02-21)
 
 ![alt How the Bible was changed...](F_46_1i4CQ0.jpg "How the Bible was changed...")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [How the Bible was changed...](https://www.youtube.com/watch?v=F_46_1i4CQ0)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=F_46_1i4CQ0&t=0) - [00:10:00](https://www.youtube.com/watch?v=F_46_1i4CQ0&t=600)
 

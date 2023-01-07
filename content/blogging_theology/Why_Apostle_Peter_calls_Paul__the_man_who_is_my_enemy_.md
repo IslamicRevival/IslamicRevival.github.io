@@ -1,4 +1,4 @@
-# Why Apostle Peter calls Paul "the man who is my enemy" (2021-02-10 20:21:27+00:00)
+# Why Apostle Peter calls Paul "the man who is my enemy" (2021-02-10)
 
 ![alt Why Apostle Peter calls Paul "the man who is my enemy"](q2YreJXbbaM.jpg "Why Apostle Peter calls Paul "the man who is my enemy"")
 
@@ -9,7 +9,7 @@ I read from "The Letter of Peter to James" in After the New Testament: 100-300 C
 ## Summary of [Why Apostle Peter calls Paul "the man who is my enemy"](https://www.youtube.com/watch?v=q2YreJXbbaM)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=q2YreJXbbaM&t=0) - [00:10:00](https://www.youtube.com/watch?v=q2YreJXbbaM&t=600)
 

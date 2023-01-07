@@ -1,4 +1,4 @@
-# Surprises in the Gospel of Matthew with Professor Dale Martin (2021-06-20 12:50:01+00:00)
+# Surprises in the Gospel of Matthew with Professor Dale Martin (2021-06-20)
 
 ![alt Surprises in the Gospel of Matthew with Professor Dale Martin](CN9jS7guHck.jpg "Surprises in the Gospel of Matthew with Professor Dale Martin")
 
@@ -10,7 +10,7 @@ Please consider supporting my work on Patreon: https://www.patreon.com/Bloggingt
 ## Summary of [Surprises in the Gospel of Matthew with Professor Dale Martin](https://www.youtube.com/watch?v=CN9jS7guHck)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=CN9jS7guHck&t=0) - [00:50:00](https://www.youtube.com/watch?v=CN9jS7guHck&t=3000)
 

@@ -1,4 +1,4 @@
-# Islam through English Eyes (2021-10-19 20:21:24+00:00)
+# Islam through English Eyes (2021-10-19)
 
 ![alt Islam through English Eyes](LzlnZvWcHEs.jpg "Islam through English Eyes")
 
@@ -9,7 +9,7 @@ I read from Islam and the Destiny of Man by Gai Eaton https://www.amazon.co.uk/I
 ## Summary of [Islam through English Eyes](https://www.youtube.com/watch?v=LzlnZvWcHEs)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=LzlnZvWcHEs&t=0) - [00:15:00](https://www.youtube.com/watch?v=LzlnZvWcHEs&t=900)
 

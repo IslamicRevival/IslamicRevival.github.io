@@ -12,7 +12,7 @@ Description of the address of disbelievers
 ## Summary of [Tafseer-ul-Quran - Almassari - 013 - Al-Baqara - 07 - تفسير سورة البقرة](https://www.youtube.com/watch?v=0ED5DUP0KXU)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=0ED5DUP0KXU&t=0) - [01:00:00](https://www.youtube.com/watch?v=0ED5DUP0KXU&t=3600)
 

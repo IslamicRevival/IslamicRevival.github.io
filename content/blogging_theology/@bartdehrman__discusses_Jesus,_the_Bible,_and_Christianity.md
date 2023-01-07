@@ -1,4 +1,4 @@
-# @bartdehrman  discusses Jesus, the Bible, and Christianity (2021-12-19 17:00:13+00:00)
+# @bartdehrman  discusses Jesus, the Bible, and Christianity (2021-12-19)
 
 ![alt @bartdehrman  discusses Jesus, the Bible, and Christianity](oeZrdgxi9bY.jpg "@bartdehrman  discusses Jesus, the Bible, and Christianity")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [@bartdehrman discusses Jesus, the Bible, and Christianity](https://www.youtube.com/watch?v=oeZrdgxi9bY)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+<span style="color:red; font-size:125%">This summary is AI generated - there are inaccuracies</span>
 
 ### [00:00:00](https://www.youtube.com/watch?v=oeZrdgxi9bY&t=0) - [01:00:00](https://www.youtube.com/watch?v=oeZrdgxi9bY&t=3600)
 

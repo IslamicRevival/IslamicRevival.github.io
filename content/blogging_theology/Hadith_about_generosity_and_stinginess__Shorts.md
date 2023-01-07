@@ -1,4 +1,4 @@
-# Hadith about generosity and stinginess #Shorts (2021-08-05 13:36:17+00:00)
+# Hadith about generosity and stinginess #Shorts (2021-08-05)
 
 ![alt Hadith about generosity and stinginess #Shorts](2_xdd8odI-k.jpg "Hadith about generosity and stinginess #Shorts")
 
@@ -9,7 +9,7 @@
 ## Summary of [Hadith about generosity and stinginess #Shorts](https://www.youtube.com/watch?v=2_xdd8odI-k)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=2_xdd8odI-k&t=0) - [00:00:00](https://www.youtube.com/watch?v=2_xdd8odI-k&t=0)
 

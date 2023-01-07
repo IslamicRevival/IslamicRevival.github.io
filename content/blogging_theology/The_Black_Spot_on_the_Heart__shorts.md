@@ -1,4 +1,4 @@
-# The Black Spot on the Heart #shorts (2021-08-24 16:49:19+00:00)
+# The Black Spot on the Heart #shorts (2021-08-24)
 
 ![alt The Black Spot on the Heart #shorts](t-xQ0hG5RGQ.jpg "The Black Spot on the Heart #shorts")
 
@@ -9,7 +9,7 @@ Hadith in Ahmad & Tirmidhi. Surah 83:14.
 ## Summary of [The Black Spot on the Heart #shorts](https://www.youtube.com/watch?v=t-xQ0hG5RGQ)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=t-xQ0hG5RGQ&t=0) - [00:00:00](https://www.youtube.com/watch?v=t-xQ0hG5RGQ&t=0)
 

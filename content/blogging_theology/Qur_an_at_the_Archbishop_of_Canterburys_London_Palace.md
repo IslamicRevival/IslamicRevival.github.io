@@ -1,4 +1,4 @@
-# Qur'an at the Archbishop of Canterbury’s London Palace (2022-05-26 17:21:51+00:00)
+# Qur'an at the Archbishop of Canterbury’s London Palace (2022-05-26)
 
 ![alt Qur'an at the Archbishop of Canterbury’s London Palace](kYQbhaK0I1U.jpg "Qur'an at the Archbishop of Canterbury’s London Palace")
 
@@ -14,7 +14,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [Qur'an at the Archbishop of Canterbury’s London Palace](https://www.youtube.com/watch?v=kYQbhaK0I1U)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=kYQbhaK0I1U&t=0) - [00:00:00](https://www.youtube.com/watch?v=kYQbhaK0I1U&t=0)
 

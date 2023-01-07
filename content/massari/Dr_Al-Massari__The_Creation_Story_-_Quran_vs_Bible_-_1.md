@@ -11,7 +11,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 ## Summary of [Dr Al-Massari: The Creation Story - Quran vs Bible - 1](https://www.youtube.com/watch?v=4gTijjVhwAM)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=4gTijjVhwAM&t=0) - [01:00:00](https://www.youtube.com/watch?v=4gTijjVhwAM&t=3600)
 

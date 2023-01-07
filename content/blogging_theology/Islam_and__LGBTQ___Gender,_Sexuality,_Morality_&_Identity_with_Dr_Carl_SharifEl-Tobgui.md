@@ -1,4 +1,4 @@
-# Islam and "LGBTQ": Gender, Sexuality, Morality & Identity with Dr Carl Sharif El-Tobgui (2022-06-17 19:23:51+00:00)
+# Islam and "LGBTQ": Gender, Sexuality, Morality & Identity with Dr Carl Sharif El-Tobgui (2022-06-17)
 
 ![alt Islam and "LGBTQ": Gender, Sexuality, Morality & Identity with Dr Carl Sharif El-Tobgui](_M4aHFvrCuI.jpg "Islam and "LGBTQ": Gender, Sexuality, Morality & Identity with Dr Carl Sharif El-Tobgui")
 
@@ -124,7 +124,7 @@ Chapters:
 ## Summary of [Islam and "LGBTQ": Gender, Sexuality, Morality & Identity with Dr Carl Sharif El-Tobgui](https://www.youtube.com/watch?v=_M4aHFvrCuI)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=_M4aHFvrCuI&t=0) - [01:00:00](https://www.youtube.com/watch?v=_M4aHFvrCuI&t=3600)
 

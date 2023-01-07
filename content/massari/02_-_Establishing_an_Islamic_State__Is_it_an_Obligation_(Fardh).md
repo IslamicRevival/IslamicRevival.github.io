@@ -16,7 +16,7 @@ We want to recommend Kitab ut-Tawheed: The Basis of Islam and the Reality of Mon
 ## Summary of [02 - Establishing an Islamic State: Is it an Obligation (Fardh)?](https://www.youtube.com/watch?v=htLprHRqzTY)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=htLprHRqzTY&t=0) - [01:00:00](https://www.youtube.com/watch?v=htLprHRqzTY&t=3600)
 

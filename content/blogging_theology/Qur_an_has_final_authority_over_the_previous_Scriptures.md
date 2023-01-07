@@ -1,4 +1,4 @@
-# Qur'an has final authority over the previous Scriptures (2022-07-13 21:26:19+00:00)
+# Qur'an has final authority over the previous Scriptures (2022-07-13)
 
 ![alt Qur'an has final authority over the previous Scriptures](c_CG2lONjpw.jpg "Qur'an has final authority over the previous Scriptures")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [Qur'an has final authority over the previous Scriptures](https://www.youtube.com/watch?v=c_CG2lONjpw)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=c_CG2lONjpw&t=0) - [00:00:00](https://www.youtube.com/watch?v=c_CG2lONjpw&t=0)
 

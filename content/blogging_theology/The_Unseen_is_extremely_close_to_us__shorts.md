@@ -1,4 +1,4 @@
-# The Unseen is extremely close to us #shorts (2021-08-27 13:38:57+00:00)
+# The Unseen is extremely close to us #shorts (2021-08-27)
 
 ![alt The Unseen is extremely close to us #shorts](c_EqjmTB9VE.jpg "The Unseen is extremely close to us #shorts")
 
@@ -9,7 +9,7 @@
 ## Summary of [The Unseen is extremely close to us #shorts](https://www.youtube.com/watch?v=c_EqjmTB9VE)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=c_EqjmTB9VE&t=0) - [00:00:00](https://www.youtube.com/watch?v=c_EqjmTB9VE&t=0)
 

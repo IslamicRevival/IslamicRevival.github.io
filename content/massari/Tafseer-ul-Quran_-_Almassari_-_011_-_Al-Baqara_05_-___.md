@@ -14,7 +14,7 @@ Explanation of rizq, qadr - attribution to Allah
 ## Summary of [Tafseer-ul-Quran - Almassari - 011 - Al-Baqara 05 - تفسير سورة البقرة](https://www.youtube.com/watch?v=HdoGFCGAbyE)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=HdoGFCGAbyE&t=0) - [01:00:00](https://www.youtube.com/watch?v=HdoGFCGAbyE&t=3600)
 

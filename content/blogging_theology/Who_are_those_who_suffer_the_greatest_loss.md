@@ -1,4 +1,4 @@
-# Who are those who suffer the greatest loss? (2022-10-24 19:33:34+00:00)
+# Who are those who suffer the greatest loss? (2022-10-24)
 
 ![alt Who are those who suffer the greatest loss?](awFP8HAdCgE.jpg "Who are those who suffer the greatest loss?")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [Who are those who suffer the greatest loss?](https://www.youtube.com/watch?v=awFP8HAdCgE)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=awFP8HAdCgE&t=0) - [00:00:00](https://www.youtube.com/watch?v=awFP8HAdCgE&t=0)
 

@@ -1,4 +1,4 @@
-# The Life of this World Compared to the Hereafter | #shorts by Paul Williams (2021-10-04 20:30:47+00:00)
+# The Life of this World Compared to the Hereafter | #shorts by Paul Williams (2021-10-04)
 
 ![alt The Life of this World Compared to the Hereafter | #shorts by Paul Williams](YplduJNWvkg.jpg "The Life of this World Compared to the Hereafter | #shorts by Paul Williams")
 
@@ -9,7 +9,7 @@ The Life of this World Compared to the Hereafter | #shorts by Paul Williams
 ## Summary of [The Life of this World Compared to the Hereafter | #shorts by Paul Williams](https://www.youtube.com/watch?v=YplduJNWvkg)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=YplduJNWvkg&t=0) - [00:00:00](https://www.youtube.com/watch?v=YplduJNWvkg&t=0)
 

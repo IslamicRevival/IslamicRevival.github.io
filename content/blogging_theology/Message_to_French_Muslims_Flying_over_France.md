@@ -1,4 +1,4 @@
-# Message to French Muslims Flying over France (2022-08-24 22:04:55+00:00)
+# Message to French Muslims Flying over France (2022-08-24)
 
 ![alt Message to French Muslims Flying over France](dobRqeW2HNA.jpg "Message to French Muslims Flying over France")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [Message to French Muslims Flying over France](https://www.youtube.com/watch?v=dobRqeW2HNA)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=dobRqeW2HNA&t=0) - [00:00:00](https://www.youtube.com/watch?v=dobRqeW2HNA&t=0)
 

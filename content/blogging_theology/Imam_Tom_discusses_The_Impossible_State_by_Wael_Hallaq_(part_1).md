@@ -1,4 +1,4 @@
-# Imam Tom discusses The Impossible State by Wael Hallaq (part 1) (2022-11-19 18:09:07+00:00)
+# Imam Tom discusses The Impossible State by Wael Hallaq (part 1) (2022-11-19)
 
 ![alt Imam Tom discusses The Impossible State by Wael Hallaq (part 1)](Bm2UyQMK3Ig.jpg "Imam Tom discusses The Impossible State by Wael Hallaq (part 1)")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [Imam Tom discusses The Impossible State by Wael Hallaq (part 1)](https://www.youtube.com/watch?v=Bm2UyQMK3Ig)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=Bm2UyQMK3Ig&t=0) - [00:55:00](https://www.youtube.com/watch?v=Bm2UyQMK3Ig&t=3300)
 

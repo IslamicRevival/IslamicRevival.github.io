@@ -1,4 +1,4 @@
-# 'Pagan influences' on the Christian Gospels & Paul (2022-02-01 15:04:03+00:00)
+# 'Pagan influences' on the Christian Gospels & Paul (2022-02-01)
 
 ![alt 'Pagan influences' on the Christian Gospels & Paul](w83Gf6Ldavs.jpg "'Pagan influences' on the Christian Gospels & Paul")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of ['Pagan influences' on the Christian Gospels & Paul](https://www.youtube.com/watch?v=w83Gf6Ldavs)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=w83Gf6Ldavs&t=0) - [00:20:00](https://www.youtube.com/watch?v=w83Gf6Ldavs&t=1200)
 

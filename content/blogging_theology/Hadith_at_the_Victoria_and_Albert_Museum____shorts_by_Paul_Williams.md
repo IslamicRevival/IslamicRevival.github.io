@@ -1,4 +1,4 @@
-# Hadith at the Victoria and Albert Museum | #shorts by Paul Williams (2021-09-29 15:22:11+00:00)
+# Hadith at the Victoria and Albert Museum | #shorts by Paul Williams (2021-09-29)
 
 ![alt Hadith at the Victoria and Albert Museum | #shorts by Paul Williams](rvwgmw8qk3I.jpg "Hadith at the Victoria and Albert Museum | #shorts by Paul Williams")
 
@@ -9,7 +9,7 @@ Hadith At Victoria And Albert Museum | #shorts by Paul Williams
 ## Summary of [Hadith at the Victoria and Albert Museum | #shorts by Paul Williams](https://www.youtube.com/watch?v=rvwgmw8qk3I)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=rvwgmw8qk3I&t=0) - [00:00:00](https://www.youtube.com/watch?v=rvwgmw8qk3I&t=0)
 

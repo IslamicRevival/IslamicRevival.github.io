@@ -1,4 +1,4 @@
-# A Remarkable Hadith (2022-10-04 23:11:55+00:00)
+# A Remarkable Hadith (2022-10-04)
 
 ![alt A Remarkable Hadith](7Nac9ap7HnE.jpg "A Remarkable Hadith")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [A Remarkable Hadith](https://www.youtube.com/watch?v=7Nac9ap7HnE)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=7Nac9ap7HnE&t=0) - [00:00:00](https://www.youtube.com/watch?v=7Nac9ap7HnE&t=0)
 

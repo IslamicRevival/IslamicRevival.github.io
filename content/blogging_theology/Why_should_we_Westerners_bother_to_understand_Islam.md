@@ -1,4 +1,4 @@
-# Why should we Westerners bother to understand Islam? (2021-01-24 14:49:31+00:00)
+# Why should we Westerners bother to understand Islam? (2021-01-24)
 
 ![alt Why should we Westerners bother to understand Islam?](INNV-NVO8jM.jpg "Why should we Westerners bother to understand Islam?")
 
@@ -17,7 +17,7 @@ Misquoting Muhammad: The Challenge and Choices of Interpreting the Prophet’s L
 ## Summary of [Why should we Westerners bother to understand Islam?](https://www.youtube.com/watch?v=INNV-NVO8jM)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=INNV-NVO8jM&t=0) - [00:05:00](https://www.youtube.com/watch?v=INNV-NVO8jM&t=300)
 

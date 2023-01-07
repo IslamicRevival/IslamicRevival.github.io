@@ -1,4 +1,4 @@
-# Lowest & highest station in Paradise #shorts (2021-07-25 16:28:50+00:00)
+# Lowest & highest station in Paradise #shorts (2021-07-25)
 
 ![alt Lowest & highest station in Paradise #shorts](bpzb1rjHUkI.jpg "Lowest & highest station in Paradise #shorts")
 
@@ -9,7 +9,7 @@ Hadith from Ahmad and Tirmidhi
 ## Summary of [Lowest & highest station in Paradise #shorts](https://www.youtube.com/watch?v=bpzb1rjHUkI)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=bpzb1rjHUkI&t=0) - [00:00:00](https://www.youtube.com/watch?v=bpzb1rjHUkI&t=0)
 

@@ -1,4 +1,4 @@
-# Why do the Bible and Qur'an differ about the Prophets? (2021-01-21 20:08:07+00:00)
+# Why do the Bible and Qur'an differ about the Prophets? (2021-01-21)
 
 ![alt Why do the Bible and Qur'an differ about the Prophets?](vIfz9zrAf4E.jpg "Why do the Bible and Qur'an differ about the Prophets?")
 
@@ -14,7 +14,7 @@ by Professor Sidney H. Griffith https://www.amazon.co.uk/Bible-Arabic-Scriptures
 ## Summary of [Why do the Bible and Qur'an differ about the Prophets?](https://www.youtube.com/watch?v=vIfz9zrAf4E)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=vIfz9zrAf4E&t=0) - [00:10:00](https://www.youtube.com/watch?v=vIfz9zrAf4E&t=600)
 

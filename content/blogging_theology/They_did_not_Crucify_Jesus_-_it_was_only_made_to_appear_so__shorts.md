@@ -1,4 +1,4 @@
-# They did not Crucify Jesus - it was only made to appear so #shorts (2022-04-10 21:52:02+00:00)
+# They did not Crucify Jesus - it was only made to appear so #shorts (2022-04-10)
 
 ![alt They did not Crucify Jesus - it was only made to appear so #shorts](EbRprrC6InY.jpg "They did not Crucify Jesus - it was only made to appear so #shorts")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [They did not Crucify Jesus - it was only made to appear so #shorts](https://www.youtube.com/watch?v=EbRprrC6InY)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=EbRprrC6InY&t=0) - [00:00:00](https://www.youtube.com/watch?v=EbRprrC6InY&t=0)
 

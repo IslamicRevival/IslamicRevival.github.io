@@ -1,4 +1,4 @@
-# When I suddenly realised I was not alone! (2022-11-01 20:02:08+00:00)
+# When I suddenly realised I was not alone! (2022-11-01)
 
 ![alt When I suddenly realised I was not alone!](_z4HtL1jpwk.jpg "When I suddenly realised I was not alone!")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of [When I suddenly realised I was not alone!](https://www.youtube.com/watch?v=_z4HtL1jpwk)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=_z4HtL1jpwk&t=0) - [00:00:00](https://www.youtube.com/watch?v=_z4HtL1jpwk&t=0)
 

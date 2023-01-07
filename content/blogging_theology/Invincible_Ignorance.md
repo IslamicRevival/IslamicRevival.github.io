@@ -1,4 +1,4 @@
-# Invincible Ignorance (2020-11-30 15:02:58+00:00)
+# Invincible Ignorance (2020-11-30)
 
 ![alt Invincible Ignorance](256oyX7OwJQ.jpg "Invincible Ignorance")
 
@@ -10,7 +10,7 @@ https://www.amazon.co.uk/Remembering-God-Charles-Gai-Eaton/dp/0946621845
 ## Summary of [Invincible Ignorance](https://www.youtube.com/watch?v=256oyX7OwJQ)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=256oyX7OwJQ&t=0) - [00:00:00](https://www.youtube.com/watch?v=256oyX7OwJQ&t=0)
 

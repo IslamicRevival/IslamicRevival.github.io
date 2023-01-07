@@ -1,4 +1,4 @@
-# Allah's curse on those dying rejecting Faith #shorts (2021-12-15 16:05:57+00:00)
+# Allah's curse on those dying rejecting Faith #shorts (2021-12-15)
 
 ![alt Allah's curse on those dying rejecting Faith #shorts](4UK2TQsg0_w.jpg "Allah's curse on those dying rejecting Faith #shorts")
 
@@ -22,7 +22,7 @@ https://twitter.com/freemonotheist
 ## Summary of [Allah's curse on those dying rejecting Faith #shorts](https://www.youtube.com/watch?v=4UK2TQsg0_w)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=4UK2TQsg0_w&t=0) - [00:00:00](https://www.youtube.com/watch?v=4UK2TQsg0_w&t=0)
 

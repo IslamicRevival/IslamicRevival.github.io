@@ -1,4 +1,4 @@
-# 'I’ve broken the law so punish me!' (2022-10-29 18:56:26+00:00)
+# 'I’ve broken the law so punish me!' (2022-10-29)
 
 ![alt 'I’ve broken the law so punish me!'](vneiRO-QpuM.jpg "'I’ve broken the law so punish me!'")
 
@@ -13,7 +13,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 ## Summary of ['I’ve broken the law so punish me!'](https://www.youtube.com/watch?v=vneiRO-QpuM)
 
 
-*This is an AI generated summary. There may be inaccuracies. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### [00:00:00](https://www.youtube.com/watch?v=vneiRO-QpuM&t=0) - [00:00:00](https://www.youtube.com/watch?v=vneiRO-QpuM&t=0)
 
