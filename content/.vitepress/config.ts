@@ -68,6 +68,12 @@ export default defineConfig({
     { text: 'Video summaries', link: '/massari/02_-_Establishing_an_Islamic_State__Is_it_an_Obligation_(Fardh)' }
   ],
 },
+{
+  text: 'Mohammed Hijab',
+  items: [
+    { text: 'PDFs', link: '/hijab/Liberalism_as_Religion____Turkey_Lecture' }
+  ],
+ },
     ],
     sidebar:  getSideBar( "./content", {
       ignoreMDFiles: ['index'],

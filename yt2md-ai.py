@@ -13,8 +13,8 @@ from youtube_transcript_api import YouTubeTranscriptApi
 
 import requests
 
-API_KEY = os.getenv('API_KEY8') ## codespaces secrets 1-8
-channel_ids_input = ["UC_SLXSHcCwK2RSZTXVL26SA", "UC0uyPbeJ56twBLoHUbwFKnA", "UC57cqHgR_IZEs3gx0nxyZ-g"]  ## bloggingtheology, docs, doc
+API_KEY = os.getenv('API_KEY11') ## codespaces secrets 1-8
+channel_ids_input = ["UCHDFNoOk8WOXtHo8DIc8efQ", "UC_SLXSHcCwK2RSZTXVL26SA", "UC0uyPbeJ56twBLoHUbwFKnA", "UC57cqHgR_IZEs3gx0nxyZ-g"]  ## hijab, bloggingtheology, docs, doc
 
 logging.basicConfig(level=15, format='[%(asctime)s] %(levelname)s: %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
 logger = logging.getLogger()
@@ -138,6 +138,8 @@ def main(channel_ids=channel_ids_input):
         # TODO make the channel_id list a dict with paths
         if channel_id == 'UC_SLXSHcCwK2RSZTXVL26SA':
             path="content/blogging_theology/"
+        elif channel_id =='UCHDFNoOk8WOXtHo8DIc8efQ':
+            path="content/hijab/"
         else:
             path="content/massari/"
 
@@ -244,8 +246,7 @@ def main(channel_ids=channel_ids_input):
                 driver.quit()
                 # grep -rL "AI" *.md|xargs rm -f ##find and rm missing AI
                 # find ./ -type f -name "*.md" -exec sed -i 's/In this video, / /g' {} \;
-                smarkdown = md(mdresponse)
-                
+                smarkdown = md(mdresponse, strip=['title', 'head', 'gtag', 'props', 'could not summarize', '<could not summarize>', 'js', 'config'])
                 # list of AI NLP words to remove
                 words_to_remove = ['title', 'head', 'gtag', 'props', 'could not summarize', '<could not summarize>', 'In this video,', 'in this video,',
                                     'In this YouTube video','The video', 'This video', 'According to this video,', 'This short video', 'This YouTube video is titled', 'The YouTube video', 'In this video,', ' In this short video,',
@@ -256,13 +257,17 @@ def main(channel_ids=channel_ids_input):
                 for word in words_to_remove:
                     smarkdown = smarkdown.replace(word, "")
 
+                smarkdown = re.sub(r'\* of this video ', '', smarkdown)
+                smarkdown = re.sub(r'\*\s+discusses ', ' Discusses', smarkdown)
                 smarkdown = re.sub(r'\{\"props.*\"', '', smarkdown)
                 smarkdown = re.sub(r'See more\* ','', smarkdown)
                 smarkdown = re.sub(r'summary for:.*summarize.tech.*Summary','## Summary', smarkdown)
                 smarkdown = re.sub(r'.*gtag.*','', smarkdown)
+                smarkdown = re.sub(r'.*new Date.*','', smarkdown)
+                smarkdown = re.sub(r'.*config\', \'G-.*','', smarkdown)
                 smarkdown = re.sub(r'.*dataLayer.*','', smarkdown)
                 smarkdown = re.sub(r'.==.*','', smarkdown)
-                if not smarkdown and not smarkdown.strip():
+                if not "AI generated" in smarkdown:
                     logging.warn("SKIPPING: no summary markdown generated")
                     continue
                 logging.info(smarkdown)

@@ -31,6 +31,10 @@ features:
     title: Blogging Theology
     details: Transcript summaries of podcasts by Paul Williams
     link:  /blogging_theology/What_is_Truth_with_Firas_Zahabi
+  - icon: 🔈
+    title: Mohammed Hijab
+    details: Transcript summaries of videos by Mohammed Hijab
+    link: //hijab/Liberalism_as_Religion____Turkey_Lecture
   - icon: 📕
     title: books
     details: Free downloads on Tawheed, Saqeefah, Sahaeefah & more!
