@@ -245,19 +245,19 @@ def main(channel_ids=channel_ids_input):
                 driver.close()
                 driver.quit()
                 # grep -rL "AI" *.md|xargs rm -f ##find and rm missing AI
-                # find ./ -type f -name "*.md" -exec sed -i 's/In this video, / /g' {} \;
+                # find ./ -type f -name "*.md" -exec sed -i 's/Discusses\w+/Discusses /g' {} \;
                 smarkdown = md(mdresponse, strip=['title', 'head', 'gtag', 'props', 'could not summarize', '<could not summarize>', 'js', 'config'])
                 # list of AI NLP words to remove
                 words_to_remove = ['title', 'head', 'gtag', 'props', 'could not summarize', '<could not summarize>', 'In this video,', 'in this video,',
                                     'In this YouTube video','The video', 'This video', 'According to this video,', 'This short video', 'This YouTube video is titled', 'The YouTube video', 'In this video,', ' In this short video,',
                                     'The speaker in the video ', 'The speaker ', 'This YouTube video ', 'In the video, ', 'In the YouTube video ', 'The author ', 'The main points of this video are that ', 'The narrator of this video ',
-                                    ' The video ', ' In this YouTube video, ', 'In this video, ', '\* of this video ', 'summarize.tech ', 'Summarize another video']
+                                    ' The video ', ' In this YouTube video, ', 'In this video, ', 'summarize.tech ', 'Summarize another video']
 
                 # remove each word from the string
                 for word in words_to_remove:
                     smarkdown = smarkdown.replace(word, "")
 
-                smarkdown = re.sub(r'\* of this video ', '', smarkdown)
+                smarkdown = re.sub(r'\* of this video ', ' ', smarkdown)
                 smarkdown = re.sub(r'\*\s+discusses ', ' Discusses ', smarkdown)
                 smarkdown = re.sub(r'\{\"props.*\"', '', smarkdown)
                 smarkdown = re.sub(r'See more\* ','', smarkdown)
