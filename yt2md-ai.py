@@ -13,7 +13,7 @@ from youtube_transcript_api import YouTubeTranscriptApi
 
 import requests
 
-API_KEY = os.getenv('API_KEY12') ## codespaces secrets 1-12
+API_KEY = os.getenv('API_KEY10') ## codespaces secrets 1-12
 channel_ids_input = ["UCHDFNoOk8WOXtHo8DIc8efQ", "UC_SLXSHcCwK2RSZTXVL26SA", "UC0uyPbeJ56twBLoHUbwFKnA", "UC57cqHgR_IZEs3gx0nxyZ-g"]  ## hijab, bloggingtheology, docs, doc
 
 logging.basicConfig(level=15, format='[%(asctime)s] %(levelname)s: %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
@@ -252,7 +252,6 @@ def main(channel_ids=channel_ids_input):
                 # find . -type f -name "*.md" -exec sed -i 's/\#\# Full transcript with timestamps/<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND<\/h2><\/summary>/g' {} \;
                 # find . -type f -name "*.md" -exec sed -ie 's/<\/details>\([^ ]*\)$//g' {} \; 
                 # find . -type f -name "*.md" -exec sed -i '$s/$/<\/details>/' {} \; 
-                
 
                 smarkdown = md(mdresponse, strip=['title', 'head', 'gtag', 'props', 'could not summarize', '<could not summarize>', 'js', 'config'])
                 # list of AI NLP words to remove
