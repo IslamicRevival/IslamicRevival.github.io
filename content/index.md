@@ -6,8 +6,8 @@ titleTemplate: Islamic Revival - AI crowdsourcing framework for knowledge sharin
 
 hero:
   name: Islamic Revival
-  text: an AI framework for Islamic media 
-  tagline: building a long-lived repository to share, archive & search content - we are a non-commercial, non-partisan, non-sectarian site.
+  text: an AI framework
+  tagline: to build a long-lived repository to share, archive & search Islamic media - we are a non-commercial, non-partisan, non-sectarian site.
   #image:
    # src: /quill.svg
    # alt: Vite
