@@ -9,7 +9,9 @@ Note: some of the books are only in draft form. All we ask is contributions back
 - Officially the translated works into English are available at this site: https://www.renascencefoundation.com/
 - Links to Arabic Material/Social Media https://linktr.ee/Tajdeed
 
-**Click on an image to download the file as a pdf**
+**The inline viewer only works on desktop browsers, not mobile, sorry!**
+
+**Click on the link above each previewer to download the file**
 
 ## Kitab ut Tawheed Volume 01
 <a href="https://github.com/IslamicRevival/IslamicRevival.github.io/raw/main/content/files/Kitab_utTawheed-Vol-(01)-English-Final_Proof.pdf" download>Kitab ut Tawheed Volume 01</a><iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/IslamicRevival/IslamicRevival.github.io/raw/main/content/files/Kitab_utTawheed-Vol-(01)-English-Final_Proof.pdf#toolbar=0&scrollbar=0"   frameBorder="0"
