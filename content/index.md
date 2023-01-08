@@ -25,19 +25,19 @@ hero:
 features:
   - icon: 🔈
     title: Fiqh & Tafseer
-    details: Lectures by Prof. Dr. Muhammad AL-Massari
+    details: Summaries of Prof. Dr. Muhammad AL-Massari
     link: /massari/02_-_Establishing_an_Islamic_State__Is_it_an_Obligation_(Fardh)
   - icon: 📹
     title: Blogging Theology
-    details: Podcasts by Paul Williams
+    details: Summaries of Paul Williams
     link:  /blogging_theology/What_is_Truth_with_Firas_Zahabi
   - icon: 🔈
     title: Mohammed Hijab
-    details: Videos by Mohammed Hijab
+    details: Summaries of Mohammed Hijab
     link: /hijab/Controversial_Questions_to_Prof.Jonathan_Brown_and_Dr._Shadee_ElMasri_(MH_Podcast__6)
   - icon: 🙌
     title: Sapience
-    details: Videos by Hamza Tzortzis
+    details: Summaries of Hamza Tzortzis
     link: /sapience/Divine_Commands__Why_Morality_Leads_to_God
   - icon: 📕
     title: books
