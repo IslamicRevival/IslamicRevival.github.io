@@ -46,4 +46,4 @@ argues that Jesus is not God, based on the differences between Jesus and Allah, 
 [0:00:55](https://youtu.be/8WtWjyqoDFA?t=55) the final return  
 
 
-</details></details>
+</details>
