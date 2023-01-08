@@ -7,7 +7,7 @@ titleTemplate: Islamic Revival - AI crowdsourcing framework for knowledge sharin
 hero:
   name: Islamic Revival
   text: an AI framework for Islamic media 
-  tagline: using NLP to crowdsource & summarize knowledge
+  tagline: to build a long-lived repository to share, archive & search Islamic books, articles, documents, video summaries, etc. through a transparent and community-based contribution policy (similar to open source software) - we are a non-commercial, non-partisan, non-sectarian site. The framework is powered by some of the latest technologies including ChatGPT 3 (Da Vinci model & Natural Language Processing for summarizing texts and audio), JavaScript VueJS 3 fronten for speed, Python 3 backend for data wrangling, AI transcription via Google’s YouTube v3 APIs, Microsoft’s GitHub for code & security tools, that combined enable a highly mature and advanced content generation, curation, delivery, hosting and searching experience.
   #image:
    # src: /quill.svg
    # alt: Vite
