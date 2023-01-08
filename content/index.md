@@ -41,7 +41,7 @@ features:
     link: /sapience/Divine_Commands__Why_Morality_Leads_to_God
   - icon: 📕
     title: books
-    details: Free downloads on Tawheed, Saqeefah, Sahaeefah & more!
+    details: Free docs on Tawheed, Saqeefah & more!
     link: /files/pdfs
 ---
 <script setup>
