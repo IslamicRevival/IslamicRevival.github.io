@@ -50,7 +50,7 @@ export default defineConfig({
 		],
 	},
   {
-    text: 'Contributing', 
+    text: 'Contribute', 
     items: [
       { text: "Add/edit content", link: '/contributing/how-to-content' },
       { text: "Writing guide", link: '/contributing/writing-guide' },
@@ -69,9 +69,15 @@ export default defineConfig({
   ],
 },
 {
-  text: 'Mohammed Hijab',
+  text: 'Mohd. Hijab',
   items: [
-    { text: 'Video Summaries', link: '/hijab/Hard_Questions_to_Hamza_Tzortzis' }
+    { text: 'Video Summaries', link: '/hijab/Controversial_Questions_to_Prof.Jonathan_Brown_and_Dr._Shadee_ElMasri_(MH_Podcast__6)' }
+  ],
+ },
+ {
+  text: 'Sapience',
+  items: [
+    { text: 'Video Summaries', link: '/sapience/Divine_Commands__Why_Morality_Leads_to_God' }
   ],
  },
     ],

@@ -14,7 +14,7 @@ from youtube_transcript_api import YouTubeTranscriptApi
 import requests
 
 API_KEY = os.getenv('API_KEY10') ## codespaces secrets 1-12
-channel_ids_input = ["UCHDFNoOk8WOXtHo8DIc8efQ", "UC_SLXSHcCwK2RSZTXVL26SA", "UC0uyPbeJ56twBLoHUbwFKnA", "UC57cqHgR_IZEs3gx0nxyZ-g"]  ## hijab, bloggingtheology, docs, doc
+channel_ids_input = ["UCeZBhrU8xHcik0ZgtDwjsdA", "UCHDFNoOk8WOXtHo8DIc8efQ", "UC_SLXSHcCwK2RSZTXVL26SA", "UC0uyPbeJ56twBLoHUbwFKnA", "UC57cqHgR_IZEs3gx0nxyZ-g"]  ## sapience, hijab, bloggingtheology, docs, doc
 
 logging.basicConfig(level=15, format='[%(asctime)s] %(levelname)s: %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
 logger = logging.getLogger()
@@ -141,13 +141,15 @@ def main(channel_ids=channel_ids_input):
             path="content/blogging_theology/"
         elif channel_id =='UCHDFNoOk8WOXtHo8DIc8efQ':
             path="content/hijab/"
+        elif channel_id =='UCeZBhrU8xHcik0ZgtDwjsdA':
+            path='content/sapience/'
         else:
             path="content/massari/"
 
         videos_ids = []
         limit = 100
         count = 25
-        length = 1800 ## only interested in vids > 30minutes
+        length = 1200 ## only interested in vids > 30minutes
         try:
             logger.info(f"Fetching all vids in channel {channel_id}")
             response = api.search(channel_id=channel_id, limit=limit, count=count)

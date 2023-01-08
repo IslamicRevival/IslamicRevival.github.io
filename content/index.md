@@ -6,8 +6,8 @@ titleTemplate: Islamic Revival - AI crowdsourcing framework for knowledge sharin
 
 hero:
   name: Islamic Revival
-  text: a framework to share Islamic works 
-  tagline: using AI to crowdsource knowledge
+  text: an AI framework for Islamic media 
+  tagline: using NLP to crowdsource & summarize knowledge
   #image:
    # src: /quill.svg
    # alt: Vite
@@ -19,22 +19,26 @@ hero:
       text: Writing guide
       link: /contributing/writing-guide.html
     - theme: brand
-      text: ⭐ Searchable video transcripts
+      text: ⭐ Searchable summarized video transcripts
       link: /blogging_theology/What_is_Truth_with_Firas_Zahabi
 
 features:
   - icon: 🔈
     title: Fiqh & Tafseer
-    details: Transcript summaries of lectures by Prof. Dr. Muhammad AL-Massari
+    details: Lectures by Prof. Dr. Muhammad AL-Massari
     link: /massari/02_-_Establishing_an_Islamic_State__Is_it_an_Obligation_(Fardh)
   - icon: 📹
     title: Blogging Theology
-    details: Transcript summaries of podcasts by Paul Williams
+    details: Podcasts by Paul Williams
     link:  /blogging_theology/What_is_Truth_with_Firas_Zahabi
   - icon: 🔈
     title: Mohammed Hijab
-    details: Transcript summaries of videos by Mohammed Hijab
-    link: /hijab/Hard_Questions_to_Hamza_Tzortzis
+    details: Videos by Mohammed Hijab
+    link: /hijab/Controversial_Questions_to_Prof.Jonathan_Brown_and_Dr._Shadee_ElMasri_(MH_Podcast__6)
+  - icon: 🙌
+    title: Sapience
+    details: Videos by Hamza Tzortzis
+    link: /sapience/Divine_Commands__Why_Morality_Leads_to_God
   - icon: 📕
     title: books
     details: Free downloads on Tawheed, Saqeefah, Sahaeefah & more!
@@ -45,11 +49,14 @@ import { withBase } from 'vitepress'
 </script>
 
 <style>
+.item {
+  max-width: 20%;
+}
 .VPHero {
   margin: auto;
   align-content: center;
   float: right;
-  width: 80%;
+  width: 90%;
 }
 
 .actions {
