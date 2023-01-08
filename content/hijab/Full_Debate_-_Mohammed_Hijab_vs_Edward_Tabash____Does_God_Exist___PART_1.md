@@ -1,4 +1,4 @@
-# Full Debate - Mohammed Hijab vs Edward Tabash || Does God Exist? | PART 1 (2019-04-11 04:13:11+00:00)
+# Full Debate - Mohammed Hijab vs Edward Tabash || Does God Exist? | PART 1 (2019-04-11)
 
 ![alt Full Debate - Mohammed Hijab vs Edward Tabash || Does God Exist? | PART 1](dm46FPgRGbQ.jpg "Full Debate - Mohammed Hijab vs Edward Tabash || Does God Exist? | PART 1")
 

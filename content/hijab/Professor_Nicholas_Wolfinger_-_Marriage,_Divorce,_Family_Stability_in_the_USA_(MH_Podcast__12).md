@@ -1,4 +1,4 @@
-# Professor Nicholas Wolfinger - Marriage, Divorce, Family Stability in the USA (MH Podcast #12) (2021-10-28 17:25:20+00:00)
+# Professor Nicholas Wolfinger - Marriage, Divorce, Family Stability in the USA (MH Podcast #12) (2021-10-28)
 
 ![alt Professor Nicholas Wolfinger - Marriage, Divorce, Family Stability in the USA (MH Podcast #12)](A-tbVbkE9ec.jpg "Professor Nicholas Wolfinger - Marriage, Divorce, Family Stability in the USA (MH Podcast #12)")
 

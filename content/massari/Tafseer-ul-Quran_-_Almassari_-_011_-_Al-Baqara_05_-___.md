@@ -1,4 +1,4 @@
-# Tafseer-ul-Quran - Almassari - 011 - Al-Baqara 05 - تفسير سورة البقرة (2021-04-11 09:00:05+00:00)
+# Tafseer-ul-Quran - Almassari - 011 - Al-Baqara 05 - تفسير سورة البقرة (2021-04-11)
 
 ![alt Tafseer-ul-Quran - Almassari - 011 - Al-Baqara 05 - تفسير سورة البقرة](HdoGFCGAbyE.jpg "Tafseer-ul-Quran - Almassari - 011 - Al-Baqara 05 - تفسير سورة البقرة")
 

@@ -1,4 +1,4 @@
-# Intellectual Man Asks Muslim All The Right Questions (2017-10-03 16:31:49+00:00)
+# Intellectual Man Asks Muslim All The Right Questions (2017-10-03)
 
 ![alt Intellectual Man Asks Muslim All The Right Questions](nbbMxzYWP2o.jpg "Intellectual Man Asks Muslim All The Right Questions")
 

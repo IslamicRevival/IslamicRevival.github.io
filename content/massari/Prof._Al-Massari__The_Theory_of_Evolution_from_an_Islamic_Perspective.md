@@ -1,4 +1,4 @@
-# Prof. Al-Massari: The Theory of Evolution from an Islamic Perspective (2021-11-24 22:39:45+00:00)
+# Prof. Al-Massari: The Theory of Evolution from an Islamic Perspective (2021-11-24)
 
 ![alt Prof. Al-Massari: The Theory of Evolution from an Islamic Perspective](_WM4rlRhbkY.jpg "Prof. Al-Massari: The Theory of Evolution from an Islamic Perspective")
 

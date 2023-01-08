@@ -1,4 +1,4 @@
-# Equating Polygyny & Cheating? (Response) (2022-08-31 18:19:04+00:00)
+# Equating Polygyny & Cheating? (Response) (2022-08-31)
 
 ![alt Equating Polygyny & Cheating? (Response)](799VhYgwHck.jpg "Equating Polygyny & Cheating? (Response)")
 

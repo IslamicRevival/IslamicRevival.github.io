@@ -1,4 +1,4 @@
-# Tafseer-ul-Quran - Almassari - 015 - Al-Baqara - 09 - تفسير سورة البقرة (2021-05-08 09:00:11+00:00)
+# Tafseer-ul-Quran - Almassari - 015 - Al-Baqara - 09 - تفسير سورة البقرة (2021-05-08)
 
 ![alt Tafseer-ul-Quran - Almassari - 015 - Al-Baqara - 09 - تفسير سورة البقرة](JHaEFJyrZZ4.jpg "Tafseer-ul-Quran - Almassari - 015 - Al-Baqara - 09 - تفسير سورة البقرة")
 

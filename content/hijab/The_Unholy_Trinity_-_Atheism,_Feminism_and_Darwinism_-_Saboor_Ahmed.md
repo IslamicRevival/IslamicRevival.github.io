@@ -1,4 +1,4 @@
-# The Unholy Trinity - Atheism, Feminism and Darwinism - Saboor Ahmed (2020-02-12 17:03:10+00:00)
+# The Unholy Trinity - Atheism, Feminism and Darwinism - Saboor Ahmed (2020-02-12)
 
 ![alt The Unholy Trinity - Atheism, Feminism and Darwinism - Saboor Ahmed](OYOi9DekfMY.jpg "The Unholy Trinity - Atheism, Feminism and Darwinism - Saboor Ahmed")
 

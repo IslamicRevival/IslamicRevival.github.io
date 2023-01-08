@@ -1,4 +1,4 @@
-# Discussion on Zakat (2021-04-16 10:00:02+00:00)
+# Discussion on Zakat (2021-04-16)
 
 ![alt Discussion on Zakat](39Vep9aTNa4.jpg "Discussion on Zakat")
 

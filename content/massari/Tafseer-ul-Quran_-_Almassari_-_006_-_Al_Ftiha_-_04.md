@@ -1,4 +1,4 @@
-# Tafseer-ul-Quran - Almassari - 006 - Al Fātiha - 04 (2020-08-22 16:59:04+00:00)
+# Tafseer-ul-Quran - Almassari - 006 - Al Fātiha - 04 (2020-08-22)
 
 ![alt Tafseer-ul-Quran - Almassari - 006 - Al Fātiha - 04](kKgCSar1_So.jpg "Tafseer-ul-Quran - Almassari - 006 - Al Fātiha - 04")
 

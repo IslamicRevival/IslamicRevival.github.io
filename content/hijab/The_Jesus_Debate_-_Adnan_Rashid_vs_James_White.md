@@ -1,4 +1,4 @@
-# The Jesus Debate - Adnan Rashid vs James White (2019-05-05 11:05:18+00:00)
+# The Jesus Debate - Adnan Rashid vs James White (2019-05-05)
 
 ![alt The Jesus Debate - Adnan Rashid vs James White](58c-GxWM5SY.jpg "The Jesus Debate - Adnan Rashid vs James White")
 

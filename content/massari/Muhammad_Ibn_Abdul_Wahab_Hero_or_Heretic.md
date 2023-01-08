@@ -1,4 +1,4 @@
-# Muhammad Ibn Abdul Wahab Hero or Heretic? (2022-11-29 00:17:23+00:00)
+# Muhammad Ibn Abdul Wahab Hero or Heretic? (2022-11-29)
 
 ![alt Muhammad Ibn Abdul Wahab Hero or Heretic?](cRawmTCJeh0.jpg "Muhammad Ibn Abdul Wahab Hero or Heretic?")
 

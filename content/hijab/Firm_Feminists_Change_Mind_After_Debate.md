@@ -1,4 +1,4 @@
-# Firm Feminists Change Mind After Debate (2017-10-16 19:10:35+00:00)
+# Firm Feminists Change Mind After Debate (2017-10-16)
 
 ![alt Firm Feminists Change Mind After Debate](Mmu0GgrKTnU.jpg "Firm Feminists Change Mind After Debate")
 

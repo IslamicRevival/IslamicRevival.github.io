@@ -1,4 +1,4 @@
-# 103 Tafseer ul Quran Surat Al Ma'idah Professor Dr  Muhammad AL MASSARI (2022-08-05 17:35:14+00:00)
+# 103 Tafseer ul Quran Surat Al Ma'idah Professor Dr  Muhammad AL MASSARI (2022-08-05)
 
 ![alt 103 Tafseer ul Quran Surat Al Ma'idah Professor Dr  Muhammad AL MASSARI](puRj1fxnoKU.jpg "103 Tafseer ul Quran Surat Al Ma'idah Professor Dr  Muhammad AL MASSARI")
 

@@ -1,4 +1,4 @@
-# 101 - Tafseer ul Quran: Surah An Nisa with Professor Dr  Muhammad AL MASSARI (2022-07-20 17:14:50+00:00)
+# 101 - Tafseer ul Quran: Surah An Nisa with Professor Dr  Muhammad AL MASSARI (2022-07-20)
 
 ![alt 101 - Tafseer ul Quran: Surah An Nisa with Professor Dr  Muhammad AL MASSARI](aKjLxPGk5C4.jpg "101 - Tafseer ul Quran: Surah An Nisa with Professor Dr  Muhammad AL MASSARI")
 

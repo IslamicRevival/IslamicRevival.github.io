@@ -1,4 +1,4 @@
-# Dr Al-Massari: Modal Collapse?! (2022-01-23 18:26:34+00:00)
+# Dr Al-Massari: Modal Collapse?! (2022-01-23)
 
 ![alt Dr Al-Massari: Modal Collapse?!](K9ZEKZKenjw.jpg "Dr Al-Massari: Modal Collapse?!")
 

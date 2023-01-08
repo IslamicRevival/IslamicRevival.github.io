@@ -1,4 +1,4 @@
-# Islam and the Dark Face of Feminism (2018-10-16 17:11:39+00:00)
+# Islam and the Dark Face of Feminism (2018-10-16)
 
 ![alt Islam and the Dark Face of Feminism](sC5K5PT-atA.jpg "Islam and the Dark Face of Feminism")
 

@@ -1,4 +1,4 @@
-# Reacting to  MGTOW (Red Pill, Anti-Feminists) (2021-02-24 21:04:46+00:00)
+# Reacting to  MGTOW (Red Pill, Anti-Feminists) (2021-02-24)
 
 ![alt Reacting to  MGTOW (Red Pill, Anti-Feminists)](nK4fCDXefx0.jpg "Reacting to  MGTOW (Red Pill, Anti-Feminists)")
 

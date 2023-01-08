@@ -1,4 +1,4 @@
-# Tafseer-ul-Quran - Almassari - 005 - Al Fātiha - 03 (2020-08-07 20:19:40+00:00)
+# Tafseer-ul-Quran - Almassari - 005 - Al Fātiha - 03 (2020-08-07)
 
 ![alt Tafseer-ul-Quran - Almassari - 005 - Al Fātiha - 03](DrMf0P_DZgA.jpg "Tafseer-ul-Quran - Almassari - 005 - Al Fātiha - 03")
 

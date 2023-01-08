@@ -1,4 +1,4 @@
-# Islamic Finance and Crypto Part 2 (2021-04-08 18:31:51+00:00)
+# Islamic Finance and Crypto Part 2 (2021-04-08)
 
 ![alt Islamic Finance and Crypto Part 2](k9-zHPWB1Mc.jpg "Islamic Finance and Crypto Part 2")
 

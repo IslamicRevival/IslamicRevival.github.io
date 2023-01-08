@@ -1,4 +1,4 @@
-# Hard Questions to Hamza Tzortzis (2017-10-10 17:06:27+00:00)
+# Hard Questions to Hamza Tzortzis (2017-10-10)
 
 ![alt Hard Questions to Hamza Tzortzis](jTi9f_JqTUo.jpg "Hard Questions to Hamza Tzortzis")
 

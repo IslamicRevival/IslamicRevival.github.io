@@ -1,4 +1,4 @@
-# 114 Tafseer ul Quran Surat Al-An'am Professor Dr  Muhammad AL MASSARI (2022-10-24 03:04:21+00:00)
+# 114 Tafseer ul Quran Surat Al-An'am Professor Dr  Muhammad AL MASSARI (2022-10-24)
 
 ![alt 114 Tafseer ul Quran Surat Al-An'am Professor Dr  Muhammad AL MASSARI](58VB6BKm040.jpg "114 Tafseer ul Quran Surat Al-An'am Professor Dr  Muhammad AL MASSARI")
 

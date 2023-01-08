@@ -1,4 +1,4 @@
-# liberalism: White Colonialist's New Religion (2018-10-12 17:08:34+00:00)
+# liberalism: White Colonialist's New Religion (2018-10-12)
 
 ![alt liberalism: White Colonialist's New Religion](2Dyzc282ZFE.jpg "liberalism: White Colonialist's New Religion")
 

@@ -1,4 +1,4 @@
-# 02 - Establishing an Islamic State: Is it an Obligation (Fardh)? (2020-08-26 23:00:06+00:00)
+# 02 - Establishing an Islamic State: Is it an Obligation (Fardh)? (2020-08-26)
 
 ![alt 02 - Establishing an Islamic State: Is it an Obligation (Fardh)?](htLprHRqzTY.jpg "02 - Establishing an Islamic State: Is it an Obligation (Fardh)?")
 

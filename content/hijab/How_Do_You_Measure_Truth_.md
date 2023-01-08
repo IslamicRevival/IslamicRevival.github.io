@@ -1,4 +1,4 @@
-# How Do You Measure Truth ? (2018-01-22 17:47:12+00:00)
+# How Do You Measure Truth ? (2018-01-22)
 
 ![alt How Do You Measure Truth ?](_9qRZVO6JKQ.jpg "How Do You Measure Truth ?")
 

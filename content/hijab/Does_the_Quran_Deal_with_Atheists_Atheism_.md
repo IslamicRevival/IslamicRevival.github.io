@@ -1,4 +1,4 @@
-# Does the Quran Deal with Atheists/Atheism ? (2018-10-23 18:36:42+00:00)
+# Does the Quran Deal with Atheists/Atheism ? (2018-10-23)
 
 ![alt Does the Quran Deal with Atheists/Atheism ?](Ld8WACThegs.jpg "Does the Quran Deal with Atheists/Atheism ?")
 

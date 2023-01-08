@@ -1,4 +1,4 @@
-# 123 Tafseer ul Quran Surat Al-An'am Professor Dr  Muhammad AL MASSARI (2023-01-02 03:19:45+00:00)
+# 123 Tafseer ul Quran Surat Al-An'am Professor Dr  Muhammad AL MASSARI (2023-01-02)
 
 ![alt 123 Tafseer ul Quran Surat Al-An'am Professor Dr  Muhammad AL MASSARI](ZMU5PMdTxC4.jpg "123 Tafseer ul Quran Surat Al-An'am Professor Dr  Muhammad AL MASSARI")
 

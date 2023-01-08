@@ -1,4 +1,4 @@
-# Session 2 (2021-01-21 12:31:14+00:00)
+# Session 2 (2021-01-21)
 
 ![alt Session 2](jlEz0o3gosQ.jpg "Session 2")
 

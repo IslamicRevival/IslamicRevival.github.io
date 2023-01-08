@@ -1,4 +1,4 @@
-# Tafseer-ul-Quran - Almassari - 007 - Al-Baqara - 01 - تفسير سورة البقرة (2021-03-15 18:15:22+00:00)
+# Tafseer-ul-Quran - Almassari - 007 - Al-Baqara - 01 - تفسير سورة البقرة (2021-03-15)
 
 ![alt Tafseer-ul-Quran - Almassari - 007 - Al-Baqara - 01 - تفسير سورة البقرة](XvB_26A3X5E.jpg "Tafseer-ul-Quran - Almassari - 007 - Al-Baqara - 01 - تفسير سورة البقرة")
 

@@ -1,4 +1,4 @@
-# The Quran's Version of the Christmas Story (2022-01-27 03:29:05+00:00)
+# The Quran's Version of the Christmas Story (2022-01-27)
 
 ![alt The Quran's Version of the Christmas Story](wCE9lDGIxRs.jpg "The Quran's Version of the Christmas Story")
 

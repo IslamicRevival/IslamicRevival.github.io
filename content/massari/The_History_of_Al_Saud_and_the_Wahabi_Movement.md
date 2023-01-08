@@ -1,4 +1,4 @@
-# The History of Al Saud and the Wahabi Movement (2022-05-18 21:16:38+00:00)
+# The History of Al Saud and the Wahabi Movement (2022-05-18)
 
 ![alt The History of Al Saud and the Wahabi Movement](6E9dWGt9qIQ.jpg "The History of Al Saud and the Wahabi Movement")
 

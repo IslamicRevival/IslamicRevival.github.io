@@ -1,4 +1,4 @@
-# Response to Jordan Peterson & Benjamin Netanyahu Podcast (2022-12-13 14:26:55+00:00)
+# Response to Jordan Peterson & Benjamin Netanyahu Podcast (2022-12-13)
 
 ![alt Response to Jordan Peterson & Benjamin Netanyahu Podcast](uJQbYgMb-jM.jpg "Response to Jordan Peterson & Benjamin Netanyahu Podcast")
 

@@ -1,4 +1,4 @@
-# Darwinist Professor Agrees with Muslim (2019-08-04 16:33:15+00:00)
+# Darwinist Professor Agrees with Muslim (2019-08-04)
 
 ![alt Darwinist Professor Agrees with Muslim](LsdgFrlRIrI.jpg "Darwinist Professor Agrees with Muslim")
 

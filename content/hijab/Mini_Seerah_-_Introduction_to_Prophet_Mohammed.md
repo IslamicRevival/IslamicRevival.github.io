@@ -1,4 +1,4 @@
-# Mini Seerah - Introduction to Prophet Mohammed (2021-05-29 16:04:08+00:00)
+# Mini Seerah - Introduction to Prophet Mohammed (2021-05-29)
 
 ![alt Mini Seerah - Introduction to Prophet Mohammed](0reCmOZBRZE.jpg "Mini Seerah - Introduction to Prophet Mohammed")
 

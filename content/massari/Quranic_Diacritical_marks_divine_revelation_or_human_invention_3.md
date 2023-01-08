@@ -1,4 +1,4 @@
-# Quranic Diacritical marks divine revelation or human invention 3 (2022-07-19 18:19:13+00:00)
+# Quranic Diacritical marks divine revelation or human invention 3 (2022-07-19)
 
 ![alt Quranic Diacritical marks divine revelation or human invention 3](0rg8p-H6M0w.jpg "Quranic Diacritical marks divine revelation or human invention 3")
 

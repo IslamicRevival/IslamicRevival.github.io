@@ -1,4 +1,4 @@
-# Dr Al-Massari: The Creation Story - Quran vs Bible - 1 (2021-12-06 21:39:15+00:00)
+# Dr Al-Massari: The Creation Story - Quran vs Bible - 1 (2021-12-06)
 
 ![alt Dr Al-Massari: The Creation Story - Quran vs Bible - 1](4gTijjVhwAM.jpg "Dr Al-Massari: The Creation Story - Quran vs Bible - 1")
 

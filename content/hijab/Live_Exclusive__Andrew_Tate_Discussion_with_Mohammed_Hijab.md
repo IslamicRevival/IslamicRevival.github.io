@@ -1,4 +1,4 @@
-# Live Exclusive: Andrew Tate Discussion with Mohammed Hijab (2022-10-29 08:53:47+00:00)
+# Live Exclusive: Andrew Tate Discussion with Mohammed Hijab (2022-10-29)
 
 ![alt Live Exclusive: Andrew Tate Discussion with Mohammed Hijab](diqgTxR99JE.jpg "Live Exclusive: Andrew Tate Discussion with Mohammed Hijab")
 

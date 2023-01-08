@@ -1,4 +1,4 @@
-# Principle of Sufficient Reason and the Infinite Regress   2 (2022-07-22 20:43:01+00:00)
+# Principle of Sufficient Reason and the Infinite Regress   2 (2022-07-22)
 
 ![alt Principle of Sufficient Reason and the Infinite Regress   2](tUjnjjrvJVU.jpg "Principle of Sufficient Reason and the Infinite Regress   2")
 

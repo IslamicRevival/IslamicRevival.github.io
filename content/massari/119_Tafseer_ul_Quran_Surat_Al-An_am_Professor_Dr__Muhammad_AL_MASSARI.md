@@ -1,4 +1,4 @@
-# 119 Tafseer ul Quran Surat Al-An'am Professor Dr  Muhammad AL MASSARI (2022-12-05 03:16:58+00:00)
+# 119 Tafseer ul Quran Surat Al-An'am Professor Dr  Muhammad AL MASSARI (2022-12-05)
 
 ![alt 119 Tafseer ul Quran Surat Al-An'am Professor Dr  Muhammad AL MASSARI](Xmkzx6WJ3VM.jpg "119 Tafseer ul Quran Surat Al-An'am Professor Dr  Muhammad AL MASSARI")
 

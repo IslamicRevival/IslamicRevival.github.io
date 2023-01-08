@@ -1,4 +1,4 @@
-# Dr. Muhammad AL-MASSARI: Quranic Diacritical Marks Divine Revelation or Human Invention 1 (2022-05-31 20:46:28+00:00)
+# Dr. Muhammad AL-MASSARI: Quranic Diacritical Marks Divine Revelation or Human Invention 1 (2022-05-31)
 
 ![alt Dr. Muhammad AL-MASSARI: Quranic Diacritical Marks Divine Revelation or Human Invention 1](WAMIgyQ7QWk.jpg "Dr. Muhammad AL-MASSARI: Quranic Diacritical Marks Divine Revelation or Human Invention 1")
 

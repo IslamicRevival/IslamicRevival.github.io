@@ -1,4 +1,4 @@
-# Debunking COVID-19 Conspiracy Theories and Constructing Political Analysis (2021-02-25 05:25:55+00:00)
+# Debunking COVID-19 Conspiracy Theories and Constructing Political Analysis (2021-02-25)
 
 ![alt Debunking COVID-19 Conspiracy Theories and Constructing Political Analysis](RjKs1YVLcug.jpg "Debunking COVID-19 Conspiracy Theories and Constructing Political Analysis")
 

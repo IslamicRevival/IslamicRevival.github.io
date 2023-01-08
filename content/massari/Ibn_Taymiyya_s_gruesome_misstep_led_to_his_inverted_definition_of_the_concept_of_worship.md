@@ -1,4 +1,4 @@
-# Ibn Taymiyya's gruesome misstep led to his inverted definition of the concept of worship (2020-08-08 16:34:20+00:00)
+# Ibn Taymiyya's gruesome misstep led to his inverted definition of the concept of worship (2020-08-08)
 
 ![alt Ibn Taymiyya's gruesome misstep led to his inverted definition of the concept of worship](itqbL8KzOcs.jpg "Ibn Taymiyya's gruesome misstep led to his inverted definition of the concept of worship")
 

@@ -1,4 +1,4 @@
-# Shocking  Oppression on Uygurs Exposed (2021-09-07 20:24:27+00:00)
+# Shocking  Oppression on Uygurs Exposed (2021-09-07)
 
 ![alt Shocking  Oppression on Uygurs Exposed](zV3CBrQuYGE.jpg "Shocking  Oppression on Uygurs Exposed")
 

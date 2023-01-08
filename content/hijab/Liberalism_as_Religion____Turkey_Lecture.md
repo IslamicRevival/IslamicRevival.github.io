@@ -1,4 +1,4 @@
-# Liberalism as Religion || Turkey Lecture (2018-12-22 16:05:35+00:00)
+# Liberalism as Religion || Turkey Lecture (2018-12-22)
 
 ![alt Liberalism as Religion || Turkey Lecture](K_5-JhJPTFY.jpg "Liberalism as Religion || Turkey Lecture")
 
