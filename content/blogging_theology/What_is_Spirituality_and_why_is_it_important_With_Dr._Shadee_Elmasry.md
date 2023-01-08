@@ -34,7 +34,7 @@ This video discusses the importance of spirituality and how it can help improve 
 * **[00:50:00](https://www.youtube.com/watch?v=IFxvXl8f6sk&t=3000)** discusses what spirituality is and why it is important. says that spirituality includes having faith in Allah and the Prophet Muhammad, and recognizing that humans are created in the image of Allah. also discusses the importance of having good deeds to Guide one to Allah on the Day of Judgment.
 * **[00:55:00](https://www.youtube.com/watch?v=IFxvXl8f6sk&t=3300)** Dr. Shadee Elmasry discusses the importance of spirituality and how it can be helpful in one's life. She also provides a link to the Safina Society, which is an organization she is very active in.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/IFxvXl8f6sk?t=2) hello everyone and welcome to blogging  
 [0:00:05](https://youtu.be/IFxvXl8f6sk?t=5) theology today i am delighted to talk to  
@@ -1652,3 +1652,5 @@ This video discusses the importance of spirituality and how it can help improve 
 [0:55:54](https://youtu.be/IFxvXl8f6sk?t=3354) you very much all right well until then  
 [0:55:55](https://youtu.be/IFxvXl8f6sk?t=3355) until next time thank you okay my  
 [0:55:57](https://youtu.be/IFxvXl8f6sk?t=3357) pleasure thank you very much  
+
+</details>

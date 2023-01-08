@@ -17,7 +17,7 @@ Surah 57: 22-23
 
 **[00:00:00](https://www.youtube.com/watch?v=7ZWAEw-dCkk&t=0)* Discusses the idea that no misfortune can happen on Earth or in the soul without being recorded beforehand by God. This allows people to have hope in difficult times, and reminds them not to boast about what God has done for them.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/7ZWAEw-dCkk?t=0) the quran gives us some extraordinary  
 [0:00:02](https://youtu.be/7ZWAEw-dCkk?t=2) insights into the unseen  
@@ -33,3 +33,5 @@ Surah 57: 22-23
 [0:00:31](https://youtu.be/7ZWAEw-dCkk?t=31) glorious boaster  
 [0:00:34](https://youtu.be/7ZWAEw-dCkk?t=34) and that's taken from surah 57 verses 22  
 [0:00:37](https://youtu.be/7ZWAEw-dCkk?t=37) to 23.  
+
+</details>

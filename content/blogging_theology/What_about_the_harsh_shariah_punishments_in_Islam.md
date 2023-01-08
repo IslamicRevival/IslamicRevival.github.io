@@ -22,7 +22,7 @@ Discusses the concept of sharia law and the severity of punishments in Islam.  a
 **[00:00:00](https://www.youtube.com/watch?v=cKdJ0etaI2g&t=0)** This book quotes the Prophet Muhammad saying that the severity of punishments in Islam should remain "intact," even if it means they are harsher than punishments in earlier times. points out that this is because the principle of the punishment should be upheld, rather than the punishment itself. For example, a thief might have his hand cut off, but not if he steals from genuine need or because his family is hungry.
 * **[00:05:00](https://www.youtube.com/watch?v=cKdJ0etaI2g&t=300)**  a westerner who was a Muslim for 50 years discusses the concept of sharia law. He notes that, although the severity of punishments in sharia law is often overshadowed by the law of mercy, it is never to the extent of undermining the abiding principles that are its basis. He also discusses a story of a man who came to the prophet and confessed his sin, and was given whatever punishment was due to him.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:03](https://youtu.be/cKdJ0etaI2g?t=3) people in the west are often horrified  
 [0:00:05](https://youtu.be/cKdJ0etaI2g?t=5) by the idea of sharia law  
@@ -199,3 +199,5 @@ Discusses the concept of sharia law and the severity of punishments in Islam.  a
 [0:07:56](https://youtu.be/cKdJ0etaI2g?t=476) death  
 [0:07:57](https://youtu.be/cKdJ0etaI2g?t=477) several years ago  
 [0:07:58](https://youtu.be/cKdJ0etaI2g?t=478) until next time  
+
+</details>

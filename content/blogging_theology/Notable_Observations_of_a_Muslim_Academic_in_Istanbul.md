@@ -17,7 +17,7 @@ makes observations about the growing number of Muslim women who are wearing hija
 
 **[00:00:00](https://www.youtube.com/watch?v=Nq9dkSVb8_s&t=0)** noted that, in recent times, half of the female students at a university he attended were wearing hijabs, and that this was a new development. He speculated about what this might mean for the future.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/Nq9dkSVb8_s?t=0) just wanted to share with you what  
 [0:00:02](https://youtu.be/Nq9dkSVb8_s?t=2) happened the this afternoon i had lunch  
@@ -42,3 +42,5 @@ makes observations about the growing number of Muslim women who are wearing hija
 [0:00:50](https://youtu.be/Nq9dkSVb8_s?t=50) and it's a sign of the times in istanbul  
 [0:00:53](https://youtu.be/Nq9dkSVb8_s?t=53) and it's a new development and wonder  
 [0:00:55](https://youtu.be/Nq9dkSVb8_s?t=55) what that means for the future  
+
+</details>

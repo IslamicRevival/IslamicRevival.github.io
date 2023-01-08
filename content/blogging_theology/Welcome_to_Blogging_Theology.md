@@ -29,7 +29,7 @@ The Blogging Theology YouTube channel discusses comparative religion, specifical
 
 **[00:00:00](https://www.youtube.com/watch?v=wlU3hDC1u1U&t=0)** Blogging Theology is a YouTube channel that discusses comparative religion, specifically Judaism, Christianity and Islam. The channel is aimed at providing academic and scholarly content to the subject matter, and also covers current affairs and interviews leading figures in theology and faith. The channel asks for permission before copying videos and translating them into other languages.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/wlU3hDC1u1U?t=2) Welcome to Blogging Theology YouTube channel! 
 Blogging Theology is my small attempt to introduce    
@@ -51,3 +51,5 @@ and translating them into other languages. I am  
 videos, into about 30 major languages. Thank you    
 [0:01:17](https://youtu.be/wlU3hDC1u1U?t=77) all for your wonderful support and encouragement. 
 I really do appreciate it. Till next time!  
+
+</details>

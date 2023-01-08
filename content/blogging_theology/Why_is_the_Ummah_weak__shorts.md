@@ -29,7 +29,7 @@ The video argues that the Muslim community will be weak in the future because of
 
 **[00:00:00](https://www.youtube.com/watch?v=4EBmK1j2bgs&t=0)** The video talks about how the Ummah will be weak in the future, and how it is because of love for the worldly life and hatred of death. Sunan Abi Daoud says that the source of this weakness is love for the worldly life and hatred of death.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/4EBmK1j2bgs?t=0) muhammad upon whom bp said  
 [0:00:03](https://youtu.be/4EBmK1j2bgs?t=3) soon the nations will be summoned to you  
@@ -50,3 +50,5 @@ The video argues that the Muslim community will be weak in the future because of
 [0:00:37](https://youtu.be/4EBmK1j2bgs?t=37) worldly life  
 [0:00:38](https://youtu.be/4EBmK1j2bgs?t=38) and hatred of death the source is  
 [0:00:42](https://youtu.be/4EBmK1j2bgs?t=42) sunan abi daoud  
+
+</details>

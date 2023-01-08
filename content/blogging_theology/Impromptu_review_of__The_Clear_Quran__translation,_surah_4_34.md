@@ -19,7 +19,7 @@ The video discusses the possible problems with the translation of surah 4:34 in 
 * **[00:05:00](https://www.youtube.com/watch?v=JhkYto2hX44&t=300)** Jonathan Brown discusses the problem of verse 4:34 in the Qur'an, and how it has led to violence against women in some cases. He notes that neither the pre-modern ulama nor the prophet themselves endorsed spousal abuse, and that the translation tries to be faithful to the Arabic while allowing for interpretation.
 * **[00:10:00](https://www.youtube.com/watch?v=JhkYto2hX44&t=600)** The Clear Quran translation of surah 4:34 is highly regarded by western academics, but some translation issues may exist. has not read all of the Quran in the new translation, but is less confident in its literal translation.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/JhkYto2hX44?t=0) um hello in this um uh impromptu  
 [0:00:03](https://youtu.be/JhkYto2hX44?t=3) episode uh i just wanted to uh relay  
@@ -326,3 +326,5 @@ The video discusses the possible problems with the translation of surah 4:34 in 
 [0:10:34](https://youtu.be/JhkYto2hX44?t=634) a more liberal muslim interpretation  
 [0:10:37](https://youtu.be/JhkYto2hX44?t=637) instead anyway that's just my review  
 [0:10:39](https://youtu.be/JhkYto2hX44?t=639) thank you  
+
+</details>

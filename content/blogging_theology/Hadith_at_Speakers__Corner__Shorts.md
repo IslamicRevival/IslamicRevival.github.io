@@ -17,7 +17,7 @@ This video is of a speaker at a London park who is reminded of a hadith from Sun
 
 **[00:00:00](https://www.youtube.com/watch?v=SOkeqm14RlI&t=0)** This video is of a speaker at a London park, and the speaker is reminded of a hadith about how people are led astray after being guided. The hadith in question is from Sunan al-Taramadi, and it says that people are led astray after being guided only to argue.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/SOkeqm14RlI?t=0) here i am back at speaker's corner in  
 [0:00:03](https://youtu.be/SOkeqm14RlI?t=3) london and you can see the people behind  
@@ -33,3 +33,5 @@ This video is of a speaker at a London park who is reminded of a hadith from Sun
 [0:00:27](https://youtu.be/SOkeqm14RlI?t=27) rather they are a quarrelsome people  
 [0:00:31](https://youtu.be/SOkeqm14RlI?t=31) that is from sunan al-taramadi the quran  
 [0:00:34](https://youtu.be/SOkeqm14RlI?t=34) is 43.58  
+
+</details>

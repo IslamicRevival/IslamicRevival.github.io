@@ -21,7 +21,7 @@ claims that Christians who believe in the Trinity have fallen into disbelief, an
 
 **[00:00:00](https://www.youtube.com/watch?v=p0gz1CSZbtA&t=0)** discusses how Christians who believe in the Trinity have fallen into disbelief, and quotes Jesus as saying that anyone who associates others with God in worship will be forbidden from Paradise. He also says that those who believe in the Trinity have fallen into disbelief, and that only one God exists. If they do not stop saying this, they will be afflicted with a painful punishment.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/p0gz1CSZbtA?t=0) here i am back in london at speaker's  
 [0:00:02](https://youtu.be/p0gz1CSZbtA?t=2) corner  
@@ -44,3 +44,5 @@ claims that Christians who believe in the Trinity have fallen into disbelief, an
 [0:00:45](https://youtu.be/p0gz1CSZbtA?t=45) will they not turn to god in repentance  
 [0:00:48](https://youtu.be/p0gz1CSZbtA?t=48) and seek his forgiveness  
 [0:00:50](https://youtu.be/p0gz1CSZbtA?t=50) and god is all forgiving most merciful  
+
+</details>

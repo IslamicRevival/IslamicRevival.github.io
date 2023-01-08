@@ -17,7 +17,7 @@ I read from A Thinking Person’s Guide to Our Times by H.R.H. Prince Ghazi bin 
 
 **[00:00:00](https://www.youtube.com/watch?v=6l-ASSaAPS4&t=0)** Prince Ghazi's book "A Thinking Person's Guide to our Times" discusses the hypocrisy and moral superiority of the West regarding the death penalty in the Middle East. Prince Ghazi argues that while global NGOs like Amnesty International, Human Rights Watch, and Médecins Sans Frontières clearly do good things, they remain biased in their criticisms of the Islamic world and are used as political tools by various western countries to beat muslim countries over the head. Prince Ghazi also argues that the death penalty should be imposed for certain kinds of murder corroborated by certain sufficient kinds of evidence, and that Muslims in the Middle East see the death penalty in a similar way to how Christians in the West see punishment for murder. Prince Ghazi concludes by noting that Islamic NGOs have somewhat lost their status because of the extremism of some of them, but that they remain popular because of the Prophet Muhammad's teachings on justice and charity.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/6l-ASSaAPS4?t=1) Prince Ghazi's book 'A Thinking Person's 
 Guide to our Times' is full of    
@@ -77,3 +77,5 @@ an Islamic NGO is liable to cause problems  
 or worthy the cause today every international    
 [0:03:24](https://youtu.be/6l-ASSaAPS4?t=204) islamic charitable financial transaction 
 is tracked and hounded like a fox. Till next time.  
+
+</details>

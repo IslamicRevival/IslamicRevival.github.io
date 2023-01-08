@@ -31,7 +31,7 @@ In this video, Dr. Ali Ataie discusses the arguments for and against the existen
 * **[00:45:00](https://www.youtube.com/watch?v=If3cNUixEBM&t=2700)** Dr. Ali Ataie points out that if certain constants and quantities in the universe were not precisely fine-tuned for the existence of intelligent life, life would not exist in the universe. He also argues that the universe is not due to chance or physical necessity, but is instead due to design, specifically, the fine-tuning of complex constants and quantities with intelligence.
 * **[00:50:00](https://www.youtube.com/watch?v=If3cNUixEBM&t=3000)** This video features a debate between Ali Ataie, a professor of philosophy at Notre Dame, and the New Atheists, who argue that there is no evidence that God exists. Ataie argues that there is a very small chance that a life-permitting universe exists, and that this is more likely than the belief that God exists.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:03](https://youtu.be/If3cNUixEBM?t=3) does god exist well according to prominent figures 
 in the new atheist movement the answer is a    
@@ -984,3 +984,5 @@ a million that go up to a thousand will give you  
 a life permitting universe that is more likely    
 [0:51:09](https://youtu.be/If3cNUixEBM?t=3069) than a life-permitting universe so the result 
 is allahu majjud that's how i'm ending inshallah  
+
+</details>

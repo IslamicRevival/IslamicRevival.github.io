@@ -21,7 +21,7 @@ gives advice on how Muslims and Christians can eat together without violating th
 
 **[00:00:00](https://www.youtube.com/watch?v=4NedOrIattw&t=0)** provides advice on religious dietary restrictions for Muslims and Christians. states that all good, pure foods are now permissible for Muslims and Christians, provided that they are paid their dowries in marriage. Marriage to disbelievers is forbidden, as is fornication and taking mistresses. Those who reject faith will have their good deeds void in this life and in the hereafter.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/4NedOrIattw?t=0) they ask you oh prophet what is  
 [0:00:02](https://youtu.be/4NedOrIattw?t=2) permissible for them to eat say what is  
@@ -47,3 +47,5 @@ gives advice on how Muslims and Christians can eat together without violating th
 [0:00:51](https://youtu.be/4NedOrIattw?t=51) the faith all their good deeds will be  
 [0:00:53](https://youtu.be/4NedOrIattw?t=53) void in this life and in the hereafter  
 [0:00:56](https://youtu.be/4NedOrIattw?t=56) they will be among the losers  
+
+</details>

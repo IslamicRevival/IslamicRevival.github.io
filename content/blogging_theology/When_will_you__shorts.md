@@ -17,7 +17,7 @@ The man in the video is urging people to make decisions for themselves based on 
 
 **[00:00:00](https://www.youtube.com/watch?v=Tn6fPsrQtQo&t=0)** This video is about a man who is asking people to make decisions for themselves and to not rely on others. He says that people should do things for the sake of Allah instead of for the sake of other people or for their own pleasure.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/Tn6fPsrQtQo?t=0) al-jalani said when will you put prayer  
 [0:00:04](https://youtu.be/Tn6fPsrQtQo?t=4) before the business of your shop  
@@ -38,3 +38,5 @@ The man in the video is urging people to make decisions for themselves based on 
 [0:00:32](https://youtu.be/Tn6fPsrQtQo?t=32) before answering his creatures be  
 [0:00:35](https://youtu.be/Tn6fPsrQtQo?t=35) sensible  
 [0:00:36](https://youtu.be/Tn6fPsrQtQo?t=36) you are in sheer illusion  
+
+</details>

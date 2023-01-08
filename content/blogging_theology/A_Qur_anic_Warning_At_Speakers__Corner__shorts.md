@@ -21,7 +21,7 @@ The speaker in the video warns people of the consequences of death, and of the r
 
 **[00:00:00](https://www.youtube.com/watch?v=vgiDEmB_Zmw&t=0)** The speaker warns people of the consequences of death, and of the reward for those who are saved. He also warns of the tests people will face in this life, and of the consequences of evil. If people are patient and keep themselves from evil, they will be rewarded in the long run.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/vgiDEmB_Zmw?t=0) so here i am at speaker's corner  
 [0:00:02](https://youtu.be/vgiDEmB_Zmw?t=2) every soul shall have a taste of death  
@@ -41,3 +41,5 @@ The speaker in the video warns people of the consequences of death, and of the r
 [0:00:37](https://youtu.be/vgiDEmB_Zmw?t=37) but if you persevere patiently and guard  
 [0:00:40](https://youtu.be/vgiDEmB_Zmw?t=40) against evil then that will be a  
 [0:00:43](https://youtu.be/vgiDEmB_Zmw?t=43) determining factor in all affairs  
+
+</details>

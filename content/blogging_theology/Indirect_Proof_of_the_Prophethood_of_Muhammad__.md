@@ -22,7 +22,7 @@ The video discusses the problem of trying to determine which verses of the Quran
 
 **[00:00:00](https://www.youtube.com/watch?v=FgAMysWHCvo&t=0)** The video discusses the problem of trying to determine which verses of the Quran deny the crucifixion of Jesus, as there are many verses that could be interpreted in this way. If Muhammad wrote the Quran, this would be a problem as it would contradict his message of unity between people of different faiths. Scholars have generally agreed that the crucifixion is not denied in the Quran, although it is criticized.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/FgAMysWHCvo?t=2) now there's a problem here uh for if  
 [0:00:05](https://youtu.be/FgAMysWHCvo?t=5) somebody believes that  
@@ -129,3 +129,5 @@ The video discusses the problem of trying to determine which verses of the Quran
 [0:03:55](https://youtu.be/FgAMysWHCvo?t=235) quran absolutely none that's that's  
 [0:03:57](https://youtu.be/FgAMysWHCvo?t=237) really what we  
 [0:03:59](https://youtu.be/FgAMysWHCvo?t=239) what we have here  
+
+</details>

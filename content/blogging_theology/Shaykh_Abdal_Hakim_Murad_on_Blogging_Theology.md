@@ -34,7 +34,7 @@ Shaykh Abdal Hakim Murad discusses his journey from atheism to Islam, and how he
 **[01:00:00](https://www.youtube.com/watch?v=laFLPKZBUZE&t=3600)** Shaykh Abdal Hakim Murad discusses how he has come to believe that Islam is a religion of life, and that the principle of life is something that can only be explained by the existence of a transcendent being. He also discusses how atheism is more a leap of faith than monotheism, and how he has a friend who is an atheist who has yet to be able to provide him with a satisfactory explanation for the existence of complex machinery within the human cell.
 * **[01:05:00](https://www.youtube.com/watch?v=laFLPKZBUZE&t=3900)** Abdal Hakim Murad discusses how he came to believe in God after spending his entire life arguing against atheism. He believes that science has uncovered too much order and beauty in the universe to be explained by chance, and that monotheism will prevail in the end due to people's ability to transcend their egos and reflect on the beauty of Islam.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/laFLPKZBUZE?t=2) Good afternoon and welcome to Blogging 
 Theology and today we have a very special    
@@ -1314,3 +1314,5 @@ who think i think that's a chronic expression for  
 material there so um thank you so much for    
 [1:07:35](https://youtu.be/laFLPKZBUZE?t=4055) your time sir and um i wish you well thank 
 you for your time thank you bless you okay  
+
+</details>

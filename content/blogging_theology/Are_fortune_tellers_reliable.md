@@ -21,7 +21,7 @@ Aisha, a Muslim woman, says that fortune tellers are not reliable because they o
 
 **[00:00:00](https://www.youtube.com/watch?v=Qc6TRTPY9f8&t=0)** Aisha, a Muslim woman, says that fortune tellers are not reliable because they often tell lies mixed in with truths.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/Qc6TRTPY9f8?t=0) our fortune tellers reliable well Aisha  
 [0:00:04](https://youtu.be/Qc6TRTPY9f8?t=4) said that when people asked the  
@@ -37,3 +37,5 @@ Aisha, a Muslim woman, says that fortune tellers are not reliable because they o
 [0:00:31](https://youtu.be/Qc6TRTPY9f8?t=31) then they mix more than a hundred lies  
 [0:00:34](https://youtu.be/Qc6TRTPY9f8?t=34) with it  
 [0:00:35](https://youtu.be/Qc6TRTPY9f8?t=35) Hadith from bakari and Muslim  
+
+</details>

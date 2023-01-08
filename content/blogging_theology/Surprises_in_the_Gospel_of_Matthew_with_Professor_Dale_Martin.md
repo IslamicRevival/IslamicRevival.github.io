@@ -28,7 +28,7 @@ Please consider supporting my work on Patreon: https://www.patreon.com/Bloggingt
 * **[00:45:00](https://www.youtube.com/watch?v=CN9jS7guHck&t=2700)** Professor Dale Martin discusses the different ways scholars have organized Matthew's Gospel, and how it parallels the way the Hebrew Bible is organized. He also discusses why he believes Matthew is the favorite Gospel of Jesus Christ.
 * **[00:50:00](https://www.youtube.com/watch?v=CN9jS7guHck&t=3000)**  Professor Dale Martin discusses the five gospels, noting that although they have similar themes, each gospel has its own unique content. He also comments on the Gospel of Thomas, which he believes is not a gospel but rather a series of sayings.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/CN9jS7guHck?t=2) Good evening everyone and welcome to Blogging 
 Theology. My name is Paul Williams. I'm calling    
@@ -883,3 +883,5 @@ strange weird stuff going on in the gospels
 stuff as well anyway that's    
 [0:52:10](https://youtu.be/CN9jS7guHck?t=3130) another time all right well thank you so much sir 
 and uh until next time all right talk to you later  
+
+</details>

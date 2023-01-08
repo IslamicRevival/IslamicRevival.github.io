@@ -26,7 +26,7 @@ The video discusses the history of coffee, and how it has become popular around 
 * **[00:10:00](https://www.youtube.com/watch?v=hIixS9zaUhE&t=600)** The video discusses the history of coffee and its various incarnations, including its Ottoman origins. The drink was seen as a challenge to traditional Islamic values and was therefore met with resistance. Coffeehouses became popular as meeting places for different groups of people, depending on their location. In this 1-paragraph summary, the author mentions that cappuccino was inspired by an Italian priest who mixed coffee with cream and honey to make it more palatable, and that it only became popular in Italy in the 1930s.
 * **[00:15:00](https://www.youtube.com/watch?v=hIixS9zaUhE&t=900)** This video discusses the history of coffee, and how it has become popular around the world. It also includes short vignettes about different aspects of Ottoman culture and history.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:03](https://youtu.be/hIixS9zaUhE?t=3) I want to share with you an exciting new  
 [0:00:05](https://youtu.be/hIixS9zaUhE?t=5) book that's just come out here it is and  
@@ -344,3 +344,5 @@ The video discusses the history of coffee, and how it has become popular around 
 [0:15:13](https://youtu.be/hIixS9zaUhE?t=913) and and points of relevance between the  
 [0:15:15](https://youtu.be/hIixS9zaUhE?t=915) ottoman past and the present days I  
 [0:15:18](https://youtu.be/hIixS9zaUhE?t=918) highly recommended until next time  
+
+</details>

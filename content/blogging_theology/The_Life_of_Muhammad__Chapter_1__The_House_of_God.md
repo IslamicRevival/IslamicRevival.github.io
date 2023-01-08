@@ -34,7 +34,7 @@ This video discusses the life of Muhammad and how he is seen as a prophet of bot
 The water at Zamzam Springs is said to have come from Muhammad's heel, and the valley soon became a stop for caravans. Muhammad is also praised for his faith in God. However, there is indirect praise of Muhammad and his mother in the Psalms.
 * **[00:10:00](https://www.youtube.com/watch?v=nGWuZcyGIvs&t=600)** The video opens with an overview of the pilgrimage to Mecca, which is described in the Qur'an. It then goes on to describe the building of the Kaaba, which was a miracle caused by the angels. The most holy object in the Kaaba is a celestial stone brought down to earth by an angel. The pilgrims are instructed to make the pilgrimage seven times in order to achieve paradise.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/nGWuZcyGIvs?t=2) in this video i'm going to be reading a  
 [0:00:04](https://youtu.be/nGWuZcyGIvs?t=4) chapter from muhammad his life based on  
@@ -328,3 +328,5 @@ The water at Zamzam Springs is said to have come from Muhammad's heel, and the v
 [0:13:36](https://youtu.be/nGWuZcyGIvs?t=816) this in each succeeding video over the  
 [0:13:39](https://youtu.be/nGWuZcyGIvs?t=819) coming weeks and maybe months  
 [0:13:42](https://youtu.be/nGWuZcyGIvs?t=822) until next time  
+
+</details>

@@ -22,7 +22,7 @@ Rev. Keith Ward discusses his belief that Muhammad was a genuine prophet of God.
 * **[00:05:00](https://www.youtube.com/watch?v=FkeoGRT_ATE&t=300)** Rev. Keith Ward discusses how he came to believe in Jesus Christ as the only way to be saved, and how his academic colleagues would most likely view Prophet Muhammad as a prophet of God. Ward says that this demonstrates a growing openness among theologians to other faiths, and an understanding that there is more than one way to approach God.
 * **[00:10:00](https://www.youtube.com/watch?v=FkeoGRT_ATE&t=600)** Rev. Keith Ward discusses his belief that Muhammad was a genuine Prophet of God, and he emphasizes the need for all the major spiritual faiths to come to a greater understanding of their own traditions before they can adequately perceive the truth of their own.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/FkeoGRT_ATE?t=0) What do you as a Christian theologian 
 make of the prophethood of Muhammad?    
@@ -239,3 +239,5 @@ and thank you everyone for listening in and  
 [0:12:27](https://youtu.be/FkeoGRT_ATE?t=747) please leave your comments and your thoughts as well. Until next time. Thank you. I do think    
 [0:12:34](https://youtu.be/FkeoGRT_ATE?t=754) that Muhammad was a genuine Prophet of God. I do 
 think that Muhammad was a genuine Prophet of God.  
+
+</details>

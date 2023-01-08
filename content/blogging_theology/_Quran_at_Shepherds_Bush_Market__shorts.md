@@ -17,7 +17,7 @@ The YouTube video titled "👉 Qur’an at Shepherd’s Bush Market #shorts" fea
 
 **[00:00:00](https://www.youtube.com/watch?v=vLASAJ8nAlQ&t=0)** The video shows a man at Shepherd's Bush Market waiting for prayer, and then reading a verse from the Quran. The verse says that those who believe will be saved from a grievous penalty if they work hard in the cause of Allah. The man also reads a second verse that promises eternal life in beautiful mansions surrounded by rivers and gardens.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/vLASAJ8nAlQ?t=0) well here i am at shepherd's bush market  
 [0:00:02](https://youtu.be/vLASAJ8nAlQ?t=2) in west london waiting for jhuma prayer  
@@ -36,3 +36,5 @@ The YouTube video titled "👉 Qur’an at Shepherd’s Bush Market #shorts" fea
 [0:00:39](https://youtu.be/vLASAJ8nAlQ?t=39) eternity  
 [0:00:41](https://youtu.be/vLASAJ8nAlQ?t=41) that is indeed the supreme achievement  
 [0:00:46](https://youtu.be/vLASAJ8nAlQ?t=46) that's sura 61 versus 10 to 12.  
+
+</details>

@@ -19,7 +19,7 @@ Discusses the recent rise in Islam in England, which is in contrast to Christian
 * **[00:05:00](https://www.youtube.com/watch?v=R1IF9maoMj8&t=300)** discusses the recent rise in Islam in England, which is in contrast to Christianity's dramatic decline. Murad, a Christian scholar, writes that the reasons for this trend are both immigration and conversion. He points out that, historically speaking, Islam has roots in the Middle East, which is significant given that Christianity has been accepted as part of British history.
 * **[00:10:00](https://www.youtube.com/watch?v=R1IF9maoMj8&t=600)** an Englishman discusses the increasing popularity of Islam in his country and the corresponding decline in Christianity. He predicts that, in the future, Islam will become the main focus of monotheistic energy in Britain.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:03](https://youtu.be/R1IF9maoMj8?t=3) Some rather astonishing religious news hit the 
 headlines yesterday here in the UK and I want to    
@@ -193,3 +193,5 @@ Islam is by far the most significant um increase  
 in the future I think become the main um focus    
 [0:10:24](https://youtu.be/R1IF9maoMj8?t=624) of monotheistic energy in Britain as the other 
 abrahamic faiths uh decline anyway till next time  
+
+</details>

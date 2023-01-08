@@ -17,7 +17,7 @@ in this video discusses the idea that people will be tested in the afterlife, an
 
 **[00:00:00](https://www.youtube.com/watch?v=BRDyA6eneQ4&t=0)** discusses the idea that people will be tested in the afterlife, and how those who practice evil will ultimately be punished. He also notes that those who have hope in meeting Allah in the hereafter should strive hard.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/BRDyA6eneQ4?t=0) do men think that they will be left  
 [0:00:03](https://youtu.be/BRDyA6eneQ4?t=3) alone on saying we believe  
@@ -35,3 +35,5 @@ in this video discusses the idea that people will be tested in the afterlife, an
 [0:00:36](https://youtu.be/BRDyA6eneQ4?t=36) surely coming  
 [0:00:38](https://youtu.be/BRDyA6eneQ4?t=38) and he hears and knows all things  
 [0:00:43](https://youtu.be/BRDyA6eneQ4?t=43) sura 29 versus 2 onwards  
+
+</details>

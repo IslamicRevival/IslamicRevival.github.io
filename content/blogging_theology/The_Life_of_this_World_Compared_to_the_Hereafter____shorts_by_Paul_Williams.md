@@ -17,7 +17,7 @@ The Life of this World Compared to the Hereafter | #shorts by Paul Williams
 
 **[00:00:00](https://www.youtube.com/watch?v=YplduJNWvkg&t=0)**  compares the life on earth to the afterlife, highlighting the difference between the two. According to the prophet Muhammad, the life on earth is like a person putting their finger into the ocean and taking it out again, then comparing the water that remains on their finger to the water that remains in the ocean. The life on earth is short and insignificant in comparison to the eternal life that awaits people in the afterlife.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/YplduJNWvkg?t=0) the prophet muhammad upon whom be peace  
 [0:00:03](https://youtu.be/YplduJNWvkg?t=3) once said  
@@ -30,3 +30,5 @@ The Life of this World Compared to the Hereafter | #shorts by Paul Williams
 [0:00:19](https://youtu.be/YplduJNWvkg?t=19) his finger to the water that remains in  
 [0:00:22](https://youtu.be/YplduJNWvkg?t=22) the ocean  
 [0:00:25](https://youtu.be/YplduJNWvkg?t=25) hadith from sahih muslim  
+
+</details>

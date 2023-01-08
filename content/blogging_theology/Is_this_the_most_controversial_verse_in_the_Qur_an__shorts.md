@@ -21,7 +21,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 **[00:00:00](https://www.youtube.com/watch?v=kofEZyh678w&t=0)** This verse from the Qur'an instructs husbands to be responsible for their wives and to protect them from harm. It also suggests that wives should be obedient and guard their husbands' belongings while they're away. If a wife behaves disloyally, husbands are instructed to "admonish" her first, before resorting to other measures such as withholding sex or spanking her.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/kofEZyh678w?t=0) husbands are the protectors and  
 [0:00:02](https://youtu.be/kofEZyh678w?t=2) maintainers of their wives because allah  
@@ -40,3 +40,5 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 [0:00:39](https://youtu.be/kofEZyh678w?t=39) against the means of annoyance  
 [0:00:42](https://youtu.be/kofEZyh678w?t=42) for allah is most high great above you  
 [0:00:47](https://youtu.be/kofEZyh678w?t=47) all  
+
+</details>

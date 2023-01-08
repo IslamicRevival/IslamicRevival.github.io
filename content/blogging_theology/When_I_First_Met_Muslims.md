@@ -17,7 +17,7 @@ The speaker visits a mosque in London and learns about Islam from the Muslims sh
 
 **[00:00:00](https://www.youtube.com/watch?v=w13UZhOOOd0&t=0)** The speaker visits a mosque in London and meets real Muslims who teach her about Islam. This revelation changes her perspective on the religion, which she finds to be more than just a terrorist religion. She also learns about Islam's founder, Muhammad, and how unique he was as an individual.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/w13UZhOOOd0?t=1) well i i before i came in contact with  
 [0:00:04](https://youtu.be/w13UZhOOOd0?t=4) actual muslims in my local mosque in  
@@ -105,3 +105,5 @@ The speaker visits a mosque in London and learns about Islam from the Muslims sh
 [0:02:57](https://youtu.be/w13UZhOOOd0?t=177) yet we don't read anything about him in  
 [0:02:59](https://youtu.be/w13UZhOOOd0?t=179) the west  
 [0:03:00](https://youtu.be/w13UZhOOOd0?t=180) except bad things perhaps  
+
+</details>

@@ -21,7 +21,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 **[00:00:00](https://www.youtube.com/watch?v=7oqEl21yGFs&t=0)** People in the video feel frightened because the world seems to be out of control. However, the believer knows that all is from Allah, and that good and bad come from destiny. This is the essence of being Muslim, and it brings healing.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/7oqEl21yGFs?t=0) people feel frightened because the world  
 [0:00:01](https://youtu.be/7oqEl21yGFs?t=1) seems to be out of control  
@@ -45,3 +45,5 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 [0:00:40](https://youtu.be/7oqEl21yGFs?t=40) tiwakul comes and again the healing  
 [0:00:43](https://youtu.be/7oqEl21yGFs?t=43) ensues and this at least used to be one  
 [0:00:45](https://youtu.be/7oqEl21yGFs?t=45) of the great gifts of the muslim  
+
+</details>

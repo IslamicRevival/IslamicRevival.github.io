@@ -17,7 +17,7 @@
 
 **[00:00:00](https://www.youtube.com/watch?v=F10UhOu2dwE&t=0)** This Hadith tells the story of how Prophet Muhammad (PBUH) saw paradise and desired to take a piece of it home with him. If he had taken the piece, he would have been able to eat of it forever.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/F10UhOu2dwE?t=1) even Abbas said that the people said  
 [0:00:05](https://youtu.be/F10UhOu2dwE?t=5) messenger of God we saw you reach out to  
@@ -28,3 +28,5 @@
 [0:00:23](https://youtu.be/F10UhOu2dwE?t=23) taken it you would have eaten of it as  
 [0:00:27](https://youtu.be/F10UhOu2dwE?t=27) long as the world endures  
 [0:00:30](https://youtu.be/F10UhOu2dwE?t=30) Hadith from bukhari and Muslim  
+
+</details>

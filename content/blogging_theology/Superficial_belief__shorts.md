@@ -17,7 +17,7 @@ This video discusses the phrase "as it were upon the very edge" from the Quran, 
 
 **[00:00:00](https://www.youtube.com/watch?v=JHpa0TD6TGc&t=0)** This video discusses the meaning of a phrase from the Quran that refers to someone who worships Allah "as it were upon the very edge" of disbelief. Those who embrace Islam are willing to undergo difficult trials in order to gain rewards in the afterlife, but those who revert back to disbelief after experiencing good luck in this world lose both this life and the next.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/JHpa0TD6TGc?t=1) god says in the quran  
 [0:00:03](https://youtu.be/JHpa0TD6TGc?t=3) and among mankind is he who worships  
@@ -32,3 +32,5 @@ This video discusses the phrase "as it were upon the very edge" from the Quran, 
 [0:00:29](https://youtu.be/JHpa0TD6TGc?t=29) hereafter  
 [0:00:31](https://youtu.be/JHpa0TD6TGc?t=31) that is the evident loss  
 [0:00:34](https://youtu.be/JHpa0TD6TGc?t=34) sure alhaj 11.  
+
+</details>

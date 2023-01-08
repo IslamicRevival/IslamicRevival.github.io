@@ -17,7 +17,7 @@ In this hadith, the prophet Muhammad says that people will be asked about four t
 
 **[00:00:00](https://www.youtube.com/watch?v=B8y7sW8Uf04&t=0)** In this hadith, the prophet Muhammad says that people's feet will not move on the day of resurrection until they are asked about four things. Specifically, they will be asked about their life, how they spent their time, their bodies, and their wealth.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/B8y7sW8Uf04?t=0) but here am i at a very wind-swept and  
 [0:00:02](https://youtu.be/B8y7sW8Uf04?t=2) noisy speaker's corner  
@@ -34,3 +34,5 @@ In this hadith, the prophet Muhammad says that people will be asked about four t
 [0:00:32](https://youtu.be/B8y7sW8Uf04?t=32) with it  
 [0:00:34](https://youtu.be/B8y7sW8Uf04?t=34) hadith  
 [0:00:37](https://youtu.be/B8y7sW8Uf04?t=37) 539.  
+
+</details>

@@ -30,7 +30,7 @@ This video is about how Allah's grace can transform our lives if we have faith i
 
 **[00:00:00](https://www.youtube.com/watch?v=Bt6xSrtVFV0&t=0)**  features a Muslim woman talking about the importance of having faith in Allah, and how his grace can transform our lives. According to the woman, surah 16 verses 96 to 97 describe Allah's rewards for those who are obedient and have faith.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/Bt6xSrtVFV0?t=0) the book of god says  
 [0:00:02](https://youtu.be/Bt6xSrtVFV0?t=2) what is with you must vanish  
@@ -46,3 +46,5 @@ This video is about how Allah's grace can transform our lives if we have faith i
 [0:00:29](https://youtu.be/Bt6xSrtVFV0?t=29) will bestow on such their reward  
 [0:00:32](https://youtu.be/Bt6xSrtVFV0?t=32) according to the best of their actions  
 [0:00:36](https://youtu.be/Bt6xSrtVFV0?t=36) surah 16 verses 96 to 97.  
+
+</details>

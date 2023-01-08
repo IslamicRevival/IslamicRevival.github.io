@@ -23,7 +23,7 @@ A man is observed to be an average man living in Medina. He is asked what had ea
 
 **[00:00:00](https://www.youtube.com/watch?v=SPLd1iCHxd8&t=0)** The companion observed that the man appeared to be an average man living in Medina, and he asked the man what had earned him the prophet's commendation. The man replied that he avoided anger and bitterness in his heart.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/SPLd1iCHxd8?t=0) the prophet once said to His companion  
 [0:00:02](https://youtu.be/SPLd1iCHxd8?t=2) do you want to see a man of paradise a  
@@ -48,3 +48,5 @@ A man is observed to be an average man living in Medina. He is asked what had ea
 [0:00:48](https://youtu.be/SPLd1iCHxd8?t=48) Rancor in my heart towards another that  
 [0:00:52](https://youtu.be/SPLd1iCHxd8?t=52) was his secret ranker is bitterness or  
 [0:00:56](https://youtu.be/SPLd1iCHxd8?t=56) resentfulness  
+
+</details>

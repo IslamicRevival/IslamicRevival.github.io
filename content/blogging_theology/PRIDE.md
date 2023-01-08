@@ -17,7 +17,7 @@ Hassan Shibly, an American lawyer, has published a Facebook post in which he con
 
 **[00:00:00](https://www.youtube.com/watch?v=f3iGNyqz4Kk&t=0)** Hassan Shibly, an American lawyer, has published a Facebook post in which he condemns people who celebrate Pride, citing God's disapproval of Pride in His Torah, Gospel, and Qur'an. Shibly believes that believers must abide by a moral code, and cannot celebrate anything sinful. He encourages others to show mercy and compassion to those who struggle, and to resist hate crimes.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/f3iGNyqz4Kk?t=1) Hassan Shibly an American lawyer has just 
 published the following on his Facebook page:    
@@ -43,3 +43,5 @@ and devotion to God alone. May we never find  
 may that pride translate into    
 [0:01:28](https://youtu.be/f3iGNyqz4Kk?t=88) us being a source of mercy and guidance for His 
 creation and obedience unto Him.' Till next time.  
+
+</details>

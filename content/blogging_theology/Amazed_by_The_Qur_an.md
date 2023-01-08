@@ -22,7 +22,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 **[00:00:00](https://www.youtube.com/watch?v=FVRTmCbVJYE&t=0)** The Quran continues to surprise and amaze Muslims who have read it from cover to cover in English, as Professor Abdul Haleem points out in his translation. Chapter 80, which discusses the prophet's reaction to a blind man coming to learn from him, is particularly revealing.
 * **[00:05:00](https://www.youtube.com/watch?v=FVRTmCbVJYE&t=300)** presents the author's renewed amazement at the Quran, a holy book written by the prophet Muhammad. points out that, despite being criticized by God himself, the prophet delivered the revelations in all honesty. This speaks to his nobility and beauty as a way of reproaching those who deny the resurrection and last day.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:03](https://youtu.be/FVRTmCbVJYE?t=3) The Quran continues to surprise me even though 
 I've read it from cover to cover in English    
@@ -154,3 +154,5 @@ him and there's several passages like this in  
 and uh anyway I just wanted to share with you my    
 [0:07:43](https://youtu.be/FVRTmCbVJYE?t=463) renewed amazement at the Quran when I 
 read it again and again, till next time.  
+
+</details>

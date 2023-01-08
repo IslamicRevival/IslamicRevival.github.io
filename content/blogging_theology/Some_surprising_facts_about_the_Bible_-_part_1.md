@@ -19,7 +19,7 @@ The Bible is a collection of religious texts that has been accumulation over cen
 * **[00:05:00](https://www.youtube.com/watch?v=ITZHvxxRpj8&t=300)** The Bible has been received into the canon with considerable hesitation, and its date is probably the second or third Christian generation. The Oxford Dictionary of the Christian Church considers it to be the most distinguished and reputable single reference work in existence. Saint Peter's testimony is extremely doubtful, and there are further problems with certain passages in the New Testament. Paul's letter to the Corinthians, known as 1 Corinthians chapter 7 verse 12, says that if a believer has a wife who is an unbeliever, he should not divorce her. The message of the quran is that the assad's translation is the truth confirming the truth of whatever earlier revelations still remain.
 * **[00:10:00](https://www.youtube.com/watch?v=ITZHvxxRpj8&t=600)** The Bible is a collection of religious texts that tells the story of mankind's journey to salvation. Some surprising facts about the Bible include its historical accuracy and the many unusual stories within it.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/ITZHvxxRpj8?t=1) in this episode i want to share with you some 
 surprising facts about the bible nowhere does    
@@ -195,3 +195,5 @@ vis-a-vis the scriptures of the people of the book  
 some surprising facts about the bible and    
 [0:10:08](https://youtu.be/ITZHvxxRpj8?t=608) in the next video which i'll be making shortly 
 we'll see some more surprising facts until then  
+
+</details>

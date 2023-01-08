@@ -21,7 +21,7 @@ The First Council of Constantinople was held in 381 AD in order to condemn the h
 * **[00:05:00](https://www.youtube.com/watch?v=Uei51koTiQU&t=300)** The First Council of Constantinople affirmed that Jesus is fully God, and that the Holy Spirit is also God. This doctrine is later expanded upon in the Nicene Creed.
 * **[00:10:00](https://www.youtube.com/watch?v=Uei51koTiQU&t=600)** The video describes the development of the doctrine of the Trinity, which goes from monotheism to tritheism. Christianity began as a monotheistic religion, but over time it became polytheistic, with three gods worshiped alongside the Father. This was a significant change from Jesus' teachings, which centered around one God.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/Uei51koTiQU?t=1) well in this uh second  
 [0:00:03](https://youtu.be/Uei51koTiQU?t=3) video in the series of seven about the  
@@ -436,3 +436,5 @@ The First Council of Constantinople was held in 381 AD in order to condemn the h
 [0:14:49](https://youtu.be/Uei51koTiQU?t=889) opinion  
 [0:14:49](https://youtu.be/Uei51koTiQU?t=889) so until next time um i hope that was  
 [0:14:52](https://youtu.be/Uei51koTiQU?t=892) not too confusing  
+
+</details>

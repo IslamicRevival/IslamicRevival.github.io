@@ -27,7 +27,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 **[00:00:00](https://www.youtube.com/watch?v=AHgWY-kY9LQ&t=0)* Discusses the importance of disclosing and performing acts of charity, but also emphasizes the importance of hiding these acts to avoid being stained with evil. The Prophet Muhammad is not required to set people on the right path, but Allah sets people on the right path whom He pleases. When performing acts of charity, it is important to remember that the goal is to help others and not to receive rewards yourself.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/AHgWY-kY9LQ?t=0) if you disclose acts of charity even so  
 [0:00:04](https://youtu.be/AHgWY-kY9LQ?t=4) it is well  
@@ -48,3 +48,5 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 [0:00:44](https://youtu.be/AHgWY-kY9LQ?t=44) back to you and ye shall not be dealt  
 [0:00:46](https://youtu.be/AHgWY-kY9LQ?t=46) with unjustly  
 [0:00:49](https://youtu.be/AHgWY-kY9LQ?t=49) surah 2 verses 271 onwards  
+
+</details>

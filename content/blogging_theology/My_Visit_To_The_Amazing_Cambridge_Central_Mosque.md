@@ -21,7 +21,7 @@ The video explores the architecture and facilities of the Cambridge Central Mosq
 
 **[00:00:00](https://www.youtube.com/watch?v=cYamuG78Hl0&t=0)** explores the architecture and facilities of Cambridge Central Mosque. The Sheikh's sermon on empathy was very beautiful and sophisticated, and the Wudu facilities were impressive.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/cYamuG78Hl0?t=0) So here we are again at Cambridge 
 central mosque and I've just uh    
@@ -77,3 +77,5 @@ can smell the uh the scent of the roses in the air  
 and gently pumping away some water    
 [0:02:37](https://youtu.be/cYamuG78Hl0?t=157) so isn't that beautiful, do come and 
 visit if you can. until next time.  
+
+</details>

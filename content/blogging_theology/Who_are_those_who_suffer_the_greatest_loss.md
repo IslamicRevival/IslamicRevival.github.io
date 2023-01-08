@@ -21,7 +21,7 @@ Abu DHA relates that the Prophet said that those who suffer the greatest loss ar
 
 **[00:00:00](https://www.youtube.com/watch?v=awFP8HAdCgE&t=0)** Abu DHA relates that he heard the Prophet say that those who suffer the greatest loss are those who have the most wealth, except for those who give in every way they can. Few people exemplify this latter category, Abu DHA concludes.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/awFP8HAdCgE?t=0) Abu DHA said I came to the prophet upon  
 [0:00:04](https://youtu.be/awFP8HAdCgE?t=4) whom be peace when he was sitting in the  
@@ -38,3 +38,5 @@ Abu DHA relates that the Prophet said that those who suffer the greatest loss ar
 [0:00:40](https://youtu.be/awFP8HAdCgE?t=40) those who give in every way they can but  
 [0:00:43](https://youtu.be/awFP8HAdCgE?t=43) how very few those are  
 [0:00:48](https://youtu.be/awFP8HAdCgE?t=48) Hadith from bakari and Muslim  
+
+</details>

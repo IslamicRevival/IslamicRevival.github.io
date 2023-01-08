@@ -31,7 +31,7 @@ The events that took place after Muhammad's revelation are covered in this video
 **[00:00:00](https://www.youtube.com/watch?v=OfaguOrr-Hs&t=0)** Abd al-Muttalib visited the Kaaba regularly and would pray at the black stone. One night, a shadowy figure came to him in a vision and said to dig sweet clarity - which he did. The figure then vanished. The next night, he was told to dig the treasured horde and he was told to find a place where there was blood and dung. He found the ants' nest and the pecking ravens, and was also told to pray for clear full flowing water. After fulfilling all these commands, Abd al-Muttalib went to the door of the Kaaba and took hold of the metal ring which hung from the lock, praying the prayer which he had been told to pray. A bird landed behind him and another landed, and they strutted off with their ravens. Abdal-Muttalib knew these birds well, as they had been adopted as idols by the Quraish. Abdal-Muttalib then walked back past the door to the Iraqi corner and the Syrian corner and then to the Yemenite corner. Finally, he reached the two statuesque rocks which were opposite the door and which were where the Quraish sacrificed their victims. Abdal-Muttalib
 * **[00:05:00](https://www.youtube.com/watch?v=OfaguOrr-Hs&t=300)** This video covers the events that took place after Muhammad's revelation. After his initial discovery of the idols, abd al-muttalib was forced to continue digging by his disbelieving community. When he hit a well cover, he exclaimed thankfulness to god and the crowd gathered. They then decided to divide the treasure evenly between the tribe and the mosque.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/OfaguOrr-Hs?t=1) i continue to read from muhammad his  
 [0:00:04](https://youtu.be/OfaguOrr-Hs?t=4) life based on the earliest sources by  
@@ -208,3 +208,5 @@ The events that took place after Muhammad's revelation are covered in this video
 [0:08:12](https://youtu.be/OfaguOrr-Hs?t=492) that was chapter four the recovery of a  
 [0:08:15](https://youtu.be/OfaguOrr-Hs?t=495) loss  
 [0:08:16](https://youtu.be/OfaguOrr-Hs?t=496) till next time  
+
+</details>

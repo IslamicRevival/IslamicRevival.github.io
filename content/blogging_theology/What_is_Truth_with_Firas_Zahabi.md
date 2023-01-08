@@ -60,7 +60,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 * **[02:20:00](https://www.youtube.com/watch?v=c-0PDmGeMxg&t=8400)** Firas Zahabi discusses the idea that all truth is a religious experience, and how the different theories of truth are all based on abstractions. He emphasizes the importance of first experiencing truth firsthand, through prayer and reflection.
 * **[02:25:00](https://www.youtube.com/watch?v=c-0PDmGeMxg&t=8700)* Discusses what Truth is and how Muslims should approach the Quran. Gazari says that Muslims should harmonize the natural sciences and islam not reject either one. Paul says that when he goes to the grave, he doesn't believe in Allah, but he fears him. He also says that there is nothing that is going to scare him when he dies. He urges Muslims to go to the next level and understand the Quran on a deeper level.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/c-0PDmGeMxg?t=2) hello everyone and welcome to blogging  
 [0:00:04](https://youtu.be/c-0PDmGeMxg?t=4) theology today i am delighted to talk to  
@@ -4338,3 +4338,5 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 [2:28:45](https://youtu.be/c-0PDmGeMxg?t=8925) and um  
 [2:28:47](https://youtu.be/c-0PDmGeMxg?t=8927) uh and thank you all right until until  
 [2:28:49](https://youtu.be/c-0PDmGeMxg?t=8929) next time  
+
+</details>

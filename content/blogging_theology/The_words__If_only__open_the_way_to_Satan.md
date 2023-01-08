@@ -21,7 +21,7 @@ is a reminder to Muslims to be careful of their actions and to trust in God. If 
 
 **[00:00:00](https://www.youtube.com/watch?v=65AmWwNKAlk&t=0)** This Hadith from Muslim reminds the faithful to be watchful over their own actions and to seek the aid of God in order to achieve their goals. If anything bad should happen, do not blame yourself; it was God's will, not yours, that led to the situation. Saying "if only" will only open the door for Satan to work against you.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/65AmWwNKAlk?t=0) Abel Herrera related that the messenger  
 [0:00:03](https://youtu.be/65AmWwNKAlk?t=3) of God upon whom be peace said the  
@@ -39,3 +39,5 @@ is a reminder to Muslims to be careful of their actions and to trust in God. If 
 [0:00:38](https://youtu.be/65AmWwNKAlk?t=38) for the words if only open the way for  
 [0:00:42](https://youtu.be/65AmWwNKAlk?t=42) the work of Satan  
 [0:00:45](https://youtu.be/65AmWwNKAlk?t=45) Hadith from Muslim  
+
+</details>

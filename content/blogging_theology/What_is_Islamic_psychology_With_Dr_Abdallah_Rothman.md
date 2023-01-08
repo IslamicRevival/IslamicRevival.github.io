@@ -33,7 +33,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 * **[00:35:00](https://www.youtube.com/watch?v=dYGFhqdQfdI&t=2100)** Abdallah Rothman discusses Islamic psychology, which is a model of the soul that draws from traditional Islamic scholarship and Western academic thought. He sees the future of the Cambridge Muslim College as being one that engages both Islamic tradition and the contemporary world, and helps young leaders to understand both Islamic and Western thought.
 * **[00:40:00](https://www.youtube.com/watch?v=dYGFhqdQfdI&t=2400)* Discusses Islamic psychology, with a focus on the work of Dr. Abdallah Rothman. Dr. Rothman discusses the importance of engaging in honest and authentic dialogue, and discusses the Cambridge Muslim College.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:04](https://youtu.be/dYGFhqdQfdI?t=4) hello everyone and welcome to blogging  
 [0:00:06](https://youtu.be/dYGFhqdQfdI?t=6) theology today I am delighted to talk to  
@@ -964,3 +964,5 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 [0:40:53](https://youtu.be/dYGFhqdQfdI?t=2453) um thank you very much sir for your time  
 [0:40:55](https://youtu.be/dYGFhqdQfdI?t=2455) really appreciate it my pleasure nice to  
 [0:40:57](https://youtu.be/dYGFhqdQfdI?t=2457) be with you thank you  
+
+</details>

@@ -17,7 +17,7 @@ In this poem, Ibn al-Qayyim criticizes Christianity for its lack of logical cons
 
 **[00:00:00](https://www.youtube.com/watch?v=pMB-v2Q5ijU&t=0)** This poem, written by Ibn al-Qayyim, is a hard-hitting criticism of Christianity. It argues that if God was killed as a result of human actions, then he is not a worthy deity. It also questions the reliability of the Bible, and points out that if Christianity is true, then the universe must have come to an end, angels failed to help Jesus during his crucifixion, and enemies could not even reach him to inflict pain.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/pMB-v2Q5ijU?t=1) i love poetry . and there are lots of christian 
 poets over the centuries who obviously write    
@@ -101,3 +101,5 @@ arguments and i know the responses  
 are not always very compelling or very convincing .  
 [0:04:39](https://youtu.be/pMB-v2Q5ijU?t=279) but anyway , i hope you found that 
 brief poem of interest . till next time  
+
+</details>

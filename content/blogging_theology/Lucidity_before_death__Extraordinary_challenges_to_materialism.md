@@ -30,7 +30,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 * **[00:30:00](https://www.youtube.com/watch?v=Xsuu31AUCRw&t=1800)** This video discusses the phenomenon of lucid dreaming, which is when a person becomes consciously aware that they are dreaming. It interviews various people who have had lucid dreams, and the author concludes that, although there is still much to be learned about the phenomenon, it appears that there is more to reality than what materialism would suggest.
 * **[00:35:00](https://www.youtube.com/watch?v=Xsuu31AUCRw&t=2100)** discusses the nature of human beings and the soul, and how these experiences are not rare. mentions that these experiences are supported by passages from the Quran. He challenges the dogmatic view of those who reject these phenomena, and argues that a paradigm shift is needed in order to understand who we are as a species. This video points to the importance of religion in understanding these phenomena, and shows how it reinforces other faiths' beliefs in the afterlife. More and more people are beginning to understand these concepts, and will live accordingly as a result.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:04](https://youtu.be/Xsuu31AUCRw?t=4) in this video I want to share with you  
 [0:00:06](https://youtu.be/Xsuu31AUCRw?t=6) some extraordinary challenges to  
@@ -917,3 +917,5 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 [0:38:25](https://youtu.be/Xsuu31AUCRw?t=2305) more and more of us will understand this  
 [0:38:27](https://youtu.be/Xsuu31AUCRw?t=2307) and see the world differently and live  
 [0:38:29](https://youtu.be/Xsuu31AUCRw?t=2309) accordingly inshallah till next time  
+
+</details>

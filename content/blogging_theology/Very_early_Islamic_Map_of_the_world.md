@@ -17,7 +17,7 @@ The video features an early Islamic map of the world, which was completed in the
 
 **[00:00:00](https://www.youtube.com/watch?v=KB-ygUzYId8&t=0)** This video shows an early Islamic map of the world, which was completed in the 9th century. The map had a huge influence on later Islamic and European mapmaking, and is one of the earliest of its kind. Islamic science contributed to many fields, including physics, geometry, medicine, mathematics, and more. This museum has an amazing collection of Islamic science achievements.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/KB-ygUzYId8?t=0) here i am outside the museum of the  
 [0:00:02](https://youtu.be/KB-ygUzYId8?t=2) history of science and technology in  
@@ -44,3 +44,5 @@ The video features an early Islamic map of the world, which was completed in the
 [0:00:50](https://youtu.be/KB-ygUzYId8?t=50) contributions to physics geometry  
 [0:00:53](https://youtu.be/KB-ygUzYId8?t=53) medicine mathematics you name it it's  
 [0:00:55](https://youtu.be/KB-ygUzYId8?t=55) all in here an amazing museum  
+
+</details>

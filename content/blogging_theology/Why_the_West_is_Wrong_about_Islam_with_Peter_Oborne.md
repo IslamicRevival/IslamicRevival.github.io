@@ -32,7 +32,7 @@ The West is wrong about Islam because it is intolerant of religious differences 
 * **[00:40:00](https://www.youtube.com/watch?v=qu5VHqDBePI&t=2400)** Peter Oborne argues that the West is wrong about Islam, pointing to its success in terms of electoral numbers and mainstream acceptance in various European countries. He also points to the increasing movement towards a right-wing populist anti-Muslim political movement throughout various countries. Oborne believes that this movement may soon lead to a genocide against Muslims in Europe and elsewhere.
 * **[00:45:00](https://www.youtube.com/watch?v=qu5VHqDBePI&t=2700)** Peter Oborne discusses the history and relationship between the West and Islam, highlighting the conservative neo-conservative role in defining British Muslims and British islam. He also recommends the book "Fate of Abraham: Why the West Is Wrong About Islam" by Peter Aborne.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:03](https://youtu.be/qu5VHqDBePI?t=3) hello everyone and welcome to blogging  
 [0:00:06](https://youtu.be/qu5VHqDBePI?t=6) theology today i am delighted to talk to  
@@ -1355,3 +1355,5 @@ The West is wrong about Islam because it is intolerant of religious differences 
 [0:49:36](https://youtu.be/qu5VHqDBePI?t=2976) about islam thank you very much until  
 [0:49:38](https://youtu.be/qu5VHqDBePI?t=2978) next time  
 [0:49:39](https://youtu.be/qu5VHqDBePI?t=2979) thank you  
+
+</details>

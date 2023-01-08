@@ -21,7 +21,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 **[00:00:00](https://www.youtube.com/watch?v=c_CG2lONjpw&t=0)* Discusses how Qur'an has final authority over previous Scriptures. It also encourages people to compete in doing good and to judge between them based on what Allah has revealed.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/c_CG2lONjpw?t=0) we have revealed To You O Prophet this  
 [0:00:03](https://youtu.be/c_CG2lONjpw?t=3) book with the truth as a confirmation of  
@@ -41,3 +41,5 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 [0:00:37](https://youtu.be/c_CG2lONjpw?t=37) to Allah you will all return then he  
 [0:00:40](https://youtu.be/c_CG2lONjpw?t=40) will inform you of the truth regarding  
 [0:00:43](https://youtu.be/c_CG2lONjpw?t=43) your differences  
+
+</details>

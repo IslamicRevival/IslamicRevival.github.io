@@ -17,7 +17,7 @@ Extract from The Prophet Muhammad in the Bible with Dr. Ali Ataie https://www.yo
 
 **[00:00:00](https://www.youtube.com/watch?v=v_tKoiIxYGA&t=0)**  Dr. Ali Ataie discusses the difference between the biblical God of Deuteronomy 18:18 and the Islamic God of the Quran. He notes that while the Bible refers to God as "one," the Quran refers to God as "many." Dr. Ataie goes on to say that while the Bible calls Jesus a "false prophet," the Quran calls him "blessed." Finally, Dr. Ataie explains that the Quran's use of the word "ahad" (meaning "one") is similar to the Hebrew word "echad" (meaning "one"). This indicates that the Quran is confirming the shemham of Deuteronomy 18:18.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/v_tKoiIxYGA?t=0) good good master  
 [0:00:01](https://youtu.be/v_tKoiIxYGA?t=1) uh what must i do to gain eternal life  
@@ -85,3 +85,5 @@ Extract from The Prophet Muhammad in the Bible with Dr. Ali Ataie https://www.yo
 [0:02:53](https://youtu.be/v_tKoiIxYGA?t=173) it's it's a bit funny christian  
 [0:02:55](https://youtu.be/v_tKoiIxYGA?t=175) apologists  
 [0:02:57](https://youtu.be/v_tKoiIxYGA?t=177) constantly tell us ad nauseum  
+
+</details>

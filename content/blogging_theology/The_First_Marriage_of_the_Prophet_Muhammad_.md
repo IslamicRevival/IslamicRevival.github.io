@@ -23,7 +23,7 @@ This video tells the story of the Prophet Muhammad's first marriage to Khadijah.
 * **[00:05:00](https://www.youtube.com/watch?v=CoCqGJZvglQ&t=300)** Masara reports that the monk who greeted Muhammad when he arrived in Syria was Nestor, who recognized him as a prophet. According to Islamic tradition, Muhammad is the last prophet of the line of Judah. When they arrived in Mecca, Muhammad and Khadijah went to the home of Khajiit trader Khadijah's father. While there, Muhammad described his journey and the various transactions he made. Khadijah was able to sell her assets for more than double what she had paid for them. Muhammad's appearance and demeanor struck Khadijah as strange, and she was focused only on him while he was speaking. Muhammad was 25 years old and of medium stature. His hair and beard were thick and black, but not entirely straight. His hair reached midway between his ears and his shoulders, and his beard was of a length to match. His nose was aqualine and his mouth was wide and finely shaped. Muhammad had a noble breath and the ovals of his large eyes were wide with exceptionally long lashes and extensive brows.
 * **[00:10:00](https://www.youtube.com/watch?v=CoCqGJZvglQ&t=600)**  Khadijah, the first wife of the prophet Muhammad, is described as being strikingly beautiful with a light complexion and luminous eyes. She consults a woman friend, Nufatia, to ask if she can marry Muhammad. When Muhammad arrives, Khadijah tells him her story, including her love for him, her trustworthiness, and her kinship to him. She then offers herself as his wife, and they agree to speak to her uncle and her brother about the marriage. Hamza, the nephew of Khadijah's brother, Awam, is appointed as the representative for the family. After the agreement is made, Muhammad gives Khadijah 20 camels as a dowry.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:03](https://youtu.be/CoCqGJZvglQ?t=3) in this video i'm going to tell the  
 [0:00:06](https://youtu.be/CoCqGJZvglQ?t=6) story of the prophet muhammad upon whom  
@@ -321,3 +321,5 @@ This video tells the story of the Prophet Muhammad's first marriage to Khadijah.
 [0:13:49](https://youtu.be/CoCqGJZvglQ?t=829) story in the life of the prophet  
 [0:13:51](https://youtu.be/CoCqGJZvglQ?t=831) muhammad upon whom be peace till next  
 [0:13:54](https://youtu.be/CoCqGJZvglQ?t=834) time  
+
+</details>

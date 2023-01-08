@@ -17,7 +17,7 @@ Discusses three powerful hadith, or sayings of the Prophet Muhammad. The first i
 
 **[00:00:00](https://www.youtube.com/watch?v=SShHyz5VOtU&t=0)** The three powerful hadith discussed in this video are about how acts of kindness are charity, how to avoid being burned in the afterlife, and how to protect oneself from the fire.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/SShHyz5VOtU?t=0) the prophet muhammad upon whom the peace  
 [0:00:03](https://youtu.be/SShHyz5VOtU?t=3) said the following preserved in three  
@@ -30,3 +30,5 @@ Discusses three powerful hadith, or sayings of the Prophet Muhammad. The first i
 [0:00:22](https://youtu.be/SShHyz5VOtU?t=22) muslim 26 26  
 [0:00:26](https://youtu.be/SShHyz5VOtU?t=26) protect yourselves from the fire even  
 [0:00:28](https://youtu.be/SShHyz5VOtU?t=28) with half a date bukhari 14 17.  
+
+</details>

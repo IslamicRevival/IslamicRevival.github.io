@@ -32,7 +32,7 @@ In this video, Dr. Shabbir Akhtar discusses the importance of being careful when
 * **[00:40:00](https://www.youtube.com/watch?v=YbwyFNXXC00&t=2400)** The video discusses how Dr. Shabbir Akhtar thinks that he should be careful with Muhammad because the prophet of Islam is our man. He goes on to say that Jesus and Moses are treated nicely in Muslim theology, but that Muhammad is still our man and we love him. Akhtar also discusses his book on Christology, which is due to be released next year.
 * **[00:45:00](https://www.youtube.com/watch?v=YbwyFNXXC00&t=2700)** The author of the video, Dr. Shabbir Akhtar, discusses the importance of studying both the Bible and the Quran and how it is important to be careful when interpreting the teachings of Muhammad. He also discusses his new book on the subject.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/YbwyFNXXC00?t=0) Well hello there, my name is Paul Williams 
 from Blogging Theology and you are almost    
@@ -964,3 +964,5 @@ i'm going to i'm going to london on friday we're  
 it here with me in france unfortunately    
 [0:45:54](https://youtu.be/YbwyFNXXC00?t=2754) um all right and until next time 
 thank you bye-bye thank you thank you  
+
+</details>

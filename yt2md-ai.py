@@ -72,12 +72,10 @@ def gen_markdown_page(video_id: str, title: str, description: str, smarkdown: st
     markdown += "\n\n"
     markdown += smarkdown.strip()
     markdown += "\n\n"
-    markdown += "<details><summary><h2>Full transcript with timestamps - CLICK TO EXPAND</h2></summary><div>\n\n"
-    print(captions)
+    markdown += "<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>\n\n"
     for c in captions:
         markdown += f"[{datetime.timedelta(seconds=int(c['start']))}](https://youtu.be/{video_id}?t={int(c['start'])}) {c['text']}  \n"
-    markdown += "</div></details>"
-    #exit()
+    markdown += "</details>"
     return markdown          
 
 def string_to_filename(filename: str, raw: bool = False):
@@ -194,8 +192,7 @@ def main(channel_ids=channel_ids_input):
                 preview_path = get_preview_image(img_file_name=img_file_name, img_url=video_metadata.snippet.thumbnails.default.url, video_id=video_id, path=path) 
                 logging.info(f"\n\nVideo ID is {video_id} with title {title}")
                 description = video_metadata.snippet.description
-                date = datetime.datetime.strptime(video_metadata.snippet.publishedAt, "%Y-%m-%dT%H:%M:%SZ")
-                date = datetime.time.strftime("%Y.%m.%d", date)
+                date = datetime.datetime.strptime(video_metadata.snippet.publishedAt, "%Y-%m-%dT%H:%M:%SZ").strftime("%Y-%m-%d")
                 captions = YouTubeTranscriptApi.get_transcript(video_id)
 
                 # Get AI summary
@@ -252,7 +249,11 @@ def main(channel_ids=channel_ids_input):
                 # find ./ -type f -name "*.md" -exec sed -i 's/Discusses\w+/Discusses /g' {} \;
                 # find ./ -type f -name "*.md" -exec sed -Ei "s/ [0-9][0-9]\:[0-9][0-9]\:[0-9][0-9]\+[0-9][0-9]\:[0-9][0-9]//g" {} \;
                 # find ./ -type f -name "*.md" -exec sed -i 's/This is an AI generated summary. There may be inaccuracies/<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies<\/span>/g' {} \;
-                # find ./ -type f -name "A_Beautiful_Hadith__shorts.md" -exec sed -i 's/## Full transcript with timestamps/<details><summary><h2>Full transcript with timestamps - CLICK TO EXPAND<\/h2><\/summary><div>
+                # find . -type f -name "*.md" -exec sed -i 's/\#\# Full transcript with timestamps/<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND<\/h2><\/summary>/g' {} \;
+                # find . -type f -name "*.md" -exec sed -ie 's/<\/details>\([^ ]*\)$//g' {} \; 
+                # find . -type f -name "*.md" -exec sed -i '$s/$/<\/details>/' {} \; 
+                
+
                 smarkdown = md(mdresponse, strip=['title', 'head', 'gtag', 'props', 'could not summarize', '<could not summarize>', 'js', 'config'])
                 # list of AI NLP words to remove
                 words_to_remove = ['title', 'head', 'gtag', 'props', 'could not summarize', '<could not summarize>', 'In this video,', 'in this video,',

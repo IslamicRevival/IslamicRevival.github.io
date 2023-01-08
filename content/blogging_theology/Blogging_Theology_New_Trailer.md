@@ -29,7 +29,7 @@ Blogging Theology is a channel dedicated to providing academic and scholarly con
 
 **[00:00:00](https://www.youtube.com/watch?v=H-UO4G-m7E0&t=0)** Blogging theology is a channel that provides academic and scholarly content on comparative religion, particularly pertaining to the Abrahamic faiths Judaism, Christianity, and Islam. The channel interviews leading scholars from various universities, reviews books occasionally, and produces daily shorts. Additionally, the channel has a social media presence: Instagram, TikTok, and Twitter. The channel asks for permission before copying videos and translating them into other languages. Thanks to the channel's wonderful support and encouragement, the creator appreciates it immensely.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/H-UO4G-m7E0?t=2) welcome to blogging theology  
 [0:00:05](https://youtu.be/H-UO4G-m7E0?t=5) blogging theology is my small attempt to  
@@ -58,3 +58,5 @@ Blogging Theology is a channel dedicated to providing academic and scholarly con
 [0:01:07](https://youtu.be/H-UO4G-m7E0?t=67) and encouragement i really do appreciate  
 [0:01:10](https://youtu.be/H-UO4G-m7E0?t=70) it  
 [0:01:11](https://youtu.be/H-UO4G-m7E0?t=71) till next time  
+
+</details>

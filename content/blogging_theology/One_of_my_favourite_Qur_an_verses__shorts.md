@@ -19,7 +19,7 @@ In this YouTube video, the speaker discusses one of their favorite verses from t
 
 **[00:00:00](https://www.youtube.com/watch?v=lchWCxl_wxw&t=0)** This verse is a reminder to be righteous and to do good deeds. It also encourages people to spend their money for the benefit of others.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/lchWCxl_wxw?t=0) this is one of my favorite verses in the  
 [0:00:02](https://youtu.be/lchWCxl_wxw?t=2) quran  
@@ -42,3 +42,5 @@ In this YouTube video, the speaker discusses one of their favorite verses from t
 [0:00:51](https://youtu.be/lchWCxl_wxw?t=51) god-fearing  
 [0:00:53](https://youtu.be/lchWCxl_wxw?t=53) taken from surah al-baqarah verse 1  
 [0:00:57](https://youtu.be/lchWCxl_wxw?t=57) seven  
+
+</details>

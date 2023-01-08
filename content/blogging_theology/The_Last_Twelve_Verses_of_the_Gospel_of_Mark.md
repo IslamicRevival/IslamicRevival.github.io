@@ -19,7 +19,7 @@ Discusses the theory that the last twelve verses of the Gospel of Mark were adde
 
 **[00:00:00](https://www.youtube.com/watch?v=vAX__ok05JU&t=0)** The earliest gospel, Mark, does not include the resurrection of Jesus story. Scribes who were copying the gospel later added verses to make it more in line with their own beliefs and with the endings of the other gospels.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/vAX__ok05JU?t=2) in this episode i want to look at  
 [0:00:04](https://youtu.be/vAX__ok05JU?t=4) a rather startling fact that our  
@@ -152,3 +152,5 @@ Discusses the theory that the last twelve verses of the Gospel of Mark were adde
 [0:04:34](https://youtu.be/vAX__ok05JU?t=274) uh verses of mark chapter 16  
 [0:04:37](https://youtu.be/vAX__ok05JU?t=277) uh in case you didn't know um till next  
 [0:04:40](https://youtu.be/vAX__ok05JU?t=280) time  
+
+</details>

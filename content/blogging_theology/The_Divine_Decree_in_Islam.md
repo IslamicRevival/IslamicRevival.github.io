@@ -32,7 +32,7 @@ The video discusses the concept of divine decree in Islam and how it applies to 
 * **[00:45:00](https://www.youtube.com/watch?v=QvUy-KwRHBE&t=2700)** The video discusses the principle of divine providence in Islam, and how it can be understood through the literary images of the pen, the preserved tablet, and the record of deeds. According to the author, the deeper realities of providence are beyond the scope of our comprehension, and those who attempt to investigate it will be lost. In conclusion, the author stresses the importance of humility when understanding the unseen.
 * **[00:50:00](https://www.youtube.com/watch?v=QvUy-KwRHBE&t=3000)** This article provides a reconciliation of the Divine Decree and free will in Islam. It outlines how the two concepts are intertwined and argues that success comes from Allah, not from free will.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/QvUy-KwRHBE?t=2) the idea of the divine decree or  
 [0:00:05](https://youtu.be/QvUy-KwRHBE?t=5) predestination is a key belief in islam  
@@ -1162,3 +1162,5 @@ The video discusses the concept of divine decree in Islam and how it applies to 
 [0:51:56](https://youtu.be/QvUy-KwRHBE?t=3116) this and the the many other articles  
 [0:51:58](https://youtu.be/QvUy-KwRHBE?t=3118) that he has written as well  
 [0:52:01](https://youtu.be/QvUy-KwRHBE?t=3121) till next time  
+
+</details>

@@ -18,7 +18,7 @@ The video discusses how the word "yahweh" is not found in the New Testament, and
 **[00:00:00](https://www.youtube.com/watch?v=6yfMHGC1um4&t=0)** Ali Atai responds to criticisms of the Qur'an by polemicists who argue that the name of God, "Yahweh," found in the Torah is not present in the Qur'an. Atai argues that the word "Yahweh" is a human invention, and that the name of God in the Qur'an is Allah, not Yahweh.
 * **[00:05:00](https://www.youtube.com/watch?v=6yfMHGC1um4&t=300)** The video discusses how the word "yahweh" is not found in the New Testament, and how it likely means "which means to be it's the present tense verb of of of the of the verb." The video also points out that this meaning is found in the Quran.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:05](https://youtu.be/6yfMHGC1um4?t=5) One of the most common criticisms of the 
 Qur'an by polemicists particularly christians    
@@ -110,3 +110,5 @@ his name means okay then fine what does yahweh  
 the present tense verb of of of the of the verb    
 [0:05:29](https://youtu.be/6yfMHGC1um4?t=329) which means to be meaning god is uh eternal 
 and that meaning is also found uh in the quran  
+
+</details>

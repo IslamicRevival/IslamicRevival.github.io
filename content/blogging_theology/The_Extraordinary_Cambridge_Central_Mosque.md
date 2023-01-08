@@ -19,7 +19,7 @@ The Extraordinary Cambridge Central Mosque is a beautiful, sustainable mosque de
 **[00:00:00](https://www.youtube.com/watch?v=CyOcGExNclY&t=0)** The Extraordinary Cambridge Central Mosque is a beautiful, sustainable mosque designed by British architects Box Barfield. The mosque features geometric columns made of timber trees, which form the structural support for the roof. When visitors enter the mosque, they feel "other" and "uplifting." The mosque is used by the whole community, not just Muslims. The mosque's design is a synthesis of British sacred architecture and Islamic traditions, and it symbolizes the "inherent interest" of Islam in bringing together different cultures and civilizations.
 * **[00:05:00](https://www.youtube.com/watch?v=CyOcGExNclY&t=300)** The Extraordinary Cambridge Central Mosque is a beautiful example of how Islamic and British architecture can work together. The mosque was designed by Professor Tim Winter and the English architects who created it.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/CyOcGExNclY?t=0) according to the bbc one of britain's  
 [0:00:03](https://youtu.be/CyOcGExNclY?t=3) best new buildings is a mosque  
@@ -163,3 +163,5 @@ The Extraordinary Cambridge Central Mosque is a beautiful, sustainable mosque de
 [0:05:25](https://youtu.be/CyOcGExNclY?t=325) and to professor  
 [0:05:27](https://youtu.be/CyOcGExNclY?t=327) tim winter who is the genius behind this  
 [0:05:30](https://youtu.be/CyOcGExNclY?t=330) project at the university of cambridge  
+
+</details>

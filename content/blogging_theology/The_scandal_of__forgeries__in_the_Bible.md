@@ -20,7 +20,7 @@ Please consider supporting my work on Patreon: https://www.patreon.com/Bloggingt
 * **[00:05:00](https://www.youtube.com/watch?v=DY7V9Ch7Q5k&t=300)** discusses the scandal of forgeries in the Bible, pointing out that some books, such as Second Peter, which are difficult to reconcile with other books in the New Testament, are still considered authoritative by Christians.
 * **[00:10:00](https://www.youtube.com/watch?v=DY7V9Ch7Q5k&t=600)** The video discusses how forgeries have been found in the Bible, and how the canonization process has led to some texts being considered canonical while others are still considered dubious.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/DY7V9Ch7Q5k?t=0) now some of the conclusions pivotal  
 [0:00:01](https://youtu.be/DY7V9Ch7Q5k?t=1) scholars come to  
@@ -382,3 +382,5 @@ Please consider supporting my work on Patreon: https://www.patreon.com/Bloggingt
 [0:12:28](https://youtu.be/DY7V9Ch7Q5k?t=748) in christianity rather than either the  
 [0:12:31](https://youtu.be/DY7V9Ch7Q5k?t=751) thing is a canonical text or it isn't  
 [0:12:33](https://youtu.be/DY7V9Ch7Q5k?t=753) there was a middle category  
+
+</details>

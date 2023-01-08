@@ -22,7 +22,7 @@ The video discusses a Hadith which describes the day of resurrection. On that da
 **[00:00:00](https://www.youtube.com/watch?v=Xzv6Inbl8co&t=0)** This Hadith tells of the day of resurrection, when everyone will be called to follow their own Religion. Those who used to prostrate to Allah will be allowed to prostrate again, but their backs will be made as a stiff single part. The faithful will pass over a bridge to Paradise while others are sent to hell.
 * **[00:05:00](https://www.youtube.com/watch?v=Xzv6Inbl8co&t=300)** The video discusses the character of God, who is a god of mercy and Grace. It highlights the theme of mercy being reiterated throughout the Quran.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:03](https://youtu.be/Xzv6Inbl8co?t=3) I wanted to share with you uh an  
 [0:00:06](https://youtu.be/Xzv6Inbl8co?t=6) extraordinary Hadith from bakari and  
@@ -177,3 +177,5 @@ The video discusses a Hadith which describes the day of resurrection. On that da
 [0:07:32](https://youtu.be/Xzv6Inbl8co?t=452) throughout the whole book itself anyway  
 [0:07:34](https://youtu.be/Xzv6Inbl8co?t=454) I want to share that with you until next  
 [0:07:37](https://youtu.be/Xzv6Inbl8co?t=457) time  
+
+</details>

@@ -38,7 +38,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 **[01:00:00](https://www.youtube.com/watch?v=ijZVhSsQkQU&t=3600)**  Professor Aliatize discusses 2022, which he believes will be a year of great change for Muslims and Christians alike. He also predicts that there will be more opportunities for outreach and conversion to Islam, as well as more research opportunities for those interested in Islamic doctrine. Finally, he encourages viewers to support the channel in which he is hosting this video.
 * **[01:05:00](https://www.youtube.com/watch?v=ijZVhSsQkQU&t=3900)**  Dr. Alia Thai reviews 2022, a year that has many potential implications for the world. She thanks her viewers for their support and asks them to continue to support her work by subscribing to her channel and donating to her Patreon account. She also thanks her creator for providing her with the means to do this work.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:03](https://youtu.be/ijZVhSsQkQU?t=3) hello everyone and welcome to blogging  
 [0:00:06](https://youtu.be/ijZVhSsQkQU?t=6) theology today I'm very happy to share  
@@ -1764,3 +1764,5 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 [1:06:04](https://youtu.be/ijZVhSsQkQU?t=3964) and we'll see what happens in the next  
 [1:06:06](https://youtu.be/ijZVhSsQkQU?t=3966) 12 months so thank you very much and  
 [1:06:07](https://youtu.be/ijZVhSsQkQU?t=3967) until next time  
+
+</details>

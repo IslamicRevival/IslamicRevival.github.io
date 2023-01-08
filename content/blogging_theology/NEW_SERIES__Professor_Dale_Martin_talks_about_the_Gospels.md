@@ -35,7 +35,7 @@ Professor Dale Martin discusses the Gospels and how they differ from other ancie
 **[01:00:00](https://www.youtube.com/watch?v=YPOcTIYZtNQ&t=3600)**  Professor Dale Martin discusses the concept of the son of God in the Gospel of Mark. He argues that, while the passage may seem to imply that Jesus is divine, it actually reflects a lower level of christology than found in the other Gospels.
 * **[01:05:00](https://www.youtube.com/watch?v=YPOcTIYZtNQ&t=3900)** Professor Dale Martin discusses the Gospels and how they differ from other ancient texts. He points to Plato and Apollonius of Tyana as examples of ancient figures who were considered divine by some, but not by all. He also mentions the Gospel of Matthew, which he believes is the most interesting of the four gospels.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/YPOcTIYZtNQ?t=1) good evening everyone and welcome  
 [0:00:04](https://youtu.be/YPOcTIYZtNQ?t=4) to a very special new series on blogging  
@@ -2014,3 +2014,5 @@ Professor Dale Martin discusses the Gospels and how they differ from other ancie
 [1:09:36](https://youtu.be/YPOcTIYZtNQ?t=4176) exploring uh the gospel of matthew with  
 [1:09:38](https://youtu.be/YPOcTIYZtNQ?t=4178) you next time  
 [1:09:39](https://youtu.be/YPOcTIYZtNQ?t=4179) okay thank you thank you bye  
+
+</details>

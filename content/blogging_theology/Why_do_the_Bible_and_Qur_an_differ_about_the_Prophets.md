@@ -24,7 +24,7 @@ The video discusses the ways in which the Quran's portrayal of prophets and patr
 * **[00:05:00](https://www.youtube.com/watch?v=vIfz9zrAf4E&t=300)** discusses the differences between the Bible and the Qur'an regarding the prophets. He points out that although the Qur'an does contain references to earlier scriptures, it does so according to its own unique prophetology, and is corrective of and even polemical towards earlier readings of the scripture. He provides quotes from the Qur'an illustrating this point.
 * **[00:10:00](https://www.youtube.com/watch?v=vIfz9zrAf4E&t=600)** of the video discusses the differences between the Bible and the Qur'an with regards to the prophets. He argues that the Quran's reprise of certain stories from the Bible reflects the opening of a new book, and that this analogy supports the Muslim belief that the Quran corrects and gives the truth about ancient stories.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/vIfz9zrAf4E?t=2) the quran has a great deal to say about the 
 patriarchs and the prophets sent to previous    
@@ -266,3 +266,5 @@ you the truth about the uh the stories of  
 on and it frees it from the corruptions that um    
 [0:13:03](https://youtu.be/vIfz9zrAf4E?t=783) have crept into these scriptures that 
 christians and jews have today until next time  
+
+</details>

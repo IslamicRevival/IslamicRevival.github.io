@@ -21,7 +21,7 @@ at Speakers' Corner shares the Qur'an's message of forgiveness and compassion. a
 
 **[00:00:00](https://www.youtube.com/watch?v=WXhzF7YCkMQ&t=0)** at Speakers' Corner shares the Qur'an's message of forgiveness and compassion, emphasizing that Allah is always with those who do good deeds. also warns of the dangers of breaking one's covenant with Allah, noting that those who do so will incur his wrath. Nonetheless, the speaker urges people to forgive those who sin, noting that Allah loves those who obey him.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/WXhzF7YCkMQ?t=0) allah made a covenant with the children  
 [0:00:02](https://youtu.be/WXhzF7YCkMQ?t=2) of israel and appointed 12 leaders from  
@@ -45,3 +45,5 @@ at Speakers' Corner shares the Qur'an's message of forgiveness and compassion. a
 [0:00:49](https://youtu.be/WXhzF7YCkMQ?t=49) except for a few  
 [0:00:51](https://youtu.be/WXhzF7YCkMQ?t=51) but pardon them and bear with them  
 [0:00:54](https://youtu.be/WXhzF7YCkMQ?t=54) indeed allah loves the good doers  
+
+</details>

@@ -17,7 +17,7 @@ Filmed in the Kutubiyya Mosque which the largest mosque in Marrakesh, Morocco.
 
 **[00:00:00](https://www.youtube.com/watch?v=APUh7wrplgI&t=0)**  is about how obesity will prevail among Muslims, and how Prophet Muhammad said that the best of them are his contemporaries and those who follow them.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/APUh7wrplgI?t=0) to be a mosque in Marrakech in Morocco  
 [0:00:03](https://youtu.be/APUh7wrplgI?t=3) I'm going to read this Hadith which  
@@ -38,3 +38,5 @@ Filmed in the Kutubiyya Mosque which the largest mosque in Marrakesh, Morocco.
 [0:00:38](https://youtu.be/APUh7wrplgI?t=38) vows but will not fulfill them and  
 [0:00:41](https://youtu.be/APUh7wrplgI?t=41) obesity will prevail among them  
 [0:00:44](https://youtu.be/APUh7wrplgI?t=44) Hadi from albuquarie and Muslim  
+
+</details>

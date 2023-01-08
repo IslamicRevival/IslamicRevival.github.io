@@ -21,7 +21,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 **[00:00:00](https://www.youtube.com/watch?v=dobRqeW2HNA&t=0)** is a message to French Muslims who are flying over France. reminds them that the Quran says that Muslims should follow the teachings of God, not the teachings of the Jews and Christians. If French Muslims follow the teachings of God, they will find no protection from God or help in their lives.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/dobRqeW2HNA?t=0) Well, I am flying from the United Kingdom to 
 France, currently over France. The Quran says:    
@@ -31,3 +31,5 @@ with you unless you follow their ways. Say,  
 If you were to follow their desires after the    
 [0:00:23](https://youtu.be/dobRqeW2HNA?t=23) knowledge that has come to you, you would find 
 no one to protect you from God or help you.'  
+
+</details>

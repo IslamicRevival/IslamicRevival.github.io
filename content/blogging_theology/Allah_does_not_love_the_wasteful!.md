@@ -21,7 +21,7 @@ Discusses an Islamic proverb that states that Allah does not love wasteful peopl
 
 **[00:00:00](https://www.youtube.com/watch?v=K76Z9mG9giE&t=0)** discusses an Islamic proverb that states that Allah does not love wasteful people. The proverb is used to encourage people to be responsible with their resources, and to ensure that they give back to the poor as part of their religious obligations.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/K76Z9mG9giE?t=0) here I am in the Jada my RL in Marrakech  
 [0:00:03](https://youtu.be/K76Z9mG9giE?t=3) the crown tells us he has brought  
@@ -35,3 +35,5 @@ Discusses an Islamic proverb that states that Allah does not love wasteful peopl
 [0:00:26](https://youtu.be/K76Z9mG9giE?t=26) unto the poor they're due on harvest day  
 [0:00:30](https://youtu.be/K76Z9mG9giE?t=30) but do not waste surely he does not like  
 [0:00:33](https://youtu.be/K76Z9mG9giE?t=33) the wasteful Quran chapter 6 verse 141  
+
+</details>

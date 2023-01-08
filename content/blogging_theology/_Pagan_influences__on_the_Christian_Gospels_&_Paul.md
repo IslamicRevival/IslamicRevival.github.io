@@ -25,7 +25,7 @@ The video discusses how pagan influences can be found in the Christian Gospels a
 * **[00:15:00](https://www.youtube.com/watch?v=w83Gf6Ldavs&t=900)**  Erman discusses how the New Testament portrays Jesus as a divine being, son of God, and savior. He notes that the four gospels present Jesus in different ways, but nonetheless he is a divine being in all four texts.
 * **[00:20:00](https://www.youtube.com/watch?v=w83Gf6Ldavs&t=1200)** The video discusses the influence of paganism on the Christian Gospels and Paul, noting that Judaism was heavily influenced by Greek philosophy and culture before Jesus' time. The later Gospels, written by authors who were influenced by Greek thought, portray Jesus in a more divine light than the earlier, Mark-written Gospel. The Roman centurion who proclaims Jesus as the Son of God at the foot of the cross is an example of this change.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/w83Gf6Ldavs?t=2) okay so i i want to begin  
 [0:00:05](https://youtu.be/w83Gf6Ldavs?t=5) sort of uh setting the table as it were  
@@ -625,3 +625,5 @@ The video discusses how pagan influences can be found in the Christian Gospels a
 [0:22:27](https://youtu.be/w83Gf6Ldavs?t=1347) in 164 bce the temple was repaired and  
 [0:22:30](https://youtu.be/w83Gf6Ldavs?t=1350) cleansed and rededicated to god thus  
 [0:22:31](https://youtu.be/w83Gf6Ldavs?t=1351) hanukkah was born  
+
+</details>

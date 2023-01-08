@@ -22,7 +22,7 @@ The Jews of Medina were eagerly awaiting the arrival of a new prophet, and when 
 **[00:00:00](https://www.youtube.com/watch?v=Z4pm2fSYhCI&t=0)** This video discusses the expectation of a prophet among the Jews living in Medina. Relations between the Jews and the Arabs were often strained, and the Jews were eager to learn more about the new prophet. One rabbi pointed to the south and said that a prophet would come who would affirm the truth of the resurrection. The youths among the Jews followed his advice and accepted the prophet despite his non-Jewish background.
 * **[00:05:00](https://www.youtube.com/watch?v=Z4pm2fSYhCI&t=300)** The Prophet Muhammad was visiting the tribe of the Khasraj when they asked him if they could come and see him. The Prophet told them that he had been sent with a new religion, and when they asked what that was, he recited some of the Quran to them. A young man named Ias son of Mudda rejected the Prophet's message, and the Prophet left him. Quraish refused to help the Khasraj, and when the Prophet returned to Medina, he found that Yes had died. Some of the people who were present at Yes' death said that they could hear him continually testifying to the oneness of God and magnifying praising and glorifying Him until the end.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/Z4pm2fSYhCI?t=2) in this episode we hear of many of the  
 [0:00:06](https://youtu.be/Z4pm2fSYhCI?t=6) jews who are living in expectation of a  
@@ -198,3 +198,5 @@ The Jews of Medina were eagerly awaiting the arrival of a new prophet, and when 
 [0:08:43](https://youtu.be/Z4pm2fSYhCI?t=523) yathrib to enter islam  
 [0:08:47](https://youtu.be/Z4pm2fSYhCI?t=527) and that's the end of chapter 19.  
 [0:08:51](https://youtu.be/Z4pm2fSYhCI?t=531) till next time  
+
+</details>

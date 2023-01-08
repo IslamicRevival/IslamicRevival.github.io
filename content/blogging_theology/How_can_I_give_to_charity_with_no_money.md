@@ -21,7 +21,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 **[00:00:00](https://www.youtube.com/watch?v=eou5hLCwTGs&t=0)**  provides advice on how to give charity, regardless of one's financial situation. The advice includes suggestions for working with one's hands, helping others in distress, and refraining from harming others.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/eou5hLCwTGs?t=0) hello from Edinburgh the messenger of  
 [0:00:03](https://youtu.be/eou5hLCwTGs?t=3) God upon whom be peace said every Muslim  
@@ -40,3 +40,5 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 [0:00:41](https://youtu.be/eou5hLCwTGs?t=41) harming anyone that too would be charity  
 [0:00:44](https://youtu.be/eou5hLCwTGs?t=44) on his part  
 [0:00:47](https://youtu.be/eou5hLCwTGs?t=47) Hadith from bakari and Muslim  
+
+</details>

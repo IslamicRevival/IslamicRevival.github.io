@@ -19,7 +19,7 @@ Top physicist Stephen Hawking says that atheism is inconsistent with the scienti
 * **[00:05:00](https://www.youtube.com/watch?v=iCcA-kuASDQ&t=300)** Top physicist Stephen Hawking says that while science does have limitations, it is still a powerful tool that can help us understand the universe and our place in it. He also says that it is important to be honest about science's limitations so that people can trust us.
 * **[00:10:00](https://www.youtube.com/watch?v=iCcA-kuASDQ&t=600)** Top physicist says that science can't ever obtain a true theory of everything because it can't always tell us everything that there is to know about the universe. This humility is important, in contrast to more strident voices who seem to be arrogant and materialist.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/iCcA-kuASDQ?t=1) atheism is inconsistent with the  
 [0:00:04](https://youtu.be/iCcA-kuASDQ?t=4) scientific method a prize-winning  
@@ -309,3 +309,5 @@ Top physicist Stephen Hawking says that atheism is inconsistent with the scienti
 [0:11:53](https://youtu.be/iCcA-kuASDQ?t=713) put a link to  
 [0:11:54](https://youtu.be/iCcA-kuASDQ?t=714) the article in the description below  
 [0:11:57](https://youtu.be/iCcA-kuASDQ?t=717) until next time  
+
+</details>

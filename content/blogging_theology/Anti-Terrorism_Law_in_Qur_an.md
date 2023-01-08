@@ -23,7 +23,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 **[00:00:00](https://www.youtube.com/watch?v=pBWaX7juDGI&t=0)** The ruling called Hiraba in Arabic applies to crimes committed by armed individuals or groups against civilians, whether they be Muslim or non-Muslim. The Quran says that the penalty for those who wage war against Allah and his messenger and spread mischief in the land is death, crucifixion, cutting off their hands and feet on opposite sides, or exile from the land. This penalty is a disgrace for them in this world and they will suffer a tremendous punishment in the hereafter. Those who repent before you seize them will know that Allah is all-forgiving, most merciful.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/pBWaX7juDGI?t=0) The following ruling called Hiraba in Arabic 
 applies to crimes committed by armed individuals    
@@ -37,3 +37,5 @@ opposite sides, or exile from the land, this penalty  
 suffer a tremendous punishment in the hereafter, as    
 [0:00:42](https://youtu.be/pBWaX7juDGI?t=42) for those who repent before you seize them then 
 know that Allah is all-forgiving, most merciful.  
+
+</details>

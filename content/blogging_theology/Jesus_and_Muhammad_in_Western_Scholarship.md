@@ -39,7 +39,7 @@ This video discusses differences in historical views of Jesus between Muslims an
 * **[01:25:00](https://www.youtube.com/watch?v=gC7r8WifrbM&t=5100)** The video discusses how some scholars believe that Muhammad equivalents to the Hebrew word "aho" which means "one." The video also compares the Shema and Nicean Creed statements about God. The Nicean Creed declares that there is only one God who has not begun nor was begotten. The Shema, on the other hand, declares that Israel is one with God.
 * **[01:30:00](https://www.youtube.com/watch?v=gC7r8WifrbM&t=5400)** discusses how Jesus and Muhammad are treated in Western scholarship, noting that while both prophets have their supporters and detractors, their beliefs are categorical and absolute. recommends further study of these topics to provide a deeper understanding of religious truth.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/gC7r8WifrbM?t=0) good afternoon everyone and welcome to  
 [0:00:02](https://youtu.be/gC7r8WifrbM?t=2) blogging theology  
@@ -2536,3 +2536,5 @@ This video discusses differences in historical views of Jesus between Muslims an
 [1:34:35](https://youtu.be/gC7r8WifrbM?t=5675) thank you very much until you're more  
 [1:34:37](https://youtu.be/gC7r8WifrbM?t=5677) focused  
 [1:34:38](https://youtu.be/gC7r8WifrbM?t=5678) thank you absolutely see you bye  
+
+</details>

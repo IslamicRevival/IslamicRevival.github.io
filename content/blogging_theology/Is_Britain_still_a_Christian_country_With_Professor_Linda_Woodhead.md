@@ -41,7 +41,7 @@ Professor Linda Woodhead discusses the state of Christianity in Britain, noting 
 
 **[01:00:00](https://www.youtube.com/watch?v=-FoNkisQYkU&t=3600)** Professor Linda Woodhead discusses the state of Christianity in Britain, noting that while there have been declines in the number of people identifying as Christians, the situation is not as dire as some might think. She discusses the importance of understanding religion in the modern world, and encourages viewers to listen to her book or watch her YouTube video for more information.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:04](https://youtu.be/-FoNkisQYkU?t=4) hello everyone and welcome to blogging  
 [0:00:07](https://youtu.be/-FoNkisQYkU?t=7) theology today I'm delighted to talk to  
@@ -1673,3 +1673,5 @@ Professor Linda Woodhead discusses the state of Christianity in Britain, noting 
 [1:01:04](https://youtu.be/-FoNkisQYkU?t=3664) thank you very much indeed Linda  
 [1:01:06](https://youtu.be/-FoNkisQYkU?t=3666) my pleasure  
 [1:01:08](https://youtu.be/-FoNkisQYkU?t=3668) take care  
+
+</details>

@@ -20,7 +20,7 @@ The Jews of Paul's day rejected his claim that Jesus was the promised messiah be
 **[00:00:00](https://www.youtube.com/watch?v=6_NfquS4Enk&t=0)** The author discusses why the Jews of Paul's day rejected his claim that Jesus was the promised messiah. They did so because they did not expect the messiah to suffer and be raised from the dead.
 * **[00:05:00](https://www.youtube.com/watch?v=6_NfquS4Enk&t=300)** The author discusses how the jews of Paul's day rejected his claim that Jesus was the promised messiah because they knew their scriptures did not mention this belief. He also mentions how there are other understandings of the messiah which are not objectionable in terms of the jewish scriptures.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/6_NfquS4Enk?t=1) why did the jews of paul's day in the first 
 century reject the christian claims about    
@@ -177,3 +177,5 @@ a subject for another video . but i just wanted to  
 understandably rejected the christian claims    
 [0:08:45](https://youtu.be/6_NfquS4Enk?t=525) about jesus being prophesied and promised in 
 the torah because he simply isn't . till next time  
+
+</details>

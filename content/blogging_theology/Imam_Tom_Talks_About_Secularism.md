@@ -44,7 +44,7 @@ Imam Tom discusses secularism and its advantages and disadvantages. He argues th
 * **[01:20:00](https://www.youtube.com/watch?v=Sjsnmp-PqI0&t=4800)** The Imam discusses secularism, arguing that while moral autonomy is a important concept, the reality of the secular order is that it upholds religious violence. He finishes the talk by discussing how other types of violence are justified and considered necessary.
 * **[01:25:00](https://www.youtube.com/watch?v=Sjsnmp-PqI0&t=5100)** Imam Tom discusses secularism and its relationship to Christianity and Islam. He argues that secular democracies have committed atrocities in the name of freedom and that many of them are proud of these actions. He recommends reading Professor Talau Assad's book "Formations of the Secular: Christianity, Islam, and Modernity" and Plato's "Republic."
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/Sjsnmp-PqI0?t=2) hello everyone and welcome to blogging  
 [0:00:05](https://youtu.be/Sjsnmp-PqI0?t=5) theology today i am delighted to talk  
@@ -2576,3 +2576,5 @@ Imam Tom discusses secularism and its advantages and disadvantages. He argues th
 [1:28:29](https://youtu.be/Sjsnmp-PqI0?t=5309) thank you very much uh iman tom again  
 [1:28:32](https://youtu.be/Sjsnmp-PqI0?t=5312) thank you pleasures online until next  
 [1:28:34](https://youtu.be/Sjsnmp-PqI0?t=5314) time inshallah  
+
+</details>

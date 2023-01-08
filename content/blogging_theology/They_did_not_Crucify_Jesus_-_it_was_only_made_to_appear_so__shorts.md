@@ -21,7 +21,7 @@ challenges the idea that Jesus was crucified, arguing that it was only made to a
 
 **[00:00:00](https://www.youtube.com/watch?v=EbRprrC6InY&t=0)** The video speaker challenges the idea that Jesus was crucified, arguing that it was only made to appear so. He provides evidence that Jesus was instead raised up to Allah and all wise.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/EbRprrC6InY?t=0) here i am at speaker's corner  
 [0:00:03](https://youtu.be/EbRprrC6InY?t=3) they were condemned for breaking their  
@@ -45,3 +45,5 @@ challenges the idea that Jesus was crucified, arguing that it was only made to a
 [0:00:49](https://youtu.be/EbRprrC6InY?t=49) rather allah raised him up to himself  
 [0:00:52](https://youtu.be/EbRprrC6InY?t=52) and allah is almighty  
 [0:00:55](https://youtu.be/EbRprrC6InY?t=55) all wise  
+
+</details>

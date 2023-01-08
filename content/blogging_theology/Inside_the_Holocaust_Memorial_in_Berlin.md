@@ -21,7 +21,7 @@ The Holocaust Memorial in Berlin is a large, maze-like structure designed to rep
 
 **[00:00:00](https://www.youtube.com/watch?v=O2ffWfKKNjk&t=0)** The Holocaust Memorial in Berlin is a large, maze-like structure designed to represent the indiscriminate killing of Jews and others during the Holocaust. It is a very disturbing memorial, and visitors can easily get lost in it.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/O2ffWfKKNjk?t=0) here i am in berlin and this remarkable  
 [0:00:04](https://youtu.be/O2ffWfKKNjk?t=4) maze  
@@ -55,3 +55,5 @@ The Holocaust Memorial in Berlin is a large, maze-like structure designed to rep
 [0:01:03](https://youtu.be/O2ffWfKKNjk?t=63) um  
 [0:01:05](https://youtu.be/O2ffWfKKNjk?t=65) there you are enough said about that i  
 [0:01:07](https://youtu.be/O2ffWfKKNjk?t=67) think um okay  
+
+</details>

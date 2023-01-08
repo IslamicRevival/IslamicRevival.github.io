@@ -21,7 +21,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 **[00:00:00](https://www.youtube.com/watch?v=_qa43_5VIvk&t=0)** This Hadith from Bukhari teaches that a person who is content with their material possessions and fine clothes is a slave to their desires, and is unhappy and confused when they don't have them. Those who are determined to follow God's path are happier and more content with their conditions, no matter what they are assigned to do.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/_qa43_5VIvk?t=0) about Herrera said that the messenger of  
 [0:00:03](https://youtu.be/_qa43_5VIvk?t=3) God upon whom be peace said how wretched  
@@ -40,3 +40,5 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 [0:00:46](https://youtu.be/_qa43_5VIvk?t=46) guard Duty he is on guard he does not  
 [0:00:49](https://youtu.be/_qa43_5VIvk?t=49) shook his responsibilities  
 [0:00:53](https://youtu.be/_qa43_5VIvk?t=53) Hadith from bukhari  
+
+</details>

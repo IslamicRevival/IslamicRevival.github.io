@@ -21,7 +21,7 @@ urges believers to avoid usury, be quick in seeking forgiveness from their Lord,
 
 **[00:00:00](https://www.youtube.com/watch?v=BKokpNwdZXI&t=0)** urges believers to avoid usury and to be quick in seeking forgiveness from their Lord. The race to do good is an important part of being blessed by Allah, and those who spend freely, whether prospering or in adversity, are praised. Those who restrain their anger and pardon everyone are also favored.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/BKokpNwdZXI?t=0) oh you who believe devour not usury  
 [0:00:03](https://youtu.be/BKokpNwdZXI?t=3) doubled and multiplied but fear allah  
@@ -37,3 +37,5 @@ urges believers to avoid usury, be quick in seeking forgiveness from their Lord,
 [0:00:34](https://youtu.be/BKokpNwdZXI?t=34) in prosperity or in adversity who  
 [0:00:37](https://youtu.be/BKokpNwdZXI?t=37) restrain anger and pardon all men  
 [0:00:41](https://youtu.be/BKokpNwdZXI?t=41) for allah loves those who do good  
+
+</details>

@@ -134,3 +134,4 @@ Sajda was used as an example, you can essentially pick other acts and the same r
 The objective of this article is in no way to encourage people to start doing sajda to others. Sajda is haram in our Sharia based on hadith, but the subject of this article is not whether it is haram (like theft, alcohol etc). The objective was to discuss whether it is shirk. Sajda is definitely shirk when divinity has been associated with a being other than Allah and when sajda or any other act is performed towards that being, then it is 100% shirk.
 
 Otherwise Sajda to other than Allah is sin, haram and at best a high level of stupidity in our sharia.
+

@@ -24,7 +24,7 @@ Paul Williams has announced that blogging theology content is now available as p
 
 **[00:00:00](https://www.youtube.com/watch?v=fNgzPfNtmO0&t=0)** Paul Williams announced that blogging theology content is now available as podcasts featuring interviews with some of the world's greatest scholars from the universities of Oxford, Cambridge, Princeton and Yale. So far, 26 episodes have been uploaded and published hundreds more will be uploaded in the near future.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/fNgzPfNtmO0?t=0) i'm thrilled to announce that the very  
 [0:00:02](https://youtu.be/fNgzPfNtmO0?t=2) best of blogging theology content is now  
@@ -46,3 +46,5 @@ Paul Williams has announced that blogging theology content is now available as p
 [0:00:46](https://youtu.be/fNgzPfNtmO0?t=46) and radio public  
 [0:00:48](https://youtu.be/fNgzPfNtmO0?t=48) further platforms will be added soon  
 [0:00:51](https://youtu.be/fNgzPfNtmO0?t=51) stay tuned till next time  
+
+</details>

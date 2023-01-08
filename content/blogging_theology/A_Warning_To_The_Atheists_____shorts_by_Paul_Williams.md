@@ -17,7 +17,7 @@ A Warning To The Atheists |  #shorts by Paul Williams
 
 **[00:00:00](https://www.youtube.com/watch?v=c0TGBQlcFmA&t=0)** Paul Williams warns atheists that they may end up in hellfire if they do not believe in God. He also encourages believers to live good lives and be rewarded by God.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/c0TGBQlcFmA?t=0) a warning to atheists  
 [0:00:03](https://youtu.be/c0TGBQlcFmA?t=3) god says in the quran  
@@ -34,3 +34,5 @@ A Warning To The Atheists |  #shorts by Paul Williams
 [0:00:32](https://youtu.be/c0TGBQlcFmA?t=32) streams will flow at their feet in the  
 [0:00:35](https://youtu.be/c0TGBQlcFmA?t=35) gardens of bliss  
 [0:00:38](https://youtu.be/c0TGBQlcFmA?t=38) chrome 10 7-9  
+
+</details>

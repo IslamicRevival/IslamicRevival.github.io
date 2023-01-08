@@ -19,7 +19,7 @@ I read from 'King and Messiah as Son of God: Divine, Human, and Angelic Messiani
 * **[00:05:00](https://www.youtube.com/watch?v=EyFB37JK-m0&t=300)** The authors of this book explore how the development of worship of Jesus as a god in the first century may have been influenced by the practices of the imperial Roman cults. Thomas' acclamation in John 20:28 is one example of this.
 * **[00:10:00](https://www.youtube.com/watch?v=EyFB37JK-m0&t=600)** The two Yale professors describe how Jesus became a god, concluding that this was a response to the imperial cults.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/EyFB37JK-m0?t=1) i've always found it interesting to 
 consider historically how jesus became a god .  
@@ -227,3 +227,5 @@ surprising that jesus was viewed as a god  
 the worship of the roman emperor . so that's their    
 [0:11:30](https://youtu.be/EyFB37JK-m0?t=690) insight . i think that's quite an astute comment 
 and yeah what do you think . till next time  
+
+</details>

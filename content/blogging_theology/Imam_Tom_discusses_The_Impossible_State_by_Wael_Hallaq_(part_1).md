@@ -32,7 +32,7 @@ Imam Tom discusses the book, "The Impossible State: Islam, Politics and Modernit
 * **[00:50:00](https://www.youtube.com/watch?v=Bm2UyQMK3Ig&t=3000)** Imam Tom discusses the Impossible State by Wael Hallaq. He argues that modernity and progress have not been successful in overcoming pre-modernity and that there are specific problems with the state and modernity that are rooted in their own epistemes.
 * **[00:55:00](https://www.youtube.com/watch?v=Bm2UyQMK3Ig&t=3300)** Imam Tom discusses the book "The Impossible State" by Wael Hallaq. He explains that the book is about the relationship between modernity and the state, and how secularism is a key part of modernity. He also recommends Imam Tom's YouTube channel, Utica Masjid, which discusses Islamic topics in an accessible way.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:03](https://youtu.be/Bm2UyQMK3Ig?t=3) hello everyone and welcome to blogging  
 [0:00:05](https://youtu.be/Bm2UyQMK3Ig?t=5) theology today I am delighted to talk  
@@ -1615,3 +1615,5 @@ Imam Tom discusses the book, "The Impossible State: Islam, Politics and Modernit
 [0:58:39](https://youtu.be/Bm2UyQMK3Ig?t=3519) um thank you Tom for your time thank you  
 [0:58:43](https://youtu.be/Bm2UyQMK3Ig?t=3523) okay I look forward to our next to our  
 [0:58:45](https://youtu.be/Bm2UyQMK3Ig?t=3525) next session inshallah  
+
+</details>

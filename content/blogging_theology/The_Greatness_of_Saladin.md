@@ -17,7 +17,7 @@ Said to his son al-Malik al-Zahir, on his return from a journey. Source: Abdul H
 
 **[00:00:00](https://www.youtube.com/watch?v=-I8uL3vG1hI&t=0)** Saladin writes to his son about the importance of doing the will of God and avoiding bloodshed. He emphasizes the importance of gaining the hearts of one's subjects and stresses the importance of being prudent in one's dealings with others. Saladin concludes his letter by advising his son to be prudent in his dealings with others and to always remember that death spares none.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/-I8uL3vG1hI?t=1) saladin was a great man  
 [0:00:04](https://youtu.be/-I8uL3vG1hI?t=4) here is why he wrote the following to  
@@ -51,3 +51,5 @@ Said to his son al-Malik al-Zahir, on his return from a journey. Source: Abdul H
 [0:01:13](https://youtu.be/-I8uL3vG1hI?t=73) he will pardon the penitent for he is  
 [0:01:16](https://youtu.be/-I8uL3vG1hI?t=76) gracious  
 [0:01:18](https://youtu.be/-I8uL3vG1hI?t=78) sign so  
+
+</details>

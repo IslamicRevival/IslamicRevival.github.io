@@ -23,7 +23,7 @@ The video discusses how the Bible was changed over time, specifically referring 
 * **[00:05:00](https://www.youtube.com/watch?v=F_46_1i4CQ0&t=300)** The video discusses how the Bible was changed to make it more palatable to people in the Hellenistic world. It highlights examples of how the Greek translation alters the words of the original Bible. Peter argues that this is done in order to make God seem more like a rational being and in control of the process. He also points out that this is the Bible that is quoted in the New Testament, not the original Hebrew. Christians today may have more in common with Jews living in a Greek world than the Israelites of the time of David and Solomon.
 * **[00:10:00](https://www.youtube.com/watch?v=F_46_1i4CQ0&t=600)** of the video discusses how the Bible was changed over time, specifically referring to how the new Testament writers quoted from a translation which had altered the text of the Hebrew Bible. He also discusses how the English translation of the Bible is a translation of multiple translations of the Hebrew Bible.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/F_46_1i4CQ0?t=2) now in this video i want to share with  
 [0:00:04](https://youtu.be/F_46_1i4CQ0?t=4) you some insights into the christian  
@@ -389,3 +389,5 @@ The video discusses how the Bible was changed over time, specifically referring 
 [0:14:35](https://youtu.be/F_46_1i4CQ0?t=875) getting to know about if you want to  
 [0:14:37](https://youtu.be/F_46_1i4CQ0?t=877) understand how the bible actually works  
 [0:14:40](https://youtu.be/F_46_1i4CQ0?t=880) until next time  
+
+</details>

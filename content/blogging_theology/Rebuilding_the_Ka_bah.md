@@ -22,7 +22,7 @@ The video is a set of notes about the rebuilding of the Ka'aba in Mecca. The pro
 **[00:00:00](https://www.youtube.com/watch?v=Maihu1XOM6U&t=0)** The Ka'aba was rebuilt by Quresh in Mecca around the time Ali was taken into the household. The walls were just above the height of a man and there was no roof, which made it easy for thieves to access the building. The first man to lift a stone from the top of one of the walls was a Maximide Abu Wab, the brother of Fatima Muhammad's grandmother. However, the stone leapt from his hand and returned to its place, so they decided to leave the foundation untouched. Inside the corner of the black stone they found a piece of writing in Syriac. They kept it not knowing what it was, until one of the Jews read it to them. It said, "I am God, the Lord of Becker, who created her on the day I created the heavens and the earth. The day I formed the sun and the moon. I placed around her seven inviolable angels. She shall stand so long as her two hills stand." The project continued and they were eventually able to raise the rest of the wall to the ground. However, when they were about to destroy the foundation, a quaking shudder ran through Mecca, so they decided to leave it untouched. The project was completed and the walls were rebuilt exactly
 * **[00:05:00](https://www.youtube.com/watch?v=Maihu1XOM6U&t=300)** Muhammad is reported to have ordered his followers to rebuild the Kaaba, which had fallen into disrepair. The clans fought for the honor of lifting the black stone back into its corner and completing the project.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:04](https://youtu.be/Maihu1XOM6U?t=4) in the last episode we read of the  
 [0:00:06](https://youtu.be/Maihu1XOM6U?t=6) introduction of zaid and ali into the  
@@ -203,3 +203,5 @@ The video is a set of notes about the rebuilding of the Ka'aba in Mecca. The pro
 [0:08:04](https://youtu.be/Maihu1XOM6U?t=484) that was chapter 14  
 [0:08:06](https://youtu.be/Maihu1XOM6U?t=486) the rebuilding of the kaaba until next  
 [0:08:09](https://youtu.be/Maihu1XOM6U?t=489) time  
+
+</details>

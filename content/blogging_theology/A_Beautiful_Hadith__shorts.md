@@ -19,7 +19,7 @@ The video is a retelling of a hadith, or story, about the Prophet Muhammad's lov
 
 **[00:00:00](https://www.youtube.com/watch?v=uI0F_KThuIo&t=0)** This hadith tells the story of a Bedouin named Zahir who came to the Prophet for provisions on a regular basis. Zahir was very ugly, but the Prophet loved him and used to say, "Zahir is our wilderness and we are present with him." One day, the Prophet came across Zahir selling goods and put his arms around him from behind. Zahir cried out, "Let me go! Who is this?" The Prophet called out, "Who will buy this slave?" Zahir responded, "Messenger of God, you will find me to be worthless goods, but in God's sight you are not worthless goods!" This hadith is beautiful because it shows the Prophet's love for all of humanity.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/uI0F_KThuIo?t=1) This is such a beautiful hadith! It was 
 related by Anas that a Bedouin named Zahir    
@@ -37,3 +37,6 @@ playfully called out, "Who will buy this slave?"  
 will find me to be worthless goods I swear by God."    
 [0:00:49](https://youtu.be/uI0F_KThuIo?t=49) The Prophet said to him, "But in God's sight you 
 are not worthless goods!" Isn't that beautiful?  
+
+
+</details>

@@ -29,7 +29,7 @@ Dr Dale Martin is a distinguished American New Testament scholar who taught at Y
 * **[00:50:00](https://www.youtube.com/watch?v=-pA5c8MkYSQ&t=3000)** This archaeologist found a skeleton of Jesus in a tomb in Jerusalem and was able to date it and prove it was authentic. He then called the Vatican and told them, and the Pope was very surprised. He then asked the greatest theologians of the modern world what to do about it, and they gave him different answers. Finally he called Bultmann, the great liberal German theologian, and told him about it. Bultmann said, "Oh so he actually lived." Boltman of course is famous for not caring about the actress of Jesus, but he was a Christian. After his death in 1780s, Bulkman and Tom Wright and others discovered that there was a theological implication to the forgeries.
 * **[00:55:00](https://www.youtube.com/watch?v=-pA5c8MkYSQ&t=3300)** Professor Dale Martin discusses the existence of forgeries in the Bible, and how different levels of reality can lead to different truths. He thanks the audience for their time, and offers his thanks to Dale Martin.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/-pA5c8MkYSQ?t=0) well hello everyone and welcome uh to  
 [0:00:03](https://youtu.be/-pA5c8MkYSQ?t=3) blogging theology and once again i am  
@@ -1657,3 +1657,5 @@ Dr Dale Martin is a distinguished American New Testament scholar who taught at Y
 [0:56:14](https://youtu.be/-pA5c8MkYSQ?t=3374) thank you very much dale and  
 [0:56:16](https://youtu.be/-pA5c8MkYSQ?t=3376) for your time and until next time thank  
 [0:56:18](https://youtu.be/-pA5c8MkYSQ?t=3378) you okay thanks  
+
+</details>

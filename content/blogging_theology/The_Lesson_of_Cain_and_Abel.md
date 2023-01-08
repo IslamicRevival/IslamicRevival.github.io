@@ -21,7 +21,7 @@ The video discusses the story of Cain and Abel and how it can be interpreted as 
 
 **[00:00:00](https://www.youtube.com/watch?v=VHcvJ_APmV4&t=0)** The lesson of Cain and Abel is that human life is valuable. Whoever takes a life, unless it is for a punishment like murder or mischief, is as if they killed all of humanity. Whoever saves a life is as if they saved all of humanity. However, even after the messengers came to them with clear proofs, many people still did not listen.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/VHcvJ_APmV4?t=0) in the quran we read the story of cain  
 [0:00:03](https://youtu.be/VHcvJ_APmV4?t=3) and abel and then we read about the  
@@ -40,3 +40,5 @@ The video discusses the story of Cain and Abel and how it can be interpreted as 
 [0:00:40](https://youtu.be/VHcvJ_APmV4?t=40) them with clear proofs many of them  
 [0:00:43](https://youtu.be/VHcvJ_APmV4?t=43) still transgressed afterwards through  
 [0:00:46](https://youtu.be/VHcvJ_APmV4?t=46) the land  
+
+</details>

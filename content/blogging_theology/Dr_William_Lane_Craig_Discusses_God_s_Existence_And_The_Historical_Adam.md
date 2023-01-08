@@ -32,7 +32,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 * **[00:40:00](https://www.youtube.com/watch?v=RCBG4Bx9HEI&t=2400)** Dr. William Lane Craig discusses the existence of a historical Adam and Eve, and how this is consistent with what we know from modern paleoanthropology and evolutionary theory. If someone wishes to posit that the original members of Homo heidelbergensis were created miraculously by God, Craig is open to this idea. He also has plans to write a systematic philosophical theology, which he anticipates will take about 10 years to complete. Craig is a Christian and a dualist, and he finds great pleasure in this project.
 * **[00:45:00](https://www.youtube.com/watch?v=RCBG4Bx9HEI&t=2700)** Dr. William Lane Craig discusses the history and arguments surrounding the existence of God. He encourages viewers to look at the evidence for and against God with an open mind and heart.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:05](https://youtu.be/RCBG4Bx9HEI?t=5) well hello everyone and welcome to  
 [0:00:07](https://youtu.be/RCBG4Bx9HEI?t=7) blogging theology today i am delighted  
@@ -1264,3 +1264,5 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 [0:47:08](https://youtu.be/RCBG4Bx9HEI?t=2828) well thank you paul and the lord bless  
 [0:47:10](https://youtu.be/RCBG4Bx9HEI?t=2830) you  
 [0:47:11](https://youtu.be/RCBG4Bx9HEI?t=2831) on youtube until next time  
+
+</details>

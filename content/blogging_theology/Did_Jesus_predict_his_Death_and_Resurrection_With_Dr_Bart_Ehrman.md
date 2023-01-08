@@ -23,7 +23,7 @@ Dr. Bart Ehrman discusses the predictions made by Jesus about his death and resu
 
 **[00:00:00](https://www.youtube.com/watch?v=AVeUVbr1RqA&t=0)** In his video, Dr. Bart Ehrman discusses the specific predictions made by Jesus about his death and resurrection, and how scholars are skeptical of these predictions because they do not make sense when viewed in light of everything that is known about Jesus' life and teachings.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/AVeUVbr1RqA?t=2) My next question was about the the many 
 predictions we read in the particularly    
@@ -115,3 +115,5 @@ understanding what was the whole point of them  
 [0:04:03](https://youtu.be/AVeUVbr1RqA?t=243) telling them in the first place are they going 
 to have the understanding taken away from them  
 [0:04:09](https://youtu.be/AVeUVbr1RqA?t=249) never quite understood that but  
+
+</details>

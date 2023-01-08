@@ -18,7 +18,7 @@ This video features several Hadith that discuss aspects of life that are benefic
 
 **[00:00:00](https://www.youtube.com/watch?v=JtC8efMkq8g&t=0)** The video features several Hadith that discuss aspects of life that are beneficial or praiseworthy.Among the Hadith discussed are those of Muhammad peace be upon him, which talk about seven people who will be shaded by Allah's Shade on the day when there will be no shade except his, the just ruler, the young man who grows up worshipping his lord, a man whose heart is attached to the mosque, two men who love one another for the sake of Allah, and a man who is called by a woman of rank and beauty but who remembers Allah when he's alone.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/JtC8efMkq8g?t=0) muhammad peace be upon him said  
 [0:00:03](https://youtu.be/JtC8efMkq8g?t=3) there are seven whom allah will shade  
@@ -42,3 +42,5 @@ This video features several Hadith that discuss aspects of life that are benefic
 [0:00:42](https://youtu.be/JtC8efMkq8g?t=42) gives and a man who remembers allah  
 [0:00:45](https://youtu.be/JtC8efMkq8g?t=45) when he is alone and his eyes fill up  
 [0:00:49](https://youtu.be/JtC8efMkq8g?t=49) hadith from sahih al-bukhari  
+
+</details>

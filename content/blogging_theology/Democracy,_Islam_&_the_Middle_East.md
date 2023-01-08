@@ -17,7 +17,7 @@ Prince Ghazi bin Muhammad of Jordan argues that democracy is broken in the West,
 
 **[00:00:00](https://www.youtube.com/watch?v=gMSH8tlXhs0&t=0)** Prince Ghazi bin Muhammad of Jordan argues that democracy is broken in the West, citing examples such as freedom of speech being used to insult God and other religious figures, abortion and the mass legal culling of unborn human children, promiscuity being ubiquitous, an economy based on making a fantasy out of sex, and an industry based on sexual marketing for every product imaginable. Prince Ghazi also points out that freedom to vote for those parties the West likes means the freedom to vote for those who will then take away the vote forever, and that majority rule leads to tyranny of the lowest common denominator. Prince Ghazi proposes distinguishing between "Western-export democracy" and true democracy, and proposing a solution that would address the issues he has outlined.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/gMSH8tlXhs0?t=1) Blogging Theology is coming to you now from the 
 South of France where I'll be for a while and    
@@ -99,3 +99,5 @@ also a great deal in common. And then he concludes:  
 them later to propose distinctions and a solution    
 [0:04:45](https://youtu.be/gMSH8tlXhs0?t=285) but it suffices to say that Western-export 
 democracy is truly broken'. Until next time.  
+
+</details>

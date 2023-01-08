@@ -21,7 +21,7 @@ A man comes to a prophet asking to be punished for breaking the law, but the pro
 
 **[00:00:00](https://www.youtube.com/watch?v=vneiRO-QpuM&t=0)** This video tells the story of a man who comes to a prophet asking for punishment for breaking the law. The prophet forgives him, and he is ultimately rewarded for his repentance.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/vneiRO-QpuM?t=1) Ernest told of a man who came and said  
 [0:00:03](https://youtu.be/vneiRO-QpuM?t=3) messenger of God I have broken the law  
@@ -40,3 +40,5 @@ A man comes to a prophet asking to be punished for breaking the law, but the pro
 [0:00:39](https://youtu.be/vneiRO-QpuM?t=39) said well God has forgiven you your  
 [0:00:43](https://youtu.be/vneiRO-QpuM?t=43) offense  
 [0:00:44](https://youtu.be/vneiRO-QpuM?t=44) Hadith in bukhari and Muslim  
+
+</details>

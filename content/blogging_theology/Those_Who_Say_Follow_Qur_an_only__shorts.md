@@ -24,7 +24,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 **[00:00:00](https://www.youtube.com/watch?v=AtIeUGDtjdQ&t=0)**  a group of Muslims discuss why following the Qur'an is important. One of the main points they make is that following the Qur'an is a way of showing love for God, and that God is forgiving and merciful. They also point out that following the Qur'an is important even if people reject faith, as Allah loves those who obey him.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/AtIeUGDtjdQ?t=0) to those who say follow the quran only  
 [0:00:04](https://youtu.be/AtIeUGDtjdQ?t=4) god says in the quran  
@@ -38,3 +38,5 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 [0:00:24](https://youtu.be/AtIeUGDtjdQ?t=24) but if they turn back  
 [0:00:26](https://youtu.be/AtIeUGDtjdQ?t=26) allah loveth not those who reject faith  
 [0:00:31](https://youtu.be/AtIeUGDtjdQ?t=31) surah 3 verses 31 to 32.  
+
+</details>

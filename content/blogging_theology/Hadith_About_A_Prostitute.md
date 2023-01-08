@@ -21,7 +21,7 @@ This hadith from Muhammad tells the story of a prostitute who helps a thirsty do
 
 **[00:00:00](https://www.youtube.com/watch?v=H6R4KYsPVT4&t=0)** This hadith tells the story of a prostitute who helps a thirsty dog, and is forgiven for her sins. The messenger of God, Muhammad, says that this act of kindness earns the prostitute a reward.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/H6R4KYsPVT4?t=0) Abu Herrera reported that the messenger  
 [0:00:03](https://youtu.be/H6R4KYsPVT4?t=3) of God upon whom be peace said  
@@ -37,3 +37,5 @@ This hadith from Muhammad tells the story of a prostitute who helps a thirsty do
 [0:00:37](https://youtu.be/H6R4KYsPVT4?t=37) a reward is given in connection with  
 [0:00:40](https://youtu.be/H6R4KYsPVT4?t=40) every living creature  
 [0:00:43](https://youtu.be/H6R4KYsPVT4?t=43) Hadith from bukhari  
+
+</details>

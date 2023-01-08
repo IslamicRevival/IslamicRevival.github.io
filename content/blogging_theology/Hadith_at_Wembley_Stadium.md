@@ -21,7 +21,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 **[00:00:00](https://www.youtube.com/watch?v=xG2EbXyuQQQ&t=0)** This video presents a Hadith in which Hadith narrator Aisha (may God be pleased with her) says that she competed with a messenger of God in running and overtook him later. She also says that she once again competed with him, but this time he overtook her and said they are even now.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/xG2EbXyuQQQ?t=0) welcome to Wembley Stadium in London The  
 [0:00:04](https://youtu.be/xG2EbXyuQQQ?t=4) Profit upon whom BP said the strong  
@@ -40,3 +40,5 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 [0:00:39](https://youtu.be/xG2EbXyuQQQ?t=39) put on some weight I once again competed  
 [0:00:42](https://youtu.be/xG2EbXyuQQQ?t=42) with him but this time he overtook me  
 [0:00:44](https://youtu.be/xG2EbXyuQQQ?t=44) and said we are even now  
+
+</details>

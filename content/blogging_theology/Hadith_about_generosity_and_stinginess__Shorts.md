@@ -17,7 +17,7 @@ This Hadith from the Prophet Muhammad suggests that those who are generous are c
 
 **[00:00:00](https://www.youtube.com/watch?v=2_xdd8odI-k&t=0)** This Hadith suggests that being generous is a sign of closeness to God, while being stingy is a sign of farawayness from God. Being generous is also seen as being more pious than being stingy.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/2_xdd8odI-k?t=1) abu herrera reported that the messenger  
 [0:00:03](https://youtu.be/2_xdd8odI-k?t=3) of god  
@@ -30,3 +30,5 @@ This Hadith from the Prophet Muhammad suggests that those who are generous are c
 [0:00:24](https://youtu.be/2_xdd8odI-k?t=24) ignorant man is more beloved to allah  
 [0:00:27](https://youtu.be/2_xdd8odI-k?t=27) than a stingy scholar hadith from  
 [0:00:30](https://youtu.be/2_xdd8odI-k?t=30) termidi  
+
+</details>

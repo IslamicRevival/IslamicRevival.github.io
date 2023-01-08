@@ -19,7 +19,7 @@ If You See An Evil Action: hadith from Muslim
 
 **[00:00:00](https://www.youtube.com/watch?v=coNRG83gUyY&t=0)** The Hadith quoted above urges Muslims to take action when they see evil happening, even if they can't do everything themselves.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/coNRG83gUyY?t=1)   Mohammad (Upon Whom Be Peace) Said,  
 [0:00:03](https://youtu.be/coNRG83gUyY?t=3) "Whoever Among You
@@ -32,3 +32,5 @@ Sees an Evil Action
 [0:00:18](https://youtu.be/coNRG83gUyY?t=18) (by Hating it and feeling it is Wrong)  
 [0:00:21](https://youtu.be/coNRG83gUyY?t=21) And That, is the Weakest of Faith."  
 [0:00:24](https://youtu.be/coNRG83gUyY?t=24) - Hadith From Muslim  
+
+</details>

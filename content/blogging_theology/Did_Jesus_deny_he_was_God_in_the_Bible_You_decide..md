@@ -23,7 +23,7 @@ In the passage found in Mark 10:17-19, a man comes to Jesus and asks what he nee
 
 **[00:00:00](https://www.youtube.com/watch?v=Ch0T5K1O5y4&t=0)** In the passage found in Mark 10:17-19, a man comes to Jesus and asks what he needs to do to inherit eternal life. Jesus replies that only God is good, and the man is not good enough on his own. In Matthew, the man comes up to Jesus and asks what good thing he needs to do. Jesus then says the same thing, but applies it to himself. This change makes nonsense of what Jesus replies, as it would mean that Jesus is not good, but is the divine being himself.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/Ch0T5K1O5y4?t=2) dr um dale martin who i've had the  
 [0:00:03](https://youtu.be/Ch0T5K1O5y4?t=3) privilege of speaking to him on several  
@@ -128,3 +128,5 @@ In the passage found in Mark 10:17-19, a man comes to Jesus and asks what he nee
 [0:03:22](https://youtu.be/Ch0T5K1O5y4?t=202) and so uh so he changes it uh luke keeps  
 [0:03:26](https://youtu.be/Ch0T5K1O5y4?t=206) it uh but you know matthew had a problem  
 [0:03:28](https://youtu.be/Ch0T5K1O5y4?t=208) with  
+
+</details>

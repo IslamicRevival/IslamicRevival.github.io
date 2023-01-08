@@ -74,7 +74,7 @@ https://twitter.com/freemonotheist
 * **[01:25:00](https://www.youtube.com/watch?v=rmRH80lj9UM&t=5100)** The presenter, Professor Shoaib Ahmed Malik, discusses Islam and evolution with a careful and nuanced approach. He discusses how Islamic theology and scientific understanding of nature can work together, and addresses some potential dangers of an indiscriminate acceptance of evolutionary theory. He ends the talk by giving out his email address and encouraging viewers to check out his book on the topic.
 * **[01:30:00](https://www.youtube.com/watch?v=rmRH80lj9UM&t=5400)** Professor Shoaib Ahmed Malik discusses the relationship between Islam and evolution, pointing out that Muslims may have evolved from earlier religious beliefs.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/rmRH80lj9UM?t=2) hello everyone and welcome to blogging  
 [0:00:05](https://youtu.be/rmRH80lj9UM?t=5) theology and today i have a very  
@@ -2622,3 +2622,5 @@ https://twitter.com/freemonotheist
 [1:30:08](https://youtu.be/rmRH80lj9UM?t=5408) time thank you very much for inviting me  
 [1:30:09](https://youtu.be/rmRH80lj9UM?t=5409) paul i appreciate it and hope we can  
 [1:30:11](https://youtu.be/rmRH80lj9UM?t=5411) talk again indeed until next time bye  
+
+</details>

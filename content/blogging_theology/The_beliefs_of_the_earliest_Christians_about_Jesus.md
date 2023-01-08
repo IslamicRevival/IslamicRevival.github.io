@@ -19,7 +19,7 @@ The earliest Christians believed that Jesus was a great prophet of God and a mes
 **[00:00:00](https://www.youtube.com/watch?v=K51AcZBWS68&t=0)** The Ebionites were a Jewish Christian sect that believed in Jesus as a prophet but did not believe in the virgin birth. This sect was eventually rejected by mainstream Christianity.
 * **[00:05:00](https://www.youtube.com/watch?v=K51AcZBWS68&t=300)** The beliefs of the earliest Christians about Jesus were that he was a great prophet of God and a messiah, and that he was born of the virgin Mary without involvement of Joseph.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/K51AcZBWS68?t=0) i just wanted to make a brief video in response 
 to some claims by prominent christian apologists    
@@ -147,3 +147,5 @@ wanted to uh just touch on this point because it's  
 this whole thing of the virgin birth and um it's    
 [0:06:32](https://youtu.be/K51AcZBWS68?t=392) a distortion of the facts and i just want to get 
 that on record for what it's worth till next time  
+
+</details>

@@ -22,7 +22,7 @@ The video discusses the differences between the Qur'an and the Bible, with a foc
 * **[00:20:00](https://www.youtube.com/watch?v=KR9MuOkZnK0&t=1200)** The Qur'an differs from the Bible in its affirmation of Jesus being the only begotten son of God, and its refusal to consider Jesus as being of the same substance as the Father.
 * **[00:25:00](https://www.youtube.com/watch?v=KR9MuOkZnK0&t=1500)** points out that the Qur'an differs from the Bible in some ways, such as asserting that there is only one true God and that he is not forgotten. He also says that dialogue between different religions is important, but that it is important to remember the Qur'an's true claims. He encourages viewers to watch the rest of the video to see more examples of this.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/KR9MuOkZnK0?t=2) okay well perhaps we can move on to the  
 [0:00:04](https://youtu.be/KR9MuOkZnK0?t=4) last uh segment of uh our discussion  
@@ -796,3 +796,5 @@ The video discusses the differences between the Qur'an and the Bible, with a foc
 [0:28:52](https://youtu.be/KR9MuOkZnK0?t=1732) viewers so thank you very much until  
 [0:28:54](https://youtu.be/KR9MuOkZnK0?t=1734) you're more thankful  
 [0:28:55](https://youtu.be/KR9MuOkZnK0?t=1735) thank you absolutely see you bye  
+
+</details>

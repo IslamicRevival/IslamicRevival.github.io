@@ -30,7 +30,7 @@ This video is a reminder for Muslims to be honest with Allah and to remember His
 
 **[00:00:00](https://www.youtube.com/watch?v=lrScKt0PxKc&t=0)** This video reminds Muslims to be honest with Allah, as He knows everything that is going on in their hearts. The video also stresses the importance of remembering Allah and His kindness to those who serve Him.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/lrScKt0PxKc?t=0) say  
 [0:00:01](https://youtu.be/lrScKt0PxKc?t=1) whether ye hide what is in your hearts  
@@ -47,3 +47,5 @@ This video is a reminder for Muslims to be honest with Allah and to remember His
 [0:00:34](https://youtu.be/lrScKt0PxKc?t=34) and allah is full of kindness to those  
 [0:00:38](https://youtu.be/lrScKt0PxKc?t=38) that serve him  
 [0:00:40](https://youtu.be/lrScKt0PxKc?t=40) surah 3 verses 29 to 30.  
+
+</details>

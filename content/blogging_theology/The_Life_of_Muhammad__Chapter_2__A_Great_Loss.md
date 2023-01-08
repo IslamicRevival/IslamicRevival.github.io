@@ -30,7 +30,7 @@ The video tells the story of the rise of idol worship in Mecca and the eventual 
 
 **[00:00:00](https://www.youtube.com/watch?v=neIA3U6x7vg&t=0)** This reading from Muhammad's life tells of the growth of idol worship in Mecca and the eventual destruction of the well of Zamzam, which was a sacred site to the Abrahamic religions.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:05](https://youtu.be/neIA3U6x7vg?t=5) a reading from muhammad his life based  
 [0:00:08](https://youtu.be/neIA3U6x7vg?t=8) on the earliest sources by martin lings  
@@ -139,3 +139,5 @@ The video tells the story of the rise of idol worship in Mecca and the eventual 
 [0:04:47](https://youtu.be/neIA3U6x7vg?t=287) and that is this chapter two a great  
 [0:04:50](https://youtu.be/neIA3U6x7vg?t=290) loss  
 [0:04:51](https://youtu.be/neIA3U6x7vg?t=291) till next time  
+
+</details>

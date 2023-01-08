@@ -50,7 +50,7 @@ The YouTube video "Does the Qur'an Deny the Crucifixion of Jesus?" by Dr. Louay 
 * **[01:40:00](https://www.youtube.com/watch?v=99AOlNniUXw&t=6000)** The video discusses the claim that the Qur'an denies the crucifixion of Jesus. Dr. Louay Fatoohi argues that the language used in the Qur'an does not allow for the denial of this historical event. Claims that the Qur'an is ambiguous about the crucifixion are not supported by the text itself. The video finishes by asking whether the Qur'an is supposed to be intelligible or not, and if not, why.
 * **[01:45:00](https://www.youtube.com/watch?v=99AOlNniUXw&t=6300)** The presenter discusses alternative views of the Qur'an's view of the crucifixion of Jesus. He notes that his book, which is still in development, will address the subject in greater detail. The presenter also discusses his paper on the crucifixion, which is currently being considered for submission to an academic journal.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/99AOlNniUXw?t=2) well hello everyone and welcome to  
 [0:00:04](https://youtu.be/99AOlNniUXw?t=4) blogging theology today i am delighted  
@@ -2832,3 +2832,5 @@ The YouTube video "Does the Qur'an Deny the Crucifixion of Jesus?" by Dr. Louay 
 [1:47:00](https://youtu.be/99AOlNniUXw?t=6420) thank you until next time  
 [1:47:02](https://youtu.be/99AOlNniUXw?t=6422) thank you paul thank you very much thank  
 [1:47:04](https://youtu.be/99AOlNniUXw?t=6424) you  
+
+</details>

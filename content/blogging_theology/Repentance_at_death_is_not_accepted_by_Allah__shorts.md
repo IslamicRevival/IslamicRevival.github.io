@@ -21,7 +21,7 @@ explains that repentance at death is not accepted by Allah. He states that repen
 
 **[00:00:00](https://www.youtube.com/watch?v=Ry0Wmjr9O60&t=0)** explains that repentance at death is not accepted by Allah, as it is only accepted when done in ignorance. Those who repent soon after committing evil will be mercyned by Allah, while those who continue to commit evil will suffer a punishment most grievous.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/Ry0Wmjr9O60?t=0) allah accepts the repentance of those  
 [0:00:03](https://youtu.be/Ry0Wmjr9O60?t=3) who do evil in ignorance and repent soon  
@@ -36,3 +36,5 @@ explains that repentance at death is not accepted by Allah. He states that repen
 [0:00:28](https://youtu.be/Ry0Wmjr9O60?t=28) nor of those who die rejecting faith  
 [0:00:32](https://youtu.be/Ry0Wmjr9O60?t=32) for them we have prepared a punishment  
 [0:00:35](https://youtu.be/Ry0Wmjr9O60?t=35) most grievous  
+
+</details>

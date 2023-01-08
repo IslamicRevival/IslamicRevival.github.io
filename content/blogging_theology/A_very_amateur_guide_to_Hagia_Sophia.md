@@ -19,7 +19,7 @@ Hagia Sophia is a mosque in Istanbul that was once a cathedral. The building is 
 * **[00:05:00](https://www.youtube.com/watch?v=Hf-l1I5Wta4&t=300)** The video shows a walkthrough of Westminster Abbey in London, which was copied and adapted for use as the coronation spot for emperors and sultans in the Ottoman Empire. Christian iconography still remains in the mosque, which is open to the public 24 hours a day.
 * **[00:10:00](https://www.youtube.com/watch?v=Hf-l1I5Wta4&t=600)** This video provides an amateur guide to Hagia Sophia, a cathedral in Istanbul. The guide discusses the importance of respectful dress in places of worship and provides information about the guards and layout of the cathedral.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/Hf-l1I5Wta4?t=1) i thought i'd just give a very brief uh  
 [0:00:03](https://youtu.be/Hf-l1I5Wta4?t=3) guided tour of this masjid  
@@ -361,3 +361,5 @@ Hagia Sophia is a mosque in Istanbul that was once a cathedral. The building is 
 [0:12:48](https://youtu.be/Hf-l1I5Wta4?t=768) tomorrow morning i fly back to london  
 [0:12:53](https://youtu.be/Hf-l1I5Wta4?t=773) and so there we are  
 [0:12:57](https://youtu.be/Hf-l1I5Wta4?t=777) until next time  
+
+</details>

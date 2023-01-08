@@ -25,7 +25,7 @@ The video discusses the Qatar World Cup controversy, Western criticism of Islam,
 * **[00:05:00](https://www.youtube.com/watch?v=BGBKp6fNb18&t=300)** The video discusses the Sharia, specifically the Hadideh punishment of "warding off the Hadoop by ambiguities." It points out that this punishment is virtually impossible to apply in Islamic law, and that there is a great disrespect for Islam in the Western media. It also mentions how the West for example, when it hosts the World Cup, is not taken to task for its foreign policy.
 * **[00:10:00](https://www.youtube.com/watch?v=BGBKp6fNb18&t=600)** The Qatar World Cup has sparked controversy due to Western criticism of Islam, with some alleging that the Gulf country is not upholding the same high moral standards as other Western countries. While it is unclear who would enforce such rules, the video suggests that there is an asymmetry of power between the West and Muslim countries. Meanwhile, Islamophobia is discussed as an example of this irrational fear.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:03](https://youtu.be/BGBKp6fNb18?t=3) I notice from media reports that there's a growing 
 chorus of voices in the west criticizing Qatar    
@@ -252,3 +252,5 @@ um actually teaches uh in detail and certainly  
 world and the fastest growing religion in the    
 [0:12:59](https://youtu.be/BGBKp6fNb18?t=779) world as well the religion of Islam anyway that's 
 my rant take it I'll leave it till next time  
+
+</details>

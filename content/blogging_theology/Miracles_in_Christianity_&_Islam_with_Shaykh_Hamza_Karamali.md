@@ -55,7 +55,7 @@ Shaykh Hamza Karamali discusses the similarities and differences between Christi
 * **[00:35:00](https://www.youtube.com/watch?v=s5V5huEfy4A&t=2100)** Shaykh Hamza Karamali discusses the similarities and differences between Christianity and Islam when it comes to miraculous events. He points out that miracles are not just limited to Christianity, but are also common in the life of Prophet Muhammad.
 * **[00:40:00](https://www.youtube.com/watch?v=s5V5huEfy4A&t=2400)** Shaykh Hamza Karamali discusses miracles in Christianity and Islam, highlighting the importance of understanding the Islamic perspective. He suggests that westerners may benefit from hearing about the thoughts of historical figures such as David Hume, who rejected the miraculous.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:04](https://youtu.be/s5V5huEfy4A?t=4) hello everyone and welcome to blogging  
 [0:00:06](https://youtu.be/s5V5huEfy4A?t=6) theology today i'm delighted to talk  
@@ -1203,3 +1203,5 @@ Shaykh Hamza Karamali discusses the similarities and differences between Christi
 [0:42:59](https://youtu.be/s5V5huEfy4A?t=2579) expertise and um i'm sure viewers will  
 [0:43:02](https://youtu.be/s5V5huEfy4A?t=2582) benefit as much as i did from your  
 [0:43:04](https://youtu.be/s5V5huEfy4A?t=2584) presentation so until next time  
+
+</details>

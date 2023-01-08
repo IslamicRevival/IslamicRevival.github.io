@@ -21,7 +21,7 @@ Hamza A. Tzortzis commends Blogging Theology for its "mature, intellectual, and 
 
 **[00:00:00](https://www.youtube.com/watch?v=xv32S5e-AUI&t=0)** Hamza A. Tzortzis commends Blogging Theology for its "mature, intellectual, and spiritually vibrant" content. He also praises its guests, including himself, for their contributions.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/xv32S5e-AUI?t=1) by the way i forgot to mention paul and  
 [0:00:03](https://youtu.be/xv32S5e-AUI?t=3) i'm not saying this just to you know you  
@@ -68,3 +68,5 @@ Hamza A. Tzortzis commends Blogging Theology for its "mature, intellectual, and 
 [0:01:29](https://youtu.be/xv32S5e-AUI?t=89) worrying actually  
 [0:01:31](https://youtu.be/xv32S5e-AUI?t=91) so i thought okay i'll park that to one  
 [0:01:33](https://youtu.be/xv32S5e-AUI?t=93) side and just move on  
+
+</details>

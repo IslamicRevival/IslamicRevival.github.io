@@ -21,7 +21,7 @@ the speaker explains that a verse in the Quran says that Jews and Christians hav
 
 **[00:00:00](https://www.youtube.com/watch?v=t479eVpUGOU&t=0)** In this verse, God says that the Jews and Christians have no excuse for their lack of faith. He points out that a messenger has come to them, and that this messenger is bringing good news and warning. Allah is the best of all planners, and He can do anything.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/t479eVpUGOU?t=0) In this short verse God says to the people of the 
 book the Jews and the Christians that they have    
@@ -33,3 +33,5 @@ between the messengers so you do not say  
 news or a warner now there has come to you    
 [0:00:29](https://youtu.be/t479eVpUGOU?t=29) a deliver of good news and a warner 
 and Allah is most capable of everything  
+
+</details>

@@ -20,7 +20,7 @@ The video discusses how various gentile Christian movements rejected the idea of
 * **[00:05:00](https://www.youtube.com/watch?v=qxUiBgt5eG0&t=300)** The video discusses the theological position of Islam, Judaism, and Christianity on the concept of a trinity. It points out that all three faiths reject the doctrine of the trinity, which is a central Christian belief. Early Christians were also concerned about the heresies that arose within the Gentile Christian world, and developed a more modest view of Christ. This more modest view became formalized with the development of the doctrine of the Trinity in the 2nd and 3rd centuries AD. There were two major stages in this evolution, with Christ first being defined as divine and then being formally defined as a triune godhead involving God the Father, Son, and Holy Spirit. This doctrine was first schematized or schematized by the Church Father, Tertullian, at the beginning of the 3rd century AD, but it was not without challenge within the Gentile Christian world. Heresies such as Arianism emerged, challenging the Trinity doctrine.
 * **[00:10:00](https://www.youtube.com/watch?v=qxUiBgt5eG0&t=600)** The video discusses how various gentile Christian movements rejected the idea of the Trinity, and how this led to accusations of Judaizing. The Trinity was fully established only half a century later at the Council of Constantinople, and even today the Aryan tendency never fully died out.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/qxUiBgt5eG0?t=1) does the quran get the christian  
 [0:00:03](https://youtu.be/qxUiBgt5eG0?t=3) doctrine of the trinity  
@@ -400,3 +400,5 @@ The video discusses how various gentile Christian movements rejected the idea of
 [0:14:04](https://youtu.be/qxUiBgt5eG0?t=844) jesus and vis-a-vis the bible and  
 [0:14:07](https://youtu.be/qxUiBgt5eG0?t=847) christianity  
 [0:14:08](https://youtu.be/qxUiBgt5eG0?t=848) until next time  
+
+</details>

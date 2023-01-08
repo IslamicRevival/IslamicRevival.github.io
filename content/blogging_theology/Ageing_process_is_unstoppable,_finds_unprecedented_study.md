@@ -18,7 +18,7 @@ A new study has found that the aging process is indeed unstoppable, with mortali
 
 **[00:00:00](https://www.youtube.com/watch?v=GhwWGm7qzRc&t=0)** This article reports on an unprecedented study that confirms that the aging process is unstoppable. The study found that mortality rates at younger ages have declined, but that as people get older, the risk of death increases. Professor Alberto from Oxford's Center for Demographic Science said that this suggests that biological rather than environmental factors control lifespan.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/GhwWGm7qzRc?t=1) The aging process is unstoppable finds an 
 unprecedented study reported in today's Guardian.    
@@ -88,3 +88,5 @@ a drop of fluid and then made you into two sexes  
 knowledge no person grows old or has his life    
 [0:03:59](https://youtu.be/GhwWGm7qzRc?t=239) cut short except in accordance with a record 
 all this is easy for god until next time  
+
+</details>

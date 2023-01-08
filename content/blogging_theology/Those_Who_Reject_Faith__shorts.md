@@ -30,7 +30,7 @@ https://twitter.com/freemonotheist
 
 **[00:00:00](https://www.youtube.com/watch?v=c6_PVUhW3zQ&t=0)* Discusses the fact that those who reject faith will face the same punishments as those who do believe. Allah has sealed their hearts and ears, and has placed a veil over their eyes, in order to punish them severely.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/c6_PVUhW3zQ?t=0) as to those who reject faith it is the  
 [0:00:04](https://youtu.be/c6_PVUhW3zQ?t=4) same to them whether thou warn them or  
@@ -40,3 +40,5 @@ https://twitter.com/freemonotheist
 [0:00:16](https://youtu.be/c6_PVUhW3zQ?t=16) and on their eyes is a veil  
 [0:00:19](https://youtu.be/c6_PVUhW3zQ?t=19) great is the penalty they incur  
 [0:00:24](https://youtu.be/c6_PVUhW3zQ?t=24) surah 2 verse 6 onwards  
+
+</details>

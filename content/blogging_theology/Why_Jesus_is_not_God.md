@@ -21,7 +21,7 @@ argues that Jesus is not God, based on the differences between Jesus and Allah, 
 
 **[00:00:00](https://www.youtube.com/watch?v=8WtWjyqoDFA&t=0)** argues that there are major differences between Jesus and Allah, and that Allah is far more powerful and capable than Jesus. He also points out that Jesus is not considered to be God by the Jews and Christians, and that Allah is the only true god.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/8WtWjyqoDFA?t=0) indeed those who say allah is the  
 [0:00:02](https://youtu.be/8WtWjyqoDFA?t=2) messiah son of mary have fallen into  
@@ -44,3 +44,6 @@ argues that Jesus is not God, based on the differences between Jesus and Allah, 
 [0:00:49](https://youtu.be/8WtWjyqoDFA?t=49) the kingdom of the heavens and the earth  
 [0:00:51](https://youtu.be/8WtWjyqoDFA?t=51) and everything in between and to him is  
 [0:00:55](https://youtu.be/8WtWjyqoDFA?t=55) the final return  
+
+
+</details></details>

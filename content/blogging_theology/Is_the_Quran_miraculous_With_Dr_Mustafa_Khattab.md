@@ -32,7 +32,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 * **[00:40:00](https://www.youtube.com/watch?v=UB4gOfl0ets&t=2400)** Dr. Mustafa Khattab discusses the scientific references in the Quran, which include references to the Earth being in a circle, the sun being a source of light, footnotes and historical background to make it difficult for islamophobes to take things out of context, and a translation for kids ages 7-up.
 * **[00:45:00](https://www.youtube.com/watch?v=UB4gOfl0ets&t=2700)** This YouTube video, hosted by Dr. Mustafa Khattab, discusses the Quran's origins and poetic properties. Khattab points out that the Quran is composed of 2000 roots, making it easy to understand for non-Arabic speakers. He also provides a website where people can access the Quran in Arabic.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/UB4gOfl0ets?t=2) hello everyone and welcome to blogging  
 [0:00:05](https://youtu.be/UB4gOfl0ets?t=5) theology today i am delighted to talk to  
@@ -1263,3 +1263,5 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 [0:46:15](https://youtu.be/UB4gOfl0ets?t=2775) very much indeed thank you thanks for  
 [0:46:17](https://youtu.be/UB4gOfl0ets?t=2777) having me thank you until next time  
 [0:46:19](https://youtu.be/UB4gOfl0ets?t=2779) thank you  
+
+</details>

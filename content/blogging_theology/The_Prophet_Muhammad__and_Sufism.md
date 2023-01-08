@@ -23,7 +23,7 @@ This video discusses the Islamic mystical tradition of Sufism. It explains how S
 * **[00:05:00](https://www.youtube.com/watch?v=yHQfbRii2pI&t=300)** Sufism is the Islamic tradition of mystical contemplation and practice. Ibn Arabi, one of the most famous sufi thinkers, believes that Muhammad, the perfect human, is the encapsulation of the divine. According to this theory, when someone experiences a mystical encounter with Muhammad in a dream, it is as if they have seen him in a waking state. This concept is widespread among Muslims and is often used to justify dream encounters with religious prophets.
 * **[00:10:00](https://www.youtube.com/watch?v=yHQfbRii2pI&t=600)** This video discusses the Islamic prohibition on tobacco, and how some scholars believe that one can see the Prophet Muhammad in waking hours. It also discusses the muslim celebration of Muhammad's birthday.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/yHQfbRii2pI?t=0) in this video i want to look at muhammad  
 [0:00:03](https://youtu.be/yHQfbRii2pI?t=3) upon hinbi peace and the mystical quest  
@@ -281,3 +281,5 @@ This video discusses the Islamic mystical tradition of Sufism. It explains how S
 [0:11:41](https://youtu.be/yHQfbRii2pI?t=701) understanding of islam and the prophet  
 [0:11:44](https://youtu.be/yHQfbRii2pI?t=704) of islam muhammad upon whom be peace  
 [0:11:48](https://youtu.be/yHQfbRii2pI?t=708) until next time  
+
+</details>

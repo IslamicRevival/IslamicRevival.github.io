@@ -19,7 +19,7 @@ The video discusses how women have been lied to for years, and how this has led 
 * **[00:05:00](https://www.youtube.com/watch?v=2nENnMKESOA&t=300)** The author, a woman named sue ellen browder, worked as a longtime freelance writer for Cosmopolitan magazine. She wrote articles meant to market contraception and abortion as the single woman's path to personal fulfillment, but realized later that propagandists higher and cleverer than herself were influencing her thinking and her personal choices. She came out openly, came out and said that the writers at Cosmopolitan magazine, including herself, lied to women, and sold them a complete and total lie. The aim of the writers was to entice women away from their families, homes, productive lives, and protective male kin and into the big cities, into their own apartments, and with the freedom to engage in promiscuous behavior with strange men. Women didn't respond to this implicit messaging and cultural brainwashing at first, but gradually they moved out, got their own place, got highly educated, and started having casual sex in lieu of marriage. If they somehow got pregnant, they got abortions. Women were now independent earners in the capitalist machine and earners could be converted into consumers. Women read Cosmopolitan magazine and learned to live and think this way. Every girl wanted to be a Cosmo girl, but sue ellen browder, the writer who wrote those Cosmo articles
 * **[00:10:00](https://www.youtube.com/watch?v=2nENnMKESOA&t=600)** The video discusses how women have been lied to, and how this has led to various negative consequences in society. It points to examples of how muslim women have followed in the footsteps of non-muslim women by engaging in practices such as sleeping around and getting abortions. It suggests that the way to overcome these issues is to start from a place of truth, Islam, and to respect and cherish wifehood and motherhood.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/2nENnMKESOA?t=2) sometimes i come across an article  
 [0:00:04](https://youtu.be/2nENnMKESOA?t=4) online that is so powerful that i just  
@@ -348,3 +348,5 @@ The video discusses how women have been lied to for years, and how this has led 
 [0:14:40](https://youtu.be/2nENnMKESOA?t=880) think it has much to tell us about our  
 [0:14:43](https://youtu.be/2nENnMKESOA?t=883) situation in the west at the moment till  
 [0:14:45](https://youtu.be/2nENnMKESOA?t=885) next time  
+
+</details>

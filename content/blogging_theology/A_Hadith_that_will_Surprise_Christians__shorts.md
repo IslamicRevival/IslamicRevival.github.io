@@ -17,7 +17,7 @@ This video features a Hadith that will surprise Christians. The Prophet Muhammad
 
 **[00:00:00](https://www.youtube.com/watch?v=SFIJTi6I7Fo&t=0)** This short video features a Hadith that will surprise Christians. The Prophet Muhammad said that if someone bears witness that there is no deity save God alone who has no partner, then God will cause them to enter paradise no matter what they have done.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/SFIJTi6I7Fo?t=0) the prophet muhammed upon whom be peace  
 [0:00:03](https://youtu.be/SFIJTi6I7Fo?t=3) said  
@@ -32,3 +32,5 @@ This video features a Hadith that will surprise Christians. The Prophet Muhammad
 [0:00:28](https://youtu.be/SFIJTi6I7Fo?t=28) god will cause him to enter paradise no  
 [0:00:31](https://youtu.be/SFIJTi6I7Fo?t=31) matter what he has done  
 [0:00:34](https://youtu.be/SFIJTi6I7Fo?t=34) hadith from bukhari and muslim  
+
+</details>

@@ -24,7 +24,7 @@ The video discusses the reliability of the traditional Muslim narrative that the
 * **[00:05:00](https://www.youtube.com/watch?v=WKlSJa-ZnJQ&t=300)** This video by an expert in Quranic studies discusses new findings that support the traditional account of the origins of the Quran, which was fixed early on and has not been successfully challenged by radical skeptical scholars.
 * **[00:10:00](https://www.youtube.com/watch?v=WKlSJa-ZnJQ&t=600)** The author discusses the two different views on the Qur'an: that it is reliable or not. She provides an overview of the book, discussing its value against a scholarly text.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/WKlSJa-ZnJQ?t=1) Has the Quran been reliably transmitted ? The answer 
 to that question will depend on whom you ask.  
@@ -227,3 +227,5 @@ text but it provides you with some real
 rather than the perhaps the propaganda that    
 [0:11:07](https://youtu.be/WKlSJa-ZnJQ?t=667) you'll come across from Christian websites 
 and missionaries . Until next time  
+
+</details>

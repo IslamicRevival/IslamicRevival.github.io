@@ -43,7 +43,7 @@ This video discusses the differences between the teachings of Jesus and Paul, an
 * **[01:10:00](https://www.youtube.com/watch?v=wLLtdScZnzs&t=4200)** The Jewish Bible, Gospels, and Early Church up to Constantine with Paul Williams discusses the differences between the gospel accounts of Matthew, Mark, and Luke and how historical evidence suggests that they are not eyewitness accounts. Christianity has a fundamental contradiction between the teachings of Jesus and the law, which is addressed by Paul in his letters.
 * **[01:15:00](https://www.youtube.com/watch?v=wLLtdScZnzs&t=4500)** The video introduces the idea that there is a "reaction against the threat of biblical scholarship" in the form of fundamentalist Christianity. It goes on to recommend a reading list for those interested in learning more about this topic.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:04](https://youtu.be/wLLtdScZnzs?t=4) okay salaam alaikum everyone i think we'll make a 
 start um just a reminder that the last time we met    
@@ -1602,3 +1602,5 @@ um but thank you very much for your uh time  
 surface there's so much more one could say    
 [1:17:55](https://youtu.be/wLLtdScZnzs?t=4675) but there's a reading list to 
 follow it up thank you very much  
+
+</details>

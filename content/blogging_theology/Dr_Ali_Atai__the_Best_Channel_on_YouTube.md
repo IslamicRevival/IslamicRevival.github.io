@@ -21,7 +21,7 @@ This video is about Dr. Ali Atai, who is considered to be the best YouTube chann
 
 **[00:00:00](https://www.youtube.com/watch?v=lxFgK2z64pQ&t=0)** This video is about Dr. Ali Atai, who is considered to be the best YouTube channel out there. Dr. Atai provides helpful videos on a variety of topics, and his subscribers seem to really appreciate him.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/lxFgK2z64pQ?t=0) thank you paul thank you very much um  
 [0:00:02](https://youtu.be/lxFgK2z64pQ?t=2) may allah reward you and also to the  
@@ -30,3 +30,5 @@ This video is about Dr. Ali Atai, who is considered to be the best YouTube chann
 [0:00:10](https://youtu.be/lxFgK2z64pQ?t=10) mean that and may allah bless all of you  
 [0:00:13](https://youtu.be/lxFgK2z64pQ?t=13) thank you so much  
 [0:00:14](https://youtu.be/lxFgK2z64pQ?t=14) thank you very much until next time  
+
+</details>

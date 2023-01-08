@@ -19,7 +19,7 @@ The video discusses the ways in which Western civilization has denied human righ
 * **[00:05:00](https://www.youtube.com/watch?v=pPpg14D7GbM&t=300)** The video discusses violence in society and the causes thereof, pointing to the ways in which Western civilization has denied human rights to various groups, including the mentally ill, the sub-normal, and the Jews. It also discusses the origins of totalitarianism, referencing figures such as Adolf Hitler, Stalin, and Milosevic, who were all brought to power by exploiting the public's fear and hatred of those considered "other." Finally, the video discusses the West's hypocrisy in professing to care about human rights, given the atrocities these same people have committed in the past.
 * **[00:10:00](https://www.youtube.com/watch?v=pPpg14D7GbM&t=600)** Islam regards western civilization as the last stage in human degeneracy, and the West is now ready for the appearance of the Antichrist. The Antichrist will be able to move across the face of the earth as swiftly as rain clouds, and he will be able to ride on the mount on a mount so great that the distance between his ears is 40 cubits. His voice will carry so far that it will be heard by the people of the east and those of the west.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/pPpg14D7GbM?t=1) I was discussing with a friend of mine 
 earlier today he happens to be a doctor here    
@@ -237,3 +237,5 @@ less widespread and is still recognized as  
 extraordinary chapter i do actually recommend    
 [0:13:15](https://youtu.be/pPpg14D7GbM?t=795) this book by a leading consultant 
 psychiatrist um until next time  
+
+</details>

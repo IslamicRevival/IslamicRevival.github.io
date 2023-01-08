@@ -38,7 +38,7 @@ The video discusses the belief among some Jews that Ezra, the son of God, was a 
 **[00:00:00](https://www.youtube.com/watch?v=N4w9gU5YO40&t=0)** The Qur'an verse 930 criticizes a widespread rabbinic practice of worshiping a secondary emanation of God known as Metatron.
 * **[00:05:00](https://www.youtube.com/watch?v=N4w9gU5YO40&t=300)** The video discusses the belief among some Jews, referred to as "ribbonic judaism," that Ezra, the son of God, was a prophet. The theory is based on some Scriptural passages that suggest this may be the case. However, modern Jews do not believe this to be true, and it is not taught in most orthodox Jewish synagogues.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/N4w9gU5YO40?t=2) hello and in this episode i want to  
 [0:00:04](https://youtu.be/N4w9gU5YO40?t=4) uh look at a verse which is often  
@@ -189,3 +189,5 @@ The video discusses the belief among some Jews that Ezra, the son of God, was a 
 [0:05:33](https://youtu.be/N4w9gU5YO40?t=333) and uh it's it's it's the best  
 [0:05:35](https://youtu.be/N4w9gU5YO40?t=335) hypothesis around i think so  
 [0:05:37](https://youtu.be/N4w9gU5YO40?t=337) there we are maybe see you next time bye  
+
+</details>

@@ -21,7 +21,7 @@ Discusses the idea that we are always being observed, even when we think we're a
 
 **[00:00:00](https://www.youtube.com/watch?v=_z4HtL1jpwk&t=0)** The video discusses the idea that we are always being observed, even when we think we're alone. It points to the fact that we are constantly being watched by angels and God, who is also always observing us.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/_z4HtL1jpwk?t=1) I was just thinking walking through uh  
 [0:00:04](https://youtu.be/_z4HtL1jpwk?t=4) Francis rural France in the middle of  
@@ -55,3 +55,5 @@ Discusses the idea that we are always being observed, even when we think we're a
 [0:01:09](https://youtu.be/_z4HtL1jpwk?t=69) me observing us recording watching so  
 [0:01:13](https://youtu.be/_z4HtL1jpwk?t=73) we're never ever truly alone anywhere in  
 [0:01:17](https://youtu.be/_z4HtL1jpwk?t=77) the universe just a thought  
+
+</details>

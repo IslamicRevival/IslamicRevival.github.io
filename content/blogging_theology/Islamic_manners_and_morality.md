@@ -22,7 +22,7 @@ This video discusses the importance of respecting and caring for elderly people 
 * **[00:05:00](https://www.youtube.com/watch?v=HWzf359ROjw&t=300)** The video discusses the importance of respecting and caring for elderly people in Islamic societies. It points out that this is typically done with patience and hope for reward from God. In the west, however, it is often shameful for families to take care of their elderly members and they are often sent away to special homes. This is contrasted with the way elderly people are treated in Islamic societies, where they are typically cared for by their families with patience and hope for reward from God.
 * **[00:10:00](https://www.youtube.com/watch?v=HWzf359ROjw&t=600)** This video discusses Islamic morals and manners, which are different from Western morals. The elderly are respected in Islam, and family values are based on providing care for them within the home. Elderly care is cut off from any theocentric understanding in the West, which is focused on seeking pleasure and money. Elderly care in the West is often divorced from any sense of rewards in God.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/HWzf359ROjw?t=1) i find the whole subject of islamic  
 [0:00:04](https://youtu.be/HWzf359ROjw?t=4) etiquette manners and morality to be  
@@ -305,3 +305,5 @@ This video discusses the importance of respecting and caring for elderly people 
 [0:11:57](https://youtu.be/HWzf359ROjw?t=717) record other perhaps videos talking  
 [0:12:00](https://youtu.be/HWzf359ROjw?t=720) about other hadiths as well till next  
 [0:12:02](https://youtu.be/HWzf359ROjw?t=722) time  
+
+</details>

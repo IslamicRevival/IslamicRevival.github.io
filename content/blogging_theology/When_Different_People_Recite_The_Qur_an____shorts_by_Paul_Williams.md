@@ -17,7 +17,7 @@ This video features three hadith that discuss the importance of reciting the Qur
 
 **[00:00:00](https://www.youtube.com/watch?v=VPF6bpMOVNg&t=0)** This video features three hadith that discuss the importance of reciting the Qur'an. Abu Musa says that the Messenger of God said that a believer who recites the Qur'an is like a citron whose fragrance is sweet and whose taste is sweet. A believer who does not recite the Qur'an is like a date fruit with no fragrance but a sweet taste. A hypocrite who recites the Qur'an is like basil whose fragrance is sweet but tastes bitter, while a hypocrite who does not recite the Qur'an is like a colo synth with no fragrance and a bitter taste.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/VPF6bpMOVNg?t=0) abu musa said that the messenger of god  
 [0:00:03](https://youtu.be/VPF6bpMOVNg?t=3) upon whom be peace said  
@@ -34,3 +34,5 @@ This video features three hadith that discuss the importance of reciting the Qur
 [0:00:35](https://youtu.be/VPF6bpMOVNg?t=35) quran is like a colo synth with no  
 [0:00:39](https://youtu.be/VPF6bpMOVNg?t=39) fragrance and a bitter taste  
 [0:00:43](https://youtu.be/VPF6bpMOVNg?t=43) hadith from bukhari and muslim  
+
+</details>

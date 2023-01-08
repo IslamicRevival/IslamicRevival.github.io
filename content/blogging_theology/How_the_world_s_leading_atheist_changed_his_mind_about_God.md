@@ -25,7 +25,7 @@ Atheist philosopher Anthony Flew changed his mind about the existence of God aft
 * **[00:05:00](https://www.youtube.com/watch?v=Gc-3QVEkfbM&t=300)** The video's speaker discusses how he changed his mind about god, and cites scientific reasons why he believes in theism. He also discusses the challenges of biogenesis, and quotes a Nobel Prize-winning physiologist who argues that we must believe in the impossible that life arose spontaneously by chance.
 * **[00:10:00](https://www.youtube.com/watch?v=Gc-3QVEkfbM&t=600)** Nobel Prize-winning scientist Richard Dawkins discusses his gradual realization that there must be a Mind or God behind the universe, citing scientific discoveries such as the role of genes and proteins in producing life.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/Gc-3QVEkfbM?t=1) in this video , I want to look at how the world's 
 leading philosopher changed his mind about God .  
@@ -257,3 +257,5 @@ faith given his own cultural background  
 other religion and let's hope , let's pray    
 [0:13:36](https://youtu.be/Gc-3QVEkfbM?t=816) that he found a merciful god who 
 accepted him into paradise . till next time  
+
+</details>

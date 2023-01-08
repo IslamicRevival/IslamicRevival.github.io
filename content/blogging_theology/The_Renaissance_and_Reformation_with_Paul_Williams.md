@@ -40,7 +40,7 @@ Paul Williams discusses the differences between the orthodox churches in the eas
 
 **[01:00:00](https://www.youtube.com/watch?v=gezns0xCCrg&t=3600)** Paul Williams discusses the differences between the orthodox churches in the east and the catholic church, mentioning the pope's elevated status within the Catholic Church. He argues that the divisions between the two faiths will never be healed, and that the Quran speaks of this reality.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:03](https://youtu.be/gezns0xCCrg?t=3) okay folks um perhaps we'll make a start um 
 today i'm just gonna give a very brief uh    
@@ -1272,3 +1272,5 @@ know i don't if you know the ayah in the quran  
 to finish at quarter past there's half an hour's    
 [1:04:15](https://youtu.be/gezns0xCCrg?t=3855) uh break before hamza thoughtsis 
 uh continues so thank you very much  
+
+</details>

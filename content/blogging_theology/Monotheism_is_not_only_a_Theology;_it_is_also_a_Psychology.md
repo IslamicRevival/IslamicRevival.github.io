@@ -18,7 +18,7 @@ In this BBC radio program, Guy Eaton discusses how monotheism is not just a theo
 **[00:00:00](https://www.youtube.com/watch?v=KgFnibU7Auc&t=0)** Guy Eaton discusses the similarities and differences between monotheism and polytheism, pointing out that both have their own psychological aspects. He says that the shahadah, or Islamic declaration of faith, is a simple statement of belief that is central to the religion.
 * **[00:05:00](https://www.youtube.com/watch?v=KgFnibU7Auc&t=300)** This BBC radio program recommends a book about monotheism that is written in English with exquisite beauty. The book discusses how monotheism is not just a theology, but also a psychological phenomenon.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/KgFnibU7Auc?t=0) when a man turns to religion  
 [0:00:03](https://youtu.be/KgFnibU7Auc?t=3) it can turn him into either a creature  
@@ -134,3 +134,5 @@ In this BBC radio program, Guy Eaton discusses how monotheism is not just a theo
 [0:05:06](https://youtu.be/KgFnibU7Auc?t=306) its english is extraordinary exquisite  
 [0:05:09](https://youtu.be/KgFnibU7Auc?t=309) beautiful as you have just heard  
 [0:05:12](https://youtu.be/KgFnibU7Auc?t=312) there we go till next time  
+
+</details>

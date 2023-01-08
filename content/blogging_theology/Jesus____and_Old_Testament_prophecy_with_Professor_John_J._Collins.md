@@ -30,7 +30,7 @@ Professor John J. Collins discusses the idea that Jesus is the fulfillment of Ol
 * **[00:40:00](https://www.youtube.com/watch?v=VEGbGICJwBo&t=2400)** The video discusses the differences between the Old Testament and the New Testament, and Professor John J. Collins introduces his idea that the Hebrew Bible is best explained by the documentary hypothesis. He explains that he is retiring from his teaching duties, but intends to continue writing and publishing.
 * **[00:45:00](https://www.youtube.com/watch?v=VEGbGICJwBo&t=2700)**  Professor John J. Collins discusses how Jesus' prophecies in the New Testament match up with Old Testament predictions.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/VEGbGICJwBo?t=2) well hello everyone and welcome to  
 [0:00:05](https://youtu.be/VEGbGICJwBo?t=5) blogging theology today i am delighted  
@@ -1195,3 +1195,5 @@ Professor John J. Collins discusses the idea that Jesus is the fulfillment of Ol
 [0:45:13](https://youtu.be/VEGbGICJwBo?t=2713) various issues and uh and thank you very  
 [0:45:15](https://youtu.be/VEGbGICJwBo?t=2715) much indeed for your time and thank you  
 [0:45:18](https://youtu.be/VEGbGICJwBo?t=2718) it's been a pleasure  
+
+</details>

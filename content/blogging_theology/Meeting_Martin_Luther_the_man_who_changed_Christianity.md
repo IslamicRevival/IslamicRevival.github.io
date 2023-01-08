@@ -17,7 +17,7 @@ This video profiles Martin Luther, a German reformer who, in 1519, had a debate 
 
 **[00:00:00](https://www.youtube.com/watch?v=5LcwuG8V2xo&t=0)** This video profiles Martin Luther, a German reformer who, in 1519, had a debate with a Catholic Theologian called EK that led to a split with the Catholic Church. Luther's impact on Christianity is immense, and Protestantism (which he started) is still affecting people today.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/5LcwuG8V2xo?t=0) well here we are in leinsig and this is  
 [0:00:03](https://youtu.be/5LcwuG8V2xo?t=3) an amazing portrait of Martin Luther who  
@@ -47,3 +47,5 @@ This video profiles Martin Luther, a German reformer who, in 1519, had a debate 
 [0:01:03](https://youtu.be/5LcwuG8V2xo?t=63) here in Germany in Saxony in Leipzig and  
 [0:01:07](https://youtu.be/5LcwuG8V2xo?t=67) that's an amazing I just wanted to share  
 [0:01:10](https://youtu.be/5LcwuG8V2xo?t=70) that with you today  
+
+</details>

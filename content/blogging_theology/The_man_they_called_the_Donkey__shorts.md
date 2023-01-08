@@ -21,7 +21,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 **[00:00:00](https://www.youtube.com/watch?v=I_o2SAGnlOs&t=0)**  follows a man named Abdullah, who was known as the Donkey. Abdullah was used to make the prophet laugh, but the prophet had to order him whipped several times for drunkenness. One day, Abdullah was brought before the prophet drunk and he ordered him whipped yet again. Someone asked the prophet why he did that, and the prophet replied that Abdullah loved God and His messenger.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:03](https://youtu.be/I_o2SAGnlOs?t=3) related that there was a man named  
 [0:00:05](https://youtu.be/I_o2SAGnlOs?t=5) Abdullah whom they used to call the  
@@ -38,3 +38,5 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 [0:00:36](https://youtu.be/I_o2SAGnlOs?t=36) curse him for by God do you not know  
 [0:00:40](https://youtu.be/I_o2SAGnlOs?t=40) that he loves God and His messenger  
 [0:00:44](https://youtu.be/I_o2SAGnlOs?t=44) Hadith from bukhari  
+
+</details>

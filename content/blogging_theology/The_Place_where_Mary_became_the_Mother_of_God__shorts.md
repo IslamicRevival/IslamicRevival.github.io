@@ -18,7 +18,7 @@ The Council of Ephesus was a meeting of Christian leaders in the 4th century AD,
 
 **[00:00:00](https://www.youtube.com/watch?v=FQmfCM4xswk&t=0)** This video is at the site of the Council of Ephesus, where it was decided that Mary, the mother of Jesus, was also the mother of God Himself. The church now stands in ruins, but this is where the decision was made.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/FQmfCM4xswk?t=0) here i am in ephesus at the site of the  
 [0:00:04](https://youtu.be/FQmfCM4xswk?t=4) council of ephesus  
@@ -33,3 +33,5 @@ The Council of Ephesus was a meeting of Christian leaders in the 4th century AD,
 [0:00:28](https://youtu.be/FQmfCM4xswk?t=28) site where mary was elevated to the  
 [0:00:30](https://youtu.be/FQmfCM4xswk?t=30) status of mother of god theotokos in  
 [0:00:34](https://youtu.be/FQmfCM4xswk?t=34) greek meaning god bearer  
+
+</details>

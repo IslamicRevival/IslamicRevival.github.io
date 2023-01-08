@@ -21,7 +21,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 **[00:00:00](https://www.youtube.com/watch?v=EYs_2mSzpjY&t=0)** urges Christians not to go too far when discussing Allah, stating that Jesus was nothing more than a messenger of Allah. They also advise Christians to believe in Allah and his messengers, and to refrain from believing in the Trinity. Allah is sufficient as a trustee of affairs, and is above having a son.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/EYs_2mSzpjY?t=0) o people of the book do not go to  
 [0:00:03](https://youtu.be/EYs_2mSzpjY?t=3) extremes regarding your faith say  
@@ -38,3 +38,5 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 [0:00:41](https://youtu.be/EYs_2mSzpjY?t=41) heavens and whatever is on the earth  
 [0:00:45](https://youtu.be/EYs_2mSzpjY?t=45) and allah is sufficient as a trustee of  
 [0:00:48](https://youtu.be/EYs_2mSzpjY?t=48) affairs  
+
+</details>

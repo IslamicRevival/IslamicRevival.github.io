@@ -34,7 +34,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 * **[00:50:00](https://www.youtube.com/watch?v=7nm0QJzfHhU&t=3000)** discusses how Islam recognizes and respects differences in beliefs, and how this is a key part of the religion's character. He goes on to say that while Muslims should be respectful of others, it is also important to understand the cardinal sins of human behavior, which according to Islamic scholars are explained in the Quran. encourages people to learn more about Islam and its teachings.
 * **[00:55:00](https://www.youtube.com/watch?v=7nm0QJzfHhU&t=3300)**  Dr. Musharraf Hussain discusses the overlap between science and Islam, and how Muslims can share their knowledge and teachings with the western community. He cites scientific evidence that supports the Quran's descriptions of natural phenomena. He believes that Muslims should be more involved in the western world, and share their knowledge and spirituality to help create a better society.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/7nm0QJzfHhU?t=2) hello everyone and welcome to blogging  
 [0:00:05](https://youtu.be/7nm0QJzfHhU?t=5) theology today I am delighted to talk  
@@ -1379,3 +1379,5 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 [0:59:47](https://youtu.be/7nm0QJzfHhU?t=3587) and hopefully we will one day I'll see  
 [0:59:48](https://youtu.be/7nm0QJzfHhU?t=3588) you again back on blogging theology  
 [0:59:50](https://youtu.be/7nm0QJzfHhU?t=3590) inshallah so thank you until next time  
+
+</details>

@@ -21,7 +21,7 @@ In his video, Dr. Ali Ataie asks for viewers' support in continuing his work blo
 
 **[00:00:00](https://www.youtube.com/watch?v=C7xHWKjK-uI&t=0)** Dr. Ali Ataie urges viewers to subscribe to his channel and consider supporting him through Patreon, as he dedicates a lot of time and effort into blogging theology. He thanks God for the means to do this work and thanks his creator alone.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/C7xHWKjK-uI?t=0) and then also I wanted to conclude by  
 [0:00:01](https://youtu.be/C7xHWKjK-uI?t=1) saying to the viewers to you know  
@@ -53,3 +53,5 @@ In his video, Dr. Ali Ataie asks for viewers' support in continuing his work blo
 [0:00:57](https://youtu.be/C7xHWKjK-uI?t=57) means to to do this work so I'm I'm uh  
 [0:01:00](https://youtu.be/C7xHWKjK-uI?t=60) or or gratitude and thanks belong to him  
 [0:01:03](https://youtu.be/C7xHWKjK-uI?t=63) alone so  
+
+</details>

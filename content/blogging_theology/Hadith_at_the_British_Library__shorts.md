@@ -17,7 +17,7 @@
 
 **[00:00:00](https://www.youtube.com/watch?v=RiD581r_MAQ&t=0)** shows a man standing outside the British Library, one of the largest libraries in the world. The messenger of God, upon whom be peace, said that whoever dies knowing there is no deity but God will enter paradise. Hadith and sahih Muslim provide further information on this hadith.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/RiD581r_MAQ?t=0) here i am outside the british library  
 [0:00:03](https://youtu.be/RiD581r_MAQ?t=3) one of the largest libraries in the  
@@ -28,3 +28,5 @@
 [0:00:13](https://youtu.be/RiD581r_MAQ?t=13) deity but god  
 [0:00:15](https://youtu.be/RiD581r_MAQ?t=15) will enter paradise  
 [0:00:17](https://youtu.be/RiD581r_MAQ?t=17) hadith and sahih muslim  
+
+</details>

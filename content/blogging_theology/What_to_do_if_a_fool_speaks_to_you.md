@@ -21,7 +21,7 @@ If you encounter a fool, the best response is to remain silent. If you must spea
 
 **[00:00:00](https://www.youtube.com/watch?v=LZUkiI10_AU&t=0)** If you encounter a fool, don't answer him, as the best response is silence. This is advice that is echoed by many of the Muslim scholars who preceded Imam al-Shafi. If you do speak to him, be gentle and understanding, as it is harder for the fool to deal with rejection than with a dialogue.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/LZUkiI10_AU?t=0) here's some great advice for people who  
 [0:00:02](https://youtu.be/LZUkiI10_AU?t=2) like debates Imam al-shafi may Allah be  
@@ -37,3 +37,5 @@ If you encounter a fool, the best response is to remain silent. If you must spea
 [0:00:36](https://youtu.be/LZUkiI10_AU?t=36) harder on them than your debate with  
 [0:00:39](https://youtu.be/LZUkiI10_AU?t=39) them such was said by the righteous  
 [0:00:42](https://youtu.be/LZUkiI10_AU?t=42) predecessors among the Muslim Scholars  
+
+</details>

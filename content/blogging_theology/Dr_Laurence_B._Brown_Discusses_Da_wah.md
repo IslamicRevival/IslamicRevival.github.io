@@ -40,7 +40,7 @@ Dr. Laurence Brown discusses the importance of Da'wah in a peaceful and respectf
 **[01:00:00](https://www.youtube.com/watch?v=6zMpe1hui7g&t=3600)** Dr. Brown discusses how to make Da'wah (religion) successful by understanding the person you're talking to, having good manners, and using good intellect. He also mentions the power of a book in the process of making Da'wah.
 * **[01:05:00](https://www.youtube.com/watch?v=6zMpe1hui7g&t=3900)** Dr. Laurence Brown discusses the importance of da'wah in a peaceful and respectful manner. He reminds the viewer that it is not in our hands to determine who will be guided to the truth, but that Allah will guide whomever He wills.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/6zMpe1hui7g?t=2) well hello everyone and welcome to  
 [0:00:04](https://youtu.be/6zMpe1hui7g?t=4) blogging theology and today i am very  
@@ -1896,3 +1896,5 @@ Dr. Laurence Brown discusses the importance of Da'wah in a peaceful and respectf
 [1:07:40](https://youtu.be/6zMpe1hui7g?t=4060) be with you  
 [1:07:41](https://youtu.be/6zMpe1hui7g?t=4061) thank you so much mr williams all of us  
 [1:07:44](https://youtu.be/6zMpe1hui7g?t=4064) thank you  
+
+</details>

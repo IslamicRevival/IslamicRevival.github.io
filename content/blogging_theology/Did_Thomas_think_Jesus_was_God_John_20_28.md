@@ -23,7 +23,7 @@ In the video, the commentator argues that the phrase "my lord, my god" used by A
 
 **[00:00:00](https://www.youtube.com/watch?v=Z6OHOzaRjDw&t=0)** The video discusses the claim that Apostle Thomas recognized Jesus as God. The commentator argues that the phrase "my lord, my god" is an honorific acclamation, used to flatter those who are in a position of power. Thomas likely wrote the chapter in John's Gospel about Jesus being God around the time of Emperor Domitian's reign, which was around the first century AD. While the phrase may have had a different meaning at the time it was written, it is still possible to interpret it in a literal sense.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:03](https://youtu.be/Z6OHOzaRjDw?t=3) i just want to uh in your uh marvelous  
 [0:00:06](https://youtu.be/Z6OHOzaRjDw?t=6) book um king and messiah is son of god i  
@@ -110,3 +110,5 @@ In the video, the commentator argues that the phrase "my lord, my god" used by A
 [0:03:27](https://youtu.be/Z6OHOzaRjDw?t=207) times when strict monotheism was the  
 [0:03:29](https://youtu.be/Z6OHOzaRjDw?t=209) kind of norm everywhere  
 [0:03:31](https://youtu.be/Z6OHOzaRjDw?t=211) that's right  
+
+</details>

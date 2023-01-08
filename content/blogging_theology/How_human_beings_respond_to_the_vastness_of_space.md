@@ -19,7 +19,7 @@ The author discusses how westerners and Muslims perceive the vastness of space d
 
 **[00:00:00](https://www.youtube.com/watch?v=24N6NJc15RM&t=0)** According to the author, westerners typically feel insignificant in the vastness of space, while Muslims readily acknowledge their insignificance before God. Differences in perspective regarding the natural world lead to different perceptions of one's place in the universe. For the westerner, nature is dominated by man, while for the Muslim, the universe is filled with beings created for man's benefit.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/24N6NJc15RM?t=2) hello okay now i just want to say  
 [0:00:04](https://youtu.be/24N6NJc15RM?t=4) uh a few words in another short video um  
@@ -101,3 +101,5 @@ The author discusses how westerners and Muslims perceive the vastness of space d
 [0:03:06](https://youtu.be/24N6NJc15RM?t=186) stature within the immensity of this  
 [0:03:08](https://youtu.be/24N6NJc15RM?t=188) universe  
 [0:03:09](https://youtu.be/24N6NJc15RM?t=189) i think it's just beautifully put  
+
+</details>

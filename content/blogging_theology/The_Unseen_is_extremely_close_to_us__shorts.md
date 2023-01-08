@@ -17,7 +17,7 @@ The video contains a Hadith which states that Paradise is closer to us than the 
 
 **[00:00:00](https://www.youtube.com/watch?v=c_EqjmTB9VE&t=0)** This hadith tells of the messenger of God, upon him peace, saying that paradise is nearer to us than the thong of our sandals and so is hell.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/c_EqjmTB9VE?t=1) in our day-to-day lives there are unseen  
 [0:00:03](https://youtu.be/c_EqjmTB9VE?t=3) realities that are extremely close to us  
@@ -29,3 +29,5 @@ The video contains a Hadith which states that Paradise is closer to us than the 
 [0:00:19](https://youtu.be/c_EqjmTB9VE?t=19) of your sandals  
 [0:00:21](https://youtu.be/c_EqjmTB9VE?t=21) and so is hell  
 [0:00:24](https://youtu.be/c_EqjmTB9VE?t=24) hadith in bukhari and muslim  
+
+</details>

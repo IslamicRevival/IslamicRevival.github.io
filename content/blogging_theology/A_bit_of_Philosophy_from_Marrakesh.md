@@ -23,7 +23,7 @@ Ontologists argue that there is a objective reality that exists independently of
 
 **[00:00:00](https://www.youtube.com/watch?v=952CLhm97ik&t=0)* Discusses the difference between ontologists and epistemologists, and provides a succinct definition of the two terms.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/952CLhm97ik?t=0) I'm reading this amazing book by Dr  
 [0:00:03](https://youtu.be/952CLhm97ik?t=3) Joseph Kaminski entitled Islam  
@@ -42,3 +42,5 @@ Ontologists argue that there is a objective reality that exists independently of
 [0:00:40](https://youtu.be/952CLhm97ik?t=40) known then the epistemologist asks what  
 [0:00:43](https://youtu.be/952CLhm97ik?t=43) are the conditions of acquiring  
 [0:00:45](https://youtu.be/952CLhm97ik?t=45) knowledge of that which exists  
+
+</details>

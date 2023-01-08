@@ -22,7 +22,7 @@ Dr. Bart Ehrman responds to those who believe that Jesus is Yahweh. He argues th
 
 **[00:00:00](https://www.youtube.com/watch?v=J6V8qXHw1fI&t=0)**  Dr. Bart Ehrman responds to those who believe that Jesus is Yahweh. He argues that, while Jesus is exalted to the highest possible level, he is not identified as Yahweh in the sense that God is.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:03](https://youtu.be/J6V8qXHw1fI?t=3) philippians chapter 2 uh about this uh  
 [0:00:06](https://youtu.be/J6V8qXHw1fI?t=6) uh the the jesus becoming uh human and  
@@ -103,3 +103,5 @@ Dr. Bart Ehrman responds to those who believe that Jesus is Yahweh. He argues th
 [0:02:46](https://youtu.be/J6V8qXHw1fI?t=166) you know theologians wouldn't talk about  
 [0:02:47](https://youtu.be/J6V8qXHw1fI?t=167) subordinationism but but there is that  
 [0:02:49](https://youtu.be/J6V8qXHw1fI?t=169) kind of leveling i think  
+
+</details>

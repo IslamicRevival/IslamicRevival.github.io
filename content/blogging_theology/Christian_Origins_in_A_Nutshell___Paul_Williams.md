@@ -20,7 +20,7 @@ This video provides a brief overview of the origins of Christianity, focusing on
 * **[00:10:00](https://www.youtube.com/watch?v=QCl5DL_wf3w&t=600)** According to Paul Williams, the earliest form of Christianity preserves a portrait of Jesus that is similar to the Gospel of Matthew and Gospel of Luke, but is different from the Gospel of John. The authenticity of some of Paul's letters is disputed, but most historians agree that they were written around 60 AD.
 * **[00:15:00](https://www.youtube.com/watch?v=QCl5DL_wf3w&t=900)** According to one of the world's leading experts on early Christianity, the new testament, written in greek, played an essential part in the transformation of the original semitic gospel into a hellenistic religious system.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/QCl5DL_wf3w?t=0) This video aims to give you Christian origins in 
 a nutshell. If you want a brief explanation of    
@@ -356,3 +356,5 @@ the graco roman pago pagan world but giza webber  
 that was not the original religion of jesus it's    
 [0:18:59](https://youtu.be/QCl5DL_wf3w?t=1139) not what he preached to his galilean countrymen 
 i hope you found that of interest until next time  
+
+</details>

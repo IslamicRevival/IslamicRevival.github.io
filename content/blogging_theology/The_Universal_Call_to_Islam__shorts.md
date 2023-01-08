@@ -21,7 +21,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 **[00:00:00](https://www.youtube.com/watch?v=j5eEe4cPxdM&t=0)**  provides conclusive evidence that God exists and that those who believe in him will be rewarded with full mercy and grace. Those who are too proud and arrogant will be subjected to a painful punishment.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/j5eEe4cPxdM?t=0) the messiah would never be too proud to  
 [0:00:03](https://youtu.be/j5eEe4cPxdM?t=3) be a servant of god nor would the angels  
@@ -44,3 +44,5 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 [0:00:47](https://youtu.be/j5eEe4cPxdM?t=47) fast to him he will admit them into his  
 [0:00:50](https://youtu.be/j5eEe4cPxdM?t=50) mercy and grace and guide them to  
 [0:00:53](https://youtu.be/j5eEe4cPxdM?t=53) himself through the straight path  
+
+</details>

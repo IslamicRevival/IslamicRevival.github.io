@@ -45,7 +45,7 @@ Imam Tom discusses his favorite books, which include works by Friedrich Nietzsch
 **[01:00:00](https://www.youtube.com/watch?v=37TWdUVKYFc&t=3600)** The Imam discusses how modernity is different from previous eras, and how muslims need to shift to a new paradigm in order to be successful. He discusses how western society is in a state of flux, and how muslims are the only ones who can offer a solution.
 * **[01:05:00](https://www.youtube.com/watch?v=37TWdUVKYFc&t=3900)** Imam Tom discusses his favorite books, which include works by authors such as Friedrich Nietzsche and Oswald Spengler. He emphasizes the importance of Islam's role in the redemption of the west, and recommends following his mosque and YouTube channel for more information.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/37TWdUVKYFc?t=2) hello everyone and welcome to blogging  
 [0:00:05](https://youtu.be/37TWdUVKYFc?t=5) theology today i am delighted to talk to  
@@ -2013,3 +2013,5 @@ Imam Tom discusses his favorite books, which include works by Friedrich Nietzsch
 [1:08:32](https://youtu.be/37TWdUVKYFc?t=4112) tom for your time thank you thank you so  
 [1:08:33](https://youtu.be/37TWdUVKYFc?t=4113) much paul pleasure thank you until next  
 [1:08:35](https://youtu.be/37TWdUVKYFc?t=4115) time  
+
+</details>

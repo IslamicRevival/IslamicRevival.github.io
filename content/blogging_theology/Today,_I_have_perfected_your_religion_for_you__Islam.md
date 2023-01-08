@@ -21,7 +21,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 **[00:00:00](https://www.youtube.com/watch?v=jh8qlWG251Y&t=0)** Today, the Islamic prophet Muhammad perfected the religion for Muslims, banning many practices that were considered evil. Fear not the disbelievers, Muhammad says, as they have given up all hope of undermining Muslims' faith.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/jh8qlWG251Y?t=0) forbidden to you are carrion blood and  
 [0:00:03](https://youtu.be/jh8qlWG251Y?t=3) swine what is slaughtered in the name of  
@@ -42,3 +42,5 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 [0:00:48](https://youtu.be/jh8qlWG251Y?t=48) intending to sin  
 [0:00:50](https://youtu.be/jh8qlWG251Y?t=50) then surely allah is all forgiving most  
 [0:00:54](https://youtu.be/jh8qlWG251Y?t=54) merciful  
+
+</details>

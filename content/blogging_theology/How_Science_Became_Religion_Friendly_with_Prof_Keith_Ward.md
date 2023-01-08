@@ -34,7 +34,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 * **[00:40:00](https://www.youtube.com/watch?v=SqfTLlb1lSw&t=2400)** Keith Ward discusses how science has become more religion-friendly, with probabilistic processes leading to increased complexity and organization over time. He likens this trajectory to the development of a baby, and says that if everyone accepts this as not being "progress," then they do not know what progress is.
 * **[00:45:00](https://www.youtube.com/watch?v=SqfTLlb1lSw&t=2700)** Keith Ward discusses how science has become more religion-friendly in recent years, including one recent development that he discusses.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/SqfTLlb1lSw?t=2) okay so hello everyone and welcome to  
 [0:00:06](https://youtu.be/SqfTLlb1lSw?t=6) blogging theology uh today i'm delighted  
@@ -1263,3 +1263,5 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 [0:46:56](https://youtu.be/SqfTLlb1lSw?t=2816) thank you okay bye  
 [0:46:58](https://youtu.be/SqfTLlb1lSw?t=2818) thank you  
 [0:46:59](https://youtu.be/SqfTLlb1lSw?t=2819) sorry about  
+
+</details>

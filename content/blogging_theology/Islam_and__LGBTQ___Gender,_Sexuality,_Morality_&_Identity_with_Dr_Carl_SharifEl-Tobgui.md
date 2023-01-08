@@ -196,7 +196,7 @@ In recent years, there has been a growing trend among some people in the LGBTQ c
 * **[03:45:00](https://www.youtube.com/watch?v=_M4aHFvrCuI&t=13500)* Discusses Islamic perspective on gender and sexuality, and discusses how many Muslims struggle with issues such as sexual compulsion, pornography addiction, and same-sex attraction. There are also five seasons of the podcast series, each tackling a different topic relevant to the healing journey. Finally, the series addresses the broader community, discussing topics such as revisionist movements.
 * **[03:50:00](https://www.youtube.com/watch?v=_M4aHFvrCuI&t=13800)** In this four-hour long video, Dr. Carl Sharif El-Tobgui discusses various aspects of Islam and LGBTQ issues. He covers topics such as dysphoria and transgenderism, muslims with same-sex attraction, and community leaders' issues with LGBTQ people. He also discusses personal stories from his own Muslim sister and others. Overall, the video is a comprehensive and engaging overview of the complex intersection of LGBTQ rights and Islamic morality.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/_M4aHFvrCuI?t=2) Hello everyone and welcome to blogging theology 
 today I'm delighted to talk again to Dr Carl    
@@ -5466,3 +5466,5 @@ question of islam in the lgbt  
 identity so thank you very much indeed    
 [3:54:57](https://youtu.be/_M4aHFvrCuI?t=14097) for all your extraordinary efforts in this 
 regard and until next time okay inshallah  
+
+</details>

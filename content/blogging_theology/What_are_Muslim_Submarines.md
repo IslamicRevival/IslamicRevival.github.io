@@ -17,7 +17,7 @@ Submarines are used for underwater travel, and are typically used by military pe
 
 **[00:00:00](https://www.youtube.com/watch?v=2JUSe1VPljs&t=0)** Submarines are used for underwater travel, and are typically used by military personnel and government officials. One example of a submarine convert to Islam is a full professor in Cambridge. He is known to be discreet about his conversion, and his colleagues do not suspect he is Muslim. There are a lot of people who are converts to Islam and do not want to publicly announce it.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/2JUSe1VPljs?t=0) this is the great unthought of europe  
 [0:00:02](https://youtu.be/2JUSe1VPljs?t=2) um  
@@ -111,3 +111,5 @@ Submarines are used for underwater travel, and are typically used by military pe
 [0:03:15](https://youtu.be/2JUSe1VPljs?t=195) they they keep quiet about it so yeah  
 [0:03:18](https://youtu.be/2JUSe1VPljs?t=198) there's certainly a lot of people like  
 [0:03:19](https://youtu.be/2JUSe1VPljs?t=199) that  
+
+</details>

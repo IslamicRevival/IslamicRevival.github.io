@@ -35,7 +35,7 @@ Dale Allison discusses religious experiences in a secular age, noting that they 
 * **[00:50:00](https://www.youtube.com/watch?v=VqP8tHfSPR0&t=3000)** Dale Allison discusses the decline of religious institutions and the rise of religious experiences in a secular age. He says that while these experiences may be unfamiliar to some, they are actually quite common and offer an alternative to belief in nothing. Allison's book has been well-received by his colleagues, religious leaders, and the media, though some religious scholars remain dismissive of them.
 * **[00:55:00](https://www.youtube.com/watch?v=VqP8tHfSPR0&t=3300)**  Dale Allison, a scholar from Princeton Theological Seminary, discusses how religious experiences are changing in a secular age. He discusses how some people may find his work helpful in understanding the world around them. Allison also talks about a sequel to his book, Encountering Mystery: Religious Experiences in a Secular Age, which he plans to write.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:03](https://youtu.be/VqP8tHfSPR0?t=3) Hello everyone and welcome to Blogging Theology 
 today I'm delighted to talk again to Professor    
@@ -1147,3 +1147,5 @@ about what's really going on in the world that  
 from reading the usual mainstream news sources    
 [0:58:07](https://youtu.be/VqP8tHfSPR0?t=3487) and it's all uh solid stuff so thank you very 
 much indeed sir for your time thank you very much  
+
+</details>

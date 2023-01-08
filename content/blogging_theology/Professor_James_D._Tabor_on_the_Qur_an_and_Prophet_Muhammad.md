@@ -17,7 +17,7 @@ Professor James D. Tabor discusses the differences between Islam and other major
 
 **[00:00:00](https://www.youtube.com/watch?v=Atz9V7iH91g&t=0)** This video discusses the differences between Islam and other major religions, and how Islam is based on the teachings of Abraham and the prophets. Islam stresses the importance of following core moral values, and it is similar to other major religions in its belief in a single, all-powerful God.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/Atz9V7iH91g?t=2) muhammad  
 [0:00:04](https://youtu.be/Atz9V7iH91g?t=4) seems to me to represent even with the  
@@ -101,3 +101,5 @@ Professor James D. Tabor discusses the differences between Islam and other major
 [0:03:24](https://youtu.be/Atz9V7iH91g?t=204) undermine itself abraham moses the  
 [0:03:26](https://youtu.be/Atz9V7iH91g?t=206) prophets  
 [0:03:27](https://youtu.be/Atz9V7iH91g?t=207) and jesus  
+
+</details>

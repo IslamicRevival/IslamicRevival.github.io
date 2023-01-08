@@ -21,7 +21,7 @@ at Speaker's Corner in London is judging between believers and non-believers. He
 
 **[00:00:00](https://www.youtube.com/watch?v=_-qhqj7ZySU&t=0)** is at Speaker's Corner in London and is judging between believers and non-believers. He reminds believers that all of what Allah has revealed to them is true, and advises them to beware of unbelievers who may try to lure them away from the truth. If believers turn away from Allah's judgment, it is Allah's will to repay them for some of their sins.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/_-qhqj7ZySU?t=0) here i am at speaker's corner  
 [0:00:02](https://youtu.be/_-qhqj7ZySU?t=2) and judge between them o prophet by what  
@@ -37,3 +37,5 @@ at Speaker's Corner in London is judging between believers and non-believers. He
 [0:00:26](https://youtu.be/_-qhqj7ZySU?t=26) ignorance they seek who could be a  
 [0:00:28](https://youtu.be/_-qhqj7ZySU?t=28) better judge than allah for people of  
 [0:00:31](https://youtu.be/_-qhqj7ZySU?t=31) sure faith  
+
+</details>

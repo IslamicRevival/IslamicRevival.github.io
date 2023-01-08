@@ -73,7 +73,7 @@ Daniel Haqiqatjou discusses the effects of modernism on Muslim cultures, highlig
 
 **[01:00:00](https://www.youtube.com/watch?v=mZAZktv6HWM&t=3600)** Daniel Haqiqatjou discusses the effects of modernism on Muslim cultures, highlighting the loss of robust faith in young Muslims. He also discusses the need for muslims to recognize the problem and work to find solutions.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/mZAZktv6HWM?t=2) Well hello everyone again and welcome to 
 Blogging Theology. Today I am delighted    
@@ -1201,3 +1201,5 @@ and i'll link to uh the book uh beneath and  
 comment section below and thank you once again    
 [1:03:05](https://youtu.be/mZAZktv6HWM?t=3785) daniel for all your time really appreciate 
 it thank you paul until next time thank you  
+
+</details>

@@ -42,7 +42,7 @@ In this YouTube video, Bart Dehrman discusses the history of Jesus and how he wa
 * **[01:20:00](https://www.youtube.com/watch?v=oeZrdgxi9bY&t=4800)** The video discusses the differences between scholars who assert certainty about certain aspects of Jesus' life and teachings, and those who disagree. Bart Dehrman discusses how, as a historian, he believes it is important to use probabilities when assessing historical events. He discusses the example of Jesus being an apocalypticist, and how even though most scholars agree on this, they often do not detail how they arrived at this conclusion.
 * **[01:25:00](https://www.youtube.com/watch?v=oeZrdgxi9bY&t=5100)** This YouTube video discusses the history of Jesus, the Bible, and Christianity with Bart Dehrman, a 66-year-old historian. Dehrman discusses how Jesus was a countercultural figure who ended up being misinterpreted by later historians. He also recommends two books - the New Testament and Historical Introduction to Early Christian Writings - for those interested in further exploring these topics.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/oeZrdgxi9bY?t=2) good evening or good morning wherever  
 [0:00:03](https://youtu.be/oeZrdgxi9bY?t=3) you are in the world hello and welcome  
@@ -2656,3 +2656,5 @@ In this YouTube video, Bart Dehrman discusses the history of Jesus and how he wa
 [1:29:26](https://youtu.be/oeZrdgxi9bY?t=5366) uh with us and um happy happy holidays  
 [1:29:29](https://youtu.be/oeZrdgxi9bY?t=5369) as they say okay thanks you too thanks  
 [1:29:31](https://youtu.be/oeZrdgxi9bY?t=5371) thank you too until next time  
+
+</details>

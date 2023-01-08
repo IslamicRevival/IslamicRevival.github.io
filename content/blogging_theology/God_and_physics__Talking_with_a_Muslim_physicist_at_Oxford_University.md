@@ -44,7 +44,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 * **[01:20:00](https://www.youtube.com/watch?v=dQstuTSkWD8&t=4800)** The Muslim physicist, Paul Eaton, discusses the similarities and differences between Islam and Christianity in regards to their approach to achieving spiritual proximity to God. Eaton explains that, while Christianity offers a framework for achieving spiritual proximity, Islam provides an epistemology of certainty that cannot be described to another person. He says that, if someone is interested in talking with him further about his experiences, he is more than happy to share his writings.
 * **[01:25:00](https://www.youtube.com/watch?v=dQstuTSkWD8&t=5100)**  features a Muslim physicist at Oxford University discussing his views on religion and science. He notes that while many people view religion and science as incompatible, his research shows that they are actually very complementary. He thanks the interviewer for their time and politely leaves.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:03](https://youtu.be/dQstuTSkWD8?t=3) hello everyone and welcome to blogging  
 [0:00:06](https://youtu.be/dQstuTSkWD8?t=6) theology today I'm delighted to talk to  
@@ -2248,3 +2248,5 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 [1:25:21](https://youtu.be/dQstuTSkWD8?t=5121) um thank you very much indeed for your  
 [1:25:22](https://youtu.be/dQstuTSkWD8?t=5122) time until next time you're very welcome  
 [1:25:25](https://youtu.be/dQstuTSkWD8?t=5125) it was my pleasure  
+
+</details>

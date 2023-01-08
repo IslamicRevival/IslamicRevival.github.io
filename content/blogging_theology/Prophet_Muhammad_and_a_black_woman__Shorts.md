@@ -17,7 +17,7 @@ The Prophet Muhammad is said to have missed a black woman who used to sweep the 
 
 **[00:00:00](https://www.youtube.com/watch?v=ZNMRzpCSWSg&t=0)** According to a hadith from Bukhari and Muslim, the Prophet Muhammad missed a black woman who used to sweep the mosque. When he asked about her, the people told him she had died. He asked why they hadn't told him, and it appeared they had treated her as if she were of little account. He then prayed over her and told the people that these graves are filled with darkness, but Allah will light them up through his prayers.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/ZNMRzpCSWSg?t=0) abu hurairah said a black woman used to  
 [0:00:03](https://youtu.be/ZNMRzpCSWSg?t=3) sweep the mosque  
@@ -38,3 +38,5 @@ The Prophet Muhammad is said to have missed a black woman who used to sweep the 
 [0:00:35](https://youtu.be/ZNMRzpCSWSg?t=35) allah lights it up for them through my  
 [0:00:38](https://youtu.be/ZNMRzpCSWSg?t=38) prayers  
 [0:00:39](https://youtu.be/ZNMRzpCSWSg?t=39) hadith from bukhari and muslim  
+
+</details>

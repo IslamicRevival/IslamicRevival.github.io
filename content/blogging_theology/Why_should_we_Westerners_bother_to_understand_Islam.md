@@ -26,7 +26,7 @@ in this video argues that it is important for Westerners to take the time to lea
 **[00:00:00](https://www.youtube.com/watch?v=INNV-NVO8jM&t=0)** Islam is a religion with a universal mission, and it has clashed with the Western world throughout history. Today, the clash between Islam and the secular Western world is again resurfacing, as Islam claims a universal mandate. To understand Islam, it is important to begin by reading translations of the Quran into English, which can be found in books like "Muhammad: His Life Based on the Earliest Sources" by Martin Ling and "Guidance for Classic Work: Islam and the Destiny of Man" by Professor Ac Jonathan Brown.
 * **[00:05:00](https://www.youtube.com/watch?v=INNV-NVO8jM&t=300)** argues that Islam is not just a religion, but a way of life that we should all strive to understand and learn more about. He believes that by doing so, we can help to bring peace and order to our world, and help to promote coexistence between different cultures.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/INNV-NVO8jM?t=1) why should we westerners 
 bother to understand islam    
@@ -120,3 +120,5 @@ us westerners to begin with to understand  
 but that we should understand each other better    
 [0:05:06](https://youtu.be/INNV-NVO8jM?t=306) and thus bringing good order and peaceful 
 coexistence to our divided world until next time  
+
+</details>

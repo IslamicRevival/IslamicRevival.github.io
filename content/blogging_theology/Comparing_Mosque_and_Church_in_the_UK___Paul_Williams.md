@@ -18,7 +18,7 @@ Discusses the increasing popularity of mosques in the UK, as well as the possibl
 **[00:00:00](https://www.youtube.com/watch?v=vd8uAbkTWyY&t=0)** The study found that 51% of 18-34 year olds polled said they pray regularly, while 24% of those aged 55 and over said the same. It also found that 49 of the younger age group attend a place of worship every month, while 16 of the over 55s do. The associate director of cervantes said the numbers could reflect the move to online worship during the pandemic.
 * **[00:05:00](https://www.youtube.com/watch?v=vd8uAbkTWyY&t=300)** discusses the increasing popularity of mosques in the UK, as well as the possible reasons behind this trend. The article suggest that this may be due to the pandemic, as people may find it easier to express their faith online. However, the author also points out that there is still a lot of division between mosque and church communities in the UK, with the average church being closed most of the time.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/vd8uAbkTWyY?t=2) i came across an interesting news item  
 [0:00:05](https://youtu.be/vd8uAbkTWyY?t=5) on the bbc news website uh the headline  
@@ -225,3 +225,5 @@ Discusses the increasing popularity of mosques in the UK, as well as the possibl
 [0:08:01](https://youtu.be/vd8uAbkTWyY?t=481) open and welcoming usually welcoming to  
 [0:08:04](https://youtu.be/vd8uAbkTWyY?t=484) uh to people  
 [0:08:06](https://youtu.be/vd8uAbkTWyY?t=486) anyway until next time  
+
+</details>

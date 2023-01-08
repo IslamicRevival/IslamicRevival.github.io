@@ -22,7 +22,7 @@ The video discusses how animosity between Muslims and Christians developed as a 
 
 **[00:00:00](https://www.youtube.com/watch?v=kYQbhaK0I1U&t=0)** This video discusses how animosity between Muslims and Christians developed as a result of differences in interpretation of the Qur'an. The video then presents Muhammad as a messenger of Allah who reveals much of what is hidden in scriptures to those who seek guidance.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/kYQbhaK0I1U?t=0) here i am outside lambeth palace the  
 [0:00:02](https://youtu.be/kYQbhaK0I1U?t=2) london home of the archbishop of  
@@ -45,3 +45,5 @@ The video discusses how animosity between Muslims and Christians developed as a 
 [0:00:46](https://youtu.be/kYQbhaK0I1U?t=46) brings them out of darkness into light  
 [0:00:49](https://youtu.be/kYQbhaK0I1U?t=49) by his will and guides them to the  
 [0:00:52](https://youtu.be/kYQbhaK0I1U?t=52) straight path  
+
+</details>

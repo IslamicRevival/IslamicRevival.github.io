@@ -18,7 +18,7 @@ https://www.tiktok.com/@dennis.fang/video/7169367944206585090?is_copy_url=1&is_f
 
 **[00:00:00](https://www.youtube.com/watch?v=0RLpcXt7M2g&t=0)** Muslims in Qatar are struggling to accept LGBT people because their values are based on secular liberalism, which is at odds with Islamic morality. Dennis Fang, a non-Muslim, explains why in a concise video. Muslims appreciate his perspective, and it is rare to find a non-Muslim who understands Islam's stance on LGBT.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:03](https://youtu.be/0RLpcXt7M2g?t=3) I came across a video on Tick Tock recently 
 which has really impressed a lot of people    
@@ -107,3 +107,5 @@ understand the difficulty or even the futility of  
 morality we might think that we're right and    
 [0:04:40](https://youtu.be/0RLpcXt7M2g?t=280) they're wrong but remember they are thinking 
 the exact same thing thanks for watching  
+
+</details>

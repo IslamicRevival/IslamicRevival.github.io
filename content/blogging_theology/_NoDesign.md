@@ -25,7 +25,7 @@ This video discusses how trees are able to transport water to their topmost bran
 **[00:00:00](https://www.youtube.com/watch?v=UGDLUiVhY7w&t=0)** The video features the physicist Dr. Derek Muller explaining how trees are able to transport water up to their topmost branches, despite the fact that the pressure at the top is so negative. Trees use additional pressure to suck water into the tree and then transfer it to the xylem tubes, which are too wide at 20 to 200 micrometers in diameter.
 * **[00:05:00](https://www.youtube.com/watch?v=UGDLUiVhY7w&t=300)** The video discusses the importance of xylem tubes in trees, which are filled with water from the start and do not contain air bubbles. This allows water to remain in the metastable liquid state, which is important for photosynthesis. Trees use five percent of the water in photosynthesis, and the other 95 percent evaporates. This video will change how viewers view trees.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/UGDLUiVhY7w?t=1) I love doing the no design posts the subject 
 is virtually inexhaustible and infinite  
@@ -152,3 +152,5 @@ xylem tubes contain no air bubbles just so  
 [0:06:12](https://youtu.be/UGDLUiVhY7w?t=372) that most of it can evaporate in the process of 
 absorbing a couple molecules of carbon dioxide    
 [0:06:19](https://youtu.be/UGDLUiVhY7w?t=379) I will never look at trees the same way again  
+
+</details>

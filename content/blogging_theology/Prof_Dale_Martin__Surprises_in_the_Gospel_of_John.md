@@ -27,7 +27,7 @@ We continue our series of talks on the New Testament with the Gospel of John. Pr
 * **[00:45:00](https://www.youtube.com/watch?v=cjCRhgD_XIQ&t=2700)** , Prof. Dale Martin discusses some of the surprises in the Gospel of John. He discusses how the author or some precursor changed the crucifixion scene to make Jesus fix the Passover, and why Nicodemus is possibly historical. He also recommends a book by Dale Martin on New Testament history and literature.
 * **[00:50:00](https://www.youtube.com/watch?v=cjCRhgD_XIQ&t=3000)**  Dale Martin discusses surprises in the Gospel of John. He recommends the work of Urbans and says that he has experienced academia being a rare virtue. He ends the video by saying that he is fine and that he hopes viewers have also benefited from the talk.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/cjCRhgD_XIQ?t=2) she speaks with an american accent  
 [0:00:05](https://youtu.be/cjCRhgD_XIQ?t=5) uh good evening everyone and welcome to  
@@ -1317,3 +1317,5 @@ We continue our series of talks on the New Testament with the Gospel of John. Pr
 [0:50:51](https://youtu.be/cjCRhgD_XIQ?t=3051) so i i hope they have all benefited too  
 [0:50:53](https://youtu.be/cjCRhgD_XIQ?t=3053) so thank you once again professor  
 [0:50:55](https://youtu.be/cjCRhgD_XIQ?t=3055) dale martin okay thank you goodbye  
+
+</details>

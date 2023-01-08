@@ -17,7 +17,7 @@ The greatest sin, according to a messenger of God, is worshipping anything other
 
 **[00:00:00](https://www.youtube.com/watch?v=cC2nqEOhlbc&t=0)**  a man asks a messenger of God what the greatest sin is. The messenger replies that the greatest sin is worshipping anything other than God, who created us. Several hadith references support this claim.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/cC2nqEOhlbc?t=1) a man asked o messenger of god what is  
 [0:00:04](https://youtu.be/cC2nqEOhlbc?t=4) the greatest sin in the sight of god  
@@ -25,3 +25,5 @@ The greatest sin, according to a messenger of God, is worshipping anything other
 [0:00:11](https://youtu.be/cC2nqEOhlbc?t=11) anything as if it is equal to god who  
 [0:00:14](https://youtu.be/cC2nqEOhlbc?t=14) created you  
 [0:00:16](https://youtu.be/cC2nqEOhlbc?t=16) hadith from bukhari and muslim  
+
+</details>

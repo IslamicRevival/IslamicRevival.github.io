@@ -21,7 +21,7 @@ The person in the video is outside Buckingham Palace, talking about how whoever 
 
 **[00:00:00](https://www.youtube.com/watch?v=h6GBt10ZsWE&t=0)** The video person is outside Buckingham Palace, and they say that whoever recommends doing good deeds will become a partner in that, and whoever recommends doing bad deeds will share in the burden of that. Allah has power over all things, and when one greets someone politely, they should do the same in return. Allah is the only god, and there is no doubt that he will gather people together on the day of judgment.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/h6GBt10ZsWE?t=0) here i am outside buckingham palace the  
 [0:00:02](https://youtu.be/h6GBt10ZsWE?t=2) home of the queen of england  
@@ -40,3 +40,5 @@ The person in the video is outside Buckingham Palace, talking about how whoever 
 [0:00:36](https://youtu.be/h6GBt10ZsWE?t=36) day of judgment about which there is no  
 [0:00:38](https://youtu.be/h6GBt10ZsWE?t=38) doubt and whose word can be truer than  
 [0:00:42](https://youtu.be/h6GBt10ZsWE?t=42) allah's  
+
+</details>

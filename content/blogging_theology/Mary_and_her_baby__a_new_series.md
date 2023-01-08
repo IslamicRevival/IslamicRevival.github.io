@@ -19,7 +19,7 @@ The video discusses the story of Mary and her son, Yahya (John the Baptist), hig
 * **[00:05:00](https://www.youtube.com/watch?v=DPApumzcyf8&t=300)** In the video, the author presents the story of Mary, including her miraculous birth and her son, Yahya. The author also discusses the parallels and differences between the story in the Quran and the story in the Bible. The author also discusses the significance of John the Baptist, who is mentioned in the Quran as Yahya.
 * **[00:10:00](https://www.youtube.com/watch?v=DPApumzcyf8&t=600)** The video discusses the differences between the gospel of Luke and the Quran regarding the story of John the Baptist. The Quran briefly touches on the story of John the Baptist, highlighting only its own key theological message. This book is helpful in looking at more in a more balanced and more sober way.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/DPApumzcyf8?t=1) i thought it'd be interesting to  
 [0:00:03](https://youtu.be/DPApumzcyf8?t=3) look at how mary the mother of jesus  
@@ -326,3 +326,5 @@ The video discusses the story of Mary and her son, Yahya (John the Baptist), hig
 [0:12:12](https://youtu.be/DPApumzcyf8?t=732) in a more balanced and more sober way  
 [0:12:14](https://youtu.be/DPApumzcyf8?t=734) anyway  
 [0:12:15](https://youtu.be/DPApumzcyf8?t=735) till next time  
+
+</details>

@@ -17,7 +17,7 @@ Qur'an Surah 39 verses 53-54
 
 **[00:00:00](https://www.youtube.com/watch?v=fhrd0ZAoixo&t=0)* Discusses the verses from Surah 39 ( verses 53-54) of the Quran which discuss those who have sinned, and how they should not despair of Allah's mercy. The verses state that Allah is merciful and forgiving, and that those who repent will be forgiven.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/fhrd0ZAoixo?t=0) god says in his book  
 [0:00:02](https://youtu.be/fhrd0ZAoixo?t=2) say o my servants who have transgressed  
@@ -30,3 +30,5 @@ Qur'an Surah 39 verses 53-54
 [0:00:24](https://youtu.be/fhrd0ZAoixo?t=24) on you  
 [0:00:25](https://youtu.be/fhrd0ZAoixo?t=25) after that ye shall not be helped  
 [0:00:29](https://youtu.be/fhrd0ZAoixo?t=29) some surah 39 versus 53 and 54.  
+
+</details>

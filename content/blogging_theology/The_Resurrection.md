@@ -21,7 +21,7 @@ The resurrection of Jesus is a central tenet of Christianity, but according to P
 * **[00:15:00](https://www.youtube.com/watch?v=IxRDbYZ9-os&t=900)** Jerusalem prophet Giza Vermish concludes that four possible rational explanations exist for how the resurrection of Jesus could have happened: the body was not found by the women, the tomb was wrong, the apostles stole the body, or he was buried alive and later woke up. Though this modern concoction of the novel and film The Da Vinci Code is unsupported by ancient evidence, the transformation of the apostles--a phenomenon that occurred due to the inward experience of the spirit--may lead us out of this maze.
 * **[00:20:00](https://www.youtube.com/watch?v=IxRDbYZ9-os&t=1200)** Giza Vermish discusses the resurrection according to the Dead Sea Scrolls. He recommends reading a book on the subject if interested in learning more about Jesus Christ. Christianity has transformed the message of Jesus into a different religion, which is known today as Christianity.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:13](https://youtu.be/IxRDbYZ9-os?t=13) the resurrection of jesus lies at the  
 [0:00:15](https://youtu.be/IxRDbYZ9-os?t=15) heart of the message of christianity  
@@ -529,3 +529,5 @@ The resurrection of Jesus is a central tenet of Christianity, but according to P
 [0:20:29](https://youtu.be/IxRDbYZ9-os?t=1229) very different religion which today we  
 [0:20:32](https://youtu.be/IxRDbYZ9-os?t=1232) call christianity  
 [0:20:34](https://youtu.be/IxRDbYZ9-os?t=1234) till next time  
+
+</details>

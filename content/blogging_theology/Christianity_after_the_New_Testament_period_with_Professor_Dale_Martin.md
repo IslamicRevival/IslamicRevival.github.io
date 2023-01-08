@@ -56,7 +56,7 @@ Chapters:
 **[01:00:00](https://www.youtube.com/watch?v=GYrUJnrlus0&t=3600)**  Professor Dale Martin discusses Christianity's spread throughout the world in the modern era. He notes that Christianity began to become a world religion in the 20th century when scholars started including it among other religions. Martin also discusses the controversial topic of whether or not Christianity is the only world religion.
 * **[01:05:00](https://www.youtube.com/watch?v=GYrUJnrlus0&t=3900)** Professor Dale Martin discusses Christianity after the New Testament period, discussing how colonialism and the growth of communication technologies has led to a more cosmic view of religion. He feels that this change has already happened, and that anyone can now connect with anyone else in the world through technology.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/GYrUJnrlus0?t=1) well hello everyone and welcome to  
 [0:00:04](https://youtu.be/GYrUJnrlus0?t=4) blogging theology i'm very privileged to  
@@ -1962,3 +1962,5 @@ Chapters:
 [1:08:02](https://youtu.be/GYrUJnrlus0?t=4082) um well thank you very much dale until  
 [1:08:04](https://youtu.be/GYrUJnrlus0?t=4084) next time um thank you  
 [1:08:06](https://youtu.be/GYrUJnrlus0?t=4086) thank you bye-bye  
+
+</details>

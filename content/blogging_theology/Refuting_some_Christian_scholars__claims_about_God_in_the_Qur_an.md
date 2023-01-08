@@ -35,7 +35,7 @@ a scholar refutes some claims that Christian scholars have made about God in the
 
 **[01:00:00](https://www.youtube.com/watch?v=4nZzszqcOfM&t=3600)** The video discusses some Christian scholars' claims about God in the Qur'an, and the scholar in the video thanks the scholar for the opportunity to join in on the conversation.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/4nZzszqcOfM?t=1) hello everyone and welcome to blogging  
 [0:00:03](https://youtu.be/4nZzszqcOfM?t=3) theology and today i'm very excited to  
@@ -1615,3 +1615,5 @@ a scholar refutes some claims that Christian scholars have made about God in the
 [1:01:21](https://youtu.be/4nZzszqcOfM?t=3681) joining you again sometime in the future  
 [1:01:23](https://youtu.be/4nZzszqcOfM?t=3683) thank you well thank you and take care  
 [1:01:26](https://youtu.be/4nZzszqcOfM?t=3686) next time  
+
+</details>

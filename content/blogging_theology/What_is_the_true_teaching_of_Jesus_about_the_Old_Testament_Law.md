@@ -25,7 +25,7 @@ I quote from 'The New Jerome Biblical Commentary' by Raymond E. Brown, page 641.
 * **[00:05:00](https://www.youtube.com/watch?v=yhJ_0dVmAEc&t=300)** These biblical scholars say that the teaching in Matthew 5:17-19 that "do not think I have come to abolish the law or the prophets" contradicts Paul's teaching in Ephesians 2:15-16 that "the law has been abolished." They also say that there is a gap between the teaching in this passage and the practice of Christians today, who follow just a handful of Old Testament laws.
 * **[00:10:00](https://www.youtube.com/watch?v=yhJ_0dVmAEc&t=600)** discusses the difference between the original teaching of Jesus and the later teachings of Paul, which resulted in the death of true Christianity. Islam, which takes a middle path between the two extremes, is said to be closer to the original teaching of Jesus.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/yhJ_0dVmAEc?t=1) hello and in this episode i want to ask  
 [0:00:04](https://youtu.be/yhJ_0dVmAEc?t=4) what is the true teaching of jesus  
@@ -411,3 +411,5 @@ I quote from 'The New Jerome Biblical Commentary' by Raymond E. Brown, page 641.
 [0:13:48](https://youtu.be/yhJ_0dVmAEc?t=828) closer to the historical jesus but i'll  
 [0:13:50](https://youtu.be/yhJ_0dVmAEc?t=830) leave that for you to decide  
 [0:13:52](https://youtu.be/yhJ_0dVmAEc?t=832) until next time  
+
+</details>

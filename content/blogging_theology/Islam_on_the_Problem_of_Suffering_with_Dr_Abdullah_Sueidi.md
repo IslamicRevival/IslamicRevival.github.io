@@ -69,7 +69,7 @@ Dr. Abdullah Sueidi discusses how there is no good or evil in an atheistic world
 * **[01:05:00](https://www.youtube.com/watch?v=p2h4eTlwz1k&t=3900)** recommends Muslims read books on the topic of suffering in order to better understand it and cope with it. He mentions books on the topic written by Muslims and Christians, and concludes that the problem of suffering is not a problem for Muslims, but rather for atheists and other religious groups who preach a doctrine of nihilism.
 * **[01:10:00](https://www.youtube.com/watch?v=p2h4eTlwz1k&t=4200)** Dr. Abdullah Sueidi discusses Islam's perspective on suffering and how it can be overcome. He also provides a brief introduction to his channel and praises Allah for all of the struggles His believers endure.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/p2h4eTlwz1k?t=2) Hello everyone and welcome to Blogging 
 theology. Today I am delighted to talk to    
@@ -1293,3 +1293,5 @@ your videos it's a very interesting channel and  
 18 inshallah inshallah all right well thank    
 [1:11:00](https://youtu.be/p2h4eTlwz1k?t=4260) you very much and uh until next time dr 
 abdullah sweetie thank you take care very nice  
+
+</details>

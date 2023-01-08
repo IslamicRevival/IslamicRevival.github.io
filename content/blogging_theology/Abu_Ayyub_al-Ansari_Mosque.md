@@ -17,7 +17,7 @@ The Abu Ayyub al-Ansari Mosque is dedicated to a senior companion of the Prophet
 
 **[00:00:00](https://www.youtube.com/watch?v=AcR0xZBxnW0&t=0)** This mosque is dedicated to a senior companion of the Prophet Muhammad, who helped Muhammad migrate from Mecca to Medina. The hadith about conquering Istanbul mentioned in this mosque is particularly inspiring.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/AcR0xZBxnW0?t=0) in this mosque a senior companion of the  
 [0:00:03](https://youtu.be/AcR0xZBxnW0?t=3) prophet is buried abu ayab al-ansari  
@@ -41,3 +41,5 @@ The Abu Ayyub al-Ansari Mosque is dedicated to a senior companion of the Prophet
 [0:00:51](https://youtu.be/AcR0xZBxnW0?t=51) of the prophet muhammad upon him be  
 [0:00:53](https://youtu.be/AcR0xZBxnW0?t=53) peace in  
 [0:00:54](https://youtu.be/AcR0xZBxnW0?t=54) istanbul  
+
+</details>

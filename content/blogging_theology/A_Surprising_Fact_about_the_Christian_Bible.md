@@ -23,7 +23,7 @@ Discusses how the early Christians did not view the New Testament as the word of
 * **[00:05:00](https://www.youtube.com/watch?v=rQIgCtMcoEo&t=300)** discusses how the attitude of early Christians to the Old and New Testament differed, and how over time the texts came to be seen as equal components of the Bible.
 * **[00:10:00](https://www.youtube.com/watch?v=rQIgCtMcoEo&t=600)** This video explains that the Christian Bible was not created as a canon until later in the following centuries, and that this can change one's mind and perception of the historical truths and facts of the case. It invites viewers to do the same journey of discovery by listening to scholars reading their works, rather than uncritically accepting them.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/rQIgCtMcoEo?t=2) one of the very surprising things one  
 [0:00:04](https://youtu.be/rQIgCtMcoEo?t=4) learns when one studies history and  
@@ -301,3 +301,5 @@ Discusses how the early Christians did not view the New Testament as the word of
 [0:10:53](https://youtu.be/rQIgCtMcoEo?t=653) and that can change our world view and  
 [0:10:55](https://youtu.be/rQIgCtMcoEo?t=655) that's and that can be for the better  
 [0:10:57](https://youtu.be/rQIgCtMcoEo?t=657) anyway till next time  
+
+</details>

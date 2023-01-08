@@ -30,7 +30,7 @@ The Muslim in the video explains that angels take the souls of unbelievers at de
 
 **[00:00:00](https://www.youtube.com/watch?v=Bz8iTXuRv-Y&t=0)** In the video, a Muslim talks about how angels take the souls of unbelievers at death. He says that the angels smite their faces and backs, and that the unbelievers taste the punishment of the blazing fire because of their own actions.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/Bz8iTXuRv-Y?t=0) and god says in his book lo the  
 [0:00:03](https://youtu.be/Bz8iTXuRv-Y?t=3) hypocrites say and those in whose hearts  
@@ -49,3 +49,5 @@ The Muslim in the video explains that angels take the souls of unbelievers at de
 [0:00:36](https://youtu.be/Bz8iTXuRv-Y?t=36) for allah is never unjust to his  
 [0:00:39](https://youtu.be/Bz8iTXuRv-Y?t=39) servants  
 [0:00:41](https://youtu.be/Bz8iTXuRv-Y?t=41) surah 8 verses 49 onwards  
+
+</details>

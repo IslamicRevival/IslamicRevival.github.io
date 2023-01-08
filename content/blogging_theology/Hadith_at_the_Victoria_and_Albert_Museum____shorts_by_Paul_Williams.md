@@ -17,7 +17,7 @@ This video is a Hadith lecture given at the Victoria and Albert Museum in London
 
 **[00:00:00](https://www.youtube.com/watch?v=rvwgmw8qk3I&t=0)** This video is of a Hadith lecture at the Victoria and Albert Museum in London. discusses the importance of being generous and how it is closer to Allah than being stingy.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/rvwgmw8qk3I?t=0) well here i am at the victoria and  
 [0:00:02](https://youtu.be/rvwgmw8qk3I?t=2) albert museum in london in the islamic  
@@ -33,3 +33,5 @@ This video is a Hadith lecture given at the Victoria and Albert Museum in London
 [0:00:29](https://youtu.be/rvwgmw8qk3I?t=29) truly a generous ignorant man is more  
 [0:00:32](https://youtu.be/rvwgmw8qk3I?t=32) beloved to allah than a stingy scholar  
 [0:00:37](https://youtu.be/rvwgmw8qk3I?t=37) hadith from termite  
+
+</details>

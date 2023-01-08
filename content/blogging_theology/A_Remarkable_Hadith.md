@@ -21,7 +21,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 **[00:00:00](https://www.youtube.com/watch?v=7Nac9ap7HnE&t=0)** This Hadith tells us that anyone who abandons a tenth of what they have been commanded by God will perish, but that a time will come when anyone who does a tenth of what they have been commanded will be saved.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/7Nac9ap7HnE?t=0) Abu Herrera related that the messenger  
 [0:00:03](https://youtu.be/7Nac9ap7HnE?t=3) of God upon whom be peace is reported to  
@@ -33,3 +33,5 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 [0:00:19](https://youtu.be/7Nac9ap7HnE?t=19) does a tenth of what he has commanded  
 [0:00:22](https://youtu.be/7Nac9ap7HnE?t=22) will be saved  
 [0:00:25](https://youtu.be/7Nac9ap7HnE?t=25) Hadith from termidi  
+
+</details>

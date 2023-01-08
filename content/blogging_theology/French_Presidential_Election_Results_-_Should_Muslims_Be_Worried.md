@@ -34,7 +34,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 ('config', 'G-LN9LMB0VNS');
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:03](https://youtu.be/Gzqb26NhuAI?t=3) hello everyone and welcome to blogging  
 [0:00:05](https://youtu.be/Gzqb26NhuAI?t=5) theology today i am delighted to talk to  
@@ -862,3 +862,5 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 [0:32:09](https://youtu.be/Gzqb26NhuAI?t=1929) take care thank you  
 [0:32:11](https://youtu.be/Gzqb26NhuAI?t=1931) thank you  
 [0:32:12](https://youtu.be/Gzqb26NhuAI?t=1932) okay until next time  
+
+</details>

@@ -21,7 +21,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 **[00:00:00](https://www.youtube.com/watch?v=VC203oe7q5c&t=0)** points out that the Qur'an tells us that Jesus was human, not divine. They go on to explain how many messengers have come before him, and how his mother was a woman of truth. They also point out that despite these clear signs, many people are still misguided and have gone astray. The narrator encourages people to stay within the bounds of the truth and to avoid going too far off course.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/VC203oe7q5c?t=0) the quran tells us that jesus was human  
 [0:00:03](https://youtu.be/VC203oe7q5c?t=3) not divine  
@@ -41,3 +41,5 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 [0:00:42](https://youtu.be/VC203oe7q5c?t=42) went astray before you  
 [0:00:44](https://youtu.be/VC203oe7q5c?t=44) they misled many and strayed from the  
 [0:00:47](https://youtu.be/VC203oe7q5c?t=47) right way  
+
+</details>

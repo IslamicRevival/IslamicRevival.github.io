@@ -21,7 +21,7 @@ https://www.amazon.co.uk/How-Jesus-Became-Bart-Ehrman/dp/0061778184
 * **[00:05:00](https://www.youtube.com/watch?v=TZoC-iPb7uU&t=300)** The video discusses the evidence for Jesus' claims to be divine. It notes that there are few, if any, explicit claims of this nature in earlier sources, and that this suggests that Jesus did not consider himself to be divine. The video also argues that Jesus' miracles and forgiveness are indicative of his divine nature, and that he is worshipped as if he were a god.
 * **[00:10:00](https://www.youtube.com/watch?v=TZoC-iPb7uU&t=600)**  Bart Ehrman discusses the evidence that Jesus did not claim to be God, and instead may have been claiming a priestly prerogative. Scholars from all over the world agree with this conclusion, and believe that Jesus was a prophet and a messiah sent by God.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/TZoC-iPb7uU?t=1) did jesus claim to be god ? this 
 is a really important question    
@@ -249,3 +249,5 @@ your decision about whether or not we  
 accept him for what by ermine concludes he was    
 [0:12:58](https://youtu.be/TZoC-iPb7uU?t=778) a prophet and a messiah 
 sent by god . until next time  
+
+</details>

@@ -70,7 +70,7 @@ This video discusses the historical Jesus and how scholars use criteria to try t
 * **[01:15:00](https://www.youtube.com/watch?v=YSNrTsBTH7Q&t=4500)**  Dr. Dale Martin discusses the difference between historical and theological criticism. He argues that while theological criticism may be valuable, it ultimately does not lead to a better understanding of reality. He says that post-modernism is a philosophy that denies the existence of a single, objective truth, which ultimately undermines its own claim.
 * **[01:20:00](https://www.youtube.com/watch?v=YSNrTsBTH7Q&t=4800)**  Dr. Dale Martin discusses the criteria historians use to uncover the historical Jesus. He notes that the historical Jesus was most likely an apocalyptic prophet and not the founder of a new religion.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/YSNrTsBTH7Q?t=2) hello everyone and welcome to blogging  
 [0:00:04](https://youtu.be/YSNrTsBTH7Q?t=4) theology and i'm very privileged to have  
@@ -2421,3 +2421,5 @@ This video discusses the historical Jesus and how scholars use criteria to try t
 [1:23:31](https://youtu.be/YSNrTsBTH7Q?t=5011) stay on for a second so thank you until  
 [1:23:34](https://youtu.be/YSNrTsBTH7Q?t=5014) next time  
 [1:23:35](https://youtu.be/YSNrTsBTH7Q?t=5015) all right  
+
+</details>

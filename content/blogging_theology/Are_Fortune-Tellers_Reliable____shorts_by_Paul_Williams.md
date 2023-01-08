@@ -17,7 +17,7 @@ Aisha, a Muslim woman, reviews a hadith stating that fortune-tellers are not rel
 
 **[00:00:00](https://www.youtube.com/watch?v=BbG0lLxRxlo&t=0)** Aisha, a Muslim woman, reviews a hadith stating that fortune-tellers are not reliable. She suggests that the messenger of God may be referring to jinns, which are creatures with magical powers. The hadith further asserts that jinns often add lies to their predictions in order to make them more believable.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/BbG0lLxRxlo?t=0) aisha said that when people ask the  
 [0:00:03](https://youtu.be/BbG0lLxRxlo?t=3) messenger of god upon whom be peace  
@@ -33,3 +33,5 @@ Aisha, a Muslim woman, reviews a hadith stating that fortune-tellers are not rel
 [0:00:28](https://youtu.be/BbG0lLxRxlo?t=28) then they mix more than a hundred lies  
 [0:00:31](https://youtu.be/BbG0lLxRxlo?t=31) with it  
 [0:00:33](https://youtu.be/BbG0lLxRxlo?t=33) hadith from bukhari and muslim  
+
+</details>

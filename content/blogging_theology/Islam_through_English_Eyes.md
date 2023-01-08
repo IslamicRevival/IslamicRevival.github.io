@@ -20,7 +20,7 @@ This video provides a brief overview of some of the main teachings of Islam, wit
 * **[00:10:00](https://www.youtube.com/watch?v=LzlnZvWcHEs&t=600)** Islam is a religion with a deep philosophical and spiritual foundation. Its teachings emphasize the importance of following the path of Muhammad (PBUH), the last and most perfect messenger of God. Muslims believe that Muhammad's example can be emulation by humans, and that his virtues should be imitated. This video provides a brief overview of some of the main teachings of Islam.
 * **[00:15:00](https://www.youtube.com/watch?v=LzlnZvWcHEs&t=900)** The videos in this YouTube channel discuss the Islamic perspective on various scientific topics. One of the videos, "Islam through English Eyes," discusses the concept of tauheed, or the Islamic understanding of science. The video points out that the prophet Muhammad did not promote blind praise of him, but instead asked for a clear understanding of his teachings. The other videos in the channel discuss different aspects of Islamic culture and beliefs.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:06](https://youtu.be/LzlnZvWcHEs?t=6) I just wanted to share with you some 
 gems from a British writer Gai Eaton    
@@ -323,3 +323,5 @@ of the nature of all things and their source
 literally endless paragraphs uh his books are    
 [0:18:52](https://youtu.be/LzlnZvWcHEs?t=1132) full of gems like that just wants to share 
 a few of them here today until next time  
+
+</details>

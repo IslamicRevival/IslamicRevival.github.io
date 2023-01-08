@@ -21,7 +21,7 @@ This video discusses the importance of being mindful of Allah and persevering in
 
 **[00:00:00](https://www.youtube.com/watch?v=kuL1yKXddvc&t=0)** The video discusses the importance of being mindful of Allah, and how believers should strive to be persevering and constancy in their worship. The video also emphasizes the importance of strengthening each other and fearing Allah.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/kuL1yKXddvc?t=0) for those who fear their lord are  
 [0:00:02](https://youtu.be/kuL1yKXddvc?t=2) gardens with rivers flowing beneath  
@@ -42,3 +42,5 @@ This video discusses the importance of being mindful of Allah and persevering in
 [0:00:41](https://youtu.be/kuL1yKXddvc?t=41) and constancy vie in such perseverance  
 [0:00:45](https://youtu.be/kuL1yKXddvc?t=45) strengthen each other and fear allah  
 [0:00:48](https://youtu.be/kuL1yKXddvc?t=48) that you may prosper  
+
+</details>

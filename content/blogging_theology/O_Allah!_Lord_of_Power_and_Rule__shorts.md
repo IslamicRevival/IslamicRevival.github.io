@@ -21,7 +21,7 @@ The YouTube video titled "O Allah! Lord of Power and Rule #shorts" discusses the
 
 **[00:00:00](https://www.youtube.com/watch?v=VwA3moSlU2w&t=0)** The verses in Surah 3 discuss Allah's power and rule. Allah gives power to whom He wants, removes power from whom He wants, and provides honor to whomever He wishes. The verses also say that Allah has all good in His hand.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/VwA3moSlU2w?t=0) say oh allah lord of power and rule thou  
 [0:00:04](https://youtu.be/VwA3moSlU2w?t=4) givest power to whom thou pleasest and  
@@ -41,3 +41,5 @@ The YouTube video titled "O Allah! Lord of Power and Rule #shorts" discusses the
 [0:00:40](https://youtu.be/VwA3moSlU2w?t=40) pleasest  
 [0:00:41](https://youtu.be/VwA3moSlU2w?t=41) without measure  
 [0:00:43](https://youtu.be/VwA3moSlU2w?t=43) surah 3 verses 26 to 27.  
+
+</details>

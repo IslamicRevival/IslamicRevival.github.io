@@ -19,7 +19,7 @@ The video discusses the differences between Paul's Christianity and early Jewish
 * **[00:05:00](https://www.youtube.com/watch?v=q2YreJXbbaM&t=300)** The video discusses the difference between what Paul taught and what Peter taught. Peter upholds the teachings of Jesus, which are found in the Gospel of Matthew. Paul teaches that the law has been abolished and replaced with a new humanity. James agrees with Peter and upholds the jewish law.
 * **[00:10:00](https://www.youtube.com/watch?v=q2YreJXbbaM&t=600)** The video discusses the differences between Paul's Christianity and that of early Jewish Christianity, which eventually became Islam. It argues that Paul's Christianity did not abolition the law, as Islam does, but rather continued it.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/q2YreJXbbaM?t=1) i haven't been to a book shop for months but 
 thankfully i do still get books sent to me from    
@@ -213,3 +213,5 @@ a prophet , a messiah not god and teaching in
 and not teaching its abolition as Paul did .  
 [0:10:45](https://youtu.be/q2YreJXbbaM?t=645) anyway , i hope that was of 
 some interest . until next time  
+
+</details>

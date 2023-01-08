@@ -24,7 +24,7 @@ The Negus of Abyssinia allows the early Muslims to practice their religion freel
 * **[00:10:00](https://www.youtube.com/watch?v=zQjAMSpTYMc&t=600)** The Negus of Abyssinia protects the early Muslims from persecution and allows them to practice their religion freely. The Negus recites a passage from the Quran which states that Jesus is a slave of God. The Muslims are comforted by this and go on to have a long and prosperous history in Abyssinia.
 * **[00:15:00](https://www.youtube.com/watch?v=zQjAMSpTYMc&t=900)** The Negus of Abyssinia allows early Muslims to live in his country, despite their disbelief in Jesus. This allows the Muslims to peacefully coexist with the Abyssinians and continue practicing their religion.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:03](https://youtu.be/zQjAMSpTYMc?t=3) in this story we read one of the most  
 [0:00:05](https://youtu.be/zQjAMSpTYMc?t=5) touching episodes in the early history  
@@ -416,3 +416,5 @@ The Negus of Abyssinia allows the early Muslims to practice their religion freel
 [0:18:34](https://youtu.be/zQjAMSpTYMc?t=1114) martin ling's his life based on the  
 [0:18:36](https://youtu.be/zQjAMSpTYMc?t=1116) earliest sources  
 [0:18:38](https://youtu.be/zQjAMSpTYMc?t=1118) till next time  
+
+</details>

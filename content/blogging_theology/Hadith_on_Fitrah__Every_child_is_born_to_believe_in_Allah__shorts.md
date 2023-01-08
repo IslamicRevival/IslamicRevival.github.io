@@ -18,7 +18,7 @@ Surah 30:30.
 
 **[00:00:00](https://www.youtube.com/watch?v=RQ7YDB1pKTE&t=0)* Discusses the hadith that states that everyone is born with a natural inclination towards faith in God. It cites two sources, both of which support this claim.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/RQ7YDB1pKTE?t=0) The Messenger of God upon whom be peace said 
 Everyone is born with an innately pure nature    
@@ -30,3 +30,5 @@ Judaism, Christianity or Zoroastrianism.  
 the natural disposition which God has instilled    
 [0:00:28](https://youtu.be/RQ7YDB1pKTE?t=28) into the human being. There is no changing 
 God's creation.' Surah 30:30. Bukhari and Muslim.  
+
+</details>

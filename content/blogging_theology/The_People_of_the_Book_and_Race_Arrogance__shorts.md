@@ -21,7 +21,7 @@ The narrator of the YouTube video "The People of the Book and Race Arrogance #sh
 
 **[00:00:00](https://www.youtube.com/watch?v=unsSVzqUWMg&t=0)** The narrator discusses a controversy among Muslims about whether or not to keep faith with non-Muslims. He says that those who keep their faith and act are right, while those who sell the faith they owe to Allah and their own plighted word for a small price will have no part in the hereafter.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/unsSVzqUWMg?t=0) among the people of the book are some  
 [0:00:02](https://youtu.be/unsSVzqUWMg?t=2) who if entrusted with a horde of gold  
@@ -44,3 +44,5 @@ The narrator of the YouTube video "The People of the Book and Race Arrogance #sh
 [0:00:51](https://youtu.be/unsSVzqUWMg?t=51) of judgment  
 [0:00:52](https://youtu.be/unsSVzqUWMg?t=52) nor will he cleanse them of sin they  
 [0:00:55](https://youtu.be/unsSVzqUWMg?t=55) shall have a grievous penalty  
+
+</details>

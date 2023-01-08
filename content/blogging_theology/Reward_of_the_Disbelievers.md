@@ -21,7 +21,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 **[00:00:00](https://www.youtube.com/watch?v=zuBe4WP_Vus&t=0)**  presents a message from speaker's corner urging believers to be mindful of Allah and to strive to be closer to Him.  also warns of the punishment awaiting disbelievers, even if they had all the wealth and possessions in the world. They will never be able to escape the punishment of the Day of Judgment, and will suffer an everlasting punishment.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/zuBe4WP_Vus?t=0) here i am at speaker's corner  
 [0:00:02](https://youtu.be/zuBe4WP_Vus?t=2) oh believers be mindful of allah and  
@@ -39,3 +39,5 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 [0:00:32](https://youtu.be/zuBe4WP_Vus?t=32) the fire but they never will be able to  
 [0:00:35](https://youtu.be/zuBe4WP_Vus?t=35) and they will suffer an everlasting  
 [0:00:38](https://youtu.be/zuBe4WP_Vus?t=38) punishment  
+
+</details>

@@ -34,7 +34,7 @@ The video discusses different Gospels that did not make it into the Bible, and a
 
 **[01:00:00](https://www.youtube.com/watch?v=11NiLEydjjg&t=3600)**  Dale Martin discusses some of the Gospels that did not make it into the Bible. He notes that while there may not be anything new to be said about these texts, they are still important because they offer a different perspective on certain aspects of Christianity. Martin also talks about his inspiration for his work as a professor, which comes from monk Monk.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/11NiLEydjjg?t=1) good evening ladies and gentlemen and  
 [0:00:03](https://youtu.be/11NiLEydjjg?t=3) welcome to blogging theology uh today we  
@@ -1763,3 +1763,5 @@ The video discusses different Gospels that did not make it into the Bible, and a
 [1:02:42](https://youtu.be/11NiLEydjjg?t=3762) your expertise and your time and your  
 [1:02:44](https://youtu.be/11NiLEydjjg?t=3764) your humor and um  
 [1:02:46](https://youtu.be/11NiLEydjjg?t=3766) and until next time thank you very much  
+
+</details>

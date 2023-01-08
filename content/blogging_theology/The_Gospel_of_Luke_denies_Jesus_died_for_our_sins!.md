@@ -27,7 +27,7 @@ The video discusses the Gospel of Luke, which omits key verses that mention the 
 * **[00:45:00](https://www.youtube.com/watch?v=PMIyqDwrnjY&t=2700)** The author of Luke disagrees with most scholars who believe Luke knew Paul and believes instead that the author of Luke was not Luke the historical Luke. The author also argues that given the different conceptions of Paul held by Luke and Paul, it is safe to say that the author did not know Paul.
 * **[00:50:00](https://www.youtube.com/watch?v=PMIyqDwrnjY&t=3000)** The author of this YouTube video discusses Luke and Acts, and how they differ from Paul's life and theology. He argues that Luke was not the author of the Gospel of Luke, but rather a companion of Paul who may have known him or other early Christians. He also suggests that Luke's account of Paul's life and theology may be inaccurate due to a history of transmission that has led to some surprises in the text. The author ends the video by discussing the Gospel of John, which he argues has even more surprises.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/PMIyqDwrnjY?t=1) good evening uh my name is paul williams  
 [0:00:04](https://youtu.be/PMIyqDwrnjY?t=4) uh  
@@ -1345,3 +1345,5 @@ The video discusses the Gospel of Luke, which omits key verses that mention the 
 [0:53:10](https://youtu.be/PMIyqDwrnjY?t=3190) thank you very much dale for your time  
 [0:53:13](https://youtu.be/PMIyqDwrnjY?t=3193) and we look forward to your game thank  
 [0:53:17](https://youtu.be/PMIyqDwrnjY?t=3197) you  
+
+</details>

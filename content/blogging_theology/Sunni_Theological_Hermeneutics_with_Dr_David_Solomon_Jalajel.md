@@ -56,7 +56,7 @@ The Sunni theological hermeneutics video discusses how interpretation of verses 
 
 David Solomon Jalajel outlined the principles of Sunni theological hermeneutics, which have relevance to the questions Muslims are facing today. He also provided his email address so that viewers could ask him questions about Sunni theology.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/MPezdzuEqgo?t=1) hello everyone and uh welcome to  
 [0:00:03](https://youtu.be/MPezdzuEqgo?t=3) blogging theology today i am delighted  
@@ -3598,3 +3598,5 @@ David Solomon Jalajel outlined the principles of Sunni theological hermeneutics,
 [1:59:36](https://youtu.be/MPezdzuEqgo?t=7176) i really appreciate it  
 [1:59:38](https://youtu.be/MPezdzuEqgo?t=7178) okay  
 [1:59:39](https://youtu.be/MPezdzuEqgo?t=7179) till next time thank you  
+
+</details>

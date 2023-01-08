@@ -21,7 +21,7 @@ in this video sermonizes against the use of intoxicants and gambling, calling th
 
 **[00:00:00](https://www.youtube.com/watch?v=7Yy0dnQUe0U&t=0)**  is a sermon at a mosque open day, in which the speaker condemns intoxicants and gambling as evil works of Satan. He encourages people to shun them in order to achieve success.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/7Yy0dnQUe0U?t=0) well here i am at the mosque open day at  
 [0:00:03](https://youtu.be/7Yy0dnQUe0U?t=3) regents park mosque here in london  
@@ -39,3 +39,5 @@ in this video sermonizes against the use of intoxicants and gambling, calling th
 [0:00:36](https://youtu.be/7Yy0dnQUe0U?t=36) but if you turn away then know that our  
 [0:00:38](https://youtu.be/7Yy0dnQUe0U?t=38) messenger's duty is only to deliver the  
 [0:00:41](https://youtu.be/7Yy0dnQUe0U?t=41) message clearly  
+
+</details>

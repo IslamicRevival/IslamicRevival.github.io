@@ -18,7 +18,7 @@ In his book "Remembering God", Guy Eaton shares quotes from Thomas Aquinas, Plat
 
 **[00:00:00](https://www.youtube.com/watch?v=256oyX7OwJQ&t=0)** In his book Remembering God, English diplomat Guy Eaton quotes Thomas Aquinas, Plato, and Augustine as examples of those who are "incompetent" in matters of theology, but who are still "passionately interested" in it. He also shares an amusing story about a neighbor who mistook his friend's atheism for stupidity.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:03](https://youtu.be/256oyX7OwJQ?t=3) good evening and i just want to  
 [0:00:04](https://youtu.be/256oyX7OwJQ?t=4) make a very short video um just to talk  
@@ -96,3 +96,5 @@ In his book "Remembering God", Guy Eaton shares quotes from Thomas Aquinas, Plat
 [0:02:40](https://youtu.be/256oyX7OwJQ?t=160) god's grace uh we have a rather amusing  
 [0:02:45](https://youtu.be/256oyX7OwJQ?t=165) uh story just to share with you see you  
 [0:02:47](https://youtu.be/256oyX7OwJQ?t=167) next time  
+
+</details>

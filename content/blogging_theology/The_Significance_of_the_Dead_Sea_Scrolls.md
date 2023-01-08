@@ -24,7 +24,7 @@ The Dead Sea Scrolls are an important discovery because they are accurate; they 
 **[00:00:00](https://www.youtube.com/watch?v=lm4b5lDSJKE&t=0)** The Dead Sea Scrolls are manuscripts that date back to the 1st century BCE and confirm the accuracy of the Old Testament as we know it.
 * **[00:05:00](https://www.youtube.com/watch?v=lm4b5lDSJKE&t=300)** The Dead Sea Scrolls are an important discovery because they are accurate; they do not have any differences between what Hitler actually wrote and the first printed copy of his writings, which means that it is not right to say that the manuscript is accurate. Additionally, isaiah, which is a book that many scholars believe was compiled from multiple authors, does not mean that the prophet isaiah is right.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/lm4b5lDSJKE?t=2) The significance of the Dead Sea Scrolls, now i'm 
 often told often hear from Christians who say    
@@ -156,3 +156,5 @@ have isaiah's words again it doesn't it doesn't  
 but that's a different it's a different question    
 [0:06:36](https://youtu.be/lm4b5lDSJKE?t=396) the fact you have an accurate manuscript is not 
 evidence that what the person said is accurate  
+
+</details>

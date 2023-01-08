@@ -21,7 +21,7 @@ This video discusses the importance of taking advantage of five opportunities wh
 
 **[00:00:00](https://www.youtube.com/watch?v=LVUIg-ZayEQ&t=0)** This video discusses the importance of taking advantage of five opportunities before they're gone. These opportunities include youth, health, riches, free time, and life.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/LVUIg-ZayEQ?t=1) muhammad upon whom bp said  
 [0:00:03](https://youtu.be/LVUIg-ZayEQ?t=3) take advantage of five before  
@@ -31,3 +31,5 @@ This video discusses the importance of taking advantage of five opportunities wh
 [0:00:17](https://youtu.be/LVUIg-ZayEQ?t=17) your free time before your work  
 [0:00:21](https://youtu.be/LVUIg-ZayEQ?t=21) and your life before your death  
 [0:00:25](https://youtu.be/LVUIg-ZayEQ?t=25) hadith narrated by ibn ibas  
+
+</details>

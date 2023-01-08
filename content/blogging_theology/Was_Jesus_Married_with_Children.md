@@ -17,7 +17,7 @@ I read from 'The New Testament: A Historical Introduction to the Early Christian
 
 **[00:00:00](https://www.youtube.com/watch?v=6uiAfPQIo_o&t=0)** Some people believe that Jesus was likely married, based on the assumption that at the time, Jewish men did not typically abstain from sexual activity. However, this is not the case - there are many single celibate adults from the time of Jesus, and no ancient Christian literature mentions Jesus having a wife.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/6uiAfPQIo_o?t=1) was jesus married with children ? because of 
 several bestseller books such as the 1980s    
@@ -83,3 +83,5 @@ and his followers were trying to live the life of  
 was already trying to live the life of the angels    
 [0:03:55](https://youtu.be/6uiAfPQIo_o?t=235) not married but single and celibate . end 
 quote . what do you think ? till next time .  
+
+</details>

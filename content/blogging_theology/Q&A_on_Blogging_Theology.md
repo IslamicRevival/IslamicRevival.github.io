@@ -17,7 +17,7 @@ This YouTube video is a Q&A session in which the speaker offers suggestions for 
 
 **[00:00:00](https://www.youtube.com/watch?v=2TKVGQ9OsnA&t=0)** This YouTube video is a Q&A session in which the speaker offers suggestions for a blog series on theology. He recommends that viewers submit questions in the comments section, and he selects 10 questions to discuss in a future video.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/2TKVGQ9OsnA?t=2) someone suggested in one of the comments  
 [0:00:04](https://youtu.be/2TKVGQ9OsnA?t=4) uh that i do a q a session and that's a  
@@ -49,3 +49,5 @@ This YouTube video is a Q&A session in which the speaker offers suggestions for 
 [0:01:03](https://youtu.be/2TKVGQ9OsnA?t=63) we'll see what i can do with them just  
 [0:01:05](https://youtu.be/2TKVGQ9OsnA?t=65) an idea  
 [0:01:06](https://youtu.be/2TKVGQ9OsnA?t=66) thank you until next time  
+
+</details>

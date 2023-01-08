@@ -47,7 +47,7 @@ The video discusses the various arguments that Muslims have made for and against
 * **[01:35:00](https://www.youtube.com/watch?v=0IzntNKcmLQ&t=5700)** Sunni Muslims argue that, because humans are limited in their understanding of divine wisdom, any purported evidence against evolution must be considered subject to interpretation. However, all of these arguments suffer from the same flaw: they require a subjective determination of what is wise for other people. This leads to charismatic leaders using unsubstantiated arguments to build personal empires.
 * **[01:40:00](https://www.youtube.com/watch?v=0IzntNKcmLQ&t=6000)** The presenter discusses the possible dangers of wisdom-based arguments against evolution, especially when these arguments are used to avoid examining theology. They present an academic paper on the matter, citing references and providing additional information.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:02](https://youtu.be/0IzntNKcmLQ?t=2) hello everyone and uh welcome to  
 [0:00:04](https://youtu.be/0IzntNKcmLQ?t=4) blogging theology today i am delighted  
@@ -2972,3 +2972,5 @@ The video discusses the various arguments that Muslims have made for and against
 [1:43:14](https://youtu.be/0IzntNKcmLQ?t=6194) xiaomi and me god bless us all to  
 [1:43:16](https://youtu.be/0IzntNKcmLQ?t=6196) benefit from it inshallah well thank you  
 [1:43:19](https://youtu.be/0IzntNKcmLQ?t=6199) very much until next time  
+
+</details>

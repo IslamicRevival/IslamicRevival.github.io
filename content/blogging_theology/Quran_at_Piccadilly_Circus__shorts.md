@@ -17,7 +17,7 @@ In the "Qur'an at Piccadilly Circus #shorts" YouTube video, the author discusses
 
 **[00:00:00](https://www.youtube.com/watch?v=Wi7kyqiwkuk&t=0)** The surah 58 verse 7 from the Quran has helped the author tremendously in their life, showing that Allah knows everything and is with everyone at all times.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/Wi7kyqiwkuk?t=0) well here i am at piccadilly circus in  
 [0:00:02](https://youtu.be/Wi7kyqiwkuk?t=2) central london  
@@ -37,3 +37,5 @@ In the "Qur'an at Piccadilly Circus #shorts" YouTube video, the author discusses
 [0:00:37](https://youtu.be/Wi7kyqiwkuk?t=37) on the day of judgment for allah hath  
 [0:00:41](https://youtu.be/Wi7kyqiwkuk?t=41) full knowledge of all things  
 [0:00:44](https://youtu.be/Wi7kyqiwkuk?t=44) and that's some surah 58 verse 7.  
+
+</details>

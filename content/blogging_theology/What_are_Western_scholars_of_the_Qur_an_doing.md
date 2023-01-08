@@ -20,7 +20,7 @@ Western scholars of the Qur'an have differing approaches to studying the text, b
 * **[00:05:00](https://www.youtube.com/watch?v=9JSVA39PkS0&t=300)** This video introduces the breadth of Quranic studies, with a focus on the three main schools of thought: traditionalism, revisionism, and neo-traditionalism. Dr. Holger Zellentine explains that, while all three schools accept the traditional narrative of the Quran as being partially given to Muhammad by God, revisionism goes too far and tries to discard all Muslim evidence, while neo-traditionalism moves closer to the traditional narrative while still accepting some later influence on the Quran.
 * **[00:10:00](https://www.youtube.com/watch?v=9JSVA39PkS0&t=600)** This video discusses the various approaches to studying the Qur'an among Western scholars, and shows how collaborative projects are being undertaken to further research. It mentions the Corpus Chronicom project in Berlin, which is focused on collecting and studying quranic manuscripts. Another project, the Quran seminar run by Professor Gabriel Said Reynolds at the University of Notre Dame, is located in the middle ground between neotraditionalists and revisionists. The last school discussed is the Inara group at the University of Zürich, which focuses on Enlightenment views of the Qur'an. All of these scholars are working together to further understand the Qur'an.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/9JSVA39PkS0?t=1) in this video i want to share with you  
 [0:00:03](https://youtu.be/9JSVA39PkS0?t=3) an overview of quranic studies um where  
@@ -424,3 +424,5 @@ Western scholars of the Qur'an have differing approaches to studying the text, b
 [0:14:32](https://youtu.be/9JSVA39PkS0?t=872) for maybe calling to mind that we should  
 [0:14:34](https://youtu.be/9JSVA39PkS0?t=874) we too should be working in teams  
 [0:14:37](https://youtu.be/9JSVA39PkS0?t=877) absolutely thank you  
+
+</details>

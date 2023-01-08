@@ -34,7 +34,7 @@ The video discusses how Christians imagine the very first Christmas, 2000 years 
 **[00:00:00](https://www.youtube.com/watch?v=UKfoEkJ_Yi0&t=0)** The video discusses how Christians imagine the very first Christmas, which 2000 years ago involved the conception, growth, and birth of Jesus Christ. It points out that the idea of God changing is contradictory and therefore cannot be true, and that behind all of these beliefs is the idea that God changes big time in his very nature but the Bible teaches over and over that God does not change.
 * **[00:05:00](https://www.youtube.com/watch?v=UKfoEkJ_Yi0&t=300)** of the video offers a Christmas message advocating for people to abandon theology and belief in something simpler, purer, and monotheistic. He believes that this is what Jesus himself proclaimed to the Jews and the prophets before him, and urges people to believe in that monotheism. He also says that Muslims believe in the same monotheism as Christians, and that abandoning these contradictory beliefs would be a good step in accepting God's perfection.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/UKfoEkJ_Yi0?t=1) hello in this episode i want to talk  
 [0:00:03](https://youtu.be/UKfoEkJ_Yi0?t=3) about  
@@ -181,3 +181,5 @@ The video discusses how Christians imagine the very first Christmas, 2000 years 
 [0:05:45](https://youtu.be/UKfoEkJ_Yi0?t=345) favor of god was not upon god there is  
 [0:05:47](https://youtu.be/UKfoEkJ_Yi0?t=347) only one god  
 [0:05:48](https://youtu.be/UKfoEkJ_Yi0?t=348) as well and there we are until next time  
+
+</details>

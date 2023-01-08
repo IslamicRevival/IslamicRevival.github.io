@@ -21,7 +21,7 @@ The author argues that both Islam and Christianity are under threat from radical
 * **[00:05:00](https://www.youtube.com/watch?v=fSyo0e186uQ&t=300)** According to the author, Islam and Christianity are both under threat from radical activists who are eroding traditional values and beliefs. The author recommends that Muslims prioritize faith and values over social approval and acceptance.
 * **[00:10:00](https://www.youtube.com/watch?v=fSyo0e186uQ&t=600)** The speaker comments on how social approval can lead to religious stagnation, and applauds the former bishop for his instincts to hold onto truth even though they may not agree on all details.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:03](https://youtu.be/fSyo0e186uQ?t=3) should god come first  
 [0:00:05](https://youtu.be/fSyo0e186uQ?t=5) well this is a good question actually  
@@ -285,3 +285,5 @@ The author argues that both Islam and Christianity are under threat from radical
 [0:10:44](https://youtu.be/fSyo0e186uQ?t=644) him on on some details  
 [0:10:46](https://youtu.be/fSyo0e186uQ?t=646) so just wanted to share with you those  
 [0:10:49](https://youtu.be/fSyo0e186uQ?t=649) thoughts till next time  
+
+</details>

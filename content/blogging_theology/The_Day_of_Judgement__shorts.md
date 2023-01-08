@@ -31,7 +31,7 @@ https://twitter.com/freemonotheist
 
 **[00:00:00](https://www.youtube.com/watch?v=--wgGuc9wMU&t=0)* Discusses Surah 20, which describes the day of judgement. All beings will be humbled before God, the Living, Self-Subsisting, Eternal. Those who do good deeds will have no fear of harm, and those who have faith will have no fear of poverty or lack of life.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/--wgGuc9wMU?t=0) the quran says of the day of judgment  
 [0:00:04](https://youtu.be/--wgGuc9wMU?t=4) all faces shall be humbled before him  
@@ -43,3 +43,5 @@ https://twitter.com/freemonotheist
 [0:00:25](https://youtu.be/--wgGuc9wMU?t=25) nor of any curtailment of what is his  
 [0:00:28](https://youtu.be/--wgGuc9wMU?t=28) jew  
 [0:00:30](https://youtu.be/--wgGuc9wMU?t=30) surah 20 verses 111 to 112.  
+
+</details>

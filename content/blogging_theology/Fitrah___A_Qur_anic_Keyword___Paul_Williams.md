@@ -18,7 +18,7 @@ The video discusses the concept of fitrah and how it is a key psychological insi
 **[00:00:00](https://www.youtube.com/watch?v=ae51YI1XJ20&t=0)** Fitrah refers to human nature, which is essentially good. This is a key verse in the Quran and it indicates that man is created innocent, pure, true, free, and inclined to right and virtue. All of these qualities are found in any civilization, not just Arab or Western ones.
 * **[00:05:00](https://www.youtube.com/watch?v=ae51YI1XJ20&t=300)** The video discusses the concept of fitrah and how it is a key psychological insight into human nature. It quotes from Surah Baqarah, which states that man is created in the best of moulds and that the true religion is in harmony with our human nature. Other key words mentioned include fitra and zoroastrianism.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/ae51YI1XJ20?t=0) one of my favorite key words in the  
 [0:00:03](https://youtu.be/ae51YI1XJ20?t=3) whole of the quran is this word fitra  
@@ -203,3 +203,5 @@ The video discusses the concept of fitrah and how it is a key psychological insi
 [0:07:48](https://youtu.be/ae51YI1XJ20?t=468) keywords in here i might uh explore as  
 [0:07:51](https://youtu.be/ae51YI1XJ20?t=471) well we'll see until next time  
 [0:08:00](https://youtu.be/ae51YI1XJ20?t=480) you  
+
+</details>

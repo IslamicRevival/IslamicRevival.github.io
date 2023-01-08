@@ -17,7 +17,7 @@ Discusses the signs that will be present during the upcoming hour. One of these 
 
 **[00:00:00](https://www.youtube.com/watch?v=ubNQq4ywo0Y&t=0)** discusses the various signs that will be present during the upcoming hour. One of these signs is that knowledge will be taken away, which will lead to an increase in ignorance. Alcohol will also be widely used, and a popular TV show called Xena will become popular.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/ubNQq4ywo0Y?t=0) the prophet muhammad upon whom bp said  
 [0:00:04](https://youtu.be/ubNQq4ywo0Y?t=4) among the portents of the hour are that  
@@ -26,3 +26,5 @@ Discusses the signs that will be present during the upcoming hour. One of these 
 [0:00:11](https://youtu.be/ubNQq4ywo0Y?t=11) alcohol will be drunk and xena will  
 [0:00:14](https://youtu.be/ubNQq4ywo0Y?t=14) become widespread  
 [0:00:17](https://youtu.be/ubNQq4ywo0Y?t=17) hadith from sahih bukhari number 80.  
+
+</details>

@@ -17,7 +17,7 @@ This YouTube video features a series of Islamic sayings about destiny and arguin
 
 **[00:00:00](https://www.youtube.com/watch?v=-THUbUXj-7E&t=0)** This video features a collection of short, Islamic sayings about not arguing about destiny. The messenger of god is angry with people who argue about destiny, and he warns that it will lead to people's deaths. Ahmed also shares a saying about the heart being like a feather in a desert, which is constantly turned over by the wind.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/-THUbUXj-7E?t=0) abu herrera related the messenger of god  
 [0:00:03](https://youtu.be/-THUbUXj-7E?t=3) upon whom be peace came upon us as we  
@@ -40,3 +40,5 @@ This YouTube video features a series of Islamic sayings about destiny and arguin
 [0:00:41](https://youtu.be/-THUbUXj-7E?t=41) country which the winds keep turning  
 [0:00:44](https://youtu.be/-THUbUXj-7E?t=44) over and over  
 [0:00:47](https://youtu.be/-THUbUXj-7E?t=47) hadith from ahmed  
+
+</details>

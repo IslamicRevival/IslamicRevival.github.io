@@ -20,7 +20,7 @@ presents evidence that Muhammad was a true prophet. The most compelling evidence
 
 **[00:00:00](https://www.youtube.com/watch?v=vtxDK8NlX9M&t=0)** The most compelling evidence that Muhammad was a true prophet is an incident in which he is told that the eclipse was caused by the death of his son.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/vtxDK8NlX9M?t=1) Today I begin a new series of 60-second sound 
 bites, here is the first. There is an ocean of    
@@ -42,3 +42,5 @@ eclipse is over." This proves to me that he was  
 claimed credit for this astronomical coincidence    
 [0:01:01](https://youtu.be/vtxDK8NlX9M?t=61) to boost his credibility among his followers but 
 Muhammad did not. It has the ring of authenticity!  
+
+</details>

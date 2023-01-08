@@ -23,7 +23,7 @@ The video claims that there are five verses in the Qur'an that are worse than an
 **[00:00:00](https://www.youtube.com/watch?v=vvMo_Ax195I&t=0)** The five worst verses in the Qur'an are ones that advocate violence against non-Muslims. These verses do not exist in the Qur'an, and are instead taken from the Bible. This article explains how these verses are used to demonize Muslims, and shows how Christians often do not realize these verses are in their own scripture.
 * **[00:05:00](https://www.youtube.com/watch?v=vvMo_Ax195I&t=300)*argues that there are some verses in the Qur'an that are worse than those found in the Bible, because the Bible does not endorse violence and atrocity.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/vvMo_Ax195I?t=0) what are the the top five worst verses in the 
 quran ? well here is a list of the top five worst    
@@ -120,3 +120,5 @@ and extols real nasty atrocities in the  
 tradition does not endorse at all and that was    
 [0:05:18](https://youtu.be/vvMo_Ax195I?t=318) the point of this slightly odd beginning . anyway 
 i hope you found it interesting . until next time  
+
+</details>

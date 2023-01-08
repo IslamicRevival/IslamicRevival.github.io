@@ -22,7 +22,7 @@ In this chapter of the life of Muhammad, Bahira the monk tells Muhammad about a 
 **[00:00:00](https://www.youtube.com/watch?v=InxNDE8FCUM&t=0)** This reading from Muhammad's life based on the earliest sources tells of his uncle, Abu Talib, taking him with him on his travels, and how Bahira the monk saw the caravan approach and was struck by something the like of which he had never seen before. He recognized that it was a sign from God, and that the prophet Muhammad would soon be revealed. The men left without Muhammad, and he later brought the boy to the feast. Bahira recognized Muhammad's features and body, and was able to understand the miracles he had seen.
 * **[00:05:00](https://www.youtube.com/watch?v=InxNDE8FCUM&t=300)** In this chapter, Bahira the Monk tells Muhammad about a man he met who had the same mark of prophecy as Muhammad. Bahira also tells Muhammad about the dangers of the Jews, who he believes will try to harm the boy if they find out about him.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:03](https://youtu.be/InxNDE8FCUM?t=3) a reading from muhammad his life based  
 [0:00:06](https://youtu.be/InxNDE8FCUM?t=6) on the earliest sources by martin lings  
@@ -177,3 +177,5 @@ In this chapter of the life of Muhammad, Bahira the monk tells Muhammad about a 
 [0:06:54](https://youtu.be/InxNDE8FCUM?t=414) that's a reading from bahira the monk  
 [0:06:56](https://youtu.be/InxNDE8FCUM?t=416) chapter 10.  
 [0:06:58](https://youtu.be/InxNDE8FCUM?t=418) till next time  
+
+</details>

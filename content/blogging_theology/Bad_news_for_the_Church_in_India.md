@@ -17,7 +17,7 @@ Taken from The Gospels that did NOT make it into the Bible with Professor Dale M
 
 **[00:00:00](https://www.youtube.com/watch?v=xFPWxELcLRk&t=0)**  provides a history of the development of Christianity in India, and highlights the importance of the four canonical gospels. It discusses the influence of Ireneaus, who wrote around 180 AD, and points out that there was disagreement over which gospel should be considered the most important. Christianity in India is still important, as many Indian Christians practice the faith without knowing about the existence of other gospels.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:00](https://youtu.be/xFPWxELcLRk?t=0) because we have people in  
 [0:00:03](https://youtu.be/xFPWxELcLRk?t=3) the second century the most famous is  
@@ -80,3 +80,5 @@ Taken from The Gospels that did NOT make it into the Bible with Professor Dale M
 [0:01:55](https://youtu.be/xFPWxELcLRk?t=115) gosh that's true just like peter's it's  
 [0:01:57](https://youtu.be/xFPWxELcLRk?t=117) important for catholics that peter  
 [0:01:59](https://youtu.be/xFPWxELcLRk?t=119) founded the church at rome  
+
+</details>

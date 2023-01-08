@@ -17,7 +17,7 @@ Hadith in Bukhari & Muslim
 
 **[00:00:00](https://www.youtube.com/watch?v=OGKgz3pH5Kg&t=0)** This hadith compares Muhammad's relationship with the prophets who came before him to the unfinished construction of a house. The prophets are similar to the brick in the house, and Muhammad is the one who completes their work. This analogy is used to explain why there are no prophets after Muhammad.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/OGKgz3pH5Kg?t=1) abu hurairah said that the messenger of  
 [0:00:03](https://youtu.be/OGKgz3pH5Kg?t=3) god upon whom be peace said  
@@ -33,3 +33,5 @@ Hadith in Bukhari & Muslim
 [0:00:31](https://youtu.be/OGKgz3pH5Kg?t=31) brick in me the building is completed  
 [0:00:35](https://youtu.be/OGKgz3pH5Kg?t=35) and in me the messengers are completed  
 [0:00:39](https://youtu.be/OGKgz3pH5Kg?t=39) hadith in bukhari and muslim  
+
+</details>

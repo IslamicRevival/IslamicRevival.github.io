@@ -34,7 +34,7 @@ Dr. Stephen Meyer discusses his book "Return of the God Hypothesis" and argues t
 * **[00:45:00](https://www.youtube.com/watch?v=m-BOXBUWVAY&t=2700)** Dr. Stephen Meyer discusses the theory of intelligent design, which he believes provides the best overall explanation for the fine-tuning of physical parameters in the universe. He recommends the book Endorsement: A Theological Response to Scientific Realism, which is endorsed by a Nobel Prize-winning physicist.
 * **[00:50:00](https://www.youtube.com/watch?v=m-BOXBUWVAY&t=3000)** Dr. Stephen Meyer discusses the Return of the God Hypothesis, which argues that there was a period in history when God was active on Earth. The book, which is available in paperback and hardback, is also available in Kindle format.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:04](https://youtu.be/m-BOXBUWVAY?t=4) hello everyone and welcome to blogging  
 [0:00:06](https://youtu.be/m-BOXBUWVAY?t=6) theology today i am delighted to talk to  
@@ -1431,3 +1431,5 @@ Dr. Stephen Meyer discusses his book "Return of the God Hypothesis" and argues t
 [0:50:22](https://youtu.be/m-BOXBUWVAY?t=3022) until next time paul yes excellent i  
 [0:50:24](https://youtu.be/m-BOXBUWVAY?t=3024) really appreciate the conversation thank  
 [0:50:25](https://youtu.be/m-BOXBUWVAY?t=3025) you thank you bye-bye  
+
+</details>

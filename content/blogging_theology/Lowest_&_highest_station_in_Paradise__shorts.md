@@ -17,7 +17,7 @@ a man discusses the hadith that the lowest in station in Paradise will be the on
 
 **[00:00:00](https://www.youtube.com/watch?v=bpzb1rjHUkI&t=0)** According to a hadith recorded by Ahmed Termiti, the lowest in station in Paradise will be the one who looks at his gardens, his wives, his bliss, and his servants. The most honored person in Paradise will be the one who looks at his face morning and evening.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/bpzb1rjHUkI?t=1) ibn umar related that the messenger of  
 [0:00:03](https://youtu.be/bpzb1rjHUkI?t=3) god upon whom be peace  
@@ -35,3 +35,5 @@ a man discusses the hadith that the lowest in station in Paradise will be the on
 [0:00:31](https://youtu.be/bpzb1rjHUkI?t=31) will faces be resplendent looking  
 [0:00:34](https://youtu.be/bpzb1rjHUkI?t=34) upon their lord from surah 75  
 [0:00:38](https://youtu.be/bpzb1rjHUkI?t=38) 22 hadith from ahmed termiti  
+
+</details>

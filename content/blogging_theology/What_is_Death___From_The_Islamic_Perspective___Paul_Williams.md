@@ -25,7 +25,7 @@ Paul Williams at Blogging Theology
 * **[00:05:00](https://www.youtube.com/watch?v=5ReVKmGz-LE&t=300)**  Dr. Paul Williams talks about the Islamic perspective on death. He discusses how Muslims view death as a natural process that should be attended by godly people who will remind the deceased to say Allah by simply repeating it in his ear. He also discusses the importance of performing wudu and reciting the Quran during the dying process. Finally, he discusses the importance of family visiting the deceased's tomb, giving charity on behalf of the deceased, and praying for them.
 * **[00:10:00](https://www.youtube.com/watch?v=5ReVKmGz-LE&t=600)**  Paul Williams discusses what death is from an Islamic perspective. He discusses the wisdom behind the concept and recommends a book on the topic.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/5ReVKmGz-LE?t=1) if we watch the western media we see an  
 [0:00:03](https://youtu.be/5ReVKmGz-LE?t=3) ever increasing pressure to accept  
@@ -269,3 +269,5 @@ Paul Williams at Blogging Theology
 [0:10:13](https://youtu.be/5ReVKmGz-LE?t=613) wisdom deep wisdom from an islamic  
 [0:10:15](https://youtu.be/5ReVKmGz-LE?t=615) perspective so i do recommend this book  
 [0:10:17](https://youtu.be/5ReVKmGz-LE?t=617) until next time  
+
+</details>

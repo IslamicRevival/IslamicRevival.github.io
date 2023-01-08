@@ -59,7 +59,7 @@ Jonathan Brown discusses the origins of Hadith, and how they differ from other I
 **[01:00:00](https://www.youtube.com/watch?v=KOsc-uI9Lro&t=3600)** Thomas I forget his last name said that he is acting out a hadith in order to legitimize the Basset movement as a messianic movement bringing justice and filling the world with justice. There is a possibility that this quaker fellow in the 1600s in Britain actually said the prophet talked about black manners coming from Horus on and so the ambassadors are like hey like uh what color are we going to wear it's like i know well we'll wear black because of this hadith and we'll get like that. Western scholars presume that scripture and religion is always being doctored to fit to the present or the desire, but there is a skeptical suspicious methodology that is never never quite taking you know if a profit actually is a profit predicts things in the future. From an Islamic point of view, this is kind of automatically discounted because hey we're suspicious westerners and we don't believe that god acts in the world anyway.
 * **[01:05:00](https://www.youtube.com/watch?v=KOsc-uI9Lro&t=3900)** Jonathan Brown discusses the origins of Hadith, and how they differ from other Islamic sources. He also discusses how Hadith can be used to support Islamic law, and how there are blind spots in Hadith scholarship.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/KOsc-uI9Lro?t=1) Well hello everyone and welcome to Blogging 
 Theology. Today I am delighted to talk to Jonathan    
@@ -1432,3 +1432,5 @@ whenever probably i think in the fall is my guess  
 that well once again thank you so much sir and um    
 [1:09:18](https://youtu.be/KOsc-uI9Lro?t=4158) uh as i always say until next time and thank 
 you very much for your expertise today pleasure  
+
+</details>

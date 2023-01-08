@@ -39,7 +39,7 @@ https://twitter.com/freemonotheist
 * **[00:40:00](https://www.youtube.com/watch?v=DZ5aLzm6tMw&t=2400)* Discusses decline of trinitarian language in popular worship, attributing this to a lack of understanding of the doctrine. He also argues that the doctrine has contributed to the wider crisis of faith experienced in the western world.
 * **[00:45:00](https://www.youtube.com/watch?v=DZ5aLzm6tMw&t=2700)* Discusses doctrine of the Trinity, and the need for further explanation due to its historical development. It features a variety of authors with alternative perspectives on the doctrine.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/DZ5aLzm6tMw?t=1) this is uh my second video in this new  
 [0:00:04](https://youtu.be/DZ5aLzm6tMw?t=4) series on christian theology the last  
@@ -1170,3 +1170,5 @@ https://twitter.com/freemonotheist
 [0:45:24](https://youtu.be/DZ5aLzm6tMw?t=2724) concepts i hope to elucidate  
 [0:45:26](https://youtu.be/DZ5aLzm6tMw?t=2726) going forward  
 [0:45:27](https://youtu.be/DZ5aLzm6tMw?t=2727) until next  
+
+</details>

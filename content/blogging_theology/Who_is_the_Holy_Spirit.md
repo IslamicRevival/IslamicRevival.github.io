@@ -20,7 +20,7 @@ The Holy Spirit is a force that is mentioned in both the Quran and Christianity.
 **[00:00:00](https://www.youtube.com/watch?v=VGd59ASK_VM&t=0)** The video discusses who the Holy Spirit is in the Quran and Christianity. It quotes a religious scholar who notes that the Quran may have a corrective and polemical intent in its use of the term "holy spirit." Al-Razi believes that this force is the angel Gabriel, which explains why Jesus is called the word of God in the Quran.
 * **[00:05:00](https://www.youtube.com/watch?v=VGd59ASK_VM&t=300)** The Holy Spirit is a term used in Christianity to describe the transmitter of the revelation from God to Jesus. Gabriel also played a role in transmitting the revelation to Jesus, meaning that the term "the holy spirit" can be used in both Christianity and the Quran.
 
-## Full transcript with timestamps
+<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 [0:00:01](https://youtu.be/VGd59ASK_VM?t=1) i just wanted to do a very brief  
 [0:00:03](https://youtu.be/VGd59ASK_VM?t=3) video on the holy spirit who or what  
@@ -173,3 +173,5 @@ The Holy Spirit is a force that is mentioned in both the Quran and Christianity.
 [0:05:29](https://youtu.be/VGd59ASK_VM?t=329) and in the quran i hope that was of some  
 [0:05:31](https://youtu.be/VGd59ASK_VM?t=331) use  
 [0:05:32](https://youtu.be/VGd59ASK_VM?t=332) until next time  
+
+</details>
