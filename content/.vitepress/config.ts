@@ -41,8 +41,8 @@ export default defineConfig({
   {
     text: 'Articles', 
     items: [
-      { text: "Add/edit content", link: '/contributing/how-to-content' },
-      { text: "Writing guide", link: '/contributing/writing-guide' },
+      { text: "Add/edit content", link: '/articles/how-to-content' },
+      { text: "Writing guide", link: '/articles/writing-guide' },
       { text: 'Misunderstanding Ibada', link: '/articles/misunderstanding_ibada' },
     ],
 },

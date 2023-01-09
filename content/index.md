@@ -20,35 +20,35 @@ hero:
       link: /blogging_theology/
     - theme: alt
       text: Writing guide
-      link: /contributing/writing-guide.html
+      link: /articles/writing-guide.html
     - theme: alt
       text: Help to crowdsource content!
-      link: /contributing/how-to-content.html
+      link: /articles/how-to-content.html
 
 features:
   - icon: 🔈
     title: Fiqh & Tafseer
-    details: 70+ vids of Prof. Dr. Muhammad Al-Massari
+    details: ~65 Prof. Dr. Muhammad Al-Massari summaries
     link: /massari/
   - icon: 📹
     title: Blogging Theology
-    details: 120+ summaries of Paul Williams
+    details: ~120 Paul Williams summaries
     link:  /blogging_theology/
   - icon: 🔈
     title: Mohammed Hijab
-    details: 60+ summaries of Mohammed Hijab
+    details: ~55 Mohammed Hijab summaries
     link: /hijab/
   - icon: 🙌
     title: Sapience
-    details: 110+ summaries of Hamza Tzortzis
+    details: ~120 Hamza Tzortzis summaries
     link: /sapience/
   - icon: 🙌
     title: Thought Adventure
-    details: 60+ Thought Adventure podcasts
+    details: ~80 Theology podcast summaries
     link: /thought_adventure/
   - icon: 📕
-    title: books
-    details: free docs on Tawheed, Saqeefah & more!
+    title: Books
+    details: Tawheed, Saqeefah, Fiqh & more!
     link: /files/pdfs
 ---
 <script setup>
