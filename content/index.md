@@ -16,13 +16,13 @@ hero:
       text: Discussion forums
       link: https://github.com/IslamicRevival/IslamicRevival.github.io/discussions/1
     - theme: brand
-      text: ⭐ 1000s of searchable video summaries & transcripts
+      text: ⭐ 100s of searchable video summaries & transcripts
       link: /blogging_theology/
     - theme: alt
       text: Writing guide
       link: /contributing/writing-guide.html
     - theme: alt
-      text: Help crowdsource content!
+      text: Help to crowdsource content!
       link: /contributing/how-to-content.html
 
 features:
@@ -44,7 +44,7 @@ features:
     link: /sapience/
   - icon: 🙌
     title: Thought Adventure
-    details: 30+ Thought Adventure podcasts
+    details: 60+ Thought Adventure podcasts
     link: /thought_adventure/
   - icon: 📕
     title: books
