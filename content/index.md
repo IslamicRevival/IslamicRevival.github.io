@@ -42,6 +42,10 @@ features:
     title: Sapience
     details: 110+ summaries of Hamza Tzortzis
     link: /sapience/
+  - icon: 🙌
+    title: Thought Adventure
+    details: 30+ Thought Adventure podcasts
+    link: /thought_adventure/
   - icon: 📕
     title: books
     details: free docs on Tawheed, Saqeefah & more!

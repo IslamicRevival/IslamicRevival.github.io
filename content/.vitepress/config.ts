@@ -38,44 +38,29 @@ export default defineConfig({
     },
 
     nav: [
-	{
-		text: 'Articles',
-		items: [
-			{ text: 'Misunderstanding Ibada', link: '/articles/misunderstanding_ibada' },
-		],
-	},
-  { text: 'Blogging Theology', link: '/blogging_theology/' },
   {
-    text: 'Contribute', 
+    text: 'Articles', 
     items: [
       { text: "Add/edit content", link: '/contributing/how-to-content' },
       { text: "Writing guide", link: '/contributing/writing-guide' },
+      { text: 'Misunderstanding Ibada', link: '/articles/misunderstanding_ibada' },
     ],
 },
+{ text: 'Blog. Theology', link: '/blogging_theology/' },
+
 {
-  text: 'Files',
-  items: [
-    { text: '30+ docs', link: '/files/pdfs' }
-  ],
+  text: 'Files', link: '/files/pdfs' 
  },
  {
-  text: 'Fiqh & Tafseer',
-  items: [
-    { text: '70+ summaries', link: '/massari/' }
-  ],
+  text: 'Fiqh & Tafseer',link: '/massari/' 
 },
 {
-  text: 'Mohd. Hijab',
-  items: [
-    { text: '60+ videos', link: '/hijab/' }
-  ],
+  text: 'Mohd. Hijab', link: '/hijab/' 
  },
  {
-  text: 'Sapience',
-  items: [
-    { text: '110+ videos', link: '/sapience/' }
-  ],
+  text: 'Sapience', link: '/sapience/'
  },
+ { text: 'Thgt Advtr.', link: '/thought_adventure/' },
     ],
     sidebar:  getSideBar( "./content", {
       ignoreMDFiles: ['index'],
