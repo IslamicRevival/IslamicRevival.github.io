@@ -149,7 +149,7 @@ def main(channel_ids=channel_ids_input):
         videos_ids = []
         limit = 100
         count = 25
-        length = 1200 ## only interested in vids > 30minutes
+        length = 600 ## only interested in vids > 10minutes
         try:
             logger.info(f"Fetching all vids in channel {channel_id}")
             response = api.search(channel_id=channel_id, limit=limit, count=count)

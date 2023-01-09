@@ -8,6 +8,7 @@ export default defineConfig({
   base: '/',
   lang: 'en-US',
   title: 'Islamic Revival',
+  cleanUrls: 'with-subfolders',
   description: 'A free framework to share Islamically scholarly works',
   head: [
     [
@@ -43,12 +44,7 @@ export default defineConfig({
 			{ text: 'Misunderstanding Ibada', link: '/articles/misunderstanding_ibada' },
 		],
 	},
-  {
-		text: 'Blogging Theology',
-		items: [
-			{ text: 'Video summaries', link: '/blogging_theology/What_is_Truth_with_Firas_Zahabi' }
-		],
-	},
+  { text: 'Blogging Theology', link: '/blogging_theology/' },
   {
     text: 'Contribute', 
     items: [
@@ -59,25 +55,25 @@ export default defineConfig({
 {
   text: 'Files',
   items: [
-    { text: 'PDFs', link: '/files/pdfs' }
+    { text: '30+ docs', link: '/files/pdfs' }
   ],
  },
  {
   text: 'Fiqh & Tafseer',
   items: [
-    { text: 'Video summaries', link: '/massari/02_-_Establishing_an_Islamic_State__Is_it_an_Obligation_(Fardh)' }
+    { text: '70+ summaries', link: '/massari/' }
   ],
 },
 {
   text: 'Mohd. Hijab',
   items: [
-    { text: 'Video Summaries', link: '/hijab/Controversial_Questions_to_Prof.Jonathan_Brown_and_Dr._Shadee_ElMasri_(MH_Podcast__6)' }
+    { text: '60+ videos', link: '/hijab/' }
   ],
  },
  {
   text: 'Sapience',
   items: [
-    { text: 'Video Summaries', link: '/sapience/Divine_Commands__Why_Morality_Leads_to_God' }
+    { text: '110+ videos', link: '/sapience/' }
   ],
  },
     ],

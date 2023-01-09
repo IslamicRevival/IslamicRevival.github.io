@@ -5,43 +5,46 @@ title: Islamic Revival - AI crowdsourcing framework for knowledge sharing & arch
 titleTemplate: Islamic Revival - AI crowdsourcing framework for knowledge sharing & archiving
 
 hero:
-  name: Islamic Revival
-  text: an AI framework
-  tagline: to build a long-lived repository to share, archive & search Islamic media - we are a non-commercial, non-partisan, non-sectarian site.
+  name: "[ Islamic Revival ]"
+  text: an AI framework for Islamic media 
+  tagline: using cutting-edge NLP ML technologies to curate & archive knowledge
   #image:
    # src: /quill.svg
    # alt: Vite
   actions:
+    - theme: alt
+      text: Discussion forums
+      link: https://github.com/IslamicRevival/IslamicRevival.github.io/discussions/1
     - theme: brand
-      text: Add/edit content
-      link: /contributing/how-to-content.html
+      text: ⭐ 1000s of searchable video summaries & transcripts
+      link: /blogging_theology/
     - theme: alt
       text: Writing guide
       link: /contributing/writing-guide.html
-    - theme: brand
-      text: ⭐ Searchable summarized video transcripts
-      link: /blogging_theology/What_is_Truth_with_Firas_Zahabi
+    - theme: alt
+      text: Help crowdsource content!
+      link: /contributing/how-to-content.html
 
 features:
   - icon: 🔈
     title: Fiqh & Tafseer
-    details: Summaries of Prof. Dr. Muhammad AL-Massari
-    link: /massari/02_-_Establishing_an_Islamic_State__Is_it_an_Obligation_(Fardh)
+    details: 70+ vids of Prof. Dr. Muhammad Al-Massari
+    link: /massari/
   - icon: 📹
     title: Blogging Theology
-    details: Summaries of Paul Williams
-    link:  /blogging_theology/What_is_Truth_with_Firas_Zahabi
+    details: 120+ summaries of Paul Williams
+    link:  /blogging_theology/
   - icon: 🔈
     title: Mohammed Hijab
-    details: Summaries of Mohammed Hijab
-    link: /hijab/Controversial_Questions_to_Prof.Jonathan_Brown_and_Dr._Shadee_ElMasri_(MH_Podcast__6)
+    details: 60+ summaries of Mohammed Hijab
+    link: /hijab/
   - icon: 🙌
     title: Sapience
-    details: Summaries of Hamza Tzortzis
-    link: /sapience/Divine_Commands__Why_Morality_Leads_to_God
+    details: 110+ summaries of Hamza Tzortzis
+    link: /sapience/
   - icon: 📕
     title: books
-    details: Free docs on Tawheed, Saqeefah & more!
+    details: free docs on Tawheed, Saqeefah & more!
     link: /files/pdfs
 ---
 <script setup>
