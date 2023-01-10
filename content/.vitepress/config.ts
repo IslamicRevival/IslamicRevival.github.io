@@ -15,6 +15,15 @@ export default defineConfig({
       'link',
       { rel: 'icon', type: 'image/svg+xml', href: '/vue-quill/logo.svg' },
     ],
+    [
+      'script',
+      { async: true, src: 'https://www.googletagmanager.com/gtag/js?id=G-7M5QP5LNSL' }
+    ],
+    [
+      'script',
+      {},
+      "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-7M5QP5LNSL');"
+    ],
     ['meta', { name: 'author', content: 'SirVival' }],
     ['meta', { name: 'keywords', content: 'Islam, scholarship, Massari, salafi, madhabs, hadith, quran' }],
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
