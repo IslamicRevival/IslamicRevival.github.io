@@ -1,5 +1,5 @@
 <template>
-  <div class="comments-container" style="width: 35%">
+  <div class="comments-container" style="width: 45%">
   <div class="gcse-search"></div>
   </div>
 
