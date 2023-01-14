@@ -86,4 +86,8 @@ import { withBase } from 'vitepress'
   color-scheme: dark;
 }
 
+.gsc-control-cse {
+background-color: #545454 !important;
+}
+
 </style>

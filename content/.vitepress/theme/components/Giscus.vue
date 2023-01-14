@@ -1,9 +1,9 @@
 <template>
-  <div class="comments-container">
-  <div class="gcse-search" style="background-color: green;"></div>
+  <div class="comments-container" style="width: 35%">
+  <div class="gcse-search"></div>
   </div>
 
-  <div class="comments-container" 
+  <div class="comments-container" style="width: 55%"
        v-if="!page.frontmatter.hideComment">
     <Giscus id="comments"
             repo="IslamicRevival/IslamicRevival.github.io"
@@ -33,4 +33,5 @@ const { isDark, page } = useData()
 .comments-container {
   margin-top: 10px;
 }
+
 </style>
