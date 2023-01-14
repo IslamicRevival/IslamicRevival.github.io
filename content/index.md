@@ -83,6 +83,7 @@ import { withBase } from 'vitepress'
 
 .gstl_50 {
   color: black;
+  color-scheme: dark;
 }
 
 </style>

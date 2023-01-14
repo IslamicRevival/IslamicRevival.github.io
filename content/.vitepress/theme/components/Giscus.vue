@@ -1,6 +1,6 @@
 <template>
-  <div class="comments-container" style="color: black; background-color: #33a06f;">
-  <div class="gcse-search"></div>
+  <div class="comments-container">
+  <div class="gcse-search" style="background-color: green;"></div>
   </div>
 
   <div class="comments-container" 
