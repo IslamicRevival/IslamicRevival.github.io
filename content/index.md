@@ -36,11 +36,11 @@ features:
     link:  /blogging_theology/
   - icon: 🔈
     title: Mohammed Hijab
-    details: ~55 Mohammed Hijab summaries
+    details: ~140 Mohammed Hijab summaries
     link: /hijab/
   - icon: 🙌
     title: Sapience
-    details: ~120 Hamza Tzortzis summaries
+    details: ~145 Hamza Tzortzis summaries
     link: /sapience/
   - icon: 🙌
     title: Thought Adventure
