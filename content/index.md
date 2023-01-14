@@ -81,4 +81,8 @@ import { withBase } from 'vitepress'
   float: center;
 }
 
+.gstl_50 {
+  color: black;
+}
+
 </style>

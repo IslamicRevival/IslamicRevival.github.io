@@ -1,5 +1,5 @@
 <template>
-  <div class="comments-container">
+  <div class="comments-container" style="color: black; background-color: #33a06f;">
   <div class="gcse-search"></div>
   </div>
 
