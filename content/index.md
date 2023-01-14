@@ -88,6 +88,8 @@ import { withBase } from 'vitepress'
 
 .gsc-control-cse {
 background-color: #545454 !important;
+border-radius: 10px !important;
+border-color: #545454 !important;
 }
 
 </style>
