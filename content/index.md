@@ -17,7 +17,7 @@ hero:
       link: https://github.com/IslamicRevival/IslamicRevival.github.io/discussions/1
     - theme: brand
       text: ⭐ 100s of searchable video summaries & transcripts
-      link: /blogging_theology/
+      link: /#___gcse_0
     - theme: alt
       text: Writing guide
       link: /articles/writing-guide.html
@@ -51,6 +51,7 @@ features:
     details: Tawheed, Saqeefah, Fiqh & more!
     link: /files/pdfs
 ---
+
 <script setup>
 import { withBase } from 'vitepress'
 </script>

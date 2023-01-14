@@ -1,4 +1,8 @@
 <template>
+  <div class="comments-container">
+  <div class="gcse-search"></div>
+  </div>
+
   <div class="comments-container" 
        v-if="!page.frontmatter.hideComment">
     <Giscus id="comments"

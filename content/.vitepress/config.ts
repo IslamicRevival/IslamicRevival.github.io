@@ -24,6 +24,10 @@ export default defineConfig({
       {},
       "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-7M5QP5LNSL');"
     ],
+    [
+      'script',
+      { async: true, src: 'https://cse.google.com/cse.js?cx=9205c02114fb34820' } 
+    ],
     ['meta', { name: 'author', content: 'SirVival' }],
     ['meta', { name: 'keywords', content: 'Islam, scholarship, Massari, salafi, madhabs, hadith, quran' }],
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
