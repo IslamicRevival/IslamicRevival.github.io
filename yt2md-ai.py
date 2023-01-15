@@ -13,7 +13,7 @@ from youtube_transcript_api import YouTubeTranscriptApi
 
 import requests
 
-API_KEY = os.getenv('API_KEY1') ## codespaces secrets 1-12
+API_KEY = os.getenv('API_KEY2') ## codespaces secrets 1-12
 channel_ids_input = ['UCo5TlU2TZWVDsAlGI94QCoA', "UCeZBhrU8xHcik0ZgtDwjsdA", "UCHDFNoOk8WOXtHo8DIc8efQ", "UC_SLXSHcCwK2RSZTXVL26SA", "UC0uyPbeJ56twBLoHUbwFKnA", "UC57cqHgR_IZEs3gx0nxyZ-g"]  ## thought_adv, sapience, hijab, bloggingtheology, docs, doc
 
 logging.basicConfig(level=15, format='[%(asctime)s] %(levelname)s: %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
@@ -184,17 +184,19 @@ def main(channel_ids=channel_ids_input):
                 if yt_time(duration) < length:
                     logging.info(f"SKIPPING: short video: {duration} {title}")
                     continue
-                img_file_name = os.path.join(path, video_id) + '.jpg'
 
                 # check if video was already downloaded
                 md_file_name = os.path.join(path, string_to_filename(title)) + '.md'
                 if os.path.exists(md_file_name):
                     logging.info(f"SKIPPING: MD file file {video_id} {title} md already downloaded")
                     continue
+
+                #img_file_name = os.path.join(path, video_id) + '.jpg'
                 #if os.path.exists(img_file_name):
                 #    print(f"IMG FOR {video_id} img already downloaded, skipping. ", end="")
                 #    continue
-                preview_path = get_preview_image(img_file_name=img_file_name, img_url=video_metadata.snippet.thumbnails.default.url, video_id=video_id, path=path) 
+            
+                #preview_path = get_preview_image(img_file_name=img_file_name, img_url=video_metadata.snippet.thumbnails.default.url, video_id=video_id, path=path) 
                 logging.info(f"\n\nVideo ID is {video_id} with title {title}")
                 description = video_metadata.snippet.description
                 date = datetime.datetime.strptime(video_metadata.snippet.publishedAt, "%Y-%m-%dT%H:%M:%SZ").strftime("%Y-%m-%d")
@@ -277,6 +279,8 @@ def main(channel_ids=channel_ids_input):
                 smarkdown = re.sub(r'.*config\', \'G-.*','', smarkdown)
                 smarkdown = re.sub(r'.*dataLayer.*','', smarkdown)
                 smarkdown = re.sub(r'.==.*','', smarkdown)
+                smarkdown = re.sub(r"\[(.*)\]\(https.*t=([0-9]*)\)", r"<a onclick=\"modifyYTiframeseektime('\2')\">\1</a>", smarkdown)
+                smarkdown = re.sub(r"\[([^]]*)\]\(https.*t=([0-9]*)\)\s*-\s*\[([^]]*)\]\(https.*t=([0-9]*)\)", r"<a onclick=\"modifyYTiframeseektime('\2')\">\1</a> - <a onclick=\"modifyYTiframeseektime('\4')\">\3</a>", smarkdown)
                 smarkdown = re.sub(r'This is an AI generated summary. There may be inaccuracies', '\n\n<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>', smarkdown)
                 if not "AI generated" in smarkdown:
                     logging.warn("SKIPPING: no summary markdown generated")
