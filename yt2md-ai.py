@@ -74,7 +74,8 @@ def gen_markdown_page(video_id: str, title: str, description: str, smarkdown: st
     markdown += "\n\n"
     markdown += "<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>\n\n"
     for c in captions:
-        markdown += f"[{datetime.timedelta(seconds=int(c['start']))}](https://youtu.be/{video_id}?t={int(c['start'])}) {c['text']}  \n"
+        #markdown += f"[{datetime.timedelta(seconds=int(c['start']))}](https://youtu.be/{video_id}?t={int(c['start'])}) {c['text']}  \n"
+        markdown += f"<a onclick=\"modifyYTiframeseektime('{int(c['start'])})')\">{datetime.timedelta(seconds=int(c['start']))} {c['text']}<\/a>\n"
     markdown += "</details>"
     return markdown          
 
@@ -253,7 +254,7 @@ def main(channel_ids=channel_ids_input):
                 # find ./ -type f -name "*.md" -exec sed -i 's/Discusses\w+/Discusses /g' {} \;
                 # find . -type f -name "*.md" -exec sed -ie 's/<\/details>\([^ ]*\)$//g' {} \; 
                 # find . -type f -name "*.md" -exec sed -i "s/\[\([^]]*\)\](https.*t=\([0-9]*\))\s*-\s*\[\([^]]*\)\](https.*t=\([0-9]*\))/<a onclick=\"modifyYTiframeseektime('\2')\">\1<\/a> - <a onclick=\"modifyYTiframeseektime('\4')\">\3<\/a>/g" {} \;
-                # find . -type f -name "*.md" -exec sed -i "s/\[([^]]*)\](https.*t=\([0-9]*\))\s*-\s*\[([^]]*)\](https.*t=\([0-9]*\))/<a onclick=\"modifyYTiframeseektime('\2')\">\1<\/a> - <a onclick=\"modifyYTiframeseektime('\4')\">\3<\/a>/g" {} \;
+                # find . -type f -name "*.md" -exec sed -i "s/\[\(.*\)\](https.*t=\([0-9]*\))/<a onclick=\"modifyYTiframeseektime('\2')\">\1<\/a>/g" {} \; # TODO do s/r in python of this
 
                 smarkdown = md(mdresponse, strip=['title', 'head', 'gtag', 'props', 'could not summarize', '<could not summarize>', 'js', 'config'])
                 # list of AI NLP words to remove
@@ -276,7 +277,7 @@ def main(channel_ids=channel_ids_input):
                 smarkdown = re.sub(r'.*config\', \'G-.*','', smarkdown)
                 smarkdown = re.sub(r'.*dataLayer.*','', smarkdown)
                 smarkdown = re.sub(r'.==.*','', smarkdown)
-                smarkdown = re.sub(r'This is an AI generated summary. There may be inaccuracies', '<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>', smarkdown)
+                smarkdown = re.sub(r'This is an AI generated summary. There may be inaccuracies', '\n\n<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>', smarkdown)
                 if not "AI generated" in smarkdown:
                     logging.warn("SKIPPING: no summary markdown generated")
                     continue
