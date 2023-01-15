@@ -197,6 +197,7 @@ def main(channel_ids=channel_ids_input):
                 #    continue
             
                 #preview_path = get_preview_image(img_file_name=img_file_name, img_url=video_metadata.snippet.thumbnails.default.url, video_id=video_id, path=path) 
+                preview_path = 'tmp/'
                 logging.info(f"\n\nVideo ID is {video_id} with title {title}")
                 description = video_metadata.snippet.description
                 date = datetime.datetime.strptime(video_metadata.snippet.publishedAt, "%Y-%m-%dT%H:%M:%SZ").strftime("%Y-%m-%d")
