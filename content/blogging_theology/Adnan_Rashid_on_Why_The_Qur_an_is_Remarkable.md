@@ -31,7 +31,7 @@ Chapters:
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick=\"modifyYTiframeseektime('3600')\">00:00:00](https://www.youtube.com/watch?v=EploijvlsEk&t=0) - [01:00:00</a>
+### <a onclick=\"modifyYTiframeseektime('3600')\">00:00:00</a>
 
  Adnan Rashid discusses some of the indications in the Qur'an that suggest it was not authored by a seventh century Arab. He points out that this is a particularly fascinating area of study and that he has insights into it which are not well known. He thanks Paul for having him back and moves on to the topic of the day.
 
