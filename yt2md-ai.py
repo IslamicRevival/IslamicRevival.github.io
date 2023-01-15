@@ -252,7 +252,9 @@ def main(channel_ids=channel_ids_input):
                 # grep -rL "AI" *.md|xargs rm -f ##find and rm missing AI
                 # find ./ -type f -name "*.md" -exec sed -i 's/Discusses\w+/Discusses /g' {} \;
                 # find . -type f -name "*.md" -exec sed -ie 's/<\/details>\([^ ]*\)$//g' {} \; 
-                # find . -type f -name "*.md" -exec sed -i "s|https://www.youtube.com/watch?v=.*&t=\([0-9]\+\)|onclick=modifyYTiframeseektime('\1')|g" 
+                # find . -type f -name "*.md" -exec sed -i "s/\[\([^]]*\)\](https.*t=\([0-9]*\))\s*-\s*\[\([^]]*\)\](https.*t=\([0-9]*\))/<a onclick=\"modifyYTiframeseektime('\2')\">\1<\/a> - <a onclick=\"modifyYTiframeseektime('\4')\">\3<\/a>/g" {} \;
+                # find . -type f -name "*.md" -exec sed -i "s/\[([^]]*)\](https.*t=\([0-9]*\))\s*-\s*\[([^]]*)\](https.*t=\([0-9]*\))/<a onclick=\"modifyYTiframeseektime('\2')\">\1<\/a> - <a onclick=\"modifyYTiframeseektime('\4')\">\3<\/a>/g" {} \;
+
                 smarkdown = md(mdresponse, strip=['title', 'head', 'gtag', 'props', 'could not summarize', '<could not summarize>', 'js', 'config'])
                 # list of AI NLP words to remove
                 words_to_remove = ['title', 'head', 'gtag', 'props', 'could not summarize', '<could not summarize>', 'In this video,', 'in this video,',
