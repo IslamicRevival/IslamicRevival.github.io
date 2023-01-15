@@ -27,8 +27,6 @@ Chapters:
 ## Summary of [Adnan Rashid on Why The Qur'an is Remarkable](https://www.youtube.com/watch?v=EploijvlsEk)
 
 
-*
-
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick=\"modifyYTiframeseektime('3600')\">00:00:00</a>
@@ -47,7 +45,7 @@ Chapters:
 * **<a onclick=\"modifyYTiframeseektime('2700')\">00:45:00</a>* Discusses the similarities between the story of Adam and Jesus, including their miraculous births.  also mention the fact that Chapter 1 of the Quran contains a total of 18 references to both Adam and Jesus by name. In conclusion, the video argues that this similarity suggests a unified authorship for the Quran, rather than a committee or random compilation.
 * **<a onclick=\"modifyYTiframeseektime('3000')\">00:50:00</a>**  Adnan Rashid discusses the Qur'an's claim that Muhammad came from Arabia. He also discusses the biblical references to Arabia and how they support the Qur'an's claim.
 * **<a onclick=\"modifyYTiframeseektime('3300')\">00:55:00</a>** Adnan Rashid discusses how the Qur'an references different places in the Middle East, including Palestine and Syria, and how these references are a reminder of the Prophet Muhammed's connection to these places. He also mentions the word "rakim" in relation to the story of the Seven Sleepers of Ephesus.
-### <a onclick=\"modifyYTiframeseektime('3900')\">01:00:00](https://www.youtube.com/watch?v=EploijvlsEk&t=3600) - [01:05:00</a>
+### <a onclick=\"modifyYTiframeseektime('3900')\">01:00:00</a>
 
 Rashid discusses how the Qur'an uses specific words and situations to reflect specific realities, often in ways that have only been picked up on by Western scholars in recent years. He urges readers to support quality researchers in the field who are working to uncover these hidden meanings.
 
