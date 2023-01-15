@@ -1,13 +1,13 @@
 ---
 layout: home
 
-title: Islamic Revival - AI crowdsourcing framework for knowledge sharing & archiving
-titleTemplate: Islamic Revival - AI crowdsourcing framework for knowledge sharing & archiving
+title: Islamic Revival - AI framework for knowledge curation, sharing & archiving
+titleTemplate: Islamic Revival - AI framework for knowledge curation, sharing & archiving
 
 hero:
   name: "[ Islamic Revival ]"
-  text: an AI framework for Islamic media 
-  tagline: using cutting-edge NLP ML technologies to curate & archive knowledge
+  text: a generative AI framework for Islamic media 
+  tagline: using NLP & ML to revolutionize how we interact with long-form content
   #image:
    # src: /quill.svg
    # alt: Vite
