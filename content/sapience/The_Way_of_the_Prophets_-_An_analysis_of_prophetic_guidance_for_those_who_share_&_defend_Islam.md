@@ -1,6 +1,6 @@
 # The Way of the Prophets - An analysis of prophetic guidance for those who share & defend Islam (2021-12-05)
 
-![alt The Way of the Prophets - An analysis of prophetic guidance for those who share & defend Islam](YqVD91REsQM.jpg "The Way of the Prophets - An analysis of prophetic guidance for those who share & defend Islam")
+<iframe loading='lazy' src='https://www.youtube.com/embed/YqVD91REsQM'></iframe>
 
 ## Description
 

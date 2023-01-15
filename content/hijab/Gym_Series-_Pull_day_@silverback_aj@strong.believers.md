@@ -1,6 +1,6 @@
 # Gym Series- Pull day @silverback_aj@strong.believers (2022-03-07)
 
-![alt Gym Series- Pull day @silverback_aj@strong.believers](eKMH6Bdj8ak.jpg "Gym Series- Pull day @silverback_aj@strong.believers")
+<iframe loading='lazy' src='https://www.youtube.com/embed/eKMH6Bdj8ak'></iframe>
 
 ## Description
 

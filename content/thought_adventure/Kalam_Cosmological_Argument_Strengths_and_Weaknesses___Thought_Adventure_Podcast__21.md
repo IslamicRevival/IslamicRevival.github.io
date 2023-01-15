@@ -1,6 +1,6 @@
 # Kalam Cosmological Argument Strengths and Weaknesses | Thought Adventure Podcast #21 (2022-02-07)
 
-![alt Kalam Cosmological Argument Strengths and Weaknesses | Thought Adventure Podcast #21](ZEIr-hTT2ic.jpg "Kalam Cosmological Argument Strengths and Weaknesses | Thought Adventure Podcast #21")
+<iframe loading='lazy' src='https://www.youtube.com/embed/ZEIr-hTT2ic'></iframe>
 
 ## Description
 

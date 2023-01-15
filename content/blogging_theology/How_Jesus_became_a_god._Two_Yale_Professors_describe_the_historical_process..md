@@ -1,6 +1,6 @@
 # How Jesus became a god. Two Yale Professors describe the historical process. (2021-02-07)
 
-![alt How Jesus became a god. Two Yale Professors describe the historical process.](EyFB37JK-m0.jpg "How Jesus became a god. Two Yale Professors describe the historical process.")
+<iframe loading='lazy' src='https://www.youtube.com/embed/EyFB37JK-m0'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # MUSLIM RESPONDS TO LOGAN PAUL ON ISLAM (2020-07-12)
 
-![alt MUSLIM RESPONDS TO LOGAN PAUL ON ISLAM](W7CdWzs8Lfg.jpg "MUSLIM RESPONDS TO LOGAN PAUL ON ISLAM")
+<iframe loading='lazy' src='https://www.youtube.com/embed/W7CdWzs8Lfg'></iframe>
 
 ## Description
 

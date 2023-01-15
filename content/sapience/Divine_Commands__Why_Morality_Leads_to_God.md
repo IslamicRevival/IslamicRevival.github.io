@@ -1,6 +1,6 @@
 # Divine Commands: Why Morality Leads to God (2018-05-24)
 
-![alt Divine Commands: Why Morality Leads to God](yt-SUQqRLWk.jpg "Divine Commands: Why Morality Leads to God")
+<iframe loading='lazy' src='https://www.youtube.com/embed/yt-SUQqRLWk'></iframe>
 
 ## Description
 

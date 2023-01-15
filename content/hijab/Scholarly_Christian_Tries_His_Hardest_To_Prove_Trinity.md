@@ -1,6 +1,6 @@
 # Scholarly Christian Tries His Hardest To Prove Trinity (2017-06-13)
 
-![alt Scholarly Christian Tries His Hardest To Prove Trinity](gfo_IMb0t6M.jpg "Scholarly Christian Tries His Hardest To Prove Trinity")
+<iframe loading='lazy' src='https://www.youtube.com/embed/gfo_IMb0t6M'></iframe>
 
 ## Description
 

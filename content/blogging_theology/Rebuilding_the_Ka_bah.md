@@ -1,6 +1,6 @@
 # Rebuilding the Ka'bah (2022-03-06)
 
-![alt Rebuilding the Ka'bah](Maihu1XOM6U.jpg "Rebuilding the Ka'bah")
+<iframe loading='lazy' src='https://www.youtube.com/embed/Maihu1XOM6U'></iframe>
 
 ## Description
 

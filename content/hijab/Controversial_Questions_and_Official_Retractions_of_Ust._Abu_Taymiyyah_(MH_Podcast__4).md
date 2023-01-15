@@ -1,6 +1,6 @@
 # Controversial Questions and Official Retractions of Ust. Abu Taymiyyah (MH Podcast #4) (2020-06-21)
 
-![alt Controversial Questions and Official Retractions of Ust. Abu Taymiyyah (MH Podcast #4)](ERxMxtTR9eo.jpg "Controversial Questions and Official Retractions of Ust. Abu Taymiyyah (MH Podcast #4)")
+<iframe loading='lazy' src='https://www.youtube.com/embed/ERxMxtTR9eo'></iframe>
 
 ## Description
 

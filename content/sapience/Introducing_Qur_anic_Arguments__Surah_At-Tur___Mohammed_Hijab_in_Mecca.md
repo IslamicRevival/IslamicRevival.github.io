@@ -1,6 +1,6 @@
 # Introducing Qur'anic Arguments: Surah At-Tur | Mohammed Hijab in Mecca (2022-12-28)
 
-![alt Introducing Qur'anic Arguments: Surah At-Tur | Mohammed Hijab in Mecca](XLRH77_Yx1w.jpg "Introducing Qur'anic Arguments: Surah At-Tur | Mohammed Hijab in Mecca")
+<iframe loading='lazy' src='https://www.youtube.com/embed/XLRH77_Yx1w'></iframe>
 
 ## Description
 

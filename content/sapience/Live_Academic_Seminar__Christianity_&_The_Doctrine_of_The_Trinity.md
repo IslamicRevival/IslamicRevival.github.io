@@ -1,6 +1,6 @@
 # Live Academic Seminar: Christianity & The Doctrine of The Trinity (2021-06-25)
 
-![alt Live Academic Seminar: Christianity & The Doctrine of The Trinity](7U8ldw1Ha9U.jpg "Live Academic Seminar: Christianity & The Doctrine of The Trinity")
+<iframe loading='lazy' src='https://www.youtube.com/embed/7U8ldw1Ha9U'></iframe>
 
 ## Description
 

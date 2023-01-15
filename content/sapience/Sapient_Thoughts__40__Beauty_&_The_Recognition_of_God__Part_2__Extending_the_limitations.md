@@ -1,6 +1,6 @@
 # Sapient Thoughts #40: Beauty & The Recognition of God — Part 2: Extending the limitations (2021-08-16)
 
-![alt Sapient Thoughts #40: Beauty & The Recognition of God — Part 2: Extending the limitations](sWbZlh0jA4k.jpg "Sapient Thoughts #40: Beauty & The Recognition of God — Part 2: Extending the limitations")
+<iframe loading='lazy' src='https://www.youtube.com/embed/sWbZlh0jA4k'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Radical Zionist Embarrassed by Muslim Debater (2021-08-31)
 
-![alt Radical Zionist Embarrassed by Muslim Debater](MUEowQNLa2w.jpg "Radical Zionist Embarrassed by Muslim Debater")
+<iframe loading='lazy' src='https://www.youtube.com/embed/MUEowQNLa2w'></iframe>
 
 ## Description
 

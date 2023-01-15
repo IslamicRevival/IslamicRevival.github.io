@@ -1,6 +1,6 @@
 # Mohammed Hijab Reacts to 'Red Pill' Kevin Samuels (2021-10-17)
 
-![alt Mohammed Hijab Reacts to 'Red Pill' Kevin Samuels](V-77OQU9Ul8.jpg "Mohammed Hijab Reacts to 'Red Pill' Kevin Samuels")
+<iframe loading='lazy' src='https://www.youtube.com/embed/V-77OQU9Ul8'></iframe>
 
 ## Description
 

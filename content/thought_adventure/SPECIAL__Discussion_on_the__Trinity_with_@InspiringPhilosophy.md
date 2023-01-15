@@ -1,6 +1,6 @@
 # SPECIAL: Discussion on the #Trinity with @InspiringPhilosophy (2022-05-21)
 
-![alt SPECIAL: Discussion on the #Trinity with @InspiringPhilosophy](hasgbxDiC24.jpg "SPECIAL: Discussion on the #Trinity with @InspiringPhilosophy")
+<iframe loading='lazy' src='https://www.youtube.com/embed/hasgbxDiC24'></iframe>
 
 ## Description
 

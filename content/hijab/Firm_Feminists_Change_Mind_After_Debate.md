@@ -1,6 +1,6 @@
 # Firm Feminists Change Mind After Debate (2017-10-16)
 
-![alt Firm Feminists Change Mind After Debate](Mmu0GgrKTnU.jpg "Firm Feminists Change Mind After Debate")
+<iframe loading='lazy' src='https://www.youtube.com/embed/Mmu0GgrKTnU'></iframe>
 
 ## Description
 

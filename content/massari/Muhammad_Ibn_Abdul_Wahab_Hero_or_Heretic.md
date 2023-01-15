@@ -1,6 +1,6 @@
 # Muhammad Ibn Abdul Wahab Hero or Heretic? (2022-11-29)
 
-![alt Muhammad Ibn Abdul Wahab Hero or Heretic?](cRawmTCJeh0.jpg "Muhammad Ibn Abdul Wahab Hero or Heretic?")
+<iframe loading='lazy' src='https://www.youtube.com/embed/cRawmTCJeh0'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Most Revealing Hadith on Gender in Islam? (2022-01-14)
 
-![alt Most Revealing Hadith on Gender in Islam?](BHP78wJXi30.jpg "Most Revealing Hadith on Gender in Islam?")
+<iframe loading='lazy' src='https://www.youtube.com/embed/BHP78wJXi30'></iframe>
 
 ## Description
 

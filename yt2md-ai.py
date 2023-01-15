@@ -13,7 +13,7 @@ from youtube_transcript_api import YouTubeTranscriptApi
 
 import requests
 
-API_KEY = os.getenv('API_KEY10') ## codespaces secrets 1-12
+API_KEY = os.getenv('API_KEY9') ## codespaces secrets 1-12
 channel_ids_input = ['UCo5TlU2TZWVDsAlGI94QCoA', "UCeZBhrU8xHcik0ZgtDwjsdA", "UCHDFNoOk8WOXtHo8DIc8efQ", "UC_SLXSHcCwK2RSZTXVL26SA", "UC0uyPbeJ56twBLoHUbwFKnA", "UC57cqHgR_IZEs3gx0nxyZ-g"]  ## thought_adv, sapience, hijab, bloggingtheology, docs, doc
 
 logging.basicConfig(level=15, format='[%(asctime)s] %(levelname)s: %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
@@ -66,7 +66,7 @@ def gen_markdown_page(video_id: str, title: str, description: str, smarkdown: st
     markdown = ""
 
     markdown += f"# {title} ({date})\n\n"
-    markdown += f"![alt {title}]({video_id}.jpg \"{title}\")\n\n"
+    markdown += f"<iframe loading='lazy' src='https://www.youtube.com/embed/{video_id}'></iframe>"
     markdown += "## Description\n\n"
     markdown += description.strip()
     markdown += "\n\n"
@@ -255,8 +255,7 @@ def main(channel_ids=channel_ids_input):
                 # find ./ -type f -name "*.md" -exec sed -i 's/This is an AI generated summary. There may be inaccuracies/<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies<\/span>/g' {} \;
                 # find . -type f -name "*.md" -exec sed -i 's/\#\# Full transcript with timestamps/<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND<\/h2><\/summary>/g' {} \;
                 # find . -type f -name "*.md" -exec sed -ie 's/<\/details>\([^ ]*\)$//g' {} \; 
-                # find . -type f -name "*.md" -exec sed -i '$s/$/<\/details>/' {} \; 
-
+                # find . -type f -name "*.md" -exec sed -i "s/\!\[.*(\(.*\).jpg.*/<iframe loading='lazy' src='https:\/\/www.youtube.com\/embed\/\1'><\/iframe>/g" {} \;
                 smarkdown = md(mdresponse, strip=['title', 'head', 'gtag', 'props', 'could not summarize', '<could not summarize>', 'js', 'config'])
                 # list of AI NLP words to remove
                 words_to_remove = ['title', 'head', 'gtag', 'props', 'could not summarize', '<could not summarize>', 'In this video,', 'in this video,',

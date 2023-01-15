@@ -1,6 +1,6 @@
 # Shocking Shia/Sunni Debate on Racism (2018-07-02)
 
-![alt Shocking Shia/Sunni Debate on Racism](bwG8mSzOzyY.jpg "Shocking Shia/Sunni Debate on Racism")
+<iframe loading='lazy' src='https://www.youtube.com/embed/bwG8mSzOzyY'></iframe>
 
 ## Description
 

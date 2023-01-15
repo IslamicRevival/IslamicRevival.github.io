@@ -1,6 +1,6 @@
 # Salvation in Islam & Christianity | A Discussion Between Dr. Osman Latiff & Dr. Michael Nazir-Ali (2022-04-02)
 
-![alt Salvation in Islam & Christianity | A Discussion Between Dr. Osman Latiff & Dr. Michael Nazir-Ali](fYX8gN3U0LI.jpg "Salvation in Islam & Christianity | A Discussion Between Dr. Osman Latiff & Dr. Michael Nazir-Ali")
+<iframe loading='lazy' src='https://www.youtube.com/embed/fYX8gN3U0LI'></iframe>
 
 ## Description
 

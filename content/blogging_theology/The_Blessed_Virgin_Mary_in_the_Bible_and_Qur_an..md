@@ -1,6 +1,6 @@
 # The Blessed Virgin Mary in the Bible and Qur'an. (2021-03-01)
 
-![alt The Blessed Virgin Mary in the Bible and Qur'an.](JJ4MU-8sN3E.jpg "The Blessed Virgin Mary in the Bible and Qur'an.")
+<iframe loading='lazy' src='https://www.youtube.com/embed/JJ4MU-8sN3E'></iframe>
 
 ## Description
 

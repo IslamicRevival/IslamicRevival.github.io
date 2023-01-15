@@ -1,6 +1,6 @@
 # Is the Quran miraculous? With Dr Mustafa Khattab (2022-03-10)
 
-![alt Is the Quran miraculous? With Dr Mustafa Khattab](UB4gOfl0ets.jpg "Is the Quran miraculous? With Dr Mustafa Khattab")
+<iframe loading='lazy' src='https://www.youtube.com/embed/UB4gOfl0ets'></iframe>
 
 ## Description
 

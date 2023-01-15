@@ -1,6 +1,6 @@
 # Should Muslims kill Salman Rushdie?? (2022-08-20)
 
-![alt Should Muslims kill Salman Rushdie??](2z1J6ydYTYw.jpg "Should Muslims kill Salman Rushdie??")
+<iframe loading='lazy' src='https://www.youtube.com/embed/2z1J6ydYTYw'></iframe>
 
 ## Description
 

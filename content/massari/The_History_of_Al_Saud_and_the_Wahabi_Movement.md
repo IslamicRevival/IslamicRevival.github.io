@@ -1,6 +1,6 @@
 # The History of Al Saud and the Wahabi Movement (2022-05-18)
 
-![alt The History of Al Saud and the Wahabi Movement](6E9dWGt9qIQ.jpg "The History of Al Saud and the Wahabi Movement")
+<iframe loading='lazy' src='https://www.youtube.com/embed/6E9dWGt9qIQ'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Amazed by The Qur'an (2022-05-09)
 
-![alt Amazed by The Qur'an](FVRTmCbVJYE.jpg "Amazed by The Qur'an")
+<iframe loading='lazy' src='https://www.youtube.com/embed/FVRTmCbVJYE'></iframe>
 
 ## Description
 

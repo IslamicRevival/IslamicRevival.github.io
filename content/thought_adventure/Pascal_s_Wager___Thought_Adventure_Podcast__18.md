@@ -1,6 +1,6 @@
 # Pascal's Wager | Thought Adventure Podcast #18 (2021-10-24)
 
-![alt Pascal's Wager | Thought Adventure Podcast #18](HkCKH5PRb1Y.jpg "Pascal's Wager | Thought Adventure Podcast #18")
+<iframe loading='lazy' src='https://www.youtube.com/embed/HkCKH5PRb1Y'></iframe>
 
 ## Description
 

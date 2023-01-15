@@ -1,6 +1,6 @@
 # The Qatar World Cup: 'LGBTQ' and Western criticism of Islam (2022-11-10)
 
-![alt The Qatar World Cup: 'LGBTQ' and Western criticism of Islam](BGBKp6fNb18.jpg "The Qatar World Cup: 'LGBTQ' and Western criticism of Islam")
+<iframe loading='lazy' src='https://www.youtube.com/embed/BGBKp6fNb18'></iframe>
 
 ## Description
 

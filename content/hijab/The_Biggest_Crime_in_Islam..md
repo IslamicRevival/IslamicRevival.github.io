@@ -1,6 +1,6 @@
 # The Biggest Crime in Islam. (2017-10-23)
 
-![alt The Biggest Crime in Islam.](ko0eCW6Pwzs.jpg "The Biggest Crime in Islam.")
+<iframe loading='lazy' src='https://www.youtube.com/embed/ko0eCW6Pwzs'></iframe>
 
 ## Description
 

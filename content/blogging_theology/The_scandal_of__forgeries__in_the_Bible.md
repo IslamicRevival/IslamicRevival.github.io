@@ -1,6 +1,6 @@
 # The scandal of 'forgeries' in the Bible (2021-05-31)
 
-![alt The scandal of 'forgeries' in the Bible](DY7V9Ch7Q5k.jpg "The scandal of 'forgeries' in the Bible")
+<iframe loading='lazy' src='https://www.youtube.com/embed/DY7V9Ch7Q5k'></iframe>
 
 ## Description
 

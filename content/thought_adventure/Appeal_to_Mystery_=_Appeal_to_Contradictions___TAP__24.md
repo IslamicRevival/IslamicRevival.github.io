@@ -1,6 +1,6 @@
 # Appeal to Mystery = Appeal to Contradictions? | TAP #24 (2022-10-23)
 
-![alt Appeal to Mystery = Appeal to Contradictions? | TAP #24](oRRXsocNbqk.jpg "Appeal to Mystery = Appeal to Contradictions? | TAP #24")
+<iframe loading='lazy' src='https://www.youtube.com/embed/oRRXsocNbqk'></iframe>
 
 ## Description
 

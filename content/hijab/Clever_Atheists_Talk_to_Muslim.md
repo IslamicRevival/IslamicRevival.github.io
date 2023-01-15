@@ -1,6 +1,6 @@
 # Clever Atheists Talk to Muslim (2018-03-05)
 
-![alt Clever Atheists Talk to Muslim](W-yfuJfChvY.jpg "Clever Atheists Talk to Muslim")
+<iframe loading='lazy' src='https://www.youtube.com/embed/W-yfuJfChvY'></iframe>
 
 ## Description
 

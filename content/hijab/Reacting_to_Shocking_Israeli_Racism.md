@@ -1,6 +1,6 @@
 # Reacting to Shocking Israeli Racism (2021-05-20)
 
-![alt Reacting to Shocking Israeli Racism](XY0QUB0q8wc.jpg "Reacting to Shocking Israeli Racism")
+<iframe loading='lazy' src='https://www.youtube.com/embed/XY0QUB0q8wc'></iframe>
 
 ## Description
 

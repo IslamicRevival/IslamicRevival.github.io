@@ -1,6 +1,6 @@
 # Hard Questions to Hamza Tzortzis (2017-10-10)
 
-![alt Hard Questions to Hamza Tzortzis](jTi9f_JqTUo.jpg "Hard Questions to Hamza Tzortzis")
+<iframe loading='lazy' src='https://www.youtube.com/embed/jTi9f_JqTUo'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # 'Nope. Jesus is Not Yahweh' ~ Dr Bart Ehrman (2021-04-19)
 
-![alt 'Nope. Jesus is Not Yahweh' ~ Dr Bart Ehrman](zfQ6bU6GYDw.jpg "'Nope. Jesus is Not Yahweh' ~ Dr Bart Ehrman")
+<iframe loading='lazy' src='https://www.youtube.com/embed/zfQ6bU6GYDw'></iframe>
 
 ## Description
 

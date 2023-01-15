@@ -1,6 +1,6 @@
 # ST#67: Problematic Hadiths Case Study - Part 3 | Sh. Anwar Arafat (2022-09-11)
 
-![alt ST#67: Problematic Hadiths Case Study - Part 3 | Sh. Anwar Arafat](QlfuqSwdGX0.jpg "ST#67: Problematic Hadiths Case Study - Part 3 | Sh. Anwar Arafat")
+<iframe loading='lazy' src='https://www.youtube.com/embed/QlfuqSwdGX0'></iframe>
 
 ## Description
 

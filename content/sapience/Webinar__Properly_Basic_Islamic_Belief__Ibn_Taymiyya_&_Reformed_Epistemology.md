@@ -1,6 +1,6 @@
 # Webinar: Properly Basic Islamic Belief — Ibn Taymiyya & Reformed Epistemology (2020-10-21)
 
-![alt Webinar: Properly Basic Islamic Belief — Ibn Taymiyya & Reformed Epistemology](T3Y8idsg5j4.jpg "Webinar: Properly Basic Islamic Belief — Ibn Taymiyya & Reformed Epistemology")
+<iframe loading='lazy' src='https://www.youtube.com/embed/T3Y8idsg5j4'></iframe>
 
 ## Description
 

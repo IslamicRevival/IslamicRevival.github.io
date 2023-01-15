@@ -1,6 +1,6 @@
 # The Review: Is the Trinity Coherent? Vin from Vin and Sori vs. The Muslim Metaphysician (2021-04-07)
 
-![alt The Review: Is the Trinity Coherent? Vin from Vin and Sori vs. The Muslim Metaphysician](mW1EVGitSsc.jpg "The Review: Is the Trinity Coherent? Vin from Vin and Sori vs. The Muslim Metaphysician")
+<iframe loading='lazy' src='https://www.youtube.com/embed/mW1EVGitSsc'></iframe>
 
 ## Description
 

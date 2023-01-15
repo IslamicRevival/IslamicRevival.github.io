@@ -1,6 +1,6 @@
 # ST #53: Divine Perfection - Dr. William Lane Craig & the Qur'an's Conception of the Trinity - PART 2 (2022-03-26)
 
-![alt ST #53: Divine Perfection - Dr. William Lane Craig & the Qur'an's Conception of the Trinity - PART 2](Nx_O-c8pYac.jpg "ST #53: Divine Perfection - Dr. William Lane Craig & the Qur'an's Conception of the Trinity - PART 2")
+<iframe loading='lazy' src='https://www.youtube.com/embed/Nx_O-c8pYac'></iframe>
 
 ## Description
 

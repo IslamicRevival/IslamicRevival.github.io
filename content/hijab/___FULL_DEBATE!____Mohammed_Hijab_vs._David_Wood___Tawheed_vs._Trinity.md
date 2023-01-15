@@ -1,6 +1,6 @@
 # ***FULL DEBATE!*** Mohammed Hijab vs. David Wood | Tawheed vs. Trinity (2018-11-08)
 
-![alt ***FULL DEBATE!*** Mohammed Hijab vs. David Wood | Tawheed vs. Trinity](3k6MBedWTww.jpg "***FULL DEBATE!*** Mohammed Hijab vs. David Wood | Tawheed vs. Trinity")
+<iframe loading='lazy' src='https://www.youtube.com/embed/3k6MBedWTww'></iframe>
 
 ## Description
 

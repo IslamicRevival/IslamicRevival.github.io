@@ -1,6 +1,6 @@
 # Tafseer-ul-Quran - Almassari - 012 - Al-Baqara - 06 - تفسير سورة البقرة (2021-04-14)
 
-![alt Tafseer-ul-Quran - Almassari - 012 - Al-Baqara - 06 - تفسير سورة البقرة](m722n0ZG3uE.jpg "Tafseer-ul-Quran - Almassari - 012 - Al-Baqara - 06 - تفسير سورة البقرة")
+<iframe loading='lazy' src='https://www.youtube.com/embed/m722n0ZG3uE'></iframe>
 
 ## Description
 

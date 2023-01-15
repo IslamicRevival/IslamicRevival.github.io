@@ -1,6 +1,6 @@
 # Palestine/"Israel" Conflict, Historical Context (2021-05-14)
 
-![alt Palestine/"Israel" Conflict, Historical Context](9ZKuPycKiX8.jpg "Palestine/"Israel" Conflict, Historical Context")
+<iframe loading='lazy' src='https://www.youtube.com/embed/9ZKuPycKiX8'></iframe>
 
 ## Description
 

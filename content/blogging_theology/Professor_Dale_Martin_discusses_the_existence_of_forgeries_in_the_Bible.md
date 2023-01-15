@@ -1,6 +1,6 @@
 # Professor Dale Martin discusses the existence of forgeries in the Bible (2021-10-01)
 
-![alt Professor Dale Martin discusses the existence of forgeries in the Bible](-pA5c8MkYSQ.jpg "Professor Dale Martin discusses the existence of forgeries in the Bible")
+<iframe loading='lazy' src='https://www.youtube.com/embed/-pA5c8MkYSQ'></iframe>
 
 ## Description
 

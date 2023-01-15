@@ -1,6 +1,6 @@
 # Umm Khalid: "Women have been lied to" (2021-12-16)
 
-![alt Umm Khalid: "Women have been lied to"](2nENnMKESOA.jpg "Umm Khalid: "Women have been lied to"")
+<iframe loading='lazy' src='https://www.youtube.com/embed/2nENnMKESOA'></iframe>
 
 ## Description
 

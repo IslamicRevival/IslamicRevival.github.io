@@ -1,6 +1,6 @@
 # What are Western scholars of the Qur'an doing? (2021-08-29)
 
-![alt What are Western scholars of the Qur'an doing?](9JSVA39PkS0.jpg "What are Western scholars of the Qur'an doing?")
+<iframe loading='lazy' src='https://www.youtube.com/embed/9JSVA39PkS0'></iframe>
 
 ## Description
 

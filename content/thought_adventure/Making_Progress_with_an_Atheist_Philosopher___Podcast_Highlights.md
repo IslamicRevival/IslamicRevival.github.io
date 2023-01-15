@@ -1,6 +1,6 @@
 # Making Progress with an Atheist Philosopher | Podcast Highlights (2021-11-26)
 
-![alt Making Progress with an Atheist Philosopher | Podcast Highlights](-WLQ5nteiQk.jpg "Making Progress with an Atheist Philosopher | Podcast Highlights")
+<iframe loading='lazy' src='https://www.youtube.com/embed/-WLQ5nteiQk'></iframe>
 
 ## Description
 

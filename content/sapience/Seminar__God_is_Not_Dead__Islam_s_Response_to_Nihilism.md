@@ -1,6 +1,6 @@
 # Seminar: God is Not Dead — Islam's Response to Nihilism (2021-10-24)
 
-![alt Seminar: God is Not Dead — Islam's Response to Nihilism](SQ6QBT7RzBo.jpg "Seminar: God is Not Dead — Islam's Response to Nihilism")
+<iframe loading='lazy' src='https://www.youtube.com/embed/SQ6QBT7RzBo'></iframe>
 
 ## Description
 

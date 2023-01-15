@@ -1,6 +1,6 @@
 # Session 2 (2021-01-21)
 
-![alt Session 2](jlEz0o3gosQ.jpg "Session 2")
+<iframe loading='lazy' src='https://www.youtube.com/embed/jlEz0o3gosQ'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Pinecreek's Argument from Ickiness | Podcast Highlight (2021-08-29)
 
-![alt Pinecreek's Argument from Ickiness | Podcast Highlight](BEhojR0S8UM.jpg "Pinecreek's Argument from Ickiness | Podcast Highlight")
+<iframe loading='lazy' src='https://www.youtube.com/embed/BEhojR0S8UM'></iframe>
 
 ## Description
 

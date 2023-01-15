@@ -1,6 +1,6 @@
 # Shocking Historical Precision of the Quran (2020-12-29)
 
-![alt Shocking Historical Precision of the Quran](YCR8uTU-15o.jpg "Shocking Historical Precision of the Quran")
+<iframe loading='lazy' src='https://www.youtube.com/embed/YCR8uTU-15o'></iframe>
 
 ## Description
 

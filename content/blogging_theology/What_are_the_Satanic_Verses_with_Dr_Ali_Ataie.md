@@ -1,6 +1,6 @@
 # What are the Satanic Verses? with Dr Ali Ataie (2022-08-15)
 
-![alt What are the Satanic Verses? with Dr Ali Ataie](bIplkk05rd8.jpg "What are the Satanic Verses? with Dr Ali Ataie")
+<iframe loading='lazy' src='https://www.youtube.com/embed/bIplkk05rd8'></iframe>
 
 ## Description
 

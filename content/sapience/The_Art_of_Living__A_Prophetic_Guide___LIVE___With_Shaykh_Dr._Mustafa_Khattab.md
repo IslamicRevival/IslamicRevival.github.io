@@ -1,6 +1,6 @@
 # The Art of Living: A Prophetic Guide | LIVE | With Shaykh Dr. Mustafa Khattab (2020-12-05)
 
-![alt The Art of Living: A Prophetic Guide | LIVE | With Shaykh Dr. Mustafa Khattab](Y9J2iNjN4ow.jpg "The Art of Living: A Prophetic Guide | LIVE | With Shaykh Dr. Mustafa Khattab")
+<iframe loading='lazy' src='https://www.youtube.com/embed/Y9J2iNjN4ow'></iframe>
 
 ## Description
 

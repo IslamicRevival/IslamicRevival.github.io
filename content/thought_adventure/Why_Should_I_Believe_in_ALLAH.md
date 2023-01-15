@@ -1,6 +1,6 @@
 # Why Should I Believe in ALLAH? (2022-08-04)
 
-![alt Why Should I Believe in ALLAH?](jdS2lYUATtQ.jpg "Why Should I Believe in ALLAH?")
+<iframe loading='lazy' src='https://www.youtube.com/embed/jdS2lYUATtQ'></iframe>
 
 ## Description
 

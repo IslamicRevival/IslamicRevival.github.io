@@ -1,6 +1,6 @@
 # Are White People Smarter than Black People? (2019-02-18)
 
-![alt Are White People Smarter than Black People?](7zkiV1EToGg.jpg "Are White People Smarter than Black People?")
+<iframe loading='lazy' src='https://www.youtube.com/embed/7zkiV1EToGg'></iframe>
 
 ## Description
 

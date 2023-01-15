@@ -1,6 +1,6 @@
 # Does the Qur'an get the Trinity wrong? (2021-08-01)
 
-![alt Does the Qur'an get the Trinity wrong?](qxUiBgt5eG0.jpg "Does the Qur'an get the Trinity wrong?")
+<iframe loading='lazy' src='https://www.youtube.com/embed/qxUiBgt5eG0'></iframe>
 
 ## Description
 

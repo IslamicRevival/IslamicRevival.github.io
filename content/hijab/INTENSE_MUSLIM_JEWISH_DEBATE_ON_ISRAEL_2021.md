@@ -1,6 +1,6 @@
 # INTENSE MUSLIM JEWISH DEBATE ON ISRAEL 2021 (2021-05-23)
 
-![alt INTENSE MUSLIM JEWISH DEBATE ON ISRAEL 2021](K7GktXpKrPk.jpg "INTENSE MUSLIM JEWISH DEBATE ON ISRAEL 2021")
+<iframe loading='lazy' src='https://www.youtube.com/embed/K7GktXpKrPk'></iframe>
 
 ## Description
 

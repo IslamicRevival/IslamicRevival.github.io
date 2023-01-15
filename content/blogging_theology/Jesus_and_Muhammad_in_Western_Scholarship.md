@@ -1,6 +1,6 @@
 # Jesus and Muhammad in Western Scholarship (2021-10-15)
 
-![alt Jesus and Muhammad in Western Scholarship](gC7r8WifrbM.jpg "Jesus and Muhammad in Western Scholarship")
+<iframe loading='lazy' src='https://www.youtube.com/embed/gC7r8WifrbM'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # The Hajj Vlog - The Islamic Pilgrimage to Mekkah (2018-08-31)
 
-![alt The Hajj Vlog - The Islamic Pilgrimage to Mekkah](uuY1dzbOJuA.jpg "The Hajj Vlog - The Islamic Pilgrimage to Mekkah")
+<iframe loading='lazy' src='https://www.youtube.com/embed/uuY1dzbOJuA'></iframe>
 
 ## Description
 

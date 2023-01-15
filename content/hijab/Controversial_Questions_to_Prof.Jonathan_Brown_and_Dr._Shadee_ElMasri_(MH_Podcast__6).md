@@ -1,6 +1,6 @@
 # Controversial Questions to Prof.Jonathan Brown and Dr. Shadee ElMasri (MH Podcast #6) (2020-07-06)
 
-![alt Controversial Questions to Prof.Jonathan Brown and Dr. Shadee ElMasri (MH Podcast #6)](7jXye1-Wbug.jpg "Controversial Questions to Prof.Jonathan Brown and Dr. Shadee ElMasri (MH Podcast #6)")
+<iframe loading='lazy' src='https://www.youtube.com/embed/7jXye1-Wbug'></iframe>
 
 ## Description
 

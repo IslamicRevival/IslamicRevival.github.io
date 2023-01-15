@@ -1,6 +1,6 @@
 # Sam Harris Challenges Muslims on Radicalism and Slavery (2018-02-16)
 
-![alt Sam Harris Challenges Muslims on Radicalism and Slavery](Hl7mPkjE8pI.jpg "Sam Harris Challenges Muslims on Radicalism and Slavery")
+<iframe loading='lazy' src='https://www.youtube.com/embed/Hl7mPkjE8pI'></iframe>
 
 ## Description
 

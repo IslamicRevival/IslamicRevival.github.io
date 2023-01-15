@@ -1,6 +1,6 @@
 # Seminar: "I Can’t Breathe" with Dr. Osman Latiff (2021-06-10)
 
-![alt Seminar: "I Can’t Breathe" with Dr. Osman Latiff](2T1sZXtWc5E.jpg "Seminar: "I Can’t Breathe" with Dr. Osman Latiff")
+<iframe loading='lazy' src='https://www.youtube.com/embed/2T1sZXtWc5E'></iframe>
 
 ## Description
 

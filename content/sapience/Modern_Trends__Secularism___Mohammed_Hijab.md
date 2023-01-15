@@ -1,6 +1,6 @@
 # Modern Trends: Secularism | Mohammed Hijab (2022-11-24)
 
-![alt Modern Trends: Secularism | Mohammed Hijab](hDmxvZ4QAw0.jpg "Modern Trends: Secularism | Mohammed Hijab")
+<iframe loading='lazy' src='https://www.youtube.com/embed/hDmxvZ4QAw0'></iframe>
 
 ## Description
 

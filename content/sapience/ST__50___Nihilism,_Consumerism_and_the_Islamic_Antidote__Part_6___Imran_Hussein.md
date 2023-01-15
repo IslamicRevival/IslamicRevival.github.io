@@ -1,6 +1,6 @@
 # ST #50:  Nihilism, Consumerism and the Islamic Antidote — Part 6 | Imran Hussein (2022-01-27)
 
-![alt ST #50:  Nihilism, Consumerism and the Islamic Antidote — Part 6 | Imran Hussein](f50zoeJ_7ss.jpg "ST #50:  Nihilism, Consumerism and the Islamic Antidote — Part 6 | Imran Hussein")
+<iframe loading='lazy' src='https://www.youtube.com/embed/f50zoeJ_7ss'></iframe>
 
 ## Description
 

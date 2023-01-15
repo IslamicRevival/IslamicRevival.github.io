@@ -1,6 +1,6 @@
 # Islam and Christianity are under threat (2021-10-20)
 
-![alt Islam and Christianity are under threat](fSyo0e186uQ.jpg "Islam and Christianity are under threat")
+<iframe loading='lazy' src='https://www.youtube.com/embed/fSyo0e186uQ'></iframe>
 
 ## Description
 

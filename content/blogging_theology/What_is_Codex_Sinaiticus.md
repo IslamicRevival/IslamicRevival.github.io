@@ -1,6 +1,6 @@
 # What is Codex Sinaiticus? (2021-02-24)
 
-![alt What is Codex Sinaiticus?](AWyVj0R2jhU.jpg "What is Codex Sinaiticus?")
+<iframe loading='lazy' src='https://www.youtube.com/embed/AWyVj0R2jhU'></iframe>
 
 ## Description
 

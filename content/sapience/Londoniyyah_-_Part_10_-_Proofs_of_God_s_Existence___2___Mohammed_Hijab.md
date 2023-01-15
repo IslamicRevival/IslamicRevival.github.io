@@ -1,6 +1,6 @@
 # Londoniyyah - Part 10 - Proofs of God's Existence / 2 | Mohammed Hijab (2021-12-16)
 
-![alt Londoniyyah - Part 10 - Proofs of God's Existence / 2 | Mohammed Hijab](_zPCNPYaAbs.jpg "Londoniyyah - Part 10 - Proofs of God's Existence / 2 | Mohammed Hijab")
+<iframe loading='lazy' src='https://www.youtube.com/embed/_zPCNPYaAbs'></iframe>
 
 ## Description
 

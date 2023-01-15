@@ -1,6 +1,6 @@
 # Another Atheist Contemplating Theism | Podcast Highlight (2021-04-06)
 
-![alt Another Atheist Contemplating Theism | Podcast Highlight](YATcLLcOqOM.jpg "Another Atheist Contemplating Theism | Podcast Highlight")
+<iframe loading='lazy' src='https://www.youtube.com/embed/YATcLLcOqOM'></iframe>
 
 ## Description
 

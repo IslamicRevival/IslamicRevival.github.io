@@ -1,6 +1,6 @@
 # Hamza Tzortzis on The Hard Problem of Conscioussness | Podcast Highlight (2021-03-21)
 
-![alt Hamza Tzortzis on The Hard Problem of Conscioussness | Podcast Highlight](zwDd2UNm9lE.jpg "Hamza Tzortzis on The Hard Problem of Conscioussness | Podcast Highlight")
+<iframe loading='lazy' src='https://www.youtube.com/embed/zwDd2UNm9lE'></iframe>
 
 ## Description
 

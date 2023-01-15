@@ -1,6 +1,6 @@
 # Thank You For Supporting US: Our 6 Months Update - including Q&A (2021-11-21)
 
-![alt Thank You For Supporting US: Our 6 Months Update - including Q&A](T2aVwJ3YlBM.jpg "Thank You For Supporting US: Our 6 Months Update - including Q&A")
+<iframe loading='lazy' src='https://www.youtube.com/embed/T2aVwJ3YlBM'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # William Lane Craig's Bible Dilemma Worries Christians (2021-06-21)
 
-![alt William Lane Craig's Bible Dilemma Worries Christians](d3uKsG31xWI.jpg "William Lane Craig's Bible Dilemma Worries Christians")
+<iframe loading='lazy' src='https://www.youtube.com/embed/d3uKsG31xWI'></iframe>
 
 ## Description
 

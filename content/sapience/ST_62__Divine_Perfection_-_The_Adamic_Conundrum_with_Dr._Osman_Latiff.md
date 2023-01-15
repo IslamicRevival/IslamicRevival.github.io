@@ -1,6 +1,6 @@
 # ST#62: Divine Perfection - The Adamic Conundrum with Dr. Osman Latiff (2022-06-24)
 
-![alt ST#62: Divine Perfection - The Adamic Conundrum with Dr. Osman Latiff](3wPFspSeMX0.jpg "ST#62: Divine Perfection - The Adamic Conundrum with Dr. Osman Latiff")
+<iframe loading='lazy' src='https://www.youtube.com/embed/3wPFspSeMX0'></iframe>
 
 ## Description
 

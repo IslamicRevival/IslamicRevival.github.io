@@ -1,6 +1,6 @@
 # Sapient Voices #1: Dr. Osman Latiff - Singing, Death, Academic Journey, Othering & God's Forgiveness (2022-04-01)
 
-![alt Sapient Voices #1: Dr. Osman Latiff - Singing, Death, Academic Journey, Othering & God's Forgiveness](oTY7yb_LQsU.jpg "Sapient Voices #1: Dr. Osman Latiff - Singing, Death, Academic Journey, Othering & God's Forgiveness")
+<iframe loading='lazy' src='https://www.youtube.com/embed/oTY7yb_LQsU'></iframe>
 
 ## Description
 

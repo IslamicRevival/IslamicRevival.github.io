@@ -1,6 +1,6 @@
 # Disproving Ahmadiyyah with one Argument. (2019-10-10)
 
-![alt Disproving Ahmadiyyah with one Argument.](tFXReth0BEM.jpg "Disproving Ahmadiyyah with one Argument.")
+<iframe loading='lazy' src='https://www.youtube.com/embed/tFXReth0BEM'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Sapient Voices #2: Abdullah Al-Andalusi - The Dangers of Post-Modernism & Neo-Marxism for Muslims (2022-06-01)
 
-![alt Sapient Voices #2: Abdullah Al-Andalusi - The Dangers of Post-Modernism & Neo-Marxism for Muslims](ecvIoKa8r-M.jpg "Sapient Voices #2: Abdullah Al-Andalusi - The Dangers of Post-Modernism & Neo-Marxism for Muslims")
+<iframe loading='lazy' src='https://www.youtube.com/embed/ecvIoKa8r-M'></iframe>
 
 ## Description
 

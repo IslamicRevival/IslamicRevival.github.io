@@ -1,6 +1,6 @@
 # Argument for Divine Authorship of Qur’an | The Evidence Course | Session 5 / Part 3 (2021-10-13)
 
-![alt Argument for Divine Authorship of Qur’an | The Evidence Course | Session 5 / Part 3](cVNx4Ubq1Dw.jpg "Argument for Divine Authorship of Qur’an | The Evidence Course | Session 5 / Part 3")
+<iframe loading='lazy' src='https://www.youtube.com/embed/cVNx4Ubq1Dw'></iframe>
 
 ## Description
 

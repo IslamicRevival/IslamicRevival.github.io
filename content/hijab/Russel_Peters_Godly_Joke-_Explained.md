@@ -1,6 +1,6 @@
 # Russel Peters Godly Joke- Explained (2020-12-02)
 
-![alt Russel Peters Godly Joke- Explained](LkMx5bmYB2I.jpg "Russel Peters Godly Joke- Explained")
+<iframe loading='lazy' src='https://www.youtube.com/embed/LkMx5bmYB2I'></iframe>
 
 ## Description
 

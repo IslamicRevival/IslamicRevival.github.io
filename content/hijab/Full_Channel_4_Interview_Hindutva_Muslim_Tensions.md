@@ -1,6 +1,6 @@
 # Full Channel 4 Interview Hindutva/Muslim Tensions (2022-10-06)
 
-![alt Full Channel 4 Interview Hindutva/Muslim Tensions](BhjIg11dP6k.jpg "Full Channel 4 Interview Hindutva/Muslim Tensions")
+<iframe loading='lazy' src='https://www.youtube.com/embed/BhjIg11dP6k'></iframe>
 
 ## Description
 

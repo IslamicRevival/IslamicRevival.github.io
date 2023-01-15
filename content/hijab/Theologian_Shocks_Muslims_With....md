@@ -1,6 +1,6 @@
 # Theologian Shocks Muslims With... (2017-09-05)
 
-![alt Theologian Shocks Muslims With...](RsLrT1CFyuU.jpg "Theologian Shocks Muslims With...")
+<iframe loading='lazy' src='https://www.youtube.com/embed/RsLrT1CFyuU'></iframe>
 
 ## Description
 

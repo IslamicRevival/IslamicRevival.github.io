@@ -1,6 +1,6 @@
 # Londoniyyah - Part 31 - Hinduism | Mohammed Hijab (2022-04-26)
 
-![alt Londoniyyah - Part 31 - Hinduism | Mohammed Hijab](9j7RNs16cHk.jpg "Londoniyyah - Part 31 - Hinduism | Mohammed Hijab")
+<iframe loading='lazy' src='https://www.youtube.com/embed/9j7RNs16cHk'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # MUHAMMAD ﷺ AND MADINAH IN THE BIBLE (2019-03-05)
 
-![alt MUHAMMAD ﷺ AND MADINAH IN THE BIBLE](hpny44O0eEQ.jpg "MUHAMMAD ﷺ AND MADINAH IN THE BIBLE")
+<iframe loading='lazy' src='https://www.youtube.com/embed/hpny44O0eEQ'></iframe>
 
 ## Description
 

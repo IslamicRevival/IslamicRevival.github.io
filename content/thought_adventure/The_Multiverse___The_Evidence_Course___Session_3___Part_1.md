@@ -1,6 +1,6 @@
 # The Multiverse | The Evidence Course | Session 3 / Part 1 (2021-08-11)
 
-![alt The Multiverse | The Evidence Course | Session 3 / Part 1](zTqywht1u8A.jpg "The Multiverse | The Evidence Course | Session 3 / Part 1")
+<iframe loading='lazy' src='https://www.youtube.com/embed/zTqywht1u8A'></iframe>
 
 ## Description
 

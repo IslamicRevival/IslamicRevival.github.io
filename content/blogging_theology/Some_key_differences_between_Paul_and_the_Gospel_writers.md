@@ -1,6 +1,6 @@
 # Some key differences between Paul and the Gospel writers (2020-12-16)
 
-![alt Some key differences between Paul and the Gospel writers](KuA2ozpf6AA.jpg "Some key differences between Paul and the Gospel writers")
+<iframe loading='lazy' src='https://www.youtube.com/embed/KuA2ozpf6AA'></iframe>
 
 ## Description
 

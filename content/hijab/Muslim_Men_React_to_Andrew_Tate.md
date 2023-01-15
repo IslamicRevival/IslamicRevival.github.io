@@ -1,6 +1,6 @@
 # Muslim Men React to Andrew Tate (2022-07-30)
 
-![alt Muslim Men React to Andrew Tate](JZ6_bRIuvB0.jpg "Muslim Men React to Andrew Tate")
+<iframe loading='lazy' src='https://www.youtube.com/embed/JZ6_bRIuvB0'></iframe>
 
 ## Description
 

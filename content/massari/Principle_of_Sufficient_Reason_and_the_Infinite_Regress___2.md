@@ -1,6 +1,6 @@
 # Principle of Sufficient Reason and the Infinite Regress   2 (2022-07-22)
 
-![alt Principle of Sufficient Reason and the Infinite Regress   2](tUjnjjrvJVU.jpg "Principle of Sufficient Reason and the Infinite Regress   2")
+<iframe loading='lazy' src='https://www.youtube.com/embed/tUjnjjrvJVU'></iframe>
 
 ## Description
 

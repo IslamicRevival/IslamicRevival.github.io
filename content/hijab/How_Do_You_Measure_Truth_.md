@@ -1,6 +1,6 @@
 # How Do You Measure Truth ? (2018-01-22)
 
-![alt How Do You Measure Truth ?](_9qRZVO6JKQ.jpg "How Do You Measure Truth ?")
+<iframe loading='lazy' src='https://www.youtube.com/embed/_9qRZVO6JKQ'></iframe>
 
 ## Description
 

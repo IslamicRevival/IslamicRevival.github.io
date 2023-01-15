@@ -1,6 +1,6 @@
 # Seminar: Born To Worship — explaining how everyone worships and why Allah is worthy of our devotion (2021-07-31)
 
-![alt Seminar: Born To Worship — explaining how everyone worships and why Allah is worthy of our devotion](j6pO6OrWD8E.jpg "Seminar: Born To Worship — explaining how everyone worships and why Allah is worthy of our devotion")
+<iframe loading='lazy' src='https://www.youtube.com/embed/j6pO6OrWD8E'></iframe>
 
 ## Description
 

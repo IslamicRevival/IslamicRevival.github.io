@@ -1,6 +1,6 @@
 # Was Jesus the Incarnation of God on Earth? | Thought Adventure Podcast #7 (2021-04-11)
 
-![alt Was Jesus the Incarnation of God on Earth? | Thought Adventure Podcast #7](jQ83Ls3Zaik.jpg "Was Jesus the Incarnation of God on Earth? | Thought Adventure Podcast #7")
+<iframe loading='lazy' src='https://www.youtube.com/embed/jQ83Ls3Zaik'></iframe>
 
 ## Description
 

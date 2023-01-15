@@ -1,6 +1,6 @@
 # Dr Laurence B. Brown Discusses Da'wah (2021-10-14)
 
-![alt Dr Laurence B. Brown Discusses Da'wah](6zMpe1hui7g.jpg "Dr Laurence B. Brown Discusses Da'wah")
+<iframe loading='lazy' src='https://www.youtube.com/embed/6zMpe1hui7g'></iframe>
 
 ## Description
 

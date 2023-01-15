@@ -1,6 +1,6 @@
 # Quranic Diacritical marks divine revelation or human invention 2 (2022-07-19)
 
-![alt Quranic Diacritical marks divine revelation or human invention 2](V5VUEi_us-c.jpg "Quranic Diacritical marks divine revelation or human invention 2")
+<iframe loading='lazy' src='https://www.youtube.com/embed/V5VUEi_us-c'></iframe>
 
 ## Description
 

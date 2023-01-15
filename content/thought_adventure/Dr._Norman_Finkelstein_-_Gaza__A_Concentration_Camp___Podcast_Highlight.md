@@ -1,6 +1,6 @@
 # Dr. Norman Finkelstein - Gaza: A Concentration Camp | Podcast Highlight (2021-06-05)
 
-![alt Dr. Norman Finkelstein - Gaza: A Concentration Camp | Podcast Highlight](ZJLafeXvGN8.jpg "Dr. Norman Finkelstein - Gaza: A Concentration Camp | Podcast Highlight")
+<iframe loading='lazy' src='https://www.youtube.com/embed/ZJLafeXvGN8'></iframe>
 
 ## Description
 

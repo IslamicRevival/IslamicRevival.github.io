@@ -1,6 +1,6 @@
 # Causality Does Not Exist at Quantum Level | The Evidence Course | Session 3 / Part 3 (2021-08-25)
 
-![alt Causality Does Not Exist at Quantum Level | The Evidence Course | Session 3 / Part 3](1AY-KXYsLtw.jpg "Causality Does Not Exist at Quantum Level | The Evidence Course | Session 3 / Part 3")
+<iframe loading='lazy' src='https://www.youtube.com/embed/1AY-KXYsLtw'></iframe>
 
 ## Description
 

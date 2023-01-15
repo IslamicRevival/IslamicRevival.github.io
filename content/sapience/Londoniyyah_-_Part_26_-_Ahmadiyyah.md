@@ -1,6 +1,6 @@
 # Londoniyyah - Part 26 - Ahmadiyyah (2022-04-09)
 
-![alt Londoniyyah - Part 26 - Ahmadiyyah](fibHl53h3cw.jpg "Londoniyyah - Part 26 - Ahmadiyyah")
+<iframe loading='lazy' src='https://www.youtube.com/embed/fibHl53h3cw'></iframe>
 
 ## Description
 

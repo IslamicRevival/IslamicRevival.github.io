@@ -1,6 +1,6 @@
 # Londoniyyah - Part 1: Epistemology and Theories of Truth | Mohammed Hijab (2021-09-19)
 
-![alt Londoniyyah - Part 1: Epistemology and Theories of Truth | Mohammed Hijab](eSQk1CpCh5k.jpg "Londoniyyah - Part 1: Epistemology and Theories of Truth | Mohammed Hijab")
+<iframe loading='lazy' src='https://www.youtube.com/embed/eSQk1CpCh5k'></iframe>
 
 ## Description
 

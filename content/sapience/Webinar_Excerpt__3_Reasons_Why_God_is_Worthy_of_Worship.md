@@ -1,6 +1,6 @@
 # Webinar Excerpt: 3 Reasons Why God is Worthy of Worship (2020-10-24)
 
-![alt Webinar Excerpt: 3 Reasons Why God is Worthy of Worship](HwQT_21tM18.jpg "Webinar Excerpt: 3 Reasons Why God is Worthy of Worship")
+<iframe loading='lazy' src='https://www.youtube.com/embed/HwQT_21tM18'></iframe>
 
 ## Description
 

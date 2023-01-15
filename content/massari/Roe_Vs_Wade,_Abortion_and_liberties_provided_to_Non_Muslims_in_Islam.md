@@ -1,6 +1,6 @@
 # Roe Vs Wade, Abortion and liberties provided to Non Muslims in Islam (2023-01-03)
 
-![alt Roe Vs Wade, Abortion and liberties provided to Non Muslims in Islam](ExrE8ICNhSE.jpg "Roe Vs Wade, Abortion and liberties provided to Non Muslims in Islam")
+<iframe loading='lazy' src='https://www.youtube.com/embed/ExrE8ICNhSE'></iframe>
 
 ## Description
 

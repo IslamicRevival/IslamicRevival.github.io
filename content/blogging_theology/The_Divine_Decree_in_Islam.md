@@ -1,6 +1,6 @@
 # The Divine Decree in Islam (2022-01-11)
 
-![alt The Divine Decree in Islam](QvUy-KwRHBE.jpg "The Divine Decree in Islam")
+<iframe loading='lazy' src='https://www.youtube.com/embed/QvUy-KwRHBE'></iframe>
 
 ## Description
 

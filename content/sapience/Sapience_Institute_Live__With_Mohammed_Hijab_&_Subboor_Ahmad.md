@@ -1,6 +1,6 @@
 # Sapience Institute Live: With Mohammed Hijab & Subboor Ahmad (2021-03-06)
 
-![alt Sapience Institute Live: With Mohammed Hijab & Subboor Ahmad](7gAwa9i-Vrw.jpg "Sapience Institute Live: With Mohammed Hijab & Subboor Ahmad")
+<iframe loading='lazy' src='https://www.youtube.com/embed/7gAwa9i-Vrw'></iframe>
 
 ## Description
 

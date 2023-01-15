@@ -1,6 +1,6 @@
 # How the Bible was changed... (2022-02-21)
 
-![alt How the Bible was changed...](F_46_1i4CQ0.jpg "How the Bible was changed...")
+<iframe loading='lazy' src='https://www.youtube.com/embed/F_46_1i4CQ0'></iframe>
 
 ## Description
 

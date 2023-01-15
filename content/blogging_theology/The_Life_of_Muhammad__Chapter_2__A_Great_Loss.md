@@ -1,6 +1,6 @@
 # The Life of Muhammad ﷺ Chapter 2: A Great Loss (2021-12-06)
 
-![alt The Life of Muhammad ﷺ Chapter 2: A Great Loss](neIA3U6x7vg.jpg "The Life of Muhammad ﷺ Chapter 2: A Great Loss")
+<iframe loading='lazy' src='https://www.youtube.com/embed/neIA3U6x7vg'></iframe>
 
 ## Description
 

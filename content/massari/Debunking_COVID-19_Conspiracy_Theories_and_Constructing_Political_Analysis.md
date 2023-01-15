@@ -1,6 +1,6 @@
 # Debunking COVID-19 Conspiracy Theories and Constructing Political Analysis (2021-02-25)
 
-![alt Debunking COVID-19 Conspiracy Theories and Constructing Political Analysis](RjKs1YVLcug.jpg "Debunking COVID-19 Conspiracy Theories and Constructing Political Analysis")
+<iframe loading='lazy' src='https://www.youtube.com/embed/RjKs1YVLcug'></iframe>
 
 ## Description
 

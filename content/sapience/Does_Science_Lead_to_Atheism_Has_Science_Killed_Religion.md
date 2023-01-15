@@ -1,6 +1,6 @@
 # Does Science Lead to Atheism? Has Science Killed Religion? (2018-03-26)
 
-![alt Does Science Lead to Atheism? Has Science Killed Religion?](_zk6YXnz5fM.jpg "Does Science Lead to Atheism? Has Science Killed Religion?")
+<iframe loading='lazy' src='https://www.youtube.com/embed/_zk6YXnz5fM'></iframe>
 
 ## Description
 

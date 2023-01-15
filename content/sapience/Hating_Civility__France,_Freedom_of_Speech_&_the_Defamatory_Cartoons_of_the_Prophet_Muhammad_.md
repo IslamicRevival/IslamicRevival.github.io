@@ -1,6 +1,6 @@
 # Hating Civility: France, Freedom of Speech & the Defamatory Cartoons of the Prophet Muhammad ﷺ (2020-10-26)
 
-![alt Hating Civility: France, Freedom of Speech & the Defamatory Cartoons of the Prophet Muhammad ﷺ](WtRvdFu8i7I.jpg "Hating Civility: France, Freedom of Speech & the Defamatory Cartoons of the Prophet Muhammad ﷺ")
+<iframe loading='lazy' src='https://www.youtube.com/embed/WtRvdFu8i7I'></iframe>
 
 ## Description
 

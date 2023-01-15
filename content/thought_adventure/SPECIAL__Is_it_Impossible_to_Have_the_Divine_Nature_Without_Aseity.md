@@ -1,6 +1,6 @@
 # SPECIAL: Is it Impossible to Have the Divine Nature Without Aseity? (2022-05-22)
 
-![alt SPECIAL: Is it Impossible to Have the Divine Nature Without Aseity?](h220_WJcwdA.jpg "SPECIAL: Is it Impossible to Have the Divine Nature Without Aseity?")
+<iframe loading='lazy' src='https://www.youtube.com/embed/h220_WJcwdA'></iframe>
 
 ## Description
 

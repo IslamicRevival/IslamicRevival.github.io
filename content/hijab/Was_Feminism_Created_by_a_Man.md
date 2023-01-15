@@ -1,6 +1,6 @@
 # Was Feminism Created by a Man? (2021-10-07)
 
-![alt Was Feminism Created by a Man?](jwaftjQDOTc.jpg "Was Feminism Created by a Man?")
+<iframe loading='lazy' src='https://www.youtube.com/embed/jwaftjQDOTc'></iframe>
 
 ## Description
 

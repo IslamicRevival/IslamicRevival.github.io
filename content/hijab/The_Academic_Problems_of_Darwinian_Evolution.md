@@ -1,6 +1,6 @@
 # The Academic Problems of Darwinian Evolution (2017-09-26)
 
-![alt The Academic Problems of Darwinian Evolution](fsJUk_vQnCs.jpg "The Academic Problems of Darwinian Evolution")
+<iframe loading='lazy' src='https://www.youtube.com/embed/fsJUk_vQnCs'></iframe>
 
 ## Description
 

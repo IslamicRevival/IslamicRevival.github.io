@@ -1,6 +1,6 @@
 # 7 Reasons Why Allah is Worthy of Worship - by Hamza Andreas Tzortzis (New 2019) (2019-06-19)
 
-![alt 7 Reasons Why Allah is Worthy of Worship - by Hamza Andreas Tzortzis (New 2019)](7GThORUJhf0.jpg "7 Reasons Why Allah is Worthy of Worship - by Hamza Andreas Tzortzis (New 2019)")
+<iframe loading='lazy' src='https://www.youtube.com/embed/7GThORUJhf0'></iframe>
 
 ## Description
 

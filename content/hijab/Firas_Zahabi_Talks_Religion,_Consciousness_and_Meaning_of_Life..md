@@ -1,6 +1,6 @@
 # Firas Zahabi Talks Religion, Consciousness and Meaning of Life. (2018-03-30)
 
-![alt Firas Zahabi Talks Religion, Consciousness and Meaning of Life.](Pwkw85fRWtI.jpg "Firas Zahabi Talks Religion, Consciousness and Meaning of Life.")
+<iframe loading='lazy' src='https://www.youtube.com/embed/Pwkw85fRWtI'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # The Historical Jesus with Dr Dale Martin (2021-11-16)
 
-![alt The Historical Jesus with Dr Dale Martin](YSNrTsBTH7Q.jpg "The Historical Jesus with Dr Dale Martin")
+<iframe loading='lazy' src='https://www.youtube.com/embed/YSNrTsBTH7Q'></iframe>
 
 ## Description
 

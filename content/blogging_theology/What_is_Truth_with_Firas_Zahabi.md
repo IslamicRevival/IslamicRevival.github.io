@@ -1,6 +1,6 @@
 # What is Truth? with Firas Zahabi (2022-02-26)
 
-![alt What is Truth? with Firas Zahabi](c-0PDmGeMxg.jpg "What is Truth? with Firas Zahabi")
+<iframe loading='lazy' src='https://www.youtube.com/embed/c-0PDmGeMxg'></iframe>
 
 ## Description
 

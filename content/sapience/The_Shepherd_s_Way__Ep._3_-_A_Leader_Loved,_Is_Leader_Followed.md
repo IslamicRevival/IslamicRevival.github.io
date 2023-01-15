@@ -1,6 +1,6 @@
 # The Shepherd's Way: Ep. 3 - A Leader Loved, Is Leader Followed (2022-07-02)
 
-![alt The Shepherd's Way: Ep. 3 - A Leader Loved, Is Leader Followed](3q47FdX6cDc.jpg "The Shepherd's Way: Ep. 3 - A Leader Loved, Is Leader Followed")
+<iframe loading='lazy' src='https://www.youtube.com/embed/3q47FdX6cDc'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Cosmic Coward Removes Video after Backlash (2021-08-20)
 
-![alt Cosmic Coward Removes Video after Backlash](G8Ia9BHpAQk.jpg "Cosmic Coward Removes Video after Backlash")
+<iframe loading='lazy' src='https://www.youtube.com/embed/G8Ia9BHpAQk'></iframe>
 
 ## Description
 

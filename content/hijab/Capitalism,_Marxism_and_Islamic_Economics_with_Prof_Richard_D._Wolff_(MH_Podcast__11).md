@@ -1,6 +1,6 @@
 # Capitalism, Marxism and Islamic Economics with Prof Richard D. Wolff (MH Podcast #11) (2020-12-16)
 
-![alt Capitalism, Marxism and Islamic Economics with Prof Richard D. Wolff (MH Podcast #11)](cWUEdtPMqYw.jpg "Capitalism, Marxism and Islamic Economics with Prof Richard D. Wolff (MH Podcast #11)")
+<iframe loading='lazy' src='https://www.youtube.com/embed/cWUEdtPMqYw'></iframe>
 
 ## Description
 

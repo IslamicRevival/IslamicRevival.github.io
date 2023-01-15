@@ -1,6 +1,6 @@
 # SPECIAL: 1000 Subscribers | Thought Adventure Podcast (2021-03-26)
 
-![alt SPECIAL: 1000 Subscribers | Thought Adventure Podcast](pGboeEGitDk.jpg "SPECIAL: 1000 Subscribers | Thought Adventure Podcast")
+<iframe loading='lazy' src='https://www.youtube.com/embed/pGboeEGitDk'></iframe>
 
 ## Description
 

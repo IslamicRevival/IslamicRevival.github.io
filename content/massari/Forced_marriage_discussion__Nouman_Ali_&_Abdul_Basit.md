@@ -1,6 +1,6 @@
 # Forced marriage discussion: Nouman Ali & Abdul Basit (2012-07-21)
 
-![alt Forced marriage discussion: Nouman Ali & Abdul Basit](Zkokr9AlUYs.jpg "Forced marriage discussion: Nouman Ali & Abdul Basit")
+<iframe loading='lazy' src='https://www.youtube.com/embed/Zkokr9AlUYs'></iframe>
 
 ## Description
 

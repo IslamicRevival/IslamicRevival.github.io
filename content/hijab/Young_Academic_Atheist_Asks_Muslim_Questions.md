@@ -1,6 +1,6 @@
 # Young Academic Atheist Asks Muslim Questions (2019-12-09)
 
-![alt Young Academic Atheist Asks Muslim Questions](dFg443_BlQ8.jpg "Young Academic Atheist Asks Muslim Questions")
+<iframe loading='lazy' src='https://www.youtube.com/embed/dFg443_BlQ8'></iframe>
 
 ## Description
 

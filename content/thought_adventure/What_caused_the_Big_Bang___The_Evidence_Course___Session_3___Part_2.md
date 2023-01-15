@@ -1,6 +1,6 @@
 # What caused the Big Bang? | The Evidence Course | Session 3 / Part 2 (2021-08-19)
 
-![alt What caused the Big Bang? | The Evidence Course | Session 3 / Part 2](Fnbwkib8FTM.jpg "What caused the Big Bang? | The Evidence Course | Session 3 / Part 2")
+<iframe loading='lazy' src='https://www.youtube.com/embed/Fnbwkib8FTM'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Exploring Ideas around Theology, Religion and Islam | Thought Adventure Podcast #1 (2021-01-18)
 
-![alt Exploring Ideas around Theology, Religion and Islam | Thought Adventure Podcast #1](muoqQDZ9jik.jpg "Exploring Ideas around Theology, Religion and Islam | Thought Adventure Podcast #1")
+<iframe loading='lazy' src='https://www.youtube.com/embed/muoqQDZ9jik'></iframe>
 
 ## Description
 

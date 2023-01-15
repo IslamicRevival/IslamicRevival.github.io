@@ -1,6 +1,6 @@
 # The Fatiha - God's Most Important Message to Humankind (2020-05-08)
 
-![alt The Fatiha - God's Most Important Message to Humankind](Za0DldCJeEU.jpg "The Fatiha - God's Most Important Message to Humankind")
+<iframe loading='lazy' src='https://www.youtube.com/embed/Za0DldCJeEU'></iframe>
 
 ## Description
 

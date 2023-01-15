@@ -1,6 +1,6 @@
 # Does God Exist? Dr Ali Ataie responds to the New Atheism (2022-08-22)
 
-![alt Does God Exist? Dr Ali Ataie responds to the New Atheism](If3cNUixEBM.jpg "Does God Exist? Dr Ali Ataie responds to the New Atheism")
+<iframe loading='lazy' src='https://www.youtube.com/embed/If3cNUixEBM'></iframe>
 
 ## Description
 

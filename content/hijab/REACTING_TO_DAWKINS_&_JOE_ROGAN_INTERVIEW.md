@@ -1,6 +1,6 @@
 # REACTING TO DAWKINS & JOE ROGAN INTERVIEW (2020-08-16)
 
-![alt REACTING TO DAWKINS & JOE ROGAN INTERVIEW](fbgnaA6t588.jpg "REACTING TO DAWKINS & JOE ROGAN INTERVIEW")
+<iframe loading='lazy' src='https://www.youtube.com/embed/fbgnaA6t588'></iframe>
 
 ## Description
 

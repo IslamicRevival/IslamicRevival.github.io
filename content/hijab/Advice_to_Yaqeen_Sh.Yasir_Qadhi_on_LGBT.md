@@ -1,6 +1,6 @@
 # Advice to Yaqeen/Sh.Yasir Qadhi on LGBT (2022-06-23)
 
-![alt Advice to Yaqeen/Sh.Yasir Qadhi on LGBT](i3VL7t5kt54.jpg "Advice to Yaqeen/Sh.Yasir Qadhi on LGBT")
+<iframe loading='lazy' src='https://www.youtube.com/embed/i3VL7t5kt54'></iframe>
 
 ## Description
 

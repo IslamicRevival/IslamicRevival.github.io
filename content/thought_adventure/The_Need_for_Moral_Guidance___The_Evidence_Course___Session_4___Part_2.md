@@ -1,6 +1,6 @@
 # The Need for Moral Guidance | The Evidence Course | Session 4 / Part 2 (2021-09-22)
 
-![alt The Need for Moral Guidance | The Evidence Course | Session 4 / Part 2](Krwadk8F6nU.jpg "The Need for Moral Guidance | The Evidence Course | Session 4 / Part 2")
+<iframe loading='lazy' src='https://www.youtube.com/embed/Krwadk8F6nU'></iframe>
 
 ## Description
 

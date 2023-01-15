@@ -1,6 +1,6 @@
 # 10k Ultra Epic Royale Deluxe Special | Year in review & what lies ahead! (2022-01-16)
 
-![alt 10k Ultra Epic Royale Deluxe Special | Year in review & what lies ahead!](NC36VIuTmD4.jpg "10k Ultra Epic Royale Deluxe Special | Year in review & what lies ahead!")
+<iframe loading='lazy' src='https://www.youtube.com/embed/NC36VIuTmD4'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Mohammed Hijab interviews Dr. Bart Ehrman on Jesus Christ and Biblical Corruption (2021-11-06)
 
-![alt Mohammed Hijab interviews Dr. Bart Ehrman on Jesus Christ and Biblical Corruption](YdNynCDN9SA.jpg "Mohammed Hijab interviews Dr. Bart Ehrman on Jesus Christ and Biblical Corruption")
+<iframe loading='lazy' src='https://www.youtube.com/embed/YdNynCDN9SA'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Did Jesus Claim to be God? (2021-01-26)
 
-![alt Did Jesus Claim to be God?](TZoC-iPb7uU.jpg "Did Jesus Claim to be God?")
+<iframe loading='lazy' src='https://www.youtube.com/embed/TZoC-iPb7uU'></iframe>
 
 ## Description
 

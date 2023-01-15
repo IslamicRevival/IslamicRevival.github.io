@@ -1,6 +1,6 @@
 # Abdulrahman Grilled by the “#Philosophy is #Kufr” Camp (2022-09-22)
 
-![alt Abdulrahman Grilled by the “#Philosophy is #Kufr” Camp](K16CKwxZj3s.jpg "Abdulrahman Grilled by the “#Philosophy is #Kufr” Camp")
+<iframe loading='lazy' src='https://www.youtube.com/embed/K16CKwxZj3s'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Modern Day Predictions of the Prophet (2017-04-07)
 
-![alt Modern Day Predictions of the Prophet](meza_N1vFCI.jpg "Modern Day Predictions of the Prophet")
+<iframe loading='lazy' src='https://www.youtube.com/embed/meza_N1vFCI'></iframe>
 
 ## Description
 

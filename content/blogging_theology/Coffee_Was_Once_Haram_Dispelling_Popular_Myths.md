@@ -1,6 +1,6 @@
 # Coffee Was Once Haram? Dispelling Popular Myths (2022-12-05)
 
-![alt Coffee Was Once Haram? Dispelling Popular Myths](AzNl-wvBdJg.jpg "Coffee Was Once Haram? Dispelling Popular Myths")
+<iframe loading='lazy' src='https://www.youtube.com/embed/AzNl-wvBdJg'></iframe>
 
 ## Description
 

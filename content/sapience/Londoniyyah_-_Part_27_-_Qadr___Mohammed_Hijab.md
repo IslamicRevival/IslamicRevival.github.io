@@ -1,6 +1,6 @@
 # Londoniyyah - Part 27 - Qadr | Mohammed Hijab (2022-04-15)
 
-![alt Londoniyyah - Part 27 - Qadr | Mohammed Hijab](UrSuNcmxXLg.jpg "Londoniyyah - Part 27 - Qadr | Mohammed Hijab")
+<iframe loading='lazy' src='https://www.youtube.com/embed/UrSuNcmxXLg'></iframe>
 
 ## Description
 

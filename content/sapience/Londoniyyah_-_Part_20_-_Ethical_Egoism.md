@@ -1,6 +1,6 @@
 # Londoniyyah - Part 20 - Ethical Egoism (2022-03-16)
 
-![alt Londoniyyah - Part 20 - Ethical Egoism](m8UmVhlby7w.jpg "Londoniyyah - Part 20 - Ethical Egoism")
+<iframe loading='lazy' src='https://www.youtube.com/embed/m8UmVhlby7w'></iframe>
 
 ## Description
 

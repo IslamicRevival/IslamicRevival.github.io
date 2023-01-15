@@ -1,6 +1,6 @@
 # Mohammed Hijab & Ayaan Hirsi Ali (Extended) (2022-03-02)
 
-![alt Mohammed Hijab & Ayaan Hirsi Ali (Extended)](PdiRh_BkBCg.jpg "Mohammed Hijab & Ayaan Hirsi Ali (Extended)")
+<iframe loading='lazy' src='https://www.youtube.com/embed/PdiRh_BkBCg'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Londoniyyah - Part 15 - Nihilism | Mohammed Hijab (2022-02-01)
 
-![alt Londoniyyah - Part 15 - Nihilism | Mohammed Hijab](tDcqb2d7CrA.jpg "Londoniyyah - Part 15 - Nihilism | Mohammed Hijab")
+<iframe loading='lazy' src='https://www.youtube.com/embed/tDcqb2d7CrA'></iframe>
 
 ## Description
 

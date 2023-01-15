@@ -1,6 +1,6 @@
 # How to Fight a Bigger Man - Firas Zahabi (2022-03-18)
 
-![alt How to Fight a Bigger Man - Firas Zahabi](1l-jS2LDxEw.jpg "How to Fight a Bigger Man - Firas Zahabi")
+<iframe loading='lazy' src='https://www.youtube.com/embed/1l-jS2LDxEw'></iframe>
 
 ## Description
 

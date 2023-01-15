@@ -1,6 +1,6 @@
 # Sapient Voices #4: Sh. Mirza Yawar Baig - "Forget The Numbers To Get The Numbers" (2022-11-21)
 
-![alt Sapient Voices #4: Sh. Mirza Yawar Baig - "Forget The Numbers To Get The Numbers"](XKR1udoWX9I.jpg "Sapient Voices #4: Sh. Mirza Yawar Baig - "Forget The Numbers To Get The Numbers"")
+<iframe loading='lazy' src='https://www.youtube.com/embed/XKR1udoWX9I'></iframe>
 
 ## Description
 

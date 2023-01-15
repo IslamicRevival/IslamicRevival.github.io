@@ -1,6 +1,6 @@
 # When the Ottomans first tried coffee (2022-10-16)
 
-![alt When the Ottomans first tried coffee](hIixS9zaUhE.jpg "When the Ottomans first tried coffee")
+<iframe loading='lazy' src='https://www.youtube.com/embed/hIixS9zaUhE'></iframe>
 
 ## Description
 

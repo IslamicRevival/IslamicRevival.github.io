@@ -1,6 +1,6 @@
 # Is It Irrational to Believe in Miracles? | Thought Adventure Podcast #4 (2021-02-28)
 
-![alt Is It Irrational to Believe in Miracles? | Thought Adventure Podcast #4](-UlkXwMOaT4.jpg "Is It Irrational to Believe in Miracles? | Thought Adventure Podcast #4")
+<iframe loading='lazy' src='https://www.youtube.com/embed/-UlkXwMOaT4'></iframe>
 
 ## Description
 

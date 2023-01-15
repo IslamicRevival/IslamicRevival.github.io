@@ -1,6 +1,6 @@
 # Islam through English Eyes (2021-10-19)
 
-![alt Islam through English Eyes](LzlnZvWcHEs.jpg "Islam through English Eyes")
+<iframe loading='lazy' src='https://www.youtube.com/embed/LzlnZvWcHEs'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # The Heart of Islam: Security and Peace in the Holy Land (2021-05-19)
 
-![alt The Heart of Islam: Security and Peace in the Holy Land](czif98tfyTg.jpg "The Heart of Islam: Security and Peace in the Holy Land")
+<iframe loading='lazy' src='https://www.youtube.com/embed/czif98tfyTg'></iframe>
 
 ## Description
 

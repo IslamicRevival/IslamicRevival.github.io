@@ -1,6 +1,6 @@
 # Non Muslims Practice Polygamy (2017-03-01)
 
-![alt Non Muslims Practice Polygamy](q-TA4xTIXAQ.jpg "Non Muslims Practice Polygamy")
+<iframe loading='lazy' src='https://www.youtube.com/embed/q-TA4xTIXAQ'></iframe>
 
 ## Description
 

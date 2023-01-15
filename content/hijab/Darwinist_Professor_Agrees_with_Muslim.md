@@ -1,6 +1,6 @@
 # Darwinist Professor Agrees with Muslim (2019-08-04)
 
-![alt Darwinist Professor Agrees with Muslim](LsdgFrlRIrI.jpg "Darwinist Professor Agrees with Muslim")
+<iframe loading='lazy' src='https://www.youtube.com/embed/LsdgFrlRIrI'></iframe>
 
 ## Description
 

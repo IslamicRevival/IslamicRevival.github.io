@@ -1,6 +1,6 @@
 # Lucidity before death: Extraordinary challenges to materialism (2022-12-29)
 
-![alt Lucidity before death: Extraordinary challenges to materialism](Xsuu31AUCRw.jpg "Lucidity before death: Extraordinary challenges to materialism")
+<iframe loading='lazy' src='https://www.youtube.com/embed/Xsuu31AUCRw'></iframe>
 
 ## Description
 

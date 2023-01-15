@@ -1,6 +1,6 @@
 # 10000+ Gods!? Can we know the truth? | TAP #23 (2022-09-18)
 
-![alt 10000+ Gods!? Can we know the truth? | TAP #23](HjzqpDzk1jY.jpg "10000+ Gods!? Can we know the truth? | TAP #23")
+<iframe loading='lazy' src='https://www.youtube.com/embed/HjzqpDzk1jY'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # The Way of Abraham: Q & A Livestream (2021-07-19)
 
-![alt The Way of Abraham: Q & A Livestream](aaPp0Nxbnn8.jpg "The Way of Abraham: Q & A Livestream")
+<iframe loading='lazy' src='https://www.youtube.com/embed/aaPp0Nxbnn8'></iframe>
 
 ## Description
 

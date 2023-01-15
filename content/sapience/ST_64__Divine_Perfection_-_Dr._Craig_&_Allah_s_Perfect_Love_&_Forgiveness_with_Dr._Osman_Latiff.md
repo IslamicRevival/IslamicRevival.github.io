@@ -1,6 +1,6 @@
 # ST#64: Divine Perfection - Dr. Craig & Allah's Perfect Love & Forgiveness with Dr. Osman Latiff (2022-06-29)
 
-![alt ST#64: Divine Perfection - Dr. Craig & Allah's Perfect Love & Forgiveness with Dr. Osman Latiff](fFkGbBAgy1s.jpg "ST#64: Divine Perfection - Dr. Craig & Allah's Perfect Love & Forgiveness with Dr. Osman Latiff")
+<iframe loading='lazy' src='https://www.youtube.com/embed/fFkGbBAgy1s'></iframe>
 
 ## Description
 

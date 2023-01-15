@@ -1,6 +1,6 @@
 # Londoniyyah - Part 13 - Individualism | Mohammed Hijab (2022-01-08)
 
-![alt Londoniyyah - Part 13 - Individualism | Mohammed Hijab](JfKxtEnyyVg.jpg "Londoniyyah - Part 13 - Individualism | Mohammed Hijab")
+<iframe loading='lazy' src='https://www.youtube.com/embed/JfKxtEnyyVg'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Dr. Jordan Peterson's Major Blunders and Weak Points on Islam (2021-11-07)
 
-![alt Dr. Jordan Peterson's Major Blunders and Weak Points on Islam](dt7ruyaA0t4.jpg "Dr. Jordan Peterson's Major Blunders and Weak Points on Islam")
+<iframe loading='lazy' src='https://www.youtube.com/embed/dt7ruyaA0t4'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Londoniyyah - Part 8 - Consequentialism | Mohammad Hijab (2021-11-25)
 
-![alt Londoniyyah - Part 8 - Consequentialism | Mohammad Hijab](glKm5OQ1OFs.jpg "Londoniyyah - Part 8 - Consequentialism | Mohammad Hijab")
+<iframe loading='lazy' src='https://www.youtube.com/embed/glKm5OQ1OFs'></iframe>
 
 ## Description
 

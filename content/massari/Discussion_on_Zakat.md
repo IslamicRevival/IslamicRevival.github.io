@@ -1,6 +1,6 @@
 # Discussion on Zakat (2021-04-16)
 
-![alt Discussion on Zakat](39Vep9aTNa4.jpg "Discussion on Zakat")
+<iframe loading='lazy' src='https://www.youtube.com/embed/39Vep9aTNa4'></iframe>
 
 ## Description
 

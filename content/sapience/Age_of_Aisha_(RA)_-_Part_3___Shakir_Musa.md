@@ -1,6 +1,6 @@
 # Age of Aisha (RA) - Part 3 | Shakir Musa (2023-01-09)
 
-![alt Age of Aisha (RA) - Part 3 | Shakir Musa](6NVyuRuFjs0.jpg "Age of Aisha (RA) - Part 3 | Shakir Musa")
+<iframe loading='lazy' src='https://www.youtube.com/embed/6NVyuRuFjs0'></iframe>
 
 ## Description
 

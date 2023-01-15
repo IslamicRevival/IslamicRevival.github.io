@@ -1,6 +1,6 @@
 # Can Consciousness Be Grounded on Materialism? feat. Hamza Tzortzis | Thought Adventure Podcast #11 (2021-06-20)
 
-![alt Can Consciousness Be Grounded on Materialism? feat. Hamza Tzortzis | Thought Adventure Podcast #11](g3hB7hJW1C0.jpg "Can Consciousness Be Grounded on Materialism? feat. Hamza Tzortzis | Thought Adventure Podcast #11")
+<iframe loading='lazy' src='https://www.youtube.com/embed/g3hB7hJW1C0'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Why One God? The Evidence for One Necessary Being | Thought Adventure Podcast #12 (2021-07-11)
 
-![alt Why One God? The Evidence for One Necessary Being | Thought Adventure Podcast #12](yMMAJPo7SoM.jpg "Why One God? The Evidence for One Necessary Being | Thought Adventure Podcast #12")
+<iframe loading='lazy' src='https://www.youtube.com/embed/yMMAJPo7SoM'></iframe>
 
 ## Description
 

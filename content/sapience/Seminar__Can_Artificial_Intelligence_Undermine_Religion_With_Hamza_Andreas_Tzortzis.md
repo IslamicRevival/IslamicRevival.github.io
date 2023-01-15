@@ -1,6 +1,6 @@
 # Seminar: Can Artificial Intelligence Undermine Religion? With Hamza Andreas Tzortzis (2022-05-15)
 
-![alt Seminar: Can Artificial Intelligence Undermine Religion? With Hamza Andreas Tzortzis](7oa5kCt_9aA.jpg "Seminar: Can Artificial Intelligence Undermine Religion? With Hamza Andreas Tzortzis")
+<iframe loading='lazy' src='https://www.youtube.com/embed/7oa5kCt_9aA'></iframe>
 
 ## Description
 

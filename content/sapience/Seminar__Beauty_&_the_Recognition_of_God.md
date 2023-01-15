@@ -1,6 +1,6 @@
 # Seminar: Beauty & the Recognition of God (2021-06-04)
 
-![alt Seminar: Beauty & the Recognition of God](xwwqQymjOaQ.jpg "Seminar: Beauty & the Recognition of God")
+<iframe loading='lazy' src='https://www.youtube.com/embed/xwwqQymjOaQ'></iframe>
 
 ## Description
 

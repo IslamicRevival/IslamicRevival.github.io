@@ -1,6 +1,6 @@
 # Why do the Bible and Qur'an differ about the Prophets? (2021-01-21)
 
-![alt Why do the Bible and Qur'an differ about the Prophets?](vIfz9zrAf4E.jpg "Why do the Bible and Qur'an differ about the Prophets?")
+<iframe loading='lazy' src='https://www.youtube.com/embed/vIfz9zrAf4E'></iframe>
 
 ## Description
 

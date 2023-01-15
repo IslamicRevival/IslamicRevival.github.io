@@ -1,6 +1,6 @@
 # Sapient Thoughts #30: Does Adam's height of 60 cubits make sense? | Mohammed Hijab (2021-04-03)
 
-![alt Sapient Thoughts #30: Does Adam's height of 60 cubits make sense? | Mohammed Hijab](_U-vr_XYp4k.jpg "Sapient Thoughts #30: Does Adam's height of 60 cubits make sense? | Mohammed Hijab")
+<iframe loading='lazy' src='https://www.youtube.com/embed/_U-vr_XYp4k'></iframe>
 
 ## Description
 

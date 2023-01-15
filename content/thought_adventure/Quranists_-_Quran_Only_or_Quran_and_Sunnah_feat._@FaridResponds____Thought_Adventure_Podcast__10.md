@@ -1,6 +1,6 @@
 # Quranists - Quran Only or Quran and Sunnah? feat. @FaridResponds  | Thought Adventure Podcast #10 (2021-06-13)
 
-![alt Quranists - Quran Only or Quran and Sunnah? feat. @FaridResponds  | Thought Adventure Podcast #10](89bhKCr0uUo.jpg "Quranists - Quran Only or Quran and Sunnah? feat. @FaridResponds  | Thought Adventure Podcast #10")
+<iframe loading='lazy' src='https://www.youtube.com/embed/89bhKCr0uUo'></iframe>
 
 ## Description
 

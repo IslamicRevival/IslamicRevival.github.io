@@ -1,6 +1,6 @@
 # Seminar: Does Religion Make Life Meaningless? Islam's Response to Nietzsche (2021-10-31)
 
-![alt Seminar: Does Religion Make Life Meaningless? Islam's Response to Nietzsche](KHSN3iV5-Zg.jpg "Seminar: Does Religion Make Life Meaningless? Islam's Response to Nietzsche")
+<iframe loading='lazy' src='https://www.youtube.com/embed/KHSN3iV5-Zg'></iframe>
 
 ## Description
 

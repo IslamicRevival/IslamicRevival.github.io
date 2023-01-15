@@ -1,6 +1,6 @@
 # What's Logic Got To Do With It? - How to spot logical contradictions | Thought Adventure Podcast #15 (2021-09-05)
 
-![alt What's Logic Got To Do With It? - How to spot logical contradictions | Thought Adventure Podcast #15](e9A6HTKrfno.jpg "What's Logic Got To Do With It? - How to spot logical contradictions | Thought Adventure Podcast #15")
+<iframe loading='lazy' src='https://www.youtube.com/embed/e9A6HTKrfno'></iframe>
 
 ## Description
 

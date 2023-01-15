@@ -1,6 +1,6 @@
 # Seminar: Remembering Srebrenica: Islam's Response to Othering (2021-07-09)
 
-![alt Seminar: Remembering Srebrenica: Islam's Response to Othering](kFqdaPzLCzQ.jpg "Seminar: Remembering Srebrenica: Islam's Response to Othering")
+<iframe loading='lazy' src='https://www.youtube.com/embed/kFqdaPzLCzQ'></iframe>
 
 ## Description
 

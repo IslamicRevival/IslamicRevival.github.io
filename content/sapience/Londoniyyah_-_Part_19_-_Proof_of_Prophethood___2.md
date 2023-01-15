@@ -1,6 +1,6 @@
 # Londoniyyah - Part 19 - Proof of Prophethood / 2 (2022-03-10)
 
-![alt Londoniyyah - Part 19 - Proof of Prophethood / 2](CVA1jeoE_1k.jpg "Londoniyyah - Part 19 - Proof of Prophethood / 2")
+<iframe loading='lazy' src='https://www.youtube.com/embed/CVA1jeoE_1k'></iframe>
 
 ## Description
 

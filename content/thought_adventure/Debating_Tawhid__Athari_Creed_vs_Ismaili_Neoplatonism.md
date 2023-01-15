@@ -1,6 +1,6 @@
 # Debating Tawhid: Athari Creed vs Ismaili Neoplatonism (2022-06-16)
 
-![alt Debating Tawhid: Athari Creed vs Ismaili Neoplatonism](dHNYCZKXes0.jpg "Debating Tawhid: Athari Creed vs Ismaili Neoplatonism")
+<iframe loading='lazy' src='https://www.youtube.com/embed/dHNYCZKXes0'></iframe>
 
 ## Description
 

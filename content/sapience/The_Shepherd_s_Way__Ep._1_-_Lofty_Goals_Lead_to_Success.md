@@ -1,6 +1,6 @@
 # The Shepherd's Way: Ep. 1 - Lofty Goals Lead to Success (2022-06-30)
 
-![alt The Shepherd's Way: Ep. 1 - Lofty Goals Lead to Success](y_HOuCxRdvs.jpg "The Shepherd's Way: Ep. 1 - Lofty Goals Lead to Success")
+<iframe loading='lazy' src='https://www.youtube.com/embed/y_HOuCxRdvs'></iframe>
 
 ## Description
 

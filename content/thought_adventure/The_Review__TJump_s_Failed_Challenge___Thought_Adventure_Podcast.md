@@ -1,6 +1,6 @@
 # The Review: TJump's Failed Challenge | Thought Adventure Podcast (2021-09-26)
 
-![alt The Review: TJump's Failed Challenge | Thought Adventure Podcast](ct2-Raq_4K0.jpg "The Review: TJump's Failed Challenge | Thought Adventure Podcast")
+<iframe loading='lazy' src='https://www.youtube.com/embed/ct2-Raq_4K0'></iframe>
 
 ## Description
 

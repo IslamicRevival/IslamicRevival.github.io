@@ -1,6 +1,6 @@
 # Where are you going? How to develop your vision for campus & how to make it happen (2020-11-30)
 
-![alt Where are you going? How to develop your vision for campus & how to make it happen](2kBG40htWcM.jpg "Where are you going? How to develop your vision for campus & how to make it happen")
+<iframe loading='lazy' src='https://www.youtube.com/embed/2kBG40htWcM'></iframe>
 
 ## Description
 

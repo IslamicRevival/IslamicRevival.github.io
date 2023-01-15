@@ -1,6 +1,6 @@
 # What happens when you die? || Br. Mohammed Hijab (2016-12-19)
 
-![alt What happens when you die? || Br. Mohammed Hijab](UWaMAL6liew.jpg "What happens when you die? || Br. Mohammed Hijab")
+<iframe loading='lazy' src='https://www.youtube.com/embed/UWaMAL6liew'></iframe>
 
 ## Description
 

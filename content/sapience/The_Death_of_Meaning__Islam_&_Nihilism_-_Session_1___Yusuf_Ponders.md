@@ -1,6 +1,6 @@
 # The Death of Meaning: Islam & Nihilism - Session 1 | Yusuf Ponders (2021-04-02)
 
-![alt The Death of Meaning: Islam & Nihilism - Session 1 | Yusuf Ponders](2IUgvSHUCvs.jpg "The Death of Meaning: Islam & Nihilism - Session 1 | Yusuf Ponders")
+<iframe loading='lazy' src='https://www.youtube.com/embed/2IUgvSHUCvs'></iframe>
 
 ## Description
 

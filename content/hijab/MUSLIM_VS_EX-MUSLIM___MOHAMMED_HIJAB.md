@@ -1,6 +1,6 @@
 # MUSLIM VS EX-MUSLIM | MOHAMMED HIJAB (2017-08-15)
 
-![alt MUSLIM VS EX-MUSLIM | MOHAMMED HIJAB](U_vSh7wXQGI.jpg "MUSLIM VS EX-MUSLIM | MOHAMMED HIJAB")
+<iframe loading='lazy' src='https://www.youtube.com/embed/U_vSh7wXQGI'></iframe>
 
 ## Description
 

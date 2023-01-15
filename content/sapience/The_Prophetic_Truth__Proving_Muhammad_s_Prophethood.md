@@ -1,6 +1,6 @@
 # The Prophetic Truth: Proving Muhammad's Prophethood (2017-09-20)
 
-![alt The Prophetic Truth: Proving Muhammad's Prophethood](pJaYA9rbQ8A.jpg "The Prophetic Truth: Proving Muhammad's Prophethood")
+<iframe loading='lazy' src='https://www.youtube.com/embed/pJaYA9rbQ8A'></iframe>
 
 ## Description
 

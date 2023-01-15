@@ -1,6 +1,6 @@
 # New evidence on Qur'an and Science with Dr Musharraf Hussain (2022-09-18)
 
-![alt New evidence on Qur'an and Science with Dr Musharraf Hussain](7nm0QJzfHhU.jpg "New evidence on Qur'an and Science with Dr Musharraf Hussain")
+<iframe loading='lazy' src='https://www.youtube.com/embed/7nm0QJzfHhU'></iframe>
 
 ## Description
 

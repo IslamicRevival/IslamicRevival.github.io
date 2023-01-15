@@ -1,6 +1,6 @@
 # Tafseer-ul-Quran - Almassari - 013 - Al-Baqara - 07 - تفسير سورة البقرة (2021-04-17)
 
-![alt Tafseer-ul-Quran - Almassari - 013 - Al-Baqara - 07 - تفسير سورة البقرة](0ED5DUP0KXU.jpg "Tafseer-ul-Quran - Almassari - 013 - Al-Baqara - 07 - تفسير سورة البقرة")
+<iframe loading='lazy' src='https://www.youtube.com/embed/0ED5DUP0KXU'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # How the world's leading atheist changed his mind about God (2021-02-13)
 
-![alt How the world's leading atheist changed his mind about God](Gc-3QVEkfbM.jpg "How the world's leading atheist changed his mind about God")
+<iframe loading='lazy' src='https://www.youtube.com/embed/Gc-3QVEkfbM'></iframe>
 
 ## Description
 

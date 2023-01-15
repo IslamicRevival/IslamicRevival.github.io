@@ -1,6 +1,6 @@
 # Muslim schools Neil deGrasse (2021-01-26)
 
-![alt Muslim schools Neil deGrasse](nfRnYNig9jU.jpg "Muslim schools Neil deGrasse")
+<iframe loading='lazy' src='https://www.youtube.com/embed/nfRnYNig9jU'></iframe>
 
 ## Description
 

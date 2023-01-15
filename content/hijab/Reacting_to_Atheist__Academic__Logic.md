@@ -1,6 +1,6 @@
 # Reacting to Atheist 'Academic' Logic (2021-09-19)
 
-![alt Reacting to Atheist 'Academic' Logic](HfsGoK83NjA.jpg "Reacting to Atheist 'Academic' Logic")
+<iframe loading='lazy' src='https://www.youtube.com/embed/HfsGoK83NjA'></iframe>
 
 ## Description
 

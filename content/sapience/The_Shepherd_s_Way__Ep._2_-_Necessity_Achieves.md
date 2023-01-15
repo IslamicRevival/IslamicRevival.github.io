@@ -1,6 +1,6 @@
 # The Shepherd's Way: Ep. 2 - Necessity Achieves (2022-07-01)
 
-![alt The Shepherd's Way: Ep. 2 - Necessity Achieves](kGH0krX3lwE.jpg "The Shepherd's Way: Ep. 2 - Necessity Achieves")
+<iframe loading='lazy' src='https://www.youtube.com/embed/kGH0krX3lwE'></iframe>
 
 ## Description
 

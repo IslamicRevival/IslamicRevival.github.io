@@ -1,6 +1,6 @@
 # Mini Seerah - Introduction to Prophet Mohammed (2021-05-29)
 
-![alt Mini Seerah - Introduction to Prophet Mohammed](0reCmOZBRZE.jpg "Mini Seerah - Introduction to Prophet Mohammed")
+<iframe loading='lazy' src='https://www.youtube.com/embed/0reCmOZBRZE'></iframe>
 
 ## Description
 

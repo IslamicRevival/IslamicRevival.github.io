@@ -1,6 +1,6 @@
 # Critiquing Liberalism feat. @AbdullahalAndalusi | TAP #17 (2021-10-04)
 
-![alt Critiquing Liberalism feat. @AbdullahalAndalusi | TAP #17](OK-kam16tsE.jpg "Critiquing Liberalism feat. @AbdullahalAndalusi | TAP #17")
+<iframe loading='lazy' src='https://www.youtube.com/embed/OK-kam16tsE'></iframe>
 
 ## Description
 

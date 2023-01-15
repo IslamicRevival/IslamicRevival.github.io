@@ -1,6 +1,6 @@
 # Londoniyyah - Part 34 - Buddhism | Mohammed Hijab (2022-04-29)
 
-![alt Londoniyyah - Part 34 - Buddhism | Mohammed Hijab](_ASgaOXz9Lw.jpg "Londoniyyah - Part 34 - Buddhism | Mohammed Hijab")
+<iframe loading='lazy' src='https://www.youtube.com/embed/_ASgaOXz9Lw'></iframe>
 
 ## Description
 

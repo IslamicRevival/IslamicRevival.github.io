@@ -1,6 +1,6 @@
 # Islam on the Problem of Suffering with Dr Abdullah Sueidi (2021-12-28)
 
-![alt Islam on the Problem of Suffering with Dr Abdullah Sueidi](p2h4eTlwz1k.jpg "Islam on the Problem of Suffering with Dr Abdullah Sueidi")
+<iframe loading='lazy' src='https://www.youtube.com/embed/p2h4eTlwz1k'></iframe>
 
 ## Description
 

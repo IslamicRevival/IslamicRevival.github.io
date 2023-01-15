@@ -1,6 +1,6 @@
 # Jihad | Mohammed Hijab (2022-12-12)
 
-![alt Jihad | Mohammed Hijab](4rC1F0lIzUw.jpg "Jihad | Mohammed Hijab")
+<iframe loading='lazy' src='https://www.youtube.com/embed/4rC1F0lIzUw'></iframe>
 
 ## Description
 

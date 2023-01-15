@@ -1,6 +1,6 @@
 # MUSLIM TALKS TO GAY SEX ADVISOR - NEW YORK (2018-11-18)
 
-![alt MUSLIM TALKS TO GAY SEX ADVISOR - NEW YORK](KLdjHNGf9XM.jpg "MUSLIM TALKS TO GAY SEX ADVISOR - NEW YORK")
+<iframe loading='lazy' src='https://www.youtube.com/embed/KLdjHNGf9XM'></iframe>
 
 ## Description
 

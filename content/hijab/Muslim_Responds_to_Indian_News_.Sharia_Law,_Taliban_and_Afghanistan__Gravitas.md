@@ -1,6 +1,6 @@
 # Muslim Responds to Indian News .Sharia Law, Taliban and Afghanistan #Gravitas (2021-09-04)
 
-![alt Muslim Responds to Indian News .Sharia Law, Taliban and Afghanistan #Gravitas](nvIoWunqmZ4.jpg "Muslim Responds to Indian News .Sharia Law, Taliban and Afghanistan #Gravitas")
+<iframe loading='lazy' src='https://www.youtube.com/embed/nvIoWunqmZ4'></iframe>
 
 ## Description
 

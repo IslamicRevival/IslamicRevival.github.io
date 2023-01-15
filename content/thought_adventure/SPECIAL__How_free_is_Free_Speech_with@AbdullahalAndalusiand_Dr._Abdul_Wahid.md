@@ -1,6 +1,6 @@
 # SPECIAL: How free is Free Speech? with@AbdullahalAndalusiand Dr. Abdul Wahid (2022-08-14)
 
-![alt SPECIAL: How free is Free Speech? with@AbdullahalAndalusiand Dr. Abdul Wahid](x9n_t9Q2xqo.jpg "SPECIAL: How free is Free Speech? with@AbdullahalAndalusiand Dr. Abdul Wahid")
+<iframe loading='lazy' src='https://www.youtube.com/embed/x9n_t9Q2xqo'></iframe>
 
 ## Description
 

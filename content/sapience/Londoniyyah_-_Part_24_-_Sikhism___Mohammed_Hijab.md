@@ -1,6 +1,6 @@
 # Londoniyyah - Part 24 - Sikhism | Mohammed Hijab (2022-04-10)
 
-![alt Londoniyyah - Part 24 - Sikhism | Mohammed Hijab](4j44ib_wGBE.jpg "Londoniyyah - Part 24 - Sikhism | Mohammed Hijab")
+<iframe loading='lazy' src='https://www.youtube.com/embed/4j44ib_wGBE'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Reacting to 'Honest Tea Talk' on Marriage, Divorce and Gender Roles (2021-10-23)
 
-![alt Reacting to 'Honest Tea Talk' on Marriage, Divorce and Gender Roles](qzPWOj4VoBs.jpg "Reacting to 'Honest Tea Talk' on Marriage, Divorce and Gender Roles")
+<iframe loading='lazy' src='https://www.youtube.com/embed/qzPWOj4VoBs'></iframe>
 
 ## Description
 

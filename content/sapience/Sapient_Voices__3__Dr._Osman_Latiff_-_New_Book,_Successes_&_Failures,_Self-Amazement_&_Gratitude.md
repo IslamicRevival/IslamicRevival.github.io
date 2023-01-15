@@ -1,6 +1,6 @@
 # Sapient Voices #3: Dr. Osman Latiff - New Book, Successes & Failures, Self-Amazement & Gratitude (2022-07-24)
 
-![alt Sapient Voices #3: Dr. Osman Latiff - New Book, Successes & Failures, Self-Amazement & Gratitude](__NpvDxDSlw.jpg "Sapient Voices #3: Dr. Osman Latiff - New Book, Successes & Failures, Self-Amazement & Gratitude")
+<iframe loading='lazy' src='https://www.youtube.com/embed/__NpvDxDSlw'></iframe>
 
 ## Description
 

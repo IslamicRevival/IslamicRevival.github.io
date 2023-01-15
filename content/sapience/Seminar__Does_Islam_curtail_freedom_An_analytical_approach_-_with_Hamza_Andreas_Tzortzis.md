@@ -1,6 +1,6 @@
 # Seminar: Does Islam curtail freedom? An analytical approach - with Hamza Andreas Tzortzis (2021-09-26)
 
-![alt Seminar: Does Islam curtail freedom? An analytical approach - with Hamza Andreas Tzortzis](71jEgL9tR1g.jpg "Seminar: Does Islam curtail freedom? An analytical approach - with Hamza Andreas Tzortzis")
+<iframe loading='lazy' src='https://www.youtube.com/embed/71jEgL9tR1g'></iframe>
 
 ## Description
 

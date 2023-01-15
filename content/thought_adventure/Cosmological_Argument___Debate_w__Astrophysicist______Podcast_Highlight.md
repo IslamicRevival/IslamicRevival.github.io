@@ -1,6 +1,6 @@
 # Cosmological Argument | Debate w/ Astrophysicist |  | Podcast Highlight (2021-05-23)
 
-![alt Cosmological Argument | Debate w/ Astrophysicist |  | Podcast Highlight](bdM-3Z30uNo.jpg "Cosmological Argument | Debate w/ Astrophysicist |  | Podcast Highlight")
+<iframe loading='lazy' src='https://www.youtube.com/embed/bdM-3Z30uNo'></iframe>
 
 ## Description
 

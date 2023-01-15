@@ -1,6 +1,6 @@
 # Pornography and Sexual Impatience (2017-12-01)
 
-![alt Pornography and Sexual Impatience](MTPwUrTQ-8M.jpg "Pornography and Sexual Impatience")
+<iframe loading='lazy' src='https://www.youtube.com/embed/MTPwUrTQ-8M'></iframe>
 
 ## Description
 

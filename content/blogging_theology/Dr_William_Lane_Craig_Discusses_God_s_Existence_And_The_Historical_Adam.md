@@ -1,6 +1,6 @@
 # Dr William Lane Craig Discusses God's Existence And The Historical Adam (2022-05-25)
 
-![alt Dr William Lane Craig Discusses God's Existence And The Historical Adam](RCBG4Bx9HEI.jpg "Dr William Lane Craig Discusses God's Existence And The Historical Adam")
+<iframe loading='lazy' src='https://www.youtube.com/embed/RCBG4Bx9HEI'></iframe>
 
 ## Description
 

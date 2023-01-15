@@ -1,6 +1,6 @@
 # Webinar: Darwinian Delusions — How to Understand Islam and the Science of Evolution (2020-08-17)
 
-![alt Webinar: Darwinian Delusions — How to Understand Islam and the Science of Evolution](GTYQShozr2c.jpg "Webinar: Darwinian Delusions — How to Understand Islam and the Science of Evolution")
+<iframe loading='lazy' src='https://www.youtube.com/embed/GTYQShozr2c'></iframe>
 
 ## Description
 

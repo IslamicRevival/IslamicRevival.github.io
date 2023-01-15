@@ -1,6 +1,6 @@
 # The Islamic Concept of Miracles | The Evidence Course | Session 5 / Part 1 (2021-09-29)
 
-![alt The Islamic Concept of Miracles | The Evidence Course | Session 5 / Part 1](GCmNMuWWaco.jpg "The Islamic Concept of Miracles | The Evidence Course | Session 5 / Part 1")
+<iframe loading='lazy' src='https://www.youtube.com/embed/GCmNMuWWaco'></iframe>
 
 ## Description
 

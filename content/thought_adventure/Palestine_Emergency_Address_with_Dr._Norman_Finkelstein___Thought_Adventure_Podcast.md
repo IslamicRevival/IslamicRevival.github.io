@@ -1,6 +1,6 @@
 # Palestine Emergency Address with Dr. Norman Finkelstein | Thought Adventure Podcast (2021-05-16)
 
-![alt Palestine Emergency Address with Dr. Norman Finkelstein | Thought Adventure Podcast](PAQ-oIQ5OA8.jpg "Palestine Emergency Address with Dr. Norman Finkelstein | Thought Adventure Podcast")
+<iframe loading='lazy' src='https://www.youtube.com/embed/PAQ-oIQ5OA8'></iframe>
 
 ## Description
 

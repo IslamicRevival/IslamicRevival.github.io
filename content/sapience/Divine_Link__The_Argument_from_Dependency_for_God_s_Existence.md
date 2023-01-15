@@ -1,6 +1,6 @@
 # Divine Link: The Argument from Dependency for God's Existence (2018-07-09)
 
-![alt Divine Link: The Argument from Dependency for God's Existence](DlNEnD65Wfo.jpg "Divine Link: The Argument from Dependency for God's Existence")
+<iframe loading='lazy' src='https://www.youtube.com/embed/DlNEnD65Wfo'></iframe>
 
 ## Description
 

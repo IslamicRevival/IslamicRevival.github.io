@@ -1,6 +1,6 @@
 # NEW SERIES: Professor Dale Martin talks about the Gospels (2021-06-11)
 
-![alt NEW SERIES: Professor Dale Martin talks about the Gospels](YPOcTIYZtNQ.jpg "NEW SERIES: Professor Dale Martin talks about the Gospels")
+<iframe loading='lazy' src='https://www.youtube.com/embed/YPOcTIYZtNQ'></iframe>
 
 ## Description
 

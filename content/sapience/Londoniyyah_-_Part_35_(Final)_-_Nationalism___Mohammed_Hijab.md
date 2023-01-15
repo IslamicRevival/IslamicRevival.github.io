@@ -1,6 +1,6 @@
 # Londoniyyah - Part 35 (Final) - Nationalism | Mohammed Hijab (2022-04-30)
 
-![alt Londoniyyah - Part 35 (Final) - Nationalism | Mohammed Hijab](R1bE9gAmSG8.jpg "Londoniyyah - Part 35 (Final) - Nationalism | Mohammed Hijab")
+<iframe loading='lazy' src='https://www.youtube.com/embed/R1bE9gAmSG8'></iframe>
 
 ## Description
 

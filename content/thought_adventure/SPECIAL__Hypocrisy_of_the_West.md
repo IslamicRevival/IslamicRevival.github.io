@@ -1,6 +1,6 @@
 # SPECIAL: Hypocrisy of the West (2022-03-06)
 
-![alt SPECIAL: Hypocrisy of the West](ktp6bvkXiPE.jpg "SPECIAL: Hypocrisy of the West")
+<iframe loading='lazy' src='https://www.youtube.com/embed/ktp6bvkXiPE'></iframe>
 
 ## Description
 

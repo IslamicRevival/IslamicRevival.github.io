@@ -1,6 +1,6 @@
 # What is the true teaching of Jesus about the Old Testament Law? (2021-01-02)
 
-![alt What is the true teaching of Jesus about the Old Testament Law?](yhJ_0dVmAEc.jpg "What is the true teaching of Jesus about the Old Testament Law?")
+<iframe loading='lazy' src='https://www.youtube.com/embed/yhJ_0dVmAEc'></iframe>
 
 ## Description
 

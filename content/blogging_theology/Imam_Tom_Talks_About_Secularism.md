@@ -1,6 +1,6 @@
 # Imam Tom Talks About Secularism (2022-06-30)
 
-![alt Imam Tom Talks About Secularism](Sjsnmp-PqI0.jpg "Imam Tom Talks About Secularism")
+<iframe loading='lazy' src='https://www.youtube.com/embed/Sjsnmp-PqI0'></iframe>
 
 ## Description
 

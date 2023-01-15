@@ -1,6 +1,6 @@
 # Challenge: There is an Obvious Contradicton in the Quran (2022-08-07)
 
-![alt Challenge: There is an Obvious Contradicton in the Quran](jsE3IQDf7hU.jpg "Challenge: There is an Obvious Contradicton in the Quran")
+<iframe loading='lazy' src='https://www.youtube.com/embed/jsE3IQDf7hU'></iframe>
 
 ## Description
 

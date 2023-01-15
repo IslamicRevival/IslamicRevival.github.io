@@ -1,6 +1,6 @@
 # A Sentient Singular Being | The Evidence Course | Session 2 / Part 5 (2021-08-04)
 
-![alt A Sentient Singular Being | The Evidence Course | Session 2 / Part 5](pNtzuXqS6Zs.jpg "A Sentient Singular Being | The Evidence Course | Session 2 / Part 5")
+<iframe loading='lazy' src='https://www.youtube.com/embed/pNtzuXqS6Zs'></iframe>
 
 ## Description
 

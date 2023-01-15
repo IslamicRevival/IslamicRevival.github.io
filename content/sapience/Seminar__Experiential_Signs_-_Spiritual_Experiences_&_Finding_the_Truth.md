@@ -1,6 +1,6 @@
 # Seminar: Experiential Signs - Spiritual Experiences & Finding the Truth (2021-10-10)
 
-![alt Seminar: Experiential Signs - Spiritual Experiences & Finding the Truth](1DbEexzAUQE.jpg "Seminar: Experiential Signs - Spiritual Experiences & Finding the Truth")
+<iframe loading='lazy' src='https://www.youtube.com/embed/1DbEexzAUQE'></iframe>
 
 ## Description
 

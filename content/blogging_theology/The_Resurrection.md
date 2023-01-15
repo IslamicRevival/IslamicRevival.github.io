@@ -1,6 +1,6 @@
 # The Resurrection (2021-09-15)
 
-![alt The Resurrection](IxRDbYZ9-os.jpg "The Resurrection")
+<iframe loading='lazy' src='https://www.youtube.com/embed/IxRDbYZ9-os'></iframe>
 
 ## Description
 

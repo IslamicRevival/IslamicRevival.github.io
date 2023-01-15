@@ -1,6 +1,6 @@
 # Ayaan 'Hirsi Ali' Ridiculous Research Exposed (2022-03-04)
 
-![alt Ayaan 'Hirsi Ali' Ridiculous Research Exposed](LpHAK_-2YFs.jpg "Ayaan 'Hirsi Ali' Ridiculous Research Exposed")
+<iframe loading='lazy' src='https://www.youtube.com/embed/LpHAK_-2YFs'></iframe>
 
 ## Description
 

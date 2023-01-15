@@ -1,6 +1,6 @@
 # Hadith Preservation & Controversial Questions to  Mufti Muneer (MH Podcast #7) (2020-07-14)
 
-![alt Hadith Preservation & Controversial Questions to  Mufti Muneer (MH Podcast #7)](5kQ4gUjvihk.jpg "Hadith Preservation & Controversial Questions to  Mufti Muneer (MH Podcast #7)")
+<iframe loading='lazy' src='https://www.youtube.com/embed/5kQ4gUjvihk'></iframe>
 
 ## Description
 

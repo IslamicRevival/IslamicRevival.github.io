@@ -1,6 +1,6 @@
 # Current Condition of Muslims | Mohammed Hijab (2022-11-08)
 
-![alt Current Condition of Muslims | Mohammed Hijab](DQgUVN4Oya8.jpg "Current Condition of Muslims | Mohammed Hijab")
+<iframe loading='lazy' src='https://www.youtube.com/embed/DQgUVN4Oya8'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Shaykh Abdal Hakim Murad on Blogging Theology (2021-07-15)
 
-![alt Shaykh Abdal Hakim Murad on Blogging Theology](laFLPKZBUZE.jpg "Shaykh Abdal Hakim Murad on Blogging Theology")
+<iframe loading='lazy' src='https://www.youtube.com/embed/laFLPKZBUZE'></iframe>
 
 ## Description
 

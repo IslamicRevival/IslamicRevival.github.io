@@ -1,6 +1,6 @@
 # Muslim Historian Outclasses Zionist Researcher (2019-04-03)
 
-![alt Muslim Historian Outclasses Zionist Researcher](0fvzO7-JTUg.jpg "Muslim Historian Outclasses Zionist Researcher")
+<iframe loading='lazy' src='https://www.youtube.com/embed/0fvzO7-JTUg'></iframe>
 
 ## Description
 

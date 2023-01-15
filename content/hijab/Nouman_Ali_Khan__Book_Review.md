@@ -1,6 +1,6 @@
 # Nouman Ali Khan  Book Review (2017-11-23)
 
-![alt Nouman Ali Khan  Book Review](hKub_aeM-6w.jpg "Nouman Ali Khan  Book Review")
+<iframe loading='lazy' src='https://www.youtube.com/embed/hKub_aeM-6w'></iframe>
 
 ## Description
 

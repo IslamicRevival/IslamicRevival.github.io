@@ -1,6 +1,6 @@
 # Firas Zahabi on Bravery, Health and Lifestyle. (2018-03-30)
 
-![alt Firas Zahabi on Bravery, Health and Lifestyle.](wzWTLOTWkms.jpg "Firas Zahabi on Bravery, Health and Lifestyle.")
+<iframe loading='lazy' src='https://www.youtube.com/embed/wzWTLOTWkms'></iframe>
 
 ## Description
 

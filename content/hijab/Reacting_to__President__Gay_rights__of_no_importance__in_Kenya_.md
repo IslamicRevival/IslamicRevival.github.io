@@ -1,6 +1,6 @@
 # Reacting to 'President: Gay rights 'of no importance' in Kenya' (2021-05-05)
 
-![alt Reacting to 'President: Gay rights 'of no importance' in Kenya'](wp4REjWl7yk.jpg "Reacting to 'President: Gay rights 'of no importance' in Kenya'")
+<iframe loading='lazy' src='https://www.youtube.com/embed/wp4REjWl7yk'></iframe>
 
 ## Description
 

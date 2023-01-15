@@ -1,6 +1,6 @@
 # Review of 2022 with special mystery guest (2022-12-31)
 
-![alt Review of 2022 with special mystery guest](ijZVhSsQkQU.jpg "Review of 2022 with special mystery guest")
+<iframe loading='lazy' src='https://www.youtube.com/embed/ijZVhSsQkQU'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Science and Scientism | The Evidence Course | Session 1 / Part 3 (2021-06-23)
 
-![alt Science and Scientism | The Evidence Course | Session 1 / Part 3](twjPt1cOHKE.jpg "Science and Scientism | The Evidence Course | Session 1 / Part 3")
+<iframe loading='lazy' src='https://www.youtube.com/embed/twjPt1cOHKE'></iframe>
 
 ## Description
 

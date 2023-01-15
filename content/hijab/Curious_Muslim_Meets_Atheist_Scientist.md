@@ -1,6 +1,6 @@
 # Curious Muslim Meets Atheist Scientist (2019-01-21)
 
-![alt Curious Muslim Meets Atheist Scientist](37EY8TP7d3k.jpg "Curious Muslim Meets Atheist Scientist")
+<iframe loading='lazy' src='https://www.youtube.com/embed/37EY8TP7d3k'></iframe>
 
 ## Description
 

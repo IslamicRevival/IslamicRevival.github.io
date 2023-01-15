@@ -1,6 +1,6 @@
 # Christmas Message from Blogging Theology (2020-12-24)
 
-![alt Christmas Message from Blogging Theology](UKfoEkJ_Yi0.jpg "Christmas Message from Blogging Theology")
+<iframe loading='lazy' src='https://www.youtube.com/embed/UKfoEkJ_Yi0'></iframe>
 
 ## Description
 

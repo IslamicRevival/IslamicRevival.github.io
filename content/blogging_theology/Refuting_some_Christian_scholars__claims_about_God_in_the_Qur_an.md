@@ -1,6 +1,6 @@
 # Refuting some Christian scholars' claims about God in the Qur'an (2021-09-08)
 
-![alt Refuting some Christian scholars' claims about God in the Qur'an](4nZzszqcOfM.jpg "Refuting some Christian scholars' claims about God in the Qur'an")
+<iframe loading='lazy' src='https://www.youtube.com/embed/4nZzszqcOfM'></iframe>
 
 ## Description
 

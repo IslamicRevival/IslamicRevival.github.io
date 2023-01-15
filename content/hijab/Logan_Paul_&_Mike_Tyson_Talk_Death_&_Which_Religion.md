@@ -1,6 +1,6 @@
 # Logan Paul & Mike Tyson Talk Death & Which Religion (2021-01-01)
 
-![alt Logan Paul & Mike Tyson Talk Death & Which Religion](slgnG6xAkEU.jpg "Logan Paul & Mike Tyson Talk Death & Which Religion")
+<iframe loading='lazy' src='https://www.youtube.com/embed/slgnG6xAkEU'></iframe>
 
 ## Description
 

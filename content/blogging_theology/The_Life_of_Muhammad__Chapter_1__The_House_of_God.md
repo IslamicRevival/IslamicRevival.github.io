@@ -1,6 +1,6 @@
 # The Life of Muhammad ﷺ Chapter 1: The House of God (2021-12-04)
 
-![alt The Life of Muhammad ﷺ Chapter 1: The House of God](nGWuZcyGIvs.jpg "The Life of Muhammad ﷺ Chapter 1: The House of God")
+<iframe loading='lazy' src='https://www.youtube.com/embed/nGWuZcyGIvs'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Shubuhat Series #4 - Gender Issues | Mohammed Hijab (2022-06-01)
 
-![alt Shubuhat Series #4 - Gender Issues | Mohammed Hijab](VdcdwyjPuaM.jpg "Shubuhat Series #4 - Gender Issues | Mohammed Hijab")
+<iframe loading='lazy' src='https://www.youtube.com/embed/VdcdwyjPuaM'></iframe>
 
 ## Description
 

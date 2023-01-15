@@ -1,6 +1,6 @@
 # Imam Tom discusses The Impossible State by Wael Hallaq (part 1) (2022-11-19)
 
-![alt Imam Tom discusses The Impossible State by Wael Hallaq (part 1)](Bm2UyQMK3Ig.jpg "Imam Tom discusses The Impossible State by Wael Hallaq (part 1)")
+<iframe loading='lazy' src='https://www.youtube.com/embed/Bm2UyQMK3Ig'></iframe>
 
 ## Description
 

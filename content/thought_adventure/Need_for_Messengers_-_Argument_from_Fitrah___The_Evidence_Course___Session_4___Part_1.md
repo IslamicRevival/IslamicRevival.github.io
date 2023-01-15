@@ -1,6 +1,6 @@
 # Need for Messengers - Argument from Fitrah | The Evidence Course | Session 4 / Part 1 (2021-09-15)
 
-![alt Need for Messengers - Argument from Fitrah | The Evidence Course | Session 4 / Part 1](z2m7jsH3_Mw.jpg "Need for Messengers - Argument from Fitrah | The Evidence Course | Session 4 / Part 1")
+<iframe loading='lazy' src='https://www.youtube.com/embed/z2m7jsH3_Mw'></iframe>
 
 ## Description
 

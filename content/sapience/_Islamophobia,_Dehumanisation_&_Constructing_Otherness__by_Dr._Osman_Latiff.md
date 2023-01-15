@@ -1,6 +1,6 @@
 # "Islamophobia, Dehumanisation & Constructing Otherness" by Dr. Osman Latiff (2020-11-30)
 
-![alt "Islamophobia, Dehumanisation & Constructing Otherness" by Dr. Osman Latiff](y8b_XtMsNto.jpg ""Islamophobia, Dehumanisation & Constructing Otherness" by Dr. Osman Latiff")
+<iframe loading='lazy' src='https://www.youtube.com/embed/y8b_XtMsNto'></iframe>
 
 ## Description
 

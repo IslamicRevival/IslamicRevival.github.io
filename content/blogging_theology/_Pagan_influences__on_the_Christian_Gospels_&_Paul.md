@@ -1,6 +1,6 @@
 # 'Pagan influences' on the Christian Gospels & Paul (2022-02-01)
 
-![alt 'Pagan influences' on the Christian Gospels & Paul](w83Gf6Ldavs.jpg "'Pagan influences' on the Christian Gospels & Paul")
+<iframe loading='lazy' src='https://www.youtube.com/embed/w83Gf6Ldavs'></iframe>
 
 ## Description
 

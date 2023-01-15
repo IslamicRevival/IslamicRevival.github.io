@@ -1,6 +1,6 @@
 # Dr. Jordan Peterson Clears Up Warlord Comment (2021-12-16)
 
-![alt Dr. Jordan Peterson Clears Up Warlord Comment](v0qZCupZ2SU.jpg "Dr. Jordan Peterson Clears Up Warlord Comment")
+<iframe loading='lazy' src='https://www.youtube.com/embed/v0qZCupZ2SU'></iframe>
 
 ## Description
 

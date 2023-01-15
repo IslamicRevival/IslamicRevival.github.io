@@ -1,6 +1,6 @@
 # Return of the God Hypothesis with Dr. Stephen Meyer (2022-03-16)
 
-![alt Return of the God Hypothesis with Dr. Stephen Meyer](m-BOXBUWVAY.jpg "Return of the God Hypothesis with Dr. Stephen Meyer")
+<iframe loading='lazy' src='https://www.youtube.com/embed/m-BOXBUWVAY'></iframe>
 
 ## Description
 

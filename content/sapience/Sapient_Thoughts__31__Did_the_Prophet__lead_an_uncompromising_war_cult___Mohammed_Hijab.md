@@ -1,6 +1,6 @@
 # Sapient Thoughts #31: Did the Prophet ﷺ lead an uncompromising war cult? | Mohammed Hijab (2021-06-14)
 
-![alt Sapient Thoughts #31: Did the Prophet ﷺ lead an uncompromising war cult? | Mohammed Hijab](pxcTVvGpIqs.jpg "Sapient Thoughts #31: Did the Prophet ﷺ lead an uncompromising war cult? | Mohammed Hijab")
+<iframe loading='lazy' src='https://www.youtube.com/embed/pxcTVvGpIqs'></iframe>
 
 ## Description
 

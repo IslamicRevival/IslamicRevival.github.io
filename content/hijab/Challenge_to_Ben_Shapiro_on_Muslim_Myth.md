@@ -1,6 +1,6 @@
 # Challenge to Ben Shapiro on Muslim Myth (2020-06-27)
 
-![alt Challenge to Ben Shapiro on Muslim Myth](88CwPZAssIQ.jpg "Challenge to Ben Shapiro on Muslim Myth")
+<iframe loading='lazy' src='https://www.youtube.com/embed/88CwPZAssIQ'></iframe>
 
 ## Description
 

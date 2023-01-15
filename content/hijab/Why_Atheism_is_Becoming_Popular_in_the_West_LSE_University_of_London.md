@@ -1,6 +1,6 @@
 # Why Atheism is Becoming Popular in the West? LSE University of London (2018-02-28)
 
-![alt Why Atheism is Becoming Popular in the West? LSE University of London](cjxrc5EfxY0.jpg "Why Atheism is Becoming Popular in the West? LSE University of London")
+<iframe loading='lazy' src='https://www.youtube.com/embed/cjxrc5EfxY0'></iframe>
 
 ## Description
 

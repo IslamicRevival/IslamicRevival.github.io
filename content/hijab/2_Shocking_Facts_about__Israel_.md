@@ -1,6 +1,6 @@
 # 2 Shocking Facts about "Israel" (2021-05-15)
 
-![alt 2 Shocking Facts about "Israel"](-nrAOd8uj_I.jpg "2 Shocking Facts about "Israel"")
+<iframe loading='lazy' src='https://www.youtube.com/embed/-nrAOd8uj_I'></iframe>
 
 ## Description
 

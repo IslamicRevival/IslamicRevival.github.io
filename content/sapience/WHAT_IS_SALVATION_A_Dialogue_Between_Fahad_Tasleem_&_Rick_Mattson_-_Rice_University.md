@@ -1,6 +1,6 @@
 # WHAT IS SALVATION? A Dialogue Between Fahad Tasleem & Rick Mattson - Rice University (2022-02-15)
 
-![alt WHAT IS SALVATION? A Dialogue Between Fahad Tasleem & Rick Mattson - Rice University](XN8rO0PS-IA.jpg "WHAT IS SALVATION? A Dialogue Between Fahad Tasleem & Rick Mattson - Rice University")
+<iframe loading='lazy' src='https://www.youtube.com/embed/XN8rO0PS-IA'></iframe>
 
 ## Description
 

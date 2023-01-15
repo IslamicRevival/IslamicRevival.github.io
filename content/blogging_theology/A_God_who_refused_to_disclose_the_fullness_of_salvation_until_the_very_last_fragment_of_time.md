@@ -1,6 +1,6 @@
 # A God who refused to disclose the fullness of salvation until the very last fragment of time? (2020-12-20)
 
-![alt A God who refused to disclose the fullness of salvation until the very last fragment of time?](j5-OShW1_Zs.jpg "A God who refused to disclose the fullness of salvation until the very last fragment of time?")
+<iframe loading='lazy' src='https://www.youtube.com/embed/j5-OShW1_Zs'></iframe>
 
 ## Description
 

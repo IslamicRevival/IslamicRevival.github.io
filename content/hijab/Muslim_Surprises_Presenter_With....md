@@ -1,6 +1,6 @@
 # Muslim Surprises Presenter With... (2017-11-02)
 
-![alt Muslim Surprises Presenter With...](VtiHUsuKhlE.jpg "Muslim Surprises Presenter With...")
+<iframe loading='lazy' src='https://www.youtube.com/embed/VtiHUsuKhlE'></iframe>
 
 ## Description
 

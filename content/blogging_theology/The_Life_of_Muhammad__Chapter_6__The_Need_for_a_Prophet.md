@@ -1,6 +1,6 @@
 # The Life of Muhammad ﷺ Chapter 6: The Need for a Prophet (2022-01-05)
 
-![alt The Life of Muhammad ﷺ Chapter 6: The Need for a Prophet](QkH4c8AEBQo.jpg "The Life of Muhammad ﷺ Chapter 6: The Need for a Prophet")
+<iframe loading='lazy' src='https://www.youtube.com/embed/QkH4c8AEBQo'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Sapience Live: May to Aug 2022 Update and Q&A (2022-09-05)
 
-![alt Sapience Live: May to Aug 2022 Update and Q&A](UkN3oEdHTUI.jpg "Sapience Live: May to Aug 2022 Update and Q&A")
+<iframe loading='lazy' src='https://www.youtube.com/embed/UkN3oEdHTUI'></iframe>
 
 ## Description
 

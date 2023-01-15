@@ -1,6 +1,6 @@
 # Can God be Proven Rationally? | Thought Adventure Podcast #2 (2021-01-31)
 
-![alt Can God be Proven Rationally? | Thought Adventure Podcast #2](X-19SfRhwZA.jpg "Can God be Proven Rationally? | Thought Adventure Podcast #2")
+<iframe loading='lazy' src='https://www.youtube.com/embed/X-19SfRhwZA'></iframe>
 
 ## Description
 

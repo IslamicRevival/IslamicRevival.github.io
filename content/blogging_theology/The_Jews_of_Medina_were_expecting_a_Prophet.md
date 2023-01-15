@@ -1,6 +1,6 @@
 # The Jews of Medina were expecting a Prophet (2022-04-15)
 
-![alt The Jews of Medina were expecting a Prophet](Z4pm2fSYhCI.jpg "The Jews of Medina were expecting a Prophet")
+<iframe loading='lazy' src='https://www.youtube.com/embed/Z4pm2fSYhCI'></iframe>
 
 ## Description
 

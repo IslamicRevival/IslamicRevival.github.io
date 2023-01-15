@@ -1,6 +1,6 @@
 # Why does the Qur'an differ from the Bible? (2021-10-21)
 
-![alt Why does the Qur'an differ from the Bible?](KR9MuOkZnK0.jpg "Why does the Qur'an differ from the Bible?")
+<iframe loading='lazy' src='https://www.youtube.com/embed/KR9MuOkZnK0'></iframe>
 
 ## Description
 

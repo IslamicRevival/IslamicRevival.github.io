@@ -1,6 +1,6 @@
 # Contingency and Rational Evidence for God | The Evidence Course | Session 2 / Part 2 (2021-07-14)
 
-![alt Contingency and Rational Evidence for God | The Evidence Course | Session 2 / Part 2](_jOj2QylBww.jpg "Contingency and Rational Evidence for God | The Evidence Course | Session 2 / Part 2")
+<iframe loading='lazy' src='https://www.youtube.com/embed/_jOj2QylBww'></iframe>
 
 ## Description
 

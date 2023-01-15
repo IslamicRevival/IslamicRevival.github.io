@@ -1,6 +1,6 @@
 # Why Are We ALIVE ? Muslim/Atheist Discussion (2017-12-19)
 
-![alt Why Are We ALIVE ? Muslim/Atheist Discussion](elYcn0Hy8Vc.jpg "Why Are We ALIVE ? Muslim/Atheist Discussion")
+<iframe loading='lazy' src='https://www.youtube.com/embed/elYcn0Hy8Vc'></iframe>
 
 ## Description
 

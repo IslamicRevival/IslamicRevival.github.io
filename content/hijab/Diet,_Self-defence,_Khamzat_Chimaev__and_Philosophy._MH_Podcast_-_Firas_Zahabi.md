@@ -1,6 +1,6 @@
 # Diet, Self-defence, Khamzat Chimaev  and Philosophy. MH Podcast - Firas Zahabi (2022-03-29)
 
-![alt Diet, Self-defence, Khamzat Chimaev  and Philosophy. MH Podcast - Firas Zahabi](v4-FUP5Nefk.jpg "Diet, Self-defence, Khamzat Chimaev  and Philosophy. MH Podcast - Firas Zahabi")
+<iframe loading='lazy' src='https://www.youtube.com/embed/v4-FUP5Nefk'></iframe>
 
 ## Description
 

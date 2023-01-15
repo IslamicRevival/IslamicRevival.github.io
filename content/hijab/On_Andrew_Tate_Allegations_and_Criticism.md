@@ -1,6 +1,6 @@
 # On Andrew Tate Allegations and Criticism (2023-01-11)
 
-![alt On Andrew Tate Allegations and Criticism](4i7BppErIMk.jpg "On Andrew Tate Allegations and Criticism")
+<iframe loading='lazy' src='https://www.youtube.com/embed/4i7BppErIMk'></iframe>
 
 ## Description
 

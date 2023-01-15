@@ -1,6 +1,6 @@
 # @bartdehrman  discusses Jesus, the Bible, and Christianity (2021-12-19)
 
-![alt @bartdehrman  discusses Jesus, the Bible, and Christianity](oeZrdgxi9bY.jpg "@bartdehrman  discusses Jesus, the Bible, and Christianity")
+<iframe loading='lazy' src='https://www.youtube.com/embed/oeZrdgxi9bY'></iframe>
 
 ## Description
 

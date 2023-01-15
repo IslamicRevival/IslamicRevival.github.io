@@ -1,6 +1,6 @@
 # Why the West is Wrong about Islam with Peter Oborne (2022-05-16)
 
-![alt Why the West is Wrong about Islam with Peter Oborne](qu5VHqDBePI.jpg "Why the West is Wrong about Islam with Peter Oborne")
+<iframe loading='lazy' src='https://www.youtube.com/embed/qu5VHqDBePI'></iframe>
 
 ## Description
 

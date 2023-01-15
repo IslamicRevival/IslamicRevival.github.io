@@ -1,6 +1,6 @@
 # The Shepherd's Way: Ep. 7 - The Inner Me is The Enemy (2022-07-06)
 
-![alt The Shepherd's Way: Ep. 7 - The Inner Me is The Enemy](0mOcVE3hQBo.jpg "The Shepherd's Way: Ep. 7 - The Inner Me is The Enemy")
+<iframe loading='lazy' src='https://www.youtube.com/embed/0mOcVE3hQBo'></iframe>
 
 ## Description
 

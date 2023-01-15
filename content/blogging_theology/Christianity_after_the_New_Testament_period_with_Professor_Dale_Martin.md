@@ -1,6 +1,6 @@
 # Christianity after the New Testament period with Professor Dale Martin (2022-02-15)
 
-![alt Christianity after the New Testament period with Professor Dale Martin](GYrUJnrlus0.jpg "Christianity after the New Testament period with Professor Dale Martin")
+<iframe loading='lazy' src='https://www.youtube.com/embed/GYrUJnrlus0'></iframe>
 
 ## Description
 

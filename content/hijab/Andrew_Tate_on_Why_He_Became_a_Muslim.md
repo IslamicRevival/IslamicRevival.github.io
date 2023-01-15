@@ -1,6 +1,6 @@
 # Andrew Tate on Why He Became a Muslim (2022-10-29)
 
-![alt Andrew Tate on Why He Became a Muslim](Ysv3GE3-kpc.jpg "Andrew Tate on Why He Became a Muslim")
+<iframe loading='lazy' src='https://www.youtube.com/embed/Ysv3GE3-kpc'></iframe>
 
 ## Description
 

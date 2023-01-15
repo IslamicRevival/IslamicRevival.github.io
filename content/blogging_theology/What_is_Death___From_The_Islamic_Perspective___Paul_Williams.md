@@ -1,6 +1,6 @@
 # What is Death? | From The Islamic Perspective | Paul Williams (2021-09-09)
 
-![alt What is Death? | From The Islamic Perspective | Paul Williams](5ReVKmGz-LE.jpg "What is Death? | From The Islamic Perspective | Paul Williams")
+<iframe loading='lazy' src='https://www.youtube.com/embed/5ReVKmGz-LE'></iframe>
 
 ## Description
 

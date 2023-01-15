@@ -1,6 +1,6 @@
 # Ultra-Skeptic Atheist Caught Out (2020-02-03)
 
-![alt Ultra-Skeptic Atheist Caught Out](ejpxks97j3o.jpg "Ultra-Skeptic Atheist Caught Out")
+<iframe loading='lazy' src='https://www.youtube.com/embed/ejpxks97j3o'></iframe>
 
 ## Description
 

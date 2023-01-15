@@ -1,6 +1,6 @@
 # The Moment an Atheist Becomes a Theist | Podcast Highlight (2021-04-02)
 
-![alt The Moment an Atheist Becomes a Theist | Podcast Highlight](_VjXoEPU5z0.jpg "The Moment an Atheist Becomes a Theist | Podcast Highlight")
+<iframe loading='lazy' src='https://www.youtube.com/embed/_VjXoEPU5z0'></iframe>
 
 ## Description
 

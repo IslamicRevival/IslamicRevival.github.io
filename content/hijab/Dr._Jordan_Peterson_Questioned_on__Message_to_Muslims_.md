@@ -1,6 +1,6 @@
 # Dr. Jordan Peterson Questioned on 'Message to Muslims' (2022-10-18)
 
-![alt Dr. Jordan Peterson Questioned on 'Message to Muslims'](jxr6ykYcA1M.jpg "Dr. Jordan Peterson Questioned on 'Message to Muslims'")
+<iframe loading='lazy' src='https://www.youtube.com/embed/jxr6ykYcA1M'></iframe>
 
 ## Description
 

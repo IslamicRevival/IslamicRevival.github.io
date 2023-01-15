@@ -1,6 +1,6 @@
 # Live Academic Discussion: "How Free is Speech?" With Dr. Stephen Law & Hamza Andreas Tzortzis (2021-03-30)
 
-![alt Live Academic Discussion: "How Free is Speech?" With Dr. Stephen Law & Hamza Andreas Tzortzis](SEs24mKHueA.jpg "Live Academic Discussion: "How Free is Speech?" With Dr. Stephen Law & Hamza Andreas Tzortzis")
+<iframe loading='lazy' src='https://www.youtube.com/embed/SEs24mKHueA'></iframe>
 
 ## Description
 

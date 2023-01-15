@@ -1,6 +1,6 @@
 # Is "ISIS" Similar to "Israel" ? Muslim vs Jew (2019-04-01)
 
-![alt Is "ISIS" Similar to "Israel" ? Muslim vs Jew](0vS-UiPFD7Q.jpg "Is "ISIS" Similar to "Israel" ? Muslim vs Jew")
+<iframe loading='lazy' src='https://www.youtube.com/embed/0vS-UiPFD7Q'></iframe>
 
 ## Description
 

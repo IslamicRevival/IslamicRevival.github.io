@@ -1,6 +1,6 @@
 # Reality Is Reality!? | Podcast Highlight (2021-03-09)
 
-![alt Reality Is Reality!? | Podcast Highlight](KRuUq0dCrmA.jpg "Reality Is Reality!? | Podcast Highlight")
+<iframe loading='lazy' src='https://www.youtube.com/embed/KRuUq0dCrmA'></iframe>
 
 ## Description
 

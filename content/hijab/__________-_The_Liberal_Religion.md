@@ -1,6 +1,6 @@
 # الليبيرالية  دين القرن الواحد والعشرين   محمد حجاب - The Liberal Religion (2020-10-16)
 
-![alt الليبيرالية  دين القرن الواحد والعشرين   محمد حجاب - The Liberal Religion](oKMKlPFVRNM.jpg "الليبيرالية  دين القرن الواحد والعشرين   محمد حجاب - The Liberal Religion")
+<iframe loading='lazy' src='https://www.youtube.com/embed/oKMKlPFVRNM'></iframe>
 
 ## Description
 

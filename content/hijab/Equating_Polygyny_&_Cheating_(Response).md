@@ -1,6 +1,6 @@
 # Equating Polygyny & Cheating? (Response) (2022-08-31)
 
-![alt Equating Polygyny & Cheating? (Response)](799VhYgwHck.jpg "Equating Polygyny & Cheating? (Response)")
+<iframe loading='lazy' src='https://www.youtube.com/embed/799VhYgwHck'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Richard Dawkins "Robots will become conscious" ft Hamza Tzortzis (2020-08-01)
 
-![alt Richard Dawkins "Robots will become conscious" ft Hamza Tzortzis](aUm0o0Cu5qg.jpg "Richard Dawkins "Robots will become conscious" ft Hamza Tzortzis")
+<iframe loading='lazy' src='https://www.youtube.com/embed/aUm0o0Cu5qg'></iframe>
 
 ## Description
 

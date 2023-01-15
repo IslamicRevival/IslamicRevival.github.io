@@ -1,6 +1,6 @@
 # French Presidential Election Results - Should Muslims Be Worried? (2022-04-11)
 
-![alt French Presidential Election Results - Should Muslims Be Worried?](Gzqb26NhuAI.jpg "French Presidential Election Results - Should Muslims Be Worried?")
+<iframe loading='lazy' src='https://www.youtube.com/embed/Gzqb26NhuAI'></iframe>
 
 ## Description
 

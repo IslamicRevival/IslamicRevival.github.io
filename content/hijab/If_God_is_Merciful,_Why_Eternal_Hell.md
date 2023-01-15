@@ -1,6 +1,6 @@
 # If God is Merciful, Why Eternal Hell? (2019-04-18)
 
-![alt If God is Merciful, Why Eternal Hell?](8pYwCzTTiG4.jpg "If God is Merciful, Why Eternal Hell?")
+<iframe loading='lazy' src='https://www.youtube.com/embed/8pYwCzTTiG4'></iframe>
 
 ## Description
 

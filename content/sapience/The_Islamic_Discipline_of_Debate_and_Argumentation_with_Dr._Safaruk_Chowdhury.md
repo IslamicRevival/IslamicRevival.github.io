@@ -1,6 +1,6 @@
 # The Islamic Discipline of Debate and Argumentation with Dr. Safaruk Chowdhury (2020-08-15)
 
-![alt The Islamic Discipline of Debate and Argumentation with Dr. Safaruk Chowdhury](VgFH2Qr7WP0.jpg "The Islamic Discipline of Debate and Argumentation with Dr. Safaruk Chowdhury")
+<iframe loading='lazy' src='https://www.youtube.com/embed/VgFH2Qr7WP0'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # The most powerful objection to my views on the Gospel of Jesus considered (2020-12-31)
 
-![alt The most powerful objection to my views on the Gospel of Jesus considered](lNeVDnS7eoQ.jpg "The most powerful objection to my views on the Gospel of Jesus considered")
+<iframe loading='lazy' src='https://www.youtube.com/embed/lNeVDnS7eoQ'></iframe>
 
 ## Description
 

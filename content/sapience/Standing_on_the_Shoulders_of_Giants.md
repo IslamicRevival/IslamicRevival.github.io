@@ -1,6 +1,6 @@
 # Standing on the Shoulders of Giants (2022-10-07)
 
-![alt Standing on the Shoulders of Giants](Th6nKXXElQY.jpg "Standing on the Shoulders of Giants")
+<iframe loading='lazy' src='https://www.youtube.com/embed/Th6nKXXElQY'></iframe>
 
 ## Description
 

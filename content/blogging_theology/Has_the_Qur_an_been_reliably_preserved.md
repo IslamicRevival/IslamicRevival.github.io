@@ -1,6 +1,6 @@
 # Has the Qur'an been reliably preserved? (2021-02-19)
 
-![alt Has the Qur'an been reliably preserved?](WKlSJa-ZnJQ.jpg "Has the Qur'an been reliably preserved?")
+<iframe loading='lazy' src='https://www.youtube.com/embed/WKlSJa-ZnJQ'></iframe>
 
 ## Description
 

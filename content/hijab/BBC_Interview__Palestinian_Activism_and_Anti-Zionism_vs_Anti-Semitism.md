@@ -1,6 +1,6 @@
 # BBC Interview: Palestinian Activism and Anti-Zionism vs Anti-Semitism (2021-12-03)
 
-![alt BBC Interview: Palestinian Activism and Anti-Zionism vs Anti-Semitism](6zHL2x0ndgE.jpg "BBC Interview: Palestinian Activism and Anti-Zionism vs Anti-Semitism")
+<iframe loading='lazy' src='https://www.youtube.com/embed/6zHL2x0ndgE'></iframe>
 
 ## Description
 

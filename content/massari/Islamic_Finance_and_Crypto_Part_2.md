@@ -1,6 +1,6 @@
 # Islamic Finance and Crypto Part 2 (2021-04-08)
 
-![alt Islamic Finance and Crypto Part 2](k9-zHPWB1Mc.jpg "Islamic Finance and Crypto Part 2")
+<iframe loading='lazy' src='https://www.youtube.com/embed/k9-zHPWB1Mc'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # ST:#68 Problematic Hadiths Case Study - Part 4 | Sh. Anwar Arafat (2022-09-17)
 
-![alt ST:#68 Problematic Hadiths Case Study - Part 4 | Sh. Anwar Arafat](BBTSIv_Iuro.jpg "ST:#68 Problematic Hadiths Case Study - Part 4 | Sh. Anwar Arafat")
+<iframe loading='lazy' src='https://www.youtube.com/embed/BBTSIv_Iuro'></iframe>
 
 ## Description
 

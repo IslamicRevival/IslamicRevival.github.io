@@ -1,6 +1,6 @@
 # Seminar & Interview: Why Atheism is Irrational #1 — The Argument from Prior Cognitive Information (2021-11-21)
 
-![alt Seminar & Interview: Why Atheism is Irrational #1 — The Argument from Prior Cognitive Information](t2bdY2RBoQs.jpg "Seminar & Interview: Why Atheism is Irrational #1 — The Argument from Prior Cognitive Information")
+<iframe loading='lazy' src='https://www.youtube.com/embed/t2bdY2RBoQs'></iframe>
 
 ## Description
 

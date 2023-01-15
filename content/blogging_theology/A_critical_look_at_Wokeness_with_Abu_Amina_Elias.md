@@ -1,6 +1,6 @@
 # A critical look at Wokeness with Abu Amina Elias (2022-08-21)
 
-![alt A critical look at Wokeness with Abu Amina Elias](37K1mPnMIeE.jpg "A critical look at Wokeness with Abu Amina Elias")
+<iframe loading='lazy' src='https://www.youtube.com/embed/37K1mPnMIeE'></iframe>
 
 ## Description
 

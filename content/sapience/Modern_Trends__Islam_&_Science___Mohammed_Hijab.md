@@ -1,6 +1,6 @@
 # Modern Trends: Islam & Science | Mohammed Hijab (2022-11-17)
 
-![alt Modern Trends: Islam & Science | Mohammed Hijab](s-Jw_A4vud8.jpg "Modern Trends: Islam & Science | Mohammed Hijab")
+<iframe loading='lazy' src='https://www.youtube.com/embed/s-Jw_A4vud8'></iframe>
 
 ## Description
 

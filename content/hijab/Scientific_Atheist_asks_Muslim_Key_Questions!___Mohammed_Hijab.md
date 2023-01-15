@@ -1,6 +1,6 @@
 # Scientific Atheist asks Muslim Key Questions!|| Mohammed Hijab (2016-12-13)
 
-![alt Scientific Atheist asks Muslim Key Questions!|| Mohammed Hijab](cZw4ur_zzRU.jpg "Scientific Atheist asks Muslim Key Questions!|| Mohammed Hijab")
+<iframe loading='lazy' src='https://www.youtube.com/embed/cZw4ur_zzRU'></iframe>
 
 ## Description
 

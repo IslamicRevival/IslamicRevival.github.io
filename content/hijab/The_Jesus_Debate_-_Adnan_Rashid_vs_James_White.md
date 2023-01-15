@@ -1,6 +1,6 @@
 # The Jesus Debate - Adnan Rashid vs James White (2019-05-05)
 
-![alt The Jesus Debate - Adnan Rashid vs James White](58c-GxWM5SY.jpg "The Jesus Debate - Adnan Rashid vs James White")
+<iframe loading='lazy' src='https://www.youtube.com/embed/58c-GxWM5SY'></iframe>
 
 ## Description
 

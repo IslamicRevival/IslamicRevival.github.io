@@ -1,6 +1,6 @@
 # Sapient Thoughts #42: Beauty & The Recognition of God — Part 4: Beauty and meaning (2021-08-31)
 
-![alt Sapient Thoughts #42: Beauty & The Recognition of God — Part 4: Beauty and meaning](sdMYWj65pY0.jpg "Sapient Thoughts #42: Beauty & The Recognition of God — Part 4: Beauty and meaning")
+<iframe loading='lazy' src='https://www.youtube.com/embed/sdMYWj65pY0'></iframe>
 
 ## Description
 

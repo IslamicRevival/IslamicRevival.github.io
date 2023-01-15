@@ -1,6 +1,6 @@
 # Londoniyyah - Part 5 - Social liberalism | Mohammed Hijab (2021-10-24)
 
-![alt Londoniyyah - Part 5 - Social liberalism | Mohammed Hijab](_-K2MfGZ414.jpg "Londoniyyah - Part 5 - Social liberalism | Mohammed Hijab")
+<iframe loading='lazy' src='https://www.youtube.com/embed/_-K2MfGZ414'></iframe>
 
 ## Description
 

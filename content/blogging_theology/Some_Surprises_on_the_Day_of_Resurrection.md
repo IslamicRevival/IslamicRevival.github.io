@@ -1,6 +1,6 @@
 # Some Surprises on the Day of Resurrection (2022-10-31)
 
-![alt Some Surprises on the Day of Resurrection](Xzv6Inbl8co.jpg "Some Surprises on the Day of Resurrection")
+<iframe loading='lazy' src='https://www.youtube.com/embed/Xzv6Inbl8co'></iframe>
 
 ## Description
 

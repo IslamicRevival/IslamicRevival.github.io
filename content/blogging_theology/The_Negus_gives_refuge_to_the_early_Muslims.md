@@ -1,6 +1,6 @@
 # The Negus gives refuge to the early Muslims (2022-06-26)
 
-![alt The Negus gives refuge to the early Muslims](zQjAMSpTYMc.jpg "The Negus gives refuge to the early Muslims")
+<iframe loading='lazy' src='https://www.youtube.com/embed/zQjAMSpTYMc'></iframe>
 
 ## Description
 

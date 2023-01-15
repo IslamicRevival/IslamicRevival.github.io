@@ -1,6 +1,6 @@
 # Does the Trinity Make Sense? | Thought Adventure Podcast #3 (2021-02-14)
 
-![alt Does the Trinity Make Sense? | Thought Adventure Podcast #3](smJ66-gtAYA.jpg "Does the Trinity Make Sense? | Thought Adventure Podcast #3")
+<iframe loading='lazy' src='https://www.youtube.com/embed/smJ66-gtAYA'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Cosmic Atheist Comes Closer ... (2021-07-22)
 
-![alt Cosmic Atheist Comes Closer ...](ZdugED9KiQ8.jpg "Cosmic Atheist Comes Closer ...")
+<iframe loading='lazy' src='https://www.youtube.com/embed/ZdugED9KiQ8'></iframe>
 
 ## Description
 

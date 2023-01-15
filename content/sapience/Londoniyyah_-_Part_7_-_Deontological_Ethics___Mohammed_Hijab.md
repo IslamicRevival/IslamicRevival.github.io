@@ -1,6 +1,6 @@
 # Londoniyyah - Part 7 - Deontological Ethics | Mohammed Hijab (2021-11-11)
 
-![alt Londoniyyah - Part 7 - Deontological Ethics | Mohammed Hijab](H59kvs6CciI.jpg "Londoniyyah - Part 7 - Deontological Ethics | Mohammed Hijab")
+<iframe loading='lazy' src='https://www.youtube.com/embed/H59kvs6CciI'></iframe>
 
 ## Description
 

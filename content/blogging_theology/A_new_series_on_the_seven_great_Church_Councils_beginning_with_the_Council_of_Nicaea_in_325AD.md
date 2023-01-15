@@ -1,6 +1,6 @@
 # A new series on the seven great Church Councils beginning with the Council of Nicaea in 325AD (2020-12-10)
 
-![alt A new series on the seven great Church Councils beginning with the Council of Nicaea in 325AD](xDMqo1jMVH4.jpg "A new series on the seven great Church Councils beginning with the Council of Nicaea in 325AD")
+<iframe loading='lazy' src='https://www.youtube.com/embed/xDMqo1jMVH4'></iframe>
 
 ## Description
 

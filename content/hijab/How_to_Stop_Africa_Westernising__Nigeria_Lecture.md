@@ -1,6 +1,6 @@
 # How to Stop Africa Westernising ? Nigeria Lecture (2022-04-13)
 
-![alt How to Stop Africa Westernising ? Nigeria Lecture](wVpmwQHHSEM.jpg "How to Stop Africa Westernising ? Nigeria Lecture")
+<iframe loading='lazy' src='https://www.youtube.com/embed/wVpmwQHHSEM'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Andrew Tate vs Piers Morgan Reaction (2022-10-11)
 
-![alt Andrew Tate vs Piers Morgan Reaction](uIIDGSC3HMY.jpg "Andrew Tate vs Piers Morgan Reaction")
+<iframe loading='lazy' src='https://www.youtube.com/embed/uIIDGSC3HMY'></iframe>
 
 ## Description
 

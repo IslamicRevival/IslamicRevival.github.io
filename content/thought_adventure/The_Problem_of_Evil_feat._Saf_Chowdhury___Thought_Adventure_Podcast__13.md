@@ -1,6 +1,6 @@
 # The Problem of Evil feat. Saf Chowdhury | Thought Adventure Podcast #13 (2021-08-01)
 
-![alt The Problem of Evil feat. Saf Chowdhury | Thought Adventure Podcast #13](y_2rsDsiUeU.jpg "The Problem of Evil feat. Saf Chowdhury | Thought Adventure Podcast #13")
+<iframe loading='lazy' src='https://www.youtube.com/embed/y_2rsDsiUeU'></iframe>
 
 ## Description
 

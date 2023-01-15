@@ -1,6 +1,6 @@
 # Live with Sapience Institute: Q&A with Imran Hussein & Hamza Tzortzis (2021-12-24)
 
-![alt Live with Sapience Institute: Q&A with Imran Hussein & Hamza Tzortzis](FtEkSMnywCc.jpg "Live with Sapience Institute: Q&A with Imran Hussein & Hamza Tzortzis")
+<iframe loading='lazy' src='https://www.youtube.com/embed/FtEkSMnywCc'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Seminar: "God's Testimony: The Linguistic Miracle of the Quran for Non-Arabs" with Hamza A. Tzortzis (2021-06-16)
 
-![alt Seminar: "God's Testimony: The Linguistic Miracle of the Quran for Non-Arabs" with Hamza A. Tzortzis](7ppOyadhYB0.jpg "Seminar: "God's Testimony: The Linguistic Miracle of the Quran for Non-Arabs" with Hamza A. Tzortzis")
+<iframe loading='lazy' src='https://www.youtube.com/embed/7ppOyadhYB0'></iframe>
 
 ## Description
 

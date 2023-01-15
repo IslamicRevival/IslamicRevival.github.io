@@ -1,6 +1,6 @@
 # Liberal Muslim Re-interpreting The Qur'an (Response) (2022-12-29)
 
-![alt Liberal Muslim Re-interpreting The Qur'an (Response)](UwkiCC-gaVw.jpg "Liberal Muslim Re-interpreting The Qur'an (Response)")
+<iframe loading='lazy' src='https://www.youtube.com/embed/UwkiCC-gaVw'></iframe>
 
 ## Description
 

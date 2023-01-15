@@ -1,6 +1,6 @@
 # Hamza Andreas Tzortzis & Imran Hussein Responds to Dr. William Lane Craig on God's Love (2020-07-10)
 
-![alt Hamza Andreas Tzortzis & Imran Hussein Responds to Dr. William Lane Craig on God's Love](rPvWFCdEOLU.jpg "Hamza Andreas Tzortzis & Imran Hussein Responds to Dr. William Lane Craig on God's Love")
+<iframe loading='lazy' src='https://www.youtube.com/embed/rPvWFCdEOLU'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Open Q and A #2 - Bring Your Questions (non Muslims preferred) (2022-11-20)
 
-![alt Open Q and A #2 - Bring Your Questions (non Muslims preferred)](wNrt_Jb6S2w.jpg "Open Q and A #2 - Bring Your Questions (non Muslims preferred)")
+<iframe loading='lazy' src='https://www.youtube.com/embed/wNrt_Jb6S2w'></iframe>
 
 ## Description
 

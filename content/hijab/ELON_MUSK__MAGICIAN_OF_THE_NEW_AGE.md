@@ -1,6 +1,6 @@
 # ELON MUSK: MAGICIAN OF THE NEW AGE? (2020-10-09)
 
-![alt ELON MUSK: MAGICIAN OF THE NEW AGE?](tm_MZ4GX05A.jpg "ELON MUSK: MAGICIAN OF THE NEW AGE?")
+<iframe loading='lazy' src='https://www.youtube.com/embed/tm_MZ4GX05A'></iframe>
 
 ## Description
 

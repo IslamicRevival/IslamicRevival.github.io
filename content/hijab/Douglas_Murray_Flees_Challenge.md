@@ -1,6 +1,6 @@
 # Douglas Murray Flees Challenge (2021-11-18)
 
-![alt Douglas Murray Flees Challenge](QK2p2GdD7cs.jpg "Douglas Murray Flees Challenge")
+<iframe loading='lazy' src='https://www.youtube.com/embed/QK2p2GdD7cs'></iframe>
 
 ## Description
 

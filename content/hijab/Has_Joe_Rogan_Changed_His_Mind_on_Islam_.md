@@ -1,6 +1,6 @@
 # Has Joe Rogan Changed His Mind on Islam ? (2021-07-03)
 
-![alt Has Joe Rogan Changed His Mind on Islam ?](WWnaQR9OHeI.jpg "Has Joe Rogan Changed His Mind on Islam ?")
+<iframe loading='lazy' src='https://www.youtube.com/embed/WWnaQR9OHeI'></iframe>
 
 ## Description
 

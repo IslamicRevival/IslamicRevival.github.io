@@ -1,6 +1,6 @@
 # "Proving God" is like "Proving Gravity" (2018-06-18)
 
-![alt "Proving God" is like "Proving Gravity"](Nbv9u4RAKBI.jpg ""Proving God" is like "Proving Gravity"")
+<iframe loading='lazy' src='https://www.youtube.com/embed/Nbv9u4RAKBI'></iframe>
 
 ## Description
 

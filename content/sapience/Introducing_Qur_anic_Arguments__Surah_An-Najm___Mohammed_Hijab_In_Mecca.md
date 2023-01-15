@@ -1,6 +1,6 @@
 # Introducing Qur'anic Arguments: Surah An-Najm | Mohammed Hijab In Mecca (2023-01-07)
 
-![alt Introducing Qur'anic Arguments: Surah An-Najm | Mohammed Hijab In Mecca](tgaiiY7rnN0.jpg "Introducing Qur'anic Arguments: Surah An-Najm | Mohammed Hijab In Mecca")
+<iframe loading='lazy' src='https://www.youtube.com/embed/tgaiiY7rnN0'></iframe>
 
 ## Description
 

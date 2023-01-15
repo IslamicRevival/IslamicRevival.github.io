@@ -1,6 +1,6 @@
 # Hardcore Zionist Vs Muslim || Uncut (2018-04-23)
 
-![alt Hardcore Zionist Vs Muslim || Uncut](2xrEVcqpuQM.jpg "Hardcore Zionist Vs Muslim || Uncut")
+<iframe loading='lazy' src='https://www.youtube.com/embed/2xrEVcqpuQM'></iframe>
 
 ## Description
 

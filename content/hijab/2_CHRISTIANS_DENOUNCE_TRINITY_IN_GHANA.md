@@ -1,6 +1,6 @@
 # 2 CHRISTIANS DENOUNCE TRINITY IN GHANA (2018-12-03)
 
-![alt 2 CHRISTIANS DENOUNCE TRINITY IN GHANA](LHtzRl6ORkw.jpg "2 CHRISTIANS DENOUNCE TRINITY IN GHANA")
+<iframe loading='lazy' src='https://www.youtube.com/embed/LHtzRl6ORkw'></iframe>
 
 ## Description
 

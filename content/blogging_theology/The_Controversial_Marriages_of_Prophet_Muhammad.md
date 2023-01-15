@@ -1,6 +1,6 @@
 # The Controversial Marriages of Prophet Muhammad (2021-04-03)
 
-![alt The Controversial Marriages of Prophet Muhammad](rVujj3YWdYU.jpg "The Controversial Marriages of Prophet Muhammad")
+<iframe loading='lazy' src='https://www.youtube.com/embed/rVujj3YWdYU'></iframe>
 
 ## Description
 
