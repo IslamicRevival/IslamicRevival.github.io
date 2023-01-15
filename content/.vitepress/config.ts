@@ -9,7 +9,7 @@ export default defineConfig({
   lang: 'en-US',
   title: 'Islamic Revival',
   cleanUrls: 'with-subfolders',
-  description: 'A free framework to share Islamically scholarly works',
+  description: 'Islamic Revival - AI & NLP framework for Islamic knowledge sharing & archiving',
   head: [
     [
       'link',
