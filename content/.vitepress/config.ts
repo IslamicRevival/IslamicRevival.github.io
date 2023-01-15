@@ -22,6 +22,19 @@ export default defineConfig({
     [
       'script',
       {},
+      'function modifyYTiframeseektime(param) {\
+        let iframe = document.querySelector("iframe");\
+        let iframeorigsrc = iframe.src;\
+        let url = new URL(iframeorigsrc);\
+        let search_params = new URLSearchParams(url.search);\
+        search_params.set("autoplay", "1");\
+        search_params.set("start", param);\
+        url.search = search_params.toString();\
+        iframe.src = url.toString();}'
+    ],
+    [
+      'script',
+      {},
       "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-7M5QP5LNSL');"
     ],
     [

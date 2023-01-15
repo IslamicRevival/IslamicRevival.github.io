@@ -2,6 +2,9 @@
 
 <iframe loading="lazy" src="https://www.youtube.com/embed/UGDLUiVhY7w"></iframe>
 
+
+<a onclick="modifyYTiframeseektime('300')">Modify Iframe</a>
+
 ## Description
 
 Original video: https://www.facebook.com/veritasium/videos/3237167123214989
@@ -154,9 +157,3 @@ absorbing a couple molecules of carbon dioxide  
 [0:06:19](https://youtu.be/UGDLUiVhY7w?t=379) I will never look at trees the same way again  
 
 </details>
-
-
-<script>
-
-
-</script>
