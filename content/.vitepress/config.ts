@@ -1,6 +1,6 @@
 import 'dotenv/config'
 import { defineConfig} from 'vitepress'
-//import { getSideBar }  from  './theme/vitepress-plugin-autobar/'
+import { getSideBar }  from  './theme/vitepress-plugin-autobar/'
 
 // see vite.config.js for search
 
@@ -88,9 +88,9 @@ export default defineConfig({
  },
  { text: 'Thgt Advtr.', link: '/thought_adventure/' },
     ],
-//    sidebar:  getSideBar( "./content", {
-//      ignoreMDFiles: ['index'],
-//      ignoreDirectory: ['node_modules'],
-//    }),
+    sidebar:  getSideBar( "./content", {
+      ignoreMDFiles: ['index'],
+      ignoreDirectory: ['node_modules', 'hijab'],
+    }),
   }
 })
