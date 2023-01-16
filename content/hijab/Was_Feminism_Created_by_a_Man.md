@@ -4,10 +4,9 @@
 
 ## Description
 
-Full Video here - https://www.youtube.com/watch?v=DOY84Ycaa2U
+Full Video here - <https://www.youtube.com/watch?v=DOY84Ycaa2U>
 
 ## Summary of [Was Feminism Created by a Man?](https://www.youtube.com/watch?v=jwaftjQDOTc)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -16,7 +15,8 @@ Full Video here - https://www.youtube.com/watch?v=DOY84Ycaa2U
  discusses how men are happier than women post-feminism, and argues that this is because feminism has benefited men more than it has benefited women.  suggests that women should not be aware of this situation.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** In her 1970 book, "The Second Stage," Betty Friedan admitted that feminism had created more problems for women than it had solved. In 1981, after seeing the psychological impact of feminism on women, she called for a change. Friedan is not the only feminist to make this claim - other feminists have written about the negative psychological effects of feminism.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses how, according to a study, second wave feminism was created by a man, and that it benefited him more than it benefited women. It also suggests that this is a situation that women should not be aware of.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses how, according to a study, second wave feminism was created by a man, and that it benefited him more than it benefited women. It also suggests that this is a situation that women should not be aware of.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** of the video argues that, based on research, men are happier than women post-feminism, and that this is because they no longer have to support and provide for women. also points to differences in inheritance, polygamy, and physical ability between men and women as reasons why these differences should still exist.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

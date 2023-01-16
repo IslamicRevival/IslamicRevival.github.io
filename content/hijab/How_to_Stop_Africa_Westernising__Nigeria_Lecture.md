@@ -4,14 +4,13 @@
 
 ## Description
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
-My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
+My book: <https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/>
 
 ## Summary of [How to Stop Africa Westernising ? Nigeria Lecture](https://www.youtube.com/watch?v=wVpmwQHHSEM)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -20,11 +19,13 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 Muhammad Hijab discusses how liberalism has infiltrated Nigeria and how to stop it. He argues that education is key to countering the effects of westernization. He also claims that the west is not morally superior to other nations and that morality in the west is in decline.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Muhammad Hijab discusses liberalism in the west, how it has infiltrated into Nigerian families, and how to stop it. He offers examples of how to argue against liberalism, such as saying homosexuality is not equal to incest or pedophilia.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Chromosomes with a penis are called "women" in Nigeria, according to a recent report. This is something which does not make scientific or rational sense, and which is rejected by the west because it is based on false narratives. Education about the reality of western mythology is needed in order to counteract the effects of westernization.
 
 Further, the west is not morally superior to other nations, as some western scholars have claimed. Morality in the west is based on limited evidence and is in decline. It is important to have self-respect and to realize that we are on the truth of Islam, which has not changed over time.
 
 If we work together to address these issues, we can resist the effects of westernization.
+
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  Nigerian expert discusses how to stop Africa Westernizing, suggesting that education is key to preventing this.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

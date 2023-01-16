@@ -4,10 +4,9 @@
 
 ## Description
 
-I read from 'Biblical Truths: The Meaning of Scripture in the Twenty-First Century' by Professor Dale B. Martin. https://www.amazon.co.uk/Biblical-Tru...
+I read from 'Biblical Truths: The Meaning of Scripture in the Twenty-First Century' by Professor Dale B. Martin. <https://www.amazon.co.uk/Biblical-Tru>...
 
 ## Summary of [Part 2: How to reconcile orthodox Christian theology with historical criticism: The Answer!](https://www.youtube.com/watch?v=xje4w27JSEg)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -16,6 +15,7 @@ I read from 'Biblical Truths: The Meaning of Scripture in the Twenty-First Centu
 Dale Martin argues that orthodox Christian theology can reconcile with historical criticism by reading later theological views into earlier texts, practicing anachronism, and ignoring what Paul and other apostles say about Jesus.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  Professor Dale Martin of Yale discusses how orthodox Christian theology can reconcile with historical criticism, which emphasizes the objective reading of texts without later presuppositions and ideas. He points to 1 Corinthians Chapter 11, in which Paul discusses the hierarchy of beings within the God. While Paul maintains that Jesus is divine in some sense, he seems not to accord Jesus complete divine equality with God the Father. Later passages in 1 Corinthians 15 and 16 suggest that Jesus is temporarily put all things under subjection to God, including himself, while still retaining a hierarchical relationship with the Son.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Dale Martin argues that we need not become bad historians in order to be good theologians, even if the New Testament authors were not familiar with the doctrine of the Trinity. He spends the rest of the chapter illustrating how to read the New Testament theologically, instead of historically.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The solution to reconciling orthodox Christian theology with historical criticism is to read later theological views into earlier texts, practice anachronism, and ignore what Paul and other apostles say about Jesus. This view is shared by Dale Martin, a Yale professor, who is disappointed in it.
 

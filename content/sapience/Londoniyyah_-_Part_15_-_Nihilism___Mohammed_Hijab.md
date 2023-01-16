@@ -4,12 +4,13 @@
 
 ## Description
 
-Listen as audio: https://soundcloud.com/sapienceinstitute/sets/londoniyyah
+Listen as audio: <https://soundcloud.com/sapienceinstitute/sets/londoniyyah>
 
 Londoniyyah - Part 15 - Nihilism | Mohammed Hijab
 
-To be updated about our content please subscribe and open the notifications.
+To be updated about our content please subscribe and open the notifications
 ----
+
 BOOK A LIGHTHOUSE MENTOR
 
 Are you or someone you know doubting Islam? Do you find yourself struggling to find answers?  Do you have a hard time speaking to someone about Islam?  Are you considering Islam but are unsure about certain concepts?  Are you an activist, Imam or community leader who is unsure about how to handle questions related to science, philosophy, the Islamic moral code, etc.?
@@ -18,12 +19,11 @@ You are not alone.  Over the course of the last decade or more there has been a 
 
 Seeing the rise of  this phenomenon , Sapience Institute is introducing a One to One mentoring service called LIGHTHOUSE.
 
-BOOK A MENTOR HERE: https://sapienceinstitute.org/lighthouse/
+BOOK A MENTOR HERE: <https://sapienceinstitute.org/lighthouse/>
 
-VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: https://sapienceinstitute.org/
+VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: <https://sapienceinstitute.org/>
 
 ## Summary of [Londoniyyah - Part 15 - Nihilism | Mohammed Hijab](https://www.youtube.com/watch?v=tDcqb2d7CrA)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -32,24 +32,27 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
  Mohammed Hijab discusses the concept of nihilism and how it relates to Islam. He points out that, in Islam, there is a sense of understanding that this world is only temporary and that there is a higher purpose to be pursued in the afterlife. He also discusses how nihilism can be a very depressing perspective, and how it can have a significant impact on how a person behaves in this life.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  the Londoniyyah group discusses nihilism and existential nihilism. According to existential nihilism, there is no meaning or purpose in life, and nothing can be known for certain. Nietzsche, one of the founders of postmodernism, is also considered a nihilist. He believed that life is without purpose and that everything is in a state of flux. Rosenberg, an atheist, argues that there is no meaning or purpose in the universe, and that we are living an illusion. Heidegger, a German philosopher, also discusses the inevitability of death and the futility of life. He believes that the most authentic way to be is to accept what death is and to suffer.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the idea of nihilism, which is the belief that there is no objective meaning or purpose in the universe. Nietzsche and other philosophers believed that this was the result of humans creating their own values and purposes, which was eventually rejected by many people.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the idea of nihilism, which is the belief that there is no objective meaning or purpose in the universe. Nietzsche and other philosophers believed that this was the result of humans creating their own values and purposes, which was eventually rejected by many people.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** , Mohammed Hijab discusses the various types of nihilism and their implications for the individual. He points out that, because nihilism rejects values and meaning, it has negative consequences for the individual, such as a lack of purpose and meaning in life. He also mentions political and epistemological nihilism, and existentialism, which negates the possibility of knowing anything or having any purpose in life.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  Mohammed Hijab discusses the concept of nihilism, which is the belief that there is no meaning or purpose in life. He points out that this belief is derived from the knowledge that we all are going to die and that we are constantly suffering. He also mentions the concept of pessimism, which is one of the driving forces of nihilism.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>**  Mohammed Hijab discusses the concept of nihilism and its relation to the rise of science and the Scientific Revolution. He points out that while nihilism has not been successful in the Muslim world, it has been successful in the Western world. He argues that this is because the Islamic world lacks a metaphysical understanding of the world, while the West has progressed beyond religion.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses the history of science and how, in the Muslim world, there was a greater appreciation for the scientific process. However, this was not without conflict, as there were also individuals who opposed science for religious reasons. One example discussed is the persecution of Galileo Galilei.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses the history of science and how, in the Muslim world, there was a greater appreciation for the scientific process. However, this was not without conflict, as there were also individuals who opposed science for religious reasons. One example discussed is the persecution of Galileo Galilei.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>**  Mohammed Hijab discusses the idea that religion is necessary for humans to make sense of the world. He points out that there are contradictions in Nietzsche's views on religion, and that his defenders would say that he was just talking about epistemological claims.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses the purpose of life in Islam, depression, and mental health.  concludes with a discussion of how these concepts should be approached in counseling.
+* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses the purpose of life in Islam, depression, and mental health.  concludes with a discussion of how these concepts should be approached in counseling.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** The Muslim cleric discusses the concept of worship in Islam, highlighting that it includes obeying one's parents and fulfilling one's daily duties. He goes on to say that there are multiple definitions of worship, and that submitting to one's Creator is the most fundamental form of it.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Mohammed Hijab discusses the definition of worship in Islam, citing verses from the Qur'an. He points out that worship is a voluntary act of submission to a higher power, and that there is a difference between human slavery and worship of God.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Mohammed Hijab discusses the idea of nihilism and how it relates to Islam. He points out that, in Islam, there is a sense of understanding that this world is only temporary and that there is a higher purpose to be pursued in the afterlife. He also discusses how nihilism can be a very depressing perspective, and how it can have a significant impact on how a person behaves in this life.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Mohammed Hijab discusses the concept of optimism in Islam, citing a hadith which states that one should have hope in the face of adversity. He also points out that pessimism is not a fair perspective and that one should have a balance of both optimism and pessimism.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:20:00</a>
 
  discusses the idea of nihilism, or the belief that there is no meaning or purpose in life. Mohammed Hijab says that for a pessimistic person, this can be a very optimistic perspective. He also discusses the importance of having hope and fear in order to motivate oneself and be realistic in one's outlook.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Mohammed Hijab discusses the importance of having hope and fear in order to motivate oneself and be realistic in one's outlook. Islam is an optimistic religion, and as such, Muslims should always expect the best and believe that Allah will help them in their struggles. When faced with difficult situations, it is important not to have pessimism, but to maintain hope and fear in equal measure.
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>* Discusses depression in Islam, and how Islam provides ways to understand and deal with it. It points to a hadith which says that one of the people in the day of judgment will be one of the happiest disbelievers.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>* Discusses a hadith which states that the most depressed people in paradise are those who are pious and regular in their prayer. He points out that this hadith is compatible with the idea that depression can be caused by non-religious factors. He then discusses how some people try to sell Islam by claiming that becoming a Muslim will cure depression, when in reality, depression can happen even after someone becomes Muslim.
+
+* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Discusses depression in Islam, and how Islam provides ways to understand and deal with it. It points to a hadith which says that one of the people in the day of judgment will be one of the happiest disbelievers.
+* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Discusses a hadith which states that the most depressed people in paradise are those who are pious and regular in their prayer. He points out that this hadith is compatible with the idea that depression can be caused by non-religious factors. He then discusses how some people try to sell Islam by claiming that becoming a Muslim will cure depression, when in reality, depression can happen even after someone becomes Muslim.
 * **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** Islam teaches that every experience is meaningful, even if it's difficult. Mohammed Hijab discusses the importance of accepting pain and grief in order to find peace. He also discusses the importance of counseling, which can be helpful in resolving mental health issues.
 * **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** Mohammed Hijab discusses the idea of nihilism, or the belief that there is no meaning or purpose in life. He says that for a pessimistic person, this can be a very optimistic perspective.
 

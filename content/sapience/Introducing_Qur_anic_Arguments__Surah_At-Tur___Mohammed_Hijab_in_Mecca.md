@@ -5,25 +5,24 @@
 ## Description
 
 Help us educate and mentor others to share the faith academically.
-Donate now: https://sapienceinstitute.org/donate/ 
+Donate now: <https://sapienceinstitute.org/donate/>
 
-Free online courses: https://learn.sapienceinstitute.org/
+Free online courses: <https://learn.sapienceinstitute.org/>
 
-Free books: https://sapienceinstitute.org/books/
+Free books: <https://sapienceinstitute.org/books/>
 
-Have doubts? Book a free one to one meeting with our mentors: https://sapienceinstitute.org/lighthouse/
+Have doubts? Book a free one to one meeting with our mentors: <https://sapienceinstitute.org/lighthouse/>
 
-Listen (Podcast): https://sapienceinstitute.org/sapientvoices/
+Listen (Podcast): <https://sapienceinstitute.org/sapientvoices/>
 
 Follow:
-– Facebook: https://facebook.com/sapienceinstitute.org/ 
-– Twitter: https://twitter.com/SapienceOrg/ 
-– Instagram: https://instagram.com/sapienceinstitute/ 
+– Facebook: <https://facebook.com/sapienceinstitute.org/>
+– Twitter: <https://twitter.com/SapienceOrg/>
+– Instagram: <https://instagram.com/sapienceinstitute/>
 
-Articles, speaker requests & more: https://sapienceinstitute.org/
+Articles, speaker requests & more: <https://sapienceinstitute.org/>
 
 ## Summary of [Introducing Qur'anic Arguments: Surah At-Tur | Mohammed Hijab in Mecca](https://www.youtube.com/watch?v=XLRH77_Yx1w)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -32,38 +31,42 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
  discusses Quranic arguments that focus on the idea that humans are responsible for their own actions, and that they will be coerced into accepting this responsibility if they do not take it.  also discusses how some atheists' level of skepticism is comedic in nature.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  introduces the Qur'anic argument known as the "Surah At-Tur," which argues that because God knows everything, Muhammad must be a true prophet because he is in accordance with what God knows. Those with high levels of faith will not have any doubts, while those with low levels of faith will have many doubts.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  introduces Qur'anic arguments, which focus on the Surah At-Tur (The Mount). The arguments show that Mohammed was not a prophet and that these verses refer to Moses, not Mohammed.  then goes on to discuss the importance of oaths in Islam and how swearing by Allah Himself makes these oaths important.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  introduces Quranic arguments that Surah At-Tur discusses the punishments that Allah will bring to those who do not take life seriously.  also discusses the day of judgment, which will be a terrible shaking and destruction.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses Qur'anic arguments against the practice of hijabs in Mecca. points out that there are consequences to actions, and argues that the day when Muslims will be pushed down to the fire of hell will be a very bad day. He also argues that the mindset of enment leads to false coercion, and that Muslims who wear hijabs are playing with fire.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses Qur'anic arguments against the practice of hijabs in Mecca. points out that there are consequences to actions, and argues that the day when Muslims will be pushed down to the fire of hell will be a very bad day. He also argues that the mindset of enment leads to false coercion, and that Muslims who wear hijabs are playing with fire.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>**  introduces Qur'anic arguments, which focus on the idea that humans are responsible for their own actions, and that they will be coerced into accepting this responsibility if they do not take it.  also discusses how some atheists' level of skepticism is comedic in nature.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** introduces Qur'anic arguments, which include the following points: Mohammed admits that he exists, hears, makes noises, and his words are intelligible. He also admits that his thoughts are intelligible to himself. He argues that if these things are true, then religion must be true as well. then provides an analogy to illustrate this point. He compares listening to advice to swimming. If you don't listen to someone teaching you how to swim, you will never learn how to swim. The same applies to learning patience, resilience, and other subjects.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** introduces Qur'anic arguments, which include the idea that hard work and determination are key to success in the Dunya. He goes on to say that in the Hereafter, there are no risks associated with Allah's blessings, and that those who have faith and do good deeds will receive a great reward. He also points out that, for some people, eating and drinking is a pleasurable experience. He concludes by saying that, even though Muslims believe that the highest thing is to see Allah, the highest reward is to be in the company of Allah.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses the similarities between Quranic arguments and arguments used in debates between Muslims and disbelievers. It points out that infidels are those who hide or reject the truth, which is a better translation than disbelievers.
+* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses the similarities between Quranic arguments and arguments used in debates between Muslims and disbelievers. It points out that infidels are those who hide or reject the truth, which is a better translation than disbelievers.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>**  introduces Qur'anic arguments, which show that Mohammed was a prophet and messenger of God. The presenter discusses the importance of gratitude, and how it is linked to mental health and overall well-being. The presenter then goes on to discuss the relationship between poetry and magic in pre-Islamic Arabia, and how the use of the term "magician" to describe Mohammed indicates the power of the Quran in the Arabic language.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  features a group of people speaking Arabic with rhythm and power, discussing war, the camel, and horses. One of the people discusses the sky, stars, and imagination, saying that these were all topics of discussion for people living in a desert environment. He notes that in the 21st century, people have a Judging ability that allows them to assess things like skill in football, poetry, and arbitration.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses how the Quran refers to Mohammed as being neither a magician nor possessing any supernatural abilities. It goes on to say that this evidence shows the Quran to be from Allah.
+* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Discusses how the Quran refers to Mohammed as being neither a magician nor possessing any supernatural abilities. It goes on to say that this evidence shows the Quran to be from Allah.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The woman in the video challenges some of the accusations against Mohammed Hijab, arguing that because he spent a lifetime among Muslims, he would have been known and would not need to provide evidence. She also argues that he could not have been a magician, as this was not known about him and he was not a part of The Magicians, a group of magicians.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  introduces Qur'anic arguments and discusses how Surah At-Tur supports the idea that Mohammed Hijab should be in Mecca. It explains that the challenge in the Surah is a psychological inhibition that indicates a person's arrogance, and that the Arabs were not able to meet the challenge of being able to produce a single Surah that matched or exceeded the quality of the Quran.  also discusses the difference between a magician and a prophet, and argues that the Quran contains more variety of miracle than any magic trick.
 
-**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>* Discusses the Qur'anic argument that Surah At-Tur (The Mount) requires Mohammed Hijab in Mecca. It argues that this challenge reflects the psychological inhibitions of Arab and Jewish tribes competing against each other. It also points out that this is not an argument, but rather a psychological inhibition that indicates a person's arrogance.
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>* Discusses how the prophet Mohammed challenged his people with their poetry and language. He goes on to say that this is a challenge that is still being met today.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>* Discusses the difference of opinion among scholars as to which Surah is being discussed, with some believing it to be the smallest Surah and others believing it to be the largest Surah. It points out that even amongst experts, there is disagreement about who the best poet or footballer of all time is. As a result, the Arabs were not able to meet the challenge of being able to produce a single Surah that matched or exceeded the quality of the Quran.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>* Discusses the difference between a magician and a prophet, and argues that the Quran contains more variety of miracle than any magic trick. It explains that this variety is evidence of the truth of Islam.
+**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Discusses the Qur'anic argument that Surah At-Tur (The Mount) requires Mohammed Hijab in Mecca. It argues that this challenge reflects the psychological inhibitions of Arab and Jewish tribes competing against each other. It also points out that this is not an argument, but rather a psychological inhibition that indicates a person's arrogance.
+
+* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Discusses how the prophet Mohammed challenged his people with their poetry and language. He goes on to say that this is a challenge that is still being met today.
+* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Discusses the difference of opinion among scholars as to which Surah is being discussed, with some believing it to be the smallest Surah and others believing it to be the largest Surah. It points out that even amongst experts, there is disagreement about who the best poet or footballer of all time is. As a result, the Arabs were not able to meet the challenge of being able to produce a single Surah that matched or exceeded the quality of the Quran.
+* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** Discusses the difference between a magician and a prophet, and argues that the Quran contains more variety of miracle than any magic trick. It explains that this variety is evidence of the truth of Islam.
 * **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>**  introduces Qur'anic arguments, which focus on the inimitability of the Quran and Muhammad's prophethood. The arguments demonstrate that the miracles of the Quran are more powerful than any other miracle, and that anyone can rationally examine them.
 * **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** , Yani discusses the argument from design, which states that the universe has a cause - in this case, God. He points out that this argument is based on the idea that something cannot come from nothing, and that no philosopher in the history of the world has ever made a successful case of the universe coming from nothing. He goes on to say that this is a fact, and that if we accept this premise, we must also accept that the universe had a beginning.
 * **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** introduces Qur'anic arguments, which show that there is never been a time in existence where only nothing has been in existence. He then introduces Surah At-Tur, which discusses the existence of a creator. argues that the creator must be Mohammed, the prophet Muhammad, based on the logical and consistent arguments in the surah.
 * **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>**  presents Qur'anic arguments in support of the idea that there could be a higher power.  points out that some people are arrogant because they don't know much, and that this is a sign of ignorance.  also points out that some people have a natural inclination to learn and seek guidance, and that this is a prerequisite for guidance.
-* **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>* Discusses Surah At-Tur, in which Allah tells believers that they should not expect better treatment than he does, since they are just created beings. It then goes on to discuss a Hadith in which the Prophet Muhammad gave his shield to a Jewish man in order to help him provide for his family. It concludes by explaining that, even though most people think like this, Allah is exposing the people and revealing their motivations.
+* **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** Discusses Surah At-Tur, in which Allah tells believers that they should not expect better treatment than he does, since they are just created beings. It then goes on to discuss a Hadith in which the Prophet Muhammad gave his shield to a Jewish man in order to help him provide for his family. It concludes by explaining that, even though most people think like this, Allah is exposing the people and revealing their motivations.
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>**  introduces Qur'anic arguments and discusses how Surah At-Tur, which discusses things that come down from the sky, parallels the beginning and end of Surah Al-Fatiha and the beginning of Surah Al-An'am. It also points out that some Muslims may try to rationalize evidence for cosmological miracles by saying that it fits with their worldview.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** introduces Qur'anic arguments, which include Surah At-Tur and Mohammed Hijab in Mecca.  explains that believers will see their day in which they will sink into a horror of disappointment when they know about the truth of the Quran. The linguistic similarities between Surah At-Tur and other Qur'anic verses are interesting, as are the structural similarities.
-* **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses Surahs with similar wordings and concepts, showing that the Quran was not simply a random collection of verses, but was instead designed with a specific purpose in mind. The 114 different words in each Surah were chosen specifically to convey a specific message, and the poetic style used to make these messages most persuasive.  explains that even if one does not understand Arabic, it is still possible to appreciate the beauty and precision of the Quran's arguments.
+* **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Discusses Surahs with similar wordings and concepts, showing that the Quran was not simply a random collection of verses, but was instead designed with a specific purpose in mind. The 114 different words in each Surah were chosen specifically to convey a specific message, and the poetic style used to make these messages most persuasive.  explains that even if one does not understand Arabic, it is still possible to appreciate the beauty and precision of the Quran's arguments.
+
 ### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:00:00</a>
 
  discusses the Qur'an, specifically Surah At-Tur, and how its arguments are convincing.  then breaks for a 10-minute break, at which point the narrator announces that they will be praying and then coming back to continue the video.
 
-**<a onclick="modifyYTiframeseektime('7200')">02:00:00</a>* Discusses the Qur'an, specifically Surah At-Tur, and how its arguments are convincing.  then breaks for a 10-minute break, at which point the narrator announces that they will be praying and then coming back to continue the video. They will be doing one and a half stories today instead of all three, as it would be too much. Tomorrow they want to do two stories.
+**<a onclick="modifyYTiframeseektime('7200')">02:00:00</a>** Discusses the Qur'an, specifically Surah At-Tur, and how its arguments are convincing.  then breaks for a 10-minute break, at which point the narrator announces that they will be praying and then coming back to continue the video. They will be doing one and a half stories today instead of all three, as it would be too much. Tomorrow they want to do two stories.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

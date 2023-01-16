@@ -4,12 +4,11 @@
 
 ## Description
 
-This video is a continuation from a previous video and aims to showcase some incredibly accurate predictions of the sunnah. 
+This video is a continuation from a previous video and aims to showcase some incredibly accurate predictions of the sunnah.
 
 This is one of many videos which will be uploaded on this channel so subscribe to ensure you don't miss anything out inshallah
 
 ## Summary of [Shocking Predictions in the Sunnah|| Mohammed Hijab](https://www.youtube.com/watch?v=ezvPEwizqRc)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -18,7 +17,8 @@ This is one of many videos which will be uploaded on this channel so subscribe t
 discusses a variety of predictions made by Mohammed about the future of Islam. He predicted that Egypt would become a Muslim country, that Jerusalem would be conquered by Muslims, and that Syria would also become a Muslim nation. He also made predictions about the economic growth of Muslims and a fire that would ravage the Hejaz region.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The presenter discusses five different hadith that predict an expansion of Islam, with the strongest prediction being that Egypt will become a Muslim country. He also discusses a hadith that blames Hindus for the spread of Islam, and another hadith that predicts the economic growth of Muslims.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses shocking predictions Mohammed made about the future of Jerusalem. Mohammed predicted that Jerusalem would be conquered by Muslims, and that it would be the first of many Muslim nations. He also predicted that Syria would become a Muslim nation, and that Israel would eventually be conquered.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses shocking predictions Mohammed made about the future of Jerusalem. Mohammed predicted that Jerusalem would be conquered by Muslims, and that it would be the first of many Muslim nations. He also predicted that Syria would become a Muslim nation, and that Israel would eventually be conquered.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Mohammed predicted a variety of events, including a fire that would ravage the Hejaz region, in a conversation with his companions.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

@@ -4,14 +4,13 @@
 
 ## Description
 
-This course has been launched on our learning platform. Enroll here for free: https://learn.sapienceinstitute.org/courses/no-doubt-course/
+This course has been launched on our learning platform. Enroll here for free: <https://learn.sapienceinstitute.org/courses/no-doubt-course/>
 
 💡 Fahad Tasleem and Hamza Tzortzis introduce ten effective strategies on how to deal with your and other people’s destructive doubts. This is a summary of the comprehensive and transformative course that was professionally filmed for Sapience Institute’s learning platform. The full course will be available once the editing process is complete, God-willing.
 
 👍 Please subscribe and share.
 
 ## Summary of [No Doubt: Introducing 10 Strategies To Deal With Destructive Doubts | Hamza Tzortzis & Fahad Tasleem](https://www.youtube.com/watch?v=RleAnrjY5FQ)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -20,20 +19,22 @@ This course has been launched on our learning platform. Enroll here for free: ht
  discusses how to deal with destructive doubts, and introduces 10 strategies for doing so. The main points covered include the importance of studying Islam and developing a strong Islamic identity, the role of the heart in understanding doubt, and the importance of being sincere and committed to the goodness of all human beings.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  introduces the No Doubt course, which is designed to help Muslims deal with destructive doubts. The main purpose of the course is to empower Muslims, and the course covers 10 effective strategies for dealing with doubts.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the role of worldviews in shaping how individuals view reality, and introduces 10 strategies for dealing with destructive doubts. The metaphysical backdrop of a worldview is discussed, and the fitra is introduced as the lens through which one views reality.  goes on to discuss world views and how they are based on assumptions.  then discusses the role of the fitra in understanding how to deal with destructive doubts, and how to uncloud the fitra to allow the truth to be seen.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  Hamza Tzortzis and Fahad Tasleem discuss 10 strategies for dealing with destructive doubts. The main points covered include the metaphysical background of destructive doubts, the nature of the heart, and the fitting of the heart. The two main types of destructive doubts are shubuhat (destructive doubts based on desires) and shahwat (destructive doubts based on blame). If left unchecked, shubuhat can lead to shahwat, which can have a devastating effect on a person's spiritual and intellectual development.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses how to deal with destructive doubts, distinguishing between big and small tea traumas, and discussing various strategies for prevention and awareness. The main points of the video are:
 
-- There are different strategies for dealing with destructive doubts, some before the attack and some after.
-- Destructive doubts are disguised as ideologies, and can be prevented by being aware of their spiritual nature.
-- It is important to be aware of the shubaha (the moment of doubt) and to be prepared to address it.
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the role of worldviews in shaping how individuals view reality, and introduces 10 strategies for dealing with destructive doubts. The metaphysical backdrop of a worldview is discussed, and the fitra is introduced as the lens through which one views reality.  goes on to discuss world views and how they are based on assumptions.  then discusses the role of the fitra in understanding how to deal with destructive doubts, and how to uncloud the fitra to allow the truth to be seen.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  Hamza Tzortzis and Fahad Tasleem discuss 10 strategies for dealing with destructive doubts. The main points covered include the metaphysical background of destructive doubts, the nature of the heart, and the fitting of the heart. The two main types of destructive doubts are shubuhat (destructive doubts based on desires) and shahwat (destructive doubts based on blame). If left unchecked, shubuhat can lead to shahwat, which can have a devastating effect on a person's spiritual and intellectual development.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses how to deal with destructive doubts, distinguishing between big and small tea traumas, and discussing various strategies for prevention and awareness. The main points of the video are:
+
+* There are different strategies for dealing with destructive doubts, some before the attack and some after.
+* Destructive doubts are disguised as ideologies, and can be prevented by being aware of their spiritual nature.
+* It is important to be aware of the shubaha (the moment of doubt) and to be prepared to address it.
+
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>**  Hamza Tzortzis and Fahad Tasleem discuss how to distinguish between questions that are valid and questions that are not valid, and how to avoid getting infected by shubha (destructive doubt). This is important because shubha can lead to distortions of Islam and to undermining the foundations of the religion.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses 10 strategies for dealing with destructive doubts, including studying Islam and developing a strong Islamic identity. It stresses the importance of studying Islam and becoming familiar with its teachings to overcome doubts and psychological aversion.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses the importance of critical thinking when studying Islam, and provides two example cases where critical thinking led to the discovery of new information about Islam.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses how to deal with destructive doubts, including formal and informal fallacies. It also covers how to find specialists in your community who can help you deal with trauma.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses how to deal with destructive doubts, and how to use the correct meaning of a traumatic experience to help overcome them. It discusses how to strengthen the heart, and how to be aware of the spiritual state of the individual.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses 10 strategies for dealing with destructive doubts, including studying Islam and developing a strong Islamic identity. It stresses the importance of studying Islam and becoming familiar with its teachings to overcome doubts and psychological aversion.
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses the importance of critical thinking when studying Islam, and provides two example cases where critical thinking led to the discovery of new information about Islam.
+* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses how to deal with destructive doubts, including formal and informal fallacies. It also covers how to find specialists in your community who can help you deal with trauma.
+* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses how to deal with destructive doubts, and how to use the correct meaning of a traumatic experience to help overcome them. It discusses how to strengthen the heart, and how to be aware of the spiritual state of the individual.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  introduces 10 strategies for dealing with destructive doubts. All of these strategies are dependent on the will of Allah, and are meant to empower the individual and help them address their doubts.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses how to deal with destructive doubts, emphasizing sincerity and willingness to be committed to the goodness and guidance of all human beings. thanks specific people for their help in delivering the course, mentioning Allah subhanahu wa ta'ala as the ultimate source of success.
+* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Discusses how to deal with destructive doubts, emphasizing sincerity and willingness to be committed to the goodness and guidance of all human beings. thanks specific people for their help in delivering the course, mentioning Allah subhanahu wa ta'ala as the ultimate source of success.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

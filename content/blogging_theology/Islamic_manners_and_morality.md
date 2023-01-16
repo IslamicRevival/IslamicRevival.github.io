@@ -5,12 +5,11 @@
 ## Description
 
 You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+<https://www.patreon.com/Bloggingtheology>
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
 ## Summary of [Islamic manners and morality](https://www.youtube.com/watch?v=HWzf359ROjw)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -19,6 +18,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 This video discusses the importance of respecting and caring for elderly people in Islamic societies. It points out that this is typically done with patience and hope for reward from God. In the west, however, it is often shameful for families to take care of their elderly members and they are often sent away to special homes. This is contrasted with the way elderly people are treated in Islamic societies, where they are typically cared for by their families with patience and hope for reward from God.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** This book, Imam al-Bukhari's al-Adab al-Mufrad, is a compilation of hadiths on good manners, etiquette, and morality. It is considered very reliable by Muslims, and includes hadiths on topics such as compassion for young and old, respect for elders, and honoring those who know the Quran well. There is much to learn from these hadiths, and they provide insight into the Muslim view of respecting and caring for the elderly.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The video discusses the importance of respecting and caring for elderly people in Islamic societies. It points out that this is typically done with patience and hope for reward from God. In the west, however, it is often shameful for families to take care of their elderly members and they are often sent away to special homes. This is contrasted with the way elderly people are treated in Islamic societies, where they are typically cared for by their families with patience and hope for reward from God.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** This video discusses Islamic morals and manners, which are different from Western morals. The elderly are respected in Islam, and family values are based on providing care for them within the home. Elderly care is cut off from any theocentric understanding in the West, which is focused on seeking pleasure and money. Elderly care in the West is often divorced from any sense of rewards in God.
 

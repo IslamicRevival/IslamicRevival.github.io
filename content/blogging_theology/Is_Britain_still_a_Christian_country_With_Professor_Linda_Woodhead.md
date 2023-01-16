@@ -4,18 +4,17 @@
 
 ## Description
 
-Unknowing God: Toward a Post-Abusive Theology by Linda Woodhead https://www.amazon.co.uk/Unknowing-God-Toward-Post-Abusive-Theology/dp/1666710334/ref=sr_1_1?qid=1671372876&refinements=p_27%3ALinda+Woodhead&s=books&sr=1-1
+Unknowing God: Toward a Post-Abusive Theology by Linda Woodhead <https://www.amazon.co.uk/Unknowing-God-Toward-Post-Abusive-Theology/dp/1666710334/ref=sr_1_1?qid=1671372876&refinements=p_27%3ALinda+Woodhead&s=books&sr=1-1>
 
-Religious Experiences in a Secular Age with Prof Dale C. Allison of Princeton https://youtu.be/VqP8tHfSPR0
+Religious Experiences in a Secular Age with Prof Dale C. Allison of Princeton <https://youtu.be/VqP8tHfSPR0>
 
 You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
+<https://www.patreon.com/Bloggingtheology>
 
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
 ## Summary of [Is Britain still a Christian country? With Professor Linda Woodhead](https://www.youtube.com/watch?v=-FoNkisQYkU)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -24,17 +23,19 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
  Professor Linda Woodhead discusses the decline of Christianity in Britain. She cites a lack of religious experience among the population as one reason. She also discusses the implicit racism and sexism present in British society, and the way that governing ideologies often disguise the reality that Britain is still a Christian country.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Professor Woodhead discusses the findings of the 2021 census, which show that England and Wales are no longer a Christian country. She also discusses the importance of cosmology and community in relation to religion. She concludes that the United States is more Christian than England and Wales because of the prevalence of creationism there.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Professor Linda Woodhead discusses the decline of Christianity in Britain and its effects on society. She also discusses the rise of other forms of spirituality and how they are growing in popularity.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Britain is no longer a Christian country, according to Professor Linda Woodhead. This is due to a number of factors, including the institutionalization of Christianity, the presence of Anglican bishops, and the prevalence of funerals and religious services. While some people disagree with this assessment, it is still a fact.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** According to the video, there has been a shift in the way that people perceive life and death, with funeral services becoming more saccharized and worldly. This change is indicative of the loss of Christian presence in the UK, as well as the increasing secularization of the population.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>**  Professor Linda Woodhead discusses how Islam is central to emerging Muslim youth identities in the UK, and how it is still cool despite not having a clergy with real control. She also discusses how British Muslim cultural output is cool around the world.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses how Christianity in the United Kingdom is waning due to a lack of an "intellectual tradition," which is a weakness for the religion. This lack of tradition has led to a decline in the influence of Christianity in the country.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses how Christianity in the United Kingdom is waning due to a lack of an "intellectual tradition," which is a weakness for the religion. This lack of tradition has led to a decline in the influence of Christianity in the country.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>**  Professor Linda Woodhead discusses the relationship between Christianity and Islam in Britain. She notes that while Christianity is a minority faith in Britain, it is still very vibrant and alive. She also points out that while Christianity is declining globally, this is not the case in Western Europe or in former communist countries.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** In his early career, sociologist Peter Berger theorized that secularization would lead to the decline of religion, but in recent years, he has admitted this hypothesis was incorrect. In different parts of the world, religion is resurgent, according to other sociologists.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Professor Linda Woodhead predicts that Christianity in the United Kingdom will continue to decline in the coming years, due to increased levels of non-religiousness and pseudoscience.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Professor Linda Woodhead discusses her hypothesis that there is a "constancy of experience of the Supernatural and the sacred" in the secular world. She notes that this is often underestimated, as many people have religious experiences that go beyond the traditional religious tenets.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>**  Professor Linda Woodhead discusses how there is still a lot of spiritual underreporting in Britain, which is evidenced by the medical profession's continued medicalization of experiences like shamanism and spirituality. Woodhead also points out that there is still a Protestant heritage in the way that mainstream society deals with spirituality, which is contrasted with the practice of Catholicism where the devout venerate saints but do not worship them.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Professor Linda Woodhead discusses the decline of Christianity in Britain, citing a lack of religious experience among the population as one reason. She also discusses the implicit racism and sexism present in British society, and the way that governing ideologies often disguise the reality that Britain is still a Christian country.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:00:00</a>
 
 Professor Linda Woodhead discusses the state of Christianity in Britain, noting that while there have been declines in the number of people identifying as Christians, the situation is not as dire as some might think. She discusses the importance of understanding religion in the modern world, and encourages viewers to listen to her book or watch her YouTube video for more information.

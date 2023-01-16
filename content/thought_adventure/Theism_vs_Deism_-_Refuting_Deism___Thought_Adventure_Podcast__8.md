@@ -13,17 +13,17 @@
 2:23:34 Final Thoughts
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -31,41 +31,39 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
-
-#deism #refutation #islam
+# deism #refutation #islam
 
 ## Summary of [Theism vs Deism - Refuting Deism | Thought Adventure Podcast #8](https://www.youtube.com/watch?v=C_KWEKUAesU)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -74,44 +72,49 @@ Gmail: hello.tapodcast@gmail.com
  the presenter refutes the claim that miracles are impossible, and argues that they should not cause a problem for theism. He also addresses the argument that miracles are logically impossible, and points out that there is nothing about the laws of nature that is necessarily logical.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Theism and Deism are discussed, and Aaron Rahm's inappropriate behavior is mentioned. Brother Jake says that the necessary existence bit is not necessary existence, but just a definition.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Theism vs. Deism is a discussion between a theist and a deist. The theist argues that it is necessary for something to exist for there to be evidence for it, and the deist argues that there is no necessary being. The theist also argues that the law of non-contradiction applies to reality, and the deist argues that the law does not apply to reality. The theist says that if you don't have observable data, you can't believe in something. However, the deist argues that the the theist is affirming the law of non-contradiction, which contradicts what the theist said earlier. The theist then says that there has to be reason for something to exist, and the deist argues that there is no reason for something to exist. The theist then says that he wants to leave the stream, but the deist argues that the theist has already said what he meant.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Aaron Raw, a philosopher and Podcaster, discusses the difference between Deism and Theism with a guest. He says that Deism is a philosophical argument while Theism is the belief in the existence of a God. He says that Deism is not a scientific question, and that the discussion degenerates into a theological argument when Raw tries to discuss ontology with the guest.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** There is a distinction between deism and theism, deism being the belief that there is a god, but that this god does not provide revelation or care about creation. There are three models of deism, one where the god does not have a will or intelligence, another where the god has a will but does not intervene in the universe, and a third where the god creates the universe and then steps back.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Deism is the belief that there is a creator, but that this creator does not interfere in the natural world. Deists argue that reason can lead them to this conclusion, despite the existence of miracles.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Theism vs Deism is a debate about the existence of a creator God. Deists argue that humans can live good lives without the need for special revelation, while atheists argue that revelation is not necessary for humans to be good. Deism, which is the belief in a creator God without intervention, is a close cousin of theism.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Theism vs. Deism is a discussion about whether or not there is a logical or rational necessity for the existence of angels, miracles, and other religious concepts. Deism argues that these concepts are indirectly accessed through revelation and are therefore rationally accessible. However, the deist cannot satisfactorily answer the question of why God chose to create.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Theism vs Deism is a philosophical debate about the existence of a creator. Deists generally believe in a conscious creator, while naturalists do not. The argument that most convinces deists of the existence of a creator is the argument that consciousness and intentional action implies purpose.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>**  Abdullah argued that theism offers a more adequate understanding of the concept of a necessary being than deism, which argues that there is an imperfect, but necessary being. He also discussed how this necessary being would be contradictory because it is perfect.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Theism vs Deism - Refuting Deism discusses the idea that a creator must be interested in the world, as the universe would not operate according to natural law without him. Deists argue that, as a contingent being, a god could have any attribute and need not necessarily exist in the same way as we do.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>**  the presenter refutes the claim that miracles are impossible, and argues that they should not cause a problem for theism. He also addresses the argument that miracles are logically impossible, and points out that there is nothing about the laws of nature that is necessarily logical.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the reasons why not everyone believes in miracles, and argues that miracles cannot contradict laws of nature because they are conditional statements. It goes on to discuss the concept of a necessary being, and argues that human beings have certain attributes that are not necessary for ourselves, but are necessary for other beings. Finally, the presenter discusses why people might expect revelation.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Theism vs. Deism is a discussion between a theist and a deist. The theist argues that it is necessary for something to exist for there to be evidence for it, and the deist argues that there is no necessary being. The theist also argues that the law of non-contradiction applies to reality, and the deist argues that the law does not apply to reality. The theist says that if you don't have observable data, you can't believe in something. However, the deist argues that the the theist is affirming the law of non-contradiction, which contradicts what the theist said earlier. The theist then says that there has to be reason for something to exist, and the deist argues that there is no reason for something to exist. The theist then says that he wants to leave the stream, but the deist argues that the theist has already said what he meant.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Aaron Raw, a philosopher and Podcaster, discusses the difference between Deism and Theism with a guest. He says that Deism is a philosophical argument while Theism is the belief in the existence of a God. He says that Deism is not a scientific question, and that the discussion degenerates into a theological argument when Raw tries to discuss ontology with the guest.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** There is a distinction between deism and theism, deism being the belief that there is a god, but that this god does not provide revelation or care about creation. There are three models of deism, one where the god does not have a will or intelligence, another where the god has a will but does not intervene in the universe, and a third where the god creates the universe and then steps back.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Deism is the belief that there is a creator, but that this creator does not interfere in the natural world. Deists argue that reason can lead them to this conclusion, despite the existence of miracles.
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Theism vs Deism is a debate about the existence of a creator God. Deists argue that humans can live good lives without the need for special revelation, while atheists argue that revelation is not necessary for humans to be good. Deism, which is the belief in a creator God without intervention, is a close cousin of theism.
+- **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Theism vs. Deism is a discussion about whether or not there is a logical or rational necessity for the existence of angels, miracles, and other religious concepts. Deism argues that these concepts are indirectly accessed through revelation and are therefore rationally accessible. However, the deist cannot satisfactorily answer the question of why God chose to create.
+- **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Theism vs Deism is a philosophical debate about the existence of a creator. Deists generally believe in a conscious creator, while naturalists do not. The argument that most convinces deists of the existence of a creator is the argument that consciousness and intentional action implies purpose.
+- **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>**  Abdullah argued that theism offers a more adequate understanding of the concept of a necessary being than deism, which argues that there is an imperfect, but necessary being. He also discussed how this necessary being would be contradictory because it is perfect.
+- **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Theism vs Deism - Refuting Deism discusses the idea that a creator must be interested in the world, as the universe would not operate according to natural law without him. Deists argue that, as a contingent being, a god could have any attribute and need not necessarily exist in the same way as we do.
+- **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>**  the presenter refutes the claim that miracles are impossible, and argues that they should not cause a problem for theism. He also addresses the argument that miracles are logically impossible, and points out that there is nothing about the laws of nature that is necessarily logical.
+- **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Discusses the reasons why not everyone believes in miracles, and argues that miracles cannot contradict laws of nature because they are conditional statements. It goes on to discuss the concept of a necessary being, and argues that human beings have certain attributes that are not necessary for ourselves, but are necessary for other beings. Finally, the presenter discusses why people might expect revelation.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  discusses theism vs deism, and how the belief in a creator affects how one views moral principles. It also discusses how the creator may provide us with moral guidance.
 
-**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>* Discusses theism vs. deism, and how a rational person should be skeptical of their intuition when it comes to matters of theology. It also discusses how the belief in a creator affects how one views moral principles, and how this creator may provide us with moral guidance.
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Theism vs. Deism: Deism posits that something that begins to exist has a cause, leading to Deism. Theism, in contrast, argues that a necessary being exists, and that this being is God. Theism also argues that God is interested in the universe, and that this is why he created it.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Theism vs Deism is an argument about whether or not a necessary being exists. Theism argues that a necessary being does exist, while deism argues that it does not. Sharif argues that an eternal necessary being does not have a beginning, and is contradictory because it would have a beginning without a cause.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** Theism vs. Deism is a discussion about the existence of a necessary being. Deism argues that the necessary being does not have a starting point, but only exists when time begins. Theism argues that the necessary being exists eternally and always exists. There is a contradiction if the necessary being began or had a beginning.
-* **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** Theism vs Deism - Refuting Deism | Thought Adventure Podcast #8: In this podcast, Sharif discusses how an infinite regress is unreasonable, and how something beginning to exist without a cause can be equally reasonable and absurd. He argues that by applying commonsense reasoning, both options are available for the taking.
-* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** Theism vs Deism - Refuting Deism | Thought Adventure Podcast #8: Theism argues that there is a necessary being that exists eternally, without the idea of an infinite regress. Deism argues that without a god, there could be no order or meaning in the universe. Theism contends that this is absurd, while Deism says that it's possible for there to be a universe without a god, if there is a changeless state.
-* **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** Sharif argues that because we live in a world of change, it is necessary to posit a cause that is eternal and has intentionality in order to avoid an infinite regress. He goes on to say that this cause is free will, which is a subjective idea that is more obvious than anything else.
-* **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** Theism vs. Deism is a discussion about the existence of free will and how it can be non-deterministic under a materialistic paradigm. Abdullah argues that there must be a non-materialistic agent that gives us free will, and that this agent must be the cause of our other attributes, such as our will.
-* **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** Imam Khazali, Imam Jaweni, and other Islamic scholars discuss the existence of free will and the first event in time, which they believe occurred without cause. They argue that this contingency can be explained by adding a faculty of will within our innermost human experience.
-* **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** Theism vs. Deism is discussed  with theism being that there is a god, and deism being the belief that there is no god. Theism has a rich intellectual tradition, while deism does not. Theism is able to show that god is the necessary being, and that he created the universe. Deism cannot account for time, and so god cannot be in time.
-* **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** Theism vs. deism is a philosophical debate about the existence of a creator deity. Deists believe that a creator deity exists, but that the creator deity does not interfere with the natural world. Theism, on the other hand, believes that a creator deity exists and actively intervenes in the natural world.  argues that theism is more consistent with our understanding of causality, and that we cannot comprehend the nature of the creator without suspending our ability to think within a temporal framework.
-* **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Theism vs Deism discusses the creator's knowledge of themselves and their actions, concluding that there is no logical problem with an actionless creator.
+**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Discusses theism vs. deism, and how a rational person should be skeptical of their intuition when it comes to matters of theology. It also discusses how the belief in a creator affects how one views moral principles, and how this creator may provide us with moral guidance.
+
+- **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Theism vs. Deism: Deism posits that something that begins to exist has a cause, leading to Deism. Theism, in contrast, argues that a necessary being exists, and that this being is God. Theism also argues that God is interested in the universe, and that this is why he created it.
+- **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Theism vs Deism is an argument about whether or not a necessary being exists. Theism argues that a necessary being does exist, while deism argues that it does not. Sharif argues that an eternal necessary being does not have a beginning, and is contradictory because it would have a beginning without a cause.
+- **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** Theism vs. Deism is a discussion about the existence of a necessary being. Deism argues that the necessary being does not have a starting point, but only exists when time begins. Theism argues that the necessary being exists eternally and always exists. There is a contradiction if the necessary being began or had a beginning.
+- **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** Theism vs Deism - Refuting Deism | Thought Adventure Podcast #8: In this podcast, Sharif discusses how an infinite regress is unreasonable, and how something beginning to exist without a cause can be equally reasonable and absurd. He argues that by applying commonsense reasoning, both options are available for the taking.
+- **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** Theism vs Deism - Refuting Deism | Thought Adventure Podcast #8: Theism argues that there is a necessary being that exists eternally, without the idea of an infinite regress. Deism argues that without a god, there could be no order or meaning in the universe. Theism contends that this is absurd, while Deism says that it's possible for there to be a universe without a god, if there is a changeless state.
+- **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** Sharif argues that because we live in a world of change, it is necessary to posit a cause that is eternal and has intentionality in order to avoid an infinite regress. He goes on to say that this cause is free will, which is a subjective idea that is more obvious than anything else.
+- **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** Theism vs. Deism is a discussion about the existence of free will and how it can be non-deterministic under a materialistic paradigm. Abdullah argues that there must be a non-materialistic agent that gives us free will, and that this agent must be the cause of our other attributes, such as our will.
+- **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** Imam Khazali, Imam Jaweni, and other Islamic scholars discuss the existence of free will and the first event in time, which they believe occurred without cause. They argue that this contingency can be explained by adding a faculty of will within our innermost human experience.
+- **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** Theism vs. Deism is discussed  with theism being that there is a god, and deism being the belief that there is no god. Theism has a rich intellectual tradition, while deism does not. Theism is able to show that god is the necessary being, and that he created the universe. Deism cannot account for time, and so god cannot be in time.
+- **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** Theism vs. deism is a philosophical debate about the existence of a creator deity. Deists believe that a creator deity exists, but that the creator deity does not interfere with the natural world. Theism, on the other hand, believes that a creator deity exists and actively intervenes in the natural world.  argues that theism is more consistent with our understanding of causality, and that we cannot comprehend the nature of the creator without suspending our ability to think within a temporal framework.
+- **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Theism vs Deism discusses the creator's knowledge of themselves and their actions, concluding that there is no logical problem with an actionless creator.
+
 ### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:30:00</a>
 
 The thought adventure podcast features a discussion between host Thought Adventure and guests Karen and Muhammad Ali about why a deistic belief in a creator does not necessitate a need for revelation or care by the creator.
 
-**<a onclick="modifyYTiframeseektime('7200')">02:00:00</a>* Discusses the theory of deism, which is the belief that there is no creator deity. The presenter argues that this belief is contradicted by our sense of the universe and by our experience of religious holidays. He also points out that deism is contradicted by our experience of consciousness and by the need for a creator deity.
-* **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>** Deism is the belief in a deity or deities that created the universe but did not interfere in it or guide humans on what to do. It is different from theism, which is the belief in a god who intervenes in the universe and guides humans on what to do. Deism can be used as a way to escape philosophically from atheism.
-* **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>** Theism vs Deism - Refuting Deism | Thought Adventure Podcast #8 features a discussion between host Thought Adventure and guests Karen and Muhammad Ali about why a deistic belief in a creator does not necessitate a need for revelation or care by the creator.
-* **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>** Theism vs Deism discusses the idea of whether or not God needs to send revelation to humanity in order for them to be able to understand and follow His commands. Deists who believe in an afterlife argue that miracles cannot occur, while others argue that miracles are possible and may even occur in the hereafter.
-* **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>** Theism vs Deism is a discussion about whether or not God could have revealed himself to each person individually, as opposed to giving a general revelation meant for all of mankind. Brother Khalil mentions that he is hosting a live stream with Dr. Schweib on Saturday, which discusses the book, "Islam and Evolution."
-* **<a onclick="modifyYTiframeseektime('8700')">02:25:00</a>** Theism vs Deism is a philosophical discussion between two individuals. Theist Aaron argues that philosophical claims must be backed up with evidence, while Deist Ron disagrees. Ron states that if a claim is philosophical, it cannot be addressed from a purely scientific perspective.
-* **<a onclick="modifyYTiframeseektime('9000')">02:30:00</a>** Theism vs Deism is a debate between two different views on the existence of a god. In this episode, the Thought Adventure Podcast refutes Deism.
+**<a onclick="modifyYTiframeseektime('7200')">02:00:00</a>** Discusses the theory of deism, which is the belief that there is no creator deity. The presenter argues that this belief is contradicted by our sense of the universe and by our experience of religious holidays. He also points out that deism is contradicted by our experience of consciousness and by the need for a creator deity.
+
+- **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>** Deism is the belief in a deity or deities that created the universe but did not interfere in it or guide humans on what to do. It is different from theism, which is the belief in a god who intervenes in the universe and guides humans on what to do. Deism can be used as a way to escape philosophically from atheism.
+- **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>** Theism vs Deism - Refuting Deism | Thought Adventure Podcast #8 features a discussion between host Thought Adventure and guests Karen and Muhammad Ali about why a deistic belief in a creator does not necessitate a need for revelation or care by the creator.
+- **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>** Theism vs Deism discusses the idea of whether or not God needs to send revelation to humanity in order for them to be able to understand and follow His commands. Deists who believe in an afterlife argue that miracles cannot occur, while others argue that miracles are possible and may even occur in the hereafter.
+- **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>** Theism vs Deism is a discussion about whether or not God could have revealed himself to each person individually, as opposed to giving a general revelation meant for all of mankind. Brother Khalil mentions that he is hosting a live stream with Dr. Schweib on Saturday, which discusses the book, "Islam and Evolution."
+- **<a onclick="modifyYTiframeseektime('8700')">02:25:00</a>** Theism vs Deism is a philosophical discussion between two individuals. Theist Aaron argues that philosophical claims must be backed up with evidence, while Deist Ron disagrees. Ron states that if a claim is philosophical, it cannot be addressed from a purely scientific perspective.
+- **<a onclick="modifyYTiframeseektime('9000')">02:30:00</a>** Theism vs Deism is a debate between two different views on the existence of a god. In this episode, the Thought Adventure Podcast refutes Deism.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

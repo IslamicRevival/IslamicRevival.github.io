@@ -4,12 +4,11 @@
 
 ## Description
 
-Flooding in Pakistan has killed more than 1,000 people and threatens to leave a third of the country: https://www.justgiving.com/fundraising/smile-to-jannah-pakistan
+Flooding in Pakistan has killed more than 1,000 people and threatens to leave a third of the country: <https://www.justgiving.com/fundraising/smile-to-jannah-pakistan>
 
-For Islamnet in Norway click here: https://www.saveiman.com/fb?affiliate_id=3414212 ⬅
+For Islamnet in Norway click here: <https://www.saveiman.com/fb?affiliate_id=3414212> ⬅
 
 ## Summary of [Equating Polygyny & Cheating? (Response)](https://www.youtube.com/watch?v=799VhYgwHck)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -18,13 +17,15 @@ For Islamnet in Norway click here: https://www.saveiman.com/fb?affiliate_id=3414
  discusses the issue of polygyny from an Islamic perspective. points out that this issue is often framed in a biased way, with men being given more rights than women. Polygny can also be seen as a woman versus woman issue, as more women are involved in the equation than men. This can be harmful to the women involved, as they may be coerced into divorcing their sisters or other female family members. recommends that people consult knowledgeable Islamic scholars when considering the issue of polygamy.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The Muslim man in this video compares polygyny with adultery, and claims that it is one of the worst sins in islam. He then encourages others to listen to this video and refute the idea. If one is predicating their morality on an Islamic system, then they cannot compare polygyny with adultery.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The spiritual bankruptcy that individuals have on this notion that polygamy and cheating are comparable exposes it and I'll go further than this.
 
 For example, in Islam, eating meat is halal, just like polygamy is halal. However, someone can hate eating meat because of helpful health reasons and not eat meat or in fact can feel sickened by eating meat. Moving into the Coffer Zone means associating oppression with something which Allah has allowed. After this, one could say that eating meat is wrong, which is equivalent to saying that polygamy is wrong, immoral, and unjust.
+
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** of the video argues that comparing polygyny and cheating is a valid analogy because both activities can cause pain to the people involved. He then goes on to say that even though this analogy is not academically robust, it is still a powerful argument because it is filled with velocity anduntruth.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses how Islamic teachings do not encourage full disclosure in marital affairs, predicting that if more secret marriages occur, it will be easier for men to avoid disclosure.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses concept of "jurisprudential sensuousness" and how it can lead to men feeling like their only option is to cheat on their wives.  also mentions the ayat which talk about how a man cannot cheat on his wife.  ends by mentioning cognitive dissonance and how it can create problems in a person's life.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses issue of polygyny, or the practice of having multiple wives. points out that this issue is often framed in a biased way, with men being given more rights than women. Polygny can also be seen as a woman versus woman issue, as more women are involved in the equation than men. This can be harmful to the women involved, as they may be coerced into divorcing their sisters or other female family members. recommends that people consider the issue of polygamy from an Islamic perspective, consulting knowledgeable Islamic scholars.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses how Islamic teachings do not encourage full disclosure in marital affairs, predicting that if more secret marriages occur, it will be easier for men to avoid disclosure.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses concept of "jurisprudential sensuousness" and how it can lead to men feeling like their only option is to cheat on their wives.  also mentions the ayat which talk about how a man cannot cheat on his wife.  ends by mentioning cognitive dissonance and how it can create problems in a person's life.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses issue of polygyny, or the practice of having multiple wives. points out that this issue is often framed in a biased way, with men being given more rights than women. Polygny can also be seen as a woman versus woman issue, as more women are involved in the equation than men. This can be harmful to the women involved, as they may be coerced into divorcing their sisters or other female family members. recommends that people consider the issue of polygamy from an Islamic perspective, consulting knowledgeable Islamic scholars.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** In Islam, polygyny is allowed as long as it is halal and permissible through opinion. This is highlighted in the video in which Zama, a woman who has had multiple husbands, is compared to a model of polygyny which is also flexible enough to be allowable in Islam. This problem of deeper iman crisis is further highlighted in the discussion of the meaning of building mosques for Allah.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

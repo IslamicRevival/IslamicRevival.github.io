@@ -5,43 +5,43 @@
 ## Description
 
 0:00 Intro
-6:12 Khalil (Justin) explaining his background 
-9:59 First direct experience with Muslims 
-10:47 Why did you join the army? 
-12:01 Perception of Muslims prior to Afghanistan deployment 
-14:23 Would you say you were similar to a white supremacist? 
-15:22 How was the perception of other American soldiers of the Muslims in Afghanistan 
-16:47 Religious views during army stint 
+6:12 Khalil (Justin) explaining his background
+9:59 First direct experience with Muslims
+10:47 Why did you join the army?
+12:01 Perception of Muslims prior to Afghanistan deployment
+14:23 Would you say you were similar to a white supremacist?
+15:22 How was the perception of other American soldiers of the Muslims in Afghanistan
+16:47 Religious views during army stint
 20:55 Objective of starting The EA Channel
 24:50 All that you were hearing for the past 8 months were pro-Islamic arguments without any counters so no wonder you became Muslim!
-28:03 Thoughts on Graham Oppy 
+28:03 Thoughts on Graham Oppy
 30:45 Difference between the Muslim and Christian approach in the philosophical discussions you had
-34:41 What made you consider that the Muslims may have an argument 
-39:13 Were you an empiricist whilst you were an atheist? 
-41:23 Consciousness 
+34:41 What made you consider that the Muslims may have an argument
+39:13 Were you an empiricist whilst you were an atheist?
+41:23 Consciousness
 52:07 Did you consider other religions before converting?
-54:40 Arriving at Islaam after elimination of other religions/worldviews 
-1:11:08 Atheist community reaction of Khalil’s conversion 
-1:13:59 Tribalistic mentality amongst some atheists 
+54:40 Arriving at Islaam after elimination of other religions/worldviews
+1:11:08 Atheist community reaction of Khalil’s conversion
+1:13:59 Tribalistic mentality amongst some atheists
 1:22:17 Literary nature of The Qur’aan
-1:24:30 Shahaadah! 
-1:26:00 Why ‘Khalilallah’? 
-1:27:25 Future plans for ‘The EA Show’ 
-1:29:44 ‘Salaam!’ (Bint Yusuf) 
+1:24:30 Shahaadah!
+1:26:00 Why ‘Khalilallah’?
+1:27:25 Future plans for ‘The EA Show’
+1:29:44 ‘Salaam!’ (Bint Yusuf)
 1:32:03 Du’aa (Supplication)
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -49,41 +49,39 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
-
-#FromAtheismToIslam #Muslim #Atheist
+# FromAtheismToIslam #Muslim #Atheist
 
 ## Summary of [SPECIAL: From Atheism to Islam: Justin’s Journey in His Own Words | Thought Adventure Podcast](https://www.youtube.com/watch?v=-sMquXs4sDg)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -92,28 +90,31 @@ Gmail: hello.tapodcast@gmail.com
 Justin, an atheist who converted to Islam, discusses how he became interested in religion and atheism, and how he eventually came to believe in Islam. He talks about how the Quran's unique ring structure proves it to be authentic, and how he believes that Islam is the true religion.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Justin, formerly known as the "empathetic atheist," has embraced Islam and now goes by the name "so." In this special episode, Justin discusses his journey from atheism to Islam, and the varied reactions he's received from the atheist community.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Justin recounts his journey from atheism to Islam, discussing how he first encountered Muslims and why he eventually changed his mind. Justin talks about his experience attending a Muslim group and how he gradually came to believe in Allah.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Justin describes his experience in Afghanistan, where he met Muslims who were some of the most peaceful people he had ever met. After his deployment, Justin realized that he had been racist and hateful towards people of other races, and worked to change his view. Justin now says that Muslims are some of the most peaceful people he has ever met, and that he has overcome racism through his Christian faith.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Justin recounts his journey from atheism to Islam, explaining that he gradually lost his faith in Christianity and other religions until he became a heart atheist towards any god claims that are logically contradictory. He says that being an atheist is not a permanent state, and that when he was talking to Jake about rationality, the dominoes started moving back towards atheism.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Justin, an atheist who converted to Islam, discusses how he became disillusioned with atheism and Christianity, and why he started a YouTube channel to have discussions with other Muslims and Christians.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Justin tells his story of how he became an atheist, how he came to understand the arguments against faith, and how he met and discussed these arguments with other atheists.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Justin's journey from atheism to Islam involved discussing reasons for his beliefs with various philosophers and Christians, and he found that their arguments were not as logically sound as those of Muslims.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Justin, an atheist, begins to see the problems with his view of the world after starting to discuss arguments for and against the existence of God. He eventually comes to believe in general theism, and uses the process of elimination to determine which god claims are logically contradictory and can therefore be dismissed.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Justin discusses how he came to the conclusion that there may be a reasonable explanation for the existence of God, which was a gradual process that involved thinking about things in a more philosophical way. He eventually came to deism, which felt like a safe space for him because it allowed him to keep arguing against philosophical concepts that he could still dispute. He eventually came to the belief that God exists, and this was based on intuition rather than preference.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Justin, an atheist, talks about his journey from atheism to Islam. He discusses how rational arguments and evidence led him to theism, and how materialism and naturalism have their own problems.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Justin's journey from atheism to Islam began with analysis of the various arguments for and against each religion. He considered the experience of being a host of an atheist YouTube channel, which showed him that there are many religious views and that he wanted to know more about the truth. He found that Judaism was not the right religion for him because of the evidence for Islam, and he believes that this was a light bulb moment that led him to intuitively accept that there needs to be some sort of message in the world.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Justin begins his discussion by discussing how he became interested in religion and atheism. He talks about how he came to believe in Islam and its many proofs. He also explains how the Quran's unique ring structure proves it to be authentic.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Justin recounts his journey from atheism to Islam, discussing how he first encountered Muslims and why he eventually changed his mind. Justin talks about his experience attending a Muslim group and how he gradually came to believe in Allah.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Justin describes his experience in Afghanistan, where he met Muslims who were some of the most peaceful people he had ever met. After his deployment, Justin realized that he had been racist and hateful towards people of other races, and worked to change his view. Justin now says that Muslims are some of the most peaceful people he has ever met, and that he has overcome racism through his Christian faith.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Justin recounts his journey from atheism to Islam, explaining that he gradually lost his faith in Christianity and other religions until he became a heart atheist towards any god claims that are logically contradictory. He says that being an atheist is not a permanent state, and that when he was talking to Jake about rationality, the dominoes started moving back towards atheism.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Justin, an atheist who converted to Islam, discusses how he became disillusioned with atheism and Christianity, and why he started a YouTube channel to have discussions with other Muslims and Christians.
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Justin tells his story of how he became an atheist, how he came to understand the arguments against faith, and how he met and discussed these arguments with other atheists.
+- **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Justin's journey from atheism to Islam involved discussing reasons for his beliefs with various philosophers and Christians, and he found that their arguments were not as logically sound as those of Muslims.
+- **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Justin, an atheist, begins to see the problems with his view of the world after starting to discuss arguments for and against the existence of God. He eventually comes to believe in general theism, and uses the process of elimination to determine which god claims are logically contradictory and can therefore be dismissed.
+- **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Justin discusses how he came to the conclusion that there may be a reasonable explanation for the existence of God, which was a gradual process that involved thinking about things in a more philosophical way. He eventually came to deism, which felt like a safe space for him because it allowed him to keep arguing against philosophical concepts that he could still dispute. He eventually came to the belief that God exists, and this was based on intuition rather than preference.
+- **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Justin, an atheist, talks about his journey from atheism to Islam. He discusses how rational arguments and evidence led him to theism, and how materialism and naturalism have their own problems.
+- **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Justin's journey from atheism to Islam began with analysis of the various arguments for and against each religion. He considered the experience of being a host of an atheist YouTube channel, which showed him that there are many religious views and that he wanted to know more about the truth. He found that Judaism was not the right religion for him because of the evidence for Islam, and he believes that this was a light bulb moment that led him to intuitively accept that there needs to be some sort of message in the world.
+- **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Justin begins his discussion by discussing how he became interested in religion and atheism. He talks about how he came to believe in Islam and its many proofs. He also explains how the Quran's unique ring structure proves it to be authentic.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:30:00</a>
 
 Justin discusses his journey from atheism to Islam, sharing his reasons for converting and the negative reaction he received from the atheist community. He reflects on the impact that tribalism and religious ideologies have had on the atheist community, and expresses hope that by promoting secular humanism, he can help bridge the gap between the atheist and Muslim communities.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Justin's journey from atheism to Islam covers the linguistic features of the Quran and how they match the rational foundation of natural theology. Justin argues that there is a sufficient reason for someone to believe in Islam as opposed to making a strong positive case for it.
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Justin discusses his journey from atheism to Islam, discussing the reasons behind his change of belief. He discusses the importance of being open-minded and taking others' beliefs into account when debating.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Justin shares his experiences as an atheist who converted to Islam, discussing the negative reaction he received from the atheist community. He explains that while atheism is more than simply not believing in gods, for some people it is a source of identity and community. Justin discusses his reasons for converting, and notes that he has received support from some members of the Muslim community.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** Justin reflects on his journey from atheism to Islam, and discusses the impact that tribalism and religious ideologies have had on the atheist community. He expresses hope that by promoting secular humanism, he can help bridge the gap between the atheist and Muslim communities.
-* **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** Justin describes his personal journey from atheism to Islam, and Sam Alaikum explains how to become a Muslim. Jake returns to the discussion and asks Justin about one of the evidences for the Prophethood of Muhammad, the Quran's linguistic miracle.
-* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** Justin, a former atheist, converted to Islam and started a call-in show to discuss the religion with Muslim brothers and sisters.
-* **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** Justin, a former atheist, describes his journey from atheism to Islam, and discusses the importance of making dua (prayers) for others. He thanks brother Khalil for coming on the show and asks viewers to make dua for him and his family. Ramadan Mubarak to everyone!
+
+- **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Justin discusses his journey from atheism to Islam, discussing the reasons behind his change of belief. He discusses the importance of being open-minded and taking others' beliefs into account when debating.
+- **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Justin shares his experiences as an atheist who converted to Islam, discussing the negative reaction he received from the atheist community. He explains that while atheism is more than simply not believing in gods, for some people it is a source of identity and community. Justin discusses his reasons for converting, and notes that he has received support from some members of the Muslim community.
+- **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** Justin reflects on his journey from atheism to Islam, and discusses the impact that tribalism and religious ideologies have had on the atheist community. He expresses hope that by promoting secular humanism, he can help bridge the gap between the atheist and Muslim communities.
+- **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** Justin describes his personal journey from atheism to Islam, and Sam Alaikum explains how to become a Muslim. Jake returns to the discussion and asks Justin about one of the evidences for the Prophethood of Muhammad, the Quran's linguistic miracle.
+- **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** Justin, a former atheist, converted to Islam and started a call-in show to discuss the religion with Muslim brothers and sisters.
+- **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** Justin, a former atheist, describes his journey from atheism to Islam, and discusses the importance of making dua (prayers) for others. He thanks brother Khalil for coming on the show and asks viewers to make dua for him and his family. Ramadan Mubarak to everyone!
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

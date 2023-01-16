@@ -4,14 +4,13 @@
 
 ## Description
 
-www.naturesblends.co.uk 
+www.naturesblends.co.uk
 
-full debate here -https://www.youtube.com/watch?v=Z6-2IYlbTj8&t=4737s
+full debate here -<https://www.youtube.com/watch?v=Z6-2IYlbTj8&t=4737s>
 
 hijab10 discount code.
 
 ## Summary of [Is Science the Only Route to Truth?](https://www.youtube.com/watch?v=O2DE8vQCX2Y)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -19,9 +18,10 @@ hijab10 discount code.
 
 discusses how people's beliefs about truth can be determined by whether or not they can provide evidence for those beliefs. then goes on to say that people who believe in evidence-based truths should also believe in the existence of other religions. discusses how there are other routes to knowledge, which are not based on observations or theories, and how belief is applied in science. He asks a simple question: does the speaker acknowledge testimony as a valid route to knowledge? answers that, if it is tested and proves accurate, then testimony is valid. However, if the testimony is not accurate, it is suspect.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses how people's beliefs about truth can be determined by whether or not they can provide evidence for those beliefs. then goes on to say that people who believe in evidence-based truths should also believe in the existence of other religions.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the concept of testimony, which is a form of evidence that can be observed and trusted. He goes on to say that, while belief in something can be based on evidence, belief in something based on something else (in this case, testimony) is not as reliable. He gives an example of how someone's belief in evolution can be based on evidence, but also points out that belief in something based on the mind of a scientist is not reliable.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses how there are other routes to knowledge, which are not based on observations or theories, and how belief is applied in science. He asks a simple question: does the speaker acknowledge testimony as a valid route to knowledge? answers that, if it is tested and proves accurate, then testimony is valid. However, if the testimony is not accurate, it is suspect.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses how people's beliefs about truth can be determined by whether or not they can provide evidence for those beliefs. then goes on to say that people who believe in evidence-based truths should also believe in the existence of other religions.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the concept of testimony, which is a form of evidence that can be observed and trusted. He goes on to say that, while belief in something can be based on evidence, belief in something based on something else (in this case, testimony) is not as reliable. He gives an example of how someone's belief in evolution can be based on evidence, but also points out that belief in something based on the mind of a scientist is not reliable.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses how there are other routes to knowledge, which are not based on observations or theories, and how belief is applied in science. He asks a simple question: does the speaker acknowledge testimony as a valid route to knowledge? answers that, if it is tested and proves accurate, then testimony is valid. However, if the testimony is not accurate, it is suspect.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** a person claiming to be a scientist discusses how testimony is a claim that must be challenged or buggy, and as a result, is not a route to knowledge based on the fact that it could be tested. The person also discusses how a scientist is engaged in science, and how they take observations and reason upon them in order to form conclusions.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

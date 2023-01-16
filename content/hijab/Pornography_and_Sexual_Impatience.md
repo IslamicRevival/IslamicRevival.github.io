@@ -4,12 +4,11 @@
 
 ## Description
 
-Check out the full interview here: https://www.youtube.com/watch?v=vd2i3gjOjEQ
+Check out the full interview here: <https://www.youtube.com/watch?v=vd2i3gjOjEQ>
 
-Or if you want to listen to the episode on your phone or tablet, check it out on iTunes: https://itunes.apple.com/gb/podcast/freshly-grounded/id1204792336?mt=2
+Or if you want to listen to the episode on your phone or tablet, check it out on iTunes: <https://itunes.apple.com/gb/podcast/freshly-grounded/id1204792336?mt=2>
 
 ## Summary of [Pornography and Sexual Impatience](https://www.youtube.com/watch?v=MTPwUrTQ-8M)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -17,8 +16,9 @@ Or if you want to listen to the episode on your phone or tablet, check it out on
 
 of the video discusses the feminist debate over pornography, pointing to evidence that it is linked to a variety of negative outcomes for women. He argues that pornography can become an addiction and lead to psychological disorders, and recommends that people try to marry young and have children to help reduce the demand for it.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the feminist debate over pornography, with radical feminists against and liberal feminists in support. It points to evidence that pornography is linked to a variety of negative outcomes for women, including child abuse, rape, and addiction.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the psychological effects of pornography, arguing that it can become an addiction and lead to psychological disorders. He also points out that pornography is not just about sexual pleasure, but can also be used as a way to deal with other problems.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the feminist debate over pornography, with radical feminists against and liberal feminists in support. It points to evidence that pornography is linked to a variety of negative outcomes for women, including child abuse, rape, and addiction.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the psychological effects of pornography, arguing that it can become an addiction and lead to psychological disorders. He also points out that pornography is not just about sexual pleasure, but can also be used as a way to deal with other problems.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** <>
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** of the video discusses the importance of patience and foreplay in sexual intercourse between a man and woman. He says that pornography often hinders these qualities and can lead to psychological problems. He recommends that people try to marry young and have children to help reduce the demand for pornography.
 

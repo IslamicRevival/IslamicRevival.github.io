@@ -5,12 +5,12 @@
 ## Description
 
 You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
+<https://www.patreon.com/Bloggingtheology>
 
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
-Chapters: 
+Chapters:
 0:00 - Introduction
 0:17 - Topic of the stream
 0:54 - Brother Paul reads an excerpt from the Book: New Testament History & Literature
@@ -30,7 +30,6 @@ Chapters:
 
 ## Summary of [Christianity after the New Testament period with Professor Dale Martin](https://www.youtube.com/watch?v=GYrUJnrlus0)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
@@ -38,6 +37,7 @@ Chapters:
  Professor Dale Martin discusses Christianity after the New Testament period. He discusses how Christianity spread throughout the world after the death of Jesus Christ and how it underwent many transformations over its long history. He also discusses the importance of Emperor Constantine in advancing the religion.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** In his book "New Testament History and Literature," Yale University professor Dale Martin discusses how Christianity spread throughout the world after the death of Jesus Christ. After his death, Jesus' followers were scattered throughout the ancient Mediterranean world, with the majority of followers residing in Galilee. Although there were some early mentions of Jesus in secular sources, it was only after his followers wrote down their stories and scriptures that Jesus began to be widely recognized. Although the historical Jesus may never have existed, Christianity as we know it began with his followers.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Professor Dale Martin discusses the origins of Christianity and the difficulty of tracing it back to a single originator. He also discusses the lack of evidence that Jesus was considered divine by his followers in the New Testament period. Finally, he discusses the development of Christianity into a world religion.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** In 325, the Emperor Constantine convened the first big ecumenical council, which attempted to unify various Christian sects. Changes continued to develop over the next centuries, with the rise of the Papacy, the development of biblical scholarship, and the Enlightenment. Christianity has undergone many transformations over its long history, which continues into the modern era.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  Professor Dale Martin discusses Christianity after the New Testament period. He discusses the importance of Ignatius of Antioch, who argued for a hierarchy of church offices and the canon of scripture. By the year 200, the four gospels we recognize as canonical had become accepted by the church. Later, other books in the New Testament were written, including the book of Revelation.
@@ -49,11 +49,13 @@ Chapters:
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** This video discusses the debate among scholars about whether or not Constantine was a Christian. Some scholars argue that he was not really a Christian, while others argue that he was. One argument for Constantine being a Christian is that he baptized himself on his deathbed--a practice not uncommon among emperors.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** This video discusses Christianity in the post-New Testament period, focusing on Emperor Constantine's role in advancing the religion. Eusebius wrote a Life of Constantine to support his claim that Christianity was destined to become the dominant religion in the empire.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  Professor Dale Martin discusses Christianity after the New Testament period. He argues that while Christianity was originally centered around Europe, it has since become a global religion. Martin discusses how changes in the 18th century, specifically Protestant evangelism in newly-colonized areas such as North America and South America, helped to create this shift.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:05:00</a>
 
  Professor Dale Martin discusses Christianity's spread throughout the world in the modern era. He notes that Christianity began to become a world religion in the 20th century when scholars started including it among other religions. Martin also discusses the controversial topic of whether or not Christianity is the only world religion.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>**  Professor Dale Martin discusses Christianity's spread throughout the world in the modern era. He notes that Christianity began to become a world religion in the 20th century when scholars started including it among other religions. Martin also discusses the controversial topic of whether or not Christianity is the only world religion.
+
 * **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Professor Dale Martin discusses Christianity after the New Testament period, discussing how colonialism and the growth of communication technologies has led to a more cosmic view of religion. He feels that this change has already happened, and that anyone can now connect with anyone else in the world through technology.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

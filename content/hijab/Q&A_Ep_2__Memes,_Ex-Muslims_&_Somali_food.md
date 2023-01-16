@@ -6,13 +6,12 @@
 
 Q&A with Mohammed Hijab: Episode 2
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
 
 ## Summary of [Q&A Ep 2: Memes, Ex-Muslims & Somali food](https://www.youtube.com/watch?v=UbB9UeI47uk)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -20,7 +19,8 @@ Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
 
 In the second episode of Q&A, the interviewer asks the Prophet Muhammad about the best books to understand liberalism and feminism, and he provides basic advice on how to study these topics. He also discusses Western Islamic philosophy and history, and asks the Prophet how he feels about this topic. Finally, the interviewer jokingly suggests that the Prophet grow hair.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses various topics, including memes, ex-Muslims, and Somali food. Jenna asks the speaker about Bangladeshi fans wanting to know if he will change the cover picture of his phone and put a Royal Bengal tiger in it, and the speaker responds that maybe why not. He also shares advice on how to deal with negativity from speakers' corners, and says that it is moving in a direction of peace.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses various topics, including memes, ex-Muslims, and Somali food. Jenna asks the speaker about Bangladeshi fans wanting to know if he will change the cover picture of his phone and put a Royal Bengal tiger in it, and the speaker responds that maybe why not. He also shares advice on how to deal with negativity from speakers' corners, and says that it is moving in a direction of peace.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Q&A host Theo Moonves asks a Muslim atheist about his thoughts on being an Arab living in a quasi-Dessie country, and how to give good advice to Muslims who are resistant to learning. The Muslim atheist responds that he speaks English in Arabic and that memorizing the Quran is enough to keep oneself busy, and recommends basic Islamic education and studying the Arabic language. He then challenges Theo Moonves to a debate on whether or not the hijab means wearing a veil.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** In this second Q&A episode, the interviewer asks the Prophet Muhammad about the best books to understand liberalism and feminism, and he provides basic advice on how to study these topics. He also discusses Western Islamic philosophy and history, and asks the Prophet how he feels about this topic. Finally, the interviewer jokingly suggests that the Prophet grow hair.
 

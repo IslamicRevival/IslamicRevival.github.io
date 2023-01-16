@@ -4,22 +4,21 @@
 
 "Comedian" Isaac Butterfield has been slammed over a 'joke' in which he said the saddest thing about the death of Muslims in the Christchurch massacre was that it led to a shortage of taxi drivers.
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
 
-0:00 Intro/The joke 
+0:00 Intro/The joke
 1:30 He defines joke
 5:14 Offense contradiction
 6:02 He talks about respect
-7:08 Free speech absolutist 
+7:08 Free speech absolutist
 8:42 Nothing is sacred?
 10:45 Muslims want to see me burn
 11:50 My message to Isaac
 
 ## Summary of [Muslim Response to Comedian Mocking Christchurch Victims](https://www.youtube.com/watch?v=tcW4fvnHX8g)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -28,6 +27,7 @@ Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
 The Muslim community is displeased with the comedian's decision to mock Christchurch victims. They believe that he has not done a referendum on 1.8 billion people, and that the Quran itself says that what has God benefit with your punishment if you are thankful. They invite the comedian to Islam, where they believe he will find eternal happiness.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  is a response to comedian Molan's joke about the Christchurch mosque shootings, which took place last year. The comedian defended his joke by comparing it to jokes made about the Holocaust and 9 11. Muslims argue that making jokes about these tragedies is not funny, and that it serves to trivialize and minimize the plight of the victims.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The Muslim community in response to a comedian mocking the Christchurch victims, argue that free speech should be upheld, but that certain things should not be said for the sake of comedy. They argue that, because comedy is sacred to the comedian, it should also be sacred to the community. However, because the comedian prioritized moral propositions over other moral positions, the Muslim community argues that there is a need for some kind of censorship, in order to move forward.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The Muslim community is displeased with the comedian's decision to mock Christchurch victims. They believe that he has not done a referendum on 1.8 billion people, and that the Quran itself says that what has God benefit with your punishment if you are thankful. They invite the comedian to Islam, where they believe he will find eternal happiness.
 

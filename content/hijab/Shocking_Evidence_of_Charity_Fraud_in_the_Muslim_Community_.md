@@ -2,28 +2,27 @@
 
 <iframe loading='lazy' src='https://www.youtube.com/embed/gme5G_PVt2I'></iframe>## Description
 
-All evidences can be found on this twitter account - https://twitter.com/abuhafsa_khan?lang=en
+All evidences can be found on this twitter account - <https://twitter.com/abuhafsa_khan?lang=en>
 
 Asif Khan Abu Hafsa statement.  
-https://www.dropbox.com/s/t7d3t5lqkih33wj/A%20response%20to%20CLARIFYING%20THE%20LIES%20%20Final.pdf?dl=0
+<https://www.dropbox.com/s/t7d3t5lqkih33wj/A%20response%20to%20CLARIFYING%20THE%20LIES%20%20Final.pdf?dl=0>
 
-Bid Document with Council. 
-https://www.dropbox.com/s/lz898ygr50wck09/riic%20%20ice%20bid3%20%282%29.pages?dl=0
+Bid Document with Council.
+<https://www.dropbox.com/s/lz898ygr50wck09/riic%20%20ice%20bid3%20%282%29.pages?dl=0>
 
 END OF YEAR REPORT
-https://www.dropbox.com/s/qjkprsxnsy6d71b/END%20OF%20YEAR%20REPORT%20RIIC.doc?dl=0
+<https://www.dropbox.com/s/qjkprsxnsy6d71b/END%20OF%20YEAR%20REPORT%20RIIC.doc?dl=0>
 
-Evidence List and Wittiness Statements 
-https://www.dropbox.com/s/gtrzc4466vons9q/2018-02-03%2012-36.pdf?dl=0
+Evidence List and Wittiness Statements
+<https://www.dropbox.com/s/gtrzc4466vons9q/2018-02-03%2012-36.pdf?dl=0>
 
-Inner city guidance records 
-https://www.companiesintheuk.co.uk/ltd/inner-city-guidance
+Inner city guidance records
+<https://www.companiesintheuk.co.uk/ltd/inner-city-guidance>
 
-Salafi publications Charity records 
-https://beta.charitycommission.gov.uk/charity-details/?regid=1083080&subid=0
+Salafi publications Charity records
+<https://beta.charitycommission.gov.uk/charity-details/?regid=1083080&subid=0>
 
 ## Summary of [Shocking Evidence of Charity Fraud in the Muslim Community.](https://www.youtube.com/watch?v=gme5G_PVt2I)
-
 
 *
 
@@ -34,10 +33,11 @@ https://beta.charitycommission.gov.uk/charity-details/?regid=1083080&subid=0
  discusses how some members of the Muslim community are using religion to get a economically. suggests that the Reading Islamic Information Center has been using the charity registration number of GG Bells to claim tax relief, which is an allegation of council tax fraud.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  an investigator speaks about charity fraud in the Muslim community. They allege that a group of people took money from government counter-terrorism funds with the intention of radicalizing Muslims. The witness provides evidence of the money's misuse.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** of the video presents evidence that Muslim charity organizations are often fraudulent, with funds being misused or stolen. also suggests that the Council on American-Islamic Relations (CAIR) may have been complicit in these frauds.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  provides evidence of charity fraud in the Muslim community, with allegations that money was misused to fund personal expenses. After the evidence was presented, the community leaders contacted the police, and an investigation was launched.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses how some members of the Muslim community are using religion to get a economically. suggests that the Reading Islamic Information Center has been using the charity registration number of GG Bells to claim tax relief, which is an allegation of council tax fraud.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses a recent scandal in which a charity group claimed to be radicalizing Muslims, but was later found to be scamming people and double-dealing. The interviewee suggests that there is a flaw in the way Muslims are prevented from radicalizing, and argues that the scandal has opened up many windows of inquiry into how Muslims are treated in the UK.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses how some members of the Muslim community are using religion to get a economically. suggests that the Reading Islamic Information Center has been using the charity registration number of GG Bells to claim tax relief, which is an allegation of council tax fraud.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses a recent scandal in which a charity group claimed to be radicalizing Muslims, but was later found to be scamming people and double-dealing. The interviewee suggests that there is a flaw in the way Muslims are prevented from radicalizing, and argues that the scandal has opened up many windows of inquiry into how Muslims are treated in the UK.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>**  shows shocking evidence of charity fraud in the Muslim community. Some organizations claim to be helping to promote Islam, but are actually misusing donations to fund their own interests. Meanwhile, the government is giving money to these same organizations without knowing what they're doing. This is a problem because it's contributing to the radicalization of Muslim people.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

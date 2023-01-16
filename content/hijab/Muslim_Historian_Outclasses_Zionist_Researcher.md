@@ -4,14 +4,13 @@
 
 ## Description
 
-This video is an excellent demonstration of the extent to which the orientalist narrative of particular Muslim kinds of anti-semitism falls flat on its face when scrutinised on an academic level. 
+This video is an excellent demonstration of the extent to which the orientalist narrative of particular Muslim kinds of anti-semitism falls flat on its face when scrutinised on an academic level.
 
 An excellently well evidenced case put by Adnan Rashid, Senior Lecturer at the Hittin Institute.
 
-Full debate on SCDawah Channel - ***Must Watch*** https://youtu.be/DyxzVqNIQ8g
+Full debate on SCDawah Channel - ***Must Watch*** <https://youtu.be/DyxzVqNIQ8g>
 
 ## Summary of [Muslim Historian Outclasses Zionist Researcher](https://www.youtube.com/watch?v=0fvzO7-JTUg)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -19,7 +18,8 @@ Full debate on SCDawah Channel - ***Must Watch*** https://youtu.be/DyxzVqNIQ8g
 
  discusses the claims of a Muslim historian who, according to the narrator, outperforms a Zionist researcher in terms of scholarship. The Muslim historian's testimony was true in both court cases and in his overall career, while the Zionist researcher achieved prominence in Islamic society but was honest about the persecution of Jews. The narrator points to examples of persecution that the Muslim historian has experienced, which are supported by the letter of Maimonides. If the letter is authentic, it would suggest that Maimonides was truthful about his experiences of persecution.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the claims of a Muslim historian who, according to the narrator, outperforms a Zionist researcher in terms of scholarship. The Muslim historian's testimony was true in both court cases and in his overall career, while the Zionist researcher achieved prominence in Islamic society but was honest about the persecution of Jews. The narrator points to examples of persecution that the Muslim historian has experienced, which are supported by the letter of Maimonides. If the letter is authentic, it would suggest that Maimonides was truthful about his experiences of persecution.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the claims of a Muslim historian who, according to the narrator, outperforms a Zionist researcher in terms of scholarship. The Muslim historian's testimony was true in both court cases and in his overall career, while the Zionist researcher achieved prominence in Islamic society but was honest about the persecution of Jews. The narrator points to examples of persecution that the Muslim historian has experienced, which are supported by the letter of Maimonides. If the letter is authentic, it would suggest that Maimonides was truthful about his experiences of persecution.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** shows how various jewish testimonies show that the Muslims were generally hospitable and generous to the Jews during their time, and that the Jews flourished in different ways under Muslim rule.  also cites a 1994 book by a jewish scholar who studies cases filed in the Islamic Sharia court in Jerusalem.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Bernard Lewis, a renowned Muslim historian, outclasses Zionist researcher in discussing the history of relations between Jews and Muslims. Lewis points out that for over a thousand years, Jews survived extinction thanks to protection from Muslims, and that 90% of the Jewish population survived destruction under Islamic rule. He also argues that there are extremist Jews who abuse sources in order to libel Muslims.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** <>

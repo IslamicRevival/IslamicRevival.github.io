@@ -4,22 +4,21 @@
 
 ## Description
 
-I've uploaded a few videos exposing Joe Rogan's bias when it comes to discussing Islam. Here I was pleased to see, what seems like, the beginnings of change, what do you think? 
+I've uploaded a few videos exposing Joe Rogan's bias when it comes to discussing Islam. Here I was pleased to see, what seems like, the beginnings of change, what do you think?
 
-⪢Visit https://www.naturesblends.com/ and use hijab10 for a 10% discount. 
-⪢Download and purchase the quranly app for iOS: https://apple.co/3wIyhsg
-For Android: https://bit.ly/3mwFHdx
+⪢Visit <https://www.naturesblends.com/> and use hijab10 for a 10% discount.
+⪢Download and purchase the quranly app for iOS: <https://apple.co/3wIyhsg>
+For Android: <https://bit.ly/3mwFHdx>
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
-My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
+My book: <https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/>
 
-#joerogan #muslim #podcast
+# joerogan #muslim #podcast
 
 ## Summary of [Has Joe Rogan Changed His Mind on Islam ?](https://www.youtube.com/watch?v=WWnaQR9OHeI)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -28,6 +27,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
  Joe Rogan discusses how he has changed his mind about Islam and believes that it can have positive effects on Muslims. He argues that the purpose of life is to worship God, and that this is the most straightforward way to achieve happiness. Rogan also warns people against chasing illusions and advises them to focus on meeting God's purpose.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Joe Rogan has changed his mind about Islam, and believes it has positive effects on Muslims.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Joe Rogan has expressed his belief that the purpose of life is to worship God. He argues that this is the most straightforward and simple thing to do, and that it is what will lead to happiness. Rogan also warns that people are spending their lives chasing an illusion, and that they should instead focus on meeting God's purpose.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  a person refers to a project they are doing called "Quran the Abstracts," which aims to show how much time is spent reading and studying the verses of the Quran. The project is for the real enthusiasts, and if there is enough support, it could become the future of Quran apps.
 

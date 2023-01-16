@@ -6,7 +6,6 @@ A short discussion on  Tommy Robinson's fascism and points made about the new po
 
 ## Summary of [Muslim Addresses Tommy Robinson Supporters in Speakers Corner](https://www.youtube.com/watch?v=a7QuWz5_D1g)
 
-
 *
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
@@ -16,6 +15,7 @@ A short discussion on  Tommy Robinson's fascism and points made about the new po
  a Muslim speaker addresses Tommy Robinson supporters in Speakers Corner, agreeing that there is a Muslim problem in the UK. They ask Robinson to please be tolerant and understanding of other groups' rights, and to not discriminate against Muslims.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** In this speech, a Muslim addresses Tommy Robinson supporters, agreeing that there is a Muslim problem in the UK. They ask Robinson to please be tolerant and understanding of other groups' rights, and to not discriminate against Muslims.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** In this speech, a Muslim addresses Tommy Robinson supporters in Speakers Corner, stating that they have grievances, and that they are here to educate those concerns. He points out that Tommy Robinson has said that this place has become like a mosque, and that muslims are expressing themselves in the context of speaker's court negatively. He argues that this is the moment neo-fascists see people of a minority complexion as a threat, and start labeling them as protected groups.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** , a Muslim speaker addresses Tommy Robinson supporters in Speakers Corner, noting that Tommy Robinson says that the Rohingya Muslims, who are being persecuted in Burma, are actually terrorists. also points out that Tommy Robinson's views are similar to those of neo-fascists, who use motifs of war and combat to discriminate against minority groups. concludes by saying that, if Tommy Robinson is not a white man, he should not want to assimilate with society, as there is no compulsion in Islam to do so.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** explains that the Quran does not require anyone to convert to Islam, and that there is no compulsion in religion. If Muslims follow this message, they can create a harmonious society with non-Muslims.

@@ -8,14 +8,14 @@ This is a critical assessment on a worrying narrative with attempts to manipulat
 
 ## Summary of [Message to Muslim Westerners on LGBT || California](https://www.youtube.com/watch?v=J7g1DCg_ukI)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 in this video is a Muslim addressing other Muslims living in the West. He argues that Muslims should be more accepting of LGBT people, even though Islam teaches that homosexuality is a sin. He believes that everyone should be welcome in the community, regardless of their sexual orientation.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the challenges faced by Muslims in the West when it comes to homosexuality and lgbt rights. He feels that the liberal approach of just doing it, without prioritizing one expression over another, is not logical or fair. He argues that, on an intersectional analysis, what a person believes should be given more weight than what they feel. He makes the case that, in order to protect the community, it is important for Muslims to live with this consciousness.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the challenges faced by Muslims in the West when it comes to homosexuality and lgbt rights. He feels that the liberal approach of just doing it, without prioritizing one expression over another, is not logical or fair. He argues that, on an intersectional analysis, what a person believes should be given more weight than what they feel. He makes the case that, in order to protect the community, it is important for Muslims to live with this consciousness.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** in this video states that because some babies are born with defects, the same logic should apply to LGBT rights. also argues that just because a sexual expression is immoral according to Islam, does not mean that homosexuals should be excluded from the community. also says that just because someone is homosexual, does not mean they are immoral or irreligious. ends the video by saying that although homosexuals may face discrimination in the community, they should be welcomed and respected nonetheless.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** in this video is speaking to Westerners who are LGBT, warning them that they believe homosexuality is a sin and that they will never back down from their position. also encourages Westerners not to let Muslims back down from their beliefs on this issue.
 

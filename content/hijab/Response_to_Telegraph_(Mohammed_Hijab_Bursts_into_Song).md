@@ -4,14 +4,13 @@
 
 ## Description
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
-My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
+My book: <https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/>
 
 ## Summary of [Response to Telegraph (Mohammed Hijab Bursts into Song)](https://www.youtube.com/watch?v=ffi2vmGVz8o)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -20,6 +19,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
  "Response to Telegraph (Mohammed Hijab Bursts into Song)" is a response to an article published in the Telegraph about Mohammed Hijab, a Muslim teenager who burst into song.  criticizes the Telegraph for its poor journalism and for including a section about the teenager's father without properly sourcing it.  also criticizes Catherine Lau, the author of the Telegraph article, for not doing her own research.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The journalist Patrick Sawyer produced a libelous article about Mohammed Hijab, alleging that he has never attended anti-Jewish protests and is instead a supporter of pro-Palestine causes. Hijab responds by suing Sawyer for defamation, and the video ends with a preview of his upcoming court case.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** is a response to an article published in the Telegraph about a Muslim teenager who burst into song. The teenager's father is interviewed and it is revealed that the father does not approve of his son's singing.  criticizes the Telegraph for its poor journalism and for including a section about the teenager's father without properly sourcing it.  also criticizes Catherine Lau, the author of the Telegraph article, for not doing her own research.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** thanks the crowd for their support, and tells them that they are now the "resistance." He goes on to say that because of this, he is worried about Italy, but that the Muslim people are creating a positive image for themselves. Finally, the speaker tells the crowd that they should enjoy themselves and put their worries aside.
 

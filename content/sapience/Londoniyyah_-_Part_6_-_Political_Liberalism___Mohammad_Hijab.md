@@ -6,8 +6,9 @@
 
 Londoniyyah - Part 6 - Political Liberalism | Mohammad Hijab
 
-To be updated about our content please subscribe and open the notifications.
+To be updated about our content please subscribe and open the notifications
 ----
+
 BOOK A LIGHTHOUSE MENTOR
 
 Are you or someone you know doubting Islam? Do you find yourself struggling to find answers?  Do you have a hard time speaking to someone about Islam?  Are you considering Islam but are unsure about certain concepts?  Are you an activist, Imam or community leader who is unsure about how to handle questions related to science, philosophy, the Islamic moral code, etc.?
@@ -16,12 +17,11 @@ You are not alone.  Over the course of the last decade or more there has been a 
 
 Seeing the rise of  this phenomenon , Sapience Institute is introducing a One to One mentoring service called LIGHTHOUSE.
 
-BOOK A MENTOR HERE: https://sapienceinstitute.org/lighthouse/
+BOOK A MENTOR HERE: <https://sapienceinstitute.org/lighthouse/>
 
-VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: https://sapienceinstitute.org/
+VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: <https://sapienceinstitute.org/>
 
 ## Summary of [Londoniyyah - Part 6 - Political Liberalism | Mohammad Hijab](https://www.youtube.com/watch?v=TT5DwVgfcJk)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -30,10 +30,11 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
  Mohammad Hijab discusses the principles of liberalism, including the social contract, the idea that humans are born equal, and the importance of religious language in liberalism. He also addresses the criticism that individualism within liberalism can lead to a culture of freeloading.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Today's lesson is focused on liberalism, specifically the political strand of the ideology. Mohammad Hijab discusses the principles that underpin the liberal framework, including the energy principle and the hedonistic principle. He also covers the social contract, the idea that humans are born equal, and the importance of religious language in liberalism. John Locke is often cited as the founder of liberalism, and Mohammad Hijab discusses his arguments in favor of the ideology.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the history and development of liberalism, focusing on John Locke, John Stuart Mill, and Emmanuel Kant. It explains that liberalism as a political philosophy is based on the idea of human rights and the idea of "world peace through liberalism."
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the history and development of liberalism, focusing on John Locke, John Stuart Mill, and Emmanuel Kant. It explains that liberalism as a political philosophy is based on the idea of human rights and the idea of "world peace through liberalism."
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Mohammad Hijab discusses the concept of human rights and why they are significant. He also addresses the criticism that individualism within liberalism can lead to a culture of freeloading. He recommends the lecture series "Theories of Justice" by Michael Sandell as a high-quality resource for increasing one's knowledge on the topic.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the continuities and discontinuities of human rights in relation to the 30 articles of the Universal Declaration of Human Rights. It points out that one of the rights is the right to democracy, and that this right is often at odds with the other 29 articles.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the tension between human rights and democracy, and how liberals must endure contradictions in order to protect individual rights.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the continuities and discontinuities of human rights in relation to the 30 articles of the Universal Declaration of Human Rights. It points out that one of the rights is the right to democracy, and that this right is often at odds with the other 29 articles.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the tension between human rights and democracy, and how liberals must endure contradictions in order to protect individual rights.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Thomas Hobbes argues in Leviathan that the state of nature is a state of war where everyone is attacking each other. To stop the chaos, government is needed to establish order.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>**  Mohammad Hijab discusses liberalism and its principles of free-will and individualism. He points out that liberalism is based on a myth - that of everyone fighting each other - and that in the real world, a 'big strong man' is needed to stop the war. He goes on to say that, in truth, the social contract does not actually happen in the real world, and that children are given passports at birth in order to enforce laws and obey them.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>**  Mohammad Hijab discusses the difficulties of justifying liberalism through the social contract. He points out that, on the one hand, liberalism requires that people give up some of their freedom in order to gain protection; but, on the other hand, people also benefit from the state in other ways. He goes on to say that, even though different liberals define the state of nature differently, they all come to the same conclusion that someone needs to take control of society in order to protect everyone's freedom.

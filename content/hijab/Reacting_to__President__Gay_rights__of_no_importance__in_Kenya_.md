@@ -4,16 +4,15 @@
 
 ## Description
 
-Download the onepath App: https://onepath.onelink.me/mJxr/60677ede​ 
+Download the onepath App: <https://onepath.onelink.me/mJxr/60677ede​>
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
-My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
+My book: <https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/>
 
 ## Summary of [Reacting to 'President: Gay rights 'of no importance' in Kenya'](https://www.youtube.com/watch?v=wp4REjWl7yk)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -22,8 +21,9 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 discusses how the Kenyan president's statements about gay rights being "of no importance" are offensive and discriminatory against a minority group.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** One path network's "President: Gay rights 'of no importance' in Kenya" video looks at the clash of values between African nations and the Western concepts of human rights. Kenya's President Kenyatta says that while he opposes homosexuality, it is not an issue of importance to the people of Kenya.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses how western imperial ideology clashes with African nations and how African leaders must recognize that their freedoms are also important in the context of their society. He also argues that homosexualism should be given more importance than the rights of children to eat and drink. concludes by saying that homo nationalism is a facet of modernity and that prioritizing one group over another is called homo nationalism.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses how the Kenyan president's statements about gay rights being "of no importance" are offensive and shows how they're an example of discrimination against a minority group.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses how western imperial ideology clashes with African nations and how African leaders must recognize that their freedoms are also important in the context of their society. He also argues that homosexualism should be given more importance than the rights of children to eat and drink. concludes by saying that homo nationalism is a facet of modernity and that prioritizing one group over another is called homo nationalism.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses how the Kenyan president's statements about gay rights being "of no importance" are offensive and shows how they're an example of discrimination against a minority group.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

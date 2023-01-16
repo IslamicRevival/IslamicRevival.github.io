@@ -4,11 +4,10 @@
 
 ## Description
 
-Original video: https://www.youtube.com/watch?v=mXYMLut8WCI&t=0s
-The Qur'an: A Historical-Critical Introduction (New Edinburgh Islamic Surveys) by Professor Nicolai Sinai https://www.amazon.co.uk/Quran-Historical-Critical-Introduction-Edinburgh-Islamic/dp/0748695761/ref=sr_1_1?dchild=1&keywords=nicolai+sinai+quran&qid=1630255676&sr=8-1
+Original video: <https://www.youtube.com/watch?v=mXYMLut8WCI&t=0s>
+The Qur'an: A Historical-Critical Introduction (New Edinburgh Islamic Surveys) by Professor Nicolai Sinai <https://www.amazon.co.uk/Quran-Historical-Critical-Introduction-Edinburgh-Islamic/dp/0748695761/ref=sr_1_1?dchild=1&keywords=nicolai+sinai+quran&qid=1630255676&sr=8-1>
 
 ## Summary of [What are Western scholars of the Qur'an doing?](https://www.youtube.com/watch?v=9JSVA39PkS0)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -17,6 +16,7 @@ The Qur'an: A Historical-Critical Introduction (New Edinburgh Islamic Surveys) b
 Western scholars of the Qur'an have differing approaches to studying the text, but are united in their goals of furthering understanding of the Qur'an. Traditionalists see every verse as having a precise location in Muhammad's life, while revisionists question the connection between the Islamic version of events and the Qur'an. Neo-traditionalists accept the traditional narrative while still acknowledging some later influence. These scholars are working together on various projects to collect and study quranic manuscripts.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** This video introduces Western scholars of the Qur'an, and discusses their three main approaches to the Qur'an: the traditionalist, revisionist, and neo-traditionalist. The traditionalist approach sees every verse of the Qur'an having a precise location in the life of Prophet Muhammad, while the revisionist school finds little or no connection between the traditional Islamic version of the history of the events and the Qur'an. The third school, neo-traditionalism, sees value in the traditional Islamic narrative, but questions one or two aspects. Dr. Holger Zellington of Cambridge University, a neo-traditionalist scholar, shares his thoughts on the three schools of thought. Finally, Usman Sheikh, a friend of the presenter's, discusses theology on September 8th.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** This video introduces the breadth of Quranic studies, with a focus on the three main schools of thought: traditionalism, revisionism, and neo-traditionalism. Dr. Holger Zellentine explains that, while all three schools accept the traditional narrative of the Quran as being partially given to Muhammad by God, revisionism goes too far and tries to discard all Muslim evidence, while neo-traditionalism moves closer to the traditional narrative while still accepting some later influence on the Quran.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** This video discusses the various approaches to studying the Qur'an among Western scholars, and shows how collaborative projects are being undertaken to further research. It mentions the Corpus Chronicom project in Berlin, which is focused on collecting and studying quranic manuscripts. Another project, the Quran seminar run by Professor Gabriel Said Reynolds at the University of Notre Dame, is located in the middle ground between neotraditionalists and revisionists. The last school discussed is the Inara group at the University of Zürich, which focuses on Enlightenment views of the Qur'an. All of these scholars are working together to further understand the Qur'an.
 

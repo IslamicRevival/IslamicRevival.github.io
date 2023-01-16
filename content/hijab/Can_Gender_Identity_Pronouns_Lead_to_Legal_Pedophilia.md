@@ -8,16 +8,16 @@ This video attempts to question the implications of allowing people to identify 
 
 ## Summary of [Can Gender Identity Pronouns Lead to Legal Pedophilia?](https://www.youtube.com/watch?v=3fDe6Q972EI)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  discusses the possible implications of gender identity pronouns. It argues that, because gender is a social construct, people have the right to self-identify in any way they choose. If the state dictates that a person must identify with a certain gender, that person would have to be consistent in their self-identification or else their self-identification would be invalid. This could lead to people being deluded about their age or identity.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the possible implications of gender identity pronouns. It argues that, because gender is a social construct, people have the right to self-identify in any way they choose. If the state dictates that a person must identify with a certain gender, that person would have to be consistent in their self-identification or else their self-identification would be invalid. This could lead to people being deluded about their age or identity.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the possible implications of gender identity pronouns. It argues that, because gender is a social construct, people have the right to self-identify in any way they choose. If the state dictates that a person must identify with a certain gender, that person would have to be consistent in their self-identification or else their self-identification would be invalid. This could lead to people being deluded about their age or identity.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** argues that gender identity pronouns, like "he" and "she," are social constructions and that there is no one correct way to identify. He also argues that third wave feminism is an extension of third wave feminism's argument that sex is a social construction. He believes that the reason the BBC does not want to hear this perspective is because it would challenge their liberal credentials.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses how certain men were excluded from voting in the 19th century, but points out that this is a whole discussion that is beyond the scope of this video. He also discusses how black people in America didn't have voting rights until the 1950s, and how democracy and liberalism are implemented in a flawed way. He then goes on to say that he needs to go and walk around, and that someone else can join him in a video.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses how certain men were excluded from voting in the 19th century, but points out that this is a whole discussion that is beyond the scope of this video. He also discusses how black people in America didn't have voting rights until the 1950s, and how democracy and liberalism are implemented in a flawed way. He then goes on to say that he needs to go and walk around, and that someone else can join him in a video.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

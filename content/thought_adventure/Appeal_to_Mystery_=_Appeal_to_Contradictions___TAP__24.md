@@ -5,17 +5,17 @@
 ## Description
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -23,38 +23,37 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
 ## Summary of [Appeal to Mystery = Appeal to Contradictions? | TAP #24](https://www.youtube.com/watch?v=oRRXsocNbqk)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -63,47 +62,52 @@ Gmail: hello.tapodcast@gmail.com
 discusses how appealing to mystery is not the same as appealing to contradictions. It argues that, when it comes to something that is at the core of a theory or belief, it is important to make sure that the appeal to mystery is justified.  also discusses how Christians and Muslims have contradictory views on aspects of God's nature, and how this can be problematic if one is not clear about what the A and not a contradiction is.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** , TAP presenter Hamza Den discusses the difference between appealing to mystery and trying to under the necessity or the need to explain a logical contradiction. They discuss how some people see apparent logical contradictions and jump to appealing to a mystery, while other times when people appeal to mystery it is assumed that they are appealing to something that is a contradiction when it is not. The first question is asked, and Jake responds that a logical contradiction is when two statements are in conflict with one another.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** A logical contradiction is a statement that has two opposite meanings that cannot both be true simultaneously. It is an error in reasoning, and can be difficult to understand.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The person discussing logical fallacies says that there is not necessarily a contradiction between contradictions, but that if a person is claiming that their belief system is a contradiction, they are now obliged to show it.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the difference between appealing to mystery and appealing to contradictions, and how it can be problematic if the latter is used excessively. He goes on to say that, when it comes to something that is at the core of a theory or belief, it is important to make sure that the appeal to mystery is justified.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** argues that there is nothing contradictory about God, and that the appeal to mystery is just a fact of the matter for every theist. He goes on to say that if a belief relies on an unintelligible proposition, it will be difficult to assess it rationally.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses the issue of whether or not Muslims and Christians both have an appeal to mystery, with the Christian claiming that the Muslim has the same cost to fully comprehending God as a Christian does.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses how cost is a factor in whether or not a Muslim conception of God is problematic. They argue that, for the sake of simplifying the response, any appeal to mystery is a cost. They go on to say that, on the Christian side, there are different formulations of what God looks like, while on the Muslim side, there is only one. In terms of overall cost, the speaker does not see a difference.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** A Muslim may claim that there is a contradiction in the Trinity, arguing that since each member of the Trinity is fully God, they are not each other. To demonstrate this, the Christian must provide an explanation for how each member of the Trinity is fully God and not each other.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses how the concept of the Quran being the speech of Allah is contradictory, and that Christians do not have anything to support their claim. Sharif concludes that if Christians want to engage in a discussion about the contradictions, they need to be clear about what the A and not a contradiction is.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** talks about how Christians and Muslims have contradictory views on aspects of God's nature. They argue that if one cannot understand an attribute of God, they cannot talk about it meaningfully. then argues that if one is trying to make a comparison between God's attributes and creation, then that similarity would be a contradiction.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses how Christians often use adjectives to describe Allah, such as "mercy," "wrath," and "wisdom." However, this does not mean that these adjectives are applicable to Allah in the same way that they are applicable to creation. goes on to say that even beyond the differences that we know of, there are certain things about Allah's attributes that we do not know of. Nevertheless, using language that we are familiar with and that is given to us in the Quran and Sunnah is okay as long as we understand the correct parameters.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the concept of logical contradictions, and how they are not things that God can or cannot do. It then goes on to ask a final question related to logical contradictions.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** A logical contradiction is a statement that has two opposite meanings that cannot both be true simultaneously. It is an error in reasoning, and can be difficult to understand.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The person discussing logical fallacies says that there is not necessarily a contradiction between contradictions, but that if a person is claiming that their belief system is a contradiction, they are now obliged to show it.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the difference between appealing to mystery and appealing to contradictions, and how it can be problematic if the latter is used excessively. He goes on to say that, when it comes to something that is at the core of a theory or belief, it is important to make sure that the appeal to mystery is justified.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** argues that there is nothing contradictory about God, and that the appeal to mystery is just a fact of the matter for every theist. He goes on to say that if a belief relies on an unintelligible proposition, it will be difficult to assess it rationally.
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses the issue of whether or not Muslims and Christians both have an appeal to mystery, with the Christian claiming that the Muslim has the same cost to fully comprehending God as a Christian does.
+- **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses how cost is a factor in whether or not a Muslim conception of God is problematic. They argue that, for the sake of simplifying the response, any appeal to mystery is a cost. They go on to say that, on the Christian side, there are different formulations of what God looks like, while on the Muslim side, there is only one. In terms of overall cost, the speaker does not see a difference.
+- **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** A Muslim may claim that there is a contradiction in the Trinity, arguing that since each member of the Trinity is fully God, they are not each other. To demonstrate this, the Christian must provide an explanation for how each member of the Trinity is fully God and not each other.
+- **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses how the concept of the Quran being the speech of Allah is contradictory, and that Christians do not have anything to support their claim. Sharif concludes that if Christians want to engage in a discussion about the contradictions, they need to be clear about what the A and not a contradiction is.
+- **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** talks about how Christians and Muslims have contradictory views on aspects of God's nature. They argue that if one cannot understand an attribute of God, they cannot talk about it meaningfully. then argues that if one is trying to make a comparison between God's attributes and creation, then that similarity would be a contradiction.
+- **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Discusses how Christians often use adjectives to describe Allah, such as "mercy," "wrath," and "wisdom." However, this does not mean that these adjectives are applicable to Allah in the same way that they are applicable to creation. goes on to say that even beyond the differences that we know of, there are certain things about Allah's attributes that we do not know of. Nevertheless, using language that we are familiar with and that is given to us in the Quran and Sunnah is okay as long as we understand the correct parameters.
+- **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Discusses the concept of logical contradictions, and how they are not things that God can or cannot do. It then goes on to ask a final question related to logical contradictions.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
 the speaker discusses how people can be contradictory in their beliefs, and points to Muhammad Hanif's comments in the comments section of the video as an example. He argues that the apparent meaning of a word cannot be determined if it is not what is observed. Hanif then points out that if a word does not indicate the apparent meaning, then it must be metaphor. He concludes by saying that if a word does not indicate the apparent meaning, then it must be a physical organ.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** talks about how, when one affirms the existence of Allah, it does not entail the same thing as being human. There can be multiple meanings to the word 'Allah,' and it would be a contradiction to say one meaning is true and another meaning is false.
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>**  explores the idea that there may be an internal contradiction within Islam when Muslims try to criticize other beliefs while also upholding aspects of their own beliefs which, according to their theory of language, implicate a literal interpretation of the word "okay."
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>* Discusses how the literal and metaphorical meanings of certain words in the Quran can result in a logical contradiction. He also provides an example of a word that can be interpreted both literally and metaphorically.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** points out that if someone disagrees with an affirmation of an attribute, they should take all of that into consideration when critiquing the position. They should read the theory of language being applied to the theory of ontology, try to explain the problem, and then read all attempted solutions.
-* **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** The theologian discusses how people can be contradictory in their beliefs, and points to Muhammad Hanif's comments in the comments section of the video as an example. He argues that the apparent meaning of a word cannot be determined if it is not what is observed. Hanif then points out that if a word does not indicate the apparent meaning, then it must be metaphor. He concludes by saying that if a word does not indicate the apparent meaning, then it must be a physical organ.
-* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** The presenter discusses how some notions of similarity but it's not literal, and then they agreed they came to an agreement. The presenter then tells the audience about a dispute between honey Fizz and themselves. The dispute is about to call the literal meaning and what not to call a literal meaning. The presenter asks the audience if they can do a discussion with atheists who just affirm true contradictions exist. Layman, the biggest fan of the presenter, enters and asks about the coffee. The presenter tells him that it's more rhetorical point. Layman asks if the Christian position on the Incarnation, Trinity, and contradictions arise from what is not known. The presenter responds that the contradiction arises from what they affirm. He then asks the audience if they can do a discussion with atheists who just affirm two contradictory things.
-* **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>* Discusses Imam Attabadi's view that there is a difference between an appeal to mystery and a contradiction. Imam Attabadi states that an appeal to mystery is an affirmation of something without knowing the meaning, while a contradiction is an appeal to something that is known to be false. He goes on to say that there is a distinction between an appeal to mystery in the sense that there is something that you don't know the meaning of and a contradiction that you're appealing to mystery for the sake of getting out of a logical problem.
-* **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** tries to explain to his audience that there is no contradiction in affirming that Allah has a hand and that it is not physical at the same time.
-* **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** Brother Hanif discusses how different metaphors can have a level of similarity, but not be a true analogy. He cites the example of angels having wings, which is analogous in a way, but not necessarily in a way that is observable.
-* **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>**  Muhammad discusses the analogy between angels and creatures in our physical reality, and argues that angels cannot be physical because they are not in the universe. He then asks the viewer to defend his position.
-* **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** Abdulrahman argues that even though angels have wings, they are still physical beings in a similar way to things within the universe.
-* **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Jake claims that there is similarity between the properties of Allah's knowledge and Mercy, despite the lack of a physical connection between the two. He suggests that this similarity is due to their abstract nature.
+
+- **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>**  explores the idea that there may be an internal contradiction within Islam when Muslims try to criticize other beliefs while also upholding aspects of their own beliefs which, according to their theory of language, implicate a literal interpretation of the word "okay."
+- **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Discusses how the literal and metaphorical meanings of certain words in the Quran can result in a logical contradiction. He also provides an example of a word that can be interpreted both literally and metaphorically.
+- **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** points out that if someone disagrees with an affirmation of an attribute, they should take all of that into consideration when critiquing the position. They should read the theory of language being applied to the theory of ontology, try to explain the problem, and then read all attempted solutions.
+- **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** The theologian discusses how people can be contradictory in their beliefs, and points to Muhammad Hanif's comments in the comments section of the video as an example. He argues that the apparent meaning of a word cannot be determined if it is not what is observed. Hanif then points out that if a word does not indicate the apparent meaning, then it must be metaphor. He concludes by saying that if a word does not indicate the apparent meaning, then it must be a physical organ.
+- **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** The presenter discusses how some notions of similarity but it's not literal, and then they agreed they came to an agreement. The presenter then tells the audience about a dispute between honey Fizz and themselves. The dispute is about to call the literal meaning and what not to call a literal meaning. The presenter asks the audience if they can do a discussion with atheists who just affirm true contradictions exist. Layman, the biggest fan of the presenter, enters and asks about the coffee. The presenter tells him that it's more rhetorical point. Layman asks if the Christian position on the Incarnation, Trinity, and contradictions arise from what is not known. The presenter responds that the contradiction arises from what they affirm. He then asks the audience if they can do a discussion with atheists who just affirm two contradictory things.
+- **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** Discusses Imam Attabadi's view that there is a difference between an appeal to mystery and a contradiction. Imam Attabadi states that an appeal to mystery is an affirmation of something without knowing the meaning, while a contradiction is an appeal to something that is known to be false. He goes on to say that there is a distinction between an appeal to mystery in the sense that there is something that you don't know the meaning of and a contradiction that you're appealing to mystery for the sake of getting out of a logical problem.
+- **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** tries to explain to his audience that there is no contradiction in affirming that Allah has a hand and that it is not physical at the same time.
+- **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** Brother Hanif discusses how different metaphors can have a level of similarity, but not be a true analogy. He cites the example of angels having wings, which is analogous in a way, but not necessarily in a way that is observable.
+- **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>**  Muhammad discusses the analogy between angels and creatures in our physical reality, and argues that angels cannot be physical because they are not in the universe. He then asks the viewer to defend his position.
+- **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** Abdulrahman argues that even though angels have wings, they are still physical beings in a similar way to things within the universe.
+- **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Jake claims that there is similarity between the properties of Allah's knowledge and Mercy, despite the lack of a physical connection between the two. He suggests that this similarity is due to their abstract nature.
+
 ### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:45:00</a>
 
  Terry asks his opponent why he would use his arguments if he has his own, more delicious ones. His opponent responds that he has his own arguments for God, but Terry does not seem to be comfortable defending them. Terry argues that numbers don't apply to eternity and his opponent disagrees. discusses how it is important to understand logical contradictions in order to properly evaluate beliefs and arguments. He goes on to explain that when someone appeals to mystery, they have to demonstrate that the contradiction is not a logical one.
 
 **<a onclick="modifyYTiframeseektime('7200')">02:00:00</a>** argues that there is a similarity between Allah's mercy and creation, but that there is a huge difference between Allah's Mercy and creation. He then goes on to say that there is a line to be drawn between what is said about Allah and what is said about creation, and that it is up to the individual to decide where that line is.
-* **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>* Discusses how different interpretations of Allah's actions can result in an appeal to mystery. He points out that while some interpretations may seem contradictory, they are actually based on Arabic language and context at the time of the Qur'an's revelation.
-* **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>* Discusses how certain metaphysical principles can influence how someone interprets the Quran. He points out that this is not always a rational process, as people may twist interpretations to fit their beliefs rather than looking at the apparent meaning of the text. He also mentions that one of Muhammad Isham's goals is to recite the third surah from the seventh ayah.
-* **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>** Allah is all that there is, so discussions of Islam's teachings on free will and determinism are not necessary. Muslims take the general meaning of verses and ignore the deeper philosophical meanings in order to focus on their main goal of achieving salvation. Another question raised was about how people can appeal to mystery regarding free will and determinism.
-* **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>** Brother Ed makes a point about the difficulty of demonstrating that something is a logical contradiction, and discusses how this might play out in a discussion about free will. He suggests that a compatibilist would argue that the "will" is just an illusion, and a libertarian would argue that there is no free will at all.
-* **<a onclick="modifyYTiframeseektime('8700')">02:25:00</a>** The lpt only works if one follows the Orthodox position on the Trinity, which Jake does not agree with. The lpt cannot logically be applied to the Trinity because it does not apply to all three of the Persons of the Trinity equally.
-* **<a onclick="modifyYTiframeseektime('9000')">02:30:00</a>** The creator argues that there is only one God in eternity, regardless of how humans describe Him using human language. He does not believe that numbers or mathematics apply to the Eternal reality.
-* **<a onclick="modifyYTiframeseektime('9300')">02:35:00</a>** argues that using human standards to measure the existence of God is irrelevant and that it would be better to use the same consistency with the speaker in order to say that God himself does not believe in one God in eternity past. provides an example of someone saying that God has two right hands and argues that this is not the same thing as saying that God himself has hands.
-* **<a onclick="modifyYTiframeseektime('9600')">02:40:00</a>** , Terry asks his opponent why he would use his arguments if he has his own, more delicious ones. His opponent responds that he has his own arguments for God, but Terry does not seem to be comfortable defending them. Terry argues that numbers don't apply to eternity and his opponent disagrees.
-* **<a onclick="modifyYTiframeseektime('9900')">02:45:00</a>* Discusses how it is important to understand logical contradictions in order to properly evaluate beliefs and arguments. He goes on to explain that when someone appeals to mystery, they have to demonstrate that the contradiction is not a logical one.
+
+- **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>** Discusses how different interpretations of Allah's actions can result in an appeal to mystery. He points out that while some interpretations may seem contradictory, they are actually based on Arabic language and context at the time of the Qur'an's revelation.
+- **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>** Discusses how certain metaphysical principles can influence how someone interprets the Quran. He points out that this is not always a rational process, as people may twist interpretations to fit their beliefs rather than looking at the apparent meaning of the text. He also mentions that one of Muhammad Isham's goals is to recite the third surah from the seventh ayah.
+- **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>** Allah is all that there is, so discussions of Islam's teachings on free will and determinism are not necessary. Muslims take the general meaning of verses and ignore the deeper philosophical meanings in order to focus on their main goal of achieving salvation. Another question raised was about how people can appeal to mystery regarding free will and determinism.
+- **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>** Brother Ed makes a point about the difficulty of demonstrating that something is a logical contradiction, and discusses how this might play out in a discussion about free will. He suggests that a compatibilist would argue that the "will" is just an illusion, and a libertarian would argue that there is no free will at all.
+- **<a onclick="modifyYTiframeseektime('8700')">02:25:00</a>** The lpt only works if one follows the Orthodox position on the Trinity, which Jake does not agree with. The lpt cannot logically be applied to the Trinity because it does not apply to all three of the Persons of the Trinity equally.
+- **<a onclick="modifyYTiframeseektime('9000')">02:30:00</a>** The creator argues that there is only one God in eternity, regardless of how humans describe Him using human language. He does not believe that numbers or mathematics apply to the Eternal reality.
+- **<a onclick="modifyYTiframeseektime('9300')">02:35:00</a>** argues that using human standards to measure the existence of God is irrelevant and that it would be better to use the same consistency with the speaker in order to say that God himself does not believe in one God in eternity past. provides an example of someone saying that God has two right hands and argues that this is not the same thing as saying that God himself has hands.
+- **<a onclick="modifyYTiframeseektime('9600')">02:40:00</a>** , Terry asks his opponent why he would use his arguments if he has his own, more delicious ones. His opponent responds that he has his own arguments for God, but Terry does not seem to be comfortable defending them. Terry argues that numbers don't apply to eternity and his opponent disagrees.
+- **<a onclick="modifyYTiframeseektime('9900')">02:45:00</a>** Discusses how it is important to understand logical contradictions in order to properly evaluate beliefs and arguments. He goes on to explain that when someone appeals to mystery, they have to demonstrate that the contradiction is not a logical one.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

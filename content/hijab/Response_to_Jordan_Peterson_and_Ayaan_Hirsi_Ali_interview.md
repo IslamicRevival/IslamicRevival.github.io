@@ -2,20 +2,19 @@
 
 <iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/XCvLgCf9Fgw'></iframe>## Description
 
-This interview unveils the bias Jordan Peterson has against Islam. 
+This interview unveils the bias Jordan Peterson has against Islam.
 
-Visit https://www.naturesblends.com/ and use hijab10 for a 10% discount. 
+Visit <https://www.naturesblends.com/> and use hijab10 for a 10% discount.
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
-My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
+My book: <https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/>
 
-#jordanpeterson #ayaanhirsiali
+# jordanpeterson #ayaanhirsiali
 
 ## Summary of [Response to Jordan Peterson and Ayaan Hirsi Ali interview](https://www.youtube.com/watch?v=XCvLgCf9Fgw)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -24,10 +23,11 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 "Response to Jordan Peterson and Ayaan Hirsi Ali interview," the speaker criticizes Peterson for his lack of engagement with Muslims and argues that he is afraid to discuss values with them. offers to have a discussion with Peterson about these values.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** , Iron Hersey Ali and Jordan Peterson discuss the correlation between immigration and sexual violence against women. Ali points out that Peterson is not qualified to speak on the topic, and that the majority of the interview is anecdotal.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Jordan Peterson and Ayaan Hirsi Ali discuss sexual violence, and Ali admits that she does not have any reliable statistics to support her argument that rape is a form of violence against women. Peterson acquiesces to her lack of academic sophistication and admits that he is dealing with her in a soft-ball manner because she shares similar right-wing sentiments with him.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Jordan Peterson and Ayaan Hirsi Ali have a discussion about violence, with Ali pointing out that alcohol is a prohibition in Islam and that this is one of the reasons why a lot of attacks against women happen. Peterson acquiesces to Ali's points, but notes that there is still opposition to imposing western values on incoming minorities. At minute 53, Ali has a conversation with Peterson about immigration, in which Peterson suggests that Canada's geographical position has protected it against many events or shielded it against many events. Ali then argues that immigrants are a threat to culture, and that Peterson is scared of them because they are bringing new ideas and cultures that could undermine Peterson's culture.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Jordan Peterson and Ayaan Hirsi Ali discussed the dangers of western assertiveness of primacy of value, with Hirsi Ali arguing that immigrants must come in and be assimilated to western values without any argument. Peterson countered that this is the colonial approach and that such values are not based in anything but personal preference.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses Jordan Peterson's interview with Ayaan Hirsi Ali, in which the psychologist arrogates his views onto Muslims and denies their religious beliefs. argues that Peterson is afraid to engage with Muslims, and offers to have discussions with him.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses Jordan Peterson's interview with Ayaan Hirsi Ali, in which the psychologist arrogates his views onto Muslims and denies their religious beliefs. argues that Peterson is afraid to engage with Muslims, and offers to have discussions with him.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

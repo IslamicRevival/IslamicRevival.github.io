@@ -5,13 +5,12 @@
 ## Description
 
 You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
+<https://www.patreon.com/Bloggingtheology>
 
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
 ## Summary of [The Negus gives refuge to the early Muslims](https://www.youtube.com/watch?v=zQjAMSpTYMc)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -20,6 +19,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 The Negus of Abyssinia allows the early Muslims to practice their religion freely and provides them with refuge from persecution. The Muslims are comforted by the Negus' recitation of a passage from the Quran which states that Jesus is a slave of God. The Muslims go on to have a long and prosperous history in Abyssinia.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The Abyssinian Negus accepts the early Muslims and allows them complete freedom of worship, except for small children. However, the Negus is displeased when he learns that the Muslims have left their own religion for an invented one. The Abyssinian generals agree to give up the Muslims if the Negus summons them and questions them. If they are found to be telling the truth, the Muslims will be handed over to their own people; if not, the Negus will protect them.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The video discusses the early Muslims' initial reaction upon seeing the Negus of Ethiopia. They were surprised that the Abyssinian king tolerated them for commercial and political reasons, but they were still conscious of a barrier between them. The Muslims themselves were Christians, many of them devout, and they had been baptized. As such, they were sensitive to the difference between the sacred and the profane and were keenly conscious of the profanity of men like Abu Sufyan. The Prophet allowed Jaffar to go with him, and the Muslims were strengthened by his presence. Another couple pleasing to look upon were Jaffar's wife Asma and her brother Utbah. Jaffar was chosen to preside over the community of exiles, and his qualities of attraction and intelligence were amply seconded by Masub. Shamas, a young man with natural gifts, was also present. The Prophet spoke to them and said, "What is this religion wherein you have become separate from your people? Though you have not entered my religion or that of any other of the folk that surround us, you have found salvation." Jaffar answered, "We were a people steeped in ignorance, worshipping idols, eating unsacrificed carrion,
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The Negus of Abyssinia protects the early Muslims from persecution and allows them to practice their religion freely. The Negus recites a passage from the Quran which states that Jesus is a slave of God. The Muslims are comforted by this and go on to have a long and prosperous history in Abyssinia.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The Negus of Abyssinia allows early Muslims to live in his country, despite their disbelief in Jesus. This allows the Muslims to peacefully coexist with the Abyssinians and continue practicing their religion.

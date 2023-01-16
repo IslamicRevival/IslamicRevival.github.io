@@ -7,16 +7,15 @@
 Episode #12 of the MH podcast
 Guest: Professor Nicholas Wolfinger
 
-Podcast playlist: https://www.youtube.com/playlist?list=PLzESAoLKD0l8e9M6mk2TuC5vEh8wYlP_6
+Podcast playlist: <https://www.youtube.com/playlist?list=PLzESAoLKD0l8e9M6mk2TuC5vEh8wYlP_6>
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
-My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
+My book: <https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/>
 
 ## Summary of [Professor Nicholas Wolfinger - Marriage, Divorce, Family Stability in the USA (MH Podcast #12)](https://www.youtube.com/watch?v=A-tbVbkE9ec)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -25,6 +24,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 Professor Nicholas Wolfinger discusses the trends in marriage, divorce, and family stability in the United States. He notes that, while there are some positive trends moving forward, much of the stability in families is outside of our control. He recommends waiting until your late 20s to marry, avoiding marrying someone who is too similar to you, and contributing to the material upkeep of your children.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Nicholas Wolfinger is a professor of sociology at the University of Utah and specializes in sociology of family religion and social demography. He has research suggesting that family structures in the United States are more stable when there is less divorce, with the exception of second marriages which have a higher divorce rate.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Professor Nicholas Wolfinger discusses the correlation between marital stability and religiosity in the USA. He notes that people who are more involved in their religious faiths are less likely to get divorced, regardless of their faith.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** In the United States, conservatives are more likely to have happy relationships, but this is explained by their involvement in religious faiths and race being strongly correlated with politics. Divorce rates and happiness rates are higher for African-Americans than for other groups, but this may be partially due to socioeconomic factors.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Nicholas Wolfinger discusses trends in divorce, infidelity, and family stability in the United States. He notes that while there is evidence of a future of less adultery, hypergamy - or the tendency for women to marry men who are more dominant and wealthy than themselves - is still a strong force in relationships.

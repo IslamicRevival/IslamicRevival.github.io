@@ -4,7 +4,7 @@
 
 ## Description
 
-DONATE NOW: https://www.saveiman.com/fb?affiliate_id=3414212 ⬅
+DONATE NOW: <https://www.saveiman.com/fb?affiliate_id=3414212> ⬅
 
 The Prophet ﷺ said: “𝙒𝙝𝙤𝙚𝙫𝙚𝙧 𝙗𝙪𝙞𝙡𝙙𝙨 𝙖 𝙈𝙤𝙨𝙦𝙪𝙚 𝙛𝙤𝙧 𝘼𝙡𝙡𝙖𝙝, 𝘼𝙡𝙡𝙖𝙝 𝙬𝙞𝙡𝙡 𝙗𝙪𝙞𝙡𝙙 𝙛𝙤𝙧 𝙝𝙞𝙢 𝙖 𝙨𝙞𝙢𝙞𝙡𝙖𝙧 𝙝𝙤𝙪𝙨𝙚 𝙞𝙣 𝙅𝙖𝙣𝙣𝙖𝙝.”
 
@@ -14,10 +14,9 @@ If you support this project, you will in sha Allah get a house in Jannah and sha
 ✅ Making Dhikr!
 ✅ Memorizing the Qur’an!
 
-Please donate and help establish this Masjid and earn your reward ➡ https://www.saveiman.com/fb?affiliate_id=3414212 ⬅
+Please donate and help establish this Masjid and earn your reward ➡ <https://www.saveiman.com/fb?affiliate_id=3414212> ⬅
 
 ## Summary of [Should Muslims kill Salman Rushdie??](https://www.youtube.com/watch?v=2z1J6ydYTYw)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -26,8 +25,9 @@ Please donate and help establish this Masjid and earn your reward ➡ https://ww
 discusses the building of the first Islamic community center in Norway, and how Salman Rushdie has been helpful in fundraising.  also discusses the importance of establishing a mosque.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Islam Net Norway is establishing a mosque and center to teach Muslims about their religion. The organization condemns the stabbing of Salman Rushdie, which was inspired by fatwas from previous years. The stance of Islam Net Norway is that violence is not encouraged, and that every Muslim should abide by the law.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Salman Rushdie's book "The Satanic Verses" has been widely condemned by Muslims, with some advocating for Rushdie's assassination. , a Norwegian Muslim discusses his project to build the first Islamic community center in Norway, and how Rushdie has been helpful in fundraising.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the pros and cons of Muslim reactions to Salman Rushdie, including the effectiveness of using Rushdie to raise money for the Islamic cause.  also discusses the importance of establishing a mosque.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the pros and cons of Muslim reactions to Salman Rushdie, including the effectiveness of using Rushdie to raise money for the Islamic cause.  also discusses the importance of establishing a mosque.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

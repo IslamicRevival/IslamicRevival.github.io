@@ -12,7 +12,6 @@ The institution of the Lord’s Supper in 1 Corinthians 11 (NRSV):
 
 ## Summary of [The most powerful objection to my views on the Gospel of Jesus considered](https://www.youtube.com/watch?v=lNeVDnS7eoQ)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
@@ -20,6 +19,7 @@ The institution of the Lord’s Supper in 1 Corinthians 11 (NRSV):
 of the YouTube video argues that the Christian belief in a sacrificial death on the cross is not based on historical evidence, but instead is based on a mystical revelation from an external power. He goes on to say that this belief has created a different religion from the religion of Jesus Christ in many ways.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The most powerful objection to the views that the speaker holds on the gospel of Jesus is that it is not the Christian gospel. This objection is based on the passage in 1 Corinthians 11:23-27, in which Paul says that the Lord Jesus took a loaf of bread and when he had given thanks, he broke it and said this is my body, which is for you. He also took the cup after supper and said this is the cup of the new covenant in my blood, which is for you. Paul also says that this is to be done as often as you drink it in remembrance of me. This means that the Lord's supper is an instituted event that is based on the sacrifice of Jesus on the cross.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** argues that Paul created the tradition of the Last Supper, which he received from a mystical encounter with the exalted Jesus. This tradition was not passed down through the disciples, but from Paul himself. Furthermore, the author argues that 1 Corinthians 11:2-13 is evidence that these practices served to commend the new Christian groups to the societies in which they lived.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** of the YouTube video argues that the Christian belief in a sacrificial death on the cross is not based on historical evidence, but instead is based on a mystical revelation from an external power. He goes on to say that this belief has created a different religion from the religion of Jesus Christ in many ways.
 

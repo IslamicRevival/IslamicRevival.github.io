@@ -8,7 +8,6 @@ Brother Abdul Basit discusses how Islam categorically prohibits forced marriages
 
 ## Summary of [Forced marriage discussion: Nouman Ali & Abdul Basit](https://www.youtube.com/watch?v=Zkokr9AlUYs)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:30:00</a>
@@ -16,8 +15,9 @@ Brother Abdul Basit discusses how Islam categorically prohibits forced marriages
  discusses the new British law which makes it a crime to force a child into marriage. The speaker, brother Abdelbaset, explains that forced marriages are different than arranged marriages, which are common in society. The two differences between forced and arranged marriages are that forced marriages are done against a person's will, and arranged marriages are accepted by society.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** discusses the new British law which makes it a crime to force a child into marriage. The speaker, brother Abdelbaset, explains that forced marriages are different than arranged marriages, which are common in society. The two differences between forced and arranged marriages are that forced marriages are done against a person's will, and arranged marriages are accepted by society.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses forced marriages, which are a long-standing Islamic issue. The Prophet Muhammad forbade this practice, and it is now a rarity in traditional societies. Muslims who follow the Quran and Sunnah should be aware of Islamic guidance on this issue and avoid arranging marriages without the consent of the woman's guardian.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses forced marriage and its prevalence in society. The narrator quotes a hadith which states that a marriage is rejected if the bride dislikes it. The narrator advises anyone in a forced marriage to get help, contact a Muslim community, or get out.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses forced marriages, which are a long-standing Islamic issue. The Prophet Muhammad forbade this practice, and it is now a rarity in traditional societies. Muslims who follow the Quran and Sunnah should be aware of Islamic guidance on this issue and avoid arranging marriages without the consent of the woman's guardian.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses forced marriage and its prevalence in society. The narrator quotes a hadith which states that a marriage is rejected if the bride dislikes it. The narrator advises anyone in a forced marriage to get help, contact a Muslim community, or get out.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** discusses the issue of forced marriage, and points out that there are many reasons why parents might force their children into marriages. He goes on to say that, psychologically, it's a human thing to want to love and care for one's children. If a parent doesn't love their child, they might force them into a marriage in order to "fix" them. This is not the way Islam views marriage, and those who do not obey Allah and His Messenger are not Muslim.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** discusses the issue of forced marriage, highlighting that it is a cultural problem and not an Islamic problem. He offers ways to solve the problem of false marriages, including raising awareness and breaking the mentality of "gunga-diner mentality."
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** discusses the problems that can result from forced marriage, specifically citing high rates of teenage pregnancy and family honor as examples. They suggest that the solution lies in educating the community about the issue and encouraging parents to allow their children to marry for love.

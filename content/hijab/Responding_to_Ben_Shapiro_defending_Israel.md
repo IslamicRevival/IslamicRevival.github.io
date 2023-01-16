@@ -4,14 +4,13 @@
 
 ## Description
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
-My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
+My book: <https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/>
 
 ## Summary of [Responding to Ben Shapiro defending Israel](https://www.youtube.com/watch?v=swuU7XzKf8o)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -20,8 +19,9 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 , Ben Shapiro defends Israel by saying that the city of Jerusalem is, in fact, the capital of a future Palestinian state. He also claims that the Israeli police have been arrested while peaceful Palestinians are being brutalized. Shapiro says that Hamas is to blame for the violence, but doesn't condemn the Israeli army or authorities for their actions.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Ben Shapiro defends Israel, saying that Palestinian terrorists have been attacking Israel for years before the recent violence. He also mentions that the UN recognized Israel, and that East Jerusalem is not legally Israeli territory.  shows footage of Palestinians being delivered out of a mosque peacefully, without provocation from Israeli forces. Shapiro's implication is that this justifies the recent violence against Palestinians.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** , Ben Shapiro defends Israel by saying that the city of Jerusalem is, in fact, the capital of a future Palestinian state. He also claims that the Israeli police have been arrested while peaceful Palestinians are being brutalized. Shapiro says that Hamas is to blame for the violence, but doesn't condemn the Israeli army or authorities for their actions. He argues that the Jewish people have a right to live in Jerusalem, and that this right is irrelevant to the religion of Islam.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses how Ben Shapiro defends Israel, comparing him to Nazi apologists who used to defeat them. Shapiro's apparent lack of understanding of the material difference between him and the Nazis highlights his own lack of understanding of Islamic extremism.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses how Ben Shapiro defends Israel, comparing him to Nazi apologists who used to defeat them. Shapiro's apparent lack of understanding of the material difference between him and the Nazis highlights his own lack of understanding of Islamic extremism.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

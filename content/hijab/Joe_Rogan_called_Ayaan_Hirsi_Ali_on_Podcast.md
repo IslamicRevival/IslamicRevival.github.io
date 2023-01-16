@@ -4,20 +4,19 @@
 
 ## Description
 
-This interview unveils the general bias these mainstream people seem to have. Why not called someone with basic knowledge of Islam who can articulate Islam well for the masses rather than someone who perpetuates hate and discord? 
+This interview unveils the general bias these mainstream people seem to have. Why not called someone with basic knowledge of Islam who can articulate Islam well for the masses rather than someone who perpetuates hate and discord?
 
-Visit https://www.naturesblends.com/ and use hijab10 for a 10% discount. 
+Visit <https://www.naturesblends.com/> and use hijab10 for a 10% discount.
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
-My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
+My book: <https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/>
 
-#joerogan #ayaanhirsiali
+# joerogan #ayaanhirsiali
 
 ## Summary of [Joe Rogan called Ayaan Hirsi Ali on Podcast](https://www.youtube.com/watch?v=4mPc7M3sPPU)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -26,6 +25,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 Joe Rogan and Ayaan Hirsi Ali have a discussion about Islam. Hirsi Ali argues that the Quran contains verses that promote violence, and that some Muslims are promoting anti-Islamic thought without reading the Quran or understanding its context. Rogan responds by pointing out that she has failed to provide evidence for her assertions.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Ayaan Hirsi Ali, a critic of Islam, claims that the peaceful Muhammad is not the same as the violent Muhammad of Medinan period. She argues that this changed when Muhammad established a militia and started to force conversion by the sword. Joe Rogan responds by pointing out that Hirsi Ali has failed to provide evidence for her assertions.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** This 1-paragraph summary of Joe Rogan's conversation with Ayaan Hirsi Ali provides an overview of their discussion, which centered around the idea that there is only one islam and that it is not reformed. Hirsi Ali provides no evidence for her claims, and Rogan notes that she does not provide any evidence for her claims against Islam either.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Joe Rogan calls Ayaan Hirsi Ali on his podcast, and they discuss how the Quran contains verses that promote peaceful coexistence between different religions and sects, and how some Muslims are promoting anti-Islamic thought without reading the Quran or understanding its context. Hirsi Ali argues that these intellectuals should be ashamed of themselves, as they are doing a disservice to their audiences by not doing basic research on a matter as important as religion.
 

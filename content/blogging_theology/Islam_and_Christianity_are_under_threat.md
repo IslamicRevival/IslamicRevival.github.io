@@ -4,12 +4,11 @@
 
 ## Description
 
-Visit Surkheel Abu Aaliyah's great blog, The Humble I https://thehumblei.com/
+Visit Surkheel Abu Aaliyah's great blog, The Humble I <https://thehumblei.com/>
 
-The Daily Mail article here: https://www.dailymail.co.uk/news/article-10101671/Former-Bishop-Rochester-Dr-Michael-Nazir-Ali-explains-defection-CofE-Catholic-church.html
+The Daily Mail article here: <https://www.dailymail.co.uk/news/article-10101671/Former-Bishop-Rochester-Dr-Michael-Nazir-Ali-explains-defection-CofE-Catholic-church.html>
 
 ## Summary of [Islam and Christianity are under threat](https://www.youtube.com/watch?v=fSyo0e186uQ)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -18,6 +17,7 @@ The Daily Mail article here: https://www.dailymail.co.uk/news/article-10101671/F
 The author argues that both Islam and Christianity are under threat from radicals who are eroding traditional values. The author recommends that Muslims prioritize faith and values over social approval in order to protect their religion.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The author discusses the need for Muslims to be godpleasers, not praise chasers, in a society where people are constantly judging others. He also discusses the need for Christians and other traditional faith communities to be more open-minded and accepting of others. He argues that these are difficult tasks, and that some Muslims are too afraid to speak out against terrorism.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** According to the author, Islam and Christianity are both under threat from radical activists who are eroding traditional values and beliefs. The author recommends that Muslims prioritize faith and values over social approval and acceptance.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The speaker comments on how social approval can lead to religious stagnation, and applauds the former bishop for his instincts to hold onto truth even though they may not agree on all details.
 

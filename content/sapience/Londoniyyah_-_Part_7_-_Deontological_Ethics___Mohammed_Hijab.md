@@ -6,9 +6,9 @@
 
 Londoniyyah - Part 6 - Deontological Ethics | Mohammed Hijab
 
-
-To be updated about our content please subscribe and open the notifications.
+To be updated about our content please subscribe and open the notifications
 ----
+
 BOOK A LIGHTHOUSE MENTOR
 
 Are you or someone you know doubting Islam? Do you find yourself struggling to find answers?  Do you have a hard time speaking to someone about Islam?  Are you considering Islam but are unsure about certain concepts?  Are you an activist, Imam or community leader who is unsure about how to handle questions related to science, philosophy, the Islamic moral code, etc.?
@@ -17,12 +17,11 @@ You are not alone.  Over the course of the last decade or more there has been a 
 
 Seeing the rise of  this phenomenon , Sapience Institute is introducing a One to One mentoring service called LIGHTHOUSE.
 
-BOOK A MENTOR HERE: https://sapienceinstitute.org/lighthouse/
+BOOK A MENTOR HERE: <https://sapienceinstitute.org/lighthouse/>
 
-VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: https://sapienceinstitute.org/
+VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: <https://sapienceinstitute.org/>
 
 ## Summary of [Londoniyyah - Part 7 - Deontological Ethics | Mohammed Hijab](https://www.youtube.com/watch?v=H59kvs6CciI)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -31,12 +30,13 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
  discusses the conflict between universalizing principles and their consequences. Mohammed Hijab argues that there are no clear rules in morality, and that it is impossible to always know what is the right thing to do. Kant's ethics offers a possible solution to this problem, but it is not always applicable in the real world.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Mohammed Hijab discusses deontological ethics, which is the opposite of utilitarianism. Deontological ethics bases morality on intrinsic values, rather than on the consequences of an action.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Mohammed Hijab discusses the deontological ethics of Islam and how it differs from the consequentialist ethics of modern society. He also discusses the principle of goodwill and how it plays into the deontological ethics of Islam. He states that, in order to be a good Muslim, one must follow the principle of goodwill and act as if their maxim of action were to become a universal law of nature. He gives four examples of how this principle can be applied in real life.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Mohammed Hijab discusses the merits and demerits of deontological ethics, which is the opposite of consequentialism. He argues that if everyone did what was morally right, society would become chaotic. He also notes that deontological ethics can lead to paradoxes, such as when it is contradictory to claim that becoming a doctor should be immoral, but that a society without doctors would be dysfunctional.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Jonathan Wolfe discusses the concept of "deontological ethics" in relation to the example of a carpenter. He argues that universalizing principles like this one are not always good because they can lead to society being unable to function. He also discusses the concept of honesty, and how it is always wrong to lie.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Mohammed Hijab discusses the categorical imperative, or the moral principle that says it is always wrong to do something that would cause another person pain. He briefly discusses Kant's theory and how it compares to other ethical systems. He then moves on to discuss the hypothetical imperative and how it is not moral, while the categorical imperative is. He finishes with a discussion of Kant's religious background and whether he made a moral argument for the existence of God.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Mohammed Hijab discusses deontological ethics and argues that universalizing a principle can lead to inconsistencies and problems.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses the conflict between universalizing principles and their consequences. Mohammed Hijab argues that there are no clear rules in morality, and that it is impossible to always know what is the right thing to do. Kant's ethics offers a possible solution to this problem, but it is not always applicable in the real world. Hijab argues that death can sometimes be seen as a consequence of not obeying a universalizing principle, and that this principle can conflict with other objectives of the same principle. He also argues that lying is always wrong, and that it is necessary to have a "football manager" in order to win wars.
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses the conflict between universalizing principles and their consequences. Mohammed Hijab argues that there are no clear rules in morality, and that it is impossible to always know what is the right thing to do. Kant's ethics offers a possible solution to this problem, but it is not always applicable in the real world. Hijab argues that death can sometimes be seen as a consequence of not obeying a universalizing principle, and that this principle can conflict with other objectives of the same principle. He also argues that lying is always wrong, and that it is necessary to have a "football manager" in order to win wars.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>**  Mohammed Hijab discusses the strengths and weaknesses of consequentialism and deontological ethics. He argues that, while consequentialism has strengths, such as its ability to be sub-compartmentalized under one of three philosophical theories, it has problems when applied in conversation, as it makes its adherents difficult to deal with. He concludes the video by discussing virtue ethics, which he says is not really in use, but which can be useful in understanding consequentialism and its weaknesses.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

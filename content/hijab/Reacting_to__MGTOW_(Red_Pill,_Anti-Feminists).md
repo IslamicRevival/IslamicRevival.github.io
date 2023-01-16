@@ -6,16 +6,15 @@
 
 Men Going Their Own Way (MGTOW /ˈmɪɡtaʊ/) is an anti-feminist community advocating for men to separate themselves from women and from a society which they believe has been destroyed by feminism.
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
-My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
+My book: <https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/>
 
-#mgtow #feminism
+# mgtow #feminism
 
 ## Summary of [Reacting to MGTOW (Red Pill, Anti-Feminists)](https://www.youtube.com/watch?v=nK4fCDXefx0)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -24,9 +23,10 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 , a man who identifies as a "MGTOW" or "Red Pill anti-feminist" explains the Men Going Their Own Way movement. He argues that feminism has failed to produce positive results for women, and that men are now choosing to return to traditional, patriarchal values. He suggests that Islam is the answer to restoring justice between men and women.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** provides an introduction to the Men Going Their Own Way movement, which is a reaction to feminism. Levels of mgtow include "the purple pill man," "level 2 mgtow," "level 3 mgtow," and "level 4 mgtow."  finishes with a discussion of level 4 mgtow and whether or not it is a good idea.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses how men can avoid being manipulated by women, as well as the declining attractiveness of women as they age.  also discusses how men's bank accounts typically increase as they age, while women's earnings potential withers.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses how men can avoid being manipulated by women, as well as the declining attractiveness of women as they age.  also discusses how men's bank accounts typically increase as they age, while women's earnings potential withers.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** of the YouTube video argues that, because feminism has failed to produce positive results for women, men are now choosing to return to traditional, patriarchal values. He says that, while feminism stresses the importance of equal pay and careers over family and children, Islam defines manhood in a more holistic way, recognizing men's responsibility to provide for their families. Therefore, the second wave of feminism has failed, and most Germans and Europeans no longer identify with it.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses how women are different than men, and how men may experience a "midlife crisis" when they enter into their 40s or 50s. It also discusses how women may treat men poorly during this time, and how Islam has solutions to these problems.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses how women are different than men, and how men may experience a "midlife crisis" when they enter into their 40s or 50s. It also discusses how women may treat men poorly during this time, and how Islam has solutions to these problems.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>**  a man named Stefan Covey explains why thinking "win-win" is so important in relationships. He also discusses how feminism has created a dualism where men are the bad guys and women are the good guys, and how a traditional marriage and family is a great risk for men in today's society. He suggests that men should go to Mexico or Thailand to have a surrogate mother give birth to their own children.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** <>
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** <>

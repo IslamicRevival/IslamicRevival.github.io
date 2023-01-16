@@ -4,9 +4,9 @@
 
 ## Description
 
-Full discussion on Mikhaila Peterson: https://youtu.be/eL3FybpUt0s
+Full discussion on Mikhaila Peterson: <https://youtu.be/eL3FybpUt0s>
 
-DONATE NOW: https://www.saveiman.com/fb?affiliate_id=3414212 ⬅
+DONATE NOW: <https://www.saveiman.com/fb?affiliate_id=3414212> ⬅
 
 The Prophet ﷺ said: “𝙒𝙝𝙤𝙚𝙫𝙚𝙧 𝙗𝙪𝙞𝙡𝙙𝙨 𝙖 𝙈𝙤𝙨𝙦𝙪𝙚 𝙛𝙤𝙧 𝘼𝙡𝙡𝙖𝙝, 𝘼𝙡𝙡𝙖𝙝 𝙬𝙞𝙡𝙡 𝙗𝙪𝙞𝙡𝙙 𝙛𝙤𝙧 𝙝𝙞𝙢 𝙖 𝙨𝙞𝙢𝙞𝙡𝙖𝙧 𝙝𝙤𝙪𝙨𝙚 𝙞𝙣 𝙅𝙖𝙣𝙣𝙖𝙝.”
 
@@ -16,12 +16,11 @@ If you support this project, you will in sha Allah get a house in Jannah and sha
 ✅ Making Dhikr!
 ✅ Memorizing the Qur’an!
 
-Please donate and help establish this Masjid and earn your reward ➡ https://www.saveiman.com/fb?affiliate_id=3414212 ⬅
+Please donate and help establish this Masjid and earn your reward ➡ <https://www.saveiman.com/fb?affiliate_id=3414212> ⬅
 
-#ayaanhirsi #exmuslim #islam
+# ayaanhirsi #exmuslim #islam
 
 ## Summary of [Mohammed Hijab & Ayaan Hirsi Ali (Extended)](https://www.youtube.com/watch?v=PdiRh_BkBCg)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -30,6 +29,7 @@ Please donate and help establish this Masjid and earn your reward ➡ https://ww
 Ayaan Hirsi Ali and Mohammed Hijab debate the wearing of hijabs, with Hirsi Ali arguing that it is oppressive and has no basis in the Quran. Hirsi Ali criticizes Hijab for not citing any sources and for exaggerating certain points in her argument.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** <>
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Ayaan Hirsi Ali discusses the main differences between Islam and Christianity, specifically mentioning that Islam allows for divorce without the husband's consent, while Christianity prohibits divorce. She also discusses how Iron Man, a right-wing extremist, praised her work and was inspired by her views.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Mohammed Hijab and Ayaan Hirsi Ali debate the wearing of hijabs, with Hirsi Ali arguing that the practice is oppressive and has no basis in the Quran. Hirsi Ali also criticizes Hirsi Ali for not citing any sources, and for exaggerating certain points in her argument.
 

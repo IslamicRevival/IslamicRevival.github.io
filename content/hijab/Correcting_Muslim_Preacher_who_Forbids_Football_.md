@@ -2,10 +2,7 @@
 
 <iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/k6Vnz5r7fVQ'></iframe>## Description
 
-
-
 ## Summary of [Correcting Muslim Preacher who Forbids Football ⚽️](https://www.youtube.com/watch?v=k6Vnz5r7fVQ)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -14,6 +11,7 @@
  is a humorous critique of a Muslim preacher who forbids football. points out that the preacher is wrong in his beliefs, and offers to help the audience learn critical thinking skills.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Brother Abdul Rahman Hasan's video "Correcting Muslim Preacher who Forbids Football" criticizes a Muslim preacher who forbids football. He offers solutions to reconcile the conflicting Islamic laws on the game.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The preacher discusses a hadith which states that it is forbidden to praise disbelievers or speak highly of them. He goes on to say that even if there is a prohibition on praising disbelievers, he himself cannot bring himself to do so. This shows the important difference between someone who studies and regurgitates and memorizes knowledge, and someone who thinks and contemplates.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  is a humorous critique of a Muslim preacher who forbids football. points out that the preacher is wrong in his beliefs, and offers to help the audience learn critical thinking skills.
 

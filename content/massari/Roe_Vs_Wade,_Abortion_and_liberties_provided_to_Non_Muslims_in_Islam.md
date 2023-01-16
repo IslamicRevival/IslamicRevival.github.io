@@ -13,7 +13,7 @@ Up to what point is the foetus permitted to be terminated
 Relationship with Non-Muslims citizens in a federation or direct subjects of an Islamic state and their autonomy in these regards.
 
 Arabic Channel:
-https://www.youtube.com/channel/UCoGIB6_SWhLWNP0916iqA7A
+<https://www.youtube.com/channel/UCoGIB6_SWhLWNP0916iqA7A>
 
 ⛔️⛔️⛔️
 ✅ GOOD NEWS: Kitab ut-Tawheed: The Basis of Islam and the Reality is available for free download  👇👇👇
@@ -21,16 +21,15 @@ https://www.youtube.com/channel/UCoGIB6_SWhLWNP0916iqA7A
 بشرى سارة للفقراء الذين لا يستطيعون (والبخلاء الذين لا يريدون) دفع ثمن كتاب التوحيد (بالإنجليزية)
 يمكن تحمبل الكتاب من هنا 👇👇👇:
 
-🔥 https://www.mediafire.com/file/yqqkug...
-🔥 https://t.me/IslamicRenewal/982
+🔥 <https://www.mediafire.com/file/yqqkug>...
+🔥 <https://t.me/IslamicRenewal/982>
 ⛔️⛔️⛔️
 ✅ Kitab ut-Tawheed: The Basis of Islam and the Reality of Monotheism Paperback – May 5, 2019
 
-🔥 https://www.amazon.com/dp/1986123596/...
-🔥 https://a.co/d/8An980h
+🔥 <https://www.amazon.com/dp/1986123596/>...
+🔥 <https://a.co/d/8An980h>
 
 ## Summary of [Roe Vs Wade, Abortion and liberties provided to Non Muslims in Islam](https://www.youtube.com/watch?v=ExrE8ICNhSE)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -39,10 +38,11 @@ https://www.youtube.com/channel/UCoGIB6_SWhLWNP0916iqA7A
 Discusses various aspects of Islamic law, including the issue of abortion.  argues that while abortion is technically prohibited in Islam, it is usually a minor issue and should not be a factor in determining a person's religious beliefs.  also discusses the rights afforded to non-Muslim citizens in the event of war, and how they are not obliged to join the military services. Finally, the video discusses how non-Muslim citizens are allowed to practice their religion and dress in a way that is normal for their culture, with one exception - public life should be governed by Sharia law.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** discusses Islamic law regarding abortion and how it is different from American law. The Texas law, which stipulates that abortion may only be performed if it is necessary to protect the mother's life, is consistent with Islamic law.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the Islamic concept of "confederation," which is the unity of different Muslim factions in order to protect their religious beliefs and practices. When a Muslim joins a confederation, they are obligated to follow the laws and regulations of that confederation, which may include differing laws on issues like abortion. If a Muslim is not a member of a confederation, they are still subject to the laws of their own country.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the Islamic concept of "confederation," which is the unity of different Muslim factions in order to protect their religious beliefs and practices. When a Muslim joins a confederation, they are obligated to follow the laws and regulations of that confederation, which may include differing laws on issues like abortion. If a Muslim is not a member of a confederation, they are still subject to the laws of their own country.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** discusses the Islamic concept of "liberties" and how they are provided to non-Muslims in Islam.  specifically discusses the rights afforded to non-Muslim citizens in the event of war, including the right to tax themselves, and how this is a genuine Confederation agreement.  also discusses how non-Muslim citizens are protected from forced military service, and how they are not obliged to join the military services. Finally, the video discusses how non-Muslim citizens are allowed to practice their religion and dress in a way that is normal for their culture, with one exception - public life should be governed by Sharia law, which will be enforced if necessary.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses various aspects of Islamic law regarding religious practices, such as the allowance for Hindus and Buddhists to practice their religions without interference, and the prohibition on music that is too loud. It also discusses the Danish practice of inverted baptism, which is currently prohibited by Islamic law.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the issue of abortion in Islam, which is generally seen as a minority issue. The narrator states that while abortion is technically prohibited in Islam, it is usually a minor issue and should not be a factor in determining a person's religious beliefs. When two Christians are in a dispute, Islamic law usually applies. Issues such as medical disputes should be handled by a Muslim scholar, who is better equipped to deal with them. When a Muslim woman marries a non-Muslim, she must abide by Islamic law even if she is living in a different domain. A Muslim who separates from his or her church does not have the right to abandon it and become a civilian.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses various aspects of Islamic law regarding religious practices, such as the allowance for Hindus and Buddhists to practice their religions without interference, and the prohibition on music that is too loud. It also discusses the Danish practice of inverted baptism, which is currently prohibited by Islamic law.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the issue of abortion in Islam, which is generally seen as a minority issue. The narrator states that while abortion is technically prohibited in Islam, it is usually a minor issue and should not be a factor in determining a person's religious beliefs. When two Christians are in a dispute, Islamic law usually applies. Issues such as medical disputes should be handled by a Muslim scholar, who is better equipped to deal with them. When a Muslim woman marries a non-Muslim, she must abide by Islamic law even if she is living in a different domain. A Muslim who separates from his or her church does not have the right to abandon it and become a civilian.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** explains that Islamic law provides more rational and just systems than the current legal system in which people can be mistreated based on their beliefs. He also mentions a Hadith in which the Prophet Muhammad said that it is not permissible for Muslims to rule unjustly or oppress their citizens.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** argues that Muslims should not follow the principle of "killing any that does not comply."  provides a translation of a section of the Quran that discusses this principle.  also argues that, historically, Muslim rulers were often very bad examples and that their actions have lead to a bad image of Islam.
 

@@ -5,17 +5,17 @@
 ## Description
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -23,41 +23,39 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
-
-#PascalsWager #God #Atheism
+# PascalsWager #God #Atheism
 
 ## Summary of [Pascal's Wager | Thought Adventure Podcast #18](https://www.youtube.com/watch?v=HkCKH5PRb1Y)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -66,49 +64,54 @@ Gmail: hello.tapodcast@gmail.com
 Pascal's Wager is a thought experiment that argues for the existence of God based on the expected value of doing so.  discusses the objection that probabilities don't matter when it comes to Pascal's Wager, and argues that if a person takes the math seriously, then they should wager on the idea that God exists because the chances of achieving an infinite amount of happiness are high.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  the speaker recounts their weekend, including falling asleep while putting their daughter to bed and then streaming live on YouTube until 2am. Today, they are tired after being up since 4am.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Pascal's Wager is a thought experiment devised by Blaise Pascal that argues that it is rational for a person to believe in God based on the expected value of doing so.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Pascal's Wager is an argument for the existence of God based on the presumption that it is rational to be a theist or an atheist. The argument is more like a tiebreaker than a proof, as the evidence forGod increases as the evidence against it decreases. Pascal's Wager is being discussed by Elizabeth Jackson, who argues that it is stronger than other formulations of the argument and refreshing because it is different from the typical cosmological argument for the existence of God.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The "Pascal's Wager" is a thought experiment used to explore the implications of different beliefs. In the thought experiment, someone is presented with two options, one of which is believed to be true, while the other is believed to be false. The expected value of each option is considered. If someone chooses to believe in the false option, they are said to be gambling, and are therefore haram. If someone chooses to believe in the true option, they are said to be epistemic permissives, and are not haram.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses Pascal's Wager, an argument for theism. Sanad says that the objection to the wager is that it is necessary for an agnostic or doubter to have certainty in their belief past cause the wager is immune to skepticism. Liz Jackson tries to target this objection by saying that an agnostic could still be good to their neighbors and have other positive attributes, but ultimately the wager is a step in the right direction for an agnostic who is on the fence or a doubter who is about to leave the faith.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>**  Pascal's Wager is discussed, and it is pointed out that, while it is an easy objection to make, probability does matter when it comes to religion. Several objections to religion are discussed, and the Pascal's Wager is mentioned. The process of elimination is explained, and it is pointed out that, by breaking religions into categories (based on whether or not they make sense), it becomes easier to determine which ones to investigate more thoroughly. If polytheism is rational, then it can be eliminated from consideration; if not, then trinitarianism or pure tauheed may be a better option.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** In "Pascal's Wager", philosopher Blaise Pascal argues that it is worth it to believe in a god in order to have a chance at an infinite amount of happiness in the afterlife. He provides evidence that this is indeed the case, and argues that atheists should at least consider the existence of a god.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** The 1-paragraph summary of this video is that Dr. Liz Jackson from the Thought Adventure Podcast discusses the objection that probabilities don't matter when it comes to Pascal's Wager. She argues that if a person takes the math seriously, then they should wager on the idea that God exists because the chances of achieving an infinite amount of happiness are high.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>**  Pascal's Wager is discussed and its limitations are explained. The philosopher who proposed the theory of limits is mentioned, and his idea that probabilities matter is emphasized. The rational atheist or agnostic's non-zero probability of god's existence is explained as being infinitesimal.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Pascal's Wager is a pragmatic argument for the existence of God, which many philosophers neglect. Brother Jose argues that this argument depends on many things, which makes it complicated to discuss.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the argument from infinite utility, or the idea that certain actions or beliefs have high or equal expected utility. It argues that the atheist or agnostic who believes in this hypothetical religion would have to take into consideration the idea of infinities when making a decision about whether or not to take the religion seriously.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The presenter discusses Pascal's Wager and how it doesn't prove that there is a God. He also discusses how one religion can be used against another to show the weak points of the argument.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Pascal's Wager is a thought experiment devised by Blaise Pascal that argues that it is rational for a person to believe in God based on the expected value of doing so.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Pascal's Wager is an argument for the existence of God based on the presumption that it is rational to be a theist or an atheist. The argument is more like a tiebreaker than a proof, as the evidence forGod increases as the evidence against it decreases. Pascal's Wager is being discussed by Elizabeth Jackson, who argues that it is stronger than other formulations of the argument and refreshing because it is different from the typical cosmological argument for the existence of God.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The "Pascal's Wager" is a thought experiment used to explore the implications of different beliefs. In the thought experiment, someone is presented with two options, one of which is believed to be true, while the other is believed to be false. The expected value of each option is considered. If someone chooses to believe in the false option, they are said to be gambling, and are therefore haram. If someone chooses to believe in the true option, they are said to be epistemic permissives, and are not haram.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses Pascal's Wager, an argument for theism. Sanad says that the objection to the wager is that it is necessary for an agnostic or doubter to have certainty in their belief past cause the wager is immune to skepticism. Liz Jackson tries to target this objection by saying that an agnostic could still be good to their neighbors and have other positive attributes, but ultimately the wager is a step in the right direction for an agnostic who is on the fence or a doubter who is about to leave the faith.
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>**  Pascal's Wager is discussed, and it is pointed out that, while it is an easy objection to make, probability does matter when it comes to religion. Several objections to religion are discussed, and the Pascal's Wager is mentioned. The process of elimination is explained, and it is pointed out that, by breaking religions into categories (based on whether or not they make sense), it becomes easier to determine which ones to investigate more thoroughly. If polytheism is rational, then it can be eliminated from consideration; if not, then trinitarianism or pure tauheed may be a better option.
+- **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** In "Pascal's Wager", philosopher Blaise Pascal argues that it is worth it to believe in a god in order to have a chance at an infinite amount of happiness in the afterlife. He provides evidence that this is indeed the case, and argues that atheists should at least consider the existence of a god.
+- **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** The 1-paragraph summary of this video is that Dr. Liz Jackson from the Thought Adventure Podcast discusses the objection that probabilities don't matter when it comes to Pascal's Wager. She argues that if a person takes the math seriously, then they should wager on the idea that God exists because the chances of achieving an infinite amount of happiness are high.
+- **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>**  Pascal's Wager is discussed and its limitations are explained. The philosopher who proposed the theory of limits is mentioned, and his idea that probabilities matter is emphasized. The rational atheist or agnostic's non-zero probability of god's existence is explained as being infinitesimal.
+- **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Pascal's Wager is a pragmatic argument for the existence of God, which many philosophers neglect. Brother Jose argues that this argument depends on many things, which makes it complicated to discuss.
+- **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Discusses the argument from infinite utility, or the idea that certain actions or beliefs have high or equal expected utility. It argues that the atheist or agnostic who believes in this hypothetical religion would have to take into consideration the idea of infinities when making a decision about whether or not to take the religion seriously.
+- **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The presenter discusses Pascal's Wager and how it doesn't prove that there is a God. He also discusses how one religion can be used against another to show the weak points of the argument.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  discusses Pascal's Wager and how it applies to religions. The argument states that if there is a God, then it is possible that the afterlife exists. If someone does not believe in God, they may have fears and doubts about the afterlife. The argument concludes by saying that if someone has good reason to believe in the afterlife, that is not wrong.
 
-**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>* Discusses the Pascal's Wager, which is an argument used to try and persuade someone to believe in God. The argument is problematic because it can be used to coerce someone into believing in God.
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>* Discusses Pascal's Wager and its possible consequences.  argues that, even if the atheist is logically justified in their skepticism, it doesn't mean they're actually sincere in their disbelief.  also argues that, even if the atheist does commit to their skepticism, they may still be able to attain a belief in god through rational thought and utility.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>* Discusses Pascal's Wager and how it applies to religions. The argument states that if there is a God, then it is possible that the afterlife exists. If someone does not believe in God, they may have fears and doubts about the afterlife. The argument concludes by saying that if someone has good reason to believe in the afterlife, that is not wrong.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** The objection is that atheism is irrational because it is not based on any evidence. The response is that it is not an argument for belief, but for pretending to believe.
-* **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>* Discusses Pascal's Wager, which is the argument that it is worth risking your own eternal rewards or punishments in the hope of learning something that will help convince you of God's existence. The narrator argues that, given the infinite possibilities of God's existence and the many different religions and paths to Him, it is not a convincing gamble.
-* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>* Discusses Pascal's Wager, a thought experiment used to try to decide whether or not to believe in a god. The creator argues that the chances of an afterlife are not guaranteed, and therefore it is more important to live a good life on this earth. Another point made is that the atheist wager is more about making a decision based on reason, not belief.
-* **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>* Discusses the argument against the existence of a god, which is that it is not logically reasonable to assume that something that begins to exist has a cause. The philosopher Kalama argues that the principle exists outside of the universe, and is used by Christians and other religious people.
-* **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** The philosopher argues that, given our experience and knowledge, it is reasonable for an atheist to believe that there is a necessary being, even if they have no evidence to support this belief. This decision-making process pushes us in the direction of accepting belief in a god.
-* **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>* Discusses Pascal's Wager, a philosophical argument used to decide whether or not to believe in God. The argument states that, given the probability of rewards and punishments in the afterlife, it is more rational to believe in God than to not believe.
-* **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>* Discusses the argument known as Pascal's Wager, which is the idea that if you believe in God, there is a chance you will have a better life. Atheists have argued that this is not true, as there is no reason to believe in God when there is evidence that shows the opposite.
-* **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** Pascal's Wager is a thought experiment in which a person risks losing everything (including their own eternal soul) in the hope of receiving eternal salvation in return. The atheist argues that, even considering the evidence, this is a poor reason to believe in a god.
-* **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Sundays argues that atheists have not taken religious arguments seriously enough to investigate them properly, and that this limits their ability to make a decision.
+**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Discusses the Pascal's Wager, which is an argument used to try and persuade someone to believe in God. The argument is problematic because it can be used to coerce someone into believing in God.
+
+- **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Discusses Pascal's Wager and its possible consequences.  argues that, even if the atheist is logically justified in their skepticism, it doesn't mean they're actually sincere in their disbelief.  also argues that, even if the atheist does commit to their skepticism, they may still be able to attain a belief in god through rational thought and utility.
+- **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Discusses Pascal's Wager and how it applies to religions. The argument states that if there is a God, then it is possible that the afterlife exists. If someone does not believe in God, they may have fears and doubts about the afterlife. The argument concludes by saying that if someone has good reason to believe in the afterlife, that is not wrong.
+- **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** The objection is that atheism is irrational because it is not based on any evidence. The response is that it is not an argument for belief, but for pretending to believe.
+- **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** Discusses Pascal's Wager, which is the argument that it is worth risking your own eternal rewards or punishments in the hope of learning something that will help convince you of God's existence. The narrator argues that, given the infinite possibilities of God's existence and the many different religions and paths to Him, it is not a convincing gamble.
+- **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** Discusses Pascal's Wager, a thought experiment used to try to decide whether or not to believe in a god. The creator argues that the chances of an afterlife are not guaranteed, and therefore it is more important to live a good life on this earth. Another point made is that the atheist wager is more about making a decision based on reason, not belief.
+- **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** Discusses the argument against the existence of a god, which is that it is not logically reasonable to assume that something that begins to exist has a cause. The philosopher Kalama argues that the principle exists outside of the universe, and is used by Christians and other religious people.
+- **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** The philosopher argues that, given our experience and knowledge, it is reasonable for an atheist to believe that there is a necessary being, even if they have no evidence to support this belief. This decision-making process pushes us in the direction of accepting belief in a god.
+- **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** Discusses Pascal's Wager, a philosophical argument used to decide whether or not to believe in God. The argument states that, given the probability of rewards and punishments in the afterlife, it is more rational to believe in God than to not believe.
+- **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** Discusses the argument known as Pascal's Wager, which is the idea that if you believe in God, there is a chance you will have a better life. Atheists have argued that this is not true, as there is no reason to believe in God when there is evidence that shows the opposite.
+- **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** Pascal's Wager is a thought experiment in which a person risks losing everything (including their own eternal soul) in the hope of receiving eternal salvation in return. The atheist argues that, even considering the evidence, this is a poor reason to believe in a god.
+- **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Sundays argues that atheists have not taken religious arguments seriously enough to investigate them properly, and that this limits their ability to make a decision.
+
 ### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:55:00</a>
 
 The Thought Adventure Podcast discusses Pascal's Wager, a philosophical argument for the existence of God. The participants discuss the possible consequences of believing in God, and Alex Malpass discusses a new article he has written on the topic.
 
-**<a onclick="modifyYTiframeseektime('7200')">02:00:00</a>* Discusses the Argument from Necessity, which states that something must exist because it cannot not exist. Pascal's Wager is a thought experiment used to demonstrate the potential consequences of belief in a deity. Atheists may have the same position when it comes to theism or Islam in particular, but theism in general, which is that people should try to understand the argument and appreciate why it is used, can be difficult to do given their bias.
-* **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>** The philosopher argues that the demand for explanation is arbitrary itself, and that we can't make a reasonable non-arbitrary distinction between necessary and contingent.
-* **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>* Discusses Pascal's Wager and how it could apply to the nature of reality. If one does not believe in objective truths, then it would be impossible to make any categorical statements about reality. This would collapse any arguments made.
-* **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>** The argument for the existence of a necessary being is based on the principle that one cannot conceive of a being that does not exist. To identify what is necessary and what is contingent, one looks at what is possible and what is actual, considering that something that is possible may not be actual, and something that is actual may not be possible.
-* **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>** Pascal's Wager is an argument used to convince someone that they should believe in a certain belief in order to have a better chance of being right. The argument is based on the idea that because we can at least conceive of a possible reality in our minds, we can imagine that there is a possibility that the belief is true. If the belief is true, then the person has a better chance of being right than if they did not believe in the belief.
-* **<a onclick="modifyYTiframeseektime('8700')">02:25:00</a>* Discusses the arguments for and against the existence of Allah, and how one must take into account objections when making a case for or against his existence. The presenter says that although the arguments are useful, they are not necessary for belief in Allah. He says that the main reason he is against these arguments is because he has expended a lot of energy on them and hasn't been able to elimintate all objections. He says that if Brother Allah is truly shaking the way he did today, he needs more resources and education.
-* **<a onclick="modifyYTiframeseektime('9000')">02:30:00</a>** In the "Pascal's Wager," an argument for the existence of God, the potential for infinite reward for believers is based on the assumption that God exists. If this assumption is removed, the reward becomes finite.
-* **<a onclick="modifyYTiframeseektime('9300')">02:35:00</a>** The argument between atheists and believers revolves around the expected utility of different worldviews. Atheists argue that there is no fixed probability of an afterlife, and as such, there is no reason to believe in a deity. Believers counter with the idea that religiosity may improve well-being in this life. In order to make a decision, atheists and believers must weigh the benefits and costs of each worldview.
-* **<a onclick="modifyYTiframeseektime('9600')">02:40:00</a>* Discusses Pascal's Wager, which is a decision theory that suggests that, based on certain considerations, one should choose one's beliefs based on their expected value. Some people view the argument as weak because it does not convince people that there is a God, but for others, it can be a helpful tool in making informed decisions.
-* **<a onclick="modifyYTiframeseektime('9900')">02:45:00</a>* Discusses how some people want to argue for the existence of god without getting into the nuances of the argument. says this is a common approach among those who do not know how to argue.
-* **<a onclick="modifyYTiframeseektime('10200')">02:50:00</a>**  three friends discuss how they would approach evidence for God if they were naturalists. One of the friends, a philosopher, argues that evidence for God would be easy to find, in the form of every time someone asks for a gold brick. The other two friends disagree, and say that the process of elimination is the only reasonable option. They also mention a new project they're working on together, called "ea dawah."
-* **<a onclick="modifyYTiframeseektime('10500')">02:55:00</a>** The Thought Adventure Podcast discusses Pascal's Wager, a philosophical argument for the existence of God. Jake and Sharif discuss the possible consequences of believing in God, and Alex Malpass discusses a new article he has written on the topic.
+**<a onclick="modifyYTiframeseektime('7200')">02:00:00</a>** Discusses the Argument from Necessity, which states that something must exist because it cannot not exist. Pascal's Wager is a thought experiment used to demonstrate the potential consequences of belief in a deity. Atheists may have the same position when it comes to theism or Islam in particular, but theism in general, which is that people should try to understand the argument and appreciate why it is used, can be difficult to do given their bias.
+
+- **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>** The philosopher argues that the demand for explanation is arbitrary itself, and that we can't make a reasonable non-arbitrary distinction between necessary and contingent.
+- **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>** Discusses Pascal's Wager and how it could apply to the nature of reality. If one does not believe in objective truths, then it would be impossible to make any categorical statements about reality. This would collapse any arguments made.
+- **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>** The argument for the existence of a necessary being is based on the principle that one cannot conceive of a being that does not exist. To identify what is necessary and what is contingent, one looks at what is possible and what is actual, considering that something that is possible may not be actual, and something that is actual may not be possible.
+- **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>** Pascal's Wager is an argument used to convince someone that they should believe in a certain belief in order to have a better chance of being right. The argument is based on the idea that because we can at least conceive of a possible reality in our minds, we can imagine that there is a possibility that the belief is true. If the belief is true, then the person has a better chance of being right than if they did not believe in the belief.
+- **<a onclick="modifyYTiframeseektime('8700')">02:25:00</a>** Discusses the arguments for and against the existence of Allah, and how one must take into account objections when making a case for or against his existence. The presenter says that although the arguments are useful, they are not necessary for belief in Allah. He says that the main reason he is against these arguments is because he has expended a lot of energy on them and hasn't been able to elimintate all objections. He says that if Brother Allah is truly shaking the way he did today, he needs more resources and education.
+- **<a onclick="modifyYTiframeseektime('9000')">02:30:00</a>** In the "Pascal's Wager," an argument for the existence of God, the potential for infinite reward for believers is based on the assumption that God exists. If this assumption is removed, the reward becomes finite.
+- **<a onclick="modifyYTiframeseektime('9300')">02:35:00</a>** The argument between atheists and believers revolves around the expected utility of different worldviews. Atheists argue that there is no fixed probability of an afterlife, and as such, there is no reason to believe in a deity. Believers counter with the idea that religiosity may improve well-being in this life. In order to make a decision, atheists and believers must weigh the benefits and costs of each worldview.
+- **<a onclick="modifyYTiframeseektime('9600')">02:40:00</a>** Discusses Pascal's Wager, which is a decision theory that suggests that, based on certain considerations, one should choose one's beliefs based on their expected value. Some people view the argument as weak because it does not convince people that there is a God, but for others, it can be a helpful tool in making informed decisions.
+- **<a onclick="modifyYTiframeseektime('9900')">02:45:00</a>** Discusses how some people want to argue for the existence of god without getting into the nuances of the argument. says this is a common approach among those who do not know how to argue.
+- **<a onclick="modifyYTiframeseektime('10200')">02:50:00</a>**  three friends discuss how they would approach evidence for God if they were naturalists. One of the friends, a philosopher, argues that evidence for God would be easy to find, in the form of every time someone asks for a gold brick. The other two friends disagree, and say that the process of elimination is the only reasonable option. They also mention a new project they're working on together, called "ea dawah."
+- **<a onclick="modifyYTiframeseektime('10500')">02:55:00</a>** The Thought Adventure Podcast discusses Pascal's Wager, a philosophical argument for the existence of God. Jake and Sharif discuss the possible consequences of believing in God, and Alex Malpass discusses a new article he has written on the topic.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

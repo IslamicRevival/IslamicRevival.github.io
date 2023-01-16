@@ -11,20 +11,20 @@
 2:27:10 - Karan Tushar (Atheist)
 2:33:09 - Mujtaba Roozbahani (Muslim)
 2:42:22 - Haatim (Muslim)
-2:43:36 Summary 
+2:43:36 Summary
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -32,41 +32,39 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
-
-#kca #atheism #necessarybeing
+# kca #atheism #necessarybeing
 
 ## Summary of [From Necessary Being to God - Debunking Atheist Arguments | Thought Adventure Podcast #6](https://www.youtube.com/watch?v=qoMyzWN28gI)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -75,48 +73,53 @@ Gmail: hello.tapodcast@gmail.com
  discusses the theist's arguments against atheism, and how some of these arguments are rational and coherent.  finishes by saying that atheism is irrational in light of these arguments.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** In this episode of the Thought Adventure Podcast, muslim metaphysician Abdur Rahman discusses the second stage of the kalam argument, which is attempting to infer the properties of a necessary being from its contingent existence. He explains that this is called a stage 2 cosmological argument, and goes on to discuss how the necessary being must have certain properties in order to match up with the attributes of God or what is commonly understood as such.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The brother discusses why it is necessary to believe in God, pointing out that some concepts are intuitively accessible and that this belief does not contradict science. He argues that once a person reaches a conclusion that is more towards theistic, it has a rational basis that complies with intuition. The conclusion is therefore a straight "no" because we are limited by observation and presuppose things before we observe them.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses cosmological arguments, and the objections that can be raised against them. It touches on the idea of basic beliefs, and how philosophical arguments for the existence of an external world can be complex and difficult to understand at first. Ultimately, the video argues that despite these challenges, there is still a discussion to be had about the existence of an external world.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The first argument in the atheist debate is that contingent beings require a necessary being. If this is accepted, then the atheist must accept that there was a beginning to all existence. This leads to the conclusion that contingent beings have an eternal cause, which is the universe. The second argument is that contingent beings are those things which could have multiple different attributes. This also leads to the conclusion that the universe has an eternal cause. Finally, the atheist must explain why the universe has the particular attributes it does. This can be done by talking about hydrogen bonding, which is a necessary foundation for all potential attributes.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>**  the Thought Adventure Podcast discusses four arguments for the existence of a God. The first argument is from necessity. The second argument is from consciousness. The third argument is from free will. The fourth argument is from the problem of other minds. The podcast concludes that, if all of these arguments are valid, then God must exist.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Robert Coons argues that if the necessary being is a mere contingent fact, then we would be able to stop at our experience and not look for an explanation beyond it. He reasons that if we assume that everything has a cause, then it would be a case of special pleading to say that there is another necessary thing that does not have a cause.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Arguing that a necessary being exists is not arbitrary, but rather based on certain premises, such as agent causation and free will.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** The philosopher and author of "The Ends of Life" discusses the problem of how an eternal cause can produce a temporal effect. He argues that in order to explain this, we would need to posit a will on the part of the cause. This is a problematic idea, as it would suggest that the cause has some kind of intention or desire.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** The presenter argues that the necessary being is a being that has a will, and that by definition this being is the freest kind of will there are. He provides reasons why this being would choose to bring things into existence that are dependent upon it, and concludes by saying that this is the closest thing we can get to explaining how something has a will.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  brothers Justin and Jake discuss how Islam requires belief in a creator, which automatically leads to a revelation about that creator's attributes. Justin agrees with the sentiment and believes that without a revelation from God, Muslims would be "blind" to certain aspects of His nature.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the theist's arguments against atheism, and how some of these arguments are rational and coherent.  finishes by saying that atheism is irrational in light of these arguments.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the difference between reality and existence, and explains that reality refers to what exists as a possible or necessary existence, while existence refers to the act of bringing something into being. The presenter argues that reality must have a will in order to bring things into being, and that a necessary being must have this will.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The brother discusses why it is necessary to believe in God, pointing out that some concepts are intuitively accessible and that this belief does not contradict science. He argues that once a person reaches a conclusion that is more towards theistic, it has a rational basis that complies with intuition. The conclusion is therefore a straight "no" because we are limited by observation and presuppose things before we observe them.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses cosmological arguments, and the objections that can be raised against them. It touches on the idea of basic beliefs, and how philosophical arguments for the existence of an external world can be complex and difficult to understand at first. Ultimately, the video argues that despite these challenges, there is still a discussion to be had about the existence of an external world.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The first argument in the atheist debate is that contingent beings require a necessary being. If this is accepted, then the atheist must accept that there was a beginning to all existence. This leads to the conclusion that contingent beings have an eternal cause, which is the universe. The second argument is that contingent beings are those things which could have multiple different attributes. This also leads to the conclusion that the universe has an eternal cause. Finally, the atheist must explain why the universe has the particular attributes it does. This can be done by talking about hydrogen bonding, which is a necessary foundation for all potential attributes.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>**  the Thought Adventure Podcast discusses four arguments for the existence of a God. The first argument is from necessity. The second argument is from consciousness. The third argument is from free will. The fourth argument is from the problem of other minds. The podcast concludes that, if all of these arguments are valid, then God must exist.
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Robert Coons argues that if the necessary being is a mere contingent fact, then we would be able to stop at our experience and not look for an explanation beyond it. He reasons that if we assume that everything has a cause, then it would be a case of special pleading to say that there is another necessary thing that does not have a cause.
+- **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Arguing that a necessary being exists is not arbitrary, but rather based on certain premises, such as agent causation and free will.
+- **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** The philosopher and author of "The Ends of Life" discusses the problem of how an eternal cause can produce a temporal effect. He argues that in order to explain this, we would need to posit a will on the part of the cause. This is a problematic idea, as it would suggest that the cause has some kind of intention or desire.
+- **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** The presenter argues that the necessary being is a being that has a will, and that by definition this being is the freest kind of will there are. He provides reasons why this being would choose to bring things into existence that are dependent upon it, and concludes by saying that this is the closest thing we can get to explaining how something has a will.
+- **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  brothers Justin and Jake discuss how Islam requires belief in a creator, which automatically leads to a revelation about that creator's attributes. Justin agrees with the sentiment and believes that without a revelation from God, Muslims would be "blind" to certain aspects of His nature.
+- **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Discusses the theist's arguments against atheism, and how some of these arguments are rational and coherent.  finishes by saying that atheism is irrational in light of these arguments.
+- **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Discusses the difference between reality and existence, and explains that reality refers to what exists as a possible or necessary existence, while existence refers to the act of bringing something into being. The presenter argues that reality must have a will in order to bring things into being, and that a necessary being must have this will.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  "From Necessary Being to God - Debunking Atheist Arguments | Thought Adventure Podcast #6" examines the idea of a necessary being and argues that it is impossible for this being to exist.  then goes on to argue that the only viable position is that of theism.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** The Thought Adventure Podcast examines the idea that existence does not necessarily have a will and that possible beings can have a will or not have a will. The podcast then goes on to discuss the idea that reality existence is either a contingent being or a necessary being, and that the necessary being causes the contingent beings to exist. The podcast concludes by discussing the problem with this idea, arguing that the possible beings always existed because they were forced or compelled upon the necessary being.
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** The Thought Adventure Podcast discusses an argument for the existence of a necessary being that always brings the effect into being. Although the argument points to an eternal cause, the effect is temporal due to the lack of an eternal effect.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** The YouTube creator argues that there is a good case to say that the necessary being has a will, and that this justifies atheism.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>* Discusses how he is convinced that his daughter exists and is another mind, and that she experiences pain. He discusses how there is no problem with other conscious beings existing, and how he is moving closer to accepting that the necessary being has a will. He talks about how brother Jake has been bullying him into silence, and how he is excited to talk to him again.
-* **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** The atheist argues that because things in the universe do not move by their nature, there must be an external cause for their behavior. The philosopher responds that this is the same argument as saying that because a rock does not naturally fall, it must be the result of a willful intentional agent.
-* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>* Discusses four arguments for the existence of a god, one of which is that some properties or attributes of creation are contingent and need explanation. They agree that everything in the world is created, but disagree on what some of that creation is. believes that some properties or attributes of creation are necessary for its existence, while others are possible.
-* **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>* Discusses the fine-tuning argument and how it can be flawed. They say that if something is not necessary for the existence of a thing, then it is logically impossible for that thing to exist. They argue that all things in the universe are created, but some things, such as the attributes of God, are not necessary in and of themselves, but are contingent on other things.
-* **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** The atheist argues that since some attributes of God are necessary for his existence, then God must exist eternally. The theist counters that this does not mean that the existence of God is a metaphysical necessity.
-* **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** The Atheist argues that there is no need for anything, since it is only contingently necessary. The Christian counters that everything is necessary for the existence of the subject of its attribution, such that everything is necessary.
-* **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** argues that the cosmological argument is a good argument, and that using the same premises, the only explanation for a necessary being is that it has will and intentionality. They go on to say that if the cause is eternal, the effect would be the same, which would be deterministic.
-* **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** The argument concludes that if a necessary being exists, it must cause its effects, which means that the universe and all its contingent beings are eternal.
-* **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>**  debunks arguments for atheism by examining the concept of a necessary being, which would require an infinite regress of contingent beings.  argues that these concepts are impossible, as the necessary being has a beginning and does not have to cause the effect. This leads to the conclusion that theism is the only viable position.
+
+- **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** The Thought Adventure Podcast discusses an argument for the existence of a necessary being that always brings the effect into being. Although the argument points to an eternal cause, the effect is temporal due to the lack of an eternal effect.
+- **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** The YouTube creator argues that there is a good case to say that the necessary being has a will, and that this justifies atheism.
+- **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** Discusses how he is convinced that his daughter exists and is another mind, and that she experiences pain. He discusses how there is no problem with other conscious beings existing, and how he is moving closer to accepting that the necessary being has a will. He talks about how brother Jake has been bullying him into silence, and how he is excited to talk to him again.
+- **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** The atheist argues that because things in the universe do not move by their nature, there must be an external cause for their behavior. The philosopher responds that this is the same argument as saying that because a rock does not naturally fall, it must be the result of a willful intentional agent.
+- **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** Discusses four arguments for the existence of a god, one of which is that some properties or attributes of creation are contingent and need explanation. They agree that everything in the world is created, but disagree on what some of that creation is. believes that some properties or attributes of creation are necessary for its existence, while others are possible.
+- **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** Discusses the fine-tuning argument and how it can be flawed. They say that if something is not necessary for the existence of a thing, then it is logically impossible for that thing to exist. They argue that all things in the universe are created, but some things, such as the attributes of God, are not necessary in and of themselves, but are contingent on other things.
+- **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** The atheist argues that since some attributes of God are necessary for his existence, then God must exist eternally. The theist counters that this does not mean that the existence of God is a metaphysical necessity.
+- **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** The Atheist argues that there is no need for anything, since it is only contingently necessary. The Christian counters that everything is necessary for the existence of the subject of its attribution, such that everything is necessary.
+- **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** argues that the cosmological argument is a good argument, and that using the same premises, the only explanation for a necessary being is that it has will and intentionality. They go on to say that if the cause is eternal, the effect would be the same, which would be deterministic.
+- **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** The argument concludes that if a necessary being exists, it must cause its effects, which means that the universe and all its contingent beings are eternal.
+- **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>**  debunks arguments for atheism by examining the concept of a necessary being, which would require an infinite regress of contingent beings.  argues that these concepts are impossible, as the necessary being has a beginning and does not have to cause the effect. This leads to the conclusion that theism is the only viable position.
+
 ### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:50:00</a>
 
  discusses the two stages of the cosmological argument, which are necessary being and God creating the universe. The first stage is that something exists that is necessary for the universe to exist, and the second stage is that God created the universe.  points out that if one already conceded on the first stage, then moving on to the secondary points does not seem to make much sense.
 
-**<a onclick="modifyYTiframeseektime('7200')">02:00:00</a>* Discusses the two stages of the cosmological argument, which are necessary being and God creating the universe. The first stage is that something exists that is necessary for the universe to exist, and the second stage is that God created the universe.  points out that if one already conceded on the first stage, then moving on to the secondary points does not seem to make much sense.
-* **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>** argues that there is something that is necessary and natural, and that this something is something that we cannot know or understand in full because it is too complex. They go on to say that the same reasoning applies to questions about the nature of reality and the existence of God.
-* **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>* Discusses the difference between a necessary being and a will, and argues that a necessary being cannot be naturalistic pantheism because x causes y if x exists, which would mean y would be eternal.
-* **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>** Atheists commonly argue that a necessary being does not have consciousness or will, but Debunking Atheist Arguments host Carlos Wallace points out that this is not a new argument, as first-person experience demonstrates that consciousness and will are indistinguishable.
-* **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>* Discusses the concept of intentionality, which is the ability of a being to act with a certain goal in mind.  discusses the idea that intentionality cannot be explained within a naturalistic framework, and must be attributed to a being with intentionality, or a "necessary being."  then goes on to discuss other properties of this necessary being, such as its ability to be good or evil, and its independence from the physical world.
-* **<a onclick="modifyYTiframeseektime('8700')">02:25:00</a>** The next guest on the Thought Adventure Podcast is Karen, who argues that a necessary being with a will is simpler than a complex being without metaphysical baggage.
-* **<a onclick="modifyYTiframeseektime('9000')">02:30:00</a>* Discusses atheist arguments and how one could differentiate between state and creature consciousness. He then goes on to talk about Mahatma Gandhi, who was a Hindu leader who was able to lead his people to freedom from British colonization. If atheism could be proven to be correct on any issue, billions of people would switch to atheism.
-* **<a onclick="modifyYTiframeseektime('9300')">02:35:00</a>** talks about how, according to him, the atheist arguments against the existence of God are not well-received by the majority of people. He also mentions that there are other topics that the Thought Adventure Podcast plans to cover in the future.
-* **<a onclick="modifyYTiframeseektime('9600')">02:40:00</a>** Jake argues that because a being with a will would necessarily be God, the atheist cannot logically argue against the existence of God based on the premise that a being with a will cannot exist.
-* **<a onclick="modifyYTiframeseektime('9900')">02:45:00</a>* Discusses how atheists often try to argue against the existence of a necessary being by pointing out that the existence of a necessary being would require things like consciousness, free will, and teleology, all of which are not found in naturalistic systems.  then goes on to argue that, even if these things are not found in a naturalistic system, there is a rational basis to believe in them because they are all consequences of the existence of a necessary being.
-* **<a onclick="modifyYTiframeseektime('10200')">02:50:00</a>** In this episode, the hosts discuss why it is irrational to be an atheist, citing the evidence collected in the previous episodes. They also remind viewers to follow the podcast on social media, and to leave comments for future episodes.
+**<a onclick="modifyYTiframeseektime('7200')">02:00:00</a>** Discusses the two stages of the cosmological argument, which are necessary being and God creating the universe. The first stage is that something exists that is necessary for the universe to exist, and the second stage is that God created the universe.  points out that if one already conceded on the first stage, then moving on to the secondary points does not seem to make much sense.
+
+- **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>** argues that there is something that is necessary and natural, and that this something is something that we cannot know or understand in full because it is too complex. They go on to say that the same reasoning applies to questions about the nature of reality and the existence of God.
+- **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>** Discusses the difference between a necessary being and a will, and argues that a necessary being cannot be naturalistic pantheism because x causes y if x exists, which would mean y would be eternal.
+- **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>** Atheists commonly argue that a necessary being does not have consciousness or will, but Debunking Atheist Arguments host Carlos Wallace points out that this is not a new argument, as first-person experience demonstrates that consciousness and will are indistinguishable.
+- **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>** Discusses the concept of intentionality, which is the ability of a being to act with a certain goal in mind.  discusses the idea that intentionality cannot be explained within a naturalistic framework, and must be attributed to a being with intentionality, or a "necessary being."  then goes on to discuss other properties of this necessary being, such as its ability to be good or evil, and its independence from the physical world.
+- **<a onclick="modifyYTiframeseektime('8700')">02:25:00</a>** The next guest on the Thought Adventure Podcast is Karen, who argues that a necessary being with a will is simpler than a complex being without metaphysical baggage.
+- **<a onclick="modifyYTiframeseektime('9000')">02:30:00</a>** Discusses atheist arguments and how one could differentiate between state and creature consciousness. He then goes on to talk about Mahatma Gandhi, who was a Hindu leader who was able to lead his people to freedom from British colonization. If atheism could be proven to be correct on any issue, billions of people would switch to atheism.
+- **<a onclick="modifyYTiframeseektime('9300')">02:35:00</a>** talks about how, according to him, the atheist arguments against the existence of God are not well-received by the majority of people. He also mentions that there are other topics that the Thought Adventure Podcast plans to cover in the future.
+- **<a onclick="modifyYTiframeseektime('9600')">02:40:00</a>** Jake argues that because a being with a will would necessarily be God, the atheist cannot logically argue against the existence of God based on the premise that a being with a will cannot exist.
+- **<a onclick="modifyYTiframeseektime('9900')">02:45:00</a>** Discusses how atheists often try to argue against the existence of a necessary being by pointing out that the existence of a necessary being would require things like consciousness, free will, and teleology, all of which are not found in naturalistic systems.  then goes on to argue that, even if these things are not found in a naturalistic system, there is a rational basis to believe in them because they are all consequences of the existence of a necessary being.
+- **<a onclick="modifyYTiframeseektime('10200')">02:50:00</a>** In this episode, the hosts discuss why it is irrational to be an atheist, citing the evidence collected in the previous episodes. They also remind viewers to follow the podcast on social media, and to leave comments for future episodes.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

@@ -5,16 +5,15 @@
 ## Description
 
 MH Podcast Episode #9
-Podcast playlist: https://www.youtube.com/playlist?list=PLzESAoLKD0l8e9M6mk2TuC5vEh8wYlP_6
+Podcast playlist: <https://www.youtube.com/playlist?list=PLzESAoLKD0l8e9M6mk2TuC5vEh8wYlP_6>
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
-My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
+My book: <https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/>
 
 ## Summary of [Linda Sarsour, Omar Suleiman & American Muslim Activism - Ali Dawah & Dilly Hussain (MH Podcast #9)](https://www.youtube.com/watch?v=JF7ym1dUwGA)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -23,6 +22,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
  Linda Sarsour, Omar Suleiman, and Ali Dawah discuss American Muslim activism and the importance of being clear about objectives and staying segregated from non-Muslims. Dawah advises Muslims to lead civil rights movements, and Sarsour warns against jumping on the bandwagon and compromising one's principles.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** In this podcast, Ali Dawah and Dilly Hussain discuss Linda Sarsour, Omar Suleiman, and American Muslim activism. They discuss the different approaches that the UK and US have taken to addressing issues within their Muslim communities, and deli Hussein discusses the challenges that he has faced as an Islamic activist in the UK.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Linda Sarsour, Omar Suleiman, and American Muslim activist Dilly Hussain discuss the success of Muslim protests against anti-Muslim bigotry, which has resulted in the passage of a law in England that requires schools to teach about same-sex relationships. Ali Dawah, host of the MH podcast, adds that this is just one example of the many ways Muslim activists are engaged in activism.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Linda Sarsour is a prominent American Muslim activist and advocate for Palestinian rights. She came into prominence during the Million Women's March, where she spoke out against President Trump's policies towards women. Some of her controversial statements include her support for same-sex marriage and abortion, and her insistence that clerics in America should acquiesce to progressive ideology. Sarsour has been criticised by some within the Muslim community for her uncritical embrace of leftist values, and for her willingness to work with non-Muslims.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Linda Sarsour, Omar Suleiman, and American Muslim activism Ali Dawah and Dilly Hussain discuss Sarsour's views on gay rights and Islamic rights being part of the same struggle, intersectionality, and how it applies to the muslim community. Sarsour argues that, from an intersectional perspective, islam should not be subordinate to feminist thought.
@@ -30,15 +30,17 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Linda Sarsour, Omar Suleiman, and American Muslim activism are discussed in this video. Sarsour is criticized for her use of provocative rhetoric and for aligning herself with the left. It is suggested that she should answer questions about her beliefs on moral issues, abortion, and marriage to build trust within the Muslim community.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Linda Sarsour, Omar Suleiman, and American Muslim activism is examined in this video. It is noted that Sarsour has been dropped from a campaign event after her comments on Philistines and Hadith. It is also mentioned that Sarsour's intention might be good, but her actions are not in line with Islamic principles.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Linda Sarsour, Omar Suleiman, and American Muslim activism are discussed in this video. The three discuss how the intentions of a muslim are good, but the action of the muslim must be recorded in scripture for it to be accepted. It is important to differentiate between who was present and who was doing the action, and to understand that muslims have a responsibility to stand up against injustice. The discussion then turns to the UK, where a conference was held in response to the Birmingham mosque attack. The conference was attended by left-leaning groups, and was criticized for not condemning the evil happening while it was happening. The ideal Muslim activist is someone who prioritizes the rights of allah over the rights of the people, and this is the basis of muslim activism.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses how left-leaning, progressive Muslim groups often have little input from Muslims themselves, and how this can lead to tensions and awkwardness. also talks about how some Muslims may repent after hearing questionable information.
+* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses how left-leaning, progressive Muslim groups often have little input from Muslims themselves, and how this can lead to tensions and awkwardness. also talks about how some Muslims may repent after hearing questionable information.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Linda Sarsour, Omar Suleiman, and American Muslim activism are discussed in this video. Ali Dawah and Dilly Hussain discuss the red line that needs to be drawn when it comes to Islamic activism, and how it often comes back to compromising the rights of Allah. They also discuss how the opportunity cost of Muslim activism can be high, and how it's a failed strategy when compared to the UK's strategy of Islamic conservatives.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>**  Linda Sarsour, Omar Suleiman, and Ali Dawah discuss American Muslim activism and the importance of being clear about objectives and staying segregated from non-Muslims. Dawah advises Muslims to lead civil rights movements, and Sarsour warns against jumping on the bandwagon and compromising one's principles.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses Linda Sarsour, Omar Suleiman, and American Muslim activism. Dilly Hussain and Ali Dawah point out that if someone has changed their views, that does not mean that their previous views were wrong. They argue that there are red lines that enable activists to be held accountable, and that Linda Sarsour and others in the U.S. have not been held to these same standards.
+* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Discusses Linda Sarsour, Omar Suleiman, and American Muslim activism. Dilly Hussain and Ali Dawah point out that if someone has changed their views, that does not mean that their previous views were wrong. They argue that there are red lines that enable activists to be held accountable, and that Linda Sarsour and others in the U.S. have not been held to these same standards.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:05:00</a>
 
 The discussion on this podcast centers around the idea that American Muslim activists are not doing enough to study and follow Islam, and that this could lead to conflicts down the line. The need for a middle ground is emphasized, and it is suggested that people try to develop a more nuanced understanding of Islam.
 
-**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>* Discusses the various ways in which Linda Sarsour, Omar Suleiman, and American Muslim activism differ, and how these differences can create conflicts. It stresses the need for a middle ground, and suggests that those who watch it should try to develop a more nuanced understanding of Islam.
+**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Discusses the various ways in which Linda Sarsour, Omar Suleiman, and American Muslim activism differ, and how these differences can create conflicts. It stresses the need for a middle ground, and suggests that those who watch it should try to develop a more nuanced understanding of Islam.
+
 * **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** This podcast discusses the problems with American Muslim activism, specifically the way in which people are trying to please various groups while neglecting their Islamic duty to study and follow their religion. The discussion leads to the conclusion that success in this life or the hereafter is not contingent on numbers or popularity, but on following Allah's commands.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

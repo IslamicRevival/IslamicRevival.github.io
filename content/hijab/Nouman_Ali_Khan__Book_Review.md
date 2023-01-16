@@ -6,12 +6,11 @@
 
 An attempt at explaining the linguistic and structural miracles of the Quran using Nouman Ali Khan's book as a guide. The review also deals with the allegations of the orientalists of structural incoherence and the authors response.
 
-Dr. Aymans channel - https://www.youtube.com/channel/UCtDQcwpY7p-1sfm4njqKkjw
+Dr. Aymans channel - <https://www.youtube.com/channel/UCtDQcwpY7p-1sfm4njqKkjw>
 
-Dr. Aymans Instagram - https://www.instagram.com/ayman_sebazzi/
+Dr. Aymans Instagram - <https://www.instagram.com/ayman_sebazzi/>
 
 ## Summary of [Nouman Ali Khan Book Review](https://www.youtube.com/watch?v=hKub_aeM-6w)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -20,6 +19,7 @@ Dr. Aymans Instagram - https://www.instagram.com/ayman_sebazzi/
 This book provides an overview of the Quran's linguistic precision and structural coherence. It also discusses how these qualities make the Quran a linguistic miracle.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Nouman Ali Khan discusses the linguistic precision and structural coherence of the Quran in this book. He argues that these qualities make the Quran a linguistic miracle.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Nouman Ali Khan discusses the linguistic elements of the Quran, which make it miraculous. He also discusses the macro perspective, looking at it from the perspective of its structure and coherence. He provides examples of this.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Nouman Ali Khan discusses the importance of sources in Islamic theology and provides an example of a scholar who has influenced him, Father Summer. He also mentions that Father Samurai is one of the few sources of Quranic Arabic grammar.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Noman Ali Khan discusses the importance of continuity in classical scholarship, and how it can help prevent reliance on one source for spiritual guidance. He also discusses the book, "Secret of the Chronology of the Quran" by Imam Co., and how father Simon takes the concept of continuity a step further by looking at the relationship between end of one surah and the beginning of the next.

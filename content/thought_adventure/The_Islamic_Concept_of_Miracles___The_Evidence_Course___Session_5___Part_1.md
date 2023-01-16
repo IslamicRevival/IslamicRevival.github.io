@@ -6,22 +6,22 @@
 
 Session 5  Part 1
 
-In an age of information overload and widespread pseudo-intellectualism, understanding the core foundations of Islam is as essential as ever. 
+In an age of information overload and widespread pseudo-intellectualism, understanding the core foundations of Islam is as essential as ever.
 
 This course comprehensively deconstructs the skeletal structure of prevalent ideologies and concepts such as atheism, scientism, materialism, secularism, and skepticism, in light of an all-encompassing intellectually robust Islamic worldview.
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -29,38 +29,37 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
 ## Summary of [The Islamic Concept of Miracles | The Evidence Course | Session 5 / Part 1](https://www.youtube.com/watch?v=GCmNMuWWaco)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -68,10 +67,11 @@ Gmail: hello.tapodcast@gmail.com
 
  discusses the Islamic concept of miracles, which refers to an inimitable act that cannot be explained by human beings or nature. The evidence for these miracles comes from the prophets and messengers sent by God, whose evidence cannot be replicated. When individuals witness one of these miracles, they are fully aware that it is not something that can be done by human beings alone.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the various filters that we use when assessing whether or not a person is from the creator. He goes on to explain that if a person presents evidence that is beyond what humans are capable of producing, then we can know that they are from the creator. In this case, the sign would be the fact that the person brought something that no human could produce.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the Islamic concept of miracles, which refers to an inimitable act that cannot be explained by human beings or nature. The evidence for these miracles comes from the prophets and messengers sent by God, whose evidence cannot be replicated. When individuals witness one of these miracles, they are fully aware that it is not something that can be done by human beings alone. If a new medication is discovered and put under a patent for 10 years to prevent other companies from reverse engineering it, this is an example of how the concept of miracles is applied in the real world.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The Islamic concept of miracles is explained  as is the case with Prophet Muhammad's encounter with magicians. Musa al-Islam accepted a challenge to show his miracles to Pharaoh, and when the magicians failed to produce the same effects, Pharaoh realized it was a miracle.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the Islamic concept of miracles, discussing how magicians can recognize a non-naturalistic event as a miracle. It goes on to discuss the evidence for the prophethood of Prophet Muhammad, focusing on the textual evidence in the Quran. Finally, it discusses how today's miracles might be tested and judged according to the same principles.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the various filters that we use when assessing whether or not a person is from the creator. He goes on to explain that if a person presents evidence that is beyond what humans are capable of producing, then we can know that they are from the creator. In this case, the sign would be the fact that the person brought something that no human could produce.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the Islamic concept of miracles, which refers to an inimitable act that cannot be explained by human beings or nature. The evidence for these miracles comes from the prophets and messengers sent by God, whose evidence cannot be replicated. When individuals witness one of these miracles, they are fully aware that it is not something that can be done by human beings alone. If a new medication is discovered and put under a patent for 10 years to prevent other companies from reverse engineering it, this is an example of how the concept of miracles is applied in the real world.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The Islamic concept of miracles is explained  as is the case with Prophet Muhammad's encounter with magicians. Musa al-Islam accepted a challenge to show his miracles to Pharaoh, and when the magicians failed to produce the same effects, Pharaoh realized it was a miracle.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the Islamic concept of miracles, discussing how magicians can recognize a non-naturalistic event as a miracle. It goes on to discuss the evidence for the prophethood of Prophet Muhammad, focusing on the textual evidence in the Quran. Finally, it discusses how today's miracles might be tested and judged according to the same principles.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

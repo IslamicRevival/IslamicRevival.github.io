@@ -8,7 +8,6 @@ This talk is an attempt at identifying some of the issues regarding 2nd wave fem
 
 ## Summary of [The Fundamental Flaws in Feminism](https://www.youtube.com/watch?v=IKhIeCF1kPY)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:25:00</a>
@@ -16,11 +15,12 @@ This talk is an attempt at identifying some of the issues regarding 2nd wave fem
  discusses the fundamental flaws in feminism, including the fact that it disregards the power of mothers and the differences between men and women. It argues that this leads to unequal rights and treatment between men and women, and that the movement needs to focus on rectifying these issues before discussing further equality.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** So according to Simone de Beauvoir, women are weaker and more emotional than men, and this is a result of biological differences. Beauvoir argues that feminism should not focus on these differences, because they don't matter. She is a mainstream feminist and has a lot of influence in the feminist movement.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the philosophical and psychological underpinnings of feminism, and points out that feminists often portray men in a negative light. It then gives a story of a woman, Maya, who is working as a chef, and shares too much time with her chef, who happens to be male.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the philosophical and psychological underpinnings of feminism, and points out that feminists often portray men in a negative light. It then gives a story of a woman, Maya, who is working as a chef, and shares too much time with her chef, who happens to be male.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** 's speaker argues that feminism has not actually forced men to reevaluate their roles in society, as the movement primarily calls for human male sacrifice power. also points to statistics that show that, in the United States context, women actually have more net profit and spending power.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  argues that because women have more spending power than men, they have an advantage in the workplace. It also points out that because of traditional gender roles, a man may have more power over women when he is in a position of authority.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the fundamental flaws in feminism, which include disregarding the power of mothers and overlooking the differences between men and women. It argues that this leads to unequal rights and treatment between men and women, and that the movement needs to focus on rectifying these issues before discussing further equality.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses the fundamental flaws in feminism and why it doesn't work. The rules for feminism must be carefully balanced so that both men and women have equal rights, and this is not always the case in practice. The author's father loved him, but he did not want the same things as his female relatives. Some things, like the fact that women have a portion of their own strength and intelligence, are based on reality rather than virtue. When discussing women's rights, it is important to remember these facts.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the fundamental flaws in feminism, which include disregarding the power of mothers and overlooking the differences between men and women. It argues that this leads to unequal rights and treatment between men and women, and that the movement needs to focus on rectifying these issues before discussing further equality.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses the fundamental flaws in feminism and why it doesn't work. The rules for feminism must be carefully balanced so that both men and women have equal rights, and this is not always the case in practice. The author's father loved him, but he did not want the same things as his female relatives. Some things, like the fact that women have a portion of their own strength and intelligence, are based on reality rather than virtue. When discussing women's rights, it is important to remember these facts.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

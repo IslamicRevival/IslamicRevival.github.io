@@ -5,25 +5,24 @@
 ## Description
 
 Help us educate and mentor others to share the faith academically.
-Donate now: https://sapienceinstitute.org/donate/ 
+Donate now: <https://sapienceinstitute.org/donate/>
 
-Free online courses: https://learn.sapienceinstitute.org/
+Free online courses: <https://learn.sapienceinstitute.org/>
 
-Free books: https://sapienceinstitute.org/books/
+Free books: <https://sapienceinstitute.org/books/>
 
-Have doubts? Book a mentor: https://sapienceinstitute.org/lighthouse/
+Have doubts? Book a mentor: <https://sapienceinstitute.org/lighthouse/>
 
-Listen (Podcast): https://sapienceinstitute.org/sapientvoices/
+Listen (Podcast): <https://sapienceinstitute.org/sapientvoices/>
 
 Follow:
-– Facebook: https://facebook.com/sapienceinstitute.org/ 
-– Twitter: https://twitter.com/SapienceOrg/ 
-– Instagram: https://instagram.com/sapienceinstitute/ 
+– Facebook: <https://facebook.com/sapienceinstitute.org/>
+– Twitter: <https://twitter.com/SapienceOrg/>
+– Instagram: <https://instagram.com/sapienceinstitute/>
 
-Articles, speaker requests & more: https://sapienceinstitute.org/
+Articles, speaker requests & more: <https://sapienceinstitute.org/>
 
 ## Summary of [Modern Trends: Islam & Science | Mohammed Hijab](https://www.youtube.com/watch?v=s-Jw_A4vud8)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -32,22 +31,24 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
  discusses the relationship between Islam and science, arguing that there is a tension between the two but that they are not in opposition to each other. goes on to discuss the decline of Islamic science, attributing this to a variety of factors including the Ottoman Empire's decline in the 17th and 18th centuries.  explains that while the Muslims were unable to keep up with the technological advances of the West, they did have some key advantages, such as being able to colonize large parts of the world.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** New Atheists argue that religion inhibits science, and that without religion, science would prosper. AC Grayling, a new atheist, argues that this is false; in fact, the two are in opposition to each other.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses how different religious beliefs can conflict with scientific understanding, particularly when it comes to theories about the age of the universe. It goes on to discuss how some scientists believe that the age of the universe can only be explained through a literal interpretation of the Bible.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses how modern trends show that Islam and science do not contradict each other. goes on to argue that there is a tension between these two beliefs, but that it is not a problem if they are considered to be separate categories.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the decline of Islamic science, attributing this to a variety of factors. The best historian of science in the Muslim world is mentioned, as he is very fair-minded when approaching Islamic history. He argues that the decline began in the 15th century, and that it continued up until the Ottoman Empire's decline in the 17th and 18th centuries. The English were particularly interested in science during the Scientific Revolution, which took place one century before.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the historical trend of science and technology moving from the Muslim world to the West, and why this shift occurred. It explains that while the Muslims were unable to keep up with the technological advances of the West, they did have some key advantages, such as being able to colonize large parts of the world. The Renaissance and Scientific Revolution were both spurred by the West's discovery of information from the Islamic world, and the subsequent translation and dissemination of that knowledge.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses how when a civilization reaches a peak, they become complacent and begin to enjoy their worldly possessions. This is what caused the downfall of the Islamic Empire, as they became too comfortable after such great victories.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses how different religious beliefs can conflict with scientific understanding, particularly when it comes to theories about the age of the universe. It goes on to discuss how some scientists believe that the age of the universe can only be explained through a literal interpretation of the Bible.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses how modern trends show that Islam and science do not contradict each other. goes on to argue that there is a tension between these two beliefs, but that it is not a problem if they are considered to be separate categories.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the decline of Islamic science, attributing this to a variety of factors. The best historian of science in the Muslim world is mentioned, as he is very fair-minded when approaching Islamic history. He argues that the decline began in the 15th century, and that it continued up until the Ottoman Empire's decline in the 17th and 18th centuries. The English were particularly interested in science during the Scientific Revolution, which took place one century before.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the historical trend of science and technology moving from the Muslim world to the West, and why this shift occurred. It explains that while the Muslims were unable to keep up with the technological advances of the West, they did have some key advantages, such as being able to colonize large parts of the world. The Renaissance and Scientific Revolution were both spurred by the West's discovery of information from the Islamic world, and the subsequent translation and dissemination of that knowledge.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses how when a civilization reaches a peak, they become complacent and begin to enjoy their worldly possessions. This is what caused the downfall of the Islamic Empire, as they became too comfortable after such great victories.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>**  Mohammed Hijab discusses the similarities between the economies of the Middle East and Latin America, which he attributes to Colonialism. He also points out that the majority of people who accept Islam are from the working class. He discusses a Hadith which states that the Prophet Muhammad followed the working class.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** In the 12th century, a decline in Islamic scientific traditions was claimed due to a religious attack on it. However, many of the problems with this argument are outlined in the text itself. For example, Razali was a philosopher, and his writings are full of critical thought. Furthermore, he advocated for science, and it is not clear how his work would be indicative of a scientific decline.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses the history of Islamic science, pointing out that it continued up until the 15th century. It also discusses the translation movement, noting that some texts were not translated due to the difficulties involved in doing so. John Hoover, a philosopher, praises Aristotle for attacking other philosophers and for promoting the development of logic.
+* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses the history of Islamic science, pointing out that it continued up until the 15th century. It also discusses the translation movement, noting that some texts were not translated due to the difficulties involved in doing so. John Hoover, a philosopher, praises Aristotle for attacking other philosophers and for promoting the development of logic.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Robert Merton believes that religion facilitated and sanctioned scientific discoveries, some of which were independent of the Greeks. Muhammad Hijab provides examples of such independent discoveries.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Max Faber discusses how the Protestant Reformation led to the Scientific Revolution, and how Robert Merton argues that Christianity gives people the incentive to engage in industry and create science. He also mentions how there is a tension between the Christian church and science.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses how Karl Marx formalized the idea of ideologies, how competing theories led to the substitution of morality with religion, and how Darwin's theory of evolution became almost a religion.  points to examples of how new atheism inhibits science by dissuading scientists from engaging in religious discussion, and how this discourages scientific inquiry.
+* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Discusses how Karl Marx formalized the idea of ideologies, how competing theories led to the substitution of morality with religion, and how Darwin's theory of evolution became almost a religion.  points to examples of how new atheism inhibits science by dissuading scientists from engaging in religious discussion, and how this discourages scientific inquiry.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:00:00</a>
 
  discusses how some new atheists have cast aspersions on the theory of evolution, claiming that it is not empirically based. also discusses how the West has taken over the Muslim world in terms of science, citing independent knowledge production as one example.
 
-**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>* Discusses modern trends in Islam and science, discussing how some new atheists have cast aspersions on the theory of evolution, claiming that it is not empirically based. also discusses how the West has taken over the Muslim world in terms of science, citing independent knowledge production as one example.
+**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Discusses modern trends in Islam and science, discussing how some new atheists have cast aspersions on the theory of evolution, claiming that it is not empirically based. also discusses how the West has taken over the Muslim world in terms of science, citing independent knowledge production as one example.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

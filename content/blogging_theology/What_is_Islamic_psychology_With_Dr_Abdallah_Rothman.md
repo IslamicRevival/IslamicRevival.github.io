@@ -4,18 +4,17 @@
 
 ## Description
 
-Dr. Abdallah Rothman - Midnight Moments: https://youtube.com/playlist?list=PLjx2FfgGpKruHhLfDe2cJQREHBqicTRVO
+Dr. Abdallah Rothman - Midnight Moments: <https://youtube.com/playlist?list=PLjx2FfgGpKruHhLfDe2cJQREHBqicTRVO>
 
-Cambridge Muslim College https://www.cambridgemuslimcollege.ac.uk/
+Cambridge Muslim College <https://www.cambridgemuslimcollege.ac.uk/>
 
 You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
+<https://www.patreon.com/Bloggingtheology>
 
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
 ## Summary of [What is Islamic psychology? With Dr Abdallah Rothman](https://www.youtube.com/watch?v=dYGFhqdQfdI)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -24,6 +23,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
  discusses Islamic psychology, with a focus on the work of Dr. Abdallah Rothman. Dr. Rothman discusses the importance of engaging in honest and authentic dialogue, and discusses the Cambridge Muslim College.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Islamic psychology is a field that deals with the understanding of the human soul from an Islamic perspective. It draws from ontological and epistemological assumptions based on the Quran and Islamic tradition. In addition to understanding mental processes and behavior, it examines big concepts like epistemology and the nature of knowledge. This research often looks at conventional psychology from a materialist perspective, focusing on behavior and cognition.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Islamic psychology takes into account the Unseen World, recognizing knowledge that comes from things that we can't understand unless it comes from Revelation. There is disagreement among Islamic psychologists on the location of the soul, but it is one thing.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Islamic psychology emphasizes the importance of the heart as a spiritual center, and points to the Quran as evidence for this understanding of human beings. The heart is located in the chest, and is connected to the organ of the heart.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Islamic psychology differs from Western psychology in its focus on the pre- and post-natal stages of a person's life. It also differs in its view of the human being as a highly calibrated spiritual and physical being. This orientation towards God consciousness allows for a more transcendent understanding of one's self and the world.
@@ -31,7 +31,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Sufism is the inner reality of Islam, which includes the esoteric and theological aspects of the practice. In Sufism, the spiritual journey of the Soul is all about understanding the inner and transforming what is within oneself. Western psychology can learn a lot from Sufism, regardless of whether the person becomes Muslim or not.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Islamic psychology is a field of psychology that focuses on the human being in a way that is open to the heart rather than just dealing with thoughts. Abdallah Rothman provides resources for people interested in learning more about Islamic psychology.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Abdallah Rothman discusses Islamic psychology, which is a model of the soul that draws from traditional Islamic scholarship and Western academic thought. He sees the future of the Cambridge Muslim College as being one that engages both Islamic tradition and the contemporary world, and helps young leaders to understand both Islamic and Western thought.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses Islamic psychology, with a focus on the work of Dr. Abdallah Rothman. Dr. Rothman discusses the importance of engaging in honest and authentic dialogue, and discusses the Cambridge Muslim College.
+* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses Islamic psychology, with a focus on the work of Dr. Abdallah Rothman. Dr. Rothman discusses the importance of engaging in honest and authentic dialogue, and discusses the Cambridge Muslim College.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

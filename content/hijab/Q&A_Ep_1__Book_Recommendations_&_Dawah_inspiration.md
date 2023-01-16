@@ -6,7 +6,7 @@
 
 Q&A with Mohammed Hijab: Episode 1
 
-Don't forget to hit the LIKE button if you want more and please share the videos. 
+Don't forget to hit the LIKE button if you want more and please share the videos.
 
 0:00 Intro
 0:33 Do you suggest studying philosophy?
@@ -17,13 +17,12 @@ Don't forget to hit the LIKE button if you want more and please share the videos
 13:29 Story of your life?
 13:40 Where to start to increase knowledge?
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
 
 ## Summary of [Q&A Ep 1: Book Recommendations & Dawah inspiration](https://www.youtube.com/watch?v=zCfvKD88BEg)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -32,6 +31,7 @@ Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
 provides book recommendations for those interested in learning more about the Quran and Prophet Muhammad.  also recommends memorizing the Quran and studying the life of Prophet Salih.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** is a Q&A session with Salah discussing his education and his current work in Dawah. He recommends studying philosophy in order to be able to have a better understanding of the arguments for and against the existence of God. He also recommends the books Kalam Cosmological Arguments, Gods Undertaker, and Quranic Translation by Abdel Halim.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  provides a list of eight books that can be used to Further understand the Quran andProphet Muhammad. recommends Inner Dimensions of Prayer by Neil Robinson, Raymond Ferran's Structures Qur'an: Miraculous Structure and Coherence, and Introduction to Philosophy of Science with Samir Alkasha. He also recommends a book on Islamic law, feminism, liberalism, and democracy.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** provides a brief history of the world, and then provides recommendations for books that can be read for more information on various topics. Among the recommended books are The Times of Khattab, The Eternal Challenge, and Islamic Books: A Reading List for Beginners.  also recommends memorizing the Quran, and studying the life of Prophet Salih (as).
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  features a Q&A with a Muslim woman who recommends a pod cast called "Juice." The pod cast is composed of interviews with Muslim scholars and activists, and it is highly recommended by the woman interviewed. The podcast is well-researched and provides a good introduction to Islamic studies and the Arabic language.

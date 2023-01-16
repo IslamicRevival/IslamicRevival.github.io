@@ -4,12 +4,13 @@
 
 ## Description
 
-Listen as audio: https://soundcloud.com/sapienceinstitute/sets/londoniyyah
+Listen as audio: <https://soundcloud.com/sapienceinstitute/sets/londoniyyah>
 
 Londoniyyah - Part 16 - Marxism/1 | Mohammed Hijab
 
-To be updated about our content please subscribe and open the notifications.
+To be updated about our content please subscribe and open the notifications
 ----
+
 BOOK A LIGHTHOUSE MENTOR
 
 Are you or someone you know doubting Islam? Do you find yourself struggling to find answers?  Do you have a hard time speaking to someone about Islam?  Are you considering Islam but are unsure about certain concepts?  Are you an activist, Imam or community leader who is unsure about how to handle questions related to science, philosophy, the Islamic moral code, etc.?
@@ -18,12 +19,11 @@ You are not alone.  Over the course of the last decade or more there has been a 
 
 Seeing the rise of  this phenomenon , Sapience Institute is introducing a One to One mentoring service called LIGHTHOUSE.
 
-BOOK A MENTOR HERE: https://sapienceinstitute.org/lighthouse/
+BOOK A MENTOR HERE: <https://sapienceinstitute.org/lighthouse/>
 
-VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: https://sapienceinstitute.org/
+VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: <https://sapienceinstitute.org/>
 
 ## Summary of [Londoniyyah - Part 16 - Marxism/1 | Mohammed Hijab](https://www.youtube.com/watch?v=-ESNOmdG7R4)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -32,16 +32,17 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 Mohammed Hijab discusses the theory of historical materialism and how it relates to the ideas of Marx. He explains how surplus value is created in capitalism and how this can lead to exploitation of workers. Hijab argues that a different kind of system, in which the government owns the means of production, would be more beneficial to the workers.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  Mohammed Hijab discusses the theory of historical materialism, which is based on the idea that there are material forces that interact with each other in an economy. He also explains that this theory is contrasted with the theory of idealism, which believes that there are separate, abstract concepts that can be used to explain the functioning of society.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Mohammed Hijab discusses how Marxist theory regards material reality as the only constant in an ever-changing world. This material reality includes the economic aspects of society, such as the production and distribution of goods and services. In addition, Marx theorizes that there are two classes in society - the bourgeoisie, who own and operate the means of production, and the proletariat, who do physical labor in order to produce these goods. The tension between these two classes, as well as the possibility of a class struggle, is a central part of Marx's theory.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  Mohammed Hijab explains how surplus value is created in capitalism. Surplus value is the difference between the value of a commodity and the value of the labor that has been put into it. This difference is the source of capitalists' profits.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Marx discusses the strengths and weaknesses of surplus value theory, which is the idea that there is a difference between the value of a good created by workers and the value of the good that the owner gets for it. He argues that this difference is seen as exploitation and that, as a result, the owner should give the worker more of the value they create.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the theory of surplus value, which is that an owner should be paid what their labor is worth.  also critiques capitalist systems, which drive profits and exploitation.  argues that socialism is more in line with this theory.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the theory of surplus value, which is that an owner should be paid what their labor is worth.  also critiques capitalist systems, which drive profits and exploitation.  argues that socialism is more in line with this theory.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Mohammed Hijab discusses the advantages and weaknesses of the theory of surplus value. He argues that exploitation occurs because the value of the labor is not accounted for, and that the theory could lead to a situation where the worker has all the money.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Mohammed Hijab discusses Marx's theory of value and how it can be applied to the situation of workers in a factory. He argues that the owner of a factory does not necessarily deserve to receive all of the profits, as the factory still functioned with fewer workers. Hijab goes on to say that a different kind of system, in which the government owns the means of production, would be more beneficial to the workers.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>**  Mohammed Hijab explains how Marx's theory of surplus value states that the value of a commodity is not just based on the amount of labor that has gone into it, but also on factors like consumer preference.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>**  Mohammed Hijab discusses the limitations of liberal individualism and its effect on modern society.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Islam is anti-capitalist and anti-elitist. It believes that money should not be circulated among elites, and there are eight different recipients of zakat, including slaves freeing of slaves, the people who are poor, and the wayfarer.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the Islamic idea of redistribution, free market capitalism, and the difficulty of implementing those concepts in modern society.
+* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Discusses the Islamic idea of redistribution, free market capitalism, and the difficulty of implementing those concepts in modern society.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  a Muslim scholar discusses the Islamic perspective on free market economics and socialism. They note that there are certain things that are off-limits in terms of government control in an Islamic system, such as music production. They also discuss the impact of Marxism on world affairs and how it is an important ideology to understand.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

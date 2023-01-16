@@ -5,25 +5,24 @@
 ST#64: Divine Perfection - Dr. Craig & Allah's Perfect Love & Forgiveness with Dr. Osman Latiff
 —
 Help us educate and mentor others to share the faith academically.
-Donate now: https://sapienceinstitute.org/donate/ 
+Donate now: <https://sapienceinstitute.org/donate/>
 
-Free online courses: https://learn.sapienceinstitute.org/
+Free online courses: <https://learn.sapienceinstitute.org/>
 
-Free books: https://sapienceinstitute.org/books/
+Free books: <https://sapienceinstitute.org/books/>
 
-Have doubts? Book a mentor: https://sapienceinstitute.org/lighthouse/
+Have doubts? Book a mentor: <https://sapienceinstitute.org/lighthouse/>
 
-Listen (Podcast): https://sapienceinstitute.org/sapientvoices/
+Listen (Podcast): <https://sapienceinstitute.org/sapientvoices/>
 
 Follow:
-– Facebook: https://facebook.com/sapienceinstitute.org/ 
-– Twitter: https://twitter.com/SapienceOrg/ 
-– Instagram: https://instagram.com/sapienceinstitute/ 
+– Facebook: <https://facebook.com/sapienceinstitute.org/>
+– Twitter: <https://twitter.com/SapienceOrg/>
+– Instagram: <https://instagram.com/sapienceinstitute/>
 
-Articles, speaker requests & more: https://sapienceinstitute.org/
+Articles, speaker requests & more: <https://sapienceinstitute.org/>
 
 ## Summary of [ST#64: Divine Perfection - Dr. Craig & Allah's Perfect Love & Forgiveness with Dr. Osman Latiff](https://www.youtube.com/watch?v=fFkGbBAgy1s)
-
 
 *
 
@@ -34,10 +33,11 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
  discusses the differences between Christianity and Islam with regards to their ideas about love. Dr. Craig argues that, in Christianity, God loves everyone unconditionally and this is contrary to the idea of love in Islam, where God loves some people and not others. However, Dr. Uthman argues that, when looking at verses in the Qur'an that talk about God loving certain people, it is important to understand that these verses are not unconditional in the same way that love is in Christianity. Ultimately, the video makes the case that Islam does not have a "sense of love" towards other people, similar to how Christianity teaches that we are to love our enemies.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  Dr. Uthman discusses the differences between Christianity and Islam with regards to their ideas about love. Dr. Craig argues that, in Christianity, God loves everyone unconditionally and this is contrary to the idea of love in Islam, where God loves some people and not others. Dr. Uthman argues that, when looking at verses in the Qur'an that talk about God loving certain people, it is important to understand that these verses are not unconditional in the same way that love is in Christianity.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** argues that the love of God in Islam is like this and in Christianity it is an all-encompassing, impartial, and unconditional love. He goes on to say that this is an incorrect premise and incorrect analysis of the Islamic position.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  Dr. Craig discusses the Bible's teachings on love, and how these teachings are similar to those found in the Qur'an. He also makes the case that Islam does not have a "sense of love" towards other people, similar to how Christianity teaches that we are to love our enemies.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses Craig's third argument, which is that the quran does not have concepts like perfect love and forgiveness. Craig's argument fails because it is selective quoting, fails to analyze the bible, and is based on a false premise. Islam stresses that the primary thing about faith is having the correct belief about God. If your belief is incorrect, your good deeds are in vain.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the difference between Islam and Christianity, and points out that while Christianity teaches that salvation comes solely from God's grace, Islam teaches that salvation comes from Allah's mercy as well. Additionally, the video points out that while Christianity teaches that we are saved through our good deeds, Islam teaches that all of our good deeds are a result of Allah's grace.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses Craig's third argument, which is that the quran does not have concepts like perfect love and forgiveness. Craig's argument fails because it is selective quoting, fails to analyze the bible, and is based on a false premise. Islam stresses that the primary thing about faith is having the correct belief about God. If your belief is incorrect, your good deeds are in vain.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the difference between Islam and Christianity, and points out that while Christianity teaches that salvation comes solely from God's grace, Islam teaches that salvation comes from Allah's mercy as well. Additionally, the video points out that while Christianity teaches that we are saved through our good deeds, Islam teaches that all of our good deeds are a result of Allah's grace.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

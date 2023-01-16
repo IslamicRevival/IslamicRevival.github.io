@@ -4,12 +4,13 @@
 
 ## Description
 
-Listen as audio: https://soundcloud.com/sapienceinstitute/londoniyyah-part-25-sikhism-mohammed-hijab?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+Listen as audio: <https://soundcloud.com/sapienceinstitute/londoniyyah-part-25-sikhism-mohammed-hijab?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing>
 
 Londoniyyah - Part 24 - Sikhism | Mohammed Hijab
 
-To be updated about our content please subscribe and open the notifications.
+To be updated about our content please subscribe and open the notifications
 ----
+
 BOOK A LIGHTHOUSE MENTOR
 
 Are you or someone you know doubting Islam? Do you find yourself struggling to find answers?  Do you have a hard time speaking to someone about Islam?  Are you considering Islam but are unsure about certain concepts?  Are you an activist, Imam or community leader who is unsure about how to handle questions related to science, philosophy, the Islamic moral code, etc.?
@@ -18,12 +19,11 @@ You are not alone.  Over the course of the last decade or more there has been a 
 
 Seeing the rise of  this phenomenon , Sapience Institute is introducing a One to One mentoring service called LIGHTHOUSE.
 
-BOOK A MENTOR HERE: https://sapienceinstitute.org/lighthouse/
+BOOK A MENTOR HERE: <https://sapienceinstitute.org/lighthouse/>
 
-VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: https://sapienceinstitute.org/
+VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: <https://sapienceinstitute.org/>
 
 ## Summary of [Londoniyyah - Part 24 - Sikhism | Mohammed Hijab](https://www.youtube.com/watch?v=4j44ib_wGBE)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -32,7 +32,8 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
  discusses the Sikh religion and its beliefs. Sikhism believes in one God who is both immanent and transcendent, and they give this divine being various names.  discusses Sikhism's beliefs about worship and the relationship between god and the guru. It also discusses the Sikh scripture, the Guru Granth Sahib, and the similarities between Sikhism and other religions.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Sikhism believes in one God who is both immanent and transcendent, and they give this divine being various names including "Sargon" and "Nirgun."
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses Sikhism's beliefs about worship. Sikhism believes that only one guru should be worshipped and that the mantra is the key to understanding god. This belief is similar to Islam's belief in the oneness of god.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses Sikhism's beliefs about worship. Sikhism believes that only one guru should be worshipped and that the mantra is the key to understanding god. This belief is similar to Islam's belief in the oneness of god.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Sikhism believes in one God, the creator of the universe, and that humans have a duty to respect and protect the world. There are no creation stories in Sikhism, unlike in other religions.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Mohammed Hijab discusses the Sikh belief that the creator, Vaheguru, is present in all aspects of the universe, including in the form of a divine spark within each human being. Sikh theology differs from Islamic theology in that Sikhism believes that God is separate from and transcendent to his creation.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** The Sikh religion takes ideas from both Hinduism and Islam, and believes that everything is God. The relationship between god and the guru is a complex one which requires further study.
@@ -42,12 +43,14 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Londoniyyah discusses Sikhism and Mohammed Hijab's comparison of the two religions. Mohammed Hijab argues that Sikhism and Hinduism share many similarities, including the belief that all souls have an atma, or divine spark. He also believes that Sikhism and Hinduism are similar in their stance on reincarnation, and that the higher being on earth is the human being. Lastly, Londoniyyah discusses the issue of fatalism and the idea that the actions of a disabled person have consequences for their entire life, even if they don't live long enough to see them.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Sikhism has rituals associated with baptism, including the drinking of a holy beverage and singing of hymns. Five symbols of Sikh faith are worn on the body. The founder of Sikhism, Guru Gobind Singh, is said to have appeared in a physical form as the last guru.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The Sikh religion is based on the belief that there are ten gurus who have brought humankind salvation. The final guru, Guru Gobind Singh, created the theology. Sikhism is largely pacifistic, but they had a close relationship with the Moguls until they were expelled in the 1800s.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the Sikh religion and its relationship to the Mughal Empire. It discusses the ninth guru, Guru Tegh Bahadur, who is said to have been split in the middle and brought back to life. He is then persecuted by the Mughals. Some Sikhs revere him as a martyr, while others view him as a loser for his involvement in military expeditions against the empire. This hostility towards Muslim communities is still alive in modern times.
+* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Discusses the Sikh religion and its relationship to the Mughal Empire. It discusses the ninth guru, Guru Tegh Bahadur, who is said to have been split in the middle and brought back to life. He is then persecuted by the Mughals. Some Sikhs revere him as a martyr, while others view him as a loser for his involvement in military expeditions against the empire. This hostility towards Muslim communities is still alive in modern times.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:05:00</a>
 
  covers the basics of Sikhism, including their beliefs in scripture and reincarnation, as well as their practices of prayer and giving to the gurdwara. Mohammed Hijab finishes with a message to Sikhs to seek the truth and be liberated from its power.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** The Sikh religion is based on the principle of one supreme being, the eternal reality, and the teachings of the gurus. Sikh rituals are broken up into smaller parts in order to emphasize the importance of each individual moment. The five ks, or five articles of clothing worn by Sikhs, are also a reminder of the importance of humility and defense of the weak.
+
 * **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Mohammed Hijab discusses the basics of Sikhism, including their basic statement of belief in scripture as being God, and their practices of prayer and giving to the gurdwara. He also touches on the idea of reincarnation and its potential negative effects on individualism. He finishes with a message to Sikhs to seek the truth and be liberated from its power.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

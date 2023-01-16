@@ -4,15 +4,14 @@
 
 ## Description
 
-It's probably one of the most viewed videos on atheism, but yet jam packed with so many flaws. 
+It's probably one of the most viewed videos on atheism, but yet jam packed with so many flaws.
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
 
 ## Summary of [Mohammed Hijab responds to Ricky Gervais on Atheism](https://www.youtube.com/watch?v=bHRZN5roVl8)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -21,6 +20,7 @@ Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
 Mohammed Hijab responds to Ricky Gervais on atheism, arguing that it is a legitimate belief system. He challenges Gervais' arguments and suggests that everyone should question their own beliefs.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Mohammed Hijab responds to Ricky Gervais on atheism and questions his legitimacy. He argues that atheism is not a belief system and that questions about why there is something rather than nothing are legitimate.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Mohammed Hijab responds to Ricky Gervais on atheism, pointing out that he doesn't know whether it be insufficient but doesn't pretend to have any information that he doesn't have. He argues that if there is one less god than he does, then it proves that there is no god. He also points out that the same arguments apply to his understanding of religious scriptures.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Mohammed Hijab discusses atheism, and how it is a natural belief for humans. He challenges Ricky Gervais' arguments, and suggests that the three questions of where he comes from, what he is doing here, and what will happen after he dies should be on the mind of every person.
 

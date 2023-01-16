@@ -5,30 +5,29 @@
 Shaykh Mirza Yawar Baig talks about the importance of tazkiya (purification of the heart) in dawah and leadership and how focusing on numbers takes us away from our main purpose. Bringing examples from the life of the Prophet ﷺ and his companions, Shaykh mentiones that in order to achieve real success, we are ought to forget the numbers in the first place.
 
 Listen Sapient Voices on your favourite podcast platform:
-Apple: https://podcasts.apple.com/us/podcast/sapient-voices/id1617301292
-Spotify: https://open.spotify.com/show/5nIJSi6ZDAGBvGsv3FCyS2?si=e7271d6355d94a0a
-Other: https://sapientvoices.buzzsprout.com/
+Apple: <https://podcasts.apple.com/us/podcast/sapient-voices/id1617301292>
+Spotify: <https://open.spotify.com/show/5nIJSi6ZDAGBvGsv3FCyS2?si=e7271d6355d94a0a>
+Other: <https://sapientvoices.buzzsprout.com/>
 —
 Help us educate and mentor others to share the faith academically.
-Donate now: https://sapienceinstitute.org/donate/ 
+Donate now: <https://sapienceinstitute.org/donate/>
 
-Free online courses: https://learn.sapienceinstitute.org/
+Free online courses: <https://learn.sapienceinstitute.org/>
 
-Free books: https://sapienceinstitute.org/books/
+Free books: <https://sapienceinstitute.org/books/>
 
-Have doubts? Book a mentor: https://sapienceinstitute.org/lighthouse/
+Have doubts? Book a mentor: <https://sapienceinstitute.org/lighthouse/>
 
-Listen (Podcast): https://sapienceinstitute.org/sapientvoices/
+Listen (Podcast): <https://sapienceinstitute.org/sapientvoices/>
 
 Follow:
-– Facebook: https://facebook.com/sapienceinstitute.org/ 
-– Twitter: https://twitter.com/SapienceOrg/ 
-– Instagram: https://instagram.com/sapienceinstitute/ 
+– Facebook: <https://facebook.com/sapienceinstitute.org/>
+– Twitter: <https://twitter.com/SapienceOrg/>
+– Instagram: <https://instagram.com/sapienceinstitute/>
 
-Articles, speaker requests & more: https://sapienceinstitute.org/
+Articles, speaker requests & more: <https://sapienceinstitute.org/>
 
 ## Summary of [Sapient Voices #4: Sh. Mirza Yawar Baig - "Forget The Numbers To Get The Numbers"](https://www.youtube.com/watch?v=XKR1udoWX9I)
-
 
 *
 
@@ -38,24 +37,27 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
 Sh. Mirza Yawar Baig discusses the importance of dawah and the need for support from Muslims in order to achieve success. He talks about the example of the sahaba and how their support helped rasulullah achieve his goals. Baig urges people to focus on their hearts and the Quran, and to forget about vanity and external appearances.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the importance of dawah and the need for support from Muslims. He talks about the example of the sahaba (the companions of Prophet Muhammad) and how their support helped rasulullah achieve his goals.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the importance of dawah and the need for support from Muslims. He talks about the example of the sahaba (the companions of Prophet Muhammad) and how their support helped rasulullah achieve his goals.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Sh. Mirza Yawar Baig discusses the importance of sincere and total support from the sahaba (companions of Muhammad) for Muhammad's dawa ( preaching). Baig feels that this is a key element in Muhammad's success. However, he notes that today many of Muhammad's followers do not receive the support they need to achieve success.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses how using Christian-based motivational speakers to teach Islam can lead to negative outcomes, such as a lack of success with crop growth. suggests that Muslims take heed to principles such as keeping the seed safe, preparing the soil correctly, and watering it correctly in order to maximize results.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses how using Christian-based motivational speakers to teach Islam can lead to negative outcomes, such as a lack of success with crop growth. suggests that Muslims take heed to principles such as keeping the seed safe, preparing the soil correctly, and watering it correctly in order to maximize results.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Sh. Mirza Yawar Baig discusses the importance of remembrance of Allah and His Messenger Muhammad, stressing that the Quran is only concerned with proper voice training. He goes on to say that people have forgotten how to do dawa and focus on their outward appearances instead. Baig encourages people to focus on their hearts, and reminds listeners of the story of Ibrahim alaihissalam, who knew his son was sacrificing himself to Allah because he saw him in a dream. Baig concludes by urging people to focus on the Quran and proper voice training, and to forget about vanity and external appearances.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the problems with Islam being turned into a product, and how some organizations try to make money by charging different prices for front and back seats in a venue. He also mentions a situation where a female speaker was given a screen to speak from behind, in order to make her less of a spectacle.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the problems with Islam being turned into a product, and how some organizations try to make money by charging different prices for front and back seats in a venue. He also mentions a situation where a female speaker was given a screen to speak from behind, in order to make her less of a spectacle.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Sh. Mirza Yawar Baig discusses the importance of knowing one's goal and not being blinded by success. He goes on to discuss how to achieve success, stressing the importance of righteousness. He finishes with a question for organizations and individuals: what should be done to ensure success.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses the idea that people should focus on memorizing the Quran rather than focusing on numbers, and how this can lead to a loss of focus. He says that he has never heard of an incident where someone became enlightened after memorizing the Quran.
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses the idea that people should focus on memorizing the Quran rather than focusing on numbers, and how this can lead to a loss of focus. He says that he has never heard of an incident where someone became enlightened after memorizing the Quran.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>**  Sh. Mirza Yawar Baig discusses the importance of success in terms of both intrinsic and extrinsic metrics. He emphasizes the importance of having a Muslim goal, being focused on Allah's pleasure, and maximizing one's success in the pursuit of Allah's desires.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Sh. Mirza Yawar Baig discusses the importance of having a lofty goal and how it motivates us to achieve success. He also mentions the need to focus on our task, rather than focusing on the numbers, in order to achieve success.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Sh. Mirza Yawar Baig discusses the importance of having a lofty goal, and how it can inspire people to work harder. He explains that the prophet saws often worked on projects together, and that without a lofty goal, it is impossible to achieve great things.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** provides a brief overview of weight-lifting techniques, and how they can be used to develop a leader's weighing skills. then discusses two fundamental truths about weight-lifting – that it takes time and effort to achieve success, and that the balance will eventually tip in the favor of the person working hard. encourages listeners to work hard, but remind them that Allah is always watching and that He will reward those who do His will.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the importance of having a foundation in order to build something durable and beautiful, and how Muhammad was willing to die for the sake of his religion. He points out that, just like Muhammad, today's preachers and scholars have to remember that they are standing on the shoulders of giants, and that if they don't have the support of the people, their work will ultimately be in vain.
+* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Discusses the importance of having a foundation in order to build something durable and beautiful, and how Muhammad was willing to die for the sake of his religion. He points out that, just like Muhammad, today's preachers and scholars have to remember that they are standing on the shoulders of giants, and that if they don't have the support of the people, their work will ultimately be in vain.
+
 ### <a onclick="modifyYTiframeseektime('6000')">01:00:00 [01:40:00</a>
 
 Sh. Mirza Yawar Baig discusses the importance of having the right values and process in order to achieve success. He talks about the story of Fodala IBN, who became Muslim despite wanting to kill the Prophet Muhammad. Baig concludes that it is important to have patience and to have a clear vision in order to relate to people in the right way in order to get the best results from them.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Sh. Mirza Yawar Baig tells a story of a man who traveled a long distance to listen to him, but was disappointed when his speech was over. He explained that because the man had been with him for so long, he ought to have learned something. Baig said that even with the same content, one person can be delivered with great passion while another person may not understand.
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>* Discusses how forgetting the numbers to get the numbers can lead to success. He explains that in Islam, the goal and the path are both important, and there is no concept of the end.
+
+* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Discusses how forgetting the numbers to get the numbers can lead to success. He explains that in Islam, the goal and the path are both important, and there is no concept of the end.
 * **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Sh. Mirza Yawar Baig discusses the importance of having a team with the right values and process in order to achieve success. He talks about the story of Fodala IBN, who became Muslim despite wanting to kill the Prophet Muhammad. Baig concludes that it is important to have patience and to have a clear vision in order to relate to people in the right way in order to get the best results from them.
 * **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** Sh. Mirza Yawar Baig discusses the importance of courage in Dawah, and how it is necessary for anyone pursuing knowledge or doing something new. He gives the example of a warrior, and notes that without courage, one is not likely to persist in the face of obstacles or criticism.
 * **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** Sh. Mirza Yawar Baig discusses the importance of courage and how it can be developed by focusing on Allah. He also provides advice for leaders in similar positions, emphasizing the importance of following process and having a clear vision.

@@ -9,12 +9,13 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 123 Tafseer ul Quran Surat Al-An'am Professor Dr  Muhammad AL MASSARI
 
-#quran 
-#alanam 
-#الأنعام
+# quran
+
+# alanam
+
+# الأنعام
 
 ## Summary of [123 Tafseer ul Quran Surat Al-An'am Professor Dr Muhammad AL MASSARI](https://www.youtube.com/watch?v=ZMU5PMdTxC4)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -23,6 +24,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
  discusses the various things that Allah, or God, refers to as His "sustainer," or "Lord." The professor argues that if one does not follow Allah's guidance, they may end up lost in the world. He also explains that according to Islamic theology, the deity of a group of people cannot be a mix of different divine entities, as this would be contradictory. Ultimately, the professor argues, this doctrine leads to security and peace, as those who believe in Allah will not be confused about who their ultimate authority is.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  Professor Dr. Muhammad AL MASSARI discusses the meaning of the Arabic word "tafseer," which is the interpretation of the Qur'an. He explains that the concept of contingency is fundamental to understanding the meaning of the word. He also discusses the history of philosophical development regarding contingency and time.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  presents a conversation between a professor and
 student in which the professor discusses the
 concept of contingency, and how it applies to
@@ -33,27 +35,29 @@ perceives it. The professor concludes that
 although the moon is contingent, it may nevertheless
 be a worthy candidate for Divinity.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** This professor discusses the idea that there must be a creator behind the phenomena we see around us, and that this creator is invisible but present. He then goes on to say that based on this belief, one should shun any idols and associate only with the creator.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the various things that Allah, or God, refers to as His "sustainer," or "Lord." The philosopher argues that if one does not follow Allah's guidance, they may end up lost in the world.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the various things that Allah, or God, refers to as His "sustainer," or "Lord." The philosopher argues that if one does not follow Allah's guidance, they may end up lost in the world.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** According to the professor, Allah is a sneaky guy who plays games with people. He explains that Allah sent a messenger to demolish some stones representing the nursing owners of the prophet Muhammad (peace be upon him). The people asked Ibrahim (peace be upon him) about it, and he said that Allah has the power to do whatever He pleases. Therefore, the people should not be afraid of Allah, because He is the only one who can protect them.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** This 1-paragraph summary discusses the main points of the video, which is that associating deities with Allah does not have any basis in reality and is therefore a mistake.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>**  Professor Dr. Muhammad AL MASSARI discusses the impossibility of Divinity being attributed to any entity other than Allah. He also explains that those who attain faith and do not mix their belief with any ideology will be guided.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>**  presents a translation of a hadith about how Muslims should deal with people who embrace different religions. According to the hadith, Muslims who embrace other religions are not guided and have no security in this life or the next.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** explains that according to Islamic theology, the deity of a group of people cannot be a mix of different divine entities, as this would be contradictory. Ultimately, the speaker argues, this doctrine leads to security and peace, as those who believe in Allah will not be confused about who their ultimate authority is.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  Professor Dr. Muhammad AL Massari discusses the importance of Imam, or spiritual leader, in Islamic traditions. He explains that although Imam is not necessarily infallible, he is nevertheless a valuable leader who can bring people the message of Islam.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the controversial nature of who is a prophet in Islam and Christianity, and contrasts the three translations of the Quran.  also discusses Elijah, Jonah, and Lot, and their respective prophets in Islam, Christianity, and Judaism.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses an inscription that is claimed to show that Joshua, the son of noon, is the true savior. However, the inscription is older than Christianity and is actually from the Arab Islamic period. Furthermore, the video suggests that Christians may be mistaken in their belief that Joshua is the savior.
+* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Discusses the controversial nature of who is a prophet in Islam and Christianity, and contrasts the three translations of the Quran.  also discusses Elijah, Jonah, and Lot, and their respective prophets in Islam, Christianity, and Judaism.
+* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Discusses an inscription that is claimed to show that Joshua, the son of noon, is the true savior. However, the inscription is older than Christianity and is actually from the Arab Islamic period. Furthermore, the video suggests that Christians may be mistaken in their belief that Joshua is the savior.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:45:00</a>
 
  discusses the different Islamic concepts of guidance, lying, and prophets. It argues that while lying is generally prohibited, it is allowed in some circumstances according to Sharia.  also discusses the lack of female prophets mentioned in the Quran, and how this does not mean that they do not exist.
 
-**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>* Discusses the importance of God's guidance, which is conditional upon the recipients' acknowledgement of the truth. It emphasizes that even if the recipients reject God's guidance, He will still entrust it to others.
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>* Discusses the guidance that Allah has given to the prophets and how it is an obligation for all of them. It also discusses how Sharia is different than the Old Testament, and how Yusuf was allowed to do what he did because Allah had not yet given the people the authority to be king themselves.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>* Discusses an argument between Muslims and philosophers regarding the possibility of revelation. The Muslim point of view is that revelation is possible and does not contradict Allah's comprehensive power or free will.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>* Discusses the philosophy of Ibrahim Islam, who was the first philosopher. Ibrahim's discourse is a genuine philosophical discourse which is present in a level of the 2000 year before Christ. If this discourse was not from Allah, it would be many contradictions.
-* **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>* Discusses the difference between Allah creating lies and lying himself, and concludes that there is a clear distinction between the two.
+**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Discusses the importance of God's guidance, which is conditional upon the recipients' acknowledgement of the truth. It emphasizes that even if the recipients reject God's guidance, He will still entrust it to others.
+
+* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Discusses the guidance that Allah has given to the prophets and how it is an obligation for all of them. It also discusses how Sharia is different than the Old Testament, and how Yusuf was allowed to do what he did because Allah had not yet given the people the authority to be king themselves.
+* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Discusses an argument between Muslims and philosophers regarding the possibility of revelation. The Muslim point of view is that revelation is possible and does not contradict Allah's comprehensive power or free will.
+* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** Discusses the philosophy of Ibrahim Islam, who was the first philosopher. Ibrahim's discourse is a genuine philosophical discourse which is present in a level of the 2000 year before Christ. If this discourse was not from Allah, it would be many contradictions.
+* **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** Discusses the difference between Allah creating lies and lying himself, and concludes that there is a clear distinction between the two.
 * **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** Afraid of punishment, people try to lie to avoid it, but according to Sharia, this is only permissible in certain situations to achieve a greater good. Dr. Muhammad al Massari discusses the reasons why lying is permitted in Sharia.
 * **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** discusses the difference between lying and deception, and how these concepts apply to the Islamic faith. It explains that lying is prohibited by God, while deception is allowed under certain circumstances. also discusses the role of prophetesses in Islam, and how they are not considered prophets.
-* **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>* Discusses the lack of mention of particular female prophets in the Quran, and how this does not mean that female prophets do not exist. It goes on to discuss the Hadith which mentions inheritance passing down from man to man, and how this proves that female prophets do exist.
+* **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** Discusses the lack of mention of particular female prophets in the Quran, and how this does not mean that female prophets do not exist. It goes on to discuss the Hadith which mentions inheritance passing down from man to man, and how this proves that female prophets do exist.
 * **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>**  Professor Dr. Muhammad AL Massari discusses the argument that it is impossible for a female prophet to exist before or after the Prophet Muhammad. He points to examples of female prophets in the Quran, and argues that the core of these prophecies must be true because they are not based off of small details or sensationalized stories.
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>**  Professor Dr. Muhammad AL Massari discusses the Ayah "O you who believe! Enter the holy land and fight in the way of Allah and do not let anyone deceive you about Allah." He argues that while Ibrahim is a good example to follow, Mohammed is an absolutely perfect example in every way. This absolutism in regards to the example of prophets means that Sharia (Islamic law) cannot be based on the opinions of individual Muslims, as this would be abrogating what is fundamental in regards to their religion.
 

@@ -8,7 +8,6 @@ Sapient Thoughts #15: Does the Quran refer to the “Big Bang”? | Mohammed Hij
 
 ## Summary of [Sapient Thoughts #15: Does the Quran refer to the “Big Bang”? | Mohammed Hijab](https://www.youtube.com/watch?v=FPZ57LCYLqQ)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
@@ -16,6 +15,7 @@ Sapient Thoughts #15: Does the Quran refer to the “Big Bang”? | Mohammed Hij
 of the video argues that the Quran does not refer to the "Big Bang" theory, instead referring to a longer epoch or generational time period. He argues that from a scientific perspective, the theory is underdetermined and shouldn't require Muslims to overcompensate by believing in it.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** of the video discusses the possible meanings of the verse "And We have made for man to live in ease and for his Lord to forgive him; and We have made for him gardens and rivers." He argues that although the verse may speak about the big bang, it is not an explicit teaching of the big bang. He also discusses the concept of "modest concordance," which is the idea that although the scripture may not explicitly mention a scientific phenomenon, it is not against it.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** raises several objections to the idea that the Quran mentions the Big Bang Theory, including the fact that scientific discourse can change over time, and that different interpretations of scripture can be considered legitimate.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Mohammed Hijab argues that the Quran does not refer to the "Big Bang" theory, instead referring to a longer epoch or generational time period. He argues that from a scientific perspective, the theory is underdetermined and shouldn't require Muslims to overcompensate by believing in it.
 

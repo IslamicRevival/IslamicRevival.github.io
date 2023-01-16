@@ -6,18 +6,18 @@ A really interesting discussion between Muslims and Mormons on racism in the Lat
 
 ## Summary of [Mormons vs Muslims](https://www.youtube.com/watch?v=_IHsxI76Ztc)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:20:00</a>
 
  discusses how Mormons and Muslims are different, and argues that Mormons are wrong and Islam is the correct religion. also points out that Mormons are more organized and disciplined than Muslims, and that Mormons are more likely to provide help when needed.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the history of slavery and racism in the United States, and how these issues are still present in Mormonism. It argues that, while Mormonism does have teachings on racial equality, these teachings should be taken more seriously due to the fact that they are continuous revelation.  finishes by saying that, while Mormons may be angry, they should try to learn more about other religions before giving up on their own.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the history of slavery and racism in the United States, and how these issues are still present in Mormonism. It argues that, while Mormonism does have teachings on racial equality, these teachings should be taken more seriously due to the fact that they are continuous revelation.  finishes by saying that, while Mormons may be angry, they should try to learn more about other religions before giving up on their own.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** of the video believes that there is no difference between Muslims and Mormons, and that both religions are based on a false idea. also believes that black people are more valuable than other races, and that, as a black woman, she was more qualified to give testimony about Muhammad than two white men.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses how Mormonism and Islam both have teachings that promote inclusivity and diversity, and how both religions were initially founded by prophets who condemned racism. It points out that while Mormonism has changed its stance on race over time, Islam has always been inclusive. The presenter then argues that racism is false, and that both Mormonism and Islam are true religions.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the differences between Mormons and Muslims, and argues that Mormons are wrong and Islam is the correct religion. It argues that Mormons Americanized Christianity, and that if Muslims want to be saved, they should convert to Islam.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the differences between Mormons and Muslims, with the speaker noting that Mormons believe in Jesus Christ while Muslims do not. also points out that Mormons are more organized and disciplined than Muslims, and that Mormons are more likely to provide help when needed. Finally, the speaker critiques Muslims for their lack of organization and discipline, and points out that if Muslims did not want the speaker to help them, they should have just said so.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses how Mormonism and Islam both have teachings that promote inclusivity and diversity, and how both religions were initially founded by prophets who condemned racism. It points out that while Mormonism has changed its stance on race over time, Islam has always been inclusive. The presenter then argues that racism is false, and that both Mormonism and Islam are true religions.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the differences between Mormons and Muslims, and argues that Mormons are wrong and Islam is the correct religion. It argues that Mormons Americanized Christianity, and that if Muslims want to be saved, they should convert to Islam.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the differences between Mormons and Muslims, with the speaker noting that Mormons believe in Jesus Christ while Muslims do not. also points out that Mormons are more organized and disciplined than Muslims, and that Mormons are more likely to provide help when needed. Finally, the speaker critiques Muslims for their lack of organization and discipline, and points out that if Muslims did not want the speaker to help them, they should have just said so.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

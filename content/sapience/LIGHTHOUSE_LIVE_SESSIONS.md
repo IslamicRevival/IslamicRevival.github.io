@@ -4,30 +4,29 @@
 
 ## Description
 
-BOOK A MENTORING SESSION HERE: https://sapienceinstitute.org/lighthouse/
+BOOK A MENTORING SESSION HERE: <https://sapienceinstitute.org/lighthouse/>
 
 Help us educate and mentor others to share the faith academically.
 
-DONATE HERE: https://sapienceinstitute.org/donate/ 
+DONATE HERE: <https://sapienceinstitute.org/donate/>
 ______________________________________________________
 
-Free online courses: https://learn.sapienceinstitute.org/
+Free online courses: <https://learn.sapienceinstitute.org/>
 
-Free books: https://sapienceinstitute.org/books/
+Free books: <https://sapienceinstitute.org/books/>
 
-Have doubts? Book a mentor: https://sapienceinstitute.org/lighthouse/
+Have doubts? Book a mentor: <https://sapienceinstitute.org/lighthouse/>
 
-Listen (Podcast): https://sapienceinstitute.org/sapientvoices/
+Listen (Podcast): <https://sapienceinstitute.org/sapientvoices/>
 
 Follow:
-– Facebook: https://facebook.com/sapienceinstitute.org/ 
-– Twitter: https://twitter.com/SapienceOrg/ 
-– Instagram: https://instagram.com/sapienceinstitute/ 
+– Facebook: <https://facebook.com/sapienceinstitute.org/>
+– Twitter: <https://twitter.com/SapienceOrg/>
+– Instagram: <https://instagram.com/sapienceinstitute/>
 
-Articles, speaker requests & more: https://sapienceinstitute.org/
+Articles, speaker requests & more: <https://sapienceinstitute.org/>
 
 ## Summary of [LIGHTHOUSE LIVE SESSIONS](https://www.youtube.com/watch?v=r9bibL-z1Fo)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -36,22 +35,25 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
  discusses the idea of solipsism, and how to engage with someone who holds that view. Muhammad Latif, a future Lighthouse mentor, joins the discussion to say that it is important to ask the person why they think solipsism is important to them. Latif also advises viewers to ask themselves why they believe in any particular position, and to be open to different arguments.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The "Lighthouse project" offers free mentoring to people with doubts about their Islamic identity. The project is open to students, ex-Muslims, preachers, activists, and others.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the different positions that people may take on solipsism, and how to engage with someone who holds that view. Muhammad Latif, a future Lighthouse mentor, joins the discussion to say that it is important to ask the person why they think solipsism is important to them. Latif also advises viewers to ask themselves why they believe in any particular position, and to be open to different arguments.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the idea of solipsism, which is a philosophical position that only one's mind is sure to exist. argues that belief in the external world is something that does not need a deductive argument for justification.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the idea that every argument needs a "rational argument" in order to be justified. Lighthouse live sessions are available for free on the Sapience Institute website, and offer a platform for individuals to discuss doubts and questions about engaging in dawa.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the existence of the universe, and how it can be contingent or existent. It also discusses the idea of a non-existent universe, and how it is contradictory.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses how language can be difficult to understand, and how one can accidentally say something contradictory. He provides an example of how this can happen with the word "fish."
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the different positions that people may take on solipsism, and how to engage with someone who holds that view. Muhammad Latif, a future Lighthouse mentor, joins the discussion to say that it is important to ask the person why they think solipsism is important to them. Latif also advises viewers to ask themselves why they believe in any particular position, and to be open to different arguments.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the idea of solipsism, which is a philosophical position that only one's mind is sure to exist. argues that belief in the external world is something that does not need a deductive argument for justification.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the idea that every argument needs a "rational argument" in order to be justified. Lighthouse live sessions are available for free on the Sapience Institute website, and offer a platform for individuals to discuss doubts and questions about engaging in dawa.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the existence of the universe, and how it can be contingent or existent. It also discusses the idea of a non-existent universe, and how it is contradictory.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses how language can be difficult to understand, and how one can accidentally say something contradictory. He provides an example of how this can happen with the word "fish."
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** The "LIGHTHOUSE LIVE SESSIONS" video is a live stream in which Enough founder Hamza Yusuf and Abbas Imraan answer questions from viewers. The purpose of these live streams is to provide a one-on-one platform for people to ask questions and receive help from the founders. The service is available for as often as people need it, and people can book it at their convenience.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Brother Imran teaches a student about the verses in the Quran that talk about the trust humans placed in Allah. He explains that humans are afraid of Allah and this is why they did not take on the trust.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>**  a Muslim scholar discusses how believers in the Fitra (innate nature of righteousness) must endeavor to uphold justice even in the face of adversity. He explains that this is because, after death, humans are given a chance to see truths about God that they were denied while alive. The reward for passing this test is great, and believers are already in the test.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses how people can become forgetful and lose focus, and how this can lead to problems. It also mentions how Allah reminds people of their blessings and how to stay grateful.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses how people are judged by their actions in a virtual reality world, and how some people may be tempted to do bad things because of their good deeds in the previous world.  teaches that people can't be sure of what will happen in the future, and that there is no wisdom behind the events.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses how small, insignificant events in life can have far-reaching consequences. He advises listeners to remember that every individual is important to Allah, and that nothing happens to us without meaning. emphasizes the importance of patience and putting effort into understanding events in life.
+* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Discusses how people can become forgetful and lose focus, and how this can lead to problems. It also mentions how Allah reminds people of their blessings and how to stay grateful.
+* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Discusses how people are judged by their actions in a virtual reality world, and how some people may be tempted to do bad things because of their good deeds in the previous world.  teaches that people can't be sure of what will happen in the future, and that there is no wisdom behind the events.
+* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Discusses how small, insignificant events in life can have far-reaching consequences. He advises listeners to remember that every individual is important to Allah, and that nothing happens to us without meaning. emphasizes the importance of patience and putting effort into understanding events in life.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:15:00</a>
 
  "LIGHTHOUSE LIVE SESSIONS" features Islamic cleric Mohammed Abdullah discussing the benefits of having strong beliefs in Allah and how they are natural, not learned. Abdullah also discusses how children are more likely to have religious beliefs without being taught them, and how atheists are more likely to believe in life after death without being taught it. Abdullah also mentions a retreat he is taking to Turkey.
 
-**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>* Discusses the Islamic concept of "Jannah," or paradise, and how it is described in terms of infinite joy and no boredom. He also discusses the idea of "lower diminishing returns" and how they apply to happiness and pleasure in the afterlife.
+**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Discusses the Islamic concept of "Jannah," or paradise, and how it is described in terms of infinite joy and no boredom. He also discusses the idea of "lower diminishing returns" and how they apply to happiness and pleasure in the afterlife.
+
 * **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>**  "LIGHTHOUSE LIVE SESSIONS" discusses the idea that boredom can be avoided on Earth by using the Lighthouse project's free services.  features ex-Muslims or Muslims on the brink of leaving discussing their problems with one another in a one-on-one setting. The Lighthouse project wants these people to use its services in order to benefit from quality training and support.
 * **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>**  "LIGHTHOUSE LIVE SESSIONS" features Islamic cleric Mohammed Abdullah discussing the benefits of having strong beliefs in Allah and how they are natural, not learned. Abdullah also discusses how children are more likely to have religious beliefs without being taught them, and how atheists are more likely to believe in life after death without being taught it. Abdullah also mentions a retreat he is taking to Turkey.
 * **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** The YouTube user plans to be in Turkey for the 19th through 29th, and plans to blog and video the trip. He asks that anyone who is able to join him during this time please do so.

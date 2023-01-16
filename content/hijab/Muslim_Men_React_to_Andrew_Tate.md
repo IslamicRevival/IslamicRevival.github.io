@@ -4,7 +4,7 @@
 
 ## Description
 
-DONATE NOW: https://www.saveiman.com/fb?affiliate_id=3414212 ⬅
+DONATE NOW: <https://www.saveiman.com/fb?affiliate_id=3414212> ⬅
 
 The Prophet ﷺ said: “𝙒𝙝𝙤𝙚𝙫𝙚𝙧 𝙗𝙪𝙞𝙡𝙙𝙨 𝙖 𝙈𝙤𝙨𝙦𝙪𝙚 𝙛𝙤𝙧 𝘼𝙡𝙡𝙖𝙝, 𝘼𝙡𝙡𝙖𝙝 𝙬𝙞𝙡𝙡 𝙗𝙪𝙞𝙡𝙙 𝙛𝙤𝙧 𝙝𝙞𝙢 𝙖 𝙨𝙞𝙢𝙞𝙡𝙖𝙧 𝙝𝙤𝙪𝙨𝙚 𝙞𝙣 𝙅𝙖𝙣𝙣𝙖𝙝.”
 
@@ -14,12 +14,11 @@ If you support this project, you will in sha Allah get a house in Jannah and sha
 ✅ Making Dhikr!
 ✅ Memorizing the Qur’an!
 
-Please donate and help establish this Masjid and earn your reward ➡ https://www.saveiman.com/fb?affiliate_id=3414212 ⬅
+Please donate and help establish this Masjid and earn your reward ➡ <https://www.saveiman.com/fb?affiliate_id=3414212> ⬅
 
-#andrewtate #redpill #muslim
+# andrewtate #redpill #muslim
 
 ## Summary of [Muslim Men React to Andrew Tate](https://www.youtube.com/watch?v=JZ6_bRIuvB0)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -27,10 +26,11 @@ Please donate and help establish this Masjid and earn your reward ➡ https://ww
 
  discusses the reactions of Muslim men to Andrew Tate, a British figure known for his views on Islam and masculinity. The men discuss how Tate's views on Islam and masculinity affect their own lives, and discuss the importance of following the prophets instead.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses Muslim men's reactions to Andrew Tate, a controversial British figure known for his views on Islam and masculinity. The men discuss how Tate's views on Islam and masculinity affect their own lives, and discuss the importance of following the prophets instead.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the reasons why men are oppressed in modern society, citing examples such as restrictions on their freedom, control over their wives, and low survival rates in war. He goes on to say that men have to resist these controls and be determined to achieve success even in difficult times.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses Muslim men's reactions to Andrew Tate, a controversial British figure known for his views on Islam and masculinity. The men discuss how Tate's views on Islam and masculinity affect their own lives, and discuss the importance of following the prophets instead.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the reasons why men are oppressed in modern society, citing examples such as restrictions on their freedom, control over their wives, and low survival rates in war. He goes on to say that men have to resist these controls and be determined to achieve success even in difficult times.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Tate's video addresses the issue of men not being able to be "men" anymore, due to feminism and other factors. He argues that there is a "counterbalance to the feminist narrative" of an oppressive oppressor relationship, in which men are oppressed by women. He discusses how this discourse is entering Muslim households, and how brothers need to be prepared for it.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the idea that there is a true nature of a man and that this nature includes things which are not in the feminine archetype, such as increased aggressivity. It also discusses the idea that many men feel like they have been starved of being able to manifest that reality, and that this is why they may self-defense or be in polygamous relationships. Pearson gets this information from a book called The Myth of Male Power, which he discusses in the context of how children's toys are affected by society's definition of what is masculine.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the idea that there is a true nature of a man and that this nature includes things which are not in the feminine archetype, such as increased aggressivity. It also discusses the idea that many men feel like they have been starved of being able to manifest that reality, and that this is why they may self-defense or be in polygamous relationships. Pearson gets this information from a book called The Myth of Male Power, which he discusses in the context of how children's toys are affected by society's definition of what is masculine.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Andrew Tate discusses a possible war between men and women, and suggests that the Quran teaches that both men and women have a "true nature" and should be complimented with each other. He also says that the red pool movement, which encourages men to become more masculine, is going too far.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** of the video discusses how men can be too focused on objects of women, and how this can lead to problems in marriages. He also discusses how Islam has a balance to help restore order in relationships.
 

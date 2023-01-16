@@ -4,28 +4,27 @@
 
 ## Description
 
-Listen as audio: https://soundcloud.com/sapienceinstitute/londoniyyah-part-29-evolution-subboor-ahmad?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+Listen as audio: <https://soundcloud.com/sapienceinstitute/londoniyyah-part-29-evolution-subboor-ahmad?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing>
 —
 Help us educate and mentor others to share the faith academically.
-Donate now: https://sapienceinstitute.org/donate/ 
+Donate now: <https://sapienceinstitute.org/donate/>
 
-Free online courses: https://learn.sapienceinstitute.org/
+Free online courses: <https://learn.sapienceinstitute.org/>
 
-Free books: https://sapienceinstitute.org/books/
+Free books: <https://sapienceinstitute.org/books/>
 
-Have doubts? Book a mentor: https://sapienceinstitute.org/lighthouse/
+Have doubts? Book a mentor: <https://sapienceinstitute.org/lighthouse/>
 
-Listen (Podcast): https://sapienceinstitute.org/sapientvoices/
+Listen (Podcast): <https://sapienceinstitute.org/sapientvoices/>
 
 Follow:
-– Facebook: https://facebook.com/sapienceinstitute.org/ 
-– Twitter: https://twitter.com/SapienceOrg/ 
-– Instagram: https://instagram.com/sapienceinstitute/ 
+– Facebook: <https://facebook.com/sapienceinstitute.org/>
+– Twitter: <https://twitter.com/SapienceOrg/>
+– Instagram: <https://instagram.com/sapienceinstitute/>
 
-Articles, speaker requests & more: https://sapienceinstitute.org/
+Articles, speaker requests & more: <https://sapienceinstitute.org/>
 
 ## Summary of [Londoniyyah - Part 29 - Evolution | Subboor Ahmad](https://www.youtube.com/watch?v=4-tTk7i1LHo)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -34,17 +33,19 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
  discusses the history of evolutionary thought, and how it has often been used to promote atheism and secularism. It points out that this is not an accurate portrayal of the theory, and that even Darwin himself had doubts about it at one point in his life.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  Subboor Ahmad discusses the history of evolution and its relationship to atheism and naturalism. He points out that the public perception of evolution is often inaccurate, and that the ancient Greeks and Romans were well aware of the concept of biological change.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the history of evolutionary thought, and how the idea of biological change leading to atheism is a new concept. It points out that this idea is not present in the past, and that even Charles Darwin, who is credited with developing evolutionary theory, had doubts about the idea at one point in his life.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the history of evolutionary thought, and how the idea of biological change leading to atheism is a new concept. It points out that this idea is not present in the past, and that even Charles Darwin, who is credited with developing evolutionary theory, had doubts about the idea at one point in his life.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Believed in god when he first presented his ideas on the origin of species in 1858, and when he published the Origin of Species again a year later, he did not become an atheist. However, he had doubts about the theory and Darwin was not happy about this. Wallace realized that there was a problem with the theory and he started pushing out ideas on quasi-creationism.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses how, according to some interpretations of Charles Darwin's theory of evolution, the evolution of species was influenced by the actions of atheists intent on promoting secularism and atheism. It also discusses how, in response to this criticism, Darwin actively wrote to argue against these claims.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses how, according to some interpretations of Charles Darwin's theory of evolution, the evolution of species was influenced by the actions of atheists intent on promoting secularism and atheism. It also discusses how, in response to this criticism, Darwin actively wrote to argue against these claims.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** In the early 20th century, a fusion between genetics and classical Darwinian theory was developed by scientists known as the "modern synthesis." This synthesis led to the development of neo-darwinism, which held that there is a new, atheistic religion called Darwinism. Some of the important characters of this period include the descendant of T.H. Huxley, Julian Huxley, who was a biologist and philosopher, and who wanted to impact society by getting people to abandon religious beliefs.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>**  Subboor Ahmad discusses the atheist Richard Dawkins' argument that evolution allows for an intellectually satisfying atheism. Dawkins admits that evolution does not necessitate atheism, but still uses it as a way to deny the existence of God. As Ahmad points out, this is a blatant admission that Dawkins does not believe in what he writes.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses the argument against the existence of God based on the idea that biology can be explained without reference to God. The flaws in this argument are clear, and include the false assumption that just because one can use naturalistic explanations in science, that therefore there is no God.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses how, in order to be a scientist, one must adhere to the principles of methodological naturalism - the belief that all scientific explanations must be based on natural causes and be consistent with the laws of nature. Because of this, any claims about the existence of a supernatural being must be disregarded. However, this does not mean that there is no god, as there is still room for a philosophical naturalism which would allow for the existence of a god. Massimo Pigluci, a philosopher of science, argues that, because of evolutionary theory, atheism is not necessarily the result of science.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses how atheistic beliefs necessitate the acceptance of proto-darwinism, which posits that life evolved through naturalistic mechanisms. However, this reasoning is flawed because the origination probability for life is zero, meaning it is impossible for it to come into existence. If this is the case, then atheism is false.
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses the argument against the existence of God based on the idea that biology can be explained without reference to God. The flaws in this argument are clear, and include the false assumption that just because one can use naturalistic explanations in science, that therefore there is no God.
+* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses how, in order to be a scientist, one must adhere to the principles of methodological naturalism - the belief that all scientific explanations must be based on natural causes and be consistent with the laws of nature. Because of this, any claims about the existence of a supernatural being must be disregarded. However, this does not mean that there is no god, as there is still room for a philosophical naturalism which would allow for the existence of a god. Massimo Pigluci, a philosopher of science, argues that, because of evolutionary theory, atheism is not necessarily the result of science.
+* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses how atheistic beliefs necessitate the acceptance of proto-darwinism, which posits that life evolved through naturalistic mechanisms. However, this reasoning is flawed because the origination probability for life is zero, meaning it is impossible for it to come into existence. If this is the case, then atheism is false.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  explains how the first cell could have evolved, despite the origination probability being close to zero. The theory is that there was a transition probability, and that the first cell evolved into different branches and domains.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Francis Crick discovered the structure of DNA, and he believes that initial life on Earth was seeded by aliens. This theory, called panspermia, is not accepted by all scientists, but it is an interesting idea nonetheless.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses how presuppositions can influence scientific conclusions, and how these presuppositions can be tied to naturalism and Darwinism. He quotes Richard Lewinton, a Harvard evolutionary scientist, who says, "most of the discussions that are happening in terms of Darwinian theory are to do with science, but the reason why I wanted to do this session was to show that you can't just start off with the science you have to get into the philosophy first."
+* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Discusses how presuppositions can influence scientific conclusions, and how these presuppositions can be tied to naturalism and Darwinism. He quotes Richard Lewinton, a Harvard evolutionary scientist, who says, "most of the discussions that are happening in terms of Darwinian theory are to do with science, but the reason why I wanted to do this session was to show that you can't just start off with the science you have to get into the philosophy first."
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:00:00</a>
 
  Subboor Ahmad discusses how Darwinism is not just a theory but, in fact, a religion. He argues that this is true even though many scientists don't accept this perspective. He provides several examples to support his claim, including the fact that Darwinism is taught in schools as fact, even though it is still technically a theory. Ultimately, he concludes that Darwinism is more than just a theory - it is a religion that has been adopted by many people.

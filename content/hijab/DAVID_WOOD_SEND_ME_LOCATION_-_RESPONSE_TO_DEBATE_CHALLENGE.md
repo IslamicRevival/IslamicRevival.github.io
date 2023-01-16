@@ -2,21 +2,20 @@
 
 <iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/Hax68VgkjuQ'></iframe>## Description
 
-Liberalism essay - 
-http://www.salam.org.uk/2018/10/01/the-problems-with-liberalism/
+Liberalism essay -
+<http://www.salam.org.uk/2018/10/01/the-problems-with-liberalism/>
 
-Email me @ sirateducation@gmail.com for arrangement of debate. 
+Email me @ sirateducation@gmail.com for arrangement of debate.
 
-We only need 100 visionaries to make the S.A.L.A.M project sustainable. Please support this newly born organisation that has come about out of concern, defence and care for the Ummah and the humanity at large. At S.A.L.A.M Project we deconstruct false narratives, challange misconceptions of Islam with reason and logic. 
+We only need 100 visionaries to make the S.A.L.A.M project sustainable. Please support this newly born organisation that has come about out of concern, defence and care for the Ummah and the humanity at large. At S.A.L.A.M Project we deconstruct false narratives, challange misconceptions of Islam with reason and logic.
 
-Be SALAM Visionary 
-http://www.salam.org.uk/salam-visiona...
+Be SALAM Visionary
+<http://www.salam.org.uk/salam-visiona>...
 
 One off Salam Donation
-https://www.launchgood.com/project/keep_salam_going#!/
+<https://www.launchgood.com/project/keep_salam_going#>!/
 
 ## Summary of [DAVID WOOD SEND ME LOCATION - RESPONSE TO DEBATE CHALLENGE](https://www.youtube.com/watch?v=Hax68VgkjuQ)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -25,6 +24,7 @@ https://www.launchgood.com/project/keep_salam_going#!/
 David Wood challenges Muslims to a debate on the fundamentals of Christianity and Islam, offering a $1,000 prize. The Muslim claims that Scripture is insufficient to prove Christianity's truth, and Wood responds that the Bible is the only source of evidence for Christianity. Wood argues that Christianity's starting points are more reasonable than Islam's.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** David Wood challenges a Muslim to a debate, but the Muslim refuses. Wood challenges him again, this time offering a $1,000 prize for a debate on the fundamentals of Christianity and Islam. The Muslim claims that Scripture is insufficient to prove Christianity's truth, and Wood responds that the Bible is the only source of evidence for Christianity. Wood argues that Christianity's starting points are more reasonable than Islam's.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  host challenges a Muslim man to a debate on who is the more compassionate figure in the Bible, Jesus or Mohammed. The Muslim man agrees to the challenge, but requests that the debate be held on different grounds, such as the morality of certain actions versus the teachings of Islam. The YouTube host agrees and sets up a debate between himself and the Muslim man on the morality of the Trinity.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** David Wood challenges Muslims to a debate, but warns them that he is willing to debate all three of them on the same stage at the same time. Michelle Marie challenges David's assertion that Christianity is beautiful, but does not believe it is true. David responds by saying that if Christianity is the truth, then it must be beautiful, and that if Muslims do not believe this, then they are not truly Muslims.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** David Wood challenges others to debate topics like the Trinity and tawheed, but ends up getting defeated himself. He admits he hasn't heard of the challenger, but argues that the challenger must have been a subscriber since the beginning.

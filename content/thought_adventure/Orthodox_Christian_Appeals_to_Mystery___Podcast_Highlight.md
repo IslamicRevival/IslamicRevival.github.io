@@ -6,20 +6,20 @@
 
 Here is a clip from the 3rd episode of TAP with Orthodox Christian Nio Pomilia. In this clip, Nio originally appears very confident in defending the Trinity. However, after being presented with arguments from Jake The Muslim Metaphysician, Nio appeals to mystery several times and admits that he doesn't have a proper answer to Jake's objections.
 
-Full video: https://www.youtube.com/watch?v=smJ66-gtAYA
+Full video: <https://www.youtube.com/watch?v=smJ66-gtAYA>
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -27,40 +27,39 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
-#trinity #orthodox #lpt
+# trinity #orthodox #lpt
 
 ## Summary of [Orthodox Christian Appeals to Mystery | Podcast Highlight](https://www.youtube.com/watch?v=CiU2GN49UO0)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -69,12 +68,13 @@ Gmail: hello.tapodcast@gmail.com
 an Orthodox Christian discusses the problem of identity in regards to the Trinity. He argues that, at the very least, it appears that this problem is based on a legitimate problem. The Orthodox Christian discusses the problem of polytheism, which results from the definition of the Trinity as three beings who are not distinct from one another. He argues that if the persons are defined separately from one another, then one wind up with social trinitarianism or a version of polytheism, while if the persons are not defined separately, then one winds up with modalism. The Orthodox Christian argues that, because God's attributes are human concepts, they are not identical to God's essence. However, under the model of divine simplicity, these attributes must be identical to one another and to God's essence in order to be true. This leads to the conclusion that God is the creator, has knowledge, and is necessary. discusses the problem of reconciling two contradictory beliefs about God- that God is simple and also outside of time. He suggests that we appeal to mystery to come to a deeper understanding of God.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** This Orthodox Christian explains that they believe in one God, one consciousness, and one knowledge. They also believe that this knower and the thing that is known of himself are identical in essence.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the concept of "the same type of thing," or "identity," between two things that are different in terms of their "substance." For example, between a father and son. While they are both human beings, they have different properties.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the difference between the properties of the father (unbegottenness, begottenness, and procession) and the persons of the father (the essence). believes that the persons are identical to the essence, but that they are also distinct from one another. Divine simplicity would require that the attributes and properties be identical to the essence, but this is not possible because they are real properties.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Orthodox Christian discusses the problem of identity in regards to the Trinity, stating that there is a logical problem with saying God is a body part or denying divine simplicity. He argues that, at the very least, it appears that this problem is based on a legitimate problem.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** The Orthodox Christian discusses the problem of polytheism, which results from the definition of the Trinity as three beings who are not distinct from one another. He argues that if the persons are defined separately from one another, then one wind up with social trinitarianism or a version of polytheism, while if the persons are not defined separately, then one winds up with modalism.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** The Orthodox Christian argues that, because God's attributes are human concepts, they are not identical to God's essence. However, under the model of divine simplicity, these attributes must be identical to one another and to God's essence in order to be true. This leads to the conclusion that God is the creator, has knowledge, and is necessary.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses the problem of reconciling two contradictory beliefs about God- that God is simple and also outside of time. He suggests that we appeal to mystery to come to a deeper understanding of God.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the concept of "the same type of thing," or "identity," between two things that are different in terms of their "substance." For example, between a father and son. While they are both human beings, they have different properties.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the difference between the properties of the father (unbegottenness, begottenness, and procession) and the persons of the father (the essence). believes that the persons are identical to the essence, but that they are also distinct from one another. Divine simplicity would require that the attributes and properties be identical to the essence, but this is not possible because they are real properties.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Orthodox Christian discusses the problem of identity in regards to the Trinity, stating that there is a logical problem with saying God is a body part or denying divine simplicity. He argues that, at the very least, it appears that this problem is based on a legitimate problem.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** The Orthodox Christian discusses the problem of polytheism, which results from the definition of the Trinity as three beings who are not distinct from one another. He argues that if the persons are defined separately from one another, then one wind up with social trinitarianism or a version of polytheism, while if the persons are not defined separately, then one winds up with modalism.
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** The Orthodox Christian argues that, because God's attributes are human concepts, they are not identical to God's essence. However, under the model of divine simplicity, these attributes must be identical to one another and to God's essence in order to be true. This leads to the conclusion that God is the creator, has knowledge, and is necessary.
+- **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses the problem of reconciling two contradictory beliefs about God- that God is simple and also outside of time. He suggests that we appeal to mystery to come to a deeper understanding of God.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

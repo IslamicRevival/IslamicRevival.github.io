@@ -6,10 +6,9 @@
 
 If you enjoyed the arguments presented in the debate, and want to know more, and learn how to debate, discuss and advocate for Palestine yourself, register now for the Palestine advocacy course and raise the bar in Muslim argument and activism. Follow this link:
 
-https://thequran.institute/palestine
+<https://thequran.institute/palestine>
 
 ## Summary of [Radical Zionist Embarrassed by Muslim Debater](https://www.youtube.com/watch?v=MUEowQNLa2w)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -18,8 +17,9 @@ https://thequran.institute/palestine
  discusses how radical Zionist Tariq Ramadan is teaching a course on Palestinian advocacy at the Quran Institute. The course is open to Muslims around the world, and Ramadan encourages Muslims to challenge Zionist arguments -on.  also discusses how radical Zionist David Ben-Gurion did not support colonization of Argentina, despite earlier writings that suggested as much. Ben-Gurion later decided that colonization of Argentina was a good idea, but argued that Zionism was still a form of settler colonialism.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Radical Zionist instructor Tariq Ramadan teaches a 10-week course on Palestinian advocacy at the Quran Institute, which will cover topics such as the history of Palestine and the Zionist movement, the occupation of Palestine, and the solutions to the conflict. The course is open to Muslims around the world, and Ramadan encourages Muslims to challenge Zionist arguments -on.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Zionism is a movement that advocates for the establishment of a Jewish homeland in Palestine, which would be achieved by forcibly evicting the Arab and Muslim populations residing there. discusses how the idea of Zionism differs from secular colonialism, in that Zionism is based on a strong connection to the land and the belief that the Jews are the chosen people who are destined to rule over the land. He also points out that when Herzl writes to himself, he is frank about his concerns about being close to Russia and Europe and not wanting to be part of the Ottoman Empire.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses how radical Zionist David Ben-Gurion did not support colonization of Argentina, despite earlier writings that suggested as much. Ben-Gurion later decided that colonization of Argentina was a good idea, but argued that Zionism was still a form of settler colonialism.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses how radical Zionist David Ben-Gurion did not support colonization of Argentina, despite earlier writings that suggested as much. Ben-Gurion later decided that colonization of Argentina was a good idea, but argued that Zionism was still a form of settler colonialism.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

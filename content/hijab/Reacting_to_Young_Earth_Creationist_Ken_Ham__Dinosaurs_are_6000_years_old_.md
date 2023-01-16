@@ -4,19 +4,17 @@
 
 ## Description
 
-Buy the BEST Qa'idah on the market NOW: 
-https://minimuallims.com/?product=ajmal-al-qawaaid
+Buy the BEST Qa'idah on the market NOW:
+<https://minimuallims.com/?product=ajmal-al-qawaaid>
 
-FREE BOOKLET ON TRUTH OF ISLAM: 
-https://www.kbyh.co.uk/category/mohammed-hijab-articles/
+FREE BOOKLET ON TRUTH OF ISLAM:
+<https://www.kbyh.co.uk/category/mohammed-hijab-articles/>
 
-
-A reaction to a video by well known and funded Christian apologist Ken Ham. 
+A reaction to a video by well known and funded Christian apologist Ken Ham.
 
 Don't forget to like, comment and subscribe.
 
 ## Summary of [Reacting to Young Earth Creationist Ken Ham "Dinosaurs are 6000 years old"](https://www.youtube.com/watch?v=0J10ig00g3g)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -25,6 +23,7 @@ Don't forget to like, comment and subscribe.
  Zeeshan Beast responds to Ken Ham, a young earth creationist. Beast argues that, based on the Bible, dinosaurs lived and died much earlier than scientists currently believe. However, Beast also points out that orthodox Christian belief includes the idea that all of creation was created in six days. This evidence, Beast argues, contradicts itself.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  Zeeshan Beast, a man who has created a legacy for himself, responds to Ken Ham, a young earth creationist. Beast argues that, based on the Bible, dinosaurs lived and died much earlier than scientists currently believe. However, Beast also points out that orthodox Christian belief includes the idea that all of creation was created in six days. This evidence, Beast argues, contradicts itself, as the Bible also states that day and night were created on the first day.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The four luminaries were created on the fourth day, and plants did not begin to grow until the second day. There are contradictions within the Bible and between different parts, and Christianity is based on a historical event that many skeptics doubt.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** argues that, if one rejects the resurrection of Jesus, one is doomed to hell. He also points out that the accounts of Jesus' life in the Bible are contradictory.
 

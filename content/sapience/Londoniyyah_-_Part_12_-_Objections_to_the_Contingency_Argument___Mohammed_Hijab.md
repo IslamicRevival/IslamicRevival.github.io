@@ -6,8 +6,9 @@
 
 Londoniyyah - Part 12 - Objections to the Contingency Argument | Mohammed Hijab
 
-To be updated about our content please subscribe and open the notifications.
+To be updated about our content please subscribe and open the notifications
 ----
+
 BOOK A LIGHTHOUSE MENTOR
 
 Are you or someone you know doubting Islam? Do you find yourself struggling to find answers?  Do you have a hard time speaking to someone about Islam?  Are you considering Islam but are unsure about certain concepts?  Are you an activist, Imam or community leader who is unsure about how to handle questions related to science, philosophy, the Islamic moral code, etc.?
@@ -16,12 +17,11 @@ You are not alone.  Over the course of the last decade or more there has been a 
 
 Seeing the rise of  this phenomenon , Sapience Institute is introducing a One to One mentoring service called LIGHTHOUSE.
 
-BOOK A MENTOR HERE: https://sapienceinstitute.org/lighthouse/
+BOOK A MENTOR HERE: <https://sapienceinstitute.org/lighthouse/>
 
-VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: https://sapienceinstitute.org/
+VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: <https://sapienceinstitute.org/>
 
 ## Summary of [Londoniyyah - Part 12 - Objections to the Contingency Argument | Mohammed Hijab](https://www.youtube.com/watch?v=HKEYocPz0e8)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -30,12 +30,13 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
  "Londoniyyah - Part 12 - Objections to the Contingency Argument | Mohammed Hijab" discusses objections to the contingency argument, which states that the universe is contingent and therefore needs an independent thing to provide it with existence.  discusses five objections to the argument, including the fallacies of composition and impossibility of an independent being.  concludes that if something is dependent, it is finite and has limitations, and if something is independent, it is pre-eternal and self-sufficient.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The proposition of the contingency argument states that dependent things cannot exist without an independent thing to provide them with existence. The example given is that of a phone needing a charger to be powered, illustrating that the phone is dependent on the charger for its existence. The human being is also dependent on things like food, water, and sleep for their continued existence.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  investigates objections to the argument that the universe is dependent or independent. Five common objections are discussed, including the fallacy of composition and the impossibility of an independent being or thing.  concludes that if something is dependent, it is finite and has limitations, and if something is independent, it is pre-eternal and self-sufficient.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the fallacy of composition and how it can be used to refute arguments based on cause and effect. The second part of the video discusses the ontological argument, which states that the universe cannot be caused, because parts of it have a connection to the hole without which the universe would not be whole.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the fallacy of composition and how it can be used to refute arguments based on cause and effect. The second part of the video discusses the ontological argument, which states that the universe cannot be caused, because parts of it have a connection to the hole without which the universe would not be whole.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Mohammed Hijab discusses how, if the contingency argument is true, then an atheist would be forced to believe in an infinite multiverse. This is because, according to the argument, an atheist would be forced to believe that there is an infinite amount of creative things that have yet to be created. However, many within Islam believe that this is purely a theoretical concept and that there is no physical evidence for it.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>**  "Londoniyyah - Part 12 - Objections to the Contingency Argument | Mohammed Hijab" discusses objections to the contingency argument, which states that because the universe is contingent, it cannot be necessary.  discusses how the infinity of multiverses allows for the possibility that some things that do not exist in one universe may exist in another.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** of the video discusses three objections to the contingency argument, which he says are "pretty pathetic." The first objection is that things are only potential, which means they can't be independent. The second objection is that if something is potential, it can't be dependent. The third objection is that if something is dependent, it can't be created or destroyed. says that these objections fail to make a crucial distinction between the universe and other objects, and that it is unreasonable to rely on them to prevent a rational inquiry into the issue of whether the universe has a creator.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses the grandfather paradox, which is a problem in quantum mechanics. The paradox is that if you go back in time and kill your own grandfather, you would not be alive to go back and kill him, because before you make any measurement, the system will be a certain way as a result of the observation.
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses the grandfather paradox, which is a problem in quantum mechanics. The paradox is that if you go back in time and kill your own grandfather, you would not be alive to go back and kill him, because before you make any measurement, the system will be a certain way as a result of the observation.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** The contributor argues that there is a difference between dependence and causation, and that the grandfather paradox demonstrates this. He goes on to say that the universe must have been created by something, and that this something must have a deistic requirement in order to be considered a god.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** The five major objections to the contingency argument are easy to explain, and the atheist and agnostic participants in the role-playing exercise are unable to maintain their positions. The fifth objection, that something can come from nothing, is dismissed as not being a serious theory.
 

@@ -6,21 +6,17 @@ The debate was hosted by Oxford University Forum on 6th May 2019. The topic deba
 
 The speakers were me (S.A.L.A.M Initiative), Abdullah al Andalusi (Muslim Debate Initiative) debating against Atheist speakers, Alex O’Connor, an international speaker and popular YouTuber “Cosmic Skeptic”, and writer for the New Humanist Journal, and Psychiatrist, Dr Colin Brewer.
 
-
 Please make sure to support our work !!! :
 
-https://www.launchgood.com/project/how_much_will_you_give_for_islam#!/
+<https://www.launchgood.com/project/how_much_will_you_give_for_islam#>!/
 
+Forbidden Prophesies Book (Abu Zakarriyah) -
 
-Forbidden Prophesies Book (Abu Zakarriyah) - 
+<https://iera.org/shop/the-forbidden-prophecies/>
 
-https://iera.org/shop/the-forbidden-prophecies/
-
-
-Kalam Cosmological Arguments Book (Mohammed Hijab) -https://www.amazon.co.uk/Kalam-Cosmological-Arguments-Mohammed-Hijab/dp/1098544021/ref=sr_1_2?crid=2HXCQ0YE6SI7E&keywords=kalam+cosmological+argument&qid=1557916231&s=gateway&sprefix=kalam+%2Caps%2C127&sr=8-2
+Kalam Cosmological Arguments Book (Mohammed Hijab) -<https://www.amazon.co.uk/Kalam-Cosmological-Arguments-Mohammed-Hijab/dp/1098544021/ref=sr_1_2?crid=2HXCQ0YE6SI7E&keywords=kalam+cosmological+argument&qid=1557916231&s=gateway&sprefix=kalam+%2Caps%2C127&sr=8-2>
 
 ## Summary of [Islam vs Atheism || Oxford University Forum Debate](https://www.youtube.com/watch?v=1n-zYRZy5NQ)
-
 
 *
 
@@ -31,22 +27,25 @@ Kalam Cosmological Arguments Book (Mohammed Hijab) -https://www.amazon.co.uk/Kal
 In the Oxford University Forum debate on Islam vs. atheism, the two sides discuss the issue of how reality can be explained. Islam argues that a divine creator is necessary to explain reality, while atheism denies this. In the end, both sides admit that the other has a point, but neither can explain reality without recourse to a divine creator.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The speakers discuss the difference between Islam and atheism and how each worldview fails to account for certain observations. Islam teaches that God is one, self-sufficient, and without partner.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The Oxford University Forum debate between Islam and atheism is focused on the issue of how reality can be explained, with Islam arguing that it cannot be explained without the existence of a divine creator, while atheism denies this and asserts that reality can be explained without a divine creator. The debate ends with both sides admitting that the other has a point, but neither side can convincingly explain reality without recourse to a divine creator.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The Oxford University Forum Debate discussed the pros and cons of atheism vs. Islam. Abdullah argued that atheism does not entail a lack of belief in God, and that the burden of proof lies with the proposition. Matt Dillahunty argued that because atheism is a claim to belief, it comes from the Greek a meaning without the Oz meaning Ghana, and is not an active position to hold.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses various arguments between Islam and atheism, with the presenter pointing out that there is an objective basis to morality in the world, and that part of this reality is that there are moral truths. The presenter then goes on to present a verse from the Quran, which states that men are superior to women.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses various arguments between Islam and atheism, with the presenter pointing out that there is an objective basis to morality in the world, and that part of this reality is that there are moral truths. The presenter then goes on to present a verse from the Quran, which states that men are superior to women.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** In this debate, Oxford University students discuss Islam vs. atheism. One student, Mian Abdullah, argues that the universe came into existence from nothing. Another, Alex, challenges Abdullah's claim, saying that the universe had a cause.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses Islam's perspective on the existence of a necessary God. According to Islam, this God is an independent, self-sufficient being that creates and controls the universe. This contrasts with other religions, which typically view gods as beings with multiple aspects and origins. Furthermore, the video argues that, because the concept of a necessary God is different from that of other gods, an adherent to Islam is not an atheist or Islamic philosopher, but rather someone who believes in a separate, necessary God.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses Islam's perspective on the existence of a necessary God. According to Islam, this God is an independent, self-sufficient being that creates and controls the universe. This contrasts with other religions, which typically view gods as beings with multiple aspects and origins. Furthermore, the video argues that, because the concept of a necessary God is different from that of other gods, an adherent to Islam is not an atheist or Islamic philosopher, but rather someone who believes in a separate, necessary God.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Oxford University Forum Debate participants discuss the similarities and differences between atheism and Islam. The presenter points out that, while atheism does not have a belief in a god, Islam does have a pure monotheism that can be reasoned from first principles. He also argues that Islam makes predictions about the future, none of which have not materialized, while other religions make predictions that sometimes turn out to be false. The presenter asserts that this falsifiability is stronger than a scientific one, as scientific theories are susceptible to falsification with retrospective perspective.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses the importance of freedom of religious belief, and how Islam does not protect this right as much as Christianity does. then discusses the case of a professor in an Arab country whose journal was threatened after he published an article about Freud being an atheist.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses how two different views of reality compete with each other. He discusses how Christianity and Islam differ in their views on abortion.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the concepts of atheism and the necessary corollary that if one does not believe in God, their worldview does not require the existence of a deity to explain things. He goes on to say that, ultimately, reality imposes certain problems on atheism if it is to be taken seriously.
+* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses the importance of freedom of religious belief, and how Islam does not protect this right as much as Christianity does. then discusses the case of a professor in an Arab country whose journal was threatened after he published an article about Freud being an atheist.
+* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses how two different views of reality compete with each other. He discusses how Christianity and Islam differ in their views on abortion.
+* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Discusses the concepts of atheism and the necessary corollary that if one does not believe in God, their worldview does not require the existence of a deity to explain things. He goes on to say that, ultimately, reality imposes certain problems on atheism if it is to be taken seriously.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** In this Oxford University forum debate, two debaters argue whether anything that can be reduced or subtracted (i.e. quantitative) can be infinite. The debaters reach a conclusion that anything susceptible to additional subtraction cannot be infinite.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the idea of necessary existence, arguing that something must exist in order for other things to exist. He goes on to say that without necessary existence, there could be no contingent things, and that therefore, necessary existence is a necessary condition for everything else to exist.
+* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Discusses the idea of necessary existence, arguing that something must exist in order for other things to exist. He goes on to say that without necessary existence, there could be no contingent things, and that therefore, necessary existence is a necessary condition for everything else to exist.
+
 ### <a onclick="modifyYTiframeseektime('6000')">01:00:00 [01:40:00</a>
 
  discusses a debate between Muslims and atheists at Oxford University. The Muslims argue that atheists should redirect their admiration and worship to the one God, while the atheists argue that there are many gods. The debate ends with the Muslims stating that atheists will do well here if they believe in God.
 
-**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>* Discusses a debate between Oxford University professors, one of whom argues that determinism follows from the necessary existence of the universe. The other professor argues that this is a false dichotomy, and that determinism and necessary existence can both be true at the same time.  also discusses the debate between Muhammad Ahsan and a Bedouin atheist, in which Ahsan demonstrates that there is no intolerance or violence against atheists in Islam.
+**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Discusses a debate between Oxford University professors, one of whom argues that determinism follows from the necessary existence of the universe. The other professor argues that this is a false dichotomy, and that determinism and necessary existence can both be true at the same time.  also discusses the debate between Muhammad Ahsan and a Bedouin atheist, in which Ahsan demonstrates that there is no intolerance or violence against atheists in Islam.
+
 * **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** The Oxford University Forum debate between Islam and atheism revolves around the question of whether or not morality is objective or subjective. The atheist argues that morality is subjective, while the Muslim argues that morality is based on revelation from God. If morality is based on revelation, then it is not subject to change. If morality is not based on revelation, then the atheist has no ground to stand on.
 * **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** argues that if one does not believe in objective morality, there is nothing to compare the morality of Islam with. He points out that, while the subjectivity of morality does lie in the motivations behind actions, there are many objective facts that can be known about how to achieve a goal. He also argues that, while Mill avoided using the name "the proof of utilitarianism," the chapter  is actually a proof of the theory.
 * **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** presents a lecture on how to know if Islam is true, and how it stands out compared to other belief systems. He points out that there are contradictions and problems with other belief systems, and that Islam is the only one that makes sense. He asks a question about how Islam's concept of God can be known to be accurate, and the speaker is unable to answer.

@@ -5,10 +5,9 @@
 ## Description
 
 Dr John Barton is a British Anglican priest and biblical scholar and Professor of the Interpretation of Holy Scripture at the University of Oxford.
-Please consider supporting my work on Patreon: https://www.patreon.com/Bloggingtheology?fan_landing=true
+Please consider supporting my work on Patreon: <https://www.patreon.com/Bloggingtheology?fan_landing=true>
 
 ## Summary of [The scandal of 'forgeries' in the Bible](https://www.youtube.com/watch?v=DY7V9Ch7Q5k)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -17,6 +16,7 @@ Please consider supporting my work on Patreon: https://www.patreon.com/Bloggingt
  "The scandal of 'forgeries' in the Bible" discusses how some scholars believe that some of the letters in the New Testament were not actually written by the apostles, but were instead forgeries. This is a controversial topic, as it challenges the authority of the Bible. The video goes on to discuss how the canonization process has led to some texts being considered more authoritative than others.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Scholars have come to the conclusion that some of the letters in the New Testament were not written by the apostles themselves, but were instead forgeries. This is a controversial topic, as Christians are supposed to trust the Bible as the word of God. However, if the letters in the New Testament are forgeries, this makes it difficult to trust anything else in the Bible.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** discusses the scandal of forgeries in the Bible, pointing out that some books, such as Second Peter, which are difficult to reconcile with other books in the New Testament, are still considered authoritative by Christians.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The video discusses how forgeries have been found in the Bible, and how the canonization process has led to some texts being considered canonical while others are still considered dubious.
 

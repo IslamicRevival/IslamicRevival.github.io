@@ -8,7 +8,6 @@ This video examines the claim that Islamic terrorism eclipses all other kinds of
 
 ## Summary of [Fierce Woman Interrogates Muslims on Terrorism!!](https://www.youtube.com/watch?v=pMqpB4czMcA)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:25:00</a>
@@ -16,11 +15,12 @@ This video examines the claim that Islamic terrorism eclipses all other kinds of
  discusses how Muslims are often unfairly targeted and prosecuted in the United States, and how legislation aimed at combating terrorism can be discriminatory. encourages open dialogue between Muslims and other members of the community, and wishes them success in doing so.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The woman in the video argues that Muslims should be doing more to help innocent people dying in terrorist attacks, and that Christians have killed each other in similar ways. She also points out that Muslims and Christians have different reasons for not being aware of the wars happening around the world.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** talks about how Muslims do not score disproportionately in terms of suicide bombing and terrorism relative to their population, and blames the West for the current state of the Muslim world. He believes that Muslims need to learn more about their religion in order to reform.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses how mainstream Muslims interpret verses regarding fighting. Some mainstream Muslims interpret these verses as referring to combatant Muslims fighting against disbelievers, while others interpret them more broadly to include situations where Muslims are fighting against other Muslims.  concludes with a discussion of how mainstream Muslims feel about Muslims who fight in Syria and Iraq.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses how mainstream Muslims interpret verses regarding fighting. Some mainstream Muslims interpret these verses as referring to combatant Muslims fighting against disbelievers, while others interpret them more broadly to include situations where Muslims are fighting against other Muslims.  concludes with a discussion of how mainstream Muslims feel about Muslims who fight in Syria and Iraq.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  interviews a fierce woman who interrogates Muslims on terrorism. The woman says that America is the leading terrorist named, and that if the West takes this human problem and changes the label and says this is an Islamic problem, that's disingenuous.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>**  a woman discusses the statistics of terrorism and how it is more likely for someone to be killed by a car than by a terrorist. She also discusses the importance of being kind to Muslims who do not believe in liberalism or democracy.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses how Muslim minorities are often unfairly targeted and prosecuted in the United States, and how legislation aimed at combating terrorism can be discriminatory. encourages open dialogue between Muslims and other members of the community, and wishes them success in doing so.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses how Muslim minorities are often unfairly targeted and prosecuted in the United States, and how legislation aimed at combating terrorism can be discriminatory. encourages open dialogue between Muslims and other members of the community, and wishes them success in doing so.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

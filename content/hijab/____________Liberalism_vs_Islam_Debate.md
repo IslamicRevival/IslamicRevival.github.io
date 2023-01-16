@@ -4,10 +4,9 @@
 
 ## Description
 
-full debate here - https://www.youtube.com/watch?v=tzlOG4jntzw
+full debate here - <https://www.youtube.com/watch?v=tzlOG4jntzw>
 
 ## Summary of [كلمة محمد حجاب الافتتاحية خلال مناظرته مع لارس جول حول موضوع الليبرالية Liberalism vs Islam Debate](https://www.youtube.com/watch?v=P8rbfhffxG8)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -15,11 +14,12 @@ full debate here - https://www.youtube.com/watch?v=tzlOG4jntzw
 
  Dr. Gu argues that liberalism can and has allowed for death penalty outcomes, and that it is also conceivable in Islam. He provides evidence for this claim.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the differences between liberalism and Islam. He says that liberalism is a subjective morality that is based on convention, and that it must be proven to be true before it can be accepted. also notes that there is no scientific evidence for God, which is a problem with the philosophy of science of liberalism.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the differences between liberalism and Islam. He says that liberalism is a subjective morality that is based on convention, and that it must be proven to be true before it can be accepted. also notes that there is no scientific evidence for God, which is a problem with the philosophy of science of liberalism.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Dr. Gu argues that liberalism can and has allowed for death penalty outcomes, and that it is also conceivable in Islam. He provides evidence for this claim.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the difference between liberalism and Islam, and argues that liberalism can never allow for racism, while Islam can never do the same.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the difference between liberalism and Islam, and argues that liberalism can never allow for racism, while Islam can never do the same.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** In the 1800s, there were only a few cases of death penalty outcomes in relation to liberalism vs. Islam, and by the 1800s, liberalism had become the dominant moral philosophy in the Ottoman Empire. In the present day, liberalism is still dominant, but it is contradictory and produces legally binding death penalty outcomes for non-allegiance to the state. Furthermore, there is evidence that freedom and equality do not exist naturally, and must be proven.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses liberalism and Islam, and asks how each ideology solves local problems. He also mentions Silica College Aidid and the Italian well known as "Aqua Silica."
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses liberalism and Islam, and asks how each ideology solves local problems. He also mentions Silica College Aidid and the Italian well known as "Aqua Silica."
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

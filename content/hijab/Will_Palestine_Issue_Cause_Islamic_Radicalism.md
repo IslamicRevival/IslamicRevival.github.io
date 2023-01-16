@@ -4,16 +4,15 @@
 
 ## Description
 
-Visit https://www.naturesblends.com/ and use hijab10 for a 10% discount. 
+Visit <https://www.naturesblends.com/> and use hijab10 for a 10% discount.
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
-My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
+My book: <https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/>
 
 ## Summary of [Will Palestine Issue Cause Islamic Radicalism?](https://www.youtube.com/watch?v=_9tp4pNMcqk)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -21,7 +20,8 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 
 argues that the issue of Palestine is a key issue for Muslims and that the West needs to take a firmer stance against Israel in order to prevent terrorists from using the issue to recruit more people to their cause.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses how the West has a double standard when it comes to support for Israel, with some people in the West advocating for normalized relations between Israel and Palestine, while others in the West support the state of Israel, and even Muslims who vote Democrat. says that we should not vote for any of the political parties today, and that the Palestine issue is a red line for the Muslim community. He says that we will campaign against all political parties that do not candidly condemn the Palestine issue, and that we are becoming a major demography in the United States. concludes by saying that if the parties do not change their stance on the Palestine issue, we will withhold our vote, and condemn Joe Biden and others who campaign on his behalf.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses how the West has a double standard when it comes to support for Israel, with some people in the West advocating for normalized relations between Israel and Palestine, while others in the West support the state of Israel, and even Muslims who vote Democrat. says that we should not vote for any of the political parties today, and that the Palestine issue is a red line for the Muslim community. He says that we will campaign against all political parties that do not candidly condemn the Palestine issue, and that we are becoming a major demography in the United States. concludes by saying that if the parties do not change their stance on the Palestine issue, we will withhold our vote, and condemn Joe Biden and others who campaign on his behalf.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** <>
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** argues that, because of the emotional argument terrorists have over Palestine, the West should take a firmer stance against Israel. He warns that, if the West doesn't take a firm stance, terrorists will be able to use civilians as collateral damage in their attacks.
 

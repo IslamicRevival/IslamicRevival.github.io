@@ -6,9 +6,9 @@
 
 Londoniyyah - Part 13 - Individualism | Mohammed Hijab
 
-
-To be updated about our content please subscribe and open the notifications.
+To be updated about our content please subscribe and open the notifications
 ----
+
 BOOK A LIGHTHOUSE MENTOR
 
 Are you or someone you know doubting Islam? Do you find yourself struggling to find answers?  Do you have a hard time speaking to someone about Islam?  Are you considering Islam but are unsure about certain concepts?  Are you an activist, Imam or community leader who is unsure about how to handle questions related to science, philosophy, the Islamic moral code, etc.?
@@ -17,12 +17,11 @@ You are not alone.  Over the course of the last decade or more there has been a 
 
 Seeing the rise of  this phenomenon , Sapience Institute is introducing a One to One mentoring service called LIGHTHOUSE.
 
-BOOK A MENTOR HERE: https://sapienceinstitute.org/lighthouse/
+BOOK A MENTOR HERE: <https://sapienceinstitute.org/lighthouse/>
 
-VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: https://sapienceinstitute.org/
+VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: <https://sapienceinstitute.org/>
 
 ## Summary of [Londoniyyah - Part 13 - Individualism | Mohammed Hijab](https://www.youtube.com/watch?v=JfKxtEnyyVg)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -31,11 +30,12 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
  Mohammed Hijab discusses the concept of individualism. He explains that it is an ideology which prioritizes the individual in comparison to the collective. He also discusses the difference between individualism and egoism and how to define them. Finally, he discusses the difference between individualism and democracy and how parliament is sovereign.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  Mohammed Hijab discusses individualism and collectivism. He explains that individualism is an ideology which prioritizes the individual in comparison to the collective. He also discusses the difference between individualism and egoism and how to define them. Finally, he discusses the difference between individualism and democracy and how parliament is sovereign.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Mohammed Hijab discusses the difference between ethical egoism and individualism. He explains that while both concepts involve self-interest, individualism is higher on the spectrum and has more to do with looking at what an individual values. When discussing political models, he points out that individualism can be found in different ideologies, including ethical systems and political philosophies.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Ludwig von Mises argued that individualism is the only ethical system, as it is the only system that does not require arbitrariness.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the two main arguments against individualism: that it is arbitrary to establish a collective on identity markers and that this can lead to totalitarianism. It argues that individualism is a reasonable option in certain situations, and that the stronger argument is that individualism is required to start with the question "What is the goal?"
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the two main arguments against individualism: that it is arbitrary to establish a collective on identity markers and that this can lead to totalitarianism. It argues that individualism is a reasonable option in certain situations, and that the stronger argument is that individualism is required to start with the question "What is the goal?"
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** The individualistic assumption is that individuals know what is best for themselves, and this assumption can be questioned. There are deeper assumptions behind this assumption which are argued by philosophers. If we don't have free will, individualism isn't meaningful.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses two assumptions made in favour of individualism: that individuals know what's best for themselves and that they have freedom. The first assumption is contradictory with individualism, as a person cannot know what's best for themselves if they are a deterministic individual. The second assumption, that freedom exists, is taken for granted. If a person is not limited, their actions may have harmful consequences for themselves and others. In order to make an argument for either assumption, consequentialism must be included.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses two assumptions made in favour of individualism: that individuals know what's best for themselves and that they have freedom. The first assumption is contradictory with individualism, as a person cannot know what's best for themselves if they are a deterministic individual. The second assumption, that freedom exists, is taken for granted. If a person is not limited, their actions may have harmful consequences for themselves and others. In order to make an argument for either assumption, consequentialism must be included.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>**  Mohammed Hijab discusses the principles of Islam and consequentialism. He points out that, in some cases, the individual interest is prioritized over the collective interest, and that is the case with laws related to capital punishment and honor. He explains that this is because Islam is designed to protect the five things that make up human dignity: religion, honor, family, property, and knowledge.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Mohammed Hijab discusses individualism in Islam, noting that some aspects of the religion are more collectivist than others. He also points out that Islamic principles are compatible with social contractarianism and liberalism.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>**  Mohammed Hijab discusses individualism and how it conflicts with Islamic values. He encourages viewers to continue discussing these topics in Arabic, and to look forward to the next session.

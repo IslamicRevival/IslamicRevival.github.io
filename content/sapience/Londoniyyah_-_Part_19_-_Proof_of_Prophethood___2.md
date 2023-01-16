@@ -4,12 +4,13 @@
 
 ## Description
 
-Listen as audio: https://soundcloud.com/sapienceinstitute/londoniyyah-part-17-marxism-2-mohammed-hijab?in=sapienceinstitute/sets/londoniyyah&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+Listen as audio: <https://soundcloud.com/sapienceinstitute/londoniyyah-part-17-marxism-2-mohammed-hijab?in=sapienceinstitute/sets/londoniyyah&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing>
 
 Londoniyyah - Part 19 - Proof of Prophethood / 2
 
-To be updated about our content please subscribe and open the notifications.
+To be updated about our content please subscribe and open the notifications
 ----
+
 BOOK A LIGHTHOUSE MENTOR
 
 Are you or someone you know doubting Islam? Do you find yourself struggling to find answers?  Do you have a hard time speaking to someone about Islam?  Are you considering Islam but are unsure about certain concepts?  Are you an activist, Imam or community leader who is unsure about how to handle questions related to science, philosophy, the Islamic moral code, etc.?
@@ -18,12 +19,11 @@ You are not alone.  Over the course of the last decade or more there has been a 
 
 Seeing the rise of  this phenomenon , Sapience Institute is introducing a One to One mentoring service called LIGHTHOUSE.
 
-BOOK A MENTOR HERE: https://sapienceinstitute.org/lighthouse/
+BOOK A MENTOR HERE: <https://sapienceinstitute.org/lighthouse/>
 
-VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: https://sapienceinstitute.org/
+VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: <https://sapienceinstitute.org/>
 
 ## Summary of [Londoniyyah - Part 19 - Proof of Prophethood / 2](https://www.youtube.com/watch?v=CVA1jeoE_1k)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -32,26 +32,29 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
  the sheikh discusses the necessary and sufficient conditions for revelation and how they were met by Prophet Muhammad. He also discusses the various proofs of prophethood for Muhammad, including his background and reputation, and the manner in which he conducted himself.  ends with a reminder for Muslims that Muhammad is the perfect example for them to follow.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  the sheikh discusses the necessary and sufficient conditions for revelation. He explains that a necessary condition for revelation is that it cannot have any contradictions and that it must be preserved. He also discusses how probabilistic reasoning is used to guide us in our daily lives.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The presenter discusses the various proofs of prophethood for Muhammad, including his background and reputation, and the manner in which he conducted himself. The presenter ends with a reminder for Muslims that Muhammad is the perfect example for them to follow.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the life of Prophet Muhammad, highlighting his many successes as a military general, religious leader, and prophet. It also mentions that he never gave up on his mission even during the severe persecution he faced. In the end, he was successful in defeating the Meccans and establishing a political system in Medina.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the evidence that Muhammad was a truthful prophet, including his success as a family man, husband, and legislator. He also points to evidence of Muhammad's divinely-ordained wars, which show that he was not a warlord or liar.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses Prophet Muhammad's life and how he received revelations that helped guide his people during difficult times. The Prophet was persecuted by his own people, but refused to give up his message. He eventually led a community in Medina and incorporated minority rights. He died at the age of 80, fulfilling prophethood.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses some of the evidence for Islam, including the language of the Quran and the history of the prophet Muhammad. It points out that there are many challenges to interpreting the Quran, including the inimitability challenge.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the life of Prophet Muhammad, highlighting his many successes as a military general, religious leader, and prophet. It also mentions that he never gave up on his mission even during the severe persecution he faced. In the end, he was successful in defeating the Meccans and establishing a political system in Medina.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the evidence that Muhammad was a truthful prophet, including his success as a family man, husband, and legislator. He also points to evidence of Muhammad's divinely-ordained wars, which show that he was not a warlord or liar.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses Prophet Muhammad's life and how he received revelations that helped guide his people during difficult times. The Prophet was persecuted by his own people, but refused to give up his message. He eventually led a community in Medina and incorporated minority rights. He died at the age of 80, fulfilling prophethood.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses some of the evidence for Islam, including the language of the Quran and the history of the prophet Muhammad. It points out that there are many challenges to interpreting the Quran, including the inimitability challenge.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** argues that the linguistic superiority of the Quran is evidence that it was revealed by God. He provides examples of how the Quran is structured, chronologically, and reveals the secrets of the revelation.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses the interconnectedness of Quranic verses, demonstrating how certain themes are repeated throughout the scripture. Neil Robinson references this as "coat-tailing." Curtailing, or the end of one surah connecting with the beginning of the next, is also noted as being unusual. This interconnectedness is also seen in the structure of the Quran, with chapters connected by common themes. Seven years later, the same patterns are still present in the Quran, demonstrating its divine design.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses how in the Qur'an, there are affirmations of prophethood at the end of chapters 34 and 5, as well as the beginning of chapter 22. It also mentions the stages of embryonic development in chapter 22, and the fact that allah averted the devil during his creation of the heavens and earth. In the end, the video discusses how the Qur'an is like a tatib - a compilation of various revelations - and how it is recited as it is now, with the chronology intact.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the structure of the Quran, with particular attention to the order in which the Prophet Muhammad allegedly recited it. Two views are proposed: one, that the Quran was compiled from the Prophet Muhammad's own recitation, and two, that it was compiled from the Prophet Muhammad's companions. While either view is valid, it is interesting to note that the Quran itself mentions this structure.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the idea that the Qur'an could be historically accurate, based on the verse where allah states that the heavens and earth wept not for Pharaoh and were not replying to him.  also mentions the fact that the quran mentions the pharaohs' claims to divinity.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses how the Qur'an references specific historical events that are not mentioned in the Old Testament, such as the existence of the Children of Israel in Egypt. He also points out that certain general sayings in the Qur'an could refer to the existence of Israel in general. Finally, the author discusses the story of Pharaoh's body being found in France and how it confirms that Pharaoh was the pharaoh.
+* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses the interconnectedness of Quranic verses, demonstrating how certain themes are repeated throughout the scripture. Neil Robinson references this as "coat-tailing." Curtailing, or the end of one surah connecting with the beginning of the next, is also noted as being unusual. This interconnectedness is also seen in the structure of the Quran, with chapters connected by common themes. Seven years later, the same patterns are still present in the Quran, demonstrating its divine design.
+* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses how in the Qur'an, there are affirmations of prophethood at the end of chapters 34 and 5, as well as the beginning of chapter 22. It also mentions the stages of embryonic development in chapter 22, and the fact that allah averted the devil during his creation of the heavens and earth. In the end, the video discusses how the Qur'an is like a tatib - a compilation of various revelations - and how it is recited as it is now, with the chronology intact.
+* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Discusses the structure of the Quran, with particular attention to the order in which the Prophet Muhammad allegedly recited it. Two views are proposed: one, that the Quran was compiled from the Prophet Muhammad's own recitation, and two, that it was compiled from the Prophet Muhammad's companions. While either view is valid, it is interesting to note that the Quran itself mentions this structure.
+* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Discusses the idea that the Qur'an could be historically accurate, based on the verse where allah states that the heavens and earth wept not for Pharaoh and were not replying to him.  also mentions the fact that the quran mentions the pharaohs' claims to divinity.
+* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Discusses how the Qur'an references specific historical events that are not mentioned in the Old Testament, such as the existence of the Children of Israel in Egypt. He also points out that certain general sayings in the Qur'an could refer to the existence of Israel in general. Finally, the author discusses the story of Pharaoh's body being found in France and how it confirms that Pharaoh was the pharaoh.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:20:00</a>
 
  discusses various prophecies found in the Quran and Bible, and compares and contrasts their accuracy. It concludes that prophecies are a strong way of confirming the truth of Islam, and that there are too many prophecies to go through individually.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** argues that one of the strongest points of evidence for Muhammad's prophethood is the fact that his body is on display at a museum in France. Additionally, he points out that there are historical revisionists who believe that certain events in history, such as the Holocaust, may not have actually happened.
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>* Discusses the difference between overturning historical events vs. overturning scientific facts, and points to the example of the prophet Isaiah predicting that the people of Kedar would be rejoiced when he comes. It goes on to say that prophecies should have the most explanatory scope and the least refutational susceptibility, and that this is something that is difficult to achieve. It suggests that prophecies about the coming of a prophet to the people of Medina may be referring to Jesus Christ.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>* Discusses some of the prophecies mentioned in the Quran about the victory of the Romans over the Persians.  also discusses how these prophecies can be understood and how they can be used to support the Islamic claim that the Islamic prophet, Muhammad, was indeed a messenger of God.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>* Discusses various prophecies found in the Quran and Bible, and compares and contrasts their accuracy. It concludes that prophecies are a strong way of confirming the truth of Islam, and that there are too many prophecies to go through individually.
-* **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>* Discusses physical miracles that occurred in the life of Prophet Muhammad (PBUH). These miracles demonstrate his Prophethood and the authenticity of his revelations. He also mentions the importance of examining a prophet's character and evidence before declaring him truthful.
+
+* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Discusses the difference between overturning historical events vs. overturning scientific facts, and points to the example of the prophet Isaiah predicting that the people of Kedar would be rejoiced when he comes. It goes on to say that prophecies should have the most explanatory scope and the least refutational susceptibility, and that this is something that is difficult to achieve. It suggests that prophecies about the coming of a prophet to the people of Medina may be referring to Jesus Christ.
+* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Discusses some of the prophecies mentioned in the Quran about the victory of the Romans over the Persians.  also discusses how these prophecies can be understood and how they can be used to support the Islamic claim that the Islamic prophet, Muhammad, was indeed a messenger of God.
+* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** Discusses various prophecies found in the Quran and Bible, and compares and contrasts their accuracy. It concludes that prophecies are a strong way of confirming the truth of Islam, and that there are too many prophecies to go through individually.
+* **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** Discusses physical miracles that occurred in the life of Prophet Muhammad (PBUH). These miracles demonstrate his Prophethood and the authenticity of his revelations. He also mentions the importance of examining a prophet's character and evidence before declaring him truthful.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

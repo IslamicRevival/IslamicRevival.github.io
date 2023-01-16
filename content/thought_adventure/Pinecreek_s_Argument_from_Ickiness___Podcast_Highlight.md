@@ -4,9 +4,9 @@
 
 ## Description
 
-Pinecreek (Atheist) joined the discussion on the problem of evil as an argument against belief in the Creator. 
+Pinecreek (Atheist) joined the discussion on the problem of evil as an argument against belief in the Creator.
 
-As many chances to present a claim that the position is logically problematic he admitted he didn’t have an intellectual argument but was attempting to appeal to weak minded Muslims with an appeal to emotion. 
+As many chances to present a claim that the position is logically problematic he admitted he didn’t have an intellectual argument but was attempting to appeal to weak minded Muslims with an appeal to emotion.
 
 Watch how the discussion unfolded.
 
@@ -24,17 +24,17 @@ Watch how the discussion unfolded.
 44:13 Final Thoughts
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -42,41 +42,39 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
-
-#AppealToEmotion #Atheism #Islam
+# AppealToEmotion #Atheism #Islam
 
 ## Summary of [Pinecreek's Argument from Ickiness | Podcast Highlight](https://www.youtube.com/watch?v=BEhojR0S8UM)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -85,15 +83,16 @@ Gmail: hello.tapodcast@gmail.com
 Pinecreek argues that if God did not create hell, then there would be no people in hell today or in the future. He also argues that if morality is based on the nature of God, then God would only create a world without people who commit sin. However, Pinecreek argues that this does not entail that God wants people to create people knowing that some will die without asking for forgiveness.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The atheist discusses the problem of evil from the perspective of pre-creation, before creatures can exhibit any free will. He then asks a Christian if the divine would create creatures in such a loving way if he didn't want them to be disbelievers. The Christian replies that the first world, without disbelief, is better because it does not have any of that.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Pinecreek discusses the problem of evil, arguing that if allah is free, then he could have chosen to not create it. He then goes on to say that some scholars believe that there is no theological normativity here, but that it is the tension between what allah desires and what we desire that justifies his existence. He finishes by saying that if Christians, Jews, and Muslims all believe in allah, then they would all choose world A over world B.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Pinecreek argues that if God did not create hell, then there would be no people in hell today or in the future. He also argues that if morality is based on the nature of God, then God would only create a world without people who commit sin. However, Pinecreek argues that this does not entail that God wants people to create people knowing that some will die without asking for forgiveness.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Pinecreek argues that if people disbelieve in hell, then it goes against Allah's will. He says that this is something that is not "ideal" in the sense that there is evil in the world and people will be tortured in hell for eternity. He then argues that this makes it something that is not "something that is not uh you know the best of all possible world or it's not something that's morally good or justified right." He asks the listener to assume that he has no ethical theory and then ask him what his view on morality would be if he knew that all of his children would go to hell. The listener then argues that Pinecreek should still want to worship Allah because even though he doesn't like it, it is still an option.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** <>
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** 's presenter discusses an argument from ickiness, which states that because there is evil in the world, God must have created it. He points out that there is nothing new in what he has said, and that usually the Outsiders in theist debate offer assumptions that limit God's knowledge or power. One Outsider, who prefers Hell, is mentioned.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Pinecreek argues that there is a logical contradiction between the idea that hell exists and the idea that allah wants people to go there. He argues that this contradiction can only be resolved by providing a definition for "god" that is inclusive of the idea that allah wants people to go to hell. However, Abdulrahman points out that this argument is based on assumptions about metaphysics and possible worlds that are not supported by evidence.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses Pine Creek's argument from ickiness, which states that there is a logical contradiction in belief in a god who wants people to go to hell, as disbelief exists. Pine Creek argues that islam fits into the contradiction, as islam says that allah created the world, created heaven and hell, and created human beings with free will. However, he argues that there is no contradiction, as islam does not fit into the argument because islam says that allah created the world, created heaven and hell, and created human beings with free will, as opposed to humans choosing to go to either paradise or hell. He also argues that anyone who wants to spend eternity in hell should raise their hand, as Abdullah admitted earlier that he agreed.  concludes by pointing out that the bottom line is that there would be no hell if Allah never created.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Pinecreek argues that, because God created knowing what would happen, some people will go to Hell. He then argues that this is an emotional argument that is not logical. Sharif points out that this is an emotional argument, not a logical one.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Doug argues that his position, based on emotion, is better than atheism because it allows for more logical and reasoned argument. He admits that this may be why he is an atheist, as opposed to someone who bases their beliefs on logic and reason.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Pinecreek discusses the problem of evil, arguing that if allah is free, then he could have chosen to not create it. He then goes on to say that some scholars believe that there is no theological normativity here, but that it is the tension between what allah desires and what we desire that justifies his existence. He finishes by saying that if Christians, Jews, and Muslims all believe in allah, then they would all choose world A over world B.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Pinecreek argues that if God did not create hell, then there would be no people in hell today or in the future. He also argues that if morality is based on the nature of God, then God would only create a world without people who commit sin. However, Pinecreek argues that this does not entail that God wants people to create people knowing that some will die without asking for forgiveness.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Pinecreek argues that if people disbelieve in hell, then it goes against Allah's will. He says that this is something that is not "ideal" in the sense that there is evil in the world and people will be tortured in hell for eternity. He then argues that this makes it something that is not "something that is not uh you know the best of all possible world or it's not something that's morally good or justified right." He asks the listener to assume that he has no ethical theory and then ask him what his view on morality would be if he knew that all of his children would go to hell. The listener then argues that Pinecreek should still want to worship Allah because even though he doesn't like it, it is still an option.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** <>
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** 's presenter discusses an argument from ickiness, which states that because there is evil in the world, God must have created it. He points out that there is nothing new in what he has said, and that usually the Outsiders in theist debate offer assumptions that limit God's knowledge or power. One Outsider, who prefers Hell, is mentioned.
+- **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Pinecreek argues that there is a logical contradiction between the idea that hell exists and the idea that allah wants people to go there. He argues that this contradiction can only be resolved by providing a definition for "god" that is inclusive of the idea that allah wants people to go to hell. However, Abdulrahman points out that this argument is based on assumptions about metaphysics and possible worlds that are not supported by evidence.
+- **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses Pine Creek's argument from ickiness, which states that there is a logical contradiction in belief in a god who wants people to go to hell, as disbelief exists. Pine Creek argues that islam fits into the contradiction, as islam says that allah created the world, created heaven and hell, and created human beings with free will. However, he argues that there is no contradiction, as islam does not fit into the argument because islam says that allah created the world, created heaven and hell, and created human beings with free will, as opposed to humans choosing to go to either paradise or hell. He also argues that anyone who wants to spend eternity in hell should raise their hand, as Abdullah admitted earlier that he agreed.  concludes by pointing out that the bottom line is that there would be no hell if Allah never created.
+- **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Pinecreek argues that, because God created knowing what would happen, some people will go to Hell. He then argues that this is an emotional argument that is not logical. Sharif points out that this is an emotional argument, not a logical one.
+- **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Doug argues that his position, based on emotion, is better than atheism because it allows for more logical and reasoned argument. He admits that this may be why he is an atheist, as opposed to someone who bases their beliefs on logic and reason.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

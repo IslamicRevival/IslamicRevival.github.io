@@ -5,17 +5,17 @@
 ## Description
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -23,41 +23,39 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
-
-#arminnavabi #morality #utilitarianism
+# arminnavabi #morality #utilitarianism
 
 ## Summary of [The Review: Questioning Armin Navabi’s Moral Criteria | Thought Adventure Podcast](https://www.youtube.com/watch?v=h1TJdQ4kkGE)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -66,44 +64,49 @@ Gmail: hello.tapodcast@gmail.com
 "The Review: Questioning Armin Navabi's Moral Criteria | Thought Adventure Podcast," Armin Navabi discusses how he believes that morality is subjective and that there is no such thing as an objective standard of morality. He also discusses how he believes that utilitarianism is flawed and that it is not possible to judge whether or not Islam is in line with an objective standard.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The Thought Adventure Podcast discusses a discussion between Abdul Rahman and Amin Navabi about morality and Islam. AbdulRahman, an ex-Muslim, argues that Islam does not adhere to certain standards and is therefore false. Amin Navabi, an Islamic scholar, argues that morality is subjective and that Islam is compatible with modern sensibilities.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses how Armin Navabi, a moral philosopher, responds to a question about wife beating in Islam. Armin argues that, even if wife beating is bad in the present, it has always been bad. Sharif points out that, by Armin's definition, Islam is more immoral than any other religion because it teaches that it is okay to beat disobedient wives. Armin argues that, by Sharif's definition, Islam is also more harmful to society because it encourages people to adhere to harmful values.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The Review discusses Armin Navabi's moral criteria and finds that they are subjective and do not lead to happiness or harm.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  the Thought Adventure Podcast's host, Armin Navabi, discusses the idea of a subjective goal and an objective means of achieving that goal. He points out that, while a subjective goal can always be objectively improved, an objective goal can never be improved. He then discusses the example of torturing one child to make the entire society happier, and argues that this example does not prove the effectiveness of utilitarianism.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses how Armin Navabi's moral criteria are subjective, and how they might not be consistent with each other. It also discusses how different people might have different standards for what is moral, and how this can sometimes create conflict.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>**  philosopher Armin Navabi discusses the concept of utilitarianism and its supposed objective nature. He points out that, due to its subjective nature, utilitarianism is not able to judge whether or not Islam is in line with an objective standard. He goes on to say that, even if it were possible to measure such a thing, the majority of people would disagree with it based on their preferences.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** The discussion between the host and guest ended quickly because someone was waiting. The guest argued that certain thought experiments, like imagining how disappointed one would be if they missed a world cup final, are problematic because they depend on subjective judgments. The host agreed and proposed using a utilitarian standard, which is based on the goal of maximizing happiness, to make a claim about objective reality. The guest argued that because islam is based on a subjective preference, it could not be true and would have to be rejected.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>**  philosopher Armin Navabi discusses his position on utilitarianism and discusses how he believes that there can be certain foundational ideas that are irrespective of utilitarianism. He then goes on to say that, in order to get out of the conundrum of trying to say that no, no, no, let's put an objective foundation where at all, we need to recognize that utilitarianism can have its flaws.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** , Thought Adventure Podcast host, David Pakman, critiques Armin Navabi's argument that morality is subjective and the goal of achieving it is objective. Pakman argues that most discussions of morality and islam and theism in general happen in a very unorganized way, and that imposing one's own view on those who adhere to a worldview that one finds flawed is not a good thing. Pakman also argues that if one is attempting to make a philosophical claim that the immoral aspects of one's worldview make it false, then they would need to rely on an objective foundation.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Armin Navabi discusses the idea of normative statements about reality, and argues that a moral realist must hold that these statements have some kind of mind-independent truth. Armin argues that, as an empiricist, he does not believe in such a reality.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>**  argues that, because the Quran claims that one plus one equals two is necessarily true, it must be false. Armin Navabi, a moral philosopher, disagrees, believing that there are necessary moral truths. However, atheists who believe in moral realism say that this mind independent moral fact exists and that it exists as some particle or wave. Armin argues that this cannot be reasoned, and thatGrounding a moral proposition in a non-mental thing like a particle or a physical thing doesn't make sense.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  Thought Adventure Podcast host Armin Navabi discusses how a person can participate in an evil god challenge if they themselves believe they have a plausible case for mind independent moral standards. He also says that realists don't believe that there is an objective standard of truth.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses how Armin Navabi, a moral philosopher, responds to a question about wife beating in Islam. Armin argues that, even if wife beating is bad in the present, it has always been bad. Sharif points out that, by Armin's definition, Islam is more immoral than any other religion because it teaches that it is okay to beat disobedient wives. Armin argues that, by Sharif's definition, Islam is also more harmful to society because it encourages people to adhere to harmful values.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The Review discusses Armin Navabi's moral criteria and finds that they are subjective and do not lead to happiness or harm.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  the Thought Adventure Podcast's host, Armin Navabi, discusses the idea of a subjective goal and an objective means of achieving that goal. He points out that, while a subjective goal can always be objectively improved, an objective goal can never be improved. He then discusses the example of torturing one child to make the entire society happier, and argues that this example does not prove the effectiveness of utilitarianism.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses how Armin Navabi's moral criteria are subjective, and how they might not be consistent with each other. It also discusses how different people might have different standards for what is moral, and how this can sometimes create conflict.
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>**  philosopher Armin Navabi discusses the concept of utilitarianism and its supposed objective nature. He points out that, due to its subjective nature, utilitarianism is not able to judge whether or not Islam is in line with an objective standard. He goes on to say that, even if it were possible to measure such a thing, the majority of people would disagree with it based on their preferences.
+- **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** The discussion between the host and guest ended quickly because someone was waiting. The guest argued that certain thought experiments, like imagining how disappointed one would be if they missed a world cup final, are problematic because they depend on subjective judgments. The host agreed and proposed using a utilitarian standard, which is based on the goal of maximizing happiness, to make a claim about objective reality. The guest argued that because islam is based on a subjective preference, it could not be true and would have to be rejected.
+- **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>**  philosopher Armin Navabi discusses his position on utilitarianism and discusses how he believes that there can be certain foundational ideas that are irrespective of utilitarianism. He then goes on to say that, in order to get out of the conundrum of trying to say that no, no, no, let's put an objective foundation where at all, we need to recognize that utilitarianism can have its flaws.
+- **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** , Thought Adventure Podcast host, David Pakman, critiques Armin Navabi's argument that morality is subjective and the goal of achieving it is objective. Pakman argues that most discussions of morality and islam and theism in general happen in a very unorganized way, and that imposing one's own view on those who adhere to a worldview that one finds flawed is not a good thing. Pakman also argues that if one is attempting to make a philosophical claim that the immoral aspects of one's worldview make it false, then they would need to rely on an objective foundation.
+- **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Armin Navabi discusses the idea of normative statements about reality, and argues that a moral realist must hold that these statements have some kind of mind-independent truth. Armin argues that, as an empiricist, he does not believe in such a reality.
+- **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>**  argues that, because the Quran claims that one plus one equals two is necessarily true, it must be false. Armin Navabi, a moral philosopher, disagrees, believing that there are necessary moral truths. However, atheists who believe in moral realism say that this mind independent moral fact exists and that it exists as some particle or wave. Armin argues that this cannot be reasoned, and thatGrounding a moral proposition in a non-mental thing like a particle or a physical thing doesn't make sense.
+- **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  Thought Adventure Podcast host Armin Navabi discusses how a person can participate in an evil god challenge if they themselves believe they have a plausible case for mind independent moral standards. He also says that realists don't believe that there is an objective standard of truth.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  discusses the debate over whether or not morality can be based on materialism or evolution. It is argued that while the desire to be moral is strong, it is not always coupled with a moral objective.  also discusses how different people have different opinions on the matter. Some argue that slavery is okay based on utilitarianism, while others argue that it is wrong regardless of the benefits it may provide.
 
-**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>* Discusses whether it is reasonable to base morality on evolutionary development, and whether Nazis themselves viewed themselves as being morally good. It is argued that while the desire to be moral is strong, it is not always coupled with a moral objective.  also discusses how homosexuality was seen as immoral in the past, and how it has gradually changed over time.
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>* Discusses how morality can't be based on materialism because it would have no meaning or purpose. It then goes on to discuss how morality might be based on evolution, with the strongest species surviving and passing their genes on to the next generation. However, this theory has been disputed by some.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>* Discusses the debate over whether or not certain races are genetically predisposed to have lower IQs. British geneticist Armin Navabi is mentioned, and he is said to have helped discover the DNA strand. In response to a question about whether or not to listen to him, Myers argues that it is wrong to ignore science out of convenience. Navabi then has the final word. Responding to Navabi, different people have different opinions on the matter. Some argue that slavery is okay based on utilitarianism, while others argue that it is wrong regardless of the benefits it may provide.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** argues that society runs better when standards are based on models that are objectively better, even if those standards conflict with personal preferences. He also says that imposing one's understanding of a religious text on others is wrong, and that most Muslims are decent people.
-* **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>* Discusses how a Muslim might view their religion in light of an immoral act. argues that because a Muslim's motivation for criticizing their religion may be out of fear, it is irrelevant to the purpose of the discussion.
-* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>**  maker argues that there is a hidden assumption underlying the West's moral superiority, and that this assumption is based on a false idea of history.  also points out that there are large environmental and international problems currently occurring.
-* **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** addresses the idea that if one is not a moral realist, they must agree that the rules within Islamic law are wrong. He argues that if one is emotional about these rules, they are likely developed from their environment and not from a person's heart.
-* **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** Sharif brings up the hypocrisy of condemning western imperialism when classical islamic law based on quran hadith and seerah calls for offensive jihad. Navabi responds that it's not reasonable to assume that liberalism is on a higher moral ground.
-* **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>* Discusses how progress is not linear, and how there is a lack of progress when it comes to addressing issues like imperialism and slavery. He points to islam's expansion as an example of how islam created different types of prosperity, instead of concentrating wealth in a few places. He also mentions how european colonialism was different in terms of its effects, and how muslims came to other societies with a different set of values.
-* **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** The Bosnian Muslims discuss how morality can be critiqued, with one arguing that Islam cannot be true because of its immoral actions. Abdul Rahman takes a utilitarian approach to justifying his position, but the issue of epistemic limits is raised.
-* **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>* Discusses the idea of a utopia where everyone is constantly happy and suffers no pain. However, the society is built on the suffering of a young person, and so a question arises as to whether or not it is moral to allow this to happen. A utilitarian might say that it is, as it results in more happiness overall.
-* **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses the moral criteria of Armin Navabi, a philosopher who believes that the pleasure experienced by the person is always outweighed by the pain. The philosopher argues that, as a utilitarian, he cannot condone this belief, as it is fundamentally flawed. He points out that, even if societies do not go into psychological trauma when they find out about this belief, they still manage to cause joy through various activities, such as driving cars, drinking alcohol, and smoking cigarettes.
+**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Discusses whether it is reasonable to base morality on evolutionary development, and whether Nazis themselves viewed themselves as being morally good. It is argued that while the desire to be moral is strong, it is not always coupled with a moral objective.  also discusses how homosexuality was seen as immoral in the past, and how it has gradually changed over time.
+
+- **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Discusses how morality can't be based on materialism because it would have no meaning or purpose. It then goes on to discuss how morality might be based on evolution, with the strongest species surviving and passing their genes on to the next generation. However, this theory has been disputed by some.
+- **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Discusses the debate over whether or not certain races are genetically predisposed to have lower IQs. British geneticist Armin Navabi is mentioned, and he is said to have helped discover the DNA strand. In response to a question about whether or not to listen to him, Myers argues that it is wrong to ignore science out of convenience. Navabi then has the final word. Responding to Navabi, different people have different opinions on the matter. Some argue that slavery is okay based on utilitarianism, while others argue that it is wrong regardless of the benefits it may provide.
+- **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** argues that society runs better when standards are based on models that are objectively better, even if those standards conflict with personal preferences. He also says that imposing one's understanding of a religious text on others is wrong, and that most Muslims are decent people.
+- **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** Discusses how a Muslim might view their religion in light of an immoral act. argues that because a Muslim's motivation for criticizing their religion may be out of fear, it is irrelevant to the purpose of the discussion.
+- **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>**  maker argues that there is a hidden assumption underlying the West's moral superiority, and that this assumption is based on a false idea of history.  also points out that there are large environmental and international problems currently occurring.
+- **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** addresses the idea that if one is not a moral realist, they must agree that the rules within Islamic law are wrong. He argues that if one is emotional about these rules, they are likely developed from their environment and not from a person's heart.
+- **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** Sharif brings up the hypocrisy of condemning western imperialism when classical islamic law based on quran hadith and seerah calls for offensive jihad. Navabi responds that it's not reasonable to assume that liberalism is on a higher moral ground.
+- **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** Discusses how progress is not linear, and how there is a lack of progress when it comes to addressing issues like imperialism and slavery. He points to islam's expansion as an example of how islam created different types of prosperity, instead of concentrating wealth in a few places. He also mentions how european colonialism was different in terms of its effects, and how muslims came to other societies with a different set of values.
+- **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** The Bosnian Muslims discuss how morality can be critiqued, with one arguing that Islam cannot be true because of its immoral actions. Abdul Rahman takes a utilitarian approach to justifying his position, but the issue of epistemic limits is raised.
+- **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** Discusses the idea of a utopia where everyone is constantly happy and suffers no pain. However, the society is built on the suffering of a young person, and so a question arises as to whether or not it is moral to allow this to happen. A utilitarian might say that it is, as it results in more happiness overall.
+- **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Discusses the moral criteria of Armin Navabi, a philosopher who believes that the pleasure experienced by the person is always outweighed by the pain. The philosopher argues that, as a utilitarian, he cannot condone this belief, as it is fundamentally flawed. He points out that, even if societies do not go into psychological trauma when they find out about this belief, they still manage to cause joy through various activities, such as driving cars, drinking alcohol, and smoking cigarettes.
+
 ### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:30:00</a>
 
 The Thought Adventure Podcast discusses objective morality and how ex-Muslims often avoid metaethical conversations. Armin Navabi, a self-proclaimed atheist and critic of Islam, discusses his metaethical approach to morality. He argues that there is no objective basis for morality, and that emotions and intuition are all that matter. He argues that this is why Islam is wrong, because it relies on intuition rather than reason.
 
-**<a onclick="modifyYTiframeseektime('7200')">02:00:00</a>* Discusses different metaethical and normative theories of morality, and points out that there is a significant difference between islamic imperialism and islamic expansion. Sharif discusses this difference in a response video to the original speaker.
-* **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>* Discusses the different positions on objective ethics, with the main point being that there are more than two schools of thought. It then goes on to talk about nihilism, which holds similar meta-ethical claims to subjectivism, but differs in that it believes that there is no real good or evil.
-* **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>* Discusses the moral position of moral nihilism, which holds that there is no such thing as good and evil, and that any claims people make about morality are subjective. Mohamad hijab (or "Ap"), at the time, assumed that ap was a moral nihilist, and the discussion between them changed his mind.
-* **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>**  the Thought Adventure Podcast discusses the concept of "objective morality." The hosts argue that there is an objective truth about moral claims, and that Allah is in the best position to give a moral system. They also discuss the implications of subjectivism and relativism on the concept of objective morality.
-* **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>* Discusses how ex-Muslims often avoid metaethical conversations, preferring to focus on the emotions of the majority instead. Armin Navabi, a self-proclaimed atheist and critic of Islam, discusses his metaethical approach to morality. He argues that there is no objective basis for morality, and that emotions and intuition are all that matter. He argues that this is why Islam is wrong, because it relies on intuition rather than reason.
-* **<a onclick="modifyYTiframeseektime('8700')">02:25:00</a>** The Thought Adventure Podcast discusses the pros and cons of doing a review of Armin Navabi's moral criteria, with Jake Paul and Samuel. They discuss whether it is wise to do the review on Sunday, as it was originally intended. They also mention that they have other podcasts on other major platforms.
-* **<a onclick="modifyYTiframeseektime('9000')">02:30:00</a>* Discusses the idea that there is a "thought adventure podcast club" on the "clubhouse" which can be used for discussions. It mentions that members can support the podcast by becoming members or by using super chat.
+**<a onclick="modifyYTiframeseektime('7200')">02:00:00</a>** Discusses different metaethical and normative theories of morality, and points out that there is a significant difference between islamic imperialism and islamic expansion. Sharif discusses this difference in a response video to the original speaker.
+
+- **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>** Discusses the different positions on objective ethics, with the main point being that there are more than two schools of thought. It then goes on to talk about nihilism, which holds similar meta-ethical claims to subjectivism, but differs in that it believes that there is no real good or evil.
+- **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>** Discusses the moral position of moral nihilism, which holds that there is no such thing as good and evil, and that any claims people make about morality are subjective. Mohamad hijab (or "Ap"), at the time, assumed that ap was a moral nihilist, and the discussion between them changed his mind.
+- **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>**  the Thought Adventure Podcast discusses the concept of "objective morality." The hosts argue that there is an objective truth about moral claims, and that Allah is in the best position to give a moral system. They also discuss the implications of subjectivism and relativism on the concept of objective morality.
+- **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>** Discusses how ex-Muslims often avoid metaethical conversations, preferring to focus on the emotions of the majority instead. Armin Navabi, a self-proclaimed atheist and critic of Islam, discusses his metaethical approach to morality. He argues that there is no objective basis for morality, and that emotions and intuition are all that matter. He argues that this is why Islam is wrong, because it relies on intuition rather than reason.
+- **<a onclick="modifyYTiframeseektime('8700')">02:25:00</a>** The Thought Adventure Podcast discusses the pros and cons of doing a review of Armin Navabi's moral criteria, with Jake Paul and Samuel. They discuss whether it is wise to do the review on Sunday, as it was originally intended. They also mention that they have other podcasts on other major platforms.
+- **<a onclick="modifyYTiframeseektime('9000')">02:30:00</a>** Discusses the idea that there is a "thought adventure podcast club" on the "clubhouse" which can be used for discussions. It mentions that members can support the podcast by becoming members or by using super chat.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

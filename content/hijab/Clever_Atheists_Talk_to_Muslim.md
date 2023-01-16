@@ -8,19 +8,19 @@ A brief discussion with some really charming atheists who become acquainted with
 
 ## Summary of [Clever Atheists Talk to Muslim](https://www.youtube.com/watch?v=W-yfuJfChvY)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:25:00</a>
 
  "Clever Atheists Talk to Muslim" discusses how atheists and Muslims view the universe and the role of God in it.  presents the Islamic thesis that everything in the universe was created by God, and that life has a purpose. The presenter argues that, from an atheistic perspective, a human being has the ability to reason and ask why questions.  discusses how different prophets were sent to different parts of the world, and Muhammad is the last and most universal of them.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses how atheists view the universe and how they believe that science is applicable to it. The question is raised as to whether or not there is a will behind the universe, with the speaker concluding that there is not. If we accept that the universe has been expanding for a long time, then we must also accept that what preceded it was not within the context of the current universe.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses how atheists view the universe and how they believe that science is applicable to it. The question is raised as to whether or not there is a will behind the universe, with the speaker concluding that there is not. If we accept that the universe has been expanding for a long time, then we must also accept that what preceded it was not within the context of the current universe.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Atheists discuss how complex laws of physics could exist without an intelligent creator. They argue that knowledge is probabilistic, and that reasoning occurs on a daily basis.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  "Clever Atheists Talk to Muslim" discusses how atheists believe that knowledge is not limited to things that reach 100% certainty, and that based on the evidence, the universe exists.  also discusses how some Muslims view God's attributes.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the Islamic thesis, which states that everything in the universe was created by God, and that life has a purpose. The presenter argues that these questions are universal and intuitive, and that an evolutionist or biologist would answer them. He concludes that, from an atheistic perspective, a human being has the ability to reason and ask why questions.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses how atheists believe in all the prophets that have come since humanity began. It also discusses how Muslims believe that all prophets come since the beginning of human civilization.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses how different prophets were sent to different parts of the world, and Muhammad is the last and most universal of them. It is possible that Muhammad's color was chosen because he is a representation of humanity from a variety of different backgrounds.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the Islamic thesis, which states that everything in the universe was created by God, and that life has a purpose. The presenter argues that these questions are universal and intuitive, and that an evolutionist or biologist would answer them. He concludes that, from an atheistic perspective, a human being has the ability to reason and ask why questions.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses how atheists believe in all the prophets that have come since humanity began. It also discusses how Muslims believe that all prophets come since the beginning of human civilization.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses how different prophets were sent to different parts of the world, and Muhammad is the last and most universal of them. It is possible that Muhammad's color was chosen because he is a representation of humanity from a variety of different backgrounds.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

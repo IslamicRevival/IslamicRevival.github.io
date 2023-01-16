@@ -2,20 +2,19 @@
 
 <iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/fHHI2j71OXQ'></iframe>## Description
 
-Donate Support the Dawah: http://www.salam.org.uk/donate/ 
+Donate Support the Dawah: <http://www.salam.org.uk/donate/>
 
-SALAM YouTube: https://www.youtube.com/channel/UCVe9... 
+SALAM YouTube: <https://www.youtube.com/channel/UCVe9>...
 
-Website www.salam.org.uk 
+Website www.salam.org.uk
 
-Instagram salam.initiative 
-https://www.instagram.com/salam.initi... 
+Instagram salam.initiative
+<https://www.instagram.com/salam.initi>...
 
-Twitter @InitiativeSalam 
-https://twitter.com/InitiativeSalam
+Twitter @InitiativeSalam
+<https://twitter.com/InitiativeSalam>
 
 ## Summary of [REACTING TO DAVID WOOD CURSING JESUS](https://www.youtube.com/watch?v=fHHI2j71OXQ)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -24,6 +23,7 @@ https://twitter.com/InitiativeSalam
 David Wood curses Jesus and is challenged by friends to explain himself. He doesn't seem to have a clear answer, and his lack of understanding of Christianity is evident in his arguments against Islam.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** <>
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** David Wood curses Jesus in a YouTube video, and friends ask him to explain what he's talking about. He does not seem to have a clear answer, and his lack of understanding of Christianity shows in his arguments against Islam.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** David Wood curses Jesus in a taxi, and claims that Christianity is not true because of its doctrine of the Trinity. He challenges Aslam to a debate on the Trinity or the Bible, but Aslam refuses.
 

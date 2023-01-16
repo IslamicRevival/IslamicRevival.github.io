@@ -2,18 +2,16 @@
 
 <iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/wPR8dUCgoIM'></iframe>## Description
 
-A shocking video where a homosexual loses the plot at acts in an incredibly unpredictable way. 
+A shocking video where a homosexual loses the plot at acts in an incredibly unpredictable way.
 
 The Muslim makes a rational argument that the homosexual finds 'offensive'.
 
 Please subscribe to SC Dawah channel on -
- https://www.youtube.com/channel/UCnZPtuya_yUUqGZGHk1nEOA
-
+ <https://www.youtube.com/channel/UCnZPtuya_yUUqGZGHk1nEOA>
 
 Instagram - @bromohammedhijab
 
 ## Summary of [Is Homosexuality comparable to Incest ?](https://www.youtube.com/watch?v=wPR8dUCgoIM)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -21,10 +19,11 @@ Instagram - @bromohammedhijab
 
 in this video discusses the morality of homosexuality and argues that it is comparable to incest. They say that from an objective standpoint, it is impossible to prove which is more immoral, and that people should make their own decisions in life.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses homosexuality and asks if homosexuals feel that it is morally acceptable. He points out that different people will come to different conclusions about morality, and that a person's morality should come from their own life experience and not from a book.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses homosexuality and asks if homosexuals feel that it is morally acceptable. He points out that different people will come to different conclusions about morality, and that a person's morality should come from their own life experience and not from a book.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a> Discusses the legality of homosexuality in different countries and argues that if a person is homosexual, they should be allowed to do as they please so long as they're not hurting anyone else.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses how homosexuality is comparable to incest, and points out that there is a moral difference between the two. He argues that religion should not be used to control people, and that logic is only half of the argument.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses why homosexuality is morally unacceptable and compares it to incest. They say that from an objective standpoint, it is impossible to prove which is more immoral. He then tells the audience to make their own decisions in life.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses how homosexuality is comparable to incest, and points out that there is a moral difference between the two. He argues that religion should not be used to control people, and that logic is only half of the argument.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses why homosexuality is morally unacceptable and compares it to incest. They say that from an objective standpoint, it is impossible to prove which is more immoral. He then tells the audience to make their own decisions in life.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

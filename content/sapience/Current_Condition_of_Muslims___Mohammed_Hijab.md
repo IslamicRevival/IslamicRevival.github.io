@@ -5,25 +5,24 @@
 ## Description
 
 Help us educate and mentor others to share the faith academically.
-Donate now: https://sapienceinstitute.org/donate/ 
+Donate now: <https://sapienceinstitute.org/donate/>
 
-Free online courses: https://learn.sapienceinstitute.org/
+Free online courses: <https://learn.sapienceinstitute.org/>
 
-Free books: https://sapienceinstitute.org/books/
+Free books: <https://sapienceinstitute.org/books/>
 
-Have doubts? Book a mentor: https://sapienceinstitute.org/lighthouse/
+Have doubts? Book a mentor: <https://sapienceinstitute.org/lighthouse/>
 
-Listen (Podcast): https://sapienceinstitute.org/sapientvoices/
+Listen (Podcast): <https://sapienceinstitute.org/sapientvoices/>
 
 Follow:
-– Facebook: https://facebook.com/sapienceinstitute.org/ 
-– Twitter: https://twitter.com/SapienceOrg/ 
-– Instagram: https://instagram.com/sapienceinstitute/ 
+– Facebook: <https://facebook.com/sapienceinstitute.org/>
+– Twitter: <https://twitter.com/SapienceOrg/>
+– Instagram: <https://instagram.com/sapienceinstitute/>
 
-Articles, speaker requests & more: https://sapienceinstitute.org/
+Articles, speaker requests & more: <https://sapienceinstitute.org/>
 
 ## Summary of [Current Condition of Muslims | Mohammed Hijab](https://www.youtube.com/watch?v=DQgUVN4Oya8)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -31,26 +30,29 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
  Mohammed Hijab discusses the current condition of Muslims and how it differs from traditional Islamic values. He argues that modern values, such as positivism and economic rationality, have negative effects on the way Muslims view human beings. He also points out the strengths of traditional Islamic values, such as the importance of morality and the interconnectedness of the world's realities.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the idea that, despite being economically successful, some Muslim countries may not be happy because of social issues such as suicide. He also points out that, when looking at success using different metrics, even countries with high scores on the happy index may not be happy due to other factors.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses different factors that contribute to economic development, including human development indices and GDP per capita. He also points out that some countries, like Japan, have fared differently than others in terms of economic output and crime rates. He argues that colonialism has had a negative impact on many of the regions discussed, and that it is important to consider the extent to which colonialism has affected them.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the current condition of Muslims around the world, highlighting the differences between Muslim-majority countries and those which were colonized.  points to the Ottoman Empire as an example of a Muslim country which was successful pre-colonialally. The age of discovery and colonization of Europe by Spain led to a decline in the economic standings of Muslim countries, explaining their comparatively weak economies today.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the idea that, despite being economically successful, some Muslim countries may not be happy because of social issues such as suicide. He also points out that, when looking at success using different metrics, even countries with high scores on the happy index may not be happy due to other factors.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses different factors that contribute to economic development, including human development indices and GDP per capita. He also points out that some countries, like Japan, have fared differently than others in terms of economic output and crime rates. He argues that colonialism has had a negative impact on many of the regions discussed, and that it is important to consider the extent to which colonialism has affected them.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the current condition of Muslims around the world, highlighting the differences between Muslim-majority countries and those which were colonized.  points to the Ottoman Empire as an example of a Muslim country which was successful pre-colonialally. The age of discovery and colonization of Europe by Spain led to a decline in the economic standings of Muslim countries, explaining their comparatively weak economies today.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  explains how the Age of Discovery (which took place in the 1600s) helped to promote science and led to the development of technologies like ballistic missiles and armory. It also discusses how the term "natural philosophy" was used to refer to the study of the natural world, and how it was later renamed "science."
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses how the current condition of Muslims falls short of the ideal of Islam, citing science, religion, and economic topics as examples. explains how the West developed to its current superpower status due to the events of the Age of Discovery, Scientific Revolution, and Industrial Revolution. concludes that Islam is not capable of achieving the same level of technological development.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses how the current condition of Muslims falls short of the ideal of Islam, citing science, religion, and economic topics as examples. explains how the West developed to its current superpower status due to the events of the Age of Discovery, Scientific Revolution, and Industrial Revolution. concludes that Islam is not capable of achieving the same level of technological development.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Mohammed Hijab argues that the Islamic State is contradictory because it tries to create a modern State while still adhering to Sharia law. Mr. Hijab also discusses the concept of citizenship and how it is not present in the Islamic world.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Mohammed Hijab points out that the history of the development of the modern state system is exclusively European, and that this creates tension between democracy and the idea of a sovereign law from God. He argues that this tension is a challenge for any Muslim political project, since democracy is always within the tension of upholding the idea of a sovereign law from God while operating within the confines of a nation-state system.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Hallak criticizes Islamism for trying to create a modern state when the two are incompatible, and Islamic governance cannot permit any sovereignty other than that of God. He argues that, even if Islamism were to succeed in creating a modern state, it would be bound by a higher sovereign will outside of itself. He also argues that the modern state remains engaged in a preeminently material world, while Islam places a high value on spiritual matters. Finally, Hallak argues that the modern state produces subjects that differ from those produced by any form of Islamic governance in profoundly political, social, moral, and psychological ways.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses the differences between Muslim and Western governments and how Islam places more emphasis on metaphysics. He goes on to say that in a Muslim government, sovereignty originally comes from God. This would be incompatible with the idea of a parliament, which is a system where law is created by a committee of representatives.
+* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses the differences between Muslim and Western governments and how Islam places more emphasis on metaphysics. He goes on to say that in a Muslim government, sovereignty originally comes from God. This would be incompatible with the idea of a parliament, which is a system where law is created by a committee of representatives.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  the author explains how the United States' legislature works, and how each state has two senators and one representative. also mentions that, in Islam, the laws are already there, so there is no need for a legislature. This renders the legislature as a redundant body.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the legitimacy of a Muslim leader, discussing how a caliphate can never be declared without shulk (having power to protect the people), and why a representative democracy and Islam's method of choosing a leader are different. notes that women have a vote for 100 years and that they were giving back to the prophet, sallam, from a thousand four hundred years ago.
+* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Discusses the legitimacy of a Muslim leader, discussing how a caliphate can never be declared without shulk (having power to protect the people), and why a representative democracy and Islam's method of choosing a leader are different. notes that women have a vote for 100 years and that they were giving back to the prophet, sallam, from a thousand four hundred years ago.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Mohammed Hijab discusses the current condition of Muslims and how they differ from traditional Islamic values. He argues that modern values, such as positivism and economic rationality, have negative effects on the way Muslims view human beings. He also points out the strengths of traditional Islamic values, such as the importance of morality and the interconnectedness of the world's realities.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:20:00</a>
 
 Mohammed Hijab discusses the current condition of Muslims and how democracy can be used instrumentally, but warns against taking it too far. He suggests the middle ground as the best option.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** The presenter discusses the differences between two Muslim thinkers on the topic of democracy. One thinker believes that democracy is the ideal system for Islam, while the other argues that it is the lesser of two evils. The presenter also discusses a third opinion, which is that democracy should be put even further into chaos in order to depose corrupt leaders.
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>* Discusses the current condition of Muslims, and how some believe that democracy is part of Islam, while others believe that it is a letter of two evils. The third opinion, which is based on a misunderstanding, is that democracy is bad and should be avoided.
+
+* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Discusses the current condition of Muslims, and how some believe that democracy is part of Islam, while others believe that it is a letter of two evils. The third opinion, which is based on a misunderstanding, is that democracy is bad and should be avoided.
 * **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>**  an Islamic scholar discusses the concept of democracy and how it can be compatible with Islamic law. He also discusses how some Muslim leaders have been criticized for implementing western concepts into their Islamic governments.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>* Discusses the current condition of Muslims and how they differ from the youth. points out that the person who is doing the harming is not a youth and is letting his desires get in the way of his faith. says that if someone does not believe in Islam, they are a fake believer.
+* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** Discusses the current condition of Muslims and how they differ from the youth. points out that the person who is doing the harming is not a youth and is letting his desires get in the way of his faith. says that if someone does not believe in Islam, they are a fake believer.
 * **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** Mohammed Hijab discusses the current condition of Muslims and how democracy can be used instrumentally, but warns against taking it too far. He suggests the middle ground as the best option.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

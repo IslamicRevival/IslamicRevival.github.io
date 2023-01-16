@@ -2,9 +2,9 @@
 
 <iframe loading='lazy' src='https://www.youtube.com/embed/nvIoWunqmZ4'></iframe>## Description
 
-Here I react to a 'viral' Indian News video, on their pathetic attempt to malign the Shariah (Islamic Law). There are many blunders which are exposed. Watch and share, as topics discussed should be known to us all so we don't fall prey to such propaganda. 
+Here I react to a 'viral' Indian News video, on their pathetic attempt to malign the Shariah (Islamic Law). There are many blunders which are exposed. Watch and share, as topics discussed should be known to us all so we don't fall prey to such propaganda.
 
-Visit https://www.naturesblends.com/ and use hijab10 for a 10% discount. 
+Visit <https://www.naturesblends.com/> and use hijab10 for a 10% discount.
 
 0:00 Intro
 0:51 Western standard
@@ -14,16 +14,15 @@ Visit https://www.naturesblends.com/ and use hijab10 for a 10% discount.
 27:04 Religion Must evolve
 28:23 Conclusion
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
-My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
+My book: <https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/>
 
-#shariah #india #response
+# shariah #india #response
 
 ## Summary of [Muslim Responds to Indian News .Sharia Law, Taliban and Afghanistan #Gravitas](https://www.youtube.com/watch?v=nvIoWunqmZ4)
-
 
 *
 
@@ -34,7 +33,8 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
  a Muslim responds to news about Sharia law, Taliban, and Afghanistan. The Muslim argues that if Sharia law is a democratically chosen system, then Muslims should be respectful of it. He says that European powers colonized much of the world, leaving Muslim leaders with a dilemma: to govern based on Islamic values or to embrace laws inherited from the colonial powers. The Muslim concludes that Muslims are afraid of Islam because it is a sleeping giant that has united the world for hundreds of years.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** This woman responds to a video about Sharia law in Afghanistan, Taliban, and Sharia law in India. She makes a number of mistakes, including separating the sources of Sharia law (the Quran, the Sunnah, and consensus), and not being academically robust.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the different schools of thought within Sharia law, and provides a brief overview of the Hanbali school. states that there are many rulings within the Hambali school that are more facilitative for many different people, and that this is a "very odd kind of subjective value judgment" coming from someone who has no knowledge of Sharia law.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the different schools of thought within Sharia law, and provides a brief overview of the Hanbali school. states that there are many rulings within the Hambali school that are more facilitative for many different people, and that this is a "very odd kind of subjective value judgment" coming from someone who has no knowledge of Sharia law.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The narrator of the video discusses the different schools of thought within Islam, and remarks that the strictest form of sharia, based on consensus over understanding of the Quran, is practiced in Saudi Arabia and Qatar. He goes on to say that there is significant follower of sharia in other countries, including in Saudi Arabia, which practices a lot of Muslims. He then makes a fool of himself by speaking casually about sharia and secularism, and is subsequently embarrassed by his lack of education. He argues that the Taliban, who implement sharia law, are doing so because they are not aware of the differences between the schools of thought, and that this is only applicable to "elites." He concludes the video by asserting that secularism is the best way to live, and that first principles (rather than evidence) justify privileging political ideology over religious systems.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The Muslim responds to Indian news about Sharia law, Taliban, and Afghanistan. He argues that if Sharia law is a democratically chosen system, then Muslims should be respectful of it. He says that European powers colonized much of the world, leaving Muslim leaders with a dilemma: to govern based on Islamic values or to embrace laws inherited from the colonial powers. The Muslim says that if patriarchy is a social construct, then it should be questioned. He argues that because of Western hegemony, Muslims have a inferiority complex, which is why they are speaking about Islam in a fear-mongering way. He concludes that Muslims are afraid of Islam because it is a sleeping giant that has united the world for hundreds of years.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>**  a Muslim responds to news about Sharia law, Taliban and Afghanistan. The Muslim talks about how Sharia law, Taliban and Afghanistan have changed the demographic of India. He says that Sharia law is not mentioned in the Quran and that polygyny is not allowed in Islam. He also mentions abortion, saying that it is a matter of opinion whether it is okay for men to have four wives. He says that women can choose to have an abortion before 40 days and that Saudi Arabia was the only country that implemented a ban on women driving.

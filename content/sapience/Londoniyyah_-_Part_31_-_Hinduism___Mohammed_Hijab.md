@@ -4,28 +4,27 @@
 
 ## Description
 
-Listen as audio: https://soundcloud.com/sapienceinstitute/londoniyyah-part-31-hinduism-mohammed-hijab/s-RGw8cbJ45Kz?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+Listen as audio: <https://soundcloud.com/sapienceinstitute/londoniyyah-part-31-hinduism-mohammed-hijab/s-RGw8cbJ45Kz?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing>
 —
 Help us educate and mentor others to share the faith academically.
-Donate now: https://sapienceinstitute.org/donate/ 
+Donate now: <https://sapienceinstitute.org/donate/>
 
-Free online courses: https://learn.sapienceinstitute.org/
+Free online courses: <https://learn.sapienceinstitute.org/>
 
-Free books: https://sapienceinstitute.org/books/
+Free books: <https://sapienceinstitute.org/books/>
 
-Have doubts? Book a mentor: https://sapienceinstitute.org/lighthouse/
+Have doubts? Book a mentor: <https://sapienceinstitute.org/lighthouse/>
 
-Listen (Podcast): https://sapienceinstitute.org/sapientvoices/
+Listen (Podcast): <https://sapienceinstitute.org/sapientvoices/>
 
 Follow:
-– Facebook: https://facebook.com/sapienceinstitute.org/ 
-– Twitter: https://twitter.com/SapienceOrg/ 
-– Instagram: https://instagram.com/sapienceinstitute/ 
+– Facebook: <https://facebook.com/sapienceinstitute.org/>
+– Twitter: <https://twitter.com/SapienceOrg/>
+– Instagram: <https://instagram.com/sapienceinstitute/>
 
-Articles, speaker requests & more: https://sapienceinstitute.org/
+Articles, speaker requests & more: <https://sapienceinstitute.org/>
 
 ## Summary of [Londoniyyah - Part 31 - Hinduism | Mohammed Hijab](https://www.youtube.com/watch?v=9j7RNs16cHk)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -34,33 +33,36 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
  discusses the history and different aspects of Hinduism. It covers topics such as the different gods and goddesses, caste, reincarnation, and the concept of Brahman.  argues that while monotheism is the dominant religion in the world, there is evidence that polytheism still exists.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  Mohammed Hijab discusses Hinduism, one of the oldest religions in the world. The session will explore the major compartments and categories of Hinduism, as well as some of the rituals and practices that Hindus engage in. The discussion will also address reincarnation and the scriptures in Hinduism.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Mohammed Hijab explains the gods of Hinduism. There is one universal god known as Brahman, and they also have a god and goddess which are also called the diva and devi. There is a god which is one of the causes in Hindu trinity, and he has many names like Mahadeva Pashupati. Blue skin krishna is the deity of love and compassion, and is frequently depicted with a float and which is used for its seductive powers.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses different Hindu gods and their respective incarnations. Vishnu is the first and most important incarnation of the god, and his incarnations include Rama, Krishna, and Hanuman.  concludes by stating that the Hindu's objective in life is to gain unity with the ultimate reality, Brahman.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses how the educated elites of Hindus view the existence of multiple gods, with the main point being that these manifestations of god are just different qualities of the one true god. However, the author also mentions that the crowd and members of the single sect use these gods extensively, going beyond what the educated elites have discussed.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses different Hindu gods and their respective incarnations. Vishnu is the first and most important incarnation of the god, and his incarnations include Rama, Krishna, and Hanuman.  concludes by stating that the Hindu's objective in life is to gain unity with the ultimate reality, Brahman.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses how the educated elites of Hindus view the existence of multiple gods, with the main point being that these manifestations of god are just different qualities of the one true god. However, the author also mentions that the crowd and members of the single sect use these gods extensively, going beyond what the educated elites have discussed.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>**  an Indian gentleman discusses how caste has become more rigid in recent times, making it more difficult for lower class people to progress to the priesthood.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** In Hinduism, there are two concepts of Brahman- one that refers to the concept that Brahman is beyond time and space, and one that refers to the concept that brahman has a form and is present everywhere. Saguna Brahman is the form that brahman has. Near Gona Brahman is the concept that brahman is present everywhere. The goal of Hindus who believe in saguna Brahman is to focus on eternal qualities, rather than getting distracted by the different names and the various deities. Hindus who believe in near gona Brahman focus on the deities as a way to understand and focus on the form of Brahman.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Hindus believe that the human soul is a part of the brahman and reincarnates into a new body when it dies. The purpose of life is to achieve spiritual progress and achieve moksha, or liberation from the cycle of rebirth.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>**  Mohammed Hijab discusses Hinduism and its concept of reincarnation. He states that after a person reaches the state of moksha, they become onerous brahman and no longer reincarnate.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** The Hindu concept of reincarnation is discussed  with the idea that a human being's next life may be as a worm, a maggot, or an ape. The hierarchy of animal life is also discussed, with the bear being the most powerful.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  Mohammed Hijab discusses how animals in the wild have a relatively predictable set of behaviors, and how this can lead to fatalism in humans. He also mentions how some Hindus believe in reincarnation, which can lead to questions about what morality is for different animals.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the problematic nature of reincarnation in Hinduism and Christianity, as well as the theory of an emergent monotheism. It argues that this process of reverse engineering can lead to the formation of one god, which can then be corrupted.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the theory that polytheism emerged from monetism, and that the dominant theory in anthropology is the opposite of that. They go on to talk about the idea that everything started with a spirit, and that the polytheism was a natural state before monotheism was created. mentions how when people started worshiping idols, they claimed that when Abraham came, he was the founder of monotheism. They go on to say that while monotheism is the dominant religion in the world, there is evidence that polytheism still exists.
+* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Discusses the problematic nature of reincarnation in Hinduism and Christianity, as well as the theory of an emergent monotheism. It argues that this process of reverse engineering can lead to the formation of one god, which can then be corrupted.
+* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Discusses the theory that polytheism emerged from monetism, and that the dominant theory in anthropology is the opposite of that. They go on to talk about the idea that everything started with a spirit, and that the polytheism was a natural state before monotheism was created. mentions how when people started worshiping idols, they claimed that when Abraham came, he was the founder of monotheism. They go on to say that while monotheism is the dominant religion in the world, there is evidence that polytheism still exists.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:55:00</a>
 
  Mohammed Hijab discusses Hinduism and its various similarities to Islam. He argues that the Prophet Muhammad meets the criteria for being a kalki avatar, and encourages people to learn more about Hinduism so they can have a better understanding of Islam.
 
-**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>* Discusses the origins of monotheism and polytheism, and how it is not inconceivable for a Muslim perspective to see this in the history of religions. It also mentions the example of Musa and Harun, two messengers of God who were sent to the jews at the same time. They both left for a short period of time, but both were still worshiping false gods.
+**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Discusses the origins of monotheism and polytheism, and how it is not inconceivable for a Muslim perspective to see this in the history of religions. It also mentions the example of Musa and Harun, two messengers of God who were sent to the jews at the same time. They both left for a short period of time, but both were still worshiping false gods.
+
 * **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** The Hindu god Vishnu is mentioned in the Quran, and his followers are said to become stronger depending on how many people follow him. Hinduism has many similarities to Islam, including the worship of one god, a founderless religion, and the separation of male and female worshippers.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>* Discusses Hinduism and sati, a practice in which a woman commits suicide after her husband dies. The woman prayed that she would come back as her husband's wife if she was correctly informed.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>* Discusses the practice of Hinduism, specifically the practice of polygamy, and how it affects Muslim women. notes that while the practice is widespread, it is not universal and that there is one estimate of the number of women who have burned themselves as part of this practice. also discusses the issues surrounding euthanasia and whether the state should allow assisted suicide.
+* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Discusses Hinduism and sati, a practice in which a woman commits suicide after her husband dies. The woman prayed that she would come back as her husband's wife if she was correctly informed.
+* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** Discusses the practice of Hinduism, specifically the practice of polygamy, and how it affects Muslim women. notes that while the practice is widespread, it is not universal and that there is one estimate of the number of women who have burned themselves as part of this practice. also discusses the issues surrounding euthanasia and whether the state should allow assisted suicide.
 * **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>**  Ahmed discusses Hinduism's practice of sacrificing an animal while it is still alive. This is unhygienic and questionable. In addition, he explains that there is a scriptural basis for the cow being considered the mother of all things and for its products being considered pure and potentially curing.
-* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>* Discusses the importance of Hindu rituals such as marriage, childbirth, and baby showering. It also discusses the ritual of sacrificing a cow and eating it, which is practiced by Muslims in India. The professor argues that b played an important role in the cuisine of ancient India long before Islam came, and that Hindus historically have been eating beef.  ends with a discussion of rituals and their importance in Hindu culture.
+* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** Discusses the importance of Hindu rituals such as marriage, childbirth, and baby showering. It also discusses the ritual of sacrificing a cow and eating it, which is practiced by Muslims in India. The professor argues that b played an important role in the cuisine of ancient India long before Islam came, and that Hindus historically have been eating beef.  ends with a discussion of rituals and their importance in Hindu culture.
 * **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>**  Mohammed Hijab discusses Hinduism and its various ceremonies and festivals. Among these are the eight-year milestone marking the entrance of a child into formal education, the festival of colors (Diwali), and the pilgrimage to the city of Varanasi, where it is believed that Shiva lived a long time ago.
-* **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>* Discusses the importance of the Hindu festival of Kumbh Mela, which takes place every three or four years and gathers millions of people. It also discusses the concepts of dhana (charity) and ahimsa (not harming or killing). The last thing discussed is the importance of the Hindu scriptures, the Vedas.
+* **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** Discusses the importance of the Hindu festival of Kumbh Mela, which takes place every three or four years and gathers millions of people. It also discusses the concepts of dhana (charity) and ahimsa (not harming or killing). The last thing discussed is the importance of the Hindu scriptures, the Vedas.
 * **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** The Vedas are four ancient scriptures in Hinduism, each of which focus on a specific topic. The Upanishads are philosophical texts that explain the theology of Hinduism. The Agamas are guides to prayer, meditation, and idol-making. The Puranas are legends and genealogies, cosmology, astronomy, and poetry. The Ittehas are two epic poetic narratives. The Ramayana is a story of a ideal family society and state, and the Mahabharata is an epic war between good and evil. The Mahabharata contains the Bhagavat Gita, a dialogue between Krishna and Arjun. The Darshanas are test texts that expand various practical sciences. The Ved Angers are six books that give insight into the meanings, structure, and knowledge of the Vedas. The Rigveda is focused on cosmology, deity, and creation, while the Samaveda has classical music, dance, and chants. The Upanishads are philosophical texts that explain the theology of Hinduism.
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** Hinduism has a number of texts that are considered authoritative, but it is difficult to determine which ones. Zikr Naik claims that these texts are divinely inspired, and this approach is effective in converting Hindus.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>**  a Hindu scholar discusses how similarities between Hinduism and Islam exist, as well as how the concept of the kalki avatar is known throughout the Hindu tradition.
-* **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses some of the similarities between Hinduism and Islam, and argues that the Prophet Muhammad meets the criteria for being a kalki avatar. He also encourages people to learn more about Hinduism so they can have a better understanding of Islam.
+* **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Discusses some of the similarities between Hinduism and Islam, and argues that the Prophet Muhammad meets the criteria for being a kalki avatar. He also encourages people to learn more about Hinduism so they can have a better understanding of Islam.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

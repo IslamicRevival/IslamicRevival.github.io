@@ -5,25 +5,24 @@
 ## Description
 
 Help us educate and mentor others to share the faith academically.
-Donate now: https://sapienceinstitute.org/donate/ 
+Donate now: <https://sapienceinstitute.org/donate/>
 
-Free online courses: https://learn.sapienceinstitute.org/
+Free online courses: <https://learn.sapienceinstitute.org/>
 
-Free books: https://sapienceinstitute.org/books/
+Free books: <https://sapienceinstitute.org/books/>
 
-Have doubts? Book a mentor: https://sapienceinstitute.org/lighthouse/
+Have doubts? Book a mentor: <https://sapienceinstitute.org/lighthouse/>
 
-Listen (Podcast): https://sapienceinstitute.org/sapientvoices/
+Listen (Podcast): <https://sapienceinstitute.org/sapientvoices/>
 
 Follow:
-– Facebook: https://facebook.com/sapienceinstitute.org/ 
-– Twitter: https://twitter.com/SapienceOrg/ 
-– Instagram: https://instagram.com/sapienceinstitute/ 
+– Facebook: <https://facebook.com/sapienceinstitute.org/>
+– Twitter: <https://twitter.com/SapienceOrg/>
+– Instagram: <https://instagram.com/sapienceinstitute/>
 
-Articles, speaker requests & more: https://sapienceinstitute.org/
+Articles, speaker requests & more: <https://sapienceinstitute.org/>
 
 ## Summary of [Modern Trends: Secularism | Mohammed Hijab](https://www.youtube.com/watch?v=hDmxvZ4QAw0)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -32,11 +31,12 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
  discusses the idea of secularism, and how it can be in conflict with democracy. It argues that secularism should be accompanied by liberalism, as the two ideologies are separate and have different assumptions.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  we are going to be discussing secularism and its connection to Islam. First, we will be discussing how secularism is defined and how it depends on the definition of religion. Next, we will be discussing some of the arguments used against secularism, specifically that it is necessary for Muslims to modernize and secularize in order to be in line with the Western way of life. Finally, we will be discussing how secularism is a necessary part of a modern world, and how it presupposes the separation of religion and the state.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the idea of secularism and its distinctions from religion. It points out that, in order to be secular, one must first define what they mean by religion. If one defines religion as a transcendental idea, then secularism becomes problematic, as it would then be accepting of one ideology over another.  also discusses the idea of modern trends - secularization and westernization - and how they are contingent on certain notions about religion. Finally, the video cites a verse from the Bible in order to argue that Christianity is not secular.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the idea of secularism and its distinctions from religion. It points out that, in order to be secular, one must first define what they mean by religion. If one defines religion as a transcendental idea, then secularism becomes problematic, as it would then be accepting of one ideology over another.  also discusses the idea of modern trends - secularization and westernization - and how they are contingent on certain notions about religion. Finally, the video cites a verse from the Bible in order to argue that Christianity is not secular.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Peter Berger, a prominent sociologist, believes that there is a trend of secularization-to-desecularization, which he defines as the assumption that we now live in a secular world being false. The UK, being a country with institutionalized religion, is an example of a society which is secular but not entirely. Berger discusses the contradiction between the West's professed secularism and the continued presence of religious privilege in various parts of society.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses how secularism and democracy are not always compatible, and that there is tension between democracy and secularism. Van Mills argues that secularism has failed, and that the only way to successfully have a secular state is if it is accompanied by a strong democratic ethic.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the role of secularism in modern societies, and how it can be in conflict with democracy. It argues that secularism should be accompanied by liberalism, as the two ideologies are separate and have different assumptions.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses the idea that there is a false distinction between free speech and censorship, and how this distinction is arbitrary and unhelpful in analyzing the situation. He goes on to say that the modern criticism of the western world is that you are letting us do what we want or at least think that we are doing what we want. suggests that a totalitarian system is better than this, because with a dictatorship we know where the boundaries are and we know why someone is going to be killed.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses how secularism and democracy are not always compatible, and that there is tension between democracy and secularism. Van Mills argues that secularism has failed, and that the only way to successfully have a secular state is if it is accompanied by a strong democratic ethic.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the role of secularism in modern societies, and how it can be in conflict with democracy. It argues that secularism should be accompanied by liberalism, as the two ideologies are separate and have different assumptions.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses the idea that there is a false distinction between free speech and censorship, and how this distinction is arbitrary and unhelpful in analyzing the situation. He goes on to say that the modern criticism of the western world is that you are letting us do what we want or at least think that we are doing what we want. suggests that a totalitarian system is better than this, because with a dictatorship we know where the boundaries are and we know why someone is going to be killed.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

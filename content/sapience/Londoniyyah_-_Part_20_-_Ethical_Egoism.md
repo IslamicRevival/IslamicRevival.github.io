@@ -4,12 +4,13 @@
 
 ## Description
 
-Listen as audio: https://soundcloud.com/sapienceinstitute/londoniyyah-part-19-proof-of-prophethood-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+Listen as audio: <https://soundcloud.com/sapienceinstitute/londoniyyah-part-19-proof-of-prophethood-2?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing>
 
 Londoniyyah - Part 20 - Ethical Egoism
 
-To be updated about our content please subscribe and open the notifications.
+To be updated about our content please subscribe and open the notifications
 ----
+
 BOOK A LIGHTHOUSE MENTOR
 
 Are you or someone you know doubting Islam? Do you find yourself struggling to find answers?  Do you have a hard time speaking to someone about Islam?  Are you considering Islam but are unsure about certain concepts?  Are you an activist, Imam or community leader who is unsure about how to handle questions related to science, philosophy, the Islamic moral code, etc.?
@@ -18,12 +19,11 @@ You are not alone.  Over the course of the last decade or more there has been a 
 
 Seeing the rise of  this phenomenon , Sapience Institute is introducing a One to One mentoring service called LIGHTHOUSE.
 
-BOOK A MENTOR HERE: https://sapienceinstitute.org/lighthouse/
+BOOK A MENTOR HERE: <https://sapienceinstitute.org/lighthouse/>
 
-VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: https://sapienceinstitute.org/
+VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: <https://sapienceinstitute.org/>
 
 ## Summary of [Londoniyyah - Part 20 - Ethical Egoism](https://www.youtube.com/watch?v=m8UmVhlby7w)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -32,11 +32,12 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
  Imam Shabazz discusses the Islamic concept of maslaha, which is the idea that we should make decisions based on what will be in the best interest of all people, not just ourselves. He critiques people who act in their own self-interest, arguing that this is actually against their own interest.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  David Hume is quoted as saying that if a person asks a person why he hates pain, he cannot answer. I would disagree with this, as a person would be able to answer by saying that the reason he hates pain is because his body is made this way due to his biological makeup or the fact that his neurons fire based on these instincts. Hume is also saying that if you know get one-year-old and prick them, they will cry. This is an expression of satisfaction with the satisfaction of the pain.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the difference between psychological egoism and ethical egoism. Psychological egoism is the idea that we are self-interested by nature, but everything that we do is for our own satisfaction. Ethical egoism is the idea that we ought to do what is best for others, even if it conflicts with what is best for us. In the example of the mother sacrificing herself for her child, ethical egoism would say that she is doing the right thing even though it conflicts with her own interests.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses how people can be egocentric, motivated by self-interest. It discusses the concept of narcissism, and how a woman in a relationship with a narcissist may use different means to gain an advantage over him.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the difference between psychological egoism and ethical egoism. Psychological egoism is the idea that we are self-interested by nature, but everything that we do is for our own satisfaction. Ethical egoism is the idea that we ought to do what is best for others, even if it conflicts with what is best for us. In the example of the mother sacrificing herself for her child, ethical egoism would say that she is doing the right thing even though it conflicts with her own interests.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses how people can be egocentric, motivated by self-interest. It discusses the concept of narcissism, and how a woman in a relationship with a narcissist may use different means to gain an advantage over him.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  the presenter discusses the difference between psychological egoism and ethical egoism. They state that while psychological egoism is the idea that one should act within their own self-interest, ethical egoism is the idea that one should act within their best interest. They go on to say that while psychological egoism is a subjective criterion, ethical egoism is based on the idea that one should act in accordance with societal rules. They go on to say that, while psychological egoism can be damaging, ethical egoism is important because it allows for self-awareness and responsibility.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the concepts of egoism and self-esteem. The main points are that egoism is the love of oneself, and self-esteem is the love of one's own abilities. If a person doesn't have self-esteem, they may not be able to love themselves. Counseling can help build self-esteem, but it is important to remember that the person receiving the counseling may not have self-esteem if they are being told off by someone in their life who is an authority figure.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses how Islamic morality views the self, and how it differs from ethical egoism.  also discusses how the Islamic model of life is to worship God.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the concepts of egoism and self-esteem. The main points are that egoism is the love of oneself, and self-esteem is the love of one's own abilities. If a person doesn't have self-esteem, they may not be able to love themselves. Counseling can help build self-esteem, but it is important to remember that the person receiving the counseling may not have self-esteem if they are being told off by someone in their life who is an authority figure.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses how Islamic morality views the self, and how it differs from ethical egoism.  also discusses how the Islamic model of life is to worship God.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>**  Imam Tariq Ramadan talks about the difference between psychological and ethical egoism. He says that psychological egoism is self-interest, while ethical egoism is that you should have self-interest the islamic model says you do have self-interest because you're going to be self-interested. However, he points out that even though this is natural, it doesn't mean that it's the only reason why you should have self-interest. He also talks about how self-interest is connected to other concepts in Islam, such as individualism and liberalism.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>**  the speaker discusses the conflict of interest that exists in egoism. He says that while egoism is based on what is best for us, it is not always justified, as long as it is done within the confines of Islamic principles. He goes on to say that individualism and egoism are hidden assumptions, and that true self-interest is based on accepting Allah as our ultimate authority.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>**  Imam Shabazz discusses the Islamic concept of maslaha, or "what will produce the most benefit for this dunya hereafter." Islamic ethics require that we make decisions based on what will be in the best interest of all people, not just ourselves. This can be a difficult task, but with the help of Allah, it is possible to make sound decisions that will lead to a successful life.

@@ -2,12 +2,11 @@
 
 <iframe loading='lazy' src='https://www.youtube.com/embed/v41xa9ptfY8'></iframe>## Description
 
-This video exposes Aaron Ra as not being acquainted with well-known arguments for the existence of God. Connected to this is a greater phenomenon of popular new atheist leaders being philosophically illiterate whilst at the same time making a living on making a series of philosophical claims. 
+This video exposes Aaron Ra as not being acquainted with well-known arguments for the existence of God. Connected to this is a greater phenomenon of popular new atheist leaders being philosophically illiterate whilst at the same time making a living on making a series of philosophical claims.
 
-My New Book - 2.99 only - https://www.amazon.co.uk/Kalam-Cosmological-Arguments-Mohammed-Hijab/dp/1098544021
+My New Book - 2.99 only - <https://www.amazon.co.uk/Kalam-Cosmological-Arguments-Mohammed-Hijab/dp/1098544021>
 
 ## Summary of [Aaron Ra Finds Muslim Mohammed Hijab](https://www.youtube.com/watch?v=v41xa9ptfY8)
-
 
 *
 
@@ -18,6 +17,7 @@ My New Book - 2.99 only - https://www.amazon.co.uk/Kalam-Cosmological-Arguments-
 Aaron Ra argues that there must be a necessary being that all other things depend on for their existence. He illustrates this with the example of phones depending on batteries for their power. Julie challenges him to a debate, which he accepts. At the end of the video, Ra finds a Muslim woman wearing a hijab and asks her about it. The woman explains that it is a sign of respect and modesty.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Aaron Ra argues that there cannot be an existence where only possible things exist, because there would be an absurdity of dependent things depending upon dependent things ad infinitum. He then posits that there must be a necessary being which all other dependent things depend on in order for there to be any existence at all. He asks a student if they agree, and they say they do.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Aaron Ra argues that there must be a necessary being that puts all other contingent things into existence, otherwise we would have an absurd world of dependent things. He poses a cosmological example to illustrate his point.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Aaron Ra makes a point that existence is contingent, and that only something with an infinite power source can guarantee it. He then goes on to show how this applies to phones, which will eventually run out of charge if they're connected to each other.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Aaron Ra argues that the Sun is not infinite, and that it depends on other things for its existence. He also argues that particles do not depend on anything for their existence.

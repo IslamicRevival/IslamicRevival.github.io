@@ -6,22 +6,22 @@
 
 Session 5 Part 3
 
-In an age of information overload and widespread pseudo-intellectualism, understanding the core foundations of Islam is as essential as ever. 
+In an age of information overload and widespread pseudo-intellectualism, understanding the core foundations of Islam is as essential as ever.
 
 This course comprehensively deconstructs the skeletal structure of prevalent ideologies and concepts such as atheism, scientism, materialism, secularism, and skepticism, in light of an all-encompassing intellectually robust Islamic worldview.
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -29,38 +29,37 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
 ## Summary of [Argument for Divine Authorship of Qur’an | The Evidence Course | Session 5 / Part 3](https://www.youtube.com/watch?v=cVNx4Ubq1Dw)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -69,10 +68,11 @@ Gmail: hello.tapodcast@gmail.com
 argues that the Qur'an was not written by humans, but by a divinely-inspired prophet. He points to verses in the Qur'an that criticize the Quraish people for their beliefs and practices, and argues that this shows that the Qur'an was not written by God. He also points to historical evidence that shows the Quraish were opposed to the message of the Qur'an and the claim of prophethood of Muhammad. If the Qur'an had been written by God, the Quraish would have been unable to resist the challenge it posed. Therefore, the absence of proof that the Qur'an was not written by humans demonstrates that it was indeed written by God.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The historical deductive argument in this video is that the quran was authored by either a non-arab or the Prophet Muhammad himself. The quran is in Arabic, and as such, requires someone who is fluent in the language in order to have written it. Furthermore, the quran was known in the seventh century to those living in the Arabian Peninsula, which leaves only three possible authors: the Arabs, the Prophet Muhammad, or Allah.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The talk discusses the evidence that suggests the Qur'an was not written by God, but was instead produced by humans. points to verses in the Qur'an that criticize the Quraish people for their beliefs and practices, and argues that this shows that the Qur'an was not written by God. He also points to historical evidence that shows the Quraish were opposed to the message of the Qur'an and the claim of prophethood of Muhammad. If the Qur'an had been written by God, the Quraish would have been unable to resist the challenge it posed. Therefore, the absence of proof that the Qur'an was not written by humans demonstrates that it was indeed written by God.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** argues that the absence of any evidence that Arabs could produce something on the level of the Qur'an proves that the Qur'an was not authored by humans. He also mentions a story in which a Muslim claimant to be a prophet was confronted by another Musalman and discovered his deception.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The Arguments for Divine Authorship of the Qur'an from the Evidence Course highlight that the quran was not produced by humans, but by a divinely-inspired prophet.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** argues that the Qur'an was written and composed by God, and that it is an excellent piece of writing. Various non-Muslim scholars have also praised the Qur'an, and no human being could produce it. Therefore, only God could be the author.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The talk discusses the evidence that suggests the Qur'an was not written by God, but was instead produced by humans. points to verses in the Qur'an that criticize the Quraish people for their beliefs and practices, and argues that this shows that the Qur'an was not written by God. He also points to historical evidence that shows the Quraish were opposed to the message of the Qur'an and the claim of prophethood of Muhammad. If the Qur'an had been written by God, the Quraish would have been unable to resist the challenge it posed. Therefore, the absence of proof that the Qur'an was not written by humans demonstrates that it was indeed written by God.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** argues that the absence of any evidence that Arabs could produce something on the level of the Qur'an proves that the Qur'an was not authored by humans. He also mentions a story in which a Muslim claimant to be a prophet was confronted by another Musalman and discovered his deception.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The Arguments for Divine Authorship of the Qur'an from the Evidence Course highlight that the quran was not produced by humans, but by a divinely-inspired prophet.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** argues that the Qur'an was written and composed by God, and that it is an excellent piece of writing. Various non-Muslim scholars have also praised the Qur'an, and no human being could produce it. Therefore, only God could be the author.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

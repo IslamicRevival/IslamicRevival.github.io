@@ -4,12 +4,13 @@
 
 ## Description
 
-Listen as audio: https://soundcloud.com/sapienceinstitute/londoniyyah-part-24-ahmadiyyah-cult/s-wXnZwpl9RWZ?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+Listen as audio: <https://soundcloud.com/sapienceinstitute/londoniyyah-part-24-ahmadiyyah-cult/s-wXnZwpl9RWZ?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing>
 
 Londoniyyah - Part 26 - Ahmadiyyah
 
-To be updated about our content please subscribe and open the notifications.
+To be updated about our content please subscribe and open the notifications
 ----
+
 BOOK A LIGHTHOUSE MENTOR
 
 Are you or someone you know doubting Islam? Do you find yourself struggling to find answers?  Do you have a hard time speaking to someone about Islam?  Are you considering Islam but are unsure about certain concepts?  Are you an activist, Imam or community leader who is unsure about how to handle questions related to science, philosophy, the Islamic moral code, etc.?
@@ -18,12 +19,11 @@ You are not alone.  Over the course of the last decade or more there has been a 
 
 Seeing the rise of  this phenomenon , Sapience Institute is introducing a One to One mentoring service called LIGHTHOUSE.
 
-BOOK A MENTOR HERE: https://sapienceinstitute.org/lighthouse/
+BOOK A MENTOR HERE: <https://sapienceinstitute.org/lighthouse/>
 
-VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: https://sapienceinstitute.org/
+VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: <https://sapienceinstitute.org/>
 
 ## Summary of [Londoniyyah - Part 26 - Ahmadiyyah](https://www.youtube.com/watch?v=fibHl53h3cw)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -32,17 +32,18 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
  discusses the Ahmadiyya Muslim sect and their beliefs regarding the death of Jesus Christ.  claims that, according to Islam, Jesus did not die on the cross, but instead went into "sleep." This difference is significant because it undermines the central claim of Christianity - that Jesus' death on the cross was the foundation of salvation.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Ahmadiyya is a religion that originated in India and claims to be Islamic. Ahmadiyya adherents claim to be Muslims, but have been met with criticism by most mainstream Muslim denominations. Ahmadiyya adherents rely on sources such as Syracusan writings by son Ahmad, and other books by Ahmad. Ahmad's most popular book is "The Quran: The Final Message of God".
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the theology of Ahmadiyya Muslims, focusing on the claim that Jesus was taken off the cross alive and was in a state of "swoon" before being revived in the Cave of the Patriarchs. Ahmadiyya Muslims believe that Jesus continued his travels after his resurrection, culminating in his proclamation as the Mahdi (or Promised Messiah) in India.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the theology of Ahmadiyya Muslims, focusing on the claim that Jesus was taken off the cross alive and was in a state of "swoon" before being revived in the Cave of the Patriarchs. Ahmadiyya Muslims believe that Jesus continued his travels after his resurrection, culminating in his proclamation as the Mahdi (or Promised Messiah) in India.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The Ahmadiyya Community believes that Jesus was not the son of Mary, but rather the son of Ibrahim. They also believe that a leader will come from among them before Jesus returns.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the difference between the claims of Islam and Christianity regarding the death of Jesus.  claims that, according to Islam, Jesus did not die on the cross, but instead went into "sleep." This difference is significant because it undermines the central claim of Christianity - that Jesus' death on the cross was the foundation of salvation.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the false prophecies of Ghulam Bulayim, which have not come to fruition as he had predicted. Ghulam Bulayim has put his credibility as a prophet on the line by stating that he never married the woman he was in love with, which casts doubt on his ability to speak on behalf of God. Additionally, the speaker points out that Islam is not based in one location, as is shown by the prominence of the quran in a religion that is supposedly based on revelation from God. This evidence casts doubt on Ghulam Bulayim's claim to be a prophet.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the difference between the claims of Islam and Christianity regarding the death of Jesus.  claims that, according to Islam, Jesus did not die on the cross, but instead went into "sleep." This difference is significant because it undermines the central claim of Christianity - that Jesus' death on the cross was the foundation of salvation.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the false prophecies of Ghulam Bulayim, which have not come to fruition as he had predicted. Ghulam Bulayim has put his credibility as a prophet on the line by stating that he never married the woman he was in love with, which casts doubt on his ability to speak on behalf of God. Additionally, the speaker points out that Islam is not based in one location, as is shown by the prominence of the quran in a religion that is supposedly based on revelation from God. This evidence casts doubt on Ghulam Bulayim's claim to be a prophet.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>**  a Hindi speaker discusses various topics related to the conquest of India, such as missiles and the Ahmadiyya Muslim sect. They talk about how prophecies between Muhammad and other prophets differ, and how Ahmed claimed to be the final prophet. They also mention a prophecy made by Muhammad about two women who would be his wives - one a virgin and the other a widow. After his death, Ahmed claimed to have patched together these prophecies and said they still hold.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses how beggar's belief can be interpreted in light of the verse "it cannot mean that [khartim] just means the final in the end." He also mentions how some people try to respond by saying that khartim can mean "ring" or "seal." However, the speaker points out that this is not the correct interpretation, as khartim actually means "the end." This is significant because it demonstrates that the speaker is familiar with Islamic theology. He goes on to say that the thirteen "pastors" who are mentioned in the Quran are actually imposters, and that khartim is strong enough for us but that we should remember that they are wheel masters.
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses how beggar's belief can be interpreted in light of the verse "it cannot mean that [khartim] just means the final in the end." He also mentions how some people try to respond by saying that khartim can mean "ring" or "seal." However, the speaker points out that this is not the correct interpretation, as khartim actually means "the end." This is significant because it demonstrates that the speaker is familiar with Islamic theology. He goes on to say that the thirteen "pastors" who are mentioned in the Quran are actually imposters, and that khartim is strong enough for us but that we should remember that they are wheel masters.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** The Hermeneutical Gymnastics Team discusses how metaphorizing can be seen on a different level with hermeneutics, and how this does not negate the Quran. They go on to discuss how there are many examples in the Quran of a kareem, sahabi, or tabi teaching their student a different way of reciting a verse and not intending to prove the other way false. Finally, they explain that the Quran cannot be removed from its place because it contradicts the falsehoods and narratives of its opponents.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses some points about Ahmadiyyah, namely that they are claiming to be a prophet after the prophet Muhammad, that they have a lot of questions and that their only means of staying afloat is if they give something in return. He also asks why Ahmadiyyah hasn't reached more people around the world, and why they believe their religion is perfect.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the influence of the British Empire on Ahmadiyyahism and the fact that Ahmadiyyah founder Mirza Ghulam Ahmad was protected by the British government. It also discusses the fact that Ahmadiyyah members are encouraged to pay a membership tax and that if they do not pay, they are not allowed to communicate with Ahmadiyyah members.
+* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses some points about Ahmadiyyah, namely that they are claiming to be a prophet after the prophet Muhammad, that they have a lot of questions and that their only means of staying afloat is if they give something in return. He also asks why Ahmadiyyah hasn't reached more people around the world, and why they believe their religion is perfect.
+* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Discusses the influence of the British Empire on Ahmadiyyahism and the fact that Ahmadiyyah founder Mirza Ghulam Ahmad was protected by the British government. It also discusses the fact that Ahmadiyyah members are encouraged to pay a membership tax and that if they do not pay, they are not allowed to communicate with Ahmadiyyah members.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The narrator provides a brief description of the death of Imamhassan Shah, focusing on the fact that he had a "big loose motion" that caused him to become very weak. The doctors treating him believed that the illness was brought on by his intense work, and they retired to their residence. He passed away soon after, with his last words being a request for his son to come and see him. His son wrote back to him two words, telling him to come and see him.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses how Ahmadiyya followers believe their founder, Guru Nanak, was a prophet and a guru, and they should come to the religion of Islam.  also includes a short discussion of how the Ahmadiyya movement is a money-making machine.
+* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Discusses how Ahmadiyya followers believe their founder, Guru Nanak, was a prophet and a guru, and they should come to the religion of Islam.  also includes a short discussion of how the Ahmadiyya movement is a money-making machine.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

@@ -4,10 +4,9 @@
 
 ## Description
 
-This video extract is taken from 'Jesus and Muhammad in Western Scholarship' where Usman Sheikh discusses the historical Jesus, the historical Muhammad, and Quranic intertextuality https://www.youtube.com/watch?v=gC7r8WifrbM&t=4042s
+This video extract is taken from 'Jesus and Muhammad in Western Scholarship' where Usman Sheikh discusses the historical Jesus, the historical Muhammad, and Quranic intertextuality <https://www.youtube.com/watch?v=gC7r8WifrbM&t=4042s>
 
 ## Summary of [Why does the Qur'an differ from the Bible?](https://www.youtube.com/watch?v=KR9MuOkZnK0)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -16,6 +15,7 @@ This video extract is taken from 'Jesus and Muhammad in Western Scholarship' whe
 The video discusses the differences between the Qur'an and the Bible, with a focus on how the Qur'an supports monotheism more than the Bible does. It also touches on the idea of precision theology, where the Qur'an confirms certain aspects of Judaism in its first verse.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** of the video examines the similarities and differences between the stories in the Qur'an and the Bible, concluding that the Qur'an has its own perspective and is polemically engaging with the stories in the scriptures. Critical academic scholarship of the Qur'an is seldom championed by scholars, due to the prevailing view that the Qur'an is just a different view of the same stories as found in the Bible.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The video discusses the parallels between the Qur'an and the Bible, and how the Qur'an does not contain the same punishment as found in the Gospel of Luke. It also points out that Jesus is seen as a continuation of Jewish religious tradition, rather than a replacement.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The Qur'an differs from the Bible in its description of miracles, such as when Moses' staff turns into a snake and his hand becomes leprous. The Qur'an also disagrees with Exodus in its sequence of events.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** discusses the difference between the Qur'an and the Bible, comparing how the Qur'an supports the idea of monotheism more than the Bible does. He also touches on the idea of precision theology, where the Qur'an confirms certain aspects of Judaism in its first verse.

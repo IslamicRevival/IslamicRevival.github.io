@@ -8,7 +8,6 @@ This video argues that second-wave feminist objections to women and men particip
 
 ## Summary of [Segregating Black and White Sprinters due to Black Advantage](https://www.youtube.com/watch?v=QAL5-zWYIz0)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
@@ -16,8 +15,9 @@ This video argues that second-wave feminist objections to women and men particip
  the author argues that, because of black athletes' biological and anatomical advantages in sprinting, they should be segregated from white athletes. However, feminists argue that, in order to achieve equality in all spheres of life, there should be no exceptions to this rule in regards to sports.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  Simone de Beauvoir's arguments for equality between men and women are critiqued. Three live examples are given of how feminists' assumptions about physical differences between men and women can lead to problems. For instance, if a man has undergone gender reassignment surgery and identifies as a woman, they may have an unfair advantage in sports competition against women.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** argues that, because of black athletes' biological and anatomical advantages in sprinting, they should be segregated from white athletes. However, feminists argue that, in order to achieve equality in all spheres of life, there should be no exceptions to this rule in regards to sports. also argues that, because of the social ills of the past, equality of opportunity should be a goal in all areas of life.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the historical discrimination against men in the field of war and how it has led to many deaths. suggests that, in order to rectify the problem, we should use principles of feminism to selectively give women an opportunity to excel, rather than treating them equally.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the historical discrimination against men in the field of war and how it has led to many deaths. suggests that, in order to rectify the problem, we should use principles of feminism to selectively give women an opportunity to excel, rather than treating them equally.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

@@ -8,7 +8,6 @@ This is a short discussion between a Muslim man and two European Feminists. Wher
 
 ## Summary of [Firm Feminists Change Mind After Debate](https://www.youtube.com/watch?v=Mmu0GgrKTnU)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:30:00</a>
@@ -16,12 +15,13 @@ This is a short discussion between a Muslim man and two European Feminists. Wher
  "Firm Feminists Change Mind After Debate" discusses a study which found that when feminists focus on overall issues, rather than individual issues, they are less likely to be successful.  also discusses a debate between feminists about whether or not a rise in a manager's power correlates with an increase in their responsibility. Ultimately, both sides of the debate agree that if a job entails increased responsibility, then an increase in power usually accompanies it.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** critiques feminism for ignoring inequalities between male and female, and proposes that there are fields where men dominate. He then goes on to say that, because of this, the feminist movement should be focused on issues such as child-rearing. He argues that the reason for the feminist movement's lack of focus on these issues is that it is a part of a larger, wave-like movement.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The feminist premise is false - women are not equal to men in every way. Women should revise the feminist premise in order to make arguments that would be more effective.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Feminists change their mind after a debate, realizing that men have more spending capacity than women. This study provides support for this idea.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses how, in some parts of the world, women are still slaves and are treated poorly. It also discusses how the wage gap is a problem, and how, in Congo, men are more likely to die than women.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses how, in some parts of the world, women are still slaves and are treated poorly. It also discusses how the wage gap is a problem, and how, in Congo, men are more likely to die than women.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** a woman argues that it is ridiculous to talk about "wide equality" between men and women in the West, but it is even more ridiculous to talk about that in Eastern and African countries. She goes on to say that in those countries, men have more money due to the fact that they need to feed their families. She then says that if you are one-dimensional, you will think that there is a large disparity in inequality between men and women in the West. However, when you think about why the question is important, you come to many different conclusions. One of which is that men have not been the oppressors, but have been part of a system of socialization which has meant that they have now been expected to standpoint.  then goes on to say that it is difficult to break away from these ideas and that the Western world is arrogant due to its experience as the world empire.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>**  feminists debate the idea that, because feminism is not a perfect narrative, certain aspects of it should be discounted. One point of contention is whether or not a rise in a manager's power correlates with an increase in their responsibility. Ultimately, both sides of the debate agree that if a job entails increased responsibility, then an increase in power usually accompanies it.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses study which found that when feminists focus on overall issues, rather than individual issues, they are less likely to be successful.
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses study which found that when feminists focus on overall issues, rather than individual issues, they are less likely to be successful.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

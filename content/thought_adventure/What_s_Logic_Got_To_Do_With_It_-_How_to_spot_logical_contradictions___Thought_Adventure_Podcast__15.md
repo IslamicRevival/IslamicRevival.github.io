@@ -21,17 +21,17 @@ Often we hear people saying that Islam’s position is incoherent or illogical. 
 3.26:55 Final Thoughts
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -39,40 +39,39 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
-#LogicalFallacies #Ratonality #Islam
+# LogicalFallacies #Ratonality #Islam
 
 ## Summary of [What's Logic Got To Do With It? - How to spot logical contradictions | Thought Adventure Podcast #15](https://www.youtube.com/watch?v=e9A6HTKrfno)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -81,62 +80,69 @@ Gmail: hello.tapodcast@gmail.com
  discusses how to identify a logical contradiction and provides an example. It also explains how a concept can be true but still be incoherent.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  Jake and Joseph discuss why logic is important, and how it can be helpful in discussions. They also discuss how Abdullah, a guest on the show, is related to the discussion.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Logic is important for making good arguments and recognizing bad arguments.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  Jake and Yusuf discuss how people reason, and how a valid argument is one in which the conclusion follows from the premises. They also talk about how children reason, and how to incentivize them to be honest.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the three main propositions that humans use to reason: logical possibility, logical impossibility, and mathematical truths. Propositions are truths that can be true or false, and can be either logically possible or logically impossible.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Logical impossibility is a contradiction within a sentence or proposition that has no meaning. Practically speaking, this means that someone is talking nonsense.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>**  the Thought Adventure Podcast discusses contradictions and how they can be identified. The host points out that a contradiction is not simply a statement that is strange or contradictory, but one that can be derived from a series of other statements. For example, the statement "This is made of metal" can be a contradiction because it conflicts with the statement "This does not contain metal."
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>**  Jake talks about the concept of logical impossibility, which is when a statement carries no value of meaning. He explains that when people use the word "illogical," they are being inaccurate. He goes on to say that when two propositions carry no meaning, they result in a statement that is meaningless to humans.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>**  explains how to spot a logical contradiction, and provides an example of how affirming the consequence can lead to a fallacy.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** In this example, Mr. Pine Creek argues that because there is evil in the world, it is not an ideal world created by God. However, this contradicts his earlier statement that this world is "the best of all."
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** , Abdul Rahmani argues that there is a contradiction in the idea that God allows sin, because if God doesn't like sin, then people who sin will go to Hell. However, Rahami points out that this is not a contradiction, because if you affirm both concepts simultaneously, then there cannot be a contradiction.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>**  Jake and Sharif discuss how a concept can be coherent yet still be unreasonable or implausible. They also discuss how a concept can be true but still be incoherent.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** , Sharif discusses how a contradiction can exist when someone tries to argue that there is a contradiction between the idea that there is a god and the idea that humans have free will. He argues that there is no contradiction because the two ideas are not in the same sense. He then goes on to say that some Muslims who are unsure about whether or not to believe in a god will hear what is being discussed and may become convinced that there is no god.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Logic is important for making good arguments and recognizing bad arguments.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  Jake and Yusuf discuss how people reason, and how a valid argument is one in which the conclusion follows from the premises. They also talk about how children reason, and how to incentivize them to be honest.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the three main propositions that humans use to reason: logical possibility, logical impossibility, and mathematical truths. Propositions are truths that can be true or false, and can be either logically possible or logically impossible.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Logical impossibility is a contradiction within a sentence or proposition that has no meaning. Practically speaking, this means that someone is talking nonsense.
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>**  the Thought Adventure Podcast discusses contradictions and how they can be identified. The host points out that a contradiction is not simply a statement that is strange or contradictory, but one that can be derived from a series of other statements. For example, the statement "This is made of metal" can be a contradiction because it conflicts with the statement "This does not contain metal."
+- **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>**  Jake talks about the concept of logical impossibility, which is when a statement carries no value of meaning. He explains that when people use the word "illogical," they are being inaccurate. He goes on to say that when two propositions carry no meaning, they result in a statement that is meaningless to humans.
+- **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>**  explains how to spot a logical contradiction, and provides an example of how affirming the consequence can lead to a fallacy.
+- **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** In this example, Mr. Pine Creek argues that because there is evil in the world, it is not an ideal world created by God. However, this contradicts his earlier statement that this world is "the best of all."
+- **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** , Abdul Rahmani argues that there is a contradiction in the idea that God allows sin, because if God doesn't like sin, then people who sin will go to Hell. However, Rahami points out that this is not a contradiction, because if you affirm both concepts simultaneously, then there cannot be a contradiction.
+- **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>**  Jake and Sharif discuss how a concept can be coherent yet still be unreasonable or implausible. They also discuss how a concept can be true but still be incoherent.
+- **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** , Sharif discusses how a contradiction can exist when someone tries to argue that there is a contradiction between the idea that there is a god and the idea that humans have free will. He argues that there is no contradiction because the two ideas are not in the same sense. He then goes on to say that some Muslims who are unsure about whether or not to believe in a god will hear what is being discussed and may become convinced that there is no god.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
 , "What's Logic Got To Do With It? - How to spot logical contradictions," philosopher Jake Knoll explains that the concept of libertarian free will is contradictory, because the main thing that needs to exist in order to have free will is a reason for what a person chooses, but that reason does not necessitate that the choice be made. If this is the case, then it would be impossible for an agent to be morally accountable for their actions, as there would be no explanation as to why they acted in a particular way.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>**  Thought Adventure Podcast host Sharif Ahmed discusses a contradiction in the Islamic belief system of God wanting all people to be saved, but also wanting some people to go to Hell. Ahmed points out that this contradiction is not a logical contradiction, and instead is a logical deduction of the premises. He then goes on to argue that this contradiction is an inherent part of the Islamic belief system, and that it negates the belief in God.
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>**  three atheists discuss how a contradiction is incoherent. Each atheist argues that the contradiction is incoherent, but each provides a different justification for their argument. The third atheist points out that the contradiction is actually intentional, and the speaker agrees that this is probably the case.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>**  Abdullah explains that to make a positive claim that something does not exist, one must provide evidence that does not exist. Sharif asks Abdullah if it is possible for God to exist, and Abdullah responds that it is not possible for God to exist because if God existed, we would see evidence of His existence. Raw asks Abdullah if it is possible for God to help someone in a matter, and Abdullah responds that it is not possible for God to help someone in a matter unless God manipulated other people's minds and controlled their free will.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>**  Sharif Abdul argues that there is a contradiction in the belief that God exists, because it doesn't follow from the existence of God that humans have free will. He also argues that there is an internal contradiction in Islam, because the free will libertarian position implies that humans have ultimate control over their choices, which is not consistent with the Islamic view of human nature.
-* **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>* Discusses how logic cannot be used to determine if something is morally accountable, and provides an explanation for why this is the case. It argues that free will is not an incoherent concept, and that holding individuals morally accountable requires accepting that they are truly free.
-* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>* Discusses two objections to libertarian free will: that it applies only to human beings and that it is arbitrary. The presenter responds to each objection by explaining why it is flawed. He then argues that, even if free will is arbitrary, it still has reasons behind the choices it makes.
-* **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** , "What's Logic Got To Do With It? - How to spot logical contradictions," philosopher Jake Knoll explains that the concept of libertarian free will is contradictory, because the main thing that needs to exist in order to have free will is a reason for what a person chooses, but that reason does not necessitate that the choice be made. If this is the case, then it would be impossible for an agent to be morally accountable for their actions, as there would be no explanation as to why they acted in a particular way.
-* **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** Sean argues that it is a contradiction to believe in free will and also believe in a deterministic universe.
-* **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** The Thought Adventure Podcast discusses a philosophical argument that goes by the name of the "extreme skeptic argument." The argument states that because the subject (i.e., the individual) needs to depend on an objective existence in order to exist, it is impossible to trust anything that the subject sees or hears. Therefore, the subject's existence is nothing more than an illusion, and the subject cannot be morally accountable for their actions.
-* **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>**  Sean discusses the concept of logic and how it can be used to spot contradictions in someone's reasoning. He also explains how reason can dictate whether or not someone chooses to do something, based on their current condition.
-* **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>**  Jake reads from a previous article in which he argues that a god does not need anything in order to be satisfied, and therefore creates contradictory statements. Jake provides an example of this contradiction in the form of the contradiction between the statement "I don't need the snickers bars, but I ate one" and the fact that Jake has reasons to eat the snickers bar.
-* **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses how humans need reasons to act, but argues that this is not always the case for God. Abdul Rahman provides an example of a choice that does not require a reason, and argues that God does not need reasons for His actions.
+
+- **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>**  three atheists discuss how a contradiction is incoherent. Each atheist argues that the contradiction is incoherent, but each provides a different justification for their argument. The third atheist points out that the contradiction is actually intentional, and the speaker agrees that this is probably the case.
+- **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>**  Abdullah explains that to make a positive claim that something does not exist, one must provide evidence that does not exist. Sharif asks Abdullah if it is possible for God to exist, and Abdullah responds that it is not possible for God to exist because if God existed, we would see evidence of His existence. Raw asks Abdullah if it is possible for God to help someone in a matter, and Abdullah responds that it is not possible for God to help someone in a matter unless God manipulated other people's minds and controlled their free will.
+- **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>**  Sharif Abdul argues that there is a contradiction in the belief that God exists, because it doesn't follow from the existence of God that humans have free will. He also argues that there is an internal contradiction in Islam, because the free will libertarian position implies that humans have ultimate control over their choices, which is not consistent with the Islamic view of human nature.
+- **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** Discusses how logic cannot be used to determine if something is morally accountable, and provides an explanation for why this is the case. It argues that free will is not an incoherent concept, and that holding individuals morally accountable requires accepting that they are truly free.
+- **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** Discusses two objections to libertarian free will: that it applies only to human beings and that it is arbitrary. The presenter responds to each objection by explaining why it is flawed. He then argues that, even if free will is arbitrary, it still has reasons behind the choices it makes.
+- **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** , "What's Logic Got To Do With It? - How to spot logical contradictions," philosopher Jake Knoll explains that the concept of libertarian free will is contradictory, because the main thing that needs to exist in order to have free will is a reason for what a person chooses, but that reason does not necessitate that the choice be made. If this is the case, then it would be impossible for an agent to be morally accountable for their actions, as there would be no explanation as to why they acted in a particular way.
+- **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** Sean argues that it is a contradiction to believe in free will and also believe in a deterministic universe.
+- **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** The Thought Adventure Podcast discusses a philosophical argument that goes by the name of the "extreme skeptic argument." The argument states that because the subject (i.e., the individual) needs to depend on an objective existence in order to exist, it is impossible to trust anything that the subject sees or hears. Therefore, the subject's existence is nothing more than an illusion, and the subject cannot be morally accountable for their actions.
+- **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>**  Sean discusses the concept of logic and how it can be used to spot contradictions in someone's reasoning. He also explains how reason can dictate whether or not someone chooses to do something, based on their current condition.
+- **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>**  Jake reads from a previous article in which he argues that a god does not need anything in order to be satisfied, and therefore creates contradictory statements. Jake provides an example of this contradiction in the form of the contradiction between the statement "I don't need the snickers bars, but I ate one" and the fact that Jake has reasons to eat the snickers bar.
+- **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Discusses how humans need reasons to act, but argues that this is not always the case for God. Abdul Rahman provides an example of a choice that does not require a reason, and argues that God does not need reasons for His actions.
+
 ### <a onclick="modifyYTiframeseektime('7200')">02:00:00-03:00:00</a>
 
 , lawyer Matthew Danish discusses how to spot logical contradictions. He explains that a logical contradiction arises when two things in a relationship are known to be contradictory, such as the idea that God knows humans will do something and humans are still free. He goes on to say that, in order to demonstrate this contradiction, the person doing the demonstration must first provide an explanation for why the two things are contradictory.
 
-**<a onclick="modifyYTiframeseektime('7200')">02:00:00</a>* Discusses how a logical contradiction arises when someone argues that God created something because he needs something to act because he is incomplete. also shares an example of how a logical contradiction can arise in the case of a counselor.
-* **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>** Mr. Danish discusses two contradictions in logic - one between the Quran and early Muslims who believed in free will, and another between Allah testing people but knowing the future. He also mentions lawyer Matthew Bardos, who he thinks should not have been hired to defend someone in court.
-* **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>** The presenter discusses the argument that Jesus couldn't have been a man because this went against the intrinsic attributes of God, and then goes on to say that proof by contradiction is a big thing in logic.
-* **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>**  Christian philosopher and Thought Adventure Podcast host Travis Graddol discusses how logical contradictions can exist in the Islamic conception of God. He explains that while humans have free will, this does not mean that Allah is powerless over them. Rather, humans have free will because Allah has granted it to them. Furthermore, Travis argues that the Christian doctrine of the Incarnation does not result in any contradictions.
-* **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>**  the speaker explains how to spot logical contradictions, which is a problem for atheists because they try to apply their assumptions about reality to God. The better way to approach the question of why God creates is to first eliminate all of their presuppositions and look at it based on what we can sense.
-* **<a onclick="modifyYTiframeseektime('8700')">02:25:00</a>** , a lawyer discusses two contradictions in the Quran: that humans start on earth and are being tested by God, and that God already knows the outcome of the test. A logical contradiction is when something violates one of the three classical laws of thought.
-* **<a onclick="modifyYTiframeseektime('9000')">02:30:00</a>* Discusses a contradiction found within Islam: that it says one thing, but then says another thing that contradicts this first thing. The contradiction is said to be an "internal contradiction," meaning that it exists within the religion itself rather than between the religion and reality.  then goes on to present a logical form for resolving the contradiction, which is that the test is not pointless, as it is related to justice.
-* **<a onclick="modifyYTiframeseektime('9300')">02:35:00</a>** , Matthew discusses how a test can be both for the person being tested and the tester, and that a definition of a test can go either way. He argues that, because a test can be for the person being tested and the tester, a definition of a test must be flexible.
-* **<a onclick="modifyYTiframeseektime('9600')">02:40:00</a>** argues that a logical contradiction exists when two things in a relationship are known to be contradictory, such as the idea that God knows humans will do something and humans are still free. He goes on to say that, in order to demonstrate this contradiction, the person doing the demonstration must first provide an explanation for why the two things are contradictory. He then gives an example of a professor demonstrating the effects of gravity by dropping a coin.
-* **<a onclick="modifyYTiframeseektime('9900')">02:45:00</a>**  Matthew argues that it is possible for there to be a logical contradiction where one definition of a word is not equal to another. He goes on to say that this would only happen if one's definition of the word was the only possible definition.
-* **<a onclick="modifyYTiframeseektime('10200')">02:50:00</a>** Sharif argues that tests do not necessitate ignorance of the outcome, but rather that the test-taker can know the outcome and still do it. He provides several counter-examples to this claim.
-* **<a onclick="modifyYTiframeseektime('10500')">02:55:00</a>**  Matthew discusses how some people misunderstand the concept of "saying the truth is from your lord." He goes on to say that anyone who wishes to believe in Allah should do so, regardless of whether or not they believe in the Quran or Sunnah. Furthermore, he cites a number of verses from the Quran and Sunnah to back up his argument. Finally, he points out that there is a category of disbelievers who can become believers, and Allah reaffirms this reality in the Quran.
+**<a onclick="modifyYTiframeseektime('7200')">02:00:00</a>** Discusses how a logical contradiction arises when someone argues that God created something because he needs something to act because he is incomplete. also shares an example of how a logical contradiction can arise in the case of a counselor.
+
+- **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>** Mr. Danish discusses two contradictions in logic - one between the Quran and early Muslims who believed in free will, and another between Allah testing people but knowing the future. He also mentions lawyer Matthew Bardos, who he thinks should not have been hired to defend someone in court.
+- **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>** The presenter discusses the argument that Jesus couldn't have been a man because this went against the intrinsic attributes of God, and then goes on to say that proof by contradiction is a big thing in logic.
+- **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>**  Christian philosopher and Thought Adventure Podcast host Travis Graddol discusses how logical contradictions can exist in the Islamic conception of God. He explains that while humans have free will, this does not mean that Allah is powerless over them. Rather, humans have free will because Allah has granted it to them. Furthermore, Travis argues that the Christian doctrine of the Incarnation does not result in any contradictions.
+- **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>**  the speaker explains how to spot logical contradictions, which is a problem for atheists because they try to apply their assumptions about reality to God. The better way to approach the question of why God creates is to first eliminate all of their presuppositions and look at it based on what we can sense.
+- **<a onclick="modifyYTiframeseektime('8700')">02:25:00</a>** , a lawyer discusses two contradictions in the Quran: that humans start on earth and are being tested by God, and that God already knows the outcome of the test. A logical contradiction is when something violates one of the three classical laws of thought.
+- **<a onclick="modifyYTiframeseektime('9000')">02:30:00</a>** Discusses a contradiction found within Islam: that it says one thing, but then says another thing that contradicts this first thing. The contradiction is said to be an "internal contradiction," meaning that it exists within the religion itself rather than between the religion and reality.  then goes on to present a logical form for resolving the contradiction, which is that the test is not pointless, as it is related to justice.
+- **<a onclick="modifyYTiframeseektime('9300')">02:35:00</a>** , Matthew discusses how a test can be both for the person being tested and the tester, and that a definition of a test can go either way. He argues that, because a test can be for the person being tested and the tester, a definition of a test must be flexible.
+- **<a onclick="modifyYTiframeseektime('9600')">02:40:00</a>** argues that a logical contradiction exists when two things in a relationship are known to be contradictory, such as the idea that God knows humans will do something and humans are still free. He goes on to say that, in order to demonstrate this contradiction, the person doing the demonstration must first provide an explanation for why the two things are contradictory. He then gives an example of a professor demonstrating the effects of gravity by dropping a coin.
+- **<a onclick="modifyYTiframeseektime('9900')">02:45:00</a>**  Matthew argues that it is possible for there to be a logical contradiction where one definition of a word is not equal to another. He goes on to say that this would only happen if one's definition of the word was the only possible definition.
+- **<a onclick="modifyYTiframeseektime('10200')">02:50:00</a>** Sharif argues that tests do not necessitate ignorance of the outcome, but rather that the test-taker can know the outcome and still do it. He provides several counter-examples to this claim.
+- **<a onclick="modifyYTiframeseektime('10500')">02:55:00</a>**  Matthew discusses how some people misunderstand the concept of "saying the truth is from your lord." He goes on to say that anyone who wishes to believe in Allah should do so, regardless of whether or not they believe in the Quran or Sunnah. Furthermore, he cites a number of verses from the Quran and Sunnah to back up his argument. Finally, he points out that there is a category of disbelievers who can become believers, and Allah reaffirms this reality in the Quran.
+
 ### <a onclick="modifyYTiframeseektime('10800')">03:00:00-03:40:00</a>
 
  discusses how to spot logical contradictions and how to create effective arguments. It also discusses the rise in popularity of the Thought Adventure Podcast and how to become a supporter.
 
 **<a onclick="modifyYTiframeseektime('10800')">03:00:00</a>** Disbelievers began with a certain mentality towards Islam and eventually their heart changed, resulting in them inclining towards the religion now. Abdul Rahman discusses how a perfect book is so confusing for those who don't understand it, but it is still clear and straightforward. He then critiques one of the characteristics of Allah - that he is omnipresent. However, he doesn't believe this to be true because Allah is not present in every single place in creation.
-* **<a onclick="modifyYTiframeseektime('11100')">03:05:00</a>** The Islamic view of Allah is that he exists without beginning or end, and he created the universe at a particular time. The presenter asks a question about where Allah exists, and the Islamic view is that he occupies space, but does not have a specific location.
-* **<a onclick="modifyYTiframeseektime('11400')">03:10:00</a>** of the video discusses how logic has nothing to do with it when it comes to understanding how God sustains creation. They say that before creation existed, there was no space for God's power to enter, so it was created at the same time. If creation isn't eternal, then God would need space that can encompass his power.
-* **<a onclick="modifyYTiframeseektime('11700')">03:15:00</a>* Discusses the problem of logical contradictions and how they can be solved. He explains that contradictions arise when one tries to use concepts or ideas that are contradictory to each other. He goes on to say that when one understands that an idea or concept comes from eternity, and not time, then contradictions become less of an issue. then offers a solution to the contradiction of god's existence, which is that god exists simultaneously in both time and eternity.
-* **<a onclick="modifyYTiframeseektime('12000')">03:20:00</a>**  Sharif discusses how certain passages from the Quran could be interpreted to imply that humans have free will. He argues that, even if this interpretation is correct, it does not contradict the idea that God creates everything.
-* **<a onclick="modifyYTiframeseektime('12300')">03:25:00</a>** , Jake talks about a verse in the Quran that is used to try to justify free will. He explains that this verse is only related to the context of the verse, and there is no problem with the Islamic beliefs because the concepts of Islam are clear-cut.
-* **<a onclick="modifyYTiframeseektime('12600')">03:30:00</a>** Brothers discuss the idea of logical contradictions, pointing out that just because something is possible doesn't mean it is plausible, reasonable, or a justifiable true belief. They then discuss the idea of an internal critique, which is used to determine whether or not something is false. They go on to discuss the possibility that the universe was created in a simulation, and how evidence must be provided in order to support that belief.
-* **<a onclick="modifyYTiframeseektime('12900')">03:35:00</a>* Discusses how to spot logical contradictions, and how to create effective arguments. It also discusses the rise in popularity of the Thought Adventure Podcast, and how to become a supporter.
-* **<a onclick="modifyYTiframeseektime('13200')">03:40:00</a>**  the Thought Adventure Podcast discuss how to spot logical contradictions. They explain that sometimes there are two logically contradictory statements that are both true, and sometimes there are two statements that are both false, but only one of them is true. They also discuss how to figure out which of the two statements is true.
+
+- **<a onclick="modifyYTiframeseektime('11100')">03:05:00</a>** The Islamic view of Allah is that he exists without beginning or end, and he created the universe at a particular time. The presenter asks a question about where Allah exists, and the Islamic view is that he occupies space, but does not have a specific location.
+- **<a onclick="modifyYTiframeseektime('11400')">03:10:00</a>** of the video discusses how logic has nothing to do with it when it comes to understanding how God sustains creation. They say that before creation existed, there was no space for God's power to enter, so it was created at the same time. If creation isn't eternal, then God would need space that can encompass his power.
+- **<a onclick="modifyYTiframeseektime('11700')">03:15:00</a>** Discusses the problem of logical contradictions and how they can be solved. He explains that contradictions arise when one tries to use concepts or ideas that are contradictory to each other. He goes on to say that when one understands that an idea or concept comes from eternity, and not time, then contradictions become less of an issue. then offers a solution to the contradiction of god's existence, which is that god exists simultaneously in both time and eternity.
+- **<a onclick="modifyYTiframeseektime('12000')">03:20:00</a>**  Sharif discusses how certain passages from the Quran could be interpreted to imply that humans have free will. He argues that, even if this interpretation is correct, it does not contradict the idea that God creates everything.
+- **<a onclick="modifyYTiframeseektime('12300')">03:25:00</a>** , Jake talks about a verse in the Quran that is used to try to justify free will. He explains that this verse is only related to the context of the verse, and there is no problem with the Islamic beliefs because the concepts of Islam are clear-cut.
+- **<a onclick="modifyYTiframeseektime('12600')">03:30:00</a>** Brothers discuss the idea of logical contradictions, pointing out that just because something is possible doesn't mean it is plausible, reasonable, or a justifiable true belief. They then discuss the idea of an internal critique, which is used to determine whether or not something is false. They go on to discuss the possibility that the universe was created in a simulation, and how evidence must be provided in order to support that belief.
+- **<a onclick="modifyYTiframeseektime('12900')">03:35:00</a>** Discusses how to spot logical contradictions, and how to create effective arguments. It also discusses the rise in popularity of the Thought Adventure Podcast, and how to become a supporter.
+- **<a onclick="modifyYTiframeseektime('13200')">03:40:00</a>**  the Thought Adventure Podcast discuss how to spot logical contradictions. They explain that sometimes there are two logically contradictory statements that are both true, and sometimes there are two statements that are both false, but only one of them is true. They also discuss how to figure out which of the two statements is true.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

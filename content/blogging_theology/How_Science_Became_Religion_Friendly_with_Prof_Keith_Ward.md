@@ -4,18 +4,17 @@
 
 ## Description
 
-The Priority of Mind by Keith Ward https://www.amazon.co.uk/gp/product/1666735280/ref=ox_sc_act_title_2?smid=A3P5ROKL5A1OLE&psc=1
-Religion and the quantum world lecture https://www.gresham.ac.uk/watch-now/religion-and-quantum-world
-For a Muslim view of science and quantum mechanics see: https://thehumblei.com/2012/11/17/look-and-ye-shall-see/
+The Priority of Mind by Keith Ward <https://www.amazon.co.uk/gp/product/1666735280/ref=ox_sc_act_title_2?smid=A3P5ROKL5A1OLE&psc=1>
+Religion and the quantum world lecture <https://www.gresham.ac.uk/watch-now/religion-and-quantum-world>
+For a Muslim view of science and quantum mechanics see: <https://thehumblei.com/2012/11/17/look-and-ye-shall-see/>
 
 You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
+<https://www.patreon.com/Bloggingtheology>
 
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
 ## Summary of [How Science Became Religion Friendly with Prof Keith Ward](https://www.youtube.com/watch?v=SqfTLlb1lSw)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -24,11 +23,12 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
  Keith Ward discusses how science has become more religion-friendly in recent years, with the introduction of quantum mechanics and field theory. These theories suggest that there is no certain reality, only probabilities. Although this change in perspective may be difficult to accept at first, it is ultimately a more accurate portrayal of reality.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Keith Ward discusses how the quantum revolution has led to a new understanding of reality, which includes the idea of an infinite field that gives mass to particles. He explains how the wave-particle duality is accepted by most particle physicists, but is still difficult to understand.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Keith Ward explains how science has become more religion-friendly, with the introduction of quantum mechanics and field theory. These theories suggest that there is no certain reality, only probabilities. Although this change in perspective may be difficult to accept at first, it is ultimately a more accurate portrayal of reality.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses how science has become more religion-friendly, with Prof. Keith Ward stating that the bottom line is that what we seem to have in reality is constructs, or mathematical waves. When we observe these waves, they turn into particles. This raises the question of whether or not materialism is appropriate or adequate for quantum mechanics, which some say is much more complex than simply dealing with discrete balls. It is still a widely held belief among some quantum theorists that every possible universe exists, and that our universe is just one of many.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses how science has become more religion-friendly in recent years, with Keith Ward stating that reality is not like we think it is, and that there are fundamental particles that are not located in specific places or with specific momentum.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses how science has become more religion-friendly over the years, with the introduction of concepts such as indeterminacy, entanglement, and the principle of indeterminacy. It argues that these concepts are more realistic and allow for divine action in the universe without violating any laws.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses how science has become more religion-friendly over the years, with some physicists rejecting the idea of a divine being. They argue that consciousness is fundamental matter and that all real things are consciousnesses' contents.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses how science has become more religion-friendly, with Prof. Keith Ward stating that the bottom line is that what we seem to have in reality is constructs, or mathematical waves. When we observe these waves, they turn into particles. This raises the question of whether or not materialism is appropriate or adequate for quantum mechanics, which some say is much more complex than simply dealing with discrete balls. It is still a widely held belief among some quantum theorists that every possible universe exists, and that our universe is just one of many.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses how science has become more religion-friendly in recent years, with Keith Ward stating that reality is not like we think it is, and that there are fundamental particles that are not located in specific places or with specific momentum.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses how science has become more religion-friendly over the years, with the introduction of concepts such as indeterminacy, entanglement, and the principle of indeterminacy. It argues that these concepts are more realistic and allow for divine action in the universe without violating any laws.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses how science has become more religion-friendly over the years, with some physicists rejecting the idea of a divine being. They argue that consciousness is fundamental matter and that all real things are consciousnesses' contents.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>**  theologian Keith Ward discusses how science has become more religious-friendly in recent years, with quantum physicists such as John Paul Cohen recognizing that the world has changed and we need to see matter not as the one important and ultimate reality, but as something manifesting something more mysterious beyond it. Ward also points out that although biology is difficult for believers to understand, it ultimately depends on physics for its understanding.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Keith Ward discusses how science has become religion-friendly by exploring the biology side of things. He argues that, if our minds are prior to our conscious minds, then our brains are the product of a more fundamental consciousness. Ward also makes the distinction between ideas in God and those that are perceptible to humans. He reassures us that, even though the concepts of matter and consciousness are relative, they are still reassuring.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Keith Ward discusses how science has become more religion-friendly, with probabilistic processes leading to increased complexity and organization over time. He likens this trajectory to the development of a baby, and says that if everyone accepts this as not being "progress," then they do not know what progress is.

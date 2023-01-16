@@ -4,16 +4,15 @@
 
 ## Description
 
-Visit https://www.naturesblends.com/ and use hijab10 for a 10% discount. 
+Visit <https://www.naturesblends.com/> and use hijab10 for a 10% discount.
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
-My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
+My book: <https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/>
 
 ## Summary of [Cosmic Coward Removes Video after Backlash](https://www.youtube.com/watch?v=G8Ia9BHpAQk)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -22,6 +21,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 <>
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  in question, which praised certain aspects of Islam and was subsequently taken down, was attacked by a YouTube user who calls himself "Cosmic Coward." The user claims that the video could have put him in danger, and that he's taken it down to "protect himself." It's worth noting that the user has previously attacked other religions on YouTube.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** 's main point is that if Islam is right, then Muslims should disregard other viewpoints. However, the video fails to consider the idea that humans are special, and compares black people to animals. Furthermore, the video's author argues that because some parents have conditions that make their children's prospects less promising, they should be allowed to end their children's lives. This is not an argument against utilitarianism, but against hard determinism, which says that humans have no free will.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** 's author points out that one of the Islamic specialists featured in a recent YouTube video has a cowardly temperament, and that this is a predisposition that should not be confused with humility or sincerity. He goes on to say that the Islamic specialist should stop using the good name of Islam and the muslim community in this country to try and get his opponents to take down videos.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The YouTube user "Brom Sisters" uploaded a video in which he argues that people who have animosity towards others will never be content. Shortly after the video was uploaded, the user removed it, claiming that backlash from fans was causing him stress.

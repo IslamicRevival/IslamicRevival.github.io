@@ -6,22 +6,21 @@ This video explains why 'if you are a fan of science' that the most coherent rel
 
 Islamic References:-
 
-Ahmed Ibn Hanbal  - as is narrated by his students. 
- Abu Muhammad al Juwani (438 HD) Al istawaai al fawqiyah 
+Ahmed Ibn Hanbal  - as is narrated by his students.
+ Abu Muhammad al Juwani (438 HD) Al istawaai al fawqiyah
 Ibn Taymiyyah - Kitab al Arsh (Fatwa)(728 AH)
 
-For those who say that the earth is depicted as flat in the Quran as a desperate attempt to disprove it, they ought to refer to the oldest dictionaries of Arabic (like mufradaat al Quran) which refer to the word urd as meaning that which is below your feet as well as the whole planet. So when Allah refers to 'spreading the earth' as he does in many places in the Quran using different arabic words like maddadnah, farashna and 'wal urd kayo suthiat' this is clearly referring to the crust of the earth which is below our feet, and had this not been the case the scholars above would have said the earth was flat based on these verses. 
+For those who say that the earth is depicted as flat in the Quran as a desperate attempt to disprove it, they ought to refer to the oldest dictionaries of Arabic (like mufradaat al Quran) which refer to the word urd as meaning that which is below your feet as well as the whole planet. So when Allah refers to 'spreading the earth' as he does in many places in the Quran using different arabic words like maddadnah, farashna and 'wal urd kayo suthiat' this is clearly referring to the crust of the earth which is below our feet, and had this not been the case the scholars above would have said the earth was flat based on these verses.
 
-Christian sources:- 
+Christian sources:-
 
-Acts 10 v 11 
+Acts 10 v 11
 
 Matthew 4:8 says, “Once again, the devil took him to a very high mountain, and showed him all the kingdoms of the world [cosmos] in their glory.”
 
 In Job 9:6 it says, "Who shakes the earth out of its place, and its pillars (ydwmu) tremble." The LXX says, "Who shakes the earth under heaven from its foundations and its pillars (stuloi) totter." In Psalm 75:3 it says, "The earth and all its inhabitants are melting away; I set firm its pillars (ydwmu)." The LXX says, "I have strengthened its pillars (stuloi)." In I Samuel 2:8 it says, "For the pillars of the earth are the Lord’s and he had set the world upon them." The Hebrew word for pillar is yqxm. The root is qx meaning "to melt" (BDB 1980, 848). Therefore, yqxm means, "a molten like pillar." The only other place it occurs is in I Samuel 14:5 referring to a mountain. Probably the pillars of the earth are the same thing as the foundations of the earth which were mountains.
 
 ## Summary of [How to DISPROVE the BIBLE with ONE ARGUMENT|| Br. Mohammed Hijab](https://www.youtube.com/watch?v=xQDU-eZ8dYg)
-
 
 *
 
@@ -31,7 +30,8 @@ In Job 9:6 it says, "Who shakes the earth out of its place, and its pillars (ydw
 
  Br. Mohammed Hijab discusses how to disprove the Bible with one argument. He points out that early Islamic scholars believed in the flat earth, and that if the Bible is all from God, then God must know what he's talking about when he speaks about natural things. He then goes on to discuss the parable of the talents in chapter 9 of Job, and how it can be interpreted to show that the earth is not round. He concludes by asking the audience whether they are able to see the truth in what he has said.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses how the Bible can be interpreted in different ways, and how one can believe in the Bible without believing in science. He goes on to say that the Quran also supports the theory that the earth is round.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses how the Bible can be interpreted in different ways, and how one can believe in the Bible without believing in science. He goes on to say that the Quran also supports the theory that the earth is round.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Br. Mohammed Hijab discusses how to disprove the Bible with one argument. He points out that early Islamic scholars believed in the flat earth, and that if the Bible is all from God, then God must know what he's talking about when he speaks about natural things. He then goes on to discuss the parable of the talents in chapter 9 of Job, and how it can be interpreted to show that the earth is not round. He concludes by asking the audience whether they are able to see the truth in what he has said.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** explains how to disprove the Bible using one argument.  states that the depiction of the biblical earth in is flat, and it could be because it says the circle of the earth in the Bible.  also states that the Bible has a verse which can be interpreted in a way to suggest that the earth is round.  argues that this is not a superimposing of a scientific narrative on top of religious beliefs, but the truth which people of that time had identified.
 

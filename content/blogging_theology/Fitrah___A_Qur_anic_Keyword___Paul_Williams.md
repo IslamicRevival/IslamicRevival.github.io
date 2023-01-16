@@ -4,10 +4,9 @@
 
 ## Description
 
-I read from Quranic Keywords: A Reference Guide by Abdur Rashid Siddiqui https://www.amazon.co.uk/Quranic-Keywords-Abdur-Rashid-Siddiqui/dp/0860374467
+I read from Quranic Keywords: A Reference Guide by Abdur Rashid Siddiqui <https://www.amazon.co.uk/Quranic-Keywords-Abdur-Rashid-Siddiqui/dp/0860374467>
 
 ## Summary of [Fitrah | A Qur'anic Keyword | Paul Williams](https://www.youtube.com/watch?v=ae51YI1XJ20)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -16,6 +15,7 @@ I read from Quranic Keywords: A Reference Guide by Abdur Rashid Siddiqui https:/
 The video discusses the concept of fitrah and how it is a key psychological insight into human nature. It quotes from Surah Baqarah, which states that man is created in the best of moulds and that the true religion is in harmony with our human nature. Other key words mentioned include fitra and zoroastrianism.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Fitrah refers to human nature, which is essentially good. This is a key verse in the Quran and it indicates that man is created innocent, pure, true, free, and inclined to right and virtue. All of these qualities are found in any civilization, not just Arab or Western ones.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The video discusses the concept of fitrah and how it is a key psychological insight into human nature. It quotes from Surah Baqarah, which states that man is created in the best of moulds and that the true religion is in harmony with our human nature. Other key words mentioned include fitra and zoroastrianism.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

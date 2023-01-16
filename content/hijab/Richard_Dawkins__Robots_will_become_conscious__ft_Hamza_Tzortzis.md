@@ -4,17 +4,16 @@
 
 ## Description
 
-My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/
+My book: <https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/>
 
-Sapience Institute Webinars: https://sapienceinstitute.org/webinars/
+Sapience Institute Webinars: <https://sapienceinstitute.org/webinars/>
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
 
 ## Summary of [Richard Dawkins "Robots will become conscious" ft Hamza Tzortzis](https://www.youtube.com/watch?v=aUm0o0Cu5qg)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -23,6 +22,7 @@ Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
 "Richard Dawkins "Robots will become conscious" ft Hamza Tzortzis", Richard Dawkins discusses the potential for artificial intelligence to become conscious. He argues that this would be a problem because it goes against the grain of our natural instinct to treat machines as if they are conscious.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** , Richard Dawkins discusses the potential for artificial intelligence (AI) to become conscious, and argues that this would be a problem because it goes against the grain of our natural instinct to treat machines as if they are conscious.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Richard Dawkins' discussion of artificial intelligence focuses on the issue of consciousness, and argues that artificial intelligence machines will only be able to interact with symbols directly and would not be able to attach meaning to the symbols.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** In the discussion above, Richard Dawkins discusses how computer programs are syntactical, but do not necessarily have semantics. He then adapts a thought experiment by saying that the system itself might be able to attach meaning to the symbols, even if the programmer does not.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  Richard Dawkins argues that computer programs do not have intentionality, and that symbols do not have meaning on their own. He provides the example of how different symbols can have different meanings in different languages, and how humans are able to understand these meanings by attaching them to the symbols' corresponding concepts.

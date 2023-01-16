@@ -23,17 +23,17 @@
 1:57:51 - Wrapping Up
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -41,38 +41,37 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
 ## Summary of [SPECIAL: Is it Impossible to Have the Divine Nature Without Aseity?](https://www.youtube.com/watch?v=h220_WJcwdA)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -81,33 +80,36 @@ Gmail: hello.tapodcast@gmail.com
  the presenter discusses the debate between two individuals over the possibility of having the divine nature without aseity. The presenter argues that it is impossible to have the divine nature without aseity, and that Dr. Beau's rebuttals do not follow logically from the eunomian premise.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The topic of this debate is whether or not it is possible for God to have a son without a sayity. Dr. Beau Branson, a professor of philosophy, will argue in the affirmative, while Jake, a YouTube personality, will argue in the negative. Sam, the host of the Transfigure channel, will moderate the debate.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses a debate between two individuals over the possibility of having the divine nature without a saying. 's presenter, who will be arguing for the impossibility of this, defines three key terms: "impossibility," "nature," and "sayity." He argues that, according to Aristotle's definition, a nature is a principle or cause of being moved and of being at rest in that which it belongs primarily. This means that the father and son could not possibly have the same nature, which would be internally contradictory. Furthermore, according to Dr. Bruce Ranson, natures are distinguished by their causal powers. However, on Dr. Ranson's model, the father and son do not possess the same causal powers - the father alone has the ability to cause or produce another divine person. The presenter then goes on to argue that, given these premises, it is impossible for the divine nature to exist without a saying.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Dr. Beau Branson argues that it is not possible for an arbitrary number of divine persons to exist, as this would conflict with the Principle of Sufficient Reason and God's necessity. He provides two arguments in support of this position. The first is the Father Cow objection, which argues that a divine nature without a father is strange. The second is the fact that there is nothing special about the divine nature that entails a single divine person. If either of these arguments is successful, then it would seem that there must be at least one divine person, and therefore the Principle of Sufficient Reason and God's necessity must be upheld.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** argues that it is impossible to have the divine nature without aseity, since an assay cow is impossible because of the nature of what it is to be a cow. Beau's position seems to entail that god including the father is contingent, since if the sun is possibly necessary then it would follow that he is necessary however if even the father is not necessary then he wouldn't be able to use the modal ontological argument for the necessity of the sun. Furthermore, the author argues that Beau's criteria for intrinsic properties either entails that god is contingent or is useless for this discussion, and that it is flawed at least with respect to its application to necessary beings. Attempting to utilize it with respect to contingent beings and then claiming it will be easily it will easily map onto the discussion about god's necessity would be problematic.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** The presenter discusses the concept of a necessary being, and argues that without one, one could not possess the divine nature. They go on to discuss three main arguments against Dr. Beau's position, the first of which is the nature of nature's argument, which points out an internal inconsistency between Beau's view of nature and the possibility of the father and son sharing the same divine nature. The second argument is the father cow objection, which points out the arbitrary apparent arbitrariness of what turns out to be an assay in Beau's system. The third argument is the contingency of the father argument, which seeks to establish that either Beau's criteria has metaphysical import or it doesn't if it does, then a host of problems will arise for Beau's own views. If it doesn't, it is largely irrelevant to this debate.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** According to the author, the definition of "nature" that is being discussed includes the idea that it is a source of causal powers and activities. argues that this definition is not always straightforward, and that there is a difference between the way that the term is used in modern discourse versus ancient discourse. also argues that the historical importance of the issue is not a new issue and that arguments brought up by Jake are not persuasive. concludes by saying that if we are not persuaded by the arguments that have been put forward, it is not very likely that we will find new ones.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Jake's arguments for the impossibility of divine simplicity rely on logical truths, definitions, and the principle of non-contradiction. These arguments are difficult to confirm, and muslims and unitarians would not be able to use them to support their views.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** argues that, in order to have the divine nature, one must also have aseity, a quality which is not explicitly mentioned in the definition of "nature." He suggests that, in order to justify this claim, synthetic a priori propositions (i.e., those that are not empirically verifiable) might be used to explain certain philosophical questions or phenomena.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>**  Jake argues that it is impossible to have the divine nature without aseity. He points to reasons why the proposition is plausible, but ultimately the burden of proof lies with the atheist to provide a reason why it is impossible for God to exist.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** the presenter discusses the burden of proof and argues that it is not being shirked on him by Jake. He points out that who has the burden of proof in this discussion is unclear, as it seems to be shifted to Jake. He also argues that the metaphysical impossibility of this view is not something that can be easily debunked. Instead, the discussion needs to focus on the questions of what metaphysical laws are being used and what properties are being considered.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** This paper argues that if a theist believes in a deity who is necessary, then their position entails that the deity does not exist. The paper goes on to provide three arguments that support this statement.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** , Jake responds to Dr. Beau's argument that it is impossible to have the divine nature without aseity. Dr. Beau's rebuttals rely on auxiliary assumptions about metaphysics, which Jake argues do not follow logically from the eunomian premise. He also addresses the objection that Father and the Son have different powers, and the objection that being naturally obligo means that something must have a cause.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses a debate between two individuals over the possibility of having the divine nature without a saying. 's presenter, who will be arguing for the impossibility of this, defines three key terms: "impossibility," "nature," and "sayity." He argues that, according to Aristotle's definition, a nature is a principle or cause of being moved and of being at rest in that which it belongs primarily. This means that the father and son could not possibly have the same nature, which would be internally contradictory. Furthermore, according to Dr. Bruce Ranson, natures are distinguished by their causal powers. However, on Dr. Ranson's model, the father and son do not possess the same causal powers - the father alone has the ability to cause or produce another divine person. The presenter then goes on to argue that, given these premises, it is impossible for the divine nature to exist without a saying.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Dr. Beau Branson argues that it is not possible for an arbitrary number of divine persons to exist, as this would conflict with the Principle of Sufficient Reason and God's necessity. He provides two arguments in support of this position. The first is the Father Cow objection, which argues that a divine nature without a father is strange. The second is the fact that there is nothing special about the divine nature that entails a single divine person. If either of these arguments is successful, then it would seem that there must be at least one divine person, and therefore the Principle of Sufficient Reason and God's necessity must be upheld.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** argues that it is impossible to have the divine nature without aseity, since an assay cow is impossible because of the nature of what it is to be a cow. Beau's position seems to entail that god including the father is contingent, since if the sun is possibly necessary then it would follow that he is necessary however if even the father is not necessary then he wouldn't be able to use the modal ontological argument for the necessity of the sun. Furthermore, the author argues that Beau's criteria for intrinsic properties either entails that god is contingent or is useless for this discussion, and that it is flawed at least with respect to its application to necessary beings. Attempting to utilize it with respect to contingent beings and then claiming it will be easily it will easily map onto the discussion about god's necessity would be problematic.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** The presenter discusses the concept of a necessary being, and argues that without one, one could not possess the divine nature. They go on to discuss three main arguments against Dr. Beau's position, the first of which is the nature of nature's argument, which points out an internal inconsistency between Beau's view of nature and the possibility of the father and son sharing the same divine nature. The second argument is the father cow objection, which points out the arbitrary apparent arbitrariness of what turns out to be an assay in Beau's system. The third argument is the contingency of the father argument, which seeks to establish that either Beau's criteria has metaphysical import or it doesn't if it does, then a host of problems will arise for Beau's own views. If it doesn't, it is largely irrelevant to this debate.
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** According to the author, the definition of "nature" that is being discussed includes the idea that it is a source of causal powers and activities. argues that this definition is not always straightforward, and that there is a difference between the way that the term is used in modern discourse versus ancient discourse. also argues that the historical importance of the issue is not a new issue and that arguments brought up by Jake are not persuasive. concludes by saying that if we are not persuaded by the arguments that have been put forward, it is not very likely that we will find new ones.
+- **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Jake's arguments for the impossibility of divine simplicity rely on logical truths, definitions, and the principle of non-contradiction. These arguments are difficult to confirm, and muslims and unitarians would not be able to use them to support their views.
+- **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** argues that, in order to have the divine nature, one must also have aseity, a quality which is not explicitly mentioned in the definition of "nature." He suggests that, in order to justify this claim, synthetic a priori propositions (i.e., those that are not empirically verifiable) might be used to explain certain philosophical questions or phenomena.
+- **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>**  Jake argues that it is impossible to have the divine nature without aseity. He points to reasons why the proposition is plausible, but ultimately the burden of proof lies with the atheist to provide a reason why it is impossible for God to exist.
+- **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** the presenter discusses the burden of proof and argues that it is not being shirked on him by Jake. He points out that who has the burden of proof in this discussion is unclear, as it seems to be shifted to Jake. He also argues that the metaphysical impossibility of this view is not something that can be easily debunked. Instead, the discussion needs to focus on the questions of what metaphysical laws are being used and what properties are being considered.
+- **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** This paper argues that if a theist believes in a deity who is necessary, then their position entails that the deity does not exist. The paper goes on to provide three arguments that support this statement.
+- **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** , Jake responds to Dr. Beau's argument that it is impossible to have the divine nature without aseity. Dr. Beau's rebuttals rely on auxiliary assumptions about metaphysics, which Jake argues do not follow logically from the eunomian premise. He also addresses the objection that Father and the Son have different powers, and the objection that being naturally obligo means that something must have a cause.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:55:00</a>
 
 argues that it is impossible to have the divine nature without aseity. Jake counters that this is not the case. then argues that if one takes into account the metaphysics of the person, it is necessary to accept that an aristotelian essence does not exist. Jake argues that this is predicated on a type of essentialism that he does not accept.
 
-**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>* Discusses some of the problems with the definition of intrinsic and extrinsic properties, stating that if one understands what a duplicate is, they would see that intrinsic properties cannot be defined in those terms. He goes on to say that if one accepts that there are necessarily existent beings, then all properties must be extrinsic.
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Bo argues that it is impossible to have the divine nature without austerity, and Jake counters that this is not the case. Bo then argues that if one takes into account the metaphysics of the person, it is necessary to accept that an aristotelian essence does not exist. Jake argues that this is predicated on a type of essentialism that he does not accept.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** points out that there are many problems with the criterion of intrinsic and extrinsic properties, specifically the assumption that a saity is intrinsic. Beau has to prove that it's possible, and the speaker is saying that it's impossible.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** The debate between Beau Branson and Langton Lewis focuses on the possibility of having a divine nature without aseity. Beau Branson claims that the distinction between intrinsic and extrinsic properties is nonsensical, and gets a trivial result if this is the case. Langton Lewis points out that most Muslims would want to posit a distinction between intrinsic and extrinsic properties, and that this would lead to the conclusion that the Father and Son have different natures.
-* **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>* Discusses the eunomian premise, which states that everything must have a cause. argues that if aussaity is an intrinsic property, it does not follow that it is part of the nature of things having the divine nature. Furthermore, the speaker points out that if a thing is divine, it might not have a cause.
-* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** critiques the Father Cal argument, which is the argument that states that the divine nature must produce an "assay person" rather than anything else. He argues that the nature of the cow and rock has to do with why they are contingent, not that the divine nature itself does not entail a "sadie." questions whether a cow or rock can be assay, and then argues that if the reverse is also true, then the divine nature does not entail a necessary being. This leaves the door open for something else to exist which is uncaused and independent, which the cosmological argument claims we need to get out of.
-* **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>* Discusses how a condition, such as the divine nature, entails a certain aussaity. He goes on to say that the cosmological argument entails that a generic deity is the first cause, not a specific father.
-* **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>* Discusses the concept of "omniscience" and how it is not always required for a being to be omni-benevolent. He goes on to say that the attributes of God, such as having hands, are not separable from Him, but are distinct from Him.
-* **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** argues that it is possible to have the divine nature without austerity, eternity, or uncreatedness.
-* **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** of the video argues that if x exists necessarily, x is assay. However, if x possesses a certain attribute, x is not necessarily assay. Jake responds by saying that the property of causing another divine person is only a hypostatic property, not a property of the divine nature.
-* **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>* Discusses the implications of the eunomian and union premises of the divine nature, and argues that if the power to produce a divine person is shareable, then one can get an infinite number of divine persons. Beau states that this is absurd and does not have to be proven.
-* **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses the Orthodox view that it is impossible to have the divine nature without aseity. He says that Jake admitted that omniscience is compostable with the lack of aussaity, omnipotence is compostable with the lack of oscillating omni-benevolence, and eternity is compostable with the lack of uncreatedness. He says that this raises the question of why these properties themselves are not compostable, and he hopes that the audience will continue the conversation.
+**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Discusses some of the problems with the definition of intrinsic and extrinsic properties, stating that if one understands what a duplicate is, they would see that intrinsic properties cannot be defined in those terms. He goes on to say that if one accepts that there are necessarily existent beings, then all properties must be extrinsic.
+
+- **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Bo argues that it is impossible to have the divine nature without austerity, and Jake counters that this is not the case. Bo then argues that if one takes into account the metaphysics of the person, it is necessary to accept that an aristotelian essence does not exist. Jake argues that this is predicated on a type of essentialism that he does not accept.
+- **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** points out that there are many problems with the criterion of intrinsic and extrinsic properties, specifically the assumption that a saity is intrinsic. Beau has to prove that it's possible, and the speaker is saying that it's impossible.
+- **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** The debate between Beau Branson and Langton Lewis focuses on the possibility of having a divine nature without aseity. Beau Branson claims that the distinction between intrinsic and extrinsic properties is nonsensical, and gets a trivial result if this is the case. Langton Lewis points out that most Muslims would want to posit a distinction between intrinsic and extrinsic properties, and that this would lead to the conclusion that the Father and Son have different natures.
+- **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** Discusses the eunomian premise, which states that everything must have a cause. argues that if aussaity is an intrinsic property, it does not follow that it is part of the nature of things having the divine nature. Furthermore, the speaker points out that if a thing is divine, it might not have a cause.
+- **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** critiques the Father Cal argument, which is the argument that states that the divine nature must produce an "assay person" rather than anything else. He argues that the nature of the cow and rock has to do with why they are contingent, not that the divine nature itself does not entail a "sadie." questions whether a cow or rock can be assay, and then argues that if the reverse is also true, then the divine nature does not entail a necessary being. This leaves the door open for something else to exist which is uncaused and independent, which the cosmological argument claims we need to get out of.
+- **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** Discusses how a condition, such as the divine nature, entails a certain aussaity. He goes on to say that the cosmological argument entails that a generic deity is the first cause, not a specific father.
+- **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** Discusses the concept of "omniscience" and how it is not always required for a being to be omni-benevolent. He goes on to say that the attributes of God, such as having hands, are not separable from Him, but are distinct from Him.
+- **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** argues that it is possible to have the divine nature without austerity, eternity, or uncreatedness.
+- **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** of the video argues that if x exists necessarily, x is assay. However, if x possesses a certain attribute, x is not necessarily assay. Jake responds by saying that the property of causing another divine person is only a hypostatic property, not a property of the divine nature.
+- **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** Discusses the implications of the eunomian and union premises of the divine nature, and argues that if the power to produce a divine person is shareable, then one can get an infinite number of divine persons. Beau states that this is absurd and does not have to be proven.
+- **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Discusses the Orthodox view that it is impossible to have the divine nature without aseity. He says that Jake admitted that omniscience is compostable with the lack of aussaity, omnipotence is compostable with the lack of oscillating omni-benevolence, and eternity is compostable with the lack of uncreatedness. He says that this raises the question of why these properties themselves are not compostable, and he hopes that the audience will continue the conversation.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

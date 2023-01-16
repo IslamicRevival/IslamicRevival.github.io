@@ -8,7 +8,7 @@ Standing on the Shoulders of Giants
 
 As-salāmu 'alaykum,
 
-To help us think big, we should look at the vision of our Prophet Muhammad ﷺ. His vision was that Islām would enter every home in the world. In his words, 
+To help us think big, we should look at the vision of our Prophet Muhammad ﷺ. His vision was that Islām would enter every home in the world. In his words,
 
 “Islām will certainly reach every place touched by the night and day. Allāh will not leave a house or residence, but that Allāh will cause His religion to enter it.” [Musnad Aḥmad 16957]
 
@@ -16,7 +16,7 @@ Do you lack clarity on your vision on how to serve the da’wah best?
 
 Or maybe you doubt that your vision is “big enough,’’ and whether or not it is congruent with your strategy and day-to-day work?
 
-If so, join us in our upcoming webinar, Standing on the Shoulders of Giants on Thursday 6th October, 2.30 PM Houston Time and 7.30 PM London Time. 
+If so, join us in our upcoming webinar, Standing on the Shoulders of Giants on Thursday 6th October, 2.30 PM Houston Time and 7.30 PM London Time.
 
 We will be answering the following questions:
 
@@ -28,18 +28,17 @@ We will be answering the following questions:
 
 4. Why do you need to adopt the principles and qualities from the Qur’ān and Prophetic character?
 
-We hope that answering these questions will compel you to join us in The Visionaries retreat this October. 
+We hope that answering these questions will compel you to join us in The Visionaries retreat this October.
 
 If you plan to attend the retreat, this webinar will be the first step on your journey. We’ll teach you the “how” to each of these points at the retreat, in-shā-a-Allāh.
 
-Even if you don’t plan to attend the retreat, you can still benefit from this webinar, in-shā-a-Allāh. 
+Even if you don’t plan to attend the retreat, you can still benefit from this webinar, in-shā-a-Allāh.
 
 Register for the retreat now:
 
-https://thevisionaries.co.uk
+<https://thevisionaries.co.uk>
 
 ## Summary of [Standing on the Shoulders of Giants](https://www.youtube.com/watch?v=Th6nKXXElQY)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -47,28 +46,31 @@ https://thevisionaries.co.uk
 
  discusses the importance of having a vision, strategy, and principles in order to be successful in one's work. It mentions that during the retreat, attendees will be able to learn about the 14 key principles and qualities that are required in order to achieve success.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses how success in the Muslim world depends on following the principles of Allah, which can be achieved through obedience to Him and following a method. As long as one follows these principles, they will be successful. However, if one does not obey Allah, their success will be short-lived.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses how success in the Muslim world depends on following the principles of Allah, which can be achieved through obedience to Him and following a method. As long as one follows these principles, they will be successful. However, if one does not obey Allah, their success will be short-lived.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The Visionaries Retreat is a retreat where successful Muslims will learn how to follow principles and qualities derived from the Quran and Sunnah to achieve baraka (success) and fulfill their vision.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the idea of developing a vision, strategy, and principles for success. It goes on to say that these things must be based on understanding Islamic concepts such as success being based on Allah's pleasure, and doing good deeds in line with Allah's desires. Finally, it mentions that being Muslim means having a holistic strategy and being able to focus on one's goals.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses how some people may feel lost or confused, especially when it comes to their vision and their work. He goes on to say that one of the best ways to combat this is by finding an outlet that allows you to express your ideas and passions, such as calling people to Allah.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the importance of having a vision, strategy, and principles in order to be successful in one's work. It mentions that during the retreat, attendees will be able to learn about the 14 key principles and qualities that are required in order to achieve success.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses the importance of qualities such as courage, wisdom, and amity. It urges people to focus on developing these qualities in order to achieve success in their endeavors.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the idea of developing a vision, strategy, and principles for success. It goes on to say that these things must be based on understanding Islamic concepts such as success being based on Allah's pleasure, and doing good deeds in line with Allah's desires. Finally, it mentions that being Muslim means having a holistic strategy and being able to focus on one's goals.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses how some people may feel lost or confused, especially when it comes to their vision and their work. He goes on to say that one of the best ways to combat this is by finding an outlet that allows you to express your ideas and passions, such as calling people to Allah.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the importance of having a vision, strategy, and principles in order to be successful in one's work. It mentions that during the retreat, attendees will be able to learn about the 14 key principles and qualities that are required in order to achieve success.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses the importance of qualities such as courage, wisdom, and amity. It urges people to focus on developing these qualities in order to achieve success in their endeavors.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** <>
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses the importance of having a vision and how it is essential to achieving success. It goes on to describe how a quranic vision is based on answering three questions: what is your state in the akhara, what is the state of the world, and what is your state in the world. It also explains that having a righteous king is a key factor in achieving success.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses the importance of having a vision, and provides a few benefits of having one. It also discusses the importance of clarity and focusing on a specific goal, motivating oneself, prioritizing one's life, and making decisions based on a framework based on one's vision.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the importance of having a vision and strategy, and how to know when a strategy is working. It also discusses the importance of looking at the Dunya (the worldly realm) and the Akhirah (the hereafter) when formulating a strategy. will be speaking at a retreat on how to develop a strategy, and how to optimize it through Quranic and Sunnah study.
+* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses the importance of having a vision and how it is essential to achieving success. It goes on to describe how a quranic vision is based on answering three questions: what is your state in the akhara, what is the state of the world, and what is your state in the world. It also explains that having a righteous king is a key factor in achieving success.
+* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses the importance of having a vision, and provides a few benefits of having one. It also discusses the importance of clarity and focusing on a specific goal, motivating oneself, prioritizing one's life, and making decisions based on a framework based on one's vision.
+* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Discusses the importance of having a vision and strategy, and how to know when a strategy is working. It also discusses the importance of looking at the Dunya (the worldly realm) and the Akhirah (the hereafter) when formulating a strategy. will be speaking at a retreat on how to develop a strategy, and how to optimize it through Quranic and Sunnah study.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Brothers and sisters should develop a strategy and vision from the ground up, focusing on the principles of Quran 68:4 and 24:52. Strategies achieve success by following the best character, leaders, and obeying Allah.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the concept of micro visions and micro targets, which is an Islamic term for small goals that can be achieved over time. The retreat is specifically for brothers, but any interested person is welcome to attend. The retreat is focused on developing vision and strategy, and attendees can expect to learn about the quranasana and other principles of the dao.
+* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Discusses the concept of micro visions and micro targets, which is an Islamic term for small goals that can be achieved over time. The retreat is specifically for brothers, but any interested person is welcome to attend. The retreat is focused on developing vision and strategy, and attendees can expect to learn about the quranasana and other principles of the dao.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:25:00</a>
 
 provides a brief overview of the main objectives of the upcoming retreat, which are to develop a vision and strategy for personal, organizational, and financial success. He then goes on to discuss the importance of face-to-face mentorship and how it is essential for individuals to have a better understanding of the Quran and Sunnah in order to make the right decisions.
 
-**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>* Discusses the importance of having a vision, strategy, and principles in line with the quantities needed to achieve success. It also discusses the importance of the Retreat, which will help attendees develop effective visions and strategies. Finally, the speaker discusses some of the doubts and concerns he has about the retreat, but promises that they will come across in a positive way.
+**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Discusses the importance of having a vision, strategy, and principles in line with the quantities needed to achieve success. It also discusses the importance of the Retreat, which will help attendees develop effective visions and strategies. Finally, the speaker discusses some of the doubts and concerns he has about the retreat, but promises that they will come across in a positive way.
+
 * **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** says that the Retreat will be "eloquently because I want to look good" and that he is "getting confused now is we want to facilitate event where we get the best out of you and make you realize that you already had it inside you." He then goes on to say that the Retreat will be focused on "the right mindset, the right heart set in order for us to um um yeah to be authentic and I think that's so important you know because there's so many people coming I'm so surprised I was to the point I would even argue I was overwhelmed to be to be honest," and that he was speaking to Chef hey them about this and he was trying to "reassure me but I'm like it's a massive responsibility obviously everyone knows this but I was slightly overwhelmed and maybe a bit emotional the past few days." also mentions that he was thinking about how "people running organizations coming people doing great success without people who far more knowledgeable than me know much more Quran and definitely much better Ted read than me and people who uh have you know one would argue great to relative success than me people who um have more the more grounded in Islamic tradition than me uh people who have have great successes in leadership in d
 * **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** provides a brief overview of the main objectives of the upcoming retreat, which are to develop a vision and strategy for personal, organizational, and financial success. He then goes on to discuss the importance of face-to-face mentorship and how it is essential for individuals to have a better understanding of the Quran and Sunnah in order to make the right decisions.
 * **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** The Visionaries Retreat is a two-day event designed to help participants develop a personal vision for their lives and improve their skills in areas such as vision-casting, goal-setting, and networking. The event is focused on the principles and teachings of the Quran, and participants are encouraged to come with any questions they may have. The quality of the participants is said to be "absolutely phenomenal," and anyone interested in attending is welcome.
-* **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>* Discusses the importance of having a personal and organizational Vision, and how these two should be linked. It also discusses the importance of having a strategic Focus, and of being humble and authentic in order to connect with others and get the best out of them.
-* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>* Discusses their experiences in running a successful business, and how these experiences can be helpful to others. He explains that there are always mistakes made, and that it is important to learn from these mistakes in order to improve. He also encourages others to attend his upcoming retreat, as this will be an invaluable opportunity for growth and learning.
+* **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** Discusses the importance of having a personal and organizational Vision, and how these two should be linked. It also discusses the importance of having a strategic Focus, and of being humble and authentic in order to connect with others and get the best out of them.
+* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** Discusses their experiences in running a successful business, and how these experiences can be helpful to others. He explains that there are always mistakes made, and that it is important to learn from these mistakes in order to improve. He also encourages others to attend his upcoming retreat, as this will be an invaluable opportunity for growth and learning.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

@@ -5,13 +5,12 @@
 ## Description
 
 You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
+<https://www.patreon.com/Bloggingtheology>
 
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
 ## Summary of [The Life of Muhammad ﷺ Chapter 10: Bahira the Monk](https://www.youtube.com/watch?v=InxNDE8FCUM)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -20,6 +19,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 In this chapter of the life of Muhammad, Bahira the monk tells Muhammad about a man he met who had the same mark of prophecy as Muhammad. Bahira also tells Muhammad about the dangers of the Jews, who he believes will try to harm the boy if they find out about him.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** This reading from Muhammad's life based on the earliest sources tells of his uncle, Abu Talib, taking him with him on his travels, and how Bahira the monk saw the caravan approach and was struck by something the like of which he had never seen before. He recognized that it was a sign from God, and that the prophet Muhammad would soon be revealed. The men left without Muhammad, and he later brought the boy to the feast. Bahira recognized Muhammad's features and body, and was able to understand the miracles he had seen.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** In this chapter, Bahira the Monk tells Muhammad about a man he met who had the same mark of prophecy as Muhammad. Bahira also tells Muhammad about the dangers of the Jews, who he believes will try to harm the boy if they find out about him.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

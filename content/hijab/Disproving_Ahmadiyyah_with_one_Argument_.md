@@ -2,12 +2,11 @@
 
 <iframe loading='lazy' src='https://www.youtube.com/embed/tFXReth0BEM'></iframe>## Description
 
-All references on this article  - http://www.manyprophetsonemessage.com/2018/07/22/false-prophets-series-part-5-ghulam-ahmad/
+All references on this article  - <http://www.manyprophetsonemessage.com/2018/07/22/false-prophets-series-part-5-ghulam-ahmad/>
 
-What true prophesies look like - https://iera.org/shop/forbidden-prophecy-download/
+What true prophesies look like - <https://iera.org/shop/forbidden-prophecy-download/>
 
 ## Summary of [Disproving Ahmadiyyah with one Argument.](https://www.youtube.com/watch?v=tFXReth0BEM)
-
 
 *
 
@@ -18,8 +17,9 @@ What true prophesies look like - https://iera.org/shop/forbidden-prophecy-downlo
  discusses how Ahmadiyyah Muslims are susceptible to violence or oppression because of their beliefs. It argues that prophecies are not a good measure of a prophet's truthfulness, and that Ahmadiyyah prophecies are false because they are self-serving and contain ambiguities.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  argues that Ahmadiyya Muslims are susceptible to violence or oppression because of their beliefs, and that prophecies are not a good measure of a prophet's truthfulness.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** of the YouTube video explains how prophecies can be tested by looking at two examples: one where the prophet said that a kindly treatment would be given to a family if they accepted a proposal, and another where the prophet said that a man would die within two and a half years of marrying a woman. argues that, based on these examples, the prophet was not telling the truth about the future.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses a number of Ahmadiyyah prophecies, disproving them one by one. argues that Ahmadiyyah prophecies are false because they are self-serving and contain ambiguities. He also argues that Ahmadiyyah is not a Muslim sect, as it does not adhere to the basic principles of Islam.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses a number of Ahmadiyyah prophecies, disproving them one by one. argues that Ahmadiyyah prophecies are false because they are self-serving and contain ambiguities. He also argues that Ahmadiyyah is not a Muslim sect, as it does not adhere to the basic principles of Islam.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  a Muslim disproofs Ahmadiyyah by citing Quranic passages and Hadith. He argues that Ahmadiyyah is false because its adherents believe in things that are contrary to what the Prophet Mohammed and his companions believed. However, he also notes that Sunnis believe in Muhammad as the final prophet, and that they understand his teachings linguistically.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

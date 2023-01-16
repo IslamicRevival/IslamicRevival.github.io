@@ -2,12 +2,11 @@
 
 <iframe loading='lazy' src='https://www.youtube.com/embed/ko0eCW6Pwzs'></iframe>## Description
 
-In this video the biggest sin in Islam is discussed with some discussion as to the wisdoms of this sin. 
+In this video the biggest sin in Islam is discussed with some discussion as to the wisdoms of this sin.
 
-Video courtesy of our partners SC Dawah, the rest of the discussion is here -https://www.youtube.com/watch?v=9Ky8eM0Wj3M
+Video courtesy of our partners SC Dawah, the rest of the discussion is here -<https://www.youtube.com/watch?v=9Ky8eM0Wj3M>
 
 ## Summary of [The Biggest Crime in Islam.](https://www.youtube.com/watch?v=ko0eCW6Pwzs)
-
 
 *
 
@@ -18,6 +17,7 @@ Video courtesy of our partners SC Dawah, the rest of the discussion is here -htt
 in this video argues that the worst possible thing to do is to give rights to other than God, as this would make the human being insignificant in the universe. He goes on to say that, although Muslims are capable of doing this, it is not as bad as the person who gives rights to other than God.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** In Islamic theology, killing one person is considered to be less severe than committing the sin of shirk, which is associating partners with God.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** in this video argues that it is the worst possible thing to give rights to other than God, as this would essentially make the human being insignificant in the universe. He goes on to say that, even though Muslims are capable of doing this, it is not as bad as the person who gives rights to other than God.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** argues that there is an entity that is independent and preexisting, and that this entity must have certain attributes in order to create the universe. He goes on to say that these attributes include knowledge, power, and seeing and hearing.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Muslims believe in a Creator who assigned purpose and value to human beings, and communicated using angels. Mohammed is the final prophet.

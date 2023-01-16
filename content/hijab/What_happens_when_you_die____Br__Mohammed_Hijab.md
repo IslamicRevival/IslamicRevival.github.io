@@ -6,7 +6,6 @@ What really happens when you die? This video takes us through the inevitable jou
 
 ## Summary of [What happens when you die? || Br. Mohammed Hijab](https://www.youtube.com/watch?v=UWaMAL6liew)
 
-
 *
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
@@ -16,8 +15,9 @@ What really happens when you die? This video takes us through the inevitable jou
  discusses what happens to a human when they die and what happens to their soul. It also discusses the three questions that angels will ask the dead, and how each person's answer will be different based on their religious beliefs and how they lived their life.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  Br. Mohammed Hijab discusses death and what happens when one dies. He explains that when the soul is extracted from the body, the person experiencing death will know the Quran.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Br. Mohammed Hijab discusses what happens when a human dies. He explains that the human being is shrouded in a sac, the cuff and the legs are put together, and they are bundled. Every human being will be in that state, and some may have already witnessed it. The human being that was walking around either in arrogance or in joyfulness or wherever kind of demeanor that human being had is now dead and has become you and me. The human being will be washed and Allah asks some questions because he says the disbeliever like Evelynn needs to go back to his family boasting. The human being may think he has the answers, but he will realize he does not when he goes back to his family and talks about how the believer does things. The human being will be finished when he goes back to his family and there are no more arguments or discussions to be had. His arrogance did not help him in this stage and he went back to boastfulness.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses what happens to a human when they die, and discusses different scenarios according to how virtuous a person is during their lifetime. According to the hadith, a virtuous person's soul will experience less pain upon death, while a wicked person's soul will experience more pain.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses what happens to a human when they die, and discusses different scenarios according to how virtuous a person is during their lifetime. According to the hadith, a virtuous person's soul will experience less pain upon death, while a wicked person's soul will experience more pain.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** After discussing what happens to the soul upon death, the video discusses the three fundamental questions that angels will ask the dead. Every person will have a different answer based on their religious beliefs and how they lived their life.  concludes by saying that those who have not received a message from Allah will have a negative reaction when they meet him in the afterlife, while those who have received the message will hope for Judgment Day.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

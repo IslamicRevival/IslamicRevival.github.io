@@ -4,15 +4,15 @@
 
 ## Description
 
-https://www.naturesblends.com/ (hijab10 for 10% discount)
+<https://www.naturesblends.com/> (hijab10 for 10% discount)
 
 www.kbyh.co.uk/articles
-https://www.kbyh.co.uk/2019/08/28/weekly-routine-spreadsheet/
+<https://www.kbyh.co.uk/2019/08/28/weekly-routine-spreadsheet/>
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
 
 0:00 Intro
 0:35 Logan's definition of God
@@ -26,7 +26,6 @@ Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
 
 ## Summary of [MUSLIM RESPONDS TO LOGAN PAUL ON ISLAM](https://www.youtube.com/watch?v=W7CdWzs8Lfg)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
@@ -34,8 +33,9 @@ Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
 , a Muslim responds to Logan Paul's claims that Islam is "good" because it can't be bad because "we can imagine the universe." The Muslim points out that there is right and wrong, and that this higher power, which is called God, has endowed humans with the ability to know what is right and wrong. He also points out that there are prophets in Islam who were sent to their people, and that Muhammad was the final messenger.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Logan Paul discusses his conceptions of religion and atheism, and muslim responds with a definition of God that is backed by evidence. The muslim argues that any religion that does not preach monstrous things cannot be good, and that a man cannot be good because we can imagine a man, woman, or animal behaving in a monstrous way. The muslim concludes by stating that the higher power, or God, that muslims believe in is the same God that is unimaginable and created everything in the universe.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** , a Muslim responds to Logan Paul's claims that Islam is "good" because it can't be bad because "we can imagine the universe." The Muslim points out that there is right and wrong, and that this higher power, which is called God, has endowed humans with the ability to know what is right and wrong. He also points out that there are prophets in Islam who were sent to their people, and that Muhammad was the final messenger.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the logical and rational ways to assess the existence of God, and how Abraham, Moses, Jesus, and Muhammad all preached the same message. He invites the viewer to Islam, and suggests that they read the Quran and his little PDF on the religion. He encourages the viewer to try and convert others to Islam, and warns them that they may have to fight Logan Paul in the future.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the logical and rational ways to assess the existence of God, and how Abraham, Moses, Jesus, and Muhammad all preached the same message. He invites the viewer to Islam, and suggests that they read the Quran and his little PDF on the religion. He encourages the viewer to try and convert others to Islam, and warns them that they may have to fight Logan Paul in the future.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

@@ -7,25 +7,24 @@
 Shubuhat Series #2 - "Riddah" (Apostasy In Islam) | Mohammed Hijab
 —
 Help us educate and mentor others to share the faith academically.
-Donate now: https://sapienceinstitute.org/donate/ 
+Donate now: <https://sapienceinstitute.org/donate/>
 
-Free online courses: https://learn.sapienceinstitute.org/
+Free online courses: <https://learn.sapienceinstitute.org/>
 
-Free books: https://sapienceinstitute.org/books/
+Free books: <https://sapienceinstitute.org/books/>
 
-Have doubts? Book a mentor: https://sapienceinstitute.org/lighthouse/
+Have doubts? Book a mentor: <https://sapienceinstitute.org/lighthouse/>
 
-Listen (Podcast): https://sapienceinstitute.org/sapientvoices/
+Listen (Podcast): <https://sapienceinstitute.org/sapientvoices/>
 
 Follow:
-– Facebook: https://facebook.com/sapienceinstitute.org/ 
-– Twitter: https://twitter.com/SapienceOrg/ 
-– Instagram: https://instagram.com/sapienceinstitute/ 
+– Facebook: <https://facebook.com/sapienceinstitute.org/>
+– Twitter: <https://twitter.com/SapienceOrg/>
+– Instagram: <https://instagram.com/sapienceinstitute/>
 
-Articles, speaker requests & more: https://sapienceinstitute.org/
+Articles, speaker requests & more: <https://sapienceinstitute.org/>
 
 ## Summary of [Shubuhat Series #2 - "Riddah" (Apostasy In Islam) | Mohammed Hijab](https://www.youtube.com/watch?v=ShR19UbTSSE)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -34,17 +33,18 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
  Mohammed Hijab discusses the issue of apostasy in Islam and how it is handled. He argues that there is more than one option for how to handle apostasy, and that the majority of scholars believe that it is acceptable to execute an apostate.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** argues that liberal principles allow for punishments which can be implemented or waived in a contractarian form of liberalism.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Mohammed Hijab explains that Thomas Hobbes' idea of the state of nature is a hypothetical condition that would result in humans fighting each other. Hobbes believed that this would be the natural state of mankind, but John Locke and others disagreed. Today, most countries have a form of contractarianism, which means that citizens have certain rights and obligations in exchange for security. When an individual becomes a citizen of a country, they are automatically granted certain rights and obligations.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Shubuhat Series #2 - "Riddah" (Apostasy In Islam) | Mohammed Hijab covers the different ways in which a person can be punished in a social contract in the United Kingdom, including deprivation of citizenship.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Mohammed Hijab discusses the problems with liberalism and its principles, which allow for punishments such as death for those who apostate from Islam. He argues that this is self-defeating because there is no government that is anarchical right now, and every liberal government self-proclaimed liberal government in the world has a contract theory.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** The United States Constitution includes an article on treason, which states that treason against the United States consists only of waging war against them or adhering to their enemies. This is in contrast to the Islamic concept of riddah, which requires apostasy from Islam. This concept is discussed in the video, and it is argued that, in a liberal democracy, treason would be considered a legislative matter, rather than a criminal one.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses apostasy in Islam and its legal implications. Mohammed Hijab argues that, even if a Muslim woman converts to another religion, she remains a "combatant" under Islamic law and is therefore not eligible for protection under the social contract theory of government.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses apostasy in Islam and its legal implications. Mohammed Hijab argues that, even if a Muslim woman converts to another religion, she remains a "combatant" under Islamic law and is therefore not eligible for protection under the social contract theory of government.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** is a discussion of the issue of apostasy in Islam, with a focus on the differing opinions of different Sunni Muslim scholars on the matter. One of the teachers the speaker studied under argues that a female apostate is not killed the same way as a male apostate, and therefore she is not considered an apostate. argues that this opinion is based on a single, non-representative opinion, and that it is not acceptable in Islamic discourse.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>**  Mohammed Hijab discusses the possible conditions for an apostate to be sent over to a Muslim nation, and the different opinions among Islamic scholars. He argues that there is more than one option for how to handle apostasy, and that the majority of scholars believe that it is acceptable to execute an apostate.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>**  Shubuhat discusses apostasy in Islam and how it is handled. He points to the Ottoman Empire as an example of a Muslim government that has well-kept records of apostates. There was a civil war in the Ottoman Empire in 1839, and Shubuhat compares this to the American Civil War 10 years later. He explains that because apostasy is a Muslim issue, it was a Muslim issue that the Ottoman Empire took into account when releasing the apostate woman.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  Mohammed Hijab discusses the differences between the two cases of treason in American history: the case of William Mumford, who was hanged for waving the Confederate flag in Union territory, and the case of Adolph Hitler, who was tried, convicted, and executed for treason for leading Nazi Germany during World War II. He points out that the implementation of laws in each case was a result of the amendment of the United States Constitution, which was passed in the midst of the Civil War.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the various arguments liberals might make against Islam, and how the framework of liberalism does not allow for treasonous acts against one's country to go unpunished. He also compares this to the situation of a Turkish woman who was accused of treason for raising a flag against her country.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the hypocrisy of those who oppose shubuhat (apostasy) punishment in Islam, noting that it is self-defeating and fruitless.
+* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Discusses the various arguments liberals might make against Islam, and how the framework of liberalism does not allow for treasonous acts against one's country to go unpunished. He also compares this to the situation of a Turkish woman who was accused of treason for raising a flag against her country.
+* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Discusses the hypocrisy of those who oppose shubuhat (apostasy) punishment in Islam, noting that it is self-defeating and fruitless.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

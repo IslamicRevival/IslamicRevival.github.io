@@ -2,16 +2,17 @@
 
 <iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/Nx_O-c8pYac'></iframe>## Description
 
-Listen to Sapient Thoughts episodes as audio: https://soundcloud.com/sapienceinstitute/sets/sapient-thoughts?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+Listen to Sapient Thoughts episodes as audio: <https://soundcloud.com/sapienceinstitute/sets/sapient-thoughts?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing>
 
 Sapient Thoughts #53: Divine Perfection - Dr. William Lane Craig & the Qur'an's Conception of the Trinity - Part 2 with Dr. Osman Latiff
 
-📖 Download the free book on the topic: https://sapienceinstitute.org/divineperfection
+📖 Download the free book on the topic: <https://sapienceinstitute.org/divineperfection>
 
-🎓 Register for the course on the topic: https://learn.sapienceinstitute.org/courses/divine-perfection/
+🎓 Register for the course on the topic: <https://learn.sapienceinstitute.org/courses/divine-perfection/>
 
-To be updated about our content please subscribe and open the notifications.
+To be updated about our content please subscribe and open the notifications
 ----
+
 BOOK A LIGHTHOUSE MENTOR
 
 Are you or someone you know doubting Islam? Do you find yourself struggling to find answers?  Do you have a hard time speaking to someone about Islam?  Are you considering Islam but are unsure about certain concepts?  Are you an activist, Imam or community leader who is unsure about how to handle questions related to science, philosophy, the Islamic moral code, etc.?
@@ -20,12 +21,11 @@ You are not alone.  Over the course of the last decade or more there has been a 
 
 Seeing the rise of  this phenomenon , Sapience Institute is introducing a One to One mentoring service called LIGHTHOUSE.
 
-BOOK A MENTOR HERE: https://sapienceinstitute.org/lighthouse/
+BOOK A MENTOR HERE: <https://sapienceinstitute.org/lighthouse/>
 
-VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: https://sapienceinstitute.org/
+VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: <https://sapienceinstitute.org/>
 
 ## Summary of [ST #53: Divine Perfection - Dr. William Lane Craig & the Qur'an's Conception of the Trinity - PART 2](https://www.youtube.com/watch?v=Nx_O-c8pYac)
-
 
 *
 
@@ -36,6 +36,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
  Dr. William Lane Craig and Dr. Muhammad Taqi Usmani discuss the concept of the Trinity in the Quran. Craig points out that when trinity is mentioned in the Quran, Mary is not singled out. Mary is mentioned only because she is a mother of Jesus, not because she is a specific mediator between humans and God. Furthermore, the schism and deviation between Christians emerged after Jesus' death, not during his time on earth.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** In this episode, Dr. William Lane Craig discusses verses in the Qur'an which imply that Jesus is not equal to God. Craig points out that the word 'ila, which is used in the verses, has multiple meanings, including "a deity," "a creator," and "one to whom the hearts turn in love." He goes on to say that when Allah refers to Jesus as one of His "ila," this means that Christ is not equal to Allah in any way.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Dr. William Lane Craig and Qur'an scholar Dr. Muhammad Taqi Usmani discuss the concept of the Trinity in the Quran. Craig points out that when trinity is mentioned in the Quran, Mary is not singled out. Mary is mentioned only because she is a mother of Jesus, not because she is a specific mediator between humans and God. Furthermore, the schism and deviation between Christians emerged after Jesus' death, not during his time on earth.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  Dr. William Lane Craig and atheist Muhammad Taqi Usmani discuss the Qur'an's conception of the Trinity. Craig points out that if you step back and look at it, both Jesus and Allah say that you can take you and your mother as two gods beside or two deities. This means that from the outside, you can see that both of these religions have their own deviations. The Catholics, for taking Mary and emphasizing her, and the Protestants, for taking Jesus and emphasizing him at the expense of Mary, are in a quagmire and fighting through it. The Qur'an, however, says that both of them are guilty of this because they have taken two deities instead of one true god, Allah al-Latif. This is a profound verse, and if you think about what's actually happening, it's a crisis because everything of greatness has been directed towards something other than Allah. This is what polytheism is, and it will continue in Charlotte in the next episode.
 

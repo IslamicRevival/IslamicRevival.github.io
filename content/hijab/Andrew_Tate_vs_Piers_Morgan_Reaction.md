@@ -8,7 +8,6 @@ FX3_4740_3.mp4
 
 ## Summary of [Andrew Tate vs Piers Morgan Reaction](https://www.youtube.com/watch?v=uIIDGSC3HMY)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
@@ -16,6 +15,7 @@ FX3_4740_3.mp4
 Andrew Tate cross-examines Piers Morgan about the supposed authority husbands have over their wives. Tate argues that there are certain circumstances where a man should be in charge of decision-making regarding his wife, and Piers Morgan does not seem to understand what he is talking about.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  Piers Morgan cross-examines Andrew Tate about the supposed authority husbands have over their wives. Tate argues convincingly that there are certain circumstances where a man should be in charge of decision-making regarding his wife, and Piers Morgan does not seem to understand what he is talking about. There are legal consequences to a husband withholding support from a wife who has decided to withhold sexual favors from him.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** In Andrew Tate's YouTube video, he discusses how a woman can be working and the man still be spending money on her. Tate also discusses how Islamic principles differ from Western principles in regards to a woman keeping her own name and lineage. He then goes on to speak to Piers Morgan about his business interests, feminism, and libertarianism. Although some questions were asked and answered, Tate's overall presentation was seen as teary-eyed and disheveled.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  Andrew Tate discusses his beliefs in Islam and how it has helped him in difficult times. He also suggests that religion is the true path to success, and that followers of Muhammad should aspire to be the best leaders possible.
 

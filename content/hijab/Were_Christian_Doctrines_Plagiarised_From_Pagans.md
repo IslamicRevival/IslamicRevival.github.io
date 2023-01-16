@@ -2,16 +2,15 @@
 
 <iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/Y_etzz56iW0'></iframe>## Description
 
-Visit https://www.naturesblends.com/ and use hijab10 for a 10% discount. 
+Visit <https://www.naturesblends.com/> and use hijab10 for a 10% discount.
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
-My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
+My book: <https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/>
 
 ## Summary of [Were Christian Doctrines Plagiarised From Pagans?](https://www.youtube.com/watch?v=Y_etzz56iW0)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -19,9 +18,10 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 
  discusses how early Christianity borrowed concepts from paganism, including the belief that Jesus was divine and had no human origins. It argues that this syncretism happened due to pressure from society or ruling authorities, and that it is not necessarily done with evil intentions.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the origins of Christianity, which has its origins in pagan cults. The triad of gods present in many pagan religions, including the ancient Egyptians, Babylonians, Greeks, and Romans, is seen as an ancient concept which is common to all of them. Christianity differs in its finer details from these other cults, but the basic concept of three related divinities is still present. This concept was likely borrowed from pagan religions, and is fundamentally pagan.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses how early Christianity borrowed concepts from paganism, including the belief that Jesus was divine and had no human origins. If this event really happened, then there is no rational reason for Mark to omit it from his gospel. Scholars agree that the gospel of Matthew was probably written later than the other gospels, and that it was probably an invention.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses allegations that Christian doctrines were plagiarized from pagan beliefs. It mentions the parallels between the cross and the ankh, and between Christianity and paganism in terms of their origins and history. It argues that this syncretism happened due to pressure from society or ruling authorities, and that it is not necessarily done with evil intentions. It explains that Christianity only became a widespread religion after it was modified to appeal to non-Jewish gentiles.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the origins of Christianity, which has its origins in pagan cults. The triad of gods present in many pagan religions, including the ancient Egyptians, Babylonians, Greeks, and Romans, is seen as an ancient concept which is common to all of them. Christianity differs in its finer details from these other cults, but the basic concept of three related divinities is still present. This concept was likely borrowed from pagan religions, and is fundamentally pagan.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses how early Christianity borrowed concepts from paganism, including the belief that Jesus was divine and had no human origins. If this event really happened, then there is no rational reason for Mark to omit it from his gospel. Scholars agree that the gospel of Matthew was probably written later than the other gospels, and that it was probably an invention.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses allegations that Christian doctrines were plagiarized from pagan beliefs. It mentions the parallels between the cross and the ankh, and between Christianity and paganism in terms of their origins and history. It argues that this syncretism happened due to pressure from society or ruling authorities, and that it is not necessarily done with evil intentions. It explains that Christianity only became a widespread religion after it was modified to appeal to non-Jewish gentiles.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** According to this YouTube video, early Christians inherited many of their beliefs about Jesus from paganism. The pagan gentile people to whom Paul was preaching were in the habit of idolizing human beings, and so it is easy to appreciate why they would idolize Jesus upon hearing stories about his miracles. The early church emerged in both a Jewish and gentile world, and so Christians had to reconcile the pure monotheism they had inherited from Judaism with the polytheism they were derived from paganism. Gregory of Nazianzus is a 4th century bishop who is venerated as a saint in the Roman Catholic and Eastern Orthodox churches. He wrote for the truth passes in the mean between these two conceptions destroying each heresy while accepting what is useful to it from each. The jewish dogma is destroyed by the acceptance of the word and by belief in the spirit, while the polytheistic era of the greek school is made to vanish by the unity of the nature abrogating this imagination of plurality. Gregory of Nazianzus acknowledged that the Christian conception of god is neither purely the polytheism of the Greeks nor purely the monotheism of the Jews, but rather a mixture of both. The quran declares that those christians who deify Jesus
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>**  alleges that some of the central Christian doctrines were copied from pagan sources. These doctrines include the idea of a savior who came to earth to redeem humanity, and the concept of a God who intervenes in history.
 

@@ -4,16 +4,15 @@
 
 ## Description
 
-Visit https://www.naturesblends.com/ and use hijab10 for a 10% discount. 
+Visit <https://www.naturesblends.com/> and use hijab10 for a 10% discount.
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
-My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
+My book: <https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/>
 
 ## Summary of [Russel Peters Godly Joke- Explained](https://www.youtube.com/watch?v=LkMx5bmYB2I)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -22,6 +21,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
  Russel Peters makes jokes about religion and atheism. He explains why he doesn't believe in religion, and how the concept of goodness is subjective and unprovable.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Russel Peters makes jokes about how muslims don't believe in a man god, and that there is no such thing as a man god. He then goes on to say that there is a transcendental God who is all powerful and wise.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  atheist Russel Peters explains why he doesn't believe in religion. He points out that, even if religion is all one thing, it's still not sufficient enough to warrant belief. He also argues that, if religion is all one thing, it's not a neutral position and people must make arguments to support it.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Russel Peters discusses how the concept of goodness is subjective and unprovable, and how this makes the problem of evil moot for an atheist. He suggests that the concept be renamed "the problem of nothingness."
 

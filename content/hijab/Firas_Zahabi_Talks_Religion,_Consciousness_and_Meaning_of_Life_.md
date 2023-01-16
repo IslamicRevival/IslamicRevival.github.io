@@ -2,12 +2,11 @@
 
 <iframe loading='lazy' src='https://www.youtube.com/embed/Pwkw85fRWtI'></iframe>## Description
 
-A fascinating discussion with Firas Zahabi on key topics of huge importance. 
+A fascinating discussion with Firas Zahabi on key topics of huge importance.
 
-Make sure you visit Firas's youtube channel -https://www.youtube.com/user/tristargymcanada
+Make sure you visit Firas's youtube channel -<https://www.youtube.com/user/tristargymcanada>
 
 ## Summary of [Firas Zahabi Talks Religion, Consciousness and Meaning of Life.](https://www.youtube.com/watch?v=Pwkw85fRWtI)
-
 
 *
 
@@ -18,6 +17,7 @@ Make sure you visit Firas's youtube channel -https://www.youtube.com/user/trista
 Firas Zahabi discusses how religious beliefs can help provide meaning in life, and how they can be used to navigate tough times. He argues that consciousness is metaphysical and beyond the scope of science or logic, and that Islamic philosophers were a of their time in exploring this idea. He also discusses different theories of existence and how they relate to the concept of the soul, as well as the idea of resurrection. Ultimately, he advises Muslims to behave well, be tolerant, and research the religion before discussing it.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Firas Zahabi discusses how his religious beliefs have helped him in his life, and how he tries to live by them even when tough times come.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** , Firas Zahabi discusses the difference between materialism and consciousness. He points out that materialism only considers the physical aspect of a person, while consciousness includes the spiritual aspect. He also discusses the idea of intuition, which is a third way of knowing something beyond the empirical and deductive. Ultimately, he argues that consciousness is metaphysical and beyond the scope of science or logic.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Firas Zahabi discusses how, despite the fact that science cannot tell us definitively about the nature of consciousness, it is still something that we intuitively know. He goes on to say that this knowledge is not only greater than science, but it is what makes us human. He then discusses how Islamic philosophers were some of the first thinkers to explore this intuition further, and how they were a of their time.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Firas Zahabi discusses the different theories of existence, discussing how Islamic and Western thought differ in regards to the concept of the soul. He also touches on the concept of salvation, emphasizing that it is a personal religious experience.

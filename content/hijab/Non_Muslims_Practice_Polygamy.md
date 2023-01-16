@@ -8,16 +8,16 @@ This video exposes the double standards of those who criticise Islam on some of 
 
 ## Summary of [Non Muslims Practice Polygamy](https://www.youtube.com/watch?v=q-TA4xTIXAQ)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  discusses polygamy and how it is viewed from an atheistic or liberal perspective. It mentions how there is a spiritual disincentive for someone who is monogamous to practice polygamy, and how Christianity has a different view on the matter.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses polygamy, which is commonly practiced in other religions, and how it is not immoral from an atheistic or liberal perspective. It also mentions how there is a spiritual disincentive for someone who is monogamous to practice polygamy, and how Christianity has a different view on the matter.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses polygamy, which is commonly practiced in other religions, and how it is not immoral from an atheistic or liberal perspective. It also mentions how there is a spiritual disincentive for someone who is monogamous to practice polygamy, and how Christianity has a different view on the matter.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** In Islam, polygamy is allowed, but with restrictions. One example is that the first wife must be okay with the second wife being married. If the first wife isn't okay, the marriage is annulled.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses polygamy and how it is outlawed in Islam. It points out that if a man commits polygamy with the intention of divorcing his current wife, he is committing adultery and is subject to punishment by law. It also points out that if a woman commits adultery by marrying a man with the intention of divorcing her current husband, she is also committing adultery and is subject to punishment by law.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses polygamy and how it is outlawed in Islam. It points out that if a man commits polygamy with the intention of divorcing his current wife, he is committing adultery and is subject to punishment by law. It also points out that if a woman commits adultery by marrying a man with the intention of divorcing her current husband, she is also committing adultery and is subject to punishment by law.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

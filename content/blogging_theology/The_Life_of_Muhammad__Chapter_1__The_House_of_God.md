@@ -5,22 +5,21 @@
 ## Description
 
 You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
+<https://www.patreon.com/Bloggingtheology>
 
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
 Follow me on Instagram:
-https://www.instagram.com/bloggingtheology1
+<https://www.instagram.com/bloggingtheology1>
 
 Follow me on TikTok:
-https://www.tiktok.com/@bloggingtheology?lang=en
+<https://www.tiktok.com/@bloggingtheology?lang=en>
 
 Follow me on Twitter:
-https://twitter.com/freemonotheist
+<https://twitter.com/freemonotheist>
 
 ## Summary of [The Life of Muhammad ﷺ Chapter 1: The House of God](https://www.youtube.com/watch?v=nGWuZcyGIvs)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -29,9 +28,11 @@ https://twitter.com/freemonotheist
 This video discusses the life of Muhammad and how he is seen as a prophet of both the Abrahamic and Ishmaelic religious traditions. It describes the building of the Kaaba and notes that the most holy object in the Kaaba is a celestial stone brought down to earth by an angel.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  Martin Ling reads from a chapter of his book, Life of Muhammad, about the life of Muhammad. He discusses how the story of Abraham and Sarah is repeated in Muhammad's life, and how Muhammad is a prophet of God.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** This video discusses the life of Muhammad, from his birth to his ascension to heaven. It notes that there are two main religious streams in Islam: Abrahamic and Ishmaelic. Muhammad is seen as a prophet of both traditions, bridging the gap between the two. He is praised in the Psalms for his mother's faith in him.
 
 The water at Zamzam Springs is said to have come from Muhammad's heel, and the valley soon became a stop for caravans. Muhammad is also praised for his faith in God. However, there is indirect praise of Muhammad and his mother in the Psalms.
+
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The video opens with an overview of the pilgrimage to Mecca, which is described in the Qur'an. It then goes on to describe the building of the Kaaba, which was a miracle caused by the angels. The most holy object in the Kaaba is a celestial stone brought down to earth by an angel. The pilgrims are instructed to make the pilgrimage seven times in order to achieve paradise.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

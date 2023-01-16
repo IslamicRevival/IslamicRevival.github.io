@@ -8,7 +8,6 @@ Sapient Thoughts #10: Does the Hadith of the Sun prostrating support geocentrism
 
 ## Summary of [Sapient Thoughts #10: Does the Hadith of the Sun prostrating support geocentrism? | Mohammed Hijab](https://www.youtube.com/watch?v=IQXXeBnVjdo)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:20:00</a>
@@ -16,10 +15,11 @@ Sapient Thoughts #10: Does the Hadith of the Sun prostrating support geocentrism
  discusses a hadith which some people say supports geocentrism. argues that the hadith does not support geocentrism and is actually talking about the sun prostrating.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a> Discusses a hadith that supposedly supports the geocentric model of the universe. argues that the prostration of the sun in the hadith is more in line with mythology than with contemporary science, and that the time of sunset is significant only insofar as it confirms the geocentric model. Finally, the author argues that there are verses in the Quran that support geocentrism.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The Hadith of the Sun Prostrating supports geocentrism, as it refers to a metaphysical destination that the sun is going to. The phraseology is similar to that used for the day of judgment, and this supports the idea that it is a time-bound destination.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The hadith in question discusses the insignificant size of the sun relative to other celestial objects. It is used to support the idea that the sun goes under the harshness of "the throne" (Arsh) and the sealing of creation. The hadith's eschatological reference clarifies that it is talking about the end times, not the cosmology of the sun.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The hadith of the sun prostrating supports geocentrism because it references an inextricable link between sujud and sunset. This hadith takes away from the flat earth stationary earth cosmology that anti-muslims are trying to project.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses a hadith which some people say supports geocentrism. argues that the hadith does not support geocentrism and is actually talking about the sun prostrating.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses a hadith which some people say supports geocentrism. argues that the hadith does not support geocentrism and is actually talking about the sun prostrating.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

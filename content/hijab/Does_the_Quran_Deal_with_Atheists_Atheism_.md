@@ -8,7 +8,6 @@ This is a brief examination of verses in the Quran which may relate to some of t
 
 ## Summary of [Does the Quran Deal with Atheists/Atheism ?](https://www.youtube.com/watch?v=Ld8WACThegs)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:30:00</a>
@@ -16,12 +15,13 @@ This is a brief examination of verses in the Quran which may relate to some of t
 , a Muslim theologian discusses how the Quran deals with atheists and atheism. The theologian argues that atheists cannot be certain of their ideology, and that, as a result, they cannot be certain of the existence of God.  advises Muslims to be "nice" and "ask them how their parents are."
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The Quran addresses atheism indirectly, discussing signs that can be seen in the universe and in human life. It is important to note that these signs are not meant to be taken as proof that Allah exists, but rather as evidence that those who believe can have certainty in their faith.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses various signs that Allah has designed the universe with a purpose. It also discusses the concept of epistemic reasoning, or the standard by which we accept truth. The verses in the Quran provide evidence for the existence of a creator, and demonstrate the universe's fine-tuning for human existence.  ends with a discussion of the universe's continued existence, and how scientists can best explain it.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses argument that the universe could have been created from chance, and how this argument is a thorn in the side of atheists. It also mentions a conversation with Ibrahim, in which he brings up a verse from the Quran that shows that even after death, humans can still have faith in Allah.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses question of how something with no life can give life to something simple. It argues that this has never been observed in physics turning into biology in this way, and cites examples of arguments found in the Quran.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses various signs that Allah has designed the universe with a purpose. It also discusses the concept of epistemic reasoning, or the standard by which we accept truth. The verses in the Quran provide evidence for the existence of a creator, and demonstrate the universe's fine-tuning for human existence.  ends with a discussion of the universe's continued existence, and how scientists can best explain it.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses argument that the universe could have been created from chance, and how this argument is a thorn in the side of atheists. It also mentions a conversation with Ibrahim, in which he brings up a verse from the Quran that shows that even after death, humans can still have faith in Allah.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses question of how something with no life can give life to something simple. It argues that this has never been observed in physics turning into biology in this way, and cites examples of arguments found in the Quran.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** , a Muslim theologian discusses the Quran's treatment of atheists and atheism. The theologian argues that atheists cannot be certain of their ideology, and that, as a result, they cannot be certain of the existence of God.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** argues that if an atheist is being intellectually honest, they should not believe in any of the secular ideologies, as they do not have any underlying principles which root them from bottom up. Additionally, the Quran is very clear in referring to certain individuals as 'Holocausts,' and they cannot be certain of anything as they apply extreme skepticism.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses how to deal with atheists, and advises Muslims to be "nice" and "ask them how their parents are." It suggests that, if the atheists are not open to conversion, they may eventually change their minds.
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses how to deal with atheists, and advises Muslims to be "nice" and "ask them how their parents are." It suggests that, if the atheists are not open to conversion, they may eventually change their minds.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

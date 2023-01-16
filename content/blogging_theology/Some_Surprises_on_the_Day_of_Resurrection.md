@@ -5,13 +5,12 @@
 ## Description
 
 You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
+<https://www.patreon.com/Bloggingtheology>
 
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
 ## Summary of [Some Surprises on the Day of Resurrection](https://www.youtube.com/watch?v=Xzv6Inbl8co)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -20,6 +19,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 The video discusses a Hadith which describes the day of resurrection. On that day, everyone will be called to follow their own religion. Those who used to prostrate to Allah will be allowed to do so again, but their backs will be made as one stiff part. The faithful will pass over a bridge to Paradise while others are sent to hell. The video highlights the mercy of God, which is reiterated throughout the Quran.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** This Hadith tells of the day of resurrection, when everyone will be called to follow their own Religion. Those who used to prostrate to Allah will be allowed to prostrate again, but their backs will be made as a stiff single part. The faithful will pass over a bridge to Paradise while others are sent to hell.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The video discusses the character of God, who is a god of mercy and Grace. It highlights the theme of mercy being reiterated throughout the Quran.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

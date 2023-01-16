@@ -8,14 +8,13 @@ This video covers the amazing predictions of Prophet Muhammad (peace be upon him
 
 This video is based on the book "The Forbidden Prophecies". To learn more about the amazing predictions of Prophet Muhammad, you can order a free hard copy here:
 
-https://onereason.org/product/forbidden-prophecies/
+<https://onereason.org/product/forbidden-prophecies/>
 
 Alternatively, to download your free soft copy (pdf):
 
-https://iera.org/shop/forbidden-prophecy-download/
+<https://iera.org/shop/forbidden-prophecy-download/>
 
 ## Summary of [Compelling Evidence for the Prophethood of Muhammad (SAW)](https://www.youtube.com/watch?v=CJlZgFBIw5Y)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -23,10 +22,11 @@ https://iera.org/shop/forbidden-prophecy-download/
 
 discusses the compelling evidence that Muhammad was a true prophet of God. It argues that Muhammad's prophecies are from basic probability and are impossible to falsify. Many people today follow false prophets, but God has provided guidance in the form of Muhammad's prophecies.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses compelling evidence that Prophet Muhammad (PBUH) was a true prophet. Muhammad warned his followers about the dangers of sexual immorality and disease, and stated that the day of judgement would not arrive until these issues became rampant.  also discusses the negative effects of interest and the role of the financial system in the global economy.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses compelling evidence that Prophet Muhammad (PBUH) was a true prophet. Muhammad warned his followers about the dangers of sexual immorality and disease, and stated that the day of judgement would not arrive until these issues became rampant.  also discusses the negative effects of interest and the role of the financial system in the global economy.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** This 1-paragraph summary of the video "Compelling Evidence for the Prophethood of Muhammad (SAW)" explains how the financial state of the world over the last century is unique in history, and how Muhammad's predictions about the spread of reading and writing, and the transformation of Arabia's desert environment, have already come to pass.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** presents compelling evidence that Muhammad was a prophet of God. Geologists have found evidence of ancient metal and river existence in the Arabian Peninsula, and Islamic empires were once the largest in the world. Muhammad's predictions about the Muslims' decline and defeat have come true, and Islam is the fastest-growing religion in the world.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses evidences for the prophethood of Muhammad (SAW), including his name and the number of his prophecies. It argues that these evidences are from basic probability and are impossible to falsify. Many people today follow false prophets, but God has provided guidance in the form of Muhammad's prophecies.  is based on the book Forbidden Prophecies, which provides more information about these evidences.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses evidences for the prophethood of Muhammad (SAW), including his name and the number of his prophecies. It argues that these evidences are from basic probability and are impossible to falsify. Many people today follow false prophets, but God has provided guidance in the form of Muhammad's prophecies.  is based on the book Forbidden Prophecies, which provides more information about these evidences.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

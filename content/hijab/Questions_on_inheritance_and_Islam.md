@@ -8,7 +8,6 @@ Another recap of some inheritance anomalies where the estate goes over 1.
 
 ## Summary of [Questions on inheritance and Islam](https://www.youtube.com/watch?v=dYFJpFwOShQ)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
@@ -16,6 +15,7 @@ Another recap of some inheritance anomalies where the estate goes over 1.
  discusses the Muslim inheritance law, which is not mentioned exclusively in the Quran. The woman explains that while the law differs between men and women, in most cases the son will receive more money than the daughter. She thanks the viewer for their question and wishes them good luck.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The Muslim inheritance law is not exclusively mentioned in the Quran, and can be less than one if there are multiple daughters left behind.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  explains that while inheritance laws differ between men and women, in most cases the son will receive more than the daughter.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  a Muslim woman discusses her thoughts on inheritance and how it affects Islam. She notes that in some cases when a person inherits more money than their male counterparts, it is considered to be a good thing, and in other cases the same amount of money is given to both genders. She thanks the viewer for their question and wishes them good luck.
 

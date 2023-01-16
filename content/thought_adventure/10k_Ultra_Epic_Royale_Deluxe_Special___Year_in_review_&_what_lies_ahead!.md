@@ -5,17 +5,17 @@
 ## Description
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -23,38 +23,37 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
 ## Summary of [10k Ultra Epic Royale Deluxe Special | Year in review & what lies a!](https://www.youtube.com/watch?v=NC36VIuTmD4)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -63,42 +62,47 @@ Gmail: hello.tapodcast@gmail.com
 discusses the 10k Ultra Epic Royale Deluxe Special, a channel created by Jake Paul. Jake Paul discusses how he believes that the psr is flawed and that the trinity is not in line with jewish monotheism. He also discusses how he met Alex Mappas, who sent him a link to a documentary about the trinity.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The Thought Adventure Podcast hosts discuss their year in review and what lies a. This special episode is for listeners to say goodbye to one of the hosts, Jake, who has moved to the United Kingdom. The guys also discuss their recent debates with other atheists and discuss the Kalam Cosmological Argument.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the 10k Ultra Epic Royale Deluxe Special, which was created by Jake Paul. Jake Paul discusses how he believes that the psr is flawed and that the trinity is not in line with jewish monotheism. He also discusses how he met Alex Mappas, who sent him a link to a documentary about the trinity.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  the author reviews the year, and discusses some of the major events that took place. They also mention that they were not able to have a conversation with Asad, as he was busy speaking to other people.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the year in review and what lies a for the TAP channel. It showcases how the channel has evolved and expanded its reach by featuring discussions on theology, religion, and consciousness.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** The creator of the 10k Ultra Epic Royale Deluxe Special channel discusses the channel's history and highlights, including their mutual friend Mustafi and how the channel came about. They also discuss the dangers of a potential Bosnian genocide and how to spread awareness about the situation.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses the creation of the "Adventure Podcast," which Jake and Sharif started together. The name was selected through a process of discussion and compromise.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Khalil Allah, a guest in the past, discusses his journey from atheist to Muslim, and how the brothers' videos played a role in influencing his decision. Allah also announces that he is getting married Thursday.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** The host discusses some of the major events that took place in the past year, such as getting married and converting to Islam. He also mentions that he has contacted an imam who can officiate the marriage.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Jake tells the story of how he and a few other friends met in online discussion groups discussing atheism, and how Muhammad Yunus played a pivotal role in helping them connect and grow.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the role that abdu played in getting the 10k Ultra Epic Royale Deluxe Special running and in spreading Islam through social media. It also discusses the various Paradoxes and Contradictions that abdu was able to solve using Simplicity Theory.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** features a British man who started speaking proper English a few years ago, and discusses how his views on atheism have changed since. He talks about how he would like to debate prominent atheists, and how important it is to put claims to the test. He also mentions a recent drama talk between himself and another atheist.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses how two atheists, one of which is Jake, have been having discussions with other atheists about their beliefs. One of the goals of the discussions is to build alliances with other atheists so that they can better fight against religious beliefs.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the 10k Ultra Epic Royale Deluxe Special, which was created by Jake Paul. Jake Paul discusses how he believes that the psr is flawed and that the trinity is not in line with jewish monotheism. He also discusses how he met Alex Mappas, who sent him a link to a documentary about the trinity.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  the author reviews the year, and discusses some of the major events that took place. They also mention that they were not able to have a conversation with Asad, as he was busy speaking to other people.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the year in review and what lies a for the TAP channel. It showcases how the channel has evolved and expanded its reach by featuring discussions on theology, religion, and consciousness.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** The creator of the 10k Ultra Epic Royale Deluxe Special channel discusses the channel's history and highlights, including their mutual friend Mustafi and how the channel came about. They also discuss the dangers of a potential Bosnian genocide and how to spread awareness about the situation.
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses the creation of the "Adventure Podcast," which Jake and Sharif started together. The name was selected through a process of discussion and compromise.
+- **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Khalil Allah, a guest in the past, discusses his journey from atheist to Muslim, and how the brothers' videos played a role in influencing his decision. Allah also announces that he is getting married Thursday.
+- **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** The host discusses some of the major events that took place in the past year, such as getting married and converting to Islam. He also mentions that he has contacted an imam who can officiate the marriage.
+- **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Jake tells the story of how he and a few other friends met in online discussion groups discussing atheism, and how Muhammad Yunus played a pivotal role in helping them connect and grow.
+- **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Discusses the role that abdu played in getting the 10k Ultra Epic Royale Deluxe Special running and in spreading Islam through social media. It also discusses the various Paradoxes and Contradictions that abdu was able to solve using Simplicity Theory.
+- **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** features a British man who started speaking proper English a few years ago, and discusses how his views on atheism have changed since. He talks about how he would like to debate prominent atheists, and how important it is to put claims to the test. He also mentions a recent drama talk between himself and another atheist.
+- **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Discusses how two atheists, one of which is Jake, have been having discussions with other atheists about their beliefs. One of the goals of the discussions is to build alliances with other atheists so that they can better fight against religious beliefs.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  is a review of the year and a preview of what is to come for the "10k Ultra Epic Royale Deluxe Special" team. They discuss their favorite videos from the past year, their plans for the future, and their excitement for upcoming projects.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Brother Riyad joins the group to say the name of the channel, pronounce it, and talk about his various languages of achievement. He states that he knows British, English, French, Turkish, and Arabic.
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>* Discusses the year in review and what lies a for the "10k Ultra Epic Royale Deluxe Special." Khalil explains that he knows multiple languages, including Arabic, English, Swedish, and Bosnian. He also notes that his wife's family cannot speak in front of him in Bosnian, which he understands. Finally, Khalil asks viewers to please speak Malay like they did in the previous video.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>* Discusses the year in review and what lies a for the adventure podcast. Yusuf talks about how he came up with the podcast's logo, and how brothers like Riyad have been supporting the podcast financially. Finally, the video mentions that there are many brothers and sisters who have been supportive of the podcast.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** The narrator discusses their favorite videos from the past year, highlighting the conversation with Aaron Raw as their favorite. They also mention their excitement for the upcoming Rasmussen discussion.
-* **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>**  Jake discusses the year that was and what he believes lies a. He talks about the different discussions he had on YouTube, including the ickiness argument and the t-jump discussion. He also mentions that he was very tall when he was six years old, but has since shrunk down to being just average height. Jake raps in the intro of one of his previous videos and says that maybe his co-star, Ferret Allah, can join him in a rap collaboration.
-* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** The 10k Ultra Epic Royale Deluxe Special video features a review of the year and what lies a for the team. Jake discusses his speciality, which is Christianity, and the team discusses other areas of expertise and strengths. They all agree that the harmony and synergy between the team and their viewers is something special.
-* **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>* Discusses how Abdul Rahman, a Muslim convert, got high rewards for his efforts, including being rewarded with bringing others to Islam. Abdul Rahman talks about his faith crisis and how he overcame it, and how Yusuf, another Muslim convert, helped him. Abdul Rahman then starts a YouTube channel and begins to preach Islam to atheists.
-* **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** is a review of the year that was and a preview of what is to come in the next year. The main points made are that the quality of the videos has improved, the number of subscribers to the German channel has increased, and new courses are being planned.
-* **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** The main point of this video is that Jake and Josepth are working on developing courses on debating Islam and Christianity from a scientific perspective. They also mention that they've had a delay in their podcasts owing to Jake's trip to the UK.
-* **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>* Discusses the year in review, including changes in government legislation that allows for anyone to speak in public, and talks about some of the people that they have seen at Speaker's Corner in London. He also mentions a brother that he met there who is very shy, and encourages others to visit Speaker's Corner and have discussions with others.
-* **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** James Fodor, Josh Norman, and Bart Norman discussed the concept of eternity from a scientific point of view, with James concluding that it is "problematic" because it is difficult to measure. Abdul added that there are many routes one can take when discussing the concept of eternity.
-* **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses how humans have difficulty understanding the nature of time and how to know if God is good. It also references a philosophy of time model created by the speaker.
+
+- **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Discusses the year in review and what lies a for the "10k Ultra Epic Royale Deluxe Special." Khalil explains that he knows multiple languages, including Arabic, English, Swedish, and Bosnian. He also notes that his wife's family cannot speak in front of him in Bosnian, which he understands. Finally, Khalil asks viewers to please speak Malay like they did in the previous video.
+- **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Discusses the year in review and what lies a for the adventure podcast. Yusuf talks about how he came up with the podcast's logo, and how brothers like Riyad have been supporting the podcast financially. Finally, the video mentions that there are many brothers and sisters who have been supportive of the podcast.
+- **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** The narrator discusses their favorite videos from the past year, highlighting the conversation with Aaron Raw as their favorite. They also mention their excitement for the upcoming Rasmussen discussion.
+- **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>**  Jake discusses the year that was and what he believes lies a. He talks about the different discussions he had on YouTube, including the ickiness argument and the t-jump discussion. He also mentions that he was very tall when he was six years old, but has since shrunk down to being just average height. Jake raps in the intro of one of his previous videos and says that maybe his co-star, Ferret Allah, can join him in a rap collaboration.
+- **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** The 10k Ultra Epic Royale Deluxe Special video features a review of the year and what lies a for the team. Jake discusses his speciality, which is Christianity, and the team discusses other areas of expertise and strengths. They all agree that the harmony and synergy between the team and their viewers is something special.
+- **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** Discusses how Abdul Rahman, a Muslim convert, got high rewards for his efforts, including being rewarded with bringing others to Islam. Abdul Rahman talks about his faith crisis and how he overcame it, and how Yusuf, another Muslim convert, helped him. Abdul Rahman then starts a YouTube channel and begins to preach Islam to atheists.
+- **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** is a review of the year that was and a preview of what is to come in the next year. The main points made are that the quality of the videos has improved, the number of subscribers to the German channel has increased, and new courses are being planned.
+- **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** The main point of this video is that Jake and Josepth are working on developing courses on debating Islam and Christianity from a scientific perspective. They also mention that they've had a delay in their podcasts owing to Jake's trip to the UK.
+- **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** Discusses the year in review, including changes in government legislation that allows for anyone to speak in public, and talks about some of the people that they have seen at Speaker's Corner in London. He also mentions a brother that he met there who is very shy, and encourages others to visit Speaker's Corner and have discussions with others.
+- **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** James Fodor, Josh Norman, and Bart Norman discussed the concept of eternity from a scientific point of view, with James concluding that it is "problematic" because it is difficult to measure. Abdul added that there are many routes one can take when discussing the concept of eternity.
+- **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Discusses how humans have difficulty understanding the nature of time and how to know if God is good. It also references a philosophy of time model created by the speaker.
+
 ### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:20:00</a>
 
 The "10k Ultra Epic Royale Deluxe Special" is a YouTube video that discusses the progress of the Project Movies channel over the past year and predicts that by the end of the year, they'll have reached 10,000 subscribers. It also mentions that they have other social media platforms, such as Facebook, Twitter, and Podcasts, and that viewers can reach them through those platforms as well. Finally, the video provides a contact information for viewers to send questions to the team in private.
 
 **<a onclick="modifyYTiframeseektime('7200')">02:00:00</a>** Stephen discusses the philosophical argument for the existence of a god, and how it can be strengthened by explaining consciousness as more likely to exist on theism than on naturalism. He also points out that even an atheist like Paul Draper would agree that there is something conscious within a theistic framework.
-* **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>** , Daniel Dennett discusses how, in his opinion, materialism is becoming more prevalent among atheists. He also discusses the question of whether or not worshiping is mandatory in Islam.
-* **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>* Discusses how 10k Ultra Epic Royale Deluxe Special went live, and how future events may unfold.  ends with predictions for the next stage of the 10k Ultra Epic Royale Deluxe Special.
-* **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>* Discusses the progress of the Project Movies channel over the past year and predicts that by the end of the year, they'll have reached 10,000 subscribers. It also mentions that they have other social media platforms, such as Facebook, Twitter, and Podcasts, and that viewers can reach them through those platforms as well. Finally, the video provides a contact information for viewers to send questions to the team in private.
-* **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>** The "10k Ultra Epic Royale Deluxe Special" covers a variety of topics, including year-in-review and what lies a. The podcast ends with the host going to bed, saying goodbye, and wishing everyone a good night.
+
+- **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>** , Daniel Dennett discusses how, in his opinion, materialism is becoming more prevalent among atheists. He also discusses the question of whether or not worshiping is mandatory in Islam.
+- **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>** Discusses how 10k Ultra Epic Royale Deluxe Special went live, and how future events may unfold.  ends with predictions for the next stage of the 10k Ultra Epic Royale Deluxe Special.
+- **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>** Discusses the progress of the Project Movies channel over the past year and predicts that by the end of the year, they'll have reached 10,000 subscribers. It also mentions that they have other social media platforms, such as Facebook, Twitter, and Podcasts, and that viewers can reach them through those platforms as well. Finally, the video provides a contact information for viewers to send questions to the team in private.
+- **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>** The "10k Ultra Epic Royale Deluxe Special" covers a variety of topics, including year-in-review and what lies a. The podcast ends with the host going to bed, saying goodbye, and wishing everyone a good night.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

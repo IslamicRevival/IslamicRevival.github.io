@@ -5,17 +5,17 @@
 ## Description
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -23,38 +23,37 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
 ## Summary of [10000+ Gods!? Can we know the truth? | TAP #23](https://www.youtube.com/watch?v=HjzqpDzk1jY)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -63,55 +62,62 @@ Gmail: hello.tapodcast@gmail.com
  discusses the claim that there are many gods, and that some of these gods make sense and have evidence to support them. It then goes on to say that if someone becomes convinced of a particular religion, it can be justified to accept it.  finishes with a discussion of the claim that monotheism is the one true religion, and how it is not observed in many cases by the followers of these religions.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The topic of this video is why atheists should look for evidence of a god, and how it is possible to filter through claims of gods to find the true one. Mustachin, a brother of Yusuf and Salaam, is joining the panel and discussing why he believes in god. The panelists discuss various arguments for and against gods and how to go about finding the truth. Afterwards, the audience is invited to share their thoughts.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses why it is rational to believe in a creator, and how this belief system leads to other arguments, such as the need to have a purpose and a desire to worship. also discusses how atheism and non-belief can lead to a lack of understanding in life, and how a creator provides meaning and purpose.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  philosopher Yusuf Islam discusses the existence of God and the difficulty of knowing the truth. He notes that because there are many religions, it does not mean that all of them are wrong. He gives an example of a father who has many fathers claiming to be his father, but it is still the father who is correct. He also notes that science is full of conflicting models and that there is no single answer to questions such as the existence of God.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** TAP23, Abdul Rahman discusses how different religions propose different "souls" or "gods." He argues that this distinction is irrelevant, and that all religions are false.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the fact that there are many religions out there, each with its own claims about the origins of the universe. However, despite this, some people still argue that we can never know which religion is true, as we are overwhelmed by the amount of information available. Brother Mustachin argues that, even if we cannot know for certain which religion is true, we can still try to follow the teachings of a particular religion in order to make sense of the world.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses the claim that there are many gods, and that some of these gods make sense and have evidence to support them. It then goes on to say that if someone becomes convinced of a particular religion, it can be justified to accept it.  finishes with a discussion of the claim that monotheism is the one true religion, and how it is not observed in many cases by the followers of these religions.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>**  TAP presenter Joseph talks about the incorrect criteria that can be used to determine whether or not a religion is legitimate. He points out that just because someone has many religious beliefs does not mean that their religion is correct. He also discusses the categorization of religions, noting that in order to include a religion in a category, it must be separate from other religions within that category. Finally, Joseph addresses the question of whether or not Ahmedis, a Muslim sect, are legitimate religions.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** explains that there are different types of criteria used to determine if a religion is true, including necessary and possible criteria. He also mentions that if the foundation of a religion is flawed, then the details on top are unnecessary.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses the criteria for correctness of a religion, and points out that not all religions have a belief in a creator. The first criterion is that a religion must have a belief in god, and the second is that the creator must communicate with humans in order to satisfy their desires.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the criteria for knowing if a religion is true, and points out that some religions claim to be from God but contradict each other in fundamental ways. It also mentions a possible contradiction in a religion's claims to be monotheistic and valid.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The five criteria for a religion to be from God are: 1) it must have a perfect conception of God, 2) it must be monotheistic, 3) it must have a preserved text, 4) it must have no contradictions, and 5) it must make people's lives better.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses how the Quran claims to be preserved in future tense, how it was preserved in four ways, and how people's understanding of preservation can be improved by considering the author's points about language preservation.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses why it is rational to believe in a creator, and how this belief system leads to other arguments, such as the need to have a purpose and a desire to worship. also discusses how atheism and non-belief can lead to a lack of understanding in life, and how a creator provides meaning and purpose.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  philosopher Yusuf Islam discusses the existence of God and the difficulty of knowing the truth. He notes that because there are many religions, it does not mean that all of them are wrong. He gives an example of a father who has many fathers claiming to be his father, but it is still the father who is correct. He also notes that science is full of conflicting models and that there is no single answer to questions such as the existence of God.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** TAP23, Abdul Rahman discusses how different religions propose different "souls" or "gods." He argues that this distinction is irrelevant, and that all religions are false.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the fact that there are many religions out there, each with its own claims about the origins of the universe. However, despite this, some people still argue that we can never know which religion is true, as we are overwhelmed by the amount of information available. Brother Mustachin argues that, even if we cannot know for certain which religion is true, we can still try to follow the teachings of a particular religion in order to make sense of the world.
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses the claim that there are many gods, and that some of these gods make sense and have evidence to support them. It then goes on to say that if someone becomes convinced of a particular religion, it can be justified to accept it.  finishes with a discussion of the claim that monotheism is the one true religion, and how it is not observed in many cases by the followers of these religions.
+- **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>**  TAP presenter Joseph talks about the incorrect criteria that can be used to determine whether or not a religion is legitimate. He points out that just because someone has many religious beliefs does not mean that their religion is correct. He also discusses the categorization of religions, noting that in order to include a religion in a category, it must be separate from other religions within that category. Finally, Joseph addresses the question of whether or not Ahmedis, a Muslim sect, are legitimate religions.
+- **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** explains that there are different types of criteria used to determine if a religion is true, including necessary and possible criteria. He also mentions that if the foundation of a religion is flawed, then the details on top are unnecessary.
+- **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses the criteria for correctness of a religion, and points out that not all religions have a belief in a creator. The first criterion is that a religion must have a belief in god, and the second is that the creator must communicate with humans in order to satisfy their desires.
+- **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Discusses the criteria for knowing if a religion is true, and points out that some religions claim to be from God but contradict each other in fundamental ways. It also mentions a possible contradiction in a religion's claims to be monotheistic and valid.
+- **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The five criteria for a religion to be from God are: 1) it must have a perfect conception of God, 2) it must be monotheistic, 3) it must have a preserved text, 4) it must have no contradictions, and 5) it must make people's lives better.
+- **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Discusses how the Quran claims to be preserved in future tense, how it was preserved in four ways, and how people's understanding of preservation can be improved by considering the author's points about language preservation.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
 discusses how humanity gradually transitioned from polytheism to monotheism, and how this change was based on human instinct and need for simplicity. The guest argues that true finding can be antagonistic to survival, and that this is why evolution selects for survivability instead of true finding.
 
-**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>* Discusses how different words and phrases have different meanings depending on the time period in which they are used. He also discusses how the Quran was memorized and preserved, and how all Muslims recite it in the same way.
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>**  the presenter argues that there is a rational concept of god that can be confirmed by looking at the Qur'an and other religious texts without using islam to justify it. He goes on to say that natural theology - the belief that god can be known through reason - doesn't get people to trinitarianism, but it does get them to monotheism. He then gives an example of a book in the New Testament that is unknown to its authors, and points out that if the book were not preserved, there would be a problem with trusting its religious claims.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>* Discusses the six criteria for determining whether or not a religion is from God. The presenter discusses how evidence must meet certain criteria in order to be considered valid. Islam and Christianity are the only religions that meet all six criteria.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>* Discusses different criteria used to determine whether a religion is true, including evidence from the text itself, external evidence, and Prophet Muhammad's proof of prophethood. It also discusses the Quranic linguistic miracle, the numerical miracle, the historical miracle, prophecies, and the transformation and preservation of the Qur'an.
-* **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>* Discusses the criteria by which a religion could be considered to be from God. discusses universalism, comprehensiveness, and missionaryism as possible criteria. He also mentions that a religion should be applicable today, not just during its historical period. Ultimately, the speaker argues that Islam meets all of these criteria and therefore, is from God.
-* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>* Discusses different aspects of religion, including the topic of salvation. He notes that there is not one right answer to these questions, and that different religions have different purposes. He also points out that Muhammad does not provide a clear answer to the question of salvation.
-* **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** The presenter discusses the four key reasons for why someone might believe in a creator, and argues that this belief can be rational and based on evidence, even if the person does not have faith in a specific religion. He goes on to say that this model is particularly helpful for Muslims who may be interested in investigating Islam.
-* **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** Brother Sam asks whether we can derive morals from the Quran, and whether, given the existence of interest, it is a good thing. Brother Sam argues that the Quran contains "laws" that are similar to those found in the Bible, and that these "laws" imply the existence of a God.
-* **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** , TAP23, a debate is discussed between atheists and Christians on whether lying is wrong. The atheist side argues that lying is generally wrong, while the Christian side argues that there are certain situations where lying is allowed, such as when one is protecting someone's life. The argument is ultimately inconclusive, as it is up to the individual to decide what is morally right or wrong.
-* **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** The presenter discusses the idea of morality and where it comes from, and how it is not just individual, but collective as well in Islam. They argue that any religion or way of life that cannot provide this for its followers is false by definition.
-* **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>* Discusses the criteria for finding a religion, and argues that the need to worship is an innate quality that is not necessarily based on rationality. It points out that one of the reasons humans are endowed with rationality is to help us investigate and find guidance in our lives.
-* **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses the idea that humanity went from polytheism to monotheism, and that this transition was not a sudden change but rather a gradual process that was based on human instinct and need for simplicity. The guest, a professor of neuroscience, argues that true finding can be antagonistic to survival, and that this is why evolution selects for survivability instead of true finding. He also mentions the Lighthouse Project, which is a program that helps people seek answers to personal questions.
+**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Discusses how different words and phrases have different meanings depending on the time period in which they are used. He also discusses how the Quran was memorized and preserved, and how all Muslims recite it in the same way.
+
+- **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>**  the presenter argues that there is a rational concept of god that can be confirmed by looking at the Qur'an and other religious texts without using islam to justify it. He goes on to say that natural theology - the belief that god can be known through reason - doesn't get people to trinitarianism, but it does get them to monotheism. He then gives an example of a book in the New Testament that is unknown to its authors, and points out that if the book were not preserved, there would be a problem with trusting its religious claims.
+- **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Discusses the six criteria for determining whether or not a religion is from God. The presenter discusses how evidence must meet certain criteria in order to be considered valid. Islam and Christianity are the only religions that meet all six criteria.
+- **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** Discusses different criteria used to determine whether a religion is true, including evidence from the text itself, external evidence, and Prophet Muhammad's proof of prophethood. It also discusses the Quranic linguistic miracle, the numerical miracle, the historical miracle, prophecies, and the transformation and preservation of the Qur'an.
+- **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** Discusses the criteria by which a religion could be considered to be from God. discusses universalism, comprehensiveness, and missionaryism as possible criteria. He also mentions that a religion should be applicable today, not just during its historical period. Ultimately, the speaker argues that Islam meets all of these criteria and therefore, is from God.
+- **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** Discusses different aspects of religion, including the topic of salvation. He notes that there is not one right answer to these questions, and that different religions have different purposes. He also points out that Muhammad does not provide a clear answer to the question of salvation.
+- **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** The presenter discusses the four key reasons for why someone might believe in a creator, and argues that this belief can be rational and based on evidence, even if the person does not have faith in a specific religion. He goes on to say that this model is particularly helpful for Muslims who may be interested in investigating Islam.
+- **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** Brother Sam asks whether we can derive morals from the Quran, and whether, given the existence of interest, it is a good thing. Brother Sam argues that the Quran contains "laws" that are similar to those found in the Bible, and that these "laws" imply the existence of a God.
+- **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** , TAP23, a debate is discussed between atheists and Christians on whether lying is wrong. The atheist side argues that lying is generally wrong, while the Christian side argues that there are certain situations where lying is allowed, such as when one is protecting someone's life. The argument is ultimately inconclusive, as it is up to the individual to decide what is morally right or wrong.
+- **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** The presenter discusses the idea of morality and where it comes from, and how it is not just individual, but collective as well in Islam. They argue that any religion or way of life that cannot provide this for its followers is false by definition.
+- **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** Discusses the criteria for finding a religion, and argues that the need to worship is an innate quality that is not necessarily based on rationality. It points out that one of the reasons humans are endowed with rationality is to help us investigate and find guidance in our lives.
+- **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Discusses the idea that humanity went from polytheism to monotheism, and that this transition was not a sudden change but rather a gradual process that was based on human instinct and need for simplicity. The guest, a professor of neuroscience, argues that true finding can be antagonistic to survival, and that this is why evolution selects for survivability instead of true finding. He also mentions the Lighthouse Project, which is a program that helps people seek answers to personal questions.
+
 ### <a onclick="modifyYTiframeseektime('7200')">02:00:00-03:00:00</a>
 
  discusses the idea that some cultures have more evidence for a non-anthropomorphic god than a monotheistic one, and that atheism is an acquired position.  discusses the theory that belief in one god is not innate, and that this is supported by evidence from across history and culture. Dr. Paul Bloom, an atheist, has conducted research which backs up this theory.
 
-**<a onclick="modifyYTiframeseektime('7200')">02:00:00</a>* Discusses the idea that some cultures have more evidence for a non-anthropomorphic god than a monotheistic one, and that atheism is an acquired position. Sharif points out that this is not a logical progression, but rather a natural result of starting with one god. Wilhelm Skimming mentions a book by a professor who researched across many different cultures and found that earlier civilizations tended to have one god and then evolve to money.
-* **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>* Discusses the theory that belief in one god is not innate, and that this is supported by evidence from across history and culture. Dr. Paul Bloom, an atheist, has conducted research which backs up this theory.
-* **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>** The creator of this video discusses how some cultures believe in one god, while others do not. He also points out that this is not evidence that belief in one god is innate.
-* **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>* Discusses how communities can split and lose touch with the larger body of the community, which can lead to people rejecting god. The narrator suggests that this is something that is very unique to Amazon tribes and that it does not prove anything either way. He also suggests that if someone is truly looking for a religion, they should not deny their own logic or the consequent consequences of their arguments.
-* **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>**  Jawad discusses the evidence for religion and how it differs from other beliefs. He explains that Islam is the only religion that makes a claim for objective criteria for ascertaining the truthfulness of religious claims. He also discusses how non-Muslims should appreciate this fact and why it is so important.
-* **<a onclick="modifyYTiframeseektime('8700')">02:25:00</a>* Discusses the idea that some people may not fully understand Islam or the implications of being Muslim, as their brains are not developed enough. It also touches on how Muslims should revisit certain aspects of the religion as they get older and wiser.
-* **<a onclick="modifyYTiframeseektime('9000')">02:30:00</a>**  Jordan Peterson discusses the idea that truth and survival are not always linked. Professor Donald Hoffman's research suggests that many truths may still be preserved even if they are not advantageous to the survival of a culture or species.
-* **<a onclick="modifyYTiframeseektime('9300')">02:35:00</a>** Donald Hoffman argues that because evolution does not always select for truth, we cannot ground our knowledge of truths in evolution. He argues that a transcendental being is necessary in order to ground our ability to know truths.
-* **<a onclick="modifyYTiframeseektime('9600')">02:40:00</a>* Discusses a transcendental argument for the existence of God - that is, that there must be an external source of truthfulness for propositions such as "two plus two equals four." It also discusses the possibility that mathematics and logic are discovered, rather than invented, truths. The presenter mentions that one argument for the existence of God is that if we believe that we can be rational, then we need to ground that rationality. Another argument is that there are necessary facts that have mental content, and that these facts need to be grounded in a necessary mind. Brother Muthassan says that Islam has objective evidence for its claims, and that this evidence cannot be logically refuted.
-* **<a onclick="modifyYTiframeseektime('9900')">02:45:00</a>* Discusses how a person's beliefs about gods can be based on incorrect criteria. It suggests that rational filters can help in this process by providing a criterion for what makes a belief true or false.  also discusses a stream that will be airing tomorrow, in which a question about Islam will be answered.
-* **<a onclick="modifyYTiframeseektime('10200')">02:50:00</a>* Discusses whether or not all Muslims believe that following Jesus is mandatory, and whether or not this belief is based on scripture. points out that Jesus is also mentioned in the Quran as a source of compassion and mercy.
-* **<a onclick="modifyYTiframeseektime('10500')">02:55:00</a>**  the speaker addresses the question of how to follow Jesus Christ, given that the quran is silent on a large part of his teachings. points out that if the quran is generally silent on a subject, then it follows that what is affirmed is true - in this case, that we should follow Jesus Christ based on what is affirmed in the scriptures. If something is not affirmed, then it raises questions about its authenticity.
+**<a onclick="modifyYTiframeseektime('7200')">02:00:00</a>** Discusses the idea that some cultures have more evidence for a non-anthropomorphic god than a monotheistic one, and that atheism is an acquired position. Sharif points out that this is not a logical progression, but rather a natural result of starting with one god. Wilhelm Skimming mentions a book by a professor who researched across many different cultures and found that earlier civilizations tended to have one god and then evolve to money.
+
+- **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>** Discusses the theory that belief in one god is not innate, and that this is supported by evidence from across history and culture. Dr. Paul Bloom, an atheist, has conducted research which backs up this theory.
+- **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>** The creator of this video discusses how some cultures believe in one god, while others do not. He also points out that this is not evidence that belief in one god is innate.
+- **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>** Discusses how communities can split and lose touch with the larger body of the community, which can lead to people rejecting god. The narrator suggests that this is something that is very unique to Amazon tribes and that it does not prove anything either way. He also suggests that if someone is truly looking for a religion, they should not deny their own logic or the consequent consequences of their arguments.
+- **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>**  Jawad discusses the evidence for religion and how it differs from other beliefs. He explains that Islam is the only religion that makes a claim for objective criteria for ascertaining the truthfulness of religious claims. He also discusses how non-Muslims should appreciate this fact and why it is so important.
+- **<a onclick="modifyYTiframeseektime('8700')">02:25:00</a>** Discusses the idea that some people may not fully understand Islam or the implications of being Muslim, as their brains are not developed enough. It also touches on how Muslims should revisit certain aspects of the religion as they get older and wiser.
+- **<a onclick="modifyYTiframeseektime('9000')">02:30:00</a>**  Jordan Peterson discusses the idea that truth and survival are not always linked. Professor Donald Hoffman's research suggests that many truths may still be preserved even if they are not advantageous to the survival of a culture or species.
+- **<a onclick="modifyYTiframeseektime('9300')">02:35:00</a>** Donald Hoffman argues that because evolution does not always select for truth, we cannot ground our knowledge of truths in evolution. He argues that a transcendental being is necessary in order to ground our ability to know truths.
+- **<a onclick="modifyYTiframeseektime('9600')">02:40:00</a>** Discusses a transcendental argument for the existence of God - that is, that there must be an external source of truthfulness for propositions such as "two plus two equals four." It also discusses the possibility that mathematics and logic are discovered, rather than invented, truths. The presenter mentions that one argument for the existence of God is that if we believe that we can be rational, then we need to ground that rationality. Another argument is that there are necessary facts that have mental content, and that these facts need to be grounded in a necessary mind. Brother Muthassan says that Islam has objective evidence for its claims, and that this evidence cannot be logically refuted.
+- **<a onclick="modifyYTiframeseektime('9900')">02:45:00</a>** Discusses how a person's beliefs about gods can be based on incorrect criteria. It suggests that rational filters can help in this process by providing a criterion for what makes a belief true or false.  also discusses a stream that will be airing tomorrow, in which a question about Islam will be answered.
+- **<a onclick="modifyYTiframeseektime('10200')">02:50:00</a>** Discusses whether or not all Muslims believe that following Jesus is mandatory, and whether or not this belief is based on scripture. points out that Jesus is also mentioned in the Quran as a source of compassion and mercy.
+- **<a onclick="modifyYTiframeseektime('10500')">02:55:00</a>**  the speaker addresses the question of how to follow Jesus Christ, given that the quran is silent on a large part of his teachings. points out that if the quran is generally silent on a subject, then it follows that what is affirmed is true - in this case, that we should follow Jesus Christ based on what is affirmed in the scriptures. If something is not affirmed, then it raises questions about its authenticity.
+
 ### <a onclick="modifyYTiframeseektime('10800')">03:00:00-03:05:00</a>
 
  discusses the idea of whether or not it is possible to know the truth about God, given that there are so many different interpretations of who God is. It argues that it is difficult to know for sure, as there is no one source of information that can be trusted.
 
 **<a onclick="modifyYTiframeseektime('10800')">03:00:00</a>**  presents a discussion about whether or not it is possible to know the truth about God. argues that there is corruption in the way that the Bible is interpreted, and that this has led to confusion among Christians. He goes on to say that only an understanding of the Quran can provide a true understanding of God.
-* **<a onclick="modifyYTiframeseektime('11100')">03:05:00</a>* Discusses the idea of 10000+ gods, and whether or not it's possible to know the truth about them. It argues that it's difficult to know for sure, as there is no one source of information that can be trusted.
+
+- **<a onclick="modifyYTiframeseektime('11100')">03:05:00</a>** Discusses the idea of 10000+ gods, and whether or not it's possible to know the truth about them. It argues that it's difficult to know for sure, as there is no one source of information that can be trusted.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

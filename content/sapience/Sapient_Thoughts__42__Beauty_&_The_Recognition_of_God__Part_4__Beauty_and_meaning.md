@@ -8,15 +8,15 @@ Natural beauty can bring about a state of awe. This can increase cognition & red
 
 ## Summary of [Sapient Thoughts #42: Beauty & The Recognition of God — Part 4: Beauty and meaning](https://www.youtube.com/watch?v=sdMYWj65pY0)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 discusses the difference between beauty and meaning in terms of art. It provides examples of beauty in various forms, including prose and poetry, and discusses how the two can be compared. discusses how beauty can evoke a deeper sense of understanding in the reader, and how this can lead to a greater pleasure in the experience of the work.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses how beauty is connected to meaning in various scenarios, and how it can point to a deeper level than just the surface level utility of the thing. He also discusses how art can have a deep meaning, and how different aspects of film can have different meanings.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the difference between beauty and meaning in terms of art. It provides examples of beauty in various forms, including prose and poetry, and discusses how the two can be compared. discusses how beauty can evoke a deeper sense of understanding in the reader, and how this can lead to a greater pleasure in the experience of the work.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses how beauty is connected to meaning in various scenarios, and how it can point to a deeper level than just the surface level utility of the thing. He also discusses how art can have a deep meaning, and how different aspects of film can have different meanings.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the difference between beauty and meaning in terms of art. It provides examples of beauty in various forms, including prose and poetry, and discusses how the two can be compared. discusses how beauty can evoke a deeper sense of understanding in the reader, and how this can lead to a greater pleasure in the experience of the work.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Fahad Islam discusses the concept of beauty, explaining that it is subjective and that different people may have different opinions on what is considered beautiful. He goes on to say that sound is also important in poetry, and that certain elements in the Quran, such as the sound of the letter "j", have a specific meaning.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

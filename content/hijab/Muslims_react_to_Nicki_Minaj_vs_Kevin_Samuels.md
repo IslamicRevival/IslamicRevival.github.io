@@ -4,10 +4,10 @@
 
 ## Description
 
-Smile2jannah and I discuss some of the most pertinent points from the exchange of 2 advocatess holding polar opposite views on gender roles. 
-https://www.youtube.com/c/smiletojannah
+Smile2jannah and I discuss some of the most pertinent points from the exchange of 2 advocatess holding polar opposite views on gender roles.
+<https://www.youtube.com/c/smiletojannah>
 
-DONATE NOW: https://www.saveiman.com/fb?affiliate_id=3414212 ⬅
+DONATE NOW: <https://www.saveiman.com/fb?affiliate_id=3414212> ⬅
 
 The Prophet ﷺ said: “𝙒𝙝𝙤𝙚𝙫𝙚𝙧 𝙗𝙪𝙞𝙡𝙙𝙨 𝙖 𝙈𝙤𝙨𝙦𝙪𝙚 𝙛𝙤𝙧 𝘼𝙡𝙡𝙖𝙝, 𝘼𝙡𝙡𝙖𝙝 𝙬𝙞𝙡𝙡 𝙗𝙪𝙞𝙡𝙙 𝙛𝙤𝙧 𝙝𝙞𝙢 𝙖 𝙨𝙞𝙢𝙞𝙡𝙖𝙧 𝙝𝙤𝙪𝙨𝙚 𝙞𝙣 𝙅𝙖𝙣𝙣𝙖𝙝.”
 
@@ -17,12 +17,11 @@ If you support this project, you will in sha Allah get a house in Jannah and sha
 ✅ Making Dhikr!
 ✅ Memorizing the Qur’an!
 
-Please donate and help establish this Masjid and earn your reward ➡ https://www.saveiman.com/fb?affiliate_id=3414212 ⬅
+Please donate and help establish this Masjid and earn your reward ➡ <https://www.saveiman.com/fb?affiliate_id=3414212> ⬅
 
-#kevinsamuels #nickiminaj #marriage
+# kevinsamuels #nickiminaj #marriage
 
 ## Summary of [Muslims react to Nicki Minaj vs Kevin Samuels](https://www.youtube.com/watch?v=l33Wv9GSHuc)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -33,6 +32,7 @@ In the "Muslims react to Nicki Minaj vs Kevin Samuels" video, Muslims in Norway 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Muslims in Norway are establishing a mosque and dawa center to help promote Norwegian Dawah. If you donate to the fundraiser, you will ensure allah reap the rewards of thousands of Muslims coming back to Islam.
 
 In the video "Muslims react to Nicki Minaj vs Kevin Samuels", Muslims in Norway are reacting to Nicki Minaj's diss track, "Anaconda". Kevin Samuels, a black American rapper, is one of the targets of the track. Muslims in Norway feel that both Nicki Minaj and Kevin Samuels handled themselves well in the face of criticism, but there are areas of criticism to be looked at as well.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Muslims react to Nicki Minaj and Kevin Samuels' disagreements. Nicki Minaj argues that a man should expect to have sex with his wife weekly, while Kevin Samuels believes that a woman should give sex as often as her husband desires. Muslims generally agree with Kevin Samuels, as their understanding of Islamic teachings emphasizes the importance of both a husband and wife respecting each other's needs and desires.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Muslims discuss the issue of sex and how it applies to relationships between men and women in the context of Islam. They note that while it is not wrong for a woman to not want to have sex with a man, it is often a sign of a dysfunctional relationship.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Nicki Minaj and Kevin Samuels are discussing their marriage, with Nicki asserting there are grounds for a divorce. Kevin Samuels respects her and tries to be respectful in his response. Muslims discuss the overall conversation, highlighting the lack of discussion of the children. Kevin Samuels is questioned about his rating of Nicki Minaj, with him justifying it as an accurate reflection of their relationship.

@@ -6,18 +6,19 @@ Dr. Osman Latiff engages in a conversation with Hamza Andreas Tzortzis on being 
 
 Dr. Latiff's free books and courses for Sapience Institute:
 
-On Being Human: https://sapienceinstitute.org/on-being-human/
-Divine Perfection: https://sapienceinstitute.org/divineperfection/
+On Being Human: <https://sapienceinstitute.org/on-being-human/>
+Divine Perfection: <https://sapienceinstitute.org/divineperfection/>
 
-Free courses on the above books: https://learn.sapienceinstitute.org
+Free courses on the above books: <https://learn.sapienceinstitute.org>
 
 Listen Sapient Voices on your favourite podcast platform:
-Apple: https://podcasts.apple.com/us/podcast/sapient-voices/id1617301292
-Spotify: https://open.spotify.com/show/5nIJSi6ZDAGBvGsv3FCyS2?si=e7271d6355d94a0a
-Other: https://sapientvoices.buzzsprout.com/
+Apple: <https://podcasts.apple.com/us/podcast/sapient-voices/id1617301292>
+Spotify: <https://open.spotify.com/show/5nIJSi6ZDAGBvGsv3FCyS2?si=e7271d6355d94a0a>
+Other: <https://sapientvoices.buzzsprout.com/>
 
-To be updated about our content please subscribe and open the notifications.
+To be updated about our content please subscribe and open the notifications
 ----
+
 BOOK A LIGHTHOUSE MENTOR
 
 Are you or someone you know doubting Islam? Do you find yourself struggling to find answers?  Do you have a hard time speaking to someone about Islam?  Are you considering Islam but are unsure about certain concepts?  Are you an activist, Imam or community leader who is unsure about how to handle questions related to science, philosophy, the Islamic moral code, etc.?
@@ -26,12 +27,11 @@ You are not alone.  Over the course of the last decade or more there has been a 
 
 Seeing the rise of  this phenomenon , Sapience Institute is introducing a One to One mentoring service called LIGHTHOUSE.
 
-BOOK A MENTOR HERE: https://sapienceinstitute.org/lighthouse/
+BOOK A MENTOR HERE: <https://sapienceinstitute.org/lighthouse/>
 
-VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: https://sapienceinstitute.org/
+VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: <https://sapienceinstitute.org/>
 
 ## Summary of [Sapient Voices #1: Dr. Osman Latiff - Singing, Death, Academic Journey, Othering & God's Forgiveness](https://www.youtube.com/watch?v=oTY7yb_LQsU)
-
 
 *
 
@@ -42,42 +42,48 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 Dr. Osman Latiff discusses the concept of "othering" and how it can lead to dehumanization. He gives examples of how othering has been used in history, such as in the Crusades and the Rwandan genocide. He argues that it is important to be empathetic in order to understand the suffering of others.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Dr. Osman Latiff discusses his academic journey, othering, and key topics such as Islam, Christianity, and Allah's maximum perfection. He discusses how the passing of his grandfather impacted his development as a person, and how the experiences of being a lead singer and appearing on radio and in the newspaper helped shape his views on life.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Sapient Voices is a YouTube series that features a singer and academic, Dr. Osman Latiff. He talks about his upbringing, his grandfather's Passing, and his singing career. In one particular interview, he discusses his grandfather's teachings and how they impacted his own life. Latiff also talks about his time at the Royal School of Music and how he learned to read and write music.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Dr. Osman Latiff discusses his academic journey, his interest in the Islamic faith, and his decision to study Crusader Studies at the university level. He says that it was divine providence that led him to do so, and that it was during this time that he discovered his true ambition - which is to serve God and his creation by learning about Christianity and the early Muslim church.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** describes how, after completing a masters degree in crusader studies, she realized that there was a lack of attention paid to Arabic sources when studying the Crusades. She consulted with a professor who told her that books on the merits of Jerusalem written by Muslims in the 12th century were still relevant to understanding the Crusades. She then decided to write a book on the subject, which she published as a braille book.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Dr. Osman Latiff discusses his academic journey and how it led him to focus on the poetry of the crusades as a means of countering the de-emphasis of Jerusalem studies in Israel. He argues that the poetry of the crusades is a powerful tool for regenerating the human spirit and motivating people towards jihad.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Dr. Osman Latiff discusses the importance of Jerusalem to Muslims, and how he corrects erroneous arguments against its importance. He also discusses his poetry translations of a poem by Joshua Power, which has a bearing on Islamic theism. Latiff emphasizes the importance of academic and intellectual support for believers and justice, so that narratives affecting the general public are accurate.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Dr. Osman Latiff discusses his post-doctoral research on "Othering & Dehumanization in Ancient Greek Poetry." 
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Dr. Osman Latiff discusses his post-doctoral research on "Othering & Dehumanization in Ancient Greek Poetry."
 
 Sapient Voices is a series of YouTube videos that discusses various academic topics. In this episode, Dr. Latiff discusses how poets and writers often use poetry to create narratives and emotions, and how this can be used to othering and dehumanize certain groups of people. He also discusses how it is important to remember the subtleties of life experiences, and how keeping a diary or journal can help you do just that.
+
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** This essay discusses the idea of human suffering and how it is reflected in literature. It specifically focuses on the play Thebes by Sheamus Heaney, which is about the aftermath of a war in Iraq. The essay notes that one of the characters, Creon, is made to feel guilty for mourning one brother but not the other, leading to the displacement of human suffering. The essay also discusses the idea of empathy, and how it is important to be able to understand and mourn the deaths of others even if you don't personally know them. Finally, the essay discusses the idea of a post-doc, and how a student was able to get one through the help of a professor.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses the rape and murder of a 14-year-old Iraqi girl, Abeer al-Janabi, by American soldiers in 2006. discusses how the story affected her and how she was very fortunate to know a remarkable woman who helped her cope.
+* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses the rape and murder of a 14-year-old Iraqi girl, Abeer al-Janabi, by American soldiers in 2006. discusses how the story affected her and how she was very fortunate to know a remarkable woman who helped her cope.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** In her book "On Being Human," Charlotte Holman discusses the role of empathy and othering in various conflicts, including the current conflict in Ukraine. She notes that selective empathy and othering can be signs of a diseased heart.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** In his book Sapient Voices, Dr. Osman Latiff discusses the power of empathy and othering. He discusses the Rwandan genocide, the Crusades, and the way that people are dehumanized. He also speaks about the prophet Muhammad's empathy and how it helped him to understand the suffering of other people.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The talk highlighted the Quranic emphasis on distinctions among peoples, and how it can lead to empathy and othering. The talk also highlighted how othering can lead to dehumanization.
+
 ### <a onclick="modifyYTiframeseektime('7200')">01:00:00-02:00:00</a>
 
  Dr. Osman Latiff discusses how Muslims should approach the Quran and avoid creating monoliths. He also discusses the importance of the prophetic traditions of the prophet Muhammad and encourages listeners to download his book, Being Human.
 
-**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>* Discusses various Quranic verses that talk about different groups of people and how each one has good and bad people. He says that Muslims must avoid creating monoliths and see everyone as a human being with feelings and flaws, just like anyone else. Finally, the speaker adds that when reading the Quranic texts, one must first focus on their own spiritual journey and on their relationship with God.
+**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Discusses various Quranic verses that talk about different groups of people and how each one has good and bad people. He says that Muslims must avoid creating monoliths and see everyone as a human being with feelings and flaws, just like anyone else. Finally, the speaker adds that when reading the Quranic texts, one must first focus on their own spiritual journey and on their relationship with God.
+
 * **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Dr. Osman Latiff discusses how to approach the Quran, emphasizing the importance of distinguishing between "evil people" and "those who are good." Latiff also discusses how these distinctions can be empowering.
 * **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Dr. Osman Latiff discusses how leaders create a space of comfort and understanding around them by relating to their followers in a way that creates empathy. He uses the example of Prophet Muhammad, who when he came to visit his daughter in Makkah, showed concern for her father, even if the old man refused to accept Islam. Likewise, when he met a man who had committed fornication, the prophet showed compassion and understanding, even though the man might have despised him. These examples demonstrate the importance of relating to others in a way that creates positive change.
 * **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** Dr. Osman Latiff discusses the prophetic nature of Islam and how it can lead to humility and love for others. He also mentions the importance of the prophetic traditions of the prophet Muhammad, and encourages listeners to download his book, Being Human, free of charge.
 * **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** Dr. Osman Latiff's book, "Divine Perfection: Christianity and Islam on Sin and Salvation," looks at the differences between Christianity and Islam in regards to their understanding of the nature of God. Latiff highlights the "adamic conundrum," which is a problem for mainstream biblical Christianity but actually shows the maximum love and perfection of Allah in Islam. He compares both religions and argues that Christianity has been misunderstanding, misrepresenting, and misquoting the Quran for centuries. Latiff's guest, Hamza Tzortzis, discusses the book and the implications it has for Christianity.
 * **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>**  Dr. Osman Latiff discusses the verses in question regarding the trinity, and argues that Muslims misunderstand them due to not having a complete understanding of Islam. He goes on to say that christian missionaries and apologists have been quoting these same verses for years without realizing their full implications.
-* **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>* Discusses how the Quran speaks of a deity that is free of imperfections, and how this deity is also the knower of the unseen. He discusses how this deity is also similar to a verse in the Bible where Jesus says that only the father knows the hour.
-* **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>* Discusses how Dr. Osman Latiff, an academic and singer, reconcile the teachings of Islam with the Trinity doctrine. Latiff uses verses from the Quran to assert that Maryam, mother of Jesus, is not mentioned as part of the Trinity, and that Jesus is the only subject of these verses. This position, if correct, would challenge the central doctrine of Christianity. Latiff argues that if allah is the one who forgives sins, then humans are only able to forgive others through Allah. This would be a significant blow to the Christian doctrine of salvation through Jesus.
+* **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** Discusses how the Quran speaks of a deity that is free of imperfections, and how this deity is also the knower of the unseen. He discusses how this deity is also similar to a verse in the Bible where Jesus says that only the father knows the hour.
+* **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** Discusses how Dr. Osman Latiff, an academic and singer, reconcile the teachings of Islam with the Trinity doctrine. Latiff uses verses from the Quran to assert that Maryam, mother of Jesus, is not mentioned as part of the Trinity, and that Jesus is the only subject of these verses. This position, if correct, would challenge the central doctrine of Christianity. Latiff argues that if allah is the one who forgives sins, then humans are only able to forgive others through Allah. This would be a significant blow to the Christian doctrine of salvation through Jesus.
 * **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>**  Dr. Osman Latiff discusses how some people misunderstand the concept of worship by attributing different levels of divinity to different beings, such as Mary being exalted above God while diminishing her status within the church. He points to scripture to demonstrate that both views are wrong, as Mary is mentioned as the mother of Jesus and an object of worship in her own right.
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** According to Dr. Osman Latiff, the concept of God in Islam is not maximally perfect because it compromises God's holiness. He also argues that the God of Islam is not maximally loving because sinners are not loved by Allah. In order to solve the Adamic Conundrum, Dr. Latiff argues that the divinity of Jesus Christ is the fundamental point to begin with. Everything else follows from this.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>**  Dr. Osman Latiff discusses the different models of hamatiology, which is the theological concept of sin and salvation. He notes that the Christian position is that Adam went to three different levels of damnation, physical, spiritual, and eternal. This understanding is important because it affects every discussion you have with a Christian later on, as it will change the way you view their beliefs about God. Latiff also discusses the theories of atonement, which include devil ransom, origin, and fish hook. He explains that each of these theories has its own important implications for understanding the crucifixion of Jesus.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Doctor Osman Latiff discusses why the idea of God becoming man is complex and problematic for Christians. He also discusses the Quran's perspective on the matter.
+
 ### <a onclick="modifyYTiframeseektime('8400')">02:00:00</a>
 
  Dr. Osman Latiff discusses the Islamic tradition of forgiveness, othering, and God's generosity. He also notes that Ramadan is the month of the harvest, and that whoever makes the next life their biggest concern in this life will be blessed by Allah.
 
 **<a onclick="modifyYTiframeseektime('7200')">02:00:00</a>** In the Qur'an, Allah speaks about three people who made excuses about participating in the Battle of Tabuk in the Prophet's time. All of them eventually realized their sin and turned to Allah for forgiveness. This is a beautiful example of God's forgiveness and mercy. Muslims believe that repentance and forgiveness are essential for salvation. The prayer that Allah taught Adam is one of the most important prayers in the Qur'an. It reminds believers of their relationship with Allah and the responsibility of accepting and accounting for their sins. Finally, Muslim believe that emotional forgiveness is only possible through God's mercy.
+
 * **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>** Dr. Osman Latiff discusses the idea of God's forgiveness, which is not based on the concept of payment or atonement. Instead, it is based on love and sincerity. He points to a hadith in which Allah says that even if all of humanity were in the heart of the most wicked person, it would not decrease His kingdom in anything. This demonstrates the magnificence of God's forgiveness.
-* **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>* Discusses the difference between the Christian conception of God and the Islamic conception of God, which emphasizes Allah's forgiveness and mercy over his wrath and vengeance. He also explains that shirk, or worshipping anything other than Allah, is a crime against reality.
+* **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>** Discusses the difference between the Christian conception of God and the Islamic conception of God, which emphasizes Allah's forgiveness and mercy over his wrath and vengeance. He also explains that shirk, or worshipping anything other than Allah, is a crime against reality.
 * **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>**  Dr. Osman Latiff discusses the Islamic tradition of forgiveness, othering, and God's generosity. He also notes that Ramadan is the month of the harvest, and that whoever makes the next life their biggest concern in this life will be blessed by Allah. Latiff encourages people to continue their intellectual and spiritual journey by going to sapienceinstitute.org to register for a free course on being human and downloading books at sapienceinstitute.org/slashbooks.
 * **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>** Dr. Osman Latiff discusses his academic journey, how he came to believe in atheism, and why there is no deity worthy of worship except Allah.
 

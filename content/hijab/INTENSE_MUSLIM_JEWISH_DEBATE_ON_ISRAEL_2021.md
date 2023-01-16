@@ -4,10 +4,9 @@
 
 ## Description
 
-*Subscribe to the SCDawah Channel*  https://youtube.com/c/scdawahchannel - for more debates like these from speakers corner.
+*Subscribe to the SCDawah Channel*  <https://youtube.com/c/scdawahchannel> - for more debates like these from speakers corner.
 
 ## Summary of [INTENSE MUSLIM JEWISH DEBATE ON ISRAEL 2021](https://www.youtube.com/watch?v=K7GktXpKrPk)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -16,14 +15,15 @@
  two Muslims debate the issue of Israel and Palestine. The first Muslim argues that, because of the recent violence in Gaza and East Jerusalem, the Israeli government is "catastrophic" for the people there. The second Muslim argues that condemnation of violence and death is important, and that the two sides should be able to live together in peace.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The Muslim debate on Israel is intense and engaging. The participants discuss the Quran's teachings on relationships between Muslims and Jews, and how to give victory to the Muslim brother who is the oppressor. They also talk about how to deal with hostile individuals in the Muslim community.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** , two Muslims debate the issue of Israel and Palestine. The first Muslim argues that, because of the recent violence in Gaza and East Jerusalem, the Israeli government is "catastrophic" for the people there. The second Muslim argues that condemnation of violence and death is important, and that the two sides should be able to live together in peace.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The Muslim Jewish debate on Israel 2021 centers around the issue of settlements in East Jerusalem and the West Bank.  points out that, while some people may view the Israeli children as victims, the reality is that all people, regardless of their ethnicity or religion, suffer when conflict occurs.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses issue of Israel and its relation to the Palestinians. The presenter points out that, historically, Britain had no mandate in Palestine, and that the British were essentially colonizing the area. They then discuss the Balfour Declaration, in which Britain pledged to create a Jewish homeland in Palestine. This led to the creation of Israel, which many Palestinians view as an example of imperialist colonialism.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses historical origins of Israel, and the perceived morality of their establishment. argues that, while Israel may have been founded in an oppressive way, it is still a legitimate state, and that anyone who opposes its existence is an anti-semite.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses issue of Israel and its relation to the Palestinians. The presenter points out that, historically, Britain had no mandate in Palestine, and that the British were essentially colonizing the area. They then discuss the Balfour Declaration, in which Britain pledged to create a Jewish homeland in Palestine. This led to the creation of Israel, which many Palestinians view as an example of imperialist colonialism.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses historical origins of Israel, and the perceived morality of their establishment. argues that, while Israel may have been founded in an oppressive way, it is still a legitimate state, and that anyone who opposes its existence is an anti-semite.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Brother discusses his intense Muslim Jewish debate on Israel 2021, in which he argues that jews have been persecuted and oppressed throughout history, and that the current situation is the worst in history. He declares his intention to run for Prime Minister of Israel in 2021.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** A Muslim Jewish debate over Israel 2021 focuses on the history of the British Empire and the terrorist actions of Jewish organizations against British colonists. Muhammad argues that these organizations are equivalent to, and therefore justification for, the British attacking and ultimately kicking out the colonists. His opponent contends that Islam does not condone violence, and that the British actions were unjustified and ultimately harmful to the Palestinians.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** In this intense Muslim Jewish debate, one participant argues that Judaism and Islam have many similarities, but one major difference is that Judaism is not a race or religion, while Islam is. Jews and Muslims can both serve God in their own way, but there is a theological difference between them in that Muslims believe that accepting Islam is the only way to go to paradise.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses debate between Muslims and Jews over Israel. Muslims condemn Israel for its involvement in terrorism, while Jews maintain that the two groups have different beliefs and that the Jews are superior to the Gentiles.  points out that while Hamas is condemned by the international community, Israel has been funded by the United States, which raises questions about Hamas' motives.
+* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses debate between Muslims and Jews over Israel. Muslims condemn Israel for its involvement in terrorism, while Jews maintain that the two groups have different beliefs and that the Jews are superior to the Gentiles.  points out that while Hamas is condemned by the international community, Israel has been funded by the United States, which raises questions about Hamas' motives.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

@@ -7,17 +7,17 @@
 Live interview with @ErfanalFarisi explains how he overcame his struggle with doubts.
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -25,38 +25,37 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
 ## Summary of [SPECIAL: How Philosophy Helped to Overcome His Doubts](https://www.youtube.com/watch?v=B0MK51Tbih8)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -65,46 +64,51 @@ Gmail: hello.tapodcast@gmail.com
 discusses how philosophy helped him overcome his doubts about Islam and how it has aided in his studies of the religion. He talks about how he began to doubt the existence of Allah and the Quran, but eventually found peace in Yemen.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Brother alfaro shares his story of how philosophy helped him overcome his doubts about Islam. He explains that while he was originally from Iran, he moved to Germany and started engaging in da'wah (proselytizing) there. Recently, he started to engage in german da'wah, and may allah has blessed him with success.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** This young Iranian man discusses how growing up without religious beliefs helped him overcome doubts about Islam. He says that some of the criticisms of Islam come from a political concern, rather than an examination of the religion's text.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** recalls a conversation between his parents and an uncle in which they discussed the existence of heaven and hell and the idea of karma. This conversation had a significant impact on the speaker's outlook on life, causing him to become more interested in religion and to worry about his own existence.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** This young man discusses his struggles with doubts and anxiety, how his parents helped him overcome them, and how his atheism developed at around 10 years old.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** describes how, when he was growing up, he found relief from his doubts in philosophy instead of religion. He recalls that, during this period, schools in the UK began to push atheism more heavily. He eventually abandoned religion altogether and became an atheist around 2010.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** recounting how he became an atheist and how it changed after 9/11 describes how he lost faith in everything after the terrorist attacks. He reflects on how he came to the conclusion that nihilism was the only answer to his questions and how his mother tried to comfort him by telling him that life goes on after death. He discusses how his atheism made him re-evaluate his life and how it caused him to look for a faith that could provide him with a sense of purpose.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** The protagonist was initially unconvinced of the existence of deities, but was later pushed towards belief after experiencing a subjective experience known as subhanallah. He eventually transitioned away from belief in religions, but found solace in the idea that each person has their own unique path to finding meaning in life.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses how the positive effects of philosophy helped to overcome his doubts about the existence of a god. He talks about how one of the reasons he fell into a faith crisis later was the topic of scientific miracles in the Quran.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** After struggling with doubts about his faith, the narrator eventually overcame them and became more devout, studying philosophy to better understand other religions and how to argue for Islam. After his parents caught him watching religious videos, they became even more resistant to his newfound faith and he stopped practicing. However, after his best friend became Muslim and he saw how happy it made him, he recommitted to his faith and his parents started to support him.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** This Muslim man tells the story of how he gradually came to embrace Islam and how it was met with opposition from his non-Muslim family and classmates. He eventually left Germany to study Islam in Yemen, where he found peace and tolerance.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses how philosophy has helped him overcome doubts and how it has aided in his studies of Islam. He went on to say that while he was at the school, he only studied for two years before moving on to study part-time.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the reasons why he began doubting the veracity of Islam and the existence of Allah. He also discusses the argument that Islam is coherent, but he has doubts about its truthfulness because he can't establish the existence of Quran or Allah.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** This young Iranian man discusses how growing up without religious beliefs helped him overcome doubts about Islam. He says that some of the criticisms of Islam come from a political concern, rather than an examination of the religion's text.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** recalls a conversation between his parents and an uncle in which they discussed the existence of heaven and hell and the idea of karma. This conversation had a significant impact on the speaker's outlook on life, causing him to become more interested in religion and to worry about his own existence.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** This young man discusses his struggles with doubts and anxiety, how his parents helped him overcome them, and how his atheism developed at around 10 years old.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** describes how, when he was growing up, he found relief from his doubts in philosophy instead of religion. He recalls that, during this period, schools in the UK began to push atheism more heavily. He eventually abandoned religion altogether and became an atheist around 2010.
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** recounting how he became an atheist and how it changed after 9/11 describes how he lost faith in everything after the terrorist attacks. He reflects on how he came to the conclusion that nihilism was the only answer to his questions and how his mother tried to comfort him by telling him that life goes on after death. He discusses how his atheism made him re-evaluate his life and how it caused him to look for a faith that could provide him with a sense of purpose.
+- **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** The protagonist was initially unconvinced of the existence of deities, but was later pushed towards belief after experiencing a subjective experience known as subhanallah. He eventually transitioned away from belief in religions, but found solace in the idea that each person has their own unique path to finding meaning in life.
+- **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses how the positive effects of philosophy helped to overcome his doubts about the existence of a god. He talks about how one of the reasons he fell into a faith crisis later was the topic of scientific miracles in the Quran.
+- **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** After struggling with doubts about his faith, the narrator eventually overcame them and became more devout, studying philosophy to better understand other religions and how to argue for Islam. After his parents caught him watching religious videos, they became even more resistant to his newfound faith and he stopped practicing. However, after his best friend became Muslim and he saw how happy it made him, he recommitted to his faith and his parents started to support him.
+- **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** This Muslim man tells the story of how he gradually came to embrace Islam and how it was met with opposition from his non-Muslim family and classmates. He eventually left Germany to study Islam in Yemen, where he found peace and tolerance.
+- **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Discusses how philosophy has helped him overcome doubts and how it has aided in his studies of Islam. He went on to say that while he was at the school, he only studied for two years before moving on to study part-time.
+- **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Discusses the reasons why he began doubting the veracity of Islam and the existence of Allah. He also discusses the argument that Islam is coherent, but he has doubts about its truthfulness because he can't establish the existence of Quran or Allah.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
 discusses how philosophy helped one man overcome his doubts about Islam. The man, who is from a conservative Muslim family, says that in order to discuss atheism intelligently, one must first establish the foundation of religion. He goes on to say that, despite the challenges of atheism today, Islam is still the most logical and comprehensive religion.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** recounts a time when he fell into nihilism, thinking that everything was meaningless. He was helped to overcome his doubts by realizing that Islam may be wrong even if he is more than 60 years old and sure of its correctness. He also recalls a conversation with his brother, in which the brother wanted him to convince him that Islam was wrong. struggled to deal with this situation and felt like he was making circular argumentation.
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>* Discusses how philosophy helped to overcome his doubts and skepticism about Islam. He talks about how he used to struggle with doubts and how philosophy helped to sort out his thoughts. He then goes on to talk about how he now studies Islam online, in a way that is not influenced by external factors.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>**  highlights how philosophy can help overcome a person's doubts, and how traditional muslims can offer various solutions. It also points out that there are two main answers given to people with doubts – either to just leave them and not think about them, or to go see a 'rookie' who will perform a reading upon them and determine whether or not they have anything wrong with them.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** tells the story of how Philosophy helped him overcome his doubts and how he now applies it to his life.
-* **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** Robert Arfan Alpha was raised in a non-Islamic environment, became an atheist, and started to look back into Islam because he saw the problems of atheism. He became Muslim and studied Islam, but within those years he suffered from doubts because the scientific miracles weren't conclusive. His teachers told him that he was part of the elite of the elite and that he didn't need to worry about doubts, but this didn't help him overcome his doubts. He eventually found relief by praying and reading Islamic texts.
-* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** This man's doubts about Islam were resolved after he attended a religious school and became closer to other Muslims. He eventually moved back to Yemen to take his family with him, and his doubts about Islam were again resolved after he saw his family living happily under Islamic law.
-* **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** The narrator discusses how philosophy helped to overcome his doubts about his faith. He talks about how he felt after speaking to the Brothers and how it made him reconsider his position on atheism. He credits Yusuf with directing him to the first video that helped him to explore his doubts more deeply.
-* **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** Yusuf discusses how philosophy helped him overcome doubts about Islam and atheism. He credits his conversion to Islam to the help he received from discussing these issues with scholars and from engaging with atheists.
-* **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** Yusuf, an individual who has overcome doubts and struggles in his life, provides advice to other Muslims on how to do the same. He recommends studying arcadia, understanding atheism, and engaging with deviant sects in order to better understand the truth.
-* **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>* Discusses how philosophy helped one man overcome his doubts about Islam. The man, who is from a conservative Muslim family, says that in order to discuss atheism intelligently, one must first establish the foundation of religion. He goes on to say that, despite the challenges of atheism today, Islam is still the most logical and comprehensive religion.
-* **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** 's main point is that there is a problem with some brothers using philosophy to support their religious beliefs, as the brothers are not always correct in their private conversations with one another. The problem is compounded by the brothers' followers, who are not always correcting the brothers when they make mistakes in their philosophical arguments.
-* **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Professor Abnetamia discusses how philosophy can help to resolve doubts and discrepancies between religious texts. He provides two examples of how this can be done, one using textual evidence and one using logical reasoning.
+
+- **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Discusses how philosophy helped to overcome his doubts and skepticism about Islam. He talks about how he used to struggle with doubts and how philosophy helped to sort out his thoughts. He then goes on to talk about how he now studies Islam online, in a way that is not influenced by external factors.
+- **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>**  highlights how philosophy can help overcome a person's doubts, and how traditional muslims can offer various solutions. It also points out that there are two main answers given to people with doubts – either to just leave them and not think about them, or to go see a 'rookie' who will perform a reading upon them and determine whether or not they have anything wrong with them.
+- **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** tells the story of how Philosophy helped him overcome his doubts and how he now applies it to his life.
+- **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** Robert Arfan Alpha was raised in a non-Islamic environment, became an atheist, and started to look back into Islam because he saw the problems of atheism. He became Muslim and studied Islam, but within those years he suffered from doubts because the scientific miracles weren't conclusive. His teachers told him that he was part of the elite of the elite and that he didn't need to worry about doubts, but this didn't help him overcome his doubts. He eventually found relief by praying and reading Islamic texts.
+- **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** This man's doubts about Islam were resolved after he attended a religious school and became closer to other Muslims. He eventually moved back to Yemen to take his family with him, and his doubts about Islam were again resolved after he saw his family living happily under Islamic law.
+- **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** The narrator discusses how philosophy helped to overcome his doubts about his faith. He talks about how he felt after speaking to the Brothers and how it made him reconsider his position on atheism. He credits Yusuf with directing him to the first video that helped him to explore his doubts more deeply.
+- **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** Yusuf discusses how philosophy helped him overcome doubts about Islam and atheism. He credits his conversion to Islam to the help he received from discussing these issues with scholars and from engaging with atheists.
+- **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** Yusuf, an individual who has overcome doubts and struggles in his life, provides advice to other Muslims on how to do the same. He recommends studying arcadia, understanding atheism, and engaging with deviant sects in order to better understand the truth.
+- **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** Discusses how philosophy helped one man overcome his doubts about Islam. The man, who is from a conservative Muslim family, says that in order to discuss atheism intelligently, one must first establish the foundation of religion. He goes on to say that, despite the challenges of atheism today, Islam is still the most logical and comprehensive religion.
+- **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** 's main point is that there is a problem with some brothers using philosophy to support their religious beliefs, as the brothers are not always correct in their private conversations with one another. The problem is compounded by the brothers' followers, who are not always correcting the brothers when they make mistakes in their philosophical arguments.
+- **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Professor Abnetamia discusses how philosophy can help to resolve doubts and discrepancies between religious texts. He provides two examples of how this can be done, one using textual evidence and one using logical reasoning.
+
 ### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:40:00</a>
 
 discusses how philosophy helped the speaker to overcome his doubts about Islam. He argues that the Quran contains clear-cut evidence that supports the Islamic belief system, and that philosophy can be used to help interpret this evidence. He also discusses how philosophy has helped him to better understand others and to approach religious topics more objectively.
 
-**<a onclick="modifyYTiframeseektime('7200')">02:00:00</a>* Discusses how philosophy helped an individual overcome doubts about Islam. The individual discusses how the Quran and the Sunnah contain clear-cut evidence that Adam was created from nothing and did not evolve. In the event that there is a contradiction between clear-cut evidence from the Quran and the Sunnah, Islam would be false.
-* **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>* Discusses how philosophy helped him overcome his doubts about Islam. He points to the example of ibn Taymiya, a Muslim scholar who holds the position of geocentrism despite the evidence from science that heliocentrism is true. says that this is an honest position to hold because if the evidence from science is clear-cut, then it's definitive and one can interpret the Quran accordingly.
-* **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>* Discusses how philosophy has helped him overcome his doubts about Islam. He points out that the quranic evidence contains truthful reports from Allah and that this makes it reasonable to believe in Allah. He also discusses how some aspects of Islamic belief are not based on rationality, such as belief in angels and the jinn.
-* **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>* Discusses how philosophy helped to overcome the doubts of a Muslim man. He identifies two types of evidence that the Quran contains, textual and rational arguments. He argues that because rational arguments are objective, they can be accepted by people who haven't accepted the Quran as a text. He also points out that there is no fixed definition of science and that there is disagreement amongst philosophers of science.
-* **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>* Discusses how philosophy can be helpful in overcoming doubts. points out that there is no good argument or reasoning or conclusion any philosopher has come to accept that the roots of this belief will be found in the Quran and Sunnah. He goes on to say that the arguments we use we believe to be rooted in these verses.
-* **<a onclick="modifyYTiframeseektime('8700')">02:25:00</a>* Discusses how philosophy helped him overcome doubts about Christianity. He gives examples of arguments and analogies that he used to make his case. He encourages viewers to also use philosophy to argue their positions, rather than just relying on intuition or gut feeling.
-* **<a onclick="modifyYTiframeseektime('9000')">02:30:00</a>* Discusses how philosophy helped to overcome his doubts in Islam. He explains that, while other methods of reasoning may be helpful in getting people to abandon their doubts, intellectual arguments are the most effective. He also mentions that he plans to visit the UK in the near future.
-* **<a onclick="modifyYTiframeseektime('9300')">02:35:00</a>* Discusses how philosophy has helped him overcome doubts and misconceptions, and how it has helped him to better understand others. He also notes that he may not be as wise as he thinks he is, but says that the benefits of wisdom he has gained through his journey are priceless.
-* **<a onclick="modifyYTiframeseektime('9600')">02:40:00</a>* Discusses how philosophy helped him overcome doubts and uncertainties, and how he now approaches religious topics more objectively. He recommends that others listen to the beginning of his YouTube channel to get a better understanding of his journey.
+**<a onclick="modifyYTiframeseektime('7200')">02:00:00</a>** Discusses how philosophy helped an individual overcome doubts about Islam. The individual discusses how the Quran and the Sunnah contain clear-cut evidence that Adam was created from nothing and did not evolve. In the event that there is a contradiction between clear-cut evidence from the Quran and the Sunnah, Islam would be false.
+
+- **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>** Discusses how philosophy helped him overcome his doubts about Islam. He points to the example of ibn Taymiya, a Muslim scholar who holds the position of geocentrism despite the evidence from science that heliocentrism is true. says that this is an honest position to hold because if the evidence from science is clear-cut, then it's definitive and one can interpret the Quran accordingly.
+- **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>** Discusses how philosophy has helped him overcome his doubts about Islam. He points out that the quranic evidence contains truthful reports from Allah and that this makes it reasonable to believe in Allah. He also discusses how some aspects of Islamic belief are not based on rationality, such as belief in angels and the jinn.
+- **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>** Discusses how philosophy helped to overcome the doubts of a Muslim man. He identifies two types of evidence that the Quran contains, textual and rational arguments. He argues that because rational arguments are objective, they can be accepted by people who haven't accepted the Quran as a text. He also points out that there is no fixed definition of science and that there is disagreement amongst philosophers of science.
+- **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>** Discusses how philosophy can be helpful in overcoming doubts. points out that there is no good argument or reasoning or conclusion any philosopher has come to accept that the roots of this belief will be found in the Quran and Sunnah. He goes on to say that the arguments we use we believe to be rooted in these verses.
+- **<a onclick="modifyYTiframeseektime('8700')">02:25:00</a>** Discusses how philosophy helped him overcome doubts about Christianity. He gives examples of arguments and analogies that he used to make his case. He encourages viewers to also use philosophy to argue their positions, rather than just relying on intuition or gut feeling.
+- **<a onclick="modifyYTiframeseektime('9000')">02:30:00</a>** Discusses how philosophy helped to overcome his doubts in Islam. He explains that, while other methods of reasoning may be helpful in getting people to abandon their doubts, intellectual arguments are the most effective. He also mentions that he plans to visit the UK in the near future.
+- **<a onclick="modifyYTiframeseektime('9300')">02:35:00</a>** Discusses how philosophy has helped him overcome doubts and misconceptions, and how it has helped him to better understand others. He also notes that he may not be as wise as he thinks he is, but says that the benefits of wisdom he has gained through his journey are priceless.
+- **<a onclick="modifyYTiframeseektime('9600')">02:40:00</a>** Discusses how philosophy helped him overcome doubts and uncertainties, and how he now approaches religious topics more objectively. He recommends that others listen to the beginning of his YouTube channel to get a better understanding of his journey.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

@@ -8,7 +8,6 @@ Professor Muhammad Al Massari discusses matters related to the prophecised Imam 
 
 ## Summary of [Imam Al Mahdi (AS) - Professor Al Massari Part 1 of 13](https://www.youtube.com/watch?v=pHMBh7--XOM)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:05:00</a>
@@ -16,7 +15,8 @@ Professor Muhammad Al Massari discusses matters related to the prophecised Imam 
  discusses the idea that the state will last more than a thousand years, based on indications of a habit that has been shown in reality. He also mentions that prophecies of Muhammad say almost everything is near, and that a thousand years almost like a fraction of a second is possible. He goes on to say that there may be a time order, although it is difficult to determine. He also says that after Muhammad said there is no other prophet coming, it is over, so it is extremely difficult to determine an order. However, based on various hadith, he believes some sort of order may be possible. He concludes by saying that, although there are many uncertainties, indications suggest that the state will last more than a thousand years.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Imam Al Mahdi (AS) discusses the idea that the state will last more than a thousand years, based on indications of a habit that has been shown in reality. He also mentions that prophecies of Muhammad say almost everything is near, and that a thousand years almost like a fraction of a second is possible. He goes on to say that there may be a time order, although it is difficult to determine. He also says that after Muhammad said there is no other prophet coming, it is over, so it is extremely difficult to determine an order. However, based on various hadith, he believes some sort of order may be possible. He concludes by saying that, although there are many uncertainties, indications suggest that the state will last more than a thousand years.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the belief that there will be a major battle between the Muslims and the Romans, after which the Muslims will be victorious and take control of most of Europe and North America.  also discusses the belief that the antichrist will come before all of this, and that it will be a time of great conflict and loss for both sides.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the belief that there will be a major battle between the Muslims and the Romans, after which the Muslims will be victorious and take control of most of Europe and North America.  also discusses the belief that the antichrist will come before all of this, and that it will be a time of great conflict and loss for both sides.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

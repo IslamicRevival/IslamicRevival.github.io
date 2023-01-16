@@ -7,17 +7,17 @@
 We ask the question whether #qatar should have hosted the World Cup. Whether the west is right to highlight the abuses by Qatar and whether #LGBTQIA plus rights are abused in Qatar and whether this should disqualify them from hosting the World Cup
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -25,38 +25,37 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
 ## Summary of [SPECIAL: Should Qatar host the World Cup? with @AbdullahalAndalusi Pt 1](https://www.youtube.com/watch?v=NgkJ_hmu8ZE)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -64,12 +63,13 @@ Gmail: hello.tapodcast@gmail.com
 
  discusses the issue of Qatar hosting the World Cup, and discusses the criticisms leveled against Qatar. Abdullahal Andalusi, a brother of the host, Abdullah Andalusi, discusses the difficulties of being on both right- and left-wing platforms. He suggests that Muslims should engage in public debates with Western media outlets in order to challenge their irrational positions.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the issue of Qatar hosting the World Cup, and discusses the criticisms leveled against Qatar. Abdullahal Andalusi, a brother of the host, Abdullah Andalusi, discusses the difficulties of being on both right- and left-wing platforms. He suggests that Muslims should engage in public debates with Western media outlets in order to challenge their irrational positions.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses how Echo Chambers can result in biased viewpoints, and how Adventure Podcast tried to drown him with sound bites. He goes on to say that his main audience has always been Muslims, and that both the left wing and right wing are hypocrites in essence.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The YouTube user discusses how he believes that Qatar should host the World Cup because it is in line with Islamic values. He also discusses how many non-Muslims are receptive to the idea of LGBTQ+ rights, and how the promotion of Islam and Muslim times is a logical entailment of LGBTQ+ rights.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the controversy over whether Qatar should host the World Cup, focusing on the idea that Qatari authorities should be consistent in their treatment of LGBT people. He points out that this is a disagreement based on different perspectives on how to live according to Islamic law, and that there are serious implications for people who disagree with the host country's stance on LGBT rights.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>**  Abdullah Al Andalusi discusses the pros and cons of Qatar hosting the World Cup. He argues that, if any country is allowed to host the tournament, Qatar should be allowed to do so because it has not engaged in any atrocities compared to other countries that have hosted the World Cup. Jake asks Abdullah the same question and agrees, citing Islamic principles.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** argues that Qatar should not host the World Cup because it is not in line with Islamic principles.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the issue of Qatar hosting the World Cup, and discusses the criticisms leveled against Qatar. Abdullahal Andalusi, a brother of the host, Abdullah Andalusi, discusses the difficulties of being on both right- and left-wing platforms. He suggests that Muslims should engage in public debates with Western media outlets in order to challenge their irrational positions.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses how Echo Chambers can result in biased viewpoints, and how Adventure Podcast tried to drown him with sound bites. He goes on to say that his main audience has always been Muslims, and that both the left wing and right wing are hypocrites in essence.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The YouTube user discusses how he believes that Qatar should host the World Cup because it is in line with Islamic values. He also discusses how many non-Muslims are receptive to the idea of LGBTQ+ rights, and how the promotion of Islam and Muslim times is a logical entailment of LGBTQ+ rights.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the controversy over whether Qatar should host the World Cup, focusing on the idea that Qatari authorities should be consistent in their treatment of LGBT people. He points out that this is a disagreement based on different perspectives on how to live according to Islamic law, and that there are serious implications for people who disagree with the host country's stance on LGBT rights.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>**  Abdullah Al Andalusi discusses the pros and cons of Qatar hosting the World Cup. He argues that, if any country is allowed to host the tournament, Qatar should be allowed to do so because it has not engaged in any atrocities compared to other countries that have hosted the World Cup. Jake asks Abdullah the same question and agrees, citing Islamic principles.
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** argues that Qatar should not host the World Cup because it is not in line with Islamic principles.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

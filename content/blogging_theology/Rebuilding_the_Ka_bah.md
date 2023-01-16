@@ -5,13 +5,12 @@
 ## Description
 
 You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
+<https://www.patreon.com/Bloggingtheology>
 
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
 ## Summary of [Rebuilding the Ka'bah](https://www.youtube.com/watch?v=Maihu1XOM6U)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -20,6 +19,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 The video is a set of notes about the rebuilding of the Ka'aba in Mecca. The project was ordered by Muhammad and the clans fought for the honor of completing it. The black stone was returned to its corner and the project was completed.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The Ka'aba was rebuilt by Quresh in Mecca around the time Ali was taken into the household. The walls were just above the height of a man and there was no roof, which made it easy for thieves to access the building. The first man to lift a stone from the top of one of the walls was a Maximide Abu Wab, the brother of Fatima Muhammad's grandmother. However, the stone leapt from his hand and returned to its place, so they decided to leave the foundation untouched. Inside the corner of the black stone they found a piece of writing in Syriac. They kept it not knowing what it was, until one of the Jews read it to them. It said, "I am God, the Lord of Becker, who created her on the day I created the heavens and the earth. The day I formed the sun and the moon. I placed around her seven inviolable angels. She shall stand so long as her two hills stand." The project continued and they were eventually able to raise the rest of the wall to the ground. However, when they were about to destroy the foundation, a quaking shudder ran through Mecca, so they decided to leave it untouched. The project was completed and the walls were rebuilt exactly
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Muhammad is reported to have ordered his followers to rebuild the Kaaba, which had fallen into disrepair. The clans fought for the honor of lifting the black stone back into its corner and completing the project.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

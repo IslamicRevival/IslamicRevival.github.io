@@ -4,10 +4,9 @@
 
 ## Description
 
-Full episode here: https://youtu.be/eL3FybpUt0s
+Full episode here: <https://youtu.be/eL3FybpUt0s>
 
 ## Summary of [Ayaan 'Hirsi Ali' Ridiculous Research Exposed](https://www.youtube.com/watch?v=LpHAK_-2YFs)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -16,6 +15,7 @@ Full episode here: https://youtu.be/eL3FybpUt0s
 Ayaan Hirsi Ali's work on the link between Muslim immigration and sexual violence is flawed and does not hold up to academic scrutiny. Her work is full of rehashed fascist rhetoric and should not be taken seriously.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Ayaan Hirsi Ali discusses research that suggests there is a link between Muslim immigration and an increase in sexual violence towards European women. She notes that the data is inconclusive, as it only shows that people from Africa and Asia are migrating to Europe and that this increases the number of rapes committed. Though the thesis of her book is that this is a result of differences in values between Islam and European society, the data does not support this.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Ayaan Hirsi Ali's research on rape and Islam is rejected by many academics, as it relies on flawed methodology and omits key data. Her thesis that Islam causes an increase in rape for Muslim men to non-Muslim women is also rejected.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Ayaan Hirsi Ali's academic work is full of rehashed fascist rhetoric, and she should not be taken seriously.
 

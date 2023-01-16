@@ -7,25 +7,24 @@
 Londoniyyah - Part 28 - Bid'ah and Tabdee' | Mohammed Hijab
 —
 Help us educate and mentor others to share the faith academically.
-Donate now: https://sapienceinstitute.org/donate/ 
+Donate now: <https://sapienceinstitute.org/donate/>
 
-Free online courses: https://learn.sapienceinstitute.org/
+Free online courses: <https://learn.sapienceinstitute.org/>
 
-Free books: https://sapienceinstitute.org/books/
+Free books: <https://sapienceinstitute.org/books/>
 
-Have doubts? Book a mentor: https://sapienceinstitute.org/lighthouse/
+Have doubts? Book a mentor: <https://sapienceinstitute.org/lighthouse/>
 
-Listen (Podcast): https://sapienceinstitute.org/sapientvoices/
+Listen (Podcast): <https://sapienceinstitute.org/sapientvoices/>
 
 Follow:
-– Facebook: https://facebook.com/sapienceinstitute.org/ 
-– Twitter: https://twitter.com/SapienceOrg/ 
-– Instagram: https://instagram.com/sapienceinstitute/ 
+– Facebook: <https://facebook.com/sapienceinstitute.org/>
+– Twitter: <https://twitter.com/SapienceOrg/>
+– Instagram: <https://instagram.com/sapienceinstitute/>
 
-Articles, speaker requests & more: https://sapienceinstitute.org/
+Articles, speaker requests & more: <https://sapienceinstitute.org/>
 
 ## Summary of [Londoniyyah - Part 28 - Bid'ah and Tabdee' | Mohammed Hijab](https://www.youtube.com/watch?v=MEsRBf334G8)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -33,16 +32,17 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
  Mohammed Hijab discusses the concept of tabdee' (labeling someone as an innovator), and the conditions under which prayer can be considered valid. He also discusses how menstruation can be a man preventer, and how janib (ritually unclean) can be a woman preventer.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses tapdir, which is a term used to refer to innovations or new teachings in Islam that are not part of the original religion. Some scholars have adopted a broad understanding of bidar, while others have adopted a narrower view.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses tapdir, which is a term used to refer to innovations or new teachings in Islam that are not part of the original religion. Some scholars have adopted a broad understanding of bidar, while others have adopted a narrower view.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Mohammed Hijab discusses the different stances taken by scholars concerningbid'ah (innovation). The stricter view is that anything that does not fall within the boundaries of religion is rejected, while the broader view is that anything which does not have an obligatory basis is also rejected. He also discusses the contentious notion of having a word of bid'ah (innovation).
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the different views on bada within Islam, with a focus on the stricter view and the broader view. The stricter view maintains that bada only refers to what was done during the time of the Prophet Muhammad (PBUH), while the broader view holds that bada encompasses anything that is not explicitly forbidden by the Quran.  then goes on to discuss the position of a group of scholars who hold the broader view, citing three pieces of evidence. The first is the hadith of Abdullah ibn Islami, which states that anyone who starts Islam should not do anything that was not done previously. The second is the hadith of ibn 'Umar, which states that anything that is not explicitly mentioned in the Quran is permissible. The third is the hadith of ibn 'Abbas, which states that a bada is a category within the religion that can be subdivided under different ings.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the different views on bada within Islam, with a focus on the stricter view and the broader view. The stricter view maintains that bada only refers to what was done during the time of the Prophet Muhammad (PBUH), while the broader view holds that bada encompasses anything that is not explicitly forbidden by the Quran.  then goes on to discuss the position of a group of scholars who hold the broader view, citing three pieces of evidence. The first is the hadith of Abdullah ibn Islami, which states that anyone who starts Islam should not do anything that was not done previously. The second is the hadith of ibn 'Umar, which states that anything that is not explicitly mentioned in the Quran is permissible. The third is the hadith of ibn 'Abbas, which states that a bada is a category within the religion that can be subdivided under different ings.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The two views of Buddha are the stricter view, which holds that anything introduced into the religion, like innovation in worship, is rejected, and the broader view, which accepts some innovation. The stronger argument for the stricter view is that it is based on a hadith from Asia, where the Prophet said anything introduced into Islam would be rejected. The weaker argument is that the hadith could also be argued to be from himself.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the different schools of thought on whether or not Buddha is an acceptable form of worship in Islam. He notes that while some proponents of the broad view argue that any form of worship that is not based in a religion is rejected, others argue that only those forms of worship that originate from Islam are acceptable. He discusses the hadith which they use to support their position.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses a hadith which is used to support the idea that certain practices can be introduced into Islam, even if they are not necessarily sunnah.  mentions that there is a difference of opinion among scholars regarding this hadith, and that both sides have their reasons for their position.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses the debate over Bid'ah (innovations) and Tabdee' (correct practice), with a focus on the stricter view that Bid'ah is Innovations that must be avoided, and Tabdee' is correct practice that should be followed without deviation. compares these views to those of the Salaf (early Muslim scholars) and Muhammed himself, and offers their own opinion on which position makes the strongest argument. They ultimately come to the conclusion that the strict position is the better one, as it allows for a clearer understanding of the Religion and reduces the risk of falling into wrong practices.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses the concept of tabdee' (labeling someone as an innovator), and the conditions under which prayer can be considered valid. It also discusses how menstruation can be a man preventer, and how janib (ritually unclean) can be a woman preventer.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the different schools of thought on whether or not Buddha is an acceptable form of worship in Islam. He notes that while some proponents of the broad view argue that any form of worship that is not based in a religion is rejected, others argue that only those forms of worship that originate from Islam are acceptable. He discusses the hadith which they use to support their position.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses a hadith which is used to support the idea that certain practices can be introduced into Islam, even if they are not necessarily sunnah.  mentions that there is a difference of opinion among scholars regarding this hadith, and that both sides have their reasons for their position.
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses the debate over Bid'ah (innovations) and Tabdee' (correct practice), with a focus on the stricter view that Bid'ah is Innovations that must be avoided, and Tabdee' is correct practice that should be followed without deviation. compares these views to those of the Salaf (early Muslim scholars) and Muhammed himself, and offers their own opinion on which position makes the strongest argument. They ultimately come to the conclusion that the strict position is the better one, as it allows for a clearer understanding of the Religion and reduces the risk of falling into wrong practices.
+* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses the concept of tabdee' (labeling someone as an innovator), and the conditions under which prayer can be considered valid. It also discusses how menstruation can be a man preventer, and how janib (ritually unclean) can be a woman preventer.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** In Islam, one of the conditions for prayer is being a Muslim. If a person is not a Muslim, their prayer is not valid. There are exceptions to this, including for people who are oppressed or in a coma.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the differences between the broader and stricter views of Buddha, and how these differences apply to people who have apostatized from Islam. He goes on to say that there is no one person who can speak on behalf of Islam, and that followers must rely on the guidance of the Prophet Muhammad (PBUH) alone.
+* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Discusses the differences between the broader and stricter views of Buddha, and how these differences apply to people who have apostatized from Islam. He goes on to say that there is no one person who can speak on behalf of Islam, and that followers must rely on the guidance of the Prophet Muhammad (PBUH) alone.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Mohammed Hijab discusses the importance of understanding and respecting different Islamic viewpoints, as well as the dangers of labeling and bullying Muslims. He urges Muslims to be humble and tolerant towards others, and stresses the importance of having an Imam to provide guidance.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  Mohammed Hijab explains that the majority of history's great men have been cancelled by others, and that this will be the fate of any man who follows in their footsteps. He urges people to calm down and focus on the day of judgment, where all will be revealed.
 

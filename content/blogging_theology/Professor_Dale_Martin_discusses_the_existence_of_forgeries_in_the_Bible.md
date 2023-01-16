@@ -9,7 +9,6 @@ Dr Dale Martin is a distinguished American New Testament scholar who taught at Y
 
 ## Summary of [Professor Dale Martin discusses the existence of forgeries in the Bible](https://www.youtube.com/watch?v=-pA5c8MkYSQ)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:55:00</a>
@@ -17,6 +16,7 @@ Dr Dale Martin is a distinguished American New Testament scholar who taught at Y
  Professor Dale Martin discusses the existence of forgeries in the Bible. He cites examples of letters that are claimed to be written by Paul, but are actually written by someone else. He also discusses the style of writing and how it can be used to determine if a letter is written by the author claimed to be writing it.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  Professor Dale Martin discusses the existence of forgeries in the Bible. He cites examples of letters that are claimed to be written by Paul, but are actually written by someone else. He also discusses the style of writing and how it can be used to determine if a letter is written by the author claimed to be writing it.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The video discusses how to identify forgeries in the Bible, focusing on six letters written by Paul: 2 Thessalonians, 1 Timothy, 2 Timothy, Titus, and Philemon. The letters were not written in the same style, and some anachronisms were present. For example, Philemon was written after the destruction of the Temple in Jerusalem in 164 BC, which Jeshua had predicted.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Professor Dale Martin discusses the existence of forgeries in the Bible, highlighting that pseudopigraphy refers to a writing that is false or set up as being by one author, but is not by someone else. Modern scholars have tended to use the word forgery for anything in the Bible that has been discovered to be a forgery, due to the uncomfortable nature of the word forgery. If a forgery had been uncovered when it was being created, it would have been condemned as an egregious act of deception.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Professor Dale Martin discusses the existence of forgeries in the Bible, including the third Corinthian letter, which was discovered to be a forgery.

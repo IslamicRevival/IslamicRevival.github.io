@@ -8,7 +8,6 @@ Natural beauty can bring about a state of awe. This can increase cognition & red
 
 ## Summary of [Sapient Thoughts #40: Beauty & The Recognition of God — Part 2: Extending the limitations](https://www.youtube.com/watch?v=sWbZlh0jA4k)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:15:00</a>
@@ -16,6 +15,7 @@ Natural beauty can bring about a state of awe. This can increase cognition & red
  Sapient Thoughts discusses how exposure to beauty or natural beauty can help one see truth as it really is. The point is made that no individual person can know everything, and so one can broaden their epistemic limitations by relying on the skills and knowledge of others. However, this does not allow for full trust in one's own cognition.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  Sapient Thoughts discusses the idea of one's epistemic limitations and how exposure to beauty or natural beauty can help one see truth as it really is. The point is made that no individual person can know everything, and so one can broaden their epistemic limitations by relying on the skills and knowledge of others. However, this does not allow for full trust in one's own cognition.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Sapient Thoughts discusses the concept of world views and how they influence the way maps are drawn.  also discusses the Islamic worldview and how it affects the way the map of Arabia is drawn. Finally, the video discusses the way terms are translated in Arabic and how this affects the way maps are drawn in that language.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The study found that people associate north with up and south with down, and this affects how the person perceives time, effort, and cost. The study also found that some transportation companies take advantage of this.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The presenter suggests that if one understands cognitive limitations of oneself and the cognitive limitations of another person, one can extend those limitations well. In this episode, they present their thesis that when one has exposure to natural beauty, it actually enhances one's cognition. This has another effect, which is helpful in seeing truth as it really is. In the next episode of the series, they will talk about this further.

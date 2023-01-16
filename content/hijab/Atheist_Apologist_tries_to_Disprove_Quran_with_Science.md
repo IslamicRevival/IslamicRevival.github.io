@@ -4,12 +4,11 @@
 
 ## Description
 
-Please visit NATURES BLEND - https://www.naturesblends.co.uk/collections/black-seed
+Please visit NATURES BLEND - <https://www.naturesblends.co.uk/collections/black-seed>
 
-Full video on here - https://www.youtube.com/watch?v=N0wuXLFOSgs
+Full video on here - <https://www.youtube.com/watch?v=N0wuXLFOSgs>
 
 ## Summary of [Atheist Apologist tries to Disprove Quran with Science](https://www.youtube.com/watch?v=cBzK_RppDrA)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -18,6 +17,7 @@ Full video on here - https://www.youtube.com/watch?v=N0wuXLFOSgs
  "Atheist Apologist tries to Disprove Quran with Science" discusses how science can be used to disprove the Quran. The atheist apologist argues that, because the Quran is meant to be guidance for all people, it cannot be dismissed as ridiculous because of modern science. He also points out that, because the Quran is multi-layered and speaks to different people in the same tone, it cannot be dismissed as a book written by a scientist who is not understood by all. Ultimately, though, he fails to provide a convincing argument against the miracles.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The atheist apologist discusses how science can be used to disprove the Quran. He argues that, because the Quran is meant to be guidance for all people, it cannot be dismissed as ridiculous because of modern science. He also points out that, because the Quran is multi-layered and speaks to different people in the same tone, it cannot be dismissed as a book written by a scientist who is not understood by all.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The Muslim brothers who created the video "Atheist Apologist tries to Disprove Quran with Science" discuss how the Quran talks about scientific miracles, such as the coming down of iron from space. The atheist apologist, who is trying to disprove the miracles, makes a number of inconsistent arguments. Ultimately, though, he fails to provide a convincing argument against the miracles.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

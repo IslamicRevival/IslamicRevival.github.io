@@ -6,22 +6,22 @@
 
 Session 4  Part 2
 
-In an age of information overload and widespread pseudo-intellectualism, understanding the core foundations of Islam is as essential as ever. 
+In an age of information overload and widespread pseudo-intellectualism, understanding the core foundations of Islam is as essential as ever.
 
 This course comprehensively deconstructs the skeletal structure of prevalent ideologies and concepts such as atheism, scientism, materialism, secularism, and skepticism, in light of an all-encompassing intellectually robust Islamic worldview.
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -29,38 +29,37 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
 ## Summary of [The Need for Moral Guidance | The Evidence Course | Session 4 / Part 2](https://www.youtube.com/watch?v=Krwadk8F6nU)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -69,9 +68,10 @@ Gmail: hello.tapodcast@gmail.com
  the presenter discusses the need for moral guidance, and how humans often rely on assumptions about life and morality to make decisions. He points to two examples of contradictory moral views - murder being a greater crime than rape, and bestiality being a lesser crime. argues that humans have always differed in their opinions on morality, and that this means that there is no one correct answer to questions of morality. Instead, people should look to Allah for guidance on how to live their lives.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  the author explains the need for moral guidance, and how this need is created by our innate desire to worship God. He also explains that our wider moral judgments need to be guided by God, and that human beings have innate drives and needs other than just seeking to worship. He gives an example of how a moral judgment is made, and discusses how different situations can lead to different judgments. He concludes by discussing the ethics of different forms of intentional killing.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  the presenter discusses the need for moral guidance, and how humans often rely on assumptions about life and morality to make decisions. He points to two examples of contradictory moral views - murder being a greater crime than rape, and bestiality being a lesser crime.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** argues that humans have always differed in their opinions on morality, and that this has always been the case. He goes on to say that this means that there is no one correct answer to questions of morality, and that people should instead look to Allah for guidance.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the need for moral guidance in order to determine for ourselves how to live our lives and determine the right way to go about it. Allah has given us guidance in the Quran through verses such as the one mentioned in Hadid 25, which states that we sent prophets with clear proofs and revealed the scripture and the balance in order for humans to stand up for justice. This is why the revelation was meant to be a means of teaching humans how to be moral agents and to help them make decisions in their lives.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  the presenter discusses the need for moral guidance, and how humans often rely on assumptions about life and morality to make decisions. He points to two examples of contradictory moral views - murder being a greater crime than rape, and bestiality being a lesser crime.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** argues that humans have always differed in their opinions on morality, and that this has always been the case. He goes on to say that this means that there is no one correct answer to questions of morality, and that people should instead look to Allah for guidance.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the need for moral guidance in order to determine for ourselves how to live our lives and determine the right way to go about it. Allah has given us guidance in the Quran through verses such as the one mentioned in Hadid 25, which states that we sent prophets with clear proofs and revealed the scripture and the balance in order for humans to stand up for justice. This is why the revelation was meant to be a means of teaching humans how to be moral agents and to help them make decisions in their lives.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

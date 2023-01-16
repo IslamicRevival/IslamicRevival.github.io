@@ -8,7 +8,6 @@ Sapient Thoughts #30: Does Adam's height of 60 cubits make sense? | Mohammed Hij
 
 ## Summary of [Sapient Thoughts #30: Does Adam's height of 60 cubits make sense? | Mohammed Hijab](https://www.youtube.com/watch?v=_U-vr_XYp4k)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
@@ -16,7 +15,8 @@ Sapient Thoughts #30: Does Adam's height of 60 cubits make sense? | Mohammed Hij
 The narrator discusses the Islamic stance on the theory of evolution, and the claim that Adam was 60 cubits tall. They point out that there is no evidence to support this claim and that it is an unreasonable assumption to make. They also argue that it is wrong to use today's human anatomy as a reference point when discussing Adam's size.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The narrator discusses the Islamic stance on the theory of evolution, noting that while humans differ greatly from other animals, there is something special about humans that allah created them directly. They mention the hadith which references adam being 60 cubits tall, and discuss the three major problems with it: biological, archaeological, and paleontological. They mention that even if the 60 cubits claim is true, it does not mean the narrations about human evolution are incorrect.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the various problems with the claim that Adam was 60 cubits tall when he came down to Earth. He points out that there is no evidence to support this claim and that it is an unreasonable assumption to make. He also argues that it is wrong to use today's human anatomy as a reference point when discussing Adam's size.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the various problems with the claim that Adam was 60 cubits tall when he came down to Earth. He points out that there is no evidence to support this claim and that it is an unreasonable assumption to make. He also argues that it is wrong to use today's human anatomy as a reference point when discussing Adam's size.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Mohammed Hijab discusses the dwarf elephants which the National Academy of Sciences showed were 220 pounds in 800,000 years, went down in size 100 times over this period of time, and would be much heavier to pick up than a regular elephant. He argues that this is evidence that humans can be much bigger than what is traditionally believed.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

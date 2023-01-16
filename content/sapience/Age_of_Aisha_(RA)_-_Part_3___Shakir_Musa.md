@@ -5,25 +5,24 @@
 ## Description
 
 Help us educate and mentor others to share the faith academically.
-Donate now: https://sapienceinstitute.org/donate/ 
+Donate now: <https://sapienceinstitute.org/donate/>
 
-Free online courses: https://learn.sapienceinstitute.org/
+Free online courses: <https://learn.sapienceinstitute.org/>
 
-Free books: https://sapienceinstitute.org/books/
+Free books: <https://sapienceinstitute.org/books/>
 
-Have doubts? Book a mentor: https://sapienceinstitute.org/lighthouse/
+Have doubts? Book a mentor: <https://sapienceinstitute.org/lighthouse/>
 
-Listen (Podcast): https://sapienceinstitute.org/sapientvoices/
+Listen (Podcast): <https://sapienceinstitute.org/sapientvoices/>
 
 Follow:
-– Facebook: https://facebook.com/sapienceinstitute.org/ 
-– Twitter: https://twitter.com/SapienceOrg/ 
-– Instagram: https://instagram.com/sapienceinstitute/ 
+– Facebook: <https://facebook.com/sapienceinstitute.org/>
+– Twitter: <https://twitter.com/SapienceOrg/>
+– Instagram: <https://instagram.com/sapienceinstitute/>
 
-Articles, speaker requests & more: https://sapienceinstitute.org/
+Articles, speaker requests & more: <https://sapienceinstitute.org/>
 
 ## Summary of [Age of Aisha (RA) - Part 3 | Shakir Musa](https://www.youtube.com/watch?v=6NVyuRuFjs0)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -31,15 +30,16 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
 Shakir Musa discusses the age of Aisha when she got married to the Prophet Muhammad. He argues that this age was within the historical bounds of possibility at the time, and that it would be unjust to take that limit away based on factors such as the schooling system, voting, and other historically contingent factors. Musa also brings up some hadiths that suggest that Aisha was intelligent and articulate, and that her speaking abilities were not the result of a child's natural inclination to lie. He concludes the discussion by discussing how a person's perception of the Prophet Muhammad may be affected by their understanding of Aisha's age when she got married.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the environment surrounding the Prophet's marriage to Aisha, noting that even his enemies didn't bring up the topic of that marriage. also points out that, given the time period in which the Prophet lived, Aisha's age at the time was not an issue.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the environment surrounding the Prophet's marriage to Aisha, noting that even his enemies didn't bring up the topic of that marriage. also points out that, given the time period in which the Prophet lived, Aisha's age at the time was not an issue.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Shakir Musa discusses the age of Aisha (RA) and how it should not be focused on the age itself, but on her maturity and if there was harm involved. He then asks the audience what they think about this topic.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** In this third video, Shakir Musa discusses the age of consent in the UK, which is 16. This differs from many other countries, where the age of consent can be as high as 18.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses how a person's definition of adulthood can differ based on location and time period. He says that as a Muslim, he does not believe it is immoral to marry a woman when she is ready and able to handle the challenges of marriage.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses how a person's definition of adulthood can differ based on location and time period. He says that as a Muslim, he does not believe it is immoral to marry a woman when she is ready and able to handle the challenges of marriage.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** In Islam, becoming an adult does not always mean that a person is ready or able to get married. There are certain signs a person must attain in order to be considered an adult, and there is a discussion about when a person becomes an adult. It is important to note that this definition differs from the Western concept of adulthood, which is typically reached at a later age.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** <>
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>**  Shakir Musa discusses the age of Aisha when she got married to the Prophet Muhammad. Musa argues that this age was within the historical bounds of possibility at the time, and that it would be unjust to take that limit away based on factors such as the schooling system, voting, and other historically contingent factors. Musa also brings up some hadiths that suggest that Aisha was intelligent and articulate, and that her speaking abilities were not the result of a child's natural inclination to lie. He concludes the discussion by discussing how a person's perception of the Prophet Muhammad may be affected by their understanding of Aisha's age when she got married.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>**  Shakir Musa discusses the various definitions of adulthood and childhood in Islam. He notes that while there is disagreement among Muslims on the appropriate age for adulthood, all agree that it is appropriate to have a clear understanding of these concepts. He concludes by urging Muslims to be confident in their understanding of Islamic law and Tradition, and to not be afraid to challenge traditional views on age of adulthood.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses the Islamic view of consent, which is based on a person's physical maturity and availability. If a person is physically able and there is no abuse, then it is permissible for them to marry. If there is abuse, then the marriage should not take place.
+* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses the Islamic view of consent, which is based on a person's physical maturity and availability. If a person is physically able and there is no abuse, then it is permissible for them to marry. If there is abuse, then the marriage should not take place.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

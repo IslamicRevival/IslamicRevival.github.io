@@ -5,17 +5,17 @@
 ## Description
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -23,38 +23,37 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
 ## Summary of [Abdulrahman Grilled by the “#Philosophy is #Kufr” Camp](https://www.youtube.com/watch?v=K16CKwxZj3s)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -63,15 +62,16 @@ Gmail: hello.tapodcast@gmail.com
 In response to the claim that philosophy requires certain prerequisites, Abdulrahman argues that this is not true and that anyone who studies philosophy must have a solid understanding of Sunnah before diving into the topic. He praises the shadow for standing up against the Jahmir and the philosopher, and affirms that some of their arguments can be classified as kalami arguments. However, he does not think that sweeping generalizations are beneficial, and asks brothers what they think about what he just read.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Abdulrahman Grilled by the "#Philosophy is #Kufr" Camp in response to Dean's claims that philosophy requires certain prerequisites. Abdulrahman argues that this is not true, and that anyone who studies philosophy must have a solid understanding of Sunnah before diving into the topic.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Abdulrahman praises the shadow for standing up against the Jahmir and the philosopher, affirms more importantly that some of their arguments can be classified as a kalami argument. He does not think that sweeping generalizations are beneficial, and asks brothers what they think about what he just read.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses a quotation from the Prophet Muhammad in which he says that anyone who disbelieves in Allah's transcendence is ineligible to be a Muslim. He goes on to say that this quotation cannot be used to support the claim that all kalam arguments are wrong because some of the people who use them are Muslims.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Abdulrahman discusses how some arguments used by Prophet Muhammad (PBUH) are not used by some proponents of Sunnah, and how this can sometimes lead to confusion.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Abdurrahman Grilled by the "philosophy is kufr" camp argues that Jacob Islam, who wrote books and refuted deviant sects, made a mistake in doing so. He argues that the purpose of the room is to reach out to the layman, and that even for students of knowledge, some may still slip into Haram.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Abdulrahman discusses how the soundness of the argument depends on whether one makes adjustments to it to conform to Quran. He goes on to say that the contingency argument can be used to illustrate this point.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Abdulrahman discusses the contingency argument, which is an idea in contemporary philosophical thought that argues that there are possible beings that require external factors to exist. He argues that the argument does not establish Allah because it does not go far enough to establish a self-sufficient necessary being.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** argues that when talking to a philosopher, one should not use the word "creation" because it will not be accepted by the philosopher. He goes on to say that a philosopher is someone who uses their intellect to delve into things beyond human knowledge.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Abdulrahman is grilled by a "philosophy is kufr" camp, where he is asked to explain the difference between a philosopher and someone who uses reason and evidence to infer conclusions. He responds that a philosopher is someone who holds to certain beliefs, while a person who uses reason and evidence to infer conclusions is a 'false philosopher.' He goes on to say that this distinction is only relevant if the substance of the argument remains unchanged. If the substance changes, the label is irrelevant.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Abdulrahman argues that there is no problem with using words from the Quran to inform of Allah, as long as the meaning is correct. However, he argues that if the meaning is not correct, then the user should disagree with the foreign language usage.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Abdulrahman praises the shadow for standing up against the Jahmir and the philosopher, affirms more importantly that some of their arguments can be classified as a kalami argument. He does not think that sweeping generalizations are beneficial, and asks brothers what they think about what he just read.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses a quotation from the Prophet Muhammad in which he says that anyone who disbelieves in Allah's transcendence is ineligible to be a Muslim. He goes on to say that this quotation cannot be used to support the claim that all kalam arguments are wrong because some of the people who use them are Muslims.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Abdulrahman discusses how some arguments used by Prophet Muhammad (PBUH) are not used by some proponents of Sunnah, and how this can sometimes lead to confusion.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Abdurrahman Grilled by the "philosophy is kufr" camp argues that Jacob Islam, who wrote books and refuted deviant sects, made a mistake in doing so. He argues that the purpose of the room is to reach out to the layman, and that even for students of knowledge, some may still slip into Haram.
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Abdulrahman discusses how the soundness of the argument depends on whether one makes adjustments to it to conform to Quran. He goes on to say that the contingency argument can be used to illustrate this point.
+- **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Abdulrahman discusses the contingency argument, which is an idea in contemporary philosophical thought that argues that there are possible beings that require external factors to exist. He argues that the argument does not establish Allah because it does not go far enough to establish a self-sufficient necessary being.
+- **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** argues that when talking to a philosopher, one should not use the word "creation" because it will not be accepted by the philosopher. He goes on to say that a philosopher is someone who uses their intellect to delve into things beyond human knowledge.
+- **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Abdulrahman is grilled by a "philosophy is kufr" camp, where he is asked to explain the difference between a philosopher and someone who uses reason and evidence to infer conclusions. He responds that a philosopher is someone who holds to certain beliefs, while a person who uses reason and evidence to infer conclusions is a 'false philosopher.' He goes on to say that this distinction is only relevant if the substance of the argument remains unchanged. If the substance changes, the label is irrelevant.
+- **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Abdulrahman argues that there is no problem with using words from the Quran to inform of Allah, as long as the meaning is correct. However, he argues that if the meaning is not correct, then the user should disagree with the foreign language usage.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

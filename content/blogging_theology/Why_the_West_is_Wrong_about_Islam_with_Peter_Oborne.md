@@ -4,16 +4,15 @@
 
 ## Description
 
-Buy the book: The Fate of Abraham Why the West is Wrong about Islam https://www.simonandschuster.co.uk/books/The-Fate-of-Abraham/Peter-Oborne/9781398501027
+Buy the book: The Fate of Abraham Why the West is Wrong about Islam <https://www.simonandschuster.co.uk/books/The-Fate-of-Abraham/Peter-Oborne/9781398501027>
 
 You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
+<https://www.patreon.com/Bloggingtheology>
 
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
 ## Summary of [Why the West is Wrong about Islam with Peter Oborne](https://www.youtube.com/watch?v=qu5VHqDBePI)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -22,13 +21,14 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 The West is wrong about Islam because it is intolerant of religious differences and because it imposes secularism as a state religion. Muslims are also subject to this coercion. discusses how the West's policies against Islam are wrong and counterproductive.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Peter Oborne discusses in his new book, "Why the West is Wrong about Islam," how the West has been wrong about Islam for decades, perpetuating the stereotype of Muslims as terrorists. Oborne argues that the West should be more understanding of Islam, as it is one of the world's oldest religions.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Peter Oborne argues that the West is wrong about Islam and that the way that the religion is portrayed in the media is distorted and fueled by unfounded fears. He provides examples of how the media has distorted stories about Muslims and discusses the "cold war on Islam" that has been perpetuated by security experts since 9/11.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses how the Bush administration used the concept of a "cold war against Soviet Russia" to justify actions such as creating a secret organization to fight against "Islamism." The concepts of information warfare and astro-turfing are also mentioned. argues that this approach is being repeated with regards to the war on Islam, and that the state is justified in using any means necessary to fight this threat.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses how the Bush administration used the concept of a "cold war against Soviet Russia" to justify actions such as creating a secret organization to fight against "Islamism." The concepts of information warfare and astro-turfing are also mentioned. argues that this approach is being repeated with regards to the war on Islam, and that the state is justified in using any means necessary to fight this threat.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** argues that the West's policies against Islam are wrong and counterproductive. He points to examples of how the government has targeted Muslims with its "prevent" program, as well as the media's portrayal of Islamophobia. He also discusses the controversial organization Prevent, which is intended to fight terrorism by surveilling Muslims.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Peter Oborne argues that the West is wrong about Islam, pointing to the nebulous nature of the terms "good" and "bad" Muslim, the targeting of Muslim religious opinions in the Prevent program, and the radicalization theory.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** The West is wrong about Islam because of its intolerance of religious different views and its imposition of secularism as a state religion. Muslims are also subject to this coercion.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses how muslims are the main target of the West's generalization of Islam, pointing to examples of christian groups that have been persecuted for holding biblical beliefs on sexuality and transgender issues. He also discusses how the state is creating fake civil society organizations in order to control the ideological and social direction of muslims.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses how the French model of secularism and tolerance towards different religions is slowly being adopted in Britain. He also discusses how the rise of far-right politics in France is leading to stricter rules on religious practice.
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses how muslims are the main target of the West's generalization of Islam, pointing to examples of christian groups that have been persecuted for holding biblical beliefs on sexuality and transgender issues. He also discusses how the state is creating fake civil society organizations in order to control the ideological and social direction of muslims.
+* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses how the French model of secularism and tolerance towards different religions is slowly being adopted in Britain. He also discusses how the rise of far-right politics in France is leading to stricter rules on religious practice.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Peter Oborne argues that the West is wrong about Islam, pointing to its success in terms of electoral numbers and mainstream acceptance in various European countries. He also points to the increasing movement towards a right-wing populist anti-Muslim political movement throughout various countries. Oborne believes that this movement may soon lead to a genocide against Muslims in Europe and elsewhere.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Peter Oborne discusses the history and relationship between the West and Islam, highlighting the conservative neo-conservative role in defining British Muslims and British islam. He also recommends the book "Fate of Abraham: Why the West Is Wrong About Islam" by Peter Aborne.
 

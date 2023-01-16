@@ -4,7 +4,7 @@
 
 ## Description
 
-DONATE NOW: https://www.saveiman.com/fb?affiliate_id=3414212 ⬅
+DONATE NOW: <https://www.saveiman.com/fb?affiliate_id=3414212> ⬅
 
 The Prophet ﷺ said: “𝙒𝙝𝙤𝙚𝙫𝙚𝙧 𝙗𝙪𝙞𝙡𝙙𝙨 𝙖 𝙈𝙤𝙨𝙦𝙪𝙚 𝙛𝙤𝙧 𝘼𝙡𝙡𝙖𝙝, 𝘼𝙡𝙡𝙖𝙝 𝙬𝙞𝙡𝙡 𝙗𝙪𝙞𝙡𝙙 𝙛𝙤𝙧 𝙝𝙞𝙢 𝙖 𝙨𝙞𝙢𝙞𝙡𝙖𝙧 𝙝𝙤𝙪𝙨𝙚 𝙞𝙣 𝙅𝙖𝙣𝙣𝙖𝙝.”
 
@@ -14,12 +14,11 @@ If you support this project, you will in sha Allah get a house in Jannah and sha
 ✅ Making Dhikr!
 ✅ Memorizing the Qur’an!
 
-Please donate and help establish this Masjid and earn your reward ➡ https://www.saveiman.com/fb?affiliate_id=3414212 ⬅
+Please donate and help establish this Masjid and earn your reward ➡ <https://www.saveiman.com/fb?affiliate_id=3414212> ⬅
 
-#SaveIman
+# SaveIman
 
 ## Summary of [Muslim Woman Gives Disturbing Answers on Show](https://www.youtube.com/watch?v=0eUfu5Wrh5E)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -28,6 +27,7 @@ Please donate and help establish this Masjid and earn your reward ➡ https://ww
 "Muslim Woman Gives Disturbing Answers on Show", a Muslim woman gives disturbing answers about Islam. She argues that men are meant to be the managers of the household and protectors of women, but because of what men gave women over the years, it is contradictory to an Islamic point of view. Additionally, she believes that feminism is like another religion with different presuppositions and assumptions.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The Muslim woman in the video gives disturbing answers on a show about raising children. She believes that a boy should be more protective of a daughter than a son, and that boys should be raised to be protectors. She argues that this is natural, and that children will understand this with their own biology.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  a Muslim woman gives disturbing answers on a show about abortion. She mentions that when pbe hits, it's no longer a question for her to remember going to a boxing club when she was younger. She also mentions the club, but one of the top female boxers in the UK actually who represented GB in the Olympics, was a woman. When she thinks back to the first year that female boxing was available, she remembers that she was basically sparring with other women her age. According to the schools of thought in Islamic jurisprudence, three out of four schools say that after 120 days, a woman can abort. One school of thought says that after 40 days. She then says, "It's inconceivable to think that after 120 days, a Muslim can believe in something referred to as 'late stage terminal abortion.'"  goes on to ask, "Should we move on to the next one because I think here we're assuming the best?" The woman agrees and says, "Yes, here we go, hi guys." The second that she agrees, she starts to argue that the heavy restrictions that are placed on abortion by our government just dictating what we can do with our bodies is really infuriating and then seeing people who
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The Muslim woman on the YouTube video "Muslim Woman Gives Disturbing Answers on Show" gives disturbing answers on the show about whether the world would be a better place if it were run by women. She argues that feminism and islam are contradictory and that the white feminist is more self-consistent with her ideology than the Muslim who is sacrificing her religion.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The Muslim woman in the video gives disturbing answers on a show about Islam. She says that men are meant to be the managers of the household and protectors of women, but because of what men gave women over the years, it is contradictory to an Islamic point of view. Additionally, she believes that feminism is like another religion with different presuppositions and assumptions. She recommends that men be proud of their religion and stand firm in their beliefs, even if they are rejected by feminism.

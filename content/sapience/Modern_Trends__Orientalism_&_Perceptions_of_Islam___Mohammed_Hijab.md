@@ -5,25 +5,24 @@
 ## Description
 
 Help us educate and mentor others to share the faith academically.
-Donate now: https://sapienceinstitute.org/donate/ 
+Donate now: <https://sapienceinstitute.org/donate/>
 
-Free online courses: https://learn.sapienceinstitute.org/
+Free online courses: <https://learn.sapienceinstitute.org/>
 
-Free books: https://sapienceinstitute.org/books/
+Free books: <https://sapienceinstitute.org/books/>
 
-Have doubts? Book a mentor: https://sapienceinstitute.org/lighthouse/
+Have doubts? Book a mentor: <https://sapienceinstitute.org/lighthouse/>
 
-Listen (Podcast): https://sapienceinstitute.org/sapientvoices/
+Listen (Podcast): <https://sapienceinstitute.org/sapientvoices/>
 
 Follow:
-– Facebook: https://facebook.com/sapienceinstitute.org/ 
-– Twitter: https://twitter.com/SapienceOrg/ 
-– Instagram: https://instagram.com/sapienceinstitute/ 
+– Facebook: <https://facebook.com/sapienceinstitute.org/>
+– Twitter: <https://twitter.com/SapienceOrg/>
+– Instagram: <https://instagram.com/sapienceinstitute/>
 
-Articles, speaker requests & more: https://sapienceinstitute.org/
+Articles, speaker requests & more: <https://sapienceinstitute.org/>
 
 ## Summary of [Modern Trends: Orientalism & Perceptions of Islam | Mohammed Hijab](https://www.youtube.com/watch?v=rRaNmHmJ0CY)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -31,16 +30,17 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
  discusses different ways of understanding Islam and Muslims, and how they often don't align with each other. Mohammed Hijab argues that post-colonial Marxist theories are not accurate, and that there is no such thing as a post-modernist Marxist. He suggests that a middle ground of negotiation and discussion is the best way forward.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the different frameworks used to understand Islam and Muslims, and how they don't always align. Mohammed Hijab explains that post-colonial Marxist theories are not accurate, and that there is no such thing as a post-modernist Marxist.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the different frameworks used to understand Islam and Muslims, and how they don't always align. Mohammed Hijab explains that post-colonial Marxist theories are not accurate, and that there is no such thing as a post-modernist Marxist.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Edward Seitz argues that the way in which the West looks at the East is through the lens of dehumanization and authorization. He uses examples from various media to illustrate his point.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Mohammed Hijab discusses the ways in which the West has depicted and interacted with the East throughout history, highlighting the work of Edward Said and Bernard Lewis. He argues that the subject of inquiry should be the other people, not the West and East themselves. He refers to avisana, a scholar in the field of liberal Islam, who argues that practices such as polygamy should be allowed because of changing circumstances.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the trend of liberal Muslims, and presents a summary of Mohammed Hijab's talk on the same topic. Hijab argues that while some Muslims may be considered "traditionalists" or "reformers" by some, they all share a common goal of making Islam compatible with liberal democracy.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the trend of liberal Muslims, and presents a summary of Mohammed Hijab's talk on the same topic. Hijab argues that while some Muslims may be considered "traditionalists" or "reformers" by some, they all share a common goal of making Islam compatible with liberal democracy.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Mohammed Hijab argues that Muslim scholars are responsible for justifying and explaining Islam to the Western world, and that going unapologetic will only look wrong aesthetically. She suggests a middle ground of negotiation and discussion.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses contradictions and problems inherent in the liberal conception of tolerance, and argues that these same problems should be brought to bear on the idea of incorporating Islamic political history into modern discussions of Islam. It also discusses the danger of partnering with the left, as leftist agendas often obscure what Muslims actually believe.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses various ways to measure perceptions of Islam, including surveys and data sets, voting information, and online content. Mohammed Hijab points out that, because free elections are important, understanding what a country thinks about Islam can be gathered through voting information and surveys. He also mentions that YouTube is often seen as the most popular site among Muslims, overtaking Google. also discusses pornography and its widespread use around the world.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses contradictions and problems inherent in the liberal conception of tolerance, and argues that these same problems should be brought to bear on the idea of incorporating Islamic political history into modern discussions of Islam. It also discusses the danger of partnering with the left, as leftist agendas often obscure what Muslims actually believe.
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses various ways to measure perceptions of Islam, including surveys and data sets, voting information, and online content. Mohammed Hijab points out that, because free elections are important, understanding what a country thinks about Islam can be gathered through voting information and surveys. He also mentions that YouTube is often seen as the most popular site among Muslims, overtaking Google. also discusses pornography and its widespread use around the world.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Mohammed Hijab discusses trends in Islamic thinking around the world and how Google Trends can be used to investigate these trends. He finds that there is a negligible amount of support for strict adherence to Sharia laws among Muslims, with the highest levels of support found in Pakistan and the Palestinian Territories.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** , Mohammed Hijab discusses the use of religious data sets in surveys and how methodological problems can arise. He also discusses how sociological research is often based on collected data sets, and how a sociology degree would introduce students to the methods used to collect data sets and the implications of these methods.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the study of Muslims in America, which found that a large number of Muslims in the country have become more secular and tolerant of other religions. Mohammed Hijab warns against using this study to support conservative or colonialist views of Muslims, as it is compositionally congruent with population data from America, and not exclusively Iranian or Muslim.
+* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Discusses the study of Muslims in America, which found that a large number of Muslims in the country have become more secular and tolerant of other religions. Mohammed Hijab warns against using this study to support conservative or colonialist views of Muslims, as it is compositionally congruent with population data from America, and not exclusively Iranian or Muslim.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

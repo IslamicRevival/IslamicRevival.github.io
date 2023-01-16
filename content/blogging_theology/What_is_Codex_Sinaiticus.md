@@ -4,14 +4,13 @@
 
 ## Description
 
-https://www.patreon.com/Bloggingtheology?fan_landing=true
+<https://www.patreon.com/Bloggingtheology?fan_landing=true>
 
-https://twitter.com/freemonotheist
+<https://twitter.com/freemonotheist>
 
-https://codexsinaiticus.org/en/codex/
+<https://codexsinaiticus.org/en/codex/>
 
 ## Summary of [What is Codex Sinaiticus?](https://www.youtube.com/watch?v=AWyVj0R2jhU)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -20,6 +19,7 @@ https://codexsinaiticus.org/en/codex/
 The Codex Sinaiticus is an ancient Christian manuscript that contains the earliest known complete copy of the Bible. It is notable for its links to world history and its differences from modern bibles.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The Codex Sinaiticus is a book or booklet containing the earliest known complete copy of the Bible, written in Greek. It is also noteworthy for its links to world history, as it preserves one of the earliest accounts of Christianity's triumph over paganism.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The Codex Sinaiticus is a ancient Christian manuscript that is not found in any modern bibles. Differences between the Codex Sinaiticus and modern bibles include the omission of key passages in the gospel of Mark, the trinity verse, and the woman caught in adultery.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

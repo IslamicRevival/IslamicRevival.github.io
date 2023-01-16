@@ -7,22 +7,22 @@
 00:00     Introduction and Arguments
 57:13     Reincarnation Entertainment (Atheist)
 1:40.00  Karlos Jeffers (Atheist)
-1:57:05  Why So Religious (Atheist) 
+1:57:05  Why So Religious (Atheist)
 2:31:57  Eric Jewell aka WolfBitn (Christian)
 2:43:53  Final Thoughts
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -30,40 +30,39 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
-#God #Atheism #Islam
+# God #Atheism #Islam
 
 ## Summary of [One of Atheists’ Best Arguments: Divine Hiddenness | Thought Adventure Podcast #14](https://www.youtube.com/watch?v=OWVl33e47iU)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -72,49 +71,55 @@ Gmail: hello.tapodcast@gmail.com
  discusses the Divine Hiddenness argument, which suggests that if God exists, He would not want a world with non-resistant non-believers.  argues that this argument fails to take into account various Islamic theological arguments for the existence of God.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The argument from divine hiddenness is a popular argument against the existence of god. It claims that if god exists, he would not want a world with non-resistant non-believers because there would be disbelief. This argument is based on the assumption that god is a perfect being, which is not true.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The philosopher Jake Schelenberg argues that if there is a perfect loving god, then reasonable non-belief does not occur.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The "Divine Hiddenness" argument contends that if god exists, then there must be some non-resistant, non-believers. The argument goes that if god is perfectly loving, then he should always be open to a relationship with those who do not believe in him, but this is not the case.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** argues that the lack of evidence for the existence of a god is due to the lack of sufficient evidence, not because people don't want to believe. also points out that theism presupposes that there is insufficient evidence, and therefore, god doesn't exist because god would have provided sufficient evidence if he existed.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the idea that there could be sincere non-believers who are not resistant to belief, and that they do exist. He also argues that this person may be rational in their disbelief, even if they do not have all the arguments.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses an argument against Divine Hiddenness, which is the idea that God is always hidden from us, making it difficult to have a relationship with Him. The argument suggests that this is a possible position, given that God is logically contradictory.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses one of atheists' best arguments - that it is more plausible that there is no god than that God desires belief and submission. They argue that this premise is not supported by evidence and that there needs to be a separate argument to justify it. also discusses the idea that everyone is born upon the fitra and that natural religion is natural.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses the innate natural position that belief in God is the neutral position or belief in the supernatural belief and a higher power is a neutral position. It goes on to discuss the idea that there are people who are non-resistant and still don't believe, and that this is due to psychological factors such as having Christianity in the background or negative aspects of other religions.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses one of atheists' best arguments: that divine hiddenness renders belief in a creator impossible. The argument points out that, if a person is resistant to belief in a creator, they will not be convinced by clear arguments. Psychological factors (such as acceptance) can impede someone from accepting belief.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses why the Quran rejects the idea that people can be convinced to Islam simply through signs or miracles. They also discuss how people who have been given clear signs from God often go astray. Lastly, the speaker discusses how people who do not believe in Islam will not be punished in Hell.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses one of atheists' best arguments: divine hiddenness. They argue that belief alone, or the lack of belief, is not sufficient to send someone to hell. also discusses how the argument fails to take into account various Islamic theological arguments for the existence of God. Finally, the speaker points out that the underlying principle of the argument is already assuming that there is good sufficient justification for belief in God. This assumption is part of the reason the argument fails.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses why some people think that god is not obvious, and how this argument relates to the argument for divine hiddenness. argues that there is ample evidence to support the existence of a god.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The philosopher Jake Schelenberg argues that if there is a perfect loving god, then reasonable non-belief does not occur.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The "Divine Hiddenness" argument contends that if god exists, then there must be some non-resistant, non-believers. The argument goes that if god is perfectly loving, then he should always be open to a relationship with those who do not believe in him, but this is not the case.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** argues that the lack of evidence for the existence of a god is due to the lack of sufficient evidence, not because people don't want to believe. also points out that theism presupposes that there is insufficient evidence, and therefore, god doesn't exist because god would have provided sufficient evidence if he existed.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the idea that there could be sincere non-believers who are not resistant to belief, and that they do exist. He also argues that this person may be rational in their disbelief, even if they do not have all the arguments.
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses an argument against Divine Hiddenness, which is the idea that God is always hidden from us, making it difficult to have a relationship with Him. The argument suggests that this is a possible position, given that God is logically contradictory.
+- **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses one of atheists' best arguments - that it is more plausible that there is no god than that God desires belief and submission. They argue that this premise is not supported by evidence and that there needs to be a separate argument to justify it. also discusses the idea that everyone is born upon the fitra and that natural religion is natural.
+- **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses the innate natural position that belief in God is the neutral position or belief in the supernatural belief and a higher power is a neutral position. It goes on to discuss the idea that there are people who are non-resistant and still don't believe, and that this is due to psychological factors such as having Christianity in the background or negative aspects of other religions.
+- **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses one of atheists' best arguments: that divine hiddenness renders belief in a creator impossible. The argument points out that, if a person is resistant to belief in a creator, they will not be convinced by clear arguments. Psychological factors (such as acceptance) can impede someone from accepting belief.
+- **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Discusses why the Quran rejects the idea that people can be convinced to Islam simply through signs or miracles. They also discuss how people who have been given clear signs from God often go astray. Lastly, the speaker discusses how people who do not believe in Islam will not be punished in Hell.
+- **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Discusses one of atheists' best arguments: divine hiddenness. They argue that belief alone, or the lack of belief, is not sufficient to send someone to hell. also discusses how the argument fails to take into account various Islamic theological arguments for the existence of God. Finally, the speaker points out that the underlying principle of the argument is already assuming that there is good sufficient justification for belief in God. This assumption is part of the reason the argument fails.
+- **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Discusses why some people think that god is not obvious, and how this argument relates to the argument for divine hiddenness. argues that there is ample evidence to support the existence of a god.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  atheists discuss some of the best arguments against the existence of God. The arguments discussed include the argument from contingency, the argument from free will, and the argument from divine hiddenness.  also includes a discussion of how the presenter feels about the matter.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>**  an atheist discusses one of the best arguments against the existence of God: the argument from contingency. The argument from contingency states that something can exist contingently (i.e., it can exist without being necessary for the existence of other things), and this is not explained by its own existence. The atheist discusses how this argument might be flawed, and points out that there could be something which changes but still exists. This something could be the original thing that created everything else, and it would be imbued within everything.
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>* Discusses the idea of necessary being, which is defined as a being that has properties that could have been another way than the way it is.  explains that, if something is necessary, it cannot be contingent, or change, and that it must be something that is eternal and has always existed.  then goes on to say that, if something is contingent, it can change, and that it is self-contradiction to say that something is necessary and contingent. Ultimately, the video argues that something that is necessary can only be something that is eternal, and that it is impossible for something to be both necessary and contingent.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** , an atheist discusses why she believes that reality, including the universe and all of its contents, has an explanation - an explanation that comes from space-time energy and matter being created from something else that was eternal. She argues that if you accept classical laws of logic, then you must either accept that reality has an explanation or that it doesn't have an explanation. Ultimately, she argues that reality does have an explanation and that it is not simply space-time energy and matter that are created, but that there is something real and substantial behind it all.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** argues that because god has a will, a temporal effect from an eternal cause cannot occur. He also argues that because intelligence complicates things, a necessary entity does not have a will.
-* **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>**  the host argues that because we see objects around us behaving in ways that are not predictable, some things must have wills or minds. He then goes on to argue that, because we have free will, we can infer the existence of a necessary foundation that does not require the presence of a brain.
-* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** lays out three arguments for the existence of a mind, including the idea that minds are non-deterministic and necessitate a cause outside of themselves. He argues that this cause must be intentional, and that this intentionality must be based on some kind of code.
-* **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** Atheists argue that free will is the best explanation for why some things are necessary, and that the necessary being cannot be compelled. Abdul gives two arguments for free will.
-* **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** Atheists argue that it is impossible for something to be necessary without a will, and that this being, known as a necessary being, does not have a will.
-* **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** Carlos points out that some events that are considered miracles by religious people might not be miracles by atheists, because atheists would view them through a materialistic paradigm. He also points out that miracles often require a non-materialistic explanation.
-* **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>* Discusses the four arguments for and against divine will, and concludes with a discussion of how the presenter feels about the matter. The presenter believes that there is a possibility that divine will does not exist, but that it could just be a natural event.
-* **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>* Discusses the argument of divine hiddenness, which contends that if God exists, then there are no non-resistant non-believers. Carlos argues that the argument is a "rubbish" one, and Shadeep points out that the problem of evil is a stronger argument for God. Sharif points out that people in the past witnessed miracles, but still disbelieved.
-* **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses one of atheists' best arguments - that divine hiddenness makes it difficult to know for certain whether or not God exists. Ray argues that this argument is irrelevant to atheists, as they do not believe in a physical God.
+
+- **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Discusses the idea of necessary being, which is defined as a being that has properties that could have been another way than the way it is.  explains that, if something is necessary, it cannot be contingent, or change, and that it must be something that is eternal and has always existed.  then goes on to say that, if something is contingent, it can change, and that it is self-contradiction to say that something is necessary and contingent. Ultimately, the video argues that something that is necessary can only be something that is eternal, and that it is impossible for something to be both necessary and contingent.
+- **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** , an atheist discusses why she believes that reality, including the universe and all of its contents, has an explanation - an explanation that comes from space-time energy and matter being created from something else that was eternal. She argues that if you accept classical laws of logic, then you must either accept that reality has an explanation or that it doesn't have an explanation. Ultimately, she argues that reality does have an explanation and that it is not simply space-time energy and matter that are created, but that there is something real and substantial behind it all.
+- **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** argues that because god has a will, a temporal effect from an eternal cause cannot occur. He also argues that because intelligence complicates things, a necessary entity does not have a will.
+- **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>**  the host argues that because we see objects around us behaving in ways that are not predictable, some things must have wills or minds. He then goes on to argue that, because we have free will, we can infer the existence of a necessary foundation that does not require the presence of a brain.
+- **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** lays out three arguments for the existence of a mind, including the idea that minds are non-deterministic and necessitate a cause outside of themselves. He argues that this cause must be intentional, and that this intentionality must be based on some kind of code.
+- **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** Atheists argue that free will is the best explanation for why some things are necessary, and that the necessary being cannot be compelled. Abdul gives two arguments for free will.
+- **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** Atheists argue that it is impossible for something to be necessary without a will, and that this being, known as a necessary being, does not have a will.
+- **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** Carlos points out that some events that are considered miracles by religious people might not be miracles by atheists, because atheists would view them through a materialistic paradigm. He also points out that miracles often require a non-materialistic explanation.
+- **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** Discusses the four arguments for and against divine will, and concludes with a discussion of how the presenter feels about the matter. The presenter believes that there is a possibility that divine will does not exist, but that it could just be a natural event.
+- **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** Discusses the argument of divine hiddenness, which contends that if God exists, then there are no non-resistant non-believers. Carlos argues that the argument is a "rubbish" one, and Shadeep points out that the problem of evil is a stronger argument for God. Sharif points out that people in the past witnessed miracles, but still disbelieved.
+- **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Discusses one of atheists' best arguments - that divine hiddenness makes it difficult to know for certain whether or not God exists. Ray argues that this argument is irrelevant to atheists, as they do not believe in a physical God.
+
 ### <a onclick="modifyYTiframeseektime('7200')">02:00:00-03:00:00</a>
 
  discusses the atheist argument against divine hiddenness, which is that everything can be explained by physical non-conscious non-living matter. Atheists, according to the video, are forced to embrace a belief system which they cannot disprove.  goes on to discuss how using epistemology to come to ontological conclusions is a category error.
 
 **<a onclick="modifyYTiframeseektime('7200')">02:00:00</a>** argues that if one is going to make claims about gods, they should provide evidence. They go on to say that even if some Muslims believe in literal body parts for God, this does not prove that there is not a god. finishes by breaking down theism, deism, and Pantheism.
-* **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>** The definition of atheism states that atheism is typically defined as the absence of belief in God. It is often defined as the belief that God does not exist.
-* **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>** Raymond Aron argues that atheism is not the absence of the psychological condition of believing that there is a god, but rather the proposition that there are no gods. Rick Aron then challenges Raymond to provide evidence for his position, but Raymond insists that philosophical atheism is a position that holds that god does not exist.
-* **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>** argues that, because science cannot explain why things exist, there must be something else (God) responsible for creating and governing the universe.
-* **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>** argues that science cannot explain why things happen in the universe, and that this falls back to brute, or mere, contingency. He then goes on to say that this position is not based on faith, but rather on evidence.
-* **<a onclick="modifyYTiframeseektime('8700')">02:25:00</a>** , Jake discusses one of atheists' best arguments: divine hiddenness. He points out that science has limitations and that there is reason to think that the Quran will answer all questions.
-* **<a onclick="modifyYTiframeseektime('9000')">02:30:00</a>** Atheists generally argue that there's no good reason to believe in a god, citing scientific evidence that life only comes from life and that we never see life randomly forming. Eric, a theist, argues that atheism is a foolish position, and that most atheists don't even know what atheism is. He goes on to say that, even though he is a novice when it comes to philosophy, he trusts Abdul and the other philosophers on the Thought Adventure Podcast to leave him in the dirt when it comes to discussing science and theology.
-* **<a onclick="modifyYTiframeseektime('9300')">02:35:00</a>** The caller argues that, because there is no evidence for divine hiddenness, atheists have a blind faith in the idea. He also points out that, because faith is based on what we've seen, atheists also have a blind faith in the scientific method.
-* **<a onclick="modifyYTiframeseektime('9600')">02:40:00</a>** 's host, Eric Metaxas, discusses the atheist argument against divine hiddenness, which is that everything can be explained by physical non-conscious non-living matter. Atheists, he says, are forced to embrace a belief system which they cannot disprove. John Lee, a chat participant, comments that Vine Hiddenness, one of the arguments against God, has not been discussed by atheists.
-* **<a onclick="modifyYTiframeseektime('9900')">02:45:00</a>** summarizes the main points of their argument, which is that miracles are signs, not the thing itself. Miracles are not repeatable, so they cannot be evidence of the existence of God.
-* **<a onclick="modifyYTiframeseektime('10200')">02:50:00</a>* Discusses how using epistemology to come to ontological conclusions is a category error. Carlos makes the point that if someone holds certain views on the existence of other minds or the reality of the external world, they are using ontological conclusions based on their own epistemology and are inconsistent.
-* **<a onclick="modifyYTiframeseektime('10500')">02:55:00</a>* Discusses how an atheist can be agnostic about the existence of a divine being, but still hold that it must have some kind of explanation. It then goes on to discuss how this explanation may be either a contingent reality as a whole or a non-contingent reality, depending on the principle used to explain it. From an atheistic perspective, the first option is in principle the same as positing that there may not be an explanation for something, while the second option is to be consistent and believe that a necessary explanation exists.
+
+- **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>** The definition of atheism states that atheism is typically defined as the absence of belief in God. It is often defined as the belief that God does not exist.
+- **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>** Raymond Aron argues that atheism is not the absence of the psychological condition of believing that there is a god, but rather the proposition that there are no gods. Rick Aron then challenges Raymond to provide evidence for his position, but Raymond insists that philosophical atheism is a position that holds that god does not exist.
+- **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>** argues that, because science cannot explain why things exist, there must be something else (God) responsible for creating and governing the universe.
+- **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>** argues that science cannot explain why things happen in the universe, and that this falls back to brute, or mere, contingency. He then goes on to say that this position is not based on faith, but rather on evidence.
+- **<a onclick="modifyYTiframeseektime('8700')">02:25:00</a>** , Jake discusses one of atheists' best arguments: divine hiddenness. He points out that science has limitations and that there is reason to think that the Quran will answer all questions.
+- **<a onclick="modifyYTiframeseektime('9000')">02:30:00</a>** Atheists generally argue that there's no good reason to believe in a god, citing scientific evidence that life only comes from life and that we never see life randomly forming. Eric, a theist, argues that atheism is a foolish position, and that most atheists don't even know what atheism is. He goes on to say that, even though he is a novice when it comes to philosophy, he trusts Abdul and the other philosophers on the Thought Adventure Podcast to leave him in the dirt when it comes to discussing science and theology.
+- **<a onclick="modifyYTiframeseektime('9300')">02:35:00</a>** The caller argues that, because there is no evidence for divine hiddenness, atheists have a blind faith in the idea. He also points out that, because faith is based on what we've seen, atheists also have a blind faith in the scientific method.
+- **<a onclick="modifyYTiframeseektime('9600')">02:40:00</a>** 's host, Eric Metaxas, discusses the atheist argument against divine hiddenness, which is that everything can be explained by physical non-conscious non-living matter. Atheists, he says, are forced to embrace a belief system which they cannot disprove. John Lee, a chat participant, comments that Vine Hiddenness, one of the arguments against God, has not been discussed by atheists.
+- **<a onclick="modifyYTiframeseektime('9900')">02:45:00</a>** summarizes the main points of their argument, which is that miracles are signs, not the thing itself. Miracles are not repeatable, so they cannot be evidence of the existence of God.
+- **<a onclick="modifyYTiframeseektime('10200')">02:50:00</a>** Discusses how using epistemology to come to ontological conclusions is a category error. Carlos makes the point that if someone holds certain views on the existence of other minds or the reality of the external world, they are using ontological conclusions based on their own epistemology and are inconsistent.
+- **<a onclick="modifyYTiframeseektime('10500')">02:55:00</a>** Discusses how an atheist can be agnostic about the existence of a divine being, but still hold that it must have some kind of explanation. It then goes on to discuss how this explanation may be either a contingent reality as a whole or a non-contingent reality, depending on the principle used to explain it. From an atheistic perspective, the first option is in principle the same as positing that there may not be an explanation for something, while the second option is to be consistent and believe that a necessary explanation exists.
+
 ### <a onclick="modifyYTiframeseektime('10800')">03:00:00-03:00:00</a>
 
  "One of Atheists’ Best Arguments: Divine Hiddenness | Thought Adventure Podcast #14" discusses the divine hiddenness argument, which is based on the assumption that God is hidden from us. Mr. Ray argues that this assumption is not necessarily true, and that the divine hiddenness argument doesn't operate in any meaningful way in the philosophical discussion.

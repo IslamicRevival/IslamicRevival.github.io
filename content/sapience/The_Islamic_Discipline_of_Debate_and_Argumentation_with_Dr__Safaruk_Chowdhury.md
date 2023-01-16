@@ -6,10 +6,9 @@ Hamza Andreas Tzortzis interviews on Dr. Safaruk Chowdhury on the Islamic discip
 
 In this interview Dr. Chowdhury discusses the content of the new book he has translated and annotated, “A Treatise on Disputation and Argument: Risālat al-Ādāb Fī ʿIlm al-Baḥth wa’l-Munāẓara”. Written by Shaykh Aḥmad b. Khalīl Taşköprüzāde this book covers the etiquette of debates, various types of logic, Quranic and Prophetic argumentation, logical fallacies and more.
 
-You can purchase the book here: https://www.amazon.co.uk/Treatise-Disputation-Argument-al-Baḥth-wal-Munāẓara/dp/B08DT1FMVP.
+You can purchase the book here: <https://www.amazon.co.uk/Treatise-Disputation-Argument-al-Baḥth-wal-Munāẓara/dp/B08DT1FMVP>.
 
 ## Summary of [The Islamic Discipline of Debate and Argumentation with Dr. Safaruk Chowdhury](https://www.youtube.com/watch?v=VgFH2Qr7WP0)
-
 
 *
 
@@ -20,22 +19,25 @@ You can purchase the book here: https://www.amazon.co.uk/Treatise-Disputation-Ar
  discusses the Islamic discipline of debate and argumentation, which Dr. Safaruk Chowdhury views as essential for engaging and empowering Muslims to think critically about Islam. He discusses the importance of translating and annotating the book, and how it fills a gap in the kind of outreach available to Muslims.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Dr. Safaruk Chowdhury discusses the Islamic Discipline of Debate and Argumentation, which he views as essential for engaging and empowering Muslims to think critically about Islam. He discusses the importance of translating and annotating the book, and how it fills a gap in the kind of outreach available to Muslims.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Dr. Safaruk Chowdhury discusses the Islamic discipline of debate and argumentation, noting that the goal is to find the truth. He points out that debates have an epistemic goal, which is to account for the truth.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Safaruk Chowdhury discusses the Islamic discipline of debate and argumentation, which has a social goal of increasing faith in Muslims. He recalls a debate he had with Professor Lawrence Krauss many years ago, and how it increased the iman of some students. He goes on to say that the discipline of debate and argumentation also has social impact, as it is a part of Islamic societies' social interactions. Finally, he provides a definition of bath, and explains that it refers to the principles by which a person arrives at or avoids errors in debate.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Dr. Safaruk Chowdhury discusses the importance of using logic in debates and discussions, giving example of a syllogistic argument.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the basics of logic, including syllogism, predicate logic, and modal logic. It also covers how these concepts can be used in debate and other forms of communication.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the basics of logic, including syllogism, predicate logic, and modal logic. It also covers how these concepts can be used in debate and other forms of communication.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Dr. Safaruk Chowdhury discusses how the Islamic tradition recognizes the value of logical arguments and how the Qur'an contains logical structures. He also points out that the Qur'an can be used to support various logical arguments.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Dr. Safaruk Chowdhury discusses the Islamic doctrine of argumentation and debate, explaining that if an object has the power over sunrise, then that object is considered to be God. He goes on to discuss various logical Fallacies, including the slippery slope fallacy and the hasty generalization fallacy.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses the Islamic discipline of debate and argumentation, which emphasizes the importance of correctly reasoning in order to reach truth. Fallacies, which are incorrect arguments, can befall anyone, regardless of their level of experience or expertise in logic.
+* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses the Islamic discipline of debate and argumentation, which emphasizes the importance of correctly reasoning in order to reach truth. Fallacies, which are incorrect arguments, can befall anyone, regardless of their level of experience or expertise in logic.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** The fallacy of inflation of conflict is a logical fallacy that says that because two people differ on a particular issue, they cannot say anything meaningful about that issue.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Islamic etiquette dictates that debates between scholars be conducted in a respectful and dignified manner, and that one should avoid debating people who are considered "yani" or respectful and dignified.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The Islamic Discipline of Debate and Argumentation with Dr. Safaruk Chowdhury discusses the quranic method of argumentation, which is different from philosophical argumentation. Additionally, the video discusses features of Quranic argumentation, such as its appeal to the intellect and emotions, and its use of evidence. Finally, the video discusses the Islamic view of debates with non-Muslim interlocutors, stressing that they must be treated with respect.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The Islamic discipline of debate and argumentation is a powerful way to communicate religious beliefs to those who may not be receptive to them. Dr. Safaruk Chowdhury discusses various styles of argument used in the Quran and the Prophet Muhammad's methodology for using them.
+
 ### <a onclick="modifyYTiframeseektime('4200')">01:00:00 [01:10:00</a>
 
 The Islamic discipline of debate and argumentation is a way to help people learn about the differences between philosophical arguments and Quranic arguments.  Dr. Safaruk Chowdhury discusses the nature of Islamic argumentation and how it differs from philosophical argumentation. He also explains how the Quran came to agitate people's fitra (inner sense of righteousness or balance).
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** The Islamic discipline of debate and argumentation is a way to help people learn about the differences between philosophical arguments and Quranic arguments.  Dr. Safaruk Chowdhury discusses the nature of Islamic argumentation and how it differs from philosophical argumentation. He also explains how the Quran came to agitate people's fitra (inner sense of righteousness or balance).
+
 * **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** advises Muslims to avoid debating unless it is absolutely necessary, and to be sincere in their arguments. He also advises Muslims to avoid debating abstract concepts, and to use argumentation and dialogue to deliver the truth.
 * **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** The Islamic discipline of debate and argumentation is important for showing the intellectual side of Islam to the people, but must be done with sincerity and with regard to the well-being of others. Dr. Safaruk Chowdhury provides advice on how to do this in his book, "The Islamic Discipline of Debate and Argumentation."
 

@@ -6,8 +6,9 @@
 
 Londoniyyah - Part 9 - Proofs of God's Existence / 2 | Mohammed Hijab
 
-To be updated about our content please subscribe and open the notifications.
+To be updated about our content please subscribe and open the notifications
 ----
+
 BOOK A LIGHTHOUSE MENTOR
 
 Are you or someone you know doubting Islam? Do you find yourself struggling to find answers?  Do you have a hard time speaking to someone about Islam?  Are you considering Islam but are unsure about certain concepts?  Are you an activist, Imam or community leader who is unsure about how to handle questions related to science, philosophy, the Islamic moral code, etc.?
@@ -16,12 +17,11 @@ You are not alone.  Over the course of the last decade or more there has been a 
 
 Seeing the rise of  this phenomenon , Sapience Institute is introducing a One to One mentoring service called LIGHTHOUSE.
 
-BOOK A MENTOR HERE: https://sapienceinstitute.org/lighthouse/
+BOOK A MENTOR HERE: <https://sapienceinstitute.org/lighthouse/>
 
-VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: https://sapienceinstitute.org/
+VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: <https://sapienceinstitute.org/>
 
 ## Summary of [Londoniyyah - Part 10 - Proofs of God's Existence / 2 | Mohammed Hijab](https://www.youtube.com/watch?v=_zPCNPYaAbs)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -29,15 +29,16 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 
  discusses the proposition that everything made up of pieces is dependent, and shows how this can be applied to the universe and the infinite multiverse.  then goes on to discuss how this argument can be made on a mathematical basis.  argues that the universe is dependent on other things, an idea which is supported by set theory, mathematics, and geometry. The atheist cannot argue that the universe is dependent on something without knowing the whole, which is something that cannot be known empirically.  finishes by saying that denying logic, mathematics, and geometry is better than just a cosmological reality.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the proposition that everything made up of pieces is dependent, and shows how this can be applied to the universe and the infinite multiverse.  then goes on to discuss how this argument can be made on a mathematical basis.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the proposition that everything made up of pieces is dependent, and shows how this can be applied to the universe and the infinite multiverse.  then goes on to discuss how this argument can be made on a mathematical basis.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  argues that the universe is dependent on other things, an idea which is supported by set theory, mathematics, and geometry. The atheist cannot argue that the universe is dependent on something without knowing the whole, which is something that cannot be known empirically.  finishes by saying that denying logic, mathematics, and geometry is better than just a cosmological reality.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** argues that existence is more foundational than anything else and that this establishes the first part of the argument for the existence of God. He goes on to say that modal categories (such as possibility, necessity, and scientific impossibility) are metaphysical and not based on the physical world. He then argues that the universe can be conceivably rearranged abstractly, which means it is contingent, and not necessarily necessary.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The four proofs of God's existence discussed in this video are that the universe is contingent, that it is possible for something to be otherwise, that it is necessary for something to account for a series of contingencies, and that the universe is fine-tuned for life. This last point is not controversial, as it is agreed by both the belligerent atheists and the devout believers.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** The fifth proof in the Londoniyyah video series is a code-based argument. If someone is not skeptical about causation, then they can believe in Darwinian evolution. Without causation, there is no way to explain how anything came to be.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** The argument from oneness states that there cannot be more than one necessary existence, and that this eliminates the possibility of the trinity being true. This argument is based on the idea that if there is a necessary existence, then it cannot be another way, which rules out the possibility of more than one existence.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** in this video argues that it is impossible for two all-powerful entities to exist together, as this would lead to contradictions. He goes on to say that, even if two entities were capable of everything, one would still be over all things because it is the only thing that is necessary for everything else to exist.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses the idea that there can be two contradictory entities that are both powerful and able at the same time, which is impossible. It argues that this is an impossible state of affairs, and so god cannot be of all things powerful.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses the idea that a centralized will is indicative of a fact that nature is stable, regular, and predictable. It also provides an example of this in the form of an airplane.
+* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses the idea that there can be two contradictory entities that are both powerful and able at the same time, which is impossible. It argues that this is an impossible state of affairs, and so god cannot be of all things powerful.
+* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses the idea that a centralized will is indicative of a fact that nature is stable, regular, and predictable. It also provides an example of this in the form of an airplane.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  lectures on proofs of God's existence, including the argument from design and the argument from miracles. It concludes with a discussion of how these proofs can help believers understand and appreciate God's existence.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

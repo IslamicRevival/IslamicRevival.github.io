@@ -4,12 +4,11 @@
 
 ## Description
 
-This is a lecture which aims to showcase some of the epesemic/methodological contradictions of feminism. 
- 
+This is a lecture which aims to showcase some of the epesemic/methodological contradictions of feminism.
+
 It also asks the question - to what extent is Islam compatible with feminism and vice versa?
 
 ## Summary of [Feminist Contradictions || Malaysia Lecture 2019](https://www.youtube.com/watch?v=DAa67Pw6Zpg)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -18,17 +17,19 @@ It also asks the question - to what extent is Islam compatible with feminism and
  discusses contradictions in feminism, specifically focusing on Malaysia's current situation where there is a lack of balance in rights and equality between men and women. It also touches on the issue of maternity leave, which is currently not required in Malaysia but is in England where it is discriminatory. Finally, the speaker discusses the Islamic concept of an all-powerful, all-knowing, and all-wise god, which has exceptions that apply in specific cases.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** This lecture discusses feminist contradictions in Malaysia, focusing on traditionalist and second-wave assumptions about women and sex. It addresses the problem of dependency, as well as the difference between equity and equality between men and women. Finally, it describes intersectional feminism, which is important for Muslims to understand and use to their advantage.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Second-wave feminists argue that there are biological and anatomical differences between men and women, but ultimately believe that there should be equality between the sexes. Islamic discourse, on the other hand, believes that there should be an equality between men and women in front of the law, with certain exceptions.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  Simone de Beauvoir discusses the inconsistencies between feminism and the idea of equality. She argues that despite physical differences between men and women, there should be equality between the genders. She gives three examples of how this inconsistency can be problematic, including the idea of transgendered athletes.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** This feminist argues that, in some cases, feminists want equality of opportunity, but also want equal outcomes, or "equality of outcome." She equates this with "selective invocation," or using arguments selectively to support a particular viewpoint.
 
 The feminist points out that, in some cases, feminists want segregation in sports, in order to give advantage to certain groups, but they also want equality of opportunity. She argues that this isn't consistent, and that feminists need to be more consistent in their positions. She also points out that, in war, there is a higher risk of death and injury, and that feminists should be fighting for equality in all spheres, not just in sports.
+
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>**  feminist contradictions are addressed. First, the history of male dominance in the military is discussed. Then, feminism's first principles are discussed, and examples of inconsistencies within the movement are given. Intersectional feminism is introduced, and its negative effects on second-wave feminism are highlighted. Finally, the history of colonization in Malaysia is discussed.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** This lecture discusses how early feminism was divided into "stands" based on how important various aspects of women's lives were to them. One stand, "intersectional feminism," considers not only gender, but also race, class, and sexuality. This perspective has the potential to help women see their lives from a more holistic perspective, and it is often met with resistance from those who prioritize only gender-based issues.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses contradictions between feminist understandings of gender, Eurocentric understandings of gender, and Islamic understandings of gender. She says that if feminism is true, then it should allow women to consent to be in a patriarchal structure, where their decisions are hidden from male eyes. She argues that obedience is severely curtailed in Islamic households, and that this leaves the woman with much stress.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses feminist contradictions in Malaysia, specifically highlighting the idea that women should be paid for their role as "wrighters of the family," as well as the problem of gridlock that would result from having equal decision-making power within a relationship.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses contradictions in feminism, specifically focusing on Malaysia's current situation where there is a lack of balance in rights and equality between men and women. It also touches on the issue of maternity leave, which is currently not required in Malaysia but is in England where it is discriminatory. Finally, the speaker discusses the Islamic concept of an all-powerful, all-knowing, and all-wise god, which has exceptions that apply in specific cases.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses feminism and contradictions. He points out that, despite the efforts of some feminists, there are still many differences between men and women, and that some feminists consider these differences to be advantages. He advises readers to make a decision about whether they want to submit to the law or not and to escape the "sessional" form of feminism.
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses contradictions between feminist understandings of gender, Eurocentric understandings of gender, and Islamic understandings of gender. She says that if feminism is true, then it should allow women to consent to be in a patriarchal structure, where their decisions are hidden from male eyes. She argues that obedience is severely curtailed in Islamic households, and that this leaves the woman with much stress.
+* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses feminist contradictions in Malaysia, specifically highlighting the idea that women should be paid for their role as "wrighters of the family," as well as the problem of gridlock that would result from having equal decision-making power within a relationship.
+* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses contradictions in feminism, specifically focusing on Malaysia's current situation where there is a lack of balance in rights and equality between men and women. It also touches on the issue of maternity leave, which is currently not required in Malaysia but is in England where it is discriminatory. Finally, the speaker discusses the Islamic concept of an all-powerful, all-knowing, and all-wise god, which has exceptions that apply in specific cases.
+* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Discusses feminism and contradictions. He points out that, despite the efforts of some feminists, there are still many differences between men and women, and that some feminists consider these differences to be advantages. He advises readers to make a decision about whether they want to submit to the law or not and to escape the "sessional" form of feminism.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

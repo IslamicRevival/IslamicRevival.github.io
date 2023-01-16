@@ -6,22 +6,22 @@
 
 Session 1 Part 4
 
-In an age of information overload and widespread pseudo-intellectualism, understanding the core foundations of Islam is as essential as ever. 
+In an age of information overload and widespread pseudo-intellectualism, understanding the core foundations of Islam is as essential as ever.
 
 This course comprehensively deconstructs the skeletal structure of prevalent ideologies and concepts such as atheism, scientism, materialism, secularism, and skepticism, in light of an all-encompassing intellectually robust Islamic worldview.
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -29,40 +29,39 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
-#RationalityRules #EvidenceForGod #Atheism
+# RationalityRules #EvidenceForGod #Atheism
 
 ## Summary of [The Rational Thought | The Evidence Course | Session 1 / Part 4](https://www.youtube.com/watch?v=Nb7HHZDr5vU)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -70,10 +69,11 @@ Gmail: hello.tapodcast@gmail.com
 
  is part of a course on rational thought. It discusses how thoughts are generated and how they can be interpreted. It also discusses how language must be taught to us in order to be acquired. The course emphasizes the importance of previous information in order to understand thoughts.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the concept of thought, how it is generated, and how it can be interpreted. It also discusses how previous information is needed in order to understand thought.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses how language cannot be acquired by oneself, and must be taught to us. It also discusses the story of Adam Laysan, who was taught the names of things by Allah.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The Rational Thought course discusses the four components of rational thinking: reality, senses, brain, and previous information. These components help generate thoughts and determine what is real. The course also discusses causality, which is essential for rational thinking.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the rational thought process, which requires the reality of things and the senses in the brain. Previous information is also necessary, such as the Quran. The rational thought process also requires the principle of causality.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the concept of thought, how it is generated, and how it can be interpreted. It also discusses how previous information is needed in order to understand thought.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses how language cannot be acquired by oneself, and must be taught to us. It also discusses the story of Adam Laysan, who was taught the names of things by Allah.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The Rational Thought course discusses the four components of rational thinking: reality, senses, brain, and previous information. These components help generate thoughts and determine what is real. The course also discusses causality, which is essential for rational thinking.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the rational thought process, which requires the reality of things and the senses in the brain. Previous information is also necessary, such as the Quran. The rational thought process also requires the principle of causality.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

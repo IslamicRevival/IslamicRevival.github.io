@@ -2,13 +2,12 @@
 
 <iframe loading='lazy' src='https://www.youtube.com/embed/9YvFkTZegV8'></iframe>## Description
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
 
 ## Summary of [Hamza Tzortzis Dismantles William Lane Craig](https://www.youtube.com/watch?v=9YvFkTZegV8)
-
 
 *
 
@@ -19,6 +18,7 @@ Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
 Hamza Tzortzis argues that the biblical god is not maximally forgiving, and consequently is not maximally loving. He also points out that the Islamic conception of love is based on maximal forgiveness because it just takes a human heart to repent to the divine. This perspective undermines Craig's moral duties, according to Tzortzis.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Hamza Tzortzis is discussing a clip from William Lane Craig in which Craig argues that the biblical god is not maximally loving. Tzortzis points out that Craig has not studied the Islamic intellectual spiritual tradition properly, and that this is problematic because Craig has been willing to be very nuanced and philosophical when it comes to philosophical ideas, but when it comes to the divine and Islamic tradition, he basically regurgitates a form of narrative that echoes someone who's been on google.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Hamza Tzortzis argues that the biblical god is not maximally forgiving, and consequently is not maximally loving. He also points out that the Islamic conception of love is based on maximal forgiveness because it just takes a human heart to repent to the divine and this is why in the Christian tradition because of John 3:16 because of the sacrifice and the atonement, what the biblical narrative is saying is that human sin limits god's mercy.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Hamza Tzortzis argues that the concept of God in Islam and Christianity are very different, with the Islamic concept of God being morally defective. He asks William Lane Craig to clarify his conception of love, and Craig responds that love is to love goodness, mercy, and kindness.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** , Hamza Tzortzis deconstructs William Lane Craig's theology, which he argues is not maximally perfect. Craig's teachings on love and mercy are contrasted with Ali Ghazali's, who argues that allah is loving and content with creation. This perspective undermines Craig's moral duties, according to Tzortzis.

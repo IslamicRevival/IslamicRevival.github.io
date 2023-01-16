@@ -12,7 +12,6 @@ God willing I will produce a separate video on each council.
 
 ## Summary of [A new series on the seven great Church Councils beginning with the Council of Nicaea in 325AD](https://www.youtube.com/watch?v=xDMqo1jMVH4)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
@@ -20,6 +19,7 @@ God willing I will produce a separate video on each council.
 The video discusses the seven great Church Councils, beginning with the Council of Nicaea in 325 AD. The Council of Nicaea decided that Jesus was both God and man, and that the Father and Son shared the same substance. This doctrine, called the Trinity, was later defined in the Creed of the Church. The video then recommends a book about the Council of Nicaea called "When Jesus Became God: The Struggle to Define Christianity During the Last Days of Rome."
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The Council of Nicaea in 325 AD was a meeting of bishops from throughout the Christian world to discuss what the Christian faith should be. The council is still recited in every mass on Sunday, and virtually all other churches subscribe to it.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The seven great Church Councils are discussed in this video, beginning with the Council of Nicaea in 325 AD. The Council of Nicaea decided that Jesus was both God and man, and that the Father and Son shared the same substance. This doctrine, called the Trinity, was later defined in the Creed of the Church. The Council had nothing to do with the doctrine of the trinity, which was left until later. Two of the most common misconceptions about the Church are that it decided which gospels would become part of the Bible and that it created the doctrine of the trinity.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The seven great Church Councils are summarized, including the Council of Nicaea in 325 AD. The video then goes on to recommend a book about the Council of Nicaea called "When Jesus Became God: The Struggle to Define Christianity During the Last Days of Rome."
 

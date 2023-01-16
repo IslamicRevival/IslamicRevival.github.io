@@ -8,17 +8,17 @@ A brief overview of an incredibly interesting yet neglected aspect of the Qurani
 
 ## Summary of [The Structural Miracle of the Quran](https://www.youtube.com/watch?v=ciQVUBMyVkY)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:15:00</a>
 
  discusses the structural coherence of the Quran, which supports its validity as a source of guidance for Muslims. It also discusses the predictions made by the Quran concerning future events, including the fate of Prophet Muhammad and the Jews.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the structural coherence of the Quran, which supports its validity as a source of guidance for Muslims. It also discusses the predictions made by the Quran concerning future events, including the fate of Prophet Muhammad and the Jews.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the structural coherence of the Quran, which supports its validity as a source of guidance for Muslims. It also discusses the predictions made by the Quran concerning future events, including the fate of Prophet Muhammad and the Jews.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The Structural Miracle of the Quran is a video that discusses the structure of the Quran, which is said to be cohesive and organized.  also points out that the Quran contains predictions about the future that can be easily disproven.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The Structural Miracle of the Quran is a lecture by Neil Robbins about how the Quran is arranged in a way that reflects the future. Robbins lists several examples of how the Quran is connected, including its use of third person narration, its transitions, and its advocacy after 11:00 PM. He argues that the Quran is the most powerful slow-moving book ever written.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the structural miracle of the Quran, which is its ability to bounce back and continue to be relevant even after thousands of years.  also discusses the importance of witnesses, and how difficult it can be to replicate this type of message.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the structural miracle of the Quran, which is its ability to bounce back and continue to be relevant even after thousands of years.  also discusses the importance of witnesses, and how difficult it can be to replicate this type of message.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

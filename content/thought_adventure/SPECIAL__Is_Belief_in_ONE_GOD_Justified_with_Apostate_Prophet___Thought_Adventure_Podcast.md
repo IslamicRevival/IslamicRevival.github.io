@@ -4,24 +4,24 @@
 
 ## Description
 
-In this special stream the TAP brothers will be speaking to the Ex-Muslim Ridvan Aydemir (aka Apostate Prophet) on the the subject of whether belief in one God is justified. 
+In this special stream the TAP brothers will be speaking to the Ex-Muslim Ridvan Aydemir (aka Apostate Prophet) on the the subject of whether belief in one God is justified.
 
-Belief in God forms the central pillar of the Islamic belief and the first belief in the shahada (declaration of Islamic faith). Therefore the acceptance of Islam is premised on whether one believes that God exists. If this belief isn’t justified then belief in Islam would also not be justified. However if God does exist then this forms part of the justification for Islam. 
+Belief in God forms the central pillar of the Islamic belief and the first belief in the shahada (declaration of Islamic faith). Therefore the acceptance of Islam is premised on whether one believes that God exists. If this belief isn’t justified then belief in Islam would also not be justified. However if God does exist then this forms part of the justification for Islam.
 
 This then becomes the most important discussion when engaging with an atheist and other aspects of Islam would come after this belief in God is established.
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -29,40 +29,39 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
-#Theism #Islam #Atheism
+# Theism #Islam #Atheism
 
 ## Summary of [SPECIAL: Is Belief in ONE GOD Justified? with Apostate Prophet | Thought Adventure Podcast](https://www.youtube.com/watch?v=NaJuYozrxDI)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -71,42 +70,47 @@ Gmail: hello.tapodcast@gmail.com
  "SPECIAL: Is Belief in ONE GOD Justified? with Apostate Prophet | Thought Adventure Podcast" discusses the justification for belief in one God. The presenter provides rational justification for this belief, based on the fact that humans have been speculating on the existence of God for thousands of years.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Ridwan, also known as the Apostate Prophet, discusses the existence of God with Jake and Sharif. Jake points out that the question of God's existence is an important philosophical question, and Ridwan says that he doesn't care about power struggles and name calling. Ridwan asks Jake to listen to him and allow a reasonable exchange.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses why belief in one God is justified, and why it is not irrelevant to the question of God. He argues that belief in one God is necessary for certain purposes, and that specifying and defining this necessary being is important for understanding why God is necessary. However, he does not think that belief in one God is relevant to the question of God.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses whether or not belief in one god is justified. The atheist philosopher argues that the question is irrelevant and that it relies on sophistry. The theist counters that a necessary being is possible, and that in this way, it is not contradictory.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  "SPECIAL: Is Belief in ONE GOD Justified? with Apostate Prophet | Thought Adventure Podcast" discusses the concept of a necessary being, and whether or not belief in one God is justified. points out that, before making any assumptions about whether or not a necessary being exists, we must first define what that term means. also discusses the concept of contingency, and how it applies to the discussion of God. He concludes that, while contingency may be a part of what makes something necessary, it is not necessarily relevant to the discussion of belief in one God.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Atheist philosopher Abdul asks his atheist friend Jake why he believes in one God, given that the question is irrelevant to Jake's atheism. Jake responds that Jake believes in one God because of the pen that he uses to write, and Abdul argues that this is a reason to believe in one God. Jake then asks Abdul to explain his reasoning, which Abdul does.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** tries to explain the concept of a necessary being, which is something that exists in all possible worlds. If a necessary being is possible, then by definition it exists in all possible worlds. This does not mean that the necessary being is God, as it could be anything. argues that based on modal logic, once we say that a necessary being is possible, it then entails that the necessary being actually exists. If we can't even get clear on whether or not it's possible, then we can't get to the conclusion that a necessary being exists. concludes that atheists may have a misunderstanding of what he is trying to say, and that he is sorry about his attitude.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>**  "SPECIAL: Is Belief in ONE GOD Justified? with Apostate Prophet | Thought Adventure Podcast" discusses the problem of begging the question and how it relates to the question of whether one God exists. 's guest, an apostate prophet, argues that the question of one God's existence is irrelevant because it assumes that a necessary being exists. This necessary being, according to the apostate prophet, is nothing more than modern energy.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses how belief in one god is justified, and the presenter provides rational justification for this belief.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Sharif argues that belief in one God is justified, based on the fact that humans exist and have speculated on the existence of God for thousands of years. He also argues that belief in God does not require a certain level of certainty, as it can be reasonable for people to believe in God based on the evidence gathered so far.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses how belief in God is often based on assumptions rather than evidence, and how a possible event like the appearance of a leg from nowhere can lead to a reconsideration of belief.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the argument for the existence of a necessary being, which is that all contingent realities require an explanation outside of themselves. It argues that one possible explanation is that a necessary being exists, which would answer the question of whether this universe has a beginning. However, the video argues that these thoughts and discussions are clouded and dark and don't actually lead us anywhere.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Ridwan discusses the problem of Hell and how it conflicts with the Islamic concept of morality. He believes that the idea is incoherent and inconsistent.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses why belief in one God is justified, and why it is not irrelevant to the question of God. He argues that belief in one God is necessary for certain purposes, and that specifying and defining this necessary being is important for understanding why God is necessary. However, he does not think that belief in one God is relevant to the question of God.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses whether or not belief in one god is justified. The atheist philosopher argues that the question is irrelevant and that it relies on sophistry. The theist counters that a necessary being is possible, and that in this way, it is not contradictory.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  "SPECIAL: Is Belief in ONE GOD Justified? with Apostate Prophet | Thought Adventure Podcast" discusses the concept of a necessary being, and whether or not belief in one God is justified. points out that, before making any assumptions about whether or not a necessary being exists, we must first define what that term means. also discusses the concept of contingency, and how it applies to the discussion of God. He concludes that, while contingency may be a part of what makes something necessary, it is not necessarily relevant to the discussion of belief in one God.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Atheist philosopher Abdul asks his atheist friend Jake why he believes in one God, given that the question is irrelevant to Jake's atheism. Jake responds that Jake believes in one God because of the pen that he uses to write, and Abdul argues that this is a reason to believe in one God. Jake then asks Abdul to explain his reasoning, which Abdul does.
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** tries to explain the concept of a necessary being, which is something that exists in all possible worlds. If a necessary being is possible, then by definition it exists in all possible worlds. This does not mean that the necessary being is God, as it could be anything. argues that based on modal logic, once we say that a necessary being is possible, it then entails that the necessary being actually exists. If we can't even get clear on whether or not it's possible, then we can't get to the conclusion that a necessary being exists. concludes that atheists may have a misunderstanding of what he is trying to say, and that he is sorry about his attitude.
+- **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>**  "SPECIAL: Is Belief in ONE GOD Justified? with Apostate Prophet | Thought Adventure Podcast" discusses the problem of begging the question and how it relates to the question of whether one God exists. 's guest, an apostate prophet, argues that the question of one God's existence is irrelevant because it assumes that a necessary being exists. This necessary being, according to the apostate prophet, is nothing more than modern energy.
+- **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses how belief in one god is justified, and the presenter provides rational justification for this belief.
+- **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Sharif argues that belief in one God is justified, based on the fact that humans exist and have speculated on the existence of God for thousands of years. He also argues that belief in God does not require a certain level of certainty, as it can be reasonable for people to believe in God based on the evidence gathered so far.
+- **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Discusses how belief in God is often based on assumptions rather than evidence, and how a possible event like the appearance of a leg from nowhere can lead to a reconsideration of belief.
+- **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Discusses the argument for the existence of a necessary being, which is that all contingent realities require an explanation outside of themselves. It argues that one possible explanation is that a necessary being exists, which would answer the question of whether this universe has a beginning. However, the video argues that these thoughts and discussions are clouded and dark and don't actually lead us anywhere.
+- **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Ridwan discusses the problem of Hell and how it conflicts with the Islamic concept of morality. He believes that the idea is incoherent and inconsistent.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  discusses the Islamic perspective on whether belief in one God is justified. The Islamic position is that one who rejects the truth after seeing it will go to hell. argues that belief in one God is justified but that there is an inconsistency within the Islamic tradition, making it incoherent.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** , an apostate Muslim prophet argues that belief in one god is justified because it is inconsistent with the morals that this god preaches. He also argues that the idea of numerous billions of people going to hell for eternity is evil.
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** argues that belief in one God is justified because Allah is an eternal being and can forgive more than humans can. He points out that Allah is more forgiving than humans because he is eternal and can forgive more than humans can. If there is a contradiction between what Allah says and what he does, then the speaker argues that it is not a contradiction.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Yusuf is discussing how belief in one God is justified and how it is not contradictory or inconsistent because of the many attributes that God has. He also discusses how belief in one God does not preclude him from punishing people in hell.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>* Discusses the idea that belief in one God is justified, and Apostate Prophet argues that this belief is based on emotional rather than objective grounds. He also argues that this belief is inconsistent, as it would require someone to forgive someone who has done horrendous things to them.
-* **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>**  "SPECIAL: Is Belief in ONE GOD Justified? with Apostate Prophet | Thought Adventure Podcast" discusses the Islamic perspective on whether some people are punished in Hell for not believing in God. Islamic theology holds that some people are punished only if the prophets were sent to them, and that no person is punished for not believing in God for nothing else.  argues that the idea of free will is a biblical doctrine, and that even before Allah created any humans, he knew what they would do with their free will.
-* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>* Discusses the Islamic perspective on whether belief in one God is justified. The Islamic position is that one who rejects the truth after seeing it will go to hell.
-* **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** argues that belief in one God is justified but that there is an inconsistency within the Islamic tradition, making it incoherent.
-* **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>* Discusses the problem of hell, and argues that belief in one god is logically incoherent. He asks the listener to consider the idea that hell is unjust, and asks the listener to make a stronger case for that argument.
-* **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** critiques the idea that belief in one god is justified, pointing out that the argument is incoherent. He then asks the audience to point out any cop-outs he may have made.
-* **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>* Discusses the two propositions that Islam puts forward, that Allah is all-knowing and all-merciful, and that Allah creates humans despite knowing they will eventually burn in hell.  then discusses how these propositions contradict each other, and concludes that the first proposition is incoherent.
-* **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>* Discusses the problems of other minds and how we identify things have minds. It argues that because we lack knowledge in one area, skepticism is justified in another area. It argues that because the necessary being is non-deterministic and does not have a cause, it is necessarily true.
-* **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** The atheist argues that we know very little about reality, and that all the explanations we have for things are naturalistic. He provides a plausible explanation for why the necessary foundation or first cause necessarily has a will and mind.
+
+- **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** argues that belief in one God is justified because Allah is an eternal being and can forgive more than humans can. He points out that Allah is more forgiving than humans because he is eternal and can forgive more than humans can. If there is a contradiction between what Allah says and what he does, then the speaker argues that it is not a contradiction.
+- **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Yusuf is discussing how belief in one God is justified and how it is not contradictory or inconsistent because of the many attributes that God has. He also discusses how belief in one God does not preclude him from punishing people in hell.
+- **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** Discusses the idea that belief in one God is justified, and Apostate Prophet argues that this belief is based on emotional rather than objective grounds. He also argues that this belief is inconsistent, as it would require someone to forgive someone who has done horrendous things to them.
+- **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>**  "SPECIAL: Is Belief in ONE GOD Justified? with Apostate Prophet | Thought Adventure Podcast" discusses the Islamic perspective on whether some people are punished in Hell for not believing in God. Islamic theology holds that some people are punished only if the prophets were sent to them, and that no person is punished for not believing in God for nothing else.  argues that the idea of free will is a biblical doctrine, and that even before Allah created any humans, he knew what they would do with their free will.
+- **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** Discusses the Islamic perspective on whether belief in one God is justified. The Islamic position is that one who rejects the truth after seeing it will go to hell.
+- **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** argues that belief in one God is justified but that there is an inconsistency within the Islamic tradition, making it incoherent.
+- **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** Discusses the problem of hell, and argues that belief in one god is logically incoherent. He asks the listener to consider the idea that hell is unjust, and asks the listener to make a stronger case for that argument.
+- **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** critiques the idea that belief in one god is justified, pointing out that the argument is incoherent. He then asks the audience to point out any cop-outs he may have made.
+- **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** Discusses the two propositions that Islam puts forward, that Allah is all-knowing and all-merciful, and that Allah creates humans despite knowing they will eventually burn in hell.  then discusses how these propositions contradict each other, and concludes that the first proposition is incoherent.
+- **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** Discusses the problems of other minds and how we identify things have minds. It argues that because we lack knowledge in one area, skepticism is justified in another area. It argues that because the necessary being is non-deterministic and does not have a cause, it is necessarily true.
+- **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** The atheist argues that we know very little about reality, and that all the explanations we have for things are naturalistic. He provides a plausible explanation for why the necessary foundation or first cause necessarily has a will and mind.
+
 ### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:20:00</a>
 
  discusses the justification for belief in one god, with the presenter arguing that it is justified by a logical entailment. The panelists offer different perspectives on the mind, which leads to a discussion of philosophy and neuroscience. Ridwan asks the panelists to speak on their behalf, and they agree.
 
 **<a onclick="modifyYTiframeseektime('7200')">02:00:00</a>** argues that belief in one god is justified because we do not have a scientific explanation for some phenomena, such as people suddenly moving on their own or floating. However, he also points out that this does not mean that the god claim is false or that the creator is nonexistent. He believes that science will eventually find evidence for a necessary god, or that we may simply never know the answer.
-* **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>** points out that belief in one god is justified by a logical entailment - that things like contingent realities require an explanation - and that the materialist position is better equipped to address these issues. He argues that, while some things in philosophy are speculative, this does not make them fundamentally speculative.
-* **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>* Discusses why belief in one god is not justified, citing epistemic reasons. The panelists offer different perspectives on the mind, which leads to a discussion of philosophy and neuroscience. Ridwan asks the panelists to speak on their behalf, and they agree.
-* **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>** The presenter discusses how belief in one God is justified, and how a similar critique could be made against other religions. He also notes that he does not focus on theism in his content, and that he primarily critiques Islam from its foundation.
-* **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>** The discussion on belief in one God was interesting and discussion with apostate prophet Rizwan was also good. Rizwan believes that belief in one God is justified, and the discussion showed how important the justification of that belief is.
+
+- **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>** points out that belief in one god is justified by a logical entailment - that things like contingent realities require an explanation - and that the materialist position is better equipped to address these issues. He argues that, while some things in philosophy are speculative, this does not make them fundamentally speculative.
+- **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>** Discusses why belief in one god is not justified, citing epistemic reasons. The panelists offer different perspectives on the mind, which leads to a discussion of philosophy and neuroscience. Ridwan asks the panelists to speak on their behalf, and they agree.
+- **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>** The presenter discusses how belief in one God is justified, and how a similar critique could be made against other religions. He also notes that he does not focus on theism in his content, and that he primarily critiques Islam from its foundation.
+- **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>** The discussion on belief in one God was interesting and discussion with apostate prophet Rizwan was also good. Rizwan believes that belief in one God is justified, and the discussion showed how important the justification of that belief is.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

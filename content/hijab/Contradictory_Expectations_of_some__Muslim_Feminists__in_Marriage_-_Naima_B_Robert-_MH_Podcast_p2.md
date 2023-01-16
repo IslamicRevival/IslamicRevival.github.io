@@ -5,24 +5,23 @@
 ## Description
 
 Episode #11 of the MH podcast
-(p1 in case you missed it: https://youtu.be/ELwvnd2b-Zs)
+(p1 in case you missed it: <https://youtu.be/ELwvnd2b-Zs>)
 
-Podcast playlist: https://www.youtube.com/playlist?list=PLzESAoLKD0l8e9M6mk2TuC5vEh8wYlP_6
+Podcast playlist: <https://www.youtube.com/playlist?list=PLzESAoLKD0l8e9M6mk2TuC5vEh8wYlP_6>
 
 Na'ima B Robert's socials
-⪢Website: https://www.naimarobert.com/
-⪢YouTube: https://www.youtube.com/user/MuslimTeenNovel
+⪢Website: <https://www.naimarobert.com/>
+⪢YouTube: <https://www.youtube.com/user/MuslimTeenNovel>
 
 My socials
-⪢Twitter: https://twitter.com/mohammed_hijab?s=20
-⪢Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-⪢Facebook: https://www.facebook.com/brothermohammedhijab/
-⪢Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
+⪢Twitter: <https://twitter.com/mohammed_hijab?s=20>
+⪢Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+⪢Facebook: <https://www.facebook.com/brothermohammedhijab/>
+⪢Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
 
-#marriage #muslim #islam
+# marriage #muslim #islam
 
 ## Summary of [Contradictory Expectations of some 'Muslim Feminists' in Marriage - Naima B Robert- MH Podcast p2](https://www.youtube.com/watch?v=CF7uM2JcpGE)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -31,8 +30,9 @@ My socials
 Naima B. Robert discusses the expectations of some Muslim feminists in marriage and how they can often conflict with traditional roles and expectations. She provides advice for both men and women to learn about their Islamic grounding and make a commitment based on something bigger than themselves.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Some "Muslim feminists" in marriage believe that everything should be equal between a man and woman, except for breastfeeding, which should be an exception. They also believe that they have a double enment as women. This can be a problem because it can make the man feel like he is not able to provide for his wife or family.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Naima B. Robert, a Muslim feminist, discusses the expectations of some Muslim feminists in marriage. She states that, while traditional roles and expectations still exist in some marriages, many Muslim feminists are trying to break out of traditional notions. She also agrees with the author that men are the biggest beneficiaries of this ideology.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the expectations of Muslim feminists in marriage, noting that while traditional roles and responsibilities remain important, they can also be fulfilled holistically with a healthy mind, body and soul. They provide advice for both men and women to learn about their Islamic grounding and make a commitment based on something bigger than themselves.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the expectations of Muslim feminists in marriage, noting that while traditional roles and responsibilities remain important, they can also be fulfilled holistically with a healthy mind, body and soul. They provide advice for both men and women to learn about their Islamic grounding and make a commitment based on something bigger than themselves.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Sister Naima B Robert discusses some contradictory expectations of Muslim feminists in marriage. She advises readers to read her books and follow her on social media platforms to get more information.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

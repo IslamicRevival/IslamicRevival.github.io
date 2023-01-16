@@ -5,25 +5,24 @@
 ## Description
 
 Help us educate and mentor others to share the faith academically.
-Donate now: https://sapienceinstitute.org/donate/ 
+Donate now: <https://sapienceinstitute.org/donate/>
 
-Free online courses: https://learn.sapienceinstitute.org/
+Free online courses: <https://learn.sapienceinstitute.org/>
 
-Free books: https://sapienceinstitute.org/books/
+Free books: <https://sapienceinstitute.org/books/>
 
-Have doubts? Book a mentor: https://sapienceinstitute.org/lighthouse/
+Have doubts? Book a mentor: <https://sapienceinstitute.org/lighthouse/>
 
-Listen (Podcast): https://sapienceinstitute.org/sapientvoices/
+Listen (Podcast): <https://sapienceinstitute.org/sapientvoices/>
 
 Follow:
-– Facebook: https://facebook.com/sapienceinstitute.org/ 
-– Twitter: https://twitter.com/SapienceOrg/ 
-– Instagram: https://instagram.com/sapienceinstitute/ 
+– Facebook: <https://facebook.com/sapienceinstitute.org/>
+– Twitter: <https://twitter.com/SapienceOrg/>
+– Instagram: <https://instagram.com/sapienceinstitute/>
 
-Articles, speaker requests & more: https://sapienceinstitute.org/
+Articles, speaker requests & more: <https://sapienceinstitute.org/>
 
 ## Summary of [Age of Aisha (RA) - Part 2: Definition of Childhood | Mohammed Hijab](https://www.youtube.com/watch?v=kEf6uuYGkB0)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -31,16 +30,17 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
 discusses the definition of childhood and how it has evolved over time. provides examples of law in different countries that define childhood at different ages, and points out that the age of consent is still a controversial topic. He also discusses how the expectations of a child have changed over time, and how this affects how children are raised.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the Old Testament verse 18: "You shall keep the woman who has been on touch for yourself, untouched by you. So not all of them are virgins you keep." Mohammed Hijab explains that this passage allows for the enslavement of young girls, as long as they have not yet been touched by a man. Christians believe that this verse is still applicable today, while Muslims believe that it is no longer applicable because of the events that took place after Jesus' death, including the resurrection.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the different stances Muslims and Christians take on child marriage, with Muslims allowing it if it does not put the child in harm's way and Christians believing it is categorically wrong. then asks the listener if they have a problem with this stance, and if not, agrees that it is consequently right.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the difference between Christian and Muslim beliefs with regards to child marriage, and discusses how the Christian believes that it is wrong at any given moment and based on consequences, while the Muslim believes that it is based on the age of the child at the time of marriage. Mohammed Hijab provides examples of consequences that could befall a child as a result of marrying too young, and the two discuss the evidence that is needed in order to make a case for child marriage being wrong.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the idea that children's age at which they are considered to be able to understand right and wrong, and reason, changes throughout the Middle Ages. He points out that there were no primary schools during this time period, and that children learned through apprenticeship and service.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the medieval times, and how children during that time were considered adults and could live independently, interact with their surroundings, and learn without attending school.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the Old Testament verse 18: "You shall keep the woman who has been on touch for yourself, untouched by you. So not all of them are virgins you keep." Mohammed Hijab explains that this passage allows for the enslavement of young girls, as long as they have not yet been touched by a man. Christians believe that this verse is still applicable today, while Muslims believe that it is no longer applicable because of the events that took place after Jesus' death, including the resurrection.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the different stances Muslims and Christians take on child marriage, with Muslims allowing it if it does not put the child in harm's way and Christians believing it is categorically wrong. then asks the listener if they have a problem with this stance, and if not, agrees that it is consequently right.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the difference between Christian and Muslim beliefs with regards to child marriage, and discusses how the Christian believes that it is wrong at any given moment and based on consequences, while the Muslim believes that it is based on the age of the child at the time of marriage. Mohammed Hijab provides examples of consequences that could befall a child as a result of marrying too young, and the two discuss the evidence that is needed in order to make a case for child marriage being wrong.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the idea that children's age at which they are considered to be able to understand right and wrong, and reason, changes throughout the Middle Ages. He points out that there were no primary schools during this time period, and that children learned through apprenticeship and service.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the medieval times, and how children during that time were considered adults and could live independently, interact with their surroundings, and learn without attending school.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** The age of consent has changed over time, mostly after World War I, due to various political and social reforms. These changes affected Europe's educational systems, as well as women's rights. The age of consent is still a controversial topic, as it is left to a great deal of subjectivity.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>**  Mohammed Hijab discusses the definition of childhood and how it has evolved over time. He provides examples of law in different countries that define childhood at different ages. He also points out that because of this mismatch between biologically-mature and socially-mature adults, teenagers are experiencing pressures that their biology would not necessarily indicate.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Mohammed Hijab discusses the expectations of a 13-year-old girl, who is more than willing and more than capable, in the context of a 1000-year-old cultural tradition in which children are seen as children and are treated accordingly. He states that this mismatch creates pressures on contemporary adolescence and how they live in society.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses the differences in average life expectancy between different parts of the world, and how this affects how children are raised. It also discusses an example of a man from Nigeria who was at 20th century who discovered the embassy. Despite being 22 years old, he was treated as a child by some of the teachers at the school he was attending.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the age of marriage in different world religions, and how, in Islam, it is considered more beneficial to marry a young girl rather than an adult.
+* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses the differences in average life expectancy between different parts of the world, and how this affects how children are raised. It also discusses an example of a man from Nigeria who was at 20th century who discovered the embassy. Despite being 22 years old, he was treated as a child by some of the teachers at the school he was attending.
+* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Discusses the age of marriage in different world religions, and how, in Islam, it is considered more beneficial to marry a young girl rather than an adult.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>**  Mohammed Hijab discusses the concept of childhood and how it is determined by society, not by biology. He goes on to say that if society allows for a certain form of social construction, then it should also allow for gender. The left wing should reply to this argument by stating that, just like with childhood, it is determined by society and not by individual expression. This would allow for a more egalitarian society where everyone is considered an adult at a certain age.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

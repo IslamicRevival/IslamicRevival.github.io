@@ -3,12 +3,11 @@
 <iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/m8MObPqwGzA'></iframe>## Description
 
 What is Islamic philosophy? With Professor Peter Adamson:
-https://www.youtube.com/watch?v=bGnwwSyVdgs&t=2691s
+<https://www.youtube.com/watch?v=bGnwwSyVdgs&t=2691s>
 
-History of philosophy podcasts: https://historyofphilosophy.net/
+History of philosophy podcasts: <https://historyofphilosophy.net/>
 
 ## Summary of [Is the universe eternal? With Professor Peter Adamson](https://www.youtube.com/watch?v=m8MObPqwGzA)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -17,9 +16,10 @@ History of philosophy podcasts: https://historyofphilosophy.net/
  "Is the universe eternal? With Professor Peter Adamson" discusses the debate over the eternal nature of the universe. Adamson introduces the positions of Plato and Aristotle and discusses how late antiquity philosophers reconciled these two positions. He also discusses the work of al-Ghazali and Ibn Cena in the 12th century and how their arguments influenced the debate.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  introduces Professor Peter Adamson, who discusses the eternal nature of the universe in Greek and Islamic philosophy. The main issue discussed is whether the universe has existed forever, and whether it has a beginning.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the ancient debate between Plato and Aristotle over the existence of an eternal universe. According to Plato, the universe is created by a divine craftsman, the demiurge, and is not eternal. Aristotle, on the other hand, believed that the universe is eternal and that Plato's theory of Forms was incorrect. Late Antiquity philosophers struggled to reconcile these two positions and some argued that Plato was affirming creationism.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the debate over the eternity of the universe, with Professor Peter Adamson. Plato and Aristotle are both in favor of the universe being eternal, with Aristotle asserting that it has always existed. IBN Cena is a Muslim philosopher who is highly critical of Plato's views, and Al gazali is another critic of Plato.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the debate over the existence of an eternal universe, with Professor Peter Adamson discussing the positions of ancient philosophers. Al-Hazali, a Muslim philosopher, critiques these positions in the 12th century. Encina, another Muslim philosopher, responds to al-Hazali. Encina's influence leads many philosophers to reject the existence of an eternal universe, although this was not always the case.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the ancient debate between Plato and Aristotle over the existence of an eternal universe. According to Plato, the universe is created by a divine craftsman, the demiurge, and is not eternal. Aristotle, on the other hand, believed that the universe is eternal and that Plato's theory of Forms was incorrect. Late Antiquity philosophers struggled to reconcile these two positions and some argued that Plato was affirming creationism.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the debate over the eternity of the universe, with Professor Peter Adamson. Plato and Aristotle are both in favor of the universe being eternal, with Aristotle asserting that it has always existed. IBN Cena is a Muslim philosopher who is highly critical of Plato's views, and Al gazali is another critic of Plato.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the debate over the existence of an eternal universe, with Professor Peter Adamson discussing the positions of ancient philosophers. Al-Hazali, a Muslim philosopher, critiques these positions in the 12th century. Encina, another Muslim philosopher, responds to al-Hazali. Encina's influence leads many philosophers to reject the existence of an eternal universe, although this was not always the case.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Professor Peter Adamson discusses philosopher Aristotle's belief in the eternity of the universe, and how this grounds Encino's claim that everything about God is necessary. Encino then goes on to argue that if something about God is not necessary, then God has no free will and is necessitated to act. Cena responds by saying that this is exactly why Encino believes that God has no freedom - because everything about God is necessary.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Both IBN Cena and gazali argue that the universe is contingent, and that means that God could have created it any way He wanted. Cena says that this is insufficient, because freedom needs to include the ability to choose between genuinely open alternatives. Hazali uses a number of space-time analogies to make his case.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Professor Peter Adamson discusses the arguments for and against the eternity of the universe, focusing on the concept of infinity. He argues that different infinities are not all the same and that the infinity involved in the argument is more like the Infinity of the finite numbers.
@@ -27,12 +27,13 @@ History of philosophy podcasts: https://historyofphilosophy.net/
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** , Professor Peter Adamson discusses the argument that the universe is eternal, and how it doesn't logically follow from the Quran. He argues that there are two reasons the argument doesn't work: because the arguments themselves are flawed, and because the Quran doesn't naturally teach the eternity of the universe.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The professor discusses how the Quran teaches that God is unchallengeable, has no cause, and is the creator of the universe eternally. Algazali declared Ibn Cena a non-muslim, and this could have consequences for him in the afterlife.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Professor Peter Adamson discusses the idea that the universe is eternal, and how this idea has been debated over the centuries by various philosophers. He points out that, while Al-Gazali's criticisms of Ibn Cena were influential, they were not the only ones, and that other arguments in favor of the universe's eternity continue to be made today.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the influence of Ghazali, a medieval Islamic philosopher, on the debate over the existence of the universe. It notes that while Ghazali's arguments against the eternity of the world are not decisive, they are persuasive nonetheless. This position is later passed on to the Latin tradition and Thomas Aquinas, who argues that the arguments for and against the existence of the universe are not decisive.
+* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Discusses the influence of Ghazali, a medieval Islamic philosopher, on the debate over the existence of the universe. It notes that while Ghazali's arguments against the eternity of the world are not decisive, they are persuasive nonetheless. This position is later passed on to the Latin tradition and Thomas Aquinas, who argues that the arguments for and against the existence of the universe are not decisive.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:00:00</a>
 
 Professor Peter Adamson discusses whether the universe is eternal. He cites sources that back up his claim that the universe is eternal, and mentions that Oxford and Cambridge have published books on the topic in German and Latin, respectively.
 
-**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>* Discusses whether the universe is eternal and points to sources to back up its claims.  also mentions that Oxford and Cambridge have published books on the topic in German and Latin, respectively.
+**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Discusses whether the universe is eternal and points to sources to back up its claims.  also mentions that Oxford and Cambridge have published books on the topic in German and Latin, respectively.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

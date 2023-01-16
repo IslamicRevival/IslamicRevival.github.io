@@ -4,28 +4,27 @@
 
 ## Description
 
-Available as audio: https://soundcloud.com/sapienceinstitute/londoniyyah-part-34-buddhism-mohammed-hijab?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+Available as audio: <https://soundcloud.com/sapienceinstitute/londoniyyah-part-34-buddhism-mohammed-hijab?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing>
 —
 Help us educate and mentor others to share the faith academically.
-Donate now: https://sapienceinstitute.org/donate/ 
+Donate now: <https://sapienceinstitute.org/donate/>
 
-Free online courses: https://learn.sapienceinstitute.org/
+Free online courses: <https://learn.sapienceinstitute.org/>
 
-Free books: https://sapienceinstitute.org/books/
+Free books: <https://sapienceinstitute.org/books/>
 
-Have doubts? Book a mentor: https://sapienceinstitute.org/lighthouse/
+Have doubts? Book a mentor: <https://sapienceinstitute.org/lighthouse/>
 
-Listen (Podcast): https://sapienceinstitute.org/sapientvoices/
+Listen (Podcast): <https://sapienceinstitute.org/sapientvoices/>
 
 Follow:
-– Facebook: https://facebook.com/sapienceinstitute.org/ 
-– Twitter: https://twitter.com/SapienceOrg/ 
-– Instagram: https://instagram.com/sapienceinstitute/ 
+– Facebook: <https://facebook.com/sapienceinstitute.org/>
+– Twitter: <https://twitter.com/SapienceOrg/>
+– Instagram: <https://instagram.com/sapienceinstitute/>
 
-Articles, speaker requests & more: https://sapienceinstitute.org/
+Articles, speaker requests & more: <https://sapienceinstitute.org/>
 
 ## Summary of [Londoniyyah - Part 34 - Buddhism | Mohammed Hijab](https://www.youtube.com/watch?v=_ASgaOXz9Lw)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -34,22 +33,25 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
  provides an overview of Buddhism, including its central concepts of purification and meditation. It explains that, while Muslims may also practice meditation, Buddhists have a more specific set of practices and rituals in order to focus the mind.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  covers the life of the Buddha, and how his experiences with the caste system and seeing sick people led him to abandon Hinduism and start practicing Buddhism.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Mohammed Hijab discusses the life of the Buddha, including his birth and death dates. He also covers the Buddha's teachings on meditation, ethics, and suffering. Finally, he discusses the Buddha's disciples and their scriptures.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the similarities and differences between Hinduism and Buddhism. Mohammed Hijab points out that Buddha was actually a teacher of Hinduism and that he aimed to reform the tradition.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the similarities and differences between Hinduism and Buddhism. Mohammed Hijab points out that Buddha was actually a teacher of Hinduism and that he aimed to reform the tradition.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  Mohammed Hijab speaks about similarities and differences between Buddhism and Hinduism. He mentions that both religions believe in idols, ancestor worship, and nirvana. He also points out that there are some key differences, including the belief that one can achieve enlightenment while still alive in Buddhism, while Hindus believe that enlightenment is only attained after death.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the teachings of Buddhism, focusing on the four noble truths: that suffering exists, that it is caused by attachments, that suffering can be cured, and that there is a path to liberation.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the teachings of Buddhism, focusing on the four noble truths: that suffering exists, that it is caused by attachments, that suffering can be cured, and that there is a path to liberation.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Buddhism teaches that there is a cure for suffering, and that the eightfold path is the way to achieve it. Viktor Frankl quotes a similar idea in his book, "Man's Search For Meaning."
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses the similarities and differences between Buddhism and Islam. points out that, in Buddhism, you find a contradiction between the first noble truth ("life is suffering") and the third noble truth ("there is a way to overcome suffering"). also mentions a book by a Muslim scholar that discusses the same concepts. Finally, the author discusses the Islamic concept of dunya, or "the world." According to Islam, this world is a "shadow" of Heaven, and it is never fully satisfying or comfortable.
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses the similarities and differences between Buddhism and Islam. points out that, in Buddhism, you find a contradiction between the first noble truth ("life is suffering") and the third noble truth ("there is a way to overcome suffering"). also mentions a book by a Muslim scholar that discusses the same concepts. Finally, the author discusses the Islamic concept of dunya, or "the world." According to Islam, this world is a "shadow" of Heaven, and it is never fully satisfying or comfortable.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** explains that there are many spiritual aspects to both Buddhism and Islam, and that the best way to offer Dawah is not just through the spiritual side, but through the practical side as well. He argues that if Dawah is only focused on good character, then it will not be effective. He also says that the Muslim community is lagging behind in some areas, and that they need to focus more on practicality and less on good character.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses the various beliefs and practices within Buddhism, including the idea of a "spiritual hierarchy." One possible criticism of Buddhism is that it lacks a unified belief system, something which is also common among other religions.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses how Buddhism may be popular in the West because it is antithetical to the ideology of westernism. The main points made are that Buddhism is focused on the meditative, spiritual aspects, and that it is different from polytheism, which is a more theological form of Buddhism.  also discusses how westerners are starting to become interested in Buddhism because it is in opposition to the materialism and excesses of western culture.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the differences between Islam and other religions, and how Islam considers anything that is not done for the sake of Allah to be a waste of time. He goes on to discuss the importance of tawhid or monotheism, and how doing it for allah, not oneself, is the key to a successful life.
+* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses the various beliefs and practices within Buddhism, including the idea of a "spiritual hierarchy." One possible criticism of Buddhism is that it lacks a unified belief system, something which is also common among other religions.
+* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Discusses how Buddhism may be popular in the West because it is antithetical to the ideology of westernism. The main points made are that Buddhism is focused on the meditative, spiritual aspects, and that it is different from polytheism, which is a more theological form of Buddhism.  also discusses how westerners are starting to become interested in Buddhism because it is in opposition to the materialism and excesses of western culture.
+* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Discusses the differences between Islam and other religions, and how Islam considers anything that is not done for the sake of Allah to be a waste of time. He goes on to discuss the importance of tawhid or monotheism, and how doing it for allah, not oneself, is the key to a successful life.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  provides a brief overview of Buddhism, including its central concepts of purification and meditation. It explains that, while Muslims may also practice meditation, Buddhists have a more specific set of practices and rituals in order to focus the mind.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:05:00</a>
 
  discusses the importance of prayer and fasting in Islam, and how they help worshippers to focus their minds and deepen their concentration. explains that there are five pillars of Islam, each of which contributes to the goal of worshipping God.
 
-**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>* Discusses the importance of prayer, and how reciting the Quran can help focus one's mind and deepen one's concentration. It also discusses the importance of knowing who is favored by God, and the importance of spreading one's knowledge.
+**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Discusses the importance of prayer, and how reciting the Quran can help focus one's mind and deepen one's concentration. It also discusses the importance of knowing who is favored by God, and the importance of spreading one's knowledge.
+
 * **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** explains that while there are many aspects of Islam, the spiritual aspects are particularly important. He explains that fasting is not just a month-long practice during Ramadan, but can be done on different days throughout the year. also discusses the five pillars of Islam, and how each one contributes to the overall goal of worshipping God.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

@@ -4,10 +4,7 @@
 
 ## Description
 
-
-
 ## Summary of [The Fatiha - God's Most Important Message to Humankind](https://www.youtube.com/watch?v=Za0DldCJeEU)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -16,8 +13,9 @@
 The Fatiha is a short poem in the Quran that serves as a call to worship God. The poem references several case studies of people who followed God's teachings and lived virtuous lives. Muslims try to emulate these examples in their own lives, hoping to live a righteous and fulfilling life.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The Fatiha, or "opening chapter" of the Quran, is a brief but powerful statement of faith. It summarizes the main themes of the Quran and is a key part of prayer. It is also representative of the Quran as a whole, encompassing all its different meanings and themes.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the idea that all praise belongs to God, and that this includes praise of inanimate objects. points out that this is in contrast to the atheist position, which is that there is no God. goes on to explain that this fine-tuning is evidence of God's existence.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the concept of Allah's mercy, and how it is displayed in various ways, such as in the way he encompasses humans with mercy even in the midst of chaos and destruction. It then goes on to discuss the concept of al-Rahman al-rahim, or the most gracious, most merciful, male chioma dean.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the idea that all praise belongs to God, and that this includes praise of inanimate objects. points out that this is in contrast to the atheist position, which is that there is no God. goes on to explain that this fine-tuning is evidence of God's existence.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the concept of Allah's mercy, and how it is displayed in various ways, such as in the way he encompasses humans with mercy even in the midst of chaos and destruction. It then goes on to discuss the concept of al-Rahman al-rahim, or the most gracious, most merciful, male chioma dean.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The Fatiha is the most important message from God to humanity, and it emphasizes that Allah is the Owner and King of the Day of Judgment. The surah also speaks about those who are favored by Allah, and it emphasizes that Allah is the One who knows best.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** The Fatiha, or "God's Most Important Message to Mankind," is a short, prayer-like poem in the Quran. The poem is a call to worship God, and it references several case studies of people who followed God's teachings and lived virtuous lives. Muslims try to emulate these examples in their own lives, hoping to live a righteous and fulfilling life.
 

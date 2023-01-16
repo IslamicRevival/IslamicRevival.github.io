@@ -4,10 +4,9 @@
 
 ## Description
 
-'The Correct Reply to the One Who Altered the Religion of the Messiah' by Ibn Taymiyya http://www.ibntaymiyyah.com/articles/zgdia-the-correct-reply-to-the-one-who-altered-the-religion-of-the-messiah-part-1.cfm
+'The Correct Reply to the One Who Altered the Religion of the Messiah' by Ibn Taymiyya <http://www.ibntaymiyyah.com/articles/zgdia-the-correct-reply-to-the-one-who-altered-the-religion-of-the-messiah-part-1.cfm>
 
 ## Summary of [Christianity is an Innovated Religion: Ibn Taymiyya](https://www.youtube.com/watch?v=Fe4vcLOpzds)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -16,6 +15,7 @@
  Professor John Hoover discusses the views of Ibn Tammiyya about Christianity as an innovated religion. Ibn Tammiyya argues that Christianity is an unscriptural and irrational innovation, and that its project of biblical interpretation seeks to rally the jewish and christian texts to support Islam.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  Professor John Hoover discusses the views of Ibn Tammiyya about Christianity as an innovated religion. Ibn Tammiyya maintains that the prophetic tradition confirmed and sealed by the prophet Muhammad is revealed rational and definitive, and that Christianity is nothing but an innovative religion which they invented after the time of Christ and by which they changed the religion of Christ. He compares the unbelief of the Jews who changed the prescriptions of the Torah before God sending Christ and then rejected Christ, to the unbelief of the Christians who changed the religion of Muhammad after he came.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The Christian letter argues that the trinity - one god in three persons - is proved by reason and supported by the Bible and the Quran. Ibn Taymiyya rejects the letter's rational arguments and claims that the trinity is a corruption of the religion of Christ, inconsistent with the monotheism of the prophets. He reinterprets the Trinitarian names in the gospel command to baptize in the name of the father, son, and holy spirit to fit his quranic vision. Father means God, son refers to the prophet Jesus, and holy spirit indicates either Gabriel the angel of revelation or the revelation itself. The text according to ibn Taymiyya tells readers to believe in God's prophet and the angel who brought god's revelation. The Christian letter makes two further key arguments: first, it explains that the Quran supports both the humanity and the divinity of Jesus even though ibn Taymiyya rejects the divinity of Jesus; and second, it claims that islam is unnecessary because Christianity is the perfect religion. Ibn Taymiyya replies by placing islam at the pinnacle of perfection instead of Christianity.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  Ibn Taymiyya discusses his vision of prophetic religion and how it culminates in the Quran and the Prophet Muhammad. He argues that Christianity is an unscriptural and irrational innovation, and that its project of biblical interpretation seeks to rally the jewish and christian texts to support Islam.
 

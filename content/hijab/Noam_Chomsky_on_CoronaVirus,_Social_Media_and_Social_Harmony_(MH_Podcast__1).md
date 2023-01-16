@@ -2,12 +2,11 @@
 
 <iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/MHhgCFJWgM0'></iframe>## Description
 
-For a 10% discount on premium black seed products use Hijab10 discount code. 
+For a 10% discount on premium black seed products use Hijab10 discount code.
 
-link here - https://www.naturesblends.co.uk/
+link here - <https://www.naturesblends.co.uk/>
 
 ## Summary of [Noam Chomsky on CoronaVirus, Social Media and Social Harmony (MH Podcast #1)](https://www.youtube.com/watch?v=MHhgCFJWgM0)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -16,6 +15,7 @@ link here - https://www.naturesblends.co.uk/
 Noam Chomsky discusses the response to the coronavirus pandemic and how social media can be used to help or hinder social harmony. He recommends that people be educated on basic Islamic beliefs to help reduce discrimination and advocates for groups that advocate for change.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Noam Chomsky discusses the Corona virus and how to handle it in a political context. He advises that different countries take different approaches, but ultimately the responsibility lies with the governors. Trump's strategy of alternating good and bad news is working to his advantage, as the media focuses on his more outrageous statements instead of the actual damage his policies are causing.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Noam Chomsky discusses the Corona virus, social media, and social harmony. He notes that while the nations of the world are starting to take action, the United States is the only country that is still off the spectrum.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Noam Chomsky discusses the effects of social media and the coronavirus on social harmony. He argues that educating people on basic Islamic beliefs can help to reduce discrimination and increase tolerance. He also recommends organizing groups to advocate for change, such as the European Union.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Noam Chomsky discusses the Corona virus, social media, and social harmony. He notes that while some countries have been able to handle the situation themselves, Germany is one of the few that is helping its elderly population as well as others in need. He also points out that the United States is constructing a reactionary international, which is in opposition to the progressive one being built by Germany.

@@ -4,19 +4,18 @@
 
 ## Description
 
-A much anticipated debate on the topic: Does God Exist? 
+A much anticipated debate on the topic: Does God Exist?
 Edward Tabash (Atheist) vs Mohammed Hijab (Muslim Theist ) LIVE in US California
 
-Part 2 (Q&A): https://www.youtube.com/watch?v=1N7OXkisWwc
-Debate review: https://www.youtube.com/watch?v=ta7c9RMsMQo
+Part 2 (Q&A): <https://www.youtube.com/watch?v=1N7OXkisWwc>
+Debate review: <https://www.youtube.com/watch?v=ta7c9RMsMQo>
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
 
 ## Summary of [Full Debate - Mohammed Hijab vs Edward Tabash || Does God Exist? | PART 1](https://www.youtube.com/watch?v=dm46FPgRGbQ)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -25,22 +24,25 @@ Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
 , Mohammed Hijab and Edward Tabash debate the existence of God. Hijab argues that the universe is uniform and coherent, which is presupposed by science. He also argues that there is a need for external explanations for these phenomena, which is a common argument for the existence of God. Tabash counters that if it was an infinite series, then the world would still be necessary, as it could be conceived that the series could be arranged in another way. They eventually reach a consensus that God, or an eternal, independent thing, is required for any existence to exist.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** recites verses from the Quran, one of which is about wisdom being given to man by Allah. then goes on to give advice to a son on how to treat Allah properly. He starts by saying that associating anything with Allah is a great injustice, and the first advice he gives is to not associate anything with Allah. He then goes on to give other advice, including the belief in Allah, before concluding the talk.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The UC Davis Muslim Student Association is hosting a debate on the existence of God. Mohammed Hijab, a proponent of atheism, and Edward Tabash, a Muslim believer, discuss the importance of parents and the correct way to raise children. Tabash stresses the importance of prayer and warns against arrogance and self-delusion. Dawa, the speaker, discusses the dangers of hate speech and the need for Muslims to fight against false narratives.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Brother Mohammad discusses the existence of God, and Eddie Tabash defends the position that there is no God. The two discuss the differences between possible and necessary existence, and Brother Mohammad emphasizes the importance of materialism in determining the existence of God.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** , Mohammed Hijab and Edward Tabash debate the existence of God. Tabash argues that there cannot be a world with only possible existences, as this would require a series of dependent things to exist. Hijab counters that if it was an infinite series, then the world would still be necessary, as it could be conceived that the series could be arranged in another way. They eventually reach a consensus that God, or an eternal, independent thing, is required for any existence to exist.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** The presenter argues that the existence of a God is logically possible, based on four options that are either impossible or inconceivable on atheism. The presenter also argues that the physical coherence of the universe is evidence of a God, as it is not possible for something to be coherent if it did not come from a higher power.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Mohammed Hijab argues that the universe is uniform and coherent, which is presupposed by science. He also argues that there is a need for external explanations for these phenomena, which is a common argument for the existence of God.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses picurus' argument against the existence of a God with three attributes, and how it applies to the Islamic perspective. then presents the positive arguments for the existence of a God, concluding that the evidence in our physical universe points towards a supernatural conscious personal being that is all-good, all-knowing, and all-powerful.
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses picurus' argument against the existence of a God with three attributes, and how it applies to the Islamic perspective. then presents the positive arguments for the existence of a God, concluding that the evidence in our physical universe points towards a supernatural conscious personal being that is all-good, all-knowing, and all-powerful.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** The five arguments presented in this video are the argument from non-occurrence of miracles, the argument from the dependence of conscious minds on a physical body and brain, the argument from evolution, the argument from evil, and Mohammed Hijab's argument from prophecy. Each of these arguments has flaws which make them less likely to be true. The evidence for the existence of God is not based on any of these arguments.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** , a debate is held between Mohammed Hijab and Edward Tabash on the existence of God. Hijab argues that God can make whatever he wants happen and prevent anything he doesn't want from happening, so there is no need for a concentration camp like Auschwitz. Tabash points out that malaria is a terrible disease, and if one has inherited a gene that provides an effective defense against malaria, they also have sickle cell anemia. He argues that this is evidence that God exists, because if he didn't, then one would not be able to benefit from the gene. Tabash also argues that God knows our minds and would not allow such rampant confusion over who God is and what God wants if he wanted us to believe in him. He argues that the presence of such confusion is more likely if God doesn't exist than if he does.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  two atheists debate the existence of God. The first atheist argues that because there are different versions of the hadith, Muhammad's successors should not be chosen based on qualifications alone but rather need to have direct bloodline to Muhammad. The second atheist argues that because modern humans have learned that there is no reason for men to be in charge of women, the Quran and Bible are incorrect in their teachings on this issue. Additionally, the first atheist argues that because the Quran and Bible talk about Hell for those who don't believe in the religion, each Revelation is promoting false beliefs.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>**  two debaters discuss the arguments for and against the existence of God. Muhammad Hijab argues that evidence points towards the existence of a supernatural God, while Edward Tabash argues that the evidence does not support this belief.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The five points raised in this YouTube video are that evolution does not contradict theism, that the argument from evil does not exist, that we are all born predisposed to believe in God, that there is evidence for the existence of a God who is not anthropomorphic, and that the idea of free will is meaningful on a naturalistic worldview.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:10:00</a>
 
  Muhammad Hijab and Edward Tabash debate the existence of God. Hijab argues that the universe is contingent and therefore there must be a necessary being (God) for it. Tabash counters by saying that a necessary being cannot entail a contingent fact without introducing a new contingent fact, which in turn requires explanation. Hijab then argues that if consciousness could exist apart from the brain, diseases and anesthetics would eclipse consciousness, and we can infer the existence of God from the functioning of the universe, then there is no need for a God. Tabash argues that if we accept naturalism, then everything must be explained by natural causes and the existence of a God is not necessary for this explanation.  concludes with a question and answer session between the two debaters.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Mohammed Hijab argues that, because the universe is contingent, there must be a necessary being for it. He goes on to say that, because the Quran says that God abandoned humans and mended them, naturalism is false. He argues that liberalism is based on a myth and is not scientific.
+
 * **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** In this debate, Mohammed Hijab and Edward Tabash debate the existence of God. Hijab argues that without a necessary being, there can be no explanation for contingent facts and therefore, God does not exist. Tabash counters by pointing out that a necessary fact cannot entail a contingent fact without introducing a new contingent fact, which in turn requires explanation. Hijab then argues that if consciousness could exist apart from the brain, diseases and anesthetics would eclipse consciousness, and we can infer the existence of God from the functioning of the universe, then there is no need for a God. Tabash argues that if we accept naturalism, then everything must be explained by natural causes and the existence of a God is not necessary for this explanation.
 * **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>**  two debaters discuss the evidence for and against the existence of God. Muhammad argues that, based on the laws of nature, there cannot be a God who violates those laws, while Edward Tabash argues that there are cases in which the natural explanation for an event fails, leading one to conclude that a supernatural event must have occurred.  concludes with a question and answer session between the two debaters.
 

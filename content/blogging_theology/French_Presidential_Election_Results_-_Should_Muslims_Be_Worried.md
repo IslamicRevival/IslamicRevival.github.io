@@ -5,15 +5,14 @@
 ## Description
 
 Follow Imran Muller on Twitter: @Osmani268
- 
-You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
 
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+You Can Support My Work on Patreon:
+<https://www.patreon.com/Bloggingtheology>
+
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
 ## Summary of [French Presidential Election Results - Should Muslims Be Worried?](https://www.youtube.com/watch?v=Gzqb26NhuAI)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -22,13 +21,13 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
  discusses the results of the French Presidential election, and how Muslims in France should be worried about the possible outcomes. Marine Le Pen, the far-right candidate, has a history of anti-Muslim rhetoric and could potentially become the next French President.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The French Presidential election resulted in some surprising results, with the far-right politician Marine Le Pen obtaining her highest result ever. President Macron is leading her in a final vote on the 24th of April. Other surprising results include the Socialist Party's loss of power, and the rise of the far-right candidate, Eric Zuma. French Muslims should not be worried about the possible outcome of the election as it has changed so much in the past few years.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** discusses the French Presidential Election results, and mentions that while Melonshone (the far-right candidate) didn't win, he did surprisingly well. It also mentions that Marine Le Pen, the far-right candidate, has a history of anti-muslim rhetoric and wanting to stop immigration.  stresses the importance of looking at each individual, and notes that while French society is fractured, Marine Le Pen could still become the next French President.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  discusses the recent French Presidential election, in which Marine Le Pen - an anti-Muslim politician - was elected. Many Muslims in France are worried about the potential consequences of Le Pen's policies, which could result in mass persecution of Muslims. However, there is some hope that her policies would be unworkable and she would not be able to implement them.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  discusses the French Presidential Election results, and highlights the fact that Marine Le Pen, the far-right candidate, is likely to benefit from the other parties who are not in the second round. Macron, the centrist candidate, may still win, but it is not clear yet.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>**  discusses the French Presidential election, in which both candidates have a lot to lose. Many supporters of the Green candidate, Emmanuel Macron, say that they will abstain from voting, effectively letting Marine Le Pen into the office. Macron's biggest worry is that melancholic supporters will not vote for him out of disgust for the other candidates.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>**  discusses the French Presidential election, in which centrist Emmanuel Macron narrowly beat far-right Marine Le Pen. Macron's policies on Islam, which are seen as hostile, may have helped Le Pen gain ground. Macron is fighting against a growing far-right movement in France, and may need the support of moderate Muslims to win the election.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** of the YouTube video discusses the French presidential election and how Muslims should be concerned about the result. He notes that the political division in his village seems to be national, rather than local. He also warns that the political environment in France is uncertain and worrying.
-
 
 ('js', new Date());
 

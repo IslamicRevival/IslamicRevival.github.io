@@ -5,13 +5,12 @@
 ## Description
 
 You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
+<https://www.patreon.com/Bloggingtheology>
 
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
 ## Summary of [The Life of Muhammad ﷺ Chapter 6: The Need for a Prophet](https://www.youtube.com/watch?v=QkH4c8AEBQo)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -20,6 +19,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
  the story is told of how Muhammad met a woman named Kuttalaya, who told him that the light had left him and he could no longer fulfill the need she had of him. This event was later remembered as the year of the elephant, which was a significant year for more than one reason.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** This chapter tells the story of how Muttalib, a pious Arab, rejected the idol worship of his tribe, and how this angered his ancestors. Eventually, Muttalib's faith in God led to him being chosen as the prophet of God, and he was given the responsibility of leading the Arabs in prayer and worship. Quraish were jealous of Muttalib's position, and they plotted to overthrow him. However, God protected Muttalib and he was able to remain undefeated. Eventually, Muttalib passed away and was buried near the Kaaba.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The orthodox Meccans looked on idols as a pollution and refused to compromise, relegating the Muslims to the fringe of society. Waraka, one of the Hunafa, was a christian and believed that a prophet was imminent. His clan was prepared to protect him, and many of the predicted signs of the prophet's coming had already been fulfilled. The Muslims stood in need of a prophet even more than the Jews, who at least still followed the religion of Abraham. The Christians waraka amongst them had their doubts about this, seeing no reason why he should not be an Arab. The other pagan tribes were hostile to Christianity, but the Croats, other pagan tribes, were not. Christians sometimes came to do honor to the sanctuary of Abraham, and were made welcome like all the rest. Moreover, one Christian had been allowed and even encouraged to paint an icon of the Virgin Mary and the Child Christ on an inside wall of the Kaaba. However, Croats were more insensitive to this contrast, for them it was simply a question of increasing the multitude of idols by another two. This tolerance made them so impenetrable to most of his tribe that waraka could read and have made a study of the scriptures and of theology.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Abd al-Muttalib, a 70-year-old grandfather, is approached by a woman named Kuttalaya, who asks him to take her as his wife. Abd al-Muttalib agrees, and the two marry. Abd al-Muttalib then goes to fetch something from his own house, where he meets and talks with his son, Abdullah. Kuttalaya falls in love with Abdullah, and asks him to marry her. Abd al-Muttalib agrees, and the two marry.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  tells the story of how Muhammad met a woman named Kuttalaya, who told him that the light had left him and he could no longer fulfill the need she had of him. Years later, this event was remembered as the year of the elephant. This was a significant year for more than one reason- it was the year of Muhammad's marriage to Aisha, and it was also the year of the Battle of Badr.

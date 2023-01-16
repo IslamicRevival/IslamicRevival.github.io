@@ -8,14 +8,14 @@ Sapient Thoughts #32: Was the conquest of Mecca proof of the Prophet's ﷺ Mercy
 
 ## Summary of [Sapient Thoughts #32: Was the conquest of Mecca proof of the Prophet's ﷺ Mercy? | Mohammed Hijab](https://www.youtube.com/watch?v=T8NPXjP99kY)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 Mohammed Hijab discusses the conquest of Mecca and how it was proof of the Prophet's mercy. He argues that the Prophet was not a harsh man, as is often portrayed, and that the stories of his assassination attempts are false. He concludes by saying that Muslims should not be fooled by false narratives about Muhammad.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the contention that the conquest of Mecca was proof of the Prophet's violence and aggression. The Prophet was in a position of power and was faced with a difficult situation, as evidenced by the long history of torture and boycotting of Muslims by their enemies. The Prophet's response was to come in prevalently and in control, which showed his mercy and compassion.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the contention that the conquest of Mecca was proof of the Prophet's violence and aggression. The Prophet was in a position of power and was faced with a difficult situation, as evidenced by the long history of torture and boycotting of Muslims by their enemies. The Prophet's response was to come in prevalently and in control, which showed his mercy and compassion.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** <>
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  Mohammed Hijab discusses the conquest of Mecca and how it was proof of the Prophet's mercy. He points out that one of the women spared was involved in war crimes and torture, and that Ali, the Prophet's son-in-law, killed someone. Hijab argues that the Prophet was not a harsh man, as is often portrayed, and that the stories of his assassination attempts are false. He concludes by saying that Muslims should not be fooled by false narratives about Muhammad.
 

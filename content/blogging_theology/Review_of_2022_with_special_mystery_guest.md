@@ -5,13 +5,12 @@
 ## Description
 
 You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
+<https://www.patreon.com/Bloggingtheology>
 
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
 ## Summary of [Review of 2022 with special mystery guest](https://www.youtube.com/watch?v=ijZVhSsQkQU)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -20,6 +19,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
  various topics are discussed in relation to the year 2022. These topics include the World Cup, Ramadan, Zionism, the Temple Institute, and the rise of Islam. The video also features a discussion about the possible creation of a new religion called Abrahamia.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** In 2022, the Islamic holy month of Ramadan, many Muslims traveled to Saudi Arabia to watch the World Cup. Professor Alia Thai from Say tuna College discusses the World Cup and its impact on Muslims. She describes how some liberals in America boycotted the event because of Qatar's government. The World Cup showcased the true nature of some Western liberals, who she says are ignorant of Islam and the brotherhood of humanity.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The video reviews the 2022 World Cup in Qatar and remarks on how hypocritical the liberals were in their reactions. The apostle Paul would be proud of what happened, as the Palestinians were slaughtered on the altar of Zionism for the sins of Europe.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The video reviews 2022 and discusses the potential reasons why the BBC has chosen to censor certain events in the Middle East. Some of the things that have been censored include the Hajj, the opening ceremony of the World Cup, and Benjamin Netanyahu's incoming government. The guest points out that the Israeli ambassador to France has resigned in protest of Benjamin Netanyahu's new government, which is against her conscience.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The video discusses the possibility of a new religion called "Abrahamia" which combines principles from Judaism, Christianity, and Islam. The religion is controversial and there is worry that it will not succeed. The narrator wishes the best for Dr. Peterson, who is apparently exploring the idea.
@@ -31,11 +31,13 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The video reviews the differences between traditional Muslim and Christian youth activities, and then discusses the harm that can come from using certain language. Stanford University has released a guide called the "Harmful Language Guide."
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>**  Stanford University professor John Hinderaker discusses how the use of euphemisms in discussions of sensitive topics can desensitize people to the reality of what's being proposed, and how the reaction of many Muslims to the conversion of Andrew Tate was "strange."
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** reviews the possibility that Jesus did not die on the cross, and if this is the case, the Quran's claim about the crucifixion is historically valid.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:05:00</a>
 
  Dr. Alia Thai reviews 2022 and thanks her viewers for their support.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>**  Professor Aliatize discusses 2022, which he believes will be a year of great change for Muslims and Christians alike. He also predicts that there will be more opportunities for outreach and conversion to Islam, as well as more research opportunities for those interested in Islamic doctrine. Finally, he encourages viewers to support the channel in which he is hosting this video.
+
 * **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>**  Dr. Alia Thai reviews 2022, a year that has many potential implications for the world. She thanks her viewers for their support and asks them to continue to support her work by subscribing to her channel and donating to her Patreon account. She also thanks her creator for providing her with the means to do this work.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

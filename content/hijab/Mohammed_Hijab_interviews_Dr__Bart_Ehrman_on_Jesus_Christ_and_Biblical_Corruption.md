@@ -2,9 +2,9 @@
 
 <iframe loading='lazy' src='https://www.youtube.com/embed/YdNynCDN9SA'></iframe>## Description
 
-DONATE NOW: https://www.saveiman.com/fb?affiliate_id=3414212 ⬅
+DONATE NOW: <https://www.saveiman.com/fb?affiliate_id=3414212> ⬅
 
-The Prophet ﷺ said: “𝙒𝙝𝙤𝙚𝙫𝙚𝙧 𝙗𝙪𝙞𝙡𝙙𝙨 𝙖 𝙈𝙤𝙨𝙦𝙪𝙚 𝙛𝙤𝙧 𝘼𝙡𝙡𝙖𝙝, 𝘼𝙡𝙡𝙖𝙝 𝙬𝙞𝙡𝙡 𝙗𝙪𝙞𝙡𝙙 𝙛𝙤𝙧 𝙝𝙞𝙢 𝙖 𝙨𝙞𝙢𝙞𝙡𝙖𝙧 𝙝𝙤𝙪𝙨𝙚 𝙞𝙣 𝙅𝙖𝙣𝙣𝙖𝙝.” 
+The Prophet ﷺ said: “𝙒𝙝𝙤𝙚𝙫𝙚𝙧 𝙗𝙪𝙞𝙡𝙙𝙨 𝙖 𝙈𝙤𝙨𝙦𝙪𝙚 𝙛𝙤𝙧 𝘼𝙡𝙡𝙖𝙝, 𝘼𝙡𝙡𝙖𝙝 𝙬𝙞𝙡𝙡 𝙗𝙪𝙞𝙡𝙙 𝙛𝙤𝙧 𝙝𝙞𝙢 𝙖 𝙨𝙞𝙢𝙞𝙡𝙖𝙧 𝙝𝙤𝙪𝙨𝙚 𝙞𝙣 𝙅𝙖𝙣𝙣𝙖𝙝.”
 
 If you support this project, you will in sha Allah get a house in Jannah and share in the rewards of all the people:
 
@@ -12,12 +12,11 @@ If you support this project, you will in sha Allah get a house in Jannah and sha
 ✅ Making Dhikr!
 ✅ Memorizing the Qur’an!
 
-Please donate and help establish this Masjid and earn your reward ➡ https://www.saveiman.com/fb?affiliate_id=3414212 ⬅
+Please donate and help establish this Masjid and earn your reward ➡ <https://www.saveiman.com/fb?affiliate_id=3414212> ⬅
 
-#SaveIman
+# SaveIman
 
 ## Summary of [Mohammed Hijab interviews Dr. Bart Ehrman on Jesus Christ and Biblical Corruption](https://www.youtube.com/watch?v=YdNynCDN9SA)
-
 
 *
 
@@ -30,6 +29,7 @@ Mohammed Hijab interviews Dr. Bart Ehrman about the reliability of the New Testa
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Mohammed Hijab interviews Bart Ehrman about the reliability of the New Testament. Ehrman comes to the conclusion that the New Testament is not reliable and is full of discrepancies. Muslims in Norway are establishing a Masjid and Dawa Center to further strengthen the Norwegian Tawa (welcome). If you donate to the Schools, you will insha allah reap the rewards of thousands of Muslims coming back to Islam. Click the link and donate now, and share the video for extra rewards. With Allah, how are you doing?
 
 Mohammed Hijab interviews Bart Ehrman about the reliability of the New Testament. Ehrman comes to the conclusion that the New Testament is not reliable and is full of discrepancies. Muslims in Norway are establishing a Masjid and Dawa Center to further strengthen the Norwegian Tawa (welcome). If you donate to the Schools, you will insha allah reap the rewards of thousands of Muslims coming back to Islam. Click the link and donate now, and share the video for extra rewards.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Mohammed Hijab, a former Christian who left the faith 25 years ago, discusses his reasons for studying the New Testament. He points out that text criticism is not simply about deciding whether what the authors wrote was true or not, but understanding what they actually wrote. Hijab also argues that Christianity conquered the Roman Empire, and the New Testament is at the root of this. His passion for the New Testament is due in part to the fact that it is an important historical phenomenon.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Mohammed Hijab interviews Dr. Bart Ehrman about the inconsistencies between the Islamic and Christian faiths, and whether or not Christ is more similar to the Muslim idea of God than the Christian one. Dr. Ehrman agrees that there are some parallels between the two religions, but believes that Christ is ultimately more unique and different than Allah.
 

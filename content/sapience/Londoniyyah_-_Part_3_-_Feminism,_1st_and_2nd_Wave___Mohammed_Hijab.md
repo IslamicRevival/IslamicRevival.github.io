@@ -6,8 +6,9 @@
 
 Londoniyyah - Part 3 - Feminism, 1st and 2nd Wave
 
-To be updated about our content please subscribe and open the notifications.
+To be updated about our content please subscribe and open the notifications
 ----
+
 BOOK A LIGHTHOUSE MENTOR
 
 Are you or someone you know doubting Islam? Do you find yourself struggling to find answers?  Do you have a hard time speaking to someone about Islam?  Are you considering Islam but are unsure about certain concepts?  Are you an activist, Imam or community leader who is unsure about how to handle questions related to science, philosophy, the Islamic moral code, etc.?
@@ -16,12 +17,11 @@ You are not alone.  Over the course of the last decade or more there has been a 
 
 Seeing the rise of  this phenomenon , Sapience Institute is introducing a One to One mentoring service called LIGHTHOUSE.
 
-BOOK A MENTOR HERE: https://sapienceinstitute.org/lighthouse/
+BOOK A MENTOR HERE: <https://sapienceinstitute.org/lighthouse/>
 
-VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: https://sapienceinstitute.org/
+VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: <https://sapienceinstitute.org/>
 
 ## Summary of [Londoniyyah - Part 3 - Feminism, 1st and 2nd Wave | Mohammed Hijab](https://www.youtube.com/watch?v=DOY84Ycaa2U)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -30,16 +30,17 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 Mohammed Hijab discusses feminism and how it has changed over time. He discusses how the Quran supports feminism and how different aspects of a woman's life are affected by feminism.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  Mohammed Hijab discusses feminism and its various waves. First wave feminism focused on gaining women the right to vote, while second wave feminism focused on more systemic changes such as education and increasing women's rights. Finally, third wave feminism emphasizes intersectionality and the various ways that feminism affects different aspects of a woman's life.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the history of feminism, focusing on the founders' racist views. First-wave feminists fought for the right of women to vote and other rights, but their views were based on enment and white supremacy.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the history of feminism, focusing on the founders' racist views. First-wave feminists fought for the right of women to vote and other rights, but their views were based on enment and white supremacy.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Second wave feminism, which started in the 1960s, focused on issues such as equal pay and women's rights. One of the most influential feminists of this era was Simone de Beauvoir, who wrote the book "The Second Sex." Betty Friedan, another major figure of second wave feminism, wrote "The Feminine Mystique." Jimingram, a professor of gender studies, discusses second wave feminism in a video for Londoniyyah.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** In this third video of a three-part series, feminist and author Betty Friedan discusses the psychological effects of women going into workforce and taking up domestic duties after the implementation of the 1st and 2nd waves of feminism. She observes that because women have a "profound human impulse" to have children, the impact of feminism on women has been negative. She also points to Germaine Greer's book, The Second Sex, as one of the most important works on feminism ever written.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** In the third video of the Londoniyyah series, Mohammed Hijab discusses feminism, first and second waves. He notes that, according to the Quran, it is like the devil to compare men and women. He also discusses the findings of a study which found that, after the implementation of various feminist policies, men are happier than women. Hijab argues that this shift in power should not be taken lightly, as it could have negative consequences for women, such as increasing rates of depression and unhappiness.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses why different things should be treated the same, and why feminism should accommodate for the differences between men and women. It provides three studies that support the idea that men have a stronger sex drive than women.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses the cognitive differences between men and women, and how these differences play out in different stages of a person's menstrual cycle. It also discusses the issue of feminism and how some Muslims pretend to be followers of Islam while actually believing in different ideologies.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses why different things should be treated the same, and why feminism should accommodate for the differences between men and women. It provides three studies that support the idea that men have a stronger sex drive than women.
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses the cognitive differences between men and women, and how these differences play out in different stages of a person's menstrual cycle. It also discusses the issue of feminism and how some Muslims pretend to be followers of Islam while actually believing in different ideologies.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Mohammed Hijab discusses the differences between men and women in cognitive, biological, and psychological terms, and how the second wave of feminism has led to a backlash. He also discusses the concept of intersectionality, which was first introduced in 1987 by Kimberly Crenshaw.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** This third wave feminist argues that patriarchies are not universal, and can only be found in western culture. She also argues that the definition of power is flawed, and that it should be based on responsibility.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses some misconceptions about Islam, specifically regarding feminism, polygamy, and honor killings. He points out that these misconceptions are based on incorrect interpretations of Islamic scripture. He encourages Muslims to be true to their religion and not sacrifice their principles for the sake of others.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the history of feminism and the first and second waves. It points out that, according to the speaker, there are many misconceptions about feminism and that, while some exceptions may be justified, overall women are equal to men. He argues that the primary focus of feminism should be on fighting inequalities and promoting general equality, and that discussing specific issues such as hijab or polygamy is not important. He concludes by speaking on behalf of God and saying that anything that the prophet Muhammad says is revelation from God.
+* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Discusses some misconceptions about Islam, specifically regarding feminism, polygamy, and honor killings. He points out that these misconceptions are based on incorrect interpretations of Islamic scripture. He encourages Muslims to be true to their religion and not sacrifice their principles for the sake of others.
+* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Discusses the history of feminism and the first and second waves. It points out that, according to the speaker, there are many misconceptions about feminism and that, while some exceptions may be justified, overall women are equal to men. He argues that the primary focus of feminism should be on fighting inequalities and promoting general equality, and that discussing specific issues such as hijab or polygamy is not important. He concludes by speaking on behalf of God and saying that anything that the prophet Muhammad says is revelation from God.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Mohammed Hijab discusses feminism and the first and second waves of feminism. He discusses how feminism has changed over time and how the Quran supports feminism.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

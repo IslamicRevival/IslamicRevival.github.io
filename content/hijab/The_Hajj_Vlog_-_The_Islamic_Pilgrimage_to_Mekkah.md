@@ -6,10 +6,9 @@
 
 This is a description of some of the main ritual practices of Muslims during the pilgrimage to Mekkah. For competitive deals for both Hajj and Umrah visit SunnahTours for more information:
 
-http://sunnahtours.com/?page_id=295
+<http://sunnahtours.com/?page_id=295>
 
 ## Summary of [The Hajj Vlog - The Islamic Pilgrimage to Mekkah](https://www.youtube.com/watch?v=uuY1dzbOJuA)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -18,6 +17,7 @@ http://sunnahtours.com/?page_id=295
 The Hajj is an Islamic pilgrimage to Mecca that is considered to be a very holy occasion. The journey is filled with many challenges, but it is also an opportunity to learn about and reflect on one's religion.  tells the story of one woman's journey and highlights the diversity of the pilgrims.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The Hajj is an Islamic pilgrimage to Mecca. Two people talk about how the pilgrimage is spiritual and how it brings people together from all walks of life. They talk about how the Hajj is an opportunity to reflect on one's religion and to learn from others.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The Hajj video showcases the Islamic pilgrimage to Mecca, which is considered a holy occasion. The pilgrims must perform five pillars of the faith (the Hajj is the only one of the five that Muslims are allowed to perform), including throwing stones at a devil figure symbolizing evil.  also describes the peaceful atmosphere at the pilgrimage site and the diversity of the pilgrims.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** This Hajj Vlog covers the Islamic pilgrimage to Mecca. The pilgrimage involves a long journey running up and down mountains, and is filled with many challenges and opportunities.  also tells the story of one woman's journey, including the difficulties she faced trying to find water for her child, and the kindness of her fellow pilgrims.
 

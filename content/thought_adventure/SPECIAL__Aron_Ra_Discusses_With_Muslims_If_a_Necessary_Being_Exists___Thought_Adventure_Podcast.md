@@ -7,17 +7,17 @@
 In this discussion Aron Ra is discussing with Muslims/Theist the arguments for the existence of necessary being.
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -25,41 +25,39 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
-
-#AronRa #Atheist #MuslimsDebatingAronRa
+# AronRa #Atheist #MuslimsDebatingAronRa
 
 ## Summary of [SPECIAL: Aron Ra Discusses With Muslims If a Necessary Being Exists | Thought Adventure Podcast](https://www.youtube.com/watch?v=ZHP5lzIiXwQ)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -68,33 +66,37 @@ Gmail: hello.tapodcast@gmail.com
 Aron Ra discusses with Muslims whether a necessary being exists. He argues that there is no objective evidence for the existence of such a being, and that anything outside of empirical observation cannot be known. He concludes that by definition, the mind is a product of brain, and that philosophy should be used to explore empirical evidence for God.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Aaron Raw discusses with Muslims if a necessary being exists, and his belief that there is no such thing as a necessary being. Raw defines himself as a hard atheist and believes that the proposition that a necessary being exists is outright false. He then goes on to discuss his epistemology and how he comes to know things. He says that while it is acceptable to infer things about the unobservable, the question of whether or not god is necessary is not a valid one.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Aron Ra discusses the concept of a fact with a Muslim, asking what it is and whether it can be verified. He states that a fact is objectively verifiable data, and that the laws of logic, mathematics, and philosophy are not facts.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Aron Ra discusses with Muslims if a necessary being exists, noting that it is not an objective fact that such a being exists, but rather something that exists as a foundation to reality that must exist. He argues that evidence for the existence of a necessary being comes from empiricism, and that anything outside of empiricalism cannot be known.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Aron Ra discusses the law of non-contradiction with Muslims, noting that if an assertion cannot be verified, it cannot be considered a fact. He asserts that, since religion often claims to know things without evidence, it is not possible for a necessary being to exist without evidence.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Aron Ra discusses the idea of a necessary being with Muslims, noting that there is no objective evidence that such a being exists. If no one has ever produced a possibility that god exists, then it follows that god does not exist.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Aron Ra discusses with Muslims whether a necessary being exists, and argues that if god does not exist, it is logically impossible for him to exist. He then asks for justification for believing in god, and points out that there is no evidence to support the idea that god exists.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Aron Ra discusses with Muslims if a necessary being exists, concluding that by definition, the mind is a product of brain. He argues that philosophy should be used to explore empirical evidence for God, but that this is not possible given the definition of mind.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses Special: Aron Ra's theory that mind is by definition what we link the term "mind" to. If this particular theory of mind is unsophisticated, then Aron Ra's atheistic beliefs would be based on a flimsy foundation. Aron Ra claims that if magic exists, it would have an explanation that is not based on naturalism or materialism, but on a supernatural explanation. If magic does not exist, then the actions of Hermione and Gandalf and Obi-Wan would be examples of fake magic.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Saying aaron but what i'm trying to understand is how you define magic, how do we define this particular magic because i think it goes to the heart of epistemology. So what you're saying is that magic doesn't exist because if you have an event that doesn't have an explanation, like or at least as a non-materialist explanation, that that would be something that's quite important magical and therefore something that wouldn't exist. Is that how you understand it? It's not just the fact that it breaks the laws of nature, the known laws of nature; it's the fact that it has no laws to govern its existence, coming into being. So that's pretty fair.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Aron Ra discusses the concept of a fact with a Muslim, asking what it is and whether it can be verified. He states that a fact is objectively verifiable data, and that the laws of logic, mathematics, and philosophy are not facts.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Aron Ra discusses with Muslims if a necessary being exists, noting that it is not an objective fact that such a being exists, but rather something that exists as a foundation to reality that must exist. He argues that evidence for the existence of a necessary being comes from empiricism, and that anything outside of empiricalism cannot be known.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Aron Ra discusses the law of non-contradiction with Muslims, noting that if an assertion cannot be verified, it cannot be considered a fact. He asserts that, since religion often claims to know things without evidence, it is not possible for a necessary being to exist without evidence.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Aron Ra discusses the idea of a necessary being with Muslims, noting that there is no objective evidence that such a being exists. If no one has ever produced a possibility that god exists, then it follows that god does not exist.
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Aron Ra discusses with Muslims whether a necessary being exists, and argues that if god does not exist, it is logically impossible for him to exist. He then asks for justification for believing in god, and points out that there is no evidence to support the idea that god exists.
+- **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Aron Ra discusses with Muslims if a necessary being exists, concluding that by definition, the mind is a product of brain. He argues that philosophy should be used to explore empirical evidence for God, but that this is not possible given the definition of mind.
+- **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses Special: Aron Ra's theory that mind is by definition what we link the term "mind" to. If this particular theory of mind is unsophisticated, then Aron Ra's atheistic beliefs would be based on a flimsy foundation. Aron Ra claims that if magic exists, it would have an explanation that is not based on naturalism or materialism, but on a supernatural explanation. If magic does not exist, then the actions of Hermione and Gandalf and Obi-Wan would be examples of fake magic.
+- **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Saying aaron but what i'm trying to understand is how you define magic, how do we define this particular magic because i think it goes to the heart of epistemology. So what you're saying is that magic doesn't exist because if you have an event that doesn't have an explanation, like or at least as a non-materialist explanation, that that would be something that's quite important magical and therefore something that wouldn't exist. Is that how you understand it? It's not just the fact that it breaks the laws of nature, the known laws of nature; it's the fact that it has no laws to govern its existence, coming into being. So that's pretty fair.
 
 Another way to interpret the data is to say that our whole theory of gravity is wrong and we need to re-change it. Or, we could posit a form of matter that exists that exhibits gravity but we just can't see it. That's pretty much where the current science is. So what they're doing is they unfortunately aren't the right way to go at this moment; they're still looking for dark matter. But, I agree with you that magic doesn't exist and that if we see some sort of event within the universe, we
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Aron Ra discusses the principle of sufficient reason, which states that any observations that we have within the universe requires an explanation. He argues that, without logical axioms, we would be forced to believe in magic.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Aron Ra discusses the principle of sufficient reason with Muslims, and argues that anything is possible if accepted as a principle. If this is true, then an infinite regress of explanations is created, as each thing requires an explanation for itself.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Aron Ra discusses with Muslims if a necessary being exists, and concludes that given the existence of contingent things, a necessary being must exist. He argues that a necessary being can be logically inferred from the principle of sufficient reason and the concept of contingency.
+
+- **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Aron Ra discusses the principle of sufficient reason, which states that any observations that we have within the universe requires an explanation. He argues that, without logical axioms, we would be forced to believe in magic.
+- **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Aron Ra discusses the principle of sufficient reason with Muslims, and argues that anything is possible if accepted as a principle. If this is true, then an infinite regress of explanations is created, as each thing requires an explanation for itself.
+- **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Aron Ra discusses with Muslims if a necessary being exists, and concludes that given the existence of contingent things, a necessary being must exist. He argues that a necessary being can be logically inferred from the principle of sufficient reason and the concept of contingency.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:45:00</a>
 
 Aron Ra discusses with Muslims if a necessary being exists, and finds that there is no clear answer. He then goes on to explain the importance of philosophy and how undermining it can have serious consequences.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Aron Ra discusses with Muslims if a necessary being exists, and all four participants agree that there is no necessary being. However, they agree that something is necessary.
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Aron Ra discusses with Muslims if a necessary being exists, and finds that there is no clear answer. He then goes on to explain the importance of philosophy and how undermining it can have serious consequences.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** A philosopher discusses with Muslims if a necessary being exists. Based on logical reasoning, the philosopher states that if all contingent beings exist, then they all require an explanation outside of themselves, which must be a necessary being because by definition it is not part of the set. This leads to the potential for an infinite regress, which is a logical impossibility.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** Aaron Ra discusses with Muslims whether a necessary being exists, and how one could come to the conclusion that such a being exists. He points out that the definition of "science" would be impossible if it were to affirm the possibility of an infinite regress, which is why the existence of a necessary being cannot be proven using scientific means. He goes on to say that this is why the Islamic conception of God, which draws on evidence from the contingent beings in the universe, is the most reasonable belief.
-* **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** The discussion by Aron Ra with Muslims concludes that a necessary being exists, and from there, god exists. However, the problem is that people want to believe in god for emotional reasons instead of thinking through the evidence.
-* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** A YouTube video discussing a possible debate between Aron Ra and Muslims concerning the existence of a necessary being is followed by a discussion between Aron Ra and Jason Sharif on the nature of a being. Aron Ra initially admits that there is a necessary being, but later backtracks and argues that a being only means an existent thing. Sharif clarifies that a necessary being is simply anything that exists and Aron Ra agrees. Despite this, Jason Sharif believes that Aron Ra has conceded on the point of a necessary being.
-* **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** Aron Ra discusses with Muslims if a necessary being exists, and how empirical evidence and logical axioms are necessary to come to certain conclusions within science. He points out that there are many points where he concedes to Muslims, and hopes that a second conversation about the subject will happen. He has very negative views of Islam, and believes that Muslims adhere to islam out of irrationality. He suggests that atheists, Muslims, and others who have negative views of islam engage with each other to try to understand each other's positions.
-* **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** , Aron Ra discusses with Muslims if a necessary being exists. He argues that because there are many different definitions of "person," and because a physicalist account of the mind does not rely on a biological structure, a person does not necessarily exist by definition.
-* **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** Aron Ra discusses his view that a necessary being does not exist with Muslims, noting that the question is a metaphysical or philosophical question and that he is philosophically naive. The discussion leads to examples of Ra's philosophical naivete, and Ra stresses the importance of the audience understanding this question is a philosophical one.
-* **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** Aron Ra discusses the importance of critiquing the strongest form of a belief system, not just attacking a caricature. He believes that atheists should be internet atheists and think in the same way.
+
+- **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Aron Ra discusses with Muslims if a necessary being exists, and finds that there is no clear answer. He then goes on to explain the importance of philosophy and how undermining it can have serious consequences.
+- **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** A philosopher discusses with Muslims if a necessary being exists. Based on logical reasoning, the philosopher states that if all contingent beings exist, then they all require an explanation outside of themselves, which must be a necessary being because by definition it is not part of the set. This leads to the potential for an infinite regress, which is a logical impossibility.
+- **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** Aaron Ra discusses with Muslims whether a necessary being exists, and how one could come to the conclusion that such a being exists. He points out that the definition of "science" would be impossible if it were to affirm the possibility of an infinite regress, which is why the existence of a necessary being cannot be proven using scientific means. He goes on to say that this is why the Islamic conception of God, which draws on evidence from the contingent beings in the universe, is the most reasonable belief.
+- **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** The discussion by Aron Ra with Muslims concludes that a necessary being exists, and from there, god exists. However, the problem is that people want to believe in god for emotional reasons instead of thinking through the evidence.
+- **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** A YouTube video discussing a possible debate between Aron Ra and Muslims concerning the existence of a necessary being is followed by a discussion between Aron Ra and Jason Sharif on the nature of a being. Aron Ra initially admits that there is a necessary being, but later backtracks and argues that a being only means an existent thing. Sharif clarifies that a necessary being is simply anything that exists and Aron Ra agrees. Despite this, Jason Sharif believes that Aron Ra has conceded on the point of a necessary being.
+- **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** Aron Ra discusses with Muslims if a necessary being exists, and how empirical evidence and logical axioms are necessary to come to certain conclusions within science. He points out that there are many points where he concedes to Muslims, and hopes that a second conversation about the subject will happen. He has very negative views of Islam, and believes that Muslims adhere to islam out of irrationality. He suggests that atheists, Muslims, and others who have negative views of islam engage with each other to try to understand each other's positions.
+- **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** , Aron Ra discusses with Muslims if a necessary being exists. He argues that because there are many different definitions of "person," and because a physicalist account of the mind does not rely on a biological structure, a person does not necessarily exist by definition.
+- **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** Aron Ra discusses his view that a necessary being does not exist with Muslims, noting that the question is a metaphysical or philosophical question and that he is philosophically naive. The discussion leads to examples of Ra's philosophical naivete, and Ra stresses the importance of the audience understanding this question is a philosophical one.
+- **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** Aron Ra discusses the importance of critiquing the strongest form of a belief system, not just attacking a caricature. He believes that atheists should be internet atheists and think in the same way.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

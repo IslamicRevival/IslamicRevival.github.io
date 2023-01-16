@@ -2,14 +2,13 @@
 
 <iframe loading='lazy' src='https://www.youtube.com/embed/_vX4Vtqo1Yk'></iframe>## Description
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
-My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
+My book: <https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/>
 
 ## Summary of [Nigeria Lecture -Tawheed and Shirk (Yoruba Translation)](https://www.youtube.com/watch?v=_vX4Vtqo1Yk)
-
 
 *
 
@@ -19,14 +18,15 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 
  discusses the concept of Tawheed and Shirk in Islam, and how they differ from Christianity. explains that Shirk is a very bad sin, and the punishment for it is severe. He also recommends that Muslims look to the Quran and Sunnah for guidance on avoiding Shirk.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the belief that children are born with an innate belief in one God, regardless of whether or not they are taught about it. Recent studies have shown that this belief is ingrained in children from the moment they are born.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the difference between Tawheed and Shirk (or idolatry), and how Christianity has done the same thing. Islam strictly forbids Shirk, or worshipping anything other than Allah alone, and considers it the worst possible sin in Islam.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the concept of tawheed and shirk, noting that no middle eastern man is worthy of worship due to Nigeria's dominance in sports. He also points out that, if Jesus were truly God, all Christians would be protesting his divinity.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the concept of shirk, or associating partners with God that is forbidden in Islam. Shirk is considered a very bad sin, and the punishment for it is severe. According to the speaker, the punishment for shirk is worse than the punishment for committing a much worse sin, such as rape.  also compares the severity of different sins, and explains that shirk is worse than all other sins in terms of its severity.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the importance of following the teachings of Islam, specifically the importance of following the prophet Muhammad. It quotes verses from the Bible that show that Jesus was not a Christian, but a messenger of God. It also quotes passages from the Quran that show that Muhammad was a true prophet.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses the importance of tawheed and shirk in the Islamic religion, emphasizing that prophets in the Bible spoke the truth about the future. The quran also mentions future events, including the Roman Empire defeating the Persian Empire. The prophet Muhammad also spoke about these events in the quran.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the belief that children are born with an innate belief in one God, regardless of whether or not they are taught about it. Recent studies have shown that this belief is ingrained in children from the moment they are born.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the difference between Tawheed and Shirk (or idolatry), and how Christianity has done the same thing. Islam strictly forbids Shirk, or worshipping anything other than Allah alone, and considers it the worst possible sin in Islam.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the concept of tawheed and shirk, noting that no middle eastern man is worthy of worship due to Nigeria's dominance in sports. He also points out that, if Jesus were truly God, all Christians would be protesting his divinity.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the concept of shirk, or associating partners with God that is forbidden in Islam. Shirk is considered a very bad sin, and the punishment for it is severe. According to the speaker, the punishment for shirk is worse than the punishment for committing a much worse sin, such as rape.  also compares the severity of different sins, and explains that shirk is worse than all other sins in terms of its severity.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the importance of following the teachings of Islam, specifically the importance of following the prophet Muhammad. It quotes verses from the Bible that show that Jesus was not a Christian, but a messenger of God. It also quotes passages from the Quran that show that Muhammad was a true prophet.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses the importance of tawheed and shirk in the Islamic religion, emphasizing that prophets in the Bible spoke the truth about the future. The quran also mentions future events, including the Roman Empire defeating the Persian Empire. The prophet Muhammad also spoke about these events in the quran.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** provides a brief overview of Islam, discussing the importance of faith in one God and shirk, or worshipping other gods. notes that there are many things Muslims do which can be considered shirk, including fortune-telling and going to fortune tellers. warns Muslims not to go to fortune tellers, and says that if someone does go, their prayers will not be accepted for 40 days.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses the importance of shirk, or worshipping other than God, and how to avoid it. He recommends looking to the Quran and Sunnah for guidance on matters of shirk.
+* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses the importance of shirk, or worshipping other than God, and how to avoid it. He recommends looking to the Quran and Sunnah for guidance on matters of shirk.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>**  a Nigerian man gives a lecture on the Islamic faith of Tawheed and Shirk (the belief in one god, versus the belief in multiple gods). He discusses the importance of following these principles and the consequences of not doing so.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

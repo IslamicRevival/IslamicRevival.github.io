@@ -4,16 +4,15 @@
 
 ## Description
 
-Download/purchase Quranly for iOS: https://apple.co/3wIyhsg Android: https://bit.ly/3mwFHdx 
+Download/purchase Quranly for iOS: <https://apple.co/3wIyhsg> Android: <https://bit.ly/3mwFHdx>
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
-My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
+My book: <https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/>
 
 ## Summary of [Douglas Murray Flees Challenge](https://www.youtube.com/watch?v=QK2p2GdD7cs)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -22,6 +21,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 Douglas Murray is a conservative commentator who argues that traditional Muslim beliefs promote murder. He is challenged on this belief by a Muslim audience member, and he argues that the liberal approach to free speech is hypocritical. He argues that conservatives should embody the liberal ideal of civility and tolerance, instead of hiding behind the freedom of speech argument.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Douglas Murray, a critic of Islam and Muslims, has spoken out against a proposed app to read Quran verses gradually over time. The app, called "Quran App," is designed to help Muslims practice their faith. Murray claims that the app is designed to make Muslims less desirable to European society, and that it is hypocritical for him to call himself a defender of freedom of speech while supporting an organization that produces reports censoring Muslim speakers.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Douglas Murray discusses the three types of Islam: the Quran, the life of Muhammad, and Sharia law. He says that Islam one, the Quran, is bad because of its violence and its more numerous violent verses. He also says that the life of Muhammad is a bad example, and that muhammad was a warrior and war criminal. Murray concludes that Muslims should not follow him as a role model.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Douglas Murray argues that Qur'anic verses that are peaceful are superseded by those that are violent. He also asserts that the peaceful verses are not abrogated or superseded by any other verse. Murray fails to provide evidence to support these claims, and his arguments are rejected by the narrator.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** <>

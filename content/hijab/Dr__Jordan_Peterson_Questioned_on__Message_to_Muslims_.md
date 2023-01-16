@@ -2,7 +2,7 @@
 
 <iframe loading='lazy' src='https://www.youtube.com/embed/jxr6ykYcA1M'></iframe>## Description
 
-DONATE NOW: https://www.saveiman.com/fb?affiliate_id=3414212 ⬅
+DONATE NOW: <https://www.saveiman.com/fb?affiliate_id=3414212> ⬅
 
 The Prophet ﷺ said: “𝙒𝙝𝙤𝙚𝙫𝙚𝙧 𝙗𝙪𝙞𝙡𝙙𝙨 𝙖 𝙈𝙤𝙨𝙦𝙪𝙚 𝙛𝙤𝙧 𝘼𝙡𝙡𝙖𝙝, 𝘼𝙡𝙡𝙖𝙝 𝙬𝙞𝙡𝙡 𝙗𝙪𝙞𝙡𝙙 𝙛𝙤𝙧 𝙝𝙞𝙢 𝙖 𝙨𝙞𝙢𝙞𝙡𝙖𝙧 𝙝𝙤𝙪𝙨𝙚 𝙞𝙣 𝙅𝙖𝙣𝙣𝙖𝙝.”
 
@@ -12,10 +12,9 @@ If you support this project, you will in sha Allah get a house in Jannah and sha
 ✅ Making Dhikr!
 ✅ Memorizing the Qur’an!
 
-Please donate and help establish this Masjid and earn your reward ➡ https://www.saveiman.com/fb?affiliate_id=3414212 ⬅
+Please donate and help establish this Masjid and earn your reward ➡ <https://www.saveiman.com/fb?affiliate_id=3414212> ⬅
 
 ## Summary of [Dr. Jordan Peterson Questioned on 'Message to Muslims'](https://www.youtube.com/watch?v=jxr6ykYcA1M)
-
 
 *
 
@@ -26,6 +25,7 @@ Please donate and help establish this Masjid and earn your reward ➡ https://ww
 Dr. Jordan Peterson is questioned on his thoughts about Muslims in the West and how to start a dialogue with them. He believes that it is important to be honest about the history of colonialism and Islam's place in it, and that it is often difficult to talk to people from other cultures.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Dr. Jordan Peterson is asked about his thoughts on Muslims in the West and how to start a dialogue with them. He believes that it is important to be honest about the history of colonialism and Islam's place in it, and that it is often difficult to talk to people from other cultures.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Jordan Peterson is questioned on "Message to Muslims." Peterson argues that, while there are historical atrocities committed by both the West and Islam, Islam is not wholly to blame. He also points out that, while liberalism was an important part of the development of the West, it is not the only factor.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  Dr. Jordan Peterson is questioned about the historical record of Western civilization, which he argues does not show that the ideology of the West can fix our problems. Peterson also discusses the idea of body count, which he believes shows that societies with a depleted communitarian ethic and bereft of a respectful tradition are more likely to experience bloodshed.
 

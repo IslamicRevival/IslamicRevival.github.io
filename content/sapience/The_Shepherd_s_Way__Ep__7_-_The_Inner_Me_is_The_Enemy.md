@@ -5,28 +5,27 @@
 The Shepherd's Way: Ep. 7 - The Inner Me is The Enemy
 
 Support our struggle to share the truth and beauty of Islam:
-https://sapienceinstitute.org/donate
+<https://sapienceinstitute.org/donate>
 —
 Help us educate and mentor others to share the faith academically.
-Donate now: https://sapienceinstitute.org/donate/ 
+Donate now: <https://sapienceinstitute.org/donate/>
 
-Free online courses: https://learn.sapienceinstitute.org/
+Free online courses: <https://learn.sapienceinstitute.org/>
 
-Free books: https://sapienceinstitute.org/books/
+Free books: <https://sapienceinstitute.org/books/>
 
-Have doubts? Book a mentor: https://sapienceinstitute.org/lighthouse/
+Have doubts? Book a mentor: <https://sapienceinstitute.org/lighthouse/>
 
-Listen (Podcast): https://sapienceinstitute.org/sapientvoices/
+Listen (Podcast): <https://sapienceinstitute.org/sapientvoices/>
 
 Follow:
-– Facebook: https://facebook.com/sapienceinstitute.org/ 
-– Twitter: https://twitter.com/SapienceOrg/ 
-– Instagram: https://instagram.com/sapienceinstitute/ 
+– Facebook: <https://facebook.com/sapienceinstitute.org/>
+– Twitter: <https://twitter.com/SapienceOrg/>
+– Instagram: <https://instagram.com/sapienceinstitute/>
 
-Articles, speaker requests & more: https://sapienceinstitute.org/
+Articles, speaker requests & more: <https://sapienceinstitute.org/>
 
 ## Summary of [The Shepherd's Way: Ep. 7 - The Inner Me is The Enemy](https://www.youtube.com/watch?v=0mOcVE3hQBo)
-
 
 *
 
@@ -36,7 +35,8 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
 In "The Shepherd's Way: Ep. 7 - The Inner Me is The Enemy," the narrator discusses the importance of diminishing one's ego and arrogance. He cites the Prophet Muhammad, SAWS, as an example of how to be egoless and achieve success.  recommends engaging in the remembrance of Allah throughout the night, using the last third of the night to do so. Doing so will help us diminish our ego, and make us closer to Allah.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the ego and how it is the enemy of unity and success. The Prophet Muhammad, peace be upon him, showed us how to be egoless and achieve success. We must be careful not to let our ego get in the way of our mission, and we must have good followers who trust us and are willing to support us no matter what.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the ego and how it is the enemy of unity and success. The Prophet Muhammad, peace be upon him, showed us how to be egoless and achieve success. We must be careful not to let our ego get in the way of our mission, and we must have good followers who trust us and are willing to support us no matter what.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The Shepherd's Way discusses how to subdue the ego and become as egoless as possible. The first step is realizing the consequences of arrogance and ego. The second step is understanding one's reality. The third step is engaging in repentance and tawba (turning back to Allah). The fourth step is knowing allah and his names and attributes. The final step is to worship allah subhanahu wa ta'ala. All of these steps help diminish one's ego.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The Shepherd's Way discusses the importance of remembering Allah, and the consequences of neglecting this duty.  cites a hadith in which the Prophet,SAWS, says that the difference between those who remember Allah and those who do not is like the difference between the living and the dead. Furthermore, it recommends that we engage in the remembrance of Allah throughout the night, using the last third of the night to do so. Doing so will help us diminish our ego, and make us closer to Allah.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** In this episode, Allah asks his followers to try to diminish their ego and arrogance, and to focus on their hearts in order to achieve spiritual progress. The narrator also discusses the importance of donating to Sapience Institute so that they can spread the message of Islam.

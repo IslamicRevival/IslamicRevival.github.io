@@ -6,10 +6,9 @@
 
 “Divine Commands: Why Morality Leads to God” hosted by the Islamic Medical Society at the University of Birmingham.
 
-You can read Hamza’s essay on this topic here: “Know God, Know Good: God & Objective Morality” https://www.hamzatzortzis.com/know-god-know-good-god-objective-morality/.
+You can read Hamza’s essay on this topic here: “Know God, Know Good: God & Objective Morality” <https://www.hamzatzortzis.com/know-god-know-good-god-objective-morality/>.
 
 ## Summary of [Divine Commands: Why Morality Leads to God](https://www.youtube.com/watch?v=yt-SUQqRLWk)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -17,12 +16,13 @@ You can read Hamza’s essay on this topic here: “Know God, Know Good: God & O
 
  discusses the idea that morality leads to God, and that objective morals exist outside of human beings. It goes on to discuss meta ethics, and how one must first have principles or lenses to justify an objective morality. The presenter argues that morality does not lead to God, because different people can have conflicting moral views.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the idea that morality leads to God, and that objective morals exist outside of human beings. It then goes on to discuss meta ethics, and how one must first have principles or lenses to justify an objective morality.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the idea that morality leads to God, and that objective morals exist outside of human beings. It then goes on to discuss meta ethics, and how one must first have principles or lenses to justify an objective morality.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Islamic thinkers believe that there are objective morals that humans can understand and follow. This is based on the idea that God is worthy of all worship and that it is wrong to worship anything other than God.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Hunter argues that there are objective moral values, and that these values come from God. He goes on to argue that if this is the case, then it follows that God exists.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The article discusses why morality leads to God, and presents two alternatives for why objective moral values exist: either because God commands them or because they are more really good. The article argues that a dilemma exists: one cannot accept that morality is based on God's commands alone, as doing so would be arbitrary and there would be nothing in the universe that is objectively wrong or more really good. The article concludes with a discussion of how to reconcile these two positions and comes up with the idea that good is external to God, meaning that we can't rely on God's commands to judge what is good.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the dilemma of whether morality can be objective, and argues that it is based on God's nature as the highest moral being.  also discusses the example of the nurse shark, which illustrates how rape can be considered morally wrong even if the individuals involved are raised in the same environment.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses the reasons why morality leads to God, and more specifically, to the idea that there are objective moral values and duties that we are obligated to fulfill. It argues that this is rational because it makes sense of why we have a sense of moral duty, and why we would want to fulfill those duties.  finishes by describing another alternative, moral realism, which agrees that there are objective moral values and duties, but does not explain how they came to be. Moral realism is, in the video's opinion, a rational alternative, but does not explain why we have a sense of duty to uphold those values.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the dilemma of whether morality can be objective, and argues that it is based on God's nature as the highest moral being.  also discusses the example of the nurse shark, which illustrates how rape can be considered morally wrong even if the individuals involved are raised in the same environment.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses the reasons why morality leads to God, and more specifically, to the idea that there are objective moral values and duties that we are obligated to fulfill. It argues that this is rational because it makes sense of why we have a sense of moral duty, and why we would want to fulfill those duties.  finishes by describing another alternative, moral realism, which agrees that there are objective moral values and duties, but does not explain how they came to be. Moral realism is, in the video's opinion, a rational alternative, but does not explain why we have a sense of duty to uphold those values.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Constructivism holds that the very fact that humans are rational leads to objective moral truths. It argues that objective morality is based upon the moral variables it's context-sensitive. In order to have objective morals, one must believe that modes are objective.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** the presenter argues that morality does not lead to God, because different people can have conflicting moral views.
 

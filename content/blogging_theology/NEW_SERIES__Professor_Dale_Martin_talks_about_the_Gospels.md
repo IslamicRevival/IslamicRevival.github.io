@@ -4,11 +4,10 @@
 
 ## Description
 
-We begin a new series of talks on the New Testament beginning with the Gospel of Mark. Dale Martin is a distinguished American New Testament scholar who taught at Yale University for over 30 years. See his excellent Introduction to New Testament History and Literature (Open Yale Courses) https://www.amazon.co.uk/Testament-History-Literature-Open-Courses/dp/0300180853
-Please consider supporting my work on Patreon: https://www.patreon.com/Bloggingtheology?fan_landing=true
+We begin a new series of talks on the New Testament beginning with the Gospel of Mark. Dale Martin is a distinguished American New Testament scholar who taught at Yale University for over 30 years. See his excellent Introduction to New Testament History and Literature (Open Yale Courses) <https://www.amazon.co.uk/Testament-History-Literature-Open-Courses/dp/0300180853>
+Please consider supporting my work on Patreon: <https://www.patreon.com/Bloggingtheology?fan_landing=true>
 
 ## Summary of [NEW SERIES: Professor Dale Martin talks about the Gospels](https://www.youtube.com/watch?v=YPOcTIYZtNQ)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -17,6 +16,7 @@ Please consider supporting my work on Patreon: https://www.patreon.com/Bloggingt
  Professor Dale Martin discusses the differences between the four canonical Gospels. He argues that John is set apart from the other gospels and comes last in the canon due to its more mature writing style and emphasis on the deity of Jesus. Martin also discusses how scholars can identify parallels between the Greek texts of the Gospels and how they are likely to have been copied and edited by the authors.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Professor Dale Martin from Yale University discusses the four canonical gospels in the Bible: Matthew, Mark, Luke, and John. He explains that though all four were written by anonymous authors and were likely composed over a period of several decades, Matthew became the most popular gospel due to its easily-readable structure and its inclusion of teachings that were different from the others. John, the gospel with the most unique teachings, was placed last in the canon due to its divergence from the others.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Professor Dale Martin discusses how the Gospel of John differs from the other three Gospels. He argues that John is set apart from the other gospels and comes last in the canon due to its more mature writing style and emphasis on the deity of Jesus. Martin also discusses how scholars can identify parallels between the Greek texts of the Gospels and how they are likely to have been copied and edited by the authors.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  Professor Dale Martin discusses how the disciples are portrayed in different gospel accounts. He notes that in Mark's gospel, the earliest account, the disciples are often portrayed negatively. For example, the famous story of Jesus walking on the water and the disciples failing to understand is featured in Mark's gospel, but is absent in Matthew's version. Martin also points out that in Matthew's gospel, the disciples proclaim Jesus as the son of God at the end of the story, a change from the earlier account in Mark. Martin believes that this change is likely due to the later gospel writer's desire to make the disciples more respectable.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Professor Dale Martin discusses the idea that the Gospels contain multiple narratives about the life and teachings of Jesus, including a narrative of his crucifixion and resurrection. He argues that these narratives are not in chronological order, and that the idea of an Ascension is an invention of later Christians.
@@ -28,11 +28,13 @@ Please consider supporting my work on Patreon: https://www.patreon.com/Bloggingt
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Professor Dale Martin discusses the Gospels, noting that while the gospel of Mark may have had some literary value in the 2nd century, it was not appreciated by ancient readers. He goes on to say that, as Mark was the most common gospel among early Christians, it is most likely that the author was John, one of the apostles.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The video discusses the linguistic differences between Greek and Aramaic, which are two of the languages Jesus may have spoken. It argues that these differences make it difficult to ascertain the historical reliability of the Gospels, as the authors may have been influenced by the Aramaic language they were writing in.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** In this passage, Jesus says that the disciples can pick which gospel they want to follow, but they should only pick one. Later in the same chapter, Jesus compares the gospel of Matthew to a good wine, while the gospel of Mark is like vinegar. Paul's style in Colossians and Ephesians is also mentioned.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:05:00</a>
 
 Professor Dale Martin discusses the Gospels and how they differ from other ancient texts. He argues that the Gospel of Mark reflects a lower level of christology than found in the other Gospels. He points to Plato and Apollonius of Tyana as examples of ancient figures who were considered divine by some, but not by all.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>**  Professor Dale Martin discusses the concept of the son of God in the Gospel of Mark. He argues that, while the passage may seem to imply that Jesus is divine, it actually reflects a lower level of christology than found in the other Gospels.
+
 * **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Professor Dale Martin discusses the Gospels and how they differ from other ancient texts. He points to Plato and Apollonius of Tyana as examples of ancient figures who were considered divine by some, but not by all. He also mentions the Gospel of Matthew, which he believes is the most interesting of the four gospels.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

@@ -6,29 +6,28 @@
 
 Londoniyyah series is an explanation of a new theo-philosophical poem on Islam and contemporary worldviews by Mohammed Hijab.
 
-Watch the series: https://youtube.com/playlist?list=PLE4jCjpXgtqAbDY_CA7xIAFHuLgGdbzjJ
-Listen the series: https://soundcloud.com/sapienceinstitute/sets/londoniyyah?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+Watch the series: <https://youtube.com/playlist?list=PLE4jCjpXgtqAbDY_CA7xIAFHuLgGdbzjJ>
+Listen the series: <https://soundcloud.com/sapienceinstitute/sets/londoniyyah?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing>
 —
 Help us educate and mentor others to share the faith academically.
-Donate now: https://sapienceinstitute.org/donate/ 
+Donate now: <https://sapienceinstitute.org/donate/>
 
-Free online courses: https://learn.sapienceinstitute.org/
+Free online courses: <https://learn.sapienceinstitute.org/>
 
-Free books: https://sapienceinstitute.org/books/
+Free books: <https://sapienceinstitute.org/books/>
 
-Have doubts? Book a mentor: https://sapienceinstitute.org/lighthouse/
+Have doubts? Book a mentor: <https://sapienceinstitute.org/lighthouse/>
 
-Listen (Podcast): https://sapienceinstitute.org/sapientvoices/
+Listen (Podcast): <https://sapienceinstitute.org/sapientvoices/>
 
 Follow:
-– Facebook: https://facebook.com/sapienceinstitute.org/ 
-– Twitter: https://twitter.com/SapienceOrg/ 
-– Instagram: https://instagram.com/sapienceinstitute/ 
+– Facebook: <https://facebook.com/sapienceinstitute.org/>
+– Twitter: <https://twitter.com/SapienceOrg/>
+– Instagram: <https://instagram.com/sapienceinstitute/>
 
-Articles, speaker requests & more: https://sapienceinstitute.org/
+Articles, speaker requests & more: <https://sapienceinstitute.org/>
 
 ## Summary of [The Story Of "Londoniyyah" | Mohammed Hijab](https://www.youtube.com/watch?v=RwgCDLQ828g)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -37,6 +36,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 Mohammed Hijab discusses the origins of the Londoniyyah poem and how it addresses various issues affecting Londoners. He also discusses the importance of being fair to everyone who has contributed to the Londoniyyah project, and thanks the viewers of the Sapience Institute's YouTube channel for their support.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Mohammed Hijab tells the story of how he came up with the idea to create a poem in Arabic to be named "Londoniyyah" in memory of his city of origin, London. He sent the poem to Rahim and received positive feedback from scholars. However, he was not satisfied with the poem's quality and decided to continue working on it even after his death. He eventually completed the poem and named it after his city of origin, London. The poem addresses various issues affecting Londoners, such as feminism, liberalism, materialism, and atheism.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Mohammed Hijab discusses the origins of Londoner, a poem that describes the transformation of a shy individual into an outspoken advocate for change. Eight months after the class began, he says he is very impressed with the extent to which participants have transformed themselves. He predicts that in a few years, they will all be able to facilitate similar transformations in others.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Mohammed Hijab discusses why it is important to be fair to everyone who has contributed to the Londoniyyah project, and how Carlos has been a key contributor. He also thanks the viewers of the Sapience Institute's YouTube channel for their support.
 

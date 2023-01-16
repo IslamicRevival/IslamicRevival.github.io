@@ -4,18 +4,17 @@
 
 ## Description
 
-My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/
+My book: <https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/>
 
-Subscribe to Subboor Ahmad: 
-https://www.youtube.com/channel/UCRkKHyivwGmz36qGgXnZHjQ
+Subscribe to Subboor Ahmad:
+<https://www.youtube.com/channel/UCRkKHyivwGmz36qGgXnZHjQ>
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
 
 ## Summary of [REACTING TO DAWKINS & JOE ROGAN INTERVIEW](https://www.youtube.com/watch?v=fbgnaA6t588)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -24,6 +23,7 @@ Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
 Joe Rogan and Richard Dawkins discuss atheism and Islam, with Dawkins saying that atheism is becoming more popular and that Islam is dying. Rogan asks Dawkins if he agrees that atheism is rising in the Muslim world, to which Dawkins responds that he does, but that it's methodologically flawed. Rogan also points out that Dawkins is 78 years old and irrelevant, and that the atheist argument has not taken off in the Western world the way that he predicted.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Joe Rogan and Richard Dawkins discuss how atheism is taking over the world and Islam is dying, with Dawkins saying that religion's dying as a general point. Atheism, however, is becoming more popular, according to Dawkins, and there is evidence that this is reaching the Muslim world. Rogan asks Dawkins if he agrees that atheism is rising in the Muslim world, to which Dawkins responds that he does, but that it's methodologically flawed. He also says that, due to this, Dawkins' world view is based on a fallacy.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Richard Dawkins' "The Selfish Gene" argues that natural selection and Darwinism caused islamism because Muslims have more children than any other group. Joe Rogan agrees with Dawkins, but argues that the atheist argument is not the only reason why people are abandoning religion. Rogan also points out that Richard Dawkins is 78 years old and irrelevant, and that the atheist argument has not taken off in the Western world the way that he predicted.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Joe Rogan and Dawkins discuss the rationality of Abrahamic religions, and Rogan asks Zahabi to appear on his show to discuss Islam. Zahabi says that he is always available to discuss Islam on Rogan's show.
 

@@ -4,12 +4,13 @@
 
 ## Description
 
-Listen as audio: https://soundcloud.com/sapienceinstitute/londoniyyah-part-18-proof-of-prophethood-1?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+Listen as audio: <https://soundcloud.com/sapienceinstitute/londoniyyah-part-18-proof-of-prophethood-1?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing>
 
 Londoniyyah - Part 18 - Proof of Prophethood / 1
 
-To be updated about our content please subscribe and open the notifications.
+To be updated about our content please subscribe and open the notifications
 ----
+
 BOOK A LIGHTHOUSE MENTOR
 
 Are you or someone you know doubting Islam? Do you find yourself struggling to find answers?  Do you have a hard time speaking to someone about Islam?  Are you considering Islam but are unsure about certain concepts?  Are you an activist, Imam or community leader who is unsure about how to handle questions related to science, philosophy, the Islamic moral code, etc.?
@@ -18,12 +19,11 @@ You are not alone.  Over the course of the last decade or more there has been a 
 
 Seeing the rise of  this phenomenon , Sapience Institute is introducing a One to One mentoring service called LIGHTHOUSE.
 
-BOOK A MENTOR HERE: https://sapienceinstitute.org/lighthouse/
+BOOK A MENTOR HERE: <https://sapienceinstitute.org/lighthouse/>
 
-VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: https://sapienceinstitute.org/
+VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: <https://sapienceinstitute.org/>
 
 ## Summary of [Londoniyyah - Part 18 - Proof of Prophethood / 1](https://www.youtube.com/watch?v=vtfXgXE6sgo)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -32,24 +32,27 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
  discusses the necessary conditions for prophethood and revelation, explaining that these conditions must be met in order for something to be considered a prophecy or revelation. The presenter also discusses probabilistic reasoning, using examples from everyday life to illustrate the point.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  the presenter discusses the necessary conditions for prophethood and revelation, explaining that these conditions must be met in order for something to be considered a prophecy or revelation. The presenter also discusses probabilistic reasoning, using examples from everyday life to illustrate the point.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the necessity of certain conditions for a revelation to be from God, which include internal and external consistency. It states that, although these conditions are not found in the Old and New Testaments, they are found in the Quran. It goes on to say that, even though there are disagreements among Muslims about various Quranic doctrines, no such disagreements exist about the Quran's basic contents.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the necessity of certain conditions for a revelation to be from God, which include internal and external consistency. It states that, although these conditions are not found in the Old and New Testaments, they are found in the Quran. It goes on to say that, even though there are disagreements among Muslims about various Quranic doctrines, no such disagreements exist about the Quran's basic contents.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** reviews the necessary and sufficient conditions for revelation, discussing the arguments for and against the Quran's preservation. He goes on to discuss extra Quranic evidence, which some Salafists mistakenly interpret as evidence that the Quran is not preserved. He concludes that the Quran is preserved and that the evidence for this is overwhelming.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The prophet Muhammad was a trustworthy and successful man before he received revelation, and he refused material possessions and power in order to pursue worship of only one God. After his migration to Medina, many people were able to see his success and recognize his message of only worshipping Allah alone. Near the end of his life, he was able to unite the Arabs under one banner and be recognized as a successful leader.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the character of Prophet Muhammad, his life before prophethood, his Message, and how his Message was consistent throughout his life of persecution. It also points out that his prophethood was protected by God from indulging in worldly things.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the character of Prophet Muhammad, his life before prophethood, his Message, and how his Message was consistent throughout his life of persecution. It also points out that his prophethood was protected by God from indulging in worldly things.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Prophet Muhammad's life and teachings are summarized. He was a trusted and truthful leader, husband, and father. He was also a successful businessman.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses how the prophet Muhammad was an orphan, and how this makes him more humanized. It also mentions that he married a woman who was older than him.
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses how the prophet Muhammad was an orphan, and how this makes him more humanized. It also mentions that he married a woman who was older than him.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>**  the narrator discusses some of the characteristics of Prophet Muhammad's life before he claimed prophethood. He notes that Prophet Muhammad had a meditative temperament, was sensitive to the way people got along, and rejected material gain in favor of spiritual gain. He also mentions that Prophet Muhammad's wife, Aisha, said that they lived on water and dates during the Medinan period, and that Prophet Muhammad rejected material gain in favor of spiritual gain.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses the Prophet Muhammad's character, which was seen as trustworthy and polite by his peers. It also discusses his military and political successes.
+* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses the Prophet Muhammad's character, which was seen as trustworthy and polite by his peers. It also discusses his military and political successes.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The narrator discusses how Prophet Muhammad (PBUH) was an exemplary example of living a frugal life, having impeccable manners and being humble. He also points out that his engagement in warfare only occurred before he was persecuted, and this is evidence of his prophethood.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses how the prophet Muhammad was rejected violently by his people but gained leadership through popular support. It also mentions that he put in place constitutional protections for minority groups, including Jews. This is in contrast to the situation in Britain, where Muslims do not have similar protections.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses how Islam is the most anti-racist religion in the face of the earth, and that racism is not found in any of the scriptures of any ancient world religion. It also discusses how Prophet Muhammad married a jewish woman and gave her words to say to defend herself which would exalt her ethnic status if he were such an anti-semite.
+* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Discusses how the prophet Muhammad was rejected violently by his people but gained leadership through popular support. It also mentions that he put in place constitutional protections for minority groups, including Jews. This is in contrast to the situation in Britain, where Muslims do not have similar protections.
+* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Discusses how Islam is the most anti-racist religion in the face of the earth, and that racism is not found in any of the scriptures of any ancient world religion. It also discusses how Prophet Muhammad married a jewish woman and gave her words to say to defend herself which would exalt her ethnic status if he were such an anti-semite.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:10:00</a>
 
  discusses the character of Prophet Muhammad and how his actions indicate that he was a true prophet. It encourages Muslims to be careful in their preaching and teaching of Muhammad, and to make sure that their arguments are based on sound evidence.
 
-**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>* Discusses the case of Salahuddin ibn Muhammad, who could have conquered Jerusalem but instead chose to pursue peace treaties. He argues that this is a sign of the prophet's impeccable character.
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>* Discusses the Prophet Muhammad's prayers, which were long and difficult. It also discusses the Prophet's wives and how they were able to cooperate and uphold the lie that he prayed one third of the night. This level of motivation is not possible for a human being, which suggests that an imposter must have been involved in promoting this story.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>* Discusses the character of Prophet Muhammad, discussing how his life and actions indicatethis man's authenticity as a prophet. It encourages Muslims to be on point in their preaching and teaching of Muhammad, and to make sure that their arguments are based on sound evidence.
+**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Discusses the case of Salahuddin ibn Muhammad, who could have conquered Jerusalem but instead chose to pursue peace treaties. He argues that this is a sign of the prophet's impeccable character.
+
+* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Discusses the Prophet Muhammad's prayers, which were long and difficult. It also discusses the Prophet's wives and how they were able to cooperate and uphold the lie that he prayed one third of the night. This level of motivation is not possible for a human being, which suggests that an imposter must have been involved in promoting this story.
+* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Discusses the character of Prophet Muhammad, discussing how his life and actions indicatethis man's authenticity as a prophet. It encourages Muslims to be on point in their preaching and teaching of Muhammad, and to make sure that their arguments are based on sound evidence.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

@@ -6,16 +6,15 @@
 
 (for the description)
 
-To see the original video of the full discussion, click here: https://youtu.be/HSQ2yJqZ2GE
+To see the original video of the full discussion, click here: <https://youtu.be/HSQ2yJqZ2GE>
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
-My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
+My book: <https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/>
 
 ## Summary of [LIBERALISM'S UNSOVABLE PROBLEMS Dr Graham Oppy vs Abdullah al Andalusi](https://www.youtube.com/watch?v=HKb06PKhP1A)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -24,6 +23,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 Abdullah al Andalusi discusses the problems that liberalism has with tolerance of multiple ways of life. He argues that Islam manages plurality better than liberalism, and that liberalism fails to have a first principles approach.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  Abdullah al Andalusi discusses the problems that liberalism has with tolerance of multiple ways of life. He argues that Islam manages plurality better than liberalism.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Liberal theory has been used to justify colonialism, and while some liberal theorists may have advocated for colonialism, it is not a doctrine of liberalism as a whole. In addition, liberalism has a long history, and while some ideas within it may have changed over time, liberalism is still based on the ideas of John Locke and others.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Abdullah al Andalusi argues that liberalism fails to have a first principles approach, and consequently opens the space for projects like the colonial project. He suggests that courses on Western political philosophy and ethics can be accessed through the Quran Institute.
 

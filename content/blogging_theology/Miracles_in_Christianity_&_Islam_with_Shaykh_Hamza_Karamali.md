@@ -4,13 +4,13 @@
 
 ## Description
 
-Visit Shaykh Hamza Karamali's Basira Education https://www.basiraeducation.org
+Visit Shaykh Hamza Karamali's Basira Education <https://www.basiraeducation.org>
 
 You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
+<https://www.patreon.com/Bloggingtheology>
 
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
 Chapters:
 0:00 - Introduction
@@ -27,7 +27,7 @@ Chapters:
 14:50 - Christianity vs Islam with regards to the purpose of miracles, messengers & God's existence
 24:58 - Miracles of Jesus PBUH in the New Testament having parallels in the Old Testament
 26:02 - Science vs Religion
-33:49 - Analysing the miracle of Jesus PBUH curing a Blind Man 
+33:49 - Analysing the miracle of Jesus PBUH curing a Blind Man
 37:20 - The Miracles of Muhammad ﷺ
 38:08 - The failed healing of a False Prophet
 39:02 - Reading the Bible as a Muslim
@@ -38,7 +38,6 @@ Chapters:
 
 ## Summary of [Miracles in Christianity & Islam with Shaykh Hamza Karamali](https://www.youtube.com/watch?v=s5V5huEfy4A)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:40:00</a>
@@ -46,6 +45,7 @@ Chapters:
 Shaykh Hamza Karamali discusses the similarities and differences between Christianity and Islam when it comes to miraculous events. He points out that miracles are not just limited to Christianity, but are also common in the life of Prophet Muhammad.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Hamza Karamali discusses miracles in Christianity and Islam, focusing on the signs that Jesus performed. The Quran also mentions miracles Jesus performed, including turning water into wine and walking on water.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** In Christianity and Islam, miracles are seen as signs that God is confirming that someone is receiving inspiration from him. In the old testament, miracles are seen as proofs that God is speaking to people.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Shaykh Hamza Karamali discusses the differences between Christianity and Islam with regards to the role of miracles and their evidential value. He argues that, while both religions believe in miracles, Christianity places more emphasis on their divine origin, while Islam views them as signs from God.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The video discusses the philosophical differences between Christianity and Islam, pointing out that for Christianity, Jesus is a contingent being who is dependent on God, while for Islam, Mary is a divine being who is the mother of Jesus. The clip concludes by discussing how, due to this philosophical difference, miracles are possible in both religions.

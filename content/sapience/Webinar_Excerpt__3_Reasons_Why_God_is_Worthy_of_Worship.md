@@ -8,10 +8,9 @@ Webinar Excerpt: 3 Reasons Why God is Worthy of Worship.
 
 This video excerpt is from the Sapience Institute webinar, "The Free Slave: Why God is Worthy of Worship", delivered by Hamza Andreas Tzortzis.
 
-To watch and learn from the free Sapience Institute launch webinars please access this link: https://www.gotostage.com/channel/sapienceinstitute.
+To watch and learn from the free Sapience Institute launch webinars please access this link: <https://www.gotostage.com/channel/sapienceinstitute>.
 
 ## Summary of [Webinar Excerpt: 3 Reasons Why God is Worthy of Worship](https://www.youtube.com/watch?v=HwQT_21tM18)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -20,7 +19,8 @@ To watch and learn from the free Sapience Institute launch webinars please acces
  discusses the reasons why Allah is worthy of worship, and explains that being grateful for even the simplest favors can free a person from pain and lead to a more productive life.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Muslims must worship allah because of who he is, not necessarily because of what he has given us. Allah is worthy of extensive praise because he is pure and perfect.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the reasons why Allah is worthy of worship. He points out that Allah is the creator, and that we receive a free gift of life at every moment of our existence. This is why atheism and polytheism are absurd, because they deny the existence of a gift that is free and priceless.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the reasons why Allah is worthy of worship. He points out that Allah is the creator, and that we receive a free gift of life at every moment of our existence. This is why atheism and polytheism are absurd, because they deny the existence of a gift that is free and priceless.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** explains that there are three reasons why God is worthy of worship: because he created us, because he provides us with innumerable favors, and because he is merciful. He goes on to say that it is impossible to be grateful for every Blessing, and that those who do are of the anbiya (the prophets and pious people). He then challenges the audience to enumerate and count each heartbeat they've had in their lifetime, and to be grateful for the simplest things, such as a single hobby. He concludes by urging Muslims to be more grateful and to live lives full of contentment.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The presenter discusses why God is worthy of worship, and explains that being grateful for even the simplest favors can free a person from pain and lead to a more productive life.
 

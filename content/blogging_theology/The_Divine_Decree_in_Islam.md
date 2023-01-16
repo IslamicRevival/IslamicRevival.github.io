@@ -4,15 +4,14 @@
 
 ## Description
 
-Reconciling the Divine Decree and Free Will in Islam by Justin Parrott: https://yaqeeninstitute.org/read/paper/reconciling-the-divine-decree-and-free-will-in-islam
+Reconciling the Divine Decree and Free Will in Islam by Justin Parrott: <https://yaqeeninstitute.org/read/paper/reconciling-the-divine-decree-and-free-will-in-islam>
 You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
+<https://www.patreon.com/Bloggingtheology>
 
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
 ## Summary of [The Divine Decree in Islam](https://www.youtube.com/watch?v=QvUy-KwRHBE)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -21,6 +20,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 The video discusses the concept of divine decree in Islam and how it applies to everyday life. It explains that each individual has a destiny, and that there is no escaping it. The video also discusses the importance of humility when understanding the unseen.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Justin Parratt's article "Reconciling the Divine Decree and Free Will in Islam" discusses the controversy surrounding the belief in divine decree or predestination in Islam. He argues that the two concepts – absolute power and sovereignty of Allah and human responsibility and free will – are not contradictory and can both be true at the same time, based on Qur'anic and Sunnah scripture.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The author of this YouTube video discusses the concept of divine decree in Islam, which refers to the reality that allah has complete control over what is decreed from the beginning and what is later expunged. The author quotes two quran verses that refer to the decree in absolute terms and two verses that refer to modifications to the decree as it is brought into being. These two sets of texts appear to be contradictory at first, but are actually reconciled towards the united purpose of guiding us to right behavior with respect to allah and our fellow human beings.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The author explains that all decisions made in life are written down by Allah before they happen. This includes everything from our destiny in this life to our ultimate fate in the hereafter. The prophet Muhammad said that the decree has already been made, and that good deeds are the only way to secure a good fate.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The video discusses the difference between the will of desire and the will of enacting, and explains that the jaborites and the kadarites equated them both. The jaborites said that all existence was by decree and measure, and that it was loved and pleasing to Allah. The kadarites said that what is evil is not by the decree of Allah, which means it is decreed by some other power. The jaborites denied the moral responsibility of humankind, and the kadarites denied the full power of the creator. The truth is that our actions make a meaningful difference and can change the course of the decree. Submission to Allah is the key to success.

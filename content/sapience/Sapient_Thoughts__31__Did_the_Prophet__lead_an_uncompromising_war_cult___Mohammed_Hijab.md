@@ -8,16 +8,16 @@ Sapient Thoughts #31: Did the Prophet ﷺ lead an uncompromising war cult? | Moh
 
 ## Summary of [Sapient Thoughts #31: Did the Prophet ﷺ lead an uncompromising war cult? | Mohammed Hijab](https://www.youtube.com/watch?v=pxcTVvGpIqs)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  discusses the Prophet Muhammad's attitude towards war and jihad, and how he was able to successfully negotiate peace treaties with various tribes. It also discusses the story of Abu Jandal, a Muslim who was physically restrained by the Prophet Muhammad to show the severity of war against Muslims. discusses the examples of the Prophet Muhammad's statesmanship, which included preferring peace to war and putting treaties and agreements first.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the verses of the Quran that forbid fighting certain groups of people, and how this corresponds to the hadiths that forbid such violence. It also discusses the example of Hodei Bia, where the prophet Muhammad showed diplomacy and restraint in his dealings with Quraish.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the Prophet Muhammad's attitude towards war and jihad, and how he was able to successfully negotiate peace treaties with various tribes. It also discusses the story of Abu Jandal, a Muslim who was physically restrained by the Prophet Muhammad to show the severity of war against Muslims.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the examples of the Prophet Muhammad's statesmanship, which included preferring peace to war and putting treaties and agreements first. He goes on to say that this demonstrates the Prophet's mercy. In the next episode, the speaker will discuss the conquest of Mecca.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the verses of the Quran that forbid fighting certain groups of people, and how this corresponds to the hadiths that forbid such violence. It also discusses the example of Hodei Bia, where the prophet Muhammad showed diplomacy and restraint in his dealings with Quraish.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the Prophet Muhammad's attitude towards war and jihad, and how he was able to successfully negotiate peace treaties with various tribes. It also discusses the story of Abu Jandal, a Muslim who was physically restrained by the Prophet Muhammad to show the severity of war against Muslims.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the examples of the Prophet Muhammad's statesmanship, which included preferring peace to war and putting treaties and agreements first. He goes on to say that this demonstrates the Prophet's mercy. In the next episode, the speaker will discuss the conquest of Mecca.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

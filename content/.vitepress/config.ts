@@ -90,7 +90,7 @@ export default defineConfig({
     ],
     sidebar:  getSideBar( "./content", {
       ignoreMDFiles: ['index'],
-      ignoreDirectory: ['node_modules', 'hijab'],
+      ignoreDirectory: ['node_modules'],
     }),
   }
 })

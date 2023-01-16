@@ -10,20 +10,20 @@ A focal question here revolves around a certain catchphrase that has been gainin
 
 This back-and-forth very  briefly touches on some of these issues.
 
-Full video: https://youtu.be/-UlkXwMOaT4 
+Full video: <https://youtu.be/-UlkXwMOaT4>
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -31,41 +31,39 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
-
-#reality
+# reality
 
 ## Summary of [Reality Is Reality!? | Podcast Highlight](https://www.youtube.com/watch?v=KRuUq0dCrmA)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -74,9 +72,10 @@ Gmail: hello.tapodcast@gmail.com
  the author discusses the difference between reality and what people believe reality to be. He argues that reality is what everyone believes it to be, and that it doesn't really give us any information to work with. He goes on to say that reality exists because that would be existence exists, and that the fundamental nature of that what differentiates your view from mine is called experience we share a reality. then asks the listener if they accept stage one cosmological arguments, which take one to a necessary being. The listener says that they do, and that as long as the perspective is natural, they are fine with it. then asks the listener if they are agnostic about whether reality is natural or not, to which the listener says that as long as the perspective is natural, they are okay with it.
  discusses the idea of god, specifically discussing whether or not it has a mind. It concludes by saying that, in order to make a claim about the mentality or mental activity of a god, one must assume a physicalist theory of mind.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the difference between reality and what people believe reality to be. says that reality is what everyone believes it to be, and that it doesn't really give us any information to work with. He goes on to say that reality exists because that would be existence exists, and that the fundamental nature of that what differentiates your view from mine is called experience we share a reality. then asks the listener if they accept stage one cosmological arguments, which take one to a necessary being. The listener says that they do, and that as long as the perspective is natural, they are fine with it. then asks the listener if they are agnostic about whether reality is natural or not, to which the listener says that as long as the perspective is natural, they are okay with it.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the idea of god, specifically discussing whether or not it has a mind. It concludes by saying that, in order to make a claim about the mentality or mental activity of a god, one must assume a physicalist theory of mind.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** In this podcast, Justin discusses the difference between reality and reality-based theories. Reality is based on justified assumptions, while reality-based theories rely on evidence and reasoning. He argues that the reason why we believe there is a consciousness or mind in other human beings is the same way we would come to the conclusion that there was a conscious being that wrote a book. Even if we don't see the author's brain, we can still infer their mind based on the fact that the book contains contingent things that are not necessary to produce the words in the order to create the particular meaning. Justin believes that the word 'mind' is ambiguous at best and may not be a good descriptor for what God is, but he still agrees that intentionality is not just some sort of materialistic force that had to do the thing that it did.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the difference between reality and what people believe reality to be. says that reality is what everyone believes it to be, and that it doesn't really give us any information to work with. He goes on to say that reality exists because that would be existence exists, and that the fundamental nature of that what differentiates your view from mine is called experience we share a reality. then asks the listener if they accept stage one cosmological arguments, which take one to a necessary being. The listener says that they do, and that as long as the perspective is natural, they are fine with it. then asks the listener if they are agnostic about whether reality is natural or not, to which the listener says that as long as the perspective is natural, they are okay with it.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the idea of god, specifically discussing whether or not it has a mind. It concludes by saying that, in order to make a claim about the mentality or mental activity of a god, one must assume a physicalist theory of mind.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** In this podcast, Justin discusses the difference between reality and reality-based theories. Reality is based on justified assumptions, while reality-based theories rely on evidence and reasoning. He argues that the reason why we believe there is a consciousness or mind in other human beings is the same way we would come to the conclusion that there was a conscious being that wrote a book. Even if we don't see the author's brain, we can still infer their mind based on the fact that the book contains contingent things that are not necessary to produce the words in the order to create the particular meaning. Justin believes that the word 'mind' is ambiguous at best and may not be a good descriptor for what God is, but he still agrees that intentionality is not just some sort of materialistic force that had to do the thing that it did.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

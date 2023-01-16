@@ -4,16 +4,15 @@
 
 ## Description
 
-Download/purchase Quranly for iOS: https://apple.co/3wIyhsg Android: https://bit.ly/3mwFHdx
+Download/purchase Quranly for iOS: <https://apple.co/3wIyhsg> Android: <https://bit.ly/3mwFHdx>
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
-My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
+My book: <https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/>
 
 ## Summary of [Reacting to Atheist 'Academic' Logic](https://www.youtube.com/watch?v=HfsGoK83NjA)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -22,8 +21,9 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
  discusses the logical difficulties with the idea that everything came from nothing. It argues that the idea is unintelligible without reference to something, and suggests that the nothing might be something, or might not even exist at all. discusses how an atheist's logic can be rejected on a priori grounds. He points out that retro causality, or the idea that something can cause itself, is impossible.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** discuss a question asked by a child - why does light work the way it does? - and how one of two answers must be true. The first answer, that everything came from nothing, is nonsensical and a false dichotomy. The second answer, that everything has always been around, is inescapable and one of the most reasonable conclusions to come to.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the logical difficulties with the idea that everything came from nothing. It argues that the idea is unintelligible without reference to something, and suggests that the nothing might be something, or might not even exist at all.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses how an atheist's logic can be rejected on a priori grounds. He points out that retro causality, or the idea that something can cause itself, is impossible. says that the new atheist wave has subsided, and that atheists must think properly before pushing their arguments any further.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the logical difficulties with the idea that everything came from nothing. It argues that the idea is unintelligible without reference to something, and suggests that the nothing might be something, or might not even exist at all.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses how an atheist's logic can be rejected on a priori grounds. He points out that retro causality, or the idea that something can cause itself, is impossible. says that the new atheist wave has subsided, and that atheists must think properly before pushing their arguments any further.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

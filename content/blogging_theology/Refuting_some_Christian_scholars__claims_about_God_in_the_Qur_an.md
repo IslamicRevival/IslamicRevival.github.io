@@ -6,10 +6,9 @@
 
 Refuting Christian scholars' claims about God in the Qur'an
 
-Usman Sheikh discusses his recent Oxford University MPhil thesis where he counters the polemics of Christian scholars such as Andy Bannister. We also discuss if the Qur'an endorses the Bible. Usman Sheikh's academia page: https://oxford.academia.edu/UsmanShaikh (biblical studies papers).
+Usman Sheikh discusses his recent Oxford University MPhil thesis where he counters the polemics of Christian scholars such as Andy Bannister. We also discuss if the Qur'an endorses the Bible. Usman Sheikh's academia page: <https://oxford.academia.edu/UsmanShaikh> (biblical studies papers).
 
 ## Summary of [Refuting some Christian scholars' claims about God in the Qur'an](https://www.youtube.com/watch?v=4nZzszqcOfM)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -18,6 +17,7 @@ Usman Sheikh discusses his recent Oxford University MPhil thesis where he counte
 This video discusses the different ways that Christian scholars have interpreted the Qur'an, with a focus on how it portrays God. argues that the Qur'an has its own unique perspective on God that should be respected.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** of this thesis discusses how God responds to humans in the Qur'an, categorizing these responses into three categories: proactive, reactive, and mind reading. He also discusses how God responds to good deeds.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** In his book, Andy Bannister claims that the main emphasis of the Qur'an in its portrayal of God is not his relationality but his distance. Evangelical scholar Andy Bannister has a PhD in Islamic Studies and is highly revered, but he made a false statement in his book that Muslims and Christians do not worship the same God.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** of the video refutes claims by Christian scholars that the Qur'an portrays God as being "near" or "close" to humans. cites examples from the Qur'an where prophets and believers ask for help in this life and the next, and where God responds.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** various Christian scholars are discussed, and it is shown that they have different opinions about God in the Qur'an. One scholar claims that God is closer to humans than he is to other deities in the Qur'an, while another says that humans can't know God without seeing him. The scholar also discusses a passage where God is said to be one of the conspirators in a secret conversation. He closes by saying that the Quranic view of God is different but still similar to the biblical view.
@@ -29,6 +29,7 @@ This video discusses the different ways that Christian scholars have interpreted
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** notes that the quran seems to endorse the idea that God is one, while denying that Jesus was crucified. He also observes that this idea is similar to the Shema, a Jewish prayer that states, "Hear, O Israel, the Lord our God is one."
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** discusses a number of passages from the Qur'an which critique central Christian beliefs. He points out that this undermines the argument that the Quran is anti-Christian.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** discusses the similarities and differences between the Qur'an and various biblical stories. He notes that the Qur'an is nuanced and precise in its interactions with these stories, prompting people with its own viewpoint. He hopes to have his thesis published soon so that everyone can read it.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:00:00</a>
 
 a scholar refutes some claims that Christian scholars have made about God in the Qur'an. He thanks the Christian scholar for the opportunity to join in on the conversation, and he argues that the Qur'an actually affirms the existence of God.

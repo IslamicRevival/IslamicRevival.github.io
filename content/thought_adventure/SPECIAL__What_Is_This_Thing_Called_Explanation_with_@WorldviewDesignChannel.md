@@ -6,7 +6,7 @@
 
 Timestamps / Chapters
 00:00 - Introduction (+ background of guest)
-00:02:06 - How did this meeting come to be? 
+00:02:06 - How did this meeting come to be?
 00:03:09 - What is explanation? (continued throughout the podcast)
 00:06:29 - Free will / choice
 00:12:15 - The foundation of reality | Geometric universe
@@ -26,7 +26,7 @@ Timestamps / Chapters
 01:28:54 - How can a necessary being have contingent attribute(s)?
 01:32:39 - Relation between supreme nature (knowledge, power & goodness) and correspondence theory of truth [7]
 01:38:45 - Trinity
-01:50:37 - Perfection in light of human Jesus in Christianity 
+01:50:37 - Perfection in light of human Jesus in Christianity
 01:53:14 - Grim reaper paradox | Modal theory (Aristotelian) | Logical possibility & metaphysical possibility
 02:02:45 - Possible worlds
 02:04:02 - Conclusion
@@ -40,22 +40,20 @@ References
 [6] Graham Oppy (Australian philosopher)
 [7] Defending the Correspondence Theory of Truth by Joshua L. Rasmussen
 
-
 May ﷻ ألله bless everyone involved in this video incl. viewers and give Joshua هداية
 
-
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -63,38 +61,37 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
 ## Summary of [SPECIAL: What Is This Thing Called Explanation? with @WorldviewDesignChannel](https://www.youtube.com/watch?v=_4a5SKkeAQI)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -103,39 +100,44 @@ Gmail: hello.tapodcast@gmail.com
  discusses the idea of explanation and how it applies to different theories. It argues that the simpler the theory, the deeper the explanation. It also discusses the concepts of simplicity and explanatory depth, and how they apply to different theories. Ultimately, the video argues that in order to find the ultimate explanation, one must go beyond the simplicity of a theory and look for a deeper, simpler explanation.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** In this special episode, Joshua Rasmussen discusses the nature of explanation and how it relates to free will. He also brings up a concrete example of how an explanation can be seen in action, involving a piece of reality that humans have never seen before.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** This 1-paragraph summary of "SPECIAL: What Is This Thing Called Explanation? with @WorldviewDesignChannel" explains the tension between contrastive and long contrastive explanations, and the implications that this has on the free will debate. It also touches on principles of explanation and their role in everyday reasoning and scientific progress.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the principle of explanation and how it applies to reality. He goes on to say that if there is a reality that does not have an explanation, it most likely is not an object.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses how reality can be explained in terms of deeper levels of explanation, beyond just geometry. It cites recent scientific discoveries that suggest fundamental reality is not geometric. It argues that this could make it the perfect platform for a new philosophical conversation.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses cosmology and the idea that there may be a fundamental reality that is not based on its limited number of points. He brings up the question of whether the number of vertices on a fundamental reality is a flag for its fundamentality.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** In "SPECIAL: What Is This Thing Called Explanation? with @WorldviewDesignChannel," Josh discusses the concept of limits and how they are problematic. He argues that limits should be removed from any theory that seeks to account for fundamentality. He goes on to talk about the principle of uniformity and how it supports his argument. Josh concludes the video by saying that experience supports the idea that limits are irrelevant.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>**  WorldviewDesignChannel discusses the idea of limits and perfection. They point out that, although it may seem counterintuitive, there are some limits that are explained and some that are unexplained. However, it would still be impossible, because it's just that maybe. The idea of perfection – a purely positive attribute – is relevant to the discussion of limits, because it suggests that something is relevantly different from explained things. In fact, a perfect thing would exist necessarily on its own and would not be able to fall apart or be destroyed. It would also have the property of spanning all possible worlds.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>**  WorldviewDesignChannel discusses two types of value: subjective and intrinsic. They also discuss power and its relation to these two types of value. They define perfection as having no negative attributes and having purely positive attributes. This leads them to discuss free will and how it is related to perfection.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses how, in principle, it is possible to predict the behavior of objects in the world without knowing their underlying explanation. It then goes on to discuss how, in practice, humans and other living things have the ability to make choices and act independently. This suggests that they have a will, which is inextricably linked to consciousness and self-determination.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** of the video discusses how the kind of consciousness that can have intentionality and self-determination distinguishes life from non-life. He argues that this consciousness is the original first mover, and that it is this mind that creates everything we see in reality, including living things. He goes on to say that quantum mechanics leaves open the possibility that this mind is behind the physical phenomena that we observe.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** In his book How Reason Can Lead to God, philosopher Carlo Revelli argues that, in order to understand mathematical truths, we must first understand that they are necessary truths, but that they cannot be explained by causal means. He also suggests that these truths are grounded in the perfection of the foundation, which in turn is grounded in the mind of God.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  WorldviewDesignChannel discusses the concept of explanation and how it can be compared between different theories. According to the channel, there are two types of theories - those that entail the simplest foundation and those that entail complexity. The idea is that the simpler the theory, the deeper the explanation.  goes on to discuss the concepts of simplicity and explanatory depth, and how they apply to different theories. Ultimately, the video argues that in order to find the ultimate explanation, one must go beyond the simplicity of a theory and look for a deeper, simpler explanation.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** This 1-paragraph summary of "SPECIAL: What Is This Thing Called Explanation? with @WorldviewDesignChannel" explains the tension between contrastive and long contrastive explanations, and the implications that this has on the free will debate. It also touches on principles of explanation and their role in everyday reasoning and scientific progress.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the principle of explanation and how it applies to reality. He goes on to say that if there is a reality that does not have an explanation, it most likely is not an object.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses how reality can be explained in terms of deeper levels of explanation, beyond just geometry. It cites recent scientific discoveries that suggest fundamental reality is not geometric. It argues that this could make it the perfect platform for a new philosophical conversation.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses cosmology and the idea that there may be a fundamental reality that is not based on its limited number of points. He brings up the question of whether the number of vertices on a fundamental reality is a flag for its fundamentality.
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** In "SPECIAL: What Is This Thing Called Explanation? with @WorldviewDesignChannel," Josh discusses the concept of limits and how they are problematic. He argues that limits should be removed from any theory that seeks to account for fundamentality. He goes on to talk about the principle of uniformity and how it supports his argument. Josh concludes the video by saying that experience supports the idea that limits are irrelevant.
+- **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>**  WorldviewDesignChannel discusses the idea of limits and perfection. They point out that, although it may seem counterintuitive, there are some limits that are explained and some that are unexplained. However, it would still be impossible, because it's just that maybe. The idea of perfection – a purely positive attribute – is relevant to the discussion of limits, because it suggests that something is relevantly different from explained things. In fact, a perfect thing would exist necessarily on its own and would not be able to fall apart or be destroyed. It would also have the property of spanning all possible worlds.
+- **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>**  WorldviewDesignChannel discusses two types of value: subjective and intrinsic. They also discuss power and its relation to these two types of value. They define perfection as having no negative attributes and having purely positive attributes. This leads them to discuss free will and how it is related to perfection.
+- **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses how, in principle, it is possible to predict the behavior of objects in the world without knowing their underlying explanation. It then goes on to discuss how, in practice, humans and other living things have the ability to make choices and act independently. This suggests that they have a will, which is inextricably linked to consciousness and self-determination.
+- **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** of the video discusses how the kind of consciousness that can have intentionality and self-determination distinguishes life from non-life. He argues that this consciousness is the original first mover, and that it is this mind that creates everything we see in reality, including living things. He goes on to say that quantum mechanics leaves open the possibility that this mind is behind the physical phenomena that we observe.
+- **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** In his book How Reason Can Lead to God, philosopher Carlo Revelli argues that, in order to understand mathematical truths, we must first understand that they are necessary truths, but that they cannot be explained by causal means. He also suggests that these truths are grounded in the perfection of the foundation, which in turn is grounded in the mind of God.
+- **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  WorldviewDesignChannel discusses the concept of explanation and how it can be compared between different theories. According to the channel, there are two types of theories - those that entail the simplest foundation and those that entail complexity. The idea is that the simpler the theory, the deeper the explanation.  goes on to discuss the concepts of simplicity and explanatory depth, and how they apply to different theories. Ultimately, the video argues that in order to find the ultimate explanation, one must go beyond the simplicity of a theory and look for a deeper, simpler explanation.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  WorldviewDesignChannel's John Abbamonte discusses the idea of a "simple" theory. He argues that a theory that does not include an arbitrary cut-off of physical description is the simplest. He also discusses the idea of free will and how it relates to the concept of a "simple" theory.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>**  WorldviewDesignChannel's John Abbamonte discusses the idea of a "simple" theory. He argues that a theory that does not include an arbitrary cut-off of physical description is the simplest. He also discusses the idea of free will and how it relates to the concept of a "simple" theory.
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Jake discusses how his understanding of simplicity has evolved over time, and how it relates to his understanding of divine simplicity. He notes that divine simplicity is not identical to any of the aspects that we perceive, but they are all manifestations of the underlying fundamental reality.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>* Discusses the Islamic tradition's position on divine simplicity. The orthodox tradition within Islam rejects divine simplicity, believing that God has real attributes that are not identical to each other. Some people within the Islamic tradition believe that this argument leads necessarily to divine simplicity. argues that this is not the case, and that although divine simplicity is accepted within the tradition for textual reasons, it is not accepted under orthodoxy.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** Josh discusses the two sides of the spectrum of belief in divine simplicity- those who reject it and those who accept it. He argues that even in his own thinking, he is trying to leave open different models, including how to interpret Thomistic models. He concludes that even though there may be a conflict between the contingency argument and divine simplicity, it may be resolved by the idea that the whole is prior to the parts.
-* **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** The proponent of divine simplicity, Worldview Design Channel's Jonathan Ellis, argues that a model in which God changes or has genuine succession in his life over moments of time, if rejected, would not make sense. Ellis' working model is that time depends on change. If this is true, then God is related to the changing things, and is present right now with us in that sense.
-* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>* Discusses the concept of 'intrinsic vs. extrinsic change' and how it relates to the idea of God.  argues that God's knowledge is intrinsic, meaning it is unchanged by external factors, but that it can still be contingent, meaning it depends on God's will.
-* **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>* Discusses how the necessary being has states that are not essential to it, and how this relates to the correspondence theory of truth. He also discusses how divine simplicity is connected to the idea that there can be diversity within god.
-* **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>**  the host discusses different concepts of God, including the idea that God could have a variety of personas. The host suggests that this diversity of personas could be seen as a metaphor for the diversity of aspects of God.
-* **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>* Discusses different models of God, with the final model being one in which there are three persons with multiple attributes each of which are attributed to them. The main issue with this model is that it seems to be modalistic, which is problematic because it leads to heresy.
-* **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>* Discusses the problem of indexicals, which is the question of how each person can know self-referential propositions (such as "I am the father") differently. It argues that this problem poses a problem for the more unitive or oneself theory of the Trinity.
-* **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** Josh and Jake discuss the philosophy of modality, and Josh mentions the Grim Reaper paradox. Jake asks Josh about this, and Josh tells him that it's a discussion they've had multiple times.
-* **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses the idea of explanation, and how modal epistemology can handicap a person's ability to investigate situations or to know if something is possible. Worldview Design Channel's presenter discusses how the Aristotelian theory of modality can be difficult to apply in certain situations, and how the idea of a necessary foundation is needed to run the argument deductively.
+
+- **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Jake discusses how his understanding of simplicity has evolved over time, and how it relates to his understanding of divine simplicity. He notes that divine simplicity is not identical to any of the aspects that we perceive, but they are all manifestations of the underlying fundamental reality.
+- **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Discusses the Islamic tradition's position on divine simplicity. The orthodox tradition within Islam rejects divine simplicity, believing that God has real attributes that are not identical to each other. Some people within the Islamic tradition believe that this argument leads necessarily to divine simplicity. argues that this is not the case, and that although divine simplicity is accepted within the tradition for textual reasons, it is not accepted under orthodoxy.
+- **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** Josh discusses the two sides of the spectrum of belief in divine simplicity- those who reject it and those who accept it. He argues that even in his own thinking, he is trying to leave open different models, including how to interpret Thomistic models. He concludes that even though there may be a conflict between the contingency argument and divine simplicity, it may be resolved by the idea that the whole is prior to the parts.
+- **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** The proponent of divine simplicity, Worldview Design Channel's Jonathan Ellis, argues that a model in which God changes or has genuine succession in his life over moments of time, if rejected, would not make sense. Ellis' working model is that time depends on change. If this is true, then God is related to the changing things, and is present right now with us in that sense.
+- **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** Discusses the concept of 'intrinsic vs. extrinsic change' and how it relates to the idea of God.  argues that God's knowledge is intrinsic, meaning it is unchanged by external factors, but that it can still be contingent, meaning it depends on God's will.
+- **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** Discusses how the necessary being has states that are not essential to it, and how this relates to the correspondence theory of truth. He also discusses how divine simplicity is connected to the idea that there can be diversity within god.
+- **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>**  the host discusses different concepts of God, including the idea that God could have a variety of personas. The host suggests that this diversity of personas could be seen as a metaphor for the diversity of aspects of God.
+- **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** Discusses different models of God, with the final model being one in which there are three persons with multiple attributes each of which are attributed to them. The main issue with this model is that it seems to be modalistic, which is problematic because it leads to heresy.
+- **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** Discusses the problem of indexicals, which is the question of how each person can know self-referential propositions (such as "I am the father") differently. It argues that this problem poses a problem for the more unitive or oneself theory of the Trinity.
+- **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** Josh and Jake discuss the philosophy of modality, and Josh mentions the Grim Reaper paradox. Jake asks Josh about this, and Josh tells him that it's a discussion they've had multiple times.
+- **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Discusses the idea of explanation, and how modal epistemology can handicap a person's ability to investigate situations or to know if something is possible. Worldview Design Channel's presenter discusses how the Aristotelian theory of modality can be difficult to apply in certain situations, and how the idea of a necessary foundation is needed to run the argument deductively.
+
 ### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:05:00</a>
 
 Josh discusses the concept of explanation with WorldviewDesignChannel and notes that it is important to have a clear understanding of what explanation is before critiquing it.
 
-**<a onclick="modifyYTiframeseektime('7200')">02:00:00</a>* Discusses the idea that every reality has further explanation, and how this can be applied to the case of the existence of God. Alex is skeptical of the distinction between logical and metaphysical possibility, but the speaker argues that this distinction is actually applicable in the context of this argument. then goes on to discuss how the logical possibility of God's existence links to other arguments for the existence of God. Finally, the speaker offers a concluding statement on the matter.
-* **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>** Josh discusses the concept of explanation with WorldviewDesignChannel. He notes that it is important to have a clear understanding of what explanation is before critiquing it.
+**<a onclick="modifyYTiframeseektime('7200')">02:00:00</a>** Discusses the idea that every reality has further explanation, and how this can be applied to the case of the existence of God. Alex is skeptical of the distinction between logical and metaphysical possibility, but the speaker argues that this distinction is actually applicable in the context of this argument. then goes on to discuss how the logical possibility of God's existence links to other arguments for the existence of God. Finally, the speaker offers a concluding statement on the matter.
+
+- **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>** Josh discusses the concept of explanation with WorldviewDesignChannel. He notes that it is important to have a clear understanding of what explanation is before critiquing it.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

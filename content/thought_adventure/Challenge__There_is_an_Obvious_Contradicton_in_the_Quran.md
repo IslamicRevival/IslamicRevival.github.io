@@ -5,17 +5,17 @@
 ## Description
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -23,38 +23,37 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
 ## Summary of [Challenge: There is an Obvious Contradicton in the Quran](https://www.youtube.com/watch?v=jsE3IQDf7hU)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -63,15 +62,16 @@ Gmail: hello.tapodcast@gmail.com
  discusses a contradiction between two ideas in the Quran - that God determines everything and that free agents can determine their own fate. It argues that the contradiction can be understood in the context of modernism, which is the idea that God creates a scenario knowing what the free acts of the individual would be.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** argues that there is no contradiction in the Quran because god wills the future and creates the world, knowing that people will freely choose their actions. He also argues that free will is compatible with determinism, in that people's actions are causally determined by prior conditions that are not within their control.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses contradictions within the Quran and how it is difficult to demonstrate that there is an actual contradiction. It argues that unless the two words being used in the same way at the same time are established, the contradiction is not a contradiction.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The four pillars of divine decree are that all knowledge is certain, nothing happens without the permission of Allah, Allah is the creator of all things, and judgment day will come.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** explains that there is an obvious contradiction in the Quran between verses that talk about God willing things and verses that talk about people having free will. They go on to say that the incompatibility is due to the heart-determinism in the verses.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** argues that it is contradictory for Islam to have free will, as determinism is a part of the philosophy. However, he argues that this contradiction is reconcilable within a compatibilist position.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>**  a contradiction is introduced between determinism and free will. The incompatibility is demonstrated by contrasting two positions: one in which free will is reconcilable with determinism, and another in which free will is incompatible with determinism. The incompatibility between these positions is demonstrated by the example of a person who murders someone but does not have free will in an absolute sense. The reform a person undergoes while in prison depends on their definition of self, which is different depending on the perspective.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>**  Socrates discusses a contradiction found in the Quran - that there can be free will and that all our experiences and physiology determine our will. He argues that this contradiction can be resolved by understanding that free will is only possible when it is based on Allah's permission.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** of the YouTube video discusses the idea of a contradiction between the idea of free will in the Quran and determinism. He argues that, while compatibilism is a sound argument, it does not apply to humans, and thus is not a contradiction.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses a contradiction in the Quran between verses which seem to imply free will and verses which seem to imply determinism. The apparent contradiction is resolved by assuming that the verses are referring to different situations and contexts.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  challenges a contradiction in the Quran between the idea that God determines everything and the idea that free agents can determine their own fate.  argues that the contradiction can be understood in the context of modernism, which is the idea that God creates a scenario knowing what the free acts of the individual would be.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses contradictions within the Quran and how it is difficult to demonstrate that there is an actual contradiction. It argues that unless the two words being used in the same way at the same time are established, the contradiction is not a contradiction.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The four pillars of divine decree are that all knowledge is certain, nothing happens without the permission of Allah, Allah is the creator of all things, and judgment day will come.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** explains that there is an obvious contradiction in the Quran between verses that talk about God willing things and verses that talk about people having free will. They go on to say that the incompatibility is due to the heart-determinism in the verses.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** argues that it is contradictory for Islam to have free will, as determinism is a part of the philosophy. However, he argues that this contradiction is reconcilable within a compatibilist position.
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>**  a contradiction is introduced between determinism and free will. The incompatibility is demonstrated by contrasting two positions: one in which free will is reconcilable with determinism, and another in which free will is incompatible with determinism. The incompatibility between these positions is demonstrated by the example of a person who murders someone but does not have free will in an absolute sense. The reform a person undergoes while in prison depends on their definition of self, which is different depending on the perspective.
+- **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>**  Socrates discusses a contradiction found in the Quran - that there can be free will and that all our experiences and physiology determine our will. He argues that this contradiction can be resolved by understanding that free will is only possible when it is based on Allah's permission.
+- **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** of the YouTube video discusses the idea of a contradiction between the idea of free will in the Quran and determinism. He argues that, while compatibilism is a sound argument, it does not apply to humans, and thus is not a contradiction.
+- **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses a contradiction in the Quran between verses which seem to imply free will and verses which seem to imply determinism. The apparent contradiction is resolved by assuming that the verses are referring to different situations and contexts.
+- **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  challenges a contradiction in the Quran between the idea that God determines everything and the idea that free agents can determine their own fate.  argues that the contradiction can be understood in the context of modernism, which is the idea that God creates a scenario knowing what the free acts of the individual would be.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

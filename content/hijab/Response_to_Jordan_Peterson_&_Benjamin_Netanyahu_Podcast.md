@@ -5,9 +5,9 @@
 ## Description
 
 Jazakallahu khair to my guest Abdullah Andalusi:
-https://www.youtube.com/@AbdullahalAndalusi
+<https://www.youtube.com/@AbdullahalAndalusi>
 
-DONATE NOW: https://www.saveiman.com/fb?affiliate_id=3414212 ⬅
+DONATE NOW: <https://www.saveiman.com/fb?affiliate_id=3414212> ⬅
 
 The Prophet ﷺ said: “𝙒𝙝𝙤𝙚𝙫𝙚𝙧 𝙗𝙪𝙞𝙡𝙙𝙨 𝙖 𝙈𝙤𝙨𝙦𝙪𝙚 𝙛𝙤𝙧 𝘼𝙡𝙡𝙖𝙝, 𝘼𝙡𝙡𝙖𝙝 𝙬𝙞𝙡𝙡 𝙗𝙪𝙞𝙡𝙙 𝙛𝙤𝙧 𝙝𝙞𝙢 𝙖 𝙨𝙞𝙢𝙞𝙡𝙖𝙧 𝙝𝙤𝙪𝙨𝙚 𝙞𝙣 𝙅𝙖𝙣𝙣𝙖𝙝.”
 
@@ -17,18 +17,17 @@ If you support this project, you will in sha Allah get a house in Jannah and sha
 ✅ Making Dhikr!
 ✅ Memorizing the Qur’an!
 
-Please donate and help establish this Masjid and earn your reward ➡ https://www.saveiman.com/fb?affiliate_id=3414212 ⬅
+Please donate and help establish this Masjid and earn your reward ➡ <https://www.saveiman.com/fb?affiliate_id=3414212> ⬅
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
-My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
+My book: <https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/>
 
-#jordanpeterson #benjaminnetanyahu #israel
+# jordanpeterson #benjaminnetanyahu #israel
 
 ## Summary of [Response to Jordan Peterson & Benjamin Netanyahu Podcast](https://www.youtube.com/watch?v=uJQbYgMb-jM)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -37,24 +36,27 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 Jordan Peterson and Benjamin Netanyahu debate the history of Israel and Palestine, with Peterson arguing that the British were responsible for state-building in Palestine and Netanyahu claiming that the Palestinian exodus was a "catastrophe."
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Benjamin Netanyahu recently appeared on Jordan Peterson's Channel, and this war criminal spewed lies and misinformation which we will deconstruct in this episode. 30,000 people commented on the video, with almost 90% disapproval. Netanyahu represents a hawkish Israeli response to Palestinian Defiance, and he has increased numbers of settlements, accelerated the building of settlements on the West Bank, bombed Raza regularly, provocations on the Temple Mount, extraditional killings of Palestinians that do not get answered by courts, arbitrary military rule in the West Bank in area C where Palestinians are subject to military ordinances they don't even get to decide their laws, and high levels of evictions of Palestinians out of their homes and properties under his watch.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Jordan Peterson's interview with Benjamin Netanyahu, which received 700,000 views, was met with criticism from the right-wing audience. In it, Netanyahu claims that he has read more about the Palestinian issue than Peterson, despite the lack of knowledge shown in the interview. Peterson is also criticized for not being objective in his discussion of the human psyche, and for not engaging with prominent speakers from the other side of the political spectrum.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Jonathan points out that, contrary to what Jordan Peterson claims, Netanyahu did not initiate the settler-colonialism in Palestine, and that Netanyahu's actions in Gaza amount to blatant, ongoing lying. Jonathan also mentions some egregious examples of Netanyahu's lies, including his repeated claims that the Israeli occupation of Palestine is a "just" response to Palestinian aggression.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses origins of the Israelites, and argues that they were not originally from Canaan, but rather migrated there and then conquered it. Benjamin Netanyahu cites evidence from archeology to back up his claims. Jordan Peterson points out that 300 years is a long time, and argues that even if Netanyahu's evidence is correct, it does not prove that the Israelites were Canaanites.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses history of Israel and Palestine, highlighting that the land has been called Palestine multiple times before the Israelites arrived. It also points out that the name Israel is only used for the tribe of Israel, not the land itself. The Romans eventually conquered and devastated Palestine, causing many Jews to leave and spread throughout the world.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses origins of the Israelites, and argues that they were not originally from Canaan, but rather migrated there and then conquered it. Benjamin Netanyahu cites evidence from archeology to back up his claims. Jordan Peterson points out that 300 years is a long time, and argues that even if Netanyahu's evidence is correct, it does not prove that the Israelites were Canaanites.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses history of Israel and Palestine, highlighting that the land has been called Palestine multiple times before the Israelites arrived. It also points out that the name Israel is only used for the tribe of Israel, not the land itself. The Romans eventually conquered and devastated Palestine, causing many Jews to leave and spread throughout the world.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Jordan Peterson and Benjamin Netanyahu discuss the history of Jewish migration to Europe and how they've been treated over the years. Netanyahu tries to appeal to Jewish ancestral roots, while Jordan Peterson critiques Netanyahu's attempt to dodge the issue of the Israeli Prime Minister's history of mass murder.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Jordan Peterson and Benjamin Netanyahu had a discussion about English law and the idea ofsquatting and how it relates to ancestral presence in Palestine.Both men agreed that there is something in English law that allows for the development of a new community, even if it displaces an existing population. Thomas Arnold Walker, an orientalist, is mentioned and Jordan Peterson points out that he wrote a book advocating for the Muslim expansion into Palestine.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses history of Jews and Israelites, and how there has been a mix of people in the Middle East for centuries. It also mentions a study that found that Ashkenazi Jews have a high percentage of Israelite DNA, because they have intermarried with Italians, Germans, and other groups for many years.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses idea that Jewish people have a lot of ancestry in the Levant, and that this ancestry gives them a right to return to the land of Palestine. However, if a Jewish person converts to another religion, they are no longer eligible for the right of return.
+* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses history of Jews and Israelites, and how there has been a mix of people in the Middle East for centuries. It also mentions a study that found that Ashkenazi Jews have a high percentage of Israelite DNA, because they have intermarried with Italians, Germans, and other groups for many years.
+* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses idea that Jewish people have a lot of ancestry in the Levant, and that this ancestry gives them a right to return to the land of Palestine. However, if a Jewish person converts to another religion, they are no longer eligible for the right of return.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Jordan Peterson and Benjamin Netanyahu discuss the idea of a Jewish homeland in Palestine, with Netanyahu arguing that the area was largely desert and ripe for development. Jim Reisman, a Christian Zionist and one of the main advocates of the idea of a Jewish homeland in Palestine, disagrees, arguing that the area was already developed and that the Jews would return before Christ.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Jordan Peterson and Benjamin Netanyahu debate who is responsible for state-building in Palestine. Peterson argues that the British were responsible, while Netanyahu argues that it was the Palestinians who were building the state. Peterson argues that the renovations he made to his apartment are equivalent to the British occupying his land, while Netanyahu argues that the renovations were an example of self-determination.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Jordan Peterson and Benjamin Netanyahu discuss the history of Palestine, Netanyahu's claim that the Palestinian exodus was a "catastrophe," and Peterson's assertion that Jews were also killed by Zionist terrorists.  also points out that the Palestinian issue is not just a political issue, but a humanitarian one as well, as many innocent people have been killed in the conflict.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:15:00</a>
 
  discusses the Israeli-Palestinian conflict, with a focus on the one-state solution. The Arab League proposed this solution in the early 1950s, but the Zionists rejected it because they would lose their ethnic privilege.  argues that if Zionists are truly committed to justice, they should face their opponents in public debate.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Jordan Peterson and Benjamin Netanyahu discuss Israeli history, and Netanyahu blatantly lies about the timeline of events leading up to the Palestinian displacement.  discusses Israel's policy of "clearing operations," which began before Israel was formally established as a nation.
+
 * **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Jordan Peterson and Benjamin Netanyahu debate the concept of a one-state solution to the Israeli-Palestinian conflict. The Arab League proposed this solution in the early 1950s, but the Zionists rejected it because they would lose their ethnic privilege. Peterson argues that this discussion is important, and that the West Bank and Gaza Palestinians are living in an apartheid system.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>* Discusses situation in Palestine, noting that while many Zionists may claim to support equal rights for Palestinians, they're actually afraid of public debate and pushback. suggests that if Zionists are truly committed to justice, they should face Shapiro and others in public debate.
+* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Discusses situation in Palestine, noting that while many Zionists may claim to support equal rights for Palestinians, they're actually afraid of public debate and pushback. suggests that if Zionists are truly committed to justice, they should face Shapiro and others in public debate.
 * **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** critiques Jordan Peterson and Benjamin Netanyahu for their lack of knowledge about the Palestinian situation, and urges others to help support charitable work in the region. He also encourages Muslims to do their part in spreading Islamic teachings, noting that this is one of the best ways to show love for others and make the world a better place.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

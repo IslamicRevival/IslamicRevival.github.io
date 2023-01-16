@@ -6,20 +6,20 @@
 
 Karlos is an atheist and has began acknowledging more of the premises for the Necessary Being. In this clip we discuss some key arguments that establishes the Will for the Creator. He acknowledged that the arguments presented he’d need to contemplate over them more.
 
-Full video: https://youtu.be/qoMyzWN28gI
+Full video: <https://youtu.be/qoMyzWN28gI>
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -27,38 +27,37 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
 ## Summary of [Another Atheist Contemplating Theism | Podcast Highlight](https://www.youtube.com/watch?v=YATcLLcOqOM)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -67,14 +66,15 @@ Gmail: hello.tapodcast@gmail.com
  discusses the difficulties of believing in a necessary being, or "God," and how, if this being has a will and is constantly sustaining things, it becomes difficult to believe in it as a god. Carla Carlos points out that, in order to believe in a god, the first discussion has to be that there is a necessary being, which doesn't necessarily have to exist. If the necessary being has a will, does it have intentionality, and does it have reality, then it becomes possible to believe in a god. However, if the necessary being is matter, and other matter exists outside of time and space, then it becomes difficult to understand how the eternal effect cause produces a temporal effect.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** This atheist discusses how he came to the conclusion that there must be a necessary being, and that an infinite regress is an impossibility. He argues that the best arguments in the contingency argument work well from a logical point of view, but that empirical knowledge prevents us from coming to ontological conclusions.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the argument from necessary existence to the conclusion that the effect, in this case the universe, would be eternal. They also discuss the argument from contingency, which states that all contingent beings need a necessary foundation, and the argument from universal existence, which states that any existent thing must have a cause. argues that the cause of the universe, which is an eternal entity, does not need to cause the effect, which is temporal, because the effect did not have to exist.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The atheist discusses the difficulty of understanding time when discussing eternal things. He argues that if one believes in an eternal God, then one must also believe in an infinite past and an eternal existence for contingent things. However, he still believes that atheism has a strong rational foundation.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the difficulties of believing in a necessary being, and how, if this being has a will and is constantly sustaining things, it becomes difficult to believe in it as a god. Carla Carlos points out that, in order to believe in a god, the first discussion has to be that there is a necessary being, which doesn't necessarily have to exist. If the necessary being has a will, does it have intentionality, and does it have reality, then it becomes possible to believe in a god. However, if the necessary being is matter, and other matter exists outside of time and space, then it becomes difficult to understand how the eternal effect cause produces a temporal effect.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Sharif discusses the nature of matter and argues that it could encompass any kind of thing, including a god. He then goes on to ask how we can infer aspects of choice and causality in this necessary thing. He concludes by saying that this is not news, as we could be wrong about anything.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Atheist discusses the possibility of there being a rational basis for reality, pointing out that even though we can't be certain about everything, we can at least be reasonable in our conclusions based on our epistemology. However, he points out that when it comes to questions about ontology, we need evidence from a higher tier of knowledge in order to even have a rational discussion. He ends by saying that although we may be able to agree upon certain points, we will still disagree on what constitutes reality.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses how atheists believe that a necessary foundation of reality (consciousness and will) does not have a consciousness or will, but that it exists nevertheless.  then goes on to discuss how one can make a similar inference about a necessary foundation of reality being conscious and having a will using one's own experience.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** In discussing consciousness, this atheist points out that we don't really do anything different than what we do within our immediate experience and day-to-day lives even at a very sophisticated philosophical and scientific level. He goes on to say that it is not just through an action's physical performance that we understand intentionality, but that there is something else than the physical contingent beings that cause the action. He suggests that this something else is called intentionality and that this is how we understand human beings are intentional and have will and consciousness.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses the idea of a necessary being, or "God," and how it can be difficult to explain its existence using naturalistic explanations. It points out that this God would have more metaphysical baggage than a God without a will, and that it would be more complex to explain.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the argument from necessary existence to the conclusion that the effect, in this case the universe, would be eternal. They also discuss the argument from contingency, which states that all contingent beings need a necessary foundation, and the argument from universal existence, which states that any existent thing must have a cause. argues that the cause of the universe, which is an eternal entity, does not need to cause the effect, which is temporal, because the effect did not have to exist.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The atheist discusses the difficulty of understanding time when discussing eternal things. He argues that if one believes in an eternal God, then one must also believe in an infinite past and an eternal existence for contingent things. However, he still believes that atheism has a strong rational foundation.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the difficulties of believing in a necessary being, and how, if this being has a will and is constantly sustaining things, it becomes difficult to believe in it as a god. Carla Carlos points out that, in order to believe in a god, the first discussion has to be that there is a necessary being, which doesn't necessarily have to exist. If the necessary being has a will, does it have intentionality, and does it have reality, then it becomes possible to believe in a god. However, if the necessary being is matter, and other matter exists outside of time and space, then it becomes difficult to understand how the eternal effect cause produces a temporal effect.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Sharif discusses the nature of matter and argues that it could encompass any kind of thing, including a god. He then goes on to ask how we can infer aspects of choice and causality in this necessary thing. He concludes by saying that this is not news, as we could be wrong about anything.
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Atheist discusses the possibility of there being a rational basis for reality, pointing out that even though we can't be certain about everything, we can at least be reasonable in our conclusions based on our epistemology. However, he points out that when it comes to questions about ontology, we need evidence from a higher tier of knowledge in order to even have a rational discussion. He ends by saying that although we may be able to agree upon certain points, we will still disagree on what constitutes reality.
+- **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses how atheists believe that a necessary foundation of reality (consciousness and will) does not have a consciousness or will, but that it exists nevertheless.  then goes on to discuss how one can make a similar inference about a necessary foundation of reality being conscious and having a will using one's own experience.
+- **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** In discussing consciousness, this atheist points out that we don't really do anything different than what we do within our immediate experience and day-to-day lives even at a very sophisticated philosophical and scientific level. He goes on to say that it is not just through an action's physical performance that we understand intentionality, but that there is something else than the physical contingent beings that cause the action. He suggests that this something else is called intentionality and that this is how we understand human beings are intentional and have will and consciousness.
+- **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses the idea of a necessary being, or "God," and how it can be difficult to explain its existence using naturalistic explanations. It points out that this God would have more metaphysical baggage than a God without a will, and that it would be more complex to explain.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

@@ -4,11 +4,10 @@
 
 ## Description
 
-Here is the full article 
-http://www.historytoday.com/archive/path-peace-inspired-past
+Here is the full article
+<http://www.historytoday.com/archive/path-peace-inspired-past>
 
 ## Summary of [Palestine/"Israel" Conflict, Historical Context](https://www.youtube.com/watch?v=9ZKuPycKiX8)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -16,9 +15,10 @@ http://www.historytoday.com/archive/path-peace-inspired-past
 
  discusses the historical context of the conflict between Palestine and Israel. According to scholars, the relationship between the two groups was generally peaceful and cooperative. However, there were occasional instances of violence and aggression on both sides. The main point of the video is that the current situation is not the result of a centuries-long hatred between the two groups, but of recent events, specifically the expulsion of the Jews and Muslims from Palestine in the 1940s.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the current conflict between Palestine and Israel, focusing on historical context and the role of knowledge in promoting peace. It concludes with a call to be educated about the issue, and to start dialogues based on knowledge.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the historical context of the conflict between Palestine and Israel. According to scholars, the relationship between the two groups was generally peaceful and cooperative. However, there were occasional instances of violence and aggression on both sides. The main point of the video is that the current situation is not the result of a centuries-long hatred between the two groups, but of recent events, specifically the expulsion of the Jews and Muslims from Palestine in the 1940s.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the history of the Palestine/"Israel" conflict and how it started with hostility between the Muslims and the Jews. Bernard Lewis points out that, while similar persecution did exist in Christian rule, it was nowhere near as severe as what took place in Muslim rule. This hostility continued into the 1930s and culminated in the establishment of the Jewish state in 1948.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the current conflict between Palestine and Israel, focusing on historical context and the role of knowledge in promoting peace. It concludes with a call to be educated about the issue, and to start dialogues based on knowledge.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the historical context of the conflict between Palestine and Israel. According to scholars, the relationship between the two groups was generally peaceful and cooperative. However, there were occasional instances of violence and aggression on both sides. The main point of the video is that the current situation is not the result of a centuries-long hatred between the two groups, but of recent events, specifically the expulsion of the Jews and Muslims from Palestine in the 1940s.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the history of the Palestine/"Israel" conflict and how it started with hostility between the Muslims and the Jews. Bernard Lewis points out that, while similar persecution did exist in Christian rule, it was nowhere near as severe as what took place in Muslim rule. This hostility continued into the 1930s and culminated in the establishment of the Jewish state in 1948.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  provides historical context for the current conflict between Palestine and Israel. discusses the origins of Zionism and how it shares many similarities with Nazi ideology, including a desire to create a "pure" Jewish homeland.  also explores the history of the Palestinian/Israeli conflict, highlighting the various military campaigns and peace agreements that have been reached between the two sides. Finally, the video offers a pessimistic assessment of the chances of resolving the conflict, citing the difficulties of winning on the negotiating table and the reluctance of Israel to allow its Palestinian population to fully disappear.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** This individual became the president of Israel, and during his time in office, he targeted civilians with his terrorist organization. He also used theological justification for his actions, claiming that the chosen people status granted him salvation. The Quran challenges this type of racism and ethnocentrism, and says that if people believe in this way, they are not truly following God's teachings. This narrative is important for Muslims to understand, as it provides a historical context for the current Israel/Palestine conflict.
 

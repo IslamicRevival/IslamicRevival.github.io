@@ -6,7 +6,6 @@ The Art of Living: A Prophetic Guide | LIVE | With Shaykh Dr. Mustafa Khattab
 
 ## Summary of [The Art of Living: A Prophetic Guide | LIVE | With Shaykh Dr. Mustafa Khattab](https://www.youtube.com/watch?v=Y9J2iNjN4ow)
 
-
 *
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
@@ -15,8 +14,9 @@ The Art of Living: A Prophetic Guide | LIVE | With Shaykh Dr. Mustafa Khattab
 
  provides a brief overview of the life of the Prophet Muhammad (peace be upon him) and highlights some of his positive qualities. Shaykh Dr. Mustafa Khattab provides advice on how to become a good Muslim, emphasizing the importance of following the prophet Muhammad's example.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the life of Prophet Muhammad SAW, emphasizing his human nature. He goes on to explain that these revelations covered every aspect of Muhammad SAW's life, from his birth to his death.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the positive attitude of the prophet Saw towards life and how this can be applied to our own lives. The prophet Saw was always positive, even in the most difficult moments, and this quality is shared by us as Muslims.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the life of Prophet Muhammad SAW, emphasizing his human nature. He goes on to explain that these revelations covered every aspect of Muhammad SAW's life, from his birth to his death.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the positive attitude of the prophet Saw towards life and how this can be applied to our own lives. The prophet Saw was always positive, even in the most difficult moments, and this quality is shared by us as Muslims.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The prophet Muhammad was a trusted and beloved figure in pre-Islamic Arabia, but some people had issues with him as a prophet. Even though they loved him as a human being, they disagreed with him on some issues. When Mecca was conquered and he became the leader, he issued a universal amnesty for the people who had wronged him.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The Prophet saws was known for his humility, service to his family, and willingness to forgive. He was also an example to his grandchildren, who loved playing with him. In one Hadith, the Prophet saws said that knights are as great as horsemen, and that his wife Safiya was a great wife.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>**  provides a brief overview of the life of the Prophet Muhammad (peace be upon him), highlighting his exemplary qualities as a husband, father, and role model. It also recounts an incident in which a brother visiting Saudi Arabia was surprised to learn that the Prophet Muhammad never criticized the food he was given, and that he would only refuse to eat if he did not like the food.

@@ -4,16 +4,15 @@
 
 ## Description
 
-https://www.kbyh.co.uk/
+<https://www.kbyh.co.uk/>
 
-Visit https://www.naturesblends.com/ and use hijab10 for a 10% discount. 
+Visit <https://www.naturesblends.com/> and use hijab10 for a 10% discount.
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
 
 ## Summary of [William Lane Craig's Bible Dilemma Worries Christians](https://www.youtube.com/watch?v=d3uKsG31xWI)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -22,8 +21,9 @@ Facebook: https://www.facebook.com/brothermohammedhijab/
  "William Lane Craig's Bible Dilemma Worries Christians" discusses the problem of contradictions in the Bible and how they can be interpreted allegorically. Craig argues that even if one goes allegorical, they still have the problem of contradictory metaphors.  discusses the difficulties Christians face when trying to reconcile two contradictory metaphors in the Bible.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** William Lane Craig argues that the author of Genesis did not intend for the book to be taken literally and that there are inconsistencies between chapters 1 and 2 that suggest an allegorical interpretation. He also admits that this is important because it shows that the book was not written by a god who was concerned with making things consistent.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  "William Lane Craig's Bible Dilemma Worries Christians" discusses the problem of contradictions in the Bible. Craig points out that the rabbis, an ancient Jewish scholar, understood the Bible to be understood in a literal way, and that they probabilistically problematized inconsistencies in its verses, but did not allegorize it. Second, the video discusses the cosmology of the ancient Hebrews, which was a flat earth cosmology. The third point is that the ancient Hebrews used the word "hug" to teach that heaven and earth were like two metal plates, and that through allegorization certain mystical truths could be indicated. However, Craig argues that even if one goes allegorical, they still have the problem of contradictory metaphors.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the difficulties Christians face when trying to reconcile two contradictory metaphors in the Bible- "a plant has not yet sprung up" and "the thing is, if we continue and we ask another question, if you do go allegory on this and become an allegorizer of this what would stop you from using this allegorization approach in things which would be named or understood to be the main tenets of Christianity?" Origin of Alexandria, an apologist who was a non-Christian at the time, used an allegorization approach to at least do away with some aspects of the crucifixion which may be anti-logic. This shows that you can use this hermeneutical principle to wipe away the basic tenets of Christianity. Augustine, an early Christian theologian, was aware of the various exegetical approaches to the Bible and chose to allegorize parts of the Genesis narrative in order to meet the apologetic criterion. If one wants to say that the Genesis narrative is literal, they would have to maintain that Augustine was wrong and that the biblical discourse is against the most sophisticated cosmologies of his time.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the difficulties Christians face when trying to reconcile two contradictory metaphors in the Bible- "a plant has not yet sprung up" and "the thing is, if we continue and we ask another question, if you do go allegory on this and become an allegorizer of this what would stop you from using this allegorization approach in things which would be named or understood to be the main tenets of Christianity?" Origin of Alexandria, an apologist who was a non-Christian at the time, used an allegorization approach to at least do away with some aspects of the crucifixion which may be anti-logic. This shows that you can use this hermeneutical principle to wipe away the basic tenets of Christianity. Augustine, an early Christian theologian, was aware of the various exegetical approaches to the Bible and chose to allegorize parts of the Genesis narrative in order to meet the apologetic criterion. If one wants to say that the Genesis narrative is literal, they would have to maintain that Augustine was wrong and that the biblical discourse is against the most sophisticated cosmologies of his time.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  William Lane Craig discusses the Bible's contradictions and how Muslims would view them as evidence that the book is not inerrant. Craig also provides an article proving the Islamic faith to be true, which provides additional evidence against the Bible's reliability.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

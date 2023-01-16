@@ -4,10 +4,9 @@
 
 ## Description
 
-I cite 'Jesus Interrupted: Revealing the Hidden Contradictions in the Bible (and Why We Don't Know About Them)' by Dr Bart D. Ehrman  https://www.amazon.co.uk/Jesus-Interrupted-Bart-D-Ehrman/dp/0061173940
+I cite 'Jesus Interrupted: Revealing the Hidden Contradictions in the Bible (and Why We Don't Know About Them)' by Dr Bart D. Ehrman  <https://www.amazon.co.uk/Jesus-Interrupted-Bart-D-Ehrman/dp/0061173940>
 
 ## Summary of [Some key differences between Paul and the Gospel writers](https://www.youtube.com/watch?v=KuA2ozpf6AA)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -16,6 +15,7 @@ I cite 'Jesus Interrupted: Revealing the Hidden Contradictions in the Bible (and
 Bart Ehrman discusses some key differences between Paul and the Gospel writers, including their beliefs about human sacrifice and the Jewish law. He also highlights a difference in their views on salvation, with Paul teaching that it comes to those who follow Jesus and keep the Jewish law, and Matthew believing that it is available to all who treat others humanely.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The main differences between Paul and the Gospel writers are that Paul preached about Jesus primarily to put one's faith in Jesus' death and resurrection, and not through observing the works of the Jewish law. Paul also reasons that Jesus must not have died for any wrong deeds because if he was the messiah, who stood under God's special favor, he must not have died for his own sins.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** According to Bart Ehrman, differences between Paul and the Gospel writers include the following: Paul did not believe in human sacrifice as an atonement for sin, the sacrificial system in the temple never made room for human sacrifice, and the keeping of the Jewish law can have no place in salvation. Differences between Paul and Matthew include the following: while Paul taught that followers of Jesus needed to keep the law, Matthew thought that followers of Jesus should keep the law better than most religious Jews.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** In Matthew, salvation comes to those who have never heard of Jesus and treat others humanely, while in Paul, salvation comes to those who follow Jesus and keep the Jewish law. This difference in viewpoints has significant implications for Christian-Muslim relations today.
 

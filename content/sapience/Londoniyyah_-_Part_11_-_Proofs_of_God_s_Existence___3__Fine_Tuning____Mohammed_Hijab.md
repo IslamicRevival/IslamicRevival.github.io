@@ -6,9 +6,9 @@
 
 Londoniyyah - Part 11 - Proofs of God's Existence / 3 "Fine Tuning" | Mohammed Hijab
 
-
-To be updated about our content please subscribe and open the notifications.
+To be updated about our content please subscribe and open the notifications
 ----
+
 BOOK A LIGHTHOUSE MENTOR
 
 Are you or someone you know doubting Islam? Do you find yourself struggling to find answers?  Do you have a hard time speaking to someone about Islam?  Are you considering Islam but are unsure about certain concepts?  Are you an activist, Imam or community leader who is unsure about how to handle questions related to science, philosophy, the Islamic moral code, etc.?
@@ -17,12 +17,11 @@ You are not alone.  Over the course of the last decade or more there has been a 
 
 Seeing the rise of  this phenomenon , Sapience Institute is introducing a One to One mentoring service called LIGHTHOUSE.
 
-BOOK A MENTOR HERE: https://sapienceinstitute.org/lighthouse/
+BOOK A MENTOR HERE: <https://sapienceinstitute.org/lighthouse/>
 
-VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: https://sapienceinstitute.org/
+VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: <https://sapienceinstitute.org/>
 
 ## Summary of [Londoniyyah - Part 11 - Proofs of God's Existence / 3 "Fine Tuning" | Mohammed Hijab](https://www.youtube.com/watch?v=lkGjBAP7smc)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -31,12 +30,13 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
  Mohammed Hijab discusses the fine-tuning argument for God's existence. He argues that the universe is in a very specific state that allows life, and that this is evidence of the existence of a designer. He also discusses the concept of infinity, and how a designer could have an uninterrupted line of causation.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The fine tuning argument for God's existence is a straightforward argument that states that the universe is constructed in a way that allows life to exist. This argument is not based on aesthetics, complexity, ordesign, but on observable factors.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  presents evidence that the universe could not have been by chance, as it would have been non-life permitting. Richard Dawkins' book "The God Delusion" spends five pages discussing the "cosmological argument," which is William Paley's argument that because of the laws of probability, we don't need a god to explain design. John Lennox debates Dawkins on the topic, and convincingly argues that design is not a required reference to explain the universe.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses how Craig's argument that there are three options for the constants in the universe- chance, necessity, or design- is flawed. He goes on to argue that chance is just an expression of our ignorance and that there cannot be a universe from chance.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses how Craig's argument that there are three options for the constants in the universe- chance, necessity, or design- is flawed. He goes on to argue that chance is just an expression of our ignorance and that there cannot be a universe from chance.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Robin Collins argues that the fine tuning of the laws of nature and the constants of nature proves that there must be a designer. He provides an example of how the occurrence of a particular sequence of numbers could be evidence in favor of a demon hypothesis over a chance hypothesis.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>**  Mohammed Hijab explains how to calculate the probability of a universe arising from chance or randomness. He speaks to a professor who confirms that he made a mistake with his numbers. Hijab then goes back to the professor and shows him the correct numbers. He discusses the fine tuning of the universe with a mathematician, who defines logical and inductive probability. He draws a conclusion from this lesson that when arguing for the existence of a designer, one must be specific and understand different types of probability.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses the argument from fine tuning, which states that there is a probability that specific constants in the universe are just right for life to exist. The presenter points out that this probability is impossible, and that an atheistic worldview provides no evidence for the existence of a creator. He then goes on to discuss the epistemic probability of there being something rather than nothing, and concludes that there is no possibility of an atheistic worldview being true.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses the fine-tuning argument, which is the idea that the universe is in a very specific state, allows life, and is stable/uniform/regular. The presenter argues that these conditions could not have happened by chance, and that they are evidence of the existence of a designer. The presenter also discusses the concept of infinity, and how a designer could have an uninterrupted line of causation.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses the argument from fine tuning, which states that there is a probability that specific constants in the universe are just right for life to exist. The presenter points out that this probability is impossible, and that an atheistic worldview provides no evidence for the existence of a creator. He then goes on to discuss the epistemic probability of there being something rather than nothing, and concludes that there is no possibility of an atheistic worldview being true.
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses the fine-tuning argument, which is the idea that the universe is in a very specific state, allows life, and is stable/uniform/regular. The presenter argues that these conditions could not have happened by chance, and that they are evidence of the existence of a designer. The presenter also discusses the concept of infinity, and how a designer could have an uninterrupted line of causation.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Mohammed Hijab discusses some of the arguments used to disprove the existence of God, including the idea that patterns in the universe indicate that something with knowledge created them. He argues that these arguments need to be counterintuitive in order to be convincing, and that the best arguments for God's existence come from questions rather than statements.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

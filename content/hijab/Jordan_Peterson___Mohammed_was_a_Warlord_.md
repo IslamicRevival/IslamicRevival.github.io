@@ -2,16 +2,15 @@
 
 <iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/ilrwPbvXqaE'></iframe>## Description
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
-My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
+My book: <https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/>
 
-#jordanpeterson #muslim #islam
+# jordanpeterson #muslim #islam
 
 ## Summary of [Jordan Peterson: "Mohammed was a Warlord"](https://www.youtube.com/watch?v=ilrwPbvXqaE)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -20,6 +19,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 Jordan Peterson argues that Muhammad was not a warlord, and that comparisons between him and Jesus are unjustified. He points to passages in the Quran and Bible to support his claims, and argues that the historical Jesus was violent.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Jordan Peterson says that Mohammed was a Warlord because he was trained to take advantage of the disintegration of a central authority.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Jordan Peterson discusses the definition of "warlord" and how it applies to the prophet Muhammad. He argues that using this term inaccurately disqualifies Muhammad from being described that way. If he wants to use the term, he should use it with other figures who have led armies in similar ways.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Jordan Peterson argues that comparisons between Muhammad and Jesus are unjustified. He points to passages in the bible that support this claim, and argues that the historical Jesus was violent. Peterson also argues that the interpretation of Jesus Christ by church fathers is relevant for 2000 years.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Jordan Peterson discusses the difference between prophets like Muhammad and gods like Jesus, and how Christians mistakenly compare the two. He argues that, if Christianity is to be considered a true system, then it must compare allahs role as the creator of the universe to jesus' role as the son of god.

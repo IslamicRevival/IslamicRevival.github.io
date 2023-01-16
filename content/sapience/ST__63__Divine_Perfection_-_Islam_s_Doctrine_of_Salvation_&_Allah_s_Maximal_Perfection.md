@@ -7,25 +7,24 @@
 ST# 63: Divine Perfection - Islam's Doctrine of Salvation & Allah's Maximal Perfection with Dr. Osman Latiff
 —
 Help us educate and mentor others to share the faith academically.
-Donate now: https://sapienceinstitute.org/donate/ 
+Donate now: <https://sapienceinstitute.org/donate/>
 
-Free online courses: https://learn.sapienceinstitute.org/
+Free online courses: <https://learn.sapienceinstitute.org/>
 
-Free books: https://sapienceinstitute.org/books/
+Free books: <https://sapienceinstitute.org/books/>
 
-Have doubts? Book a mentor: https://sapienceinstitute.org/lighthouse/
+Have doubts? Book a mentor: <https://sapienceinstitute.org/lighthouse/>
 
-Listen (Podcast): https://sapienceinstitute.org/sapientvoices/
+Listen (Podcast): <https://sapienceinstitute.org/sapientvoices/>
 
 Follow:
-– Facebook: https://facebook.com/sapienceinstitute.org/ 
-– Twitter: https://twitter.com/SapienceOrg/ 
-– Instagram: https://instagram.com/sapienceinstitute/ 
+– Facebook: <https://facebook.com/sapienceinstitute.org/>
+– Twitter: <https://twitter.com/SapienceOrg/>
+– Instagram: <https://instagram.com/sapienceinstitute/>
 
-Articles, speaker requests & more: https://sapienceinstitute.org/
+Articles, speaker requests & more: <https://sapienceinstitute.org/>
 
 ## Summary of [ST# 63: Divine Perfection - Islam's Doctrine of Salvation & Allah's Maximal Perfection](https://www.youtube.com/watch?v=Nv7ek29NEo4)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -34,8 +33,9 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
  explains the Islamic doctrine of salvation, which is based on the belief that Allah is always merciful and perfect. This contrasts sharply with the Christian model of salvation, which is based on the belief that Jesus was the only way to gain eternal salvation.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  Dr. Craig discusses the concepts of sin and salvation in Islam, and contrasts them with Christianity. He argues that while Islamic theology does not adequately represent the concept of trinity, it does provide a more holistic view of God.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** According to the Islamic model of salvation, all human beings are weak and prone to error, but allah is ever close to his servants. Allah is forgiving and merciful, and even though there are consequences for sins, he still deserves worship.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses Islam's doctrine of salvation, which states that after a person repents and acknowledges their sins, Allah can forgive them. The narrator then cites a Hadith in which Muhammad says that when a brother sins, one should "feel like what Allah says by 'slipped' [him], meaning that one should feel compassion for the person and not be tempted to sin against them."
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses Islam's doctrine of salvation, which states that after a person repents and acknowledges their sins, Allah can forgive them. The narrator then cites a Hadith in which Muhammad says that when a brother sins, one should "feel like what Allah says by 'slipped' [him], meaning that one should feel compassion for the person and not be tempted to sin against them."
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  explains the Islamic doctrine of salvation, which is based on the belief that Allah is always merciful and perfect. This contrasts sharply with the Christian model of salvation, which is based on the belief that Jesus was the only way to gain eternal salvation.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

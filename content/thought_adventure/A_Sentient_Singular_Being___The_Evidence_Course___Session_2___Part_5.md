@@ -6,22 +6,22 @@
 
 Session 2 Part 5
 
-In an age of information overload and widespread pseudo-intellectualism, understanding the core foundations of Islam is as essential as ever. 
+In an age of information overload and widespread pseudo-intellectualism, understanding the core foundations of Islam is as essential as ever.
 
 This course comprehensively deconstructs the skeletal structure of prevalent ideologies and concepts such as atheism, scientism, materialism, secularism, and skepticism, in light of an all-encompassing intellectually robust Islamic worldview.Thought Adventure Social Media:
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -29,40 +29,39 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
-#ProofForGod #NecessaryBeing #Reasoning
+# ProofForGod #NecessaryBeing #Reasoning
 
 ## Summary of [A Sentient Singular Being | The Evidence Course | Session 2 / Part 5](https://www.youtube.com/watch?v=pNtzuXqS6Zs)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -70,9 +69,10 @@ Gmail: hello.tapodcast@gmail.com
 
  discusses the three main arguments for the existence of a creator: fixed patterns within the universe, the need for an eternal cause for temporal effects, and the need for a creator with a will. It concludes that based on these arguments, the only possible creator is a sentient singular being, allah, as described in the Quran.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the need for a creator, and argues that this creator cannot be a non-sentient force. It also points out that the effect, which is the creation, is not always existing. The only explanation for this is that the creator willed it to happen.  also discusses fixed patterns within the universe, which indicate that the creator has intentionality and awareness.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses three arguments for the existence of a creator: that there are fixed patterns within the universe, that an eternal cause is necessary for temporal effects, and that a creator must have a will. It points out that if there are more than one creator, then each will limit the other and there would be contradictions and limit-setting. Finally, language must be given to us by a creator, which is evidenced by the Quran's discussion of Islam being taught. Together, these arguments lead to the conclusion that there is only one creator, and that this creator is Allah.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses evidence that points to the existence of a sentient singular being, allah. This being has a will and choice, and is described in the Quran as one. This being is independent from everything else, and does not depend on anyone else for its existence. This being is incomparable, and there is no equivalent to allah. Based on these facts, it can be concluded that allah is a sentient singular being.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the need for a creator, and argues that this creator cannot be a non-sentient force. It also points out that the effect, which is the creation, is not always existing. The only explanation for this is that the creator willed it to happen.  also discusses fixed patterns within the universe, which indicate that the creator has intentionality and awareness.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses three arguments for the existence of a creator: that there are fixed patterns within the universe, that an eternal cause is necessary for temporal effects, and that a creator must have a will. It points out that if there are more than one creator, then each will limit the other and there would be contradictions and limit-setting. Finally, language must be given to us by a creator, which is evidenced by the Quran's discussion of Islam being taught. Together, these arguments lead to the conclusion that there is only one creator, and that this creator is Allah.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses evidence that points to the existence of a sentient singular being, allah. This being has a will and choice, and is described in the Quran as one. This being is independent from everything else, and does not depend on anyone else for its existence. This being is incomparable, and there is no equivalent to allah. Based on these facts, it can be concluded that allah is a sentient singular being.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

@@ -4,29 +4,28 @@
 
 ## Description
 
-Listen as audio: https://soundcloud.com/sapienceinstitute/londoniyyah-part-27-qadr-mohammed-hijab?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+Listen as audio: <https://soundcloud.com/sapienceinstitute/londoniyyah-part-27-qadr-mohammed-hijab?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing>
 
 —
 Help us educate and mentor others to share the faith academically.
-Donate now: https://sapienceinstitute.org/donate/ 
+Donate now: <https://sapienceinstitute.org/donate/>
 
-Free online courses: https://learn.sapienceinstitute.org/
+Free online courses: <https://learn.sapienceinstitute.org/>
 
-Free books: https://sapienceinstitute.org/books/ 
+Free books: <https://sapienceinstitute.org/books/>
 
-Have doubts? Book a mentor: https://sapienceinstitute.org/lighthouse/
+Have doubts? Book a mentor: <https://sapienceinstitute.org/lighthouse/>
 
-Listen (Podcast): https://sapienceinstitute.org/sapientvoices/
+Listen (Podcast): <https://sapienceinstitute.org/sapientvoices/>
 
 Follow:
-– Facebook: https://facebook.com/sapienceinstitute.org/ 
-– Twitter: https://twitter.com/SapienceOrg/ 
-– Instagram: https://instagram.com/sapienceinstitute/ 
+– Facebook: <https://facebook.com/sapienceinstitute.org/>
+– Twitter: <https://twitter.com/SapienceOrg/>
+– Instagram: <https://instagram.com/sapienceinstitute/>
 
-Articles, speaker requests & more: https://sapienceinstitute.org/
+Articles, speaker requests & more: <https://sapienceinstitute.org/>
 
 ## Summary of [Londoniyyah - Part 27 - Qadr | Mohammed Hijab](https://www.youtube.com/watch?v=UrSuNcmxXLg)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -34,23 +33,26 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
  discusses the issue of free will and determinism, and how they are incompatible. argues that this is a problem for all schools of thought, and that when debating Christians and Jews, atheists often don't bring up this issue.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the issue of determinism and human free will, and how muslims believe in two different levels of qatar- one in which Allah knows the future, has willed it, and written it, and the other in which He has created it. The history of everything was written in a tablet, which acts as a nucleus for all of existence.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the issue of determinism and human free will, and how muslims believe in two different levels of qatar- one in which Allah knows the future, has willed it, and written it, and the other in which He has created it. The history of everything was written in a tablet, which acts as a nucleus for all of existence.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Mohammed Hijab discusses the liberal theory of political liberalism. He argues that human beings have free will, which is unencumbered by determinism. The compatibilist position, which is the majority view among Muslims, is that humans are in control of their own actions, but that other people's actions are also determined by past events. This philosophical position is seen as a strong argument against free will, but it is also seen as a foundation of western rationalism.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Mohammed Hijab discusses the two positions of compatibilism, which are that there is an existence of all four things that Mohammed Hijab has spoken about--god's knowledge of the future, god's writing of the future, god's willing of the future, and creating the future--but at the same time there is human free will. He explains that, although these positions seem to be compatible, there are problems with them because free will cannot exist in a deterministic world. Hijab also discusses Harry Frankfurt's example of a jumper being pushed into a swimming pool at the same velocity and force that is required for them to go in with the same motion, and how this shows that free will cannot exist in a deterministic world.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Calvinism stresses God's sovereignty over human action, and can be seen as similar to asharazan, a form of Islam. Arminianism, which stresses human free will, is different from Calvinism. Molinism, a position advocated by William Lane Craig, is similar to the armenian position, which holds that God does not know the future completely.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** The Londoniyyah group was a Salafi sect that rejected the concept of divine predetermination of future events. They also believed that humans were free to choose their actions, contrary to the Ashari and Maturidi schools of thought. The group flourished during the early days of Islam, but eventually disappeared due to disagreements over theological concepts.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** The Ashari Muslims believe that Allah is in control of everything, but there are points in a person's life when Allah gives them permission to make choices. This is called casp, or acquisition. The problem with occasionalism is that it does not solve any major issues, and it creates other issues.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses the issue of free will, and how it is argued that God does not interfere with our free will. It argues that the strength of the argument is that the responsibility is on the slave - the owner is not aware of the slave's actions. The weakness of the argument is that it is still possible for the slave's actions to be stopped by God at any time.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses the limitations of analogies in explaining the concept of slavery in Islam. He argues that the slave is actually autonomous due to the step-owner's connection to him, and goes on to say that analogies reduce the issue to a very small point in time.
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses the issue of free will, and how it is argued that God does not interfere with our free will. It argues that the strength of the argument is that the responsibility is on the slave - the owner is not aware of the slave's actions. The weakness of the argument is that it is still possible for the slave's actions to be stopped by God at any time.
+* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses the limitations of analogies in explaining the concept of slavery in Islam. He argues that the slave is actually autonomous due to the step-owner's connection to him, and goes on to say that analogies reduce the issue to a very small point in time.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>**  Mohammed Hijab discusses the idea of divine determinism, or the belief that everything in the universe is ultimately controlled by God. He goes on to argue that, while determinism is internally consistent, it has an "incoherence of the libertarian positions" as well because they cannot explain how human beings can act differently under the same circumstances despite having the same experience.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the principle of difference, which states that there are some things which if two people have the same experiences and whatever it is they were active in, they cannot say that they will act exactly the same way. This establishes the principle of free will. The hadith that is used to illustrate this principle is the one about the rain falling on different parts of the earth and bringing forth different amounts of grass and herbs. Another hadith is about a man who understands the religion of Allah and gets benefit from it, but who doesn't accept Allah's guidance. This hadith is used to illustrate the principle of difference, which states that there are some things which if two people have the same experiences and whatever it is they were active in, they cannot say that they will act exactly the same way.
+* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Discusses the principle of difference, which states that there are some things which if two people have the same experiences and whatever it is they were active in, they cannot say that they will act exactly the same way. This establishes the principle of free will. The hadith that is used to illustrate this principle is the one about the rain falling on different parts of the earth and bringing forth different amounts of grass and herbs. Another hadith is about a man who understands the religion of Allah and gets benefit from it, but who doesn't accept Allah's guidance. This hadith is used to illustrate the principle of difference, which states that there are some things which if two people have the same experiences and whatever it is they were active in, they cannot say that they will act exactly the same way.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>**  the speaker explains the problems with libertarian and determinism theories. First, the speaker argues that libertarianism does not have internal consistency, because it does not explain why things have causes and effects. Second, determinism does not have the full explanatory scope needed to explain human free will and the principle of difference. Finally, the speaker explains that the existence of determinism and human free will is impossible, due to these two things contradicting each other.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses how the two things which must exist in order for human free will to exist - independent choice and divine determinism - are not contradictory, but incompatable. They note that this is a problem for all schools of thought, and that when debating Christians and Jews, atheists often don't bring up this issue.
+* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Discusses how the two things which must exist in order for human free will to exist - independent choice and divine determinism - are not contradictory, but incompatable. They note that this is a problem for all schools of thought, and that when debating Christians and Jews, atheists often don't bring up this issue.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:05:00</a>
 
 Mohammed Hijab discusses how a robust theory of theological determinism can help people cope with difficult events in their lives. He cites a hadith which states that "all of [a believer's] affairs are good," and goes on to say that this is not the case for anyone except for the believer. He also discusses the idea of free will, and how it can help people cope with events in their life that they may see as unfair or undeserved.
 
-**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>* Discusses how a robust theory of theological determinism can explain events such as cancer and the coronavirus, and how this understanding can help people cope with them. He cites a hadith which states that "all of [a believer's] affairs are good," and goes on to say that this is not the case for anyone except for the believer. He also discusses the idea of free will, and how it can help people cope with events in their life that they may see as unfair or undeserved.
+**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Discusses how a robust theory of theological determinism can explain events such as cancer and the coronavirus, and how this understanding can help people cope with them. He cites a hadith which states that "all of [a believer's] affairs are good," and goes on to say that this is not the case for anyone except for the believer. He also discusses the idea of free will, and how it can help people cope with events in their life that they may see as unfair or undeserved.
+
 * **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>**  covers the meaning of Qadr, or "night." Mohammed Hijab discusses how Qadr can be used to improve one's life.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

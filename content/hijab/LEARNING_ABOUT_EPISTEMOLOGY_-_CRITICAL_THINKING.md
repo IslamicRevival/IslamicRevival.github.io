@@ -2,24 +2,23 @@
 
 <iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/qu536euyd2c'></iframe>## Description
 
-***Donate Support the Dawah:*** 
-https://www.launchgood.com/supportsalam
+***Donate Support the Dawah:***
+<https://www.launchgood.com/supportsalam>
 
-***Subscribe to our new channel:*** 
-https://www.youtube.com/channel/UCVe9scgFCo97IEWj0I37Ozg 
+***Subscribe to our new channel:***
+<https://www.youtube.com/channel/UCVe9scgFCo97IEWj0I37Ozg>
 
-Website www.salam.org.uk 
+Website www.salam.org.uk
 
-Instagram salam.initiative 
-https://www.instagram.com/salam.initiative
+Instagram salam.initiative
+<https://www.instagram.com/salam.initiative>
 
-Twitter @InitiativeSalam 
-https://twitter.com/InitiativeSalam
+Twitter @InitiativeSalam
+<https://twitter.com/InitiativeSalam>
 
 MOHAMED HIJAB ALI DAWAH
 
 ## Summary of [LEARNING ABOUT EPISTEMOLOGY? - CRITICAL THINKING](https://www.youtube.com/watch?v=qu536euyd2c)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -28,11 +27,12 @@ MOHAMED HIJAB ALI DAWAH
  "Learning About Epistemology? - Critical Thinking" discusses the importance of gaining knowledge from both within and outside oneself. Jorah discusses how emotions can fit into the context of experiential knowledge, and how first-person experiences are important in epistemology.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  the presenter introduces the topic of epistemology, and discusses the three learning objectives for the series. She then asks a basic question: what is knowledge? The presenter provides several answers, but asks the audience to think about their own answer. Next, the presenter introduces the topic of concentration and asks the audience to think about how they come to know things. Finally, the presenter asks the audience to think about how to acquire knowledge.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** This 1-paragraph summary of the video "Learning About Epistemology? - Critical Thinking" discusses the importance of gaining knowledge from both within and outside oneself. Jorah discusses how emotions can fit into the context of experiential knowledge, and how first-person experiences are important in epistemology.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the difference between knowledge acquired through the senses and knowledge acquired through other means, such as instinct. It also discusses the nature vs. nurture debate, and how some people believe that Muhammad was taught by instinct.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the concept of epistemology, which is the study of knowledge. It discusses the various ways in which knowledge can be detected, and concludes that there is no way to detect knowledge that does not exist in the material world.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the difference between knowledge acquired through the senses and knowledge acquired through other means, such as instinct. It also discusses the nature vs. nurture debate, and how some people believe that Muhammad was taught by instinct.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the concept of epistemology, which is the study of knowledge. It discusses the various ways in which knowledge can be detected, and concludes that there is no way to detect knowledge that does not exist in the material world.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>**  philosopher and educator, John Peacocke, discusses the concept of doubt, and how it relates to knowledge. He explains that doubt exists when there is a lack of full knowledge, and that reasonable doubt is when something goes against logical principles. Peacocke also mentions Renee Renee Renee, a French philosopher who lived in the Renaissance period, and who wrote a book called the Meditations.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses the philosophy of doubt, and how it can be applied to various areas of knowledge. Six chapters are discussed, in which the author describes how he doubts certain knowledge that we take for granted. He gives the example of the five senses, and how he doubts whether they are truly functional. He ends the video by saying that there is one area of knowledge that he cannot doubt, and that is his own existence.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses the philosophy of doubt, and how it can be applied to various areas of knowledge. Six chapters are discussed, in which the author describes how he doubts certain knowledge that we take for granted. He gives the example of the five senses, and how he doubts whether they are truly functional. He ends the video by saying that there is one area of knowledge that he cannot doubt, and that is his own existence.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

@@ -4,16 +4,15 @@
 
 ## Description
 
-Cosmological Argument (Stanford Encyclopedia of Philosophy): https://plato.stanford.edu/entries/cosmological-argument/
+Cosmological Argument (Stanford Encyclopedia of Philosophy): <https://plato.stanford.edu/entries/cosmological-argument/>
 
 You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
+<https://www.patreon.com/Bloggingtheology>
 
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
 ## Summary of [Dr William Lane Craig Discusses God's Existence And The Historical Adam](https://www.youtube.com/watch?v=RCBG4Bx9HEI)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -22,6 +21,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
  Dr. William Lane Craig discusses the historicity of Adam and Eve, the fall of Adam and Eve, and the origins of humanity. He argues that the biblical stories exhibit family resemblances and mythological imagery, and that while some details of the story are meant to be taken figuratively, the fall itself is historicity. He also discusses how to discern which details of the story are meant to be taken figuratively and which are meant to be taken historically.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The historical Adam is a topic of debate between Christian and Muslim theologians. Dr. William Lane Craig discusses the historical Adam and the cosmological argument for the existence of God. He explains that premise one of the argument is uncontested, but that there are several objections to the argument. He argues that premise two of the argument is true, and that from this, several theologically striking properties of the uncaused first cause of the universe emerge. He concludes that the argument is successful and proves the existence of a beginning, last, changeless, spaceless, timeless, personal creator of the universe.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Dr. William Lane Craig discusses the principle of causation and how it applies to the existence of God. He points out that, according to the principle, everything that begins to exist has a cause, which appears to break down when things seemingly just come into existence out of nothing. However, he contends that this is not actually the case, as there are still ways for things to come into existence without a prior cause. He also points out that Lawrence Krauss's misuse of science in his book "A Universe from Nothing" does not undermine the principle. In fact, Craig argues that the principle is quite secure and there is no good reason to doubt its truth. Finally, he addresses an objection that suggests the conclusion of the argument (that an uncaused personal creator of the universe exists) is not a premise, which would seemingly lead to a non-sequitur. Craig responds by explaining that the conclusion is actually a premise, as it is the first premise of the argument. He goes on to argue that this god is still a way off from being the God of classical theism, let alone the God of the Abrahamic faiths.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Dr. William Lane Craig discusses the arguments for and against the historicity of Jesus Christ, and how most historians agree on the central historical facts surrounding his resurrection. He also discusses the importance of the disciples' belief in Jesus' resurrection, and how it establishes the plausibility of the argument for the existence of God.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Dr. William Lane Craig discusses the biblical and scientific evidence for the existence of Adam. He argues that the scriptural basis for Adam's existence is important for understanding the beginning of the Bible.

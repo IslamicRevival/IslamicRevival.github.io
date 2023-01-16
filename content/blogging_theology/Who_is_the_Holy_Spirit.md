@@ -6,10 +6,9 @@
 
 Who is the Holy Spirit?
 
-I read from 'Islamic Jesus: How the King of the Jews Became a Prophet of the Muslims' by Mustafa Akyol https://www.amazon.co.uk/Islamic-Jesus-International-Mustafa-Akyol/dp/1250199352/ref=sr_1_1?keywords=The+Islamic+Jesus%3A+How+the+King+of+the+Jews+Became+a+Prophet+of+the+Muslims&qid=1626106408&sr=8-1
+I read from 'Islamic Jesus: How the King of the Jews Became a Prophet of the Muslims' by Mustafa Akyol <https://www.amazon.co.uk/Islamic-Jesus-International-Mustafa-Akyol/dp/1250199352/ref=sr_1_1?keywords=The+Islamic+Jesus%3A+How+the+King+of+the+Jews+Became+a+Prophet+of+the+Muslims&qid=1626106408&sr=8-1>
 
 ## Summary of [Who is the Holy Spirit?](https://www.youtube.com/watch?v=VGd59ASK_VM)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -18,6 +17,7 @@ I read from 'Islamic Jesus: How the King of the Jews Became a Prophet of the Mus
 The Holy Spirit is a force that is mentioned in both the Quran and Christianity. In the Quran, it is used as a corrective and polemical force, while in Christianity it is the transmitter of the revelation from God to Jesus. Gabriel plays a role in transmitting the revelation to Jesus in both religions, meaning that the term "the holy spirit" can be used in both Christianity and the Quran.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The video discusses who the Holy Spirit is in the Quran and Christianity. It quotes a religious scholar who notes that the Quran may have a corrective and polemical intent in its use of the term "holy spirit." Al-Razi believes that this force is the angel Gabriel, which explains why Jesus is called the word of God in the Quran.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The Holy Spirit is a term used in Christianity to describe the transmitter of the revelation from God to Jesus. Gabriel also played a role in transmitting the revelation to Jesus, meaning that the term "the holy spirit" can be used in both Christianity and the Quran.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

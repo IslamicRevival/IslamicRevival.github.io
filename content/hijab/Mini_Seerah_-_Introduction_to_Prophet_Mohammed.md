@@ -4,16 +4,15 @@
 
 ## Description
 
-Visit https://www.naturesblends.com/ and use hijab10 for a 10% discount. 
+Visit <https://www.naturesblends.com/> and use hijab10 for a 10% discount.
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
-My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
+My book: <https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/>
 
 ## Summary of [Mini Seerah - Introduction to Prophet Mohammed](https://www.youtube.com/watch?v=0reCmOZBRZE)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -22,27 +21,30 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
  provides a brief introduction to the Prophet Mohammed, discussing his background, life, and mission. It also introduces his wife, Hadija, and discusses the significance of the Surah of Warnings.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The purpose of the Mini Seerah series is to provide a brief introduction to Prophet Mohammed and the various events in his life.  covers the arabic sources which mention Muhammad by name, as well as John Fennick, a 7th century historian, who mentions him by name and describes him as an instructor and guide for the people. The importance of understanding the culture of the Arabs in the 7th century is highlighted, as is the importance of historical critical thinking.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** In the seventh century, there were two major empires in the world: the Persian Empire and the Roman Empire. The Arabia Peninsula was lodged in the middle of these two places, and it didn't have well-developed resources yet, such as oil. It was a hot, desert climate, and there was no federal government or organized system of governance in place. However, there were still strong warrior cultures and traditions present. One of the most famous warrior poets of this era, Anthony Vince, wrote about the spirit of war and bravery in his poems. He speaks of wanting to be with "that personification" (i.e. a beautiful woman) outside of the "dar" (i.e. the religious authorization) of the house of Ablah. Islam, through its transformative effect, allowed Vince to be with his love, Hablea, despite societal norms.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  introduces Prophet Mohammed and discusses his background and unique spiritual gifts. It also discusses how his tribe and lineage influenced his work and ministry.  then moves on to discuss Prophet Mohammed's life and mission, including his spiritual journey and open heart surgery.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The prophet Mohammed was known for his trustworthiness and wisdom. He was a shepherd, trader, and arbitrator. He also received revelation, which showed him the spiritual straight path. After his prophethood, he guided the people with his words and deeds.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>**  introduces Prophet Mohammed's wife, Hadija, and her role in his life. Hadija was older than Mohammed and was respected by him. One day, while he was in the cave, something grabbed and restrained him. The thing said, "Read in thy name of thy lord who created created the human being from a clot." Mohammed was shocked and then freed.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>**  introduces Prophet Mohammed's first revelation, which was intense and overwhelming. Khadijah reaffirms that the experience was not punishment from God, and that the prophet is a good man who always feels insecure.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>**  introduces the concept of "transitory sadness" and explains that it is a type of depression that lasts for a brief period of time. The Prophet Mohammed (P.B.U.H.) reportedly experienced this type of depression, which he referred to as "subhanallah."
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses significance of surah 74, which is known as the "Surah of Warnings." The surah contains instructions for Muslims to warn their close family and friends about the dangers of sinning. This is especially important for those who have experienced periods of sadness and depression.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses Prophet Mohammed's 13-year long journey of persecution and how it helped him gain and keep support from the people. It also mentions the importance of keeping a positive attitude in difficult times, and how the Prophet's uncle, who was sympathetic to him, helped prevent him from being killed.
+* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses significance of surah 74, which is known as the "Surah of Warnings." The surah contains instructions for Muslims to warn their close family and friends about the dangers of sinning. This is especially important for those who have experienced periods of sadness and depression.
+* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses Prophet Mohammed's 13-year long journey of persecution and how it helped him gain and keep support from the people. It also mentions the importance of keeping a positive attitude in difficult times, and how the Prophet's uncle, who was sympathetic to him, helped prevent him from being killed.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  introduction to Prophet Mohammed covers his early life, how he became a leader in Medina, and some of the miracles he performed. The five prayers were revealed during his journey to Jerusalem.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The Islamic prayer is central to the Islamic faith and is believed to be a way to connect with God. Daily prayer is mandatory for Muslims, and five times a day is the most common time for prayer. The Prophet Mohammed shared the risk of battle with his companions, married older women with children, and married Aisha, the daughter of Abu Bakr.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  introduces Prophet Mohammed and explains how his victories in war established Islam as a dominant force in the Middle East. The treaty he drafted with the Jewish people, in which they profess their religion and Muslims theirs and agree not to sin against each other, is an example of this. The jizya, a discriminatory tax levied against the Jews, is explained as having a different name because it has a spiritual function as well.  then goes on to discuss the importance of this treaty and how it facilitated the atmosphere for people of other faiths living in Medina.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:30:00</a>
 
  introduces the life of Prophet Mohammed and covers some of his accomplishments. It discusses his relationships with his wives and children, as well as his religious beliefs and practices.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>**  introduces the concept of seerah, or the prophet Mohammed's life story. It covers six points which are contrary to the myths commonly perpetuated about Muslims. The treaty between the prophet and various Jewish tribes was an important event in Islamic history, and it protected Medina from attacks. The treaty was respected and upheld by both sides, and the signatories were not hindered from seeking revenge or legal redress in case of conflict.
+
 * **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>**  opens with a description of a "mini seerah" of events in the life of Prophet Mohammed, including the revelation to him of the Treaty of Hudaybiyyah, the Prophet's victory over the Quraysh at Badr, and the Prophet's marriages.  goes on to mention the Prophet's military successes, and how his treaties and law and order ensured the safety of the Muslim community.  then discusses the treachery of some of the combatants in the Muslim community during the Prophet's lifetime, and how they were executed in clear surrender.  ends with a discussion of the expansion of Islam after the Prophet's death, and how it was due to the support of God and the allegiance of the Prophet's followers.
 * **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>**  introduces Prophet Mohammed and discusses some of his accomplishments as a leader and peacemaker. notes that many Muslims believe that Islam is capable of creating peace, and that any time now any Muslim government in history can make peace agreements with any non-Muslim country. This understanding makes us more aware of the true nature of Islam, and helps to dispel some of the myths about the religion.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>* Discusses Prophet Mohammed's propensity for both violence and peaceful negotiation. It also discusses the importance of contracts in Islam and how this tradition still exists today.
+* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** Discusses Prophet Mohammed's propensity for both violence and peaceful negotiation. It also discusses the importance of contracts in Islam and how this tradition still exists today.
 * **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>**  introduces the clash of civilization narrative and its main opponent, the narrative of peaceful Muslims. It goes on to explain that when Muhammad entered Mecca, he destroyed all 360 of the idols that the Arabs had become known for, and he married an Arab. He then made a final speech in which he talked about racism, women's rights, and equality between black and white men.  skips over several events in Muhammad's life, but mentions that he made a speech in which he declared there was no superiority over a white man over a black man.
-* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>* Discusses prophet Mohammed's farewell speech and the ayat (verses) of the Quran which say that Islam has been perfected, that allah is pleased with Islam, and that the prophet was accepted as a martyr. Ibn Abbas, a cousin of the prophet, predicted that the prophet would die soon and people were upset, but he was right.
+* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** Discusses prophet Mohammed's farewell speech and the ayat (verses) of the Quran which say that Islam has been perfected, that allah is pleased with Islam, and that the prophet was accepted as a martyr. Ibn Abbas, a cousin of the prophet, predicted that the prophet would die soon and people were upset, but he was right.
 * **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>**  introduces Prophet Mohammed and discusses his life and accomplishments. It covers his relationship with his wives, children, and others, as well as his religious beliefs and practices.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

@@ -2,25 +2,25 @@
 
 <iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/PAQ-oIQ5OA8'></iframe>## Description
 
-The TAP team are joined with Dr. Norman Finkelstein to discuss the current Israeli aggression against Masjid al Aqsa and the attacks on Gaza. 
+The TAP team are joined with Dr. Norman Finkelstein to discuss the current Israeli aggression against Masjid al Aqsa and the attacks on Gaza.
 
-○ Are Hamas to blame for firing rockets? 
-○ Is Sheikh Jarrah just a legal dispute? 
-○ Was invading masjid al Aqsa justified? 
+○ Are Hamas to blame for firing rockets?
+○ Is Sheikh Jarrah just a legal dispute?
+○ Was invading masjid al Aqsa justified?
 ○ These amongst other questions are addressed
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -28,41 +28,39 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
-
-#palestine #justice #NormanFinkelstein
+# palestine #justice #NormanFinkelstein
 
 ## Summary of [Palestine Emergency Address with Dr. Norman Finkelstein | Thought Adventure Podcast](https://www.youtube.com/watch?v=PAQ-oIQ5OA8)
-
 
 *
 
@@ -72,44 +70,49 @@ Gmail: hello.tapodcast@gmail.com
 
  Dr. Norman Finkelstein discusses the Israeli-Palestinian conflict and its history. He argues that the current situation is not equal, with the occupiers and the occupied not being on the same level. He also criticizes the media's portrayal of the conflict, and encourages people to learn more about the injustices suffered by the Palestinian people.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the current situation in Palestine and how the narrative being pushed by the general public is not accurate. They discuss how the occupiers and the occupied are not equal and how the situation is not resolved by simply stopping fighting.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** , Norman Finkelstein discusses the Israeli-Palestinian conflict and the media's portrayal of the two sides. He argues that the history of the conflict and the occupation of Palestinian land is illegitimate, and that the focus on Hamas and Palestinian terrorism obscures the extent to which Israel is responsible for the violence. He also encourages people to learn more about the history of the region and the injustices suffered by the Palestinian people.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  Dr. Norman Finkelstein discusses the history of the Palestinian-Israeli conflict and how it has evolved over time. He also discusses the concept of two states fighting one another and how it is not the case that this conflict has been ongoing for thousands of years. Finkelstein discusses the current situation in Gaza and how it is surrounded by all sides, making it difficult for Palestinians to respond to Israeli provocations.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the history of Palestine and how it has been colonized by different groups, culminating in the arrival of the Zionist movement and their desire for a Jewish state there. He also mentions that the Zionist movement was founded by a man known for thinking that Jews were a specific people and that they needed their own homeland. This idea was met with opposition by the Ottoman Empire, which collapsed before World War I. The Zionist movement then used the chaos of the war to carry out their plan for a Jewish state, which met with some opposition but ultimately succeeded.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Dr. Norman Finkelstein is a political scientist and activist who has written extensively on the Palestinian-Israeli conflict. He has also been influential in raising awareness of the issue among the general public.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Norman Finkelstein discusses the Israeli right to self-defense against terrorists in Palestine. He argues that, before the blockade of Gaza, Gaza was a "dreamland" due to the large number of refugees and children living there. The blockade began in 2006 in retaliation for Palestinian elections won by the Hamas party, and has been heightened in recent years due to attempted coups.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** In his speech "Palestine Emergency Address with Dr. Norman Finkelstein," Norman Finkelstein discusses the situation in Gaza, which he describes as a concentration camp. He argues that the Israeli military has the right to self-defense against Hamas, the Palestinian militant group that controls Gaza.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** , Dr. Norman Finkelstein discusses the Gaza concentration camp and the right of Israel to self-defense. He points out that, according to human rights organizations, Israel committed a crime against humanity when it expelled the Palestinian refugees from their homes in 1947. Finkelstein proposes that Israel start from the beginning by obeying the law and treating the Palestinians like human beings. If Israel can do that, he says, then perhaps the two sides can live together peacefully.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Dr. Norman Finkelstein discusses the disproportionate number of Palestinian homes destroyed by Israeli forces in comparison to Israeli homes destroyed by Hamas rockets. He also notes that Israel has closed down the Gaza airport multiple times in the past.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  Norman Finkelstein discusses the Israel-Palestine conflict and how western governments give their utmost support to Israel while ignoring the inhumane acts that Israel commits. He also points out that the conflict is multi-dimensional and that it's very hard to sort out motives.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** , Dr. Norman Finkelstein discusses the Israeli-Palestinian conflict and the prospects for peace. He notes that there are many factors at play, and that it will likely take hours to sort them out. He also criticizes President Obama for not taking stronger action against Israel.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Dr. Norman Finkelstein discusses the Israeli-Palestinian conflict, mentioning the recent violence in Sheikh Jarrah and how it mirrors the conflict's historical roots. He says that the United States should not support Israel blindly, as it may be pulling the country away from its goals.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the current situation in Palestine and how the narrative being pushed by the general public is not accurate. They discuss how the occupiers and the occupied are not equal and how the situation is not resolved by simply stopping fighting.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** , Norman Finkelstein discusses the Israeli-Palestinian conflict and the media's portrayal of the two sides. He argues that the history of the conflict and the occupation of Palestinian land is illegitimate, and that the focus on Hamas and Palestinian terrorism obscures the extent to which Israel is responsible for the violence. He also encourages people to learn more about the history of the region and the injustices suffered by the Palestinian people.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  Dr. Norman Finkelstein discusses the history of the Palestinian-Israeli conflict and how it has evolved over time. He also discusses the concept of two states fighting one another and how it is not the case that this conflict has been ongoing for thousands of years. Finkelstein discusses the current situation in Gaza and how it is surrounded by all sides, making it difficult for Palestinians to respond to Israeli provocations.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the history of Palestine and how it has been colonized by different groups, culminating in the arrival of the Zionist movement and their desire for a Jewish state there. He also mentions that the Zionist movement was founded by a man known for thinking that Jews were a specific people and that they needed their own homeland. This idea was met with opposition by the Ottoman Empire, which collapsed before World War I. The Zionist movement then used the chaos of the war to carry out their plan for a Jewish state, which met with some opposition but ultimately succeeded.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Dr. Norman Finkelstein is a political scientist and activist who has written extensively on the Palestinian-Israeli conflict. He has also been influential in raising awareness of the issue among the general public.
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Norman Finkelstein discusses the Israeli right to self-defense against terrorists in Palestine. He argues that, before the blockade of Gaza, Gaza was a "dreamland" due to the large number of refugees and children living there. The blockade began in 2006 in retaliation for Palestinian elections won by the Hamas party, and has been heightened in recent years due to attempted coups.
+- **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** In his speech "Palestine Emergency Address with Dr. Norman Finkelstein," Norman Finkelstein discusses the situation in Gaza, which he describes as a concentration camp. He argues that the Israeli military has the right to self-defense against Hamas, the Palestinian militant group that controls Gaza.
+- **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** , Dr. Norman Finkelstein discusses the Gaza concentration camp and the right of Israel to self-defense. He points out that, according to human rights organizations, Israel committed a crime against humanity when it expelled the Palestinian refugees from their homes in 1947. Finkelstein proposes that Israel start from the beginning by obeying the law and treating the Palestinians like human beings. If Israel can do that, he says, then perhaps the two sides can live together peacefully.
+- **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Dr. Norman Finkelstein discusses the disproportionate number of Palestinian homes destroyed by Israeli forces in comparison to Israeli homes destroyed by Hamas rockets. He also notes that Israel has closed down the Gaza airport multiple times in the past.
+- **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  Norman Finkelstein discusses the Israel-Palestine conflict and how western governments give their utmost support to Israel while ignoring the inhumane acts that Israel commits. He also points out that the conflict is multi-dimensional and that it's very hard to sort out motives.
+- **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** , Dr. Norman Finkelstein discusses the Israeli-Palestinian conflict and the prospects for peace. He notes that there are many factors at play, and that it will likely take hours to sort them out. He also criticizes President Obama for not taking stronger action against Israel.
+- **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Dr. Norman Finkelstein discusses the Israeli-Palestinian conflict, mentioning the recent violence in Sheikh Jarrah and how it mirrors the conflict's historical roots. He says that the United States should not support Israel blindly, as it may be pulling the country away from its goals.
+
 ### <a onclick="modifyYTiframeseektime('7200')">01:00:00-02:00:00</a>
 
  Dr. Norman Finkelstein discusses the history of the Israeli occupation of Palestine and the effect it has had on the Palestinian people. He highlights the recent events in Shergir, where an Israeli settler killed two Palestinians and injured several others, and how the situation is part of a larger trend of Israeli aggression against Palestinians. Dr. Finkelstein urges people to learn more about the history of the occupation and the effect it has had on the Palestinians before making any decisions about the situation.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** In 1948, Israel had two goals: to create a state with a Jewish majority and to dispossess Palestinians of their land. Israel's process of dispossession never stopped, and Palestinians now comprise 19% of Israel's population. The West Bank and East Jerusalem are also occupied territory, which has led to the same process of land dispossession.
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>**  Dr. Norman Finkelstein discusses the 73-year-long Israeli occupation of Palestine and the negative effects it has had on the Palestinian people. He discusses the recent events in Shergir, where an Israeli settler killed two Palestinians and injured several others, and how the situation is part of a larger trend of Israeli aggression against Palestinians. Dr. Finkelstein urges people to learn more about the history of the occupation and the effect it has had on the Palestinians before making any decisions about the situation.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Dr. Norman Finkelstein discusses the Palestinian emergency address he gave at the al-Aqsa mosque on the holiest day of Ramadan, in which he condemns the Palestinians for their arrogance and obnoxiousness. He also mentions the student who attempted to pull the "jewish card" during his speech. Finkelstein's comments about Jews and Nazis are extremely offensive and hurtful to those in the audience who are Jewish, and he has since apologized.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** Dr. Norman Finkelstein addresses the double standards of Israeli law regarding land disputes, arguing that the Palestinians have no legal recourse. He also references Sheikh Jarrah, a prominent political activist who was recently executed by Israel.
-* **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>**  Norman Finkelstein discusses the history of the Palestinian conflict and the Israeli occupation of Palestinian land. He highlights the UN Partition Plan of 1947, which gave the Palestinians only a fraction of their current territory and limited their ability to govern themselves. Israel has slowly expanded its control over the Palestinians over the years, using the legal system to promote the change of demographics and remove Palestinians from their land while it is being unequally applied.
-* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>**  Dr. Norman Finkelstein discusses the Israeli settlements in the West Bank and their purpose. He also mentions that the settlements are illegal under international law, and that the Israeli military frequently defends the settlers from the Palestinians. He notes that these settlements are part of a larger effort by the Zionists to control the Palestinians and drive them out of their homeland.
-* **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** Dr. Norman Finkelstein discusses the Israeli occupation of Palestine and the legal issues surrounding evictions. He points out that the occupation is a recent event, and that evictions carried out by the Israeli government are not unique to this situation.
-* **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>**  Dr. Norman Finkelstein discusses the history of Zionism and how it is not a religious movement, but a product of British imperialism. He also points out that many orthodox Jews are against Zionism because of its treatment of non-jews.
-* **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** Palestine campaigner and professor Dr. Norman Finkelstein delivers a passionate and impassioned speech on the ongoing Israeli occupation of Palestine. He criticizes the British Empire for its role in creating the Palestinian refugee crisis, and calls on Muslims and Arabs to stand up to Israel and help the Palestinians. Finkelstein also notes the severe economic disparities between Palestinian and Israeli towns and villages, and advocates for more Muslim involvement in the peace process.
-* **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** , Dr. Norman Finkelstein discusses the Palestinian issue and why it is not just an Islamic issue. He also discusses how Christians living in the occupied West Bank suffer from similar oppression to Muslims, and how the issue is not just about al-Aqsa Mosque.
-* **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** , Dr. Norman Finkelstein discusses the oppression of the Palestinians and how it is comparable to the persecution of Jews during the Holocaust. He also points out that there is no comparison between the situation of the Palestinians and the Muslims in Europe, as the Palestinians were colonized by the British and later given land by the British in return for acts of terrorism.
-* **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Dr. Norman Finkelstein discusses the history and current situation of Palestine and the Israeli-Palestinian conflict. He stresses that the issue is not just about a territorial dispute but about an ideological conflict between Islam and Christianity. He also argues that action by the Muslim world is necessary to liberate Palestinian Muslims from Israeli oppression.
+
+- **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>**  Dr. Norman Finkelstein discusses the 73-year-long Israeli occupation of Palestine and the negative effects it has had on the Palestinian people. He discusses the recent events in Shergir, where an Israeli settler killed two Palestinians and injured several others, and how the situation is part of a larger trend of Israeli aggression against Palestinians. Dr. Finkelstein urges people to learn more about the history of the occupation and the effect it has had on the Palestinians before making any decisions about the situation.
+- **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Dr. Norman Finkelstein discusses the Palestinian emergency address he gave at the al-Aqsa mosque on the holiest day of Ramadan, in which he condemns the Palestinians for their arrogance and obnoxiousness. He also mentions the student who attempted to pull the "jewish card" during his speech. Finkelstein's comments about Jews and Nazis are extremely offensive and hurtful to those in the audience who are Jewish, and he has since apologized.
+- **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** Dr. Norman Finkelstein addresses the double standards of Israeli law regarding land disputes, arguing that the Palestinians have no legal recourse. He also references Sheikh Jarrah, a prominent political activist who was recently executed by Israel.
+- **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>**  Norman Finkelstein discusses the history of the Palestinian conflict and the Israeli occupation of Palestinian land. He highlights the UN Partition Plan of 1947, which gave the Palestinians only a fraction of their current territory and limited their ability to govern themselves. Israel has slowly expanded its control over the Palestinians over the years, using the legal system to promote the change of demographics and remove Palestinians from their land while it is being unequally applied.
+- **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>**  Dr. Norman Finkelstein discusses the Israeli settlements in the West Bank and their purpose. He also mentions that the settlements are illegal under international law, and that the Israeli military frequently defends the settlers from the Palestinians. He notes that these settlements are part of a larger effort by the Zionists to control the Palestinians and drive them out of their homeland.
+- **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** Dr. Norman Finkelstein discusses the Israeli occupation of Palestine and the legal issues surrounding evictions. He points out that the occupation is a recent event, and that evictions carried out by the Israeli government are not unique to this situation.
+- **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>**  Dr. Norman Finkelstein discusses the history of Zionism and how it is not a religious movement, but a product of British imperialism. He also points out that many orthodox Jews are against Zionism because of its treatment of non-jews.
+- **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** Palestine campaigner and professor Dr. Norman Finkelstein delivers a passionate and impassioned speech on the ongoing Israeli occupation of Palestine. He criticizes the British Empire for its role in creating the Palestinian refugee crisis, and calls on Muslims and Arabs to stand up to Israel and help the Palestinians. Finkelstein also notes the severe economic disparities between Palestinian and Israeli towns and villages, and advocates for more Muslim involvement in the peace process.
+- **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** , Dr. Norman Finkelstein discusses the Palestinian issue and why it is not just an Islamic issue. He also discusses how Christians living in the occupied West Bank suffer from similar oppression to Muslims, and how the issue is not just about al-Aqsa Mosque.
+- **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** , Dr. Norman Finkelstein discusses the oppression of the Palestinians and how it is comparable to the persecution of Jews during the Holocaust. He also points out that there is no comparison between the situation of the Palestinians and the Muslims in Europe, as the Palestinians were colonized by the British and later given land by the British in return for acts of terrorism.
+- **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Dr. Norman Finkelstein discusses the history and current situation of Palestine and the Israeli-Palestinian conflict. He stresses that the issue is not just about a territorial dispute but about an ideological conflict between Islam and Christianity. He also argues that action by the Muslim world is necessary to liberate Palestinian Muslims from Israeli oppression.
+
 ### <a onclick="modifyYTiframeseektime('8700')">02:00:00</a>
 
 In the video "Palestine Emergency Address with Dr. Norman Finkelstein | Thought Adventure Podcast," Dr. Norman Finkelstein discusses the need for a one-state solution to the Israeli-Palestinian conflict. He outlines the complexities of the issue and discusses the potential consequences of such a solution, including the possible establishment of an Islamic state in Palestine.
 
 **<a onclick="modifyYTiframeseektime('7200')">02:00:00</a>** Norman Finkelstein discusses the need for a one-state solution to the Israeli-Palestinian conflict, outlining the complexities of the issue. He also discusses the potential consequences of such a solution, including the possible establishment of an Islamic state in Palestine.
-* **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>**  "Palestine Emergency Address with Dr. Norman Finkelstein | Thought Adventure Podcast" discusses the Israeli Defense Forces (IDF) and their use of human rights violations against Palestinians. Dr. Norman Finkelstein discusses the history of Zionism and how it is an inherently racist idea. He also discusses how the Palestinian issue has been ongoing for 75 years, and how shamefully many Muslim governments are supporting Israel over the Palestinians.
-* **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>**  Dr. Norman Finkelstein discusses the position of the general public in relation to the Israeli-Palestinian conflict. He discusses the various perspectives held by various groups of people within the Jewish community, as well as the general public. Finkelstein points out that the Israeli flag is burned every year on the anniversary of the victory over the Palestinian "bad side," symbolizing the community's refusal to recognize the legitimacy of Israel.
-* **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>**  Norman Finkelstein interviews Sharif, a Muslim who lives in the West and has different opinions from those held by most Muslims in the Middle East. Sharif explains that under Islamic law, Muslims living in the West have greater rights than those living in the Middle East, and that distinctions are made based on religious observances. He also says that, contrary to popular belief, Muslims living in the West are not treated equally to those living in the Middle East, and that they can be punished for practices forbidden to Muslims in the Middle East, such as drinking alcohol.
-* **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>**  Palestinian author and speaker Norman Finkelstein discusses the number of children killed by Israeli forces, and how the Israeli government justifies its actions by citing self-defense. Finkelstein encourages viewers to take action on behalf of the Palestinians, and asks Allah to help them overcome their hardships.
-* **<a onclick="modifyYTiframeseektime('8700')">02:25:00</a>**  Dr. Norman Finkelstein discusses the current situation in Palestine and the need for international intervention. He also offers words of encouragement to those affected by the ongoing conflict.
+
+- **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>**  "Palestine Emergency Address with Dr. Norman Finkelstein | Thought Adventure Podcast" discusses the Israeli Defense Forces (IDF) and their use of human rights violations against Palestinians. Dr. Norman Finkelstein discusses the history of Zionism and how it is an inherently racist idea. He also discusses how the Palestinian issue has been ongoing for 75 years, and how shamefully many Muslim governments are supporting Israel over the Palestinians.
+- **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>**  Dr. Norman Finkelstein discusses the position of the general public in relation to the Israeli-Palestinian conflict. He discusses the various perspectives held by various groups of people within the Jewish community, as well as the general public. Finkelstein points out that the Israeli flag is burned every year on the anniversary of the victory over the Palestinian "bad side," symbolizing the community's refusal to recognize the legitimacy of Israel.
+- **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>**  Norman Finkelstein interviews Sharif, a Muslim who lives in the West and has different opinions from those held by most Muslims in the Middle East. Sharif explains that under Islamic law, Muslims living in the West have greater rights than those living in the Middle East, and that distinctions are made based on religious observances. He also says that, contrary to popular belief, Muslims living in the West are not treated equally to those living in the Middle East, and that they can be punished for practices forbidden to Muslims in the Middle East, such as drinking alcohol.
+- **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>**  Palestinian author and speaker Norman Finkelstein discusses the number of children killed by Israeli forces, and how the Israeli government justifies its actions by citing self-defense. Finkelstein encourages viewers to take action on behalf of the Palestinians, and asks Allah to help them overcome their hardships.
+- **<a onclick="modifyYTiframeseektime('8700')">02:25:00</a>**  Dr. Norman Finkelstein discusses the current situation in Palestine and the need for international intervention. He also offers words of encouragement to those affected by the ongoing conflict.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

@@ -4,19 +4,19 @@
 
 ## Description
 
-I ask Daniel about Yaqeen institute, his debate with Apostate prophet and more. 
+I ask Daniel about Yaqeen institute, his debate with Apostate prophet and more.
 
-Daniel's YouTube channel: https://www.youtube.com/channel/UCWdkdpfxKpfi6aGT8hwFXtA
+Daniel's YouTube channel: <https://www.youtube.com/channel/UCWdkdpfxKpfi6aGT8hwFXtA>
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
 
 0:00:00 Introduction
 0:00:54 Thoughts on the debate with Apostate Ridvan
 0:03:50 What approach to take with such enemies of Islam
-0:07:05 "What's the beef with Yaqeen institute?" 
+0:07:05 "What's the beef with Yaqeen institute?"
 0:12:30 Discussion on Yaqeen's LGBT article & its arguments
 0:20:34 Discussion on the Evolution article & arguments made for it
 0:26:45 MH starts plays 'devils advocate' to make the discussion more interesting & fruitful
@@ -27,7 +27,8 @@ Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
 0:48:50 On Homosexual punishments & how to answer questions, with nuance or unapologetically straight-forward?
 0:55:30 Finding common ground b/w DH's methodology & Yaqeen's methodology
 1:12:30 If Brother DH has considered formal debating? debates US vs UK?
-1:13:35 Deen presented unapologetically 
+1:13:35 Deen presented unapologetic
+ally
 1:17:33 Islam's emphasis on happiness & the nuclear family
 1:24:10 Research on Polygamy, Fun talk
 1:29:37 The argument for flogging
@@ -36,7 +37,6 @@ Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
 
 ## Summary of [Controversial Questions to Daniel Haqiqatjou (MH Podcast #5)](https://www.youtube.com/watch?v=ymdIblvOnXU)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
@@ -44,6 +44,7 @@ Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
 Daniel Haqiqatjou discusses how to deal with apostates and how to turn the tables on opponents in a debate. He also provides his thoughts on how to address doubts about Islam.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Daniel Haqiqatjou discusses his debate with an apostaterizwan on social media and his advice for dealing with enemies of Islam. Haqiqatjou says that the apostaterizwan was unprepared and had false confidence, which led to a humiliating experience for Haqiqatjou. He recommends turning the tables on opponents, even if they do not identify as religious themselves.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Daniel Haqiqatjou has had a number of controversial opinions, including his belief that jihad is not applicable in today's society. His detractors say that these opinions show a lack of faith in Islam, and that his approach to addressing these issues is too apologetic.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** of the video discusses how some research material written by Daniel Haqiqatjou is problematic and how he thinks Muslims should support same-sex marriage.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Daniel Haqiqatjou, a Muslim philosopher and MH host, discusses a hypothetical scenario in which a minority muslim group in a non-muslim land must argue for their rights, appealing to emotions rather than evidence. Jonathan Brown, a secularist, is interviewed and says this is a false analogy.
@@ -51,22 +52,24 @@ Daniel Haqiqatjou discusses how to deal with apostates and how to turn the table
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** The MH podcast discusses concerns about a British Muslim organization that has board members with counter-extremism experience, and which is advertising itself as an Islamic and orthodox traditional organization. The podcast argues that this raises many red flags, as the organization cannot be considered authoritative due to its heterodox message.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** of the YouTube video discusses articles written by Jonathan Brown, Justin Parrott, and others critical of Islam and its treatment of non-believers. He argues that these articles do a disservice to Muslims by confusing general criticisms of Islam with condemnation of specific individuals. He suggests that Jonathan Brown, Justin Parrott, and others should focus their criticisms on specific issues, and that Japin should focus on cleaning up their errors and correcting the doubts and problems their articles created in the community.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** The YouTube transcript excerpt provides a overview of the fifth podcast of theMH podcast series, in which Daniel Haqiqatjou discusses his study on the doubt effect and how it relates to iman. He also discusses how some articles in the study could be seen as a threat to muslims, and how the biggest source of doubt for muslims today is what religious muslims are doing, quote unquote, "causing the is the biggest source of doubt for the muslim community."
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses a study that found that a majority of Muslims in the West have doubts about their religion. The apostates in the study were found to be the most vocal in their doubts.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses why he believes that students of knowledge should be careful when addressing controversial topics, such as homosexuality and apostasy, because they may be giving straight-forward answers that do not reflect the complexity of the issue. He also discusses how Jonathan Brown's book on slavery and apostasy demonstrates this approach.
+* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses a study that found that a majority of Muslims in the West have doubts about their religion. The apostates in the study were found to be the most vocal in their doubts.
+* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Discusses why he believes that students of knowledge should be careful when addressing controversial topics, such as homosexuality and apostasy, because they may be giving straight-forward answers that do not reflect the complexity of the issue. He also discusses how Jonathan Brown's book on slavery and apostasy demonstrates this approach.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>**  controversial questions are asked to Daniel Haqiqatjou about the punishment for apostasy in Islam. Haqiqatjou provides a detailed explanation of the different schools of thought on the matter, including the Hanafi school of thought which allows for a state to not have a capital punishment for apostasy. He also discusses the conditional agreement between a Muslim country and a non-Muslim country, which allows for the relocation of apostates to a non-Muslim land.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Jonathan Brown's approach to addressing doubts about Islam is through nuance and providing a comprehensive solution, while Jonathan Brown's opponent believes that the core source of the problem is that Muhammad was a prophet and his teachings were based on the Hadith.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:40:00</a>
 
  features controversial questions to Daniel Haqiqatjou, a MH survivor and advocate. The questions focus on Haqiqatjou's experiences as a MH survivor, and raise questions about his account of the disease and its effects.
 
-**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>* Discusses controversial questions to Daniel Haqiqatjou, including whether slavery is historically justified, and whether mass conversion to Islam would result in people abandoning their religion. Haqiqatjou suggests that approaches that focus on the rule of law or on addressing the beliefs that underpin slavery may be more successful than those that focus on moralizing.
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>* Discusses how a one-on-one conversation with a believer should be approached in order to avoid compromising the religion. recommends using a systematic approach in order to build trust and confidence.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>* Discusses how some people may view Islam as a barbaric religion, and how it is important to have a "formal debate" to prove the opposing arguments wrong. He argues that having a Harvard education and Islamic training does not mean one is immune to criticism, and cites a hadith in support of his position.
+**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Discusses controversial questions to Daniel Haqiqatjou, including whether slavery is historically justified, and whether mass conversion to Islam would result in people abandoning their religion. Haqiqatjou suggests that approaches that focus on the rule of law or on addressing the beliefs that underpin slavery may be more successful than those that focus on moralizing.
+
+* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Discusses how a one-on-one conversation with a believer should be approached in order to avoid compromising the religion. recommends using a systematic approach in order to build trust and confidence.
+* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Discusses how some people may view Islam as a barbaric religion, and how it is important to have a "formal debate" to prove the opposing arguments wrong. He argues that having a Harvard education and Islamic training does not mean one is immune to criticism, and cites a hadith in support of his position.
 * **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** Daniel Haqiqatjou discusses how Islam prioritizes the health and functionality of the nuclear family unit, and how his arguments against homosexuality and other activities typically seen as deviant in Islam make more sense when seen through the lens of the family unit. He also discusses the importance of a stable and unified family unit to human happiness.
-* **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>* Discusses controversial topics such as polygyny and the psychology of women who prefer it, and how textual research supports these claims.
+* **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** Discusses controversial topics such as polygyny and the psychology of women who prefer it, and how textual research supports these claims.
 * **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** Daniel Haqiqatjou discusses the benefits of polygamy and flogging in his book "In Defense of Vlogging." He argues that these practices are beneficial for society as a whole, and that they are rare in today's world. He also points out that, contrary to popular belief, matriarchy is not a stable form of government.
 * **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** of a book defending vlogging argues that it is not barbaric to inflict physical punishment, but that this is a product of the Enlightenment. He argues that the punishment should be lower than Islamic punishment, but still high enough to be a deterrent.
-* **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>* Discusses how punishment, in the form of whips and imprisonment, can be less severe and more effective than other forms of punishment. encourages people to learn more about Islam and its wisdom, and offers the following resources: muslimskeptic.com, an institute he runs, and his YouTube channel, Muslim Skeptic.
+* **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** Discusses how punishment, in the form of whips and imprisonment, can be less severe and more effective than other forms of punishment. encourages people to learn more about Islam and its wisdom, and offers the following resources: muslimskeptic.com, an institute he runs, and his YouTube channel, Muslim Skeptic.
 * **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>**  features controversial questions to Daniel Haqiqatjou, a MH survivor and advocate. The questions focus on Haqiqatjou's experiences as a MH survivor, and raise questions about his account of the disease and its effects.
 
  has attracted criticism from some MH survivors and advocates, who argue that the questions are unprofessional and inappropriate. Others have praised Haqiqatjou for raising important issues that need to be explored in more depth.

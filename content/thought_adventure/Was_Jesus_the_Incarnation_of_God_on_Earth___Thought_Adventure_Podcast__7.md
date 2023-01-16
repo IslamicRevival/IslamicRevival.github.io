@@ -11,17 +11,17 @@
 2:10:15 Final Thoughts
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -29,40 +29,39 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
-#reincarnation #christianity #islam
+# reincarnation #christianity #islam
 
 ## Summary of [Was Jesus the Incarnation of God on Earth? | Thought Adventure Podcast #7](https://www.youtube.com/watch?v=jQ83Ls3Zaik)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -71,42 +70,47 @@ Gmail: hello.tapodcast@gmail.com
  discusses the problem of reconciling the idea that Jesus was both fully God and fully man. Various models are discussed, with each having its own problems. Finally, the difficulties associated with each model are summarized.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The podcast discusses the logical problem of the incarnation of God, specifically with regard to Christianity. Jake the Muslim philosopher, Abdul Rahman, and the pondering soul discuss the issue. There is a problem with the claim that God incarnated on Earth as Jesus, as it raises questions that do not seem to be answered satisfactorily.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the philosophical and theological issues surrounding the incarnation, which is the idea that God became a human being. While the video does not provide a definitive answer to the question of whether the incarnation is a rational problem, it does suggest that there are some factors that make the concept difficult to accept.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The problem with the doctrine of the incarnation is that it seems logically inconsistent to affirm that Jesus Christ is both fully God and fully man. Christian philosophers have tried to propose models to make sense of this issue, but on a basic level, the contradiction is that Jesus Christ would possess contradictory attributes simultaneously. Some Muslims believe that Jesus was a created puppet, while others believe that Jesus himself is fully God and fully man.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the problem of reconciling the idea that Jesus was both fully God and fully man. Various models are discussed, with each having its own problems. Finally, the difficulties associated with each model are summarized.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the different views on what makes someone human, focusing on the Aristotelian and Christian views. The Aristotelian view is that a human has a human nature, which is a rational animal. The Christian view is that a human has a human nature and a divine nature, which consists of attributes such as consciousness and self-sufficiency. There is also a third component, the spirit. Some people argue that the spirit and soul are the same, while others argue that they are not.  finishes with a discussion of materialism and the human being's soul.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses the concept of personhood, and how it is applied to Jesus Christ. Dr. Craig argues that, in order to be a person, one must have a soul and a body. Christ had both a human soul and body, which would make him two persons. The controversy arises when determining which of Christ's two natures is dominant. The orthodox view is that Christ is one person with two natures, divine and human. The christian perspective would be to add the spirit to Christ's human nature, making him three persons.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses the contradiction within the orthodox Christian model of one person with two natures, christ being a pre-incarnated person who took on a human soul, body, will, and mind. Dr. Craig offers a possible solution, saying that christ did not have a human soul because if he had, he would be a human person and this would be a contradiction.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses a contradiction in early Christian theology where some theologians claim that Jesus was fully human with a human nature and a divine nature. The Eastern Orthodox and Catholics try to abide by the Chalcedonian Creed, which defines that Christ was a single person with two complete natures. IfJesus did not meet these conditions, he could not be a true savior.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** of the essay discusses the two main positions on whether Jesus was fully human or fully divine, and how each leads to difficulties. He argues that, based on scripture, Christ was a single person with two complete natures, divine and human. He concludes that, for orthodox Christians, death does not mean annihilation, but rather the separation of the physical body and the divine soul.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses Jake's argument that the early church adopted a position and credo matter and that this caused later revisions to the doctrines of Christianity. Muslims are welcome to call in and discuss the issue.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The problem with understanding Jesus as fully God and fully man is that he would have to have all the divine properties and all the human properties, and there is a verse in the New Testament that suggests he did just that - that he "grew" in wisdom and stature.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the problem of Nestorianism, which is the belief that there are two separate persons in God, one who is divine and ignorant, and one who is human and omniscient. Samuel Greene, an apologist for Christianity, is interviewed on the Dao Wise stream. Greene discusses the problem of Nestorianism and how it arises when one asks who was ignorant. He then goes on to say that the incarnation of Jesus is more logically problematic than the trinity and the atonement.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the philosophical and theological issues surrounding the incarnation, which is the idea that God became a human being. While the video does not provide a definitive answer to the question of whether the incarnation is a rational problem, it does suggest that there are some factors that make the concept difficult to accept.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The problem with the doctrine of the incarnation is that it seems logically inconsistent to affirm that Jesus Christ is both fully God and fully man. Christian philosophers have tried to propose models to make sense of this issue, but on a basic level, the contradiction is that Jesus Christ would possess contradictory attributes simultaneously. Some Muslims believe that Jesus was a created puppet, while others believe that Jesus himself is fully God and fully man.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the problem of reconciling the idea that Jesus was both fully God and fully man. Various models are discussed, with each having its own problems. Finally, the difficulties associated with each model are summarized.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the different views on what makes someone human, focusing on the Aristotelian and Christian views. The Aristotelian view is that a human has a human nature, which is a rational animal. The Christian view is that a human has a human nature and a divine nature, which consists of attributes such as consciousness and self-sufficiency. There is also a third component, the spirit. Some people argue that the spirit and soul are the same, while others argue that they are not.  finishes with a discussion of materialism and the human being's soul.
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses the concept of personhood, and how it is applied to Jesus Christ. Dr. Craig argues that, in order to be a person, one must have a soul and a body. Christ had both a human soul and body, which would make him two persons. The controversy arises when determining which of Christ's two natures is dominant. The orthodox view is that Christ is one person with two natures, divine and human. The christian perspective would be to add the spirit to Christ's human nature, making him three persons.
+- **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses the contradiction within the orthodox Christian model of one person with two natures, christ being a pre-incarnated person who took on a human soul, body, will, and mind. Dr. Craig offers a possible solution, saying that christ did not have a human soul because if he had, he would be a human person and this would be a contradiction.
+- **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses a contradiction in early Christian theology where some theologians claim that Jesus was fully human with a human nature and a divine nature. The Eastern Orthodox and Catholics try to abide by the Chalcedonian Creed, which defines that Christ was a single person with two complete natures. IfJesus did not meet these conditions, he could not be a true savior.
+- **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** of the essay discusses the two main positions on whether Jesus was fully human or fully divine, and how each leads to difficulties. He argues that, based on scripture, Christ was a single person with two complete natures, divine and human. He concludes that, for orthodox Christians, death does not mean annihilation, but rather the separation of the physical body and the divine soul.
+- **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Discusses Jake's argument that the early church adopted a position and credo matter and that this caused later revisions to the doctrines of Christianity. Muslims are welcome to call in and discuss the issue.
+- **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The problem with understanding Jesus as fully God and fully man is that he would have to have all the divine properties and all the human properties, and there is a verse in the New Testament that suggests he did just that - that he "grew" in wisdom and stature.
+- **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Discusses the problem of Nestorianism, which is the belief that there are two separate persons in God, one who is divine and ignorant, and one who is human and omniscient. Samuel Greene, an apologist for Christianity, is interviewed on the Dao Wise stream. Greene discusses the problem of Nestorianism and how it arises when one asks who was ignorant. He then goes on to say that the incarnation of Jesus is more logically problematic than the trinity and the atonement.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  theologians discuss the problems with the traditional view of Jesus Christ as the incarnation of God on Earth. They argue that if Jesus had a human soul, then he was not fully divine. They also argue that the doctrine of the incarnation is one of the three main doctrines of Christianity that is contradicted by the historical record.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** , Jake and Taylor discuss the problems with the traditional view of Jesus Christ as the incarnation of God on Earth. They point out that the doctrine of the incarnation is one of the three main doctrines of Christianity that is contradicted by the historical record. They argue that if Jesus had a human soul, then he was not fully divine.
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>**  Taylor argues that God can be ignorant and not know everything, which leads to the question of how the father knows the hour. Taylor argues that Jesus is not a person, but is a being that manifests three different ways: as a human, as God, and as the father. The father is not a person, but he knows something when he initiates the hour.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** , a theologian discusses the nature of god and how Jesus is not fully God or fully Mad. He argues that the properties of god are not found in Jesus, who is instead a created mode, or incarnation, of a deity. The theologian says that there are other prophets in the Bible with similar qualities, and that when Jesus died, we were looking at an embodiment of divinity.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** , Taylor discusses the different concepts of "god" that are found in the Quran. He points out that the language used in the Quran does not necessarily mean that someone is literally God, but that they are pious and follow God's commands. He also discusses the idea of "god taking a son," and explains that this does not mean that the person becomes God.
-* **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>**  John discusses the problem with the incarnation of God, stating that without essential attributes of God, a being could not be considered God. He also points out the law of non-contradiction as a tool which helps us understand the concept.
-* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>* Discusses the logical contradiction that would arise if God, who is supposed to be omniscient, was not omniscient at any point in his existence. It argues that this contradiction does not exist, and that while Christ was on Earth he temporarily lacked the attribute of omniscience. This does not mean he lost his identity as God the Second Person.
-* **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** Jake asks Carlo if Jesus was the incarnation of God on Earth, and Carlo responds that being omniscient is an essential attribute of God, so if Jesus temporarily lost this attribute, he wasn't fully God. However, Jesus was still fully God in eternity, so he didn't lose his identity.
-* **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** The presenter discusses the concept of omniscience, and how it is necessary for a being to be God. If a being doesn't possess omniscience, then it wouldn't be God. Christ didn't have omniscience on Earth, which would mean that at least temporarily he wasn't God. This would be a problem because the Christian creed states that Christ is God with attributes such as omnipotence and omniscience.
-* **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** The thought adventure podcast discusses whether or not Jesus was the incarnation of God on Earth, and if so, what limitations he had to fulfill his mission. The podcast argues that if Jesus had not submitted to these limitations, he would not have been divine.
-* **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** The Thought Adventure Podcast discusses whether or not there is a logical contradiction in Christianity if God is to be both divine and human at the same time. The podcast references the revelation of God as well as biblical evidence in order to support their point.
-* **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>* Discusses the logical problem of claiming that certain attributes are necessary for being God, and then claiming that Jesus was not fully God because he had restrictions while on earth. points out that, even though Jesus was fully God, he still had restrictions while on earth, and is not fully God yet.
-* **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** reviews the different concepts of god found in monotheistic religions, noting that the christian conception of salvation and atonement is not arbitrary. He goes on to say that this does not mean that god ceased to exist as the second person of the Trinity while he was on earth.
+
+- **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>**  Taylor argues that God can be ignorant and not know everything, which leads to the question of how the father knows the hour. Taylor argues that Jesus is not a person, but is a being that manifests three different ways: as a human, as God, and as the father. The father is not a person, but he knows something when he initiates the hour.
+- **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** , a theologian discusses the nature of god and how Jesus is not fully God or fully Mad. He argues that the properties of god are not found in Jesus, who is instead a created mode, or incarnation, of a deity. The theologian says that there are other prophets in the Bible with similar qualities, and that when Jesus died, we were looking at an embodiment of divinity.
+- **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** , Taylor discusses the different concepts of "god" that are found in the Quran. He points out that the language used in the Quran does not necessarily mean that someone is literally God, but that they are pious and follow God's commands. He also discusses the idea of "god taking a son," and explains that this does not mean that the person becomes God.
+- **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>**  John discusses the problem with the incarnation of God, stating that without essential attributes of God, a being could not be considered God. He also points out the law of non-contradiction as a tool which helps us understand the concept.
+- **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** Discusses the logical contradiction that would arise if God, who is supposed to be omniscient, was not omniscient at any point in his existence. It argues that this contradiction does not exist, and that while Christ was on Earth he temporarily lacked the attribute of omniscience. This does not mean he lost his identity as God the Second Person.
+- **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** Jake asks Carlo if Jesus was the incarnation of God on Earth, and Carlo responds that being omniscient is an essential attribute of God, so if Jesus temporarily lost this attribute, he wasn't fully God. However, Jesus was still fully God in eternity, so he didn't lose his identity.
+- **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** The presenter discusses the concept of omniscience, and how it is necessary for a being to be God. If a being doesn't possess omniscience, then it wouldn't be God. Christ didn't have omniscience on Earth, which would mean that at least temporarily he wasn't God. This would be a problem because the Christian creed states that Christ is God with attributes such as omnipotence and omniscience.
+- **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** The thought adventure podcast discusses whether or not Jesus was the incarnation of God on Earth, and if so, what limitations he had to fulfill his mission. The podcast argues that if Jesus had not submitted to these limitations, he would not have been divine.
+- **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** The Thought Adventure Podcast discusses whether or not there is a logical contradiction in Christianity if God is to be both divine and human at the same time. The podcast references the revelation of God as well as biblical evidence in order to support their point.
+- **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** Discusses the logical problem of claiming that certain attributes are necessary for being God, and then claiming that Jesus was not fully God because he had restrictions while on earth. points out that, even though Jesus was fully God, he still had restrictions while on earth, and is not fully God yet.
+- **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** reviews the different concepts of god found in monotheistic religions, noting that the christian conception of salvation and atonement is not arbitrary. He goes on to say that this does not mean that god ceased to exist as the second person of the Trinity while he was on earth.
+
 ### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:20:00</a>
 
  discusses the idea that Jesus was not fully God while he was on earth, and that this is a problem for Christians because it creates a contradiction. William Lane Craig, an orthodox Christian scholar, is interviewed and argues that the problem is a logical contradiction.  also mentions that next week's episode of the "Adventure Podcast" will feature Justin McElroy, an atheist critic of Christianity.
 
 **<a onclick="modifyYTiframeseektime('7200')">02:00:00</a>** Sharla and her student discuss the idea that Jesus was not fully God while he was on earth, as he was only partially God. Sharla points out that this is similar to the story of Ganesha, who was born without a  but was later able to protect his mother by cutting off his father's  and putting it on his neck. The student suggests that, because Jesus was the son of God, his followers would also have to believe in the story of Ganesha.
-* **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>** argues that there are contradictions within the scriptural basis for belief in God, and that this makes it logically incoherent to say that God is fully God and fully man. He goes on to say that this is why Muslims believe in prophecies that refer to Jesus, and why500 people can witness something and still not know who those 500 people are.
-* **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>** The presenter discusses the logical problem of the incarnation, which Muslims and Christians alike should take into account when comparing world views. He also points out that the motive behind the incarnation is not necessary for forgiveness to take place.
-* **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>* Discusses the problem of reconciling the attributes of deity (omniscience, omnipotence, and moral perfection) with the human nature of Jesus Christ. William Lane Craig, an orthodox Christian scholar, argues that the problem is a logical contradiction, and that Christians have historically addressed the issue in other texts. Next week's episode of "Adventure Podcast" will feature Justin McElroy, a prominent atheist critic of Christianity, and the podcast will attempt to discuss his recent controversies with the host.
-* **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>** Jake discusses some of the evidence that suggests Jesus was not the incarnation of God on Earth, including the idea that it would be too much work for God to incarnate himself as a human. He also mentions a stream he and other Christians are scheduled to participate in discussing the trinity.
+
+- **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>** argues that there are contradictions within the scriptural basis for belief in God, and that this makes it logically incoherent to say that God is fully God and fully man. He goes on to say that this is why Muslims believe in prophecies that refer to Jesus, and why500 people can witness something and still not know who those 500 people are.
+- **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>** The presenter discusses the logical problem of the incarnation, which Muslims and Christians alike should take into account when comparing world views. He also points out that the motive behind the incarnation is not necessary for forgiveness to take place.
+- **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>** Discusses the problem of reconciling the attributes of deity (omniscience, omnipotence, and moral perfection) with the human nature of Jesus Christ. William Lane Craig, an orthodox Christian scholar, argues that the problem is a logical contradiction, and that Christians have historically addressed the issue in other texts. Next week's episode of "Adventure Podcast" will feature Justin McElroy, a prominent atheist critic of Christianity, and the podcast will attempt to discuss his recent controversies with the host.
+- **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>** Jake discusses some of the evidence that suggests Jesus was not the incarnation of God on Earth, including the idea that it would be too much work for God to incarnate himself as a human. He also mentions a stream he and other Christians are scheduled to participate in discussing the trinity.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

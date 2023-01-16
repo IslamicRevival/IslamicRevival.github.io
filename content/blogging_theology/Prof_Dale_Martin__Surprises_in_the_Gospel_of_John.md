@@ -4,10 +4,9 @@
 
 ## Description
 
-We continue our series of talks on the New Testament with the Gospel of John. Professor Dale Martin is a distinguished American New Testament scholar who taught at Yale University for over 30 years. See his excellent Introduction to New Testament History and Literature (Open Yale Courses) https://www.amazon.com/Testament-History-Literature-Open-Courses/dp/0300180853
+We continue our series of talks on the New Testament with the Gospel of John. Professor Dale Martin is a distinguished American New Testament scholar who taught at Yale University for over 30 years. See his excellent Introduction to New Testament History and Literature (Open Yale Courses) <https://www.amazon.com/Testament-History-Literature-Open-Courses/dp/0300180853>
 
 ## Summary of [Prof Dale Martin: Surprises in the Gospel of John](https://www.youtube.com/watch?v=cjCRhgD_XIQ)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -16,6 +15,7 @@ We continue our series of talks on the New Testament with the Gospel of John. Pr
  Dale Martin discusses the differences between the Gospel of John and the other New Testament gospels. He argues that John was not written by an eyewitness, but by someone who was familiar with the other gospels. He also discusses how the gospel was edited and changed over time, and how this affects the various Christological statements in the text.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  Prof. Dale Martin discusses the differences between the Gospel of John and the Synoptics. He points out that John is full of long speeches and has a carefully constructed narrative, which suggests that the author knew the other two gospels. He also argues that the author was not a disciple of Jesus, due to the mistakes he makes in comparison to the other gospels.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Professor Dale Martin discusses how the Gospel of John was not originally written by an eyewitness, but by someone who was actually one of the most talented writers in the New Testament. He points out that the arguments over what to include in the Bible were based more on theology than on authorial or dating issues, and that John became suspect because it was the favorite gospel of Gnostics.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The Gospel of John is unique among the New Testament writings in that it begins with the discussion of the divine logos. There was controversy over this aspect of the gospel among early Christians, as it was seen as divisive. However, John's popularity among Christians of the East is evidence that the message of the gospel was resonating.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  Professor Dale Martin discusses how the gospel of John was edited and changed over time, and how this affects the various Christological statements in the text. He credits scholar Louis Martin for helping to popularize this approach to understanding the gospel.

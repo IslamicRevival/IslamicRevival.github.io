@@ -4,10 +4,9 @@
 
 ## Description
 
-Islamic Jesus: How the King of the Jews Became a Prophet of the Muslims by Mustafa Akyol https://www.amazon.co.uk/Islamic-Jesus-International-Mustafa-Akyol/dp/1250199352/ref=sr_1_1?keywords=The+Islamic+Jesus%3A+How+the+King+of+the+Jews+Became+a+Prophet+of+the+Muslims&qid=1626106408&sr=8-1
+Islamic Jesus: How the King of the Jews Became a Prophet of the Muslims by Mustafa Akyol <https://www.amazon.co.uk/Islamic-Jesus-International-Mustafa-Akyol/dp/1250199352/ref=sr_1_1?keywords=The+Islamic+Jesus%3A+How+the+King+of+the+Jews+Became+a+Prophet+of+the+Muslims&qid=1626106408&sr=8-1>
 
 ## Summary of [Mary and her baby: a new series](https://www.youtube.com/watch?v=DPApumzcyf8)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -16,6 +15,7 @@ Islamic Jesus: How the King of the Jews Became a Prophet of the Muslims by Musta
 The video discusses the story of Mary and her son, Yahya (John the Baptist), highlighting the parallels and differences between the Quran and the Bible. It also discusses the significance of John the Baptist in both Islamic and Christian theology.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The video reviews various sources that portray Mary in a positive light, highlighting the quran's mention of her 34 times and her elevated status in muslim culture. It also touches on the controversial practice of venerating Mary as a perfect example of devotion to God.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** In the video, the author presents the story of Mary, including her miraculous birth and her son, Yahya. The author also discusses the parallels and differences between the story in the Quran and the story in the Bible. The author also discusses the significance of John the Baptist, who is mentioned in the Quran as Yahya.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The video discusses the differences between the gospel of Luke and the Quran regarding the story of John the Baptist. The Quran briefly touches on the story of John the Baptist, highlighting only its own key theological message. This book is helpful in looking at more in a more balanced and more sober way.
 

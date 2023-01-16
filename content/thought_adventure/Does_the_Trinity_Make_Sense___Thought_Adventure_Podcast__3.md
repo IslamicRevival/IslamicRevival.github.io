@@ -7,23 +7,24 @@
 Trinity, in Christian doctrine, the unity of Father, Son, and Holy Spirit as three persons in one Godhead. The doctrine of the Trinity is considered to be one of the central Christian affirmations about God, but does it make sense? We invite Christians to discuss how the doctrine is a reasonable belief.
 
 0:00       Introduction and Arguments
+
 - Guests -
 25:49     Abbu (Christian)
 1:04:10  Nio Pomilia (Orthodox Christian)
 1:38:55  Justin (Atheist)
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -31,41 +32,39 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
-
-#trinity #logic #lpt
+# trinity #logic #lpt
 
 ## Summary of [Does the Trinity Make Sense? | Thought Adventure Podcast #3](https://www.youtube.com/watch?v=smJ66-gtAYA)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -74,46 +73,51 @@ Gmail: hello.tapodcast@gmail.com
  discusses the Trinity and argues that it is a logical possibility that can be believed by rational people.  goes on to say that there are plausible explanations for why the Trinity might exist, including the possibility that it is a logical possibility.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** In this third episode of the Thought Adventure Podcast, Jake from the Muslim Metaphysician discusses the Trinity with Christians, noting that it makes sense according to rational understanding and that there should be no conflict between belief in a creator and theology.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The Trinity is a Christian doctrine which states that there is one God who exists amongst three persons: the Father, Son, and Holy Spirit. Different theologians and philosophers explain how this three-in-one thing works, and Jake explains that the reason they chose 7:00pm as the time for this episode is because SCDWA is currently live.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The Trinity makes no sense to Muslims because it is an illogical doctrine with contradictory statements about who is God.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The Trinity is a doctrine that has been debated by theologians for centuries. The Trinity consists of one God who is three in one--Father, Son, and Holy Spirit--and yet they are not the same. There is an apparent problem with the doctrine because it does not make sense.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** The Trinity is a problem because it appears to be a contradiction in terms for God to be fully God and fully human. To reconcile this apparent contradiction,christians have adopted the doctrine of theosis, which means that Jesus Christ becomes fully God in a way that satisfies the demands of the doctrine.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** The transcript excerpt discusses a possible problem with the Trinity, and how one might approach it with other Christians. The hosts invite Muslims to come join the discussion, and after a delay, one Muslim participant joins. The hosts then discuss the problem of the Trinity with the Muslim participant, and how it is affirmed by Christian philosophers.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** The Thought Adventure Podcast explores the concept of the Trinity and argues that it makes sense. The Christian belief in the Trinity is accurately represented, and it does not misrepresent the Christian belief.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** The Trinity makes logical sense according to the rules of human thought, but it is an exception to the rules that prove God doesn't need to follow those same rules. The Trinity is a divine being that is divided into three parts, one part as the Father, another as the Holy Spirit, and the last as the human aspect of God. This divine being is capable of being at three places at once and in three forms.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** The Trinity is a concept that is difficult for some people to understand, and Sir argues that it does not matter which properties the Persons have that are different from one another, as they are all God. He goes on to say that if one believes in the Bible 100% then they must also believe in the Quran and Hadith, as they are all from God. He finishes the argument by saying that there are no rules that apply to all three versions of God, and that it is up to the individual to decide which doctrines they want to follow.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the concept of 'god' and whether or not it makes sense. The presenter argues that god is logically possible, and that without him, reality would be meaningless. He goes on to say that even though people may have incoherent beliefs about god, this does not mean that he is not a necessary being.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The Trinity is a difficult concept to understand, and some people believe that it is incoherent. The discussion is about whether or not the Trinity makes sense and whether or not it is possible for God to be free. Camden argues that it doesn't matter what the topic of discussion is, as the epistemology (the way in which we believe) of those who believe in the Trinity is wrong.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** of the YouTube video argues that the trinity is not logically incoherent, and that it can be plausibly believed by rational people. He goes on to say that there are plausible explanations for why the trinity might exist, including the possibility that it is a logical possibility.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The Trinity is a Christian doctrine which states that there is one God who exists amongst three persons: the Father, Son, and Holy Spirit. Different theologians and philosophers explain how this three-in-one thing works, and Jake explains that the reason they chose 7:00pm as the time for this episode is because SCDWA is currently live.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The Trinity makes no sense to Muslims because it is an illogical doctrine with contradictory statements about who is God.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The Trinity is a doctrine that has been debated by theologians for centuries. The Trinity consists of one God who is three in one--Father, Son, and Holy Spirit--and yet they are not the same. There is an apparent problem with the doctrine because it does not make sense.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** The Trinity is a problem because it appears to be a contradiction in terms for God to be fully God and fully human. To reconcile this apparent contradiction,christians have adopted the doctrine of theosis, which means that Jesus Christ becomes fully God in a way that satisfies the demands of the doctrine.
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** The transcript excerpt discusses a possible problem with the Trinity, and how one might approach it with other Christians. The hosts invite Muslims to come join the discussion, and after a delay, one Muslim participant joins. The hosts then discuss the problem of the Trinity with the Muslim participant, and how it is affirmed by Christian philosophers.
+- **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** The Thought Adventure Podcast explores the concept of the Trinity and argues that it makes sense. The Christian belief in the Trinity is accurately represented, and it does not misrepresent the Christian belief.
+- **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** The Trinity makes logical sense according to the rules of human thought, but it is an exception to the rules that prove God doesn't need to follow those same rules. The Trinity is a divine being that is divided into three parts, one part as the Father, another as the Holy Spirit, and the last as the human aspect of God. This divine being is capable of being at three places at once and in three forms.
+- **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** The Trinity is a concept that is difficult for some people to understand, and Sir argues that it does not matter which properties the Persons have that are different from one another, as they are all God. He goes on to say that if one believes in the Bible 100% then they must also believe in the Quran and Hadith, as they are all from God. He finishes the argument by saying that there are no rules that apply to all three versions of God, and that it is up to the individual to decide which doctrines they want to follow.
+- **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Discusses the concept of 'god' and whether or not it makes sense. The presenter argues that god is logically possible, and that without him, reality would be meaningless. He goes on to say that even though people may have incoherent beliefs about god, this does not mean that he is not a necessary being.
+- **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The Trinity is a difficult concept to understand, and some people believe that it is incoherent. The discussion is about whether or not the Trinity makes sense and whether or not it is possible for God to be free. Camden argues that it doesn't matter what the topic of discussion is, as the epistemology (the way in which we believe) of those who believe in the Trinity is wrong.
+- **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** of the YouTube video argues that the trinity is not logically incoherent, and that it can be plausibly believed by rational people. He goes on to say that there are plausible explanations for why the trinity might exist, including the possibility that it is a logical possibility.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
 , two advocates for the Trinity argue that the doctrine of the Trinity does not logically lead to polytheism. One advocate points out that if one defines the persons of the Trinity as being identical to one another, then one falls into modalism, while the other argues that defining the persons of the Trinity as being separate from one another results in social trinitarianism or a version of polytheism. Neither advocate argues that the Trinity makes sense.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** The Trinity makes sense to one Christian, but it is contradictory to another. explains that there are three logical possibilities when it comes to the Trinity: logically possible, necessary, and impossible. also explains that these three categories are not the same, and that it is contradictory for one Christian to believe in a God with a logical impossibility as a miracle.
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** The Thought Adventure Podcast discusses the Trinity and how it makes sense according to orthodox Christianity. The podcast discusses how the three hypostases of the Trinity are each identical to the essence of God, and that they are distinct from each other by relation. The podcast also discusses how the one who is known and the thing known of oneself are identical in essence, and that this is referred to as the Logos.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** The Trinity is a claim that states that three individuals who are considered to be the same being in terms of essence, yet are different in terms of properties, make sense.  explores how this claim violates the law of identity, which states that two things cannot be identical and have different properties.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** The Trinity does not make sense according to Islamic teaching, because it would imply that the persons are not separate from the essence. According to Christian teaching, the persons are identical to the essence. Identity is not a real property, but it is a real thing.
-* **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>* Discusses the problem of the Trinity, which orthodox Christians believe to be a logical problem. neo argues that there is a metaphysical problem with this belief, as it is not possible to explain how the Father, Son, and Holy Spirit are distinct from one another without implying a level of unity between them that does not exist in reality.
-* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** , two advocates for the Trinity argue that the doctrine of the Trinity does not logically lead to polytheism. One advocate points out that if one defines the persons of the Trinity as being identical to one another, then one falls into modalism, while the other argues that defining the persons of the Trinity as being separate from one another results in social trinitarianism or a version of polytheism. Neither advocate argues that the Trinity makes sense.
-* **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>* Discusses the problem of divine simplicity, which is the idea that God is a single, simple entity with certain essential attributes. If this is true, then it must be the case that God's one act of creation is identical to his existence and therefore is necessary. However, orthodox Christianity denies this, asserting that God's act of creation is free. argues that there is something beyond our comprehension that we can't even name, and that this something is also eternal alongside God.
-* **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** In this third Thought Adventure podcast, hosts discuss the problem of reconciling the doctrine of the Trinity with the idea of divine simplicity. While both doctrines imply a divine nature that is simple and unified, the two concepts are not logically reconcilable. Justin arrives and joins the discussion, admitting that he does not have a satisfactory answer to the problem.
-* **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** The Trinity is a topic of discussion between two people, one of whom does not understand it. The problem with divine simplicity is that it does not make sense that the persons are identical to the essence, and when Russell's paradox is brought up, it is pointed out that this paradox is the result of a necessary line of reasoning that is valid. Both muslims and Christians believe that our reason takes us to this point, but Islam has a problem with the idea that the attributes are identical to God.
-* **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>* Discusses the difference between the Trinity and the idea of a necessary being, and argues that the latter is a problem because it leads to metaphysical questions that cannot be answered. Brother Sharif mentions that the Muslim scholars have addressed this issue.
-* **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** The Trinity is a mystery that Christians cannot fully understand, and in conversations about it, they often shift the goalposts. Justin Satriano, one of the guests on the Thought Adventure Podcast, came up with an argument that the Trinity cannot be logically refuted.
-* **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** The Trinity is a mystery to some, but it makes sense within the context of absolute divine simplicity. Bohmian mechanics is a physical theory that can explain the double slit experiment without the need for additional physical entities.
+
+- **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** The Thought Adventure Podcast discusses the Trinity and how it makes sense according to orthodox Christianity. The podcast discusses how the three hypostases of the Trinity are each identical to the essence of God, and that they are distinct from each other by relation. The podcast also discusses how the one who is known and the thing known of oneself are identical in essence, and that this is referred to as the Logos.
+- **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** The Trinity is a claim that states that three individuals who are considered to be the same being in terms of essence, yet are different in terms of properties, make sense.  explores how this claim violates the law of identity, which states that two things cannot be identical and have different properties.
+- **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** The Trinity does not make sense according to Islamic teaching, because it would imply that the persons are not separate from the essence. According to Christian teaching, the persons are identical to the essence. Identity is not a real property, but it is a real thing.
+- **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** Discusses the problem of the Trinity, which orthodox Christians believe to be a logical problem. neo argues that there is a metaphysical problem with this belief, as it is not possible to explain how the Father, Son, and Holy Spirit are distinct from one another without implying a level of unity between them that does not exist in reality.
+- **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** , two advocates for the Trinity argue that the doctrine of the Trinity does not logically lead to polytheism. One advocate points out that if one defines the persons of the Trinity as being identical to one another, then one falls into modalism, while the other argues that defining the persons of the Trinity as being separate from one another results in social trinitarianism or a version of polytheism. Neither advocate argues that the Trinity makes sense.
+- **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** Discusses the problem of divine simplicity, which is the idea that God is a single, simple entity with certain essential attributes. If this is true, then it must be the case that God's one act of creation is identical to his existence and therefore is necessary. However, orthodox Christianity denies this, asserting that God's act of creation is free. argues that there is something beyond our comprehension that we can't even name, and that this something is also eternal alongside God.
+- **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** In this third Thought Adventure podcast, hosts discuss the problem of reconciling the doctrine of the Trinity with the idea of divine simplicity. While both doctrines imply a divine nature that is simple and unified, the two concepts are not logically reconcilable. Justin arrives and joins the discussion, admitting that he does not have a satisfactory answer to the problem.
+- **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** The Trinity is a topic of discussion between two people, one of whom does not understand it. The problem with divine simplicity is that it does not make sense that the persons are identical to the essence, and when Russell's paradox is brought up, it is pointed out that this paradox is the result of a necessary line of reasoning that is valid. Both muslims and Christians believe that our reason takes us to this point, but Islam has a problem with the idea that the attributes are identical to God.
+- **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** Discusses the difference between the Trinity and the idea of a necessary being, and argues that the latter is a problem because it leads to metaphysical questions that cannot be answered. Brother Sharif mentions that the Muslim scholars have addressed this issue.
+- **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** The Trinity is a mystery that Christians cannot fully understand, and in conversations about it, they often shift the goalposts. Justin Satriano, one of the guests on the Thought Adventure Podcast, came up with an argument that the Trinity cannot be logically refuted.
+- **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** The Trinity is a mystery to some, but it makes sense within the context of absolute divine simplicity. Bohmian mechanics is a physical theory that can explain the double slit experiment without the need for additional physical entities.
+
 ### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:40:00</a>
 
 The Trinity is a concept that is often debated, with some people claiming that it makes sense and others claiming that it does not. In this episode of the Thought Adventure Podcast, the hosts discuss the appeal to mystery in Christianity and Islam and how it avoids ontological and metaphysical costs in one's faith. They also discuss how Jesus is limited in his being, and how this might limit God.
 
 **<a onclick="modifyYTiframeseektime('7200')">02:00:00</a>** The Trinity is a concept that is often debated, but one scientist attempts to disprove it by explaining that it is an in principle problem that one can never work out both the position and speed of a particle at the same time.
-* **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>** The Trinity makes sense according to the Thought Adventure Podcast because it follows causality. If there is no naturalistic cause to explain quantum level events, then the cause must be non-naturalistic. This would lead to the conclusion that there is a non-logical possibility that trinity is true and false at the same time. This would have serious consequences for epistemology, as anything could be true or false.
-* **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>** The Trinity makes little sense to an atheist, because how can you know that your own rationality comes from a god that can do anything outside of logic? This argument undermines any apologetics.
-* **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>** Dave Down the Road argues that the Trinity does not make sense because there is no connection between the claims made. He argues that if someone believes in the Trinity, they must also believe in some absurd claims, such as that God can stop existing.
-* **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>** The Trinity makes sense? Thought Adventure Podcast #3 discusses how the Trinity can make sense despite various inconsistencies. The problem with the Trinity is that it presupposes the thing it is trying to deny, which becomes unfair because the methodologies used to justify it are based on assumptions which are themselves based on mystery and contradiction.
-* **<a onclick="modifyYTiframeseektime('8700')">02:25:00</a>** of the video discusses how the Trinity does not make sense and why it is wrong-ed to use it as a point of reference for the mysterious nature of God. He also discusses how the witness testimony of a woman is greater than that of a man and why it is equal to a man's.
-* **<a onclick="modifyYTiframeseektime('9000')">02:30:00</a>* Discusses the difference in law between male and female testimony in Islamic law. Female testimony is considered greater than male testimony, due to the fact that women are more knowledgeable about certain aspects of life.
-* **<a onclick="modifyYTiframeseektime('9300')">02:35:00</a>** The Trinity does not make sense, according to the three Christian guests on this Thought Adventure Podcast. The double testimony requirement specified in the Quran is not found in other biblical passages, and there is a logical problem with the claim that the Trinity makes sense.
-* **<a onclick="modifyYTiframeseektime('9600')">02:40:00</a>** In this third episode of the Thought Adventure Podcast, hosts Abdulrahman and Sharif discuss the appeal to mystery in Christianity and Islam and how it avoids ontological and metaphysical costs in one's faith. They also discuss how Jesus is limited in his being, and how this might limit God. Finally, they mention that they have set up social media accounts and provide links.
+
+- **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>** The Trinity makes sense according to the Thought Adventure Podcast because it follows causality. If there is no naturalistic cause to explain quantum level events, then the cause must be non-naturalistic. This would lead to the conclusion that there is a non-logical possibility that trinity is true and false at the same time. This would have serious consequences for epistemology, as anything could be true or false.
+- **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>** The Trinity makes little sense to an atheist, because how can you know that your own rationality comes from a god that can do anything outside of logic? This argument undermines any apologetics.
+- **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>** Dave Down the Road argues that the Trinity does not make sense because there is no connection between the claims made. He argues that if someone believes in the Trinity, they must also believe in some absurd claims, such as that God can stop existing.
+- **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>** The Trinity makes sense? Thought Adventure Podcast #3 discusses how the Trinity can make sense despite various inconsistencies. The problem with the Trinity is that it presupposes the thing it is trying to deny, which becomes unfair because the methodologies used to justify it are based on assumptions which are themselves based on mystery and contradiction.
+- **<a onclick="modifyYTiframeseektime('8700')">02:25:00</a>** of the video discusses how the Trinity does not make sense and why it is wrong-ed to use it as a point of reference for the mysterious nature of God. He also discusses how the witness testimony of a woman is greater than that of a man and why it is equal to a man's.
+- **<a onclick="modifyYTiframeseektime('9000')">02:30:00</a>** Discusses the difference in law between male and female testimony in Islamic law. Female testimony is considered greater than male testimony, due to the fact that women are more knowledgeable about certain aspects of life.
+- **<a onclick="modifyYTiframeseektime('9300')">02:35:00</a>** The Trinity does not make sense, according to the three Christian guests on this Thought Adventure Podcast. The double testimony requirement specified in the Quran is not found in other biblical passages, and there is a logical problem with the claim that the Trinity makes sense.
+- **<a onclick="modifyYTiframeseektime('9600')">02:40:00</a>** In this third episode of the Thought Adventure Podcast, hosts Abdulrahman and Sharif discuss the appeal to mystery in Christianity and Islam and how it avoids ontological and metaphysical costs in one's faith. They also discuss how Jesus is limited in his being, and how this might limit God. Finally, they mention that they have set up social media accounts and provide links.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

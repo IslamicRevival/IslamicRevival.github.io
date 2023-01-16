@@ -6,8 +6,9 @@
 
 Londoniyyah - Part 5 - Social liberalism | Mohammed Hijab
 
-To be updated about our content please subscribe and open the notifications.
+To be updated about our content please subscribe and open the notifications
 ----
+
 BOOK A LIGHTHOUSE MENTOR
 
 Are you or someone you know doubting Islam? Do you find yourself struggling to find answers?  Do you have a hard time speaking to someone about Islam?  Are you considering Islam but are unsure about certain concepts?  Are you an activist, Imam or community leader who is unsure about how to handle questions related to science, philosophy, the Islamic moral code, etc.?
@@ -16,12 +17,11 @@ You are not alone.  Over the course of the last decade or more there has been a 
 
 Seeing the rise of  this phenomenon , Sapience Institute is introducing a One to One mentoring service called LIGHTHOUSE.
 
-BOOK A MENTOR HERE: https://sapienceinstitute.org/lighthouse/
+BOOK A MENTOR HERE: <https://sapienceinstitute.org/lighthouse/>
 
-VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: https://sapienceinstitute.org/
+VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: <https://sapienceinstitute.org/>
 
 ## Summary of [Londoniyyah - Part 5 - Social liberalism | Mohammed Hijab](https://www.youtube.com/watch?v=_-K2MfGZ414)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -30,12 +30,13 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 In the fifth session on liberalism, Mohammed Hijab discusses social liberalism and the harm principle. He argues that social liberalism has been inconsistently applied in the West, often overlooking rights such as those of homosexuals and incestuous relationships. Hijab makes the case that social liberalism should be rooted in Islamic values in order to be truly beneficial.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** In this fifth session of liberalism, Mohammed Hijab discusses social liberalism and the harm principle. He argues that, historically, social liberalism has been applied more liberally to certain rights than others, such as homosexuality and incest. However, there has been inconsistency in the West's implementation of this principle, with different countries favoring different rights.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Mohammed Hijab discusses the principle of social liberalism, which states that people should be free to do whatever they like so long as they don't harm others. He also discusses incest, which some people see as natural and others as immoral. He argues that the principle of social liberalism should be applied to incestuous relationships, as well as homosexuality and other antinormative practices.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Jeremy Bentham theorized that in order to be moral, we should minimize pain and maximize pleasure. He also argued that the only way to prove that an object is visible or audible is that people actually see or hear it. James Mill, Jeremy Bentham's father, elaborated on this idea in his works.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  James Mill is discussed, and it is argued that he was an ethical egoist, meaning that he only pursued his own interests. Although Mill's interpretation of himself as an ethical egoist has some level of contention, it is argued that his view is problematic in terms of its implications for morality. It is also discussed how Hedonism, or the idea that one should pursue pleasure and avoid pain, could be a competitor to utilitarianism as a moral standard. Finally, it is argued that utilitarianism should be considered the yardstick for moral values, but this does not seem to be the case according to Mill's son.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Mohammed Hijab discusses the logical arguments against the existence of altruism, arguing that it's not an impossibility, and that even if it does exist, it's not a good thing. He also makes the case that homosexuals are more likely to be carriers of sexually transmitted diseases, and that their practices are harmful to society.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** The first premise of utilitarianism, that happiness is one's only objective, is problematic because it could not account for the happiness of others.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses the first premise of utilitarianism, which states that the only thing desirable for its own sake is happiness.  points out that this premise is unjustified, and that there are additional problems with the reasoning used to arrive at this conclusion.
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses the first premise of utilitarianism, which states that the only thing desirable for its own sake is happiness.  points out that this premise is unjustified, and that there are additional problems with the reasoning used to arrive at this conclusion.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Mohammed Hijab points out that the only proof for the desirability of something is that people desire it. This is called the fallacy of equivocation, and it is a circular argument. He goes on to say that happiness is desired for its own sake, and not to achieve some other goal.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** is a discussion on social liberalism and its relationship to Islam. Mohammed Hijab explains that, in Islam, happiness is desired for its own sake, rather than for something else. He goes on to say that this is the dominant ethic in the west, and that it is a failure as a philosophical argument. He ends the video by discussing Islamic morality and how it contrasts with social liberalism.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  Mohammed Hijab discusses social liberalism and its relationship to Islam. He notes that social liberalism is not inherently incompatible with Islam, but that it must be rooted in Islamic values in order to be truly beneficial. He argues that social liberalism can help to expand the rights and opportunities available to Muslims, as well as promote social justice.

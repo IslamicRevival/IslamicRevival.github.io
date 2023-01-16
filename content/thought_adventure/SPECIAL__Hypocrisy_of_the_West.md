@@ -4,7 +4,7 @@
 
 ## Description
 
-Timestamps: 
+Timestamps:
 0:00 - Intro
 0:27 - Brothers Sharif, Yusuf & Dilly join
 1:29 - Background of Brother Dilly & 5 Pillars News
@@ -36,17 +36,17 @@ Timestamps:
 1:37:20 - Closing Remarks & Wrapping Up
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -54,38 +54,37 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
 ## Summary of [SPECIAL: Hypocrisy of the West](https://www.youtube.com/watch?v=ktp6bvkXiPE)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -93,31 +92,34 @@ Gmail: hello.tapodcast@gmail.com
 
  discusses how the media in the west is biased against Muslims, and how this has led to a false perception of Islamic terrorism. It argues that this hypocrisy is a major reason why Muslims have a difficult time communicating with the wider world.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses how Muslims in the west have experienced a lack of media representation and double standards in regards to free speech. The guest, David Hussein, is an editor at Five Pillars News and has worked with mainstream media outlets. He explains how media can be co-opted by the political establishment, and discusses how Muslims are seeing these issues in the current political climate.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses how, historically, Russia has been regarded as an enemy of Islam, and how, in recent years, Russia has been involved in a number of conflicts in which Muslims have been victims. It urges Muslims not to blindly support Russia, as it has a history of attacking Muslims and has done so in the past.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses how, in the context of the Ukraine-Russia conflict, the west has hypocritically applied double standards. While pointing out that Russia has also committed crimes, it argues that muslims should approach the situation in a balanced way, as none of the parties involved in the conflict are innocent.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses how hypocrisy exists in the West, specifically in regards to Russia and Pakistan. Russia was initially fought by mujahideen, and later ruled with an iron fist. Pakistan, led by Imran Khan, wants to move away from the sphere of American control, so therefore Russia sees them as a threat. However, the analogy between Russia and the sahaba (the companions of Muhammad) does not apply in the slightest, as Russia is not a power, and is not between India and Russia. There is no power struggle between Russia and the ukraine, as both are Christian. Furthermore, the argument that Russia has a legitimate case to invade Ukraine does not hold water, as NATO has been strengthening and buffering states along its borders.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses how the West has portrayed Russia as a danger to Ukraine, which has created a false perception among some Ukrainians that Russia is a benevolent neighbor. He argues that, in reality, Russia has always been a colonizing power, and that the media's treatment of the Ukraine conflict is evidence of this bias.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses how inconsistency exists in how the West treats refugees, specifically with regards to how they view certain weaponry. He also points to an example from the early 1990s of a European living in Bosnia.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses how the media in the west has been biased against the East for a long time, and how things have changed since the end of the Cold War.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Yusef discusses the concept of "impartiality" and how it can be difficult to achieve in the media. He provides an example of how a journalist can claim to be impartial, but still have a political agenda.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** In the video "SPECIAL: Hypocrisy of the West," Brother Halaby discusses research showing that muslims receive disproportionately negative media coverage compared to other groups, despite committing a fraction of the number of terrorist attacks. Yusuf refers to this as "the media's conspiracy against muslims."
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses how the West perpetuates a false narrative that all terrorists are Muslims, and how this skews how the public perceives terrorist attacks. It also points to examples of where the West has made mistakes in its refugee resettlement policies, and how these stories receive less attention than incidents where refugees are involved in sexual assault.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses how the media downplays or ignores the prevalence of Islamic terrorism, while at the same time portraying Muslims in a negative light. It argues that this hypocrisy is a major reason why Muslims have a difficult time communicating with the wider world.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Tony Blair's victory in the 1997 UK elections was due in part to a deal he made with the Sun, which is well known. Since then, the free press has changed dramatically, becoming more biased in favor of the state. Norm Chomsky wrote a book called Manufacturing Consent about the subject. He found that while there are many conflicts reported in the media, the focus on one particular conflict is due to the West's geopolitical interests. Politicians and their spouses are often very well connected to the media, and donors to political parties often have interests in the media industry. These small ways help to create the narratives that the media reports.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses how Muslims in the west have experienced a lack of media representation and double standards in regards to free speech. The guest, David Hussein, is an editor at Five Pillars News and has worked with mainstream media outlets. He explains how media can be co-opted by the political establishment, and discusses how Muslims are seeing these issues in the current political climate.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses how, historically, Russia has been regarded as an enemy of Islam, and how, in recent years, Russia has been involved in a number of conflicts in which Muslims have been victims. It urges Muslims not to blindly support Russia, as it has a history of attacking Muslims and has done so in the past.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses how, in the context of the Ukraine-Russia conflict, the west has hypocritically applied double standards. While pointing out that Russia has also committed crimes, it argues that muslims should approach the situation in a balanced way, as none of the parties involved in the conflict are innocent.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses how hypocrisy exists in the West, specifically in regards to Russia and Pakistan. Russia was initially fought by mujahideen, and later ruled with an iron fist. Pakistan, led by Imran Khan, wants to move away from the sphere of American control, so therefore Russia sees them as a threat. However, the analogy between Russia and the sahaba (the companions of Muhammad) does not apply in the slightest, as Russia is not a power, and is not between India and Russia. There is no power struggle between Russia and the ukraine, as both are Christian. Furthermore, the argument that Russia has a legitimate case to invade Ukraine does not hold water, as NATO has been strengthening and buffering states along its borders.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses how the West has portrayed Russia as a danger to Ukraine, which has created a false perception among some Ukrainians that Russia is a benevolent neighbor. He argues that, in reality, Russia has always been a colonizing power, and that the media's treatment of the Ukraine conflict is evidence of this bias.
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses how inconsistency exists in how the West treats refugees, specifically with regards to how they view certain weaponry. He also points to an example from the early 1990s of a European living in Bosnia.
+- **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses how the media in the west has been biased against the East for a long time, and how things have changed since the end of the Cold War.
+- **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Yusef discusses the concept of "impartiality" and how it can be difficult to achieve in the media. He provides an example of how a journalist can claim to be impartial, but still have a political agenda.
+- **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** In the video "SPECIAL: Hypocrisy of the West," Brother Halaby discusses research showing that muslims receive disproportionately negative media coverage compared to other groups, despite committing a fraction of the number of terrorist attacks. Yusuf refers to this as "the media's conspiracy against muslims."
+- **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Discusses how the West perpetuates a false narrative that all terrorists are Muslims, and how this skews how the public perceives terrorist attacks. It also points to examples of where the West has made mistakes in its refugee resettlement policies, and how these stories receive less attention than incidents where refugees are involved in sexual assault.
+- **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Discusses how the media downplays or ignores the prevalence of Islamic terrorism, while at the same time portraying Muslims in a negative light. It argues that this hypocrisy is a major reason why Muslims have a difficult time communicating with the wider world.
+- **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Tony Blair's victory in the 1997 UK elections was due in part to a deal he made with the Sun, which is well known. Since then, the free press has changed dramatically, becoming more biased in favor of the state. Norm Chomsky wrote a book called Manufacturing Consent about the subject. He found that while there are many conflicts reported in the media, the focus on one particular conflict is due to the West's geopolitical interests. Politicians and their spouses are often very well connected to the media, and donors to political parties often have interests in the media industry. These small ways help to create the narratives that the media reports.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:40:00</a>
 
  discusses the hypocrisy of the West and how it is often hypocritical in its claims. It argues that the West's hypocrisy is not a coincidence, and is instead orchestrated and manufactured. urges Muslims to be reasonable and to listen to what the west has to say.
 
-**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>* Discusses how the mainstream media in the West is influenced by personal biases, conflicts of interest, and the power of large companies. It argues that this creates a situation where reporting on domestic policies and wars is often biased and inaccurate.
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** argues that the West's hypocrisy is not a coincidence, and is instead orchestrated and manufactured. He suggests that running five pillars in Russia would be a better way to show support for the West, as it would be easier for Muslims to give their time than in Moscow.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Press TV was taken off air in America because it had close ties to Hezbollah. Nick Clegg, the leader of the UK's Liberal Democrats, was formerly Press TV's spokesman. Facebook has a policy of censoring content that is critical of Israel, but will quickly flag any content that is anti-Semitic. YouTube has a policy of censoring content that is critical of the government or specific corporations. Muslims must play the social media game by censoring themselves in order to avoid offending anyone.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>* Discusses the hypocrisy of the West, highlighting how the West uses propaganda to control the public. points out that the BBC is biased and uses propaganda to control the British people.
-* **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>* Discusses how western countries hypocritically claim to be against war, while still being involved in various wars around the world. It argues that western countries are hypocritically hypocritical in their claims, and that the history of war on this continent is rich and bloody.
-* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>* Discusses the hypocrisy of the West, which includes its long history of wars. It argues that this history has led to a rise in mental health issues among non-muslims, because they are constantly faced with reminders of wars in their own countries that they didn't experience firsthand. To reach these people, the video suggests that Europeans have a duty to engage with non-muslims face-to-face, and to have empathy for their positions.
-* **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>* Discusses the hypocrisy of the West and its tendency to act one way in front of other countries, but act differently when it comes to its own citizens. It points out that this hypocrisy is demonstrated by the West's reaction to the Ukrainian crisis, which has lasted for over 14 days and has resulted in over 70 deaths. It argues that muslims need to continue watching the news and highlighting the inconsistencies in the double standards of the West in order to engender empathy and understanding from non-muslims.
-* **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>* Discusses three reasons why muslims in the west should be sincere with the west, and how the west should be sincere with muslims. He also encourages muslims to be reasonable and to listen to what the west has to say. Thought adventure podcast is a great example of the west's sincerity towards muslims.
-* **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>* Discusses how hypocrisy exists in the West, specifically when it comes to their political views. He also urges Muslims to make dua for Bosnia and Ukraine.
+**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Discusses how the mainstream media in the West is influenced by personal biases, conflicts of interest, and the power of large companies. It argues that this creates a situation where reporting on domestic policies and wars is often biased and inaccurate.
+
+- **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** argues that the West's hypocrisy is not a coincidence, and is instead orchestrated and manufactured. He suggests that running five pillars in Russia would be a better way to show support for the West, as it would be easier for Muslims to give their time than in Moscow.
+- **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Press TV was taken off air in America because it had close ties to Hezbollah. Nick Clegg, the leader of the UK's Liberal Democrats, was formerly Press TV's spokesman. Facebook has a policy of censoring content that is critical of Israel, but will quickly flag any content that is anti-Semitic. YouTube has a policy of censoring content that is critical of the government or specific corporations. Muslims must play the social media game by censoring themselves in order to avoid offending anyone.
+- **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** Discusses the hypocrisy of the West, highlighting how the West uses propaganda to control the public. points out that the BBC is biased and uses propaganda to control the British people.
+- **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** Discusses how western countries hypocritically claim to be against war, while still being involved in various wars around the world. It argues that western countries are hypocritically hypocritical in their claims, and that the history of war on this continent is rich and bloody.
+- **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** Discusses the hypocrisy of the West, which includes its long history of wars. It argues that this history has led to a rise in mental health issues among non-muslims, because they are constantly faced with reminders of wars in their own countries that they didn't experience firsthand. To reach these people, the video suggests that Europeans have a duty to engage with non-muslims face-to-face, and to have empathy for their positions.
+- **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** Discusses the hypocrisy of the West and its tendency to act one way in front of other countries, but act differently when it comes to its own citizens. It points out that this hypocrisy is demonstrated by the West's reaction to the Ukrainian crisis, which has lasted for over 14 days and has resulted in over 70 deaths. It argues that muslims need to continue watching the news and highlighting the inconsistencies in the double standards of the West in order to engender empathy and understanding from non-muslims.
+- **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** Discusses three reasons why muslims in the west should be sincere with the west, and how the west should be sincere with muslims. He also encourages muslims to be reasonable and to listen to what the west has to say. Thought adventure podcast is a great example of the west's sincerity towards muslims.
+- **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** Discusses how hypocrisy exists in the West, specifically when it comes to their political views. He also urges Muslims to make dua for Bosnia and Ukraine.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

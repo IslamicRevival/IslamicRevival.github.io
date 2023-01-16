@@ -4,7 +4,7 @@
 
 ## Description
 
-DONATE NOW: https://www.saveiman.com/fb?affiliate_id=3414212 ⬅
+DONATE NOW: <https://www.saveiman.com/fb?affiliate_id=3414212> ⬅
 
 The Prophet ﷺ said: “𝙒𝙝𝙤𝙚𝙫𝙚𝙧 𝙗𝙪𝙞𝙡𝙙𝙨 𝙖 𝙈𝙤𝙨𝙦𝙪𝙚 𝙛𝙤𝙧 𝘼𝙡𝙡𝙖𝙝, 𝘼𝙡𝙡𝙖𝙝 𝙬𝙞𝙡𝙡 𝙗𝙪𝙞𝙡𝙙 𝙛𝙤𝙧 𝙝𝙞𝙢 𝙖 𝙨𝙞𝙢𝙞𝙡𝙖𝙧 𝙝𝙤𝙪𝙨𝙚 𝙞𝙣 𝙅𝙖𝙣𝙣𝙖𝙝.”
 
@@ -14,12 +14,11 @@ If you support this project, you will in sha Allah get a house in Jannah and sha
 ✅ Making Dhikr!
 ✅ Memorizing the Qur’an!
 
-Please donate and help establish this Masjid and earn your reward ➡ https://www.saveiman.com/fb?affiliate_id=3414212 ⬅
+Please donate and help establish this Masjid and earn your reward ➡ <https://www.saveiman.com/fb?affiliate_id=3414212> ⬅
 
-#SaveIman
+# SaveIman
 
 ## Summary of [How to Fight a Bigger Man - Firas Zahabi](https://www.youtube.com/watch?v=1l-jS2LDxEw)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -30,8 +29,9 @@ Please donate and help establish this Masjid and earn your reward ➡ https://ww
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Muslims in Norway are establishing a mosque and Dawah center to enhance the Norwegian Dawah. Donating to this course will ensure that Allah reap the rewards of thousands of Muslims coming back to Islam.
 
 Firas Zahabi is a trainer and  coach of tri-state gym, one of the best in the world.  he discusses how to defeat a bigger opponent using a variety of techniques. He emphasizes the importance of conditioning and staying mobile to avoid being boxed in and taking advantage of the taller opponent's reach. Most importantly, he emphasizes the importance of breaking the opponent's rhythm and avoiding getting into a grapple where they can apply a guillotine choke.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  demonstrates how Firas Zahabi, a world-renowned MMA fighter, uses takedowns to defeat bigger opponents. The techniques demonstrated include body lock takedowns, hip toss takedowns, and ankle pick knee pig takedowns. There is a risk associated with using these takedowns, but they are useful in dire circumstances.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses how tall men can beat shorter men in fights by using their reach advantage and jabbing. The taller man must be aware of the shorter man's kicks and punches, and use his  and shoulder to keep the shorter man at a distance.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses how tall men can beat shorter men in fights by using their reach advantage and jabbing. The taller man must be aware of the shorter man's kicks and punches, and use his  and shoulder to keep the shorter man at a distance.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Firas Zahabi demonstrates how to fight a bigger man using body blocks and underhooks, as well as trilemma chokes and arm triangles. He also discusses heel hooks and armbars, explaining that he has an advantage in each.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>**  "How to Fight a Bigger Man - Firas Zahabi" discusses how to fight larger opponents by using techniques learned in a book.  also explains how to use one's mind to overcome the opponent.
 

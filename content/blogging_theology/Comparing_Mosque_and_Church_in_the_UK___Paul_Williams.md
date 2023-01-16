@@ -4,10 +4,9 @@
 
 ## Description
 
-See the BBC article 'Young more likely to pray than over-55s - survey': https://www.bbc.co.uk/news/uk-58681075
+See the BBC article 'Young more likely to pray than over-55s - survey': <https://www.bbc.co.uk/news/uk-58681075>
 
 ## Summary of [Comparing Mosque and Church in the UK | Paul Williams](https://www.youtube.com/watch?v=vd8uAbkTWyY)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -16,6 +15,7 @@ See the BBC article 'Young more likely to pray than over-55s - survey': https://
 Discusses the increasing popularity of mosques in the UK, as well as the possible reasons behind this trend. The article suggest that this may be due to the pandemic, as people may find it easier to express their faith online. However, the author also points out that there is still a lot of division between mosque and church communities in the UK, with the average church being closed most of the time.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The study found that 51% of 18-34 year olds polled said they pray regularly, while 24% of those aged 55 and over said the same. It also found that 49 of the younger age group attend a place of worship every month, while 16 of the over 55s do. The associate director of cervantes said the numbers could reflect the move to online worship during the pandemic.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** discusses the increasing popularity of mosques in the UK, as well as the possible reasons behind this trend. The article suggest that this may be due to the pandemic, as people may find it easier to express their faith online. However, the author also points out that there is still a lot of division between mosque and church communities in the UK, with the average church being closed most of the time.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

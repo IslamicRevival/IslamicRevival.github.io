@@ -4,12 +4,13 @@
 
 ## Description
 
-Listen as audio: https://soundcloud.com/sapienceinstitute/sets/sapient-thoughts
+Listen as audio: <https://soundcloud.com/sapienceinstitute/sets/sapient-thoughts>
 
 ST #48:  Nihilism, Consumerism and the Islamic Antidote — Part 5: The Dark Side Of Consumerism | Imran Hussein
 
-To be updated about our content please subscribe and open the notifications.
+To be updated about our content please subscribe and open the notifications
 ----
+
 BOOK A LIGHTHOUSE MENTOR
 
 Are you or someone you know doubting Islam? Do you find yourself struggling to find answers?  Do you have a hard time speaking to someone about Islam?  Are you considering Islam but are unsure about certain concepts?  Are you an activist, Imam or community leader who is unsure about how to handle questions related to science, philosophy, the Islamic moral code, etc.?
@@ -18,12 +19,11 @@ You are not alone.  Over the course of the last decade or more there has been a 
 
 Seeing the rise of  this phenomenon , Sapience Institute is introducing a One to One mentoring service called LIGHTHOUSE.
 
-BOOK A MENTOR HERE: https://sapienceinstitute.org/lighthouse/
+BOOK A MENTOR HERE: <https://sapienceinstitute.org/lighthouse/>
 
-VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: https://sapienceinstitute.org/
+VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: <https://sapienceinstitute.org/>
 
 ## Summary of [ST #49: Nihilism, Consumerism and the Islamic Antidote — Part 5 | Imran Hussein](https://www.youtube.com/watch?v=6uD33MoU2SI)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -31,9 +31,10 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 
  discusses consumerism and how it is connected to nihilism. It argues that when people become consumed by materialism, they are more prone to nihilism.  discusses how this is a problem and how it needs to be addressed.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses consumerism and its connections to nihilism. It argues that when people become consumed by materialism, they are more prone to nihilism.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses consumerism and its connections to nihilism. It argues that when people become consumed by materialism, they are more prone to nihilism.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Imran Hussein discusses consumerism and how it relates to the Islamic perspective. He notes that consumerism began in the Enlightenment era and was challenged by thinkers like Adam Smith. He also discusses how consumption has become a ritualized behavior in our society, and how it is fueled by money and power.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the problems of consumerism and how it has negative effects on individuals. Stephen Mills, in his book "Consumerism as a Way of Life," refers to consumerism as the religion of the late 20th century.  discusses how this modern consumerism is a problem and how it needs to be addressed.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the problems of consumerism and how it has negative effects on individuals. Stephen Mills, in his book "Consumerism as a Way of Life," refers to consumerism as the religion of the late 20th century.  discusses how this modern consumerism is a problem and how it needs to be addressed.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

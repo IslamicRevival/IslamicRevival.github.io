@@ -6,8 +6,9 @@
 
 ST #46:  Nihilism, Consumerism and the Islamic Antidote — Part 3: Nihilism, Inception To Escape
 
-To be updated about our content please subscribe and open the notifications.
+To be updated about our content please subscribe and open the notifications
 ----
+
 BOOK A LIGHTHOUSE MENTOR
 
 Are you or someone you know doubting Islam? Do you find yourself struggling to find answers?  Do you have a hard time speaking to someone about Islam?  Are you considering Islam but are unsure about certain concepts?  Are you an activist, Imam or community leader who is unsure about how to handle questions related to science, philosophy, the Islamic moral code, etc.?
@@ -16,12 +17,11 @@ You are not alone.  Over the course of the last decade or more there has been a 
 
 Seeing the rise of  this phenomenon , Sapience Institute is introducing a One to One mentoring service called LIGHTHOUSE.
 
-BOOK A MENTOR HERE: https://sapienceinstitute.org/lighthouse/
+BOOK A MENTOR HERE: <https://sapienceinstitute.org/lighthouse/>
 
-VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: https://sapienceinstitute.org/
+VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: <https://sapienceinstitute.org/>
 
 ## Summary of [ST #47: Nihilism, Consumerism and the Islamic Antidote — Part 3: Nihilism, Inception To Escape](https://www.youtube.com/watch?v=iyDGNu1-lcU)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -30,7 +30,8 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
  is the third in a series on nihilism. It discusses the views of philosopher Friedrich Nietzsche on nihilism and how he attempted to address the problem. Nietzsche believed that religion was not a good way to deal with nihilism, and he instead advocated for a return to ancient Greek values.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  the author discusses the direct link between Enlightenment philosophy and nihilism. He explains that when you deny God, you inevitably end up in nihilism. The reason is very simple – when you deny God, you are saying that there is no creator, no cause, and no meaning behind existence. This leads to a lack of meaning in life, and ultimately, nihilism.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses nihilism, its various manifestations, and how they relate to one another. It also points out that modernity has been struggling to deal with it, as nihilism is the "achilles heel" of modernity.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses nihilism, its various manifestations, and how they relate to one another. It also points out that modernity has been struggling to deal with it, as nihilism is the "achilles heel" of modernity.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  series discusses the existentialist philosophers' ideas on nihilism and meaninglessness, and how they attempted to address the problem. Modernity has tried to address nihilism more recently with philosophies such as hedonism, but they all ultimately fail because humans cannot find meaning in life on an objective level. Consumerism is another way humans have tried to find meaning, but it always fails because humans are never truly satisfied.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** In this third installment of a video series on nihilism, the presenter covers Nietzsche's views on nihilism and how he attempted to tackle it. He also discusses Nietzsche's contention against religion as a means of addressing nihilism.
 

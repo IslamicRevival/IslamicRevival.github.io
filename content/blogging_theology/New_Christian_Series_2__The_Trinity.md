@@ -5,22 +5,21 @@
 ## Description
 
 You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
+<https://www.patreon.com/Bloggingtheology>
 
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
 Follow me on Instagram:
-https://www.instagram.com/bloggingtheology1
+<https://www.instagram.com/bloggingtheology1>
 
 Follow me on TikTok:
-https://www.tiktok.com/@bloggingtheology?lang=en
+<https://www.tiktok.com/@bloggingtheology?lang=en>
 
 Follow me on Twitter:
-https://twitter.com/freemonotheist
+<https://twitter.com/freemonotheist>
 
 ## Summary of [New Christian Series 2: The Trinity](https://www.youtube.com/watch?v=DZ5aLzm6tMw)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -29,15 +28,16 @@ https://twitter.com/freemonotheist
  discusses the doctrine of the Trinity, how it has been understood throughout history, and how it is relevant to contemporary Christian faith. It features a variety of authors with different perspectives on the doctrine.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Alistair McGrath discusses the doctrine of the Trinity in a textbook used in many university courses. He discusses the difficulty of understanding the doctrine and how it is not contradictory. Jefferson declared the doctrine of the Trinity to be a hindrance to religious growth.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses how human language finds itself pressed to its limits when trying to describe the divine, and how Christianity understands both divine and human natures in such a way that if it is right, we are unable to grasp the full reality of god. He argues that this is why believers often find the concept of god in the trinity incoherent or inconsistent or self-contradictory.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses how human language finds itself pressed to its limits when trying to describe the divine, and how Christianity understands both divine and human natures in such a way that if it is right, we are unable to grasp the full reality of god. He argues that this is why believers often find the concept of god in the trinity incoherent or inconsistent or self-contradictory.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The Trinity is a doctrine of God found in the Bible, but it wasn't originally revealed to the early church. Emil Brunner, a Protestant theologian, argued that the Trinity was designed to safeguard the rich christian understanding of God from well-meaning attempts to reduce or simplify it. The Trinity itself wasn't revealed in the Bible, but was the result of serious reflection on what was implied by the biblical proclamation in Greek. Traditional Christian theology has been well aware of its limits and has sought to avoid excessively confident affirmations in the face of mystery, yet has never seen itself as totally reduced to silence in the face of divine mysteries. There is a great deal of hesitation and uncertainty when theologians speak of God, and Christian theology is confronted with something so great that it can't be fully comprehended and so must do the best it can with the analytical and descriptive tools at its disposal.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The Trinity is best seen as organically related to the evolution of christology, which is the doctrine of study of christ his nature. A patristic consensus emerged that jesus was of the same substance as god, homo uscios. This led to the development of the doctrine of the divinity of christ. The more emphatic the church became that christ was god, the more it came under pressure to clarify how christ related to god. If the word "capital W" had not been made flesh, there would have been no stumbling block for jewish monotheism. Trinitarianism is ultimately rooted in the christian consciousness due to its baptismal and devotional associations, but these two verses taken together or in isolation cannot be thought of as constituting a doctrine of the Trinity.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>**  Dr. John MacArthur argues that the trinity doctrine is found throughout the Old Testament, and that it is implicit in the wisdom literature and the word of God. He also argues that the trinity doctrine is implicit in the messiah prophecies of Isaiah and Ezekiel.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses doctrine of the Trinity and how it can be seen as incompatible with the faith of Jesus and his disciples. Professor Timothy Winter says it is intrinsically unlikely that Jesus would have voted for the party that became orthodox after his death due to its belief in the Trinity.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses doctrine of the Trinity and how it can be seen as incompatible with the faith of Jesus and his disciples. Professor Timothy Winter says it is intrinsically unlikely that Jesus would have voted for the party that became orthodox after his death due to its belief in the Trinity.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>**  Tim Winter argues that the doctrine of the Trinity is not original to Christianity, and that it was introduced by the later, Roman-controlled church in order to control the movement. He also quotes a bishop from England who warns against presumptuous attempts to return to the beliefs of Jesus and his apostles.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses how the belief in the Trinity is simultaneously important and obscure, and how it is a cause for scandal to unbelievers. It references research that suggests most Christians are polytheists in practice.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses decline of trinitarian language in popular worship, attributing this to a lack of understanding of the doctrine. He also argues that the doctrine has contributed to the wider crisis of faith experienced in the western world.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses doctrine of the Trinity, and the need for further explanation due to its historical development. It features a variety of authors with alternative perspectives on the doctrine.
+* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses how the belief in the Trinity is simultaneously important and obscure, and how it is a cause for scandal to unbelievers. It references research that suggests most Christians are polytheists in practice.
+* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses decline of trinitarian language in popular worship, attributing this to a lack of understanding of the doctrine. He also argues that the doctrine has contributed to the wider crisis of faith experienced in the western world.
+* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Discusses doctrine of the Trinity, and the need for further explanation due to its historical development. It features a variety of authors with alternative perspectives on the doctrine.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

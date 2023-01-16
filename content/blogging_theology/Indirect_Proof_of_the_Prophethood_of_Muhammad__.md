@@ -4,15 +4,14 @@
 
 ## Description
 
-See the complete video with Dr Louay Fatoohi: https://www.youtube.com/watch?v=99AOlNniUXw&t=3548s
+See the complete video with Dr Louay Fatoohi: <https://www.youtube.com/watch?v=99AOlNniUXw&t=3548s>
 You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
+<https://www.patreon.com/Bloggingtheology>
 
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
 ## Summary of [Indirect Proof of the Prophethood of Muhammad ﷺ ?](https://www.youtube.com/watch?v=FgAMysWHCvo)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 

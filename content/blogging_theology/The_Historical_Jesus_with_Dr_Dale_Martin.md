@@ -4,7 +4,7 @@
 
 ## Description
 
-Professor Dale Martin is a distinguished American New Testament scholar who taught at Yale University for over 30 years. Recommended reading: Introduction to New Testament History and Literature (Open Yale Courses) https://www.amazon.co.uk/Testament-History-Literature-Open-Courses/dp/0300180853/ref=sr_1_4?keywords=dale+martin&qid=1637062754&sr=8-4
+Professor Dale Martin is a distinguished American New Testament scholar who taught at Yale University for over 30 years. Recommended reading: Introduction to New Testament History and Literature (Open Yale Courses) <https://www.amazon.co.uk/Testament-History-Literature-Open-Courses/dp/0300180853/ref=sr_1_4?keywords=dale+martin&qid=1637062754&sr=8-4>
 
 Chapters :
 0:00 - Introduction
@@ -41,7 +41,6 @@ Chapters :
 
 ## Summary of [The Historical Jesus with Dr Dale Martin](https://www.youtube.com/watch?v=YSNrTsBTH7Q)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
@@ -49,6 +48,7 @@ Chapters :
 This video discusses the historical Jesus and how scholars use criteria to try to determine which of his sayings are authentic. It argues that the Gospel of John is less reliable than the other gospels because it contains many similarities to other gospels.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The author of New Testament History and Literature argues that the New Testament is not a reliable historical source because it contradicts itself too much.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Recently, some scholars have argued that there is no historical Jesus, and that the stories of Jesus found in the four canonical gospels were made up centuries after his death.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** According to Dr. Dale Martin, the only reliable sources for reconstructing the historical Jesus are the five canonical gospels (Matthew, Mark, Luke, John, and Thomas), as well as Paul's seven letters. Other texts, such as the Gospel of Judas, are likely from the late second century and may not be accurate representations of Jesus' teachings.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The criteria historians use to determine the authenticity of Jesus' teachings include earlier sources being better than later sources, multiple attestation, and the use of a written source known as "source q." While most scholars believe that all four canonical gospels are derived from earlier sources, some argue that the Gospel of John is less reliable because it contains many similarities to other gospels.
@@ -60,11 +60,13 @@ This video discusses the historical Jesus and how scholars use criteria to try t
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** This YouTube video discusses the differences between secular humanists' views of Jesus and those of evangelical Christians, who believe that Jesus taught an imminent coming of the kingdom of God. Secular humanists believe that Jesus taught a moral code similar to that of ancient Greeks and Romans, and did not advocate marriage.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The historical Jesus is a construction by modern historians, according to modern historical rules. In the light of Mark 10:17-18, why do you call me good, no one is good but God alone? What kind of person was Jesus according to historical reconstruction? Jesus was a jewish prophet and teacher of love, who emphasized the dual commandment of loving God and loving your neighbor. He spoke Hebrew and Aramaic, not Greek, and did not seek to found a religion.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The video discusses some of the historical evidence for Jesus' Jewishness and his adherence to Jewish law. It argues that Jesus was not as liberal in his interpretations of the law as is often portrayed and that he may have been more conservative than some of his disciples.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:20:00</a>
 
  Dr. Dale Martin discusses the historical Jesus and argues that there are many discontinuities between the historical Jesus and the later Christian faith. He says that these discontinuities show a lack of faith on the part of followers of the historical Jesus. Dr. Martin also discusses how post-modernism ultimately undermines its own claim by denying the existence of a single, objective truth.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>**  Dale Martin discusses the historical Jesus with John the Baptist, Jesus, and Jesus' later followers. He points out that there are many discontinuities between the historical Jesus and the later Christian faith. He argues that these discontinuities indicate a lack of faith on the part of followers of the historical Jesus.
+
 * **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Dr. Dale Martin discusses how the use of different languages allows one to say things in a way that is not strictly translated, which can lead to a context of faith. He speaks about how in order to have a creed, one must understand the substance of the statement. Thomas Aquinas, while seeming to agree with the idea, would later state that everything we know about god is false.
 * **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** The speaker discusses how Christianity is susceptible to historical inquiry but not entirely identifiable with historical conclusions. He also mentions how modern theologians would agree with this. He finishes by emphasizing honesty and playing by the rules of secular historians.
 * **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>**  Dr. Dale Martin discusses the difference between historical and theological criticism. He argues that while theological criticism may be valuable, it ultimately does not lead to a better understanding of reality. He says that post-modernism is a philosophy that denies the existence of a single, objective truth, which ultimately undermines its own claim.

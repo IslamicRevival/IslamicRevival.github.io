@@ -4,14 +4,14 @@
 
 ## Description
 
-Ben Shapiro's academic dishonesty exposed. From faulty definitions, hasty generalisations to ignoring racism. It's time you debated someone other than college kids. 
+Ben Shapiro's academic dishonesty exposed. From faulty definitions, hasty generalisations to ignoring racism. It's time you debated someone other than college kids.
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
 
-Time stamps 
+Time stamps
 0:00 Intro 1
 1:21 Female genital mutilation
 2:34 Intro 2
@@ -20,12 +20,11 @@ Time stamps
 5:26 Shariah law
 10:44 Honour killings
 11:58 Biggest Muslim survey
-13:34 Jewish racism 
+13:34 Jewish racism
 17:38 Challenge
 18:55 Bloopers
 
 ## Summary of [Challenge to Ben Shapiro on Muslim Myth](https://www.youtube.com/watch?v=88CwPZAssIQ)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -34,6 +33,7 @@ Time stamps
 Ben Shapiro is challenged on his beliefs about Muslims. He is asked to explain why he believes that all Muslims are radicalized, and he cites the example of Indonesia as proof that this is not the case. He is also challenged to a discussion on the topic of racism in Muslim communities, and he is shown to be hesitant in prosecuting the killer of George Floyd.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  Ben Shapiro challenges the idea that all Muslims are radicalized. He points to Indonesia, the world's most populous Muslim country, as evidence that not all Muslims are radicalized.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Ben Shapiro challenges Muslim extremists by pointing out that many of the punitive laws in Islam are also found in the Bible. Shapiro also asks Ben Gionta if Orthodox Jews who believe in Biblical punishments are radicals, and Gionta says that they are not.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Ben Shapiro challenges a radical definition of Islam put forth by himself, citing lack of peer review and problems with applicability to broader Muslim population. Shapiro also cites examples of Muslims who do not support honor killings or terrorism.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  Ben Shapiro is challenged to a discussion on the topic of racism in Muslim communities. Shapiro claims that there is no racism in Muslim communities, but the video shows data that suggests otherwise. Shapiro is also challenged to a discussion on the matter of murder, and he is shown to be hesitant in prosecuting the killer of George Floyd.

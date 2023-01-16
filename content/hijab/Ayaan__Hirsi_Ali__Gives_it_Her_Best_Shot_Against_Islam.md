@@ -4,10 +4,9 @@
 
 ## Description
 
-full episode here: https://youtu.be/eL3FybpUt0s
+full episode here: <https://youtu.be/eL3FybpUt0s>
 
 ## Summary of [Ayaan 'Hirsi Ali' Gives it Her Best Shot Against Islam](https://www.youtube.com/watch?v=HuoZtJIRM3s)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -16,6 +15,7 @@ full episode here: https://youtu.be/eL3FybpUt0s
 Ayaan Hirsi Ali gives a lecture on misogyny in Islam, pointing out that there are certain practices which contribute to sexism. She also says that, while western feminists may be opposed to traditional values, they are actually practicing a form of misogyny themselves.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Ayaan Hirsi Ali gives a detailed overview of how Islam is inherently misogynistic, with examples including the law of sharia, which dictates that a woman must have a male guardian and that her testimony is worth half of a man's. She concludes that Islam is misogynistic and cannot be justified.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Ayaan Hirsi Ali, a prominent critic of Islam, gives a lecture on misogyny in Islam. She points out that, while Islam does not condone misogyny, there are certain practices in Islam which contribute to sexism. She also says that, while western feminists may be opposed to traditional values, they are actually practicing a form of misogyny themselves.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Ayhan Hirsi Ali, an atheist and critic of Islam, presents her views on women's rights in the religion in her latest book. Hirsi Ali makes unsubstantiated claims about Muslim women's rights, and her propositions have no basis in Islam.
 

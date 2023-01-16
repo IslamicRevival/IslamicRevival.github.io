@@ -4,16 +4,15 @@
 
 ## Description
 
-The Ottomans: A Cultural Legacy by Diana Darke https://www.amazon.co.uk/Ottomans-Cultural-Legacy-Diana-Darke/dp/0500252661/ref=sr_1_1?crid=2DSCIF1N0PFVZ&keywords=diana+darke&qid=1665918704&qu=eyJxc2MiOiIyLjc4IiwicXNhIjoiMi4zMSIsInFzcCI6IjIuMDcifQ%3D%3D&sprefix=diana%2520darke%2Caps%2C55&sr=8-1
+The Ottomans: A Cultural Legacy by Diana Darke <https://www.amazon.co.uk/Ottomans-Cultural-Legacy-Diana-Darke/dp/0500252661/ref=sr_1_1?crid=2DSCIF1N0PFVZ&keywords=diana+darke&qid=1665918704&qu=eyJxc2MiOiIyLjc4IiwicXNhIjoiMi4zMSIsInFzcCI6IjIuMDcifQ%3D%3D&sprefix=diana%2520darke%2Caps%2C55&sr=8-1>
 
 You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
+<https://www.patreon.com/Bloggingtheology>
 
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
 ## Summary of [When the Ottomans first tried coffee](https://www.youtube.com/watch?v=hIixS9zaUhE)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -22,6 +21,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 The video discusses the history of coffee, and how it has become popular around the world. It also includes short vignettes about different aspects of Ottoman culture and history.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The book, Ottomans: A Cultural Legacy, by Diana Dark, details the rich culture of the Ottoman Empire, which spanned from Yemen to the gates of Vienna. Western perceptions of the Ottomans have often been distorted by orientalism, characterizing their rule as oppressive and destructive while seeing their culture as exotic and incomprehensible. By unearthing a vibrant and sophisticated civilization that embraced both Arts and Sciences, as well as welcoming refugees from all ethnicities and religions, Dark celebrates the culture of the Ottoman Empire. One significant aspect of the Ottoman Empire's culture was its love of coffee. The popularity of coffee across the empire went back to the 1550s, when the first coffee shop was opened in Istanbul by two Yemenis during the reign of Suleiman the Magnificent himself. Coffee was also banned at the behest of the Ottoman authorities in 1546, but it was reinstated later that year. In 1571, coffee was banned again, this time in Cairo, but it was again reinstated the following year. Finally, in 1587, coffee was banned once and for all in Mecca. In the book, Dark investigates the important role that coffee played in supporting the empire and increasing its cultural reach. She also highlights the diverse religious literary and musical traditions
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** In the 16th and 17th centuries, coffee was popular in Damascus and Istanbul, and spread to the rest of Europe. In London, coffee became popular in 1700 and by 1729, there were over 500 coffee houses. Coffee was originally sold in coffee houses called Edward Lloyd's Coffee House.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The video discusses the history of coffee and its various incarnations, including its Ottoman origins. The drink was seen as a challenge to traditional Islamic values and was therefore met with resistance. Coffeehouses became popular as meeting places for different groups of people, depending on their location. In this 1-paragraph summary, the author mentions that cappuccino was inspired by an Italian priest who mixed coffee with cream and honey to make it more palatable, and that it only became popular in Italy in the 1930s.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** This video discusses the history of coffee, and how it has become popular around the world. It also includes short vignettes about different aspects of Ottoman culture and history.

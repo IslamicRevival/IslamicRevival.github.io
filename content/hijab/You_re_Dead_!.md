@@ -6,17 +6,17 @@ A short but fruitful discussion on what to expect after death.
 
 ## Summary of [You're Dead !](https://www.youtube.com/watch?v=gghVWp2u2bA)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:15:00</a>
 
  "You're Dead !" discusses the idea of meaning and purpose in life, and how it can be found outside of the physical world. argues that if we confine ourselves to the material realm, we will have material solutions and problems, but if we expand to the metaphysical realm, we can start talking about things like theology and philosophy.  discusses the three schools of thought within philosophy concerning the relationship between mind and body, and how everything has a cause, including life after death. It then goes on to discuss how, according to some philosophers, anything which can be verified is meaningful, while anything else is meaningless.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the idea of meaning and purpose in life, and how it can be found outside of the physical world. argues that if we confine ourselves to the material realm, we will have material solutions and problems, but if we expand to the metaphysical realm, we can start talking about things like theology and philosophy.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the three schools of thought within philosophy concerning the relationship between mind and body. The materialist school of thought believes that everything that exists is material, while the dualist school of thought believes that mind and body are separate but related. The third school, which is known as subjective idealism, believes that mind and body are one and the same.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the idea that everything has a cause, including life after death. They then go on to argue that because life after death has a cause, it must also have a creator.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses how, according to some philosophers, anything which can be verified is meaningful, while anything else is meaningless. It then goes on to discuss how, in Adolf Hitler's case, his subjective purpose of life was to reduce the population of Europe. It argues that, even if an individual has a subjective purpose of life, there must still be something which determines this purpose, as it cannot be arbitrary.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the idea of meaning and purpose in life, and how it can be found outside of the physical world. argues that if we confine ourselves to the material realm, we will have material solutions and problems, but if we expand to the metaphysical realm, we can start talking about things like theology and philosophy.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the three schools of thought within philosophy concerning the relationship between mind and body. The materialist school of thought believes that everything that exists is material, while the dualist school of thought believes that mind and body are separate but related. The third school, which is known as subjective idealism, believes that mind and body are one and the same.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the idea that everything has a cause, including life after death. They then go on to argue that because life after death has a cause, it must also have a creator.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses how, according to some philosophers, anything which can be verified is meaningful, while anything else is meaningless. It then goes on to discuss how, in Adolf Hitler's case, his subjective purpose of life was to reduce the population of Europe. It argues that, even if an individual has a subjective purpose of life, there must still be something which determines this purpose, as it cannot be arbitrary.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

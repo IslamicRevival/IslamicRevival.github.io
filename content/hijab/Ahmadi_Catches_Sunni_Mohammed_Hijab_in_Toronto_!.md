@@ -4,12 +4,11 @@
 
 ## Description
 
-- Link for incredible Black Seed - https://www.naturesblends.co.uk/collections/black-seed 
+- Link for incredible Black Seed - <https://www.naturesblends.co.uk/collections/black-seed>
 
 Sunni Muslim Mohammed Hijab relays the strongest Quranic argument against Ahmadiyyah faith. The verse in question has been interpreted, with both Qiraat in mind, by people since the beginning of Islam to mean that the prophet Muhammad is the final prophet of Islam. Anyone who believes in otherwise, as seen in this video, clearly forces such interpretation and cannot remain within the pale of Islam with such distorted understandings of the primary text of Islam.
 
 ## Summary of [Ahmadi Catches Sunni Mohammed Hijab in Toronto !](https://www.youtube.com/watch?v=yl2ifwqqOtQ)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -18,9 +17,10 @@ Sunni Muslim Mohammed Hijab relays the strongest Quranic argument against Ahmadi
  features a discussion between an Ahmadi Muslim and a Sunni Muslim. The Ahmadi Muslim points out that the Quran clearly states that Muhammad is the final prophet, and challenges the Sunni Muslim to recite the Quran in its entirety to prove her faith. The Sunni Muslim eventually walks away, and the Ahmadi Muslim sells her a key to his research proving that Muhammad is the final prophet.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The Ahmadi catches Sunni Mohammed Hijab in Toronto, and the video presents his interactions with the man, including a discussion about the role of the Prophet Muhammad (PBUH). The Ahmadi maintains that Muhammad is the true seal of the prophets, and that his teachings do not contradict the Quran.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The Ahmadi Muslim man in the video catches a Sunni Muslim woman wearing a hijab in Toronto and challenges her to recite the Quran in its entirety to prove her faith. The woman, apparently unconvinced, eventually walks away. The Ahmadi Muslim man then sells her a key to his research proving that the Quran is unambiguous in declaring that the Prophet Muhammad is the final prophet.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  is a transcript of a discussion between an Ahmadi Muslim and a Sunni Muslim. The Ahmadi Muslim points out that Islam believes in the preservation of the Quran, and that all of the prophets will be present on the day of judgement. The Sunni Muslim argues that Jesus will not be a prophet on that day, because he did not perform miracles.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** shows an Ahmadi Muslim woman catching a Sunni Muslim man who was trying to cover his  with a hijab in Toronto. The woman tells him to come over, and he eventually does. The woman's mother thanks her and the man.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The Ahmadi Muslim man in the video catches a Sunni Muslim woman wearing a hijab in Toronto and challenges her to recite the Quran in its entirety to prove her faith. The woman, apparently unconvinced, eventually walks away. The Ahmadi Muslim man then sells her a key to his research proving that the Quran is unambiguous in declaring that the Prophet Muhammad is the final prophet.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  is a transcript of a discussion between an Ahmadi Muslim and a Sunni Muslim. The Ahmadi Muslim points out that Islam believes in the preservation of the Quran, and that all of the prophets will be present on the day of judgement. The Sunni Muslim argues that Jesus will not be a prophet on that day, because he did not perform miracles.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** shows an Ahmadi Muslim woman catching a Sunni Muslim man who was trying to cover his  with a hijab in Toronto. The woman tells him to come over, and he eventually does. The woman's mother thanks her and the man.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

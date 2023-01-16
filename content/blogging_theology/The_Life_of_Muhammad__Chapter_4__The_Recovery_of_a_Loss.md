@@ -5,22 +5,21 @@
 ## Description
 
 You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
+<https://www.patreon.com/Bloggingtheology>
 
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
 Follow me on Instagram:
-https://www.instagram.com/bloggingtheology1
+<https://www.instagram.com/bloggingtheology1>
 
 Follow me on TikTok:
-https://www.tiktok.com/@bloggingtheology?lang=en
+<https://www.tiktok.com/@bloggingtheology?lang=en>
 
 Follow me on Twitter:
-https://twitter.com/freemonotheist
+<https://twitter.com/freemonotheist>
 
 ## Summary of [The Life of Muhammad ﷺ Chapter 4: The Recovery of a Loss](https://www.youtube.com/watch?v=OfaguOrr-Hs)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -29,6 +28,7 @@ https://twitter.com/freemonotheist
 The events that took place after Muhammad's revelation are covered in this video. After his initial discovery of the idols, abd al-muttalib was forced to continue digging by his disbelieving community. When he hit a well cover, he exclaimed thankfulness to god and the crowd gathered. They then decided to divide the treasure evenly between the tribe and the mosque.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Abd al-Muttalib visited the Kaaba regularly and would pray at the black stone. One night, a shadowy figure came to him in a vision and said to dig sweet clarity - which he did. The figure then vanished. The next night, he was told to dig the treasured horde and he was told to find a place where there was blood and dung. He found the ants' nest and the pecking ravens, and was also told to pray for clear full flowing water. After fulfilling all these commands, Abd al-Muttalib went to the door of the Kaaba and took hold of the metal ring which hung from the lock, praying the prayer which he had been told to pray. A bird landed behind him and another landed, and they strutted off with their ravens. Abdal-Muttalib knew these birds well, as they had been adopted as idols by the Quraish. Abdal-Muttalib then walked back past the door to the Iraqi corner and the Syrian corner and then to the Yemenite corner. Finally, he reached the two statuesque rocks which were opposite the door and which were where the Quraish sacrificed their victims. Abdal-Muttalib
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** This video covers the events that took place after Muhammad's revelation. After his initial discovery of the idols, abd al-muttalib was forced to continue digging by his disbelieving community. When he hit a well cover, he exclaimed thankfulness to god and the crowd gathered. They then decided to divide the treasure evenly between the tribe and the mosque.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

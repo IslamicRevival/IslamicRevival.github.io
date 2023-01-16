@@ -8,7 +8,6 @@ Natural beauty can bring about a state of awe. This can increase cognition & red
 
 ## Summary of [Sapient Thoughts #39: Beauty & The Recognition of God — Part 1: Cognitive biases and the environment](https://www.youtube.com/watch?v=L8_pBqY_yyg)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:15:00</a>
@@ -16,8 +15,9 @@ Natural beauty can bring about a state of awe. This can increase cognition & red
 Fahad Islam discusses cognitive biases and how they can lead to inaccurate perceptions of reality. He then discusses how the environment can affect these perceptions, and how this can impact our ability to access the truth.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** This 1-paragraph summary discusses the central thesis of this YouTube video, which is that information on the internet is based on profit maximization and not truth. This, in turn, has led to mistrust in many areas of society.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The central thesis of this video is that exposure to natural beauty increases your ability to see truth as it really is. This is based on an experiment from the 1960s in which people from different parts of the world saw two lines that were actually the same length, but appeared different because one line had arrows pointing downwards on both sides and the other had lines pointing outwards. Across cultures, this phenomenon is usually the same.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses how different communities perceive lines, and how this may be due to environmental factors, such as the architecture around them. Researchers found that the lines seen as longest by members of the "weird" community are also seen as longest by members of the "suku" and "bt" tribes, who live in different types of architecture. The researchers suggest that one's cognitive limitations may also affect their ability to trust others.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses how different communities perceive lines, and how this may be due to environmental factors, such as the architecture around them. Researchers found that the lines seen as longest by members of the "weird" community are also seen as longest by members of the "suku" and "bt" tribes, who live in different types of architecture. The researchers suggest that one's cognitive limitations may also affect their ability to trust others.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  Fahad Islam discusses the idea that humans are susceptible to cognitive biases, which can lead to inaccurate perceptions of reality. He then goes on to discuss how the environment can affect these perceptions, and how this can impact our ability to access the truth.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

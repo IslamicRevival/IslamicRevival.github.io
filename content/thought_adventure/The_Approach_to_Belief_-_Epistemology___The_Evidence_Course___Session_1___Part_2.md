@@ -6,22 +6,22 @@
 
 Session 1 Part 2
 
-In an age of information overload and widespread pseudo-intellectualism, understanding the core foundations of Islam is as essential as ever. 
+In an age of information overload and widespread pseudo-intellectualism, understanding the core foundations of Islam is as essential as ever.
 
 This course comprehensively deconstructs the skeletal structure of prevalent ideologies and concepts such as atheism, scientism, materialism, secularism, and skepticism, in light of an all-encompassing intellectually robust Islamic worldview.
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -29,38 +29,37 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
 ## Summary of [The Approach to Belief - Epistemology | The Evidence Course | Session 1 / Part 2](https://www.youtube.com/watch?v=Unb6O0zpIYM)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -69,8 +68,9 @@ Gmail: hello.tapodcast@gmail.com
  discusses the philosophy of epistemology, which deals with the theory of knowledge. It explains that many atheists argue that there is no evidence for god, but this statement has a number of presuppositions, the first of which is that science is the only method of knowing. It also discusses other methods of knowing, such as empirical evidence and rational evidence. In the next video, we'll dive deeper into the scientific method and analyze its assumptions, insights, and limitations.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Imam Ghazali says that the mind is like the jockey who rides the horse, and the emotions are like the horse. He says that when the emotions are high, people are very religious, but as emotions go down, their beliefs disappear.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The philosophy of epistemology deals with the theory of knowledge, and divides into two groups: empiricists who believe that all true thoughts are derived only from experience, and rationalists who believe that we have previous information or pre-concepts before experience. The rationalists who believed that the mind could answer any questions included those related to the nature of metaphysics. This philosophy morphed into what we now know as the scientific method. Some atheists adopt the empiricist philosophy of knowledge and hold that if something cannot be empirically tested, then it does not exist or is unprovable.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses epistemology, the philosophy of knowledge. It explains that many atheists argue that there is no evidence for god, but this statement has a number of presuppositions, the first of which is that science is the only method of knowing. It also discusses other methods of knowing, such as empirical evidence and rational evidence. In the next video, we'll dive deeper into the scientific method and analyze its assumptions, insights, and limitations.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The philosophy of epistemology deals with the theory of knowledge, and divides into two groups: empiricists who believe that all true thoughts are derived only from experience, and rationalists who believe that we have previous information or pre-concepts before experience. The rationalists who believed that the mind could answer any questions included those related to the nature of metaphysics. This philosophy morphed into what we now know as the scientific method. Some atheists adopt the empiricist philosophy of knowledge and hold that if something cannot be empirically tested, then it does not exist or is unprovable.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses epistemology, the philosophy of knowledge. It explains that many atheists argue that there is no evidence for god, but this statement has a number of presuppositions, the first of which is that science is the only method of knowing. It also discusses other methods of knowing, such as empirical evidence and rational evidence. In the next video, we'll dive deeper into the scientific method and analyze its assumptions, insights, and limitations.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

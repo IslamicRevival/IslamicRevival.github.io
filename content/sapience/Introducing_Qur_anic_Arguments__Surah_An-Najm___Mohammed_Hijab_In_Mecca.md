@@ -5,25 +5,24 @@
 ## Description
 
 Help us educate and mentor others to share the faith academically.
-Donate now: https://sapienceinstitute.org/donate/ 
+Donate now: <https://sapienceinstitute.org/donate/>
 
-Free online courses: https://learn.sapienceinstitute.org/
+Free online courses: <https://learn.sapienceinstitute.org/>
 
-Free books: https://sapienceinstitute.org/books/
+Free books: <https://sapienceinstitute.org/books/>
 
-Have doubts? Book a free one to one meeting with our mentors: https://sapienceinstitute.org/lighthouse/
+Have doubts? Book a free one to one meeting with our mentors: <https://sapienceinstitute.org/lighthouse/>
 
-Listen (Podcast): https://sapienceinstitute.org/sapientvoices/
+Listen (Podcast): <https://sapienceinstitute.org/sapientvoices/>
 
 Follow:
-– Facebook: https://facebook.com/sapienceinstitute.org/ 
-– Twitter: https://twitter.com/SapienceOrg/ 
-– Instagram: https://instagram.com/sapienceinstitute/ 
+– Facebook: <https://facebook.com/sapienceinstitute.org/>
+– Twitter: <https://twitter.com/SapienceOrg/>
+– Instagram: <https://instagram.com/sapienceinstitute/>
 
-Articles, speaker requests & more: https://sapienceinstitute.org/
+Articles, speaker requests & more: <https://sapienceinstitute.org/>
 
 ## Summary of [Introducing Qur'anic Arguments: Surah An-Najm | Mohammed Hijab In Mecca](https://www.youtube.com/watch?v=tgaiiY7rnN0)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -32,7 +31,8 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
  a Muslim man discusses how the introduction of Qur'anic arguments can help people accept modern technology and scientific advancements more easily. He argues that since there is no logical contradiction between Qur'anic teachings and modern technology, people should be more accepting of modern technology. He also discusses the "Double Split" experiment, which demonstrates that one particle can be in two places at the same time.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Muslim scholars discuss the arguments made in Surah An-Najm, which is about the disappearance of the stars. They note that the verses are thought-provoking and discuss the authority of Muhammad.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses Surah An-Najm and Mohammed's prophethood, covering how people might want to claim to be a prophet, and why someone might do so for monetary or poetic reasons.  also discusses how Mohammed has not gone astray and has not earned prophethood, using plain language.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses Surah An-Najm and Mohammed's prophethood, covering how people might want to claim to be a prophet, and why someone might do so for monetary or poetic reasons.  also discusses how Mohammed has not gone astray and has not earned prophethood, using plain language.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  a Qur'anic argument is presented in which it is stated that the prophet Mohammed did not speak from desire, but from inspiration. The argument goes on to say that this is a beautiful example of how the Arabic language uses syllableism to create a beautiful rhyme. It is also stated that this was part of the reason why the prophet Mohammed's policies were in line with what he believed. It is argued that this is a widespread mentality in the Muslim world, and even in the world at large, and that it is the easiest time in history to believe in hybrids.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** , a Muslim man discusses how the introduction of Qur'anic arguments can help people accept modern technology and scientific advancements more easily. He argues that since there is no logical contradiction between Qur'anic teachings and modern technology, people should be more accepting of modern technology. He also discusses the "Double Split" experiment, which demonstrates that one particle can be in two places at the same time.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>**  introduces Qur'anic arguments, which assert that certain physical phenomena are impossible or contradictory. These Arguments include the idea that a particle cannot be both a player in two separate events at the same time, and the idea that an evolutionary process cannot result in an animal that is similar to a whale. The presenter goes on to say that some scientists have financial incentives to support their theories, and that scientists may be influenced by pharmaceutical companies. Finally, the presenter addresses the issue of eugenics, noting that Charles Darwin believed that the black man was less than the white man.
@@ -41,17 +41,19 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>**  Yanni discusses the idea of Allah giving different rewards for different actions, and how there will be accountability in the afterlife. He also mentions the principle of angels having no power against Allah, and the importance of mentioning Gabriel in this context.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** introduces Qur'anic arguments, which assert that certain things are true without needing proof. The example given is that two plus two equals four, which is a fact that is self-sufficient. Allah is the ultimate manifestation of Truth, and Truth itself is self-sufficient. Therefore, Allah cannot be proven, and those who reject Him do so due to desires or ignorance. Homosexuals, people who are addicted to sex, and those who are the most promiscuous in society all have high records of sexual misconduct, which shows how strong their desires are. Luther addressed this issue before going further, and faith can only be regained if people overcome their desires.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  introduces Qur'anic arguments, discussing Surah An-Najm. Mohammed Hijab explains that the most pleasurable things in life are those that are temporary, such as eating a big meal and relieving oneself. He argues that these experiences aren't memorable, and that they're simply everyday occurrences.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the boredom he feels in the worldly life, how this translates to the deeper emotions in the afterlife, and how Allah provides deeper emotions in the afterlife through love. He also talks about how humans have negative emotions such as jealousy, anger, and anxiety, and how Allah provides relief from these negative emotions in the afterlife.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the Islamic concept of "ar-Rahman," or "the Most Merciful." It points out that this concept is mentioned in other religions, and that Islam didn't come about with a new message. It goes on to discuss the concept of "taqwa," or "fear of Allah." provides examples of how taqwa is demonstrated in everyday life, and how it is a prerequisite for faith. then discusses the concept of "tauba," or "repentance." He says that repentance is not only a personal act, but that it is also a prerequisite for faith. finishes the video by discussing the example of someone who turns away from Islam and then stops giving, illustrating the concept with a story from the previous Surah.
+* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Discusses the boredom he feels in the worldly life, how this translates to the deeper emotions in the afterlife, and how Allah provides deeper emotions in the afterlife through love. He also talks about how humans have negative emotions such as jealousy, anger, and anxiety, and how Allah provides relief from these negative emotions in the afterlife.
+* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Discusses the Islamic concept of "ar-Rahman," or "the Most Merciful." It points out that this concept is mentioned in other religions, and that Islam didn't come about with a new message. It goes on to discuss the concept of "taqwa," or "fear of Allah." provides examples of how taqwa is demonstrated in everyday life, and how it is a prerequisite for faith. then discusses the concept of "tauba," or "repentance." He says that repentance is not only a personal act, but that it is also a prerequisite for faith. finishes the video by discussing the example of someone who turns away from Islam and then stops giving, illustrating the concept with a story from the previous Surah.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:20:00</a>
 
  introduces the idea of Qur'anic arguments, which state that no burden person shall bear the burden of another, that man can have nothing but what he does good or bad, and that his deeds will be seen. It then goes on to argue that science is the investigation of past patterns of natural behavior to predict the future, and that law is based on precedent.  then compares the resurrection to other events in which Allah was involved, such as the creation of the universe and humans. It concludes by stating that it is difficult to believe in these event when they have been done before, and that Allah is the one who gives much more than even in contentment outside of the Resurrection.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>**  introduces Qur'anic arguments, which state that no burden person shall bear the burden of another, that man can have nothing but what he does good or bad, and that his deeds will be seen. It then goes on to argue that science is the investigation of past patterns of natural behavior to predict the future, and that law is based on precedent.  then compares the resurrection to other events in which Allah was involved, such as the creation of the universe and humans. It concludes by stating that it is difficult to believe in these events when they have been done before, and that Allah is the one who gives much more than even in contentment outside of the Resurrection.
+
 * **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Jordan Peterson argues that, although the West has produced many great advancements in science and technology, it is ultimately false because civilizations such as those in Egypt, Rome, and Greece have since fallen. Peterson also points out that, although Japan is not a Western civilization, it is still much more advanced than many of the current Muslim nations. Peterson concludes by saying that, although Allah is humbling us, we must remember that we are still very much inferior to past civilizations and must strive to improve.
 * **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>**  introduces the argument that if Islam is true, then it should lead to overall well-being in society. It argues that some of the greatest scientists were the poorest men in life, and Muhammad made them someone who can be eternally living.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>* Discusses the psychological effects of doubt and how it can be used to advantage by Muslims. It discusses the psychological similarities between Surah An-Najm and Surah Al-Fatiha, and how the latter is a reminder of Allah's greatness.  concludes with a warning to those who disbelieve that Allah is capable of removing Baraka from them in a sudden Southern shift.
-* **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>* Discusses the different tones used in Qur'anic discourse to persuade people of the existence of God. He discusses the arguments made in Surah An-Najm about disbelief and the authority of the prophet. He provides homework for students to think about how they can apply these lessons to their lives.
+* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** Discusses the psychological effects of doubt and how it can be used to advantage by Muslims. It discusses the psychological similarities between Surah An-Najm and Surah Al-Fatiha, and how the latter is a reminder of Allah's greatness.  concludes with a warning to those who disbelieve that Allah is capable of removing Baraka from them in a sudden Southern shift.
+* **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** Discusses the different tones used in Qur'anic discourse to persuade people of the existence of God. He discusses the arguments made in Surah An-Najm about disbelief and the authority of the prophet. He provides homework for students to think about how they can apply these lessons to their lives.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

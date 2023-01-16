@@ -4,21 +4,20 @@
 
 ## Description
 
-This video is an insightful outlook on the situation in East Turkestan by an activist who is heavily invested on the topic. 
+This video is an insightful outlook on the situation in East Turkestan by an activist who is heavily invested on the topic.
 
 Talk East Turkestan Youtube:
-https://www.youtube.com/channel/UCskKLWlN4fG_EfaIVthFzuw
+<https://www.youtube.com/channel/UCskKLWlN4fG_EfaIVthFzuw>
 
 Talk East Turkestan Facebook:
-https://www.facebook.com/TalkEastTurkestan/
+<https://www.facebook.com/TalkEastTurkestan/>
 
 Arslan Hidayat
-https://twitter.com/arslan_hidayat
-https://www.facebook.com/arslan.hidayat.12
+<https://twitter.com/arslan_hidayat>
+<https://www.facebook.com/arslan.hidayat.12>
 Get Outlook for Android
 
 ## Summary of [What is happening to the #Uyghur Muslims in Chinese occupied #EastTurkestan](https://www.youtube.com/watch?v=jPRjuHtygYI)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -27,12 +26,13 @@ Get Outlook for Android
  discusses the situation of the Uyghur Muslim population in East Turkestan, China, and describes their history and relationship to other cultures in China. It notes that the Uyghur population is predominantly Turkish, and discusses the Chinese government's efforts to assimilate them into Chinese society.  also highlights the concentration camps in which the Uyghur Muslim population is being forced to learn Chinese.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  presenter discusses the history of East Turkestan, which is officially known by the world as the Xinjiang Uyghur autonomous region, and the plight of the Uyghur Muslims under Chinese occupation. The presenter mentions that East Turkestan was part of the Han Empire for 2000 years, and that the first Turkic nation to accept Islam were the wiggers in 934. Around 900, they accepted Islam and created a kingdom. In 1760, the Chinese Empire took over East Turkestan and ruled it for 80 years. There were many revolts during that period and in 1864, East Turkestan became independent once more. The presenter mentions that East Turkestan was given back to the Ottoman Empire for a brief period in 1876, but it was taken over by the Manchu Empire again in 1884. The presenter explains that East Turkestan was given the name "Shin Jung" in 1911, and that it was under Chinese nationalist rule until 1933. The presenter mentions that East Turkestan fought the Chinese nationalists and established the East Turkestan Islamic Republic in 1944. The presenter states that the Islamic Republic was short-lived, and that East Turkestan was eventually taken over by the Chinese Communists in 1949.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the situation of the Uyghur Muslim population in East Turkestan, China, and describes their history and relationship to other cultures in China. It notes that the Uyghur population is predominantly Turkish, and discusses the Chinese government's efforts to assimilate them into Chinese society.  also highlights the concentration camps in which the Uyghur Muslim population is being forced to learn Chinese.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the situation of the Uyghur Muslim population in East Turkestan, China, and describes their history and relationship to other cultures in China. It notes that the Uyghur population is predominantly Turkish, and discusses the Chinese government's efforts to assimilate them into Chinese society.  also highlights the concentration camps in which the Uyghur Muslim population is being forced to learn Chinese.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** China has been imprisoning Uyghur Muslims in concentration camps in East Turkestan since the beginning of 2017. The camps are designed to "create ethnic harmony" between the Han Chinese and the Uyghur Muslims, but many detainees have died or been raped while in custody.  provides a brief history of the camps and highlights the atrocities that have been committed therein.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The narrator describes how he has visited East Turkestan and spoken to detainees, who allege that they are routinely tortured and killed. The report provides an estimate of the number of camps in East Turkestan and suggests that the number of deaths is likely much higher than reported. The lack of transparency and access to East Turkestan by journalists makes it difficult to verify the allegations.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** In 2009, a massacre occurred in East Turkestan in which tens of thousands of Uyghur Muslims were killed. In 2013, after going to East Turkestan to see for myself, journalist Hannah Gadsby documented how the Chinese government has been slowly erasing the Uyghur people's freedoms and culture. In 2014, the Chinese government began forcibly resettling Uyghur refugees in the Xinjiang Uyghur Autonomous Region, which has led to increased tension and violence.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** The youth in East Turkestan are facing increasing restrictions and surveillance from the Chinese government, which is motivated by a desire to protect Chinese social media "armies" from criticism. 50 cent, a Chinese citizen employed by the Chinese government to spread propaganda against the Uyghur movement, is a particular target of the Chinese regime.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* interviews a number of people in East Turkestan about the repressive Chinese occupation and the difficulty of speaking out. They discuss how social media is being used to spread awareness of the situation and the importance of raising awareness in the lead-up to Ramadan.
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** interviews a number of people in East Turkestan about the repressive Chinese occupation and the difficulty of speaking out. They discuss how social media is being used to spread awareness of the situation and the importance of raising awareness in the lead-up to Ramadan.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

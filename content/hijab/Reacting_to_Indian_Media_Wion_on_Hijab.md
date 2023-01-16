@@ -4,18 +4,17 @@
 
 ## Description
 
-Download/purchase Quranly for iOS: https://apple.co/3wIyhsg Android: https://bit.ly/3mwFHdx
+Download/purchase Quranly for iOS: <https://apple.co/3wIyhsg> Android: <https://bit.ly/3mwFHdx>
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
-My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
+My book: <https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/>
 
-#wion #reaction #muslim
+# wion #reaction #muslim
 
 ## Summary of [Reacting to Indian Media Wion on Hijab](https://www.youtube.com/watch?v=c_QwdFONeoQ)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -24,7 +23,8 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 react to Indian media reports about a potential law that would make hijab mandatory for women in Turkey. He points out the inconsistency of such a law, as well as the hypocrisy of westerners who impose similar restrictions on women in mixed-gender settings. He also points out that there is no such law mentioned in the Quran, and that this doesn't mean that women can wear whatever they want.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The presenter refutes an Indian woman's claims that hijab should be mandatory in Turkey, and points out that she's a hypocrite because of her inconsistent views on Islam.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses how women in the west cannot wear what they want, but in places with sharia law, women are restricted by what they can and cannot wear. He points out that this is hypocritical, as westerners impose similar restrictions on women in mixed-gender schools. also notes that westerners are "the experts" on sharia, but they are not familiar with the sources of the law.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses how women in the west cannot wear what they want, but in places with sharia law, women are restricted by what they can and cannot wear. He points out that this is hypocritical, as westerners impose similar restrictions on women in mixed-gender schools. also notes that westerners are "the experts" on sharia, but they are not familiar with the sources of the law.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** reacts to Indian media reports that suggest a punitive law that stipulates the Quran for a woman who doesn't wear hijab is being considered, pointing out that there is no such law mentioned in the Quran and that this doesn't mean that women can wear whatever they want. He also points out that French lawmakers have approved President Macron's new law aimed at fighting radical Islam, and while the speaker welcomes this as an encouraging trend, he points out that Macron is a fascist who is disguised as a liberal.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

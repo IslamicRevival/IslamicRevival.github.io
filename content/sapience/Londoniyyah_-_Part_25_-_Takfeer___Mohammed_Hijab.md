@@ -4,12 +4,13 @@
 
 ## Description
 
-Listen as audio: https://soundcloud.com/sapienceinstitute/londoniyyah-part-25-takfeer-mohammed-hijab?in=sapienceinstitute/sets/londoniyyah&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+Listen as audio: <https://soundcloud.com/sapienceinstitute/londoniyyah-part-25-takfeer-mohammed-hijab?in=sapienceinstitute/sets/londoniyyah&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing>
 
 Londoniyyah - Part 25 - Takfeer | Mohammed Hijab
 
-To be updated about our content please subscribe and open the notifications.
+To be updated about our content please subscribe and open the notifications
 ----
+
 BOOK A LIGHTHOUSE MENTOR
 
 Are you or someone you know doubting Islam? Do you find yourself struggling to find answers?  Do you have a hard time speaking to someone about Islam?  Are you considering Islam but are unsure about certain concepts?  Are you an activist, Imam or community leader who is unsure about how to handle questions related to science, philosophy, the Islamic moral code, etc.?
@@ -18,12 +19,11 @@ You are not alone.  Over the course of the last decade or more there has been a 
 
 Seeing the rise of  this phenomenon , Sapience Institute is introducing a One to One mentoring service called LIGHTHOUSE.
 
-BOOK A MENTOR HERE: https://sapienceinstitute.org/lighthouse/
+BOOK A MENTOR HERE: <https://sapienceinstitute.org/lighthouse/>
 
-VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: https://sapienceinstitute.org/
+VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: <https://sapienceinstitute.org/>
 
 ## Summary of [Londoniyyah - Part 25 - Takfeer | Mohammed Hijab](https://www.youtube.com/watch?v=ny2l7NACRGs)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -32,22 +32,25 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 Mohammed Hijab discusses the dangers of Takfeer, or accusing others of being kuffar. He argues that Takfeer is impractical and impossible, and that it is anti-Islamic.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** <>
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Mohammed Hijab discusses the concept of takfeer in Islam, explaining that it is a way for Muslims to warn others about the risks of rejecting certain tenets of the faith. He also points out that, while there are some Muslims who adhere to this concept, it is not the predominant view.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses a number of groups that claim orthodoxy in Islam, and how historians must be careful when studying them because of the bias of those writing about them. One such group is the Hawaiian proto-martialists, who are unfortunately only mentioned in passing.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the belief that if you commit a major sin, you become a disbeliever. There is no consensus on what constitutes a major sin, but some scholars say it's only the seven sins mentioned in the hadith of sabah. The berserkers within the ranks of Ali's son, al-Hassan ibn Ali, caused the divisions between the various groups in early Islam. This is the same argument used by ISIS today.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses a number of groups that claim orthodoxy in Islam, and how historians must be careful when studying them because of the bias of those writing about them. One such group is the Hawaiian proto-martialists, who are unfortunately only mentioned in passing.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the belief that if you commit a major sin, you become a disbeliever. There is no consensus on what constitutes a major sin, but some scholars say it's only the seven sins mentioned in the hadith of sabah. The berserkers within the ranks of Ali's son, al-Hassan ibn Ali, caused the divisions between the various groups in early Islam. This is the same argument used by ISIS today.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Londoniyyah discusses the idea that there is an ideological element to radical Islam, which goes back to the earliest days of the religion. The argument is made that despite the Prophet Muhammad's teachings, it is not due to the companions but rather due to ideological factors. This is the main point of contention in takfiri ideology.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses the false belief that committing major sins removes one from Islam. Several Quranic and Sunnah examples are given to illustrate why this belief is false.  also discusses the example of a prostitute who was forgiven by Allah for her actions.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses the importance of having mercy and tolerance in Islam, and how addiction to alcohol can be harmful to a Muslim's religious practice. It also mentions a hadith in which the Prophet Muhammad tells a man that he will be forgiven even if he commits a heinous crime like killing 100 people.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses the false belief that committing major sins removes one from Islam. Several Quranic and Sunnah examples are given to illustrate why this belief is false.  also discusses the example of a prostitute who was forgiven by Allah for her actions.
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses the importance of having mercy and tolerance in Islam, and how addiction to alcohol can be harmful to a Muslim's religious practice. It also mentions a hadith in which the Prophet Muhammad tells a man that he will be forgiven even if he commits a heinous crime like killing 100 people.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>**  Muslim cleric Mohammed Hijab discusses the Islamic concept of takfeer (excommunication). He states that murder, homosexuality, and other major sins all lead to one's expulsion from Islam. He also points out that the primary audience for Islamic teachings is the Prophet Muhammad and Allah Himself.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses the ideas of hawaiianism and kharism, which are two terms used to describe an ideology that originated in the United States in the early 20th century. This ideology argued that Muslims were intolerant, and that there was a need for Muslims to break away from Islamic tradition in order to become more tolerant.  discusses some examples of groups that followed this ideology, and how they were typically viewed by other Muslims.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses how, within Islam, there are different schools of thought on how to deal with extremism. One such school of thought is the ashari, which holds that extremism is caused by problems within a person's character, not by their adherence to Islam.  then goes on to discuss how, in the modern era, certain groups have proliferated due to the actions of the United States and Israel. These groups, including ISIS and al-Qaeda, are said to be responsible for a large amount of bloodshed.  concludes by saying that, in order to combat these groups, we need to take control of the narratives around them and avoid scapegoating one group over another.
+* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses the ideas of hawaiianism and kharism, which are two terms used to describe an ideology that originated in the United States in the early 20th century. This ideology argued that Muslims were intolerant, and that there was a need for Muslims to break away from Islamic tradition in order to become more tolerant.  discusses some examples of groups that followed this ideology, and how they were typically viewed by other Muslims.
+* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Discusses how, within Islam, there are different schools of thought on how to deal with extremism. One such school of thought is the ashari, which holds that extremism is caused by problems within a person's character, not by their adherence to Islam.  then goes on to discuss how, in the modern era, certain groups have proliferated due to the actions of the United States and Israel. These groups, including ISIS and al-Qaeda, are said to be responsible for a large amount of bloodshed.  concludes by saying that, in order to combat these groups, we need to take control of the narratives around them and avoid scapegoating one group over another.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>**  covers Takfeer, or the crime of killing someone who is considered a Muslim saint, and discusses the case of Abu Bakr al-Baghdadi, who was not even alive at the time of these events. It points out that many Muslims are indoctrinated with techfeedism, and that this ideology can lead to disastrous consequences, such as infighting between friends who would otherwise be united in jihad.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  Mohammed Hijab discusses the dangers of Takfeer, or accusing others of being kuffar. He also discusses the psychological effects of living in a society where such accusations are commonplace. He argues that Takfeer is impractical and impossible, and that it is anti-Islamic.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:05:00</a>
 
 criticizes the logic used by Isil, which argues that if someone is not Muslim, they are automatically an enemy and may be killed. argues that this logic is invalid because it is based on a person's specific beliefs and actions, which cannot be generalized to all Muslims.
 
-**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>* Discusses an argument used by Isil, which is that if someone is not Muslim, they are automatically an enemy and may be killed. argues that this logic is invalid because it is based on a person's specific beliefs and actions, which cannot be generalized to all Muslims.
+**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Discusses an argument used by Isil, which is that if someone is not Muslim, they are automatically an enemy and may be killed. argues that this logic is invalid because it is based on a person's specific beliefs and actions, which cannot be generalized to all Muslims.
+
 * **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** criticizes some Muslims for arguing that treachery and apostasy are not kufr, and therefore can't be grounds for leaving Islam. He points out that many Muslim institutions and centers of power do not agree with this argument, and that the majority of Muslims condemn violence and treachery.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

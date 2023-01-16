@@ -6,21 +6,20 @@
 
 Hamza Andreas Tzortzis has written an academic paper on the hard problem of consciousness. Here he provides an overview of what consciousness is, the specific in principle problem of solving the hard problem of consciousness on a materialistic paradigm and briefly touches upon some various explanations from a materialistic paradigm and why they fail.
 
-Full video: https://youtu.be/RskdqZa7gws
-
+Full video: <https://youtu.be/RskdqZa7gws>
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -28,41 +27,39 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
-
-#hardproblemofconsciousness
+# hardproblemofconsciousness
 
 ## Summary of [Hamza Tzortzis on The Hard Problem of Conscioussness | Podcast Highlight](https://www.youtube.com/watch?v=zwDd2UNm9lE)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -71,10 +68,11 @@ Gmail: hello.tapodcast@gmail.com
 Hamza Tzortzis discusses the hard problem of consciousness, which is the challenge of understanding subjective experiences from a materialist perspective. He argues that the epistemic gap between people who have conscious experiences and those who don't remains unsolved. He then introduces a professor from King's College in London who has articulated a powerful undercutting defeater to those who claim that neuroscience will one day be able to answer this question.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Hamza Tzortzis discusses the hard problem of consciousness, which is the challenge of understanding subjective experiences from a materialist perspective. He argues that the epistemic gap between people who have conscious experiences and those who don't remains unsolved.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Hamza Tzortzis discusses the problem of consciousness, pointing out that neuroscience presupposes physicalism, which means that it will never be able to answer the question of what it's like to have an inner subjective conscious experience. He then introduces a professor from King's College in London who has articulated a powerful undercutting defeater to those who claim that neuroscience will one day be able to answer this question.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Hamza Tzortzis discusses the argument that the neurochemical event of consciousness is not necessary for a subjective conscious experience. He argues that this is because when you do a study of all the neurobiological correlations, you will see that sometimes the neurochemical event is not always present for a particular part of the brain. He also mentions that there are two popular physicalist approaches--emergent materialism and functionalism. Each of these views has its own set of philosophical assumptions that need to be addressed.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Brother Hamza Tzortzis discusses the two main problems with materialism and consciousness- one is an ontological problem, and the other is an epistemological problem. He explains how physicalism tries to answer these problems by using science. He then discusses the in-principle problem with physicalism- that subjective experiences cannot be explained by physical properties. He gives an example of how science would not be able to tell us about the experience of purple. Finally, he discusses how science can investigate subjective experiences by using experiments.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Hamza Tzortzis discusses the hard problem of consciousness, which is the difficulty in understanding how experience arises from physical properties of the brain. He points to three problems with trying to understand consciousness: that there is no language to describe it, that it is first person experience, and that it is impossible to explain how experience arises from physical properties of the brain.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Hamza Tzortzis discusses the problem of consciousness, pointing out that neuroscience presupposes physicalism, which means that it will never be able to answer the question of what it's like to have an inner subjective conscious experience. He then introduces a professor from King's College in London who has articulated a powerful undercutting defeater to those who claim that neuroscience will one day be able to answer this question.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Hamza Tzortzis discusses the argument that the neurochemical event of consciousness is not necessary for a subjective conscious experience. He argues that this is because when you do a study of all the neurobiological correlations, you will see that sometimes the neurochemical event is not always present for a particular part of the brain. He also mentions that there are two popular physicalist approaches--emergent materialism and functionalism. Each of these views has its own set of philosophical assumptions that need to be addressed.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Brother Hamza Tzortzis discusses the two main problems with materialism and consciousness- one is an ontological problem, and the other is an epistemological problem. He explains how physicalism tries to answer these problems by using science. He then discusses the in-principle problem with physicalism- that subjective experiences cannot be explained by physical properties. He gives an example of how science would not be able to tell us about the experience of purple. Finally, he discusses how science can investigate subjective experiences by using experiments.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Hamza Tzortzis discusses the hard problem of consciousness, which is the difficulty in understanding how experience arises from physical properties of the brain. He points to three problems with trying to understand consciousness: that there is no language to describe it, that it is first person experience, and that it is impossible to explain how experience arises from physical properties of the brain.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

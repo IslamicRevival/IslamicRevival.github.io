@@ -4,7 +4,7 @@
 
 ## Description
 
-DONATE NOW: https://www.saveiman.com/fb?affiliate_id=3414212 ⬅
+DONATE NOW: <https://www.saveiman.com/fb?affiliate_id=3414212> ⬅
 
 The Prophet ﷺ said: “𝙒𝙝𝙤𝙚𝙫𝙚𝙧 𝙗𝙪𝙞𝙡𝙙𝙨 𝙖 𝙈𝙤𝙨𝙦𝙪𝙚 𝙛𝙤𝙧 𝘼𝙡𝙡𝙖𝙝, 𝘼𝙡𝙡𝙖𝙝 𝙬𝙞𝙡𝙡 𝙗𝙪𝙞𝙡𝙙 𝙛𝙤𝙧 𝙝𝙞𝙢 𝙖 𝙨𝙞𝙢𝙞𝙡𝙖𝙧 𝙝𝙤𝙪𝙨𝙚 𝙞𝙣 𝙅𝙖𝙣𝙣𝙖𝙝.”
 
@@ -14,10 +14,9 @@ If you support this project, you will in sha Allah get a house in Jannah and sha
 ✅ Making Dhikr!
 ✅ Memorizing the Qur’an!
 
-Please donate and help establish this Masjid and earn your reward ➡ https://www.saveiman.com/fb?affiliate_id=3414212 ⬅
+Please donate and help establish this Masjid and earn your reward ➡ <https://www.saveiman.com/fb?affiliate_id=3414212> ⬅
 
 ## Summary of [Full Channel 4 Interview Hindutva/Muslim Tensions](https://www.youtube.com/watch?v=BhjIg11dP6k)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -26,12 +25,13 @@ Please donate and help establish this Masjid and earn your reward ➡ https://ww
 "Full Channel 4 Interview Hindutva/Muslim Tensions," the Norwegian speaker Muhammad Hijab interviews a British Muslim about the tensions between Muslims and Hindutva/right-wing groups. The British Muslim argues that there is compatibility between Islam and social liberalism or secular feminism. The psychotherapist in the video discusses how Islamaphobia is causing tension in Leicester. urges both the police and the media to do their jobs properly in order to prevent similar incidents from happening in the future.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Hindutva/Muslim tensions are explored in a YouTube video by a Norwegian speaker, Muhammad Hijab. discusses the need for Muslim communities to return to their Islamic roots and the impact of western values on Islam. Hijab argues that Islam is compatible with western values and that Muslims should not conform to western ideologies.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  interviews a British Muslim who discusses tensions between Muslims and Hindutva/right-wing groups. The British Muslim argues that there is compatibility between Islam and social liberalism or secular feminism, and that if Injustice has been done to any community, it is his moral duty to try and stop it.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** A YouTube video features Josh Waitzkin, who discusses tensions between Hindus and Muslims in Leicester, England. According to Waitzkin, Hindutva, or the fascistic ideology behind Hinduism, is a political ideology, not a religion, and he was not mocking reincarnation when he spoke about it. When confronted by a group of angry Hindus, Waitzkin attempted to explain his position, but was met with hostility. He believes that confrontation is necessary to prevent the spread of extremism within either community.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses ensions between Muslims and Hindus in Leicester and how these tensions were exacerbated by the presence of a speaker with religious authority. He urges both the police and the media to do their jobs properly in order to prevent similar incidents from happening in the future.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses ensions between Muslims and Hindus in Leicester and how these tensions were exacerbated by the presence of a speaker with religious authority. He urges both the police and the media to do their jobs properly in order to prevent similar incidents from happening in the future.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** describes how he has been the victim of defamation of character and how the media has tried to manipulate his words to make him look bad. He also says that he doesn't care what the media has to say, as their opinions mean nothing to him.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Psychotherapist discusses the possibility that the unconscious mind and the ego are battling each other, and also how Islamaphobia is causing tension in Leicester. He says that he would only do something that is in the service of his people, but would be deterred if the people of Leicester do not want Outsiders coming down. He also discusses how young Muslim men in Leicester are growing up with an identity politics that is causing issues.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses ensions between Hindus and Muslims in the UK, and how Hindus should defend themselves. He argues that pacifism is not the best approach when faced with a volatile situation.
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses ensions between Hindus and Muslims in the UK, and how Hindus should defend themselves. He argues that pacifism is not the best approach when faced with a volatile situation.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>**  features a Full Channel 4 interview with Hindutva/Muslim Tensions author, Dr. Shabbir Akhtar. Dr. Akhtar discusses the difficulties police have in dealing with stabbings, and how the community should be willing to take action themselves in order to prevent violence from escalating. He also condemns the act of pulling flags off of indexes in retaliation for religious insults, saying it is one of the most condemnable things Muslims have done.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

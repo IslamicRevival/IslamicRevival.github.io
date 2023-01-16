@@ -5,10 +5,9 @@
 ## Description
 
 BBC News introduced Cambridge Central Mosque, nominated for the prestigious Stirling Prize for Britain's best new building, one of six buildings in the shortlist.
-https://www.youtube.com/watch?v=kfcBq5VKEgU
+<https://www.youtube.com/watch?v=kfcBq5VKEgU>
 
 ## Summary of [The Extraordinary Cambridge Central Mosque](https://www.youtube.com/watch?v=CyOcGExNclY)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -17,6 +16,7 @@ https://www.youtube.com/watch?v=kfcBq5VKEgU
 The Extraordinary Cambridge Central Mosque is a beautiful, sustainable mosque designed by British architects Box Barfield. The mosque features geometric columns made of timber trees, which form the structural support for the roof. The mosque is used by the whole community, not just Muslims, and its design is a synthesis of British sacred architecture and Islamic traditions.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The Extraordinary Cambridge Central Mosque is a beautiful, sustainable mosque designed by British architects Box Barfield. The mosque features geometric columns made of timber trees, which form the structural support for the roof. When visitors enter the mosque, they feel "other" and "uplifting." The mosque is used by the whole community, not just Muslims. The mosque's design is a synthesis of British sacred architecture and Islamic traditions, and it symbolizes the "inherent interest" of Islam in bringing together different cultures and civilizations.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The Extraordinary Cambridge Central Mosque is a beautiful example of how Islamic and British architecture can work together. The mosque was designed by Professor Tim Winter and the English architects who created it.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

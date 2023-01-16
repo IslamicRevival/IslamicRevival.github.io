@@ -6,8 +6,9 @@
 
 Londoniyyah Part 4 - 3rd Wave Feminism | Mohammed Hijab
 
-To be updated about our content please subscribe and open the notifications.
+To be updated about our content please subscribe and open the notifications
 ----
+
 BOOK A LIGHTHOUSE MENTOR
 
 Are you or someone you know doubting Islam? Do you find yourself struggling to find answers?  Do you have a hard time speaking to someone about Islam?  Are you considering Islam but are unsure about certain concepts?  Are you an activist, Imam or community leader who is unsure about how to handle questions related to science, philosophy, the Islamic moral code, etc.?
@@ -16,12 +17,11 @@ You are not alone.  Over the course of the last decade or more there has been a 
 
 Seeing the rise of  this phenomenon , Sapience Institute is introducing a One to One mentoring service called LIGHTHOUSE.
 
-BOOK A MENTOR HERE: https://sapienceinstitute.org/lighthouse/
+BOOK A MENTOR HERE: <https://sapienceinstitute.org/lighthouse/>
 
-VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: https://sapienceinstitute.org/
+VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: <https://sapienceinstitute.org/>
 
 ## Summary of [Londoniyyah - Part 4 - 3rd Wave Feminism | Mohammed Hijab](https://www.youtube.com/watch?v=4y70z7M4Br0)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -30,17 +30,18 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
  discusses some of the key concepts of third wave feminism, including intersectionality and post-modernism. It critiques the movement for not taking into account the complexities of different intersections of identity, and for not adhering to medical definitions of terms such as "srs."
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Third wave feminism is a different, more post-modern form of feminism that incorporates notions of post-structuralism and post-modernism.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the concept of intersectionality, which is a key term in third wave feminism. It explains that when talking about women, intersectionality refers to different identity markers, such as race, sexual orientation, and disability. Although the concept is important, many third wave feminists do not consider religion and disability as important issues.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the idea that there is no such thing as common oppression, and that different groups of people experience different forms of oppression. Bell hooks says that a mass-based feminist movement is necessary in order to end sexist oppression, and Beau hooks contradicts herself by saying that the oppression has to be okay in order to achieve feminism as a universal concept.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses how third wave feminism tries to be unified, but has disagreements on issues such as oppression and race. Judith Butler points out that gender is a performance, while race is a social construct. This creates a problem because Butler uses vague language when talking about race, while she speaks in more specific terms when discussing gender. This creates a division in the feminist movement, weakening activism.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the concept of intersectionality, which is a key term in third wave feminism. It explains that when talking about women, intersectionality refers to different identity markers, such as race, sexual orientation, and disability. Although the concept is important, many third wave feminists do not consider religion and disability as important issues.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the idea that there is no such thing as common oppression, and that different groups of people experience different forms of oppression. Bell hooks says that a mass-based feminist movement is necessary in order to end sexist oppression, and Beau hooks contradicts herself by saying that the oppression has to be okay in order to achieve feminism as a universal concept.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses how third wave feminism tries to be unified, but has disagreements on issues such as oppression and race. Judith Butler points out that gender is a performance, while race is a social construct. This creates a problem because Butler uses vague language when talking about race, while she speaks in more specific terms when discussing gender. This creates a division in the feminist movement, weakening activism.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Mohammed Hijab discusses how third wave feminism does not take into account the complexities of intersectionality, and how it would be wise to rely on Judith Butler's opinion on the matter.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** critiques third way feminism's definition of domestic violence, which is limited to violence between individuals who are related through intimacy, blood, or law. points out that this definition only allows for male perpetrators and excludes children, which is an issue because domestic violence can occur against children.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** According to the nspcc, crime in the Muslim world is predominantly committed by women, not men. Third wave feminism challenges this definition, stating that violence against women is a product of power relationships and cannot be defined without privileging one gender.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses definitions of rape, feminism, and third wave feminism. It explains that, in a definition of rape according to second wave feminism, female genital mutilation (FGM) would be considered as one of the four types of rape. According to the NHS, women who have labiaplasty, a type of surgery which reshapes the female genitalia, are also at risk of undergoing female genital mutilation. Additionally, the video discusses sexual realignment surgery, which is where a man removes all or part of his penis, and how that would be considered as FGM.
+* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses definitions of rape, feminism, and third wave feminism. It explains that, in a definition of rape according to second wave feminism, female genital mutilation (FGM) would be considered as one of the four types of rape. According to the NHS, women who have labiaplasty, a type of surgery which reshapes the female genitalia, are also at risk of undergoing female genital mutilation. Additionally, the video discusses sexual realignment surgery, which is where a man removes all or part of his penis, and how that would be considered as FGM.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>**  Mohammed Hijab discusses the third wave feminism movement and its definition of "srs." He points out that there are many medical conditions that can occur after a woman has a clitoridectomy, and that this should be taken into account when discussing abortion. He also discusses the definition of "srs" and its lack of adherence to medical conceptions.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the third wave feminism concept of "homo nationalism", which refers to the privileging of homosexual bodies over those of other communities. This privileging may be used to justify oppression, as in the case of aid to African countries.
+* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Discusses the third wave feminism concept of "homo nationalism", which refers to the privileging of homosexual bodies over those of other communities. This privileging may be used to justify oppression, as in the case of aid to African countries.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>**  Mohammed Hijab discusses the idea of "coming out of the closet" and how it is preferred to going into into the closet. He argues that this is a form of cultural imperialism, and that there is no justification for it. He goes on to discuss the issue of sexuality, and how third wave feminists believe that people should be able to express themselves in whatever way they please. He also argues that this will be the expression of the true self, and will result in self-actualization.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the intersection of different identities and how, as intersectionalists, they should prioritize the subject's decision over any hierarchy. It also discusses the deconstructionist nature of post-modernism, which has led to the deconstruction of second wave feminism.
+* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Discusses the intersection of different identities and how, as intersectionalists, they should prioritize the subject's decision over any hierarchy. It also discusses the deconstructionist nature of post-modernism, which has led to the deconstruction of second wave feminism.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

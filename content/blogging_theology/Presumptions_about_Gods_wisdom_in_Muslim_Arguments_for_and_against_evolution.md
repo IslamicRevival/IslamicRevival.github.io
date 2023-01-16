@@ -4,16 +4,15 @@
 
 ## Description
 
-Dr David Jalajel's article: https://www.academia.edu/s/e05a6d87f1
+Dr David Jalajel's article: <https://www.academia.edu/s/e05a6d87f1>
 
 You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
+<https://www.patreon.com/Bloggingtheology>
 
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
 ## Summary of [Presumptions about God’s wisdom in Muslim Arguments for and against evolution](https://www.youtube.com/watch?v=0IzntNKcmLQ)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -22,6 +21,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 The video discusses different presumptions Muslims make about God's wisdom in regards to evolution. It points out that while all Muslims agree that a child will reach a point where they understand God, there is still much more to God than what is understood at this point. The video also discusses the role of the universe and how it helps Muslims to understand God more fully.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Dr. David Solomon discusses Muslim arguments for and against evolution, discussing how these arguments fit into broader theological concepts. Three types of questions are asked about God's actions and capabilities: what he is capable of, what he did, and what would he do if he were God. Muslim theologians often ask whether or not evolution is compatible with Islamic beliefs, and whether or not God would behave in a way that is appropriate for him to be God.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The 1-paragraph summary above states that, within Sunni theology, theologians would have to agree that God is capable of doing everything whatsoever, as long as we don't determine that something is a logical impossibility.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The three different divine action models that Sunni Muslims consider are occasionalism, concurrentism, and instrumentalism. Each model has its own problems, but all three agree that God creates everything directly. The main difference between the three models is how much chance is involved in the process of creation.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Muslim scientists argue that, because God is the creator of the universe, he is also capable of creating things that are beyond our direct observation. In addition, they argue that, within the sunni perspective, there is no difference between a metaphysical question and a scientific question.
@@ -33,11 +33,13 @@ The video discusses different presumptions Muslims make about God's wisdom in re
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The three Sunni schools of thought (al-Ghazali, anesthesiology, and nest of theologians) agree that knowledge of the wise is the knower of the reality of things and the capable of precision in making them accord precisely through his will. They disagree, however, on whether this requires a coherent creation or not. Imam al-Mataridi points out that if those sectarians people of other sexes gave consideration to what we have mentioned of proofs, they would know their intellects are limited in their ability to know human wisdom. He then goes on to say that even human wisdom is hard for humans to figure out, let alone being able to comprehend the Lord's wisdom. Finally, he emphasizes that while knowledge of the wise is a valuable asset, it does not mean that because we get no benefit out of the center of the mountain, the core of the earth, or the bottom of the sea, that God created them in vain.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Muslims argue that because God's wisdom is hidden from us, we can't know the details of how he created the world. They also argue that because evolution is wasteful, it proves that God does not exist.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The video presents two arguments for and against evolution: the first is conservative and efficient, while the second is more liberal and aesthetic. Both arguments have been used against evolution, with the former being seen as wasteful and inefficient and the latter as foolish. Al-Ghazali, an Islamic philosopher, argued that the best possible world is one in which the Earth revolves around the sun, as this is more efficient and practical.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:40:00</a>
 
 The video discusses the various arguments that Muslims have made for and against evolution, pointing out that all of the arguments suffer from the same flaw: they presume that God's actions are limited by human actions. This leads to charismatic leaders using unsubstantiated arguments to build personal empires.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Muslim thinkers have debated what the prophet Muhammad meant by "The best possible world." Some argue that this means that there is no best possible world, while others believe that it means that God is obliged to create a best possible world. This debate has important implications for science, as some theories in science may not be able to be considered "beautiful" if they do not meet the conditions for being the best possible world.
+
 * **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** The first argument against evolution is that if natural purposeless causes are found to be sufficient to account for such things, people would have no reason to believe in God. The argument is that this would be contradictory to wisdom, as it would mean that God would have to leave some things with other cause, which would not make sense. This means that the argument would not be very strong, as if we understand that God's existence is manifest in the causal process itself, then it would be strengthened by the precision of that design.
 * **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Suleiman Yang argues that the Islamic view of human origins does not square with a dominant scientific view of evolution, as argued by Charles Darwin. The argument assumes a false analogy that God's creative act must conform with subjective human notions of dignity and honor. It is unreasonable to assume that if we take something out of the trash we would not respect it very much, so we say that it must follow for God that human beings be created in this way. Another anti-evolution argument is that the theory of evolution is repugnant to believers because it is totally in opposition to the good qualities required by God of His servants. It also assumes a strange argument from Satan, who says that when he was told to bow down to Adam, he invoked his origins. Adam's origin says you created me from fire, and you created me from mud. These arguments assume a very subjective view of God's actions and are incompatible with some verses of the Quran.
 * **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** The author of the video critiques arguments made by Muslims in favor of and against evolution, pointing out that the comparison between the actions of the creator and those of individual creatures living in this world is flawed. He also notes that there is no evidence that God must act in accordance with the same rules as humans.

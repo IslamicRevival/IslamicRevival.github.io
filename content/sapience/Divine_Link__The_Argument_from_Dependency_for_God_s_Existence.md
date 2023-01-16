@@ -8,7 +8,6 @@ Divine Link: The Argument from Dependency God's Existence
 
 ## Summary of [Divine Link: The Argument from Dependency for God's Existence](https://www.youtube.com/watch?v=DlNEnD65Wfo)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:35:00</a>
@@ -16,6 +15,7 @@ Divine Link: The Argument from Dependency God's Existence
  argues that the universe is eternal and dependent, and that this dependency requires an external explanation. provides an example of a flower to illustrate his point. He argues that even if the universe were eternal, it does not mean it is necessary. The individual making the argument contends that there is no scientific explanation for the universe, and that this proves that God must exist.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The argument from dependency for God's existence is based on the rational principle that it is a sign of an intelligent mind to question that which did not have to be. Dependency is defined as not being necessary, meaning something can exist that is not necessary.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Josh Wheaton argues that there is nothing necessary about the arrangement of fundamental building blocks, such as material substances, and that requires an external explanation. He provides an example of a flower and argues that there is a need to explain the arrangement external to the flower.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  argues that the universe and all that we perceive must have an external explanation for their existence, as they are dependent on something else. This external explanation could be necessary and eternal, leading to the conclusion that the universe is eternal and independent.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** argues that the universe and all that we perceive are dependent for their existence, and that this dependence is a logical consequence of the limitations of physical reality.

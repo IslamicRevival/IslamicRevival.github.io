@@ -8,7 +8,6 @@ A debate between a Muslim and an Ex-Muslim
 
 ## Summary of [MUSLIM VS EX-MUSLIM | MOHAMMED HIJAB](https://www.youtube.com/watch?v=U_vSh7wXQGI)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:30:00</a>
@@ -16,12 +15,13 @@ A debate between a Muslim and an Ex-Muslim
 discusses the differences between Muslims and ex-Muslims, and how they can use deductive reasoning to debate the existence of God.  also argues that hyperbole and overt expressions of religious belief can be harmful to religious harmony.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The Muslim mothers people are said to have a lot of power, but this power comes with a price. They can bully others, and those who don't agree with their religion may end up paying the price.  also discusses the idea of a judgment day, and how Muslims will be judged based on their actions.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** This Muslim and ex-Muslim discussion addresses the reasons why one becomes a Muslim and why one might leave Islam. The Muslim argues that there is a coherent explanation for the existence of the universe, and that this explanation comes from the belief in one singular, all-powerful entity, Allah. The ex-Muslim argues that there are no good reasons to remain Muslim, and that one can be intellectually honest and accept the existence of the universe without needing to rely on faith. The Muslim argues that starting from a position of belief is the simplest thing to do, and that both parties can begin from there.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** investigates the idea that everything in existence - including universes - depends on something else. It goes on to explore the concept of universality, and argues that if this is true, then evil does not exist.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the idea that anything is limited, and that this includes the universe. It then goes on to discuss the concept of infinity, and how it is not a number. argues that if something is infinite, it cannot be created or destroyed. This would mean that the universe is not limited, and would thus be infinite.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the idea that anything is limited, and that this includes the universe. It then goes on to discuss the concept of infinity, and how it is not a number. argues that if something is infinite, it cannot be created or destroyed. This would mean that the universe is not limited, and would thus be infinite.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>**  "Muslim vs. Ex-Muslim" discusses the differences between Muslims and ex-Muslims, and shows how deductive logic works. It argues that Muslims cannot be justified in their beliefs by inductive logic - that is, logic which starts with what is known and builds upon it - because the existence of the universe depends on it.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** , a Muslim debates an ex-Muslim about the existence of God. The ex-Muslim argues that there are three options - that the universe is dependent on oneself, that the universe is independent, or that occasional vibration is all that exists. The Muslim argues that, even if this were true, it would not be sufficient to prove the existence of God.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses how hyperbole and overt expressions of religious belief can be harmful to religious harmony. He argues that deductive reasoning should be used with premises that are more accepting of other people's beliefs. then talks about how Muslims and ex- Muslims can coexist peacefully, and asks a bro how he is doing.
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses how hyperbole and overt expressions of religious belief can be harmful to religious harmony. He argues that deductive reasoning should be used with premises that are more accepting of other people's beliefs. then talks about how Muslims and ex- Muslims can coexist peacefully, and asks a bro how he is doing.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

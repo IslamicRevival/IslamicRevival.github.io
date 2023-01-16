@@ -4,10 +4,9 @@
 
 ## Description
 
-More about Professor Geza Vermes: https://www.haaretz.com/jewish/1924-the-priest-who-studied-jesus-the-jew-is-born-1.5399062
+More about Professor Geza Vermes: <https://www.haaretz.com/jewish/1924-the-priest-who-studied-jesus-the-jew-is-born-1.5399062>
 
 ## Summary of [The Resurrection](https://www.youtube.com/watch?v=IxRDbYZ9-os)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -16,6 +15,7 @@ More about Professor Geza Vermes: https://www.haaretz.com/jewish/1924-the-priest
 The resurrection of Jesus is a central tenet of Christianity, but according to Professor Giza Vermes, it is not something that Jesus himself taught. Vermes argues that the concept of resurrection was initially promoted by the Pharisees, and that it is rarely mentioned in first-century tomb inscriptions. He also points out that the disciples' disbelief at Jesus' resurrection is in line with what would be expected if these prophecies did not originate with Jesus himself.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The resurrection of Jesus is at the heart of the message of Christianity, and according to Professor Giza Vermes, it is not among the central tenets of the teaching of Jesus. He argues that the concept of resurrection was initially promoted by the Pharisees, another group of people frequently mentioned in negative terms in the Gospels. He also points out that resurrection is rarely mentioned on tomb inscriptions from the first century. Turning to the Gospels, Professor Vermes argues that resurrection is not among the central tenets of the teaching of Jesus, who was more concerned with eternal life than with the revival of dry bones. One may also put a question mark to his repeated annunciations of his death and resurrection.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Christianity believes that Jesus will return to earth and be resurrected. Luke's gospel tells the story of how some of Jesus' disciples found his body missing from the tomb, and then later saw him alive after he had risen from the dead. Gizavermesh points out that the disciples' disbelief at Jesus' resurrection is in line with what would be expected if these prophecies did not originate with Jesus himself, but were instead added later by apostles who were reminded of what Jesus had said to them.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The Resurrection is a Christian belief that believes Jesus rose from the dead. There are two types of evidence for the Resurrection: first, eyewitness accounts, and second, the apparitions of Jesus to his apostles. Neither of these types of evidence fares well when compared to other religions.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Jerusalem prophet Giza Vermish concludes that four possible rational explanations exist for how the resurrection of Jesus could have happened: the body was not found by the women, the tomb was wrong, the apostles stole the body, or he was buried alive and later woke up. Though this modern concoction of the novel and film The Da Vinci Code is unsupported by ancient evidence, the transformation of the apostles--a phenomenon that occurred due to the inward experience of the spirit--may lead us out of this maze.

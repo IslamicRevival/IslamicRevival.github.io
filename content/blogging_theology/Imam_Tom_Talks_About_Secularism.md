@@ -4,16 +4,15 @@
 
 ## Description
 
-UTICA MASJID https://www.youtube.com/c/UTICAMASJID
+UTICA MASJID <https://www.youtube.com/c/UTICAMASJID>
 
 You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
+<https://www.patreon.com/Bloggingtheology>
 
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
 ## Summary of [Imam Tom Talks About Secularism](https://www.youtube.com/watch?v=Sjsnmp-PqI0)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -22,22 +21,25 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 Imam Tom discusses secularism and how it has changed the way Muslims interact with their faith. He argues that, while there are some negative aspects to secularism, it can be more beneficial than traditional methods. He also discusses how secularism has changed the way people experience and understand the world.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Imam Tom discusses how a book he read many years ago, Formation of the Secular, is still very relevant to the current political climate in North America. He recommends a book called The Political Ideas of the Laïcites by Olivier Roy.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses ecularism, its definition, and its effects on religion, ethics, and politics. He also discusses how secularism produces different concepts of religion that were not present before.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses how secularism is a political goal within modernity and the west, and how this concept is often misunderstood. He points out that there is a precedent for secularism within islam, and that this does not mean that religiosity has a monopoly on violence.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses ecularism, its definition, and its effects on religion, ethics, and politics. He also discusses how secularism produces different concepts of religion that were not present before.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses how secularism is a political goal within modernity and the west, and how this concept is often misunderstood. He points out that there is a precedent for secularism within islam, and that this does not mean that religiosity has a monopoly on violence.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Imam Tom discusses secularism and its various goals, including the autonomy of women. He compares this to the metaphysics of different religious perspectives, and points out that there is a fundamental clash of worldviews between feminists and those who adhere to a religious perspective.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Imam Tom discusses secularism, the idea that morality and ethics are relative to time, and how this mindset has led to various catastrophes.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses increasing prevalence of secularism, which is seen by many as a negative trend. argues that Islam is an optimistic religion that is based on hope. He points out that the different interpretations of events in the world are due to people's beliefs about an afterlife. He also says that people's sense of morality and imperatives are based on their belief in an afterlife. He believes that unless people try real communism, which is based on the shared goals of people, we will continue to make the same mistakes.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses increasing prevalence of secularism, which is seen by many as a negative trend. argues that Islam is an optimistic religion that is based on hope. He points out that the different interpretations of events in the world are due to people's beliefs about an afterlife. He also says that people's sense of morality and imperatives are based on their belief in an afterlife. He believes that unless people try real communism, which is based on the shared goals of people, we will continue to make the same mistakes.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Imam Tom discusses secularism, its effects on the masses, and its relationship to technology and metaphysics. He argues that secularism is one of the goals of western modernity and that it carries with it a shift in how the masses experience time.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses effects of secularism on the way people experience and understand the world. It points out that, in contrast to pre-modern societies where knowledge was based on religious authority, in modern secular societies individuals are more reliant on their own intelligence and reasoning. This shift creates a different type of authority, as individuals are now authorized to form their own opinions about things, rather than relying on a scholar or authority figure.
+* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses effects of secularism on the way people experience and understand the world. It points out that, in contrast to pre-modern societies where knowledge was based on religious authority, in modern secular societies individuals are more reliant on their own intelligence and reasoning. This shift creates a different type of authority, as individuals are now authorized to form their own opinions about things, rather than relying on a scholar or authority figure.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Imam Tom discusses secularism, how it has changed the way Muslims interact with their faith, and how it can be more beneficial than traditional methods. He also mentions how there are some negative aspects to secularism, such as the detachment of sexuality from real life.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Imam Tom discusses secularism and its effects on Muslims in the United States. He talks about how mainline Protestant denominations became secularized and how this created a split between evangelical and mainline denominations. He also points out that the Muslim American experience is different depending on where one lives.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Imam Tom discusses secularism and how it is legitimized. He quotes Charles Taylor and shows how the assumption that religious conviction leads to violence is false.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Imam Tom discusses secularism, its benefits and drawbacks, and how it shapes the way politics are shaped in secular societies.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:25:00</a>
 
 Imam Tom discusses secularism and its advantages and disadvantages. He argues that secularism is not just about separating religious life into the private sphere but also the determination of the state of what religion is and is not. Secularism is the murder of god by the state, and this is the ultimate hindrance to Muslims because it gives the state too much power.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** The imam discusses how pressure groups and closed meetings play a significant role in the formation of opinion and the shaping of emotion in a democracy. He also points to opinion polls as a tool used to anticipate and influence public opinion.
+
 * **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Imam Tom discusses secularism and its advantages and disadvantages. He argues that secularism is not just about separating religious life into the private sphere but also the determination of the state of what religion is and is not. Secularism is the murder of god by the state, and this is the ultimate hindrance to Muslims because it gives the state too much power.
 * **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>**  Imam Tom talks about secularism and how it is a form of power that enables certain statements to be made about religion. He also mentions how secularism is the production of a certain type of religion that is amenable to the secular state.
 * **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** According to Imam Tom, Muslims who commit terrorist acts are usually influenced by either secular or religious ideology, but are not always "terrorism" as understood in the West. He goes on to say that the inconsistency in labeling terrorists is due to the fact that Islam is a particularly anti-secular force, and that this makes it a legitimate target of discipline and violence by secular authorities.

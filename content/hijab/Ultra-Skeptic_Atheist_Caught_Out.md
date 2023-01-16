@@ -8,11 +8,10 @@ This video demonstrates the ultra-skeptic attitude of many atheists only applies
 
 Natured blend for premium products. Hijab10 discount code for 10% off
 
-Original video from & Subscribe to SCDawah Channel 
-https://www.youtube.com/c/scdawahchannel
+Original video from & Subscribe to SCDawah Channel
+<https://www.youtube.com/c/scdawahchannel>
 
 ## Summary of [Ultra-Skeptic Atheist Caught Out](https://www.youtube.com/watch?v=ejpxks97j3o)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -20,8 +19,9 @@ https://www.youtube.com/c/scdawahchannel
 
 The "Ultra-Skeptic Atheist" is confronted with the question of where the universe came from and is unable to provide a satisfactory answer.  suggests that skeptics should apply the same reasoning to questions of life and afterlife as they do to questions of health and safety.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the idea that there are three possible explanations for where the universe came from: from nothing, from a creator, or from somewhere. It then provides a brief explanation of the idea that philosopher Martin Heidegger used the term "thoroughness of life" to describe the situation of humans being thrown into life.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the impossibility of something coming from nothing, and the implications of this for atheism and agnosticism. argues that, even if one adopts a probabilistic standard of evidence, it is still reasonable to believe in a creator of the universe.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the idea that there are three possible explanations for where the universe came from: from nothing, from a creator, or from somewhere. It then provides a brief explanation of the idea that philosopher Martin Heidegger used the term "thoroughness of life" to describe the situation of humans being thrown into life.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the impossibility of something coming from nothing, and the implications of this for atheism and agnosticism. argues that, even if one adopts a probabilistic standard of evidence, it is still reasonable to believe in a creator of the universe.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  refutes the idea that the skeptic is still skeptical when it comes to the ultimate questions. The critic argues that this inconsistency indicates a psychological reason for the skeptic's skepticism.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  is about a skeptic atheist who is confronted with the decision of whether or not to allow a doctor to transfuse blood to his daughter, who is in intense care. The atheist argues that, given the doctor's credentials and authority, he should act upon his instincts and save his daughter's life.  concludes by suggesting that skeptics should apply the same reasoning to questions of life and afterlife as they do to questions of health and safety.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** The "Ultra-Skeptic Atheist" is caught out after being unable to answer some basic questions about religion.

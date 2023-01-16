@@ -5,24 +5,23 @@
 ## Description
 
 Episode #11 of the MH podcast
-(p2 out now: https://youtu.be/CF7uM2JcpGE)
+(p2 out now: <https://youtu.be/CF7uM2JcpGE>)
 
-Podcast playlist: https://www.youtube.com/playlist?list=PLzESAoLKD0l8e9M6mk2TuC5vEh8wYlP_6
+Podcast playlist: <https://www.youtube.com/playlist?list=PLzESAoLKD0l8e9M6mk2TuC5vEh8wYlP_6>
 
 Na'ima B Robert's socials
-⪢Website: https://www.naimarobert.com/
-⪢YouTube: https://www.youtube.com/user/MuslimTeenNovel
+⪢Website: <https://www.naimarobert.com/>
+⪢YouTube: <https://www.youtube.com/user/MuslimTeenNovel>
 
 My socials
-⪢Twitter: https://twitter.com/mohammed_hijab?s=20
-⪢Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-⪢Facebook: https://www.facebook.com/brothermohammedhijab/
-⪢Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
+⪢Twitter: <https://twitter.com/mohammed_hijab?s=20>
+⪢Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+⪢Facebook: <https://www.facebook.com/brothermohammedhijab/>
+⪢Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
 
-#marriage #muslim #islam
+# marriage #muslim #islam
 
 ## Summary of [Absent Fathers, Weaponising Kids and Unstable Families - Na'ima B Robert - MH PODCAST (p1)](https://www.youtube.com/watch?v=ELwvnd2b-Zs)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -31,6 +30,7 @@ My socials
  discusses the importance of absent fathers stepping up and taking responsibility in order to improve relationships between men and women. It argues that, when men prioritize their spiritual development over their material possessions, women are more likely to be happy in their role as wife and mother.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Sister Naima B. Robert, author of "25 Books: Women in the Muslim World Speak Out," discusses barriers that Muslim women face, including a lack of confidence and a sense of failure. She teaches women how to take back control of their lives by focusing on living intentionally and showing up to every challenge.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Na'ima B Robert, a Muslim woman, shares her experiences and concerns about absent fathers in the muslim community. She says that the damage done by absent fathers can be seen in many areas of a family's life, such as marriage, children, in-laws, and step-children. She also cites a study which found that absent fathers are more likely to have children with behavioral problems.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Na'ima B. Robert discusses the negative consequences of absent fathers on children, especially when fathers are emotionally absent or neglectful. She discusses a situation where the father left the home and stopped speaking to the children, cutting them off completely. This type of behavior is despicable and deplorable, and brothers in the community should be pulled up on their behavior.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Na'ima B. Robert discusses the challenges of words like "abuse," "domestic violence," and "rape," which can be difficult to define and enforce ethically. She offers an example of a man who wants to see his children but is prevented by the mother.
@@ -40,15 +40,17 @@ My socials
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Na'ima B. Robert discusses the problems that men face when their intimate relationships with their wives are withheld for any reason, primarily due to cultural changes in society. She argues that Islamic values should be applied in order to maintain balance in relationships.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Na'ima B. Robert discusses the concept of "alpha" and "beta" masculinity, and how these terms can be used inappropriately. She suggests that we should aim for a more holistic understanding of masculinity, and emphasize the importance of being grounded in one's beliefs and purpose. She also discusses the challenges of marriages in the current context, and how the original power dynamic may not have been healthy.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Na'ima B. Robert discusses the negative connotations of the terms "patriarchy" and "beta" and their origins in oppressive systems against women. She also discusses the qualities of compassion and leadership which are associated with beta status, and advises not to desire or aspire to be leaders because this can lead to a sense of dominance and self-assertion.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses importance of men stepping up and taking responsibility in order to improve relationships between men and women. It argues that, when men prioritize their spiritual development over their material possessions, women are more likely to be happy in their role as wife and mother.
+* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Discusses importance of men stepping up and taking responsibility in order to improve relationships between men and women. It argues that, when men prioritize their spiritual development over their material possessions, women are more likely to be happy in their role as wife and mother.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Na'ima B Robert, a teacher and someone who is learning, discusses the importance of masculinity and how it relates to religion and cleanliness. She points out how the landscape of relationships has changed and how people need to be more honest about who they are before getting married.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:10:00</a>
 
  discusses the issue of absent fathers and their impact on families. Na'ima B. Robert discusses how her own experience with her husband and children has changed over time, and how her brothers' marriages and relationships have also been affected. She discusses the negative impacts that pornography and other issues related to absent fathers can have on families.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Na'ima B Robert discusses how fathers are becoming less present in families, which can lead to mental health issues in children. She also mentions how key terms like patriarchy and trauma can be misused or misunderstood, and how the trials of this life are for everyone.
+
 * **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Na'ima B. Robert discusses the hierarchy of needs in relationships, noting that when people are still at the basic needs level, it is easy to be satisfied. She goes on to say that when people aim higher on the triangle, they are more likely to be frustrated and disappointed. She also discusses how first world problems can lead to high divorce rates in Muslim communities.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>* Discusses issue of absent fathers and their impact on families. Na'ima B. Robert discusses how her own experience with her husband and children has changed over time, and how her brothers' marriages and relationships have also been affected. She discusses the negative impacts that pornography and other issues related to absent fathers can have on families.
+* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Discusses issue of absent fathers and their impact on families. Na'ima B. Robert discusses how her own experience with her husband and children has changed over time, and how her brothers' marriages and relationships have also been affected. She discusses the negative impacts that pornography and other issues related to absent fathers can have on families.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

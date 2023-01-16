@@ -6,7 +6,6 @@ This is an important philosophical question that aims to probe an atheist's insi
 
 ## Summary of [Why Atheists Don't Believe in God.](https://www.youtube.com/watch?v=Tx2ZiRQ1luM)
 
-
 *
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
@@ -16,7 +15,8 @@ This is an important philosophical question that aims to probe an atheist's insi
 Atheists don't believe in God because they think it is unreasonable and there is overwhelming evidence that suggests God does not exist. discusses how atheists are satisfied with evidence that includes mathematical truths and scientific truths, but these truths can only be proven through concepts that can only be experienced in the mind. He argues that, for atheists, the true standard is a probabilistic one, in which we are able to reason that almost anything is likely to be true.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Atheists don't believe in God because they are satisfied with evidence that includes mathematical truths and scientific truths, but these truths can only be proven through concepts that can only be experienced in the mind.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses mathematical inconsistencies and how they imply that God does not exist. He compares this to the life paradox, in which if someone is lying, then their statement is not alive. then goes on to discuss the concept of a "true standard" for determining whether something is true or not. He argues that, for atheists, the true standard is a probabilistic one, in which we are able to reason that almost anything is likely to be true. He finishes by discussing the fine-tuning of the universe and how it suggests that a designer must exist.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses mathematical inconsistencies and how they imply that God does not exist. He compares this to the life paradox, in which if someone is lying, then their statement is not alive. then goes on to discuss the concept of a "true standard" for determining whether something is true or not. He argues that, for atheists, the true standard is a probabilistic one, in which we are able to reason that almost anything is likely to be true. He finishes by discussing the fine-tuning of the universe and how it suggests that a designer must exist.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** argues that atheists don't believe in God because it is unreasonable for them to do so and because there is overwhelming probabilistic evidence that God does exist.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

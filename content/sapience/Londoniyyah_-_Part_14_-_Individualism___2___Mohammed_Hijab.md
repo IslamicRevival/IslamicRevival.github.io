@@ -4,12 +4,13 @@
 
 ## Description
 
-Listen as audio: https://soundcloud.com/sapienceinstitute/sets/londoniyyah
+Listen as audio: <https://soundcloud.com/sapienceinstitute/sets/londoniyyah>
 
-Londoniyyah Series: An explanation of a new theo-philosophical poem on Islam and contemporary worldviews.  Part 14: Individualism / 2 
+Londoniyyah Series: An explanation of a new theo-philosophical poem on Islam and contemporary worldviews.  Part 14: Individualism / 2
 
-To be updated about our content please subscribe and open the notifications.
+To be updated about our content please subscribe and open the notifications
 ----
+
 BOOK A LIGHTHOUSE MENTOR
 
 Are you or someone you know doubting Islam? Do you find yourself struggling to find answers?  Do you have a hard time speaking to someone about Islam?  Are you considering Islam but are unsure about certain concepts?  Are you an activist, Imam or community leader who is unsure about how to handle questions related to science, philosophy, the Islamic moral code, etc.?
@@ -18,12 +19,11 @@ You are not alone.  Over the course of the last decade or more there has been a 
 
 Seeing the rise of  this phenomenon , Sapience Institute is introducing a One to One mentoring service called LIGHTHOUSE.
 
-BOOK A MENTOR HERE: https://sapienceinstitute.org/lighthouse/
+BOOK A MENTOR HERE: <https://sapienceinstitute.org/lighthouse/>
 
-VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: https://sapienceinstitute.org/
+VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: <https://sapienceinstitute.org/>
 
 ## Summary of [Londoniyyah - Part 14 - Individualism / 2 | Mohammed Hijab](https://www.youtube.com/watch?v=VI2pCsMoEfw)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -32,22 +32,25 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
  discusses the idea of individualism and how it can lead to conflict. It cites the example of the Protestant Reformation, which led to the break-up of the Catholic Church, as an example of good reform. However, it also notes that in some cases, terrorists may be motivated by such a mindset, as they are not concerned with the consequences of their actions.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Individualism is the belief that the individual is the master of themselves and their own interests. It is a spectrum, with individualism at the far right and anarchism at the far left. Individualism is different from collectivism in that the individual is prioritizing their own unit of analysis over any collective group.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Mohammed Hijab discusses the three categories of islam: political, economic, and social. He explains that individualism is not a standalone ideology, and can be married to other ideologies. He also discusses the scenario in which three people are on a boat and one person wants to save the other two, but the other two want to kill the one who wants to save the other two. If the individual interests are prioritized over the collective interests in cases like this, it is known as katai.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the criticism of individualism, specifically pointing out that societies which prioritize individualism often have negative consequences, such as an intentional avoidance of personal relationships. It also cites the example of Japan, where people living in cubicles rent out their friends to avoid being lonely.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses Mohammed Hijab's five points describing the western world's individualistic culture. One example is the lack of manners exhibited by some people in the West. Another is the reluctance to communicate, which is seen as peculiar to London. A third is the development of a self-centered mindset in the West. The last two points concern the limits of individualism and the need for connection to others.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the criticism of individualism, specifically pointing out that societies which prioritize individualism often have negative consequences, such as an intentional avoidance of personal relationships. It also cites the example of Japan, where people living in cubicles rent out their friends to avoid being lonely.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses Mohammed Hijab's five points describing the western world's individualistic culture. One example is the lack of manners exhibited by some people in the West. Another is the reluctance to communicate, which is seen as peculiar to London. A third is the development of a self-centered mindset in the West. The last two points concern the limits of individualism and the need for connection to others.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** describes an environment in which it is cutthroat to get a in a company. One white employee sees himself as an outsider and is not treated well. Another white employee is promoted before the speaker. reflects on the situation and believes that the generalization of this type of environment to the whole of the west is not accurate.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>**  Karl Marx discusses the idea of individualism and how it is a product of capitalism. He also mentions communism as an alternative ideology that takes into account the needs of the individual.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>**  Marxist philosopher and critic, Karl Marx, criticizes the idea of individuals being able to develop and become self-sufficient outside of society. He argues that this is impossible and that individuals are instead dependent on society for their needs. Furthermore, he argues that marriage and other social institutions are meaningless without collective participation.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Edmund Burke criticizes individualistic anarchism, arguing that if society is without intermediary groups, then the strongest will rule. This creates a despotism or authoritarianism.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Mohammed Hijab discusses how a non-governmental figure would act as a buffer against despotism, citing the Catholic Church's role in the Thirty Years War. He considers the Protestant Reformation, which led to the break-up of the Catholic Church, as an example of good reform. He has a personal opinion about the Protestant Reformation, which he says was good for western Europe.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Mohammed Hijab discusses the idea of perpetual conflict between nations due to the presence of a superpower, Pax Americana. He notes that this creates stability because the "big boss" takes care of business.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the idea of individuals being motivated by self-interest or being devoted to a cause greater than themselves, and how this can lead to conflict. It goes on to say that, in some cases, terrorists may be motivated by such a mindset, as they are not concerned with the consequences of their actions.
+* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Discusses the idea of individuals being motivated by self-interest or being devoted to a cause greater than themselves, and how this can lead to conflict. It goes on to say that, in some cases, terrorists may be motivated by such a mindset, as they are not concerned with the consequences of their actions.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** De Tocqueville argues that individualism is a calm and considered feeling that disposes each person to isolate themselves from the mass of their fellows, withdraw into the circle of their family and friends, and enjoy life to the fullest. He goes on to say that egoism can be differentiated from individualism only in the fact that the latter is based on misguided judgment.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:05:00</a>
 
  Mohammed Hijab discusses the concept of individualism, which he says can lead to tyranny. He points to the example of Alexis de Tocqueville, who wrote about the dangers of individualism in the early 1800s. Tocqueville argued that when individuals are free to do whatever they want, it becomes much easier for tyrants to control them. Hijab explains that individualism can lead to tyranny, specifically because it allows the government to customize its tyrannical behavior to the individual's likes and dislikes.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>**  Mohammed Hijab discusses the concept of individualism, which he says can lead to tyranny. He points to the example of Alexis de Tocqueville, who wrote about the dangers of individualism in the early 1800s. Tocqueville argued that when individuals are free to do whatever they want, it becomes much easier for tyrants to control them.
+
 * **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Toefl explains that individualism can lead to tyranny, specifically because it allows the government to customize its tyrannical behavior to the individual's likes and dislikes.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

@@ -4,12 +4,11 @@
 
 ## Description
 
-This self proclaimed philosopher (Atheist) makes some interesting enquiries. 
+This self proclaimed philosopher (Atheist) makes some interesting enquiries.
 
 Video compliments of 'Abu Zarrar' youtube channel.
 
 ## Summary of [Scientific Atheist asks Muslim Key Questions!|| Mohammed Hijab](https://www.youtube.com/watch?v=cZw4ur_zzRU)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -18,6 +17,7 @@ Video compliments of 'Abu Zarrar' youtube channel.
  "Scientific Atheist Asks Muslim Key Questions!" features a discussion between a Muslim and an atheist about the validity of objective morality. The Muslim argues that objective morality cannot be right because it is based on the assumption that Muslims believe in something that is wrong, and the atheist argues that science can help us find certainty in our understanding of the world.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** <>
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** features a discussion between a Muslim and an atheist about the validity of objective morality. The Muslim argues that objective morality cannot be right because it is based on the assumption that Muslims believe in something that is wrong, and the atheist argues that science can help us find certainty in our understanding of the world.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  "Scientific Atheist asks Muslim Key Questions!" discusses some of the limitations of the scientific method, including the fact that it cannot prove certain philosophical presuppositions to be true. then gives five more questions to consider before continuing the conversation.
 

@@ -4,12 +4,13 @@
 
 ## Description
 
-Listen as audio: https://soundcloud.com/sapienceinstitute/sets/sapient-thoughts
+Listen as audio: <https://soundcloud.com/sapienceinstitute/sets/sapient-thoughts>
 
 ST #48:  Nihilism, Consumerism and the Islamic Antidote — Part 4: Nietzsche Faces Islam, The Battle Of True Worlds | Imran Hussein
 
-To be updated about our content please subscribe and open the notifications.
+To be updated about our content please subscribe and open the notifications
 ----
+
 BOOK A LIGHTHOUSE MENTOR
 
 Are you or someone you know doubting Islam? Do you find yourself struggling to find answers?  Do you have a hard time speaking to someone about Islam?  Are you considering Islam but are unsure about certain concepts?  Are you an activist, Imam or community leader who is unsure about how to handle questions related to science, philosophy, the Islamic moral code, etc.?
@@ -18,12 +19,11 @@ You are not alone.  Over the course of the last decade or more there has been a 
 
 Seeing the rise of  this phenomenon , Sapience Institute is introducing a One to One mentoring service called LIGHTHOUSE.
 
-BOOK A MENTOR HERE: https://sapienceinstitute.org/lighthouse/
+BOOK A MENTOR HERE: <https://sapienceinstitute.org/lighthouse/>
 
-VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: https://sapienceinstitute.org/
+VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: <https://sapienceinstitute.org/>
 
 ## Summary of [ST #48: Nihilism, Consumerism and the Islamic Antidote — Part 4 | Imran Hussein](https://www.youtube.com/watch?v=Fg9LKfnfIio)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -32,6 +32,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 Imran Hussein discusses how nihilism can be overcome from an Islamic perspective. He argues that Islam provides a comprehensive answer that destroys nihilism and even breaks down Nietzsche's criticisms of religion.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  Imran Hussein discusses Nietzsche's ideas on nihilism and the religious answer. He explains that while Nietzsche's ideas are interesting, they don't help people escape meaninglessness in this life. He compares the atheist perspective, which is that life is only meaningful while we are alive, to the Christian perspective, which is that life has meaning after death. If Nietzsche had come across Islam, he may have converted to it.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Imran Hussein discusses the concepts of nihilism, consumerism, and the Islamic antidote in part four of his ST series. He argues that if Nietzsche had known about Islam, he may have become a Muslim. Nietzsche was uninterested in true world theories, and if he had come across Islam, he may have understood it better and become more interested in it.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  Imran Hussein discusses nihilism and how it relates to the Islamic perspective. He points out that while nihilism is a problem that cannot be overcome in the absence of God, Islam provides a comprehensive answer that destroys nihilism and even breaks down Nietzsche's criticisms of religion.
 

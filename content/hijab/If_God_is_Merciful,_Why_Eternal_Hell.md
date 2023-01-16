@@ -8,15 +8,15 @@ This video aims to answer the question relating to the compatibility of of the e
 
 ## Summary of [If God is Merciful, Why Eternal Hell?](https://www.youtube.com/watch?v=8pYwCzTTiG4)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 argues that if God is merciful, then eternal hell is unjust. He points out that shirk (the act of refusing to obey God) is the worst kind of oppression, and that it is the worst form of evil.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the idea of contracts and why they are important. He goes on to say that if a person breaks a contract, there should be consequences. The consequences could range from jail time to death. argues that if God is so merciful, then why does hell exist? He says that this question can only be answered by looking at the concept of contracts from a worldly perspective. People who don't understand contracts are those who also don't understand the severity of them.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the idea of proportionality, which is a key issue in regards to determining how long someone should spend in Hell. They point to two examples - murder and rape - to illustrate the problems with equating time in Hell. In both cases, the actions taken are considered to be the most extreme forms of wrongdoing.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the idea of contracts and why they are important. He goes on to say that if a person breaks a contract, there should be consequences. The consequences could range from jail time to death. argues that if God is so merciful, then why does hell exist? He says that this question can only be answered by looking at the concept of contracts from a worldly perspective. People who don't understand contracts are those who also don't understand the severity of them.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the idea of proportionality, which is a key issue in regards to determining how long someone should spend in Hell. They point to two examples - murder and rape - to illustrate the problems with equating time in Hell. In both cases, the actions taken are considered to be the most extreme forms of wrongdoing.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** argues that if God is merciful, then eternal hell is unjust. He points out that shirk (the act of refusing to obey God) is the worst kind of oppression, and that it is the worst form of evil.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

@@ -8,7 +8,6 @@ Professor Muhammad Al Massari discusses matters related to the prophecised Imam 
 
 ## Summary of [Imam Al Mahdi (AS) - Professor Al Massari Part 3 of 13](https://www.youtube.com/watch?v=cXoDEF5zBqY)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
@@ -16,7 +15,8 @@ Professor Muhammad Al Massari discusses matters related to the prophecised Imam 
  discusses Imam Al Mahdi (AS), whose coming will bring justice to the earth after it has been filled with inequity and transgression. Three hadiths describing his character and behavior are discussed, and it is pointed out that none of them are exclusively Muslim. Some of the hadiths' weaknesses are discussed, and it is noted that the coming of Imam Al Mahdi is not a certainty.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The five main hadith discussed in the video are all from reliable sources and describe the Mahdi in similar ways.  concludes by stating that there is no doubt that the Mahdi will come from Ali's house and will have similar characteristics to other prophets.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses Imam Al Mahdi (AS), whose coming will bring justice to the earth after it has been filled with inequity and transgression. Three hadiths describing his character and behavior are discussed, and it is pointed out that none of them are exclusively Muslim. Some of the hadiths' weaknesses are discussed, and it is noted that the coming of Imam Al Mahdi is not a certainty.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses Imam Al Mahdi (AS), whose coming will bring justice to the earth after it has been filled with inequity and transgression. Three hadiths describing his character and behavior are discussed, and it is pointed out that none of them are exclusively Muslim. Some of the hadiths' weaknesses are discussed, and it is noted that the coming of Imam Al Mahdi is not a certainty.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** reminds viewers that not all hadith are considered to be authentic, and that there are different levels of authenticity among them. He advises caution in accepting any one specific hadith as authentic, as this could lead to overconfidence. also stresses the importance of understanding the historical context in which each hadith was recorded.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

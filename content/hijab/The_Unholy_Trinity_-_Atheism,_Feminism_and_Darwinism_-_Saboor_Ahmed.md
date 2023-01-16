@@ -6,10 +6,9 @@
 
 Please don't forget to subscribe to Saboor Ahmed's channel, Darwinian Delusions.
 
-Also please get my new book on feminism "fifth wave feminism" - https://www.amazon.co.uk/Fifth-Wave-Feminism-Mohammed-Hijab/dp/1910952141
+Also please get my new book on feminism "fifth wave feminism" - <https://www.amazon.co.uk/Fifth-Wave-Feminism-Mohammed-Hijab/dp/1910952141>
 
 ## Summary of [The Unholy Trinity - Atheism, Feminism and Darwinism - Saboor Ahmed](https://www.youtube.com/watch?v=OYOi9DekfMY)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -18,13 +17,14 @@ Also please get my new book on feminism "fifth wave feminism" - https://www.amaz
  "The Unholy Trinity - Atheism, Feminism and Darwinism - Saboor Ahmed" discusses the conflict between atheism, feminism, and Darwinism.  argues that the new atheist movement is sexist and based upon social Darwinism, and that feminists have voiced their concerns about this.  also discusses how Darwinism and feminism clash, and how one prominent feminist, Emma Thompson, is not consistent in her beliefs.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  covers the conflict between atheism, feminism, and Darwinism, and discusses how one prominent feminist, Dr. Marcia Bianco, believes there are two predominant reasons why sexism exists in the atheist movement. Bianco believes that the first reason is that some atheists are not open-minded enough to accept women into the movement, and the second reason is that some atheists are hostile to women because of their views on sex.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** points out that the new atheist movement, speared by Richard Dawkins, is sexist and based upon social Darwinism. Feminists have voiced their concerns, and prominent feminist philosophers have added their voices. argues that the movement should be directed at Darwin instead, because its leaders have resurrected man as God.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Saboor Ahmed discusses the differences between men and women, pointing out that while men are generally stronger and have more intuition, women are also capable of possessing these same abilities in a more "primitive" way. He then goes on to quote Elaine Morgan, who wrote a book countering Darwin's work a hundred years later.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  Saboor Ahmed discusses how feminism and Darwinism clash. He points to statistics that show a decline in the number of live births per thousand women since the 1940s, and argues that this proves that feminism is harmful to Darwinian theory.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** The Unholy Trinity - Atheism, Feminism and Darwinism - Saboor Ahmed examines how these ideologies conflict with each other, with particular focus on the idea that feminism is based upon the oppression of men. Emma Thompson, a prominent feminist, criticizes atheism for its lack of empathy for religious people, and argues that atheism is more accurate because it is based upon evidence rather than societal expectations.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses mma Thompson's statement that she is a creationist because Darwinism makes women inferior.  argues that Emma Thompson is not consistent because if she is to be consistent, she needs to say that she is a creationist because Darwinism makes men inferior as well.  also argues that Emma Thompson is not going to be able to challenge religion using evolutionary psychology because evolutionary psychology is biased towards men.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses mma Thompson's statement that she is a creationist because Darwinism makes women inferior.  argues that Emma Thompson is not consistent because if she is to be consistent, she needs to say that she is a creationist because Darwinism makes men inferior as well.  also argues that Emma Thompson is not going to be able to challenge religion using evolutionary psychology because evolutionary psychology is biased towards men.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** The philosopher Saboor Ahmed challenges both sides of the debate over sexual selection, arguing that while sexual selection may play a role in shaping scientific hypotheses, it is ultimately a value-neutral perspective. This perspective is difficult to neutralize, as Muslim, Christian, and feminist voices all seek to implant their values within science.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses values within evolutionary science and how those values are different from the values within patriarchal society. The Qur'an explains a different model of success, where the focus is on spiritual accomplishment rather than accumulating material wealth. Feminism is rejected by the Qur'an because it promotes a battle between men and women instead of a symbiotic relationship between them.
+* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses values within evolutionary science and how those values are different from the values within patriarchal society. The Qur'an explains a different model of success, where the focus is on spiritual accomplishment rather than accumulating material wealth. Feminism is rejected by the Qur'an because it promotes a battle between men and women instead of a symbiotic relationship between them.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

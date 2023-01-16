@@ -5,25 +5,24 @@
 ST#62: Divine Perfection - The Adamic Conundrum with Dr. Osman Latiff
 —
 Help us educate and mentor others to share the faith academically.
-Donate now: https://sapienceinstitute.org/donate/ 
+Donate now: <https://sapienceinstitute.org/donate/>
 
-Free online courses: https://learn.sapienceinstitute.org/
+Free online courses: <https://learn.sapienceinstitute.org/>
 
-Free books: https://sapienceinstitute.org/books/
+Free books: <https://sapienceinstitute.org/books/>
 
-Have doubts? Book a mentor: https://sapienceinstitute.org/lighthouse/
+Have doubts? Book a mentor: <https://sapienceinstitute.org/lighthouse/>
 
-Listen (Podcast): https://sapienceinstitute.org/sapientvoices/
+Listen (Podcast): <https://sapienceinstitute.org/sapientvoices/>
 
 Follow:
-– Facebook: https://facebook.com/sapienceinstitute.org/ 
-– Twitter: https://twitter.com/SapienceOrg/ 
-– Instagram: https://instagram.com/sapienceinstitute/ 
+– Facebook: <https://facebook.com/sapienceinstitute.org/>
+– Twitter: <https://twitter.com/SapienceOrg/>
+– Instagram: <https://instagram.com/sapienceinstitute/>
 
-Articles, speaker requests & more: https://sapienceinstitute.org/
+Articles, speaker requests & more: <https://sapienceinstitute.org/>
 
 ## Summary of [ST#62: Divine Perfection - The Adamic Conundrum with Dr. Osman Latiff](https://www.youtube.com/watch?v=3wPFspSeMX0)
-
 
 *
 
@@ -34,7 +33,8 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
  Dr. Osman Latiff discusses the Islamic concept of salvation and how it differs from the Christian perspective. He explains that in Islam, salvation is only found through God himself. The adamic model of salvation is illustrated with a story of three individuals who stayed behind at the battle of Tabuk and were punished by God for their disobedience.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  Dr. Osman Latiff discusses the Adamic Conundrum, which is the concept that there is a difference between the Islamic and Christian conceptions of salvation. Craig argues that islam does not have a concept of sin, and therefore there is no need for a savior. He also makes the argument that because islam does not have a doctrine of atonement, god's anger cannot be appeased and humanity cannot be forgiven. Latiff disagrees with Craig on both points, and explains that the Islamic view of salvation is different than the Christian view because it takes into account the pre-existing warning Adam was given about the devil.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the biblical and Quranic concept of "Adam" and "the devil."  highlights how Adam and Eve were tempted by the devil, and how this caused them to sin.  also discusses how Adam and Eve were removed from the Garden of Eden and how this caused them to sin further.  concludes by emphasizing the importance of following God's commandments to avoid deviations from our path.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the biblical and Quranic concept of "Adam" and "the devil."  highlights how Adam and Eve were tempted by the devil, and how this caused them to sin.  also discusses how Adam and Eve were removed from the Garden of Eden and how this caused them to sin further.  concludes by emphasizing the importance of following God's commandments to avoid deviations from our path.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  Dr. Osman Latiff discusses the difference between the Christian narrative and the Islamic narrative of the Garden of Eden. He points out that both narratives involve God intervening on behalf of Adam, but the Islamic narrative emphasizes the role of God in guiding and inspiring Adam. He finishes the video by discussing the archetype of Adam and how it can be applied to our own lives.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  Dr. Osman Latiff discusses the quranic concept of salvation and how it differs from the Christian perspective. He explains that in Islam, salvation is only found through God himself. The adamic model of salvation is illustrated with a story of three individuals who stayed behind at the battle of Tabuk and were punished by God for their disobedience.
 

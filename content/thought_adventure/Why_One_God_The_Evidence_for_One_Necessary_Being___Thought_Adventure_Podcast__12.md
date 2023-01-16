@@ -4,7 +4,7 @@
 
 ## Description
 
-Can we say God has to be one? Or is there a possibility of multiple gods? 
+Can we say God has to be one? Or is there a possibility of multiple gods?
 Does trinitarian views result in this affirmation of multiple gods and does our understanding of a Necessary Being affirm the Islamic concept (Tawheed) of one God?
 
 00:00 Introduction and Arguments
@@ -16,21 +16,21 @@ Does trinitarian views result in this affirmation of multiple gods and does our 
 2:18:16 - Terry [Christian]
 2:44:46 - Elruh [Muslim]
 2:49:58 - Nobody [Muslim]
-2:48:32 - Debate Announcement 
-2:53:23 - Final Thoughts 
+2:48:32 - Debate Announcement
+2:53:23 - Final Thoughts
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -38,40 +38,39 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
-#Islam #Christianity #Atheism
+# Islam #Christianity #Atheism
 
 ## Summary of [Why One God? The Evidence for One Necessary Being | Thought Adventure Podcast #12](https://www.youtube.com/watch?v=yMMAJPo7SoM)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -80,48 +79,53 @@ Gmail: hello.tapodcast@gmail.com
  discusses the argument for one necessary being in Islam. discusses how the Quran discusses this concept in relation to perfection and harmony within the universe. He also argues that if there are multiple creators, each creator would have their own arbitrary attributes and so they are no longer necessary beings.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The Thought Adventure Podcast is discussing why people believe in one God, and why this god is the only possible one. The podcast discusses different proofs for the existence of God, and how this god is compatible with the Islamic and Christian conceptions of God.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** This 1-paragraph Summary discusses how the Islamic conception of God is virtually identical to the natural theology of Christians, and that key attributes of the Islamic conception of God must be proven before it can be accepted.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** argues that there is evidence for one necessary being, and that this being must be unlimited because arbitrary limits are a thing through which we identify contingent beings. He goes on to say that the principle of discernibility relates to this discussion, and that it is the best explanation or the best inference we come to on on very solid rational grounds.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The Thought Adventure Podcast discusses the argument for one God. The episode discusses the principle of discernibility, which states that if two objects share all of the same properties, then they collapse into one. The principle of identification states that if two things share a difference, then we can say that there are two things. If we apply these two principles together, we can understand that there can only be one God, as any other being would be a degradation of perfection.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>**  two creators are discussed: one with a will that is completely aligned with the other, and one with separate wills. The problem with having two creators with separate wills is that they cannot be in agreement, and the world would be in disharmony.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** of the video discusses the idea that there must be one necessary being in order for free will and predetermination to exist. He argues that arbitrary limitations are one way in which we identify contingent beings, and that if two or more beings have separate wills, then each one's sovereignty is compromised. He also argues that if there are multiple gods, then it is difficult to explain the necessity of their existence based on probability. Finally, the author discusses the issue of will and points out that some people want to say that multiple gods can get along well and that whenever they want to move the feather, they simply obey the will of the god with the strongest will. However, the author argues that this is not the case, and that the truth maker or thing which would ground these beings' power is undefined.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses why one god is necessary, and argues that if there were multiple gods, they would conflict and nothing would exist. The verses of the Quran support this argument.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses the evidence for one necessary being, which includes concepts such as free will and sovereignty being compromised, and how this leads to an arbitrary limitation on the omnipotence and causal capacity of gods. He also discusses how the Quran discusses this concept in relation to perfection and harmony within the universe.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses the evidence for one necessary being in Islam, which includes the argument that if there are more than one creators, each creator would have their own arbitrary attributes and so they are no longer necessary beings. It also discusses the continuity and design within the universe as evidence that there is one planner. Finally, it points out that there is consistency within creation which supports the idea of one creator.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The first guest on the Thought Adventure Podcast discusses the argument for one necessary being. He claims that everything in the universe is contingent, but that the universe itself is necessary. He argues that there is nothing in the universe that is contingent, and that this proves the existence of a necessary being.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The presenter discusses the two types of arguments for why one God is necessary- logical necessity, which is based on a set of rules, and metaphysical necessity, which says things must be the way they are because they could not have been any other way. He argues that the naturalist or atheist cannot prove that any subset of matter and energy is necessary in order to bear the burden of proof.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the argument that if modal collapse is true, then it destroys the concept of moral obligation. The hosts discuss how this argument fails and how it would require a foundation explanation to justify the concept of moral obligation.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** This 1-paragraph Summary discusses how the Islamic conception of God is virtually identical to the natural theology of Christians, and that key attributes of the Islamic conception of God must be proven before it can be accepted.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** argues that there is evidence for one necessary being, and that this being must be unlimited because arbitrary limits are a thing through which we identify contingent beings. He goes on to say that the principle of discernibility relates to this discussion, and that it is the best explanation or the best inference we come to on on very solid rational grounds.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The Thought Adventure Podcast discusses the argument for one God. The episode discusses the principle of discernibility, which states that if two objects share all of the same properties, then they collapse into one. The principle of identification states that if two things share a difference, then we can say that there are two things. If we apply these two principles together, we can understand that there can only be one God, as any other being would be a degradation of perfection.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>**  two creators are discussed: one with a will that is completely aligned with the other, and one with separate wills. The problem with having two creators with separate wills is that they cannot be in agreement, and the world would be in disharmony.
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** of the video discusses the idea that there must be one necessary being in order for free will and predetermination to exist. He argues that arbitrary limitations are one way in which we identify contingent beings, and that if two or more beings have separate wills, then each one's sovereignty is compromised. He also argues that if there are multiple gods, then it is difficult to explain the necessity of their existence based on probability. Finally, the author discusses the issue of will and points out that some people want to say that multiple gods can get along well and that whenever they want to move the feather, they simply obey the will of the god with the strongest will. However, the author argues that this is not the case, and that the truth maker or thing which would ground these beings' power is undefined.
+- **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses why one god is necessary, and argues that if there were multiple gods, they would conflict and nothing would exist. The verses of the Quran support this argument.
+- **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses the evidence for one necessary being, which includes concepts such as free will and sovereignty being compromised, and how this leads to an arbitrary limitation on the omnipotence and causal capacity of gods. He also discusses how the Quran discusses this concept in relation to perfection and harmony within the universe.
+- **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses the evidence for one necessary being in Islam, which includes the argument that if there are more than one creators, each creator would have their own arbitrary attributes and so they are no longer necessary beings. It also discusses the continuity and design within the universe as evidence that there is one planner. Finally, it points out that there is consistency within creation which supports the idea of one creator.
+- **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The first guest on the Thought Adventure Podcast discusses the argument for one necessary being. He claims that everything in the universe is contingent, but that the universe itself is necessary. He argues that there is nothing in the universe that is contingent, and that this proves the existence of a necessary being.
+- **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The presenter discusses the two types of arguments for why one God is necessary- logical necessity, which is based on a set of rules, and metaphysical necessity, which says things must be the way they are because they could not have been any other way. He argues that the naturalist or atheist cannot prove that any subset of matter and energy is necessary in order to bear the burden of proof.
+- **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Discusses the argument that if modal collapse is true, then it destroys the concept of moral obligation. The hosts discuss how this argument fails and how it would require a foundation explanation to justify the concept of moral obligation.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  discusses the idea of one necessary being, and attempts to provide evidence for why this is the case. The principles of metaphysics and indiscernibility are discussed, as well as a thought experiment involving three iron spheres. Scotus and Bukhari are also mentioned, with Bukhari discussing the difference between a contingency argument and a kalam argument.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>**  the evidence for one necessary being is discussed. One principle that is agreed upon is that everything is metaphysically necessary, which would reduce the number of entities needed to explain the universe. The principle of indiscernibility is also discussed, with the idea that two things may be indiscernible but they still share some intrinsic qualities. Finally, a thought experiment involving three iron spheres is discussed. It is argued that, even though the spheres are intrinsically the same, they are indiscernible due to a difference in relation.
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>**  Thomas Aquinas argues that angels are not unembodied minds or made of some kind of ethereal substance, but are instead each an individual essence. This principle of individual essences applies even to angels who share the same office or function in heaven.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>* Discusses the evidence for one necessary being. It points out that if there is an infinite being, then each sphere would have an identical hexadecimal. If this is the case, then there must be a principle that distinguishes between spheres. The hexadecimal is apprehended by the mind as soon as an object is identified, and this is sufficient to establish its existence.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>**  philosopher Scotus explains that there are two ways in which one can know about the world: through one's senses, or through one's intellect. The idea that two separate spheres are the same as one sphere is something that Scotus attempts to disprove.
-* **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** , the author discusses why one God is the best explanation for the properties of the universe. He points out that either the universe is unispatial or there are only one objects occupying one space at a time. The second way of explaining it is that somebody has to accept that one object can multiply and occupy multiple spaces. Neither of these explanations satisfactorily explains the qualitative properties of spheres.
-* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>* Discusses the idea that there is a property of "one necessary being" which is not just an epistemic tool, but something which is actually ontologically distinguishable from other objects.  also discusses the black's thought experiment, in which two objects which are physically indistinguishable are nevertheless conceptually distinguishable.
-* **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** The Thought Adventure Podcast discusses the idea of one necessary being. Josh argues that on the doctrine of divine processions, the principle of individuation (the ability to differentiate one object from another) only makes sense with the idea of three persons in one God. Mullins says this principle is prior to any discussion of persons, and therefore, is inconsistent with what Josh is arguing.
-* **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>* Discusses why one god is necessary, citing revelation and tradition as evidence. He points out that one argument against this idea is that one cannot discern between the Father and Son without using natural reasoning, but concedes that this is not an argument against the idea itself. He also thanks the audience for their patience.
-* **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>**  Sharif discusses two questions about whether one god is necessary. The first question is whether something must possess the attribute of deity in order for it to be considered a god, and the second question is whether something is dependent on another being in order to be considered a god. Dr. Mullen believes that a deity must be independent, self-sufficient, and have the property of deity in order for it to be considered a god.
-* **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** Sharif discusses the difficulties trinitarian Christians face when trying to reconcile logical contradictions in Scripture. He points out that some trinitarian Christians try to do this by constructing a story model to reconcile the contradictions, which can be a difficult task.
-* **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** The kalam cosmological argument claims that certain attributes of God, such as the hand of God, cannot be taken literally, and must be understood metaphorically. Some scholars argue that this metaphor is found in the Arabic language and can be affirmed without logically contradicting the other verse of the Quran which states that there is nothing like unto God.
-* **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** The Muslim Imam, Imam Bukhari, discusses the Arash of Allah, quoting him as saying "This refers to the illness." The Imam goes on to say that there is a legitimate debate surrounding the use of the language in these verses, and that those who say it refers to a metaphorical meaning or that it does not have a literal meaning are both correct. The Imam also discusses the difference between a contingency argument and a kalam argument, stating that the kalam argument tries to address the issue that something began to exist, and does not need to posit a beginning.
+
+- **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>**  Thomas Aquinas argues that angels are not unembodied minds or made of some kind of ethereal substance, but are instead each an individual essence. This principle of individual essences applies even to angels who share the same office or function in heaven.
+- **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Discusses the evidence for one necessary being. It points out that if there is an infinite being, then each sphere would have an identical hexadecimal. If this is the case, then there must be a principle that distinguishes between spheres. The hexadecimal is apprehended by the mind as soon as an object is identified, and this is sufficient to establish its existence.
+- **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>**  philosopher Scotus explains that there are two ways in which one can know about the world: through one's senses, or through one's intellect. The idea that two separate spheres are the same as one sphere is something that Scotus attempts to disprove.
+- **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** , the author discusses why one God is the best explanation for the properties of the universe. He points out that either the universe is unispatial or there are only one objects occupying one space at a time. The second way of explaining it is that somebody has to accept that one object can multiply and occupy multiple spaces. Neither of these explanations satisfactorily explains the qualitative properties of spheres.
+- **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** Discusses the idea that there is a property of "one necessary being" which is not just an epistemic tool, but something which is actually ontologically distinguishable from other objects.  also discusses the black's thought experiment, in which two objects which are physically indistinguishable are nevertheless conceptually distinguishable.
+- **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** The Thought Adventure Podcast discusses the idea of one necessary being. Josh argues that on the doctrine of divine processions, the principle of individuation (the ability to differentiate one object from another) only makes sense with the idea of three persons in one God. Mullins says this principle is prior to any discussion of persons, and therefore, is inconsistent with what Josh is arguing.
+- **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** Discusses why one god is necessary, citing revelation and tradition as evidence. He points out that one argument against this idea is that one cannot discern between the Father and Son without using natural reasoning, but concedes that this is not an argument against the idea itself. He also thanks the audience for their patience.
+- **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>**  Sharif discusses two questions about whether one god is necessary. The first question is whether something must possess the attribute of deity in order for it to be considered a god, and the second question is whether something is dependent on another being in order to be considered a god. Dr. Mullen believes that a deity must be independent, self-sufficient, and have the property of deity in order for it to be considered a god.
+- **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** Sharif discusses the difficulties trinitarian Christians face when trying to reconcile logical contradictions in Scripture. He points out that some trinitarian Christians try to do this by constructing a story model to reconcile the contradictions, which can be a difficult task.
+- **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** The kalam cosmological argument claims that certain attributes of God, such as the hand of God, cannot be taken literally, and must be understood metaphorically. Some scholars argue that this metaphor is found in the Arabic language and can be affirmed without logically contradicting the other verse of the Quran which states that there is nothing like unto God.
+- **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** The Muslim Imam, Imam Bukhari, discusses the Arash of Allah, quoting him as saying "This refers to the illness." The Imam goes on to say that there is a legitimate debate surrounding the use of the language in these verses, and that those who say it refers to a metaphorical meaning or that it does not have a literal meaning are both correct. The Imam also discusses the difference between a contingency argument and a kalam argument, stating that the kalam argument tries to address the issue that something began to exist, and does not need to posit a beginning.
+
 ### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:50:00</a>
 
 discusses the evidence for one necessary being, and argues that this being is more logically consistent than an infinite universe or a universe that has been around for eternity. They also mention that they will be streaming a discussion of this topic with a pro-monotheist scholar, Yusuf Ali.
 
-**<a onclick="modifyYTiframeseektime('7200')">02:00:00</a>* Discusses why one God is necessary, using the example of a triangle. If the triangle were red, it would indicate that it has a dependency upon something else for its redness. This something else could be another triangle, or it could be something beyond the triangle. If the triangle were eternal, or existed for eternity without needing anything else, then it would not require an explanation for its existence. However, if the triangle were contingent, meaning that it could exist in another way, then it would require an explanation for its existence. This explanation could be metaphysical, or it could be something within the triangle itself.  concludes by discussing how the idea of one God is more logical than the idea of an infinite universe or universe that has been around for eternity.
-* **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>* Discusses the argument for one necessary being, which begins with the premise that there could have been an alternate way for things to be the way they are. The argument then goes on to say that if there is an explanation for why something is the way it is, then it must be a necessary thing, not a contingent thing.  finishes by saying that any possible being could be the case, so adopting the position that everything is contingent would lead to skepticism.
-* **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>** The evidence for one necessary being is logically consistent and leads to the conclusion that there is only one God, who is omnipotent and omniscient.
-* **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>* Discusses why one god is necessary, analogizing between human desires and how the creator must act in order to satisfy those desires. He also discusses the attributes of the god and how Jesus is the only one who can fulfil those attributes.
-* **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>** The presenter argues that it is logically impossible to reconcile a contradiction between scripture and logic, which would make the father less divine.
-* **<a onclick="modifyYTiframeseektime('8700')">02:25:00</a>** Sayity discusses the traditional Christian view of the father, son, and spirit being one in relation to the sun. He argues that this view is not logically consistent and that there are contradictions within it. He refers the listener to scripture in order to illustrate his points.
-* **<a onclick="modifyYTiframeseektime('9000')">02:30:00</a>* Discusses why one god is necessary, and argues that the son is eternally begotten from the father. It references passages from the Bible to make its case.
-* **<a onclick="modifyYTiframeseektime('9300')">02:35:00</a>* Discusses why one god is necessary, citing scripture and church fathers. It argues that an extra entity, such as the sun, is unnecessary and would be irrational.
-* **<a onclick="modifyYTiframeseektime('9600')">02:40:00</a>** argues that, given the possibility of a unipersonal god, the problem of a deity needing to come onto Earth and become part of creation is not a problem. He also argues that there are logical problems with talking about a deity incarnating within creation.
-* **<a onclick="modifyYTiframeseektime('9900')">02:45:00</a>* Discusses some evidence for the existence of one necessary being, and reasons for seeking revelation to understand what this being wants from us. He also discusses a possible upcoming conversation with an apostate who converted to Islam.
-* **<a onclick="modifyYTiframeseektime('10200')">02:50:00</a>* Discusses why one God is necessary, citing evidence from both archaeological and historical sources. They note that, even though polytheistic religions existed historically, the dominant religion among civilizations was monotheism. They conclude that, even if historically monotheism was initially incorrect, it is still the correct belief. They also mention that they will be streaming a discussion of this topic with a pro-monotheist scholar, Yusuf Ali.
+**<a onclick="modifyYTiframeseektime('7200')">02:00:00</a>** Discusses why one God is necessary, using the example of a triangle. If the triangle were red, it would indicate that it has a dependency upon something else for its redness. This something else could be another triangle, or it could be something beyond the triangle. If the triangle were eternal, or existed for eternity without needing anything else, then it would not require an explanation for its existence. However, if the triangle were contingent, meaning that it could exist in another way, then it would require an explanation for its existence. This explanation could be metaphysical, or it could be something within the triangle itself.  concludes by discussing how the idea of one God is more logical than the idea of an infinite universe or universe that has been around for eternity.
+
+- **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>** Discusses the argument for one necessary being, which begins with the premise that there could have been an alternate way for things to be the way they are. The argument then goes on to say that if there is an explanation for why something is the way it is, then it must be a necessary thing, not a contingent thing.  finishes by saying that any possible being could be the case, so adopting the position that everything is contingent would lead to skepticism.
+- **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>** The evidence for one necessary being is logically consistent and leads to the conclusion that there is only one God, who is omnipotent and omniscient.
+- **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>** Discusses why one god is necessary, analogizing between human desires and how the creator must act in order to satisfy those desires. He also discusses the attributes of the god and how Jesus is the only one who can fulfil those attributes.
+- **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>** The presenter argues that it is logically impossible to reconcile a contradiction between scripture and logic, which would make the father less divine.
+- **<a onclick="modifyYTiframeseektime('8700')">02:25:00</a>** Sayity discusses the traditional Christian view of the father, son, and spirit being one in relation to the sun. He argues that this view is not logically consistent and that there are contradictions within it. He refers the listener to scripture in order to illustrate his points.
+- **<a onclick="modifyYTiframeseektime('9000')">02:30:00</a>** Discusses why one god is necessary, and argues that the son is eternally begotten from the father. It references passages from the Bible to make its case.
+- **<a onclick="modifyYTiframeseektime('9300')">02:35:00</a>** Discusses why one god is necessary, citing scripture and church fathers. It argues that an extra entity, such as the sun, is unnecessary and would be irrational.
+- **<a onclick="modifyYTiframeseektime('9600')">02:40:00</a>** argues that, given the possibility of a unipersonal god, the problem of a deity needing to come onto Earth and become part of creation is not a problem. He also argues that there are logical problems with talking about a deity incarnating within creation.
+- **<a onclick="modifyYTiframeseektime('9900')">02:45:00</a>** Discusses some evidence for the existence of one necessary being, and reasons for seeking revelation to understand what this being wants from us. He also discusses a possible upcoming conversation with an apostate who converted to Islam.
+- **<a onclick="modifyYTiframeseektime('10200')">02:50:00</a>** Discusses why one God is necessary, citing evidence from both archaeological and historical sources. They note that, even though polytheistic religions existed historically, the dominant religion among civilizations was monotheism. They conclude that, even if historically monotheism was initially incorrect, it is still the correct belief. They also mention that they will be streaming a discussion of this topic with a pro-monotheist scholar, Yusuf Ali.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

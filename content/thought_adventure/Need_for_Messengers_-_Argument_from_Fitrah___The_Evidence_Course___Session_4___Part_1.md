@@ -6,22 +6,22 @@
 
 Session 4  Part 1
 
-In an age of information overload and widespread pseudo-intellectualism, understanding the core foundations of Islam is as essential as ever. 
+In an age of information overload and widespread pseudo-intellectualism, understanding the core foundations of Islam is as essential as ever.
 
 This course comprehensively deconstructs the skeletal structure of prevalent ideologies and concepts such as atheism, scientism, materialism, secularism, and skepticism, in light of an all-encompassing intellectually robust Islamic worldview.
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -29,38 +29,37 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
 ## Summary of [Need for Messengers - Argument from Fitrah | The Evidence Course | Session 4 / Part 1](https://www.youtube.com/watch?v=z2m7jsH3_Mw)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -69,11 +68,12 @@ Gmail: hello.tapodcast@gmail.com
 The presenter in this video discusses the need for messengers to communicate with a creator. They explain how the nature of a human being is alluded to within the Quran and in debates with atheists. says that even when a person faces a difficult situation, they still maintain hope in the creator.  discusses how humans have an innate desire to seek something more than material to appease something beyond the physical universe, which manifests as a lack of control and fear in difficult situations. It goes on to discuss how this manifests in different ways across different cultures, concluding that it is a universal phenomenon.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The presenter discusses the arguments against the existence of a creator, and how these arguments lead to the conclusion that there is a reason for creation. They then go on to explain that, based on the existence of a creator, humans naturally seek guidance from that creator.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** in this video discusses the need for messengers in order to receive guidance from a creator. They explain how the nature of a human being is alluded to within the Quran itself and in a debate with an atheist. says that even when a person faces a difficult situation, they still maintain hope in the creator.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses how humans have an innate desire to seek something more than material to appease something beyond the physical universe, which manifests as a lack of control and fear in difficult situations. It goes on to discuss how this manifests in different ways across different cultures, concluding that it is a universal phenomenon.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The presenter discusses how religious practices have been observed in different civilizations across the globe, and how this evidence suggests that religion is innate. They also discuss a study by Professor Roger Trigg which states that religion is not just something that is acquired from society, but is something that is innate in most humans.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses studies that point to the existence of a desire to worship and submit to a higher being in human beings, even atheists. He argues that this is the fitter of the human being and that it is a rational observation of the human condition.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** argues that there must be a way to communicate with the creator because it makes sense and is logical. He also argues that we should seek guidance from the creator to understand how to worship him.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** in this video discusses the need for messengers in order to receive guidance from a creator. They explain how the nature of a human being is alluded to within the Quran itself and in a debate with an atheist. says that even when a person faces a difficult situation, they still maintain hope in the creator.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses how humans have an innate desire to seek something more than material to appease something beyond the physical universe, which manifests as a lack of control and fear in difficult situations. It goes on to discuss how this manifests in different ways across different cultures, concluding that it is a universal phenomenon.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The presenter discusses how religious practices have been observed in different civilizations across the globe, and how this evidence suggests that religion is innate. They also discuss a study by Professor Roger Trigg which states that religion is not just something that is acquired from society, but is something that is innate in most humans.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses studies that point to the existence of a desire to worship and submit to a higher being in human beings, even atheists. He argues that this is the fitter of the human being and that it is a rational observation of the human condition.
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** argues that there must be a way to communicate with the creator because it makes sense and is logical. He also argues that we should seek guidance from the creator to understand how to worship him.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

@@ -5,13 +5,12 @@
 ## Description
 
 You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
+<https://www.patreon.com/Bloggingtheology>
 
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
 ## Summary of [@bartdehrman discusses Jesus, the Bible, and Christianity](https://www.youtube.com/watch?v=oeZrdgxi9bY)
-
 
 <span style="color:red; font-size:125%">This summary is AI generated - there are inaccuracies</span>
 
@@ -20,6 +19,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 In this YouTube video, Bart Dehrman discusses his view of Jesus, the Bible, and Christianity. He argues that early Christians believed that Jesus was a divine being, and that this idea may have originated with the Gospel of John. He also suggests that there may have been conflicts between early disciples of Jesus and those who followed Paul.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Dr. Bart Dehrman discusses the origins and development of early Christianities in his latest book, "Jesus and the Gospels." He notes that there is much speculation involved in dating the four canonical gospels, but most scholars agree that Mark was the first gospel, Matthew and Luke were written around or after the year 70, and John was written around or after 95. Paul's high theology is not a reliable indicator of chronology, as both John and Paul have opposite views on Christ's incarnation.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** This YouTube video discusses how scholars believe that the predictions about Jesus' death and resurrection were specific to His time and were not inserted into the gospel narratives later on. The video also discusses the astonishment that the disciples showed when Jesus did not appear after His resurrection.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The author discusses evidence that suggests that Jesus may have thought of himself as a divine being, and that the idea may have originated with the Gospel of John. He says that most historians think that the first three gospels – Matthew, Mark, and Luke – are based on older sources, and that Matthew and Luke both have sources that date back to before Mark. None of the gospels mention Jesus calling himself "god." This may be evidence that the idea of Jesus being a divine being developed later, after he had died.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** In this YouTube video, Bart Dehrman discusses the passage found in Mark 10:17-19, in which a man comes to Jesus asking what he needs to do to inherit eternal life. Dehrman points out that this passage is historically reliable and that, in Matthew, Jesus changes the words from "what good thing must I do" to "only God is good." Dehrman goes on to say that, because Matthew has a problem with this statement, he changes it to "why do you call me good, there is no one good but God alone."
@@ -31,11 +31,13 @@ In this YouTube video, Bart Dehrman discusses his view of Jesus, the Bible, and 
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The transcript excerpt discusses the accuracy of biblical manuscripts, specifically the Isaias scroll. It is important to keep in mind that even if a manuscript is accurate, it does not necessarily mean that the author wrote what is inside it. There are multiple sources of error that can occur over a period of 700 years.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Walter Bauer argued that early Christianity was riddled with heresy, much of which resembled later Gnostic beliefs.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Bart Dehrman discusses the view that there were multiple groups of Christians throughout history, with one group eventually winning out and rewriting history. He presents Bauer's view, which argues that there was diversity among early Christians. Bauer's book, which was not translated into English until the late 1970s, has become a very popular critical opinion among critical historians.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:25:00</a>
 
 In this YouTube video, Bart Dehrman discusses the history of Jesus and how he was misinterpreted by later historians. He also recommends two books for those interested in further exploring these topics.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** In @bartdehrman's book, "Two Peters: Forgery and the Case for Peter of Rome," he argues that ancient people accepted literary conventions of writing in other people's names, and that this was not condemned as a practice. He provides evidence from ancient sources to support his argument.
+
 * **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Author Bart Dehrman discusses how, in his book "The Letter Carrier: The Secret History of the New Testament's Secretaries," he argues that the New Testament was not written by its purported authors, Jesus and Paul, but instead by secretaries. He provides evidence from ancient literature to support this claim. Dehrman concludes that, because Christian scholars are still largely influenced by Christian beliefs, his book has been largely ignored.
 * **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** In his book Constructing Jesus, Dale Allison argues that the criterion-based historical Jesus approach is problematic because it relies too much on subjective criteria. He instead advocates a generalist approach, which considers an element as probably authentic if it is present in multiple genres. Some people object to this approach because it relies on subjective criteria.
 * **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** In this YouTube video, Bart Dehrman discusses the criteria for determining if a biblical passage is embarrassing or not, and how it can be used to reconstruct historical events. He argues that the criteria are an unavoidable part of doing history, and that they always involve a probability judgment.

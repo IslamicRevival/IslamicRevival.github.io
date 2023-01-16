@@ -4,12 +4,11 @@
 
 ## Description
 
-Full video link here -https://www.youtube.com/watch?v=jsHRc35qsxw
+Full video link here -<https://www.youtube.com/watch?v=jsHRc35qsxw>
 
 New atheist Sam Harris has often made a case against Islam using fallacious arguments and without proper knowledge. This is one segment of a blunder he makes and a subsequent clarification of the misconception he had.
 
 ## Summary of [Sam Harris Challenges Muslims on Radicalism and Slavery](https://www.youtube.com/watch?v=Hl7mPkjE8pI)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -18,6 +17,7 @@ New atheist Sam Harris has often made a case against Islam using fallacious argu
  Sam Harris challenges Muslims on their stance on slavery, noting that while the Quran does not condone slavery, it does allow for the freeing of slaves in cases of dire need. Harris argues that many Muslims in the present day are still practicing slavery, and that this reflects the power and reach of radical Islamist factions.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Sam Harris challenges Muslims on radicalism and slavery, stating that there is no basis in scripture for resisting slavery. He argues that the Quran does not allow for resistance of slavery, and that even if he is correct that slavery generally does not exist in the Quran, this would not disprove Islam.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Sam Harris challenges Muslims on their stance on slavery, noting that while the Quran does not condone slavery, it does allow for the freeing of slaves in cases of dire need. Harris also points out that while slavery was not a part of Islamic law at the time of the Quran's writing, it was later introduced due to the absence of prisons.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Sam Harris challenges Muslims on radicalism and slavery, asking why so many people in the Muslim community do not free slaves if Islam is such a powerful and righteous institution. Harris argues that many Muslims in the present day are still practicing slavery, and that this reflects the power and reach of radical Islamist factions.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Sam Harris challenges Muslims on the radicalism and slavery within their faith, arguing that these practices are not in line with mainstream Islam. Harris also points to the consensus of Muslim scholars against Isis.

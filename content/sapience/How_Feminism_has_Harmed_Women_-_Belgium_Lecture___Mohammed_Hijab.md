@@ -5,25 +5,24 @@
 ## Description
 
 Help us educate and mentor others to share the faith academically.
-Donate now: https://sapienceinstitute.org/donate/ 
+Donate now: <https://sapienceinstitute.org/donate/>
 
-Free online courses: https://learn.sapienceinstitute.org/
+Free online courses: <https://learn.sapienceinstitute.org/>
 
-Free books: https://sapienceinstitute.org/books/
+Free books: <https://sapienceinstitute.org/books/>
 
-Have doubts? Book a mentor: https://sapienceinstitute.org/lighthouse/
+Have doubts? Book a mentor: <https://sapienceinstitute.org/lighthouse/>
 
-Listen (Podcast): https://sapienceinstitute.org/sapientvoices/
+Listen (Podcast): <https://sapienceinstitute.org/sapientvoices/>
 
 Follow:
-– Facebook: https://facebook.com/sapienceinstitute.org/ 
-– Twitter: https://twitter.com/SapienceOrg/ 
-– Instagram: https://instagram.com/sapienceinstitute/ 
+– Facebook: <https://facebook.com/sapienceinstitute.org/>
+– Twitter: <https://twitter.com/SapienceOrg/>
+– Instagram: <https://instagram.com/sapienceinstitute/>
 
-Articles, speaker requests & more: https://sapienceinstitute.org/
+Articles, speaker requests & more: <https://sapienceinstitute.org/>
 
 ## Summary of [How Feminism has Harmed Women - Belgium Lecture | Mohammed Hijab](https://www.youtube.com/watch?v=LdC1PepIg2U)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -32,15 +31,16 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 Mohammed Hijab, a Belgian Islamic scholar, discusses how feminism has harmed women in a number of ways. He argues that feminism has led to women suffering from mental disorders and harming their children. He also argues that feminism has given men too much power in the household.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Mohammed Hijab speaks about how feminism has harmed women by putting them in a position of deteriorated well-being. He argues that this is because feminist prescriptions or recommendations have attacked the institution of the family.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** In her book "The Feminine Mystique," Betty Friedan popularized the idea that feminism has harmed women. She surveyed female respondents and found that they suffered from mental breakdowns more than in the past. She also stated that one-third of women surveyed regretted not having children. 20 years later, Friedan has reversed her opinion and states that she regrets the situation that women are in, mourning for their unborn children. Friedan advises women not to have children in order to avoid this regret.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses a study which shows that, since the 1960s, the well-being of women has deteriorated. He points out that this is an established fact, and that many other studies have come to the same conclusion. He goes on to say that this is a result of feminist policies, which put women in the workplace and force them to do the same things as men.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses a study which shows that, since the 1960s, the well-being of women has deteriorated. He points out that this is an established fact, and that many other studies have come to the same conclusion. He goes on to say that this is a result of feminist policies, which put women in the workplace and force them to do the same things as men.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** This lecture discusses the harmful effects of feminism on women. According to the speaker, 78% of women who have received feminist counseling have said they would quit their jobs if they could. These women cite psychological breakdown, nervous breakdown, and deteriorated mental conditions as the reasons they would like to leave their jobs. Men, on the other hand, enjoy the benefits of not having to commit to a woman, being able to go from one woman to another without any responsibilities, and not having to provide for children. This raises the question of whether feminism has actually harmed women more than it has helped them.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Mohammed Hijab, a Belgian scholar, discusses the negative effects of feminism on women and children. He argues that, as a Muslim, he is more lenient in his views on abortion than many other feminists. Nevertheless, he contends that, overall, feminism has harmed women by deteriorating their well-being, causing them to suffer from mental disorders, and harming their children.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Mohammed Hijab gives a lecture on the negative effects of feminism on women, citing studies that show that feminism has harmed women in a number of ways. He also mentions Betsy Ferdan, a founder of second-wave feminism, who says that feminism has become like a religion, with a religious feeling that is difficult to change.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Mohammed Hijab is a Belgian Islamic scholar who opposes feminism. He believes that women should not pursue careers over motherhood, and that this is a waste of time and energy.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses how feminism has harmed women, citing examples of how feminism has disadvantaged women in terms of their abilities and status in society. also discusses how the Quran makes distinctions between males and females, and how these distinctions are based on natural factors.
+* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses how feminism has harmed women, citing examples of how feminism has disadvantaged women in terms of their abilities and status in society. also discusses how the Quran makes distinctions between males and females, and how these distinctions are based on natural factors.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** This Belgian lecture discusses how feminism has harmed women by creating ambiguous verses in the Quran and by giving men too much power in the household. It also discusses how a woman must obey her husband in cases of physical violence and when it comes to managing hierarchy in the house.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses how feminism has harmed women in Belgium, citing specific examples such as how a mother's influence over her children is greater than a father's, and how a man can give a divorce right away without the woman's consent in certain cases. He goes on to say that this is mythology, and that if a person believes that a man can be a woman empirically, they are subscribing to a myth.
+* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Discusses how feminism has harmed women in Belgium, citing specific examples such as how a mother's influence over her children is greater than a father's, and how a man can give a divorce right away without the woman's consent in certain cases. He goes on to say that this is mythology, and that if a person believes that a man can be a woman empirically, they are subscribing to a myth.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Mohammed Hijab discusses how feminism has harmed women, specifically by deconstructing the male and female body and minds. He points to how Western feminists are colonizing African minds, and how this is a more pernicious form of colonialism.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

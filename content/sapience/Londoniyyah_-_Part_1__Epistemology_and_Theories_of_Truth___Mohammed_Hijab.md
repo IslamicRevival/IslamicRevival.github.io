@@ -4,7 +4,7 @@
 
 ## Description
 
-Listen as audio: https://soundcloud.com/sapienceinstitute/sets/londoniyyah
+Listen as audio: <https://soundcloud.com/sapienceinstitute/sets/londoniyyah>
 
 Londoniyyah - Part 1: Epistemology and Theories of Truth | Mohammed Hijab
 
@@ -12,8 +12,9 @@ An explanation of a new theo-philosophical poem on Islam and contemporary worldv
 
 A new series by Mohammed Hijab
 
-To be updated about our content please subscribe and open the notifications.
+To be updated about our content please subscribe and open the notifications
 ----
+
 BOOK A LIGHTHOUSE MENTOR
 
 Are you or someone you know doubting Islam? Do you find yourself struggling to find answers?  Do you have a hard time speaking to someone about Islam?  Are you considering Islam but are unsure about certain concepts?  Are you an activist, Imam or community leader who is unsure about how to handle questions related to science, philosophy, the Islamic moral code, etc.?
@@ -22,12 +23,11 @@ You are not alone.  Over the course of the last decade or more there has been a 
 
 Seeing the rise of  this phenomenon , Sapience Institute is introducing a One to One mentoring service called LIGHTHOUSE.
 
-BOOK A MENTOR HERE: https://sapienceinstitute.org/lighthouse/
+BOOK A MENTOR HERE: <https://sapienceinstitute.org/lighthouse/>
 
-VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: https://sapienceinstitute.org/
+VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: <https://sapienceinstitute.org/>
 
 ## Summary of [Londoniyyah - Part 1: Epistemology and Theories of Truth | Mohammed Hijab](https://www.youtube.com/watch?v=eSQk1CpCh5k)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -35,14 +35,15 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 
  discusses the three main theories of truth: correspondence, coherence, and pragmatism. It also discusses the objections to each theory.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the three main schools of thought in epistemology: the coherence theory of truth, the pragmatist theory of truth, and the correspondence theory of truth. It also discusses the fundamental question of what knowledge is.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the three main schools of thought in epistemology: the coherence theory of truth, the pragmatist theory of truth, and the correspondence theory of truth. It also discusses the fundamental question of what knowledge is.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** In epistemology, there are three main schools of thought: coherentism, naturalism, and relativism. Each theory has its own set of axioms which must be met in order for something to be considered knowledge. One example of a theory of truth is foundationalism, which holds that there must be a foundation for our beliefs - such as axioms - and that the superstructure of other beliefs is rested on this foundation.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  Mohammed Hijab discusses the various schools of thought on epistemology, with a focus on the rationalist and empiricist schools. He also touches on the islamic tradition's conception of the Fitra, or "earliest stage of awareness."
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the different schools of thought in epistemology, including the rationalists, empiricists, and skeptics. It also discusses the importance of knowing what we think and what definitions we use when discussing knowledge.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the different schools of thought in epistemology, including the rationalists, empiricists, and skeptics. It also discusses the importance of knowing what we think and what definitions we use when discussing knowledge.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** The three major schools of thought on the nature of truth are correspondence theory, modal realism, and naturalism. The correspondence theory of truth holds that a belief is only true if it corresponds with something in existence. This is considered the most prevalent school of thought, and for good reason because it allows for truth claims to be made about things in the real world. If a belief does not correspond with reality, it can be considered a myth. The modal realism school of thought holds that beliefs can be true in multiple ways, depending on the circumstance. The naturalism school of thought holds that truth is simply the correspondence between a belief and reality. This school of thought is more difficult to accept because it requires that we accept that beliefs can be false.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** The three main theories of truth are correspondence, coherence, and pragmatism. Correspondence theory argues that consistency is a necessary but not sufficient condition to truth, while coherence theory says that a belief is true if it coheres with a body of statements that we take to be true. Pragmatism says that truth is whatever is useful, and that it can be true for works even if it's not experimentally provable.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** This philosopher discusses the objection to pragmatism, which is that it is possible for there to be truths that contradict each other. He also discusses the objection to coherentism, which is that it can be fictitious.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses the problems with correspondence theory of truth. Pragmatism and coherentism are also discussed as being undercut by the objections raised.
+* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses the problems with correspondence theory of truth. Pragmatism and coherentism are also discussed as being undercut by the objections raised.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

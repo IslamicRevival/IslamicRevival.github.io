@@ -4,11 +4,10 @@
 
 ## Description
 
-The Islamic Jesus: How the King of the Jews Became a Prophet of the Muslims http://www.mustafaakyol.org/index.php/books/the-islamic-jesus
-Please consider supporting my work on Patreon: https://www.patreon.com/Bloggingtheology?fan_landing=true
+The Islamic Jesus: How the King of the Jews Became a Prophet of the Muslims <http://www.mustafaakyol.org/index.php/books/the-islamic-jesus>
+Please consider supporting my work on Patreon: <https://www.patreon.com/Bloggingtheology?fan_landing=true>
 
 ## Summary of [Does the Qur'an get the Trinity wrong?](https://www.youtube.com/watch?v=qxUiBgt5eG0)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -17,6 +16,7 @@ Please consider supporting my work on Patreon: https://www.patreon.com/Bloggingt
 The video discusses how various gentile Christian movements rejected the idea of the Trinity, and how this led to accusations of Judaizing. The Trinity was fully established only half a century later at the Council of Constantinople, and even today the Aryan tendency never fully died out.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** quotes from a passage from a book on Islamic Jesus which argues that the doctrine of the Trinity is antithetical to Islam, and that calling God "three" and defining Jesus as son of God is antithetical to islam. Muslims have almost universally disagreed with this notion.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The video discusses the theological position of Islam, Judaism, and Christianity on the concept of a trinity. It points out that all three faiths reject the doctrine of the trinity, which is a central Christian belief. Early Christians were also concerned about the heresies that arose within the Gentile Christian world, and developed a more modest view of Christ. This more modest view became formalized with the development of the doctrine of the Trinity in the 2nd and 3rd centuries AD. There were two major stages in this evolution, with Christ first being defined as divine and then being formally defined as a triune godhead involving God the Father, Son, and Holy Spirit. This doctrine was first schematized or schematized by the Church Father, Tertullian, at the beginning of the 3rd century AD, but it was not without challenge within the Gentile Christian world. Heresies such as Arianism emerged, challenging the Trinity doctrine.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The video discusses how various gentile Christian movements rejected the idea of the Trinity, and how this led to accusations of Judaizing. The Trinity was fully established only half a century later at the Council of Constantinople, and even today the Aryan tendency never fully died out.
 

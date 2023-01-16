@@ -2,16 +2,15 @@
 
 <iframe loading='lazy' src='https://www.youtube.com/embed/CN14qAKJsEA'></iframe>## Description
 
-Visit our website now: http://www.sirateducation.com/
+Visit our website now: <http://www.sirateducation.com/>
 
-Richard Dawkins and other new age atheists commonly make the claim that evolution is certain truth. 
+Richard Dawkins and other new age atheists commonly make the claim that evolution is certain truth.
 
-In this presentation there is a direct challenge to this proposition with compelling arguments made against this idea. The presentation starts with an islamic conceptualisation of science and moves on to evolution as a specific example. 
+In this presentation there is a direct challenge to this proposition with compelling arguments made against this idea. The presentation starts with an islamic conceptualisation of science and moves on to evolution as a specific example.
 
 Throughout the presentation Brother Mohammed is clear to make a distinction between Islam and Christianity as many in the west have only been exposed to either Christian/Atheistic narratives.
 
 ## Summary of [MUST WATCH: The questions NO EVOLUTIONIST can answer ||Br. Mohammed Hijab](https://www.youtube.com/watch?v=CN14qAKJsEA)
-
 
 *
 
@@ -22,8 +21,9 @@ Throughout the presentation Brother Mohammed is clear to make a distinction betw
 discusses the contradictions in mainstream science, and how evolutionary theory cannot account for certain details in the Quran. It argues that, because of this, the Quran should be taken seriously as a source of knowledge about the creation of the world.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The first point to make is that science itself is not immune to change, with paradigm shifts happening from time to time. The second point is that there are many problems with induction, which makes it difficult to make reliable estimates based on past experience or extrapolation into the future. If evolution is taken as an unchangeable fact on ultimate truth, then Muslims would have no problem rejecting it.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Br. Mohammed Hijab asks evolutionists several questions that they cannot answer, such as whether they can guarantee that there will be no paradigm shift in biology and whether they can solve the problem of induction. He then asks them to fight back and write articles or make visual responses to the questions. He argues that because evolution is based on a long evolutionary process, it is constantly changing and cannot be said to be a "fact."
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the contradictions in mainstream science, and how evolutionary theory cannot account for certain details in the Quran. It argues that, because of this, the Quran should be taken seriously as a source of knowledge about the creation of the world.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the contradictions in mainstream science, and how evolutionary theory cannot account for certain details in the Quran. It argues that, because of this, the Quran should be taken seriously as a source of knowledge about the creation of the world.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

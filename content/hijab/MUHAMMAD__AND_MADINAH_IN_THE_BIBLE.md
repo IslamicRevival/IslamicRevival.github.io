@@ -8,10 +8,9 @@ The main proof of Muhammad’s Prophethood, peace and blessings be upon him, is 
 
 To learn more about Muhammad in the Bible please check out this article:
 
-http://www.manyprophetsonemessage.com/2014/06/28/muhammad-pbuh-and-madinah-in-the-bible/
+<http://www.manyprophetsonemessage.com/2014/06/28/muhammad-pbuh-and-madinah-in-the-bible/>
 
 ## Summary of [MUHAMMAD ﷺ AND MADINAH IN THE BIBLE](https://www.youtube.com/watch?v=hpny44O0eEQ)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -20,6 +19,7 @@ http://www.manyprophetsonemessage.com/2014/06/28/muhammad-pbuh-and-madinah-in-th
  Muhammad discusses the similarities and differences between his hometown of Mecca and the city of Jerusalem in the Bible. He highlights the importance of both cities to Muslims and highlights the similarities and differences between the two.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The 42nd chapter of the Book of Isaiah foretells the coming of an Arabian prophet, specifically Prophet Muhammad peace and blessings be upon him. The chapter describes this prophet as "my servant whom I uphold my chosen one in whom I delight." Three of the Prophet Muhammad's names are mentioned- servant chosen one and in whom I delight, and beloved of God, Habib Allah. The Quran reveals the location of this special person as being within Arabia, specifically Medina in Saudi Arabia. The importance of this revelation is that it confirms that the Prophet Muhammad was not a new prophet, but rather confirmed the law of Moses which was already present. The new song mentioned cannot refer to Jesus, as he did not bring about anything new, but rather followed the law of Moses throughout his life.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Muhammad is compared to Jesus, and it is shown that Jesus did not accomplish the same things that Muhammad did. It is also mentioned that Christians persecuted Muslims for hundreds of years after Jesus. Finally, God warns people that if they do not listen to Muhammad, they will not listen to him in time to come.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  Muhammad discusses the similarities and differences between his hometown of Mecca and the city of Jerusalem in the Bible. He highlights the importance of both cities to Muslims and highlights the similarities and differences between the two.
 

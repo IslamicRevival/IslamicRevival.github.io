@@ -4,18 +4,17 @@
 
 ## Description
 
-BBC has a frank interview with Mohammed Hijab on Israel and Palestine. 
+BBC has a frank interview with Mohammed Hijab on Israel and Palestine.
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
-My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
+My book: <https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/>
 
-#israel #palestine #bbc
+# israel #palestine #bbc
 
 ## Summary of [BBC Interview: Palestinian Activism and Anti-Zionism vs Anti-Semitism](https://www.youtube.com/watch?v=6zHL2x0ndgE)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -24,13 +23,14 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 The BBC interviews a Palestinian activist about her views on anti-Semitism and apartheid. The activist argues that while it is possible for someone to be anti-Semitic, it is impossible for a Muslim to be anti-Semitic, as the prophet Muhammad married a Jewish woman. She also discusses the risk of engaging in free speech when it is used to insult or offend populations, citing the example of anti-slavery advocates in the 19th century who went to war to end slavery.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The interviewer discusses his childhood in London and how he grew to be an observant orthodox traditionalist Muslim. He discusses his experiences with Jewish people and how he viewed Judaism as a religion and not just an ethnic group. He talks about his current views on Judaism and how it is similar to Islam, but with one key difference.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the effects of anti-Zionism on how people think about Jewish people. points out that while anti-Zionism may not be anti-Semitism, it does create a space for anti-Semitism to emerge.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the difference between Palestinian activism and anti-Semitism. explains that while both oppose the Israeli government, Palestinian activism should never be conflated with anti-Semitism. He also points out that there is a large segment of the Jewish community that sees no connection between being Jewish and supporting Israel.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the effects of anti-Zionism on how people think about Jewish people. points out that while anti-Zionism may not be anti-Semitism, it does create a space for anti-Semitism to emerge.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the difference between Palestinian activism and anti-Semitism. explains that while both oppose the Israeli government, Palestinian activism should never be conflated with anti-Semitism. He also points out that there is a large segment of the Jewish community that sees no connection between being Jewish and supporting Israel.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Palestinian activists and anti-Zionists argue that anti-Semitism is not only rooted in hatred of Jews, but also in opposition to the Israeli government. Norman Frenkelstein, who wrote a book called "The Holocaust Industry," said that, in order to prevent future tragedies, we should teach our children about the Holocaust and the importance of not comparing Israel to Nazi Germany. Some people reacted negatively to the video, accusing the activists of being anti-Semitic.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** The BBC interviews Palestinian activist and anti-Zionist Salma Khadra about her beliefs on anti-Semitism and apartheid. Khadra argues that while it is possible for someone to be anti-Semitic, it is impossible for a Muslim to be anti-Semitic, as the prophet Muhammad married a Jewish woman. She also discusses the risk of engaging in free speech when it is used to insult or offend populations, citing the example of anti-slavery advocates in the 19th century who went to war to end slavery.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** The BBC interviews a Palestinian activist who has married a Jewish woman and argues that anti-Semitism exists within the Muslim community as well as among those who support the Israeli government. The activist notes that comparing Islamophobia and anti-Semitism is a disanalogy because Islam is only religious, while anti-Semitism is based on hatred of all Jews, no matter their religious beliefs.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses how different groups should be treated in a harmonious way, and how politics have played a role in the history of animosity between Muslims and Jews. He is optimistic about the future, and believes that if the government does not fear dialogue, Muslim-Jewish harmony will return.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses the conflict between progressive and traditionalist Muslims. The progressive Muslims in the video object to the term "radical Israeli" because it implies that all Israeli people are radical, and this is not accurate. They also object to the  of the video, "Muslims confront radical Israelis," because it implies that all Israeli people are responsible for the violence against Palestinians. The traditionalist Muslims in the video say that the majority of Israeli people are moderate, and that the focus on the negative makes it difficult to see the positive aspects of Israeli society.
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses how different groups should be treated in a harmonious way, and how politics have played a role in the history of animosity between Muslims and Jews. He is optimistic about the future, and believes that if the government does not fear dialogue, Muslim-Jewish harmony will return.
+* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses the conflict between progressive and traditionalist Muslims. The progressive Muslims in the video object to the term "radical Israeli" because it implies that all Israeli people are radical, and this is not accurate. They also object to the  of the video, "Muslims confront radical Israelis," because it implies that all Israeli people are responsible for the violence against Palestinians. The traditionalist Muslims in the video say that the majority of Israeli people are moderate, and that the focus on the negative makes it difficult to see the positive aspects of Israeli society.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** In this BBC interview, Palestinian activist and anti-Zionist, Musa Abou Zaid, discusses the difficulties between Palestinian and Israeli communities. He says that despite his sympathies for the jewish people, they are wrong on the issues and that he would like to see co-existence, confidential relations, and tolerance. He predicts that all of these things will not happen in the near future, and that the situation will get worse before it gets better.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

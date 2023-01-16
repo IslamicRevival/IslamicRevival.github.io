@@ -6,20 +6,20 @@
 
 A clip taken from episode 1 of the new show THOUGHT ADVENTURE PODCAST. Justin, host of the empathetic atheist, joins the show and discusses his views on Islam, it’s rational argument for God and the difference in approach between Christians and Muslims towards belief.
 
-Full video: https://youtu.be/muoqQDZ9jik
+Full video: <https://youtu.be/muoqQDZ9jik>
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -27,40 +27,39 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
-#EAShow #AtheistBecomesMuslim #Islam
+# EAShow #AtheistBecomesMuslim #Islam
 
 ## Summary of [Atheist Considers Converting to Islam 😲 | Podcast Highlight](https://www.youtube.com/watch?v=E9o_fE9QIFc)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -69,11 +68,12 @@ Gmail: hello.tapodcast@gmail.com
  discusses a variety of topics related to atheism, including the idea that one can be convinced of a certain idea without empirical evidence, the idea that atheists may have a bias that can be overcome, and the idea that an atheist may consider converting to Islam.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Justin hosts the "Empathetic Atheist" podcast, which discusses religious beliefs with those of different perspectives. He recently spoke with a muslim man, Abdulrahman, about the similarities and differences between his beliefs and those of a Christian. Abdulrahman shared that when speaking to an atheist, Christians will often use circular reasoning and fear-mongering arguments. Justin discussed this issue with Abdulrahman and explained that, as Muslims, they don't focus on debating religious claims, but rather trying to establish dominance over other possible god claims.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the idea of "logical arguments" being convincing, but still containing a bias that the atheist retains. The bias is that the atheist considers the universe to have had a beginning, and therefore must have a creator.  discusses how this bias can be overcome by using "empirical means", such as empirical data from within a computer game.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the idea that one can be convinced of a certain idea without empirical evidence. discusses how, even though they are an atheist, they believe that human chimp common ancestry is a fact. goes on to say that, even though one's beliefs should be based on reason and rationality, their beliefs on this topic are based on innate predispositions.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** talks about how he has considered converting to Islam, but is not yet ready to fully commit. He says that there is a synergy between a rational conception of the creator and a human's innate desire to sanctify and see things that are greater in purpose and meaning. He advises against assuming that becoming a Muslim requires being ready to go full super muzzy.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** The atheist discusses how it's not necessary to be absolutely certain about one's atheism in order to take a leap and identify as one. He explains that, from an epistemological perspective, one doesn't need to attain 100 certainty in order to take a leap and say that a proposition is true. He also discusses how, from a spiritual perspective, taking the shahadah can be motivating and help one learn more. He says that, if anyone is an atheist, they should have conversations with people who disagree with them in order to learn more. He says he would like to have a chat with Bill Nye.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** The individual discussed how they feel when engaging in interfaith dialogue with Christians, as well as how Muslims feel when discussing Christianity. They say that when it comes to discussing the foundational aspects of Christianity, Muslims feel that Christians are skipping over important details in order to make "sort of pot shots and low blows."
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the idea of "logical arguments" being convincing, but still containing a bias that the atheist retains. The bias is that the atheist considers the universe to have had a beginning, and therefore must have a creator.  discusses how this bias can be overcome by using "empirical means", such as empirical data from within a computer game.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the idea that one can be convinced of a certain idea without empirical evidence. discusses how, even though they are an atheist, they believe that human chimp common ancestry is a fact. goes on to say that, even though one's beliefs should be based on reason and rationality, their beliefs on this topic are based on innate predispositions.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** talks about how he has considered converting to Islam, but is not yet ready to fully commit. He says that there is a synergy between a rational conception of the creator and a human's innate desire to sanctify and see things that are greater in purpose and meaning. He advises against assuming that becoming a Muslim requires being ready to go full super muzzy.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** The atheist discusses how it's not necessary to be absolutely certain about one's atheism in order to take a leap and identify as one. He explains that, from an epistemological perspective, one doesn't need to attain 100 certainty in order to take a leap and say that a proposition is true. He also discusses how, from a spiritual perspective, taking the shahadah can be motivating and help one learn more. He says that, if anyone is an atheist, they should have conversations with people who disagree with them in order to learn more. He says he would like to have a chat with Bill Nye.
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** The individual discussed how they feel when engaging in interfaith dialogue with Christians, as well as how Muslims feel when discussing Christianity. They say that when it comes to discussing the foundational aspects of Christianity, Muslims feel that Christians are skipping over important details in order to make "sort of pot shots and low blows."
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

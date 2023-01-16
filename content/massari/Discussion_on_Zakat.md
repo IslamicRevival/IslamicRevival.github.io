@@ -7,14 +7,13 @@
 حلقات ودروس الشيخ الدكتور محمد بن عبدالله المسعري
 Study Circles of Professor Dr. Muhammad AL-MASSARI
 
-Discussion on Zakat: 
+Discussion on Zakat:
 When it is due?
 On what items?
 How it is calculated?
 Dispelling Misconceptions?
 
 ## Summary of [Discussion on Zakat](https://www.youtube.com/watch?v=39Vep9aTNa4)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -23,6 +22,7 @@ Dispelling Misconceptions?
 in this video discusses the Islamic concept of zakat, which is a mandatory charity tax. He explains that, although the tax is based on an individual's ability to pay, it is still a reasonable measure to take into account when making economic decisions. He also discusses the concept of umra, which is a pilgrimage to Mecca. He advises those who make the pilgrimage to take care of their financial affairs while they are away, in case they are unable to return home due to economic difficulties. He concludes the talk by discussing how zakat can be used to help developing regions.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** discusses zakat, a religious obligation to give 2% of one's income to charity. He also talks about kamehameha and how properties and income can be calculated. He suggests that the lunar year be used as the basis for calculating zakat, rather than the solar year.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** discusses the abrogation of the Zakat obligation, which over the centuries has led to different interpretations of the obligation. He also discusses the possible use of other years as the basis for calculating Zakat, and the question of whether someone who has received an increase in wealth during the year is still liable for Zakat. concludes that, while the theory behind the obligation is sound, there is no evidence to support the idea that someone who has received an increase in wealth is still liable for Zakat.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Zakat is a religious obligation that Muslims are required to pay once a year. The exact amount of zakat to be paid is determined by a fixed cut day, which is determined by the imam. Wealth that is above one's self is subject to zakat, and the payment is calculated as a percentage of the total value of the wealth. Zakat is also payable on bank accounts, investments, and other assets.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Zakat is an important part of Islam that is required to be paid on one's accumulated wealth at a set time, depending on the value of that wealth. The importance of Zakat is emphasized by clarifying that it is one capital that must be used, and that it will help avoid a long time of war. Additionally, it is important to pay Zakat as soon as possible in order to maximize its impact.

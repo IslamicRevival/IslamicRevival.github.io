@@ -4,10 +4,9 @@
 
 ## Description
 
-Filmed in Turkey on Thursday 4th November. For more information about Hagia Sophia: https://en.wikipedia.org/wiki/Hagia_Sophia
+Filmed in Turkey on Thursday 4th November. For more information about Hagia Sophia: <https://en.wikipedia.org/wiki/Hagia_Sophia>
 
 ## Summary of [A very amateur guide to Hagia Sophia](https://www.youtube.com/watch?v=Hf-l1I5Wta4)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -16,6 +15,7 @@ Filmed in Turkey on Thursday 4th November. For more information about Hagia Soph
 Hagia Sophia is a mosque in Istanbul that was once a cathedral. The building is stunning, with beautiful columns and mosaics. The guide provides information about the different areas of the mosque and how it is used today.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** This video provides a brief tour of Hagia Sophia, a mosque in Istanbul. The focal point of the mosque is stunningly beautiful, with two columns made of marble that look like candles from over a thousand years ago. There are also two white sheets covering over mosaics, which one can see behind the main one. The mosque also has a virgin Mary and Jesus statue, as well as symbols of Allah and Muhammad. The author points out that the mosque is decorated with ABCs of islam around the corner, and has vast corridors and chandeliers. One can also see the qurans and other religious texts in the library. The author briefly discusses how the mosque is used during different times of the day, including during prayers and during school.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The video shows a walkthrough of Westminster Abbey in London, which was copied and adapted for use as the coronation spot for emperors and sultans in the Ottoman Empire. Christian iconography still remains in the mosque, which is open to the public 24 hours a day.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** This video provides an amateur guide to Hagia Sophia, a cathedral in Istanbul. The guide discusses the importance of respectful dress in places of worship and provides information about the guards and layout of the cathedral.
 

@@ -6,10 +6,9 @@
 
 An very intelligent Christian attempts to make sense of the trinity by positing his ontological argument. This exchange brings to light that no matter how you frame it, the trinity is an impossible square to circle.
 
-FULL DEBATE -https://www.youtube.com/watch?v=hgXY4hJkrLA
+FULL DEBATE -<https://www.youtube.com/watch?v=hgXY4hJkrLA>
 
 ## Summary of [Scholarly Christian Tries His Hardest To Prove Trinity](https://www.youtube.com/watch?v=gfo_IMb0t6M)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -18,8 +17,9 @@ FULL DEBATE -https://www.youtube.com/watch?v=hgXY4hJkrLA
 discusses the idea of the Trinity and how it is difficult to prove. argues that the Father, Son, and Holy Spirit are not equal, and that the Father's will is higher than the Son's. He also argues that if someone doesn't show what they have, they don't possess it. In conclusion, the speaker explains why he cannot accept the concept of the Trinity.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The scholar in the video tries to answer a question about the Trinity by explaining that there are three possible answers: the Father, Son, and Holy Spirit created the universe, or the Father created the universe and the Son and Holy Spirit co-created it. However, he eventually retracts his answer after realizing that it's a difficult question to answer.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the idea of a compromise between the Father, Son, and Holy Spirit regarding their wills. It argues that the Father cannot make a decision unless all three agree, and that the Son and Holy Spirit are always working together harmoniously.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the idea of hierarchical subordination, and how it applies to the Trinity. It explains that the Father's will is higher than the Son's will, and the Son's will is higher than the Holy Spirit's will. However, the Father's will is still independent, and it can be put into effect.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the idea of a compromise between the Father, Son, and Holy Spirit regarding their wills. It argues that the Father cannot make a decision unless all three agree, and that the Son and Holy Spirit are always working together harmoniously.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the idea of hierarchical subordination, and how it applies to the Trinity. It explains that the Father's will is higher than the Son's will, and the Son's will is higher than the Holy Spirit's will. However, the Father's will is still independent, and it can be put into effect.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** argues that the will of the Father is higher than that of the Son and the Holy Spirit, and that this is demonstrated by the fact that the Father can punish from day one and that the Son and Holy Spirit have abilities but are not essential for punishment or creation.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** in this video argues that, because God is perfect and good, he always had the ability to punish people. If this is the case, then God needs an object to be good and loving to people, which would mean that people are not equal to God.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** argues that if someone doesn't show what they have, they don't possess it. He then goes on to say that Mother Teresa is good, but we don't know this for sure because she is not a serial killer. He concludes by saying that he is more intelligent than the person he is debating, who he claims has low knowledge and no understanding.

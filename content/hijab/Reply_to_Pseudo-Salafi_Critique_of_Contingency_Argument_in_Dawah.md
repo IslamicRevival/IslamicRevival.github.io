@@ -4,10 +4,9 @@
 
 ## Description
 
-Free book: https://sapienceinstitute.org/theburhan/
+Free book: <https://sapienceinstitute.org/theburhan/>
 
 ## Summary of [Reply to Pseudo-Salafi Critique of Contingency Argument in Dawah](https://www.youtube.com/watch?v=TU7mQOn_SQ4)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -16,7 +15,8 @@ Free book: https://sapienceinstitute.org/theburhan/
 Eben Tamiya argues that the contingency argument can be used to refute the attributes of God. He also discusses the cosmological fallacy, and how if you put together things which are non-existent, it does not make them exist.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Eben Tamiya argues that some people should use arguments that are "infinite rigors of inefficient causes," or "rigors of efficient causes," because these arguments are more likely to be effective. He also says that this type of infinite regress is impossible.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses contingency, and argues that since things which are contingent upon other things are still contingent, the entire set is not itself contingent. He also discusses the cosmological fallacy, and how if you put together things which are non-existent, it does not make them exist.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses contingency, and argues that since things which are contingent upon other things are still contingent, the entire set is not itself contingent. He also discusses the cosmological fallacy, and how if you put together things which are non-existent, it does not make them exist.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Ebony argues that the contingency argument can be used to refute the attributes of God, and that Ibn Taymiyah tweaks the argument to account for this.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** explains that he will no longer answer questions about the contingency argument unless people can show how the quotations he has provided are wrong. He requests that people deal with the quotations instead of blocking him and calling him names.
 

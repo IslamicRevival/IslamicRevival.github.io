@@ -4,16 +4,15 @@
 
 ## Description
 
-Visit https://www.naturesblends.com/ and use hijab10 for a 10% discount. 
+Visit <https://www.naturesblends.com/> and use hijab10 for a 10% discount.
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
-My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
+My book: <https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/>
 
 ## Summary of [Mohammed Hijab Reacts to 'Red Pill' Kevin Samuels](https://www.youtube.com/watch?v=V-77OQU9Ul8)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -22,7 +21,8 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
  discusses the idea that black women are less likely to be romantically or sexually attracted to black men than other women, and criticizes the red pill movement for promoting this idea. says that this reasoning is based on weak sociological evidence and is unworthy of a man with an intellectual background. urges men to find their purpose in life instead of focusing too much on getting women's attention.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Mohammed Hijab critiques "Red Pill" Kevin Samuels, arguing that his content is often condescending and unfair. He also points out that there is injustice in the way that he discusses black women and men.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the idea that black women are less likely to be romantically or sexually attracted to black men than other women, and criticizes the red pill movement for promoting this idea. says that this reasoning is based on weak sociological evidence and is unworthy of a man with an intellectual background.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the idea that black women are less likely to be romantically or sexually attracted to black men than other women, and criticizes the red pill movement for promoting this idea. says that this reasoning is based on weak sociological evidence and is unworthy of a man with an intellectual background.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** <>
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** warns against focusing too much on getting women's attention and instead urging men to find their purpose in life. He also encourages Mohammed Hijab to think bigger things because he is an older man.
 

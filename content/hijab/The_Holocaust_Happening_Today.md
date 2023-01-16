@@ -4,12 +4,11 @@
 
 A brief discussion of potentially the most severe human catastrophe on planet earth today.
 
-Charity link 1:https://www.justgiving.com/campaigns/charity/muslimhands/rohingya
+Charity link 1:<https://www.justgiving.com/campaigns/charity/muslimhands/rohingya>
 
 Charity link 2: www.justgiving.com/ Burmafood
 
 ## Summary of [The Holocaust Happening Today](https://www.youtube.com/watch?v=RbwRiNWYLFY)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -18,8 +17,9 @@ Charity link 2: www.justgiving.com/ Burmafood
  discusses the media's coverage of the Holocaust and how the Western world initially responded to it without being fully aware of what was happening. Jackson argues that, had public opinion been aroused from the beginning, the Holocaust may have been prevented.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  investigates the media's coverage of the Holocaust, which took place between 1933 and 1939. found that despite the Holocaust being a massive event, the British media largely ignored it.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** communication theorist Dr. Janine Jackson discusses the power of the media and its effect on public opinion. She discusses the Holocaust, and how the Western world initially responded to it without being fully aware of what was happening. Jackson argues that, had public opinion been aroused from the beginning, the Holocaust may have been prevented.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the experiences of a woman who fled Myanmar to escape the genocide taking place there, and how she copes with the memories of her son and other atrocities she witnessed. The woman speaks about how she is struggling to find help in her new country and how she feels abandoned by international organizations. She shares her hope for the future, and reminds the viewer that even in adulthood, mothers can be very capable and prove themselves to be masculine.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the experiences of a woman who fled Myanmar to escape the genocide taking place there, and how she copes with the memories of her son and other atrocities she witnessed. The woman speaks about how she is struggling to find help in her new country and how she feels abandoned by international organizations. She shares her hope for the future, and reminds the viewer that even in adulthood, mothers can be very capable and prove themselves to be masculine.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  provides testimony from eyewitnesses to the Holocaust happening today. The witnesses describe witnessing children being thrown into violence, being raped, and witnessing the death and mutilation of their husbands and children. They say that this is what they experienced firsthand, and that the excuses given for not doing more are no longer valid. The witnesses urge people to start speaking out about the Holocaust and make changes so that it never happens again.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

@@ -6,16 +6,15 @@
 
 Here me and Alidawah react to this concerning exchange by Channel 4 posted on their social media.  
 
-Visit https://www.naturesblends.com/ and use hijab10 for a 10% discount. 
+Visit <https://www.naturesblends.com/> and use hijab10 for a 10% discount.
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
-My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
+My book: <https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/>
 
 ## Summary of [Gay Guy Catches Hijabi on Homophobia](https://www.youtube.com/watch?v=U9TcNNmHeP8)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -23,11 +22,12 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 
 discusses how a gay man and his Muslim sister have different religious beliefs, and how the brother is concerned that he may be homophobic. The sister discusses how her upbringing has taught her to be intolerant of the LGBTQ community. The brother responds that being an atheist is the best way to understand the universe.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses a homosexual man and his sister, a Muslim hijabi, discussing their religious beliefs and how they differ. The brother expresses his concern that he may be homophobic, and the sister discusses how her upbringing has taught her to be intolerant of the LGBTQ community. She says that although she disagrees with some aspects of Christianity, she would still like to share her beliefs with them. The brother responds that being an atheist is the best way to understand the universe.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses a homosexual man and his sister, a Muslim hijabi, discussing their religious beliefs and how they differ. The brother expresses his concern that he may be homophobic, and the sister discusses how her upbringing has taught her to be intolerant of the LGBTQ community. She says that although she disagrees with some aspects of Christianity, she would still like to share her beliefs with them. The brother responds that being an atheist is the best way to understand the universe.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** , a gay man discusses how he feels about being free. He explains that he chooses to be homosexual because he does not want to be in a relationship with someone of the opposite gender. He says that he is grateful for the freedom that atheism provides him.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses why homosexuality is comparable with incest, and argues that the west has not been consistent in its treatment of minority rights. He also points out that homosexuality is not harmful in and of itself, and that it is up to the individual to decide if they want to have children with someone of the same gender.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses how homosexuality is currently legal in many Western countries, but incest is still illegal. argues that liberals are perpetuating inconsistency by changing their stance on different issues. argues that homosexuals should have the same rights as individuals who believe in incest, and that we should never be homophobic because our definition of homophobia is based on the idea that we condemn the practice.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses how religions can adapt to change, and how homosexuality is accepted in some religions but not others. points out that, even though homosexuals have the same rights to believe as any other person, they are being bullied by those who oppose their views. If people are firm in their religious beliefs, Allah will protect them. encourages viewers to subscribe to their channel, as doing so will help protect them against the spread of liberalism.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses why homosexuality is comparable with incest, and argues that the west has not been consistent in its treatment of minority rights. He also points out that homosexuality is not harmful in and of itself, and that it is up to the individual to decide if they want to have children with someone of the same gender.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses how homosexuality is currently legal in many Western countries, but incest is still illegal. argues that liberals are perpetuating inconsistency by changing their stance on different issues. argues that homosexuals should have the same rights as individuals who believe in incest, and that we should never be homophobic because our definition of homophobia is based on the idea that we condemn the practice.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses how religions can adapt to change, and how homosexuality is accepted in some religions but not others. points out that, even though homosexuals have the same rights to believe as any other person, they are being bullied by those who oppose their views. If people are firm in their religious beliefs, Allah will protect them. encourages viewers to subscribe to their channel, as doing so will help protect them against the spread of liberalism.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

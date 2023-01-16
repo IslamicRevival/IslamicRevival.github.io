@@ -4,11 +4,10 @@
 
 ## Description
 
-We continue our series of talks with Professor Dale Martin, a distinguished American New Testament scholar who taught at Yale University for over 30 years. Today, we discuss the Gospels that did NOT make it into the New Testament, especially the Gospel of Thomas. There are many others of course. The Gospel of Mary, of Judas, of Peter, et al. You can read an English translation of the Gospel of Thomas here: 
-https://www.marquette.edu/maqom/Gospel%20of%20Thomas%20Lambdin.pdf
+We continue our series of talks with Professor Dale Martin, a distinguished American New Testament scholar who taught at Yale University for over 30 years. Today, we discuss the Gospels that did NOT make it into the New Testament, especially the Gospel of Thomas. There are many others of course. The Gospel of Mary, of Judas, of Peter, et al. You can read an English translation of the Gospel of Thomas here:
+<https://www.marquette.edu/maqom/Gospel%20of%20Thomas%20Lambdin.pdf>
 
 ## Summary of [The Gospels that did NOT make it into the Bible with Prof Dale Martin](https://www.youtube.com/watch?v=11NiLEydjjg)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -17,6 +16,7 @@ https://www.marquette.edu/maqom/Gospel%20of%20Thomas%20Lambdin.pdf
 The video discusses different Gospels that did not make it into the Bible, and argues that they are just as important as the ones that did. It also discusses how the different gospels were received as scripture and canonized.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The Gospel of Thomas is an apocryphal gospel which did not make it into the Bible. It was discovered in the 2nd century, and there is debate over whether it should be included in the canon. It is most commonly found in Catholic, Eastern Orthodox, and Protestant Bibles.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The apocrypha, which refers to texts that did not make it into the Protestant Old Testament, were in the Catholic Old Testament but not the Protestant Old Testament. They were given the name the apocrypha because they were secondary to the canon, but always considered perfectly orthodox. The apocrypha includes the gospel of Thomas, which is called a gospel because it has a storyline, unlike the other canonical gospels.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The video presents various Gospels that did not make it into the Bible, including the Gospel of Thomas. The author argues that these sayings may be older and more primitive than the canonical Gospels, which may be elaborated interpretations of the original sayings.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** In Thomas, the parable of the sower is told without editorializing, and it is older than the canonical version of the parable. This suggests that the historical Jesus may have said the parable. Additionally, in Thomas there are mentions of James the Just, a figure who was head of the Jerusalem church. This tells us that the parable may have been circulating among Christians in an oral tradition before it was written down.
@@ -28,6 +28,7 @@ The video discusses different Gospels that did not make it into the Bible, and a
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The video discusses the different gospels that did not make it into the Bible, and how some of them are from the Bible but some are not. It also discusses the gospel of Peter and how it became popular.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The video discusses the different texts that did not make it into the Bible, and how this influenced how they were received as scripture and canonized. The text mentions the transition from scrolls to codexes, and how this helped make lists of what was acceptable to read.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The author discusses apocryphal gospels, which were once thought to be less important than canonical gospel texts. He points out that this is not always the case, and that there is still much to be discovered about the Bible.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:00:00</a>
 
  Dale Martin discusses some of the Gospels that did not make it into the Bible. He notes that while there may not be anything new to be said about these texts, they are still important because they offer a different perspective on certain aspects of Christianity.

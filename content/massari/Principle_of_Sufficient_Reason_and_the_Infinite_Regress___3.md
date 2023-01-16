@@ -10,7 +10,6 @@ Principle of Sufficient Reason and the Infinite Regress   3
 
 ## Summary of [Principle of Sufficient Reason and the Infinite Regress 3](https://www.youtube.com/watch?v=C8nlQ2AJJq4)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:55:00</a>
@@ -18,6 +17,7 @@ Principle of Sufficient Reason and the Infinite Regress   3
 The principle of sufficient reason is discussed  and it is applied to various situations. The principle is said to be a useful tool, and it is hoped that it will be applied more often in the future.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The principle of sufficient reason states that every fact must have a sufficient reason why it is the case. This principle has been criticized for being too vague and for needing further expansion. Additionally, the principle suffers from the problem of reported evidence, in which multiple sources corroborate each other, providing a degree of certainty not achievable through other means.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  explains that the principle of sufficient reason can be used to explain the nature of quantum mechanics and the determinism it entails. It also discusses the concept of radiation and how it can affect the path of a particle.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The Principle of Sufficient Reason states that a reason must exist for every action, and that reason must be a priori, meaning it can be discovered before being put into practice. This principle is often used by Kant to explain why certain concepts, such as cause and effect, are inherent in human minds. However, it is not always straightforward to apply this principle, as it conflicts with the concept of contradiction.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The principle of sufficient reason states that something can come into existence without a cause, which is contradictory and impossible.

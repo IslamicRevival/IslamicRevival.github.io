@@ -4,7 +4,7 @@
 
 ## Description
 
-For Christianity in terms of the parousia, there have been too many years of grace. In terms of salvation history, there have not been enough. 
+For Christianity in terms of the parousia, there have been too many years of grace. In terms of salvation history, there have not been enough.
 
 The Jesus of the gospels seems to expect the imminent end-times: Mark 13:30-33. Paul predicts the Second Coming (parousia) in his lifetime: 1 Thessalonians 4:16-17 and 5:2-11. But the wait has been extended for almost two millennia.  
 
@@ -15,7 +15,7 @@ And pay a million priests to bring it.
 After two thousand years of mass
 We've got as far as poison-gas.
 
-Two millennia, however, do not seem to be enough. If humans appeared about 200,000 years ago, how can one admire a God who refused to disclose the fullness of truth and salvation until the very last fragment of time? 
+Two millennia, however, do not seem to be enough. If humans appeared about 200,000 years ago, how can one admire a God who refused to disclose the fullness of truth and salvation until the very last fragment of time?
 
 Interestingly in the Qur’an we read:
 
@@ -25,7 +25,6 @@ According to a Prophetic narration collected by Ibn Ḥibbân, the total number 
 
 ## Summary of [A God who refused to disclose the fullness of salvation until the very last fragment of time?](https://www.youtube.com/watch?v=j5-OShW1_Zs)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:05:00</a>
@@ -33,6 +32,7 @@ According to a Prophetic narration collected by Ibn Ḥibbân, the total number 
 in this YouTube video discusses the idea that God may have withheld salvation from humanity for over two thousand years in order to teach them a lesson. references a Christmas poem by Thomas Hardy which speaks to this issue. also mentions that Christianity expected the world to be converted within a few years, and that they had no concept of deep time before that.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** ponders how a god who has withheld salvation from humanity for over two thousand years can be admired. references a Christmas poem by Thomas Hardy which speaks to this issue.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** the speaker discusses why God left salvation until the very last millisecond, and how this might be related to deep time and humanity's existence on Earth. also mentions that Christianity expected the world to be converted within a few years, and that they had no concept of deep time before that.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

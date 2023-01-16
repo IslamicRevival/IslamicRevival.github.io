@@ -4,16 +4,15 @@
 
 ## Description
 
-To check out the Clear Quran translation, the Clear Quran for Kids, the Clear Quran Dictionary, or the app visit: https://www.theclearquran.org/
+To check out the Clear Quran translation, the Clear Quran for Kids, the Clear Quran Dictionary, or the app visit: <https://www.theclearquran.org/>
 
 You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
+<https://www.patreon.com/Bloggingtheology>
 
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
 ## Summary of [Is the Quran miraculous? With Dr Mustafa Khattab](https://www.youtube.com/watch?v=UB4gOfl0ets)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -22,13 +21,14 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
  discusses the Quran's origins and poetic properties. Dr. Mustafa Khattab points out that the Quran is composed of 2000 roots, making it easy to understand for non-Arabic speakers. He also provides a website where people can access the Quran in Arabic.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** explains that the Quran is a higher authority than human beings, and that translations of the Quran are always being made to keep up with the changing understanding of the scripture by different generations. He says that the Quranic translations currently available in English are not perfect, and that there are always new translations being created to meet the needs of different people.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the criticism that the Quran is copied from the Bible. All Muslims agree that the Quran and the Injil (Gospel) are from the same source, but they disagree on how the Quran was preserved. The Quran was memorized by the prophet, and as a result, it has fewer mistakes than other translations.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the criticism that the Quran is copied from the Bible. All Muslims agree that the Quran and the Injil (Gospel) are from the same source, but they disagree on how the Quran was preserved. The Quran was memorized by the prophet, and as a result, it has fewer mistakes than other translations.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Dr. Khattab discusses some of the differences between the Quran and the Bible, including the miracles found in the Quran. He also discusses some of the predictions that were made about the future and which actually came true.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the differences between the grammar and rhetoric used in the Quran compared to other ancient texts, explaining that it is used to emphasize the magnitude of divine power and miracles. It also discusses how, in some cases, the Quran uses different pronouns to show the lack of importance of certain people in comparison to others.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses how different translations of a Qur'anic verse can be interpreted, with Dr. Mustafa Khattab discussing his translation which is softer than Abdel Haleem's. Khattab argues that this softer interpretation is based on the teachings of the Prophet Muhammad and the context of the verses.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the differences between the grammar and rhetoric used in the Quran compared to other ancient texts, explaining that it is used to emphasize the magnitude of divine power and miracles. It also discusses how, in some cases, the Quran uses different pronouns to show the lack of importance of certain people in comparison to others.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses how different translations of a Qur'anic verse can be interpreted, with Dr. Mustafa Khattab discussing his translation which is softer than Abdel Haleem's. Khattab argues that this softer interpretation is based on the teachings of the Prophet Muhammad and the context of the verses.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** The Qur'an is said to have a special quality that no human speech can match; a claim made by some in dawa in Britain. Abdul Halim discusses this claim in detail in his book, "Understanding the Quran: Themes and Style."
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses the Quran's miraculous nature, discussing how the prophet Muhammad's teachings are similar to, but different from, the teachings found in the Quran. The narrator also compares the two languages and how the Arabic version is more concise and beautiful than the English translations.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses various scientific references found in the Quran, some of which have been confirmed by science. Islam is compatible with science, according to some Muslims, because the Quran contains scientific references.
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses the Quran's miraculous nature, discussing how the prophet Muhammad's teachings are similar to, but different from, the teachings found in the Quran. The narrator also compares the two languages and how the Arabic version is more concise and beautiful than the English translations.
+* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses various scientific references found in the Quran, some of which have been confirmed by science. Islam is compatible with science, according to some Muslims, because the Quran contains scientific references.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Dr. Mustafa Khattab discusses the scientific references in the Quran, which include references to the Earth being in a circle, the sun being a source of light, footnotes and historical background to make it difficult for islamophobes to take things out of context, and a translation for kids ages 7-up.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** This YouTube video, hosted by Dr. Mustafa Khattab, discusses the Quran's origins and poetic properties. Khattab points out that the Quran is composed of 2000 roots, making it easy to understand for non-Arabic speakers. He also provides a website where people can access the Quran in Arabic.
 

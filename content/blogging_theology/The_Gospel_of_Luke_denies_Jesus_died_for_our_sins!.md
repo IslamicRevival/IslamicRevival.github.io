@@ -4,10 +4,9 @@
 
 ## Description
 
-We continue a series of talks on the New Testament with the Gospel of Luke and the Acts of the Apostles. Professor Dale Martin is a distinguished American New Testament scholar who taught at Yale University for over 30 years. See his excellent Introduction to New Testament History and Literature (Open Yale Courses) https://www.amazon.com/Testament-History-Literature-Open-Courses/dp/0300180853
+We continue a series of talks on the New Testament with the Gospel of Luke and the Acts of the Apostles. Professor Dale Martin is a distinguished American New Testament scholar who taught at Yale University for over 30 years. See his excellent Introduction to New Testament History and Literature (Open Yale Courses) <https://www.amazon.com/Testament-History-Literature-Open-Courses/dp/0300180853>
 
 ## Summary of [The Gospel of Luke denies Jesus died for our sins!](https://www.youtube.com/watch?v=PMIyqDwrnjY)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -16,6 +15,7 @@ We continue a series of talks on the New Testament with the Gospel of Luke and t
 The video discusses the Gospel of Luke, which omits key verses that mention the doctrine of the atonement. The author argues that Luke's Christology is found in the story of the Last Supper, where Jesus says "this is my body which is given for you." He suggests that this subtle change is one of the reasons why some people might be resistant to the idea of an atonement in Luke.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The author of the Gospel of Luke used the Gospel of Mark as one of his sources, and believes that it was written around the year 70 CE. However, Mark's predictions about the surrounding of Jerusalem by the Romans go wrong, and scholars are still discussing when a text like this actually dates itself.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The Gospel of Luke omits key verses that mention the doctrine of the atonement in Mark, suggesting that Luke was written later and has more detailed information about the events surrounding Jesus' life.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Luke's gospel does not include the doctrine of Jesus' death being an atonement for sin, and instead teaches that people are saved through another way.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The video discusses the literary structures of Luke and Axe, and argues that Luke does not emphasize the death of Jesus as a sacrifice for our sins. Instead, it advocates for repentance as the way people are forgiven. Paul, who is also mentioned in the video, makes a similar argument in his letter to the Galatians.

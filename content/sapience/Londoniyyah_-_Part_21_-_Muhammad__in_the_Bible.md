@@ -4,12 +4,13 @@
 
 ## Description
 
-Listen as audio: https://soundcloud.com/sapienceinstitute/londoniyyah-part-21-muhammad-in-the-bible?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+Listen as audio: <https://soundcloud.com/sapienceinstitute/londoniyyah-part-21-muhammad-in-the-bible?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing>
 
 Londoniyyah - Part 21 - Muhammad ﷺ in the Bible
 
-To be updated about our content please subscribe and open the notifications.
+To be updated about our content please subscribe and open the notifications
 ----
+
 BOOK A LIGHTHOUSE MENTOR
 
 Are you or someone you know doubting Islam? Do you find yourself struggling to find answers?  Do you have a hard time speaking to someone about Islam?  Are you considering Islam but are unsure about certain concepts?  Are you an activist, Imam or community leader who is unsure about how to handle questions related to science, philosophy, the Islamic moral code, etc.?
@@ -18,12 +19,11 @@ You are not alone.  Over the course of the last decade or more there has been a 
 
 Seeing the rise of  this phenomenon , Sapience Institute is introducing a One to One mentoring service called LIGHTHOUSE.
 
-BOOK A MENTOR HERE: https://sapienceinstitute.org/lighthouse/
+BOOK A MENTOR HERE: <https://sapienceinstitute.org/lighthouse/>
 
-VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: https://sapienceinstitute.org/
+VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: <https://sapienceinstitute.org/>
 
 ## Summary of [Londoniyyah - Part 21 - Muhammad ﷺ in the Bible](https://www.youtube.com/watch?v=diCnJvtrpL4)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -32,13 +32,14 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
  Londoniyyah discusses the possibility that Muhammad may have been one of the Jewish prophets. He points out the similarities between Muhammad's teachings and those found in the Bible, as well as the criticism directed towards Londoniyyah for claiming that Muhammad is the same as the biblical prophets. Dr. Ali Atai, a Hebrew scholar, is also interviewed and provides additional information on the subject.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  Muhammad prophecies are found in the Bible, specifically in Isaiah and Isiah. These prophecies include descriptions of Muhammad, which were later confirmed by hadith.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  provides a transcript of a YouTube video d "Londoniyyah - Part 21 - Muhammad ﷺ in the Bible", in which Ibn Tamiya discusses the possible preservation of the original Torah at the time of Muhammad. He believes that it was corrupted, but nonetheless provides insight into how the biblical verses described in the video are similar to those mentioned in the hadith.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the significance of Prophet Muhammad's arrival on earth, which is described in the Bible as a time when "justice will be spread through all of the world." Jews were not the only people to receive Prophets, and Jesus was sent to the lost sheep of Israel, further illustrating the localized nature of His message. Paul later reinterpreted Jesus' message to include Gentiles, and this led to Christianity becoming a universalizing religion.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses how the biblical references to "captives" (meaning people who are in slavery) and "prison" (meaning a place where people are kept against their will) are similar to the references to " captives" and "prison" in the hadith. The hadith tells us that one of the purposes of Muhammad is to free captives from prison, and this is what the ayah in chapter 7 of the Quran is referring to. The parallels between the references are clear, and the video points out that Jesus is one of the sons of Ishmael, which would make him an Arab.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the significance of Muhammad being mentioned in the Bible, and points out that the jews in that area were expecting a prophet to come and this is not something which is absent in the Bible. It also mentions that Jacob was the father of the jews, and that god is being submitted here being defeated by the jews.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses the possible interpretations of verses in the Quran which talk about a warrior coming out to fight on behalf of Allah. It argues that this warrior is not Jesus Christ because he did not try to achieve victory over his enemies, as described in the New Testament.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses the Jewish scholar Safaria.com and its database of Jewish material, including the Talmud and other rabbinical rulings.  also discusses how some scholars believe that the prophet Muhammad may have been one of the Jewish prophets.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses the similarities between Muhammad's teachings and those found in the Bible, as well as the criticism directed towards Londoniyyah for claiming that Muhammad is the same as the biblical prophets. Dr. Ali Atai, a Hebrew scholar, is also interviewed and provides additional information on the subject.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the significance of Prophet Muhammad's arrival on earth, which is described in the Bible as a time when "justice will be spread through all of the world." Jews were not the only people to receive Prophets, and Jesus was sent to the lost sheep of Israel, further illustrating the localized nature of His message. Paul later reinterpreted Jesus' message to include Gentiles, and this led to Christianity becoming a universalizing religion.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses how the biblical references to "captives" (meaning people who are in slavery) and "prison" (meaning a place where people are kept against their will) are similar to the references to " captives" and "prison" in the hadith. The hadith tells us that one of the purposes of Muhammad is to free captives from prison, and this is what the ayah in chapter 7 of the Quran is referring to. The parallels between the references are clear, and the video points out that Jesus is one of the sons of Ishmael, which would make him an Arab.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the significance of Muhammad being mentioned in the Bible, and points out that the jews in that area were expecting a prophet to come and this is not something which is absent in the Bible. It also mentions that Jacob was the father of the jews, and that god is being submitted here being defeated by the jews.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses the possible interpretations of verses in the Quran which talk about a warrior coming out to fight on behalf of Allah. It argues that this warrior is not Jesus Christ because he did not try to achieve victory over his enemies, as described in the New Testament.
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses the Jewish scholar Safaria.com and its database of Jewish material, including the Talmud and other rabbinical rulings.  also discusses how some scholars believe that the prophet Muhammad may have been one of the Jewish prophets.
+* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses the similarities between Muhammad's teachings and those found in the Bible, as well as the criticism directed towards Londoniyyah for claiming that Muhammad is the same as the biblical prophets. Dr. Ali Atai, a Hebrew scholar, is also interviewed and provides additional information on the subject.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

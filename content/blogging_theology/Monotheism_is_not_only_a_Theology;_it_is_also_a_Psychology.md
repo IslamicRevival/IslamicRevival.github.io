@@ -4,10 +4,9 @@
 
 ## Description
 
-I read from Islam and the Destiny of Man by Gai Eaton https://www.amazon.co.uk/Islam-Destiny-Man-Charles-Eaton/dp/0946621470
+I read from Islam and the Destiny of Man by Gai Eaton <https://www.amazon.co.uk/Islam-Destiny-Man-Charles-Eaton/dp/0946621470>
 
 ## Summary of [Monotheism is not only a Theology; it is also a Psychology](https://www.youtube.com/watch?v=KgFnibU7Auc)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -16,6 +15,7 @@ I read from Islam and the Destiny of Man by Gai Eaton https://www.amazon.co.uk/I
 In this BBC radio program, Guy Eaton discusses how monotheism is not just a theology, but also a psychological phenomenon. He recommends a book about monotheism that is written in English with exquisite beauty.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Guy Eaton discusses the similarities and differences between monotheism and polytheism, pointing out that both have their own psychological aspects. He says that the shahadah, or Islamic declaration of faith, is a simple statement of belief that is central to the religion.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** This BBC radio program recommends a book about monotheism that is written in English with exquisite beauty. The book discusses how monotheism is not just a theology, but also a psychological phenomenon.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

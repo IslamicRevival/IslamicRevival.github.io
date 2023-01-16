@@ -6,14 +6,13 @@
 
 Neil deGrasse should apologise publicly for his academic dishonesty.  
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
-My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
+My book: <https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/>
 
 ## Summary of [Muslim schools Neil deGrasse](https://www.youtube.com/watch?v=nfRnYNig9jU)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -22,6 +21,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
  discusses Neil deGrasse's claim that Muslims have been historically bad at science. It argues that this claim is contradictory to historical evidence and instead indicative of deGrasse's own lack of understanding of the subject.  goes on to say that even though al-Ghazali was a Muslim philosopher, he was also a mathematician and astronomer, and thus had a significant impact on the development of science.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Neil deGrasse criticizes Islam for its lack of scientific progress and its lack of coherence in practice. He further argues that Muslims were interpreting the Qur'an in whatever way they wanted before al-Ghazali. DeGrasse concludes that this man is weak academically and that Muslims were following principles laid down by early Islamic scholars even before al-Ghazali's time.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  claims that al-Ghazali mentioned that it's the manipulation of numbers that are the work of the devil, and that this is a distortion that the new atheists have to resort to in order to attack religious narratives. It goes on to say that al-Ghazali, who was a renowned philosopher and theologian, would be against science, mathematics, and technology. The individual making the video claims that this distortion of al-Ghazali's intellectual history should be apology to the Muslim community and to the academic community as a whole.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Neil deGrasse argues that Muslims have historically been bad at science, citing the works of Ibn Nafis and ibn Nafi's nephews as examples. He then goes on to say that this lack of science has led to the rise of Islam again after the Dark Ages. This claim is contradicted by historical evidence, and is instead indicative of Neil deGrasse's own lack of understanding of the subject.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  is a lecture by Neil deGrasse Tyson on the influence of al-Ghazali on the development of the scientific revolution. Tyson argues that even though al-Ghazali was a Muslim philosopher, he was also a mathematician and astronomer, and thus had a significant impact on the development of science. He also points out that even though there are 1.3 billion Muslims in the world, many are not involved in scientific discovery.

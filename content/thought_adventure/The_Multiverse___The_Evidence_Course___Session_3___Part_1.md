@@ -4,24 +4,24 @@
 
 ## Description
 
-Sesson 3 Part 1 
+Sesson 3 Part 1
 
-In an age of information overload and widespread pseudo-intellectualism, understanding the core foundations of Islam is as essential as ever. 
+In an age of information overload and widespread pseudo-intellectualism, understanding the core foundations of Islam is as essential as ever.
 
 This course comprehensively deconstructs the skeletal structure of prevalent ideologies and concepts such as atheism, scientism, materialism, secularism, and skepticism, in light of an all-encompassing intellectually robust Islamic worldview.
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -29,40 +29,39 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
-#multiverse #stringtheory #KCA
+# multiverse #stringtheory #KCA
 
 ## Summary of [The Multiverse | The Evidence Course | Session 3 / Part 1](https://www.youtube.com/watch?v=zTqywht1u8A)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -70,9 +69,10 @@ Gmail: hello.tapodcast@gmail.com
 
  Professor Brian Cox discusses the idea of the universe being contingent, and how this provides an explanation for the existence of limited dependent beings. He argues that the idea of infinite sums of finite things is an impossibility, and that this is not based in rational thinking. He uses this argument to refute the contention that time has a beginning, as well as the idea that there could be an infinite number of universes.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the argument that the universe is contingent and that this provides an explanation for the existence of limited dependent beings.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Professor Brian Cox discusses the idea of infinite sums of finite things, which is an impossibility. He argues that this idea is not based in rational thinking, and there is a paradox within the argument.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The philosopher argues that the sum of finite things always equals infinity, which means that the universe must be finite. This argument is used to refute the contention that time has a beginning, as well as the idea that there could be an infinite number of universes.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the argument that the universe is contingent and that this provides an explanation for the existence of limited dependent beings.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Professor Brian Cox discusses the idea of infinite sums of finite things, which is an impossibility. He argues that this idea is not based in rational thinking, and there is a paradox within the argument.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The philosopher argues that the sum of finite things always equals infinity, which means that the universe must be finite. This argument is used to refute the contention that time has a beginning, as well as the idea that there could be an infinite number of universes.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

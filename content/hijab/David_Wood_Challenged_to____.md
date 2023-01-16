@@ -6,7 +6,6 @@ Here Mohammed Hijab challenges Christian apologist David Wood to a debate once a
 
 ## Summary of [David Wood Challenged to ...](https://www.youtube.com/watch?v=C92BDp_usVg)
 
-
 *
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
@@ -16,8 +15,9 @@ Here Mohammed Hijab challenges Christian apologist David Wood to a debate once a
 David Wood is challenged to explain some basic tenets of Christianity, but is unable to do so convincingly. He is asked to debate the issue on a foundational level, but is unable to provide a sound theological basis for his beliefs.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** David Wood, a Christian apologist, is challenged to explain some basic tenets of Christianity, but is unable to do so convincingly.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** David Wood challenges another religious figure to explain how replacing the word "Jesus" with "God" does not fit the definition of God, who has no beginning or end.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses how Islamic theology sees the Quran as having two natures - one that is physical and one that is spiritual. The physical nature can be corrupted and can eventually be destroyed, while the spiritual nature remains unchanged. This is in contrast to the Christian doctrine of the incarnation, in which the physical and spiritual nature of Christ are united.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses how Islamic theology sees the Quran as having two natures - one that is physical and one that is spiritual. The physical nature can be corrupted and can eventually be destroyed, while the spiritual nature remains unchanged. This is in contrast to the Christian doctrine of the incarnation, in which the physical and spiritual nature of Christ are united.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** David Wood is challenged to reconcile discrepancies in his faith, and is asked to explain why people are abandoning Christianity. Wood is unable to provide a satisfactory answer, and is asked to debate the issue on a foundational level. If Wood cannot provide a sound theological basis for his beliefs, he is unlikely to be able to successfully engage in a substantive discussion with those who do not share his perspective.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

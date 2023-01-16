@@ -5,25 +5,24 @@
 ## Description
 
 Help us educate and mentor others to share the faith academically.
-Donate now: https://sapienceinstitute.org/donate/ 
+Donate now: <https://sapienceinstitute.org/donate/>
 
-Free online courses: https://learn.sapienceinstitute.org/
+Free online courses: <https://learn.sapienceinstitute.org/>
 
-Free books: https://sapienceinstitute.org/books/
+Free books: <https://sapienceinstitute.org/books/>
 
-Have doubts? Book a mentor: https://sapienceinstitute.org/lighthouse/
+Have doubts? Book a mentor: <https://sapienceinstitute.org/lighthouse/>
 
-Listen (Podcast): https://sapienceinstitute.org/sapientvoices/
+Listen (Podcast): <https://sapienceinstitute.org/sapientvoices/>
 
 Follow:
-– Facebook: https://facebook.com/sapienceinstitute.org/ 
-– Twitter: https://twitter.com/SapienceOrg/ 
-– Instagram: https://instagram.com/sapienceinstitute/ 
+– Facebook: <https://facebook.com/sapienceinstitute.org/>
+– Twitter: <https://twitter.com/SapienceOrg/>
+– Instagram: <https://instagram.com/sapienceinstitute/>
 
-Articles, speaker requests & more: https://sapienceinstitute.org/
+Articles, speaker requests & more: <https://sapienceinstitute.org/>
 
 ## Summary of [Jihad | Mohammed Hijab](https://www.youtube.com/watch?v=4rC1F0lIzUw)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -31,13 +30,14 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
  covers the basics of jihad, including the definition, purposes, and participants. It also briefly covers the interrogation process and the age of Aisha.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses Jihad and different types of jihad. The linguistic definition of Jihad is "striving into struggle." The terminological definition of Jihad is "a holy struggle waged by Muslims against evil."  discusses three types of jihad: jihadun nefs, jihad of the heart, and jihad of striving.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses Jihad and different types of jihad. The linguistic definition of Jihad is "striving into struggle." The terminological definition of Jihad is "a holy struggle waged by Muslims against evil."  discusses three types of jihad: jihadun nefs, jihad of the heart, and jihad of striving.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** A YouTube video d "Jihad | Mohammed Hijab" discusses PTSD and post-traumatic growth, two phenomena which are often overlooked but are very real.  points out that, while PTSD is a formal diagnosis, post-traumatic growth is something which can occur after any type of trauma, positive or negative.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** explains that there are different types of jihad, including defensive and proactive, as well as the importance of maintaining treaties and agreements. She also points out that Muslims are still Muslims even if they are living in a modern society.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** In Islam, there are certain situations where you should not fulfill a contract because it could lead to conflict. One example is if the other side has already broken the contract. Another example is if the person is not a Muslim.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>**  a Muslim man explains how jihad is related to Mercy. He states that Allah is not forbidden you in relation to those who don't fight you in your religion or kick you out of your homes, but those who do those things are transgressors. He also explains that if jihad happens it happens as a result of either defending the territory or freeing up new land.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** The presenter discusses how various civilizations have killed large numbers of people, with Christianity coming in third place. He goes on to say that it is insulting that people from these civilizations speak to us as if they have all the answers. Jordan Peterson has spoken about this topic before.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses a Hadith in which the Prophet Muhammad was commanded to kill the non-combatant people until they said "No, we do not submit to Islam." This indicates that Islam is intolerant, and contradicts the idea that Islam is a religion of peace. suggests that the scholars who came to this consensus knew this, and that the concern is that Islam will continue to kill innocent civilians if it is not corrected.
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses a Hadith in which the Prophet Muhammad was commanded to kill the non-combatant people until they said "No, we do not submit to Islam." This indicates that Islam is intolerant, and contradicts the idea that Islam is a religion of peace. suggests that the scholars who came to this consensus knew this, and that the concern is that Islam will continue to kill innocent civilians if it is not corrected.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** The professor argues that the Hadith, or sayings of the Prophet Muhammad, can contradict the Quran. He goes on to say that, despite this, the Hadith should still be taken into account because it is a source of guidance specific to a certain time and place. He also points out that there are consequences for refusing to pay the tax, which forces the non-Muslim to submit to Islam.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** The narrator discusses the controversial topic of jihad, asking what would happen if Mohammed was a peaceful man. He points out that there was a treaty between the Muslims and the Jews, and that the punishment for breaking the treaty was not decided by the prophet but by some 'unnatural' person. He goes on to say that this is why jihad is controversial, as it is a battle between two groups already fighting each other.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  covers the basics of jihad, including the definition of jihad, its purposes, and who is eligible to participate. It also covers the kinds of interrogations that may be faced after jihadis answer questions correctly. Finally, the video provides a brief overview of the age of Aisha (the Prophet Muhammad's wife) and the marriage of Prophet Muhammad.

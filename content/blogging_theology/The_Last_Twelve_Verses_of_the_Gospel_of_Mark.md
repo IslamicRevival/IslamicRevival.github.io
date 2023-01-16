@@ -4,12 +4,11 @@
 
 ## Description
 
-The earliest Christian gospel (Mark) is missing the resurrection of Jesus story - but all our modern Bibles have it. 
+The earliest Christian gospel (Mark) is missing the resurrection of Jesus story - but all our modern Bibles have it.
 
 I explain why.
 
 ## Summary of [The Last Twelve Verses of the Gospel of Mark](https://www.youtube.com/watch?v=vAX__ok05JU)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 

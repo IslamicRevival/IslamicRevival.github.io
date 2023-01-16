@@ -4,16 +4,15 @@
 
 ## Description
 
-Encountering Mystery: Religious Experience in a Secular Age by Dale C Allison https://www.amazon.co.uk/Encountering-Mystery-Religious-Experience-Secular/dp/0802881882/ref=sr_1_1?crid=2E5ZFJYCN9RE8&keywords=encountering+mystery&qid=1672425613&sprefix=encountering%2520mystery%2Caps%2C60&sr=8-1
+Encountering Mystery: Religious Experience in a Secular Age by Dale C Allison <https://www.amazon.co.uk/Encountering-Mystery-Religious-Experience-Secular/dp/0802881882/ref=sr_1_1?crid=2E5ZFJYCN9RE8&keywords=encountering+mystery&qid=1672425613&sprefix=encountering%2520mystery%2Caps%2C60&sr=8-1>
 
 You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
+<https://www.patreon.com/Bloggingtheology>
 
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
 ## Summary of [Lucidity before death: Extraordinary challenges to materialism](https://www.youtube.com/watch?v=Xsuu31AUCRw)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -22,6 +21,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
  "Lucidity before death: Extraordinary challenges to materialism" discusses the phenomenon of terminal lucidity, in which a person who is near death becomes aware and communicative. This phenomenon challenges materialism, as it suggests that there is more to reality than what can be physically observed. The video features interviews with people who have had near-death experiences, as well as with experts who discuss the implications of these experiences.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  Professor Dale Allison shares accounts of phenomena which he calls Lucidity before death. These experiences typically occur in the final hours or days of a person's life, and can include an elevated mood and spiritual awareness. Allison notes that this phenomenon barely shows up in the medical literature of the 20th century, and it was largely forgotten until 2009.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** This video discusses the phenomenon of terminal lucidity, which is when a person who is near death becomes aware and communicative. There are several reports of people who have exhibited terminal lucidity before death, including a 91-year-old woman who had been wholly unresponsive for five years, a woman with Alzheimer's who had not spoken with or recognized anyone for years, and a man with terminal cancer who woke up a few minutes before he died.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Near-death experiences are extraordinary experiences which challenge materialism, with some cases corroborating accounts by third parties. These experiences often include seeing things which are physically impossible, and often include an outer body experience. Professor Allison discusses this evidence in-depth, concluding that it points to the subjective nature of near-death experiences, and that they are evidence of an afterlife, of our Spirits, and of God. He urges people to be more confident in these experiences, as they are not just the visions of people who are scared or in pain.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** These testimonies confirm that experiences reported as "near-death experiences" are, in fact, real. This information can be used to draw conclusions about the dimensions of reality, the afterlife, and God.

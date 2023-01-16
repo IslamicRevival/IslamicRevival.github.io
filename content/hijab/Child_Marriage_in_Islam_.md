@@ -6,7 +6,6 @@ This video explains how Islamic law forbids sexual relationships with minors and
 
 ## Summary of [Child Marriage in Islam ?](https://www.youtube.com/watch?v=sEkCeBHQvXw)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:15:00</a>
@@ -14,9 +13,10 @@ This video explains how Islamic law forbids sexual relationships with minors and
  discusses child marriage in Islam, explaining that the Quran allows for marriage at a young age. argues that while there is potential for harm to the children involved, it is not always the case.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** In Islam, child marriage is permissible if the couple has not had sex before and the woman is not pregnant. The couple must agree to the marriage and the man must be able to afford the woman's dowry. If the couple does not agree to the marriage, the man can divorce the woman without giving her money back.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** In Islam, child marriage is considered to be wrong because of the potential harm it can cause to the children involved. Some people believe that this harm can outweigh any benefits that may come from the marriage, and that it should not be allowed under any circumstances.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** explains that Islamic rules governing marriage allow for underage marriage, provided that there is no harm to the bride or groom. concludes that if it is not proven that all underage marriages harm the bride or groom, then it is conceivable that they might not be harmful.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses child marriage in Islam, and explains that the Quran allows for marriage at a young age, and that a girl can be divorced after she has been married for a short period of time.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses child marriage in Islam, and explains that the Quran allows for marriage at a young age, and that a girl can be divorced after she has been married for a short period of time.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

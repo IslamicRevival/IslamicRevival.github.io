@@ -6,22 +6,22 @@
 
 Session 5 Part 2
 
-In an age of information overload and widespread pseudo-intellectualism, understanding the core foundations of Islam is as essential as ever. 
+In an age of information overload and widespread pseudo-intellectualism, understanding the core foundations of Islam is as essential as ever.
 
 This course comprehensively deconstructs the skeletal structure of prevalent ideologies and concepts such as atheism, scientism, materialism, secularism, and skepticism, in light of an all-encompassing intellectually robust Islamic worldview.
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -29,38 +29,37 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
 ## Summary of [The Linguistic Miracle of the Quran |The Evidence Course | Session 5 / Part 2](https://www.youtube.com/watch?v=BTPqQzUZVzo)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -69,12 +68,13 @@ Gmail: hello.tapodcast@gmail.com
  discusses the linguistic miracle of the Quran, which refers to the fact that the Quran is a miraculously flawless, accurately delivered message from God. The Quran's linguistic superiority over other scriptures is a demonstration of this miracle. Muslims believe that if a person doubts the Quran's authenticity, they are required to produce a chapter like it in Arabic. Non-Arabs who understand Arabic can also appreciate the miracle of the Quran.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The linguistic miracle of the Quran refers to the fact that the Quran is a miraculously flawless, accurately delivered message from God. The Quran's linguistic superiority over other scriptures is a demonstration of this miracle. Muslims believe that if a person doubts the Quran's authenticity, they are required to produce a chapter like it in Arabic. Non-Arabs who understand Arabic can also appreciate the miracle of the Quran.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The Arabic language has a unique sound that is recognizable to anyone who listens to the Quran. The linguistic miracle of the Quran is the fact that the Quran was written in a language that is similar to but different from other Arabic dialects, and that it was structured in a way that is unique to Arabic poetry.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The linguist discusses the different genres of the Quran, noting that the language is not from any of the 16 different forms of poetry or the two different general forms of prose. They explain that the phonetics of the words correspond to the meaning of the words and that the sound of the words corresponds to the mood and emotions of the verses themselves. Together, these factors make the Quran a unique and smooth text to read.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The quran has a unique musicality that is due to the use of perfect verb tenses and expressions. The balaga or rhetoric of the Quran is divided into three disciplines: meaning, embellishing the language, and emphasizing certain words.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the different ways in which Arabic words can be rearranged, and how this affects the meaning of a sentence. explains that the order of words in the Quran is the perfect order at every moment, and that this is due to the correct syntax used.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** The Qur'an is a miraculous linguistic work that exhibits perfect literary and musical symmetry. Its words and phrasing are carefully chosen to convey specific meaning, and there was no human editing or revision process involved.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** in this video points out that linguistic challenge is something that can be objectively assessed, and that it is definitely something that can be used to judge the quality of a text. He summarizes this by saying that the text is excellent in terms of its composition, appropriateness of word usage, eloquence, multiple forms of brevity, and unusual rhetoric that is unheard of among the Arabs themselves. also points out that the text's peculiar style is something that is separate from its eloquence and linguistic style, and that it is impossible for the Arabs to match this.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The Arabic language has a unique sound that is recognizable to anyone who listens to the Quran. The linguistic miracle of the Quran is the fact that the Quran was written in a language that is similar to but different from other Arabic dialects, and that it was structured in a way that is unique to Arabic poetry.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The linguist discusses the different genres of the Quran, noting that the language is not from any of the 16 different forms of poetry or the two different general forms of prose. They explain that the phonetics of the words correspond to the meaning of the words and that the sound of the words corresponds to the mood and emotions of the verses themselves. Together, these factors make the Quran a unique and smooth text to read.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The quran has a unique musicality that is due to the use of perfect verb tenses and expressions. The balaga or rhetoric of the Quran is divided into three disciplines: meaning, embellishing the language, and emphasizing certain words.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the different ways in which Arabic words can be rearranged, and how this affects the meaning of a sentence. explains that the order of words in the Quran is the perfect order at every moment, and that this is due to the correct syntax used.
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** The Qur'an is a miraculous linguistic work that exhibits perfect literary and musical symmetry. Its words and phrasing are carefully chosen to convey specific meaning, and there was no human editing or revision process involved.
+- **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** in this video points out that linguistic challenge is something that can be objectively assessed, and that it is definitely something that can be used to judge the quality of a text. He summarizes this by saying that the text is excellent in terms of its composition, appropriateness of word usage, eloquence, multiple forms of brevity, and unusual rhetoric that is unheard of among the Arabs themselves. also points out that the text's peculiar style is something that is separate from its eloquence and linguistic style, and that it is impossible for the Arabs to match this.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

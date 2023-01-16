@@ -4,7 +4,7 @@
 
 ## Description
 
-DONATE NOW: https://www.saveiman.com/fb?affiliate_id=3414212 ⬅
+DONATE NOW: <https://www.saveiman.com/fb?affiliate_id=3414212> ⬅
 
 The Prophet ﷺ said: “𝙒𝙝𝙤𝙚𝙫𝙚𝙧 𝙗𝙪𝙞𝙡𝙙𝙨 𝙖 𝙈𝙤𝙨𝙦𝙪𝙚 𝙛𝙤𝙧 𝘼𝙡𝙡𝙖𝙝, 𝘼𝙡𝙡𝙖𝙝 𝙬𝙞𝙡𝙡 𝙗𝙪𝙞𝙡𝙙 𝙛𝙤𝙧 𝙝𝙞𝙢 𝙖 𝙨𝙞𝙢𝙞𝙡𝙖𝙧 𝙝𝙤𝙪𝙨𝙚 𝙞𝙣 𝙅𝙖𝙣𝙣𝙖𝙝.”
 
@@ -14,10 +14,9 @@ If you support this project, you will in sha Allah get a house in Jannah and sha
 ✅ Making Dhikr!
 ✅ Memorizing the Qur’an!
 
-Please donate and help establish this Masjid and earn your reward ➡ https://www.saveiman.com/fb?affiliate_id=3414212 ⬅
+Please donate and help establish this Masjid and earn your reward ➡ <https://www.saveiman.com/fb?affiliate_id=3414212> ⬅
 
 ## Summary of [Andrew Tate on Why He Became a Muslim](https://www.youtube.com/watch?v=Ysv3GE3-kpc)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -26,6 +25,7 @@ Please donate and help establish this Masjid and earn your reward ➡ https://ww
 Andrew Tate became a Muslim because he felt that it was a more sensible and reasonable alternative to the "false idols" of human desires and materialism. He believes that Islam provides a connection to the Quran that can help people live moral lives today.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Andrew Tate explains why he became a Muslim and shares his experiences with the religion. He says that while Christianity is "basically said" that there are no set rules because everyone will quit, Islam is "feared" and represents "the Islamic faith." He says that while many women are happy with Islam, there is still a large level of encroachment on religious liberties.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Andrew Tate discusses his conversion to Islam and how it changed his view of the world. He also discusses the central doctrine in Islam, fitra, and how it can help people live moral lives today.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  Andrew Tate discusses why he became a Muslim, and how the Quran connects well with his previous philosophical and psychological beliefs about the nature of human desires and their ultimate unsatisfiability. Tate believes that humans are always in need of something to believe in, and that Islam provides a reasonable and sensible alternative to the "false idols" of human desires and materialism.
 

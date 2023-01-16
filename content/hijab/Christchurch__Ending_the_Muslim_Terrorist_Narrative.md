@@ -6,7 +6,6 @@ This video exposes the humiliating double standards of right wing propagators. T
 
 ## Summary of [Christchurch: Ending the Muslim Terrorist Narrative](https://www.youtube.com/watch?v=irdHM1pDfLI)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
@@ -14,7 +13,8 @@ This video exposes the humiliating double standards of right wing propagators. T
  discusses how the Christchurch terrorist attack was motivated by both ideology and emotion, and argues that the right wing needs to change its discourse on immigration and Islam in order to prevent future terrorist attacks. wants to end the Muslim terrorist narrative by having discussions and debates about points of tension in controlled settings.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  the speaker discusses how right wing extremism and islamophobia have been instrumental in promoting terrorism, and how this narrative has been disrupted by the attacks in Christchurch. Several well-known figures from the right are mentioned, and they all condemn the attack in similar terms.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses how the Christchurch terrorist attack was not solely motivated by ideology, but was also fueled by an emotive need for revenge and a desire to fulfill a "school of duty" role. It argues that the right wing needs to re-evaluate its discourse on immigration and whiten its ideological motives in order to prevent future terrorist attacks.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses how the Christchurch terrorist attack was not solely motivated by ideology, but was also fueled by an emotive need for revenge and a desire to fulfill a "school of duty" role. It argues that the right wing needs to re-evaluate its discourse on immigration and whiten its ideological motives in order to prevent future terrorist attacks.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** wants to end the Muslim terrorist narrative by having discussions and debates about points of tension in controlled settings. They believe this is necessary to fix misconceptions about Islam.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

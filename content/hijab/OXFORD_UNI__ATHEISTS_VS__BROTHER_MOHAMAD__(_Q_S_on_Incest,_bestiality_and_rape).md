@@ -6,7 +6,6 @@ Brother Mohamad debates with two Oxford educated Atheists about morals.
 
 ## Summary of [OXFORD UNI. ATHEISTS VS "BROTHER MOHAMAD" ( Q'S on Incest, bestiality and rape)](https://www.youtube.com/watch?v=7cp4IKRrDK8)
 
-
 *
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
@@ -16,7 +15,8 @@ Brother Mohamad debates with two Oxford educated Atheists about morals.
 The two participants in this YouTube video debate morality and how it applies to cases of bestiality and incest. The theist argues that morality is subjective and can be rationalized, while the atheist argues that morality is objective and cannot be rationalized. In the end, the atheist proves to be more convincing, and the theist concedes the point.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The two participants in this YouTube video debate morality and how it applies to cases of bestiality and incest. The theist argues that morality is subjective and can be rationalized, while the atheist argues that morality is objective and cannot be rationalized. In the end, the atheist proves to be more convincing, and the theist concedes the point.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses how humans create their own models of morality, and how this allows for things such as condemning others. He goes on to say that this mind-set can prevent someone from being able to say that there is an objective morality.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses how humans create their own models of morality, and how this allows for things such as condemning others. He goes on to say that this mind-set can prevent someone from being able to say that there is an objective morality.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Atheists argue that there is no basis for morals in religion, and that any adherence to them is purely opinion.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

@@ -7,17 +7,17 @@
 Sharif AbuLaith was invited onto the EA Show back when Justin was still an atheist. Here the discussion was between Sharif and a number of atheist who attempt to challenge Sharif on his evidence and views for God’s existence. See how it turned out.
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -25,42 +25,40 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 
 Gmail: hello.tapodcast@gmail.com
 
-
-#atheist #muslim #debate
+# atheist #muslim #debate
 
 ## Summary of [Muslim Gets Grilled by Atheist](https://www.youtube.com/watch?v=4mFxkJZlRx8)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -69,23 +67,26 @@ Gmail: hello.tapodcast@gmail.com
 , an atheist and a Muslim debate the nature of reality and God. The atheist argues that reality is concrete and that there is no justification for believing in God. The Muslim argues that logic and philosophy precede experience, and that experience is the basis for belief. The debate then turns to the laws of cause and effect, with the Muslim arguing that there must be a reason why a given observation differs from another. The atheist disagrees, saying that experience is based on previous experiences. The Muslim then argues that assumptions are based on evidence, and that if one believes in a proposition, it is assumed prior to experiencing it.  concludes with the Muslim arguing that an infinite regression cannot exist, and that a necessary being exists.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The Muslim gets grilled by an atheist on the nature of reality and God. The atheist argues that reality is concrete, while God is imaginary, and that there is no justification to believe in God. The Muslim points to experience as the basis for belief, and argues that logic and philosophy precede experience.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** , an atheist challenges a Muslim to explain how he can be sure that logic, rationality, and reason exist, despite not being able to observe them directly. The Muslim says that logic, rationality, and reason exist in an "experience" sense, and that even if one can't observe the actual cause of an event, one can still say that the laws of cause and effect are real.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The Muslim is grilled by an atheist on the laws of cause and effect. The Muslim argues that there must be a reason why a given observation differs from another, and that without justice, one experiences only one event at a time. The atheist disagrees, saying that experience is based on previous experiences. The Muslim argues that assumptions are based on evidence, and that if one believes in a proposition, it is assumed prior to experiencing it.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** A Muslim debates an Atheist on the existence of logic and how it is consistent over time. The Atheist argues that logic is a presupposition and that past events teach us about logic, but the Muslim argues that logic is something you experience and it is consistent.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses how scientists make assumptions in order to form conclusions, and how these assumptions can be invalidated through experience. One example is how astronomers predicted the incorrect orbit of Uranus based on Newton's laws and auxiliary assumptions about the mass and velocity of other planets. Another example is how scientists must assume a cause for gravity in order to keep the theory of gravity true. These assumptions are known as "axiomatic views" and are essential to the scientific method.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses the argument against materialism, which is that if causality is a necessary principle, then an infinite regress of causality is impossible. The philosopher argues that this contradiction leads to a logical impossibility, and therefore materialism cannot be true.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** an atheist is grilled by a Muslim on the plausibility of an endless series of events. The Muslim points out that if the series of events is endless, it has to end. The atheist responds that the series might still continue forever, but it would have to end to get to this moment in time.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses the idea of whether or not something outside of the universe could cause contingent beings like ourselves, and whether or not this is logically possible. Some scientists believe it is, while others do not. The argument is not scientific, as it is based on faith rather than evidence.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** The Muslim is grilled by an atheist on the possibility of an infinite regression, and defending materialism. The Muslim argues that an infinite regression cannot exist because of the Thompsons Lamp Paradox and other problems with an endless series. The Muslim concludes that a necessary being exists, and materialism is the explanation for contingent realities.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The Muslim is grilled by an atheist on the existence of a necessary being, which the atheist argues is not a mechanical force that necessarily had to create out of compulsion of its nature, but something that changed and made it decide to create all contingencies. The Muslim argues that because an eternal necessary being exists, the effect would be eternal. The atheist points out that all possible actualization happens like that, where some possibilities happen without a choice or determination on the part of the cosmos. The Muslim responds that an infinite number of universes in the cosmos is an assumption, and that science cannot tell what is outside the universe.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** argues that logic and reason dictate that the universe must be spatially and temporally finite, and that there can be no 'outside' of this universe because logic implies that there must be one. He goes on to say that this inference is made from experience, and that if logic were not independent of space and time, it would be contingent upon a particular universe. He concludes by saying that if these two arguments hold up, it would mean that our universe is the only one that exists.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The Muslim speaker discusses how an argument for God, or a necessary being, can be made using logical and reasonable assumptions. However, the speaker points out a problem with the argument-namely that it would be impossible for the necessary being to exist without having reasons for doing so, which goes against the principle of spontaneity. also points out that a possible explanation for the origins of the universe that makes sense to him is based on belief, not on a great explanation.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** , an atheist challenges a Muslim to explain how he can be sure that logic, rationality, and reason exist, despite not being able to observe them directly. The Muslim says that logic, rationality, and reason exist in an "experience" sense, and that even if one can't observe the actual cause of an event, one can still say that the laws of cause and effect are real.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The Muslim is grilled by an atheist on the laws of cause and effect. The Muslim argues that there must be a reason why a given observation differs from another, and that without justice, one experiences only one event at a time. The atheist disagrees, saying that experience is based on previous experiences. The Muslim argues that assumptions are based on evidence, and that if one believes in a proposition, it is assumed prior to experiencing it.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** A Muslim debates an Atheist on the existence of logic and how it is consistent over time. The Atheist argues that logic is a presupposition and that past events teach us about logic, but the Muslim argues that logic is something you experience and it is consistent.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses how scientists make assumptions in order to form conclusions, and how these assumptions can be invalidated through experience. One example is how astronomers predicted the incorrect orbit of Uranus based on Newton's laws and auxiliary assumptions about the mass and velocity of other planets. Another example is how scientists must assume a cause for gravity in order to keep the theory of gravity true. These assumptions are known as "axiomatic views" and are essential to the scientific method.
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses the argument against materialism, which is that if causality is a necessary principle, then an infinite regress of causality is impossible. The philosopher argues that this contradiction leads to a logical impossibility, and therefore materialism cannot be true.
+- **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** an atheist is grilled by a Muslim on the plausibility of an endless series of events. The Muslim points out that if the series of events is endless, it has to end. The atheist responds that the series might still continue forever, but it would have to end to get to this moment in time.
+- **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses the idea of whether or not something outside of the universe could cause contingent beings like ourselves, and whether or not this is logically possible. Some scientists believe it is, while others do not. The argument is not scientific, as it is based on faith rather than evidence.
+- **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** The Muslim is grilled by an atheist on the possibility of an infinite regression, and defending materialism. The Muslim argues that an infinite regression cannot exist because of the Thompsons Lamp Paradox and other problems with an endless series. The Muslim concludes that a necessary being exists, and materialism is the explanation for contingent realities.
+- **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The Muslim is grilled by an atheist on the existence of a necessary being, which the atheist argues is not a mechanical force that necessarily had to create out of compulsion of its nature, but something that changed and made it decide to create all contingencies. The Muslim argues that because an eternal necessary being exists, the effect would be eternal. The atheist points out that all possible actualization happens like that, where some possibilities happen without a choice or determination on the part of the cosmos. The Muslim responds that an infinite number of universes in the cosmos is an assumption, and that science cannot tell what is outside the universe.
+- **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** argues that logic and reason dictate that the universe must be spatially and temporally finite, and that there can be no 'outside' of this universe because logic implies that there must be one. He goes on to say that this inference is made from experience, and that if logic were not independent of space and time, it would be contingent upon a particular universe. He concludes by saying that if these two arguments hold up, it would mean that our universe is the only one that exists.
+- **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The Muslim speaker discusses how an argument for God, or a necessary being, can be made using logical and reasonable assumptions. However, the speaker points out a problem with the argument-namely that it would be impossible for the necessary being to exist without having reasons for doing so, which goes against the principle of spontaneity. also points out that a possible explanation for the origins of the universe that makes sense to him is based on belief, not on a great explanation.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:05:00</a>
 
  features a Muslim man being interviewed by an atheist about the existence of God. The Muslim man argues that the atheist's reasoning is flawed, and the two eventually agree to debate the issue.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** This Muslim man is grilled by an atheist about the existence of God. The atheist argues that if x exists and y does not exist, then y exists because x exists. The Muslim man argues that this is not an explanation, because it relies on the assumption that x has a determined nature.
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** The Muslim person on the video gets grilled by an atheist, who asks difficult questions about Islam. The Muslim person seems to be uncomfortable with some of the questions, but eventually agrees to a debate.
+
+- **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** The Muslim person on the video gets grilled by an atheist, who asks difficult questions about Islam. The Muslim person seems to be uncomfortable with some of the questions, but eventually agrees to a debate.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

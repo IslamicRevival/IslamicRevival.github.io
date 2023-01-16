@@ -4,12 +4,13 @@
 
 ## Description
 
-Listen as audio: https://soundcloud.com/sapienceinstitute/sets/sapient-thoughts
+Listen as audio: <https://soundcloud.com/sapienceinstitute/sets/sapient-thoughts>
 
 ST #50:  Nihilism, Consumerism and the Islamic Antidote — Part 6: The Ills Of Consumerism and The Islamic Antidote | Imran Hussein
 
-To be updated about our content please subscribe and open the notifications.
+To be updated about our content please subscribe and open the notifications
 ----
+
 BOOK A LIGHTHOUSE MENTOR
 
 Are you or someone you know doubting Islam? Do you find yourself struggling to find answers?  Do you have a hard time speaking to someone about Islam?  Are you considering Islam but are unsure about certain concepts?  Are you an activist, Imam or community leader who is unsure about how to handle questions related to science, philosophy, the Islamic moral code, etc.?
@@ -18,12 +19,11 @@ You are not alone.  Over the course of the last decade or more there has been a 
 
 Seeing the rise of  this phenomenon , Sapience Institute is introducing a One to One mentoring service called LIGHTHOUSE.
 
-BOOK A MENTOR HERE: https://sapienceinstitute.org/lighthouse/
+BOOK A MENTOR HERE: <https://sapienceinstitute.org/lighthouse/>
 
-VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: https://sapienceinstitute.org/
+VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: <https://sapienceinstitute.org/>
 
 ## Summary of [ST #50: Nihilism, Consumerism and the Islamic Antidote — Part 6 | Imran Hussein](https://www.youtube.com/watch?v=f50zoeJ_7ss)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -31,10 +31,11 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 
  discusses how consumerism is harmful to both oneself and the world around them, and how the Islamic antidote to consumerism is to focus on what the good is and to understand that we were created to worship God.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the problems of consumerism, pointing out that it doesn't work in a vacuum, and the various negative effects it has on the environment and on people's well-being. suggests that Muslims become more ethical consumers in order to help address these issues.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the problems of consumerism, pointing out that it doesn't work in a vacuum, and the various negative effects it has on the environment and on people's well-being. suggests that Muslims become more ethical consumers in order to help address these issues.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Imran Hussein discusses how materialism and consumerism are harmful to both oneself and the world around them. He cites research that suggests that those who are highly materialistic are less happy and more unsatisfied with their lives. He also notes that the Islamic antidote to consumerism is to focus on what the good is and to understand that we were created to worship God.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the Islamic perspective on nihilism, consumerism, and the Islamic antidote. It discusses how materialism can lead to psychological delusion, and how to overcome it. The Prophet Muhammad (peace be upon him) said that the only things that matter at the time of death are Sadika (good works), knowledge that is beneficial, and a virtuous descendant who prays for the deceased.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses how living a Muslim lifestyle can help overcome nihilism, which is a feeling of emptiness and lack of purpose. He says that being grateful to Allah for what we have and following Islamic dictates can lead to true happiness and fulfillment.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the Islamic perspective on nihilism, consumerism, and the Islamic antidote. It discusses how materialism can lead to psychological delusion, and how to overcome it. The Prophet Muhammad (peace be upon him) said that the only things that matter at the time of death are Sadika (good works), knowledge that is beneficial, and a virtuous descendant who prays for the deceased.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses how living a Muslim lifestyle can help overcome nihilism, which is a feeling of emptiness and lack of purpose. He says that being grateful to Allah for what we have and following Islamic dictates can lead to true happiness and fulfillment.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

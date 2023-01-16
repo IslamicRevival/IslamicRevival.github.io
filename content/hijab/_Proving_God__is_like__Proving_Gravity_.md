@@ -8,18 +8,18 @@ An interesting take on how we use inferences to come to conclusions, and how we 
 
 ## Summary of ["Proving God" is like "Proving Gravity"](https://www.youtube.com/watch?v=Nbv9u4RAKBI)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:20:00</a>
 
  discusses the idea that there is something which is "sophisticated" and "in place," and that this entity may suggest a cause which led to its existence. It goes on to say that this cause is something which is "called the fallacy of incredulity," in which someone doubts something simply because they do not understand it.  then asks a question: what is the purpose of life? After some discussion, it is agreed that everyone has their own purpose, and that it is not important to understand everyone else's purpose.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the concept of gravity, and how it can be demonstrated through the effects it has on objects. It goes on to say that just because something is given a scientific label, it doesn't mean it's wrong.  then touches on the idea of God, and how people can believe in Him without having any empirical evidence. It finishes by saying that just because something has effects, it doesn't mean it's real.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the concept of gravity, and how it can be demonstrated through the effects it has on objects. It goes on to say that just because something is given a scientific label, it doesn't mean it's wrong.  then touches on the idea of God, and how people can believe in Him without having any empirical evidence. It finishes by saying that just because something has effects, it doesn't mean it's real.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** the creator argues that the same logic we use to understand gravity can be used to understand the universe. He points out that the effects of the universe - such as the existence of life, a finely tuned system, and systems motions consistencies - all point to a cause. He suggests that the cause may be an unknown force called "gravity."
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** argues that because we see the effects of gravity and the universe exhibits order law and sophistication, we can infer that God exists.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the idea that there is something which is "sophisticated" and "in place," and that this entity may suggest a cause which led to its existence. It goes on to say that this cause is something which is "called the fallacy of incredulity," in which someone doubts something simply because they do not understand it.  then asks a question: what is the purpose of life? After some discussion, it is agreed that everyone has their own purpose, and that it is not important to understand everyone else's purpose.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the idea that there is no definitive answer to the question of why humans are here, as it is a question with a lot of different, subjective answers. However, it goes on to say that, even if there is no definitive answer, it is still important to have an objective purpose in life, as it is something that gives us meaning and purpose.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the idea that there is something which is "sophisticated" and "in place," and that this entity may suggest a cause which led to its existence. It goes on to say that this cause is something which is "called the fallacy of incredulity," in which someone doubts something simply because they do not understand it.  then asks a question: what is the purpose of life? After some discussion, it is agreed that everyone has their own purpose, and that it is not important to understand everyone else's purpose.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the idea that there is no definitive answer to the question of why humans are here, as it is a question with a lot of different, subjective answers. However, it goes on to say that, even if there is no definitive answer, it is still important to have an objective purpose in life, as it is something that gives us meaning and purpose.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

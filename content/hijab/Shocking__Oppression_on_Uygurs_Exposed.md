@@ -4,16 +4,15 @@
 
 ## Description
 
-Visit https://www.naturesblends.com/ and use hijab10 for a 10% discount. 
+Visit <https://www.naturesblends.com/> and use hijab10 for a 10% discount.
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
-My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
+My book: <https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/>
 
 ## Summary of [Shocking Oppression on Uygurs Exposed](https://www.youtube.com/watch?v=zV3CBrQuYGE)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -22,11 +21,12 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
  discusses the oppression of the Uyghur people in China by the Chinese government. The Uyghurs are a Muslim minority group who have faced discrimination and displacement.  interviews Uighur activists who are working to raise awareness about the issue and pressure the Chinese government to change its policies.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** of the book "Menace: China's Threat to the World" discusses how the Chinese Communist regime treats its Uighur minority, which has resulted in many members of the community being displaced and lost contact with their families. expresses his gratitude to the inspector general of the World Uighur Congress for providing him with an opportunity to speak on the topic.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Shocking oppression on Uygurs exposed is comical, as atheism leads to these foolish actions. interviews a survivor of a concentration camp, who says that the Chinese government uses theology to control the Uyghur people.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  shows a muslim praying area in China, which has been changed to include atheist symbols, and a protest against religious discrimination in London. The muslims complain that they are not allowed to practice their religion freely, and that activism is necessary to bring attention to their cause. The muslims in Western countries have the luxury of being able to get information, but this luxury might lead to complacency. The muslims in Islamic countries should help spread the word about religious discrimination in the West, and work to build bridges between the West and the Muslim world.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses situation of the Uyghur people in East Turkestan, China, and the impact of recent protests. The sheikha Dries highlights the importance of solidarity between different Muslim groups in order to effect change.  also points out that the Chinese Communist Party is afraid of losing control over the Uyghur people and their resources, which could have a profound impact on the rest of China.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses situation of the Uyghur people in East Turkestan, China, and the impact of recent protests. The sheikha Dries highlights the importance of solidarity between different Muslim groups in order to effect change.  also points out that the Chinese Communist Party is afraid of losing control over the Uyghur people and their resources, which could have a profound impact on the rest of China.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>**  provides a shocking depiction of the oppression of the Uyghur people in China. The Uyghur people are a Muslim minority group who face discrimination and oppression from the Chinese government.  interviews several Uyghur activists who are working to raise awareness of the issue and to pressure the Chinese government to change its policies. If East Turkestan falls, the fate of the Uyghur people would be in serious jeopardy.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses oppression of the Uyghur people in China, and how this oppression is an islamic issue. It discusses the importance of activism and how it is the responsibility of all Muslims to help end this oppression.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses oppression of the Uyghur people in China, and how this oppression is an islamic issue. It discusses the importance of activism and how it is the responsibility of all Muslims to help end this oppression.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>**  presents shocking evidence of oppression of Uygurs in China, including forced labor, imprisonment, and torture. Many Uygurs have fled to other countries in search of refuge, and a Uygur tribunal is taking place this weekend. A testimony from a victim of genocide will be given.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

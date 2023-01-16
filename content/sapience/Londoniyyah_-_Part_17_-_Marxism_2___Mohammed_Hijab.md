@@ -4,12 +4,13 @@
 
 ## Description
 
-Listen as audio: https://soundcloud.com/sapienceinstitute/londoniyyah-part-17-marxism-2-mohammed-hijab
+Listen as audio: <https://soundcloud.com/sapienceinstitute/londoniyyah-part-17-marxism-2-mohammed-hijab>
 
 Londoniyyah - Part 17 - Marxism/2 | Mohammed Hijab
 
-To be updated about our content please subscribe and open the notifications.
+To be updated about our content please subscribe and open the notifications
 ----
+
 BOOK A LIGHTHOUSE MENTOR
 
 Are you or someone you know doubting Islam? Do you find yourself struggling to find answers?  Do you have a hard time speaking to someone about Islam?  Are you considering Islam but are unsure about certain concepts?  Are you an activist, Imam or community leader who is unsure about how to handle questions related to science, philosophy, the Islamic moral code, etc.?
@@ -18,12 +19,11 @@ You are not alone.  Over the course of the last decade or more there has been a 
 
 Seeing the rise of  this phenomenon , Sapience Institute is introducing a One to One mentoring service called LIGHTHOUSE.
 
-BOOK A MENTOR HERE: https://sapienceinstitute.org/lighthouse/
+BOOK A MENTOR HERE: <https://sapienceinstitute.org/lighthouse/>
 
-VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: https://sapienceinstitute.org/
+VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: <https://sapienceinstitute.org/>
 
 ## Summary of [Londoniyyah - Part 17 - Marxism/2 | Mohammed Hijab](https://www.youtube.com/watch?v=AL6YzHBiJ0A)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -32,17 +32,19 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
  Muslims discuss their experiences with Marxism, Communism, and Socialism. Muslims say that while these ideologies have some similarities, they are ultimately very different. Muslims also discuss how Marxist states have persecuted religious people, which is in opposition to the Marxist ideology.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  Jack Conrad discusses how Marxism is a theory and practice of human liberation that is based in philosophy and classic philosophy, and has a deep understanding of history. He also notes that Marxism is about ending class distinctions, exploitation, and the antagonism between human beings and nature. Finally, he says that as the leader of the Comments by Great Britain, he seeks to recruit people from all backgrounds, and that Marxism and Islam are not incompatible.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Muslims discuss their experiences with Marxism, Communism, and Socialism. Muslims say that while these ideologies have some similarities, they are ultimately very different. Muslims also discuss how Marxist states have persecuted religious people, which is in opposition to the Marxist ideology.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses how, according to Marxist theory, a "pure" libertarian society would not be able to achieve the goals of the working class, as wealth would be distributed among elites. Islam, meanwhile, has a system of redistribution called zakat, which helps to ensure that the poor do not have to rely on the wealthy.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses how, according to Marxist theory, a "pure" libertarian society would not be able to achieve the goals of the working class, as wealth would be distributed among elites. Islam, meanwhile, has a system of redistribution called zakat, which helps to ensure that the poor do not have to rely on the wealthy.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Islamically, the idea of an employment contract is allowed to exist in order to prevent exploitation of workers. There are also differences between Islam and Marxism in terms of how they view capitalism. Marxism sees capitalism as a system that needs to be overthrown, while Islam sees it as something that will eventually be replaced.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>**  Mohammed Hijab discusses the differences between Marxism and Islam. He says that while Marxism stresses production over distribution, Islam sees distribution as part of production. He also mentions that there are some similarities between the two ideologies, but stresses that there are also distinct differences.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses the differences between communism and Islam, highlighting that communism is based on the idea that the "work worker" is exploitative, while Islam encourages self-reliance.  also touches on the idea of free markets, noting that they exist within communist systems as well.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses the differences between communism and Islam, highlighting that communism is based on the idea that the "work worker" is exploitative, while Islam encourages self-reliance.  also touches on the idea of free markets, noting that they exist within communist systems as well.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>**  examines the Marxist concept of surplus value, which refers to the profit that is made from the labor of others. According to the Marxist perspective, this profit should not be given to the owner of production (the entrepreneur), but to the person who has assembled the raw materials used to create the product. This question of who deserves credit for profits is a relevant issue in contemporary capitalism.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses Marx's assumption that on average, value is determined by inputs, including labor power. It also explains that, under capitalism, some capitalists will realize more value than others, and that this can lead to inequality and capitalism's cyclical nature.
+* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses Marx's assumption that on average, value is determined by inputs, including labor power. It also explains that, under capitalism, some capitalists will realize more value than others, and that this can lead to inequality and capitalism's cyclical nature.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>**  Mohammed Hijab discusses the concept of value and how it can change depending on the input. He argues that, in a capitalist society, commodities have no value until they are exchanged for something else. Marx did not invent the labor theory of value, and it was developed by others, including Aristotle and David Ricardo. Marx's theory is that value is determined by the amount of labor that goes into producing a commodity. He concludes by saying that, while he doesn't agree with the argument, it is still an interesting discussion.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** , Mohammed Hijab discusses different aspects of Marxism and how it relates to human history. He points out that, in terms of value, commodities can have a high or low value based on the amount of labor that went into producing them. He also discusses the different types of socialism and how they differ in terms of their approach to labor.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Mohammed Hijab discusses Marxism and explains that it is a philosophy that can be applied in a variety of ways, depending on the situation. He goes on to explain how the Chinese Communist Party has turned into its opposite, and how this might impact his view of Marxism. He also discusses the problem of calling oneself a communist when one's enemy's definition of the term is different than one's own. Finally, he answers a question from the audience.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Mohammed Hijab discusses Marx's predictions about the beginning of the socialist revolution, which differed from reality in Germany and Britain. He also argues that Islam provides a more practical way to organize society than Marxism, which is antithetical to the historical reality of Islam.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:00:00</a>
 
  Jack discusses some of the key ideas of Karl Marx. He notes that Marx was not eurocentric and that he made important contributions to the understanding of capitalism and communism. Jack also points out that Marx's predictions about the revolution happening in Russia were correct. Finally, Jack discusses the idea of altruism and how atheists are some of the most altruistic people he's ever met.

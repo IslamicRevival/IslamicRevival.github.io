@@ -5,17 +5,17 @@
 ## Description
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -23,38 +23,37 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
 ## Summary of [SPECIAL: Should Qatar host the World Cup? with @AbdullahalAndalusi Pt 2](https://www.youtube.com/watch?v=hDPQCj3L_xs)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -63,44 +62,50 @@ Gmail: hello.tapodcast@gmail.com
  "SPECIAL: Should Qatar host the World Cup?" features Abdullah al-Andalusi discussing Qatar's hosting of the World Cup and how some in the West are criticizing Qatar without fully understanding the situation. Al-Andalusi argues that Qatar's hosting of the World Cup is a way of using its wealth to improve the lives of its people, and that the West has a history of hypocrisy when it comes to criticizing Muslim countries.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  "SPECIAL: Should Qatar host the World Cup?" features Abdullah al-Andalusi discussing Qatar's hosting of the World Cup and how some in the West are criticizing Qatar without fully understanding the situation. Al-Andalusi argues that Qatar's hosting of the World Cup is a way of using its wealth to improve the lives of its people, and that the West has a history of hypocrisy when it comes to criticizing Muslim countries.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** explains that although conservatives may eventually allow some reforms to take place in Qatar, liberals are more likely to eventually relax the laws due to their belief that laws are only necessary for social stability, not because they must be implemented. also points out that because Qatar is a Muslim country, the Islam has some influence in Qatar, which may cause problems with the government. In addition, recent criticism of Qatar's migrant policy has caused diseases to spread throughout the population, and migrant ships attempting to enter the UK have been known to capsize and/or die. Although the English Channel may seem like an easy route for these people to reach Europe, the speaker notes that this is not the case, as migrants are frequently attempting to enter the UK in boats that are either overloaded or unseaworthy.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the idea that Qatar is a stumbling block to the domination of Western capitalism, as Islam does not just represent a religion like Christianity, but rather an ideology or way of life with its own set of values.  also discusses the idea that secular leftists have a special hatred and problem with Islamic-run countries, as they see Islam as a threat to what their whole ultimate plan is.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  "SPECIAL: Should Qatar host the World Cup? with @AbdullahalAndalusi Pt 2" discusses the pros and cons of Qatar hosting the World Cup. Abdullah al Andalusi argues that Qatar's unique Islamic values make it a good host, while brother Adam says that racism and human rights abuses in some Gulf countries exist. The hosts discuss whether or not they should focus on defending Qatar or criticizing its policies. Ultimately, they decide to focus on defending Islam and its values.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses Qatar's policies on alcohol and LGBT rights, and argues that the real issue is that Qatar doesn't believe in the concept of human sexuality as being divided into categories. He argues that, as Muslims, it is our responsibility to hold a balanced position on these issues, and to discuss them with non-muslims who may have different opinions.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** argues that everyone, regardless of their sexual tastes or preferences, has the same equal rights in Islam to get married to a member of the opposite sex.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses the hypocrisy of Western liberals who criticize Muslim countries for instituting laws against same-sex marriage, while at the same time not allowing Muslims to have multiple wives.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses the hypocrisy of Western countries in regards to polygamy, homosexuality, and incest. They say one thing in regards to these issues while doing another in their own countries. This inconsistency leads to bias and a lack of consistency.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** <>
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** In the first part of the video, Abdullahal Andalusi discusses the hypocrisy of Westerners who claim to be against polygamy, but are actually in favor of it in some cases. He goes on to say that this inconsistency is a reason why Muslims need to have a louder voice in the West, as many people there are not consistent in their beliefs.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** explains that although conservatives may eventually allow some reforms to take place in Qatar, liberals are more likely to eventually relax the laws due to their belief that laws are only necessary for social stability, not because they must be implemented. also points out that because Qatar is a Muslim country, the Islam has some influence in Qatar, which may cause problems with the government. In addition, recent criticism of Qatar's migrant policy has caused diseases to spread throughout the population, and migrant ships attempting to enter the UK have been known to capsize and/or die. Although the English Channel may seem like an easy route for these people to reach Europe, the speaker notes that this is not the case, as migrants are frequently attempting to enter the UK in boats that are either overloaded or unseaworthy.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the idea that Qatar is a stumbling block to the domination of Western capitalism, as Islam does not just represent a religion like Christianity, but rather an ideology or way of life with its own set of values.  also discusses the idea that secular leftists have a special hatred and problem with Islamic-run countries, as they see Islam as a threat to what their whole ultimate plan is.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  "SPECIAL: Should Qatar host the World Cup? with @AbdullahalAndalusi Pt 2" discusses the pros and cons of Qatar hosting the World Cup. Abdullah al Andalusi argues that Qatar's unique Islamic values make it a good host, while brother Adam says that racism and human rights abuses in some Gulf countries exist. The hosts discuss whether or not they should focus on defending Qatar or criticizing its policies. Ultimately, they decide to focus on defending Islam and its values.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses Qatar's policies on alcohol and LGBT rights, and argues that the real issue is that Qatar doesn't believe in the concept of human sexuality as being divided into categories. He argues that, as Muslims, it is our responsibility to hold a balanced position on these issues, and to discuss them with non-muslims who may have different opinions.
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** argues that everyone, regardless of their sexual tastes or preferences, has the same equal rights in Islam to get married to a member of the opposite sex.
+- **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses the hypocrisy of Western liberals who criticize Muslim countries for instituting laws against same-sex marriage, while at the same time not allowing Muslims to have multiple wives.
+- **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses the hypocrisy of Western countries in regards to polygamy, homosexuality, and incest. They say one thing in regards to these issues while doing another in their own countries. This inconsistency leads to bias and a lack of consistency.
+- **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** <>
+- **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** In the first part of the video, Abdullahal Andalusi discusses the hypocrisy of Westerners who claim to be against polygamy, but are actually in favor of it in some cases. He goes on to say that this inconsistency is a reason why Muslims need to have a louder voice in the West, as many people there are not consistent in their beliefs.
 
 In the second part of the video, Andalusi discusses a recent article he read in which a Danish professor argues that bestiality should be allowed. This idea is controversial in the West, but Andalusi argues that it should be accepted because it is a consensual act between two adults. He says that Muslims need to make this point more often, as many people in the West do not understand the full scope of the LGBTQ+ issue.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the Islamic paradigm of sovereignty, which states that the individual has the right to own their body and make their own decisions, in contrast to the Western view that individuals are sovereign only to the extent that they obey the laws of their nation. also clarifies that this view is not limited to Muslims, as many Asian cultures believe that parents own their children.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** argues that the liberal stance on transgender and transsexuality is inconsistent and confusing. He points out that, in some cases, certain life-changing, irreversible mutilations of the body are allowed because of a decision that can be taken on a whim.
+
+- **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Discusses the Islamic paradigm of sovereignty, which states that the individual has the right to own their body and make their own decisions, in contrast to the Western view that individuals are sovereign only to the extent that they obey the laws of their nation. also clarifies that this view is not limited to Muslims, as many Asian cultures believe that parents own their children.
+- **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** argues that the liberal stance on transgender and transsexuality is inconsistent and confusing. He points out that, in some cases, certain life-changing, irreversible mutilations of the body are allowed because of a decision that can be taken on a whim.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  "SPECIAL: Should Qatar host the World Cup? with @AbdullahalAndalusi Pt 2" discusses the pros and cons of Qatar hosting the World Cup. Abdullahal Andalusi argues that, while Qatar may have spent a lot of money on the World Cup, there are other things that the country could have spent the money on, such as infrastructure and creating a First World country. Andalusi also argues that, even if Qatar's government is not sincere, the people there are still creative and will try to see evidence to back up their arguments.
 
-**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>* Discusses the question of whether or not Qatar should host the World Cup. It discusses the different schools of thought on the matter, and points out the arbitrary nature of the age of majority.
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** argues that, because age of consent laws vary widely around the world, Qatar should advocate for a consistent age of majority, which would be more liberal than the current age of Qatar. He also argues that, because many people are immature at certain ages, setting an age of consent too high would be detrimental.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>* Discusses the pros and cons of Qatar hosting the World Cup. Abdullahal Andalusi explains that, while Qatar may have spent a lot of money on the World Cup, there are other things that the country could have spent the money on, such as infrastructure and creating a First World country. Andalusi also argues that, even if Qatar's government is not sincere, the people there are still creative and will try to see evidence to back up their arguments.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>**  Abdullah Al Andalusi discusses the problem of utilitarianism, which requires knowledge of what will make someone the happiest in the long run. He argues that those who are insincere will not be able to accept this, and will instead try to find any justification they can for their desires. Al Andalusi also points out that utilitarianism has many contradictions, and that the more short-sighted a society is, the worse its consequences will be.
-* **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>**  Abdullahal Andalusi argues that utilitarianism does not work well in determining laws that concern public morality, and that instead, individualism or social idealism should be used.
-* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>**  Abdullahal Andalusi discusses the difference between utilitarianism and social liberalism and how Islamic values differ from Western values. He goes on to say that if we want to make a fair critique of Western tolerance, we should not caricature it that it is just being tolerant of anything. He also makes the point that if a country wants to base its governance on religious grounds, it goes against secularism.
-* **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>* Discusses the issue of whether or not Qatar should host the World Cup, given the country's liberal values and lack of religious persecution. The narrator points out that, while Qatar may have liberal values, they are not consistent. For example, while Islamic Sharia law is not prohibited, it is not fully respected in Qatar, as non-Muslims can have their own court systems. Furthermore, the majority of French people are okay with persecuting Muslims, and if Qatar were to become a majority-ruled country, they would likely do the same to other religious minorities.
-* **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** The psychologist's argument is that in order to make lgbtq+ content mainstream, it has to be made so normal that people will accept it even if they may not like it. They cite the trend of more positive content towards the community in recent years as evidence.
-* **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>**  "SPECIAL: Should Qatar host the World Cup? with @AbdullahalAndalusi Pt 2" discusses the moral and psychological arguments for and against Qatar hosting the World Cup. The interviewer, Abdullahal Andalusi, points out that children in Western countries are growing up with less confusion about their gender and sexual identity than children in Qatar, and asks why this isn't being considered when making the decision about whether or not to host the World Cup. Muhammad, a psychology student, responds that children are not born with any specific gender or sexual identity, but learn these things through their daily consumption of media. He argues that children in Qatar are learning these things too, and that it would be better for them to learn these concepts through a psychological perspective rather than a moral one.
-* **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>* Discusses the possibility of Qatar hosting the World Cup, and the possible impact it might have on the psychology of children. It points to the fact that there are two realities, one of which is based on evidence of medical and psychological research, and another which is based on the narrative of the profit-driven corporate establishment. mentions a course that Abdullah Al-Andalusi is taking, and suggests that he should be mentioned before the last guest is introduced.
-* **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>* Discusses why Qatar should not host the World Cup, citing the Quran's teachings on worldly and spiritual pursuits. He believes that Muslims should be focusing on improving the world instead of entertainment-related things.
-* **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses the importance of reflection on one's purpose in life and how distractions, such as sports, can take away from this. They go on to talk about a lecture given by a Muslim scholar on LGBT rights and how we should not categorize people based on sexual orientation. Jake, the speaker's opponent in the debate, has some good points, but the speaker reminds the audience that Jake is just one person and that there are many more who share their views.
+**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Discusses the question of whether or not Qatar should host the World Cup. It discusses the different schools of thought on the matter, and points out the arbitrary nature of the age of majority.
+
+- **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** argues that, because age of consent laws vary widely around the world, Qatar should advocate for a consistent age of majority, which would be more liberal than the current age of Qatar. He also argues that, because many people are immature at certain ages, setting an age of consent too high would be detrimental.
+- **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Discusses the pros and cons of Qatar hosting the World Cup. Abdullahal Andalusi explains that, while Qatar may have spent a lot of money on the World Cup, there are other things that the country could have spent the money on, such as infrastructure and creating a First World country. Andalusi also argues that, even if Qatar's government is not sincere, the people there are still creative and will try to see evidence to back up their arguments.
+- **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>**  Abdullah Al Andalusi discusses the problem of utilitarianism, which requires knowledge of what will make someone the happiest in the long run. He argues that those who are insincere will not be able to accept this, and will instead try to find any justification they can for their desires. Al Andalusi also points out that utilitarianism has many contradictions, and that the more short-sighted a society is, the worse its consequences will be.
+- **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>**  Abdullahal Andalusi argues that utilitarianism does not work well in determining laws that concern public morality, and that instead, individualism or social idealism should be used.
+- **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>**  Abdullahal Andalusi discusses the difference between utilitarianism and social liberalism and how Islamic values differ from Western values. He goes on to say that if we want to make a fair critique of Western tolerance, we should not caricature it that it is just being tolerant of anything. He also makes the point that if a country wants to base its governance on religious grounds, it goes against secularism.
+- **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** Discusses the issue of whether or not Qatar should host the World Cup, given the country's liberal values and lack of religious persecution. The narrator points out that, while Qatar may have liberal values, they are not consistent. For example, while Islamic Sharia law is not prohibited, it is not fully respected in Qatar, as non-Muslims can have their own court systems. Furthermore, the majority of French people are okay with persecuting Muslims, and if Qatar were to become a majority-ruled country, they would likely do the same to other religious minorities.
+- **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** The psychologist's argument is that in order to make lgbtq+ content mainstream, it has to be made so normal that people will accept it even if they may not like it. They cite the trend of more positive content towards the community in recent years as evidence.
+- **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>**  "SPECIAL: Should Qatar host the World Cup? with @AbdullahalAndalusi Pt 2" discusses the moral and psychological arguments for and against Qatar hosting the World Cup. The interviewer, Abdullahal Andalusi, points out that children in Western countries are growing up with less confusion about their gender and sexual identity than children in Qatar, and asks why this isn't being considered when making the decision about whether or not to host the World Cup. Muhammad, a psychology student, responds that children are not born with any specific gender or sexual identity, but learn these things through their daily consumption of media. He argues that children in Qatar are learning these things too, and that it would be better for them to learn these concepts through a psychological perspective rather than a moral one.
+- **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** Discusses the possibility of Qatar hosting the World Cup, and the possible impact it might have on the psychology of children. It points to the fact that there are two realities, one of which is based on evidence of medical and psychological research, and another which is based on the narrative of the profit-driven corporate establishment. mentions a course that Abdullah Al-Andalusi is taking, and suggests that he should be mentioned before the last guest is introduced.
+- **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** Discusses why Qatar should not host the World Cup, citing the Quran's teachings on worldly and spiritual pursuits. He believes that Muslims should be focusing on improving the world instead of entertainment-related things.
+- **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Discusses the importance of reflection on one's purpose in life and how distractions, such as sports, can take away from this. They go on to talk about a lecture given by a Muslim scholar on LGBT rights and how we should not categorize people based on sexual orientation. Jake, the speaker's opponent in the debate, has some good points, but the speaker reminds the audience that Jake is just one person and that there are many more who share their views.
+
 ### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:20:00</a>
 
  "SPECIAL: Should Qatar host the World Cup?" features Abdullahal Andalusi discussing the pros and cons of Qatar hosting the World Cup. He discusses how Trinitarianism differs from social Unitarianism and how his arguments against God's existence can be made clearer to viewers. He also apologizes for technical problems that occurred during the beginning of the show.
 
 **<a onclick="modifyYTiframeseektime('7200')">02:00:00</a>** Jake and Muhammad discuss the morality of polygamy, and Muhammad shares a poll that shows most Americans view suicide as morally acceptable.
-* **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>** Abdullah al-Andalusi discusses the implications of liberalism on morality and whether or not Qatar should host the World Cup. He argues that legal injury takes precedence over morality, and that when discussing morality with individuals like this, it is important to lock them down to the idea of absolutes. He then goes on to discuss the implications of gender fluidity and sexual preference fluidity on society as a whole.
-* **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>* Discusses how many people in the West feel that they are doing the best thing for their country, even though the consequences may not be what they expected. It also discusses how some people in the West are rejecting Islam because of its strict stance on transgenderism.
-* **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>**  "SPECIAL: Should Qatar host the World Cup?" presents the arguments for and against Qatar hosting the World Cup. Abdullahal Andalusi discusses how those in favor of Qatar hosting the World Cup argue that it is divinely given rules and that what is changed as the wind changes. He also discusses how some people do not even know they are in a fog, and that they think they are exercising their rights when they are actually doing nothing. He concludes by saying that if we just another one or two generations down the road, people will start waking up and exploring reality for what it really is.
-* **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>**  features Abdullahal Andalusi discussing the pros and cons of Qatar hosting the World Cup. He discusses how Trinitarianism differs from social Unitarianism and how his arguments against God's existence can be made clearer to viewers. He also apologizes for technical problems that occurred during the beginning of the show.
+
+- **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>** Abdullah al-Andalusi discusses the implications of liberalism on morality and whether or not Qatar should host the World Cup. He argues that legal injury takes precedence over morality, and that when discussing morality with individuals like this, it is important to lock them down to the idea of absolutes. He then goes on to discuss the implications of gender fluidity and sexual preference fluidity on society as a whole.
+- **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>** Discusses how many people in the West feel that they are doing the best thing for their country, even though the consequences may not be what they expected. It also discusses how some people in the West are rejecting Islam because of its strict stance on transgenderism.
+- **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>**  "SPECIAL: Should Qatar host the World Cup?" presents the arguments for and against Qatar hosting the World Cup. Abdullahal Andalusi discusses how those in favor of Qatar hosting the World Cup argue that it is divinely given rules and that what is changed as the wind changes. He also discusses how some people do not even know they are in a fog, and that they think they are exercising their rights when they are actually doing nothing. He concludes by saying that if we just another one or two generations down the road, people will start waking up and exploring reality for what it really is.
+- **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>**  features Abdullahal Andalusi discussing the pros and cons of Qatar hosting the World Cup. He discusses how Trinitarianism differs from social Unitarianism and how his arguments against God's existence can be made clearer to viewers. He also apologizes for technical problems that occurred during the beginning of the show.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

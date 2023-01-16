@@ -4,10 +4,9 @@
 
 ## Description
 
-Salam alaikum, peace be upon you all. If you have benefitted then please do share and support our works @ https://www.launchgood.com/ouryouth
+Salam alaikum, peace be upon you all. If you have benefitted then please do share and support our works @ <https://www.launchgood.com/ouryouth>
 
 ## Summary of [MUSLIM TALKS TO GAY SEX ADVISOR - NEW YORK](https://www.youtube.com/watch?v=KLdjHNGf9XM)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -16,8 +15,9 @@ Salam alaikum, peace be upon you all. If you have benefitted then please do shar
 The man in this video talks to a gay sex advisor about how Islam views sex and the risks of transmitting diseases through sexual activity. He points out that some diseases can be transmitted through blood movement or even from other insects. He asks the advisor if he would mind if he asked the man's last name. The advisor politely declines, thanking the man for his time.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** <>
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** <>
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses how Islam views sex, and points out that there is a distinction between sex and anal sex. He goes on to say that one of the concerns homosexuals may have is that they are more likely to contract sexually transmitted diseases.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses how Islam views sex, and points out that there is a distinction between sex and anal sex. He goes on to say that one of the concerns homosexuals may have is that they are more likely to contract sexually transmitted diseases.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** <>
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>**  a Muslim man talks to a gay sex advisor about the risks of transmitting diseases through sexual activity. He points out that some diseases can be transmitted through blood movement or even from other insects. He asks the advisor if he would mind if he asked the man's last name. The advisor politely declines, thanking the man for his time.
 

@@ -5,13 +5,12 @@
 ## Description
 
 You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
+<https://www.patreon.com/Bloggingtheology>
 
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
 ## Summary of [The Prophet Muhammad ﷺ and Sufism](https://www.youtube.com/watch?v=yHQfbRii2pI)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -20,6 +19,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 This video discusses the Islamic mystical tradition of Sufism. It explains how Sufis view the world and how they believe humans can connect with God. The video also discusses the Islamic prohibition on tobacco and the Muslim celebration of Muhammad's birthday.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** This video looks at the Islamic mystical tradition of Sufism and its view of creation. Sufism stresses the importance of understanding God's beauty in the world, and of achieving a state of perfect understanding of God. It also stresses the importance of human connection to God, and the importance of humans being the perfect reflection of God.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Sufism is the Islamic tradition of mystical contemplation and practice. Ibn Arabi, one of the most famous sufi thinkers, believes that Muhammad, the perfect human, is the encapsulation of the divine. According to this theory, when someone experiences a mystical encounter with Muhammad in a dream, it is as if they have seen him in a waking state. This concept is widespread among Muslims and is often used to justify dream encounters with religious prophets.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** This video discusses the Islamic prohibition on tobacco, and how some scholars believe that one can see the Prophet Muhammad in waking hours. It also discusses the muslim celebration of Muhammad's birthday.
 

@@ -6,7 +6,6 @@ An important exposition of the Islamic understanding of husband and wife relatio
 
 ## Summary of [Clever Feminist Challenges Muslim Speaker @ Warwick University|| Br. Mohammed Hijab](https://www.youtube.com/watch?v=b86dMlXvdMA)
 
-
 *
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
@@ -16,8 +15,9 @@ An important exposition of the Islamic understanding of husband and wife relatio
 discusses the differences between Islamic and feminist views of women's rights. Islamic feminists argue that men have a leading role and "superior" rights in a marriage, and that this is indicated in verses from the Quran. challenges a Muslim speaker at Warwick University, arguing that Islam has a balanced relationship between men and women.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** This Muslim speaker challenges an atheist or non-theist to come and debate the morality of Islam, citing evidence from the Quran and Hadith. The atheist or non-theist fails to prove their position, as any logical argument must begin with a premise.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** challenges Muslim speaker Mohammed Hijab to agree that women are equal to men, and that there should be equality between men and women at all times and in all places. However, the speaker points out that feminism and Islam have different prescriptions for gender equality, and that, ultimately, feminism would have to concede that women are using unequal treatment between men and women if they believe in equal treatment at all times and all places.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the difference between Islamic and feminist views of women's rights and how Islamic law provides for more protection for women than traditional Western law does. Islamic feminists argue that men have a leading role and "superior" rights in a marriage, and that this is indicated in verses from the Quran.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the difference between Islamic and feminist views of women's rights and how Islamic law provides for more protection for women than traditional Western law does. Islamic feminists argue that men have a leading role and "superior" rights in a marriage, and that this is indicated in verses from the Quran.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** challenges a Muslim speaker at Warwick University, arguing that Islam has a balanced relationship between men and women. He also points out that Westerners have imposed their own way of life on other cultures, using poor, naive minds to do so.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

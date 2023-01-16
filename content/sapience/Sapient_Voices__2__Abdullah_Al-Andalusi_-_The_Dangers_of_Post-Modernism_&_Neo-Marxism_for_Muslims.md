@@ -8,36 +8,35 @@ Abdullah Al-Andalusi explains to Hamza Andreas Tzortzis the dangers of post-mode
 
 Abdullah's website and forthcoming course on race and gender, where he will be addressing neo-marxist and post-modern discourse, can be found here:
 
-Website: https://abdullahalandalusi.com
-The Qur'an Institute: https://thequran.institute/femcrt
+Website: <https://abdullahalandalusi.com>
+The Qur'an Institute: <https://thequran.institute/femcrt>
 
 Listen Sapient Voices on your favourite podcast platform:
-Apple: https://podcasts.apple.com/us/podcast/sapient-voices/id1617301292
-Spotify: https://open.spotify.com/show/5nIJSi6ZDAGBvGsv3FCyS2?si=e7271d6355d94a0a
-Other: https://sapientvoices.buzzsprout.com/
+Apple: <https://podcasts.apple.com/us/podcast/sapient-voices/id1617301292>
+Spotify: <https://open.spotify.com/show/5nIJSi6ZDAGBvGsv3FCyS2?si=e7271d6355d94a0a>
+Other: <https://sapientvoices.buzzsprout.com/>
 
 To be updated about our content please subscribe and open the notifications.
 —
 Help us educate and mentor others to share the faith academically.
-Donate now: https://sapienceinstitute.org/donate/ 
+Donate now: <https://sapienceinstitute.org/donate/>
 
-Free online courses: https://learn.sapienceinstitute.org/
+Free online courses: <https://learn.sapienceinstitute.org/>
 
-Free books: https://sapienceinstitute.org/books/
+Free books: <https://sapienceinstitute.org/books/>
 
-Have doubts? Book a mentor: https://sapienceinstitute.org/lighthouse/
+Have doubts? Book a mentor: <https://sapienceinstitute.org/lighthouse/>
 
-Listen (Podcast): https://sapienceinstitute.org/sapientvoices/
+Listen (Podcast): <https://sapienceinstitute.org/sapientvoices/>
 
 Follow:
-– Facebook: https://facebook.com/sapienceinstitute.org/ 
-– Twitter: https://twitter.com/SapienceOrg/ 
-– Instagram: https://instagram.com/sapienceinstitute/ 
+– Facebook: <https://facebook.com/sapienceinstitute.org/>
+– Twitter: <https://twitter.com/SapienceOrg/>
+– Instagram: <https://instagram.com/sapienceinstitute/>
 
-Articles, speaker requests & more: https://sapienceinstitute.org/
+Articles, speaker requests & more: <https://sapienceinstitute.org/>
 
 ## Summary of [Sapient Voices #2: Abdullah Al-Andalusi - The Dangers of Post-Modernism & Neo-Marxism for Muslims](https://www.youtube.com/watch?v=ecvIoKa8r-M)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -46,39 +45,44 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 Abdullah Al-Andalusi discusses the dangers of post-modernism and neo-Marxism for Muslims, arguing that these ideologies create contradictions within Muslim thought and society, and that they can lead to suffocation or asphyxiation. He suggests that we critique these ideologies and engage them in order to defeat them.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Brother Abdullah Al-Andalusi speaks about the dangers of post-modernism and neo-Marxism for Muslims. He explains that these ideologies are based on incoherent epistemological assumptions and can lead to false beliefs about Islam. He encourages Muslims to engage in intellectual debate with those who disagree with them, in order to better understand and understand Islam.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Abdullah Al-Andalusi discusses the differences between modernism and post-modernism. He states that modernism was a term used to describe various ideas that came out of the west after the enlightenment, while post-modernism is a more general term that refers to the dominant ideology in the west, liberalism. He goes on to say that modernism holds the belief that the world is objective, and that it can be understood without the need for religious or spiritual beliefs.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the dangers of post-modernism and neo-Marxism for Muslims, particularly in terms of fidelity to objective reality and public morality. It points out that these ideologies are based on naturalism and physicalism, which can lead to a belief that humans are the center of the universe and that everything is in a state of constant flux.  also discusses the rise of cubism and expressionism, which sought to express emotions more accurately than realism could.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the dangers of post-modernism and neo-Marxism for Muslims, and how these ideologies remove the belief that there is an objective, accurate reality. Post-modernists believe that the individual is the measure of all things, and that language and texts have close to infinite interpretations.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the dangers of post-modernism and neo-Marxism for Muslims, particularly in terms of fidelity to objective reality and public morality. It points out that these ideologies are based on naturalism and physicalism, which can lead to a belief that humans are the center of the universe and that everything is in a state of constant flux.  also discusses the rise of cubism and expressionism, which sought to express emotions more accurately than realism could.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the dangers of post-modernism and neo-Marxism for Muslims, and how these ideologies remove the belief that there is an objective, accurate reality. Post-modernists believe that the individual is the measure of all things, and that language and texts have close to infinite interpretations.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Post-modernism is a philosophical movement that challenges traditional ideas about reality and human nature. It is often used to justify negative desires, such as blaming others for one's own problems. It can be a hindrance to learning because it obscures the reality of the world.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** In the modernist perspective, humans are essentially "selves" with a nature that cannot be changed. Nietzsche argued that this idea of self is a fictitious construct, and that morality can only be decided by the individual. He said that "truth is the will to power", which is the idea that what you deem to be true is really just coming from the place of your will to impose yourself upon the external world.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>**  Abdullah Al-Andalusi discusses the dangers of post-modernism and neo-Marxism for Muslims. He argues that before humans can have essence, they must exist. He also discusses the influence of the Kant's cancer argument on existentialism and Nietzsche's idea of humans becoming gods. Finally, he provides context for the dangers of post-modernism and neo-Marxism by referencing the Enlightenment.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Abdullah Al-Andalusi speaks on the dangers of post-modernism and neo-Marxism for Muslims, arguing that they ultimately lead to individualism and a sense of power over oneself. He also discusses the problems with using these ideologies from a design perspective, as they ultimately undermine morality and the sanctity of life.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses how post-modernism and neo-Marxism pose dangers to Muslims because they promote a sense of self-sufficiency that can lead to spiritual disease. He also notes that being rich does not automatically lead to atheism, but that it can help to open the door to a similar mindset.
+* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses how post-modernism and neo-Marxism pose dangers to Muslims because they promote a sense of self-sufficiency that can lead to spiritual disease. He also notes that being rich does not automatically lead to atheism, but that it can help to open the door to a similar mindset.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Post-modernism and neo-Marxism can have dangerous consequences for Muslims because they undermine traditional values and beliefs.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Abdullah Al-Andalusi discusses the dangers of post-modernism and neo-Marxism for Muslims, citing Hegel, Marx, and Carl Monk. He points out that these ideologies create contradictions within Muslim thought and society, and that they can lead to suffocation or asphyxiation.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Abdullah Al-Andalusi discusses the dangers of post-modernism and neo-Marxism for Muslims, arguing that these ideologies control the culture and fool the working classes into thinking that their situations are normal. He suggests that we critique these ideologies and engage them in order to defeat them.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  Abdullah Al-Andalusi discusses the dangers of post-modernism and neo-Marxism for Muslims. He argues that these ideologies covertly promote racism and can lead to the destruction of society. He recommends using critical race theory to combat the negative effects of these ideologies.
 
-**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>* Discusses the dangers of post-modernism and neo-Marxism, which are used by ideologues to remove hierarchies and preserve capitalism. Muslim academics who embrace these ideas might be marginalized and discriminated against in the future. Joining a movement that uses these same ideas will help them take down the hierarchy.
+**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Discusses the dangers of post-modernism and neo-Marxism, which are used by ideologues to remove hierarchies and preserve capitalism. Muslim academics who embrace these ideas might be marginalized and discriminated against in the future. Joining a movement that uses these same ideas will help them take down the hierarchy.
+
 * **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** The neo-Marxists seek to overturn the hierarchical and oppressive society that is making people content with the status quo. They do this by using post-modernism, which attacks the idea of objective reality and the supposed authority of dominant ideologies. Neo-Marxists believe that this would lead to the downfall of the current society, and the eventual emancipation of the working class.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>* Discusses neo-Marxism and post-modernism, which he says are used to remove the ideological cultural hegemony of the ruling class. He goes on to say that post-modernists are different because they are against all hegemonies, including the one of Marxism.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>* Discusses the danger of post-modernism and neo-Marxism, which are ideologies that use critical theory to remove hegemonical cultural ideological oppression. Neo-Marxists and post-modernists eventually morphed into each other, and post-modernism gives men more privilege than females.
+* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Discusses neo-Marxism and post-modernism, which he says are used to remove the ideological cultural hegemony of the ruling class. He goes on to say that post-modernists are different because they are against all hegemonies, including the one of Marxism.
+* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** Discusses the danger of post-modernism and neo-Marxism, which are ideologies that use critical theory to remove hegemonical cultural ideological oppression. Neo-Marxists and post-modernists eventually morphed into each other, and post-modernism gives men more privilege than females.
 * **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>**  Abdullah Al-Andalusi discusses the dangers of post-modernism and neo-Marxism for Muslims. He argues that because these ideologies posit a utopia in which everyone is equal, they would ultimately lead to the downfall of society. He also discusses critical race theory and how it can be used to combat the negative effects of post-modernism.
-* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>* Discusses the dangers of post-modernism and neo-Marxism, which aim to destroy hierarchy and traditional values in order to create a "cultural anarchy." This would lead to the eventual destruction of society.
-* **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>* Discusses some of the dangers of post-modernism and neo-Marxism for Muslims, explaining that these ideologies can lead to the removal of hierarchy and a sense of freedom for Muslims, but can also be pseudoscientific and lead to the destruction of key aspects of Islamic culture.
-* **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>* Discusses the dangers of post-modernism and neo- Marxism for Muslims, and how academia can be empowered to recognize and give an alternate to these world views.
+* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** Discusses the dangers of post-modernism and neo-Marxism, which aim to destroy hierarchy and traditional values in order to create a "cultural anarchy." This would lead to the eventual destruction of society.
+* **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** Discusses some of the dangers of post-modernism and neo-Marxism for Muslims, explaining that these ideologies can lead to the removal of hierarchy and a sense of freedom for Muslims, but can also be pseudoscientific and lead to the destruction of key aspects of Islamic culture.
+* **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** Discusses the dangers of post-modernism and neo- Marxism for Muslims, and how academia can be empowered to recognize and give an alternate to these world views.
 * **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** Abdullah Al-Andalusi discusses the dangers of post-modernism and neo-Marxism in relation to Muslim academia. He argues that these ideologiespromise hidden truths that cannot be found in mainstream academia.
-* **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>* Discusses the dangers of neo-Marxism and post-modernism for Muslims, emphasizing the importance of following the Quran and Sunnah. He provides an example of how these ideologies can lead to a division within the Muslim community and a rise in racism. He recommends using critical race theory as a way to educate Muslims about the dangers of these ideologies.
+* **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** Discusses the dangers of neo-Marxism and post-modernism for Muslims, emphasizing the importance of following the Quran and Sunnah. He provides an example of how these ideologies can lead to a division within the Muslim community and a rise in racism. He recommends using critical race theory as a way to educate Muslims about the dangers of these ideologies.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** Abdullah Al-Andalusi critiques feminism and postmodernism, asserting that islam provides better rights for men and women and that it's not about gender anymore. He also discusses racism in the United States, noting that it is rampant and that there is no dispute about the documented observed statistics. He goes on to say that the question is how to explain it and what the solution is.
-* **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses the dangers of post-modernism and neo-Marxism for Muslims, arguing that these ideologies covertly promote racism. Critical race theorists believe that these ideologies encode white supremacy in language, which gives the impression that black people are inferior.
+* **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Discusses the dangers of post-modernism and neo-Marxism for Muslims, arguing that these ideologies covertly promote racism. Critical race theorists believe that these ideologies encode white supremacy in language, which gives the impression that black people are inferior.
+
 ### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:25:00</a>
 
  Abdullah Al-Andalusi discusses the dangers of post-modernism and neo-Marxism for Muslims, noting that these ideologies can obscure the reality of racism and oppression in society. He also points out that this is a common human phenomenon that can be explained without recourse to divine revelation.
 
 **<a onclick="modifyYTiframeseektime('7200')">02:00:00</a>** Abdullah Al-Andalusi discusses the dangers of post-modernism and neo-Marxism for Muslims, noting that these ideologies can obscure the reality of racism and oppression in society. He also points out that this is a common human phenomenon that can be explained without recourse to divine revelation.
-* **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>* Discusses the dangers of post-modernism and neo- Marxism for Muslims, and provides a link to a course that Abdullah Al-Andalusi is teaching at the Quran Institute. Abdullah discusses the reasons why muslim thinkers may adopt world views that are seemingly alien to the tradition in order to solve problems. He mentions the problem of hell and the need to go back to the Quran and the prophetic teachings for answers. He says that we need another couple of podcasters to unpack these issues and that this is a critical issue.
+
+* **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>** Discusses the dangers of post-modernism and neo- Marxism for Muslims, and provides a link to a course that Abdullah Al-Andalusi is teaching at the Quran Institute. Abdullah discusses the reasons why muslim thinkers may adopt world views that are seemingly alien to the tradition in order to solve problems. He mentions the problem of hell and the need to go back to the Quran and the prophetic teachings for answers. He says that we need another couple of podcasters to unpack these issues and that this is a critical issue.
 * **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>** Abdullah Al-Andalusi discusses the dangers of post-modernism and neo- Marxism for Muslims. He explains that many Muslims in the West think that these ideologies will not want to hear about Islam, and instead, they need to use western ideologies. He also mentions the dangers of abortion, which many Muslim women in the United States are advocating for.
 * **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>** Abdullah Al-Andalusi speaks about the dangers of post-modernism and neo-Marxism for Muslims, stressing the importance of understanding ideas and philosophy. He explains that while post-modernism and neo-Marxism may seem like solutions to problems, they actually result in a loss of hierarchy and a lack of understanding of islam. He encourages Muslims to learn about islam and its solutions to mankind's problems, and to be active witnesses to all of mankind.
 * **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>** In this podcast, Abdullah Al-Andalusi discusses the dangers of post-modernism and neo-Marxism for Muslims. He notes that these ideologies are vastly different, and that while the western idea of slavery is bad, the concept of slavery in neo-Marxist ideology is different and worse. He recommends that Muslims attend his course on the Islamic world view to understand these concepts and how they relate to the Islamic tradition.

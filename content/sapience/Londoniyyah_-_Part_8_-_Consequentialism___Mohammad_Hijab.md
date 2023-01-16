@@ -6,8 +6,9 @@
 
 Londoniyyah - Part 8 - Consequentialism | Mohammad Hijab
 
-To be updated about our content please subscribe and open the notifications.
+To be updated about our content please subscribe and open the notifications
 ----
+
 BOOK A LIGHTHOUSE MENTOR
 
 Are you or someone you know doubting Islam? Do you find yourself struggling to find answers?  Do you have a hard time speaking to someone about Islam?  Are you considering Islam but are unsure about certain concepts?  Are you an activist, Imam or community leader who is unsure about how to handle questions related to science, philosophy, the Islamic moral code, etc.?
@@ -16,12 +17,11 @@ You are not alone.  Over the course of the last decade or more there has been a 
 
 Seeing the rise of  this phenomenon , Sapience Institute is introducing a One to One mentoring service called LIGHTHOUSE.
 
-BOOK A MENTOR HERE: https://sapienceinstitute.org/lighthouse/
+BOOK A MENTOR HERE: <https://sapienceinstitute.org/lighthouse/>
 
-VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: https://sapienceinstitute.org/
+VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: <https://sapienceinstitute.org/>
 
 ## Summary of [Londoniyyah - Part 8 - Consequentialism | Mohammad Hijab](https://www.youtube.com/watch?v=glKm5OQ1OFs)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -30,10 +30,11 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 Consequentialism is a philosophical theory that holds that the right action is the one that has the best consequences.  Mohammad Hijab discusses the merits and demerits of consequentialism. He points out that consequentialism solves some of the problems of deontological ethics, but that it can also lead to wrong decisions.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** In this eighth video in a series, Mohammad Hijab discusses consequentialism. Consequentialism holds that the right action is the one that has the best consequences, and utilitarianism is a form of consequentialism. Deontological ethics, the opposite of consequentialism, says that actions have intrinsic value.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Consequentialism, a philosophical theory that justifies the means by considering the consequences of an action, can replace desirability with anything else. There are different types of consequentialism, each with a different premise, and each with its own arguments.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  Mohammad Hijab discusses the merits and demerits of consequentialism. He points out that consequentialism solves some of the problems of deontological ethics--namely, that you can never lie, and that the consequences of our actions always matter. He also discusses how consequentialism is based in the future, and how one can use the past to make decisions about the present. Finally, he discusses how consequentialism can lead to wrong decisions, and how it requires people to weigh probabilities and consequences.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Mohammad Hijab discusses the justification for consequentialism, which is that any step in the right direction is justified. He points out that there is a difference between desirability and desire, and that the naturalistic fallacy can occur when trying to justify something based on its desirability alone. David Hume argued that it is desirable because we desire it, which is a form of the naturalistic fallacy.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the philosophical concept of consequentialism, which holds that the consequences of an action are the only legitimate measure of its morality. David Hume argued that if something is based on a naturalistic fallacy, then it cannot be morally good. Sam Harris, a prominent ethicist, has argued that it is morally acceptable to kill disabled children because the pain is more than the pleasure they experience. Peter Singer, another utilitarian, has said that it is morally equivalent to killing a child thousands of miles away. Anthony Joshua, a professional boxer, has said that he believes in full consequentialism, which holds that the consequences of an action are the only legitimate measure of its morality.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the philosophical concept of consequentialism, which holds that the consequences of an action are the only legitimate measure of its morality. David Hume argued that if something is based on a naturalistic fallacy, then it cannot be morally good. Sam Harris, a prominent ethicist, has argued that it is morally acceptable to kill disabled children because the pain is more than the pleasure they experience. Peter Singer, another utilitarian, has said that it is morally equivalent to killing a child thousands of miles away. Anthony Joshua, a professional boxer, has said that he believes in full consequentialism, which holds that the consequences of an action are the only legitimate measure of its morality.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>**  Mohammad Hijab discusses consequentialism and its flaws. He points out that, because of the principle of intention, some actions (such as murder) are treated the same regardless of the consequences. He also discusses the Islamic Sharia system, which is based on consequentialism.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** presents three principles that consequentialists should consider in order to make sound decisions: that the action must have a significant impact on the whole Muslim community, that it must be certain to happen, and that it must be a necessary action in order to protect important aspects of Islam. He provides an example from Islamic history of a situation in which it was justified to use human shields.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>**  Mohammad Hijab discusses the principle of islamic consequentialism, which states that actions must be taken in order to achieve the best possible outcome for as many people as possible. He discusses the case of Aisha, who was nine years old when Prophet Muhammad married her, and points out that there is both scholarly and moral justification for this marriage. He argues that, in order to be consequentialist, one must first demonstrate that harm will result from the action in question. If this is shown to be the case, then the action is justified.

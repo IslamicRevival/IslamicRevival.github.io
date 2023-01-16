@@ -5,13 +5,12 @@
 ## Description
 
 You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
+<https://www.patreon.com/Bloggingtheology>
 
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
 ## Summary of [Imam Tom discusses The Impossible State by Wael Hallaq (part 1)](https://www.youtube.com/watch?v=Bm2UyQMK3Ig)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -20,6 +19,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 Imam Tom discusses the book, "The Impossible State: Islam, Politics and Modernity's Moral Predicament" by Wael Hallaq. He argues that there is no such thing as an Islamic State, and that the Sharia is completely incompatible with modernity. This book is important because it provides a perspective on the current political situation in the Middle East, and it is interesting to hear from an Islamic scholar.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The book, "The Impossible State: Islam, Politics and Modernity's Moral Predicament" by Wael Hallaq, argues that there is no such thing as an Islamic State, and that the Sharia is completely incompatible with modernity. This book is important because it provides a perspective on the current political situation in the Middle East, and it is interesting to hear from an Islamic scholar.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Imam Tom discusses the impossibility of a state that is based on Sharia law in comparison to the state that is based on European Colonialism. He argues that the state is based on a separation of moral and legal forces, while Sharia is a unity of the two. He goes on to say that historically, the European Colonial process has "eviscerated" Sharia law.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Imam Tom discusses the differences between Sharia law and other legal systems, discussing how Sharia law is only a source of legitimacy for a state, not an authority itself. He also mentions how Sharia law is the last bastion of hope for the world, and how it could be a possible source of redemption for the West.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Imam Tom discusses how the Muslim world differs in terms of their desires and how this creates difficulty in trying to establish a Sharia-based government.

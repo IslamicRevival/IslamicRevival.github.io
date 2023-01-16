@@ -6,20 +6,20 @@
 
 New atheists like Richard Dawkins view science as the "knight in shining armour" that saves humanity from the ashes of the dark ages to the enlightenment of scientific truth. But what exactly is the value of truth - scientific or otherwise - in the absence of objective meaning?
 
-Full video: https://youtu.be/bdE6cyUtcOI
+Full video: <https://youtu.be/bdE6cyUtcOI>
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -27,40 +27,39 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
-#Atheist #Nihilism #Dawkins
+# Atheist #Nihilism #Dawkins
 
 ## Summary of [Atheists and the Value of Truth | Podcast Highlight](https://www.youtube.com/watch?v=GS1wzxk5XEs)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -69,8 +68,9 @@ Gmail: hello.tapodcast@gmail.com
 discusses Nietzsche's view that truth is not important for organisms and humans, and that meaning is subjective and relative. He also believes that morality is vigilant on the physical and that humans can be non-reductive physicalists and non-naturalists.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Nietzsche argues that the desire for truth and the pursuit of understanding is something that was derived from Christianity, specifically from the idea of a wise being ordering the world. He says that this moral drive has ended up undermining the very system that gave rise to that desire, Christianity. He argues that, while truth may still be valuable in some cases, it is not always so and is only valuable based on various benefits.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Nietzsche argued that truth is not important for organisms and humans, and that meaning is subjective and relative. He also believed that morality is vigilant on the physical and that humans can be non-reductive physicalists and non-naturalists.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the concept of nihilism and how it can impact one's view of life. If nihilism is at the foundation of one's worldview, it becomes difficult to find any meaning in life.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Nietzsche argued that truth is not important for organisms and humans, and that meaning is subjective and relative. He also believed that morality is vigilant on the physical and that humans can be non-reductive physicalists and non-naturalists.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the concept of nihilism and how it can impact one's view of life. If nihilism is at the foundation of one's worldview, it becomes difficult to find any meaning in life.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

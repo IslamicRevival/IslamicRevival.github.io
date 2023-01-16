@@ -4,28 +4,27 @@
 
 ## Description
 
-Available as audio: https://soundcloud.com/sapienceinstitute/londoniyyah-part-35-final-nationalism-mohammed-hijab?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+Available as audio: <https://soundcloud.com/sapienceinstitute/londoniyyah-part-35-final-nationalism-mohammed-hijab?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing>
 —
 Help us educate and mentor others to share the faith academically.
-Donate now: https://sapienceinstitute.org/donate/ 
+Donate now: <https://sapienceinstitute.org/donate/>
 
-Free online courses: https://learn.sapienceinstitute.org/
+Free online courses: <https://learn.sapienceinstitute.org/>
 
-Free books: https://sapienceinstitute.org/books/
+Free books: <https://sapienceinstitute.org/books/>
 
-Have doubts? Book a mentor: https://sapienceinstitute.org/lighthouse/
+Have doubts? Book a mentor: <https://sapienceinstitute.org/lighthouse/>
 
-Listen (Podcast): https://sapienceinstitute.org/sapientvoices/
+Listen (Podcast): <https://sapienceinstitute.org/sapientvoices/>
 
 Follow:
-– Facebook: https://facebook.com/sapienceinstitute.org/ 
-– Twitter: https://twitter.com/SapienceOrg/ 
-– Instagram: https://instagram.com/sapienceinstitute/ 
+– Facebook: <https://facebook.com/sapienceinstitute.org/>
+– Twitter: <https://twitter.com/SapienceOrg/>
+– Instagram: <https://instagram.com/sapienceinstitute/>
 
-Articles, speaker requests & more: https://sapienceinstitute.org/
+Articles, speaker requests & more: <https://sapienceinstitute.org/>
 
 ## Summary of [Londoniyyah - Part 35 (Final) - Nationalism | Mohammed Hijab](https://www.youtube.com/watch?v=R1bE9gAmSG8)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -34,27 +33,30 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
  discusses the concept of nationalism and its various applications. Mohammed Hijab, a Pakistani boxer, discusses how he gets more support from English fans than Ricky Hatton, the current British boxing champion. He also discusses the issue of borders and how they are often arbitrary and based on subjective preferences. Another topic discussed is the concept of being an Egyptian, which is not limited to speaking Arabic or having Egyptian heritage. Finally, the video discusses the idea of making a nation, and how it can be difficult when one does not look or feel like the majority of the population.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** This Londoner talks about how he started recording videos two sessions a week to discuss the topic of nationalism and how it relates to Islam. He talks about the poem he wrote in Arabic language and how it is about the issues that affect Londoners, such as feminism, liberalism, materialism, and atheism. He encourages others to write poems and share them with the world.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  "Londoniyyah - Part 35 (Final) - Nationalism | Mohammed Hijab" covers the poem Londoner, which was created by Mohammed Hijab.  highlights the quick transformation that Mohammed Hijab made from a shy, mannered person to a discussion leader in an "invite-only" poetry class.  ends with a discussion of the importance of the poetry class and Mohammed Hijab's upcoming series on " equally important topics."
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Mohammed Hijab discusses nationalism and its various definitions. He explains that nationalism is a type of collectivism that is based on the idea of a nation, which is seen as beautiful. He goes on to say that this is why nationalism is a powerful tool, as it can help people achieve self-determination. He also discusses the importance of educating people about nationalism, as it is often misunderstood.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Mohammed Hijab discusses nationalism and its importance to human societies. He states that one's success on the "hierarchy of like physical attributes" is largely contingent on their ability to collaborate with others, and that this is especially true in fields such as sports. He goes on to say that the success of America as a superpower is due to its nationalistic values and the strong sense of identity that comes with them. He ends the video by saying that Islamic values also emphasize the importance of nationhood, though in a different way.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the complications associated with defining what it means to be a nation, citing examples of how tribalism can be a bigger problem than nationalism. He goes on to say that, as a Muslim, he identifies more with his country than with any other place and loves it more than any other. He concludes the talk by discussing the Islamic perspective on nationalism and how it differs from that of the Western world.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses the different ways in which ethnic groups are assimilated in different countries, and how this affects the way that Muslims are viewed in those countries.  also points out how the concept of 'assimilation' is a controversial one in the United States, where it is seen as a way of strengthening the nation's culture and identity.  then discusses how the same concept applies to England, where it is seen as a way of strengthening the nation's ties to its colonial past and its relationship with its various ethnic groups.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses the concept of nationalism and its various applications, including how it can be applied to the issue of borders. Mohammed Hijab, a Pakistani boxer, discusses how he gets more support from English fans than Ricky Hatton, the current British boxing champion. He also discusses the issue of borders and how they are often arbitrary and based on subjective preferences. Another topic discussed is the concept of being an Egyptian, which is not limited to speaking Arabic or having Egyptian heritage. Finally, the video discusses the idea of making a nation, and how it can be difficult when one does not look or feel like the majority of the population.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses the complicated history of nationalism and identity in East and South Africa, Somalia, and Egypt. It points out that defining who one's people are can be difficult, and that this can lead to conflicts and division. discusses how the Italian colonization of East and South Africa, Somalia, and Egypt led to the creation of different "tribes" of people who did not have any real connection to one another.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the complications associated with defining what it means to be a nation, citing examples of how tribalism can be a bigger problem than nationalism. He goes on to say that, as a Muslim, he identifies more with his country than with any other place and loves it more than any other. He concludes the talk by discussing the Islamic perspective on nationalism and how it differs from that of the Western world.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses the different ways in which ethnic groups are assimilated in different countries, and how this affects the way that Muslims are viewed in those countries.  also points out how the concept of 'assimilation' is a controversial one in the United States, where it is seen as a way of strengthening the nation's culture and identity.  then discusses how the same concept applies to England, where it is seen as a way of strengthening the nation's ties to its colonial past and its relationship with its various ethnic groups.
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses the concept of nationalism and its various applications, including how it can be applied to the issue of borders. Mohammed Hijab, a Pakistani boxer, discusses how he gets more support from English fans than Ricky Hatton, the current British boxing champion. He also discusses the issue of borders and how they are often arbitrary and based on subjective preferences. Another topic discussed is the concept of being an Egyptian, which is not limited to speaking Arabic or having Egyptian heritage. Finally, the video discusses the idea of making a nation, and how it can be difficult when one does not look or feel like the majority of the population.
+* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses the complicated history of nationalism and identity in East and South Africa, Somalia, and Egypt. It points out that defining who one's people are can be difficult, and that this can lead to conflicts and division. discusses how the Italian colonization of East and South Africa, Somalia, and Egypt led to the creation of different "tribes" of people who did not have any real connection to one another.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** The first argument for nationalism is that two groups of people with similar values should cooperate to protect their cultures and values. There is merit in this argument, but it must be justified first.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** argues that nationalism is not the best way to preserve language, culture, and other aspects of society, and that other methods are possible. He also points out that the assumption that a nation is the best protector of its citizens is often false, and that a nation can be defended better by being part of a larger, more powerful nation.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The four arguments presented in this video are: nationalism, collective self determination, the right to self defense, and the argument from the right to self-determination. Each argument has its own issues, but overall, the video argues that all of these issues are important and that Muslims should support them. Muslims have a religious obligation to support nationalism, collective self determination, the right to self defense, and the argument from the right to self-determination, but secularists, atheists, and feminists have the same obligation to support these arguments.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Essentially, this video argues that liberalism and nationalism are incompatible, especially when it comes to the value of human life. It goes on to say that America, as the dominant superpower, has replaced nationalism with a super nationalist program.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:30:00</a>
 
 In the final episode of the Londoniyyah series, Mohammed Hijab discusses the problems with nationalism and its effects on society. He also covers the Islamic stance on nationalism, concluding that it is not a necessary condition for success. This episode provides valuable information for students and viewers.
 
-**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>* Discusses the lack of African teams in the World Cup final, pointing out that this is because of a lack of nationalism in the African nations.  also discusses the idea of liberalism and nationalism, and how these ideologies can lead to arguments about who deserves to be catered to.  ends by saying that the argument from success is a weak one, and that nationalism is not a necessary condition for success.
+**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Discusses the lack of African teams in the World Cup final, pointing out that this is because of a lack of nationalism in the African nations.  also discusses the idea of liberalism and nationalism, and how these ideologies can lead to arguments about who deserves to be catered to.  ends by saying that the argument from success is a weak one, and that nationalism is not a necessary condition for success.
+
 * **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** The five things mentioned in the video are the Renaissance period, the Enlightenment period, the scientific revolution, the industrial revolution, and the discovery of new land. These five things led to western europeans becoming a superpower in various fields, including economics, technology, and science. However, after these things happened, Europe started to become dominated by the west and exploitation of other countries began.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>* Discusses how nationalism, which was one of the main contributors to the fall of the Ottoman Empire, destroyed the power of many nations within it. argues that if Islam did not enter the Arabian Peninsula, many of the African empires would be the most successful in human history.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>* Discusses the prophet Muhammad's statement that one can die at the death of jehelia if they are fighting for nationalism instead of Allah. It argues that this type of fighting is not jihad, and that pre-Islamic ignorance is the death of someone who dies in that state.
+* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Discusses how nationalism, which was one of the main contributors to the fall of the Ottoman Empire, destroyed the power of many nations within it. argues that if Islam did not enter the Arabian Peninsula, many of the African empires would be the most successful in human history.
+* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** Discusses the prophet Muhammad's statement that one can die at the death of jehelia if they are fighting for nationalism instead of Allah. It argues that this type of fighting is not jihad, and that pre-Islamic ignorance is the death of someone who dies in that state.
 * **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** is discussing how nationalism can be wrong reasons to fight in Islam, and how it can lead to negative consequences. He also warns against curses being directed towards Arabs, as this can lead to conflict.
-* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>* Discusses the successes of Islam due to its unique meta-tribe, the Ummah, which was created by Prophet Muhammad. Some people are antagonistic towards Islam, viewing it as a violent and supremacist religion, but others have a more positive view of it based on its teachings. Ross Rogers, an academic, discusses the success of Islam in terms of its meta-tribe, the Ummah, and the brilliance of its founder, Prophet Muhammad.
+* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** Discusses the successes of Islam due to its unique meta-tribe, the Ummah, which was created by Prophet Muhammad. Some people are antagonistic towards Islam, viewing it as a violent and supremacist religion, but others have a more positive view of it based on its teachings. Ross Rogers, an academic, discusses the success of Islam in terms of its meta-tribe, the Ummah, and the brilliance of its founder, Prophet Muhammad.
 * **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** Mohammed Hijab covers the topic of nationalism in this final episode of the Londoniyyah series. He discusses the problems with nationalism and its effects on society, while also discussing the Islamic stance on nationalism. This episode concludes the Londoniyyah series and provides valuable information for students and viewers.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

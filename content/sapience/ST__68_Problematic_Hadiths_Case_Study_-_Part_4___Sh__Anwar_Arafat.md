@@ -6,25 +6,24 @@ ST:#68 Problematic Hadiths Case Study - Part 4 | Sh. Anwar Arafat
 
 —
 Help us educate and mentor others to share the faith academically.
-Donate now: https://sapienceinstitute.org/donate/ 
+Donate now: <https://sapienceinstitute.org/donate/>
 
-Free online courses: https://learn.sapienceinstitute.org/
+Free online courses: <https://learn.sapienceinstitute.org/>
 
-Free books: https://sapienceinstitute.org/books/
+Free books: <https://sapienceinstitute.org/books/>
 
-Have doubts? Book a mentor: https://sapienceinstitute.org/lighthouse/
+Have doubts? Book a mentor: <https://sapienceinstitute.org/lighthouse/>
 
-Listen (Podcast): https://sapienceinstitute.org/sapientvoices/
+Listen (Podcast): <https://sapienceinstitute.org/sapientvoices/>
 
 Follow:
-– Facebook: https://facebook.com/sapienceinstitute.org/ 
-– Twitter: https://twitter.com/SapienceOrg/ 
-– Instagram: https://instagram.com/sapienceinstitute/ 
+– Facebook: <https://facebook.com/sapienceinstitute.org/>
+– Twitter: <https://twitter.com/SapienceOrg/>
+– Instagram: <https://instagram.com/sapienceinstitute/>
 
-Articles, speaker requests & more: https://sapienceinstitute.org/
+Articles, speaker requests & more: <https://sapienceinstitute.org/>
 
 ## Summary of [ST:#68 Problematic Hadiths Case Study - Part 4 | Sh. Anwar Arafat](https://www.youtube.com/watch?v=BBTSIv_Iuro)
-
 
 *
 
@@ -34,11 +33,12 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
 discusses the importance of taking the testimony of women in Islamic law. explains that generally, a woman's testimony is considered more reliable than a man's because she is more familiar with financial contracts. However, this does not always hold true in today's society, as there are now many women who are experts in this area. In the next episode, the speaker will discuss the implications of taking a woman's testimony in specific situations.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses a problematic hadith in detail, and provides a case for its veracity. It explains that the hadith refers to a special prayer that Muslims need to perform, and that the Prophet Muhammad warned women about the dangers of hellfire.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses a problematic hadith in which Prophet Muhammad supposedly says that women are deficient in their intellect and religion. He goes on to say that this hadith was misunderstood, as the first two points were not contested. He then clarifies that the hadith is referring to women's practice of religion, not their intellect. He concludes by saying that women can still be obedient to Allah and that their reward is not less than men's.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses a problematic hadith in detail, and provides a case for its veracity. It explains that the hadith refers to a special prayer that Muslims need to perform, and that the Prophet Muhammad warned women about the dangers of hellfire.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses a problematic hadith in which Prophet Muhammad supposedly says that women are deficient in their intellect and religion. He goes on to say that this hadith was misunderstood, as the first two points were not contested. He then clarifies that the hadith is referring to women's practice of religion, not their intellect. He concludes by saying that women can still be obedient to Allah and that their reward is not less than men's.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** This 1-paragraph summary discusses the traditional view among scholars that women are deficient in intellect and are not to pray or fast during their menses cycle. This view has changed in modern times, however, as more women have surpassed men in terms of intellectual capacities.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses a problem with hadiths, specifically those that prescribe a lesser intellectual burden for women. Modern scholars seem to agree that both are prescriptive, and that women were not generally experts in financial contracts fourteen hundred years ago. This is why the prophet, salallahu 'alayhi wasallam, allowed a woman to testify in her area of expertise, such as breastfeeding.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the importance of taking the testimony of women in Islamic law. explains that generally, a woman's testimony is considered more reliable than a man's because she is more familiar with financial contracts. However, this does not always hold true in today's society, as there are now many women who are experts in this area. In the next episode, the speaker will discuss the implications of taking a woman's testimony in specific situations.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses a problem with hadiths, specifically those that prescribe a lesser intellectual burden for women. Modern scholars seem to agree that both are prescriptive, and that women were not generally experts in financial contracts fourteen hundred years ago. This is why the prophet, salallahu 'alayhi wasallam, allowed a woman to testify in her area of expertise, such as breastfeeding.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the importance of taking the testimony of women in Islamic law. explains that generally, a woman's testimony is considered more reliable than a man's because she is more familiar with financial contracts. However, this does not always hold true in today's society, as there are now many women who are experts in this area. In the next episode, the speaker will discuss the implications of taking a woman's testimony in specific situations.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

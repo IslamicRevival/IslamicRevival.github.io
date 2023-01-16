@@ -2,12 +2,11 @@
 
 <iframe loading='lazy' src='https://www.youtube.com/embed/3PWiCVjrOXE'></iframe>## Description
 
-The first of a series of videos assessing the scientific miracle narrative propounded by many Daaee's . 
+The first of a series of videos assessing the scientific miracle narrative propounded by many Daaee's .
 
-Sheikh Abu Safiyyah Mohammed Osman's channel - http://youtube.com/c/AbuSafiyyahMohammedOsman
+Sheikh Abu Safiyyah Mohammed Osman's channel - <http://youtube.com/c/AbuSafiyyahMohammedOsman>
 
 ## Summary of [Reacting to Dr. Zakir Naik's Scientific Miracles #1](https://www.youtube.com/watch?v=3PWiCVjrOXE)
-
 
 *
 
@@ -17,10 +16,11 @@ Sheikh Abu Safiyyah Mohammed Osman's channel - http://youtube.com/c/AbuSafiyyahM
 
  discusses scientific miracles mentioned in the Quran, with a focus on the Big Bang theory. It goes through several scientific miracles claimed by Zakir Naik and suggests that Muslims use a watertight argument when debating these ideas.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses scientific miracles attributed to Quranic scripture, with focus on creation of the original universe. notes that the Big Bang theory can be found in Quranic scripture and that the modern day propagation of Zakir Naik's ideas has had a large impact on people. They go through several scientific miracles claimed by Zakir Naik, and conclude that these are all subject to criticism. They suggest that Muslims use a watertight argument when debating these ideas.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses scientific miracles attributed to Quranic scripture, with focus on creation of the original universe. notes that the Big Bang theory can be found in Quranic scripture and that the modern day propagation of Zakir Naik's ideas has had a large impact on people. They go through several scientific miracles claimed by Zakir Naik, and conclude that these are all subject to criticism. They suggest that Muslims use a watertight argument when debating these ideas.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Dr. Zakir Naik discusses some of the scientific miracles mentioned in the Quran, and how they could be interpreted. There is much disagreement amongst scholars as to which of these miracles are true, and which are just theories. Nonetheless, Dr. Naik insists that any of these miracles could be proven true through scientific observation.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The narrator discusses Dr. Zakir Naik's scientific miracles, and discusses how there are different interpretations of the verse. One possible interpretation is that the verse refers to the creation of the heavens and earth, and that after these creations were completed, the earth was spread out. Another possible interpretation is that the verse refers to the condition of the earth, and that it comes from one source.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses how Dr. Zakir Naik's scientific miracles could be interpreted in a way that is compatible with modern scientific discourse. It goes on to say that if one takes science as a good yardstick for truth, the Quran is the most closely correlated ancient religion to the scientific discourse.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses how Dr. Zakir Naik's scientific miracles could be interpreted in a way that is compatible with modern scientific discourse. It goes on to say that if one takes science as a good yardstick for truth, the Quran is the most closely correlated ancient religion to the scientific discourse.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** In this first episode of a two-part series, Dr. Zakir Naik talks about how science has discovered that there are bridges of matter in interstellar space, and that this plasma can be considered as the fourth type of matter. He also discusses how Geo Centricity (the belief that the rotations of the heavens and the earth are the most important thing) differs from traditional healers, and how it has been a source of controversy for some people.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

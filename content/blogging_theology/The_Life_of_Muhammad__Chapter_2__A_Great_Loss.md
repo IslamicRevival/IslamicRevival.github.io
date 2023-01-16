@@ -5,22 +5,21 @@
 ## Description
 
 You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
+<https://www.patreon.com/Bloggingtheology>
 
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
 Follow me on Instagram:
-https://www.instagram.com/bloggingtheology1
+<https://www.instagram.com/bloggingtheology1>
 
 Follow me on TikTok:
-https://www.tiktok.com/@bloggingtheology?lang=en
+<https://www.tiktok.com/@bloggingtheology?lang=en>
 
 Follow me on Twitter:
-https://twitter.com/freemonotheist
+<https://twitter.com/freemonotheist>
 
 ## Summary of [The Life of Muhammad ﷺ Chapter 2: A Great Loss](https://www.youtube.com/watch?v=neIA3U6x7vg)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 

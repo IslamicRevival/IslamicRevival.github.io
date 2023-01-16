@@ -4,7 +4,7 @@
 
 ## Description
 
-DONATE NOW: https://www.saveiman.com/fb?affiliate_id=3414212 ⬅
+DONATE NOW: <https://www.saveiman.com/fb?affiliate_id=3414212> ⬅
 
 The Prophet ﷺ said: “𝙒𝙝𝙤𝙚𝙫𝙚𝙧 𝙗𝙪𝙞𝙡𝙙𝙨 𝙖 𝙈𝙤𝙨𝙦𝙪𝙚 𝙛𝙤𝙧 𝘼𝙡𝙡𝙖𝙝, 𝘼𝙡𝙡𝙖𝙝 𝙬𝙞𝙡𝙡 𝙗𝙪𝙞𝙡𝙙 𝙛𝙤𝙧 𝙝𝙞𝙢 𝙖 𝙨𝙞𝙢𝙞𝙡𝙖𝙧 𝙝𝙤𝙪𝙨𝙚 𝙞𝙣 𝙅𝙖𝙣𝙣𝙖𝙝.”
 
@@ -14,15 +14,14 @@ If you support this project, you will in sha Allah get a house in Jannah and sha
 ✅ Making Dhikr!
 ✅ Memorizing the Qur’an!
 
-Please donate and help establish this Masjid and earn your reward ➡ https://www.saveiman.com/fb?affiliate_id=3414212 ⬅
+Please donate and help establish this Masjid and earn your reward ➡ <https://www.saveiman.com/fb?affiliate_id=3414212> ⬅
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+My book: <https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/>
 
 ## Summary of [Liberal Muslim Re-interpreting The Qur'an (Response)](https://www.youtube.com/watch?v=UwkiCC-gaVw)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -31,6 +30,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 This Muslim woman re-interprets the Qur'an to show how it can be applied to modern life, including the issue of slavery. She argues that the Quran contains enough guidance to show that slavery is wrong, and that liberalism is not necessary to reach this conclusion.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The self-proclaimed liberal Muslims in the video state that the Quran needs to be re-interpreted for the 21st century, and that it should be done in a way that doesn't allow for slavery. They also mention that liberalism is another religion with its own set of presuppositions.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** argues that Islam has a clear emancipatory discourse from the very beginning, and that slavery that existed then is nothing like what we're used to in the West. They also say that the prophet of Islam is completely absolved from slavery, and that the Quran is completely absolved from it. They go on to say that liberalism isn't necessary to know that slavery is wrong, and that there is enough guidance within the Quran, Sunnah, and tradition to make this conclusion.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** This Muslim woman interprets the Qur'an to show how it can be applied to modern life. She argues that the Lord is great, and that generosity is a way to show devotion to Him.
 

@@ -18,26 +18,26 @@
 25:16 - Philosophy of the mind & discussion on it
 30:07 - Issues with the Trinitarian mind analogy
 39:07 - Discussion on "The Father being the cause of the Son & Spirit"
-46:03 - Criticism of the Begetting of Divine Persons property 
+46:03 - Criticism of the Begetting of Divine Persons property
 52:33 - Issues with Aseity in the Nicene Creed
 1:05:21 - Michael's closing remarks on the Trinity
 1:09:24 - Historical Perspective of Michael's model of the Trinity
 1:12:14 - Will being a property of person vs nature
 1:14:06 - Discussion on Necessary Being & Aseity
-1:19:38 - Concluding Remarks & Wrapping Up 
+1:19:38 - Concluding Remarks & Wrapping Up
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -45,40 +45,39 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
-----------------------| 
+----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
-#trinity #philosophy
+# trinity #philosophy
 
 ## Summary of [SPECIAL: Discussion on the #Trinity with @InspiringPhilosophy](https://www.youtube.com/watch?v=hasgbxDiC24)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -87,26 +86,29 @@ Gmail: hello.tapodcast@gmail.com
 , philosopher Inspiring Philosophy discusses the concept of the Trinity with a student. He explains that the Trinity is a concept that is difficult to define, but he believes that it is something that is fundamental to idealism. He goes on to say that if we accept that there are three centers of self-consciousness within a single being, then we would have to accept that there are three substances within the Trinity.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Michael Jones discusses the problem of polytheism in Christianity with host Tap Thought Adventure.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses a possible problem with the doctrine of the Trinity- that it may be logically contradictory. argues that this can be addressed by studying philosophy of mind and showing that the trinity is not contradictory within its parameters.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the philosophical concept of 'agent' and how it can be difficult to define. Philosphers have different views on what an agent is, but ultimately all agree that an agent is a subject with the ability to act.  also discusses the debate surrounding the concept of free will, and how it can be difficult to say whether or not a person is morally responsible for their own actions. In the end, the video argues that there is one God who has three narrow senses of agency and a broad sense of agency.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  philosopher and author Michael Novak discusses the difference between the Trinity as understood in the Latin tradition and the social trinitarian model. Novak argues that the social trinitarian model is more faithful to scripture and provides a more coherent model of the Trinity.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** In the show "Moon Knight," a character with multiple personality disorder has three distinct centers of consciousness that coexist within one mind. In this way, the show provides an analogy for understanding a triune God, in which there are three distinct centers of consciousness that coexist within one being. Although they share the same broad sense of agency, each center of consciousness has its own thoughts, emotions, and experiences.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses the idea of a "triune god," or a god with three centers of consciousness. The discussion focuses on the difficulty of dividing mental parts into distinct entities, and the difficulty of understanding one's own agency within a broad sense. argues that, in practice, there is not a clear difference between our thoughts and those of a god who is omniscient.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>**  philosopher Inspiring Philosophy discusses the concept of the Trinity with a student. He explains that the Trinity is a concept that is difficult to define, but he believes that it is something that is fundamental to idealism. He goes on to say that if we accept that there are three centers of self-consciousness within a single being, then we would have to accept that there are three substances within the Trinity.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** , Philospher inspiring philosophy discusses the Trinity. He points out that there are three centers of consciousness in the Trinity, which is similar to the way that there are three centers of consciousness in his model of the moon night. However, there is a distinction between the Trinity and moon night in that the Trinity is a social concept while moon night is an individual concept. He also points out that while the Trinity has potential access to each other's consciousness, the individuals in the Trinity do not have identical experience.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Phil discusses the difference between god and creation, identifying the Father as the cause of the Son and the Spirit. He argues that if the Father has an essential intrinsic property of being able to generate another divine person, then the Son and Spirit do not share in this ability.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the possible concerns raised by Dr. Branson about the Trinity, specifically that an "infinite regress of persons" could occur if the sun and the spirit share the same intrinsic properties of being able to beget a divine person. Phil argues that the two properties - ability and causation - must be the same for the argument to hold, and that the sun does not act upon its ability because one of Dr. Branson's arguments is that the son has perfect goodness and omniscience which would prevent him from generating more than three divine persons.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** , philosopher and author Dr. Siduarda discusses the idea of the Trinity with Inspiring Philosophy host Phil. Siduarda argues that if it is possible for the sun to exist without a sadie, then the father must have that property in order to generate a spirit. He also notes that possession of the divine nature does not necessitate a sadie, and that if it doesn't, then the divine nature does not entail one. Phil asks Dr. Siduarda if he agrees with this, and Dr. Siduarda responds that he does, but that it's still an essential extrinsic property of the father.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  philosopher Siduardi talks about the possible worlds in which there is an assay rock, and argues that it is metaphysically possible. He also discusses how the offshoot of his position, that God is contingent, fits with Trinitarian theology.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses a possible problem with the doctrine of the Trinity- that it may be logically contradictory. argues that this can be addressed by studying philosophy of mind and showing that the trinity is not contradictory within its parameters.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the philosophical concept of 'agent' and how it can be difficult to define. Philosphers have different views on what an agent is, but ultimately all agree that an agent is a subject with the ability to act.  also discusses the debate surrounding the concept of free will, and how it can be difficult to say whether or not a person is morally responsible for their own actions. In the end, the video argues that there is one God who has three narrow senses of agency and a broad sense of agency.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  philosopher and author Michael Novak discusses the difference between the Trinity as understood in the Latin tradition and the social trinitarian model. Novak argues that the social trinitarian model is more faithful to scripture and provides a more coherent model of the Trinity.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** In the show "Moon Knight," a character with multiple personality disorder has three distinct centers of consciousness that coexist within one mind. In this way, the show provides an analogy for understanding a triune God, in which there are three distinct centers of consciousness that coexist within one being. Although they share the same broad sense of agency, each center of consciousness has its own thoughts, emotions, and experiences.
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses the idea of a "triune god," or a god with three centers of consciousness. The discussion focuses on the difficulty of dividing mental parts into distinct entities, and the difficulty of understanding one's own agency within a broad sense. argues that, in practice, there is not a clear difference between our thoughts and those of a god who is omniscient.
+- **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>**  philosopher Inspiring Philosophy discusses the concept of the Trinity with a student. He explains that the Trinity is a concept that is difficult to define, but he believes that it is something that is fundamental to idealism. He goes on to say that if we accept that there are three centers of self-consciousness within a single being, then we would have to accept that there are three substances within the Trinity.
+- **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** , Philospher inspiring philosophy discusses the Trinity. He points out that there are three centers of consciousness in the Trinity, which is similar to the way that there are three centers of consciousness in his model of the moon night. However, there is a distinction between the Trinity and moon night in that the Trinity is a social concept while moon night is an individual concept. He also points out that while the Trinity has potential access to each other's consciousness, the individuals in the Trinity do not have identical experience.
+- **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Phil discusses the difference between god and creation, identifying the Father as the cause of the Son and the Spirit. He argues that if the Father has an essential intrinsic property of being able to generate another divine person, then the Son and Spirit do not share in this ability.
+- **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Discusses the possible concerns raised by Dr. Branson about the Trinity, specifically that an "infinite regress of persons" could occur if the sun and the spirit share the same intrinsic properties of being able to beget a divine person. Phil argues that the two properties - ability and causation - must be the same for the argument to hold, and that the sun does not act upon its ability because one of Dr. Branson's arguments is that the son has perfect goodness and omniscience which would prevent him from generating more than three divine persons.
+- **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** , philosopher and author Dr. Siduarda discusses the idea of the Trinity with Inspiring Philosophy host Phil. Siduarda argues that if it is possible for the sun to exist without a sadie, then the father must have that property in order to generate a spirit. He also notes that possession of the divine nature does not necessitate a sadie, and that if it doesn't, then the divine nature does not entail one. Phil asks Dr. Siduarda if he agrees with this, and Dr. Siduarda responds that he does, but that it's still an essential extrinsic property of the father.
+- **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  philosopher Siduardi talks about the possible worlds in which there is an assay rock, and argues that it is metaphysically possible. He also discusses how the offshoot of his position, that God is contingent, fits with Trinitarian theology.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:20:00</a>
 
 discusses the philosophical possibility of a world in which a rock exists, and argues that if god exists in that world, then he would not be metaphysically necessary. He then goes on to discuss how society is a part of the nature of a thing, and how this could lead to disagreements about the nature of necessity. He ends by saying that he is not completely convinced that a saying has to be necessary in order to be a saying, but that at the very least, a saying entails necessity such that if a rock exists, it would be necessary.
 
-**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>* Discusses why it might be dumb luck that God is associated with nature rather than a rock, and argues that if there are metaphysical possibilities in which an assay rock exists, then God does not exist in every possible world.
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** of the video discusses the Trinity and its possible compatibility with multiple models. He takes inspiration from Christian scholars and philosophers for his model, but does not mention any specific names.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>**  Phil speaks about the three-fold nature of God - that there is one will in the Trinity, not three wills. He also discusses the idea of a necessary being, and how it might apply to the issue of God's existence. He argues that if a possible world has a rock that exists by itself, without any other objects, then God would not be metaphysically necessary, as he would not exist in that world.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>* Discusses the possible metaphysical possibility of a world in which a rock exists, and argues that if god exists in that world, then he would not be metaphysically necessary. He then goes on to discuss how society is a part of the nature of a thing, and how this could lead to disagreements about the nature of necessity. He ends by saying that he is not completely convinced that a saying has to be necessary in order to be a saying, but that at the very least, a saying entails necessity such that if a rock exists, it would be necessary.
-* **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>* Discusses the Trinity with Michael. He notes that objections to the Trinity are based on physical parameters, and says that he wants to explore the subject further.  ends with a tease for tomorrow's debate with Beau Branson.
+**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Discusses why it might be dumb luck that God is associated with nature rather than a rock, and argues that if there are metaphysical possibilities in which an assay rock exists, then God does not exist in every possible world.
+
+- **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** of the video discusses the Trinity and its possible compatibility with multiple models. He takes inspiration from Christian scholars and philosophers for his model, but does not mention any specific names.
+- **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>**  Phil speaks about the three-fold nature of God - that there is one will in the Trinity, not three wills. He also discusses the idea of a necessary being, and how it might apply to the issue of God's existence. He argues that if a possible world has a rock that exists by itself, without any other objects, then God would not be metaphysically necessary, as he would not exist in that world.
+- **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** Discusses the possible metaphysical possibility of a world in which a rock exists, and argues that if god exists in that world, then he would not be metaphysically necessary. He then goes on to discuss how society is a part of the nature of a thing, and how this could lead to disagreements about the nature of necessity. He ends by saying that he is not completely convinced that a saying has to be necessary in order to be a saying, but that at the very least, a saying entails necessity such that if a rock exists, it would be necessary.
+- **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** Discusses the Trinity with Michael. He notes that objections to the Trinity are based on physical parameters, and says that he wants to explore the subject further.  ends with a tease for tomorrow's debate with Beau Branson.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

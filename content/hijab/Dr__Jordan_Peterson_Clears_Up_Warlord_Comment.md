@@ -2,10 +2,9 @@
 
 <iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/v0qZCupZ2SU'></iframe>## Description
 
-Full Podcast Here: https://www.youtube.com/watch?v=qgYMuRqXPr0&t=3128s
+Full Podcast Here: <https://www.youtube.com/watch?v=qgYMuRqXPr0&t=3128s>
 
 ## Summary of [Dr. Jordan Peterson Clears Up Warlord Comment](https://www.youtube.com/watch?v=v0qZCupZ2SU)
-
 
 *
 
@@ -16,6 +15,7 @@ Full Podcast Here: https://www.youtube.com/watch?v=qgYMuRqXPr0&t=3128s
  Dr. Jordan Peterson discusses the Islamic conquest of Mecca and argues that Muhammad was not a warlord. He also argues that the expansion of the Islamic empire was accomplished through a tremendous amount of war-like activity.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Dr. Jordan Peterson discusses the wars that took place in the early Islamic period, specifically before the conquest of Mecca. He points out that most of these wars were defensive, and that after Muhammad's death, there was a great fracturing among the people who were closely allied with him. This led to the establishment of two major branches of Islam, and the beginning of a long period of armed conflict.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Dr. Jordan Peterson discusses the term "warlord." He argues that Muhammad was not a warlord, as he was able to conquer Mecca through peaceful means. He also argues that, historically, the expansion of the Islamic empire was accomplished through a tremendous amount of war-like activity.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Dr. Jordan Peterson discusses the problems of reconciling Islam's teachings of turning the other cheek and fighting only in self-defense with the reality of Islamic empires' expansive warfare. He argues that Islam has a capability of being expansive and making peace treaties, and that it should do whatever is in its best interest, just like every country should do in the pre-modern world.
 

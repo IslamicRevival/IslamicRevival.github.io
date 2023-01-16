@@ -9,13 +9,12 @@ Dr David Solomon Jalajel is a researcher with the Prince Sultan Research Institu
 In this video David speaks about Sunni Theological Hermeneutics. That is, he discusses the methodology that Muslim scholars in the classical Sunni tradition have used to interpret scripture for establishing matters of binding religious doctrine or Aqidah.
 
 You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
+<https://www.patreon.com/Bloggingtheology>
 
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
 ## Summary of [Sunni Theological Hermeneutics with Dr David Solomon Jalajel](https://www.youtube.com/watch?v=MPezdzuEqgo)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -24,6 +23,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 Sunni theological hermeneutics focuses on understanding possible meanings of the Quran. Dr. David Solomon Jalajel discusses the importance of being cautious and humble when approaching theological questions, and the usefulness of the concept of "suspension of judgment" in making decisions about religious matters.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The speaker discusses Sunni theological hermeneutics, emphasizing the importance of verses from the Quran that deal with the relationship between God and creation. He goes on to discuss other questions related to the nature and attributes of God.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Sunni theologians hold that what is known only by way of revelation (scripture) can be known with certainty, negating the ability of reason to dictate what has to be the case in the world. Abu Hamid al-Ghazali and Evantamia say that what is known only by way of revelation (scripture) is what is actualized in the real world, while Lazada discusses specific examples of what is only known by way of scripture (such as the resurrection). Finally, a later Ashrae theologian says that what is unseen, or what is not indicated by evidence, is knowledge only God knows.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Sunni theologians believe that only scripture can provide information about God's actions in the past and the future. They also believe that angels and jinn are possible to be seen and that god can be seen in the hereafter.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Sunni theological hermeneutics considers only authenticated texts to establish matters of belief, and all three schools oblige that meaning be the default assumption. Differences of opinion exist about which texts are firmly authenticated and which are not, and about what qualifies as a clear law.
@@ -35,11 +35,13 @@ Sunni theological hermeneutics focuses on understanding possible meanings of the
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Sunni theological Hermeneutics focuses on the nature and how to understand certain aspects of scriptures, such as the angels having wings and God's transcendence. There is disagreement among Sunni theologians on how often to apply this concept of deferment, but all agree that it exists. One difference between Sunni theology and other theological schools is that Sunni theology focuses on the attributes of a topic, while other schools focus on the topic itself.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Sunni theology is different from Islamic law, which relies on a suspension of judgment in cases of uncertainty. The hermeneutics of law involves navigating uncertainty, weighing evidence, and making decisions in the face of uncertainty.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  Dr. David Solomon Jalajel discusses Sunni theological hermeneutics, discussing how one should approach theological questions with caution and humility, and the importance of experts in these fields. He also touches on the concept of "suspension of judgment," discussing how it is often used in Islamic traditions and how it can be beneficial to Muslims.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:55:00</a>
 
 Sunni theological hermeneutics is a detailed and systematic approach to interpreting the Quran and Sunnah.  Dr. David Solomon Jalajel discusses the different ways in which reason does not help when it comes to understanding Scripture, and how focusing on what is mentioned in the text is a better approach. He also provides several examples from the Prophet Muhammad to illustrate his point.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Sunni theologians discuss whether Prophet Muhammad saw God during his Ascension to Heaven. Some argue that it did occur, while others argue that it didn't. There is no definitive evidence either way.
+
 * **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Abu Hanifa takes a non-committal stance on whether the jinn will be rewarded in the hereafter, with knowledge on the matter being reserved for God alone. A later maturity scholar says that unless god tells us about the jinn's rational status, we don't know.
 * **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Sunni theological scholar, Dr. David Solomon Jalajel, discusses the different possible interpretations of the Qur'an's mentions of Hell and Paradise. He argues that while the jinn are certain to receive paradise, the human's reward is to benefit from their garden and take shade under trees in the hereafter. He goes on to say that Persian is not a language of Hell, and that there is evidence that the companions never argued about the recompense of animals for their suffering in life.
 * **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** Sunni theologian Dr. David Solomon Jalajel discusses the various ways in which reason does not help when it comes to understanding Scripture. He suggests that instead of relying on reason, one should focus on what is mentioned in the text. Jalajel provides several examples from the Prophet Muhammad to illustrate his point.
@@ -48,6 +50,7 @@ Sunni theological hermeneutics is a detailed and systematic approach to interpre
 * **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** Sunnis believe that angels can disobey God, and that this is not mentioned in the Quran or Sunnah.
 
 The Sunni theological hermeneutics video discusses how interpretation of verses in the Quran and Sunnah can be ambiguous and subjective. Dr. David Solomon Jalajel discusses how the assumption that angels cannot disobey God is highly uncertain, and that there are several verses in the Quran and Sunnah which praise angels for obeying God.
+
 * **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** Sunni theological hermeneutics is explained in detail, with particular focus on the verse "Do not speak until I have spoken; and do not act on your own authority, but obey everything I command." Solomon Jalajel argues that, based on this verse, angels cannot disobey God, and therefore no praise of them is warranted. He also provides a linguistic argument demonstrating that an exception can be made for someone who does not share the attributes of a larger group. Finally, Solomon Jalajel argues that the mention of Satan in the Quran only serves to remind us that we do not need to know his full backstory in order to understand his role in the Fall.
 * **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** Sunni theologian Dr. David Solomon Jalajel discusses the differences between Sunni and Shia theology, and how these differences can impact one's understanding of Quranic verses. He also discusses the similarities between Sunni and Shia theology in terms of their respective positions on free will and the universe's beginning.
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** Sunni theologian Dr. David Solomon Jalajel discusses how certain verses in the Quran support the idea that the universe has a beginning, and that this beginning was created by God. Solomon also discusses how this idea conflicts with the idea that God is eternal, and that there are competing interpretations of these verses among Sunni Muslims. Solomon argues that these verses should not be used to argue that the universe has a beginning, as this is an assumption that is highly uncertain.

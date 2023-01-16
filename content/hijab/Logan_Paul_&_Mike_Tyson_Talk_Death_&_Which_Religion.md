@@ -4,18 +4,17 @@
 
 ## Description
 
-Visit https://www.naturesblends.com/ and use hijab10 for a 10% discount. 
+Visit <https://www.naturesblends.com/> and use hijab10 for a 10% discount.
 
-Free Forbidden Prophesies Book - https://iera.org/shop/forbidden-prophecy-download/
+Free Forbidden Prophesies Book - <https://iera.org/shop/forbidden-prophecy-download/>
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
-My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
+My book: <https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/>
 
 ## Summary of [Logan Paul & Mike Tyson Talk Death & Which Religion](https://www.youtube.com/watch?v=slgnG6xAkEU)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -24,6 +23,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 , Logan Paul and Mike Tyson discuss death and religion. Paul says that he is not afraid of death, and that he believes in Islam. Tyson says that he is an atheist and does not believe in any gods. They discuss which religious book is the correct one, and Paul says that the Quran is the word of God.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Logan Paul and Mike Tyson discuss death and religion in an interesting podcast. They discuss whether or not death is a fear for Logan Paul, and whether or not he believes in any religion. They also discuss which religious book is the correct one.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The Islamic tradition holds that the Quran is the word of God, and that it is completely preserved and free from contradictions. It also holds that prophecies of the future are evidence of its divine origin. Finally, it presents evidence from history that certain discoveries could not have been known without divine intervention.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Logan Paul and Mike Tyson discuss religion and death in this YouTube video. Paul says that Islam is the correct religion and that the Quran and Sunnah (traditions of the prophet) are guidance from God. Tyson says that he is an atheist and does not believe in any gods.
 

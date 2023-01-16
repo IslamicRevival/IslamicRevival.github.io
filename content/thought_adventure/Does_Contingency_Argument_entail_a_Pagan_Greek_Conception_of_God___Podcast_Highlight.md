@@ -5,17 +5,17 @@
 ## Description
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -23,38 +23,37 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
 ## Summary of [Does Contingency Argument entail a Pagan Greek Conception of God? | Podcast Highlight](https://www.youtube.com/watch?v=fVsoifMP0fQ)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -62,13 +61,14 @@ Gmail: hello.tapodcast@gmail.com
 
 The presenter discusses the idea of divine simplicity, which is the idea that the whole is prior to the parts. They discuss how this might be applied to the concept of God, and how a possible world in which God does not create anything would be a non-changing, non-time-based universe in which God is still necessary. then discusses the different models of God that people could hold, and how the correspondence theory of truth would entail at least one of these models being true.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the idea of divine simplicity, which is the idea that there is a fundamental reality that is either simple or just grounded in the fundamental reality which itself is simple. reflects on how his thinking on divine simplicity has changed over time and thinks that there may be non-fundamental attributes of the fundamental reality that is complex.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** a philosopher discusses his hypothesis that there are non-identical aspects to knowledge and power, and that this leads to the rejection of divine simplicity. Some Muslims watch the video with concern, believing that the argument against divine simplicity leads to the rejection of Islam.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Josh discusses the contingency argument and how it does not entail divine simplicity in the way many people conceive of it. He says that even in his own thinking, he is trying to leave open different models, including how to interpret Thomistic models.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The presenter discusses the idea of divine simplicity, which is the idea that the whole is prior to the parts. They discuss how this might be applied to the concept of God, and how a possible world in which God does not create anything would be a non-changing, non-time-based universe in which God is still necessary.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the difference between intrinsic and extrinsic properties of God, and how the necessary being could have contingent properties. He argues that the will of God is intrinsic, in that it is partially explained by God and also involves being a genuine agent.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses the distinction between necessary and contingent states, and how they relate to the correspondence theory of truth and divine simplicity.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses the different models of god that people could hold, and how the correspondence theory of truth would entail at least one of these models being true. He also discusses the idea that knowledge and power may be analogous concepts, and asks the author if he has any thoughts on the topic.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the idea of divine simplicity, which is the idea that there is a fundamental reality that is either simple or just grounded in the fundamental reality which itself is simple. reflects on how his thinking on divine simplicity has changed over time and thinks that there may be non-fundamental attributes of the fundamental reality that is complex.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** a philosopher discusses his hypothesis that there are non-identical aspects to knowledge and power, and that this leads to the rejection of divine simplicity. Some Muslims watch the video with concern, believing that the argument against divine simplicity leads to the rejection of Islam.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Josh discusses the contingency argument and how it does not entail divine simplicity in the way many people conceive of it. He says that even in his own thinking, he is trying to leave open different models, including how to interpret Thomistic models.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The presenter discusses the idea of divine simplicity, which is the idea that the whole is prior to the parts. They discuss how this might be applied to the concept of God, and how a possible world in which God does not create anything would be a non-changing, non-time-based universe in which God is still necessary.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the difference between intrinsic and extrinsic properties of God, and how the necessary being could have contingent properties. He argues that the will of God is intrinsic, in that it is partially explained by God and also involves being a genuine agent.
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses the distinction between necessary and contingent states, and how they relate to the correspondence theory of truth and divine simplicity.
+- **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses the different models of god that people could hold, and how the correspondence theory of truth would entail at least one of these models being true. He also discusses the idea that knowledge and power may be analogous concepts, and asks the author if he has any thoughts on the topic.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

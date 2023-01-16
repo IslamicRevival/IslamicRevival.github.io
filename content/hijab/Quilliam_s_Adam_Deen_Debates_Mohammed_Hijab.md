@@ -6,7 +6,6 @@ An interesting discussion on whether or not the Quilliam Foundation's aims are b
 
 ## Summary of [Quilliam's Adam Deen Debates Mohammed Hijab](https://www.youtube.com/watch?v=-Hi57tuW-OI)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:15:00</a>
@@ -14,6 +13,7 @@ An interesting discussion on whether or not the Quilliam Foundation's aims are b
 Adam Deen of Quilliam debates Mohammed Hijab on the implementation of Sharia law in Britain. Deen argues that it is necessary to implement Sharia law to prevent being absorbed by more powerful empires, and that the Islamic concept of jihad justifies violence against those who oppress Muslims.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Quilliam's Adam Deen argues that Mohammed Hijab does not have a place working together with traditionalists because they will not be convinced by post-enlightenment liberal views. He suggests that Muslims break their faster and ask Allah for guidance in order to divert themselves from extremism. Deen also argues that traditionalists have to work within the mainstream to be effective in countering extremism.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Quilliam's Adam Deen argues that Mohammed Hijab is a danger to society, and that the best way to deal with him is to engage with him and show him that our way of life works. He argues that it is permissible to kill a cat in Dar al-Harb, and that it is important to be aware of the context in which a hadith is said to be applicable.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Quilliam's Adam Deen argues that Islam was revealed and that there is no problem with it, but he disagrees with Mohammed Hijab's belief that Sharia law should be applied to non-Muslims in Britain. Deen believes that the Quran allows for a peaceful form of jihad, which is defensive, and that the life of this world is "occur to the a hair of texture for a little garnish is minor."
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Quilliam's Adam Deen debates Mohammed Hijab, in which Deen argues that implementing Sharia law in the context of pre-World War One Muslim empires was necessary to prevent being absorbed by more powerful empires. Deen also argues that the Islamic concept of jihad justifies violence against those who oppress Muslims.

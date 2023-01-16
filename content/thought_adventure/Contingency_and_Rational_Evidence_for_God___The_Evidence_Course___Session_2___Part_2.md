@@ -6,23 +6,22 @@
 
 Session 2 Part 2
 
-In an age of information overload and widespread pseudo-intellectualism, understanding the core foundations of Islam is as essential as ever. 
+In an age of information overload and widespread pseudo-intellectualism, understanding the core foundations of Islam is as essential as ever.
 
 This course comprehensively deconstructs the skeletal structure of prevalent ideologies and concepts such as atheism, scientism, materialism, secularism, and skepticism, in light of an all-encompassing intellectually robust Islamic worldview.
 
-
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -30,40 +29,39 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
-#Contigency #Kalam #EvidenceForGod
+# Contigency #Kalam #EvidenceForGod
 
 ## Summary of [Contingency and Rational Evidence for God | The Evidence Course | Session 2 / Part 2](https://www.youtube.com/watch?v=_jOj2QylBww)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -71,11 +69,12 @@ Gmail: hello.tapodcast@gmail.com
 
  discusses the concept of contingency and how it applies to the existence of beings in the universe. It concludes that an infinite, independent, and necessary being must exist in order for anything to exist at all.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the concept of contingency, which refers to something being in a possible state rather than in a certain state. The examples given illustrate how something can change its state without necessarily needing a cause, and how something can exist but not have a certain property. The table is an example of something that exists but is not limited by its material components.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the concept of contingency, which refers to something that has a possible existence that is not determined by its components or attributes.  explains that, in order to identify a particular possible being, something else must be necessary for its existence. The example given is of a red triangle, which requires three sides to exist but could be any color.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the idea that things in the universe are contingent, which means that they could be arranged in another way. It also discusses the idea that things in the universe are dependent upon something else for their own existence.  finishes by discussing the big bang and how it is a possible reality that could exist in another way.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the four potential possibilities for how something could come from nothing, and concludes that an infinite regression is impossible. This means that for something to exist, it must have a beginning, which means that nothing exists.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>**  the presenter discusses how the existence of contingent beings can be explained, ultimately referring to an infinite, independent, and necessary being as the cause.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the concept of contingency, which refers to something being in a possible state rather than in a certain state. The examples given illustrate how something can change its state without necessarily needing a cause, and how something can exist but not have a certain property. The table is an example of something that exists but is not limited by its material components.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the concept of contingency, which refers to something that has a possible existence that is not determined by its components or attributes.  explains that, in order to identify a particular possible being, something else must be necessary for its existence. The example given is of a red triangle, which requires three sides to exist but could be any color.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the idea that things in the universe are contingent, which means that they could be arranged in another way. It also discusses the idea that things in the universe are dependent upon something else for their own existence.  finishes by discussing the big bang and how it is a possible reality that could exist in another way.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the four potential possibilities for how something could come from nothing, and concludes that an infinite regression is impossible. This means that for something to exist, it must have a beginning, which means that nothing exists.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>**  the presenter discusses how the existence of contingent beings can be explained, ultimately referring to an infinite, independent, and necessary being as the cause.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

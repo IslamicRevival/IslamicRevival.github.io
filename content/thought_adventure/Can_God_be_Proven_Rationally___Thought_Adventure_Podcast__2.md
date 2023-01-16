@@ -7,27 +7,28 @@
 On Sunday 1/31/21 at 2pm EST/7pm UK time we will be having our second episode of the Thought Adventure Podcast (TAP). The topic will be, "Can God Be Proven Rationally?". Call in live to discuss the topic with the panelists Yusuf Ponders, Sharif Abu Laith, Abdul, and The Muslim Metaphysician. Don't forget to like, comment, subscribe, and share this channel to help support this podcast :)
 
 0:00       Introduction and  Arguments
-- Guests - 
+
+- Guests -
 27:10     Edin (Muslim)
 45:42     Justin (Atheist)
 1:43:28  Saleh (Muslim)
 1:55:57  Mo El (Muslim)
 2:03:17  Mustahsin (Muslim)
 - Summary -
-2:25:53 Final Thoughts 
+2:25:53 Final Thoughts
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -35,41 +36,39 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
-
-#rationality #islam #god
+# rationality #islam #god
 
 ## Summary of [Can God be Proven Rationally? | Thought Adventure Podcast #2](https://www.youtube.com/watch?v=X-19SfRhwZA)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -78,45 +77,51 @@ Gmail: hello.tapodcast@gmail.com
 discusses the possibility of rationally proving the existence of God.  presents the Kalam Cosmological Argument and Imam Ghazali's argument, and concludes that atheists are free to present their own methods of proof if they wish.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** of the video discusses the possibility of proving that God exists through rational means. They present the Kalam Cosmological Argument, which states that whatever begins to exist has a cause. They discuss how the first premise is an obvious truth that atheists often miss. Imam Ghazali's argument is based on the absurdity of an eternal universe. concludes the stream by mentioning that atheists are free to present their own methods of proving the existence of God if they so desire.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** argues that there is evidence for God from mathematics and modern scientific theories, including Big Bang cosmology and the concept of multiple infinites. points out that there can't be multiple infinites in reality because they would be limited by rules of mathematics. He argues that when talking to atheists, it's important to be clear that we're talking about theoretical concepts and that they should not try to apply them to reality.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the concept of the infinite regress, and how it can be a bit superfluous. He points out that dependency falls into this category, and discusses how it applies to everything from a small set of things to a galaxy. He concludes by saying that it's important to focus on what's being discussed, rather than getting bogged down in the infinite regress.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses three arguments for the existence of God: the cosmological, the ontological, and the contingency argument. He argues that the contingency argument is the best because it undercuts many of the objections raised against the other two arguments.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the Argument from Contingency, which states that if a series of events is contingent, then there is a need for an external explanation for why they exist.  also discusses the Fallacy of Composition, which is an objection to the argument that because a series of contingent events requires an external explanation, then the series itself is contingent.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** The Thought Adventure Podcast discusses the possibility of God being proven rationally. First, there is the stage one contingency argument which is aimed at showing that there is something necessary that does not necessarily have to be God. Stage two contingency arguments try to infer from this necessary being to God. Atheists may find the stage one of the contingency argument appealing, and so they accept it. However, there is a stage two contingency argument which argues that the necessary thing does not necessarily have to be God. This is a difficult argument to refute, and so it is a large conversation. One question the host asked was if someone were to do a stream on morality, could the guest also do a stream on islamic morality from a utilitarian perspective.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** The rational proof of God is that, under certain world views, it makes sense to call something an "independent being" or "necessary being." This is because something that exists by its own being cannot cease to exist.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Atheists argue that it is not necessary for something to exist in order for it to be explained, and that all contingent beings can be explained by a necessary being.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses how living in a hostile environment can make it difficult to communicate with others, but they still try to do so. They explain that their brother, Joseph, is also their brother, Yusuf, and that they need everyone here for an operation.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** In this Thought Adventure podcast, brothers Justin and Masha'allah discuss the possibility of God being proven rationally. Justin explains that there are logical arguments for and against a particular god model, and that he is convinced based on certain steps taken towards that argument.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses how empirical data can be used to infer things about the fundamental layer of reality. He argues that if we observe contingent things, then we must assume causality is presupposed. This is empirical and therefore, we are no longer within empiricism. then explains how we can move from contingent things to a necessary thing.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the principle of sufficient reason, which states that there must be an external explanation for every contingent thing in the universe. If this principle is true, then it is logically necessary that everything that exists is independent.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** argues that there is evidence for God from mathematics and modern scientific theories, including Big Bang cosmology and the concept of multiple infinites. points out that there can't be multiple infinites in reality because they would be limited by rules of mathematics. He argues that when talking to atheists, it's important to be clear that we're talking about theoretical concepts and that they should not try to apply them to reality.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the concept of the infinite regress, and how it can be a bit superfluous. He points out that dependency falls into this category, and discusses how it applies to everything from a small set of things to a galaxy. He concludes by saying that it's important to focus on what's being discussed, rather than getting bogged down in the infinite regress.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses three arguments for the existence of God: the cosmological, the ontological, and the contingency argument. He argues that the contingency argument is the best because it undercuts many of the objections raised against the other two arguments.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the Argument from Contingency, which states that if a series of events is contingent, then there is a need for an external explanation for why they exist.  also discusses the Fallacy of Composition, which is an objection to the argument that because a series of contingent events requires an external explanation, then the series itself is contingent.
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** The Thought Adventure Podcast discusses the possibility of God being proven rationally. First, there is the stage one contingency argument which is aimed at showing that there is something necessary that does not necessarily have to be God. Stage two contingency arguments try to infer from this necessary being to God. Atheists may find the stage one of the contingency argument appealing, and so they accept it. However, there is a stage two contingency argument which argues that the necessary thing does not necessarily have to be God. This is a difficult argument to refute, and so it is a large conversation. One question the host asked was if someone were to do a stream on morality, could the guest also do a stream on islamic morality from a utilitarian perspective.
+- **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** The rational proof of God is that, under certain world views, it makes sense to call something an "independent being" or "necessary being." This is because something that exists by its own being cannot cease to exist.
+- **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Atheists argue that it is not necessary for something to exist in order for it to be explained, and that all contingent beings can be explained by a necessary being.
+- **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses how living in a hostile environment can make it difficult to communicate with others, but they still try to do so. They explain that their brother, Joseph, is also their brother, Yusuf, and that they need everyone here for an operation.
+- **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** In this Thought Adventure podcast, brothers Justin and Masha'allah discuss the possibility of God being proven rationally. Justin explains that there are logical arguments for and against a particular god model, and that he is convinced based on certain steps taken towards that argument.
+- **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Discusses how empirical data can be used to infer things about the fundamental layer of reality. He argues that if we observe contingent things, then we must assume causality is presupposed. This is empirical and therefore, we are no longer within empiricism. then explains how we can move from contingent things to a necessary thing.
+- **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Discusses the principle of sufficient reason, which states that there must be an external explanation for every contingent thing in the universe. If this principle is true, then it is logically necessary that everything that exists is independent.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
 The hosts of the Thought Adventure podcast discuss the idea that it is possible to rationally argue for the existence of God. They mention that there are arguments for and against evolution based on its truthfulness. If evolution is true, then it would seem that the most successful being would be based on truth. However, if evolution is not true, then science would be in conflict with its own goals.
 
-**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>* Discusses the first stage of the contingency argument, which states that something within reality is necessary for existence.  explains that this something is necessary in a way that is not completely determined, and that this necessity leads to the conclusion that there is a necessary being. This being is said to provide the necessary explanation for everything within the universe, and therefore it must exist.
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** The presenter argues that it is rational to believe that there is a necessary being in existence with a will that is independent of external factors. However, they note that they do not know enough about quantum indeterminacy to fully discuss the issue.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Euston gives a philosophical argument for the idea that God can be proven rationally. He argues that something that is necessary must also be free, and that because God is necessary and infinite, he possesses all of the necessary properties to bring about the existence of the contingent world. If this were not the case, then a being with all of these properties would not need free will, which would be a problem.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** The first argument for the existence of God is that there is a need for an explanation for contingent beings, which require a choice to exist. From an epistemic viewpoint, this choice must be made by a necessary being. The second argument is that, from an ontological viewpoint, everything must have a cause. Without a cause for contingent beings, there can be no explanation for their existence.
-* **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>* Discusses how, when attempting to explain the natural world, scientists must always be aware of the limitations of their knowledge. He suggests that the least arbitrary necessary foundation of reality is something that is unlimited and does not have a contingent nature.
-* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** argues that science can only determine what is necessary from a philosophical and logical point of view, and that if something does not make sense philosophically or logically, then scientists must use empirical means to explore it.
-* **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** The Thought Adventure Podcast discusses whether or not it is reasonable to believe in an unembodied mind. The podcast discusses the concept of a 'necessary foundation of reality,' which is something that exists but we cannot conceive of its nature. The podcast argues that even if a mind exists outside of a physical brain, it still needs to be explained.
-* **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** defines " rationality" as the ability of a human being to make deductions based on logically connected statements. He says that this attribute is necessary for the existence of God, as God must necessarily exist for rationality to be possible.
-* **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>* Discusses the idea that if you can prove rationally that God exists, then it is necessarily the case that God exists. It goes on to discuss the idea that using rational arguments to disprove the existence of God is impossible because if you have already proven that God exists, then any rational argument against that would ultimately fail.
-* **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** The three main arguments for the belief in God are that human beings are born with the ability to think rationally, that the idea of God is not something that can be automatically developed, and that all children have a innate desire to worship a creator.
+**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Discusses the first stage of the contingency argument, which states that something within reality is necessary for existence.  explains that this something is necessary in a way that is not completely determined, and that this necessity leads to the conclusion that there is a necessary being. This being is said to provide the necessary explanation for everything within the universe, and therefore it must exist.
+
+- **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** The presenter argues that it is rational to believe that there is a necessary being in existence with a will that is independent of external factors. However, they note that they do not know enough about quantum indeterminacy to fully discuss the issue.
+- **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Euston gives a philosophical argument for the idea that God can be proven rationally. He argues that something that is necessary must also be free, and that because God is necessary and infinite, he possesses all of the necessary properties to bring about the existence of the contingent world. If this were not the case, then a being with all of these properties would not need free will, which would be a problem.
+- **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** The first argument for the existence of God is that there is a need for an explanation for contingent beings, which require a choice to exist. From an epistemic viewpoint, this choice must be made by a necessary being. The second argument is that, from an ontological viewpoint, everything must have a cause. Without a cause for contingent beings, there can be no explanation for their existence.
+- **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** Discusses how, when attempting to explain the natural world, scientists must always be aware of the limitations of their knowledge. He suggests that the least arbitrary necessary foundation of reality is something that is unlimited and does not have a contingent nature.
+- **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** argues that science can only determine what is necessary from a philosophical and logical point of view, and that if something does not make sense philosophically or logically, then scientists must use empirical means to explore it.
+- **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** The Thought Adventure Podcast discusses whether or not it is reasonable to believe in an unembodied mind. The podcast discusses the concept of a 'necessary foundation of reality,' which is something that exists but we cannot conceive of its nature. The podcast argues that even if a mind exists outside of a physical brain, it still needs to be explained.
+- **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** defines " rationality" as the ability of a human being to make deductions based on logically connected statements. He says that this attribute is necessary for the existence of God, as God must necessarily exist for rationality to be possible.
+- **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** Discusses the idea that if you can prove rationally that God exists, then it is necessarily the case that God exists. It goes on to discuss the idea that using rational arguments to disprove the existence of God is impossible because if you have already proven that God exists, then any rational argument against that would ultimately fail.
+- **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** The three main arguments for the belief in God are that human beings are born with the ability to think rationally, that the idea of God is not something that can be automatically developed, and that all children have a innate desire to worship a creator.
 
 The article from which the summary was taken argues that religious beliefs are not inherited or given to children, and that this idea of a being or creator is something that is inherent in human beings from a very early age.
-* **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** The presenter discusses how a rational argument for the existence of a Creator who has a will and chooses to create the universe can be used to argue that all aspects of existence, including human beings, are ultimately created by the Creator.
-* **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>**  the Thought Adventure podcast discusses whether or not God can be proven rationally. Hosts discuss how a person's worldview determines how they answer this question. They also mention that there are arguments for and against evolution based on its truthfulness. If evolution is true, then it would seem that the most successful being would be based on truth. However, if evolution is not true, then science would be in conflict with its own goals.
+
+- **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** The presenter discusses how a rational argument for the existence of a Creator who has a will and chooses to create the universe can be used to argue that all aspects of existence, including human beings, are ultimately created by the Creator.
+- **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>**  the Thought Adventure podcast discusses whether or not God can be proven rationally. Hosts discuss how a person's worldview determines how they answer this question. They also mention that there are arguments for and against evolution based on its truthfulness. If evolution is true, then it would seem that the most successful being would be based on truth. However, if evolution is not true, then science would be in conflict with its own goals.
+
 ### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:25:00</a>
 
 "Can God be Proven Rationally? | Thought Adventure Podcast #2", two atheist thinkers discuss the concept of fitzroy, or innate knowledge that leads one to believe in God. One argues that this knowledge cannot be learned through experience, while the other argues that it can. Finally, the hidden brother who does all the graphics on the channel says thank you to Giuseppe for all his hard work.
 
 **<a onclick="modifyYTiframeseektime('7200')">02:00:00</a>** , Seek Truth, two atheist thinkers discuss the concept of fitzroy, or innate knowledge that leads one to believe in God. One argues that this knowledge cannot be learned through experience, while the other argues that it can. Finally, the hidden brother who does all the graphics on the channel says thank you to Giuseppe for all his hard work.
-* **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>* Discusses an academic study that found that children, even those raised by atheists, believe in a creator. The study also found that children believe this creator is usually anthropomorphic, or a man. If someone believes in this creator, they are calling to monotheism.
-* **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>** Claims that there has never been a society without religious belief are false, according to Richard Dawkins. People are naturally inclined towards spirituality and belief in a higher power, and this inclination is rooted in monotheism.
-* **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>** Brother Hanif argues that the Quran and other religious texts should be based on rational arguments, not simply on an innate feeling or intuition.
-* **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>* Discusses the rational argument that contingent beings (such as paintings) cannot be explained without something external to them (such as a painter). If we discount an infinite regress, then we must conclude that the only way to explain contingent beings is with a creator.
-* **<a onclick="modifyYTiframeseektime('8700')">02:25:00</a>** The Thought Adventure Podcast discusses the idea of whether or not it can be proven rationally that there is a God. The atheists who have tried to muddy the discussion are mentioned, and one of the basic arguments used to argue for the existence of God is explained. The painting example is used to explain the concept. The idea of a contingent possible being is introduced, and the necessary and independent existence of a Creator is proven. A Facebook group is created to help organize discussions and help Brother Mustachin with his job of sorting the Facebook timeline. Everyone is encouraged to take the shahada and to accept Islam as a religion. Comments are requested, and people are encouraged to engage with the podcast and other believers.
+
+- **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>** Discusses an academic study that found that children, even those raised by atheists, believe in a creator. The study also found that children believe this creator is usually anthropomorphic, or a man. If someone believes in this creator, they are calling to monotheism.
+- **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>** Claims that there has never been a society without religious belief are false, according to Richard Dawkins. People are naturally inclined towards spirituality and belief in a higher power, and this inclination is rooted in monotheism.
+- **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>** Brother Hanif argues that the Quran and other religious texts should be based on rational arguments, not simply on an innate feeling or intuition.
+- **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>** Discusses the rational argument that contingent beings (such as paintings) cannot be explained without something external to them (such as a painter). If we discount an infinite regress, then we must conclude that the only way to explain contingent beings is with a creator.
+- **<a onclick="modifyYTiframeseektime('8700')">02:25:00</a>** The Thought Adventure Podcast discusses the idea of whether or not it can be proven rationally that there is a God. The atheists who have tried to muddy the discussion are mentioned, and one of the basic arguments used to argue for the existence of God is explained. The painting example is used to explain the concept. The idea of a contingent possible being is introduced, and the necessary and independent existence of a Creator is proven. A Facebook group is created to help organize discussions and help Brother Mustachin with his job of sorting the Facebook timeline. Everyone is encouraged to take the shahada and to accept Islam as a religion. Comments are requested, and people are encouraged to engage with the podcast and other believers.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

@@ -6,9 +6,9 @@
 
 Londoniyyah - Part 2 -  Naturalism, Materialism | Mohammed Hijab
 
-
-To be updated about our content please subscribe and open the notifications.
+To be updated about our content please subscribe and open the notifications
 ----
+
 BOOK A LIGHTHOUSE MENTOR
 
 Are you or someone you know doubting Islam? Do you find yourself struggling to find answers?  Do you have a hard time speaking to someone about Islam?  Are you considering Islam but are unsure about certain concepts?  Are you an activist, Imam or community leader who is unsure about how to handle questions related to science, philosophy, the Islamic moral code, etc.?
@@ -17,12 +17,11 @@ You are not alone.  Over the course of the last decade or more there has been a 
 
 Seeing the rise of  this phenomenon , Sapience Institute is introducing a One to One mentoring service called LIGHTHOUSE.
 
-BOOK A MENTOR HERE: https://sapienceinstitute.org/lighthouse/
+BOOK A MENTOR HERE: <https://sapienceinstitute.org/lighthouse/>
 
-VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: https://sapienceinstitute.org/
+VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: <https://sapienceinstitute.org/>
 
 ## Summary of [Londoniyyah - Part 2 - Naturalism, Materialism | Mohammed Hijab](https://www.youtube.com/watch?v=leoNNkpoYPg)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -31,13 +30,14 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
  Mohammed Hijab discusses the differences between materialism and naturalism. He explains that while materialism is the assumption that everything is material, naturalism is the assumption that we don't assume that god exists when we do scientific experiments. He also discusses the different strands of materialism, including emergent materialism, reductive materialism, functionalism, and logical positivism. He also discusses the arguments against materialism and how morality is inaccessible to materialists. Finally, he talks about how robots and artificial intelligence are good examples of materialism in action.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  Mohammed Hijab discusses the various definitions of materialism and physicalism. He explains that physicalism is necessitated by or supervenes on the physical, and that ontological naturalism is a claim about the world that is very similar to materialism. He also discusses the difference between ontological naturalism and methodological naturalism.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the difference between ontological and metaphysical naturalism, and stresses the importance of methodological naturalism in science. John Lennox, a philosopher, was able to stop a new atheist in his tracks by pointing out that they were conflating the categories. Materialism and physicalism are used interchangeably, and in the philosophy of the mind discourse, materialism is basically the belief that everything is physical.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the difference between ontological and metaphysical naturalism, and stresses the importance of methodological naturalism in science. John Lennox, a philosopher, was able to stop a new atheist in his tracks by pointing out that they were conflating the categories. Materialism and physicalism are used interchangeably, and in the philosophy of the mind discourse, materialism is basically the belief that everything is physical.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  Mohammed Hijab discusses the difference between physicalism and materialism. He explains that physicalism is the belief that everything, including our consciousness, is explained through physical processes. Materialism, in contrast, asserts that only material things exist and that nothing else – including consciousness – can exist. Finally, he explains two types of naturalism – eliminative materialism and eliminative materialism. Eliminative materialism eliminates all possibilities except for material things, while emergent materialism asserts that consciousness emerges from materialism.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Logical positivism is a school of thought that posits that anything that is not measurable is meaningless. When confronted with evidence that contradicts this theory, many positivists changed their minds.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the history of the scientific method, logical positivism, and the principle of verification. It argues that if something is not empirically justified, it is meaningless.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses the philosophical differences between materialism and dualism. The materialist believes that everything is physical, while the dualist believes that the mind and body are separate. Descartes came to the idea of dualism after doubting everything else.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the history of the scientific method, logical positivism, and the principle of verification. It argues that if something is not empirically justified, it is meaningless.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses the philosophical differences between materialism and dualism. The materialist believes that everything is physical, while the dualist believes that the mind and body are separate. Descartes came to the idea of dualism after doubting everything else.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>**  Mohammed Hijab discusses the three schools of thought on the relationship between consciousness and the body: materialism, dualism, and idealism. He also touches on the issue of solipsism, which is the philosophical position that says that only one's own self exists. He concludes by noting that it is difficult to assume a neutral standpoint before tackling the question of how consciousness affects water.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses the problem of first person experience being able to be understood or explained by third parties. It goes on to discuss the idea of materialism and how it is a problem because it presupposes a third person to experience reality. It concludes by discussing the idea of consciousness and how it is possible for a robot to have it, even if it is not explicitly stated.
+* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses the problem of first person experience being able to be understood or explained by third parties. It goes on to discuss the idea of materialism and how it is a problem because it presupposes a third person to experience reality. It concludes by discussing the idea of consciousness and how it is possible for a robot to have it, even if it is not explicitly stated.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** The philosopher William Haskell argues that there is a difference between syntax and semantics - syntax is the words that are being used, and semantics is what the speaker means by those words. He makes the point that even a robot with communicative intentionality cannot have intentionality because it requires an input which has a loop and a conditional. This is important because in the future discussions about artificial intelligence will involve considerations of rights for machines.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  Mohammed Hijab discusses the differences between materialism and naturalism. He explains that while materialism is the assumption that everything is material, naturalism is the assumption that we don't assume that god exists when we do scientific experiments. He also discusses the different strands of materialism, including emergent materialism, reductive materialism, functionalism, and logical positivism. He also discusses the arguments against materialism and how morality is inaccessible to materialists. Finally, he talks about how robots and artificial intelligence are good examples of materialism in action.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** argues that, if one is a materialist or physicalist, then any attempt to create a higher order morality is impossible, as morality is an illusion. also points out that, if one is a feminist, materialist, or liberal, then they must make a priori distinctions in order to make an argument, as these moral philosophies don't fit under a microscope.

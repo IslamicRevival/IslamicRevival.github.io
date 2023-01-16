@@ -6,21 +6,21 @@
 
 Sesson 3 Part 2
 
-In an age of information overload and widespread pseudo-intellectualism, understanding the core foundations of Islam is as essential as ever. 
+In an age of information overload and widespread pseudo-intellectualism, understanding the core foundations of Islam is as essential as ever.
 
 This course comprehensively deconstructs the skeletal structure of prevalent ideologies and concepts such as atheism, scientism, materialism, secularism, and skepticism, in light of an all-encompassing intellectually robust Islamic worldview.
 
 Thought Adventure Support
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media:
 
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -30,40 +30,41 @@ Thought Adventure Social Media:
 
 Jake, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
 - Youtube: [TBC]
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]Thought Adventure Support
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
+
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -71,40 +72,39 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
-#bigbang #islam #science
+# bigbang #islam #science
 
 ## Summary of [What caused the Big Bang? | The Evidence Course | Session 3 / Part 2](https://www.youtube.com/watch?v=Fnbwkib8FTM)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -112,10 +112,11 @@ Gmail: hello.tapodcast@gmail.com
 
  discusses the argument that asks what caused the Big Bang, and how it goes against the theory that the universe has always existed. It points out that this question assumes that time existed before the Big Bang, and therefore it can't be answered. Some atheists have attempted to propose other explanations for the Big Bang, but all of them ultimately lead to the conclusion that a creator exists.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the argument that asks what caused the Big Bang, and how it goes against the theory that the universe has always existed. It points out that this question assumes that time existed before the Big Bang, and therefore it can't be answered. Some atheists have attempted to propose other explanations for the Big Bang, but all of them ultimately lead to the conclusion that a creator exists.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** argues that you can't ask what caused the Big Bang because you presuppose time existed before the Big Bang. He then goes on to argue that even Roger Penrose, a proponent of this argument, has later changed his mind and accepts that there was a cause for the Big Bang.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  various physicists discuss the evidence for what caused the Big Bang. All of them agree that something existed before the Big Bang, and that it may have been another universe. They also debate the idea that the Big Bang came from a pre-existing state. Finally, they discuss time and how it exists as a product of the universe.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses what caused the Big Bang, and concludes that an "independent necessary being" must exist.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the argument that asks what caused the Big Bang, and how it goes against the theory that the universe has always existed. It points out that this question assumes that time existed before the Big Bang, and therefore it can't be answered. Some atheists have attempted to propose other explanations for the Big Bang, but all of them ultimately lead to the conclusion that a creator exists.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** argues that you can't ask what caused the Big Bang because you presuppose time existed before the Big Bang. He then goes on to argue that even Roger Penrose, a proponent of this argument, has later changed his mind and accepts that there was a cause for the Big Bang.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  various physicists discuss the evidence for what caused the Big Bang. All of them agree that something existed before the Big Bang, and that it may have been another universe. They also debate the idea that the Big Bang came from a pre-existing state. Finally, they discuss time and how it exists as a product of the universe.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses what caused the Big Bang, and concludes that an "independent necessary being" must exist.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

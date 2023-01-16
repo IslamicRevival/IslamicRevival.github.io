@@ -6,25 +6,24 @@ Problematic Hadiths Case Study - Part 1 | Sh. Anwar Arafat
 
 —
 Help us educate and mentor others to share the faith academically.
-Donate now: https://sapienceinstitute.org/donate/ 
+Donate now: <https://sapienceinstitute.org/donate/>
 
-Free online courses: https://learn.sapienceinstitute.org/
+Free online courses: <https://learn.sapienceinstitute.org/>
 
-Free books: https://sapienceinstitute.org/books/
+Free books: <https://sapienceinstitute.org/books/>
 
-Have doubts? Book a mentor: https://sapienceinstitute.org/lighthouse/
+Have doubts? Book a mentor: <https://sapienceinstitute.org/lighthouse/>
 
-Listen (Podcast): https://sapienceinstitute.org/sapientvoices/
+Listen (Podcast): <https://sapienceinstitute.org/sapientvoices/>
 
 Follow:
-– Facebook: https://facebook.com/sapienceinstitute.org/ 
-– Twitter: https://twitter.com/SapienceOrg/ 
-– Instagram: https://instagram.com/sapienceinstitute/ 
+– Facebook: <https://facebook.com/sapienceinstitute.org/>
+– Twitter: <https://twitter.com/SapienceOrg/>
+– Instagram: <https://instagram.com/sapienceinstitute/>
 
-Articles, speaker requests & more: https://sapienceinstitute.org/
+Articles, speaker requests & more: <https://sapienceinstitute.org/>
 
 ## Summary of [ST#66: Problematic Hadiths Case Study - Part 2 | Sh. Anwar Arafat](https://www.youtube.com/watch?v=eHsv5BLwGmI)
-
 
 *
 
@@ -35,8 +34,9 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
  Sh. Anwar Arafat discusses how to deal with problematic hadiths. He emphasizes the need for sincerity and patience, noting that these qualities are important in any analysis. He goes on to discuss how these qualities help to avoid bias and ensure that the hadith is taken in context.  provides translations of a problematic hadith into English, Arabic, and Mishkatun, and discusses the different meanings of the phrases.  concludes with a warning that people should be careful when interpreting hadiths, as they may not be accurate.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  Sh. Anwar Arafat discusses the toolkit for dealing with problematic hadiths. He emphasizes the need for sincerity and patience, noting that these qualities are important in any analysis. He goes on to discuss how these qualities help to avoid bias and ensure that the hadith is taken in context.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses a problematic hadith, in which a cautious and sensible man could be led astray by some of the women in the population.  provides translations of the problematic phrase into English, Arabic, and Mishkatun, and discusses the different meanings of the phrases.  concludes with a warning that people should be careful when interpreting hadiths, as they may not be accurate.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses a problematic hadith, which states that a woman is more deficient in intellect and religion than a man. He points out that this translation can be misleading because it changes the word "intellect" to "wisdom." This inaccuracy has led to many people misunderstanding the hadith. recommends that people access the original Arabic version to get a more accurate understanding.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses a problematic hadith, in which a cautious and sensible man could be led astray by some of the women in the population.  provides translations of the problematic phrase into English, Arabic, and Mishkatun, and discusses the different meanings of the phrases.  concludes with a warning that people should be careful when interpreting hadiths, as they may not be accurate.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses a problematic hadith, which states that a woman is more deficient in intellect and religion than a man. He points out that this translation can be misleading because it changes the word "intellect" to "wisdom." This inaccuracy has led to many people misunderstanding the hadith. recommends that people access the original Arabic version to get a more accurate understanding.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

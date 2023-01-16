@@ -5,13 +5,12 @@
 ## Description
 
 You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
+<https://www.patreon.com/Bloggingtheology>
 
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
 ## Summary of [What about the harsh shariah punishments in Islam?](https://www.youtube.com/watch?v=cKdJ0etaI2g)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -20,6 +19,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 Discusses the concept of sharia law and the severity of punishments in Islam.  argues that the severity of punishments in sharia law is often misunderstood and that the law is based on principles of mercy.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** This book quotes the Prophet Muhammad saying that the severity of punishments in Islam should remain "intact," even if it means they are harsher than punishments in earlier times. points out that this is because the principle of the punishment should be upheld, rather than the punishment itself. For example, a thief might have his hand cut off, but not if he steals from genuine need or because his family is hungry.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  a westerner who was a Muslim for 50 years discusses the concept of sharia law. He notes that, although the severity of punishments in sharia law is often overshadowed by the law of mercy, it is never to the extent of undermining the abiding principles that are its basis. He also discusses a story of a man who came to the prophet and confessed his sin, and was given whatever punishment was due to him.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

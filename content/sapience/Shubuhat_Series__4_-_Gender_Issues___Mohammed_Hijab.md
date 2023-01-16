@@ -7,25 +7,24 @@
 Shubuhat Series #4 - Gender Issues | Mohammed Hijab
 —
 Help us educate and mentor others to share the faith academically.
-Donate now: https://sapienceinstitute.org/donate/ 
+Donate now: <https://sapienceinstitute.org/donate/>
 
-Free online courses: https://learn.sapienceinstitute.org/
+Free online courses: <https://learn.sapienceinstitute.org/>
 
-Free books: https://sapienceinstitute.org/books/
+Free books: <https://sapienceinstitute.org/books/>
 
-Have doubts? Book a mentor: https://sapienceinstitute.org/lighthouse/
+Have doubts? Book a mentor: <https://sapienceinstitute.org/lighthouse/>
 
-Listen (Podcast): https://sapienceinstitute.org/sapientvoices/
+Listen (Podcast): <https://sapienceinstitute.org/sapientvoices/>
 
 Follow:
-– Facebook: https://facebook.com/sapienceinstitute.org/ 
-– Twitter: https://twitter.com/SapienceOrg/ 
-– Instagram: https://instagram.com/sapienceinstitute/ 
+– Facebook: <https://facebook.com/sapienceinstitute.org/>
+– Twitter: <https://twitter.com/SapienceOrg/>
+– Instagram: <https://instagram.com/sapienceinstitute/>
 
-Articles, speaker requests & more: https://sapienceinstitute.org/
+Articles, speaker requests & more: <https://sapienceinstitute.org/>
 
 ## Summary of [Shubuhat Series #4 - Gender Issues | Mohammed Hijab](https://www.youtube.com/watch?v=VdcdwyjPuaM)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -33,13 +32,14 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
  discusses gender differences in various areas, including cognition, relationships, and personality traits. It argues that the western system of relationships is a failure, and that polygamy is not limited to Islam.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses research on gender differences, including the fact that women have a lower amount of testosterone in their bodies and that men think differently than women. It discusses how some feminists react to these differences, and it concludes with an explanation of cognitive differences.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses research on gender differences, including the fact that women have a lower amount of testosterone in their bodies and that men think differently than women. It discusses how some feminists react to these differences, and it concludes with an explanation of cognitive differences.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The Shubuhat series discusses gender differences in cognition. One study showed that when men ask women out, only six percent of women respond yes, while 75 percent of men say yes. When men ask women to come to bed, zero percent of women respond yes.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the concept of hypergamy, or the tendency for women to marry men who have more resources than they do. The study cited suggests that this trend has been reversing over the last few years, with educational hypergamy decreasing.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the concept of hypergamy, or the tendency for women to marry men who have more resources than they do. The study cited suggests that this trend has been reversing over the last few years, with educational hypergamy decreasing.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Shubuhat discusses the different reasons why Muslim women may be more likely to marry within their own social group, rather than a man from a different social group. He also mentions the phenomenon of cults, which may be a more powerful incentive for some women to marry someone from within their social group.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses gender differences in Islamic law, and how emphasizing these differences can be seen as wisdom in Islamic law. It also points to research indicating that pre-marital sex may lead to increased divorce rates.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses how different systems in the body affect sexual arousal and libido. Testosterone and serotonin are mentioned, along with oxytocin and dopamine. It is noted that the more a person has intercourse, the more likely they are to be in love. Islamic arranged marriages are contrasted with modern arranged marriages, in which people can choose their spouse. A study has found that in arranged marriages where one person does not love the other, 70-90 percent of marriages are successful.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses gender issues in Islam, specifically polygamy. It argues that the western system of relationships, which does not guarantee rights or responsibilities for the people involved, is actually a failure. While pollution is a practice in some parts of Africa, it is not limited to Islam.  also discusses the big five personality traits, which are known to be correlated with happiness and success.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses gender differences in Islamic law, and how emphasizing these differences can be seen as wisdom in Islamic law. It also points to research indicating that pre-marital sex may lead to increased divorce rates.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses how different systems in the body affect sexual arousal and libido. Testosterone and serotonin are mentioned, along with oxytocin and dopamine. It is noted that the more a person has intercourse, the more likely they are to be in love. Islamic arranged marriages are contrasted with modern arranged marriages, in which people can choose their spouse. A study has found that in arranged marriages where one person does not love the other, 70-90 percent of marriages are successful.
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses gender issues in Islam, specifically polygamy. It argues that the western system of relationships, which does not guarantee rights or responsibilities for the people involved, is actually a failure. While pollution is a practice in some parts of Africa, it is not limited to Islam.  also discusses the big five personality traits, which are known to be correlated with happiness and success.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Gender differences in personality are pervasive and documented in many studies. s discusses some of these studies.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

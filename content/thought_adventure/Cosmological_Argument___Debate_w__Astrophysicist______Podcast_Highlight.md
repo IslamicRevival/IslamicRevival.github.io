@@ -6,20 +6,20 @@
 
 When Khalil (Justin) first converted to Islam other atheists involved in his channel had decided to bring on three atheists including a physicist to challenge one of the arguments for the Creator’s existence. Khalil also invited the TAP brothers to make it a three on three debate/discussion on whether the KCA is a valid and sound argument. Although the discussion couldn’t be concluded the first premise of the argument was agreed to by the atheists.
 
-Full video on the EA Show: https://youtu.be/IbIXW4QCX5k
+Full video on the EA Show: <https://youtu.be/IbIXW4QCX5k>
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -27,40 +27,39 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
-#KCA #Atheist #Islam
+# KCA #Atheist #Islam
 
 ## Summary of [Cosmological Argument | Debate w/ Astrophysicist | | Podcast Highlight](https://www.youtube.com/watch?v=bdM-3Z30uNo)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -69,24 +68,27 @@ Gmail: hello.tapodcast@gmail.com
  discusses the cosmological argument, which attempts to prove the existence of God. The astrophysicist argues that the premise of the argument is not necessarily true, and that we need to go deeper into physics to understand what actually happens. The debaters then discuss some of the "weird stuff" that is happening in the world, and the astrophysicist argues that this does not negate causality.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The "Kalam Cosmological Argument" is a philosophical argument that attempts to prove the existence of God. The three atheist panelists discuss various scientific and philosophical problems with the argument.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the cosmological argument, which argues that something specific must have caused the universe to exist. Physicalist Justin Goertzen argues that the argument's premises are valid, while Thomas Reid and David Chalmers argue that the argument is flawed.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The cosmological argument is the idea that everything that begins to exist has a cause. In this 1-paragraph summary, the astrophysicist David Albert argues that this premise is not necessarily true, and that we need to go deeper into physics to understand what actually happens.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The astrophysicist discusses the difficulties of observing things coming into existence, and argues that, based on current physics and science, the premise that everything that begins to exist has a cause is false. He asks the debaters whether they think the premise is false or if they are just agnostic on the issue. The debaters then discuss some of the "weird stuff" that is happening in the world, and the astrophysicist argues that this does not negate causality.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** The physicist discusses how modern physical theories break cause and effect, and how this counterintuitive situation suggests that a "pro probabilistic causality" is not a causality. He goes on to say that relativity does not necessitate a "b theory of time," implying that different models of time exist that take relativity into account.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** The astrophysicist discusses the ideas of a "b theory of time" and causality. He argues that, while events do have an underlying explanation, causality is not a fundamental principle that we arrive at through empiricism. He suggests that math is a tool to describe reality, and that it does not exist up in some form.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** The astrophysicist discusses the cosmological argument and how it differs from the idea that everything has a materialistic causation. He states that by using science, we presuppose the universe is comprehensible and that events within it are predictable, which leads to the idea that explanations exist. He proposes that there is a difference between an explanation and cause and effect, which is that cause and effect is an emergent phenomenon. He states that if we rephrase the first premise of the kalam argument to say that whatever begins to exist has an explanation, this would be a presupposition, but he is okay with this as it would likely be true.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** The astrophysicist discusses how the belief that everything has an explanation is a presupposition, and how this applies to the cosmological argument. They argue that on an a theory of time, everything that begins to exist has a cause.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** The cosmological argument states that, in order to understand the universe, one must presuppose that there is something intelligible about it. David argues that this is an assumption, rather than a presupposition, and that, in his world view, science presupposes nothing of the sort.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The astrophysicist discusses the cosmological argument, which states that our expectation of the universe is not one that is matched with certainty, but is instead something that is based on experience and may or may not be justified. He argues that, because we have experience of the universe, our belief in the future is based on something that is justifiable.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The cosmological argument is an argument that posits that there is a law or pattern within nature that is known through induction. If this pattern were not fixed, then it would be impossible to make predictions about the future or to understand the mode of action of a particular thing. However, because the pattern is known through induction, scientists are justified in making claims about the safety of certain things, even though they haven't actually demonstrated the pattern to be true. In other words, the cosmological argument is a belief that is based on intuition rather than empirical evidence.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The astrophysicist argues that, based on empirical evidence, the universe began to exist. However, if someone rejects this premise, the astrophysicist argues that this person has no way of knowing this for certain.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the cosmological argument, which argues that something specific must have caused the universe to exist. Physicalist Justin Goertzen argues that the argument's premises are valid, while Thomas Reid and David Chalmers argue that the argument is flawed.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The cosmological argument is the idea that everything that begins to exist has a cause. In this 1-paragraph summary, the astrophysicist David Albert argues that this premise is not necessarily true, and that we need to go deeper into physics to understand what actually happens.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The astrophysicist discusses the difficulties of observing things coming into existence, and argues that, based on current physics and science, the premise that everything that begins to exist has a cause is false. He asks the debaters whether they think the premise is false or if they are just agnostic on the issue. The debaters then discuss some of the "weird stuff" that is happening in the world, and the astrophysicist argues that this does not negate causality.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** The physicist discusses how modern physical theories break cause and effect, and how this counterintuitive situation suggests that a "pro probabilistic causality" is not a causality. He goes on to say that relativity does not necessitate a "b theory of time," implying that different models of time exist that take relativity into account.
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** The astrophysicist discusses the ideas of a "b theory of time" and causality. He argues that, while events do have an underlying explanation, causality is not a fundamental principle that we arrive at through empiricism. He suggests that math is a tool to describe reality, and that it does not exist up in some form.
+- **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** The astrophysicist discusses the cosmological argument and how it differs from the idea that everything has a materialistic causation. He states that by using science, we presuppose the universe is comprehensible and that events within it are predictable, which leads to the idea that explanations exist. He proposes that there is a difference between an explanation and cause and effect, which is that cause and effect is an emergent phenomenon. He states that if we rephrase the first premise of the kalam argument to say that whatever begins to exist has an explanation, this would be a presupposition, but he is okay with this as it would likely be true.
+- **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** The astrophysicist discusses how the belief that everything has an explanation is a presupposition, and how this applies to the cosmological argument. They argue that on an a theory of time, everything that begins to exist has a cause.
+- **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** The cosmological argument states that, in order to understand the universe, one must presuppose that there is something intelligible about it. David argues that this is an assumption, rather than a presupposition, and that, in his world view, science presupposes nothing of the sort.
+- **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The astrophysicist discusses the cosmological argument, which states that our expectation of the universe is not one that is matched with certainty, but is instead something that is based on experience and may or may not be justified. He argues that, because we have experience of the universe, our belief in the future is based on something that is justifiable.
+- **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The cosmological argument is an argument that posits that there is a law or pattern within nature that is known through induction. If this pattern were not fixed, then it would be impossible to make predictions about the future or to understand the mode of action of a particular thing. However, because the pattern is known through induction, scientists are justified in making claims about the safety of certain things, even though they haven't actually demonstrated the pattern to be true. In other words, the cosmological argument is a belief that is based on intuition rather than empirical evidence.
+- **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The astrophysicist argues that, based on empirical evidence, the universe began to exist. However, if someone rejects this premise, the astrophysicist argues that this person has no way of knowing this for certain.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:10:00</a>
 
  discusses the various problems with the big bang theory and the arguments for and against the continuity of time. explains that while the concept of an infinite past is possible, it is not possible to count it or complete the counting of it.  concludes that there are three premises that can be used to argue against the idea that the past is infinite.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** The astrophysicist discusses the various problems with the big bang theory, concluding that it is likely that the universe has a beginning. They also discuss the various arguments for and against the continuity of time, and the impossibility of an infinite past or future.
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** of the video discusses the possibility of an actual infinite, which is a quantity that is bigger than any finite number. He explains that while this concept is possible, it is not possible to count it or complete the counting of it.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** The gist of the video is that there are three premises that can be used to argue against the idea that the past is infinite. One of these premises is that it is impossible to conceive of an infinite past, which is countered by the argument that one cannot go back in time and experience an infinite past. The third premise is that it is impossible for something to exist without a causal relationship to something else, which is also countered by the argument that the past does not have a causal relationship to anything.
+
+- **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** of the video discusses the possibility of an actual infinite, which is a quantity that is bigger than any finite number. He explains that while this concept is possible, it is not possible to count it or complete the counting of it.
+- **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** The gist of the video is that there are three premises that can be used to argue against the idea that the past is infinite. One of these premises is that it is impossible to conceive of an infinite past, which is countered by the argument that one cannot go back in time and experience an infinite past. The third premise is that it is impossible for something to exist without a causal relationship to something else, which is also countered by the argument that the past does not have a causal relationship to anything.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

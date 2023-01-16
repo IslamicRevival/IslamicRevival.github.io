@@ -6,12 +6,11 @@
 
 A brilliant young man makes a series of interrogations in relation to the contigency argument for God's existence.
 
-Full video on SALAM Channel - https://www.youtube.com/watch?v=mPder2zVuYI&t=3s
+Full video on SALAM Channel - <https://www.youtube.com/watch?v=mPder2zVuYI&t=3s>
 
-Kalam Cosmological Arguments Book here - https://www.amazon.co.uk/Kalam-Cosmological-Arguments-Mohammed-Hijab/dp/1098544021/ref=sr_1_1?keywords=mohammed+hijab&qid=1575909497&sr=8-1
+Kalam Cosmological Arguments Book here - <https://www.amazon.co.uk/Kalam-Cosmological-Arguments-Mohammed-Hijab/dp/1098544021/ref=sr_1_1?keywords=mohammed+hijab&qid=1575909497&sr=8-1>
 
 ## Summary of [Young Academic Atheist Asks Muslim Questions](https://www.youtube.com/watch?v=dFg443_BlQ8)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -20,6 +19,7 @@ Kalam Cosmological Arguments Book here - https://www.amazon.co.uk/Kalam-Cosmolog
 The young academic atheist and the Muslim discuss the argument of contingency. The young atheist argues that the Kalam cosmological argument is based on shaky premises. He also discusses three reasons why he believes that there could be more than one necessary existence. Finally, he argues that an independent existence must exist in order for everything else to exist.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The young academic atheist talks with a Muslim about the argument of contingency. He notes that theargument can be done through either causation or explanation, and that there is a difference of opinion on the strength of the argument. He says that the Kalam cosmologicalargument, which he holds to be stronger, is based on shaky premises.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The young atheist discusses three reasons why he believes that there could be more than one necessary existence. He points out that the William Lane Craig types of arguments are not necessarily one argument, and that movement is not logically time. He also argues that Christian beliefs are additional information that we come to know through revelation.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The young academic atheist discusses why an independent existence must exist in order for everything else to exist. He argues that the universe is not the necessary existence, and that another explanation must be found for why everything exists.
 

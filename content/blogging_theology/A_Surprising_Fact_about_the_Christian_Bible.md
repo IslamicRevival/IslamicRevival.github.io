@@ -5,13 +5,12 @@
 ## Description
 
 You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
+<https://www.patreon.com/Bloggingtheology>
 
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
 ## Summary of [A Surprising Fact about the Christian Bible](https://www.youtube.com/watch?v=rQIgCtMcoEo)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -20,6 +19,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 Discusses how the early Christians did not view the New Testament as the word of God, due to the fact that it was not originally seen as inspired by God. He points to chapter 10 of his book, A History of the Bible, which discusses how the books in the Hebrew Bible had acquired an official status for Jews by the end of the first century. Christians, whether Jews or not, took for granted this status when quoting from the Bible. The New Testament began life as occasional literature, rather than being sacrosanct like the Hebrew Bible.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a> Discusses how the early Christians did not view the New Testament as the word of God, due to the fact that it was not originally seen as inspired by God. He points to chapter 10 of his book, A History of the Bible, which discusses how the books in the Hebrew Bible had acquired an official status for Jews by the end of the first century. Christians, whether Jews or not, took for granted this status when quoting from the Bible. The New Testament began life as occasional literature, rather than being sacrosanct like the Hebrew Bible.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** discusses how the attitude of early Christians to the Old and New Testament differed, and how over time the texts came to be seen as equal components of the Bible.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** This video explains that the Christian Bible was not created as a canon until later in the following centuries, and that this can change one's mind and perception of the historical truths and facts of the case. It invites viewers to do the same journey of discovery by listening to scholars reading their works, rather than uncritically accepting them.
 

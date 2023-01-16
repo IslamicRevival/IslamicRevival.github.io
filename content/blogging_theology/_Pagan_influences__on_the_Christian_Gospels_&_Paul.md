@@ -5,13 +5,12 @@
 ## Description
 
 You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
+<https://www.patreon.com/Bloggingtheology>
 
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
 ## Summary of ['Pagan influences' on the Christian Gospels & Paul](https://www.youtube.com/watch?v=w83Gf6Ldavs)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -20,6 +19,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 The video discusses how pagan influences can be found in the Christian Gospels and Paul, noting that Middle Platonic thought heavily influenced John's gospel. It explains how Justin Martyr admitted that the similarities between pagan myths and Christian doctrines, claiming that the devil created fake pagan myths to emulate Christ.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Pagan influences are found in the Christian Gospels and Paul, with Paul particularly borrowing from Philo of Alexandria. The doctrine of the Trinity was likely derived from middle Platonic philosophy, and John's gospel was influenced by middle Platonic thought.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** In Middle Platonic thought, the "Logos" (Word) was believed to be the second god, generated from within the one himself. This theology is found in John's gospel and is explained in greater detail in Philo's work "Deuterostas." Justin Martyr, father of Logos theology, acknowledges these similarities between his Christology and pagan myths, and claims that the devil emulated Christ by creating fake myths about pagan gods.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  John talks about the 'logos' - a lesser god who mediates between the unseen perfect being and humanity by becoming a human sacrifice in the gospels and Paul. Middle Platonism and Stoicism taught that there is a hierarchy of being, with god at the top, and Christ at the bottom. This is not trinitarianism, as Christ is not ontologically equal to the Father.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  Erman discusses how the New Testament portrays Jesus as a divine being, son of God, and savior. He notes that the four gospels present Jesus in different ways, but nonetheless he is a divine being in all four texts.

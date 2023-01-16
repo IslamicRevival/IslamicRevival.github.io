@@ -4,16 +4,15 @@
 
 ## Description
 
-Visit https://www.naturesblends.com/ and use hijab10 for a 10% discount. 
+Visit <https://www.naturesblends.com/> and use hijab10 for a 10% discount.
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
-My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
+My book: <https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/>
 
 ## Summary of [Reacting to 'Honest Tea Talk' on Marriage, Divorce and Gender Roles](https://www.youtube.com/watch?v=qzPWOj4VoBs)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -22,14 +21,15 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
  discusses the Islamic rulings on divorce, marriage, and gender roles. points out that divorce is not always easy or straightforward, and that women can be at a disadvantage if they divorce without reason. They also provide some advice on how to deal with this situation.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Honest Tea Talks is a YouTube channel that discusses gender roles and sexual rights. Some viewers find the channel controversial because of the topics discussed, which include women's sexual rights and men's modesty.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses different models of divorce, and points out that a woman can do different things than a man can do in regards to getting a divorce.  also references a famous example where the Prophet allowed a man to kiss an older man, and a woman to kiss a younger man.  leaves the general question of whether or not it is okay to divorce unanswered, and suggests that the answer would be different for each individual.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses difference between talaq and hola, and how hola is different from talaq. It goes on to say that if a woman is not in love with her husband, she may be inclined to divorce him.  finishes by saying that women need to be careful when talking about divorce, as it could break her husband's home.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses raditional gender roles in Islam, and how they can lead to women being less happy and less successful in their lives. provides a link to a study that backs up their claims.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses concept of "honest talk" on marriage, divorce, and gender roles, and how it's not incompatible with feminism. They mention that there is a biased video about polygamy that should be d "D dysfunctionalities of Polygeny and Implementation."
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses discrepancy between the number of women who are divorcees and those who are married in political marriages, and how this disparity affects women. It also discusses the benefits of polygamy, and how it is not exclusive to Muslim men.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses different models of divorce, and points out that a woman can do different things than a man can do in regards to getting a divorce.  also references a famous example where the Prophet allowed a man to kiss an older man, and a woman to kiss a younger man.  leaves the general question of whether or not it is okay to divorce unanswered, and suggests that the answer would be different for each individual.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses difference between talaq and hola, and how hola is different from talaq. It goes on to say that if a woman is not in love with her husband, she may be inclined to divorce him.  finishes by saying that women need to be careful when talking about divorce, as it could break her husband's home.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses raditional gender roles in Islam, and how they can lead to women being less happy and less successful in their lives. provides a link to a study that backs up their claims.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses concept of "honest talk" on marriage, divorce, and gender roles, and how it's not incompatible with feminism. They mention that there is a biased video about polygamy that should be d "D dysfunctionalities of Polygeny and Implementation."
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses discrepancy between the number of women who are divorcees and those who are married in political marriages, and how this disparity affects women. It also discusses the benefits of polygamy, and how it is not exclusive to Muslim men.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>**  sisters discuss the various red flags that may indicate a man is not interested in or willing to be involved with a woman and her children. Some of the red flags mentioned include that the man is not accepted by the children's father, that he does not want to be involved with the children, or that he already has children and does not want to be involved with the new family.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses issue of how a woman should deal with raising children if she does not want to be married to a man with children from a previous relationship. They state that this is a common problem for both men and women, and that if a man does not want to raise the children, it is a sign of disrespect. also provides some advice on how to deal with this situation.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses Islamic rulings on divorce, marriage, and gender roles, as well as the benefits of having a female advisor. He points out that divorce is not always easy or straightforward, and that women can be at a disadvantage if they divorce without reason.
+* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses issue of how a woman should deal with raising children if she does not want to be married to a man with children from a previous relationship. They state that this is a common problem for both men and women, and that if a man does not want to raise the children, it is a sign of disrespect. also provides some advice on how to deal with this situation.
+* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses Islamic rulings on divorce, marriage, and gender roles, as well as the benefits of having a female advisor. He points out that divorce is not always easy or straightforward, and that women can be at a disadvantage if they divorce without reason.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** , a costumer discusses how she reacted to a recent Honest Tea commercial in which a Muslim man discusses his experience of getting divorced and having a talaq (a Muslim divorce ritual). The costumer thinks that the commercial is portraying Muslims in a negative light and is concerned that it could backfire on Muslims by making people more critical of their religion.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

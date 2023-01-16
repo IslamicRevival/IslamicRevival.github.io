@@ -4,10 +4,9 @@
 
 ## Description
 
-See the complete article here: https://www.scientificamerican.com/article/atheism-is-inconsistent-with-the-scientific-method-prizewinning-physicist-says/
+See the complete article here: <https://www.scientificamerican.com/article/atheism-is-inconsistent-with-the-scientific-method-prizewinning-physicist-says/>
 
 ## Summary of [Atheism is Inconsistent with Science says Top Physicist](https://www.youtube.com/watch?v=iCcA-kuASDQ)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -16,6 +15,7 @@ See the complete article here: https://www.scientificamerican.com/article/atheis
 Top physicist Stephen Hawking says that atheism is inconsistent with the scientific method because it doesn't allow for the humility and tolerance required in science. He argues that this is a problem because it means that people can't trust scientists to be honest about the limitations of their knowledge.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** A prize-winning physicist says atheism is inconsistent with the scientific method. He argues that humans are special because of the humility and tolerance required in science.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Top physicist Stephen Hawking says that while science does have limitations, it is still a powerful tool that can help us understand the universe and our place in it. He also says that it is important to be honest about science's limitations so that people can trust us.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Top physicist says that science can't ever obtain a true theory of everything because it can't always tell us everything that there is to know about the universe. This humility is important, in contrast to more strident voices who seem to be arrogant and materialist.
 

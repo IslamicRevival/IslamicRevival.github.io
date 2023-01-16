@@ -4,16 +4,15 @@
 
 ## Description
 
-Donate to Palestinians affected during all this (via Ummah Welfare Trust 100% donation): https://justgiving.com/fundraising/alqudscrisis
+Donate to Palestinians affected during all this (via Ummah Welfare Trust 100% donation): <https://justgiving.com/fundraising/alqudscrisis>
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
-My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
+My book: <https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/>
 
 ## Summary of [Reacting to Shocking Israeli Racism](https://www.youtube.com/watch?v=XY0QUB0q8wc)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -22,9 +21,10 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
  discusses the racism and xenophobia that is rampant in Israel, as well as how it is perpetuated by the United States.  also provides examples of how this racism manifests itself in everyday life.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** In this reaction video, the host discusses the Israeli government's recent decision to rename a Jerusalem square "Tolerance Square." He asks everyday Israelis what they think about the situation, and finds that most are supportive. He highlights the hypocrisy of those who criticize Israel while ignoring similar problems in other countries, and urges viewers to oppose political correctness in order to identify and address the true enemies of Israel.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the issue of Israeli racism and how it is affecting the world. He talks about the need for Israel to deal with its racism and how families should be kicked out of the country. He also suggests bombing Israel to put an end to its racism.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the issue of Israeli racism and how it is affecting the world. He talks about the need for Israel to deal with its racism and how families should be kicked out of the country. He also suggests bombing Israel to put an end to its racism.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** This 1-minute video discusses the racism and xenophobia that is rampant in Israel, as well as how it is perpetuated by the United States.  also provides examples of how this racism manifests itself in everyday life.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses how Israelis are using racism and bigotry to try and discredit those protesting against their government. It also discusses how social media can be used to spread awareness and support for the protests.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses how Israelis are using racism and bigotry to try and discredit those protesting against their government. It also discusses how social media can be used to spread awareness and support for the protests.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

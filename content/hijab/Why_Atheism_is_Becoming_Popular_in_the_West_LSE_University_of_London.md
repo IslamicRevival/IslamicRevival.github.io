@@ -8,18 +8,18 @@ A brief sociological/historical break down as to why atheism is becoming popular
 
 ## Summary of [Why Atheism is Becoming Popular in the West? LSE University of London](https://www.youtube.com/watch?v=cjxrc5EfxY0)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:20:00</a>
 
 Atheism is becoming more popular in the West, due to the weaknesses of the Christian tradition in the area of science and medicine, and the rise of monotheistic religions such as Islam.  discusses how atheism is becoming more popular in the West, and points out that this is due to the fact that the Roman Empire was the Empire of the day and was able to spread its message to all those people. It also mentions that Christianity is a historical development and that Islam was spread differently.  discusses how atheism is becoming more popular in the West, primarily because there is no need for a deity to explain natural phenomena like mathematics or the universe.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses how atheism is becoming more popular in the West, due to the weaknesses of the Christian tradition in the area of science and medicine.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses why atheism is becoming more popular in the West, citing reasons such as scientific skepticism and the rise in philosophies such as the Enlightenment. also points to the rise of monotheistic religions such as Islam, noting that they are not monotheistic in the sense that all other religions are not.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses why atheism is becoming more popular in the West, and points out that this is due to the fact that the Roman Empire was the Empire of the day and was able to spread its message to all those people. It also mentions that Christianity is a historical development and that Islam was spread differently.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses how atheism is becoming more popular in the West, primarily because there is no need for a deity to explain natural phenomena like mathematics or the universe. Prophets and angels have always been a part of religious discourse, but the recent rise of atheism has led to the introduction of a new element - evidence - which can help believers rationalize Islam. There are many signs that support the reality of Islam, including its structural coherence, prophecies, and social and economic effects.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the rise in atheism in the West, and suggests that it is due to people's increasing spiritual inclination.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses how atheism is becoming more popular in the West, due to the weaknesses of the Christian tradition in the area of science and medicine.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses why atheism is becoming more popular in the West, citing reasons such as scientific skepticism and the rise in philosophies such as the Enlightenment. also points to the rise of monotheistic religions such as Islam, noting that they are not monotheistic in the sense that all other religions are not.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses why atheism is becoming more popular in the West, and points out that this is due to the fact that the Roman Empire was the Empire of the day and was able to spread its message to all those people. It also mentions that Christianity is a historical development and that Islam was spread differently.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses how atheism is becoming more popular in the West, primarily because there is no need for a deity to explain natural phenomena like mathematics or the universe. Prophets and angels have always been a part of religious discourse, but the recent rise of atheism has led to the introduction of a new element - evidence - which can help believers rationalize Islam. There are many signs that support the reality of Islam, including its structural coherence, prophecies, and social and economic effects.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the rise in atheism in the West, and suggests that it is due to people's increasing spiritual inclination.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

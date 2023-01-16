@@ -4,7 +4,7 @@
 
 ## Description
 
-DONATE NOW: https://www.saveiman.com/fb?affiliate_id=3414212 ⬅
+DONATE NOW: <https://www.saveiman.com/fb?affiliate_id=3414212> ⬅
 
 The Prophet ﷺ said: “𝙒𝙝𝙤𝙚𝙫𝙚𝙧 𝙗𝙪𝙞𝙡𝙙𝙨 𝙖 𝙈𝙤𝙨𝙦𝙪𝙚 𝙛𝙤𝙧 𝘼𝙡𝙡𝙖𝙝, 𝘼𝙡𝙡𝙖𝙝 𝙬𝙞𝙡𝙡 𝙗𝙪𝙞𝙡𝙙 𝙛𝙤𝙧 𝙝𝙞𝙢 𝙖 𝙨𝙞𝙢𝙞𝙡𝙖𝙧 𝙝𝙤𝙪𝙨𝙚 𝙞𝙣 𝙅𝙖𝙣𝙣𝙖𝙝.”
 
@@ -14,12 +14,11 @@ If you support this project, you will in sha Allah get a house in Jannah and sha
 ✅ Making Dhikr!
 ✅ Memorizing the Qur’an!
 
-Please donate and help establish this Masjid and earn your reward ➡ https://www.saveiman.com/fb?affiliate_id=3414212 ⬅
+Please donate and help establish this Masjid and earn your reward ➡ <https://www.saveiman.com/fb?affiliate_id=3414212> ⬅
 
-#SaveIman
+# SaveIman
 
 ## Summary of [Most Revealing Hadith on Gender in Islam?](https://www.youtube.com/watch?v=BHP78wJXi30)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -28,9 +27,10 @@ Please donate and help establish this Masjid and earn your reward ➡ https://ww
  discusses a hadith which states that if a Muslim man and woman repent to Allah, Allah will make their marriage work. This hadith is significant because it shows that even in the 7th century, there were still references to gender roles in Islam. This hadith is also significant for religious audiences and non-religious audiences alike because it sheds light on the origins of modern feminism.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** This 1- paragraph summary of the video discusses a hadith which states that if a Muslim man and woman repent to Allah, Allah will make their marriage work. This hadith is significant because it shows that even in the 7th century, there were still references to gender roles in Islam. This hadith is also significant for religious audiences and non-religious audiences alike because it sheds light on the origins of modern feminism.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses how the Prophet Muhammad would sometimes withdraw from his wives in order to focus on his duties as a prophet. His daughter then advises her husband to speak to the prophet in order to resolve the issue. The father-in-law goes to see the prophet and is told that the prophet is secluded because of his wives' disrespectful behavior. He then advises his son-in-law to obey his wives and not act disrespectfully towards them.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses a hadith in which the Prophet Muhammad allows people into his home, but only Ahmad (the only man present) is allowed in. Ahmad asks the Prophet about divorce, and the Prophet tells him that he doesn't have to divorce his wife if he doesn't want to. Ahmad is elated, and the Prophet smiles. The hadith provides an example of how the Prophet handled wives who were demanding too much from him.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses how the Prophet Muhammad dealt with women who complained to him. He notes that there are limits to how much a woman can complain, and that when a woman complains, her husband should remove himself from the situation. He also points out that women who make mistakes should come back and repent.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses how the Prophet Muhammad would sometimes withdraw from his wives in order to focus on his duties as a prophet. His daughter then advises her husband to speak to the prophet in order to resolve the issue. The father-in-law goes to see the prophet and is told that the prophet is secluded because of his wives' disrespectful behavior. He then advises his son-in-law to obey his wives and not act disrespectfully towards them.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses a hadith in which the Prophet Muhammad allows people into his home, but only Ahmad (the only man present) is allowed in. Ahmad asks the Prophet about divorce, and the Prophet tells him that he doesn't have to divorce his wife if he doesn't want to. Ahmad is elated, and the Prophet smiles. The hadith provides an example of how the Prophet handled wives who were demanding too much from him.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses how the Prophet Muhammad dealt with women who complained to him. He notes that there are limits to how much a woman can complain, and that when a woman complains, her husband should remove himself from the situation. He also points out that women who make mistakes should come back and repent.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** This hadith highlights the importance of coexistence and stability in family relationships between men and women. It also emphasizes the importance of muslims working together to establish mosques and dawa centers to spread Islam. If you would like to support this effort, you can donate to the Norwegian schools where the dawa centers will be established.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

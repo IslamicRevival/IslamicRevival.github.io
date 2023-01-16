@@ -7,25 +7,24 @@
 In this new series presented by Mohammed Hijab (@mohammed_hijab) we respond to shubuhat - destructive doubts and objections against Islam.
 —
 Help us educate and mentor others to share the faith academically.
-Donate now: https://sapienceinstitute.org/donate/ 
+Donate now: <https://sapienceinstitute.org/donate/>
 
-Free online courses: https://learn.sapienceinstitute.org/
+Free online courses: <https://learn.sapienceinstitute.org/>
 
-Free books: https://sapienceinstitute.org/books/
+Free books: <https://sapienceinstitute.org/books/>
 
-Have doubts? Book a mentor: https://sapienceinstitute.org/lighthouse/
+Have doubts? Book a mentor: <https://sapienceinstitute.org/lighthouse/>
 
-Listen (Podcast): https://sapienceinstitute.org/sapientvoices/
+Listen (Podcast): <https://sapienceinstitute.org/sapientvoices/>
 
 Follow:
-– Facebook: https://facebook.com/sapienceinstitute.org/ 
-– Twitter: https://twitter.com/SapienceOrg/ 
-– Instagram: https://instagram.com/sapienceinstitute/ 
+– Facebook: <https://facebook.com/sapienceinstitute.org/>
+– Twitter: <https://twitter.com/SapienceOrg/>
+– Instagram: <https://instagram.com/sapienceinstitute/>
 
-Articles, speaker requests & more: https://sapienceinstitute.org/
+Articles, speaker requests & more: <https://sapienceinstitute.org/>
 
 ## Summary of [Shubuhat Series #1 - Does Islam Allow The Killing Of Innocent People? | Mohammed Hijab](https://www.youtube.com/watch?v=5QlZj-4rt6o)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -34,25 +33,28 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
  discusses whether or not Islam allows for the killing of innocent people. provides several verses from the Quran to support his position that Islam does not condone the killing of innocent civilians. He also discusses how some later Muslim leaders were successful in expanding the Islamic empire through peaceful means.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  Mohammed Hijab discusses the objectives of jihad, specifically the prohibition against harming innocent people. He provides a few verses from the Quran to support his position, and then proceeds to discuss some hadith which further elaborate on the justification for jihad. He finishes by discussing the various schools of thought on the matter, and how Muslims should respond to those who oppose jihad.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the objectives of jihad, which include stopping those who oppress Muslims and spreading the religion of Islam. It says that one of the objectives of jihad is to "fudawa," or conquer territory.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the objectives of jihad, which include stopping those who oppress Muslims and spreading the religion of Islam. It says that one of the objectives of jihad is to "fudawa," or conquer territory.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  Mohammed Hijab discusses a Qur'anic verse that is often used to justify the killing of innocent civilians. He goes on to explain that the context of the verse and other surrounding verses make it clear that this is not an endorsement of killing civilians.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses verses 9 and 29 of the Quran, which state that Muslims should fight Christians and Jews until they pay a tax. Ali, who has experienced firsthand the violence caused by these verses, warns that if the non-combatants are not fighting, then the Quranic directive to fight is already fulfilled.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses a claim that Islam allows the killing of innocent people, and provides examples of faulty reasoning used to make this argument.  points out that Islam allows for fighting those who are perceived as enemies, and that there are already specific guidelines for this in the Quran.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses verses 9 and 29 of the Quran, which state that Muslims should fight Christians and Jews until they pay a tax. Ali, who has experienced firsthand the violence caused by these verses, warns that if the non-combatants are not fighting, then the Quranic directive to fight is already fulfilled.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses a claim that Islam allows the killing of innocent people, and provides examples of faulty reasoning used to make this argument.  points out that Islam allows for fighting those who are perceived as enemies, and that there are already specific guidelines for this in the Quran.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>**  Mohammed Hijab discusses a verse in the Qur'an that allows for the killing of "innocents," which he argues is a reference to non-combatants. He also discusses other verses in the Qur'an that support this doctrine.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>**  Mohammed Hijab discusses a Hadith which says that non-combatants cannot be killed. He goes on to discuss a Qur'an verse which says that the sanctities of the holy month are subject to retribution. He argues that these two verses provide a general guideline for how to deal with aggressors, but does not provide a specific instruction on how to deal with non-combatants.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** <>
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses a hadith in which the prophet,salallahu alayhi wa sallam,said that the best of Muslims are the children of polytheists, and explains that the reasoning behind this is that if a Muslim kills a non-combatant, it is not good. He also mentions that there is evidence in the Quran that monks and women and children should not be killed, and that reciprocity is not an acceptable justification for violence. Finally, the speaker addresses the idea that entering into a violent jihad underlies a history of sectarian violence, and points out that this is not an acceptable justification for violence.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the various Qur'anic verses that support the killing of innocent people, and how these verses were interpreted during the early days of Islam. It also discusses how later Muslim leaders such as Khalid bin Walid and Omar bin Khattab were successful in expanding the Islamic empire. Finally, the video explains how Ali ibn Abi Talib was the final righteous khalifa, and how his reign was marked by numerous successful military campaigns.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the idea that there is evidence that early Islamic caliphs went into other empires and tried to forcefully convert the non-combatant population, which resulted in the first Islamic civil war. Mohammed Hijab argues that this is anachronistic because we are living in a post-world war two environment and that domestic violence, homosexuality, and other forms of inequality are all on the rise because of equal strength.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses how Islamic teachings can be interpreted in a way that justifies the killing of innocent people. He also mentions how western academics often focus on the aggressive dimensions of jihad, overlooking the peaceful aspect.
+* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses a hadith in which the prophet,salallahu alayhi wa sallam,said that the best of Muslims are the children of polytheists, and explains that the reasoning behind this is that if a Muslim kills a non-combatant, it is not good. He also mentions that there is evidence in the Quran that monks and women and children should not be killed, and that reciprocity is not an acceptable justification for violence. Finally, the speaker addresses the idea that entering into a violent jihad underlies a history of sectarian violence, and points out that this is not an acceptable justification for violence.
+* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Discusses the various Qur'anic verses that support the killing of innocent people, and how these verses were interpreted during the early days of Islam. It also discusses how later Muslim leaders such as Khalid bin Walid and Omar bin Khattab were successful in expanding the Islamic empire. Finally, the video explains how Ali ibn Abi Talib was the final righteous khalifa, and how his reign was marked by numerous successful military campaigns.
+* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Discusses the idea that there is evidence that early Islamic caliphs went into other empires and tried to forcefully convert the non-combatant population, which resulted in the first Islamic civil war. Mohammed Hijab argues that this is anachronistic because we are living in a post-world war two environment and that domestic violence, homosexuality, and other forms of inequality are all on the rise because of equal strength.
+* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Discusses how Islamic teachings can be interpreted in a way that justifies the killing of innocent people. He also mentions how western academics often focus on the aggressive dimensions of jihad, overlooking the peaceful aspect.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:15:00</a>
 
 discusses the issue of whether Islam allows the killing of innocent people. points out that, in reality, Muslims are always on the defensive, and that they should be on the counteroffensive instead. He goes on to say that, thanks to the truth, many people have benefitted from these sessions.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Edward Syed discusses the idea of "middle eastern bombings" in his book Orientalism. He argues that the media often refers to bombings in the Middle East as if they are unique, when in reality they are simply similar to bombings in other parts of the world. This shows the extent to which the orient is viewed as a "other" by the west.
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>* Discusses the concept of "combative jihad" and its relationship to violence within Islam. Mohammed Hijab suggests that the majority of Islamic bloodshed has been carried out by secular people, and that within Islam there is something which rejects racism.  also discusses world war 1 and 2, and how they rank in terms of Islamic casualties. Finally, the video compares and contrasts different religions and how many people they have killed.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>* Discusses the controversy around the term "terrorism," and how it is often used inaccurately. Mohammed Hijab explains the Apec structure, which is used to analyze questions about jihad. He goes on to discuss the assumptions made by those asking the questions, and how the point of an argument should be based on the assumption made by the questioner. He finishes the video by discussing how to answer questions, and how to avoid rushing to conclusions.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>* Discusses the issue of whether Islam allows the killing of innocent people. points out that, in reality, Muslims are always on the defensive, and that they should be on the counteroffensive instead. He goes on to say that, thanks to the truth, many people have benefitted from these sessions.
+
+* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Discusses the concept of "combative jihad" and its relationship to violence within Islam. Mohammed Hijab suggests that the majority of Islamic bloodshed has been carried out by secular people, and that within Islam there is something which rejects racism.  also discusses world war 1 and 2, and how they rank in terms of Islamic casualties. Finally, the video compares and contrasts different religions and how many people they have killed.
+* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Discusses the controversy around the term "terrorism," and how it is often used inaccurately. Mohammed Hijab explains the Apec structure, which is used to analyze questions about jihad. He goes on to discuss the assumptions made by those asking the questions, and how the point of an argument should be based on the assumption made by the questioner. He finishes the video by discussing how to answer questions, and how to avoid rushing to conclusions.
+* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** Discusses the issue of whether Islam allows the killing of innocent people. points out that, in reality, Muslims are always on the defensive, and that they should be on the counteroffensive instead. He goes on to say that, thanks to the truth, many people have benefitted from these sessions.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

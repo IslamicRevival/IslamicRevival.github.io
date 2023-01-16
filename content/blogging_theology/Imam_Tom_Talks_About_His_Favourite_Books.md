@@ -4,21 +4,20 @@
 
 ## Description
 
-The books discussed: 
-The Order of Things by Michel Foucault 
-Formations of the Secular by Talal Asad 
+The books discussed:
+The Order of Things by Michel Foucault
+Formations of the Secular by Talal Asad
 Restating Orientalism by Wael Hallaq
 
 Visit @uticamasjid
 
 You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
+<https://www.patreon.com/Bloggingtheology>
 
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
 ## Summary of [Imam Tom Talks About His Favourite Books](https://www.youtube.com/watch?v=37TWdUVKYFc)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -27,6 +26,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 Imam Tom discusses his favorite books, which helps him to see the importance of religion in the public sphere. He also discusses the changing form of the prime directive, which is still active today.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Imam Tom discusses his favorite books, which include The Order of Things by Michel Foucault and Jessica Foucault's book, The Care of the Self. He believes that these books helped him to understand the concepts of episteme and ontology and to develop a more critical perspective towards Western academia.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Imam Tom talks about his favorite books, Foucault's work on the secular, and the idea that the secular state requires the production of a certain definition of religion. He discusses the importance of postcolonial theory in his development as a thinker, and how it led him to Foucault's work on the secular. He goes on to say that, in order to maintain a secular state, the state has to adjudicate the legitimacy of religious faiths.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Imam Tom discusses his favorite books, which allows him to see the importance of religion in the public sphere. He also discusses the changing form of the prime directive, which is still active today.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Imam Tom discusses his favorite books, discussing how they are a part of his personal ideological struggle against western imperialism. He also touches on how western interference in elections is a common tool used by the west to overthrow democratically elected governments.
@@ -38,11 +38,13 @@ Imam Tom discusses his favorite books, which helps him to see the importance of 
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Imam Tom discusses his favorite books on secularism and how it differs from other religions. He points out that secularism is the murder of god by the state and that modern western democracies are much less diverse and pluralistic than islam.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Imam Tom discusses his favorite books, which focus on the pre-modern Islamic world and how it contrasts with the modern world. He argues that the episteme, or the way in which Muslims think about knowledge, determines whether or not they are able to enjoy modern technology.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Imam Tom discusses his favourite books, including a comparison of the technology behind the ancient Islamic walk system to modern economic systems. Halak argues that the walk system was an important part of Islamic civilization, and that it avoided the conflict of interest often seen in government systems.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:05:00</a>
 
 Imam Tom discusses his favorite books, which include works by Friedrich Nietzsche and Oswald Spengler. He emphasizes the importance of Islam's role in the redemption of the west, and recommends following his mosque and YouTube channel for more information.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** The Imam discusses how modernity is different from previous eras, and how muslims need to shift to a new paradigm in order to be successful. He discusses how western society is in a state of flux, and how muslims are the only ones who can offer a solution.
+
 * **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Imam Tom discusses his favorite books, which include works by authors such as Friedrich Nietzsche and Oswald Spengler. He emphasizes the importance of Islam's role in the redemption of the west, and recommends following his mosque and YouTube channel for more information.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

@@ -4,28 +4,27 @@
 
 ## Description
 
-Listen as audio: https://soundcloud.com/sapienceinstitute/londoniyyah-part-30-the-protected-book-mohammed-hijab?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+Listen as audio: <https://soundcloud.com/sapienceinstitute/londoniyyah-part-30-the-protected-book-mohammed-hijab?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing>
 —
 Help us educate and mentor others to share the faith academically.
-Donate now: https://sapienceinstitute.org/donate/ 
+Donate now: <https://sapienceinstitute.org/donate/>
 
-Free online courses: https://learn.sapienceinstitute.org/
+Free online courses: <https://learn.sapienceinstitute.org/>
 
-Free books: https://sapienceinstitute.org/books/
+Free books: <https://sapienceinstitute.org/books/>
 
-Have doubts? Book a mentor: https://sapienceinstitute.org/lighthouse/
+Have doubts? Book a mentor: <https://sapienceinstitute.org/lighthouse/>
 
-Listen (Podcast): https://sapienceinstitute.org/sapientvoices/
+Listen (Podcast): <https://sapienceinstitute.org/sapientvoices/>
 
 Follow:
-– Facebook: https://facebook.com/sapienceinstitute.org/ 
-– Twitter: https://twitter.com/SapienceOrg/ 
-– Instagram: https://instagram.com/sapienceinstitute/ 
+– Facebook: <https://facebook.com/sapienceinstitute.org/>
+– Twitter: <https://twitter.com/SapienceOrg/>
+– Instagram: <https://instagram.com/sapienceinstitute/>
 
-Articles, speaker requests & more: https://sapienceinstitute.org/
+Articles, speaker requests & more: <https://sapienceinstitute.org/>
 
 ## Summary of [Londoniyyah - Part 30 - The Protected Book | Mohammed Hijab](https://www.youtube.com/watch?v=Sd0AgICznTc)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -33,23 +32,25 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
  discusses the controversy surrounding the preservation of the Quran, and presents various opinions on the matter. It goes on to say that, although there is no one definitive way in which the Quran has been preserved, it has been collected and written down over time, and that there is also an oral tradition that traces back to the time of the Prophet Muhammad.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the controversy surrounding the preservation of the Quran, and presents various opinions on the matter. It goes on to say that, although there is no one definitive way in which the Quran has been preserved, it has been collected and written down over time, and that there is also an oral tradition that traces back to the time of the Prophet Muhammad.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the controversy surrounding the preservation of the Quran, and presents various opinions on the matter. It goes on to say that, although there is no one definitive way in which the Quran has been preserved, it has been collected and written down over time, and that there is also an oral tradition that traces back to the time of the Prophet Muhammad.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The controversy surrounding the time of revelation is discussed. Zaid ibn Thabit was commissioned to write down the Quran, and he was proficient in memorization and reading. There are two versions of the legend of how he was commissioned, one at the time of Abu Bakr and one at the time of Uthman. Zaid was the main feature of both versions, and when he was commissioned, all the companions accepted his Quran as correct.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the different proofs that the Quran was not preserved accurately, and that there are different versions of the Quran. It then goes on to say that this proves that the Quran was not standardized, but that it was instead passed down through the sahaba (the companions of Mohammed). It also mentions that there are manuscripts that show differences between different versions of the Quran.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the hadith, explaining that it is authentic and that Mohammed Hijab heard it that way. He goes on to say that if there were two contradictory hadiths, the more reliable hadith would be followed. He also points out that the science of hadith is not infallible and that there are times when a hadith is not followed.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the different readings of the Quran and how none of them have a narrative altering impact. It goes on to say that this research is supported by a hadith which states that there are around 700-750 different readings of the Quran.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the different proofs that the Quran was not preserved accurately, and that there are different versions of the Quran. It then goes on to say that this proves that the Quran was not standardized, but that it was instead passed down through the sahaba (the companions of Mohammed). It also mentions that there are manuscripts that show differences between different versions of the Quran.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the hadith, explaining that it is authentic and that Mohammed Hijab heard it that way. He goes on to say that if there were two contradictory hadiths, the more reliable hadith would be followed. He also points out that the science of hadith is not infallible and that there are times when a hadith is not followed.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the different readings of the Quran and how none of them have a narrative altering impact. It goes on to say that this research is supported by a hadith which states that there are around 700-750 different readings of the Quran.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Angel Jibril discusses the importance of making the Quran easy to understand for the elderly, the weak, and people who may not be able to understand complex phrases. He says that there are variants of the Quran which don't contradict the preserved narrative, and that this is due to the fact that different people memorized and recited the Quran in different ways.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses the different categories of change between the Quran and its various readings. There is no disagreement among scholars that the ahrefs represent these categories of change.
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses the different categories of change between the Quran and its various readings. There is no disagreement among scholars that the ahrefs represent these categories of change.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** The Furus is the textual changes made in order to make the Quran easier to understand for the average person. Ibn al-Jazeera, a heavyweight in Islamic scholarship, believes there are seven categories of textual change. He agrees with Tableari, who says that preserving the Quran means preserving all of the ahrefs. This information is important for understanding why it is important to keep all of the variants of the Quran.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses how the Quran can be divided into two halves, with one half being completed and the other half remaining incomplete. The Prophet Muhammad said that when one recites the Quran with one kira, they have recited the entire Quran. He goes on to say that if one memorizes the Quran with the Prophet, it is not the same way as what this other companion was doing. The Prophet then grabs him and teaches him how to recite the Quran the way it was revealed to him.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the criteria for recitation of the Quran, which includes having an authentic narrative chain of narration and being in line with the traditional orthographic texts. He goes on to say that there is no such thing as Christianity and Judaism, because Moses did not say that the Torah has been revealed. Another difference between the Quran and other scriptures is that there is no criterion for authentication.
+* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses how the Quran can be divided into two halves, with one half being completed and the other half remaining incomplete. The Prophet Muhammad said that when one recites the Quran with one kira, they have recited the entire Quran. He goes on to say that if one memorizes the Quran with the Prophet, it is not the same way as what this other companion was doing. The Prophet then grabs him and teaches him how to recite the Quran the way it was revealed to him.
+* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Discusses the criteria for recitation of the Quran, which includes having an authentic narrative chain of narration and being in line with the traditional orthographic texts. He goes on to say that there is no such thing as Christianity and Judaism, because Moses did not say that the Torah has been revealed. Another difference between the Quran and other scriptures is that there is no criterion for authentication.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The narrator discusses the difference between a 10-Karat gold standard and a lower standard for preserving the Quran. He argues that if we are explaining Islam, we have less to prove, and that those like Jessaly Zimmerman who reject textual criticism are committing an act of apostasy. He also points out that if a scholar is using textual criticism for ideological purposes, they are committing blasphemy.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the theory of abrogation, which is the idea that a particular Quranic verse can be canceled or replaced by another verse. He gives examples of when abrogation might happen, and explains that a fair-minded person would agree that the Quran fulfills the criterion for preservation. He compares the Quran with the Bible, and points out that there is no criterion for what should be included in the Bible and what should be taken out. He concludes by saying that a fair-minded person would agree that the Quran is the correct Islamic scripture.
+* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Discusses the theory of abrogation, which is the idea that a particular Quranic verse can be canceled or replaced by another verse. He gives examples of when abrogation might happen, and explains that a fair-minded person would agree that the Quran fulfills the criterion for preservation. He compares the Quran with the Bible, and points out that there is no criterion for what should be included in the Bible and what should be taken out. He concludes by saying that a fair-minded person would agree that the Quran is the correct Islamic scripture.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:00:00</a>
 
  is part of a series about the city of London and its history. In this installment, the presenter discusses the differences between the Septuagint and other translations of the Bible, and how the lack of a chain of narration makes the Septuagint not a valid translation. He also discusses the differences between the text and the archaeological evidence. The presenter finishes with a reminder for those attending next week's meetings.
 
-**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>* Discusses the differences between the Septuagint and other translations, and how the lack of a chain of narration makes it not a valid translation. It also discusses the differences between the text and the archaeological evidence. The presenter finishes with a reminder for those attending next week's meetings.
+**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Discusses the differences between the Septuagint and other translations, and how the lack of a chain of narration makes it not a valid translation. It also discusses the differences between the text and the archaeological evidence. The presenter finishes with a reminder for those attending next week's meetings.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

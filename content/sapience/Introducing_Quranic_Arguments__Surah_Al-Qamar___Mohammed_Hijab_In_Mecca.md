@@ -5,25 +5,24 @@
 ## Description
 
 Help us educate and mentor others to share the faith academically.
-Donate now: https://sapienceinstitute.org/donate/ 
+Donate now: <https://sapienceinstitute.org/donate/>
 
-Free online courses: https://learn.sapienceinstitute.org/
+Free online courses: <https://learn.sapienceinstitute.org/>
 
-Free books: https://sapienceinstitute.org/books/
+Free books: <https://sapienceinstitute.org/books/>
 
-Have doubts? Book a free one to one meeting with our mentors: https://sapienceinstitute.org/lighthouse/
+Have doubts? Book a free one to one meeting with our mentors: <https://sapienceinstitute.org/lighthouse/>
 
-Listen (Podcast): https://sapienceinstitute.org/sapientvoices/
+Listen (Podcast): <https://sapienceinstitute.org/sapientvoices/>
 
 Follow:
-– Facebook: https://facebook.com/sapienceinstitute.org/ 
-– Twitter: https://twitter.com/SapienceOrg/ 
-– Instagram: https://instagram.com/sapienceinstitute/ 
+– Facebook: <https://facebook.com/sapienceinstitute.org/>
+– Twitter: <https://twitter.com/SapienceOrg/>
+– Instagram: <https://instagram.com/sapienceinstitute/>
 
-Articles, speaker requests & more: https://sapienceinstitute.org/
+Articles, speaker requests & more: <https://sapienceinstitute.org/>
 
 ## Summary of [Introducing Qur’anic Arguments: Surah Al-Qamar | Mohammed Hijab In Mecca](https://www.youtube.com/watch?v=no9nXw8hfds)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -32,38 +31,43 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
  introduces Qur'anic arguments, which are used to support points made in the Surah Al-Qamar. The Surah is full of repetition and similes, which characterize the style and linguistic field of the text. The main point of the video is that the human being is like a tree that is pulled out of the ground by an event that is cataclysmic, serious, or enormous.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  examines the structural features of the Quran in relation to making a case for its existence and authority. It discusses the themes of the Surah Al-Qamar, including its use of cosmological imagery and its reference to a legend.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses Surah Al-Qamar, which is about the Hour drawing near and the moon splitting in two. He covers the historical evidence for this miracle, and then goes on to discuss how two different arguments can be made for it. He concludes by saying that the strongest argument is the Qur'an's own testimony.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses Surah Al-Qamar, which is about the Hour drawing near and the moon splitting in two. He covers the historical evidence for this miracle, and then goes on to discuss how two different arguments can be made for it. He concludes by saying that the strongest argument is the Qur'an's own testimony.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  introduces Qur'anic arguments, which explain Surah Al-Qamar's ending in terms of its content and structure. Each Ayah contains references to Allah, and the ending of the Surah is symbolized by the abruptness of its rhyming and sound.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses Surah Al-Qamar, in which Allah speaks to Prophet Mohammed about withdrawing from certain people because they will come home "humbled eyes" by the way. This Surah also discusses the concept of tashvih, or "perfect wisdom." points out that this concept is illustrated by the fact that insects are scattered about when the Allah tries to make them feel insignificant.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses Surah Al-Qamar, in which Allah speaks to Prophet Mohammed about withdrawing from certain people because they will come home "humbled eyes" by the way. This Surah also discusses the concept of tashvih, or "perfect wisdom." points out that this concept is illustrated by the fact that insects are scattered about when the Allah tries to make them feel insignificant.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** The story of Noah is mentioned in the Quran to emphasize the insignificance of human beings. Noah's people rejected him and said he was a madman, and he was rebuked and threatened. The story of Noah is summarized in a short space of time and it emphasizes the importance of prayer and the effect of a prophet's supplication.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses the different relationships between Allah and humans, discussing how Allah is responsible for all of the Great Inventions humans have ever made, while humans are only responsible for the actions they themselves take.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses the different relationships between Allah and humans, discussing how Allah is responsible for all of the Great Inventions humans have ever made, while humans are only responsible for the actions they themselves take.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>**  introduces Qur'anic arguments, which state that Islam does not intend to destroy the non-Muslim population until they receive a prophet. This is important to remember because someone might think that because there are so many Christians in the world today, Islam must be a violent religion. Yanni is critical of this idea, pointing out that many Christians have memorized the Quran, something which he claims is not a common occurrence among religious people.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>**  introduces Qur'anic arguments, which focus on Surah Al-Qamar. The arguments suggest that Allah has repeated Himself in the Quran to encourage people to memorize it.  also discusses the importance of memorizing the Quran, noting that it is one of the most memorized books in history.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** introduces Qur'anic arguments, which focus on Surah Al-Qamar. He discusses the stylistic features of this particular Surah, which include its simultaneousness and abrupt endings. He also mentions the possibility of being destroyed by anything, including cancer.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  introduces Qur'anic arguments, which are used to support points made in the Surah Al-Qamar. The Surah is full of repetition and similes, which characterize the style and linguistic field of the text. The main point of the video is that the human being is like a tree that is pulled out of the ground by an event that is cataclysmic, serious, or enormous.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the Qur'anic argument that if there is something rather than nothing, then it must be because God exists.  points out that the people of Samud were accusing Mohammed of being mad after he claimed to be a prophet, and then Allah gives them further evidence that he is a true prophet. If Mohammed were not a prophet, then it would be a lie for them to believe this.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses Surah Al-Qamar, which discusses the importance of parental guidance and admonishing children to pray. points out that if one's job is only to tell their children to pray, then the term "stubborn" would not be used. The Arabic words used in the Quran have specific meanings which are important to understand in order to properly raise one's children.  points out that today's world is full of challenges and that the easy thing to do is to do nothing, but to instead be mindful of what our Lord is saying through the Quran. urges viewers to remember the Quran and to be diligent in studying it.
+* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Discusses the Qur'anic argument that if there is something rather than nothing, then it must be because God exists.  points out that the people of Samud were accusing Mohammed of being mad after he claimed to be a prophet, and then Allah gives them further evidence that he is a true prophet. If Mohammed were not a prophet, then it would be a lie for them to believe this.
+* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Discusses Surah Al-Qamar, which discusses the importance of parental guidance and admonishing children to pray. points out that if one's job is only to tell their children to pray, then the term "stubborn" would not be used. The Arabic words used in the Quran have specific meanings which are important to understand in order to properly raise one's children.  points out that today's world is full of challenges and that the easy thing to do is to do nothing, but to instead be mindful of what our Lord is saying through the Quran. urges viewers to remember the Quran and to be diligent in studying it.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  argues that the Qur'anic arguments against homosexuality are more valid than those in traditional religious texts. It also discusses the Prophet Mohammed and the end of the world, claiming that the Qur'an is the only source that accurately predicts this event.
 
-**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>* Discusses the importance of gratitude and how it can lead to positive outcomes in this life, such as being saved from suffering and receiving blessings from Allah.  also discusses the minimum requirement of Dao (virtue or morality) that homosexuals must have in order to be warned of the consequences of their actions.
+**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Discusses the importance of gratitude and how it can lead to positive outcomes in this life, such as being saved from suffering and receiving blessings from Allah.  also discusses the minimum requirement of Dao (virtue or morality) that homosexuals must have in order to be warned of the consequences of their actions.
+
 * **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>**  introduces Qur'anic arguments against homosexuality, which suggest that homosexual behavior is harmful to both individuals and society. points out that there are consequences to homosexual behavior, including psychological and sexual problems for individuals and their children, as well as the spread of sexually transmitted diseases. argues that it is the responsibility of society to provide an alternative to homosexuality for those who want it, since individuals cannot change their sexuality.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>* Discusses how Islam views homosexuality and argues that it is possible to change one's sexual preference. It also discusses how sexuality works and how it is related to boredom.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>* Discusses how there are only two ways to deal with homosexuality-by reducing or increasing the behavior. He goes on to say that this is a good therapeutic method for someone who is struggling with the issue. He also offers an example of how to deal with someone who wants to stop watching pornography or engaging in homosexual behavior.
-* **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>* Discusses the importance of alternatives and consequences when it comes to motivating people to do things. He points out that even with the best of intentions, people can be overwhelmed by fear and not be able to achieve their goals. offers purification as an alternative means of motivating people, and explains that when people believe in it, it can have a powerful effect.
+* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Discusses how Islam views homosexuality and argues that it is possible to change one's sexual preference. It also discusses how sexuality works and how it is related to boredom.
+* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** Discusses how there are only two ways to deal with homosexuality-by reducing or increasing the behavior. He goes on to say that this is a good therapeutic method for someone who is struggling with the issue. He also offers an example of how to deal with someone who wants to stop watching pornography or engaging in homosexual behavior.
+* **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** Discusses the importance of alternatives and consequences when it comes to motivating people to do things. He points out that even with the best of intentions, people can be overwhelmed by fear and not be able to achieve their goals. offers purification as an alternative means of motivating people, and explains that when people believe in it, it can have a powerful effect.
 * **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>**  introduces Qur'anic arguments, and discusses how Surah Al-Qamar, which deals with the moon, is relevant to Muslims living in Mecca.  also features Mohammed Hijab, a Muslim who lives in Mecca and discusses the importance of the Qur'an to her.
 * **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>**  introduces Qur'anic arguments, which are very powerful Hadith. The Hadith includes Muslims and non-muslims, and animals. The argument is that everything is included in Allah's blessing, which is why we should be grateful and offer thanks to Him. The Hadith concludes with a discussion of the consequences of rejecting Allah's blessings, and the importance of appreciating Allah's perfect way of worship.
 * **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** introduces Qur'anic arguments, which offer a different perspective on traditional religious beliefs. Some of the arguments presented focus on the objectification of women and thereatment of homosexuals in traditional religious texts.  then moves on to discuss the connection between prophets and sexuality, pointing out that sexual enment is a common crime in traditional religious texts.
 * **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>**  introduces Qur'anic arguments, which focus on Surah Al-Qamar. The arguments explain that the Prophet Mohammed was a truthful prophet who received guidance from Allah. The Prophet's followers, including the people of Quraish, were arrogant and rejected all of his signs. However, Allah punished them with a penalty that was greater than what they could have ever imagined.  also mentions the Battle of beta and predicts that the Muslims will win. This prediction is important because it shows that the faith of the Muslims is always correct.
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** of the video discusses the Qur'an's prediction of the end of the world, which he claims is one of the biggest mistakes in the Bible. C.S. Lewis, a famous Christian author, discusses this same verse in his book "The Bible." He claims that the Bible got the prediction wrong, and that the Qur'an is the only source that accurately predicts this event.
-* **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>* introduces Qur'anic arguments, which he says are better than the evidences given by prophets in the past. He also discusses two views among scholars of the compilation of the Quran. One view says the Quran was compiled from the Prophet's companions, while the other view says it was compiled from Allah. Regardless of the source, the author says that this does not really matter because the content of the Quran is the same.
+* **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** introduces Qur'anic arguments, which he says are better than the evidences given by prophets in the past. He also discusses two views among scholars of the compilation of the Quran. One view says the Quran was compiled from the Prophet's companions, while the other view says it was compiled from Allah. Regardless of the source, the author says that this does not really matter because the content of the Quran is the same.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** argues that the Quran is structurally coherent, and that evidence points to Muhammad being the one who put it in its present order. They also mention that the existence of something rather than nothing necessitates the existence of a cause, and that this cause is God.
+
 ### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:05:00</a>
 
  introduces the idea of Qur'anic arguments, which assert that evil is a manifestation of one of Allah's attributes. The presenter discusses various alternatives to marriage, concluding that most people should get married and work on themselves to overcome their addictions.
 
 **<a onclick="modifyYTiframeseektime('7200')">02:00:00</a>**  introduces Qur'anic arguments, which assert that because Allah is the best creator, anything that exists in the world - including evil - is a manifestation of one of his attributes.  points out that even atheists admit that this is a non-sequito argument, and that there is no evidence that evil exists.
+
 * **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>** The presenter discusses various alternatives to marriage, including excessive masturbation and pornography, fasting, and self-control. He concludes that, ultimately, most people should get married and work on themselves to overcome their addictions.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

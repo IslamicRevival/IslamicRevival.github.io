@@ -7,25 +7,24 @@
 Shubuhat Series #3 - "Hudud" (Penal Code In Islam) | Mohammed Hijab
 —
 Help us educate and mentor others to share the faith academically.
-Donate now: https://sapienceinstitute.org/donate/ 
+Donate now: <https://sapienceinstitute.org/donate/>
 
-Free online courses: https://learn.sapienceinstitute.org/
+Free online courses: <https://learn.sapienceinstitute.org/>
 
-Free books: https://sapienceinstitute.org/books/
+Free books: <https://sapienceinstitute.org/books/>
 
-Have doubts? Book a mentor: https://sapienceinstitute.org/lighthouse/
+Have doubts? Book a mentor: <https://sapienceinstitute.org/lighthouse/>
 
-Listen (Podcast): https://sapienceinstitute.org/sapientvoices/
+Listen (Podcast): <https://sapienceinstitute.org/sapientvoices/>
 
 Follow:
-– Facebook: https://facebook.com/sapienceinstitute.org/ 
-– Twitter: https://twitter.com/SapienceOrg/ 
-– Instagram: https://instagram.com/sapienceinstitute/ 
+– Facebook: <https://facebook.com/sapienceinstitute.org/>
+– Twitter: <https://twitter.com/SapienceOrg/>
+– Instagram: <https://instagram.com/sapienceinstitute/>
 
-Articles, speaker requests & more: https://sapienceinstitute.org/
+Articles, speaker requests & more: <https://sapienceinstitute.org/>
 
 ## Summary of [Shubuhat Series #3 - "Hudud" (Penal Code In Islam) | Mohammed Hijab](https://www.youtube.com/watch?v=pVNN4R4fMng)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -34,12 +33,13 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
  Mohammed Hijab discusses the Islamic penal code, "hudud." He explains that hudud is a fundamental part of Islamic law and is applied on the other side as well, namely in the Western world. He provides examples of punishments for crimes such as zina and kufr, and concludes with a statement of gratitude and peace.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** In this third video in the Shubuhat series, Mohammed Hijab discusses the Islamic penal code, specifically the hudud. This code contains specific punishments for a variety of crimes, such as zina (sexual intercourse without consent), kufr (disbelief), and banda (attempted forced marriage). Zina is the most serious of these crimes, and can lead to a severe punishment such as stoning to death.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses Sharia law, specifically the punishment for zina, which is adultery or sexual contact between people who are not married to each other. There are different degrees of zina, and the severity of the punishment depends on the nature of the act, the victim, and the perpetrator.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses Sharia law, specifically the punishment for zina, which is adultery or sexual contact between people who are not married to each other. There are different degrees of zina, and the severity of the punishment depends on the nature of the act, the victim, and the perpetrator.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** <>
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** In this third video in the Shubuhat series, Mohammed Hijab discusses the Islamic punishment for theft, which is cutting off the hands of the thief. This punishment is found in both the Quran and the Hadith, a collection of the sayings and deeds of the Prophet Mohammed.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** The Islamic penal code, known as "sharia," includes a number of punishments, including death by stoning. Mohammed Hijab discusses some of the concepts behind the Islamic penal code, including the requirement for two witnesses to crimes such as theft. He also discusses a hadith in which Muhammad says that even his daughter, Fatima bint Muhammad, would be punished if she were to steal.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Mohammed Hijab discusses the verses in Surah 33 of the Quran, which discuss the implementation of Islamic law: cutting off the road, causing fear, and corruption. He says there is an opinion that this ayah was revealed in response to two people who did not adhere to the Prophet Muhammad and broke the sacred silver vessel.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses the severity of punishment in Islam for actions such as murdering a Muslim or injuring a Muslim, and provides a summary of the verses that support this punishment. The discussion turns to the question of when these punishments should be applied in specific situations, with a majority of scholars agreeing that each situation has its own specific punishment.
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses the severity of punishment in Islam for actions such as murdering a Muslim or injuring a Muslim, and provides a summary of the verses that support this punishment. The discussion turns to the question of when these punishments should be applied in specific situations, with a majority of scholars agreeing that each situation has its own specific punishment.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>**  Mohammed Hijab discusses the Islamic penal code, "hudud." He explains that hudud is a fundamental part of Islamic law and is applied on the other side as well, namely in the Western world. He concludes with a statement of gratitude and peace.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

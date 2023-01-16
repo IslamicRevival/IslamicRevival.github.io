@@ -6,10 +6,9 @@ A brief discussion on the so called infallibility of the 12 imams and the family
 
 Orignal video courtesy of SCDawah Channel support them by going over and subscribing to their channel -
 
-https://www.youtube.com/channel/UCnZPtuya_yUUqGZGHk1nEOA
+<https://www.youtube.com/channel/UCnZPtuya_yUUqGZGHk1nEOA>
 
 ## Summary of [Shias Catch Sunni Mohammed Hijab in Speakers Corner](https://www.youtube.com/watch?v=agMBFfuGB5Y)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -18,6 +17,7 @@ https://www.youtube.com/channel/UCnZPtuya_yUUqGZGHk1nEOA
 <>
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Shia Muslims argue that Allah gives them the ability to control everything, similar to a Trinity argument. They also argue that the Quran says that when Adam was little, Allah let him live "cool enough to see, and now let's just took away what he says" about when he is little in an effing whatever on Allah.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The Shia speaker argues that Sunnis and Shiites have different beliefs about whether Imam Hossein Nasr (a Shi'ite scholar) has knowledge of everything. Sunnis believe that he does not, while Shiites maintain that he does. The Shia speaker challenges Sunnis to provide evidence for their beliefs, but the Sunni speaker does not offer any.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** warns a Sunni man that he is committing a sin by wearing a hijab, and that he will be punished if he does not repent. He also warns the man that Shia Muslims are just as religious as Sunni Muslims, and that there is no difference between religious and rajas (a state of excitement).
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The Shia speaker argues that there is no verse in the Quran that specifically refers to animals being bait for the devil, and that this belief is instead based on interpretations of the Arabic word "religious." The Shia also argues that the evidence for this belief is not found in the Quran or any other religious texts.

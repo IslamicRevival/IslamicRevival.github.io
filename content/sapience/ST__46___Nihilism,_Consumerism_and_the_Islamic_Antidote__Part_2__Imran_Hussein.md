@@ -6,8 +6,9 @@
 
 ST #45:  Nihilism, Consumerism and the Islamic Antidote — Part 2: Enlightened Without Light | Imran Hussein
 
-To be updated about our content please subscribe and open the notifications.
+To be updated about our content please subscribe and open the notifications
 ----
+
 BOOK A LIGHTHOUSE MENTOR
 
 Are you or someone you know doubting Islam? Do you find yourself struggling to find answers?  Do you have a hard time speaking to someone about Islam?  Are you considering Islam but are unsure about certain concepts?  Are you an activist, Imam or community leader who is unsure about how to handle questions related to science, philosophy, the Islamic moral code, etc.?
@@ -16,12 +17,11 @@ You are not alone.  Over the course of the last decade or more there has been a 
 
 Seeing the rise of  this phenomenon , Sapience Institute is introducing a One to One mentoring service called LIGHTHOUSE.
 
-BOOK A MENTOR HERE: https://sapienceinstitute.org/lighthouse/
+BOOK A MENTOR HERE: <https://sapienceinstitute.org/lighthouse/>
 
-VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: https://sapienceinstitute.org/
+VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: <https://sapienceinstitute.org/>
 
 ## Summary of [ST #46: Nihilism, Consumerism and the Islamic Antidote — Part 2 | Imran Hussein](https://www.youtube.com/watch?v=p3AXZ4LB-ZE)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -29,7 +29,8 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 
  Imran Hussein discusses the origins of nihilism and consumerism, and how they are related. He explains that nihilism is a philosophy that has its origins in the Enlightenment period, and that consumerism is a product of this philosophy. He asks viewers to share their thoughts on the link between these phenomena in the comment section below.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the history and origins of nihilism, and how it has become prevalent in today's society.  also discusses the Enlightenment period, and how some of the thinkers during this time were atheist, but did not reject all religion.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the history and origins of nihilism, and how it has become prevalent in today's society.  also discusses the Enlightenment period, and how some of the thinkers during this time were atheist, but did not reject all religion.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The Enlightenment allowed human beings to express themselves and their intellects, engage the rational faculties in understanding the world, and develop the physical world. One of the ideas proposed by the Enlightenment thinkers was of progress, which meant human beings were to have a new vision and create a worldly utopia. However, this new vision did not materialize as expected, and many thinkers took offense at religion because it hindered the growth of economy. Marx, in particular, recognized that religion created a psychology that kept human beings in line, and he used this as a tool to understand why the idea of progress did not materialize as expected.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  Imran Hussein discusses the origins of nihilism and consumerism, and how they are related. He asks viewers to share their thoughts on the link between these phenomena in the comment section below.
 

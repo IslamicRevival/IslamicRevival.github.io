@@ -6,22 +6,22 @@
 
 Sesson 3 Part 3
 
-In an age of information overload and widespread pseudo-intellectualism, understanding the core foundations of Islam is as essential as ever. 
+In an age of information overload and widespread pseudo-intellectualism, understanding the core foundations of Islam is as essential as ever.
 
 This course comprehensively deconstructs the skeletal structure of prevalent ideologies and concepts such as atheism, scientism, materialism, secularism, and skepticism, in light of an all-encompassing intellectually robust Islamic worldview.
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -29,42 +29,40 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 
 Gmail: hello.tapodcast@gmail.com
 
-
-#causality #quantum #UniverseFromNothing
+# causality #quantum #UniverseFromNothing
 
 ## Summary of [Causality Does Not Exist at Quantum Level | The Evidence Course | Session 3 / Part 3](https://www.youtube.com/watch?v=1AY-KXYsLtw)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -73,10 +71,11 @@ Gmail: hello.tapodcast@gmail.com
  scientists discuss the idea that the universe came from nothing. They point out that, according to the laws of quantum mechanics, it is not clear where these fields came from or why the world should have existed in the first place. They also argue that, even if materialistic causation does not exist, there must still be an independent, unlimited creator to have determined the existence of the universe.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  Muhammad discusses quantum mechanics, which is the branch of physics that studies the very small. He explains that quantum mechanics has some weird observations that don't follow the laws of causality that we're used to. He goes on to say that we have to assume causality in order to attain any understanding of quantum mechanics, and that we also must assume that there are fixed patterns of behavior in order to make any predictions.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the idea that quantum level interactions have no materialistic causation, which means that the big world we live in is made up of quantum level interactions, but that on a macro level we can't predict what will happen.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  a professor discusses how causality is a necessary component for rational thought, and how if causality does not exist on a quantum level, then it does not exist on the macro level either. This would mean that we cannot ask the question "what caused the big bank?" because there is no causality on that level.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  various scientists discuss the idea that the universe came from nothing. Though some find this concept difficult to accept, they ultimately agree that it is based on scientific evidence. Professor Michio Kaku points out that the universe could have come from either an absolute nothing or a state of nothing, but it did not come from nothing in between. David Albert critiques the idea that the universe could have come from an infinitesimally tiny explosion, arguing that this does not account for the laws of physics that we currently observe.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** In this third video of the "Causality Does Not Exist at Quantum Level" series, Professor Lawrence Krauss points out that, according to the laws of quantum mechanics themselves, it is not clear where these fields came from or why the world should have existed in the first place. He also argues that, even if materialistic causation does not exist, there must still be an independent, unlimited creator to have determined the existence of the universe.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the idea that quantum level interactions have no materialistic causation, which means that the big world we live in is made up of quantum level interactions, but that on a macro level we can't predict what will happen.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  a professor discusses how causality is a necessary component for rational thought, and how if causality does not exist on a quantum level, then it does not exist on the macro level either. This would mean that we cannot ask the question "what caused the big bank?" because there is no causality on that level.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  various scientists discuss the idea that the universe came from nothing. Though some find this concept difficult to accept, they ultimately agree that it is based on scientific evidence. Professor Michio Kaku points out that the universe could have come from either an absolute nothing or a state of nothing, but it did not come from nothing in between. David Albert critiques the idea that the universe could have come from an infinitesimally tiny explosion, arguing that this does not account for the laws of physics that we currently observe.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** In this third video of the "Causality Does Not Exist at Quantum Level" series, Professor Lawrence Krauss points out that, according to the laws of quantum mechanics themselves, it is not clear where these fields came from or why the world should have existed in the first place. He also argues that, even if materialistic causation does not exist, there must still be an independent, unlimited creator to have determined the existence of the universe.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

@@ -4,16 +4,15 @@
 
 ## Description
 
-For further reading: 'Did Muslim Exegetes Ever Accept Jesus’ Crucifixion? Debunking a Recent Myth' by Dr Louay Fatoohi https://www.academia.edu/50736172/Did_Muslim_Exegetes_Ever_Accept_Jesus_Crucifixion_Debunking_a_Recent_Myth
+For further reading: 'Did Muslim Exegetes Ever Accept Jesus’ Crucifixion? Debunking a Recent Myth' by Dr Louay Fatoohi <https://www.academia.edu/50736172/Did_Muslim_Exegetes_Ever_Accept_Jesus_Crucifixion_Debunking_a_Recent_Myth>
 
 You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
+<https://www.patreon.com/Bloggingtheology>
 
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
 ## Summary of [Does the Qur’an Deny the Crucifixion of Jesus? with Dr Louay Fatoohi](https://www.youtube.com/watch?v=99AOlNniUXw)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -22,12 +21,14 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 In the video, Dr. Louay Fatoohi discusses the consensus among Muslims that the Quran denies the crucifixion of Jesus. He goes on to discuss the attempts by some to reject this consensus, and argues that denying the consensus is an extreme case of confirmation bias. He also discusses the various interpretations of the Qur'an with regard to the crucifixion of Jesus, and how some Muslims believe that the Qur'an denies the crucifixion of Jesus.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The video discusses the history and language of interpretation of the Quran's denial of the crucifixion of Jesus. Dr. Louay Fatoohi discusses the consensus among Muslims that the Quran denies this event, and then discusses the attempts by some non-Muslims to reject this consensus.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The video discusses the consensus among scholars that the Qur'an denies the crucifixion of Jesus. The presenter goes on to discuss the non-crucifixion verse in more detail, highlighting that it is the only verse in the Qur'an that specifically addresses the subject of the crucifixion. The presenter then presents the Muslim consensus on the subject.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The video discusses the various schools of thought among Muslims regarding whether or not the Qur'an denies the crucifixion of Jesus. All schools of thought agree that the Qur'an denies the crucifixion, based on a particular verse in the Quran. The consensus of Muslims on this issue is significant, as it shows the similarities between Muslim scholars of other scriptures in their disagreement and debate.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** This video discusses the difference between exegesis and ijtihad, and provides an example of exegesis in the form of a graph showing how scholars approach scripture based on their fundamental assumptions. The video then discusses the concept of double denial in the Quran, and points to evidence that suggets that Jesus did not die on the cross, and was instead taken up to heaven.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** The video discusses the consensus among Muslims that Jesus was crucified. However, there is a movement among some Muslims to question this consensus, and to argue that Jesus was not actually crucified.
 
 Icy Jesus is a term used to describe someone who denies the consensus among Muslims that Jesus was crucified. The presenter argues that denying the consensus is an extreme case of confirmation bias, and that the work of any one scholar should not be generalized.
+
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** This video discusses the various scholars who have suggested that the Qur'an does not deny the crucifixion of Jesus. The main points made are that the idea first appeared in the 18th century, was followed by several other scholars in the 19th century, and that Todd Lawson's book, "The Crucifixion and the Qur'an," is often cited in discussions about the topic.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** In this video, Dr. Louay Fatoohi discusses how early Muslim scholars accepted the crucifixion of Jesus. Fatoohi explains that the earliest of these scholars was the Abu Hatemrazi, who was a contemporary of al-Razi. Fatoohi also discusses the Greek scholar, Fakhr Dinarazi, who collected and reviewed works on the topic. Finally, Fatoohi discusses how Paul's writings refute the idea that the Qur'an denies the crucifixion of Jesus.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** The video discusses the different views on the crucifixion of Jesus in Islam and Christianity, with Louay Fatoohi presenting the view that the Qur'an denies the crucifixion. Fatoohi then goes on to discuss another view, that the Qur'an is not denying that the Jews killed Jesus, but is reminding them of God's role in the crucifixion.
@@ -35,11 +36,13 @@ Icy Jesus is a term used to describe someone who denies the consensus among Musl
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** This video discusses why some scholars have started to question the Qur'an's denial of the crucifixion of Jesus. Christian theologians hope to repair the broken relationship between Islam and Christianity by showing that the Qur'an affirms the death and resurrection of Christ. However, this attempt to present the Qur'an in a more positive light to Christian readers has had unintended consequences, as many Muslims believe that Jesus was not crucified.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The speaker discusses how some Muslims believe that the Qur'an denies the crucifixion of Jesus, and argues that this is an islamic agenda rather than a historical one. He then goes on to say that because the Qur'an is considered to be the word of God, it should be understood in a theological sense rather than a historical sense.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The author of the video discusses various interpretations of the Qur'an with regard to the crucifixion of Jesus. He argues that, due to the spiritual nature of some of the Qur'an's statements, it is difficult to determine whether or not it denies the crucifixion. He also mentions that there are attempts to deny the conservation of the Qur'an, and that there are serious issues for Muslims who claim that Muhammad wrote the Qur'an.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:45:00</a>
 
 The YouTube video "Does the Qur'an Deny the Crucifixion of Jesus?" by Dr. Louay Fatoohi discusses the alleged contradiction in the Qur'an between its mention of stoning and crucifixion of Jesus, and the actual historical evidence. Fatoohi argues that the Qur'an's focus is on the belief itself, rather than the history or context of that belief. The video discusses how the Qur'an does not mention any specific books that were used to argue that the Jews tampered with scripture, and how the burden of proof is on those who make that suggestion. Additionally, the video discusses alternative views of the Qur'an's view of the crucifixion of Jesus.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** The Qur'an does not deny the crucifixion of Jesus, contrary to what some Christians believe. The verse in question, "Let us come to common terms," is a threat to the success of Muhammad's proselytizing of Christians if he was a fraud.
+
 * **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** This YouTube video discusses a passage in the Talmud which some believe refers to Jesus, and how it differs from the story in the Bible. The main passage in question is about someone called "ben stada" who is accused of bringing witchcraft from Egypt by scratching people's skin. Another passage refers to a soldier called "bin pandey" who is said to have had a relationship with Mary and Jesus. The video concludes that the crucifixion story in the Bible does not match the Talmud passage, and that Jesus was instead born of a virgin.
 * **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** The YouTube video "Does the Qur'an Deny the Crucifixion of Jesus?" by Dr. Louay Fatoohi discusses the alleged contradiction in the Qur'an between its mention of stoning and crucifixion of Jesus, and the actual historical evidence. Fatoohi argues that the four words mentioned in the Qur'an - "stoning," "hanging," and "dual punishment" - are not linked to the specific story of Jesus' crucifixion, but are instead general terms that could be applied to any instance of stoning. Furthermore, he argues that the Qur'an's focus is on the belief itself, rather than the history or context of that belief.
 * **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** The video discusses how the Qur'an does not mention any specific books that were used to argue that the Jews tampered with scripture. Instead, the burden of proof is on those who make the suggestion that the Qur'an was influenced by the Talmud. There is no evidence that the jews in Arabia had copies of the Talmud, and the Talmud itself makes no mention of the jews in Arabia.

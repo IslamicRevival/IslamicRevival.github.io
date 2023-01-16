@@ -7,20 +7,19 @@
 An invitation to Elon Musk to email me to organise a discussion:  
 sirateducation@gmail.com
 
-Sponsored by Natures Blends (hijab 10 for 10% discount): https://www.naturesblends.com/
+Sponsored by Natures Blends (hijab 10 for 10% discount): <https://www.naturesblends.com/>
 
-Smile2jannah Neuralink video: https://youtu.be/fZ5soV3shok
-Similar video with Hamza Tzortzis: https://youtu.be/aUm0o0Cu5qg
-Further reading: https://sapienceinstitute.org/does-artificial-intelligence-undermine-religion/
+Smile2jannah Neuralink video: <https://youtu.be/fZ5soV3shok>
+Similar video with Hamza Tzortzis: <https://youtu.be/aUm0o0Cu5qg>
+Further reading: <https://sapienceinstitute.org/does-artificial-intelligence-undermine-religion/>
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
-My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
+My book: <https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/>
 
 ## Summary of [ELON MUSK: MAGICIAN OF THE NEW AGE?](https://www.youtube.com/watch?v=tm_MZ4GX05A)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -29,6 +28,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 In his latest video, Elon Musk discusses the possibility of "saving and replaying memories" in the future. He argues that this is a form of "magical" technology which is rooted in deception. Musk's comments bypass important discussions happening in academia, and could have negative consequences for society.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** In his latest video, Elon Musk discusses the possibility of "saving and replaying memories" in the future. He argues that this is a form of "magical" technology which is rooted in deception. Musk's comments bypass important discussions happening in academia, and could have negative consequences for society.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Elon Musk discusses the idea that memories are composed of a combination of what we remember and the emotions we feel when recalling those memories. Despite the impossibility of saving emotions, he believes that memories can be retrieved through technology. However, this cannot be done without first understanding the emotions themselves and how they are tied to specific neurological pathways.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  Elon Musk discusses the limitations of science and technology, and how they can be used to enslave people. He says that even if scientists and engineers manage to create sophisticated machines, they will never be able to create life-bearing machines or even create simple flies. The Quran shares similar views, stating that even if scientists and engineers manage to create sophisticated machines, they will not be able to create life-bearing machines or even create simple flies. This knowledge helps Muslims to understand the limits of science and technology and to not give themselves over to those who speak in scientific and technological jargon without intending to help people.
 

@@ -4,12 +4,11 @@
 
 ## Description
 
-7 Reasons Why Allah is Worthy of Worship - by Hamza Andreas Tzortzis (New 2019). 
+7 Reasons Why Allah is Worthy of Worship - by Hamza Andreas Tzortzis (New 2019).
 
-You can read Hamza’s essay on this topic here: “7 Reasons Why God is Worthy of Worship” https://www.hamzatzortzis.com/7-reasons-why-god-is-worthy-of-worship/.
+You can read Hamza’s essay on this topic here: “7 Reasons Why God is Worthy of Worship” <https://www.hamzatzortzis.com/7-reasons-why-god-is-worthy-of-worship/>.
 
 ## Summary of [7 Reasons Why Allah is Worthy of Worship - by Hamza Andreas Tzortzis (New 2019)](https://www.youtube.com/watch?v=7GThORUJhf0)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -17,17 +16,18 @@ You can read Hamza’s essay on this topic here: “7 Reasons Why God is Worthy 
 
  discusses seven reasons why Allah is worthy of worship, and argues that He is the only being worthy of worship, the only object worthy of worship, and the only deity worthy of worship. He also points out that those who worship other gods have committed shirk, and that praising Allah is an act of worship.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses why Allah is worthy of worship, citing Quranic and traditional sources. It discusses the importance of affirming God's oneness and discusses different aspects of that affirmation. Sugar (associating partners with God) is considered the gravest sin, and those who repent and mend their ways will be forgiven by God.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the reasons why Allah is worthy of worship, including the fact that he is the only being worthy of worship, the only object worthy of worship, and the only deity worthy of worship. It also points out that those who worship other gods have committed shirk.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses why Allah is worthy of worship, citing Quranic and traditional sources. It discusses the importance of affirming God's oneness and discusses different aspects of that affirmation. Sugar (associating partners with God) is considered the gravest sin, and those who repent and mend their ways will be forgiven by God.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the reasons why Allah is worthy of worship, including the fact that he is the only being worthy of worship, the only object worthy of worship, and the only deity worthy of worship. It also points out that those who worship other gods have committed shirk.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** argues that Allah is worthy of worship because of who he is and not only because he has decided to give humanity anything in this life. He gives some examples of how humans can praise Allah by virtue of his perfect attributes.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the reasons why Allah is worthy of worship, and points out that because Allah created us and sustains everything, we are ultimately grateful to him. It also argues that praising Allah is an act of worship, and that giving him extensive praise is one way to show our gratitude.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the reasons why Allah is worthy of worship, and points out that because Allah created us and sustains everything, we are ultimately grateful to him. It also argues that praising Allah is an act of worship, and that giving him extensive praise is one way to show our gratitude.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** argues that Allah is worthy of worship because he provides us with innumerable favors, blessings, and protections, and because loving Allah is an expression of self-love. He also argues that if we can't relate to ourselves in a way that we want goodness for ourselves, then how can we truly love anybody else.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** by Hamza Andreas Tzortzis explains why Allah is worthy of worship. He points out that those who hate others are not really loving themselves because they are not focused on the good that Allah has created. Allah is loving and pure, and the act of worship is loving him in return.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses the reasons why Allah is worthy of worship, citing verses from the Quran and the prophetic tradition. Muslims are responsible for helping others to clear their fitrah so that they can properly worship Allah.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses the reasons why Allah is worthy of worship, citing six reasons. The seventh reason is that obeying Allah is a form of worship itself, and is therefore the most correct form of worship. Islam does not teach believers to suspend their reason in order to obey Allah blindly, but to use their faculties of reason in order to do so.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses seven reasons why Allah is worthy of worship, and concludes that God doesn't need us to worship Him.
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses the reasons why Allah is worthy of worship, citing verses from the Quran and the prophetic tradition. Muslims are responsible for helping others to clear their fitrah so that they can properly worship Allah.
+* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses the reasons why Allah is worthy of worship, citing six reasons. The seventh reason is that obeying Allah is a form of worship itself, and is therefore the most correct form of worship. Islam does not teach believers to suspend their reason in order to obey Allah blindly, but to use their faculties of reason in order to do so.
+* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses seven reasons why Allah is worthy of worship, and concludes that God doesn't need us to worship Him.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** argues that it is not logically inconsistent to believe that Allah is worthy of worship, even though one may not be able to answer the logical question of why Allah created humans to worship him in the first place. He also points out that who God is as revealed in scripture is maximally perfect, and that those who worship God and do good will be elevated to a high degree in virtue.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the reasons why Allah is worthy of worship, emphasizing that everyone worships from some point of view. It explains that if a person's outlook is cut off from the spiritual plane, they will find a god to worship at a lower level. Ultimately, this will lead to the existence of many superstitions, as people try to connect to something that is only absolute.
+* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Discusses the reasons why Allah is worthy of worship, emphasizing that everyone worships from some point of view. It explains that if a person's outlook is cut off from the spiritual plane, they will find a god to worship at a lower level. Ultimately, this will lead to the existence of many superstitions, as people try to connect to something that is only absolute.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  features Hamza Andreas Tzortzis, a prominent Muslim scholar, discussing why Allah is worthy of worship. He compares Allah to other divine beings in order to explain why humans should revere Him.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

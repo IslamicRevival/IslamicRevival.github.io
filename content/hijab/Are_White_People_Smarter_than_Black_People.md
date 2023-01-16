@@ -4,12 +4,11 @@
 
 ## Description
 
-This is a discussion with “Ralph” a far right man who believes that blacks are intellectually inferior to whites on a genetic level. 
+This is a discussion with “Ralph” a far right man who believes that blacks are intellectually inferior to whites on a genetic level.
 
 He is probed on how he comes to this conclusion given the ungeneralisable nature of the IQ tests.
 
 ## Summary of [Are White People Smarter than Black People?](https://www.youtube.com/watch?v=7zkiV1EToGg)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -18,7 +17,8 @@ He is probed on how he comes to this conclusion given the ungeneralisable nature
 the presenter discusses the idea that white people are not inherently smarter than black people, and that the IQ test is not an accurate measure of intelligence. They suggest that an IQ test should not be used to categorize races, because it is based on a flawed social science.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** argues that the IQ test is not an accurate measure of intelligence, and that it is biased because of the biases of the people who created it. He also points out that social sciences are weaker than science, and that IQ tests are used to justify further racism.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the idea that white people are smarter than black people, and asks the person asking the question how they can justify this claim. The person asking the question also asks the presenter why racism is a neutral term. The presenter responds by saying that racism is an expression of a collective group of people who refer to themselves as "white people," "black people," or "people of color." They go on to say that this claim is not objective, and that white people expect others to agree with them because they have been taught this by the left.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the idea that white people are smarter than black people, and asks the person asking the question how they can justify this claim. The person asking the question also asks the presenter why racism is a neutral term. The presenter responds by saying that racism is an expression of a collective group of people who refer to themselves as "white people," "black people," or "people of color." They go on to say that this claim is not objective, and that white people expect others to agree with them because they have been taught this by the left.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** argues that people who can speak multiple languages are more intelligent than those who can only speak one. They also mention that due to colonialism, many people have forgotten about the negative effects of colonialism. suggests that an IQ test should not be used to categorize races, because it is based on a flawed social science.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

@@ -4,12 +4,11 @@
 
 ## Description
 
-A discussion of how we got here and where we are going . 
+A discussion of how we got here and where we are going .
 
 This discussion is particularly important as it attempts to access the most rational inference for the purpose of life question.
 
 ## Summary of [Why Are We ALIVE ? Muslim/Atheist Discussion](https://www.youtube.com/watch?v=elYcn0Hy8Vc)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -18,12 +17,13 @@ This discussion is particularly important as it attempts to access the most rati
 Discusses the existence of the universe and why it began. The Muslim argues that the universe had a beginning and that everything that begins to exist has a cause. The atheist argues that the universe is simply an expanding collection of matter, and that there is no cause for its existence.  then discusses the intelligent design thesis, which is that there is something, or some entity, that began the universe and controls it. Finally, the video discusses the idea that we can make our own subjective purposes.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** , two Muslim and atheist discuss the existence of the universe and why it began. The Muslim argues that the universe had a beginning and that everything that begins to exist has a cause. The atheist argues that the universe is simply an expanding collection of matter, and that there is no cause for its existence.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses concept of randomness, and points out that it does not exist in reality. He then goes on to say that the laws of physics are ordered and are not random.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses concept of randomness, and points out that it does not exist in reality. He then goes on to say that the laws of physics are ordered and are not random.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The presenter argues that the universe must have been created by an intelligent force, and that this force must be indivisible and powerful.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses intelligent design thesis, which is that there is something, or some entity, that began the universe and controls it.  then discusses the possibility that life has a fixed purpose, and that everyone has their own subjective purpose. Finally, the video discusses the idea that we can make our own subjective purposes.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses existence of an objective purpose for humans, and how this purpose is evident in the rules and regulations that govern the universe. It also explains that this purpose is what allows for communication between humans and the creator of the universe.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses hy some people believe that we are alive, despite the lack of evidence that supports it. The various rules and regulations that God allegedly put into place are also discussed, as well as the various evidences that are used to back up these claims. It is ultimately concluded that while there may be some evidence that supports our existence, it is ultimately insufficient and can be replicated by any other religion.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses how he became interested in atheism after realizing that there was no logical reason for life to exist. He then goes on to discuss how he believes that life is a gift from God and that everything happens for a reason.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses intelligent design thesis, which is that there is something, or some entity, that began the universe and controls it.  then discusses the possibility that life has a fixed purpose, and that everyone has their own subjective purpose. Finally, the video discusses the idea that we can make our own subjective purposes.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses existence of an objective purpose for humans, and how this purpose is evident in the rules and regulations that govern the universe. It also explains that this purpose is what allows for communication between humans and the creator of the universe.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses hy some people believe that we are alive, despite the lack of evidence that supports it. The various rules and regulations that God allegedly put into place are also discussed, as well as the various evidences that are used to back up these claims. It is ultimately concluded that while there may be some evidence that supports our existence, it is ultimately insufficient and can be replicated by any other religion.
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses how he became interested in atheism after realizing that there was no logical reason for life to exist. He then goes on to discuss how he believes that life is a gift from God and that everything happens for a reason.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

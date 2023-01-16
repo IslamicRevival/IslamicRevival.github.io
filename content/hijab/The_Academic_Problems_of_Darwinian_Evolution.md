@@ -4,12 +4,11 @@
 
 ## Description
 
-This brief discussion is a round up of some of the main epistemological issues with Darwinian evolution. 
+This brief discussion is a round up of some of the main epistemological issues with Darwinian evolution.
 
-Visit Darwnian Delusions Channel for morehttps://www.youtube.com/channel/UCRkKHyivwGmz36qGgXnZHjQ
+Visit Darwnian Delusions Channel for more<https://www.youtube.com/channel/UCRkKHyivwGmz36qGgXnZHjQ>
 
 ## Summary of [The Academic Problems of Darwinian Evolution](https://www.youtube.com/watch?v=fsJUk_vQnCs)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -18,11 +17,12 @@ Visit Darwnian Delusions Channel for morehttps://www.youtube.com/channel/UCRkKHy
  discusses the academic problems with Darwinian evolution, specifically its lack of certainty and its potential to be used to justify atrocities like the Holocaust. It also points out that other scientific theories have similar flaws.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The academic problems of Darwinian evolution are discussed in this video by a researcher at IERA and Ruffman. They discuss how certain are we of Darwinian evolution, how certain are we that we have the same ancestors as present-day chimps, and how Dawkins allowed us to be intellectually satisfied atheists before Darwin. These points are based on what academics are saying, not just what Ruffman is saying.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the problems with the scientific evidence for Darwinian evolution, specifically with the concept of "recessive mutation." Recalcitrant facts are things that resist a theory, and evolutionary biologists have many of these. If this evidence were to fail, Darwinian evolution would be disproven.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the problems with the scientific evidence for Darwinian evolution, specifically with the concept of "recessive mutation." Recalcitrant facts are things that resist a theory, and evolutionary biologists have many of these. If this evidence were to fail, Darwinian evolution would be disproven.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The academic problems of Darwinian evolution include the fact that genetics and evolutionary engineering are not in congruence, the fossil record does not support punctuated equilibrium, and random mutations do not support natural genetic engineering. The conclusion is that the data can be interpreted in a range of ways, and Darwinian evolution cannot be proven.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** points out that certain assumptions are necessary for Darwinian evolution to work, and that these assumptions are often challenged. He also points out that there are many different theories of evolution, some of which are more accepted than others.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the academic problems of Darwinian evolution, focusing on its lack of certainty and its potential to be used to justify atrocities like the Holocaust. It also points out that other scientific theories have similar flaws.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses the academic problems with Darwinian evolution. Research has shown that the theory is not accurate, and that the social narrative of Darwinian evolution changes over time. This information is inviting for anyone who wants to critically examine the truthfulness of Darwinian evolution.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the academic problems of Darwinian evolution, focusing on its lack of certainty and its potential to be used to justify atrocities like the Holocaust. It also points out that other scientific theories have similar flaws.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses the academic problems with Darwinian evolution. Research has shown that the theory is not accurate, and that the social narrative of Darwinian evolution changes over time. This information is inviting for anyone who wants to critically examine the truthfulness of Darwinian evolution.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

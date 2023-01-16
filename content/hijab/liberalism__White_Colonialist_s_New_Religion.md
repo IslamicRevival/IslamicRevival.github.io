@@ -4,12 +4,11 @@
 
 ## Description
 
-This lecture discusses the history of liberalism and some of its fundamental epistemological flaws. it does so especially in the context of the relationship between Islam and the West. 
+This lecture discusses the history of liberalism and some of its fundamental epistemological flaws. it does so especially in the context of the relationship between Islam and the West.
 
-You can view an article I wrote here -http://www.salam.org.uk/2018/10/01/the-problems-with-liberalism/
+You can view an article I wrote here -<http://www.salam.org.uk/2018/10/01/the-problems-with-liberalism/>
 
 ## Summary of [liberalism: White Colonialist's New Religion](https://www.youtube.com/watch?v=2Dyzc282ZFE)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -18,12 +17,13 @@ You can view an article I wrote here -http://www.salam.org.uk/2018/10/01/the-pro
 Marco Logic discusses liberalism, which he argues is a white colonialist's new religion. He discusses the important questions that need to be asked about liberalism, and how Muslims and Westerners need to question the assumptions behind these questions. He also discusses how liberalism has problematic presuppositions, and how it needs to be confronted in order to be reformed.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Marco Logic discusses liberalism, which he argues is a white colonialist's new religion. He discusses the important questions that need to be asked about liberalism, and how Muslims and Westerners need to question the assumptions behind these questions. He also discusses how liberalism has problematic presuppositions, and how it needs to be confronted in order to be reformed.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** John Locke argued in his book "The Two Treatises of Government" that humans are born free and equal, and that governments are justified by this natural right. In the United States Declaration of Independence, Locke's words are used to support the idea of self-government.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** John Stuart Mill argued that humans are born free and equal, and that pleasure is the only moral justification for doing anything. He also argued that morality should be based on the greatest happiness of the largest number of people, and that harm should not be a concern in decisions made about personal liberties.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** of the video argues that liberalism is not true, as it is based on faulty first principles. He points to the Western European colonization of the world, as well as the spread of liberalism by force, as proof that it is not based on anything concrete. He goes on to say that Muslims have become apologetic about their faith, and that this is a sign of weakness.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses how ancient Greeks believed in different gods without justification, and how liberalism is based on these same beliefs. It argues that this is not a way for critical inquiry, and that instead we should be aware of the myths and legends that are used to justify liberalism.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses how Muslims believe in free speech, but also have principles that restrict what speech is permissible. It argues that these principles come from first principles, and that those who doubt Allah or the messenger are old and doubting.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses correlation between liberalism and suicide rates, as well as the West's attempt to impose its own values on others. It argues that people should not blindly believe in anything, but rather question and find truth for themselves.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses how ancient Greeks believed in different gods without justification, and how liberalism is based on these same beliefs. It argues that this is not a way for critical inquiry, and that instead we should be aware of the myths and legends that are used to justify liberalism.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses how Muslims believe in free speech, but also have principles that restrict what speech is permissible. It argues that these principles come from first principles, and that those who doubt Allah or the messenger are old and doubting.
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses correlation between liberalism and suicide rates, as well as the West's attempt to impose its own values on others. It argues that people should not blindly believe in anything, but rather question and find truth for themselves.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

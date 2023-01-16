@@ -7,17 +7,17 @@
 Sharif and @HamzasDen discuss with a sincere non Muslim
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -25,38 +25,37 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
 ## Summary of [Why Should I Believe in ALLAH?](https://www.youtube.com/watch?v=jdS2lYUATtQ)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -64,14 +63,15 @@ Gmail: hello.tapodcast@gmail.com
 
  discusses various reasons for why one should believe in Allah, including rational arguments and the similarities between Islam and other religions. It also touches on the possible reasons why Muhammad may have lied or made up stories, and how the Quran is superior to other religious texts.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses why they believe in Allah, citing various rational arguments. They also mention how Christianity and Judaism share some similarities with the Quran.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** argues that there are many rational ways to believe in Allah, and that this belief is not contingent upon any specific argument. He also argues that, by default, Allah created the human nature to want to worship him.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  argues that there is only one possible creator, and that this creator must be powerful, knowledgeable, and intelligent.  also argues that the prophet Muhammad (P.S.A.W.) was the messenger appointed by this creator to bring his message to the world. Finally, the video argues that there is no possible way to test the claim of Jesus (J.S.S.) without first testing the claim of Muhammad (P.S.A.W.).
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses a possible reason why Muhammad may have lied or made up stories over the course of 23 years - to protect himself and his followers from persecution and to maintain their adherence to Islam. Christians assert that Muhammad was deceived by an angel, but this claim is refuted by Jesus' teachings in the Bible. Muslims argue that Muhammad's teachings oppose those of Satan, and that Muhammad was a prophet of God who was opposed by Satan.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the similarities and differences between the Quran and the Bible. It argues that it is more plausible that the Prophet Muhammad copied these books than that he received revelation.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>**  compares the unique genre of the Quran to that of other religious texts, such as the Bible. It points to evidence of an "evident miracle" in the Quran, and argues that this makes it superior to other religious texts.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* shares reasons why he believes in Allah and how his beliefs compare and contrast with those of other religions. He also touches on the fact that the prophet Muhammad did not live in a palace, and that his enemies were not fooled by his revelations.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses why he believes in Islam and how it is the only religion that can truly satisfy a person's mind and soul. Other religions may satisfy a person's whims and desires, but Islam provides guidance for the entire life journey.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses why they believe in Allah, citing various rational arguments. They also mention how Christianity and Judaism share some similarities with the Quran.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** argues that there are many rational ways to believe in Allah, and that this belief is not contingent upon any specific argument. He also argues that, by default, Allah created the human nature to want to worship him.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  argues that there is only one possible creator, and that this creator must be powerful, knowledgeable, and intelligent.  also argues that the prophet Muhammad (P.S.A.W.) was the messenger appointed by this creator to bring his message to the world. Finally, the video argues that there is no possible way to test the claim of Jesus (J.S.S.) without first testing the claim of Muhammad (P.S.A.W.).
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses a possible reason why Muhammad may have lied or made up stories over the course of 23 years - to protect himself and his followers from persecution and to maintain their adherence to Islam. Christians assert that Muhammad was deceived by an angel, but this claim is refuted by Jesus' teachings in the Bible. Muslims argue that Muhammad's teachings oppose those of Satan, and that Muhammad was a prophet of God who was opposed by Satan.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the similarities and differences between the Quran and the Bible. It argues that it is more plausible that the Prophet Muhammad copied these books than that he received revelation.
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>**  compares the unique genre of the Quran to that of other religious texts, such as the Bible. It points to evidence of an "evident miracle" in the Quran, and argues that this makes it superior to other religious texts.
+- **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** shares reasons why he believes in Allah and how his beliefs compare and contrast with those of other religions. He also touches on the fact that the prophet Muhammad did not live in a palace, and that his enemies were not fooled by his revelations.
+- **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses why he believes in Islam and how it is the only religion that can truly satisfy a person's mind and soul. Other religions may satisfy a person's whims and desires, but Islam provides guidance for the entire life journey.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

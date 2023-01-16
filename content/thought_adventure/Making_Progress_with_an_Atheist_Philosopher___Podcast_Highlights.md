@@ -7,17 +7,17 @@
 In this clip from our discussion with atheist philosopher Alex Malpass, the conclusion of a long discussion about the PSR and contingency arguments seems to come to a fruitful conclusion where actual progress is made!
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -25,38 +25,37 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
 ## Summary of [Making Progress with an Atheist Philosopher | Podcast Highlights](https://www.youtube.com/watch?v=-WLQ5nteiQk)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -65,8 +64,9 @@ Gmail: hello.tapodcast@gmail.com
 the atheist philosopher discusses how his view of the natural world differs from that of a theist. He argues that, because the theist believes in a god who creates the natural world, their view of the natural world is not as objective as ours. He further argues that, if we agree that necessary things do not have explanation, then we have made progress in the conversation.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  highlights the progress that has been made in a conversation between an atheist philosopher and someone who believes in abstract necessary things. The philosopher points out that, on his view, a concrete thing is necessary, but this does not explain anything if the thing is necessarily existent. The other person concedes that, on this view, a concrete thing must exist, but argues that this is not significant because necessarily necessary truths do not have explanations.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the difference between a necessary being and an entity that exists necessarily but has no explanation. The philosopher argues that on his view, God exists necessarily but has no explanation. The other philosopher argues that there is something necessary about the nature of God that doesn't call for an explanation.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  an atheist philosopher discusses how his view of the natural world differs from the view of a theist. He argues that, because the theist believes in a god who creates the natural world, their view of the natural world is not as objective as ours. He further argues that, if we agree that necessary things do not have explanation, then we have made progress in the conversation.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the difference between a necessary being and an entity that exists necessarily but has no explanation. The philosopher argues that on his view, God exists necessarily but has no explanation. The other philosopher argues that there is something necessary about the nature of God that doesn't call for an explanation.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  an atheist philosopher discusses how his view of the natural world differs from the view of a theist. He argues that, because the theist believes in a god who creates the natural world, their view of the natural world is not as objective as ours. He further argues that, if we agree that necessary things do not have explanation, then we have made progress in the conversation.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

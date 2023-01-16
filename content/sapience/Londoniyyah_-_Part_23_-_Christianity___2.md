@@ -6,8 +6,9 @@
 
 Londoniyyah - Part 23 - Christianity / 2
 
-To be updated about our content please subscribe and open the notifications.
+To be updated about our content please subscribe and open the notifications
 ----
+
 BOOK A LIGHTHOUSE MENTOR
 
 Are you or someone you know doubting Islam? Do you find yourself struggling to find answers?  Do you have a hard time speaking to someone about Islam?  Are you considering Islam but are unsure about certain concepts?  Are you an activist, Imam or community leader who is unsure about how to handle questions related to science, philosophy, the Islamic moral code, etc.?
@@ -16,12 +17,11 @@ You are not alone.  Over the course of the last decade or more there has been a 
 
 Seeing the rise of  this phenomenon , Sapience Institute is introducing a One to One mentoring service called LIGHTHOUSE.
 
-BOOK A MENTOR HERE: https://sapienceinstitute.org/lighthouse/
+BOOK A MENTOR HERE: <https://sapienceinstitute.org/lighthouse/>
 
-VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: https://sapienceinstitute.org/
+VISIT our website for articles in English, Spanish and Turkish; mentoring service, learning platform and for speaker requests: <https://sapienceinstitute.org/>
 
 ## Summary of [Londoniyyah - Part 23 - Christianity / 2](https://www.youtube.com/watch?v=BHBPSIhQ1-w)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -29,13 +29,14 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 
  the speaker discusses Christianity and its impact on the world. They mention that, although there are many good things associated with Christianity, there have been debates surrounding it over the last few decades. suggests that anyone interested in exploring these debates should look online.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses Christianity's alleged inconsistencies and logical problems, and how early church leaders were not considered authoritative by most Christians.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses Christianity's alleged inconsistencies and logical problems, and how early church leaders were not considered authoritative by most Christians.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The main argument in this video is that the idea of a trinity of co-equal and co-eternal persons of the trinity only became accepted in the fourth century. The main point is that this concept was not accepted by all Christians until then. Origen, a church writer, is one of the major thinkers who spoke in support of the idea. He died in the mid-third century.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the development of the term "trinity" and how it wasn't used in the Bible in the way that Christians now believe it to be. It was first used by Theophilus of Antioch in about 180 AD.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the development of the term "trinity" and how it wasn't used in the Bible in the way that Christians now believe it to be. It was first used by Theophilus of Antioch in about 180 AD.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  three and one and one and three illustrate how Christianity began to diverge from paganism after the first century. In 325, Constantine issued the Edict of Milan, which allowed Christianity to be practiced openly within the Roman Empire. However, after his death in 337, Christianity began to diverge further from paganism, with theologians and clergy struggling to define what exactly the holy ghost was. By the 4th century, the holy ghost had been enshrined as a co-equal co-eternal being with the father and son, but was still considered the weakest link in Christianity's trinity.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the biblical evidence for the doctrine of the Trinity, which John the Baptist believed in. John 1:1 states that "the word was with God, and the word was God." This is evidence that John believed in the doctrine of the Trinity.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the biblical evidence for the doctrine of the Trinity, which John the Baptist believed in. John 1:1 states that "the word was with God, and the word was God." This is evidence that John believed in the doctrine of the Trinity.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** The narrator discusses how Christianity and other beliefs about Jesus differ from what comes after him in the Bible. They point out that there are three beings mentioned in John 5:6-7, which is not specific to Jesus, and that the term "one and only" is used even in reference to Abraham. The narrator argues that Jesus' existence predates the birth of the earth and that if Jesus is God, he should have taken the opportunity to justify himself to the Jews when he was accused of claiming divinity.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses various aspects of the Christian concept of divinity, concluding that it is based on preconceived ideas and not on actual scripture. It also points out that there are other formulations of the Trinity in the Bible.
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses various aspects of the Christian concept of divinity, concluding that it is based on preconceived ideas and not on actual scripture. It also points out that there are other formulations of the Trinity in the Bible.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** of the YouTube video provides a brief overview of Christianity and its tenets, noting that there are only three verses in the Bible that could be used to argue against the existence of a Trinity. He goes on to explain that these verses are easy to understand and follow, and that they have a high Christology because of the development of Christianity.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>**  the speaker discusses the controversy surrounding Christianity and its impact on the world. They mention that, although there are many good things associated with Christianity, there have been debates surrounding it over the last few decades. suggests that anyone interested in exploring these debates should look online.
 

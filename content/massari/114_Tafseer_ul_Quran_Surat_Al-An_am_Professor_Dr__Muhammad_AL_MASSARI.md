@@ -9,12 +9,13 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 114 Tafseer ul Quran Surat Al-An'am Professor Dr  Muhammad AL MASSARI
 
-#quran 
-#alanam 
-#الأنعام
+# quran
+
+# alanam
+
+# الأنعام
 
 ## Summary of [114 Tafseer ul Quran Surat Al-An'am Professor Dr Muhammad AL MASSARI](https://www.youtube.com/watch?v=58VB6BKm040)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -23,9 +24,10 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
  discusses the concept of Allah having different names in the Old Testament, as well as the concept of Allah having no specific name in the Qur'an. The professor goes on to discuss the theory that the Big Bang was the beginning of the universe, and how this contradicts the idea of a previous universe.  concludes with a discussion of the evolution of man from the cosmic beginning until today.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  explains the concept of Allah having different names in the Old Testament. It also discusses the concept of Allah having no specific name in the Qur'an.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  is about Professor Dr Muhammad AL Massari's views on the concept of time. He states that time is an expression of Free Will and an act of a deity, and that time cannot be explained further. He also mentions the quantum fluctuation, which is an act of spontaneity that cannot be explained.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The professor discusses the theory that the Big Bang was the beginning of the universe, and that it was a phase in which light could not separate from matter. He goes on to say that despite this theory being contradicted by some experiments, it is still mostly accepted by scientists.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the concept of infinity, and how it can be used to prove the impossibility of a previous universe. It also discusses the idea that Allah is the only Lord who can create and act in 3 dimensions.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the concept of infinity, and how it can be used to prove the impossibility of a previous universe. It also discusses the idea that Allah is the only Lord who can create and act in 3 dimensions.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** summarizes the creation story in the Quran, starting with the creation of mud from clean water.  then discusses how Adam was created from this mud, and how he was fashioned into what we know today.  concludes with a description of the evolution of man from the cosmic beginning until today.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>**  Professor Dr. Muhammad AL MASSARI expounds on the creation story in the Quran, explaining that the process of creation began with the creation of the Single Cell. He goes on to say that although many people disagree on the specifics of when and how the universe came to be, everyone agrees on the principle of a final resurrection.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** discusses the issue of whether or not Allah is in space, and whether or not this would lead to him being in "bad" places. He points out that the general rule among scholars is that Allah should be left as he is without any further interpretation, but that this is often violated due to the conclusions drawn by some individuals.
@@ -34,21 +36,23 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** discusses the 114th verse of Quran, Surat Al-An'am. The professor discusses the different translations of the verse and how it could be interpreted. He concludes that the verse is talking about the throne being on water, and that this is an offensive concept to those who believe in a creatve God.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** by Professor Dr. Muhammad AL MASSARI discusses how the Islamic scholar Muhammad ibn 'Abdul-Wahhab believed that the Throne is not created, and that Allah is only in Heaven and on Earth. He goes on to say that this viewpoint is contradictory and wrong.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The professor's main point is that Muslims are not obliged to know about certain aspects of Islamic theology, and that those who do not understand these concepts are "stupid" or "partisan." He also points out that the mind is limited, and that some Muslims are "indulgent" and "not consistent."
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:50:00</a>
 
  Professor Dr. Muhammad al Massari discusses the 114th verse of the Quran, which has been interpreted in different ways by scholars. He demonstrates how the verse can be interpreted in a way that goes against traditional interpretations, and explains the implications of this for understanding the Quran as a whole.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** discusses the distinction between conceivable and imaginable, and explains that while women were given the message of Islam, they are not given superiority over men. He also discusses the difference between knowledge and understanding, and how one can miss the Kaaba without needing to repeat the Hajj.
+
 * **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** The professor discusses how some Salafi Muslims argue that Ireland is not creation because of a Hadith which states that the size of the throne compared to the throne inside the throne, courtesy, and model of prophets is not true. He notes that this argument is not evidence, and that it could simply mean that Ireland is not the most important thing in the universe.
 * **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** The professor discusses the principle of figurative language in the Quran, noting that while some figures of speech are clear, others are metaphorical and may be difficult to understand. He goes on to say that the majority of Hadith scholars are not able to understand the Quran's figurative language and are instead relying on general rules that they often violate. He concludes the lecture by saying that one should focus on the essentials of the Quran and not get lost in its complex language.
 * **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** The professor discusses the absurdity of some of the claims he has been made in regards to Allah being a body. He goes on to say that this is paganism, not Islam, and that it is important to bury these ideas in order to prevent them from resurfacing and causing further harm to society.
 * **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** discusses the various meanings of a single Quranic phrase, Ayah (message). He points out that, while all of the meanings are valid, the meaning most fitting for the context is usually the one that is most relevant. He explains that this is why Ayah is often translated as "message." then discusses the miracles of the Quran, noting that some of them are still relevant today. He concludes by discussing the implications of this reality for Western atheism and secularism.
 * **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** The professor discusses the idea that there could have been a volcanic eruption in 1650 before Christ that could have caused the firstborn to die. He also explains that there is no scientific evidence to support this theory, and that it is likely based on ancient legends.
 * **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>**  Professor Dr. Muhammad al Massari discusses the importance of written records in relation to prophecies and the impossibility of them being rewritten or changed after they have been written down. He goes on to mention the Fulfillment of Policy condition, which refers to the Prophet Muhammad's ability to enact prophecies and miracles after they have been written down. Finally, he speaks about the psychological effects that can be exerted on the masses by a charismatic leader.
-* **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>* Discusses the meaning of Ayah 114 in the Quran. It states that the ayah could be referring to a miracle sign, and that this is a likely interpretation given the context of other ayas discussing miracles.  then goes on to say that the meaning of the ayah may be more specific, and that it could be referring to a specific event that took place before Islam. It ends by saying that the ayah must be understood in context and that further research is needed to verify its meaning.
+* **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** Discusses the meaning of Ayah 114 in the Quran. It states that the ayah could be referring to a miracle sign, and that this is a likely interpretation given the context of other ayas discussing miracles.  then goes on to say that the meaning of the ayah may be more specific, and that it could be referring to a specific event that took place before Islam. It ends by saying that the ayah must be understood in context and that further research is needed to verify its meaning.
 * **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** The 114 Tafseer ul Quran Surat Al-An'am Professor Dr. Muhammad AL MASSARI explains that scholars have different interpretations of verses in Surat Al-An'am due to the various revelations that Allah has given to different people. The first interpretation is that the person being worshiped is Allah who is in the sky and on Earth, but the second interpretation is that the person being worshiped is Allah who is in the sky and on Earth and knows your secrets. It is not clear which interpretation is more convincing, but it is possible that it is the first interpretation.
-* **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>* Discusses how the Quran hints at the existence of Bedouin Arabs in pre-colonial times, and how their comments were not fully domesticated until after the time of Prophet Muhammad.
-* **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>* Discusses the idea that the Quran is revealed in a manner that allows for different interpretations, including ones that go against traditional interpretations. The professor demonstrates how this can be seen in the verse "Araf" (al-An'am), which has been interpreted in different ways.
+* **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** Discusses how the Quran hints at the existence of Bedouin Arabs in pre-colonial times, and how their comments were not fully domesticated until after the time of Prophet Muhammad.
+* **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** Discusses the idea that the Quran is revealed in a manner that allows for different interpretations, including ones that go against traditional interpretations. The professor demonstrates how this can be seen in the verse "Araf" (al-An'am), which has been interpreted in different ways.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

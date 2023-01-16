@@ -18,12 +18,11 @@ It is a contraction to say that what is essentially immutable changes.
 
 Also consider these contradictions:
 
--The man Jesus was tempted, but you can’t tempt God. 
--Jesus died, but God is immortal. 
+-The man Jesus was tempted, but you can’t tempt God.
+-Jesus died, but God is immortal.
 -Jesus is under a god, but God can’t be.
 
 ## Summary of [Christmas Message from Blogging Theology](https://www.youtube.com/watch?v=UKfoEkJ_Yi0)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -32,6 +31,7 @@ Also consider these contradictions:
 The video discusses how Christians imagine the very first Christmas, 2000 years ago, and points out that the idea of God changing is contradictory and therefore cannot be true. of the video urges people to abandon theology and belief in something simpler, purer, and monotheistic, which he believes is what Jesus himself proclaimed.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The video discusses how Christians imagine the very first Christmas, which 2000 years ago involved the conception, growth, and birth of Jesus Christ. It points out that the idea of God changing is contradictory and therefore cannot be true, and that behind all of these beliefs is the idea that God changes big time in his very nature but the Bible teaches over and over that God does not change.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** of the video offers a Christmas message advocating for people to abandon theology and belief in something simpler, purer, and monotheistic. He believes that this is what Jesus himself proclaimed to the Jews and the prophets before him, and urges people to believe in that monotheism. He also says that Muslims believe in the same monotheism as Christians, and that abandoning these contradictory beliefs would be a good step in accepting God's perfection.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

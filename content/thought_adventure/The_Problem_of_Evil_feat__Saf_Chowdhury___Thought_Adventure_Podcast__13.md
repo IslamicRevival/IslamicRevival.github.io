@@ -2,7 +2,7 @@
 
 <iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/y_2rsDsiUeU'></iframe>## Description
 
-The problem of evil is one of the most popular arguments many atheists use against theists. The argument attempts to show that the existence of God is logically impossible due to the existence of evil in the world. 
+The problem of evil is one of the most popular arguments many atheists use against theists. The argument attempts to show that the existence of God is logically impossible due to the existence of evil in the world.
 
 In this podcast we have invited Dr Saffarak Choudhury who holds a PhD in Islamic studies and philosophy. He has also written a book on the Islamic answer to the problem of evil.
 
@@ -17,17 +17,17 @@ In this podcast we have invited Dr Saffarak Choudhury who holds a PhD in Islamic
 3:36:58 Final Thoughts
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -35,41 +35,39 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
-
-#ProblemOfeÉvil #Atheism #Hell
+# ProblemOfeÉvil #Atheism #Hell
 
 ## Summary of [The Problem of Evil feat. Saf Chowdhury | Thought Adventure Podcast #13](https://www.youtube.com/watch?v=y_2rsDsiUeU)
-
 
 *
 
@@ -80,62 +78,69 @@ Gmail: hello.tapodcast@gmail.com
 The Problem of Evil is a philosophical problem that asks why evil exists in the world. Saf Chowdhury from Thought Adventure Podcast discusses this problem and argues that a good god would provide reasons for why evil exists.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** In this Thought Adventure podcast, Saf Chowdhury discusses the problem of evil with Jake the Muslim and Abdul Rahman. Marsha Allah Brother Suffolk will also join the discussion. The three discuss how to respond to those who ask about the problem of evil.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The Problem of Evil is a philosophical argument that tries to demonstrate that the existence of an evil god is impossible. It can act as a defeater by attacking the evidence offered in support of a belief, or it could act as an undermining defeater by attacking the claim itself.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The Problem of Evil is a philosophical argument that alleges the existence of a god that is omniscient and omnipotent is incompatible with the existence of evil.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The problem of evil is a challenge to the belief that an omnicompetent god exists. It attempts to demonstrate that existence of god and evil are not logically compatible.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** The problem of evil is a philosophical problem that asks whether evil exists and if so, why it exists. The atheist or skeptic's main argument is that evil does not logically follow from a god that is all-powerful and good. The assumption that evil must exist if god is all-powerful and good is questionable, and can be refuted with a counter-example.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** The "evidential problem of evil" is a philosophical argument against the existence of a benevolent god. It posits that if there is a god, then there must be evil in the world, as it is incompatible with a benevolent deity. Skeptical theism is a philosophical position which holds that we cannot know for certain that there is not a benevolent deity, and that we should remain skeptical of our ability to discern evil from good.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** The Problem of Evil is a problem that has been asked of religious people for centuries. The two main responses are that either God allows evil in order to make us better or that evil is real and people really do suffer. The theist argues that on their view, evil is a departure from a normative rule or ideal, while the atheist argues that evil is real and people do suffer. The theist argues that having confidence in God's existence doesn't mean that one needs to have confidence in their understanding of why evil exists.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Skeptical theism is the position that humans are cognitively limited and that, therefore, they are not in a privileged epistemic standpoint to make judgments about the existence of god. The argument from evil is the claim that there is evidence of gratuitous evil in the world. Skeptical theism argues that, even if evils are gratuitous, it does not undermine the believer's belief in god.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses the problem of evil, and argues that some evils appear to have no reason, which cannot be used to infer that they are gratuitous.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The Problem of Evil is a difficult question for believers to answer, as it appears that there is no point behind some evils in the world. Saf Chowdhury from Thought Adventure Podcast discusses this problem and argues that a good god would provide reasons for why evil exists.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The Problem of Evil is a philosophical problem that asks why evil exists in the world. Islam discusses the concept of the problem of evil in various ways, and scholars throughout the ages have offered various solutions.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The Problem of Evil is a problem that has been discussed by scholars for centuries, and it is still a problem today. Allah, the most powerful and loving God, can also be punishing and evil. All of creation, including humans, must try to embody all of Allah's good attributes in order to have faith in him.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The Problem of Evil is a philosophical argument that tries to demonstrate that the existence of an evil god is impossible. It can act as a defeater by attacking the evidence offered in support of a belief, or it could act as an undermining defeater by attacking the claim itself.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The Problem of Evil is a philosophical argument that alleges the existence of a god that is omniscient and omnipotent is incompatible with the existence of evil.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The problem of evil is a challenge to the belief that an omnicompetent god exists. It attempts to demonstrate that existence of god and evil are not logically compatible.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** The problem of evil is a philosophical problem that asks whether evil exists and if so, why it exists. The atheist or skeptic's main argument is that evil does not logically follow from a god that is all-powerful and good. The assumption that evil must exist if god is all-powerful and good is questionable, and can be refuted with a counter-example.
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** The "evidential problem of evil" is a philosophical argument against the existence of a benevolent god. It posits that if there is a god, then there must be evil in the world, as it is incompatible with a benevolent deity. Skeptical theism is a philosophical position which holds that we cannot know for certain that there is not a benevolent deity, and that we should remain skeptical of our ability to discern evil from good.
+- **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** The Problem of Evil is a problem that has been asked of religious people for centuries. The two main responses are that either God allows evil in order to make us better or that evil is real and people really do suffer. The theist argues that on their view, evil is a departure from a normative rule or ideal, while the atheist argues that evil is real and people do suffer. The theist argues that having confidence in God's existence doesn't mean that one needs to have confidence in their understanding of why evil exists.
+- **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Skeptical theism is the position that humans are cognitively limited and that, therefore, they are not in a privileged epistemic standpoint to make judgments about the existence of god. The argument from evil is the claim that there is evidence of gratuitous evil in the world. Skeptical theism argues that, even if evils are gratuitous, it does not undermine the believer's belief in god.
+- **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses the problem of evil, and argues that some evils appear to have no reason, which cannot be used to infer that they are gratuitous.
+- **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The Problem of Evil is a difficult question for believers to answer, as it appears that there is no point behind some evils in the world. Saf Chowdhury from Thought Adventure Podcast discusses this problem and argues that a good god would provide reasons for why evil exists.
+- **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The Problem of Evil is a philosophical problem that asks why evil exists in the world. Islam discusses the concept of the problem of evil in various ways, and scholars throughout the ages have offered various solutions.
+- **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The Problem of Evil is a problem that has been discussed by scholars for centuries, and it is still a problem today. Allah, the most powerful and loving God, can also be punishing and evil. All of creation, including humans, must try to embody all of Allah's good attributes in order to have faith in him.
+
 ### <a onclick="modifyYTiframeseektime('7200')">01:00:00-02:00:00</a>
 
 The problem of evil is a philosophical question that has been debated for centuries.  Saf Chowdhury and Jake Makel argue that there is a contradiction between the idea that God is all-powerful and all-knowing and the existence of evil. They posit that this contradiction can only be resolved if one accepts that God is both all-powerful and all-knowing.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** The Problem of Evil is a philosophical problem that has been discussed by scholars for centuries. One response is that evil is an unavoidable occurrence, while another is that it is a matter of subjective perspective. The Problem of Evil is also discussed in relation to the Islamic concept of hikmah, which means wisdom. It is argued that even in the end, evil is not actually evil, but is actually disguised as good.
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** The Problem of Evil discusses the problem of evil, which is the question of why evil exists in the world. After discussing various theories on why evil exists, the author argues that a god who is all-powerful and good would not allow millions of years of animal suffering for no apparent reason.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Atheist Saf Chowdhury discusses the problem of evil from the perspective of God before creation and argues that anything added to a perfect God would not make it better.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** The Problem of Evil is a philosophical question about why a loving God would create a world with so much suffering. Saf Chowdhury from Thought Adventure Podcast discusses the idea that all humans have the potential for goodness, and that there is a possibility of belief in a God who does not create evil.
-* **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** <>
-* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>**  Saf Chowdhury argues that there is no problem of evil because some people will go to hell, but ultimately this does not contradict the existence of good because Allah is happy with those who disbelieve.
-* **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** argues that if god's definition of good and evil is based on emotions, then it's irrelevant whether or not people feel icky about the consequences of this belief.
-* **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** The problem of evil is a problem for Allah because it implies inconsistency in his actions. Disbelief is not a problem for Allah because it is ordained by him as morally wrong. People will go to hell for eternity if they do not believe in Allah.
-* **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>* Discusses the problem of evil, or the question of why evil exists in the world. Atheists and other non-theists often use this problem to critique the existence of God. While it is possible to argue that evil exists because of divine purposes, it is also possible to argue that evil exists independently of God. In either case, the existence of evil does not demonstrate that God does not exist.
-* **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** , Saf Chowdhury and Jake Makel argue that there is a logical contradiction between the idea that God wants people to go to Hell and the existence of evil. They posit that this contradiction can only be resolved if one accepts that God is both all-powerful and all-knowing.
-* **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** Saf Chowdhury argues that there is a problem with evil, as some people will end up in hell. He also points out that there is a logical contradiction in believing in a god who creates knowing what will happen will lead to people going to hell. This contradicts the idea of free will, which is central to Islam.
-* **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Caleb Jackson argues that emotions play a role in judging the correctness of moral propositions. He also says that metaethical considerations, such as a person's underlying ethical theory, may play a role in how strongly they feel about a particular moral proposition.
+
+- **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** The Problem of Evil discusses the problem of evil, which is the question of why evil exists in the world. After discussing various theories on why evil exists, the author argues that a god who is all-powerful and good would not allow millions of years of animal suffering for no apparent reason.
+- **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Atheist Saf Chowdhury discusses the problem of evil from the perspective of God before creation and argues that anything added to a perfect God would not make it better.
+- **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** The Problem of Evil is a philosophical question about why a loving God would create a world with so much suffering. Saf Chowdhury from Thought Adventure Podcast discusses the idea that all humans have the potential for goodness, and that there is a possibility of belief in a God who does not create evil.
+- **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** <>
+- **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>**  Saf Chowdhury argues that there is no problem of evil because some people will go to hell, but ultimately this does not contradict the existence of good because Allah is happy with those who disbelieve.
+- **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** argues that if god's definition of good and evil is based on emotions, then it's irrelevant whether or not people feel icky about the consequences of this belief.
+- **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** The problem of evil is a problem for Allah because it implies inconsistency in his actions. Disbelief is not a problem for Allah because it is ordained by him as morally wrong. People will go to hell for eternity if they do not believe in Allah.
+- **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** Discusses the problem of evil, or the question of why evil exists in the world. Atheists and other non-theists often use this problem to critique the existence of God. While it is possible to argue that evil exists because of divine purposes, it is also possible to argue that evil exists independently of God. In either case, the existence of evil does not demonstrate that God does not exist.
+- **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** , Saf Chowdhury and Jake Makel argue that there is a logical contradiction between the idea that God wants people to go to Hell and the existence of evil. They posit that this contradiction can only be resolved if one accepts that God is both all-powerful and all-knowing.
+- **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** Saf Chowdhury argues that there is a problem with evil, as some people will end up in hell. He also points out that there is a logical contradiction in believing in a god who creates knowing what will happen will lead to people going to hell. This contradicts the idea of free will, which is central to Islam.
+- **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Caleb Jackson argues that emotions play a role in judging the correctness of moral propositions. He also says that metaethical considerations, such as a person's underlying ethical theory, may play a role in how strongly they feel about a particular moral proposition.
+
 ### <a onclick="modifyYTiframeseektime('10800')">02:00:00</a>
 
 Saf Chowdhury discusses the problem of evil in this video. He argues that if there is a cause and effect relationship between x and y, then x must necessarily happen. However, if x does not necessarily happen, then there is no explanation for why it did not occur. Chowdhury argues that this makes it difficult to understand why God would choose one course of action over another.
 
 **<a onclick="modifyYTiframeseektime('7200')">02:00:00</a>** The Problem of Evil is a philosophical question that has been debated for centuries.  Saf Chowdhury discusses how emotivism may or may not be able to justify moral propositions. He then goes on to discuss how a realist view of morality may or may not allow for an argument that evil is wrong. Lastly, he discusses how a theistic position might be able to provide a justification for evil.
-* **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>** Saf Chowdhury, a skeptic of theism, shares his thoughts on the problem of evil, arguing that it does not logically follow that a god would be evil. He also argues that if there is a god, he has the right to control and determine how creation works.
-* **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>** The Problem of Evil is a philosophical problem that asks why bad things happen to good people. It is a difficult problem to answer, as it is difficult to see how good people could bring about bad results. The idea that animals don't suffer the same way that humans do is also questioned, as animals do experience pain and suffering. Ultimately, Michael Murray argues that we cannot infer that animals suffer the same way that humans do, as we do not have the total understanding of reality.
-* **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>** The Problem of Evil is a philosophical question about the existence of a God who permits gratuitous suffering in the world.  features Saf Chowdhury from Thought Adventure Podcast discussing his thoughts on the topic. He says that on a subjective level, it seems that the atheist is justified in believing in the non-existence of a God, based on his experience of suffering. However, he also points out that there are defeaters for the atheist's position, which means that the cumulative case against the existence of a God is strong.
-* **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>**  Caleb Jackson discusses the problem of evil and how free will does not exist. He argues that if God knew what humans would do, then he could not have done otherwise, as free will does not exist. This results in evil being unjustifiable and unexplainable.
-* **<a onclick="modifyYTiframeseektime('8700')">02:25:00</a>**  Saf Chowdhury discusses the problem of evil. He says that if there is a cause and effect relationship between x and y, then x must necessarily happen. However, if x does not necessarily happen, then there is no explanation for why it did not occur. Chowdhury argues that this makes it difficult to understand why God would choose one course of action over another.
-* **<a onclick="modifyYTiframeseektime('9000')">02:30:00</a>** The Problem of Evil is a discussion about whether or not it is possible for God to know the future of free agents without an explanation of how he knows it. The main point of the discussion is that if there is no mechanism by which God knows the future, then it is similar to saying that God knows it magically.
-* **<a onclick="modifyYTiframeseektime('9300')">02:35:00</a>** Saf Chowdhury argues that it is impossible for God to know something beforehand, unless it is you know it. He gives an example of a person making a free choice, and argues that the knowledge of that choice must come from a causal chain. He then asserts that within the Islamic paradigm, there is no free will and that is how God knows. He ends by saying that the best argument he can muster is that there cannot be a mechanism for God to know the free choice beforehand.
-* **<a onclick="modifyYTiframeseektime('9600')">02:40:00</a>**  Matt Matthew discusses the problem of evil and how it applies to the belief in Allah. He argues that Allah is all-powerful and all-knowing, and that based on these premises, Allah should exist and be worshipped. He then presents his argument that Allah is active in human affairs and that therefore there is no free will. He ends the video by asking the audience to think about whether they agree with him.
-* **<a onclick="modifyYTiframeseektime('9900')">02:45:00</a>* Discusses the problem of evil, specifically discussing how a god who is benevolent would help his followers, but a god who is evil will not.  concludes that because the god is not benevolent, he cannot be worshiped and is therefore not existent.
-* **<a onclick="modifyYTiframeseektime('10200')">02:50:00</a>** The problem of evil is a concern raised by some people, primarily atheists, regarding the existence of a good and just God. The Qur'an addresses this concern by stating that some people will never believe in God even if He were to show himself to them. The Islamic paradigm disagrees with this position, believing that a person is accountable for their own actions no matter what.
-* **<a onclick="modifyYTiframeseektime('10500')">02:55:00</a>** argues that the evidence of creation shows that there is a creator, and that Muslims who convert to atheism because of this evidence are essentially conceding that there is a creator. In support of this argument, the speaker cites examples from the Quran and Hadith.
+
+- **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>** Saf Chowdhury, a skeptic of theism, shares his thoughts on the problem of evil, arguing that it does not logically follow that a god would be evil. He also argues that if there is a god, he has the right to control and determine how creation works.
+- **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>** The Problem of Evil is a philosophical problem that asks why bad things happen to good people. It is a difficult problem to answer, as it is difficult to see how good people could bring about bad results. The idea that animals don't suffer the same way that humans do is also questioned, as animals do experience pain and suffering. Ultimately, Michael Murray argues that we cannot infer that animals suffer the same way that humans do, as we do not have the total understanding of reality.
+- **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>** The Problem of Evil is a philosophical question about the existence of a God who permits gratuitous suffering in the world.  features Saf Chowdhury from Thought Adventure Podcast discussing his thoughts on the topic. He says that on a subjective level, it seems that the atheist is justified in believing in the non-existence of a God, based on his experience of suffering. However, he also points out that there are defeaters for the atheist's position, which means that the cumulative case against the existence of a God is strong.
+- **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>**  Caleb Jackson discusses the problem of evil and how free will does not exist. He argues that if God knew what humans would do, then he could not have done otherwise, as free will does not exist. This results in evil being unjustifiable and unexplainable.
+- **<a onclick="modifyYTiframeseektime('8700')">02:25:00</a>**  Saf Chowdhury discusses the problem of evil. He says that if there is a cause and effect relationship between x and y, then x must necessarily happen. However, if x does not necessarily happen, then there is no explanation for why it did not occur. Chowdhury argues that this makes it difficult to understand why God would choose one course of action over another.
+- **<a onclick="modifyYTiframeseektime('9000')">02:30:00</a>** The Problem of Evil is a discussion about whether or not it is possible for God to know the future of free agents without an explanation of how he knows it. The main point of the discussion is that if there is no mechanism by which God knows the future, then it is similar to saying that God knows it magically.
+- **<a onclick="modifyYTiframeseektime('9300')">02:35:00</a>** Saf Chowdhury argues that it is impossible for God to know something beforehand, unless it is you know it. He gives an example of a person making a free choice, and argues that the knowledge of that choice must come from a causal chain. He then asserts that within the Islamic paradigm, there is no free will and that is how God knows. He ends by saying that the best argument he can muster is that there cannot be a mechanism for God to know the free choice beforehand.
+- **<a onclick="modifyYTiframeseektime('9600')">02:40:00</a>**  Matt Matthew discusses the problem of evil and how it applies to the belief in Allah. He argues that Allah is all-powerful and all-knowing, and that based on these premises, Allah should exist and be worshipped. He then presents his argument that Allah is active in human affairs and that therefore there is no free will. He ends the video by asking the audience to think about whether they agree with him.
+- **<a onclick="modifyYTiframeseektime('9900')">02:45:00</a>** Discusses the problem of evil, specifically discussing how a god who is benevolent would help his followers, but a god who is evil will not.  concludes that because the god is not benevolent, he cannot be worshiped and is therefore not existent.
+- **<a onclick="modifyYTiframeseektime('10200')">02:50:00</a>** The problem of evil is a concern raised by some people, primarily atheists, regarding the existence of a good and just God. The Qur'an addresses this concern by stating that some people will never believe in God even if He were to show himself to them. The Islamic paradigm disagrees with this position, believing that a person is accountable for their own actions no matter what.
+- **<a onclick="modifyYTiframeseektime('10500')">02:55:00</a>** argues that the evidence of creation shows that there is a creator, and that Muslims who convert to atheism because of this evidence are essentially conceding that there is a creator. In support of this argument, the speaker cites examples from the Quran and Hadith.
+
 ### <a onclick="modifyYTiframeseektime('13200')">03:00:00 [03:40:00</a>
 
  Saf Chowdhury discusses the problem of evil with Thought Adventure host David Silverman. He argues that although evil may be necessary for some things, it cannot be the case that everything that God creates has a purpose. He also suggests that humans have an innate desire for meaning, even if that meaning may be elusive.
 
 **<a onclick="modifyYTiframeseektime('10800')">03:00:00</a>** The problem of evil is a difficult topic to discuss, as it implies predestination and free will.  Saf Chowdhury from Thought Adventure Podcast discusses how the Qur'an explains the problem of evil. He states that by denying the signs of the creator, some people are doomed to have a disease in their hearts that is intensified by god. This punishment is due to their own actions and free choice, and cannot be reversed.
-* **<a onclick="modifyYTiframeseektime('11100')">03:05:00</a>** The Problem of Evil is a difficult topic that requires understanding of the context of the verses in order to properly appreciate them. Shaykh Saf Chowdhury discusses how the difficulties in life can help one grow as a person, and how rejecting God can add to one's problems.
-* **<a onclick="modifyYTiframeseektime('11400')">03:10:00</a>**  Saf Chowdhury discusses the problem of evil with Thought Adventure host David Silverman. He argues that although evil may be necessary for some things, it cannot be the case that everything that God creates has a purpose. He also suggests that humans have an innate desire for meaning, even if that meaning may be elusive.
-* **<a onclick="modifyYTiframeseektime('11700')">03:15:00</a>** The Problem of Evil is a topic of debate among Muslims. Saf Chowdhury, a Muslim thinker, says that even evil has a purpose, and is necessary in order to achieve a goal, such as the creation of humans.
-* **<a onclick="modifyYTiframeseektime('12000')">03:20:00</a>** The Problem of Evil is a philosophical question that arises from the observation that evil exists in the world. There are several arguments that can be made for why evil exists, but ultimately, it remains an open question. Some people believe that evil is justified because it has a purpose, while others argue that it is gratuitous and has no purpose. There are also theodicies that can be offered to explain why evil exists. It is important to remember that evil does not exist in a vacuum, and that it is often related to suffering.
-* **<a onclick="modifyYTiframeseektime('12300')">03:25:00</a>** The Problem of Evil is a philosophical problem that asks why evil exists in the world. The Islamic philosopher Saf Chowdhury discusses this problem in a Thought Adventure Podcast. He argues that the existence of suffering gives reason to disbelieve in the existence of an all-loving god. If this is the only argument against god's existence, it is a modest argument. However, it can be defeated by other arguments against god.
-* **<a onclick="modifyYTiframeseektime('12600')">03:30:00</a>** The problem of evil is a philosophical question that Muslims believe is a test of character. Theists argue that suffering is necessary for happiness, but atheists argue that this is a contradiction in terms.
-* **<a onclick="modifyYTiframeseektime('12900')">03:35:00</a>** Saf Chowdhury from Thought Adventure Network discusses the problem of evil with Jake from the Atheist Experience. Jake argues that there is no logical argument for the existence of evil, and that it is based on the fundamental presupposition or assumption about either the nature of evil or good. He also suggests that atheists should try to present more sophisticated arguments, rather than simply appealing to emotions. Saf concludes the discussion by urging atheists to listen to other atheists who may have more sophisticated arguments.
-* **<a onclick="modifyYTiframeseektime('13200')">03:40:00</a>**  Saf Chowdhury discusses the problem of evil with Thought Adventure host Dr. 22. He argues that unless believers are sincere, they will be unsuccessful in overcoming their feelings and emotions. Dr. 22 also thanks Saf for coming on the show and expresses appreciation for his contributions. The Thought Adventure team plans to release a community post about the next episode soon.
+
+- **<a onclick="modifyYTiframeseektime('11100')">03:05:00</a>** The Problem of Evil is a difficult topic that requires understanding of the context of the verses in order to properly appreciate them. Shaykh Saf Chowdhury discusses how the difficulties in life can help one grow as a person, and how rejecting God can add to one's problems.
+- **<a onclick="modifyYTiframeseektime('11400')">03:10:00</a>**  Saf Chowdhury discusses the problem of evil with Thought Adventure host David Silverman. He argues that although evil may be necessary for some things, it cannot be the case that everything that God creates has a purpose. He also suggests that humans have an innate desire for meaning, even if that meaning may be elusive.
+- **<a onclick="modifyYTiframeseektime('11700')">03:15:00</a>** The Problem of Evil is a topic of debate among Muslims. Saf Chowdhury, a Muslim thinker, says that even evil has a purpose, and is necessary in order to achieve a goal, such as the creation of humans.
+- **<a onclick="modifyYTiframeseektime('12000')">03:20:00</a>** The Problem of Evil is a philosophical question that arises from the observation that evil exists in the world. There are several arguments that can be made for why evil exists, but ultimately, it remains an open question. Some people believe that evil is justified because it has a purpose, while others argue that it is gratuitous and has no purpose. There are also theodicies that can be offered to explain why evil exists. It is important to remember that evil does not exist in a vacuum, and that it is often related to suffering.
+- **<a onclick="modifyYTiframeseektime('12300')">03:25:00</a>** The Problem of Evil is a philosophical problem that asks why evil exists in the world. The Islamic philosopher Saf Chowdhury discusses this problem in a Thought Adventure Podcast. He argues that the existence of suffering gives reason to disbelieve in the existence of an all-loving god. If this is the only argument against god's existence, it is a modest argument. However, it can be defeated by other arguments against god.
+- **<a onclick="modifyYTiframeseektime('12600')">03:30:00</a>** The problem of evil is a philosophical question that Muslims believe is a test of character. Theists argue that suffering is necessary for happiness, but atheists argue that this is a contradiction in terms.
+- **<a onclick="modifyYTiframeseektime('12900')">03:35:00</a>** Saf Chowdhury from Thought Adventure Network discusses the problem of evil with Jake from the Atheist Experience. Jake argues that there is no logical argument for the existence of evil, and that it is based on the fundamental presupposition or assumption about either the nature of evil or good. He also suggests that atheists should try to present more sophisticated arguments, rather than simply appealing to emotions. Saf concludes the discussion by urging atheists to listen to other atheists who may have more sophisticated arguments.
+- **<a onclick="modifyYTiframeseektime('13200')">03:40:00</a>**  Saf Chowdhury discusses the problem of evil with Thought Adventure host Dr. 22. He argues that unless believers are sincere, they will be unsuccessful in overcoming their feelings and emotions. Dr. 22 also thanks Saf for coming on the show and expresses appreciation for his contributions. The Thought Adventure team plans to release a community post about the next episode soon.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

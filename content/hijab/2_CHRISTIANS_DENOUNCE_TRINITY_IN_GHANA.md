@@ -8,7 +8,6 @@ This is a clip of a positive discussion I had with two young men in Accra Ghana.
 
 ## Summary of [2 CHRISTIANS DENOUNCE TRINITY IN GHANA](https://www.youtube.com/watch?v=LHtzRl6ORkw)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
@@ -16,6 +15,7 @@ This is a clip of a positive discussion I had with two young men in Accra Ghana.
 two Christians from Ghana discuss their disagreement with the Trinity. They say that the Trinity is not found in the Bible, and that Muhammad came to fix the mistakes made by Christians.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The two Christians discuss their beliefs about the Trinity and Mohammed. They say that in their respective religions, there are two differences between Christianity and Islam: the Trinity and Mohammed being a prophet. They say that Christianity believes that Jesus was both man and God, while Mohammed was only a prophet.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The two Christians in the video discuss the Trinity and how they disagree with it. They claim that the Trinity is not found in the Bible, and that Muhammad came to fix the mistakes made by Christians.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  two Christians denounce Trinity. They argue that Jesus did not replace the Ten Commandments, and that he told the Jewish man to follow the commandments.
 

@@ -6,7 +6,6 @@ This is a break down of the largely unchallenged claims of an right wing islamop
 
 ## Summary of [Steven Crowder Challenges Muslim on Air](https://www.youtube.com/watch?v=cwvlq3SQBGY)
 
-
 *
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
@@ -16,6 +15,7 @@ This is a break down of the largely unchallenged claims of an right wing islamop
 "Steven Crowder Challenges Muslim on Air," Crowder challenges a Muslim student to explain why the Quran allows for Muslims to fight non-Muslims. The student cites verses that say Muslims are allowed to fight in cases of oppression, and Crowder argues that these verses are not consistent with the rest of the Islamic text.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  Steven Crowder challenges a Muslim on air to prove where he is wrong about Islam. The Muslim responds by pointing to a verse in the Qur'an that justifies violence against those who resist Islam. Crowder points out that this verse is only relevant if you believe that all of the religion is made for Allah, which most Muslims do not. The Muslim then argues that Christianity and other religions are also made for Allah, which Crowder disputes. Finally, the Muslim never responds to Crowder's arguments, instead choosing to change the topic.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** , Steven Crowder challenges a Muslim on the air to prove that the Quran prescribes defensive wars. The Muslim fails to do so, and Crowder successfully refutes his claims. Crowder points to several verses in the Quran that specify the reasons behind fighting, and argues that the Quran allows for offensive wars as well.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  conservative commentator Steven Crowder challenges a Muslim student on air to explain Quranic verses which dictate that Muslims are commanded to fight non-Muslims. The student cites verses which say that Muslims are allowed to fight non-Muslims in cases of oppression, and that the Prophet Muhammad said that anyone who kills a non-combatant non-believer will never smell the fragrance of heaven. This leads Crowder to assert that these verses are not consistent with the rest of the Islamic text, which prohibits killing anyone except in cases of war.
 

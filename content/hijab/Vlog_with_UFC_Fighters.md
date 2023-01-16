@@ -6,7 +6,6 @@ An interesting meeting with some of the key fighters of the UFC and a deep conve
 
 ## Summary of [Vlog with UFC Fighters](https://www.youtube.com/watch?v=K-caojKHGEk)
 
-
 *
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
@@ -16,7 +15,8 @@ An interesting meeting with some of the key fighters of the UFC and a deep conve
 the presenter discusses how humans can reach a state of true understanding by being skeptical and reflecting on their experiences. He also argues that it is important to have a philosopher as a father, as this gives the son a natural sense of security.  concludes with the fighters discussing how they can tell whether or not an experience is authentic and valuable.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The presenter discusses the state of awareness in a human being and how it corresponds to the law of Lillehammer. He goes on to say that in this state, a person is not conditioned to believe in a certain person as God, and that there is no way out.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the importance of skepticism and how it applies to knowledge. It also discusses the importance of reflection and silence, and how they help to form a true understanding of what is true. It concludes by discussing the importance of having a philosopher as a father, and how it gives the son a natural sense of security.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the importance of skepticism and how it applies to knowledge. It also discusses the importance of reflection and silence, and how they help to form a true understanding of what is true. It concludes by discussing the importance of having a philosopher as a father, and how it gives the son a natural sense of security.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  UFC fighters discuss how they know whether or not something is "authentic." Fighters discuss how they can tell whether or not a particular experience is valuable and whether or not it is something that they can specialize in.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

@@ -8,7 +8,6 @@ Some unusual hadiths that are strikingly similar to some modern day phenomena.
 
 ## Summary of [Modern Day Predictions of the Prophet](https://www.youtube.com/watch?v=meza_N1vFCI)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
@@ -16,7 +15,8 @@ Some unusual hadiths that are strikingly similar to some modern day phenomena.
  features a discussion about predictions made by the Prophet Muhammad about the future. He predicts that there will be many wars and that some people will be persecuted.  also discusses other hadith which talk about the vehicles of the day, including the ships mentioned in the hadith. It concludes with a discussion of whether or not the women in these tutorials are aware of these hadith.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** provides a transcript of a hadith which mentions a "society where the trustworthy will not be trusted, the person who's not trustworthy will be trusted, and the person who's trustworthy will not be trusted." It goes on to say that this hadith could be referring to our current society, and that it is "good" that it was not written in our current time.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses a hadith in which the Prophet said that wearing a turban would be a sin. It also discusses other hadith which talk about the vehicles of the day, including the ships mentioned in the hadith. It concludes with a discussion of whether or not the women in these tutorials are aware of these hadith.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses a hadith in which the Prophet said that wearing a turban would be a sin. It also discusses other hadith which talk about the vehicles of the day, including the ships mentioned in the hadith. It concludes with a discussion of whether or not the women in these tutorials are aware of these hadith.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** features a discussion between the Prophet Muhammad and one of his followers about future events. The Prophet predicts that there will be many wars, and that some people will be persecuted.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

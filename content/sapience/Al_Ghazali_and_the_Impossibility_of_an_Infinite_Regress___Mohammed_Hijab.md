@@ -5,25 +5,24 @@
 ## Description
 
 Help us educate and mentor others to share the faith academically.
-Donate now: https://sapienceinstitute.org/donate/ 
+Donate now: <https://sapienceinstitute.org/donate/>
 
-Free online courses: https://learn.sapienceinstitute.org/
+Free online courses: <https://learn.sapienceinstitute.org/>
 
-Free books: https://sapienceinstitute.org/books/
+Free books: <https://sapienceinstitute.org/books/>
 
-Have doubts? Book a mentor: https://sapienceinstitute.org/lighthouse/
+Have doubts? Book a mentor: <https://sapienceinstitute.org/lighthouse/>
 
-Listen (Podcast): https://sapienceinstitute.org/sapientvoices/
+Listen (Podcast): <https://sapienceinstitute.org/sapientvoices/>
 
 Follow:
-– Facebook: https://facebook.com/sapienceinstitute.org/ 
-– Twitter: https://twitter.com/SapienceOrg/ 
-– Instagram: https://instagram.com/sapienceinstitute/ 
+– Facebook: <https://facebook.com/sapienceinstitute.org/>
+– Twitter: <https://twitter.com/SapienceOrg/>
+– Instagram: <https://instagram.com/sapienceinstitute/>
 
-Articles, speaker requests & more: https://sapienceinstitute.org/
+Articles, speaker requests & more: <https://sapienceinstitute.org/>
 
 ## Summary of [Al Ghazali and the Impossibility of an Infinite Regress | Mohammed Hijab](https://www.youtube.com/watch?v=C1yThMy_0Q0)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -32,22 +31,25 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
  Mohammed Hijab discusses the works of al-Ghazali, a medieval scholar and philosopher. Al-Ghazali argued that there is an "infinite regress" in the understanding of reality, meaning that humans can never fully understand or comprehend reality. He also argued that humans need to focus on smaller, more manageable goals in order to achieve true happiness.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  Mohammed Hijab discusses the works of al-Hazali, a medieval scholar and philosopher. Al-Hazali argued that there is an "infinite regress" in the understanding of reality, meaning that humans can never fully understand or comprehend reality. He also argued that humans need to focus on smaller, more manageable goals in order to achieve true happiness.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Al-Ghazali argues that the impossibility of an infinite regress proves that there cannot be an eternal God. He also argues that because God is one, multiplicitous things cannot come from Him.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** explains that there are three issues with the idea of an eternal God with an eternal will: the idea that anything that renews itself is contingent, the idea that Allah does not change, and the idea that an infinite regress is impossible. He argues that, because these three ideas are incompatible, one must conclude that the idea of an eternal God with an eternal will is not possible.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Al Ghazali argues that an actual infinity cannot exist in the real world, and brings forth arguments to support this position. He cites the rotating planet argument as an example.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Al Ghazali argues that an infinite regress of events is impossible because it would never reach a final destination. He also says that past events cannot be possible infinitely because they would be completed and the future would never arrive.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses the impossibility of an infinite regress of causes. Master Al-Ghazali argues that it is impossible for there to be an infinite regress of causes, as this would mean that Allah would be creating infinitely into the past. Asha ibn Ali argues that this is impossible, as it would mean that Allah would be creating without a beginning.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses the impossibility of an infinite regress of causes. Master Al-Ghazali argues that it is impossible for there to be an infinite regress of causes, as this would mean that Allah would be creating infinitely into the past. Asha ibn Ali argues that this is impossible, as it would mean that Allah would be creating without a beginning.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Al Ghazali argues that it is impossible for an infinite regress to exist, as only one thing can come from one. He also believes in a theistic picture of God which maintains that even bad things are good in a sense because they have a purpose. Finally, he argues that the idea of something coming from nothing is a nonsense idea.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Al Ghazali argues that an infinite regress of creation is logically possible, but that it is contradictory because God is eternal. He also points out that if one accepts occasionalism - the belief that there is no primary causation - then this creates problems because it would mean that God creates things continually without any beginning or end.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Al Ghazali argues that anything that is susceptible to addition cannot be infinite, and as there is an infinite past, we cannot add to it. This is a powerful argument against the possibility of an infinite regress.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  Al Ghazali discusses the impossibility of an infinite regress, arguing that if we keep breaking something down, we must eventually reach a "simple thing" that has no beginning and cannot be broken down any further. He says this is why the idea of an infinite universe is problematic, as it would mean that anything has a cause and therefore cannot exist without it.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>**  physicist Roger Penrose discusses the fine tuning of the universe. He argues that if the second premise of the argument, that the universe had a beginning, is not true, then the argument cannot be used to prove the existence of God. Penrose says that even if someone is a good physicist, they will have difficulty defending the argument if it is longer to make the argument but easier to defend.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  William Lane Craig uses the argument against infinity to show the impossibility of an infinite regress. He then asks the audience to think of an argument which will encapsulate both telekeeb and anti-infinite-regress arguments.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:05:00</a>
 
  discusses the impossibility of an infinite regress, and how this argument can be used to support the existence of God. It covers the history of the argument, and how William Lane Craig is the only person to have successfully defeated its opponents in a debate. suggests that critics of this argument might argue that energy cannot be created or destroyed, but they can reformulate the argument to say that the potential for destruction exists even in the present state of the object.
 
-**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>* Discusses the impossibility of an infinite regress, and how this argument can be used to support the existence of God. It also covers the history of the argument, and how William Lane Craig is the only person to have successfully defeated its opponents in a debate.
+**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Discusses the impossibility of an infinite regress, and how this argument can be used to support the existence of God. It also covers the history of the argument, and how William Lane Craig is the only person to have successfully defeated its opponents in a debate.
+
 * **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** recalls reading a story where Ali taxis a customer to their destination. The customer complains about the cracked brown cover on their phone, but Ali points out that the phone could not be like that if it had not been dropped or cracked. He argues that Allah requires an external agent to select one of two possible outcomes, and that this agent is necessary to uphold the principles of justice. suggests that some critics of this argument might argue that energy cannot be created or destroyed, but they can reformulate the argument to say that the potential for destruction exists even in the present state of the object. The show ends with a discussion of Top Gear.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

@@ -6,22 +6,22 @@
 
 Session 1 Part 3
 
-In an age of information overload and widespread pseudo-intellectualism, understanding the core foundations of Islam is as essential as ever. 
+In an age of information overload and widespread pseudo-intellectualism, understanding the core foundations of Islam is as essential as ever.
 
 This course comprehensively deconstructs the skeletal structure of prevalent ideologies and concepts such as atheism, scientism, materialism, secularism, and skepticism, in light of an all-encompassing intellectually robust Islamic worldview.
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -29,38 +29,37 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
 ## Summary of [Science and Scientism | The Evidence Course | Session 1 / Part 3](https://www.youtube.com/watch?v=twjPt1cOHKE)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -68,12 +67,13 @@ Gmail: hello.tapodcast@gmail.com
 
  discusses how science and scientism are two different approaches to studying evidence. The first problem with scientism is that it is self-refuting, as stated by the examples given. The second problem is that certain things we are sure about without the use of science, like the existence of great grandmothers, are inductively derived.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the Mona Lisa, which is one of the most expensive paintings in the world. The painting is studied using the scientific method, which allows for a high degree of certainty about the artist, the time period, and the location of the painting. However, questions about the painting's aesthetic reception and the experienc
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  science and scientism are discussed. The first problem with this approach is that it's self-refuting, as stated by the examples given. The second problem is that certain things we are sure about without the use of science, like the existence of great grandmothers, are inductively derived.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the difference between induction and deduction. induction is a process where you go from the particular to the generalized, while deduction is the process of going from the general to a particular conclusion.  provides an example of induction and deduction in the context of a scientific theory, explaining that induction is possible but deduction is not, as the evidence set may not be exhaustive. Scientific theories cannot be certain, as they are based on incomplete evidence.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Karl Popper, an empiricist philosopher, discusses the inductive nature of science and the fact that causality cannot be proven. He states that a statement can only be said to be valid until evidence has falsified it.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses how science relies on assumptions, including the assumption that causality exists. It also discusses how, without causality, it would be impossible to know whether future events will resemble past experiences, and how science can only make assumptions about certain things. Finally, the video discusses the idea that, even if something does not fit within the scientific method, it can still be proven.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>**  a course instructor discusses how rationality can be used to approach evidence for the belief in the creator.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the Mona Lisa, which is one of the most expensive paintings in the world. The painting is studied using the scientific method, which allows for a high degree of certainty about the artist, the time period, and the location of the painting. However, questions about the painting's aesthetic reception and the experienc
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  science and scientism are discussed. The first problem with this approach is that it's self-refuting, as stated by the examples given. The second problem is that certain things we are sure about without the use of science, like the existence of great grandmothers, are inductively derived.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the difference between induction and deduction. induction is a process where you go from the particular to the generalized, while deduction is the process of going from the general to a particular conclusion.  provides an example of induction and deduction in the context of a scientific theory, explaining that induction is possible but deduction is not, as the evidence set may not be exhaustive. Scientific theories cannot be certain, as they are based on incomplete evidence.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Karl Popper, an empiricist philosopher, discusses the inductive nature of science and the fact that causality cannot be proven. He states that a statement can only be said to be valid until evidence has falsified it.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses how science relies on assumptions, including the assumption that causality exists. It also discusses how, without causality, it would be impossible to know whether future events will resemble past experiences, and how science can only make assumptions about certain things. Finally, the video discusses the idea that, even if something does not fit within the scientific method, it can still be proven.
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>**  a course instructor discusses how rationality can be used to approach evidence for the belief in the creator.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

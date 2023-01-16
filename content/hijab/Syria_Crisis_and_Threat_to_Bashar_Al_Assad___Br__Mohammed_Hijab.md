@@ -4,10 +4,9 @@
 
 This video details the wisdoms of the oppression that goes on in the world especially in Syria in recent times.
 
-Please don't forget to give charity -http://www.muntadaaid.org/donate/#/project/syria-emergency
+Please don't forget to give charity -<http://www.muntadaaid.org/donate/#/project/syria-emergency>
 
 ## Summary of [Syria Crisis and Threat to Bashar Al Assad|| Br. Mohammed Hijab](https://www.youtube.com/watch?v=eXYyNE4JVpQ)
-
 
 *
 
@@ -18,8 +17,9 @@ Please don't forget to give charity -http://www.muntadaaid.org/donate/#/project/
  Br. Mohammed Hijab discusses the Syrian crisis and the threat to Bashar al-Assad. He quotes Qur'an verses stating that Allah will recompense any oppressor and that he will raise up those who oppress others in degrees. He also discusses the importance of humility and Allah's ability to recompense people quickly. He concludes the video by saying that Muslims can believe this, even if non-Muslims do not.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  Br. Mohammed Hijab discusses death and the concept of continuation in Islam. He points out the difference between Muslims and atheists in their views of death, and explains that for Muslims, it is the beginning of a new cycle of life. He also points out that while bad things happen on earth, they are only a tiny part of a much larger picture. He concludes the video by saying that, in the end, all will be rewarded according to their deeds in this life and the next.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Br. Mohammed Hijab discusses the Syrian crisis and the threat to Bashar al-Assad. He quotes Qur'an verses stating that Allah will recompense any oppressor and that he will raise up those who oppress others in degrees. He also discusses the importance of humility and Allah's ability to recompense people quickly. He concludes the video by saying that Muslims can believe this, even if non-Muslims do not.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the possible consequences of the Syrian crisis, including a possible swift recompense for those killed or raped. believes in an afterlife and believes that those who have died will be recompensed.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the possible consequences of the Syrian crisis, including a possible swift recompense for those killed or raped. believes in an afterlife and believes that those who have died will be recompensed.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

@@ -3,13 +3,12 @@
 <iframe loading='lazy' src='https://www.youtube.com/embed/VEGbGICJwBo'></iframe>## Description
 
 You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
+<https://www.patreon.com/Bloggingtheology>
 
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
 ## Summary of [Jesus عليه السلام and Old Testament prophecy with Professor John J. Collins](https://www.youtube.com/watch?v=VEGbGICJwBo)
-
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
@@ -18,6 +17,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 Professor John J. Collins discusses the idea that Jesus is the fulfillment of Old Testament prophecy in this YouTube video. He covers the different views on Jesus as Messiah and how the  of "Son of Man" came to be applied to him. Collins also discusses the idea that Jesus was seen as divine by his followers and how this may have related to visions people had of him after his crucifixion.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** John Collins discusses the servant song of Isaiah 52-53 in relation to ancient Jewish beliefs about the coming of a messiah. He notes that the song may not have been well-known among pre-Christian Jews, and that Christians are the first ones to identify it as a proof text for the resurrection of Jesus.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** covers the first interpretation of the poem "The Son of Man" from the book of Daniel, which is that it refers to the Jewish Messiah, Jesus. Professor John J. Collins covers the various evidence for this interpretation, including the lack of a violent Messiah figure in pre-Christian Judaism, the use of the verse in the book of Daniel to describe the future leader of a rebellion against Rome, and the lack of any expectation of a suffering messiah in early Christianity.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The professor discusses the different expectations of a messiah in Judaism before Christianity. He says that after the Maccabean revolt, there was a resurgence in expectations of a messiah, but that by the time of the Dead Sea Scrolls, these expectations had largely faded away.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  Professor John J. Collins discusses the ancient texts of the Old Testament and how they contain references to a future figure known as the Son of Man. This figure is later identified with Jesus, and early Christians made a  out of it to call him Messiah.
@@ -25,7 +25,7 @@ Professor John J. Collins discusses the idea that Jesus is the fulfillment of Ol
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Jesus' followers expected him to perform miracles and do other things that he did not do. After his crucifixion, some people claimed to have seen him alive. The evidence for these visions was visions right, which does not prove anything. There is also a counter-story that someone stole his body.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Professor John J. Collins discusses the idea that Jesus, referred to as "Lord" and "God" by Thomas in John 20:28, is an honorific  used by those who wished to flatter Domitian, the Roman emperor at the end of the first century. He argues that the passage can be interpreted in a variety of ways, but ultimately does not believe that it describes Jesus as the one and only God.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** The documentary hypothesis is the view that the Pentateuch - the first five books of the Bible - was composed of multiple sources which were combined to produce the text. There is strong disagreement among scholars concerning the precise nature of the sources, with some believing that they can be identified and others less confident. In modern biblical scholarship, the documentary hypothesis is divided into two camps: those who believe that there are four sources - elohist, deuteronomist, priestly writer, and "roland corpus" - and those who believe that there are only two sources, the elohist and the priestly writer.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses the differences between the Old Testament and the New Testament, and Professor John J. Collins introduces his idea that the Hebrew Bible is best explained by the documentary hypothesis. He explains that he is retiring from his teaching duties, but intends to continue writing and publishing.
+* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses the differences between the Old Testament and the New Testament, and Professor John J. Collins introduces his idea that the Hebrew Bible is best explained by the documentary hypothesis. He explains that he is retiring from his teaching duties, but intends to continue writing and publishing.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  Professor John J. Collins discusses how Jesus' prophecies in the New Testament match up with Old Testament predictions.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

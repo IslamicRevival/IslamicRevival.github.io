@@ -5,13 +5,12 @@
 ## Description
 
 You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
+<https://www.patreon.com/Bloggingtheology>
 
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
 ## Summary of [The Jews of Medina were expecting a Prophet](https://www.youtube.com/watch?v=Z4pm2fSYhCI)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -20,6 +19,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 The Jews of Medina were eagerly awaiting the arrival of a new prophet, and when Muhammad visited the tribe of the Khasraj, they were very interested in hearing his message. However, one young man named Yes son of Mudda rejected the Prophet's message and died soon after. Some of those who were present at his death said that they could hear him continually testifying to the oneness of God and praising Him until the end.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** This video discusses the expectation of a prophet among the Jews living in Medina. Relations between the Jews and the Arabs were often strained, and the Jews were eager to learn more about the new prophet. One rabbi pointed to the south and said that a prophet would come who would affirm the truth of the resurrection. The youths among the Jews followed his advice and accepted the prophet despite his non-Jewish background.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The Prophet Muhammad was visiting the tribe of the Khasraj when they asked him if they could come and see him. The Prophet told them that he had been sent with a new religion, and when they asked what that was, he recited some of the Quran to them. A young man named Ias son of Mudda rejected the Prophet's message, and the Prophet left him. Quraish refused to help the Khasraj, and when the Prophet returned to Medina, he found that Yes had died. Some of the people who were present at Yes' death said that they could hear him continually testifying to the oneness of God and magnifying praising and glorifying Him until the end.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

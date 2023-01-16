@@ -6,18 +6,17 @@
 
 Reacting to Kurzgesagt's video on gratitude.  
 
-Smile2jannah's version of these animations: https://www.youtube.com/playlist?list=PLgekhQatcb6gbMCUIXEtxCzYulCLcF3z7
+Smile2jannah's version of these animations: <https://www.youtube.com/playlist?list=PLgekhQatcb6gbMCUIXEtxCzYulCLcF3z7>
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
-My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
+My book: <https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/>
 
-#gratitude #muslim #reaction
+# gratitude #muslim #reaction
 
 ## Summary of [An Antidote to Dissatisfaction- Reaction (Ali Dawah and Smile2jannah)](https://www.youtube.com/watch?v=HsgSuVWEVmg)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -25,11 +24,12 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 
  discusses the importance of gratitude, and how it can help reduce negative emotions and traits. It also talks about how gratitude can help people deal with problems and how it is an important part of the Islamic faith.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the benefits of gratitude, and cites scientific research to support these benefits. It also points out that gratitude decreases negative emotions and traits.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses how gratitude can help people deal with trauma and problems. It also discusses how a muslim's paradigm is "multifaceted," and how a believer's perspective is different from an unbeliever's.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the idea that Islam is a comprehensive system that can be seen through various lenses and that when looked at from a social, psychological, and philosophical perspective, it is effective. It also talks about the idea that it can be difficult to change someone's mindset after they reach adulthood, and that affirmation is one of the few things that can successfully change someone's mindset.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the benefits of gratitude, and cites scientific research to support these benefits. It also points out that gratitude decreases negative emotions and traits.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses how gratitude can help people deal with trauma and problems. It also discusses how a muslim's paradigm is "multifaceted," and how a believer's perspective is different from an unbeliever's.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the idea that Islam is a comprehensive system that can be seen through various lenses and that when looked at from a social, psychological, and philosophical perspective, it is effective. It also talks about the idea that it can be difficult to change someone's mindset after they reach adulthood, and that affirmation is one of the few things that can successfully change someone's mindset.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** talks about the importance of being grateful for all things, and how it can help to reduce dissatisfaction and aggression. He also discusses how being grateful to allah can help unlock many blessings in life.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the importance of being thankful and gives examples of things to be thankful for. He advises adults to teach their children these things and notes that if we can't think of anything to be thankful for, this may be indicative of a problem.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the importance of being thankful and gives examples of things to be thankful for. He advises adults to teach their children these things and notes that if we can't think of anything to be thankful for, this may be indicative of a problem.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

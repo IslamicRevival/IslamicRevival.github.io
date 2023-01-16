@@ -6,16 +6,16 @@ This is a brief talk about the concept justice as per the religious, or more spe
 
 ## Summary of [Atheistic vs Religious Justice - LSE University of London](https://www.youtube.com/watch?v=8t4G19Wr_mo)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  discusses the idea that justice can be objectively realized in different ways, depending on one's perspective. argues that from a Muslim perspective, offering evidence is the best way to achieve justice.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the idea that justice can be objectively realized in different ways, depending on one's perspective. One example given is a child dying in Africa, which would be seen as a bad thing by someone with a religious perspective, but would not be seen as a bad thing by someone without a religious perspective.  then goes on to discuss the Islamic tradition, which believes that Allah Himself is all-knowing and can prove His teachings are true by making predictions that come true.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses Islamic perspective on justice, which differs from that of Christianity and Hinduism. argues that justice must be done according to the scriptures of a specific faith, and that it is impossible for God to allow justice to prevail without it.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the difference between "religious justice" and "atheistic justice," noting that religious justice is based on personal beliefs, while atheistic justice is based on logical reasoning. He argues that, from a Muslim perspective, offering evidence is the best way to achieve justice.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the idea that justice can be objectively realized in different ways, depending on one's perspective. One example given is a child dying in Africa, which would be seen as a bad thing by someone with a religious perspective, but would not be seen as a bad thing by someone without a religious perspective.  then goes on to discuss the Islamic tradition, which believes that Allah Himself is all-knowing and can prove His teachings are true by making predictions that come true.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses Islamic perspective on justice, which differs from that of Christianity and Hinduism. argues that justice must be done according to the scriptures of a specific faith, and that it is impossible for God to allow justice to prevail without it.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the difference between "religious justice" and "atheistic justice," noting that religious justice is based on personal beliefs, while atheistic justice is based on logical reasoning. He argues that, from a Muslim perspective, offering evidence is the best way to achieve justice.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

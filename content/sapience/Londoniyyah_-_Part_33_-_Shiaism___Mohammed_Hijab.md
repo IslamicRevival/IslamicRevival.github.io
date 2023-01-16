@@ -4,28 +4,27 @@
 
 ## Description
 
-Available as audio: https://soundcloud.com/sapienceinstitute/londoniyyah-part-33-shiaism-mohammed-hijab/s-o9IeZlzgDUc?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+Available as audio: <https://soundcloud.com/sapienceinstitute/londoniyyah-part-33-shiaism-mohammed-hijab/s-o9IeZlzgDUc?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing>
 —
 Help us educate and mentor others to share the faith academically.
-Donate now: https://sapienceinstitute.org/donate/ 
+Donate now: <https://sapienceinstitute.org/donate/>
 
-Free online courses: https://learn.sapienceinstitute.org/
+Free online courses: <https://learn.sapienceinstitute.org/>
 
-Free books: https://sapienceinstitute.org/books/
+Free books: <https://sapienceinstitute.org/books/>
 
-Have doubts? Book a mentor: https://sapienceinstitute.org/lighthouse/
+Have doubts? Book a mentor: <https://sapienceinstitute.org/lighthouse/>
 
-Listen (Podcast): https://sapienceinstitute.org/sapientvoices/
+Listen (Podcast): <https://sapienceinstitute.org/sapientvoices/>
 
 Follow:
-– Facebook: https://facebook.com/sapienceinstitute.org/ 
-– Twitter: https://twitter.com/SapienceOrg/ 
-– Instagram: https://instagram.com/sapienceinstitute/ 
+– Facebook: <https://facebook.com/sapienceinstitute.org/>
+– Twitter: <https://twitter.com/SapienceOrg/>
+– Instagram: <https://instagram.com/sapienceinstitute/>
 
-Articles, speaker requests & more: https://sapienceinstitute.org/
+Articles, speaker requests & more: <https://sapienceinstitute.org/>
 
 ## Summary of [Londoniyyah - Part 33 - Shiaism | Mohammed Hijab](https://www.youtube.com/watch?v=bh9nVomQnv0)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -34,43 +33,48 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
  discusses the different interpretations of the Imam in Shia Islam, and the differences between Sunni and Shia beliefs concerning the Imam. It argues that while the Imam is a part of the religion, it is not an important point and can be debated.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  Mohammed Hijab discusses the concept of Imam in Shia Islam. He explains that while all Shia Muslims believe in the doctrine of Imam, there are two different interpretations of Imam. One view considers Imam to be a part of the religion itself, while the other view considers Imam to be a differentiator between Sunni and Shia Muslims.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the differences between Shiite beliefs and Sunni beliefs, noting that while Shiites believe in twelve infallible imams, Sunnis believe that all of the prophets had equal knowledge and power. They also discuss the Quranic verse "I do not know what will befall me or you." argues that while this verse is clear, it's problematic for Shiite Muslims because it denies the uniqueness of Allah.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the differences between Shiite beliefs and Sunni beliefs, noting that while Shiites believe in twelve infallible imams, Sunnis believe that all of the prophets had equal knowledge and power. They also discuss the Quranic verse "I do not know what will befall me or you." argues that while this verse is clear, it's problematic for Shiite Muslims because it denies the uniqueness of Allah.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  Mohammed Hijab discusses the Islamic doctrine of infallibility, or the belief that only Allah can know the future. He notes that this doctrine is explicit in the Quran, and that it is used as evidence that Imam Ahangement is a divinely-appointed position. He also discusses a hadith in which Ibrahim al-Ja'fariya asks Allah to make him an imam for the people, and Allah responds by saying that his pledge will not reach the level of Ibrahim's transgressions. Finally, Hajis provides a summary of a book in which the same evidence is used to support the authority of Imam Jaffa.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the Shia interpretation of Verse 59 of the Quran, which states that Allah made Ibrahim "want you" to undertake the pilgrimage to Mecca. Shia interpretations argue that this desire is a religious quality that Ibrahim needed to reach in order to be qualified as an Imam.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the Shia interpretation of Verse 59 of the Quran, which states that Allah made Ibrahim "want you" to undertake the pilgrimage to Mecca. Shia interpretations argue that this desire is a religious quality that Ibrahim needed to reach in order to be qualified as an Imam.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** The presenter discusses an argument about whether a nurse who was mentioned in the Quran is an Imam. There is a debate among scholars about this, but the presenter argues that it is only possible for this to happen within the context of a narrative.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses some of the differences between Shia and Sunni Islam, and discusses the hadith of Kiset. It asserts that this hadith shows that only the Prophet's family (Hussein, Fatima, and others) are legitimate heirs to his authority, and that all other Muslims are not part of the "family." This point is used to argue that only the Prophet's closest followers are truly pious and deserving of salvation.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses some of the differences between Shia and Sunni Islam, and discusses the hadith of Kiset. It asserts that this hadith shows that only the Prophet's family (Hussein, Fatima, and others) are legitimate heirs to his authority, and that all other Muslims are not part of the "family." This point is used to argue that only the Prophet's closest followers are truly pious and deserving of salvation.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** This hadith is about those who do not give sadaqah to their family members at the end of the hadith. Shia scholars say that it applies to all members of the household, not just wives.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses the different verses in the Quran that can be used to describe relationships, and how some people argue that these verses should be included in the Quran as part of the foundations of the religion. He notes that this is not an argument that is made in the Quran itself, and that there is a hadith which speaks of Mahdi being from the soul of the religion. He goes on to say that this question of including the soul of the religion in the Quran is not an important point and that it can be debated.
+* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses the different verses in the Quran that can be used to describe relationships, and how some people argue that these verses should be included in the Quran as part of the foundations of the religion. He notes that this is not an argument that is made in the Quran itself, and that there is a hadith which speaks of Mahdi being from the soul of the religion. He goes on to say that this question of including the soul of the religion in the Quran is not an important point and that it can be debated.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** The narrator discusses the difference between Sunni and Shia beliefs concerning imam, and provides an example of a Shiite man who asked him to find an example of someone else being called a "welly" besides Soviet imams. The narrator explains that while Sunni Muslims believe that all of the generic requirements for guidance are not explicitly mentioned in the Quran, Shiites believe that their Imams are the only ones who possess the full knowledge and authority necessary to lead Muslims to salvation.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses Shi'ite beliefs about Imam. It discusses that although the Imams have political authority, they are higher in status than prophets. This is easily refuted by considering what the Quran says about Fatima and Mary.
+* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Discusses Shi'ite beliefs about Imam. It discusses that although the Imams have political authority, they are higher in status than prophets. This is easily refuted by considering what the Quran says about Fatima and Mary.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** <>
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses how some companions of the prophet Muhammad were considered hypocrites by other Muslims. It also notes that only men can be considered bedouins.  then goes on to say that these companions are trustworthy and noble, and that Allah is pleased with them.
+* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Discusses how some companions of the prophet Muhammad were considered hypocrites by other Muslims. It also notes that only men can be considered bedouins.  then goes on to say that these companions are trustworthy and noble, and that Allah is pleased with them.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  discusses various aspects of Shia Islam and how it differs from Sunni Islam. It also touches on the origins of the conflict between the two groups and why it is important to be careful not to excommunicate Shia Muslims.
 
-**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>* Discusses the concept of hypocrisy and how it is not present in Makkah because anyone who accepted Islam genuinely had to go through torture. It also discusses how migrating to Medina helped the sahaba live in peace and harmony with those who had migrated there.
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>* Discusses the Shia interpretation of a general verse in the Quran about those who have fought and given charity. The Shia believe that this verse applies specifically to Ali and those who follow him, and that it is a sign of their faith. All Muslims who have fought and given charity are considered to be on the right path, but those who do not meet these qualifications are "non-equivalent among you" and should be excluded.
+**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Discusses the concept of hypocrisy and how it is not present in Makkah because anyone who accepted Islam genuinely had to go through torture. It also discusses how migrating to Medina helped the sahaba live in peace and harmony with those who had migrated there.
+
+* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Discusses the Shia interpretation of a general verse in the Quran about those who have fought and given charity. The Shia believe that this verse applies specifically to Ali and those who follow him, and that it is a sign of their faith. All Muslims who have fought and given charity are considered to be on the right path, but those who do not meet these qualifications are "non-equivalent among you" and should be excluded.
 * **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** argues that it is reasonable to think that the Prophet Muhammad married non-believers because it is mentioned in Chapter 66 of the Quran, and Noah was informed about the deception his wife would be involved in.
 * **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** <>
 * **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** The munafi kun, who realized that some of the sahaba were close to the prophet, wanted to cause division and discord among them. He used hypocrisy and false claims of unity to try and achieve this. All of the sahaba eventually realized this and made it a point to visit the prophet in order to purify themselves. The munafi kun then said that the prophet should not even pray with them in the same room, as it would be inappropriate for him to be with them while they were not purified.
-* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>* Discusses Shiaism, specifically the principle that whatever a person says about the Sahaba, that is what Allah will say about them. The discussion also touches on the origins of animosity between Shia and Sunni Muslims, which stem from a dispute over leadership of the Muslim community after Muhammad's death.
+* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** Discusses Shiaism, specifically the principle that whatever a person says about the Sahaba, that is what Allah will say about them. The discussion also touches on the origins of animosity between Shia and Sunni Muslims, which stem from a dispute over leadership of the Muslim community after Muhammad's death.
 * **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>**  a Sunni Muslim scholar explains why al-Hasan (a grandson of Muhammad) would not give up his political authority to a disbeliever, and why this is evidence of al-Hasan's prophethood. The narrator also discusses the situation with Hasan's son, Hussein, who was martyred at the hands of a Shi'ite group.
-* **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>* Discusses the similarities between Shiaism and Islam, and how Shia may disavow certain beliefs in order to be accepted by mainstream Muslims. It also points out the importance of being careful not to excommunicate Shia, as doing so could have negative consequences for them and could also lead to disrespect of the companions of the prophet Muhammad.
-* **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>* Discusses Shia beliefs regarding the actions of the Sahaba, including the Prophet's companionship and how it is a criterion for belief. Shia beliefs differ from Sunni beliefs on this matter.
+* **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** Discusses the similarities between Shiaism and Islam, and how Shia may disavow certain beliefs in order to be accepted by mainstream Muslims. It also points out the importance of being careful not to excommunicate Shia, as doing so could have negative consequences for them and could also lead to disrespect of the companions of the prophet Muhammad.
+* **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** Discusses Shia beliefs regarding the actions of the Sahaba, including the Prophet's companionship and how it is a criterion for belief. Shia beliefs differ from Sunni beliefs on this matter.
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** The narrator explains that there is a hadith in the Sahaja Collection that says that Fatima withdrew from Muhammad until her death. He goes on to say that this hadith is connected to the Prophet's observation that Fatima died six months after his death.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** Shia Muslims allege that the Prophet Muhammad did not allow his daughter, Fatima, to inherit from her father because she was upset with him. Ali understood this and said that he would come to give her an inheritance tomorrow.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** The Shia community has two camps with regards to whether or not there has been tampering with the Quran. One camp believes that there has been tampering, while the other believes that there has not been.
+
 ### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:25:00</a>
 
  discusses Shia beliefs about the Quran, the succession to the prophet Muhammad, and cursing Ali. Mohammed Hijab argues that the Quran was changed over time and that the prophet Muhammad was a failure because he did not transmit all of his teachings to his followers.
 
 **<a onclick="modifyYTiframeseektime('7200')">02:00:00</a>** The Shia believe that the Quran was not in its perfect form when it was collected and that it was changed over time. They also believe that there is interpolation in the Quran.
-* **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>* Discusses some of the common misconceptions and arguments made about Shiaism, including the claim that the Quran was changed over time. He also mentions that there is a consensus on the narration that the prophet left a successor, which is Abu Bakr.
-* **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>* Discusses a hadith in which the prophet, sallallahu alaihi wa sallam, requests a pen and paper to be brought to him so that he won't be misled after or misguided.  also discusses how this hadith does not prove anything regarding the infallibility of the 12 imams or the correctness of the shia beliefs. There are various other issues raised which the hadith does not help to substantiate.
-* **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>* Discusses Shiaism, and how Mohammed Hijab argues that because the prophet Mohammed was not able to transmit all of his teachings to his followers, he was a failure. He also cites a hadith which states that if someone takes information from the prophet, they are not following sufficient Islamic teachings.
-* **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>* Discusses Shia beliefs about cursing Ali, which is seen as worse than fighting. The narrator provides two reasons why this is the case: First, because the hadith is not authentic, and second, because fighting is possible but cursing is not, because it results in the death of many people.
-* **<a onclick="modifyYTiframeseektime('8700')">02:25:00</a>* Discusses Shia beliefs about the succession to the prophet Muhammad, which may be summarized as follows: Ali was supposed to bring the people pen and paper so that he could record who would be the next prophet, but he did not. This leads to criticism of Abu Bakr and Ali's son, Muhammad ibn Ali.
+
+* **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>** Discusses some of the common misconceptions and arguments made about Shiaism, including the claim that the Quran was changed over time. He also mentions that there is a consensus on the narration that the prophet left a successor, which is Abu Bakr.
+* **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>** Discusses a hadith in which the prophet, sallallahu alaihi wa sallam, requests a pen and paper to be brought to him so that he won't be misled after or misguided.  also discusses how this hadith does not prove anything regarding the infallibility of the 12 imams or the correctness of the shia beliefs. There are various other issues raised which the hadith does not help to substantiate.
+* **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>** Discusses Shiaism, and how Mohammed Hijab argues that because the prophet Mohammed was not able to transmit all of his teachings to his followers, he was a failure. He also cites a hadith which states that if someone takes information from the prophet, they are not following sufficient Islamic teachings.
+* **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>** Discusses Shia beliefs about cursing Ali, which is seen as worse than fighting. The narrator provides two reasons why this is the case: First, because the hadith is not authentic, and second, because fighting is possible but cursing is not, because it results in the death of many people.
+* **<a onclick="modifyYTiframeseektime('8700')">02:25:00</a>** Discusses Shia beliefs about the succession to the prophet Muhammad, which may be summarized as follows: Ali was supposed to bring the people pen and paper so that he could record who would be the next prophet, but he did not. This leads to criticism of Abu Bakr and Ali's son, Muhammad ibn Ali.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

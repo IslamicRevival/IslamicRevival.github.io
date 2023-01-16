@@ -6,16 +6,15 @@
 
 This video attempts to look at some foundational problems with liberal ideology. There is a focus on how liberalism has also effected Muslim community in the West and elsewhere.
 
-An interesting definition of religion : 
+An interesting definition of religion :
 
-A religion is an institution with a complex of theoretical, practical, sociological and experiential 
-dimensions, which is distinguished by characteristic objects (gods or sacred things), goals 
-(salvation or ultimate good) and functions (giving an overall meaning to life or providing the 
-identity or cohesion of a social group). 
+A religion is an institution with a complex of theoretical, practical, sociological and experiential
+dimensions, which is distinguished by characteristic objects (gods or sacred things), goals
+(salvation or ultimate good) and functions (giving an overall meaning to life or providing the
+identity or cohesion of a social group).
 Byrne, ‘Religion and the Religious’ in Clarke & Sutherland (ed.s) The World's Religions: The Study of Religion, Traditional and New Religion. London: Routledge (2003), p. 7
 
 ## Summary of [Liberalism as Religion || Turkey Lecture](https://www.youtube.com/watch?v=K_5-JhJPTFY)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -23,15 +22,16 @@ Byrne, ‘Religion and the Religious’ in Clarke & Sutherland (ed.s) The World'
 
 , a Turkish professor discusses the problems with liberalism as a religion. He argues that liberalism is based on the false idea that everyone is born equal, and that this leads to problems because some people are not born with the same opportunities as others. He also points out that equality of opportunity is not an achievable goal, and that it is important to have a quality of opportunity, not just an equality of opportunity.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses how liberalism affects different aspects of life, and how it is a more powerful ethic than other religions. He also discusses some of the problems with liberalism, and how Muslims should be speaking about it more.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses how liberalism affects different aspects of life, and how it is a more powerful ethic than other religions. He also discusses some of the problems with liberalism, and how Muslims should be speaking about it more.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Liberalism is criticized for privileging the individual over communal units, leading to decay and decadence.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** In this lecture, the speaker discusses the problems with implementing liberalism in the real world. They discuss examples of freedom being impossible and how this can lead to tyranny. also gives a hypothetical example of a person being told to do what they're told or be shot. Depending on the person's perspective, they would be referred to as a slave or a tyrant.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  a Turkish professor discusses the problems with liberalism as a religion. He argues that liberalism is based on the false idea that everyone is born equal, and that this leads to problems because some people are not born with the same opportunities as others. He also points out that equality of opportunity is not an achievable goal, and that it is important to have a quality of opportunity, not just an equality of opportunity.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** This 1-paragraph summary of the video "Liberalism as Religion" by Prof. Brian Algar explains that, according to the definition of religion in a dictionary, liberalism is a religion because it includes the fundamental principles of belief that adherents adhere to.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** , Dean John Locke is discussed, and it is noted that he based liberalism on the idea of being born equal and free, and that John Stuart Mill continued the tradition. It is also noted that there is no way to prove the hedonistic principle to be true, and that it is a subjective value judgment.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses iberalism and how it is similar to religion. He points out that because liberalism is unprovable, it can be seen as a religion by those who believe in it. He also points out that there is no necessary connection between technology and liberalism.
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses iberalism and how it is similar to religion. He points out that because liberalism is unprovable, it can be seen as a religion by those who believe in it. He also points out that there is no necessary connection between technology and liberalism.
 * **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** In his lecture, the speaker discusses how liberalism and Islam are not necessarily connected, and how successful the Turks have been historically despite being Muslim. He also urges the audience to be brave and resist colonization by liberalism, warning of the negative consequences it will have on society.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses how liberalism is like religion, and how it can be dangerous because it is not easily manipulated or messed around with. He points out that this is why the countries that are most liberal are also the most dangerous, as they have an advantage over less liberal countries.
+* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses how liberalism is like religion, and how it can be dangerous because it is not easily manipulated or messed around with. He points out that this is why the countries that are most liberal are also the most dangerous, as they have an advantage over less liberal countries.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

@@ -5,13 +5,12 @@
 ## Description
 
 You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
+<https://www.patreon.com/Bloggingtheology>
 
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
 ## Summary of [The First Marriage of the Prophet Muhammad ﷺ](https://www.youtube.com/watch?v=CoCqGJZvglQ)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -20,6 +19,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 This video tells the story of the Prophet Muhammad's first marriage to Khadijah. Khadijah was already married and had two sons from her previous marriage, but she fell in love with Muhammad and asked her uncle to let them marry. Abu Talib agreed, but he also arranged for Muhammad to take care of Khadijah's business. Khadijah and Muhammad were married in 624 CE in Mecca. Khadijah was forty-nine and Muhammad was twenty-eight. After the marriage, Muhammad started to take care of her business and trade for her. One day, Khadijah sent Muhammad on a business trip to Syria. When Muhammad came back, he found out that Khadijah had married him to her other son, Maysara, without telling him. Muhammad was angry and decided to break up the marriage. However, unexpected circumstances led him to change his mind and he married Khadijah in 628 CE.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  Martin Lings tells the story of the Prophet Muhammad's first marriage to Khadijah. Khadijah was already married and had two sons from her previous marriage, but she fell in love with Muhammad and asked her uncle to let them marry. Abu Talib agreed, but he also arranged for Muhammad to take care of Khadijah's business. Khadijah and Muhammad were married in 624 CE in Mecca. Khadijah was forty-nine and Muhammad was twenty-eight. After the marriage, Muhammad started to take care of her business and trade for her. One day, Khadijah sent Muhammad on a business trip to Syria. When Muhammad came back, he found out that Khadijah had married him to her other son, Maysara, without telling him. Muhammad was angry and decided to break up the marriage. However, unexpected circumstances led him to change his mind and he married Khadijah in 628 CE.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Masara reports that the monk who greeted Muhammad when he arrived in Syria was Nestor, who recognized him as a prophet. According to Islamic tradition, Muhammad is the last prophet of the line of Judah. When they arrived in Mecca, Muhammad and Khadijah went to the home of Khajiit trader Khadijah's father. While there, Muhammad described his journey and the various transactions he made. Khadijah was able to sell her assets for more than double what she had paid for them. Muhammad's appearance and demeanor struck Khadijah as strange, and she was focused only on him while he was speaking. Muhammad was 25 years old and of medium stature. His hair and beard were thick and black, but not entirely straight. His hair reached midway between his ears and his shoulders, and his beard was of a length to match. His nose was aqualine and his mouth was wide and finely shaped. Muhammad had a noble breath and the ovals of his large eyes were wide with exceptionally long lashes and extensive brows.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  Khadijah, the first wife of the prophet Muhammad, is described as being strikingly beautiful with a light complexion and luminous eyes. She consults a woman friend, Nufatia, to ask if she can marry Muhammad. When Muhammad arrives, Khadijah tells him her story, including her love for him, her trustworthiness, and her kinship to him. She then offers herself as his wife, and they agree to speak to her uncle and her brother about the marriage. Hamza, the nephew of Khadijah's brother, Awam, is appointed as the representative for the family. After the agreement is made, Muhammad gives Khadijah 20 camels as a dowry.
 

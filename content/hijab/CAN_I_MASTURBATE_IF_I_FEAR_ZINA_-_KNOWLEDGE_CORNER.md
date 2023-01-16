@@ -2,26 +2,25 @@
 
 <iframe loading='lazy' src='https://www.youtube.com/embed/Ix3vLX9cihA'></iframe>## Description
 
-Sheikh Mohammed Osman's channel - https://www.youtube.com/channel/UCMMx6ujr87q8FQ8F11fyHdA
+Sheikh Mohammed Osman's channel - <https://www.youtube.com/channel/UCMMx6ujr87q8FQ8F11fyHdA>
 
-***Donate Support the Dawah:*** 
-https://www.launchgood.com/supportsalam
+***Donate Support the Dawah:***
+<https://www.launchgood.com/supportsalam>
 
-***Subscribe to our new channel:*** 
-https://www.youtube.com/channel/UCVe9scgFCo97IEWj0I37Ozg 
+***Subscribe to our new channel:***
+<https://www.youtube.com/channel/UCVe9scgFCo97IEWj0I37Ozg>
 
-Website www.salam.org.uk 
+Website www.salam.org.uk
 
-Instagram salam.initiative 
-https://www.instagram.com/salam.initiative
+Instagram salam.initiative
+<https://www.instagram.com/salam.initiative>
 
-Twitter @InitiativeSalam 
-https://twitter.com/InitiativeSalam
+Twitter @InitiativeSalam
+<https://twitter.com/InitiativeSalam>
 
 MOHAMMED HIJAB ALI DAWAH
 
 ## Summary of [CAN I MASTURBATE IF I FEAR ZINA?? - KNOWLEDGE CORNER](https://www.youtube.com/watch?v=Ix3vLX9cihA)
-
 
 *
 
@@ -32,6 +31,7 @@ MOHAMMED HIJAB ALI DAWAH
 The narrator discusses the issue of masturbation in Islam and offers a few possible solutions for those struggling with sexual desires. He also advises that if someone cannot get married, he should fast.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The chef discusses the ruling on masturbation and offers a few possible remedies for a Muslim struggling with sexual desires. He also discusses the issue of marriage and how it has become difficult in the West.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** <>
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** <>
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The narrator discusses the possible health benefits of masturbation and provides a few examples of where the Quran mentions it. He also advises that if someone cannot get married, he should fast.

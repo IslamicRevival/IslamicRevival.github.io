@@ -4,16 +4,15 @@
 
 ## Description
 
-Visit https://www.naturesblends.com/ and use hijab10 for a 10% discount. 
+Visit <https://www.naturesblends.com/> and use hijab10 for a 10% discount.
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
-My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
+My book: <https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/>
 
 ## Summary of [Did Paul Distort the Message of Christ?](https://www.youtube.com/watch?v=FUb8dxd63RI)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -22,6 +21,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
  the YouTube user argues that Paul was not a reliable source of information about Jesus, and that the historical Jesus is more accurately revealed in the Quran. The user also argues that Muslims are the true followers of Jesus, as they have access to the original, undistorted message of him.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  Paul is discussed, and it is shown that he has done a lot to shape conceptions about Jesus in the modern world. His biggest claim to legitimacy is the divine revelation he said he received from Jesus. Unfortunately, there is no way to independently verify his claims of mystical desert encounters with Jesus. However, what can be done to test his apostleship is to scrutinize his writings. It is shown that he made repeated claims of divine inspiration and since God is all-knowing and all-wise, it stands to reason that his writings should be free of error. A prophecy about the end of the world that can be found in both the Gospel of Mark and the Apostle Paul's own writings is examined, and it is shown that Paul clearly believed that the world's end was imminent. In order to make sense of his advice about living as bachelors and not feeling human emotions, and being detached from material things, if what a prophet proclaims in the name of the Lord does not take place or come true, then that prophet is not inspired by God. Therefore, it can be concluded that Paul himself did not qualify as an inspired prophet.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** , Paul is quoted from the Old Testament in order to argue that salvation is attained by faith alone, and that works are not necessary for righteousness. Paul's quote from the book of Isaiah is shown to be incorrect, as it mentions that the savior will come to Israel after they have repented of their sins.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  examines the passage from Romans 2 which speaks about how "those who deny god are not righteous." Paul offers a reason for why god revealed the law to Moses and the Israelites, saying that it is so that we may realize that it is impossible to keep it. He contrasts this with what he claims is the original message - that those who say there is no god are not righteous. In the end, Paul takes four men with him and undergoes a public  shaving ritual derived from the law of Moses, which denies the rumors that he preached against the law of Moses. This raises the question of how truthful Paul's claims of apostolic authority and divine inspiration actually are.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** argues that, because the New Testament is full of inaccuracies, Paul was not the reliable source of information about Jesus that believers might believe. Furthermore, the author argues that the historical Jesus is more accurately revealed in the Quran, which unveils centuries of mythmaking around him. Muslims are, in fact, the true followers of Jesus, as they have access to the original, undistorted message of him.

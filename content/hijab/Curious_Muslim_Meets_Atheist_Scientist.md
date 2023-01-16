@@ -4,12 +4,11 @@
 
 ## Description
 
-This is an attempt to put forward a kind of ontological argument for God's existence and an interesting discussion between an Atheist and  Muslim in Speakers Corner London. 
+This is an attempt to put forward a kind of ontological argument for God's existence and an interesting discussion between an Atheist and  Muslim in Speakers Corner London.
 
-Part 2 here: https://www.youtube.com/watch?v=WmiB1KSj-J8
+Part 2 here: <https://www.youtube.com/watch?v=WmiB1KSj-J8>
 
 ## Summary of [Curious Muslim Meets Atheist Scientist](https://www.youtube.com/watch?v=37EY8TP7d3k)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -17,11 +16,12 @@ Part 2 here: https://www.youtube.com/watch?v=WmiB1KSj-J8
 
 "Curious Muslim Meets Atheist Scientist", the two discuss the concept of worship. The atheist argues that worship is submission to the necessary existence of a deity, and the Muslim finds this unsatisfying. The atheist goes on to say that it is simply a logical question, and that the answer is unsatisfactory.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses how, according to the philosopher William Williams, it is impossible for there to be only contingent existences, as this would result in an impossibility.  then asks the atheist scientist William Williams if he agrees with this, to which he replies that he does not.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses how there must be one necessary existence in order to have all possible existence, and that it cannot be infinite.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses how, according to the philosopher William Williams, it is impossible for there to be only contingent existences, as this would result in an impossibility.  then asks the atheist scientist William Williams if he agrees with this, to which he replies that he does not.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses how there must be one necessary existence in order to have all possible existence, and that it cannot be infinite.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The ontological argument states that concepts such as "god" or "existence" are real and exist in an abstracted form. It can be applied to the cosmological realm, but it can exist without a cosmological inference. David Hume was a famous philosopher who believed in the problem of induction.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the difficulties of inductive reasoning, explaining that if we accept that there is an entity which is necessary for everything to exist, then we must also accept that this entity has always existed. They go on to argue that if the universe has always existed, then it cannot be a material entity, and must instead be an immaterial force. They ask their atheist guest if he believes that the universe has always existed, to which the guest replies that he doesn't know. then explains that if the universe has always existed, then it must have existed with time, and asks the guest if he believes that time exists now. The guest responds that he doesn't know, and the speaker concludes that he has not answered the question.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the concept of time and how it can be difficult to understand for people who don't believe in a god. The atheist scientist in the video says that, if there is no god, then it is impossible for anything to exist that is necessary for existence to exist. He goes on to say that, if this is the case, then existence would not be justified and an impossibility would occur.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the difficulties of inductive reasoning, explaining that if we accept that there is an entity which is necessary for everything to exist, then we must also accept that this entity has always existed. They go on to argue that if the universe has always existed, then it cannot be a material entity, and must instead be an immaterial force. They ask their atheist guest if he believes that the universe has always existed, to which the guest replies that he doesn't know. then explains that if the universe has always existed, then it must have existed with time, and asks the guest if he believes that time exists now. The guest responds that he doesn't know, and the speaker concludes that he has not answered the question.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the concept of time and how it can be difficult to understand for people who don't believe in a god. The atheist scientist in the video says that, if there is no god, then it is impossible for anything to exist that is necessary for existence to exist. He goes on to say that, if this is the case, then existence would not be justified and an impossibility would occur.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** , a curious Muslim meets an atheist scientist and discusses the concept of worship. The atheist scientist argues that worship is submission of one's will to the necessary existence of a deity, and that it is simply realizing who one is. The Muslim finds the atheist's argument unsatisfying and asks why worship would be necessary. The atheist scientist responds that it is a logical question and that the answer is unsatisfactory.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

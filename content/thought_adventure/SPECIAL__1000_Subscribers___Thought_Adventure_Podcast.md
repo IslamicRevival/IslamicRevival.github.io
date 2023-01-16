@@ -5,17 +5,17 @@
 ## Description
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -23,41 +23,39 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
-
-#special #1ksubs #thankyou
+# special #1ksubs #thankyou
 
 ## Summary of [SPECIAL: 1000 Subscribers | Thought Adventure Podcast](https://www.youtube.com/watch?v=pGboeEGitDk)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -66,25 +64,28 @@ Gmail: hello.tapodcast@gmail.com
 Thought Adventure Podcast is introducing a new way of interacting with its listeners by having a live chat session every episode. The first episode featured an introduction to the podcast and its aims, followed by a discussion of the problems of logic and the trinity. The next episode was on miracles, and the fourth discussed consciousness. The last episode featured a guest, brother Hamilton, and the episode was not as beneficial as it could have been because many listeners did not understand the subject matter.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The Thought Adventure Podcast has hit 1,000 subscribers. The team thanks viewers and brothers involved, and praises those who help out behind the scenes. Next, brother Jake says a few words about the upcoming arguments on stage 2 of the clam.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The Thought Adventure Podcast is introducing a new way of interacting with its listeners by having a live chat session every episode. The first episode featured an introduction to the podcast and its aims, followed by a discussion of the problems of logic and the trinity. The next episode was on miracles, and the fourth discussed consciousness. The last episode featured a guest, brother Hamilton, and the episode was not as beneficial as it could have been because many listeners did not understand the subject matter.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  "SPECIAL: 1000 Subscribers | Thought Adventure Podcast" features a discussion of how Thought Adventure Podcast might improve its content by exploring different points of view on the hard problem of consciousness and eliminative theory reductionism. The host recommends that the podcast explore these viewpoints by having guest hosts or guests who are atheists or theists to debate these topics.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** introduces a new format for the Thought Adventure Podcast, in which guests are interviewed and given a 20 minute Q&A at the end. The focus of the podcast is on conversation, and the goal is to learn and gain knowledge on the various topics discussed.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** The Thought Adventure Podcast has 1000 subscribers, and the hosts hope to have more in the future. They are also working on a new podcast, "Wallaho Island."
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Brother Hussein discusses how life is always going in a good direction, and discusses how he is optimistic about the future of Thought Adventure Podcast. He also talks about how guests can be added to the show, and how important it is to have open and honest discussion.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses the controversy over Richard Dawkins' comments on Muslims and Nazis, and how one of the brothers involved attempted to confront him. The brothers eventually had to call the police after Dawkins attacked them. Dawkins was eventually dropped of charges. The brothers discuss ways they might be able to get Dawkins on their show to discuss the controversy further.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses a possible topic for a future episode of the Thought Adventure podcast: a debate between a Christian and an atheist on the existence of God.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Randall Houser introduces a new video featuring Thought Adventure Podcast guest Yusuf Sharif and guest Jacob. Abdulrahman, brother of Yusuf Sharif, is not a mod, and discussion turns to the concept of divine simplicity. Randall and Jamie discuss Yusuf's article on modal collapse and Abdulrahman's underrated contribution to philosophy.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the topic of how muslims are increasingly discussing reason and rationality in relation to the existence of allah, and how this is helping to push muslims to learn these arguments. It also discusses the idea of having a panel discussion with Justin about godfrey will's challenge to god's free will.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The host of the video discusses the recent controversy surrounding a popular atheist YouTuber who has claimed to have converted to Islam. The host argues that the controversy illustrates the different problems that can exist when discussing free will. He also discusses the possibility of live streaming again, as Justin has promised to do in the future.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses how Thought Adventure Podcast plans to increase the number of guests on its panel to four, in order to avoid overcrowding. It also explains how Thought Adventure Podcast does not want to overwhelm its brothers, and invites any brothers who are busy with their own streams to participate.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The Thought Adventure Podcast is introducing a new way of interacting with its listeners by having a live chat session every episode. The first episode featured an introduction to the podcast and its aims, followed by a discussion of the problems of logic and the trinity. The next episode was on miracles, and the fourth discussed consciousness. The last episode featured a guest, brother Hamilton, and the episode was not as beneficial as it could have been because many listeners did not understand the subject matter.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  "SPECIAL: 1000 Subscribers | Thought Adventure Podcast" features a discussion of how Thought Adventure Podcast might improve its content by exploring different points of view on the hard problem of consciousness and eliminative theory reductionism. The host recommends that the podcast explore these viewpoints by having guest hosts or guests who are atheists or theists to debate these topics.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** introduces a new format for the Thought Adventure Podcast, in which guests are interviewed and given a 20 minute Q&A at the end. The focus of the podcast is on conversation, and the goal is to learn and gain knowledge on the various topics discussed.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** The Thought Adventure Podcast has 1000 subscribers, and the hosts hope to have more in the future. They are also working on a new podcast, "Wallaho Island."
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Brother Hussein discusses how life is always going in a good direction, and discusses how he is optimistic about the future of Thought Adventure Podcast. He also talks about how guests can be added to the show, and how important it is to have open and honest discussion.
+- **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses the controversy over Richard Dawkins' comments on Muslims and Nazis, and how one of the brothers involved attempted to confront him. The brothers eventually had to call the police after Dawkins attacked them. Dawkins was eventually dropped of charges. The brothers discuss ways they might be able to get Dawkins on their show to discuss the controversy further.
+- **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses a possible topic for a future episode of the Thought Adventure podcast: a debate between a Christian and an atheist on the existence of God.
+- **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Randall Houser introduces a new video featuring Thought Adventure Podcast guest Yusuf Sharif and guest Jacob. Abdulrahman, brother of Yusuf Sharif, is not a mod, and discussion turns to the concept of divine simplicity. Randall and Jamie discuss Yusuf's article on modal collapse and Abdulrahman's underrated contribution to philosophy.
+- **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Discusses the topic of how muslims are increasingly discussing reason and rationality in relation to the existence of allah, and how this is helping to push muslims to learn these arguments. It also discusses the idea of having a panel discussion with Justin about godfrey will's challenge to god's free will.
+- **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The host of the video discusses the recent controversy surrounding a popular atheist YouTuber who has claimed to have converted to Islam. The host argues that the controversy illustrates the different problems that can exist when discussing free will. He also discusses the possibility of live streaming again, as Justin has promised to do in the future.
+- **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Discusses how Thought Adventure Podcast plans to increase the number of guests on its panel to four, in order to avoid overcrowding. It also explains how Thought Adventure Podcast does not want to overwhelm its brothers, and invites any brothers who are busy with their own streams to participate.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:15:00</a>
 
 The Thought Adventure Podcast has reached a milestone of 1,000 subscribers, and  the hosts discuss some of the challenges and rewards of engaging with such a large and diverse audience. They encourage viewers to check out their other channels and to leave feedback in the comments section.
 
-**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>* Discusses how, given the amount of work brothers Sharif and Yusuf are doing, it is difficult for them to produce separate episodes discussing ethics and futurism. They suggest that, if listeners would like to follow the brothers' work in these areas, they should subscribe to their respective channels.
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>* Discusses the challenges of trying to engage with a large, diverse audience on Thought Adventure Podcast, and how having a large number of subscribers supports the show's quality. The hosts mention that they would like to have a discussion with Yusuf about his article on nihilism.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** The Thought Adventure Podcast has just hit 1,000 subscribers, and in the process, has discussed a range of topics including philosophy and Islam. The hosts encourage viewers to check out their other social media channels, and to leave feedback in the comments section.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** announces that they will be reading and taking feedback seriously, and that other than that, they wish everyone a good day. They present their latest podcast episode, which discusses the "Kalam argument for the existence of God."
+**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Discusses how, given the amount of work brothers Sharif and Yusuf are doing, it is difficult for them to produce separate episodes discussing ethics and futurism. They suggest that, if listeners would like to follow the brothers' work in these areas, they should subscribe to their respective channels.
+
+- **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Discusses the challenges of trying to engage with a large, diverse audience on Thought Adventure Podcast, and how having a large number of subscribers supports the show's quality. The hosts mention that they would like to have a discussion with Yusuf about his article on nihilism.
+- **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** The Thought Adventure Podcast has just hit 1,000 subscribers, and in the process, has discussed a range of topics including philosophy and Islam. The hosts encourage viewers to check out their other social media channels, and to leave feedback in the comments section.
+- **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** announces that they will be reading and taking feedback seriously, and that other than that, they wish everyone a good day. They present their latest podcast episode, which discusses the "Kalam argument for the existence of God."
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

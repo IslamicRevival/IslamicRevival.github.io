@@ -4,10 +4,9 @@
 
 ## Description
 
-source: https://www.facebook.com/UmmKhalidMuslimMom
+source: <https://www.facebook.com/UmmKhalidMuslimMom>
 
 ## Summary of [Umm Khalid: "Women have been lied to"](https://www.youtube.com/watch?v=2nENnMKESOA)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -16,6 +15,7 @@ source: https://www.facebook.com/UmmKhalidMuslimMom
 The video discusses how women have been lied to for years, and how this has led to various negative consequences in society. It points to examples of how Muslim women have followed in the footsteps of non-Muslim women by engaging in practices such as sleeping around and getting abortions. It suggests that the way to overcome these issues is to start from a place of truth, Islam, and to respect and cherish wifehood and motherhood.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** contends that the lie told to women in the West for the past several decades has been that they can have it all--a successful career, a fulfilling sex life, and a family later on. Candice Bushnell, the creator of the Sex and the City show, admits that she was misled by the show into thinking that having a successful career and a fulfilling sex life were enough. She writes that this has resulted in a generation of women who are unhappy and alone.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The author, a woman named sue ellen browder, worked as a longtime freelance writer for Cosmopolitan magazine. She wrote articles meant to market contraception and abortion as the single woman's path to personal fulfillment, but realized later that propagandists higher and cleverer than herself were influencing her thinking and her personal choices. She came out openly, came out and said that the writers at Cosmopolitan magazine, including herself, lied to women, and sold them a complete and total lie. The aim of the writers was to entice women away from their families, homes, productive lives, and protective male kin and into the big cities, into their own apartments, and with the freedom to engage in promiscuous behavior with strange men. Women didn't respond to this implicit messaging and cultural brainwashing at first, but gradually they moved out, got their own place, got highly educated, and started having casual sex in lieu of marriage. If they somehow got pregnant, they got abortions. Women were now independent earners in the capitalist machine and earners could be converted into consumers. Women read Cosmopolitan magazine and learned to live and think this way. Every girl wanted to be a Cosmo girl, but sue ellen browder, the writer who wrote those Cosmo articles
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The video discusses how women have been lied to, and how this has led to various negative consequences in society. It points to examples of how muslim women have followed in the footsteps of non-muslim women by engaging in practices such as sleeping around and getting abortions. It suggests that the way to overcome these issues is to start from a place of truth, Islam, and to respect and cherish wifehood and motherhood.
 

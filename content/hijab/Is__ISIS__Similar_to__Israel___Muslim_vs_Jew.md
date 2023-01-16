@@ -8,16 +8,16 @@ This video is a discussion on the similarities between ISIS and Israel and wheth
 
 ## Summary of [Is "ISIS" Similar to "Israel" ? Muslim vs Jew](https://www.youtube.com/watch?v=0vS-UiPFD7Q)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:20:00</a>
 
  discusses the similarities between "ISIS" and "Israel", and argues that the Muslim community should be worried about the Israeli government's actions. points out that both ISIS and Israel were created because their respective governments lacked a strong military presence, and that both have been accused of killing civilians indiscriminately.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses how Hamas, an organization funded by Israel in the 1980s, is similar to "ISIS" in that they are both fighting for power in their respective regions. He also argues that the West has a responsibility to help Muslims against ISIS because they created the terrorist organization.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses how Hamas, an organization funded by Israel in the 1980s, is similar to "ISIS" in that they are both fighting for power in their respective regions. He also argues that the West has a responsibility to help Muslims against ISIS because they created the terrorist organization.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  the presenter discusses how "ISIS" justifies their terrorism by citing the principle of reciprocity, which is also upheld by Islam. He also mentions how the West is partially responsible for the rise of "ISIS," as they have allied themselves with Israel or intervened in Muslim countries.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the similarities and differences between "ISIS" and "Israel". points out that both ISIS and Israel were created because their respective governments lacked a strong military presence, and that both have been accused of killing civilians indiscriminately. also argues that, if one were to morally correct ISIS, they would need to convince Israel not to exist.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the similarities and differences between "ISIS" and "Israel". points out that both ISIS and Israel were created because their respective governments lacked a strong military presence, and that both have been accused of killing civilians indiscriminately. also argues that, if one were to morally correct ISIS, they would need to convince Israel not to exist.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** of the video discusses how, comparing Israel to Palestine, Israel is more capable of defending itself and has killed more people than Palestine has. He also compares the rhetoric of Holocaust deniers in the United States to that of Palestinians in Israel, noting that while the Holocaust was a tragedy, it is no longer acceptable to compare it to the Palestinian struggle for self-determination.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** The presenter discusses how "ISIS" and "Israel" are similar, and how the Muslim community should be worried about the Israeli government's actions.
 

@@ -8,19 +8,19 @@ This is one part of a 4 part video which tracks the history of Zionist terrorism
 
 ## Summary of [Muslim 'Bullies' Israel Advocacy Leader](https://www.youtube.com/watch?v=F2b9Gai5Qks)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:25:00</a>
 
  discusses the massacre of 92 people at the King David Hotel in 1946, which was carried out by the same group that orchestrated 9/11.  argues that the comparison of these events is valid because the goals of the groups are strikingly similar. The Muslim "bullies" Israel advocacy leader argues that the death of other Jews elsewhere justifies Muslims' actions against British soldiers during World War II, and also compares South Africa to Israel, where the white minority regime was justified in its actions against the black majority.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses massacre of 92 people at the King David Hotel in 1946, which was carried out by the same group that orchestrated 9/11.  argues that the comparison of these events is valid because the goals of the groups are strikingly similar.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses difference between a terrorist attack and an act of revenge, and argues that the King David Hotel attack was justified as a result of the Jewish community's persecution in Arab countries. He also points out that the attack took place during the British Colonial period, and that the British government was aware of the risk of genocide and did nothing to help the Jews.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses massacre of 92 people at the King David Hotel in 1946, which was carried out by the same group that orchestrated 9/11.  argues that the comparison of these events is valid because the goals of the groups are strikingly similar.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses difference between a terrorist attack and an act of revenge, and argues that the King David Hotel attack was justified as a result of the Jewish community's persecution in Arab countries. He also points out that the attack took place during the British Colonial period, and that the British government was aware of the risk of genocide and did nothing to help the Jews.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The Muslim "bullies" Israel advocacy leader argues that the death of other Jews elsewhere justifies Muslims' actions against British soldiers during World War II, and also compares South Africa to Israel, where the white minority regime was justified in its actions against the black majority. He asks the audience to consider whether there is an equivalent to be made between these situations.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** argues that the Israel-Palestine conflict is over 80 years old, and that Muslims should not be so concerned with it because other conflicts are more important. He also argues that Muslims are interested in the conflict because they are Muslim, and that it is not relevant to the demographics of Trey.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** The Muslim "bullies" Israel advocacy leader argues that the Jews were terrorist because they fought for their lives during the Holocaust, while comparing the Muslim Brotherhood to al-Qaeda, which had a religiously motivated goal. He also argues that given the right context, any civilian death would be terrorism.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses issue of discrimination against Arabs in Israeli society, and points to the lack of a single law that discriminates against Arabs. He argues that this is because Arabs are not considered equal to Jews, and cites examples of how this discrimination is enforced in daily life.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses issue of discrimination against Arabs in Israeli society, and points to the lack of a single law that discriminates against Arabs. He argues that this is because Arabs are not considered equal to Jews, and cites examples of how this discrimination is enforced in daily life.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

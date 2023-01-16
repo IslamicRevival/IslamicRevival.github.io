@@ -8,7 +8,6 @@ This is a discussion which aims to ask key questions to transgendered/gender flu
 
 ## Summary of [Thought Provoking Questions to Transgenders | Speakers Corner | Hyde Park](https://www.youtube.com/watch?v=is61wp1w7-w)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:25:00</a>
@@ -16,11 +15,12 @@ This is a discussion which aims to ask key questions to transgendered/gender flu
 in the YouTube video "Thought Provoking Questions to Transgenders | Speakers Corner | Hyde Park" discusses various issues surrounding transgenderism, including sports, rooming, and gender identity. provides their thoughts on each issue, and challenges the audience to come up with rational explanations for their own beliefs.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** This speaker discusses the issues surrounding transgenderism and whether or not people who have undergone a transformation process should be allowed to compete in sports against their biological sex. He poses a scenario to test whether or not feminists would be in favor of this. Some people would argue that the individual retains too much of their biological advantage, while others would say that they have a right to fair competition. provides his opinion on how to resolve the issue.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses transgender rights and challenges audience members to come up with a rational explanation as to when a transgender person should be allowed into a room. Some in the audience argue that a transgender person should be allowed into the room at the point of transition, while others argue that transgender people should only be allowed into the room once they have fully transitioned.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses transgender rights and challenges audience members to come up with a rational explanation as to when a transgender person should be allowed into a room. Some in the audience argue that a transgender person should be allowed into the room at the point of transition, while others argue that transgender people should only be allowed into the room once they have fully transitioned.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** challenges the idea that notions of masculinity and femininity are social constructs, arguing that gender fluidity is a reality. He provides examples of how someone can feel gender-fluid, and discusses how an individual's gender identity can change over time.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses their thoughts on transgenderism and how they feel about the right for males to participate in sports and other activities. They explain that there is no right or wrong answer, and that it is ultimately up to the individual.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses how gender dysphoria can be experienced in different ways, and how artificial intelligence is nice but does not provide a complete understanding of the experience. He argues that first-person experience is important in understanding gender dysphoria.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses how it is difficult for society to assert that someone should be called by a certain name, such as "X", because that name is socially constructed. He goes on to say that, from a personal perspective, he feels like he can be in more than one category at the same time.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses their thoughts on transgenderism and how they feel about the right for males to participate in sports and other activities. They explain that there is no right or wrong answer, and that it is ultimately up to the individual.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses how gender dysphoria can be experienced in different ways, and how artificial intelligence is nice but does not provide a complete understanding of the experience. He argues that first-person experience is important in understanding gender dysphoria.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses how it is difficult for society to assert that someone should be called by a certain name, such as "X", because that name is socially constructed. He goes on to say that, from a personal perspective, he feels like he can be in more than one category at the same time.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

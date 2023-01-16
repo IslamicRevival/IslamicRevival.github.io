@@ -4,28 +4,27 @@
 
 ## Description
 
-Available as audio: https://soundcloud.com/sapienceinstitute/londoniyyah-part-32-hadith-rejectors-mohammed-hijab?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+Available as audio: <https://soundcloud.com/sapienceinstitute/londoniyyah-part-32-hadith-rejectors-mohammed-hijab?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing>
 —
 Help us educate and mentor others to share the faith academically.
-Donate now: https://sapienceinstitute.org/donate/ 
+Donate now: <https://sapienceinstitute.org/donate/>
 
-Free online courses: https://learn.sapienceinstitute.org/
+Free online courses: <https://learn.sapienceinstitute.org/>
 
-Free books: https://sapienceinstitute.org/books/
+Free books: <https://sapienceinstitute.org/books/>
 
-Have doubts? Book a mentor: https://sapienceinstitute.org/lighthouse/
+Have doubts? Book a mentor: <https://sapienceinstitute.org/lighthouse/>
 
-Listen (Podcast): https://sapienceinstitute.org/sapientvoices/
+Listen (Podcast): <https://sapienceinstitute.org/sapientvoices/>
 
 Follow:
-– Facebook: https://facebook.com/sapienceinstitute.org/ 
-– Twitter: https://twitter.com/SapienceOrg/ 
-– Instagram: https://instagram.com/sapienceinstitute/ 
+– Facebook: <https://facebook.com/sapienceinstitute.org/>
+– Twitter: <https://twitter.com/SapienceOrg/>
+– Instagram: <https://instagram.com/sapienceinstitute/>
 
-Articles, speaker requests & more: https://sapienceinstitute.org/
+Articles, speaker requests & more: <https://sapienceinstitute.org/>
 
 ## Summary of [Londoniyyah - Part 32 - Hadith Rejectors | Mohammed Hijab](https://www.youtube.com/watch?v=p2rA7fXF1-8)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -33,29 +32,32 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
  discusses the arguments made by those who reject the authority of the Quran. It notes that these arguments rely on verses from the Quran itself, which state that the Quran is a guide to the straight path. points out that if the Quran can only guide one person, then there is no need for any other guidance. He argues that the sunnah, which is the teachings of the Prophet Muhammad, is another source of guidance.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the difference between the Quran (the speech of God) and the Hadith ( wisdom or knowledge which is revealed to the prophet Salallahu). Rasulullah (PBUH) states that whatever the prophet has made halal or haram in this case is as if allah has made it halal or haram Himself. This hadith is seen as a prophecy of the prophet Muhammed by Muslims.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the difference between the speech of God, which is found in the Quran, and other speeches of God, which are not found in the Quran. One example mentioned is the speech of God to Prophet Muhammad (peace be upon him). This speech is not found in the Quran, but it is something that Prophet Muhammad would tell Salallahu alaihi wasallam. There are many things which God speaks, but not everything that God speaks is the Quran. The Quran is a subset of the speech of God.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the difference between the Qur'an and the hadith, noting that the Qur'an is a collection of intelligible, self-contained verses, while the hadith are transmitted through a chain of reliable sources. The Prophet Muhammad said that Allah's words are better than any other words, and that anyone who reads the Qur'an will be rewarded ten times more than someone who reads any other hadith.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the belief that the Quran is uncreated, and that the Sunnah, or teachings of the prophet Muhammad, are more important than any other source of guidance. Ahmed Hamid explains that this belief is based on the Quran's use of generalities to speak about specific things. If one loves Allah, they must follow the prophet Muhammad.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the difference between the Quran (the speech of God) and the Hadith ( wisdom or knowledge which is revealed to the prophet Salallahu). Rasulullah (PBUH) states that whatever the prophet has made halal or haram in this case is as if allah has made it halal or haram Himself. This hadith is seen as a prophecy of the prophet Muhammed by Muslims.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses the difference between the speech of God, which is found in the Quran, and other speeches of God, which are not found in the Quran. One example mentioned is the speech of God to Prophet Muhammad (peace be upon him). This speech is not found in the Quran, but it is something that Prophet Muhammad would tell Salallahu alaihi wasallam. There are many things which God speaks, but not everything that God speaks is the Quran. The Quran is a subset of the speech of God.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the difference between the Qur'an and the hadith, noting that the Qur'an is a collection of intelligible, self-contained verses, while the hadith are transmitted through a chain of reliable sources. The Prophet Muhammad said that Allah's words are better than any other words, and that anyone who reads the Qur'an will be rewarded ten times more than someone who reads any other hadith.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the belief that the Quran is uncreated, and that the Sunnah, or teachings of the prophet Muhammad, are more important than any other source of guidance. Ahmed Hamid explains that this belief is based on the Quran's use of generalities to speak about specific things. If one loves Allah, they must follow the prophet Muhammad.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** addresses the question of how Muslims should follow the Prophet Muhammad without the Quran. He points to six Quranic verses (including one which Allah swears by Himself) which recommend following the Prophet as the best way to know guidance. If Muslims follow the Prophet even after his death, they will be in good standing with Allah.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses the importance of understanding and following the Quran and Sunnah, and how these are all important for Muslims to adhere to. He shares an anecdote about a discussion he had with a "quite unknown" person in which he made the argument that without an understanding and adherence to the Quran and Sunnah, Muslims are unable to practice certain pillars of Islam.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses ahadith that reject particular interpretations of the Quran. He points out that without these ahadith, one would have to rely on manipulation to explain the Quran's varied interpretations. He then goes on to argue that the ahadith are reliable and that they support the Quran's authenticity.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses an argument used by some Muslims that the sunnah is not as valuable as other sources of Islamic guidance. The presenter provides three examples of how this argument could be made, and concludes that the opponents are formidable opponents but do not have a coherent argument.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>* Discusses a number of arguments against hadith, including that they cannot be used as evidence, that they contradict the Quran, and that there is no abrogation of the Quran. It points out that there are only a few verses that mention abrogation, and that the majority of scholars agree that the sunnah cannot abrogate the Quran.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses arguments against the belief that the Quran contains everything that a Muslim needs, including subsidiary details such as zoology. It cites verses from the Quran and Hadith to support this claim.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the arguments made by those who believe that the Qur'an is not the complete, perfect guide for Muslims. It cites verses from the Qur'an that describe the Qur'an as an explanation of everything, and that all Allah is the guide for Muslims. It also cites verses that say that the Qur'an is a detailed guide for the straight path, and that Muslims should not look to other sources for guidance.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses some of the arguments used by those who reject the authority of the Quran. He notes that these arguments rely on verses from the Quran itself, which state that the Quran is a guide to the straight path. points out that if the Quran can only guide one person, then there is no need for any other guidance. He argues that the sunnah, which is the teachings of the Prophet Muhammad, is another source of guidance.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses the importance of understanding and following the Quran and Sunnah, and how these are all important for Muslims to adhere to. He shares an anecdote about a discussion he had with a "quite unknown" person in which he made the argument that without an understanding and adherence to the Quran and Sunnah, Muslims are unable to practice certain pillars of Islam.
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses ahadith that reject particular interpretations of the Quran. He points out that without these ahadith, one would have to rely on manipulation to explain the Quran's varied interpretations. He then goes on to argue that the ahadith are reliable and that they support the Quran's authenticity.
+* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses an argument used by some Muslims that the sunnah is not as valuable as other sources of Islamic guidance. The presenter provides three examples of how this argument could be made, and concludes that the opponents are formidable opponents but do not have a coherent argument.
+* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Discusses a number of arguments against hadith, including that they cannot be used as evidence, that they contradict the Quran, and that there is no abrogation of the Quran. It points out that there are only a few verses that mention abrogation, and that the majority of scholars agree that the sunnah cannot abrogate the Quran.
+* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Discusses arguments against the belief that the Quran contains everything that a Muslim needs, including subsidiary details such as zoology. It cites verses from the Quran and Hadith to support this claim.
+* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Discusses the arguments made by those who believe that the Qur'an is not the complete, perfect guide for Muslims. It cites verses from the Qur'an that describe the Qur'an as an explanation of everything, and that all Allah is the guide for Muslims. It also cites verses that say that the Qur'an is a detailed guide for the straight path, and that Muslims should not look to other sources for guidance.
+* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Discusses some of the arguments used by those who reject the authority of the Quran. He notes that these arguments rely on verses from the Quran itself, which state that the Quran is a guide to the straight path. points out that if the Quran can only guide one person, then there is no need for any other guidance. He argues that the sunnah, which is the teachings of the Prophet Muhammad, is another source of guidance.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:30:00</a>
 
 discusses the reasons why some people reject Hadith, and points out that these people lack basic understanding of Arabic and don't care about social participation. He also mentions that some of these people are intellectually challenged because they can't reconcile certain Hadith with modern understanding.
 
-**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>* Discusses the reasons why some people reject Hadith, and points out that these people lack basic understanding of Arabic and don't care about social participation. He also mentions that some of these people are intellectually challenged because they can't reconcile certain Hadith with modern understanding.
+**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Discusses the reasons why some people reject Hadith, and points out that these people lack basic understanding of Arabic and don't care about social participation. He also mentions that some of these people are intellectually challenged because they can't reconcile certain Hadith with modern understanding.
+
 * **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** , a Muslim discusses why some people reject hadith, and how this can lead to absurdities. He also discusses a cult that believes in the number 19.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>* Discusses the theory that the Quran is coded in a mathematical system of 19. notes that this theory is based on arbitrary assumptions, and that there is no justification for it. He also points out that some people who reject the theory are actually motivated by fear.
+* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Discusses the theory that the Quran is coded in a mathematical system of 19. notes that this theory is based on arbitrary assumptions, and that there is no justification for it. He also points out that some people who reject the theory are actually motivated by fear.
 * **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** of the article discusses a theory that 19 out of the Quran's 114 verses are miracles. He argues that this is because all of these verses deal with things that are beyond the realm of probability or possibility. He also argues that the name of Allah is mentioned more times than what can be divisible by 19.
 * **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** of the video critiques Hadith which he says support the idea that verses 128 and 129 of the Quran are false, inserted by Satan in order to achieve the number 19. He also argues that the only two verses in the Hadith corpus which do not have two witnesses are verses 1-28 and 129, and that this further supports the idea that they were inserted.
-* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>* Discusses the history of false verses in the Quran, and the claims of a prominent Muslim scholar that the Prophet Muhammad specified him as the "Messiah" and the "Son of Man." The scholar claims that he was killed for his beliefs, and that many leading Sunni scholars rejected him.
-* **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>* Discusses some of the arguments used by Sunnis to reject Hadith, including the idea that the Prophet only received the Quran as a revelation. He also mentions a footnote in a book by the author in which he considers accepting other authorities besides the Quran to define God's system to be polytheism. concludes that this is one of the weakest cults and the weakest propositions made about Islam.
+* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** Discusses the history of false verses in the Quran, and the claims of a prominent Muslim scholar that the Prophet Muhammad specified him as the "Messiah" and the "Son of Man." The scholar claims that he was killed for his beliefs, and that many leading Sunni scholars rejected him.
+* **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** Discusses some of the arguments used by Sunnis to reject Hadith, including the idea that the Prophet only received the Quran as a revelation. He also mentions a footnote in a book by the author in which he considers accepting other authorities besides the Quran to define God's system to be polytheism. concludes that this is one of the weakest cults and the weakest propositions made about Islam.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

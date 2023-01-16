@@ -6,20 +6,20 @@
 
 Justin in the host of a YouTube channel called empathetic atheist. In this short clip the arguments for a theistic God finally falls into place and he can no longer deny what has become rationally justifiable to him.
 
-Full video: https://youtu.be/qoMyzWN28gI
+Full video: <https://youtu.be/qoMyzWN28gI>
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -27,40 +27,39 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
-#atheist #theist #kalam
+# atheist #theist #kalam
 
 ## Summary of [The Moment an Atheist Becomes a Theist | Podcast Highlight](https://www.youtube.com/watch?v=_VjXoEPU5z0)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -68,11 +67,12 @@ Gmail: hello.tapodcast@gmail.com
 
  discusses how someone can become a theist based on evidence, and how the key step is accepting that there is a good case to say that the necessary being has a will.  also discusses the moment an atheist becomes a theist, and how there is little to no skepticism when it comes to the existence of one's daughter and that she is another mind.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the difference between reality and existence, and how the necessary being must have a will to bring things into being. The hard incompatibilist argues that free will and moral responsibility are negated by determinism, but the theist agrees that reality and existence are two different things.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The philosopher argues that if we accept the idea that reality exists, then we must also accept that it has a will, which is not determined. He goes on to say that this will is not necessarily forced or compelled, but rather it is something that is bound by its own nature.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses an argument for the existence of a necessary being, which dictates that there must be an eternal cause for things to change or for something to be caused. The argument states that if the necessary being is a mechanical force, the effect would be eternal and non-eternal, respectively. However, because we have a temporal effect, the necessary being must have created contingent beings.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses how someone can become a theist based on evidence. The key step is accepting that there is a good case to say that the necessary being has a will.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>* Discusses the moment an atheist becomes a theist, and how there is little to no skepticism when it comes to the existence of one's daughter and that she is another mind. The philosopher notes that there is still work to be done in terms of epistemic position, but is nonetheless hopeful.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the difference between reality and existence, and how the necessary being must have a will to bring things into being. The hard incompatibilist argues that free will and moral responsibility are negated by determinism, but the theist agrees that reality and existence are two different things.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The philosopher argues that if we accept the idea that reality exists, then we must also accept that it has a will, which is not determined. He goes on to say that this will is not necessarily forced or compelled, but rather it is something that is bound by its own nature.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses an argument for the existence of a necessary being, which dictates that there must be an eternal cause for things to change or for something to be caused. The argument states that if the necessary being is a mechanical force, the effect would be eternal and non-eternal, respectively. However, because we have a temporal effect, the necessary being must have created contingent beings.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses how someone can become a theist based on evidence. The key step is accepting that there is a good case to say that the necessary being has a will.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Discusses the moment an atheist becomes a theist, and how there is little to no skepticism when it comes to the existence of one's daughter and that she is another mind. The philosopher notes that there is still work to be done in terms of epistemic position, but is nonetheless hopeful.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

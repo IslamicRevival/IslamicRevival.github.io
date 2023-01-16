@@ -5,17 +5,17 @@
 ## Description
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -23,38 +23,37 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
 ## Summary of [Jake in the UK | Let's get to 10k!](https://www.youtube.com/watch?v=howjq1EubGw)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -63,32 +62,36 @@ Gmail: hello.tapodcast@gmail.com
  discusses how to take philosophical concepts and turn them into "shorthand" terminology that people with little or no knowledge of philosophy can still understand. Jake argues that patience and explanation are key in this process, as well as reaching out to the Muslim community to provide them with accessible information about philosophy.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Brother Jake is in the UK and is meeting with people to try and get to 10,000 subscribers on the Thought Adventure Podcast. People are commenting on the live stream, and one person asks if they can be invited to be a part of the 10,000 subscriber club. Jake says he will put the link to the 10,000 subscriber club on Twitter, and people can join if they like.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Jake is in the UK and is trying to reach 10,000 subscribers on his YouTube channel. He is also booked to do a live stream with political commentator, Dr. Safwan Ali, in February.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Jake talks about his upcoming travel series, "Jake in the UK - Let's get to 10k!" He discusses the challenges of flying out of Newark, NJ, and how the weather was while he was there.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Jake discusses how he's adjusting to life in the UK, how the weather is cold, and how he's looking forward to upcoming courses. He also mentions that he's excited to have Josh Rasmussen on the show.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Jake in the UK discusses the idea of taking philosophical concepts and turning them into "shorthand" terminology that people with little or no knowledge of philosophy can still understand. He discusses the importance of patience in this process, as well as the need to explain concepts in detail to those who are not familiar with them.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Jake is in the UK and is trying to reach 10,000 subscribers on his YouTube channel. He is also booked to do a live stream with political commentator, Dr. Safwan Ali, in February.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Jake talks about his upcoming travel series, "Jake in the UK - Let's get to 10k!" He discusses the challenges of flying out of Newark, NJ, and how the weather was while he was there.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Jake discusses how he's adjusting to life in the UK, how the weather is cold, and how he's looking forward to upcoming courses. He also mentions that he's excited to have Josh Rasmussen on the show.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Jake in the UK discusses the idea of taking philosophical concepts and turning them into "shorthand" terminology that people with little or no knowledge of philosophy can still understand. He discusses the importance of patience in this process, as well as the need to explain concepts in detail to those who are not familiar with them.
 
 Jake in the UK discusses the idea of taking philosophical concepts and turning them into "shorthand" terminology that people with little or no knowledge of philosophy can still understand. He discusses the importance of patience in this process, as well as the need to explain concepts in detail to those who are not familiar with them. He also discusses the need to reach out to the Muslim community in order to provide them with accessible information about philosophical concepts.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Jake discusses how he learns best and how his conversations with other people are more comprehensible. He argues that the academic discussion is there to get to a conclusion, and that if one wants to understand this stuff, they need to do the work.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Jake shares his experience of having atheist friends who don't understand the foundations of their arguments. He suggests that the first step in any discussion of religion is to understand the epistemological assumptions of the person arguing.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Jake explains that when referring to simple words like "god," "worship," and "prophet," there are different meanings depending on a person's religious background. He also notes that when discussing important matters, it's important to have a conversation with individuals so they understand what you mean. This is especially important when discussing religious topics, as different people may have different understandings of these terms.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Jake in the UK discusses the baggage that some people bring when trying to have discussions about Islam. He says that this can be a problem, as some people's ideas about Islam are not based in reality. He recommends that people take notes during discussions, as this will help them to remember the information.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Jake discusses how the death of God has happened multiple times throughout history, citing examples such as the French Revolution and Nietzsche's proclamation that "God is dead." He then moves on to discuss how the Islamic resistance to the idea of Christ's divinity is due to the prophet's elevated status. Finally, he concludes the video by talking about how the concept of nietzsche's "day of subscribers" is similar to that of Christ's "vacuum."
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Jake discusses how the death of god is a problem in secular societies, and how Christianity tries to solve that problem. He argues that this profithood is lost in Islam due to its connection to the divine.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the concept of transcendence and how it applies to Islamic and Christian traditions. Jake discusses how following the sunnah of the prophets, which is living tradition, fills a spiritual void. Islam and Christianity have different ideas about who qualifies as a prophet, and as a result, the two religions are far apart in terms of practice. Jake argues that iman, or faith, is the key to bridging the gap between the two religions.
+
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Jake discusses how he learns best and how his conversations with other people are more comprehensible. He argues that the academic discussion is there to get to a conclusion, and that if one wants to understand this stuff, they need to do the work.
+- **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Jake shares his experience of having atheist friends who don't understand the foundations of their arguments. He suggests that the first step in any discussion of religion is to understand the epistemological assumptions of the person arguing.
+- **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Jake explains that when referring to simple words like "god," "worship," and "prophet," there are different meanings depending on a person's religious background. He also notes that when discussing important matters, it's important to have a conversation with individuals so they understand what you mean. This is especially important when discussing religious topics, as different people may have different understandings of these terms.
+- **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** Jake in the UK discusses the baggage that some people bring when trying to have discussions about Islam. He says that this can be a problem, as some people's ideas about Islam are not based in reality. He recommends that people take notes during discussions, as this will help them to remember the information.
+- **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Jake discusses how the death of God has happened multiple times throughout history, citing examples such as the French Revolution and Nietzsche's proclamation that "God is dead." He then moves on to discuss how the Islamic resistance to the idea of Christ's divinity is due to the prophet's elevated status. Finally, he concludes the video by talking about how the concept of nietzsche's "day of subscribers" is similar to that of Christ's "vacuum."
+- **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Jake discusses how the death of god is a problem in secular societies, and how Christianity tries to solve that problem. He argues that this profithood is lost in Islam due to its connection to the divine.
+- **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Discusses the concept of transcendence and how it applies to Islamic and Christian traditions. Jake discusses how following the sunnah of the prophets, which is living tradition, fills a spiritual void. Islam and Christianity have different ideas about who qualifies as a prophet, and as a result, the two religions are far apart in terms of practice. Jake argues that iman, or faith, is the key to bridging the gap between the two religions.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:40:00</a>
 
 Jake discusses his thoughts on the current state of the YouTube community, and how he plans on helping to grow it. He also talks about his experience with other social media platforms, and how he prefers to use YouTube and Twitter.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** In Christianity, the belief that like the whole idea itself makes it impossible to follow the son of the prophet isa alaihissalam, you can't because he according to them is god, and we are absolutely cannot which is the death of god, is a consequence of that particular theological stance. For us now in the contemporary world, everywhere that that particular philosophy has embedded itself as part of the secular liberal sort of ideology, the consequence is a forgetfulness of god, and one of the consequences is there an atheism. Right and it's almost like this is the symptom before you get to the disease the symptom is you must have this disconnected belief of god, then you arrive at this conclusion which is atheism, and then you arrive at the conclusion of nihilism which is what you're interested in. John Peterson has made mention of this with his commentary about the the path that the jews took in previously. When you read the old testament, he talks about like the the most critical of the jews is the old testament, like they go through a struggle and they they suffer greatly at the hands of oppressors and things like that, and they become spiritual, and they turn back to their god they sent prophets and they begin to follow the prophets you know
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>**  Jake discusses the importance of having deep conversations with a majority of the audience being missed. He recommends having a conversation once or twice and breaking it down for the audience to better understand.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Jake in the UK discusses the concepts of soul, simplicity, and the western model of the soul. He explains that the western concept of soul is missing a gap in its understanding of what the human being is, and that the western concept of soul is based on duality. He encourages Muslims to appreciate the western concept of soul, and to have a deep conversation about soul and fitra.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** Jake in the UK discusses his thoughts on the current state of the YouTube community, and how he plans on helping to grow it. He also talks about his experience with other social media platforms, and how he prefers to use YouTube and Twitter.
-* **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** <>
-* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** Jake in the UK discusses his upcoming trip to the UK, how he plans to get to 10,000 subscribers on YouTube, and how he is avoiding social media. He also shares a humorous story about a previous encounter with a hitchhiker.
-* **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** Jake from the UK discusses his experience as a Muslim convert and how he helps people with doubts or questions about Islam. He also mentions the Lighthouse Project, a free service that helps Muslims become better leaders or activists. Jake encourages people to subscribe to the Lighthouse Project's YouTube channel and follow the institute on social media.
-* **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** Jake provides information about the upcoming learning platform and three courses that will be available. One course is called "Awakening the Truth" and is an advanced training course. Another course is called "No Doubt 10 Effective Strategies" and is about how to deal with doubts and objections. The last course is called "The Rules of Engagement" and is about debating topics from the Qur'an perspective.
-* **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** Jake Shapiro, a Muslim scholar, has released a series of videos discussing his analysis of the Bible and Galatians. Jake assesses that Galatians is a poorly written letter and that it is not fit for Christians to abide by. He also discusses his plans to create a series of videos on the Islamic position on denigrating the prophet sallallahu alaihi wasallam.
+
+- **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>**  Jake discusses the importance of having deep conversations with a majority of the audience being missed. He recommends having a conversation once or twice and breaking it down for the audience to better understand.
+- **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Jake in the UK discusses the concepts of soul, simplicity, and the western model of the soul. He explains that the western concept of soul is missing a gap in its understanding of what the human being is, and that the western concept of soul is based on duality. He encourages Muslims to appreciate the western concept of soul, and to have a deep conversation about soul and fitra.
+- **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** Jake in the UK discusses his thoughts on the current state of the YouTube community, and how he plans on helping to grow it. He also talks about his experience with other social media platforms, and how he prefers to use YouTube and Twitter.
+- **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** <>
+- **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** Jake in the UK discusses his upcoming trip to the UK, how he plans to get to 10,000 subscribers on YouTube, and how he is avoiding social media. He also shares a humorous story about a previous encounter with a hitchhiker.
+- **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** Jake from the UK discusses his experience as a Muslim convert and how he helps people with doubts or questions about Islam. He also mentions the Lighthouse Project, a free service that helps Muslims become better leaders or activists. Jake encourages people to subscribe to the Lighthouse Project's YouTube channel and follow the institute on social media.
+- **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** Jake provides information about the upcoming learning platform and three courses that will be available. One course is called "Awakening the Truth" and is an advanced training course. Another course is called "No Doubt 10 Effective Strategies" and is about how to deal with doubts and objections. The last course is called "The Rules of Engagement" and is about debating topics from the Qur'an perspective.
+- **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** Jake Shapiro, a Muslim scholar, has released a series of videos discussing his analysis of the Bible and Galatians. Jake assesses that Galatians is a poorly written letter and that it is not fit for Christians to abide by. He also discusses his plans to create a series of videos on the Islamic position on denigrating the prophet sallallahu alaihi wasallam.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

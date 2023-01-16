@@ -10,15 +10,15 @@ With Fahad Tasleem.
 
 ## Summary of [Sapient Thoughts #37: The Human Project — Part 5: Rationality and First Principles](https://www.youtube.com/watch?v=KEWB4pjQFOg)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  Fahad Ismail discusses the concept of rationality and how it relates to the fitrah in Islam. He explains that the fitrah is an absolute concept that must be accepted in order for rationality to work. He also previews the next episode in this series, which will explore the concept of the fitrah more in depth.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the concept of rationality, and explains that there are three types of rationality: those that are rational, those that are irrational, and those that are outside of rationality.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses three categories of thought: rationality, irrationality, and the supra-rational. The Rationality category includes things like logical principles, which must be assumed in order for rationality to function. Irrationality includes things that are outside of rationality, such as supra-rationality. First principles are basic beliefs that must be accepted in order for a system of thought to function. Finally, irrationality includes things that are without rationality, such as doubt. If a person relies only on rationality, they would be saying they doubt everything. But this is impractical and leads to absurdity. Someone must have something outside of rationality that they cannot prove, but must be there in order for rationality to work. This third category is the supra-rational, which is something that must be accepted.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the concept of rationality, and explains that there are three types of rationality: those that are rational, those that are irrational, and those that are outside of rationality.
+
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Discusses three categories of thought: rationality, irrationality, and the supra-rational. The Rationality category includes things like logical principles, which must be assumed in order for rationality to function. Irrationality includes things that are outside of rationality, such as supra-rationality. First principles are basic beliefs that must be accepted in order for a system of thought to function. Finally, irrationality includes things that are without rationality, such as doubt. If a person relies only on rationality, they would be saying they doubt everything. But this is impractical and leads to absurdity. Someone must have something outside of rationality that they cannot prove, but must be there in order for rationality to work. This third category is the supra-rational, which is something that must be accepted.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  Fahad Ismail discusses the concept of the fitrah in Islam and how it relates to rationality. He also mentions the term "absolute," which is important in understanding the fitrah. Next, Ismail discusses the etymology of the word "fitrah." Finally, he gives an overview of the next episode in this series, which will explore the concept of the fitrah more in depth.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>

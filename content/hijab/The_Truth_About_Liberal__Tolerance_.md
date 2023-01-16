@@ -4,10 +4,9 @@
 
 This is a short video on the truth of liberal accommodation for universalised 'intolerance' which directly oppose individual rights. This information leads us to some shocking comparisons between the compatibility of liberalism with an Islamic governance.
 
-Full video here -https://www.youtube.com/channel/UCVe9scgFCo97IEWj0I37Ozg
+Full video here -<https://www.youtube.com/channel/UCVe9scgFCo97IEWj0I37Ozg>
 
 ## Summary of [The Truth About Liberal 'Tolerance'](https://www.youtube.com/watch?v=3cc8SyDc3WI)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -16,6 +15,7 @@ Full video here -https://www.youtube.com/channel/UCVe9scgFCo97IEWj0I37Ozg
  discusses how liberalism can be difficult to define and how it often clashes with other values. argues that this is a problem for liberalism, as it can allow people to enact their individual desires without restraint.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** of the video discusses how liberalism can be malleable, and how certain actions that might be seen as blasphemy in one time or place can be condoned in another. He also mentions the case of Emma Goldman, who was imprisoned for speech crimes in the early 20th century.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** argues that there is always a tension between social contract, the universality of law, and the individual self-expression. He asserts that this is a problem for liberalism, as itallows for people to enact their individual desires without restraint. He points to examples of punitive laws in the Quran (such as the law of theft), which are much harsher than the laws in Western countries. He also mentions human zoos, which are a recent phenomenon in the United States.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** John Locke argued that under a free government, the ruler cannot do anything he wants because the law is defined. Liberals might find this argument disconcerting, as it goes against their idea of "tolerance."
 

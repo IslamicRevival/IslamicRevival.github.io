@@ -5,25 +5,24 @@
 ## Description
 
 Help us educate and mentor others to share the faith academically.
-Donate now: https://sapienceinstitute.org/donate/ 
+Donate now: <https://sapienceinstitute.org/donate/>
 
-Free online courses: https://learn.sapienceinstitute.org/
+Free online courses: <https://learn.sapienceinstitute.org/>
 
-Free books: https://sapienceinstitute.org/books/
+Free books: <https://sapienceinstitute.org/books/>
 
-Have doubts? Book a mentor: https://sapienceinstitute.org/lighthouse/
+Have doubts? Book a mentor: <https://sapienceinstitute.org/lighthouse/>
 
-Listen (Podcast): https://sapienceinstitute.org/sapientvoices/
+Listen (Podcast): <https://sapienceinstitute.org/sapientvoices/>
 
 Follow:
-– Facebook: https://facebook.com/sapienceinstitute.org/ 
-– Twitter: https://twitter.com/SapienceOrg/ 
-– Instagram: https://instagram.com/sapienceinstitute/ 
+– Facebook: <https://facebook.com/sapienceinstitute.org/>
+– Twitter: <https://twitter.com/SapienceOrg/>
+– Instagram: <https://instagram.com/sapienceinstitute/>
 
-Articles, speaker requests & more: https://sapienceinstitute.org/
+Articles, speaker requests & more: <https://sapienceinstitute.org/>
 
 ## Summary of [Ibn Taymiyyah & The Philosophers | Mohammed Hijab](https://www.youtube.com/watch?v=wShrJLpj0mk)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -32,6 +31,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 Ibn Taymiyyah was a medieval Muslim theologian who developed the Ashari movement. He argued that anything which is composed of parts is dependent, and that the human being is a rational animal. He also discussed the impossibility of finding a thing that does not exist and how this applies to the topic of the attributes of God. Finally, he argued that the logical syllogism does not allow for new knowledge to be gleaned from it.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Ibn Taymiyyah and the Hamburger School discuss the development of creedal discussions in the early days of Islam. According to Ibn Taymiyyah, there wasn't a lot of discussion about theological issues in the early days of Islam. After the Quran was revealed, speculative theology became popular, and Ahmed ar-Rawi used the Quran to argue for the existence of God.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Ibn Taymiyyah was a Muslim theologian who developed the Ashari movement, which opposed the Shadhiliya school of thought. He also wrote about the opposition fallacy.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Ibn Taymiyyah argues that anything which is composed of parts is dependent, and therefore necessitated by its corporeal counterpart.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Ibn Taymiyyah discusses five ways that a thing can be taqib, or exhaustively identified. He argues that if a thing possesses material form, then it is taqib. He further explains that this is based on logic and Aristotelian philosophy.
@@ -43,11 +43,13 @@ Ibn Taymiyyah was a medieval Muslim theologian who developed the Ashari movement
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  Ibn Taymiyyah discusses how the existence of universals cannot be proven, and argues that they are conceptual analysis only. He goes on to say that the necessary existence of a universal must be a proposition, and that this is what Kant argued in his Critique of Pure Reason.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Ibn Taymiyyah argues that the logical syllogism does not allow for new knowledge to be gleaned from it, instead it is just a way of expressing common sense notions. He also criticizes the definition of love, saying that it does not differentiate between platonic and romantic forms of love.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Ibn Taymiyyah argues that there cannot be an infinite regress of causes, because if one causes an effect, then the possibility of that effect occurring must come from an earlier cause. This argument is used to defend the existence of God.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:35:00</a>
 
  Ibn Taymiyyah discusses various philosophical concepts and how they relate to the existence of God. He argues that the concept of an all-powerful, eternal, and infinite God is logically impossible, and that any arguments based on this concept are invalid. He also discusses the relationship between conceptus and universals, and argues that although proposition is not existence, it's still necessary.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Ibn Taymiyyah argues that the concept of an all-powerful, eternal, and infinite God is logically impossible, and so any arguments based on this concept are invalid. He also rejects arguments based on the idea that God is capable of creating things that endure forever.
+
 * **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>**  Ibn Taymiyyah discusses the legitimacy of conceptualizing things and making arguments conceptually based on cosmological starting points. He argues that if you start with cosmological starting points, subsequent conceptualization is legitimate, but if you don't, it's not. The futura is not a strong argument for him, as it's not knowledge. He also discusses the relationship between conceptus and universals, and argues that although proposition is not existence, it's still necessary. Ibn Taymiyyah provides an analogy between Allah and the conceptus.
 * **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>**  Ibn Taymiyyah discusses the philosophers and their arguments for the existence of God. One of the philosophers Ibn Taymiyyah discusses is Bertrand Russell, and his famous objection to the cosmological argument is that a part (i.e. a universe) might have a certain attribute (e.g. being existent), but the whole (the universe) might not have that attribute.
 * **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>**  Ibn Taymiyyah discusses the philosophical concept of inheritance. He argues that if an object has a diffuser property – meaning it spans arbitrary subsections – it is inherited by the object in question. He also discusses the principle of diffusion, which states that the future property is one which spans arbitrary subsections.

@@ -4,14 +4,13 @@
 
 ## Description
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
-Facebook: https://www.facebook.com/brothermohammedhijab/
-Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
-My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
+Facebook: <https://www.facebook.com/brothermohammedhijab/>
+Soundcloud: <https://soundcloud.com/mohammed-hijab-465985305>
+My book: <https://sapienceinstitute.org/the-scientific-deception-of-the-new-atheists/>
 
 ## Summary of [Reacting to BBC Reporter Interrogating Hijabi](https://www.youtube.com/watch?v=7-YSMyJHWTU)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -20,6 +19,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 The BBC reporter interrogates a hijab-wearing Muslim woman about her beliefs and leadership role in the Muslim Council of Britain. The woman is critiqued for her treatment of the sister of a Muslim woman and her believe that Islam is a "dark phase" of feminism.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The woman in the BBC baby-birthing interview was criticized for her treatment of the sister of a Muslim woman. The woman said that there are female imams in the UK, but that representing women in the work that they do is more important than examining their spiritual role.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The BBC reporter interrogates a hijab-wearing woman about why there are no female imams in Islam. The woman argues that because there are no female imams, there are no female scholars and no female leaders. The BBC reporter points out that this is not true, as there are female rabbis and female leaders in other religions. The woman responds that these women are not qualified to be female imams because they do not believe in female prophets.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The BBC reporter interrogates a hijab-wearing woman about why she believes Islam is a "dark phase" of feminism. The woman responds that there are different paradigms in play and that Islam is not the same as second-wave feminism. The reporter then asks why women should be drafted into war, and the woman responds that it's because the "tyranny of the majority" is happening.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The BBC reporter interrogates a hijabi woman about her leadership of the Muslim Council of Britain, which is seen as a step forward for muslim women in Britain. However, the reporter finds the questioning unproductive and belittles the woman for her achievement. The sister of the woman feels bad for her and offers advice on how to improve her own Islamic paradigms. The reporter admits that she does not know as much about Islam as she should and that the sister's achievements should be celebrated more in the media.

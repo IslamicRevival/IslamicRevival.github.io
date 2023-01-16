@@ -2,19 +2,18 @@
 
 <iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/8QE11l6sc04'></iframe>## Description
 
-Full video: https://youtu.be/QxQxUFGWQwc
+Full video: <https://youtu.be/QxQxUFGWQwc>
 
-Twitter: https://twitter.com/mohammed_hijab?s=20
-Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en
+Twitter: <https://twitter.com/mohammed_hijab?s=20>
+Instagram: <https://www.instagram.com/mohammedhijabofficial/?hl=en>
 
-Free small PDF on Proofs of Islam -  https://www.kbyh.co.uk/2019/08/28/weekly-routine-spreadsheet/
+Free small PDF on Proofs of Islam -  <https://www.kbyh.co.uk/2019/08/28/weekly-routine-spreadsheet/>
 
-My Book on Ridda 'apostasy' - https://www.amazon.co.uk/Treatise-Liberal-Critiques-Ridda-ebook/dp/B082829VH3
+My Book on Ridda 'apostasy' - <https://www.amazon.co.uk/Treatise-Liberal-Critiques-Ridda-ebook/dp/B082829VH3>
 
-on Geocentrism - https://soundcloud.com/mohammed-hijab-465985305/does-islam-promote-geocentrism
+on Geocentrism - <https://soundcloud.com/mohammed-hijab-465985305/does-islam-promote-geocentrism>
 
 ## Summary of [The Final Moments of Apostate P's Islamophobe's Career](https://www.youtube.com/watch?v=8QE11l6sc04)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -22,7 +21,8 @@ on Geocentrism - https://soundcloud.com/mohammed-hijab-465985305/does-islam-prom
 
  discusses the reasons why atheist P believes that there is no objective morality. He goes on to say that, as a subjectivist, he does not believe that nihilism is synonymous with objectivity. 's main point is that if someone doesn't believe in objective morality, they must believe in subjective morality or money. The final moments of the career of an Islamophobe are shown, in which he admits that he does not have any answers for objections to Islam based on morality. He is then laughed at by other commentators for not being able to provide a third option.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the reasons why atheist P believes that there is no objective morality. He goes on to say that, as a subjectivist, he does not believe that nihilism is synonymous with objectivity.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the reasons why atheist P believes that there is no objective morality. He goes on to say that, as a subjectivist, he does not believe that nihilism is synonymous with objectivity.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** 's main point is that if someone doesn't believe in objective morality, they must believe in subjective morality or money. The final moments of the career of an Islamophobe are shown, in which he admits that he does not have any answers for objections to Islam based on morality. He is then laughed at by other commentators for not being able to provide a third option.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** John Stuart Mill and Jeremy Bentham argue that utilitarianism is not objective, but is instead based on what is "the greatest good for the greatest number."
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** 's narrator criticizes the moral arguments of Islamophobe, who claims that utilitarianism is an objective morality. Islamophobe's arguments have all collapsed, leaving him with nothing to stand on.

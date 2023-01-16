@@ -4,9 +4,10 @@
 
 ## Description
 
-The concept of miracles is central to the worlds religions, including Islam. Frequently, skeptics, Atheists, and even proponents of other religions charge the notion of miracles and miracles in the Islamic tradition in particular as irrational and absurd. We introduce the topic of miracles and give a response to the claim of incoherence. We then invite guests on to discuss the issue of miracles. 
- 
-0:00          Introduction and Arguments 
+The concept of miracles is central to the worlds religions, including Islam. Frequently, skeptics, Atheists, and even proponents of other religions charge the notion of miracles and miracles in the Islamic tradition in particular as irrational and absurd. We introduce the topic of miracles and give a response to the claim of incoherence. We then invite guests on to discuss the issue of miracles.
+
+0:00          Introduction and Arguments
+
 - Guests -
 26:22       Karlos Jeffers (Atheist)
 1:38:53    Justin (Atheist)
@@ -16,17 +17,17 @@ The concept of miracles is central to the worlds religions, including Islam. Fre
 2:34:50   Final Thoughts
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -34,41 +35,39 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
-
-#miracle #quran #islam
+# miracle #quran #islam
 
 ## Summary of [Is It Irrational to Believe in Miracles? | Thought Adventure Podcast #4](https://www.youtube.com/watch?v=-UlkXwMOaT4)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -77,46 +76,51 @@ Gmail: hello.tapodcast@gmail.com
 The Thought Adventure Podcast discusses whether or not belief in miracles is rational. The podcast argues that, while miracles may be beyond the natural world, they're not impossible and should not be looked down upon. The discussion then shifts to whether or not there is a logical contradiction between a law of nature and a miracle. In the end, it is agreed that there is not a contradiction, but that a miracle is simply a break in an observed regularity.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** In this Thought Adventure Podcast, Muslims and non-Muslims discuss whether belief in miracles is irrational. They argue that, while miracles may be beyond the natural world, they're not impossible and should not be looked down upon.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The discussion about miracles and the trinity is a complex one, and Brother Yusuf tries to make a case that Christianity is incorrect because of a contradiction in beliefs. He gives an example of a five-foot-tall person being six-foot-tall and concludes that this contradiction is illogical. He also notes that there are rebuttals to this argument.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** of the article argues that there is a contradiction between what we know about the facts of the universe and what is being claimed in religious texts. He says that this is a fallacy because when you experience something, you can't generalize it to all experiences of that thing. Therefore, when someone argues that a miracle is contradictory, they are only making that claim if all of the questions about miracles are answered. If they are unanswered, then the miracle cannot be considered contradictory.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** In this thought-provoking video, philosopher Jake Hawkins discusses the concept of miracles and the law of nature. He points out that miracles would only be possible if the natural world were not governed by laws, which is a claim that many atheists and other non-theists find difficult to believe.
-* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** The discussion on miracles in the Thought Adventure podcast is focused on whether or not there is a logical contradiction between a law of nature and a miracle. In the end, it is agreed that there is not a contradiction, but that a miracle is simply a break in an observed regularity.
-* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses why it is irrational to believe in miracles, citing insufficient evidence. He then goes on to say that there are certain miracles that can be proven depending on the nature of the claim.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses the concept of a miracle, noting that while they do not believe in them, they do not believe that a law of nature would be violated if one did occur.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses how miracles can be argued as either natural or in the third tier of reality, but due to the limitations of human understanding, it is difficult to say for certain which it is.
-* **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** The Thought Adventure Podcast discusses how people can justify belief in miracles based on the methodology they are using. If someone can't evidence their claim or belief in the second tier, then they are stuck in the first tier and science will relegate the claim to the second tier. A miracle is something that if god didn't intervene, it wouldn't have happened on its own. To determine whether or not a miracle has occurred, one must have a definition for what laws of nature are and what a miracle is. If the universe has a necessary foundation to it and all universal laws are acts of god, then it is justified to believe in miracles. However, if god changes those laws in a particular way, then it is still possible to identify a miracle through the use of profits.
-* **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The Thought Adventure Podcast discusses whether it is rational to believe in miracles. The host argues that, depending on the claim being made, a single, testable prediction can be evidence of the individual's claim being true. In the case of belief in a god, multiple predictions may be needed in order to build a case that the individual is actually from god.
-* **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Jake and Carlos discuss the three issues that need to be addressed in order to determine whether or not a miracle could happen. Jake reiterates that anything is possible, and Carlos agrees. Carlos then asks Jake a question about whether or not a miracle is logically possible, and Jake responds that it is.
-* **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  the Thought Adventure Podcast discusses the first and second steps of the rational belief in miracles argument. The first step is that there is no logical problem affirming that a religion or claim to guidance from god is irrational. The second step is that when we look at this question about whether or not there is an in principle problem of identifying miracles, presupposes that we believe in a creator and that there are regularities within the universe. For atheists, this proves that there is no reason to believe in a religion or a claim to guidance from god.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The discussion about miracles and the trinity is a complex one, and Brother Yusuf tries to make a case that Christianity is incorrect because of a contradiction in beliefs. He gives an example of a five-foot-tall person being six-foot-tall and concludes that this contradiction is illogical. He also notes that there are rebuttals to this argument.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** of the article argues that there is a contradiction between what we know about the facts of the universe and what is being claimed in religious texts. He says that this is a fallacy because when you experience something, you can't generalize it to all experiences of that thing. Therefore, when someone argues that a miracle is contradictory, they are only making that claim if all of the questions about miracles are answered. If they are unanswered, then the miracle cannot be considered contradictory.
+- **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** In this thought-provoking video, philosopher Jake Hawkins discusses the concept of miracles and the law of nature. He points out that miracles would only be possible if the natural world were not governed by laws, which is a claim that many atheists and other non-theists find difficult to believe.
+- **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** The discussion on miracles in the Thought Adventure podcast is focused on whether or not there is a logical contradiction between a law of nature and a miracle. In the end, it is agreed that there is not a contradiction, but that a miracle is simply a break in an observed regularity.
+- **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Discusses why it is irrational to believe in miracles, citing insufficient evidence. He then goes on to say that there are certain miracles that can be proven depending on the nature of the claim.
+- **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses the concept of a miracle, noting that while they do not believe in them, they do not believe that a law of nature would be violated if one did occur.
+- **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses how miracles can be argued as either natural or in the third tier of reality, but due to the limitations of human understanding, it is difficult to say for certain which it is.
+- **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** The Thought Adventure Podcast discusses how people can justify belief in miracles based on the methodology they are using. If someone can't evidence their claim or belief in the second tier, then they are stuck in the first tier and science will relegate the claim to the second tier. A miracle is something that if god didn't intervene, it wouldn't have happened on its own. To determine whether or not a miracle has occurred, one must have a definition for what laws of nature are and what a miracle is. If the universe has a necessary foundation to it and all universal laws are acts of god, then it is justified to believe in miracles. However, if god changes those laws in a particular way, then it is still possible to identify a miracle through the use of profits.
+- **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The Thought Adventure Podcast discusses whether it is rational to believe in miracles. The host argues that, depending on the claim being made, a single, testable prediction can be evidence of the individual's claim being true. In the case of belief in a god, multiple predictions may be needed in order to build a case that the individual is actually from god.
+- **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Jake and Carlos discuss the three issues that need to be addressed in order to determine whether or not a miracle could happen. Jake reiterates that anything is possible, and Carlos agrees. Carlos then asks Jake a question about whether or not a miracle is logically possible, and Jake responds that it is.
+- **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  the Thought Adventure Podcast discusses the first and second steps of the rational belief in miracles argument. The first step is that there is no logical problem affirming that a religion or claim to guidance from god is irrational. The second step is that when we look at this question about whether or not there is an in principle problem of identifying miracles, presupposes that we believe in a creator and that there are regularities within the universe. For atheists, this proves that there is no reason to believe in a religion or a claim to guidance from god.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  discusses the philosophical argument between those who believe that miracles are possible and those who believe that they are not. The former group argues that because the laws of nature are contingent, miracles are also possible. The latter group argues that because miracles would contradict the laws of nature, they are not possible.  concludes with a discussion of the Qur'an as a miracle.
 
-**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>* Discusses the concept of reality, arguing that it is either a thing in and of itself (a general nature), or the sum of all contingent beings. He goes on to say that laws of nature may be a necessary existence, but that they are also contingent.
-* **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>* Discusses how we can understand why things are the way they are by looking at them in terms of their necessary existence. He argues that if something is not necessary to its own existence, it cannot be evidence for a necessary being. He goes on to say that as Muslims, we believe that prophets came with miracles that the people could testify to.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Brother Sharif discusses how a person's world view affects their assessment of miracles, and how these commitments question fundamental aspects of reality. He goes on to say that this is why it is important to have a variety of perspectives when discussing miracles, in order to avoid bias.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** The Thought Adventure Podcast discusses why it is rational to believe in miracles, and how this belief fits within an Islamic framework. The podcast concludes with a discussion of what Abdul Rahman is saying, and whether or not it matters.
-* **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** Atheists argue that there is no evidence for the existence of a god, while believers use multiple lines of evidence to substantiate their belief in a creator. The Thought Adventure Podcast discusses the rational basis for belief in miracles within the context of Islam.
-* **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>* Discusses why some people believe that miracles no longer happen in our present time, and why the Quran is considered a miracle.
-* **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** The Qur'an challenges people to produce a surah or chapter like it, shortest of which is three sentences. If people cannot do this, the Qur'an cannot be from God. Brother Abu Zakaria's channel has many videos about the Qur'an and its claims, including a section on miracles. The Qur'an is a living miracle, with ongoing effects that go beyond human understanding.
-* **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** In this Thought Adventure Podcast, Carlos asks people whether it is irrational to believe in miracles. Some people argue that it is impossible for miracles to contradict the laws of nature, while others argue that miracles are simply supernatural events that are outside of the realms of possibility.
-* **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** The discussion on whether or not it is rational to believe in miracles turns to the issue of a logical contradiction between a miracle on the one hand and a law of nature on the other. Yusuf argues that for him, it is not a logical impossibility for a miracle to occur, and it is something he wants to point out because when we talked about the trinity the last time, the first guest brought up the issue of miracles and was saying that these things are irrational and this is something he's heard plenty of other times. Well, you guys believe in miracles which are illogical, and we believe in the trinity so what's your point? They would say that miracles are not analogous to the trinity, and this would lead to the claim that miracles are not a logical impossibility and thus, the trinity fails.
-* **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** asks Carlos if it is rational to believe in miracles, and Carlos replies that it depends on what is meant by "reality." If reality is what we experience, then it is explainable. If, however, reality is the fundamental cause of everything, then it is un explainable. then asks what the difference is, and Carlos says that experience is what differentiates our views.
-* **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** While trying to answer the question of whether or not there is a mind or soul outside of a physical brain, Justin argues that it is logically impossible to know for certain. He also argues that, even if such a thing did exist, it would only be an intelligence at a level beyond our own.
-* **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses the philosophical argument between physicalists and those who believe in souls or minds in other humans. The physicalist argues that only things with brains can have minds, while the believer in souls or minds in other humans believes that the mind is an eternal, necessary aspect of existence. The physicalist argues that because the mind is a product of thinking, it does not need to be seen to exist. The believer in souls or minds in other humans argues that because all Allah is all-knowing and eternal, he must have a mind, and therefore, humans do as well.
+**<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** Discusses the concept of reality, arguing that it is either a thing in and of itself (a general nature), or the sum of all contingent beings. He goes on to say that laws of nature may be a necessary existence, but that they are also contingent.
+
+- **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Discusses how we can understand why things are the way they are by looking at them in terms of their necessary existence. He argues that if something is not necessary to its own existence, it cannot be evidence for a necessary being. He goes on to say that as Muslims, we believe that prophets came with miracles that the people could testify to.
+- **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Brother Sharif discusses how a person's world view affects their assessment of miracles, and how these commitments question fundamental aspects of reality. He goes on to say that this is why it is important to have a variety of perspectives when discussing miracles, in order to avoid bias.
+- **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** The Thought Adventure Podcast discusses why it is rational to believe in miracles, and how this belief fits within an Islamic framework. The podcast concludes with a discussion of what Abdul Rahman is saying, and whether or not it matters.
+- **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** Atheists argue that there is no evidence for the existence of a god, while believers use multiple lines of evidence to substantiate their belief in a creator. The Thought Adventure Podcast discusses the rational basis for belief in miracles within the context of Islam.
+- **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** Discusses why some people believe that miracles no longer happen in our present time, and why the Quran is considered a miracle.
+- **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>** The Qur'an challenges people to produce a surah or chapter like it, shortest of which is three sentences. If people cannot do this, the Qur'an cannot be from God. Brother Abu Zakaria's channel has many videos about the Qur'an and its claims, including a section on miracles. The Qur'an is a living miracle, with ongoing effects that go beyond human understanding.
+- **<a onclick="modifyYTiframeseektime('5700')">01:35:00</a>** In this Thought Adventure Podcast, Carlos asks people whether it is irrational to believe in miracles. Some people argue that it is impossible for miracles to contradict the laws of nature, while others argue that miracles are simply supernatural events that are outside of the realms of possibility.
+- **<a onclick="modifyYTiframeseektime('6000')">01:40:00</a>** The discussion on whether or not it is rational to believe in miracles turns to the issue of a logical contradiction between a miracle on the one hand and a law of nature on the other. Yusuf argues that for him, it is not a logical impossibility for a miracle to occur, and it is something he wants to point out because when we talked about the trinity the last time, the first guest brought up the issue of miracles and was saying that these things are irrational and this is something he's heard plenty of other times. Well, you guys believe in miracles which are illogical, and we believe in the trinity so what's your point? They would say that miracles are not analogous to the trinity, and this would lead to the claim that miracles are not a logical impossibility and thus, the trinity fails.
+- **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** asks Carlos if it is rational to believe in miracles, and Carlos replies that it depends on what is meant by "reality." If reality is what we experience, then it is explainable. If, however, reality is the fundamental cause of everything, then it is un explainable. then asks what the difference is, and Carlos says that experience is what differentiates our views.
+- **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** While trying to answer the question of whether or not there is a mind or soul outside of a physical brain, Justin argues that it is logically impossible to know for certain. He also argues that, even if such a thing did exist, it would only be an intelligence at a level beyond our own.
+- **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Discusses the philosophical argument between physicalists and those who believe in souls or minds in other humans. The physicalist argues that only things with brains can have minds, while the believer in souls or minds in other humans believes that the mind is an eternal, necessary aspect of existence. The physicalist argues that because the mind is a product of thinking, it does not need to be seen to exist. The believer in souls or minds in other humans argues that because all Allah is all-knowing and eternal, he must have a mind, and therefore, humans do as well.
+
 ### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:40:00</a>
 
 The Thought Adventure Podcast discusses the idea of miracles and how to approach them logically. They point out that there is more nuance to the subject than simply rejecting all miracles. They also discuss the idea of rationality and whether or not it can be grounded in naturalism.
 
-**<a onclick="modifyYTiframeseektime('7200')">02:00:00</a>* Discusses the definition of a miracle, and points out that if there is only one fundamental reality, then miracles would not be possible. He then introduces Jake Jonah, an atheist who does not agree with the definition of a miracle as something that occurs when the world is not left to itself.
-* **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>** The Thought Adventure Podcast discusses whether miracles are rational, and whether they require a god. They argue that miracles are explainable by a necessary being, and that they prove the existence of a prophet.
-* **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>* Discusses how humans desire purpose, and how this is based on our natural tendency to seek guidance. They go on to say that if we want to find purpose in life, we must first understand our origins and why we were created. Once we do this, we can start to understand our role in the world and what is good and bad.
-* **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>** The presenter introduces the topic of miracles and claims that there are no such things as miracles. He explains that the rule that exists even before a thing exists is the law of nature. If a thing occurs in accordance with this law, it cannot be called a miracle. The presenter asks the guest if they believe in god, and the guest responds that they do. The presenter then asks the guest if they believe in miracles, and the guest says that they do not.
-* **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>** Abdullah Abdullah discusses how miracles can be seen as something beyond the laws of nature, challenging continuing beings. He explains that it all depends on the context in which the miracle is being discussed.
-* **<a onclick="modifyYTiframeseektime('8700')">02:25:00</a>* Discusses the differences between miracles and scientific explanations, and argues that miracles are not within the purview of science. A Muslim apologist argues that Jonah was in a whale, and this cannot be explained by naturalism. This leads to the apologist concluding that there must be a non-naturalistic explanation for miracles, such as the existence of God. This argument is flawed because it relies on a false premise - that miracles are always beyond naturalistic explanation.
-* **<a onclick="modifyYTiframeseektime('9000')">02:30:00</a>* Discusses how an existence cannot be illogical, unless and until its identity is logically contradicting. They go on to say that when atheists use the words "it's a contradiction," they need to present an argument showing why the thing being contradictory is a contradiction.
-* **<a onclick="modifyYTiframeseektime('9300')">02:35:00</a>** The Thought Adventure Podcast examines the question of whether or not it is rational to believe in miracles. The hosts discuss how a miracle can be rationalized within the context of a believer's belief system, and how Islamic traditions emphasize the need for miracles to be rationalizable through the foundation of one's beliefs. Finally, Jake discusses his own thoughts on the matter, stating that although belief in miracles is not irrational, it does not automatically justify one's belief in God.
-* **<a onclick="modifyYTiframeseektime('9600')">02:40:00</a>** In this Thought Adventure Podcast, the hosts discuss the idea of miracles and how to approach them logically. They point out that there is more nuance to the subject than simply rejecting all miracles. They also discuss the idea of rationality and whether or not it can be grounded in naturalism.
+**<a onclick="modifyYTiframeseektime('7200')">02:00:00</a>** Discusses the definition of a miracle, and points out that if there is only one fundamental reality, then miracles would not be possible. He then introduces Jake Jonah, an atheist who does not agree with the definition of a miracle as something that occurs when the world is not left to itself.
+
+- **<a onclick="modifyYTiframeseektime('7500')">02:05:00</a>** The Thought Adventure Podcast discusses whether miracles are rational, and whether they require a god. They argue that miracles are explainable by a necessary being, and that they prove the existence of a prophet.
+- **<a onclick="modifyYTiframeseektime('7800')">02:10:00</a>** Discusses how humans desire purpose, and how this is based on our natural tendency to seek guidance. They go on to say that if we want to find purpose in life, we must first understand our origins and why we were created. Once we do this, we can start to understand our role in the world and what is good and bad.
+- **<a onclick="modifyYTiframeseektime('8100')">02:15:00</a>** The presenter introduces the topic of miracles and claims that there are no such things as miracles. He explains that the rule that exists even before a thing exists is the law of nature. If a thing occurs in accordance with this law, it cannot be called a miracle. The presenter asks the guest if they believe in god, and the guest responds that they do. The presenter then asks the guest if they believe in miracles, and the guest says that they do not.
+- **<a onclick="modifyYTiframeseektime('8400')">02:20:00</a>** Abdullah Abdullah discusses how miracles can be seen as something beyond the laws of nature, challenging continuing beings. He explains that it all depends on the context in which the miracle is being discussed.
+- **<a onclick="modifyYTiframeseektime('8700')">02:25:00</a>** Discusses the differences between miracles and scientific explanations, and argues that miracles are not within the purview of science. A Muslim apologist argues that Jonah was in a whale, and this cannot be explained by naturalism. This leads to the apologist concluding that there must be a non-naturalistic explanation for miracles, such as the existence of God. This argument is flawed because it relies on a false premise - that miracles are always beyond naturalistic explanation.
+- **<a onclick="modifyYTiframeseektime('9000')">02:30:00</a>** Discusses how an existence cannot be illogical, unless and until its identity is logically contradicting. They go on to say that when atheists use the words "it's a contradiction," they need to present an argument showing why the thing being contradictory is a contradiction.
+- **<a onclick="modifyYTiframeseektime('9300')">02:35:00</a>** The Thought Adventure Podcast examines the question of whether or not it is rational to believe in miracles. The hosts discuss how a miracle can be rationalized within the context of a believer's belief system, and how Islamic traditions emphasize the need for miracles to be rationalizable through the foundation of one's beliefs. Finally, Jake discusses his own thoughts on the matter, stating that although belief in miracles is not irrational, it does not automatically justify one's belief in God.
+- **<a onclick="modifyYTiframeseektime('9600')">02:40:00</a>** In this Thought Adventure Podcast, the hosts discuss the idea of miracles and how to approach them logically. They point out that there is more nuance to the subject than simply rejecting all miracles. They also discuss the idea of rationality and whether or not it can be grounded in naturalism.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

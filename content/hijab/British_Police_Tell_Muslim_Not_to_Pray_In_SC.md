@@ -8,14 +8,14 @@ This video highlights two police officers telling one individual muslim not to p
 
 ## Summary of [British Police Tell Muslim Not to Pray In SC](https://www.youtube.com/watch?v=bNp3I1VSkBA)
 
-
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  discusses the policy of the British police not to allow Muslims to pray in congregation in the Royal Parks. The policy is based on the idea that collective religious worship is not traditional park-related activity, and the disadvantages of allowing it almost certainly outweigh the benefits to adherents of particular religions or beliefs. The Muslim community protests this policy, saying that it is against their religious beliefs.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the policy of the British police not to allow Muslims to pray in congregation in the Royal Parks. The policy is based on the idea that collective religious worship is not traditional park-related activity, and the disadvantages of allowing it almost certainly outweigh the benefits to adherents of particular religions or beliefs.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the policy of the British police not to allow Muslims to pray in congregation in the Royal Parks. The policy is based on the idea that collective religious worship is not traditional park-related activity, and the disadvantages of allowing it almost certainly outweigh the benefits to adherents of particular religions or beliefs.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The speaker, who is a Muslim, discusses how the British police have told them not to pray in a public space, as this is against their policy. He goes on to say that the policy is different for collective worship, which is different from individual worship. He requests that the police apologize to the individual and leave, as they are creating policy based on their own interpretation.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** British police tell Muslim visitors to the Royal Parks not to pray individually, as this is not allowed under the current regulations. The Muslim community protests this policy, saying that it is against their religious beliefs.
 

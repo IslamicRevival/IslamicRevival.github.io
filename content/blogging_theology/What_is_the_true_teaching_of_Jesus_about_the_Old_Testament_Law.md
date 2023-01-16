@@ -4,16 +4,15 @@
 
 ## Description
 
-Matthew 5: 
+Matthew 5:
 “Do not think that I have come to abolish the law or the prophets; I have come not to abolish but to fulfill. 18 For truly I tell you, until heaven and earth pass away, not one letter, not one stroke of a letter, will pass from the law until all is accomplished. 19 Therefore, whoever breaks one of the least of these commandments, and teaches others to do the same, will be called least in the kingdom of heaven; but whoever does them and teaches them will be called great in the kingdom of heaven. 20 For I tell you, unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven."
 
 Ephesians 2:15
 "He [Jesus] has *abolished the law* with its commandments and ordinances, that he might create in himself one new humanity in place of the two, thus making peace."
 
-I quote from 'The New Jerome Biblical Commentary' by Raymond E. Brown, page 641. https://www.amazon.co.uk/New-Jerome-Biblical-Commentary/dp/0225668033
+I quote from 'The New Jerome Biblical Commentary' by Raymond E. Brown, page 641. <https://www.amazon.co.uk/New-Jerome-Biblical-Commentary/dp/0225668033>
 
 ## Summary of [What is the true teaching of Jesus about the Old Testament Law?](https://www.youtube.com/watch?v=yhJ_0dVmAEc)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -22,6 +21,7 @@ I quote from 'The New Jerome Biblical Commentary' by Raymond E. Brown, page 641.
  discusses the different interpretations of what Jesus said regarding the Old Testament law. Some scholars say that Jesus abolished the law while others say that he renewed it. The video argues that Islam is closer to the original teaching of Jesus.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** In Matthew 5-7, Jesus teaches that the law in the kingdom of God is to be followed with renewed intensity, even your righteousness must exceed that of the Pharisees and the Scribes. In Ephesians 2:15, Paul says that Jesus abolished the law with its commandments and ordinances so that he could create a new humanity in its place.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** These biblical scholars say that the teaching in Matthew 5:17-19 that "do not think I have come to abolish the law or the prophets" contradicts Paul's teaching in Ephesians 2:15-16 that "the law has been abolished." They also say that there is a gap between the teaching in this passage and the practice of Christians today, who follow just a handful of Old Testament laws.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** discusses the difference between the original teaching of Jesus and the later teachings of Paul, which resulted in the death of true Christianity. Islam, which takes a middle path between the two extremes, is said to be closer to the original teaching of Jesus.
 

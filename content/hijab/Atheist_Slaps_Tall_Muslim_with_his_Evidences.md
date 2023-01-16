@@ -6,7 +6,6 @@ This is an attempt by an Atheist reason why an atheistic inference of the univer
 
 ## Summary of [Atheist Slaps Tall Muslim with his Evidences](https://www.youtube.com/watch?v=tbsTo5woXs4)
 
-
 *
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
@@ -16,6 +15,7 @@ This is an attempt by an Atheist reason why an atheistic inference of the univer
 an atheist slaps a tall Muslim man with his evidences. The man tries to explain to the atheist that the pool always been there and there was always an infinite amount of balls. The atheist then accuses the man of being Satan and tells him he knows the ball was created by a technological company in Japan.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** an atheist slaps a tall Muslim man with his evidences. The man tries to explain to the atheist that the pool always been there and there was always an infinite amount of balls. The atheist then accuses the man of being Satan and tells him he knows the ball was created by a technological company in Japan.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  an atheist argues that there is no good evidence to support the idea that the universe was created by a deity. The atheist also argues that the universe appears to be evolving, which supports the view that it was created by something rather than being self-existing.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The atheist argues that there is no such thing as 'randomness' and that everything is governed by laws. He asks the believer to provide evidence of the existence of God, to which the believer responds that the atheist must first prove that Randomness exists. The atheist then asks the believer to prove that Nature, which is an intelligent actor, uses Randomness for its own purposes. The believer is unable to provide any proof, and the argument ends inconclusively.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>**  an atheist slaps a tall Muslim man with his evidences that humans are finely tuned. The man then argues that the definition of the universe does not include inanimate things, to which the atheist responds that this is an example of biology.

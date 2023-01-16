@@ -6,14 +6,13 @@
 
 What is Death? | From The Islamic Perspective | Paul Williams
 
-I read from Man and the Universe: An Islamic Perspective by Dr Mostafa Al-Badawi. 
-Please consider supporting my work on Patreon https://www.patreon.com/Bloggingtheology?fan_landing=true
-and PayPal https://paypal.me/bloggingtheology?locale.x=en_GB
+I read from Man and the Universe: An Islamic Perspective by Dr Mostafa Al-Badawi.
+Please consider supporting my work on Patreon <https://www.patreon.com/Bloggingtheology?fan_landing=true>
+and PayPal <https://paypal.me/bloggingtheology?locale.x=en_GB>
 
 Paul Williams at Blogging Theology
 
 ## Summary of [What is Death? | From The Islamic Perspective | Paul Williams](https://www.youtube.com/watch?v=5ReVKmGz-LE)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -22,6 +21,7 @@ Paul Williams at Blogging Theology
  psychiatrist Paul Williams talks about the Islamic perspective on death. He explains that Muslims see death as a natural passage from one dimension of existence to another, and that it is the responsibility of the believer to be prepared for it. He recommends performing wudu, reciting the Quran, and giving charity on behalf of the deceased as ways of helping the deceased to prepare for the hereafter.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** This psychiatrist says that in Islam, death is nothing more than the passage from one dimension of existence into another, and the believer knows that as the hadith states, "the world is the prison of the believer and the garden of the disbeliever." He encourages regular visits to the cemetery to remember death. This attitude of detachment from the world and meditation on the hereafter is gradually forced on them, so that when the time comes, they are thoroughly prepared.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Dr. Paul Williams talks about the Islamic perspective on death. He discusses how Muslims view death as a natural process that should be attended by godly people who will remind the deceased to say Allah by simply repeating it in his ear. He also discusses the importance of performing wudu and reciting the Quran during the dying process. Finally, he discusses the importance of family visiting the deceased's tomb, giving charity on behalf of the deceased, and praying for them.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  Paul Williams discusses what death is from an Islamic perspective. He discusses the wisdom behind the concept and recommends a book on the topic.
 

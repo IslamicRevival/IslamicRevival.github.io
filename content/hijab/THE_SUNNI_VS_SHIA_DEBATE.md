@@ -6,20 +6,19 @@
 
 This debate allowed both a Sunni and Shia representative to espouse their own case for their respective theologies.
 
-VISIT OUR PARTNERS - www.twelvershia.net & http://nahjul-balagha.net
+VISIT OUR PARTNERS - www.twelvershia.net & <http://nahjul-balagha.net>
 
 To clarify an important point , in the discussion two individuals came in and interrupted threatening the Shia . These were two people (both black) who came in and were stopped  . Point to note :
 
-1- The person who appeared in the Rafida video (Hassan Burachid ) was not the person who came in and interrupted the debate as may be assumed . 
+1- The person who appeared in the Rafida video (Hassan Burachid ) was not the person who came in and interrupted the debate as may be assumed .
 
-2- The allegation that Hassan is associated with Anjem Choudhary is completely unsubstantiated, since I have confirmed that brother Burachid happened to be present at a anti-Iran demonstration and Choudhary came in. 
+2- The allegation that Hassan is associated with Anjem Choudhary is completely unsubstantiated, since I have confirmed that brother Burachid happened to be present at a anti-Iran demonstration and Choudhary came in.
 
 3- Burachid is completely disassociated with Choudhary and his cronies.
 
-#shia #sunni #debate
+# shia #sunni #debate
 
 ## Summary of [THE SUNNI VS SHIA DEBATE](https://www.youtube.com/watch?v=ukK-PmQFSp4)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -28,8 +27,9 @@ To clarify an important point , in the discussion two individuals came in and in
 The Sunni and Shia debate the authenticity of the Quran. The Sunni argue that the Quran is authentic while the Shia maintain that some parts have been removed or added to it. The Shia further argue that there is a difference of opinion among Shia scholars on the matter of Tahrir.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The Sunni and Shia Muslims differ on the Quran, the sahaba (companions of the Prophet Muhammad), and imam. Sunni Muslims believe the sahaba were pious Muslims who taught the Quran and acted as examples, while Shia Muslims believe the sahaba were infallible Imams. Shia Muslims also believe that the Imams continue to teach and guide Muslims today.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Shia scholar argues that classical Shia scholarship agrees that the Quran has been damaged over time, and that the Quran is preserved only in the imagination of the Shi'ite faithful. Sunnis disagree, citing a hadith which states that the Quran has descended in 17,000 ayat.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses Sunni and Shia views on the authenticity of the Quran. The Sunni argue that the Quran is authentic while the Shia maintain that some parts have been removed or added to it. The Shia further argue that there is a difference of opinion among Shia scholars on the matter of Tahrir.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses Sunni and Shia views on the authenticity of the Quran. The Sunni argue that the Quran is authentic while the Shia maintain that some parts have been removed or added to it. The Shia further argue that there is a difference of opinion among Shia scholars on the matter of Tahrir.
 * **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The Sunni and Shia debate differences in interpretation of the Quran. Sunni scholar Tabarsi points out that Ahmadinejad's interpretation of a specific Quran verse is not part of classical Sunni scholarship. Shia scholar Kulaini and Majulici mention other cases where classical Sunni scholarship disagrees with Shia interpretations.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** Sunni scholar Malik quotes different Shia scholars to show that there is a difference of opinion within Shia Sunni circles about the Quran. Malik does not believe that the Quran has been changed, but some Shia scholars believe that it has been.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** The Sunni vs Shia debate is a discussion about the Sunni and Shia differing opinions on the prophet Muhammad. The Sunni scholar argues that the prophet Muhammad did not change the quran, while the Shia scholar argues that certain sahaba (companions of Muhammad) did change the quran. The Sunni scholar also argues that the quran was not preserved in its original form after the prophet Muhammad burned it, while the Shia scholar argues that the quran was preserved. The Sunni scholar also challenges the Shia scholar to bring a rigid book from the Shiites that proves that asim is who he claims to be, but the Shia scholar is not able to do so.
@@ -39,11 +39,13 @@ The Sunni and Shia debate the authenticity of the Quran. The Sunni argue that th
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The Sunni vs Shia debate revolves around the number of companions who returned after Muhammad's death. Sunni Muslims accept that there were many companions who returned, but argue that this does not negate the sahaba's status as pious Muslims. Shia Muslims argue that the number of companions who returned is significant because it shows the depth of Muhammad's followership.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The Shia vs Sunni debate revolves around which of the prophet's friends were true believers. Sunni scholar Jafar Sadiq says that the friends of the prophet were truthful, and that there is a difference of opinion between them in their own books. Shia scholar Imam Ali al-Aaliyah says that Imam Ali did not call Abu Bakr or Umar disbelievers, and that these verses come later in the Quran.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Imam Ali al-Saleh named one of his sons Abdul Rahman, which is mentioned in the book "Irshad." This proves that he loved and respected his son.
+
 ### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:25:00</a>
 
 , Sunni and Shia Muslims debate the issue of who has the most accurate knowledge of God. Shia Muslims argue that belief in a set number of infallible imams is necessary for salvation, while Sunni Muslims argue that anyone who believes in one of the imams is already saved. Sunni Muslims also argue that belief in a set number of infallible imams is necessary for salvation, as stated in the Quran and Sunnah.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>** The Sunni vs Shia debate revolves around who named the Prophet Muhammad's son, Abdul Rahman. Sunni Muslims say that Imam Ali named the son after killer of his father, Abdul Rahman, while Shia Muslims say that the Prophet Muhammad named the son after his cousin and friend, Uthman. Although both sides have valid points, the evidence presented does not support the claim that Imam Ali named the son after Abdul Rahman.
+
 * **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** , Mia argues that the Sunni position that all Sahaba were believers is not supported by the Quran. He also challenges Shadeed to recite the first surah of the Quran correctly. If Shadeed succeeds, Mia offers to give him a jazzer.
 * **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** The Sunni and Shia Muslims debate the issue of who has the most accurate knowledge of God, and whether or not belief in a set number of infallible imams is necessary for salvation. Shia Muslims argue that belief in a set number of infallible imams is necessary for salvation, while Sunni Muslims argue that anyone who believes in one of the imams is already saved. Shia Muslims also argue that there was a group of early Shiites who did not believe in a set number of infallible imams, and that there is a difference of opinion among Shiites about the number of imams there are. Sunni Muslims argue that belief in a set number of infallible imams is necessary for salvation, as stated in the Quran and Sunnah.
 * **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** The Sunni and Shia debate revolves mainly around the idea of who has the ability to know things (knowledge control), with Sunni arguing that the Imams have this ability, and Shia arguing that Allah Himself has this ability. Sunni also argue that since the Imam is a descendant of Prophet Muhammad, they have a similar level of knowledge as Allah. Shia argue that since the Imam is only a human, they are not equal to Allah and do not have the same level of knowledge.

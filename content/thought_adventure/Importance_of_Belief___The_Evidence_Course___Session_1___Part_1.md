@@ -6,22 +6,22 @@
 
 Session 1 Part 1
 
-In an age of information overload and widespread pseudo-intellectualism, understanding the core foundations of Islam is as essential as ever. 
+In an age of information overload and widespread pseudo-intellectualism, understanding the core foundations of Islam is as essential as ever.
 
 This course comprehensively deconstructs the skeletal structure of prevalent ideologies and concepts such as atheism, scientism, materialism, secularism, and skepticism, in light of an all-encompassing intellectually robust Islamic worldview.
 
 Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
+◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
+◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
+◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
+◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
+◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
+◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
+◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
+◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
 
 ----------------------------------------------------------------
 
@@ -29,38 +29,37 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
+- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
+- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
+- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad 
+Riyad
 Gmail: hello.tapodcast@gmail.com
 
 ## Summary of [Importance of Belief | The Evidence Course | Session 1 / Part 1](https://www.youtube.com/watch?v=hQMnjy65mGo)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -68,9 +67,10 @@ Gmail: hello.tapodcast@gmail.com
 
  discusses the importance of belief, both in general and specifically for Muslims. It argues that belief is necessary in order to develop a moral philosophy, and that different outlooks on life arise from different beliefs.  also discusses the importance of using one's mind to establish the foundations of belief.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the importance of belief, and how it shapes our moral outlook. John Stuart Mill, a prominent figure in the Enlightenment, believed that there is no relationship between Christianity and the moral dictates from revelation or whatever religious scripture people may follow. Similarly, the French thinker, Russo, believed that mill himself was an atheist.
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Charles Darwin, Voltaire, John Stuart Mill, and other western thinkers discuss the importance of belief in order to develop a moral philosophy. The various thinkers argue that belief in a creator is subjective, and that personal beliefs cannot be the basis of determining morality. This questioning of the basis of morality leads to the development of political and economic philosophies, which are all based upon the question of purpose in life. The different outlooks that arise from these beliefs are discussed in detail.
-* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the importance of belief and how it affects how Muslims approach their religion. The scholar discussing this points out that one of the first obligations of a Muslim is to establish the foundations of their belief. He then goes on to say that the only way to do this is through the use of one's mind.  then moves on to discuss how Muslims should approach the question of worshiping someone other than Allah.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the importance of belief, and how it shapes our moral outlook. John Stuart Mill, a prominent figure in the Enlightenment, believed that there is no relationship between Christianity and the moral dictates from revelation or whatever religious scripture people may follow. Similarly, the French thinker, Russo, believed that mill himself was an atheist.
+
+- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Charles Darwin, Voltaire, John Stuart Mill, and other western thinkers discuss the importance of belief in order to develop a moral philosophy. The various thinkers argue that belief in a creator is subjective, and that personal beliefs cannot be the basis of determining morality. This questioning of the basis of morality leads to the development of political and economic philosophies, which are all based upon the question of purpose in life. The different outlooks that arise from these beliefs are discussed in detail.
+- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Discusses the importance of belief and how it affects how Muslims approach their religion. The scholar discussing this points out that one of the first obligations of a Muslim is to establish the foundations of their belief. He then goes on to say that the only way to do this is through the use of one's mind.  then moves on to discuss how Muslims should approach the question of worshiping someone other than Allah.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

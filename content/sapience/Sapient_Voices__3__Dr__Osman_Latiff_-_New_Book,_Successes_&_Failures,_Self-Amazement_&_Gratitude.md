@@ -3,32 +3,31 @@
 <iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/__NpvDxDSlw'></iframe>## Description
 
 Listen Sapient Voices on your favourite podcast platform:
-Apple: https://podcasts.apple.com/us/podcast/sapient-voices/id1617301292
-Spotify: https://open.spotify.com/show/5nIJSi6ZDAGBvGsv3FCyS2
-Other: https://sapientvoices.buzzsprout.com/
+Apple: <https://podcasts.apple.com/us/podcast/sapient-voices/id1617301292>
+Spotify: <https://open.spotify.com/show/5nIJSi6ZDAGBvGsv3FCyS2>
+Other: <https://sapientvoices.buzzsprout.com/>
 
 Sapient Voices #3: Dr. Osman Latiff - New Book, Successes & Failures, Self-Amazement & Gratitude
 —
 Help us educate and mentor others to share the faith academically.
-Donate now: https://sapienceinstitute.org/donate/ 
+Donate now: <https://sapienceinstitute.org/donate/>
 
-Free online courses: https://learn.sapienceinstitute.org/
+Free online courses: <https://learn.sapienceinstitute.org/>
 
-Free books: https://sapienceinstitute.org/books/
+Free books: <https://sapienceinstitute.org/books/>
 
-Have doubts? Book a mentor: https://sapienceinstitute.org/lighthouse/
+Have doubts? Book a mentor: <https://sapienceinstitute.org/lighthouse/>
 
-Listen (Podcast): https://sapienceinstitute.org/sapientvoices/
+Listen (Podcast): <https://sapienceinstitute.org/sapientvoices/>
 
 Follow:
-– Facebook: https://facebook.com/sapienceinstitute.org/ 
-– Twitter: https://twitter.com/SapienceOrg/ 
-– Instagram: https://instagram.com/sapienceinstitute/ 
+– Facebook: <https://facebook.com/sapienceinstitute.org/>
+– Twitter: <https://twitter.com/SapienceOrg/>
+– Instagram: <https://instagram.com/sapienceinstitute/>
 
-Articles, speaker requests & more: https://sapienceinstitute.org/
+Articles, speaker requests & more: <https://sapienceinstitute.org/>
 
 ## Summary of [Sapient Voices #3: Dr. Osman Latiff - New Book, Successes & Failures, Self-Amazement & Gratitude](https://www.youtube.com/watch?v=__NpvDxDSlw)
-
 
 *
 
@@ -39,9 +38,10 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
  Dr. Osman Latiff discusses how to achieve success through writing and other means. He emphasizes the importance of humility, gratitude, and Repentance, and offers a self-assessment checklist to help achieve these things.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Dr. Utman Latiff discusses the process of writing a book, the importance of sincerity in writing, and the importance of having a concern for others when writing. He also talks about his book, "Divine Perfection", and its importance in spreading the message of Islam.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Dr. Osman Latiff discusses the importance of beginning each day with voluntary actions that remind one of Allah, such as praying Fajr and performing Wudu. He also advises that one should write down their thoughts and observations throughout the day in order to "make sure that [one] has done work in the day."
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  Dr. Osman Latiff discusses the importance of discipline and the various strategies he employs to overcome writer's block. He also reflects on how baraka (God's blessings) helps him overcome obstacles.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses how it is important to have a purpose and usefulness in whatever one writes, as if writing were a hard process. He suggests that one should also have a clear vision for what one is writing, and that it is important to have faith in what one is saying. He also reminds the listener that Allah will bring the fruits of one's work out in the future.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses how it is important to have a purpose and usefulness in whatever one writes, as if writing were a hard process. He suggests that one should also have a clear vision for what one is writing, and that it is important to have faith in what one is saying. He also reminds the listener that Allah will bring the fruits of one's work out in the future.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>**  Dr. Osman Latiff discusses how writing can be an important tool for success, and how his book, "Divine Perfection," fills a gap in the Muslim community by addressing arguments against Islam made by William Lane Craig and others. He also mentions how he has debated William Lane Craig, and how people have responded poorly. He urges Muslims to write better arguments in response, as this will make allah's word the highest.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** In this third video in the "Sapient Voices" series, Dr. Osman Latiff discusses how to be a successful writer and how to deal with obstacles. He also discusses how to be of those who call to Allah, using examples from the Quran. He says that the main thing to remember when writing is to be patient and to use strong arguments and compassion.
 * **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>**  Dr. Osman Latiff discusses his new book, "Successes & Failures, Self-Amazement & Gratitude." He discusses how the book is designed to help people achieve their goals and become more self-aware. Latiff also discusses how important it is for Muslims to learn about transformational learning, which is often lacking in our current educational system.
@@ -50,13 +50,15 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Dr. Osman Latiff discusses the importance of humility and gratitude when it comes to success, and offers a self-assessment checklist to help achieve this. He also discusses the dangers of arrogance, self-amazement, and jealousy.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Dr. Osman Latiff discusses the importance of humility, gratitude, and repentance in regards to success. He emphasizes that these are essential components of having a strong spiritual life, and that without them many blessings and successes would not be attainable.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Dr. Osman Latiff discusses how gratitude is an important emotion to have in relation to success, and how it can help overcome hardships. He also points to the example of Eunis al-istan, who was punished for his beliefs by being thrown overboard a ship full of people.
+
 ### <a onclick="modifyYTiframeseektime('4800')">01:00:00 [01:20:00</a>
 
  Dr. Osman Latiff discusses the importance of gratitude, self-amazement, and humility. He shares a story of how one difficult event led to a greater appreciation of life. Latiff encourages Muslims to be constantly mindful of Allah and to seek his help in overcoming obstacles.
 
 **<a onclick="modifyYTiframeseektime('3600')">01:00:00</a>**  Dr. Osman Latiff discusses Islamic principles of patience and how they can be applied to one's own life. He also speaks about a Hadith in which the Prophet says that one's actions will not save them, and that one should pace themselves in order to avoid overburdening themselves. This is an important reminder that, while difficult times may come, always remember to remember Allah and do good deeds in order to receive His help.
+
 * **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>**  Dr. Osman Latiff shares the story of how hitting rock bottom and facing hurdles in his dawah journey helped him to improve and grow as a Muslim. Latiff also discusses how gratitude and praise of Allah are important aspects of worship, and how being humble and recognizing our wrongdoings is a necessary part of repentance. Latiff encourages Muslims to be constantly mindful of Allah and to seek his help in overcoming obstacles.
-* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>* Discusses the life and work of Dr. Osman Latiff, a successful physician and author. Latiff discusses the importance of gratitude, self-amazement, and humility, and shares a story of how one difficult event led to a greater appreciation of life.
+* **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** Discusses the life and work of Dr. Osman Latiff, a successful physician and author. Latiff discusses the importance of gratitude, self-amazement, and humility, and shares a story of how one difficult event led to a greater appreciation of life.
 * **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** Dr. Osman Latiff discusses the importance of gratitude in the face of difficult challenges and how muslims can look to the prophets and seerah for inspiration.
 * **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>** Dr. Osman Latiff discusses the importance of gratitude and how it can lead to success. He also shares how Abdul Quddus was able to overcome many obstacles despite not being able to speak.
 

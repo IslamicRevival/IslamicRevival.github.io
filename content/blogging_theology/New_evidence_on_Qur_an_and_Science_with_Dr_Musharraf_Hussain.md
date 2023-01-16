@@ -4,16 +4,15 @@
 
 ## Description
 
-The Majestic Quran https://www.majesticquran.co.uk/
+The Majestic Quran <https://www.majesticquran.co.uk/>
 
 You Can Support My Work on Patreon:
-https://www.patreon.com/Bloggingtheology
+<https://www.patreon.com/Bloggingtheology>
 
-My Paypal Link: 
-https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
+My Paypal Link:
+<https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB>
 
 ## Summary of [New evidence on Qur'an and Science with Dr Musharraf Hussain](https://www.youtube.com/watch?v=7nm0QJzfHhU)
-
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
@@ -22,13 +21,14 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
  discusses the idea that there is scientific evidence to support the claims made in the Quran. argues that when we think morally and spiritually, we can come to see that we are all interconnected and that our relationship with God is a solemn pledge. He urges people to learn more about Islam and its teachings in order to create a better society.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Dr. Musharraf Hussain discusses how the Quran has been found to be beneficial in terms of human health and welfare. He discusses the British education system and how it prepares students for problem-solving in the physical world.
+
 * **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Dr. Musharraf Hussain discusses new evidence that shows how Quranic teachings on morality and spiritual intelligence have positive impacts on human well-being. He argues that these teachings are mandatory for all humans, and that the Quran makes development of moral and spiritual intelligence a priority.
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** argues that there is scientific evidence that moral intelligence and spiritual intelligence are hard-wired and have a positive impact on well-being. He also argues that chronic teachings have a firm scientific foundation.
-* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the idea that there is a difference between moral intelligence and scientific intelligence, and that moral intelligence is more valuable. It goes on to say that moral intelligence is more difficult to develop than scientific intelligence, and that it makes us who we are as humans.  also mentions the importance of Oxford and Cambridge Universities, and how their best graduates often lack in moral intelligence.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Discusses the idea that there is a difference between moral intelligence and scientific intelligence, and that moral intelligence is more valuable. It goes on to say that moral intelligence is more difficult to develop than scientific intelligence, and that it makes us who we are as humans.  also mentions the importance of Oxford and Cambridge Universities, and how their best graduates often lack in moral intelligence.
 * **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** discusses the role of religion in developing intelligence, citing Quran and Sunnah as examples of values that are shared by many religions. He goes on to say that unless morality and spiritual intelligence are emphasized in education, the value of religion is lost.
 * **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** The slide shows how the human brain has billions of nerve cells that are interconnected, and how this makes it complicated and versatile. It also shows how cells are in water and how this makes them look like they are purposefully interacting.
-* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>* Discusses research that has uncovered new evidence that the Qur'an is correct, and that oxytocin is a hormone that is responsible for a number of positive effects in the body, including increasing generosity and love.  also mentions that negative actions, such as anger or selfishness, have a negative effect on the body.
-* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>* Discusses how psychologists believe that hearing a vividly told story about kind Behavior has the same emotional impact as actually seeing the act itself. It also discusses how religious stories and parables are very effective in developing the good character and positive behavior of listeners.  concludes by urging listeners to be kind to others.
+* **<a onclick="modifyYTiframeseektime('1800')">00:30:00</a>** Discusses research that has uncovered new evidence that the Qur'an is correct, and that oxytocin is a hormone that is responsible for a number of positive effects in the body, including increasing generosity and love.  also mentions that negative actions, such as anger or selfishness, have a negative effect on the body.
+* **<a onclick="modifyYTiframeseektime('2100')">00:35:00</a>** Discusses how psychologists believe that hearing a vividly told story about kind Behavior has the same emotional impact as actually seeing the act itself. It also discusses how religious stories and parables are very effective in developing the good character and positive behavior of listeners.  concludes by urging listeners to be kind to others.
 * **<a onclick="modifyYTiframeseektime('2400')">00:40:00</a>** discusses the relationship between science and religion, noting that science is a powerful force if it is underpinned by morality and spiritual intelligence. He discusses the idea that science without religion is lame, and quotes Albert Einstein, who said the same thing about religion without science. believes that if people have a strong understanding of both science and morality, they will never create weapons of mass destruction.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Dr. Musharraf Hussain discusses new evidence that suggests the Qur'an is compatible with modern science. He argues that when we think morally and spiritually, we can come to see that we are all interconnected and that our relationship with God is a solemn pledge.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** discusses how Islam recognizes and respects differences in beliefs, and how this is a key part of the religion's character. He goes on to say that while Muslims should be respectful of others, it is also important to understand the cardinal sins of human behavior, which according to Islamic scholars are explained in the Quran. encourages people to learn more about Islam and its teachings.
