@@ -14,7 +14,7 @@ Q and A
 
 ## Summary of [Tafseer-ul-Quran - Almassari - 010 - Al-Baqara 04 - تفسير سورة البقرة](https://www.youtube.com/watch?v=3B6SHmOfMNs)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -48,7 +48,7 @@ Q and A
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('1')">0:00:01</a> [Music]  
+<a onclick="modifyYTiframeseektime('1')">0:00:01</a> Music  
 <a onclick="modifyYTiframeseektime('25')">0:00:25</a> we should have a little bit more maybe  
 <a onclick="modifyYTiframeseektime('27')">0:00:27</a> one stop like  
 <a onclick="modifyYTiframeseektime('28')">0:00:28</a> when one halaqa about iman uh  
@@ -670,7 +670,7 @@ Q and A
 <a onclick="modifyYTiframeseektime('1515')">0:25:15</a> supported iman meaning  
 <a onclick="modifyYTiframeseektime('1517')">0:25:17</a> include the the action not necessary it  
 <a onclick="modifyYTiframeseektime('1520')">0:25:20</a> does not support that  
-<a onclick="modifyYTiframeseektime('1521')">0:25:21</a> [Music]  
+<a onclick="modifyYTiframeseektime('1521')">0:25:21</a> Music  
 <a onclick="modifyYTiframeseektime('1522')">0:25:22</a> there's another so these are the ones  
 <a onclick="modifyYTiframeseektime('1524')">0:25:24</a> who essentially say iman is the actions  
 <a onclick="modifyYTiframeseektime('1527')">0:25:27</a> instead i i expanded to say the access  
@@ -2315,6 +2315,6 @@ Q and A
 <a onclick="modifyYTiframeseektime('5160')">1:26:00</a> yeah so but but the state itself is  
 <a onclick="modifyYTiframeseektime('5163')">1:26:03</a> obviously  
 <a onclick="modifyYTiframeseektime('5164')">1:26:04</a> a wrong statement that's not correct  
-<a onclick="modifyYTiframeseektime('5172')">1:26:12</a> [Music]  
+<a onclick="modifyYTiframeseektime('5172')">1:26:12</a> Music  
 <a onclick="modifyYTiframeseektime('5193')">1:26:33</a> you  
 </details>

@@ -10,7 +10,7 @@ Principle of Sufficient Reason and the Infinite Regress   2
 
 ## Summary of [Principle of Sufficient Reason and the Infinite Regress 2](https://www.youtube.com/watch?v=tUjnjjrvJVU)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -63,7 +63,7 @@ This principle is also used to explain why there can never be an infinite regres
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00</a> [Music]  
+<a onclick="modifyYTiframeseektime('0')">0:00:00</a> Music  
 <a onclick="modifyYTiframeseektime('22')">0:00:22</a> yeah yes professor  
 <a onclick="modifyYTiframeseektime('24')">0:00:24</a> so this this one approach  
 <a onclick="modifyYTiframeseektime('28')">0:00:28</a> will  
@@ -2914,10 +2914,10 @@ This principle is also used to explain why there can never be an infinite regres
 <a onclick="modifyYTiframeseektime('6299')">1:44:59</a> okay  
 <a onclick="modifyYTiframeseektime('6301')">1:45:01</a> professor thank you so much  
 <a onclick="modifyYTiframeseektime('6303')">1:45:03</a> see you next week  
-<a onclick="modifyYTiframeseektime('6317')">1:45:17</a> [Music]  
+<a onclick="modifyYTiframeseektime('6317')">1:45:17</a> Music  
 <a onclick="modifyYTiframeseektime('6349')">1:45:49</a> foreign  
-<a onclick="modifyYTiframeseektime('6351')">1:45:51</a> [Music]  
+<a onclick="modifyYTiframeseektime('6351')">1:45:51</a> Music  
 <a onclick="modifyYTiframeseektime('6360')">1:46:00</a> so  
-<a onclick="modifyYTiframeseektime('6371')">1:46:11</a> [Music]  
+<a onclick="modifyYTiframeseektime('6371')">1:46:11</a> Music  
 <a onclick="modifyYTiframeseektime('6380')">1:46:20</a> you  
 </details>

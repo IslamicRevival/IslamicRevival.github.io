@@ -11,7 +11,7 @@ The Quran's Version of the Christmas Story
 
 ## Summary of [The Quran's Version of the Christmas Story](https://www.youtube.com/watch?v=wCE9lDGIxRs)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -69,7 +69,7 @@ The Quran's Version of the Christmas Story
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00</a> [Music]  
+<a onclick="modifyYTiframeseektime('0')">0:00:00</a> Music  
 <a onclick="modifyYTiframeseektime('28')">0:00:28</a> okay let's go to  
 <a onclick="modifyYTiframeseektime('32')">0:00:32</a> ancient books  
 <a onclick="modifyYTiframeseektime('35')">0:00:35</a> okay  
@@ -4764,9 +4764,9 @@ The Quran's Version of the Christmas Story
 <a onclick="modifyYTiframeseektime('10578')">2:56:18</a> if needed  
 <a onclick="modifyYTiframeseektime('10580')">2:56:20</a> okay  
 <a onclick="modifyYTiframeseektime('10586')">2:56:26</a> fine  
-<a onclick="modifyYTiframeseektime('10591')">2:56:31</a> [Music]  
+<a onclick="modifyYTiframeseektime('10591')">2:56:31</a> Music  
 <a onclick="modifyYTiframeseektime('10628')">2:57:08</a> is  
-<a onclick="modifyYTiframeseektime('10631')">2:57:11</a> [Music]  
-<a onclick="modifyYTiframeseektime('10651')">2:57:31</a> [Music]  
+<a onclick="modifyYTiframeseektime('10631')">2:57:11</a> Music  
+<a onclick="modifyYTiframeseektime('10651')">2:57:31</a> Music  
 <a onclick="modifyYTiframeseektime('10660')">2:57:40</a> you  
 </details>

@@ -17,7 +17,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 ## Summary of [117 Tafseer ul Quran Surat Al-An'am Professor Dr Muhammad AL MASSARI](https://www.youtube.com/watch?v=5U2d1_ZOB78)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -70,7 +70,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 <a onclick="modifyYTiframeseektime('7')">0:00:07</a> foreign  
-<a onclick="modifyYTiframeseektime('7')">0:00:07</a> [Music]  
+<a onclick="modifyYTiframeseektime('7')">0:00:07</a> Music  
 <a onclick="modifyYTiframeseektime('56')">0:00:56</a> these episodes are broadcast live on the  
 <a onclick="modifyYTiframeseektime('59')">0:00:59</a> study Circles of professors and Dr  
 <a onclick="modifyYTiframeseektime('60')">0:01:00</a> Muhammad al-masri YouTube YouTube  
@@ -97,7 +97,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <a onclick="modifyYTiframeseektime('104')">0:01:44</a> um can you argue with the header of the  
 <a onclick="modifyYTiframeseektime('106')">0:01:46</a> Ayah which we are starting with one  
 <a onclick="modifyYTiframeseektime('108')">0:01:48</a> second  
-<a onclick="modifyYTiframeseektime('115')">0:01:55</a> [Music]  
+<a onclick="modifyYTiframeseektime('115')">0:01:55</a> Music  
 <a onclick="modifyYTiframeseektime('116')">0:01:56</a> yeah okay so let's go to is before just  
 <a onclick="modifyYTiframeseektime('120')">0:02:00</a> I read them and you translate you read  
 <a onclick="modifyYTiframeseektime('122')">0:02:02</a> the translation then we continue because  
@@ -1410,7 +1410,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <a onclick="modifyYTiframeseektime('3349')">0:55:49</a> now I had a question about it and we  
 <a onclick="modifyYTiframeseektime('3351')">0:55:51</a> finished it so then the next instrument  
 <a onclick="modifyYTiframeseektime('3353')">0:55:53</a> so in your your next is  
-<a onclick="modifyYTiframeseektime('3356')">0:55:56</a> [Music]  
+<a onclick="modifyYTiframeseektime('3356')">0:55:56</a> Music  
 <a onclick="modifyYTiframeseektime('3359')">0:55:59</a> we finished this one we finished this  
 <a onclick="modifyYTiframeseektime('3361')">0:56:01</a> one the one after  
 <a onclick="modifyYTiframeseektime('3362')">0:56:02</a> Jeff I'm telling you this is this is  
@@ -1467,7 +1467,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <a onclick="modifyYTiframeseektime('3509')">0:58:29</a> necessarily so let me so this doesn't  
 <a onclick="modifyYTiframeseektime('3511')">0:58:31</a> add Android  
 <a onclick="modifyYTiframeseektime('3514')">0:58:34</a> um  
-<a onclick="modifyYTiframeseektime('3521')">0:58:41</a> [Music]  
+<a onclick="modifyYTiframeseektime('3521')">0:58:41</a> Music  
 <a onclick="modifyYTiframeseektime('3523')">0:58:43</a> yeah yeah I have overlooked this part I  
 <a onclick="modifyYTiframeseektime('3528')">0:58:48</a> focused on on uh the folks that I after  
 <a onclick="modifyYTiframeseektime('3531')">0:58:51</a> that I overlooked that it's not my  
@@ -1647,7 +1647,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <a onclick="modifyYTiframeseektime('3958')">1:05:58</a> odd bear waiting there maybe maybe just  
 <a onclick="modifyYTiframeseektime('3961')">1:06:01</a> open your eyes and check  
 <a onclick="modifyYTiframeseektime('3964')">1:06:04</a> foreign  
-<a onclick="modifyYTiframeseektime('3982')">1:06:22</a> [Music]  
+<a onclick="modifyYTiframeseektime('3982')">1:06:22</a> Music  
 <a onclick="modifyYTiframeseektime('3994')">1:06:34</a> lost indeed are they who consider it a  
 <a onclick="modifyYTiframeseektime('3997')">1:06:37</a> lie that they will have to meet God  
 <a onclick="modifyYTiframeseektime('4000')">1:06:40</a> till the last hour suddenly comes upon  
@@ -2674,7 +2674,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <a onclick="modifyYTiframeseektime('6530')">1:48:50</a> suddenly there comes some of them come  
 <a onclick="modifyYTiframeseektime('6531')">1:48:51</a> say I'm receiving something from heaven  
 <a onclick="modifyYTiframeseektime('6535')">1:48:55</a> competition  
-<a onclick="modifyYTiframeseektime('6546')">1:49:06</a> [Music]  
+<a onclick="modifyYTiframeseektime('6546')">1:49:06</a> Music  
 <a onclick="modifyYTiframeseektime('6553')">1:49:13</a> in the horse race everyone took another  
 <a onclick="modifyYTiframeseektime('6554')">1:49:14</a> competition at any price that's all that  
 <a onclick="modifyYTiframeseektime('6556')">1:49:16</a> he wants  
@@ -3350,7 +3350,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <a onclick="modifyYTiframeseektime('8197')">2:16:37</a> don't want to understand but so  
 <a onclick="modifyYTiframeseektime('8199')">2:16:39</a> according to their own usual they would  
 <a onclick="modifyYTiframeseektime('8201')">2:16:41</a> have to  
-<a onclick="modifyYTiframeseektime('8221')">2:17:01</a> [Laughter]  
+<a onclick="modifyYTiframeseektime('8221')">2:17:01</a> Laughter  
 <a onclick="modifyYTiframeseektime('8224')">2:17:04</a> that's the correct way  
 <a onclick="modifyYTiframeseektime('8238')">2:17:18</a> to expose the truth so that we reach  
 <a onclick="modifyYTiframeseektime('8241')">2:17:21</a> both the truth not defeat them or  
@@ -3548,11 +3548,11 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <a onclick="modifyYTiframeseektime('8703')">2:25:03</a> non-cleaning of the household  
 <a onclick="modifyYTiframeseektime('8707')">2:25:07</a> well I'll speak to you tomorrow  
 <a onclick="modifyYTiframeseektime('8728')">2:25:28</a> foreign  
-<a onclick="modifyYTiframeseektime('8729')">2:25:29</a> [Music]  
-<a onclick="modifyYTiframeseektime('8742')">2:25:42</a> [Music]  
-<a onclick="modifyYTiframeseektime('8747')">2:25:47</a> [Music]  
-<a onclick="modifyYTiframeseektime('8757')">2:25:57</a> [Music]  
-<a onclick="modifyYTiframeseektime('8765')">2:26:05</a> [Music]  
+<a onclick="modifyYTiframeseektime('8729')">2:25:29</a> Music  
+<a onclick="modifyYTiframeseektime('8742')">2:25:42</a> Music  
+<a onclick="modifyYTiframeseektime('8747')">2:25:47</a> Music  
+<a onclick="modifyYTiframeseektime('8757')">2:25:57</a> Music  
+<a onclick="modifyYTiframeseektime('8765')">2:26:05</a> Music  
 <a onclick="modifyYTiframeseektime('8772')">2:26:12</a> foreign  
-<a onclick="modifyYTiframeseektime('8777')">2:26:17</a> [Music]  
+<a onclick="modifyYTiframeseektime('8777')">2:26:17</a> Music  
 </details>

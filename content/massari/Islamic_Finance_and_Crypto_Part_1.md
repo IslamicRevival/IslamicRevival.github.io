@@ -16,7 +16,7 @@ Discussion on Futures Contracts
 
 ## Summary of [Islamic Finance and Crypto Part 1](https://www.youtube.com/watch?v=YLyj7tvOI7o)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -65,7 +65,7 @@ Discusses Islamic finance and cryptocurrency. It offers a brief overview of vari
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00</a> [Music]  
+<a onclick="modifyYTiframeseektime('0')">0:00:00</a> Music  
 <a onclick="modifyYTiframeseektime('22')">0:00:22</a> okay today's session will be  
 <a onclick="modifyYTiframeseektime('23')">0:00:23</a> a question answer around islamic finance  
 <a onclick="modifyYTiframeseektime('26')">0:00:26</a> and crypto  
@@ -4116,8 +4116,8 @@ Discusses Islamic finance and cryptocurrency. It offers a brief overview of vari
 <a onclick="modifyYTiframeseektime('7833')">2:10:33</a> inshallah  
 <a onclick="modifyYTiframeseektime('7834')">2:10:34</a> good okay  
 <a onclick="modifyYTiframeseektime('7838')">2:10:38</a> next week  
-<a onclick="modifyYTiframeseektime('7845')">2:10:45</a> [Music]  
+<a onclick="modifyYTiframeseektime('7845')">2:10:45</a> Music  
 <a onclick="modifyYTiframeseektime('7854')">2:10:54</a> so  
-<a onclick="modifyYTiframeseektime('7857')">2:10:57</a> [Music]  
+<a onclick="modifyYTiframeseektime('7857')">2:10:57</a> Music  
 <a onclick="modifyYTiframeseektime('7867')">2:11:07</a> you  
 </details>

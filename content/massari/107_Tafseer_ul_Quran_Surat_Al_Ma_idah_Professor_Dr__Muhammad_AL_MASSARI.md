@@ -17,7 +17,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 ## Summary of [107 Tafseer ul Quran Surat Al Ma'idah Professor Dr Muhammad AL MASSARI](https://www.youtube.com/watch?v=dj_ROS1y3JE)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -67,7 +67,7 @@ Dr. Muhammad Al Massari discusses the importance of understanding the Quran in i
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00</a> [Music]  
+<a onclick="modifyYTiframeseektime('0')">0:00:00</a> Music  
 <a onclick="modifyYTiframeseektime('27')">0:00:27</a> welcome dear viewers brothers and  
 <a onclick="modifyYTiframeseektime('28')">0:00:28</a> sisters to episode 107 of our tafseer  
 <a onclick="modifyYTiframeseektime('31')">0:00:31</a> sessions of the noble quran with  
@@ -99,11 +99,11 @@ Dr. Muhammad Al Massari discusses the importance of understanding the Quran in i
 <a onclick="modifyYTiframeseektime('80')">0:01:20</a> the maida we are now on ayah 50.  
 <a onclick="modifyYTiframeseektime('83')">0:01:23</a> yeah  
 <a onclick="modifyYTiframeseektime('84')">0:01:24</a> let me review that  
-<a onclick="modifyYTiframeseektime('87')">0:01:27</a> [Music]  
+<a onclick="modifyYTiframeseektime('87')">0:01:27</a> Music  
 <a onclick="modifyYTiframeseektime('96')">0:01:36</a> translate again  
 <a onclick="modifyYTiframeseektime('100')">0:01:40</a> and then between them  
 <a onclick="modifyYTiframeseektime('102')">0:01:42</a> just a second  
-<a onclick="modifyYTiframeseektime('108')">0:01:48</a> [Music]  
+<a onclick="modifyYTiframeseektime('108')">0:01:48</a> Music  
 <a onclick="modifyYTiframeseektime('114')">0:01:54</a> hence judge between the followers of  
 <a onclick="modifyYTiframeseektime('116')">0:01:56</a> early of revelation in accordance with  
 <a onclick="modifyYTiframeseektime('117')">0:01:57</a> what god has bestowed from on high and  
@@ -242,7 +242,7 @@ Dr. Muhammad Al Massari discusses the importance of understanding the Quran in i
 <a onclick="modifyYTiframeseektime('384')">0:06:24</a> be so and reality  
 <a onclick="modifyYTiframeseektime('386')">0:06:26</a> many of them are not like that now  
 <a onclick="modifyYTiframeseektime('388')">0:06:28</a> today  
-<a onclick="modifyYTiframeseektime('394')">0:06:34</a> [Music]  
+<a onclick="modifyYTiframeseektime('394')">0:06:34</a> Music  
 <a onclick="modifyYTiframeseektime('407')">0:06:47</a> enough inner certainty who could be a  
 <a onclick="modifyYTiframeseektime('409')">0:06:49</a> better law giver than god next  
 <a onclick="modifyYTiframeseektime('411')">0:06:51</a> translation do they want judgment  
@@ -656,7 +656,7 @@ Dr. Muhammad Al Massari discusses the importance of understanding the Quran in i
 <a onclick="modifyYTiframeseektime('1349')">0:22:29</a> he sent them back  
 <a onclick="modifyYTiframeseektime('1352')">0:22:32</a> but after that there was an incident  
 <a onclick="modifyYTiframeseektime('1356')">0:22:36</a> in in  
-<a onclick="modifyYTiframeseektime('1358')">0:22:38</a> [Music]  
+<a onclick="modifyYTiframeseektime('1358')">0:22:38</a> Music  
 <a onclick="modifyYTiframeseektime('1373')">0:22:53</a> woman and so on and the village woman in  
 <a onclick="modifyYTiframeseektime('1375')">0:22:55</a> in africa they were situated in the  
 <a onclick="modifyYTiframeseektime('1376')">0:22:56</a> ground selling their things and so on  
@@ -873,7 +873,7 @@ Dr. Muhammad Al Massari discusses the importance of understanding the Quran in i
 <a onclick="modifyYTiframeseektime('1842')">0:30:42</a> left that's that this final obstacle  
 <a onclick="modifyYTiframeseektime('1844')">0:30:44</a> over there  
 <a onclick="modifyYTiframeseektime('1846')">0:30:46</a> this way this actually becomes  
-<a onclick="modifyYTiframeseektime('1849')">0:30:49</a> [Music]  
+<a onclick="modifyYTiframeseektime('1849')">0:30:49</a> Music  
 <a onclick="modifyYTiframeseektime('1865')">0:31:05</a> for leaving abandoning the religion and  
 <a onclick="modifyYTiframeseektime('1867')">0:31:07</a> becoming a non-muslim  
 <a onclick="modifyYTiframeseektime('1870')">0:31:10</a> so what last one so this is hint that  
@@ -886,7 +886,7 @@ Dr. Muhammad Al Massari discusses the importance of understanding the Quran in i
 <a onclick="modifyYTiframeseektime('1885')">0:31:25</a> which has been methodized  
 <a onclick="modifyYTiframeseektime('1889')">0:31:29</a> if you abandon your deen don't think  
 <a onclick="modifyYTiframeseektime('1890')">0:31:30</a> you're  
-<a onclick="modifyYTiframeseektime('1897')">0:31:37</a> [Music]  
+<a onclick="modifyYTiframeseektime('1897')">0:31:37</a> Music  
 <a onclick="modifyYTiframeseektime('1902')">0:31:42</a> so they cannot be they cannot be  
 <a onclick="modifyYTiframeseektime('1904')">0:31:44</a> fighting or supporting any time that  
 <a onclick="modifyYTiframeseektime('1906')">0:31:46</a> again  
@@ -909,17 +909,17 @@ Dr. Muhammad Al Massari discusses the importance of understanding the Quran in i
 <a onclick="modifyYTiframeseektime('1941')">0:32:21</a> willing to be as low as disgrace and  
 <a onclick="modifyYTiframeseektime('1943')">0:32:23</a> humor and and  
 <a onclick="modifyYTiframeseektime('1945')">0:32:25</a> being in humility  
-<a onclick="modifyYTiframeseektime('1956')">0:32:36</a> [Music]  
+<a onclick="modifyYTiframeseektime('1956')">0:32:36</a> Music  
 <a onclick="modifyYTiframeseektime('1957')">0:32:37</a> self-conscious  
 <a onclick="modifyYTiframeseektime('1959')">0:32:39</a> they fight for the sake of allah they  
 <a onclick="modifyYTiframeseektime('1960')">0:32:40</a> don't  
 <a onclick="modifyYTiframeseektime('1968')">0:32:48</a> after generation  
 <a onclick="modifyYTiframeseektime('1970')">0:32:50</a> stage after stage until our time  
 <a onclick="modifyYTiframeseektime('1973')">0:32:53</a> this is the greatest the grace  
-<a onclick="modifyYTiframeseektime('1987')">0:33:07</a> [Music]  
+<a onclick="modifyYTiframeseektime('1987')">0:33:07</a> Music  
 <a onclick="modifyYTiframeseektime('1989')">0:33:09</a> ibn obey he made intercession on on this  
 <a onclick="modifyYTiframeseektime('1991')">0:33:11</a> tribe  
-<a onclick="modifyYTiframeseektime('1992')">0:33:12</a> [Music]  
+<a onclick="modifyYTiframeseektime('1992')">0:33:12</a> Music  
 <a onclick="modifyYTiframeseektime('1993')">0:33:13</a> so was it his motivation was because of  
 <a onclick="modifyYTiframeseektime('1996')">0:33:16</a> uh what made him  
 <a onclick="modifyYTiframeseektime('1998')">0:33:18</a> uh exposes being catholic because i'm  
@@ -1003,7 +1003,7 @@ Dr. Muhammad Al Massari discusses the importance of understanding the Quran in i
 <a onclick="modifyYTiframeseektime('2192')">0:36:32</a> for attraction of all the population of  
 <a onclick="modifyYTiframeseektime('2194')">0:36:34</a> possibly another concussion and it  
 <a onclick="modifyYTiframeseektime('2196')">0:36:36</a> contains federation  
-<a onclick="modifyYTiframeseektime('2224')">0:37:04</a> [Music]  
+<a onclick="modifyYTiframeseektime('2224')">0:37:04</a> Music  
 <a onclick="modifyYTiframeseektime('2225')">0:37:05</a> they're all fit  
 <a onclick="modifyYTiframeseektime('2229')">0:37:09</a> the wrong mediator  
 <a onclick="modifyYTiframeseektime('2232')">0:37:12</a> and then again affirming nowadays  
@@ -1026,7 +1026,7 @@ Dr. Muhammad Al Massari discusses the importance of understanding the Quran in i
 <a onclick="modifyYTiframeseektime('2292')">0:38:12</a> accepting israel and so on allah would  
 <a onclick="modifyYTiframeseektime('2293')">0:38:13</a> bring some people who these would be  
 <a onclick="modifyYTiframeseektime('2295')">0:38:15</a> these will fail and allah  
-<a onclick="modifyYTiframeseektime('2301')">0:38:21</a> [Music]  
+<a onclick="modifyYTiframeseektime('2301')">0:38:21</a> Music  
 <a onclick="modifyYTiframeseektime('2311')">0:38:31</a> and then all of those who was in the  
 <a onclick="modifyYTiframeseektime('2313')">0:38:33</a> wrong side were regret because they all  
 <a onclick="modifyYTiframeseektime('2315')">0:38:35</a> were to have been in vain and they have  
@@ -1034,7 +1034,7 @@ Dr. Muhammad Al Massari discusses the importance of understanding the Quran in i
 <a onclick="modifyYTiframeseektime('2319')">0:38:39</a> as multiple india they don't finish  
 <a onclick="modifyYTiframeseektime('2321')">0:38:41</a> their event  
 <a onclick="modifyYTiframeseektime('2323')">0:38:43</a> then again back to the issue where  
-<a onclick="modifyYTiframeseektime('2336')">0:38:56</a> [Music]  
+<a onclick="modifyYTiframeseektime('2336')">0:38:56</a> Music  
 <a onclick="modifyYTiframeseektime('2339')">0:38:59</a> those that are constant in prayer and  
 <a onclick="modifyYTiframeseektime('2340')">0:39:00</a> render the purifying dues and bowed down  
 <a onclick="modifyYTiframeseektime('2343')">0:39:03</a> before god your true next translation  
@@ -1064,7 +1064,7 @@ Dr. Muhammad Al Massari discusses the importance of understanding the Quran in i
 <a onclick="modifyYTiframeseektime('2391')">0:39:51</a> somewhere like in the festival and then  
 <a onclick="modifyYTiframeseektime('2393')">0:39:53</a> he comes  
 <a onclick="modifyYTiframeseektime('2394')">0:39:54</a> others  
-<a onclick="modifyYTiframeseektime('2396')">0:39:56</a> [Music]  
+<a onclick="modifyYTiframeseektime('2396')">0:39:56</a> Music  
 <a onclick="modifyYTiframeseektime('2400')">0:40:00</a> as individuals as a state society  
 <a onclick="modifyYTiframeseektime('2403')">0:40:03</a> will  
 <a onclick="modifyYTiframeseektime('2404')">0:40:04</a> organize and work in time  
@@ -1087,7 +1087,7 @@ Dr. Muhammad Al Massari discusses the importance of understanding the Quran in i
 <a onclick="modifyYTiframeseektime('2459')">0:40:59</a> so that's the when you're clean so if  
 <a onclick="modifyYTiframeseektime('2461')">0:41:01</a> you want is not constant that's a that's  
 <a onclick="modifyYTiframeseektime('2462')">0:41:02</a> not a good issue there is  
-<a onclick="modifyYTiframeseektime('2475')">0:41:15</a> [Music]  
+<a onclick="modifyYTiframeseektime('2475')">0:41:15</a> Music  
 <a onclick="modifyYTiframeseektime('2479')">0:41:19</a> these all details  
 <a onclick="modifyYTiframeseektime('2481')">0:41:21</a> okay  
 <a onclick="modifyYTiframeseektime('2482')">0:41:22</a> keep them purified protect them  
@@ -1119,8 +1119,8 @@ Dr. Muhammad Al Massari discusses the importance of understanding the Quran in i
 <a onclick="modifyYTiframeseektime('2558')">0:42:38</a> he is the center of sovereignty and  
 <a onclick="modifyYTiframeseektime('2559')">0:42:39</a> religions  
 <a onclick="modifyYTiframeseektime('2560')">0:42:40</a> he's a messenger as long as he lives  
-<a onclick="modifyYTiframeseektime('2564')">0:42:44</a> [Music]  
-<a onclick="modifyYTiframeseektime('2578')">0:42:58</a> [Music]  
+<a onclick="modifyYTiframeseektime('2564')">0:42:44</a> Music  
+<a onclick="modifyYTiframeseektime('2578')">0:42:58</a> Music  
 <a onclick="modifyYTiframeseektime('2607')">0:43:27</a> a ring which is valuable enough maybe a  
 <a onclick="modifyYTiframeseektime('2609')">0:43:29</a> silver to give it to anybody but anyway  
 <a onclick="modifyYTiframeseektime('2613')">0:43:33</a> yeah  
@@ -1146,7 +1146,7 @@ Dr. Muhammad Al Massari discusses the importance of understanding the Quran in i
 <a onclick="modifyYTiframeseektime('2668')">0:44:28</a> i promise  
 <a onclick="modifyYTiframeseektime('2669')">0:44:29</a> and take a high praise for those who are  
 <a onclick="modifyYTiframeseektime('2671')">0:44:31</a> alive  
-<a onclick="modifyYTiframeseektime('2679')">0:44:39</a> [Music]  
+<a onclick="modifyYTiframeseektime('2679')">0:44:39</a> Music  
 <a onclick="modifyYTiframeseektime('2681')">0:44:41</a> themselves with god and his apostle and  
 <a onclick="modifyYTiframeseektime('2682')">0:44:42</a> those who have attained to faith behold  
 <a onclick="modifyYTiframeseektime('2685')">0:44:45</a> it is a the partition partisans of god  
@@ -1234,7 +1234,7 @@ Dr. Muhammad Al Massari discusses the importance of understanding the Quran in i
 <a onclick="modifyYTiframeseektime('2879')">0:47:59</a> you have a picture translation i think  
 <a onclick="modifyYTiframeseektime('2881')">0:48:01</a> that have gone from the top secret  
 <a onclick="modifyYTiframeseektime('2884')">0:48:04</a> uh haven't gone with  
-<a onclick="modifyYTiframeseektime('2903')">0:48:23</a> [Music]  
+<a onclick="modifyYTiframeseektime('2903')">0:48:23</a> Music  
 <a onclick="modifyYTiframeseektime('2921')">0:48:41</a> protector guardian  
 <a onclick="modifyYTiframeseektime('2923')">0:48:43</a> warframe something like that just to  
 <a onclick="modifyYTiframeseektime('2925')">0:48:45</a> give all the three meaning of well that  
@@ -1345,7 +1345,7 @@ Dr. Muhammad Al Massari discusses the importance of understanding the Quran in i
 <a onclick="modifyYTiframeseektime('3202')">0:53:22</a> said there's a big gap  
 <a onclick="modifyYTiframeseektime('3203')">0:53:23</a> so fast time came so if you guessed it  
 <a onclick="modifyYTiframeseektime('3205')">0:53:25</a> was the election  
-<a onclick="modifyYTiframeseektime('3210')">0:53:30</a> [Music]  
+<a onclick="modifyYTiframeseektime('3210')">0:53:30</a> Music  
 <a onclick="modifyYTiframeseektime('3213')">0:53:33</a> and then  
 <a onclick="modifyYTiframeseektime('3215')">0:53:35</a> some girl was not noticing until  
 <a onclick="modifyYTiframeseektime('3218')">0:53:38</a> passed in front of me i tried to stop  
@@ -1454,12 +1454,12 @@ Dr. Muhammad Al Massari discusses the importance of understanding the Quran in i
 <a onclick="modifyYTiframeseektime('3521')">0:58:41</a> by hadith  
 <a onclick="modifyYTiframeseektime('3524')">0:58:44</a> on the various and the ayah which will  
 <a onclick="modifyYTiframeseektime('3526')">0:58:46</a> come later on in october  
-<a onclick="modifyYTiframeseektime('3529')">0:58:49</a> [Music]  
+<a onclick="modifyYTiframeseektime('3529')">0:58:49</a> Music  
 <a onclick="modifyYTiframeseektime('3538')">0:58:58</a> these are indeed worse and far farther  
 <a onclick="modifyYTiframeseektime('3540')">0:59:00</a> away from the right life not those who  
 <a onclick="modifyYTiframeseektime('3542')">0:59:02</a> believe in  
-<a onclick="modifyYTiframeseektime('3548')">0:59:08</a> [Music]  
-<a onclick="modifyYTiframeseektime('3569')">0:59:29</a> [Music]  
+<a onclick="modifyYTiframeseektime('3548')">0:59:08</a> Music  
+<a onclick="modifyYTiframeseektime('3569')">0:59:29</a> Music  
 <a onclick="modifyYTiframeseektime('3571')">0:59:31</a> unto you they say we believe whereas in  
 <a onclick="modifyYTiframeseektime('3573')">0:59:33</a> fact they come with the result to deny  
 <a onclick="modifyYTiframeseektime('3575')">0:59:35</a> the truth and depart in the same state  
@@ -1546,7 +1546,7 @@ Dr. Muhammad Al Massari discusses the importance of understanding the Quran in i
 <a onclick="modifyYTiframeseektime('3777')">1:02:57</a> committed  
 <a onclick="modifyYTiframeseektime('3779')">1:02:59</a> their people who are religiously  
 <a onclick="modifyYTiframeseektime('3780')">1:03:00</a> motivated  
-<a onclick="modifyYTiframeseektime('3800')">1:03:20</a> [Music]  
+<a onclick="modifyYTiframeseektime('3800')">1:03:20</a> Music  
 <a onclick="modifyYTiframeseektime('3806')">1:03:26</a> but because of taxation how much money  
 <a onclick="modifyYTiframeseektime('3808')">1:03:28</a> is coming at him so all these categories  
 <a onclick="modifyYTiframeseektime('3810')">1:03:30</a> that  
@@ -1557,11 +1557,11 @@ Dr. Muhammad Al Massari discusses the importance of understanding the Quran in i
 <a onclick="modifyYTiframeseektime('3818')">1:03:38</a> caught with some problems so that's  
 <a onclick="modifyYTiframeseektime('3819')">1:03:39</a> that's what enforcing  
 <a onclick="modifyYTiframeseektime('3821')">1:03:41</a> fear of authorities and  
-<a onclick="modifyYTiframeseektime('3827')">1:03:47</a> [Music]  
+<a onclick="modifyYTiframeseektime('3827')">1:03:47</a> Music  
 <a onclick="modifyYTiframeseektime('3831')">1:03:51</a> devotion  
 <a onclick="modifyYTiframeseektime('3834')">1:03:54</a> and then even their  
 <a onclick="modifyYTiframeseektime('3835')">1:03:55</a> wrong transcribes are  
-<a onclick="modifyYTiframeseektime('3847')">1:04:07</a> [Music]  
+<a onclick="modifyYTiframeseektime('3847')">1:04:07</a> Music  
 <a onclick="modifyYTiframeseektime('3850')">1:04:10</a> forbid them to make simple assertions  
 <a onclick="modifyYTiframeseektime('3852')">1:04:12</a> and to swallow all that is evil  
 <a onclick="modifyYTiframeseektime('3854')">1:04:14</a> vile indeed is what they can trust next  
@@ -1613,7 +1613,7 @@ Dr. Muhammad Al Massari discusses the importance of understanding the Quran in i
 <a onclick="modifyYTiframeseektime('3957')">1:05:57</a> have been even worse than what you see  
 <a onclick="modifyYTiframeseektime('3958')">1:05:58</a> now i think that's a better  
 <a onclick="modifyYTiframeseektime('3961')">1:06:01</a> uh taking the weather  
-<a onclick="modifyYTiframeseektime('3966')">1:06:06</a> [Music]  
+<a onclick="modifyYTiframeseektime('3966')">1:06:06</a> Music  
 <a onclick="modifyYTiframeseektime('3967')">1:06:07</a> is rather  
 <a onclick="modifyYTiframeseektime('3969')">1:06:09</a> unlikely that  
 <a onclick="modifyYTiframeseektime('3971')">1:06:11</a> in the context where the gods men are  
@@ -1632,7 +1632,7 @@ Dr. Muhammad Al Massari discusses the importance of understanding the Quran in i
 <a onclick="modifyYTiframeseektime('4000')">1:06:40</a> least these guys are restraining a  
 <a onclick="modifyYTiframeseektime('4001')">1:06:41</a> little bit  
 <a onclick="modifyYTiframeseektime('4003')">1:06:43</a> under some one of their outrageous  
-<a onclick="modifyYTiframeseektime('4010')">1:06:50</a> [Music]  
+<a onclick="modifyYTiframeseektime('4010')">1:06:50</a> Music  
 <a onclick="modifyYTiframeseektime('4015')">1:06:55</a> foreign  
 <a onclick="modifyYTiframeseektime('4047')">1:07:27</a> and rejected by god are and rejected by  
 <a onclick="modifyYTiframeseektime('4050')">1:07:30</a> god are they because of their of this  
@@ -1794,7 +1794,7 @@ Dr. Muhammad Al Massari discusses the importance of understanding the Quran in i
 <a onclick="modifyYTiframeseektime('4404')">1:13:24</a> sometimes they did succeed in having one  
 <a onclick="modifyYTiframeseektime('4406')">1:13:26</a> or two wars but as a general rule  
 <a onclick="modifyYTiframeseektime('4409')">1:13:29</a> whatever were  
-<a onclick="modifyYTiframeseektime('4445')">1:14:05</a> [Music]  
+<a onclick="modifyYTiframeseektime('4445')">1:14:05</a> Music  
 <a onclick="modifyYTiframeseektime('4459')">1:14:19</a> yourself anytime they instigate any real  
 <a onclick="modifyYTiframeseektime('4461')">1:14:21</a> world allah extinguish it more that's it  
 <a onclick="modifyYTiframeseektime('4464')">1:14:24</a> and this will be the case  
@@ -1821,7 +1821,7 @@ Dr. Muhammad Al Massari discusses the importance of understanding the Quran in i
 <a onclick="modifyYTiframeseektime('4530')">1:15:30</a> but that's that's that's that's what the  
 <a onclick="modifyYTiframeseektime('4533')">1:15:33</a> devil does to this follower is to give  
 <a onclick="modifyYTiframeseektime('4535')">1:15:35</a> them to god for their own downfall  
-<a onclick="modifyYTiframeseektime('4548')">1:15:48</a> [Music]  
+<a onclick="modifyYTiframeseektime('4548')">1:15:48</a> Music  
 <a onclick="modifyYTiframeseektime('4549')">1:15:49</a> they saw corruption  
 <a onclick="modifyYTiframeseektime('4551')">1:15:51</a> corruption as he made nearly wars  
 <a onclick="modifyYTiframeseektime('4554')">1:15:54</a> mischief  
@@ -1830,7 +1830,7 @@ Dr. Muhammad Al Massari discusses the importance of understanding the Quran in i
 <a onclick="modifyYTiframeseektime('4558')">1:15:58</a> etcetera  
 <a onclick="modifyYTiframeseektime('4559')">1:15:59</a> possibly even even even  
 <a onclick="modifyYTiframeseektime('4562')">1:16:02</a> participating under  
-<a onclick="modifyYTiframeseektime('4564')">1:16:04</a> [Music]  
+<a onclick="modifyYTiframeseektime('4564')">1:16:04</a> Music  
 <a onclick="modifyYTiframeseektime('4566')">1:16:06</a> considerably involved in drug trades and  
 <a onclick="modifyYTiframeseektime('4568')">1:16:08</a> prostitutes and things like that which  
 <a onclick="modifyYTiframeseektime('4569')">1:16:09</a> is well known so all this is corruption  
@@ -1876,7 +1876,7 @@ Dr. Muhammad Al Massari discusses the importance of understanding the Quran in i
 <a onclick="modifyYTiframeseektime('4685')">1:18:05</a> but they never did that so the result  
 <a onclick="modifyYTiframeseektime('4687')">1:18:07</a> never happened  
 <a onclick="modifyYTiframeseektime('4689')">1:18:09</a> unfairly  
-<a onclick="modifyYTiframeseektime('4696')">1:18:16</a> [Music]  
+<a onclick="modifyYTiframeseektime('4696')">1:18:16</a> Music  
 <a onclick="modifyYTiframeseektime('4704')">1:18:24</a> gospel and all the revelation that's  
 <a onclick="modifyYTiframeseektime('4705')">1:18:25</a> been bestowed from on high upon them by  
 <a onclick="modifyYTiframeseektime('4707')">1:18:27</a> their sustainer they would indeed  
@@ -2151,7 +2151,7 @@ Dr. Muhammad Al Massari discusses the importance of understanding the Quran in i
 <a onclick="modifyYTiframeseektime('5301')">1:28:21</a> where you have various narratives  
 <a onclick="modifyYTiframeseektime('5304')">1:28:24</a> somewhat something highly controversial  
 <a onclick="modifyYTiframeseektime('5318')">1:28:38</a> so my best theory is the following  
-<a onclick="modifyYTiframeseektime('5322')">1:28:42</a> [Music]  
+<a onclick="modifyYTiframeseektime('5322')">1:28:42</a> Music  
 <a onclick="modifyYTiframeseektime('5335')">1:28:55</a> they support each other in a matter of  
 <a onclick="modifyYTiframeseektime('5336')">1:28:56</a> financial compensation and things like  
 <a onclick="modifyYTiframeseektime('5338')">1:28:58</a> that and he needed some help because at  
@@ -2386,7 +2386,7 @@ Dr. Muhammad Al Massari discusses the importance of understanding the Quran in i
 <a onclick="modifyYTiframeseektime('5945')">1:39:05</a> i urge you by allah  
 <a onclick="modifyYTiframeseektime('5948')">1:39:08</a> to guard them and to protect them and  
 <a onclick="modifyYTiframeseektime('5949')">1:39:09</a> surely  
-<a onclick="modifyYTiframeseektime('5957')">1:39:17</a> [Music]  
+<a onclick="modifyYTiframeseektime('5957')">1:39:17</a> Music  
 <a onclick="modifyYTiframeseektime('6007')">1:40:07</a> in the major books over 25 there  
 <a onclick="modifyYTiframeseektime('6010')">1:40:10</a> most of them would correct this not so  
 <a onclick="modifyYTiframeseektime('6012')">1:40:12</a> this is tawatur as the water close to  
@@ -2406,7 +2406,7 @@ Dr. Muhammad Al Massari discusses the importance of understanding the Quran in i
 <a onclick="modifyYTiframeseektime('6040')">1:40:40</a> started going public with the tower  
 <a onclick="modifyYTiframeseektime('6045')">1:40:45</a> the first step was to call the in the  
 <a onclick="modifyYTiframeseektime('6047')">1:40:47</a> iowa and the russians  
-<a onclick="modifyYTiframeseektime('6058')">1:40:58</a> [Music]  
+<a onclick="modifyYTiframeseektime('6058')">1:40:58</a> Music  
 <a onclick="modifyYTiframeseektime('6076')">1:41:16</a> of  
 <a onclick="modifyYTiframeseektime('6082')">1:41:22</a> very confusing and not very reliable but  
 <a onclick="modifyYTiframeseektime('6084')">1:41:24</a> they try to take the gist and assume the  
@@ -2514,7 +2514,7 @@ Dr. Muhammad Al Massari discusses the importance of understanding the Quran in i
 <a onclick="modifyYTiframeseektime('6424')">1:47:04</a> so he did not bother about anyone i  
 <a onclick="modifyYTiframeseektime('6427')">1:47:07</a> or mr hamilton is giving preference over  
 <a onclick="modifyYTiframeseektime('6429')">1:47:09</a> his son-in-law and his his nephew  
-<a onclick="modifyYTiframeseektime('6432')">1:47:12</a> [Music]  
+<a onclick="modifyYTiframeseektime('6432')">1:47:12</a> Music  
 <a onclick="modifyYTiframeseektime('6433')">1:47:13</a> his cousin and uh and  
 <a onclick="modifyYTiframeseektime('6435')">1:47:15</a> is willing to that we sacrifice and  
 <a onclick="modifyYTiframeseektime('6437')">1:47:17</a> behave with him no he didn't bother  
@@ -2593,7 +2593,7 @@ Dr. Muhammad Al Massari discusses the importance of understanding the Quran in i
 <a onclick="modifyYTiframeseektime('6613')">1:50:13</a> but come down because you are i am in  
 <a onclick="modifyYTiframeseektime('6615')">1:50:15</a> food and you are a horse that's not fair  
 <a onclick="modifyYTiframeseektime('6617')">1:50:17</a> to  
-<a onclick="modifyYTiframeseektime('6618')">1:50:18</a> [Music]  
+<a onclick="modifyYTiframeseektime('6618')">1:50:18</a> Music  
 <a onclick="modifyYTiframeseektime('6622')">1:50:22</a> up in his head he them out of the horse  
 <a onclick="modifyYTiframeseektime('6625')">1:50:25</a> and the two narration once he struck the  
 <a onclick="modifyYTiframeseektime('6626')">1:50:26</a> face of the horse that was  
@@ -2887,7 +2887,7 @@ Dr. Muhammad Al Massari discusses the importance of understanding the Quran in i
 <a onclick="modifyYTiframeseektime('7429')">2:03:49</a> reference my door is closer i say i  
 <a onclick="modifyYTiframeseektime('7431')">2:03:51</a> didn't open anything close allah is the  
 <a onclick="modifyYTiframeseektime('7432')">2:03:52</a> one who opens up  
-<a onclick="modifyYTiframeseektime('7445')">2:04:05</a> [Music]  
+<a onclick="modifyYTiframeseektime('7445')">2:04:05</a> Music  
 <a onclick="modifyYTiframeseektime('7447')">2:04:07</a> not respectful story literacy is it's  
 <a onclick="modifyYTiframeseektime('7449')">2:04:09</a> not worthy of respect the people who who  
 <a onclick="modifyYTiframeseektime('7451')">2:04:11</a> invent and stick to such stories they  
@@ -2905,7 +2905,7 @@ Dr. Muhammad Al Massari discusses the importance of understanding the Quran in i
 <a onclick="modifyYTiframeseektime('7473')">2:04:33</a> but not for the prophet if he's a  
 <a onclick="modifyYTiframeseektime('7475')">2:04:35</a> prophet discover if he's a  
 <a onclick="modifyYTiframeseektime('7490')">2:04:50</a> instead  
-<a onclick="modifyYTiframeseektime('7500')">2:05:00</a> [Music]  
+<a onclick="modifyYTiframeseektime('7500')">2:05:00</a> Music  
 <a onclick="modifyYTiframeseektime('7503')">2:05:03</a> his interpretation everything being  
 <a onclick="modifyYTiframeseektime('7506')">2:05:06</a> is it derived from that narration  
 <a onclick="modifyYTiframeseektime('7508')">2:05:08</a> yeah must be full  
@@ -3029,7 +3029,7 @@ Dr. Muhammad Al Massari discusses the importance of understanding the Quran in i
 <a onclick="modifyYTiframeseektime('7795')">2:09:55</a> extend it today too much but i think  
 <a onclick="modifyYTiframeseektime('7797')">2:09:57</a> it's very productive  
 <a onclick="modifyYTiframeseektime('7813')">2:10:13</a> i believe in women are believing  
-<a onclick="modifyYTiframeseektime('7815')">2:10:15</a> [Music]  
+<a onclick="modifyYTiframeseektime('7815')">2:10:15</a> Music  
 <a onclick="modifyYTiframeseektime('7816')">2:10:16</a> that they believe in male men and women  
 <a onclick="modifyYTiframeseektime('7818')">2:10:18</a> without what they have deserved because  
 <a onclick="modifyYTiframeseektime('7820')">2:10:20</a> they may be deserving  
@@ -3160,7 +3160,7 @@ Dr. Muhammad Al Massari discusses the importance of understanding the Quran in i
 <a onclick="modifyYTiframeseektime('8130')">2:15:30</a> the virtue of messenger he doesn't  
 <a onclick="modifyYTiframeseektime('8133')">2:15:33</a> ibrahim didn't have the virtual  
 <a onclick="modifyYTiframeseektime('8134')">2:15:34</a> merchandise  
-<a onclick="modifyYTiframeseektime('8138')">2:15:38</a> [Music]  
+<a onclick="modifyYTiframeseektime('8138')">2:15:38</a> Music  
 <a onclick="modifyYTiframeseektime('8148')">2:15:48</a> and most likely my speculation behind  
 <a onclick="modifyYTiframeseektime('8151')">2:15:51</a> zakaria is because he is  
 <a onclick="modifyYTiframeseektime('8154')">2:15:54</a> the cousin of risa  
@@ -3198,9 +3198,9 @@ Dr. Muhammad Al Massari discusses the importance of understanding the Quran in i
 <a onclick="modifyYTiframeseektime('8246')">2:17:26</a> difference between your yours and  
 <a onclick="modifyYTiframeseektime('8248')">2:17:28</a> aphasia's quality foreign  
 <a onclick="modifyYTiframeseektime('8264')">2:17:44</a> foreign  
-<a onclick="modifyYTiframeseektime('8271')">2:17:51</a> [Music]  
+<a onclick="modifyYTiframeseektime('8271')">2:17:51</a> Music  
 <a onclick="modifyYTiframeseektime('8306')">2:18:26</a> my  
-<a onclick="modifyYTiframeseektime('8308')">2:18:28</a> [Music]  
-<a onclick="modifyYTiframeseektime('8328')">2:18:48</a> [Music]  
+<a onclick="modifyYTiframeseektime('8308')">2:18:28</a> Music  
+<a onclick="modifyYTiframeseektime('8328')">2:18:48</a> Music  
 <a onclick="modifyYTiframeseektime('8337')">2:18:57</a> you  
 </details>

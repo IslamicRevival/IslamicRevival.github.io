@@ -17,7 +17,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 ## Summary of [115 Tafseer ul Quran Surat Al-An'am Professor Dr Muhammad AL MASSARI](https://www.youtube.com/watch?v=ua0NPx57288)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -70,9 +70,9 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00</a> [Music]  
+<a onclick="modifyYTiframeseektime('0')">0:00:00</a> Music  
 <a onclick="modifyYTiframeseektime('3')">0:00:03</a> foreign  
-<a onclick="modifyYTiframeseektime('8')">0:00:08</a> [Music]  
+<a onclick="modifyYTiframeseektime('8')">0:00:08</a> Music  
 <a onclick="modifyYTiframeseektime('27')">0:00:27</a> sisters to session 115 of our weekly  
 <a onclick="modifyYTiframeseektime('31')">0:00:31</a> sessions of the noble Quran with  
 <a onclick="modifyYTiframeseektime('33')">0:00:33</a> Professor Dr muhammadin Abdullah  
@@ -3182,7 +3182,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <a onclick="modifyYTiframeseektime('7556')">2:05:56</a> is actually originally was something  
 <a onclick="modifyYTiframeseektime('7560')">2:06:00</a> most likely  
 <a onclick="modifyYTiframeseektime('7563')">2:06:03</a> foreign  
-<a onclick="modifyYTiframeseektime('7588')">2:06:28</a> [Music]  
+<a onclick="modifyYTiframeseektime('7588')">2:06:28</a> Music  
 <a onclick="modifyYTiframeseektime('7611')">2:06:51</a> but I wouldn't stuck with that point but  
 <a onclick="modifyYTiframeseektime('7614')">2:06:54</a> if if the audience come with that then  
 <a onclick="modifyYTiframeseektime('7616')">2:06:56</a> they just say some gentlemen sorry guys  
@@ -3782,10 +3782,10 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <a onclick="modifyYTiframeseektime('9020')">2:30:20</a> but I like the number 13 is a blessed  
 <a onclick="modifyYTiframeseektime('9022')">2:30:22</a> number  
 <a onclick="modifyYTiframeseektime('9023')">2:30:23</a> okay Allah  
-<a onclick="modifyYTiframeseektime('9033')">2:30:33</a> [Music]  
+<a onclick="modifyYTiframeseektime('9033')">2:30:33</a> Music  
 <a onclick="modifyYTiframeseektime('9044')">2:30:44</a> foreign  
-<a onclick="modifyYTiframeseektime('9045')">2:30:45</a> [Music]  
+<a onclick="modifyYTiframeseektime('9045')">2:30:45</a> Music  
 <a onclick="modifyYTiframeseektime('9074')">2:31:14</a> foreign  
-<a onclick="modifyYTiframeseektime('9077')">2:31:17</a> [Music]  
-<a onclick="modifyYTiframeseektime('9093')">2:31:33</a> [Music]  
+<a onclick="modifyYTiframeseektime('9077')">2:31:17</a> Music  
+<a onclick="modifyYTiframeseektime('9093')">2:31:33</a> Music  
 </details>

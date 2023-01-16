@@ -10,7 +10,7 @@ Principle of Sufficient Reason and the Infinite Regress   1
 
 ## Summary of [Principle of Sufficient Reason and the Infinite Regress 1](https://www.youtube.com/watch?v=s1M1TfxIhSQ)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -38,7 +38,7 @@ Principle of Sufficient Reason and the Infinite Regress   1
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00</a> [Music]  
+<a onclick="modifyYTiframeseektime('0')">0:00:00</a> Music  
 <a onclick="modifyYTiframeseektime('20')">0:00:20</a> good evening morning everyone salaam  
 <a onclick="modifyYTiframeseektime('22')">0:00:22</a> alaikum for all our  
 <a onclick="modifyYTiframeseektime('24')">0:00:24</a> muslim audience  
@@ -67,7 +67,7 @@ Principle of Sufficient Reason and the Infinite Regress   1
 <a onclick="modifyYTiframeseektime('75')">0:01:15</a> definition of  
 <a onclick="modifyYTiframeseektime('78')">0:01:18</a> the principle of sufficient treason  
 <a onclick="modifyYTiframeseektime('80')">0:01:20</a> please professor  
-<a onclick="modifyYTiframeseektime('90')">0:01:30</a> [Music]  
+<a onclick="modifyYTiframeseektime('90')">0:01:30</a> Music  
 <a onclick="modifyYTiframeseektime('92')">0:01:32</a> which was one of the most important  
 <a onclick="modifyYTiframeseektime('94')">0:01:34</a> professor your voice is not very good  
 <a onclick="modifyYTiframeseektime('96')">0:01:36</a> it's a little bit echoey  
@@ -1779,11 +1779,11 @@ Principle of Sufficient Reason and the Infinite Regress   1
 <a onclick="modifyYTiframeseektime('3763')">1:02:43</a> intriguing we'll not spend more time on  
 <a onclick="modifyYTiframeseektime('3765')">1:02:45</a> that but it has some nice aspects  
 <a onclick="modifyYTiframeseektime('3768')">1:02:48</a> perfect  
-<a onclick="modifyYTiframeseektime('3775')">1:02:55</a> [Music]  
-<a onclick="modifyYTiframeseektime('3781')">1:03:01</a> [Music]  
+<a onclick="modifyYTiframeseektime('3775')">1:02:55</a> Music  
+<a onclick="modifyYTiframeseektime('3781')">1:03:01</a> Music  
 <a onclick="modifyYTiframeseektime('3811')">1:03:31</a> foreign  
-<a onclick="modifyYTiframeseektime('3812')">1:03:32</a> [Music]  
+<a onclick="modifyYTiframeseektime('3812')">1:03:32</a> Music  
 <a onclick="modifyYTiframeseektime('3826')">1:03:46</a> so  
-<a onclick="modifyYTiframeseektime('3832')">1:03:52</a> [Music]  
+<a onclick="modifyYTiframeseektime('3832')">1:03:52</a> Music  
 <a onclick="modifyYTiframeseektime('3842')">1:04:02</a> you  
 </details>

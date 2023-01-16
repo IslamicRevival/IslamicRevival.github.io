@@ -17,7 +17,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 ## Summary of [110 Tafseer ul Quran Surat Al Ma'idah Professor Dr Muhammad AL MASSARI](https://www.youtube.com/watch?v=xo6GuYlZeSg)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -81,9 +81,9 @@ the professor discusses how time can be viewed as a possibility, and how knowled
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('6')">0:00:06</a> [Music]  
+<a onclick="modifyYTiframeseektime('6')">0:00:06</a> Music  
 <a onclick="modifyYTiframeseektime('19')">0:00:19</a> thank you  
-<a onclick="modifyYTiframeseektime('20')">0:00:20</a> [Music]  
+<a onclick="modifyYTiframeseektime('20')">0:00:20</a> Music  
 <a onclick="modifyYTiframeseektime('35')">0:00:35</a> welcome dear visit the viewers brothers  
 <a onclick="modifyYTiframeseektime('38')">0:00:38</a> and sisters to episode 110 over the  
 <a onclick="modifyYTiframeseektime('40')">0:00:40</a> first sessions of the noble Quran with  
@@ -4607,10 +4607,10 @@ the professor discusses how time can be viewed as a possibility, and how knowled
 <a onclick="modifyYTiframeseektime('10854')">3:00:54</a> next weekend  
 <a onclick="modifyYTiframeseektime('10864')">3:01:04</a> for next week  
 <a onclick="modifyYTiframeseektime('10865')">3:01:05</a> definitely  
-<a onclick="modifyYTiframeseektime('10867')">3:01:07</a> [Music]  
-<a onclick="modifyYTiframeseektime('10894')">3:01:34</a> [Music]  
-<a onclick="modifyYTiframeseektime('10899')">3:01:39</a> [Music]  
+<a onclick="modifyYTiframeseektime('10867')">3:01:07</a> Music  
+<a onclick="modifyYTiframeseektime('10894')">3:01:34</a> Music  
+<a onclick="modifyYTiframeseektime('10899')">3:01:39</a> Music  
 <a onclick="modifyYTiframeseektime('10903')">3:01:43</a> foreign  
-<a onclick="modifyYTiframeseektime('10909')">3:01:49</a> [Music]  
-<a onclick="modifyYTiframeseektime('10917')">3:01:57</a> [Music]  
+<a onclick="modifyYTiframeseektime('10909')">3:01:49</a> Music  
+<a onclick="modifyYTiframeseektime('10917')">3:01:57</a> Music  
 </details>

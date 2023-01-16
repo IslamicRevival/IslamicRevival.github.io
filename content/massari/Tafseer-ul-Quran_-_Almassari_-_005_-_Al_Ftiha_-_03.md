@@ -16,7 +16,7 @@ We want to recommend Kitab ut-Tawheed: The Basis of Islam and the Reality of Mon
 
 ## Summary of [Tafseer-ul-Quran - Almassari - 005 - Al Fātiha - 03](https://www.youtube.com/watch?v=DrMf0P_DZgA)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -46,7 +46,7 @@ of the video discusses how people can end up in trouble if they do not follow Al
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00</a> [Music]  
+<a onclick="modifyYTiframeseektime('0')">0:00:00</a> Music  
 <a onclick="modifyYTiframeseektime('55')">0:00:55</a> some linguistics aspects and so on but  
 <a onclick="modifyYTiframeseektime('57')">0:00:57</a> not extremely extensive we don't  
 <a onclick="modifyYTiframeseektime('58')">0:00:58</a> know when to make it throughout the  
@@ -864,7 +864,7 @@ of the video discusses how people can end up in trouble if they do not follow Al
 <a onclick="modifyYTiframeseektime('1856')">0:30:56</a> democratic liberal philosophy  
 <a onclick="modifyYTiframeseektime('1858')">0:30:58</a> we will discuss that one day when time  
 <a onclick="modifyYTiframeseektime('1860')">0:31:00</a> comes but  
-<a onclick="modifyYTiframeseektime('1860')">0:31:00</a> [Music]  
+<a onclick="modifyYTiframeseektime('1860')">0:31:00</a> Music  
 <a onclick="modifyYTiframeseektime('1862')">0:31:02</a> so the the the  
 <a onclick="modifyYTiframeseektime('1865')">0:31:05</a> this is very significant  
 <a onclick="modifyYTiframeseektime('1871')">0:31:11</a> they have been commanded to wish only  
@@ -1259,8 +1259,8 @@ of the video discusses how people can end up in trouble if they do not follow Al
 <a onclick="modifyYTiframeseektime('2685')">0:44:45</a> will be shared  
 <a onclick="modifyYTiframeseektime('2686')">0:44:46</a> we'll be covered as we take you after  
 <a onclick="modifyYTiframeseektime('2687')">0:44:47</a> the hold of islam he will  
-<a onclick="modifyYTiframeseektime('2692')">0:44:52</a> [Music]  
-<a onclick="modifyYTiframeseektime('2697')">0:44:57</a> [Music]  
+<a onclick="modifyYTiframeseektime('2692')">0:44:52</a> Music  
+<a onclick="modifyYTiframeseektime('2697')">0:44:57</a> Music  
 <a onclick="modifyYTiframeseektime('2699')">0:44:59</a> some of it is recommended to do like  
 <a onclick="modifyYTiframeseektime('2701')">0:45:01</a> taking help from your own capability of  
 <a onclick="modifyYTiframeseektime('2702')">0:45:02</a> endurance and self  
@@ -1683,7 +1683,7 @@ of the video discusses how people can end up in trouble if they do not follow Al
 <a onclick="modifyYTiframeseektime('3549')">0:59:09</a> that is not the favored one  
 <a onclick="modifyYTiframeseektime('3554')">0:59:14</a> not those who contracted the divine  
 <a onclick="modifyYTiframeseektime('3555')">0:59:15</a> wrath and usually you  
-<a onclick="modifyYTiframeseektime('3562')">0:59:22</a> [Music]  
+<a onclick="modifyYTiframeseektime('3562')">0:59:22</a> Music  
 <a onclick="modifyYTiframeseektime('3571')">0:59:31</a> translated or mentioned that it is like  
 <a onclick="modifyYTiframeseektime('3573')">0:59:33</a> the jews  
 <a onclick="modifyYTiframeseektime('3574')">0:59:34</a> not only the user many other contracted  

@@ -17,7 +17,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 ## Summary of [105 Tafseer ul Quran Surat Al Ma'idah Professor Dr Muhammad AL MASSARI](https://www.youtube.com/watch?v=ToGqEyvWelU)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -45,7 +45,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 * **<a onclick="modifyYTiframeseektime('3900')">01:05:00</a>** Discusses the difference between murder and genocide, and how a person can be guilty of either without justification. It also discusses the justification for waging war, and how it differs based on the type of war being waged.
 * **<a onclick="modifyYTiframeseektime('4200')">01:10:00</a>** The narrator discusses a Hadith in which a man was executed for marrying his father's wife. He points out that this is not zina, as the man was doing it in a closed setting, and that it is not an act of war, as the man was only using force to rape the woman. He then goes on to discuss a situation in which someone is dealing in usury (i.e. making a profit from loans). He explains that this is a declaration of war, as the person is challenging the Islamic order. If the person is caught, they may be punished by sharia law.
-* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** Discusses how, even though there are strict laws against homosexuality in some Muslim countries, there are still "many of the jews [especially their kings and leaders] they are committing excesses on earth...some also most of their kings are having such a bloody history that's just defies belief."  then concludes with a 10 for Allah, because Allah is the only one who can help those who wage war and two of us.
+* **<a onclick="modifyYTiframeseektime('4500')">01:15:00</a>** Discusses how, even though there are strict laws against homosexuality in some Muslim countries, there are still "many of the jews especially their kings and leaders they are committing excesses on earth...some also most of their kings are having such a bloody history that's just defies belief."  then concludes with a 10 for Allah, because Allah is the only one who can help those who wage war and two of us.
 * **<a onclick="modifyYTiframeseektime('4800')">01:20:00</a>**  a professor discusses the various punishments that may be inflicted on those who wage war against Allah and His Messenger. Crucifixion, amputation of hands and feet, and exile from the Islamic domain are all mentioned as possible punishments.
 * **<a onclick="modifyYTiframeseektime('5100')">01:25:00</a>** discusses a story about a group of people who apostatized and punished one another. The punishment the group inflicted on the camel god was particularly brutal.
 * **<a onclick="modifyYTiframeseektime('5400')">01:30:00</a>**  Professor Dr. Muhammad Al Massari discusses the punishment in Surat Al Ma'idah for those who wage war against God. He explains that this punishment is severe, and that those who repent before being apprehended will receive a preferential treatment. He also points out that this punishment is unique among the verses of the Quran, and that it is necessary to develop a strict formal way of legalistically executing those who have committed crimes. He emphasizes the importance of a new Islamic authority which is enlightened and up to the standards of modern times in crafting a law regarding this punishment.
@@ -69,7 +69,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('30')">0:00:30</a> [Music]  
+<a onclick="modifyYTiframeseektime('30')">0:00:30</a> Music  
 <a onclick="modifyYTiframeseektime('60')">0:01:00</a> we meet you dear viewers brothers and  
 <a onclick="modifyYTiframeseektime('62')">0:01:02</a> sisters on episode 105 of the weekly  
 <a onclick="modifyYTiframeseektime('65')">0:01:05</a> series series  
@@ -97,7 +97,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <a onclick="modifyYTiframeseektime('110')">0:01:50</a> of august we continue the theater of  
 <a onclick="modifyYTiframeseektime('112')">0:01:52</a> certain minder  
 <a onclick="modifyYTiframeseektime('114')">0:01:54</a> verse  
-<a onclick="modifyYTiframeseektime('114')">0:01:54</a> [Music]  
+<a onclick="modifyYTiframeseektime('114')">0:01:54</a> Music  
 <a onclick="modifyYTiframeseektime('116')">0:01:56</a> the verse we are currently on  
 <a onclick="modifyYTiframeseektime('118')">0:01:58</a> is  
 <a onclick="modifyYTiframeseektime('121')">0:02:01</a> number 19 verse 18  
@@ -1298,7 +1298,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <a onclick="modifyYTiframeseektime('2756')">0:45:56</a> you know we did not do anything with  
 <a onclick="modifyYTiframeseektime('2757')">0:45:57</a> this  
 <a onclick="modifyYTiframeseektime('2758')">0:45:58</a> nothing the it's outdoor  
-<a onclick="modifyYTiframeseektime('2759')">0:45:59</a> [Laughter]  
+<a onclick="modifyYTiframeseektime('2759')">0:45:59</a> Laughter  
 <a onclick="modifyYTiframeseektime('2761')">0:46:01</a> these people are just jokers  
 <a onclick="modifyYTiframeseektime('2763')">0:46:03</a> they're thinking allah is stupid and  
 <a onclick="modifyYTiframeseektime('2764')">0:46:04</a> they can't play with him that kids  
@@ -3356,7 +3356,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <a onclick="modifyYTiframeseektime('7360')">2:02:40</a> yeah  
 <a onclick="modifyYTiframeseektime('7361')">2:02:41</a> i can change through  
 <a onclick="modifyYTiframeseektime('7364')">2:02:44</a> the problem  
-<a onclick="modifyYTiframeseektime('7365')">2:02:45</a> [Music]  
+<a onclick="modifyYTiframeseektime('7365')">2:02:45</a> Music  
 <a onclick="modifyYTiframeseektime('7367')">2:02:47</a> that's it so it is  
 <a onclick="modifyYTiframeseektime('7368')">2:02:48</a> that's not possible that's that's not  
 <a onclick="modifyYTiframeseektime('7370')">2:02:50</a> the right there's not even authority  
@@ -4061,11 +4061,11 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <a onclick="modifyYTiframeseektime('8834')">2:27:14</a> okay  
 <a onclick="modifyYTiframeseektime('8835')">2:27:15</a> any further questions  
 <a onclick="modifyYTiframeseektime('8840')">2:27:20</a> until next week  
-<a onclick="modifyYTiframeseektime('8850')">2:27:30</a> [Music]  
-<a onclick="modifyYTiframeseektime('8875')">2:27:55</a> [Music]  
-<a onclick="modifyYTiframeseektime('8881')">2:28:01</a> [Music]  
+<a onclick="modifyYTiframeseektime('8850')">2:27:30</a> Music  
+<a onclick="modifyYTiframeseektime('8875')">2:27:55</a> Music  
+<a onclick="modifyYTiframeseektime('8881')">2:28:01</a> Music  
 <a onclick="modifyYTiframeseektime('8889')">2:28:09</a> foreign  
-<a onclick="modifyYTiframeseektime('8890')">2:28:10</a> [Music]  
-<a onclick="modifyYTiframeseektime('8898')">2:28:18</a> [Music]  
+<a onclick="modifyYTiframeseektime('8890')">2:28:10</a> Music  
+<a onclick="modifyYTiframeseektime('8898')">2:28:18</a> Music  
 <a onclick="modifyYTiframeseektime('8918')">2:28:38</a> foreign  
 </details>

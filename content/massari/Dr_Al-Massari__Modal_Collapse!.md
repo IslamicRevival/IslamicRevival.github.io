@@ -12,7 +12,7 @@ Modal Collapse
 
 ## Summary of [Dr Al-Massari: Modal Collapse?!](https://www.youtube.com/watch?v=K9ZEKZKenjw)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -70,7 +70,7 @@ Discusses the idea of modal collapse, or the idea that the physical reality may 
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00</a> [Music]  
+<a onclick="modifyYTiframeseektime('0')">0:00:00</a> Music  
 <a onclick="modifyYTiframeseektime('24')">0:00:24</a> welcome everyone  
 <a onclick="modifyYTiframeseektime('26')">0:00:26</a> to yeah  
 <a onclick="modifyYTiframeseektime('30')">0:00:30</a> logical matters we can  
@@ -3992,7 +3992,7 @@ Discusses the idea of modal collapse, or the idea that the physical reality may 
 <a onclick="modifyYTiframeseektime('8504')">2:21:44</a> just like motor collapse is just going  
 <a onclick="modifyYTiframeseektime('8506')">2:21:46</a> to follow from that  
 <a onclick="modifyYTiframeseektime('8509')">2:21:49</a> um  
-<a onclick="modifyYTiframeseektime('8509')">2:21:49</a> [Music]  
+<a onclick="modifyYTiframeseektime('8509')">2:21:49</a> Music  
 <a onclick="modifyYTiframeseektime('8511')">2:21:51</a> because there's a problem with that  
 <a onclick="modifyYTiframeseektime('8513')">2:21:53</a> yeah yeah so what's the problem with  
 <a onclick="modifyYTiframeseektime('8515')">2:21:55</a> that  
@@ -4968,9 +4968,9 @@ Discusses the idea of modal collapse, or the idea that the physical reality may 
 <a onclick="modifyYTiframeseektime('10680')">2:58:00</a> have a good night and  
 <a onclick="modifyYTiframeseektime('10682')">2:58:02</a> dreams week same time  
 <a onclick="modifyYTiframeseektime('10682')">2:58:02</a> we'll meet each sweet  
-<a onclick="modifyYTiframeseektime('10690')">2:58:10</a> [Music]  
+<a onclick="modifyYTiframeseektime('10690')">2:58:10</a> Music  
 <a onclick="modifyYTiframeseektime('10728')">2:58:48</a> foreign  
-<a onclick="modifyYTiframeseektime('10730')">2:58:50</a> [Music]  
-<a onclick="modifyYTiframeseektime('10750')">2:59:10</a> [Music]  
+<a onclick="modifyYTiframeseektime('10730')">2:58:50</a> Music  
+<a onclick="modifyYTiframeseektime('10750')">2:59:10</a> Music  
 <a onclick="modifyYTiframeseektime('10759')">2:59:19</a> you  
 </details>

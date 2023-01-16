@@ -15,7 +15,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 ## Summary of [Tafseer-ul-Quran - Almassari - 007 - Al-Baqara - 01 - تفسير سورة البقرة](https://www.youtube.com/watch?v=XvB_26A3X5E)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -43,7 +43,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00</a> [Music]  
+<a onclick="modifyYTiframeseektime('0')">0:00:00</a> Music  
 <a onclick="modifyYTiframeseektime('29')">0:00:29</a> or the two second  
 <a onclick="modifyYTiframeseektime('30')">0:00:30</a> the first layers of meaning  
 <a onclick="modifyYTiframeseektime('33')">0:00:33</a> of certain fact how we have covered  
@@ -125,7 +125,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <a onclick="modifyYTiframeseektime('276')">0:04:36</a> layers of meanings  
 <a onclick="modifyYTiframeseektime('277')">0:04:37</a> uh so this is uh there's a better it's  
 <a onclick="modifyYTiframeseektime('280')">0:04:40</a> not  
-<a onclick="modifyYTiframeseektime('302')">0:05:02</a> [Music]  
+<a onclick="modifyYTiframeseektime('302')">0:05:02</a> Music  
 <a onclick="modifyYTiframeseektime('308')">0:05:08</a> if i would have uh adopt a close friend  
 <a onclick="modifyYTiframeseektime('311')">0:05:11</a> or a close ally i would adopt abu bakr  
 <a onclick="modifyYTiframeseektime('313')">0:05:13</a> but your myself meaning himself your  
@@ -942,7 +942,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <a onclick="modifyYTiframeseektime('2195')">0:36:35</a> it was half writing although you find it  
 <a onclick="modifyYTiframeseektime('2196')">0:36:36</a> off written this way that's not the  
 <a onclick="modifyYTiframeseektime('2198')">0:36:38</a> correct wrong  
-<a onclick="modifyYTiframeseektime('2202')">0:36:42</a> [Music]  
+<a onclick="modifyYTiframeseektime('2202')">0:36:42</a> Music  
 <a onclick="modifyYTiframeseektime('2211')">0:36:51</a> even a silent alif is there everything  
 <a onclick="modifyYTiframeseektime('2213')">0:36:53</a> is there and the only ayah which has  
 <a onclick="modifyYTiframeseektime('2216')">0:36:56</a> oral if you check all the quran you will  
@@ -1490,19 +1490,19 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <a onclick="modifyYTiframeseektime('3477')">0:57:57</a> more about the program kappa  
 <a onclick="modifyYTiframeseektime('3479')">0:57:59</a> and issues related to them and then  
 <a onclick="modifyYTiframeseektime('3481')">0:58:01</a> we'll continue with the ayats inshallah  
-<a onclick="modifyYTiframeseektime('3495')">0:58:15</a> [Music]  
-<a onclick="modifyYTiframeseektime('3511')">0:58:31</a> [Music]  
-<a onclick="modifyYTiframeseektime('3522')">0:58:42</a> [Music]  
-<a onclick="modifyYTiframeseektime('3536')">0:58:56</a> [Music]  
-<a onclick="modifyYTiframeseektime('3549')">0:59:09</a> [Music]  
+<a onclick="modifyYTiframeseektime('3495')">0:58:15</a> Music  
+<a onclick="modifyYTiframeseektime('3511')">0:58:31</a> Music  
+<a onclick="modifyYTiframeseektime('3522')">0:58:42</a> Music  
+<a onclick="modifyYTiframeseektime('3536')">0:58:56</a> Music  
+<a onclick="modifyYTiframeseektime('3549')">0:59:09</a> Music  
 <a onclick="modifyYTiframeseektime('3556')">0:59:16</a> foreign  
-<a onclick="modifyYTiframeseektime('3564')">0:59:24</a> [Music]  
+<a onclick="modifyYTiframeseektime('3564')">0:59:24</a> Music  
 <a onclick="modifyYTiframeseektime('3570')">0:59:30</a> foreign  
-<a onclick="modifyYTiframeseektime('3587')">0:59:47</a> [Music]  
+<a onclick="modifyYTiframeseektime('3587')">0:59:47</a> Music  
 <a onclick="modifyYTiframeseektime('3598')">0:59:58</a> foreign  
-<a onclick="modifyYTiframeseektime('3602')">1:00:02</a> [Music]  
-<a onclick="modifyYTiframeseektime('3610')">1:00:10</a> [Music]  
+<a onclick="modifyYTiframeseektime('3602')">1:00:02</a> Music  
+<a onclick="modifyYTiframeseektime('3610')">1:00:10</a> Music  
 <a onclick="modifyYTiframeseektime('3612')">1:00:12</a> foreign  
-<a onclick="modifyYTiframeseektime('3616')">1:00:16</a> [Music]  
+<a onclick="modifyYTiframeseektime('3616')">1:00:16</a> Music  
 <a onclick="modifyYTiframeseektime('3632')">1:00:32</a> you  
 </details>

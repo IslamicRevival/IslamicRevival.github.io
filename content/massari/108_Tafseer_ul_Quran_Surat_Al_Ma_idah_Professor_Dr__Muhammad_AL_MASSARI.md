@@ -17,7 +17,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 ## Summary of [108 Tafseer ul Quran Surat Al Ma'idah Professor Dr Muhammad AL MASSARI](https://www.youtube.com/watch?v=ZdoBJfKyAZc)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -66,7 +66,7 @@ in this video discusses the different types of contracts a Muslim may enter into
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('6')">0:00:06</a> [Music]  
+<a onclick="modifyYTiframeseektime('6')">0:00:06</a> Music  
 <a onclick="modifyYTiframeseektime('30')">0:00:30</a> okay  
 <a onclick="modifyYTiframeseektime('46')">0:00:46</a> um  
 <a onclick="modifyYTiframeseektime('64')">0:01:04</a> welcome dear brothers and sisters and  
@@ -1383,7 +1383,7 @@ in this video discusses the different types of contracts a Muslim may enter into
 <a onclick="modifyYTiframeseektime('2919')">0:48:39</a> they will be facing severe punishment  
 <a onclick="modifyYTiframeseektime('2923')">0:48:43</a> and an invitation for them to repent and  
 <a onclick="modifyYTiframeseektime('2925')">0:48:45</a> leave this  
-<a onclick="modifyYTiframeseektime('2935')">0:48:55</a> [Music]  
+<a onclick="modifyYTiframeseektime('2935')">0:48:55</a> Music  
 <a onclick="modifyYTiframeseektime('2941')">0:49:01</a> not then  
 <a onclick="modifyYTiframeseektime('2943')">0:49:03</a> turn towards god in repentance and ask  
 <a onclick="modifyYTiframeseektime('2945')">0:49:05</a> his forgiveness for god is much  
@@ -3007,7 +3007,7 @@ in this video discusses the different types of contracts a Muslim may enter into
 <a onclick="modifyYTiframeseektime('6449')">1:47:29</a> islamia and  
 <a onclick="modifyYTiframeseektime('6451')">1:47:31</a> their differences exactly and this will  
 <a onclick="modifyYTiframeseektime('6453')">1:47:33</a> be also discussed inshallah in  
-<a onclick="modifyYTiframeseektime('6459')">1:47:39</a> [Music]  
+<a onclick="modifyYTiframeseektime('6459')">1:47:39</a> Music  
 <a onclick="modifyYTiframeseektime('6462')">1:47:42</a> what we just said is the spiritual  
 <a onclick="modifyYTiframeseektime('6465')">1:47:45</a> brotherhood exactly and and also the  
 <a onclick="modifyYTiframeseektime('6468')">1:47:48</a> political brotherhood because allah also  
@@ -3710,12 +3710,12 @@ in this video discusses the different types of contracts a Muslim may enter into
 <a onclick="modifyYTiframeseektime('7961')">2:12:41</a> okay  
 <a onclick="modifyYTiframeseektime('7962')">2:12:42</a> thank you  
 <a onclick="modifyYTiframeseektime('7965')">2:12:45</a> muhammad  
-<a onclick="modifyYTiframeseektime('7977')">2:12:57</a> [Music]  
-<a onclick="modifyYTiframeseektime('8002')">2:13:22</a> [Music]  
-<a onclick="modifyYTiframeseektime('8007')">2:13:27</a> [Music]  
+<a onclick="modifyYTiframeseektime('7977')">2:12:57</a> Music  
+<a onclick="modifyYTiframeseektime('8002')">2:13:22</a> Music  
+<a onclick="modifyYTiframeseektime('8007')">2:13:27</a> Music  
 <a onclick="modifyYTiframeseektime('8015')">2:13:35</a> foreign  
-<a onclick="modifyYTiframeseektime('8017')">2:13:37</a> [Music]  
+<a onclick="modifyYTiframeseektime('8017')">2:13:37</a> Music  
 <a onclick="modifyYTiframeseektime('8026')">2:13:46</a> so  
-<a onclick="modifyYTiframeseektime('8030')">2:13:50</a> [Music]  
+<a onclick="modifyYTiframeseektime('8030')">2:13:50</a> Music  
 <a onclick="modifyYTiframeseektime('8045')">2:14:05</a> you  
 </details>

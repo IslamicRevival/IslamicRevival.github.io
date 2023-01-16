@@ -17,7 +17,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 ## Summary of [119 Tafseer ul Quran Surat Al-An'am Professor Dr Muhammad AL MASSARI](https://www.youtube.com/watch?v=Xmkzx6WJ3VM)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -56,7 +56,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('2')">0:00:02</a> [Music]  
+<a onclick="modifyYTiframeseektime('2')">0:00:02</a> Music  
 <a onclick="modifyYTiframeseektime('16')">0:00:16</a> thank you  
 <a onclick="modifyYTiframeseektime('26')">0:00:26</a> myself  
 <a onclick="modifyYTiframeseektime('31')">0:00:31</a> Rush  
@@ -1583,7 +1583,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <a onclick="modifyYTiframeseektime('3694')">1:01:34</a> various levels as we discussed  
 <a onclick="modifyYTiframeseektime('3697')">1:01:37</a> so  
 <a onclick="modifyYTiframeseektime('3701')">1:01:41</a> okay  
-<a onclick="modifyYTiframeseektime('3704')">1:01:44</a> [Music]  
+<a onclick="modifyYTiframeseektime('3704')">1:01:44</a> Music  
 <a onclick="modifyYTiframeseektime('3708')">1:01:48</a> translate one second  
 <a onclick="modifyYTiframeseektime('3710')">1:01:50</a> sorry bear with me a second  
 <a onclick="modifyYTiframeseektime('3714')">1:01:54</a> that's 57 I think  
@@ -1953,7 +1953,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <a onclick="modifyYTiframeseektime('4585')">1:16:25</a> him so the apostle haq  
 <a onclick="modifyYTiframeseektime('4592')">1:16:32</a> issues not only deciding Real Madrid  
 <a onclick="modifyYTiframeseektime('4596')">1:16:36</a> between foreign  
-<a onclick="modifyYTiframeseektime('4602')">1:16:42</a> [Music]  
+<a onclick="modifyYTiframeseektime('4602')">1:16:42</a> Music  
 <a onclick="modifyYTiframeseektime('4606')">1:16:46</a> if Allah says this is more beautiful  
 <a onclick="modifyYTiframeseektime('4608')">1:16:48</a> than that then his judgment is better  
 <a onclick="modifyYTiframeseektime('4610')">1:16:50</a> than anybody so he's the best one to the  
@@ -2782,13 +2782,13 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <a onclick="modifyYTiframeseektime('6711')">1:51:51</a> week and there are some important things  
 <a onclick="modifyYTiframeseektime('6713')">1:51:53</a> next week and things like that also and  
 <a onclick="modifyYTiframeseektime('6716')">1:51:56</a> divine knowledge very heavy foreign  
-<a onclick="modifyYTiframeseektime('6730')">1:52:10</a> [Music]  
+<a onclick="modifyYTiframeseektime('6730')">1:52:10</a> Music  
 <a onclick="modifyYTiframeseektime('6754')">1:52:34</a> foreign  
-<a onclick="modifyYTiframeseektime('6757')">1:52:37</a> [Music]  
-<a onclick="modifyYTiframeseektime('6762')">1:52:42</a> [Music]  
-<a onclick="modifyYTiframeseektime('6772')">1:52:52</a> [Music]  
-<a onclick="modifyYTiframeseektime('6780')">1:53:00</a> [Music]  
-<a onclick="modifyYTiframeseektime('6787')">1:53:07</a> [Music]  
+<a onclick="modifyYTiframeseektime('6757')">1:52:37</a> Music  
+<a onclick="modifyYTiframeseektime('6762')">1:52:42</a> Music  
+<a onclick="modifyYTiframeseektime('6772')">1:52:52</a> Music  
+<a onclick="modifyYTiframeseektime('6780')">1:53:00</a> Music  
+<a onclick="modifyYTiframeseektime('6787')">1:53:07</a> Music  
 <a onclick="modifyYTiframeseektime('6790')">1:53:10</a> foreign  
-<a onclick="modifyYTiframeseektime('6792')">1:53:12</a> [Music]  
+<a onclick="modifyYTiframeseektime('6792')">1:53:12</a> Music  
 </details>

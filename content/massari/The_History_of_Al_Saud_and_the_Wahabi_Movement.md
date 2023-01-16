@@ -6,7 +6,7 @@
 
 ## Summary of [The History of Al Saud and the Wahabi Movement](https://www.youtube.com/watch?v=6E9dWGt9qIQ)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -1701,7 +1701,7 @@
 <a onclick="modifyYTiframeseektime('3410')">0:56:50</a> do that but it's in the base of  
 <a onclick="modifyYTiframeseektime('3413')">0:56:53</a> evidence from quran absolute certificate  
 <a onclick="modifyYTiframeseektime('3416')">0:56:56</a> that's not what it is  
-<a onclick="modifyYTiframeseektime('3418')">0:56:58</a> [Music]  
+<a onclick="modifyYTiframeseektime('3418')">0:56:58</a> Music  
 <a onclick="modifyYTiframeseektime('3422')">0:57:02</a> the evidence for that is that from there  
 <a onclick="modifyYTiframeseektime('3424')">0:57:04</a> on comes people are criticizing the  
 <a onclick="modifyYTiframeseektime('3425')">0:57:05</a> evidence i showed this faulty  

@@ -10,7 +10,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 ## Summary of [Dr Al-Massari: The Creation Story - Quran vs Bible - 1](https://www.youtube.com/watch?v=4gTijjVhwAM)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -60,7 +60,7 @@ Discusses the differences between the Quran and the Bible in regards to the crea
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00</a> [Music]  
+<a onclick="modifyYTiframeseektime('0')">0:00:00</a> Music  
 <a onclick="modifyYTiframeseektime('32')">0:00:32</a> as i suggested to you uh earlier today  
 <a onclick="modifyYTiframeseektime('35')">0:00:35</a> actually  
 <a onclick="modifyYTiframeseektime('36')">0:00:36</a> uh the the two the two issues over the  
@@ -374,7 +374,7 @@ Discusses the differences between the Quran and the Bible in regards to the crea
 <a onclick="modifyYTiframeseektime('706')">0:11:46</a> day two day three therefore but even  
 <a onclick="modifyYTiframeseektime('708')">0:11:48</a> already the classical scholars objected  
 <a onclick="modifyYTiframeseektime('710')">0:11:50</a> to that clearly for various reasons  
-<a onclick="modifyYTiframeseektime('714')">0:11:54</a> [Music]  
+<a onclick="modifyYTiframeseektime('714')">0:11:54</a> Music  
 <a onclick="modifyYTiframeseektime('721')">0:12:01</a> uh maybe to help  
 <a onclick="modifyYTiframeseektime('723')">0:12:03</a> um explain the use  
 <a onclick="modifyYTiframeseektime('725')">0:12:05</a> of the word  
@@ -1621,7 +1621,7 @@ Discusses the differences between the Quran and the Bible in regards to the crea
 <a onclick="modifyYTiframeseektime('3392')">0:56:32</a> yeah i don't know what what's the name  
 <a onclick="modifyYTiframeseektime('3393')">0:56:33</a> given to that river coming from the land  
 <a onclick="modifyYTiframeseektime('3395')">0:56:35</a> of kush  
-<a onclick="modifyYTiframeseektime('3399')">0:56:39</a> [Music]  
+<a onclick="modifyYTiframeseektime('3399')">0:56:39</a> Music  
 <a onclick="modifyYTiframeseektime('3401')">0:56:41</a> and they said  
 <a onclick="modifyYTiframeseektime('3402')">0:56:42</a> the verse you just read  
 <a onclick="modifyYTiframeseektime('3404')">0:56:44</a> they say the first river the second ever  
@@ -1775,7 +1775,7 @@ Discusses the differences between the Quran and the Bible in regards to the crea
 <a onclick="modifyYTiframeseektime('3737')">1:02:17</a> god knows at that time the hostility of  
 <a onclick="modifyYTiframeseektime('3739')">1:02:19</a> the empire to the jews was not to speak  
 <a onclick="modifyYTiframeseektime('3742')">1:02:22</a> and  
-<a onclick="modifyYTiframeseektime('3744')">1:02:24</a> [Music]  
+<a onclick="modifyYTiframeseektime('3744')">1:02:24</a> Music  
 <a onclick="modifyYTiframeseektime('3746')">1:02:26</a> there's no reason to assume something  
 <a onclick="modifyYTiframeseektime('3747')">1:02:27</a> like that so their geological  
 <a onclick="modifyYTiframeseektime('3749')">1:02:29</a> understanding but if we go back to more  
@@ -2430,7 +2430,7 @@ Discusses the differences between the Quran and the Bible in regards to the crea
 <a onclick="modifyYTiframeseektime('5168')">1:26:08</a> um but those are those are the questions  
 <a onclick="modifyYTiframeseektime('5170')">1:26:10</a> i have for you and i appreciate your  
 <a onclick="modifyYTiframeseektime('5172')">1:26:12</a> just  
-<a onclick="modifyYTiframeseektime('5174')">1:26:14</a> [Music]  
+<a onclick="modifyYTiframeseektime('5174')">1:26:14</a> Music  
 <a onclick="modifyYTiframeseektime('5175')">1:26:15</a> the the the the first one there's not  
 <a onclick="modifyYTiframeseektime('5178')">1:26:18</a> very much controversy between obviously  
 <a onclick="modifyYTiframeseektime('5181')">1:26:21</a> islamic concept because there's one  
@@ -3824,11 +3824,11 @@ Discusses the differences between the Quran and the Bible in regards to the crea
 <a onclick="modifyYTiframeseektime('8209')">2:16:49</a> educational and spiritual development  
 <a onclick="modifyYTiframeseektime('8212')">2:16:52</a> seven is good seven universal time is  
 <a onclick="modifyYTiframeseektime('8215')">2:16:55</a> good i am happy with that  
-<a onclick="modifyYTiframeseektime('8230')">2:17:10</a> [Music]  
-<a onclick="modifyYTiframeseektime('8236')">2:17:16</a> [Music]  
+<a onclick="modifyYTiframeseektime('8230')">2:17:10</a> Music  
+<a onclick="modifyYTiframeseektime('8236')">2:17:16</a> Music  
 <a onclick="modifyYTiframeseektime('8266')">2:17:46</a> my  
-<a onclick="modifyYTiframeseektime('8267')">2:17:47</a> [Music]  
+<a onclick="modifyYTiframeseektime('8267')">2:17:47</a> Music  
 <a onclick="modifyYTiframeseektime('8276')">2:17:56</a> so  
-<a onclick="modifyYTiframeseektime('8288')">2:18:08</a> [Music]  
+<a onclick="modifyYTiframeseektime('8288')">2:18:08</a> Music  
 <a onclick="modifyYTiframeseektime('8297')">2:18:17</a> you  
 </details>

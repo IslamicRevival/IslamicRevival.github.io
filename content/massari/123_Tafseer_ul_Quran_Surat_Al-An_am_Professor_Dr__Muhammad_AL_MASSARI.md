@@ -17,7 +17,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 ## Summary of [123 Tafseer ul Quran Surat Al-An'am Professor Dr Muhammad AL MASSARI](https://www.youtube.com/watch?v=ZMU5PMdTxC4)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -64,7 +64,7 @@ be a worthy candidate for Divinity.
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 <a onclick="modifyYTiframeseektime('11')">0:00:11</a> foreign  
-<a onclick="modifyYTiframeseektime('15')">0:00:15</a> [Music]  
+<a onclick="modifyYTiframeseektime('15')">0:00:15</a> Music  
 <a onclick="modifyYTiframeseektime('39')">0:00:39</a> foreign  
 <a onclick="modifyYTiframeseektime('82')">0:01:22</a> these episodes are broadcast live on the  
 <a onclick="modifyYTiframeseektime('85')">0:01:25</a> study Circles of Professor Dr Mohammed  
@@ -817,7 +817,7 @@ be a worthy candidate for Divinity.
 <a onclick="modifyYTiframeseektime('1846')">0:30:46</a> and then Abrahim continue Quran continue  
 <a onclick="modifyYTiframeseektime('1848')">0:30:48</a> saying  
 <a onclick="modifyYTiframeseektime('1851')">0:30:51</a> um  
-<a onclick="modifyYTiframeseektime('1854')">0:30:54</a> [Music]  
+<a onclick="modifyYTiframeseektime('1854')">0:30:54</a> Music  
 <a onclick="modifyYTiframeseektime('1863')">0:31:03</a> those who have a change of faith and who  
 <a onclick="modifyYTiframeseektime('1865')">0:31:05</a> have not stood their faith by wrongdoing  
 <a onclick="modifyYTiframeseektime('1867')">0:31:07</a> it is they who shall they who shall be  
@@ -1141,7 +1141,7 @@ be a worthy candidate for Divinity.
 <a onclick="modifyYTiframeseektime('2655')">0:44:15</a> and then it continues then with his  
 <a onclick="modifyYTiframeseektime('2657')">0:44:17</a> history  
 <a onclick="modifyYTiframeseektime('2659')">0:44:19</a> man  
-<a onclick="modifyYTiframeseektime('2664')">0:44:24</a> [Music]  
+<a onclick="modifyYTiframeseektime('2664')">0:44:24</a> Music  
 <a onclick="modifyYTiframeseektime('2669')">0:44:29</a> uh what are you  
 <a onclick="modifyYTiframeseektime('2672')">0:44:32</a> also foreign  
 <a onclick="modifyYTiframeseektime('2684')">0:44:44</a> because I like it out of the way  
@@ -2615,12 +2615,12 @@ be a worthy candidate for Divinity.
 <a onclick="modifyYTiframeseektime('6496')">1:48:16</a> they're doing good deeds according  
 <a onclick="modifyYTiframeseektime('6497')">1:48:17</a> Sharia not following them or not  
 <a onclick="modifyYTiframeseektime('6499')">1:48:19</a> following them  
-<a onclick="modifyYTiframeseektime('6539')">1:48:59</a> [Music]  
+<a onclick="modifyYTiframeseektime('6539')">1:48:59</a> Music  
 <a onclick="modifyYTiframeseektime('6548')">1:49:08</a> thank you  
-<a onclick="modifyYTiframeseektime('6552')">1:49:12</a> [Music]  
-<a onclick="modifyYTiframeseektime('6565')">1:49:25</a> [Music]  
-<a onclick="modifyYTiframeseektime('6571')">1:49:31</a> [Music]  
+<a onclick="modifyYTiframeseektime('6552')">1:49:12</a> Music  
+<a onclick="modifyYTiframeseektime('6565')">1:49:25</a> Music  
+<a onclick="modifyYTiframeseektime('6571')">1:49:31</a> Music  
 <a onclick="modifyYTiframeseektime('6574')">1:49:34</a> foreign  
-<a onclick="modifyYTiframeseektime('6580')">1:49:40</a> [Music]  
-<a onclick="modifyYTiframeseektime('6588')">1:49:48</a> [Music]  
+<a onclick="modifyYTiframeseektime('6580')">1:49:40</a> Music  
+<a onclick="modifyYTiframeseektime('6588')">1:49:48</a> Music  
 </details>

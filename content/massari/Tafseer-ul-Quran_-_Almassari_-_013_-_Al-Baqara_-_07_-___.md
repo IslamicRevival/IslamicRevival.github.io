@@ -11,7 +11,7 @@ Description of the address of disbelievers
 
 ## Summary of [Tafseer-ul-Quran - Almassari - 013 - Al-Baqara - 07 - تفسير سورة البقرة](https://www.youtube.com/watch?v=0ED5DUP0KXU)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -45,7 +45,7 @@ Description of the address of disbelievers
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('3')">0:00:03</a> [Music]  
+<a onclick="modifyYTiframeseektime('3')">0:00:03</a> Music  
 <a onclick="modifyYTiframeseektime('44')">0:00:44</a> so  
 <a onclick="modifyYTiframeseektime('44')">0:00:44</a> after discussing the various types of  
 <a onclick="modifyYTiframeseektime('46')">0:00:46</a> believers first of all that the quran is  
@@ -2442,7 +2442,7 @@ Description of the address of disbelievers
 <a onclick="modifyYTiframeseektime('5228')">1:27:08</a> the more we'll be will be detecting  
 <a onclick="modifyYTiframeseektime('5230')">1:27:10</a> things which are  
 <a onclick="modifyYTiframeseektime('5231')">1:27:11</a> surprising and never expected before  
-<a onclick="modifyYTiframeseektime('5239')">1:27:19</a> [Music]  
+<a onclick="modifyYTiframeseektime('5239')">1:27:19</a> Music  
 <a onclick="modifyYTiframeseektime('5250')">1:27:30</a> so  
 <a onclick="modifyYTiframeseektime('5261')">1:27:41</a> you  
 </details>

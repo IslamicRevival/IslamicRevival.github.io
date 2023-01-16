@@ -20,7 +20,7 @@ Qadr - detailed discussion on the nature of Qadr and misconceptions
 
 ## Summary of [Tafseer-ul-Quran - Almassari - 008 - Al-Baqara - 02 - تفسير سورة البقرة](https://www.youtube.com/watch?v=jiYUtS8a5hU)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -54,7 +54,7 @@ Qadr - detailed discussion on the nature of Qadr and misconceptions
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00</a> [Music]  
+<a onclick="modifyYTiframeseektime('0')">0:00:00</a> Music  
 <a onclick="modifyYTiframeseektime('29')">0:00:29</a> we mentioned quite a number of  
 <a onclick="modifyYTiframeseektime('31')">0:00:31</a> coincidences and interesting i would say  
 <a onclick="modifyYTiframeseektime('33')">0:00:33</a> miraculous aspects  
@@ -2373,16 +2373,16 @@ Qadr - detailed discussion on the nature of Qadr and misconceptions
 <a onclick="modifyYTiframeseektime('5022')">1:23:42</a> monday or friday if you have articulated  
 <a onclick="modifyYTiframeseektime('5024')">1:23:44</a> the  
 <a onclick="modifyYTiframeseektime('5025')">1:23:45</a> question and things insha'allah for  
-<a onclick="modifyYTiframeseektime('5039')">1:23:59</a> [Music]  
-<a onclick="modifyYTiframeseektime('5046')">1:24:06</a> [Music]  
-<a onclick="modifyYTiframeseektime('5060')">1:24:20</a> [Music]  
-<a onclick="modifyYTiframeseektime('5074')">1:24:34</a> [Music]  
+<a onclick="modifyYTiframeseektime('5039')">1:23:59</a> Music  
+<a onclick="modifyYTiframeseektime('5046')">1:24:06</a> Music  
+<a onclick="modifyYTiframeseektime('5060')">1:24:20</a> Music  
+<a onclick="modifyYTiframeseektime('5074')">1:24:34</a> Music  
 <a onclick="modifyYTiframeseektime('5082')">1:24:42</a> foreign  
-<a onclick="modifyYTiframeseektime('5088')">1:24:48</a> [Music]  
+<a onclick="modifyYTiframeseektime('5088')">1:24:48</a> Music  
 <a onclick="modifyYTiframeseektime('5096')">1:24:56</a> foreign  
-<a onclick="modifyYTiframeseektime('5111')">1:25:11</a> [Music]  
-<a onclick="modifyYTiframeseektime('5126')">1:25:26</a> [Music]  
-<a onclick="modifyYTiframeseektime('5134')">1:25:34</a> [Music]  
+<a onclick="modifyYTiframeseektime('5111')">1:25:11</a> Music  
+<a onclick="modifyYTiframeseektime('5126')">1:25:26</a> Music  
+<a onclick="modifyYTiframeseektime('5134')">1:25:34</a> Music  
 <a onclick="modifyYTiframeseektime('5152')">1:25:52</a> so  
 <a onclick="modifyYTiframeseektime('5156')">1:25:56</a> you  
 </details>

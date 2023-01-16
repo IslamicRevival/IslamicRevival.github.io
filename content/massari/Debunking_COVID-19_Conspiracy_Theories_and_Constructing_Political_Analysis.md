@@ -8,7 +8,7 @@ Discussion on the recent outbreak of COVID-19 misconceptions, conspiracies, how 
 
 ## Summary of [Debunking COVID-19 Conspiracy Theories and Constructing Political Analysis](https://www.youtube.com/watch?v=RjKs1YVLcug)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -45,7 +45,7 @@ Discussion on the recent outbreak of COVID-19 misconceptions, conspiracies, how 
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00</a> [Music]  
+<a onclick="modifyYTiframeseektime('0')">0:00:00</a> Music  
 <a onclick="modifyYTiframeseektime('17')">0:00:17</a> uh  
 <a onclick="modifyYTiframeseektime('18')">0:00:18</a> q will be a q a and it will be around uh  
 <a onclick="modifyYTiframeseektime('20')">0:00:20</a> the subject of  
@@ -3102,18 +3102,18 @@ Discussion on the recent outbreak of COVID-19 misconceptions, conspiracies, how 
 <a onclick="modifyYTiframeseektime('6063')">1:41:03</a> considerably just barely catch ourselves  
 <a onclick="modifyYTiframeseektime('6065')">1:41:05</a> so  
 <a onclick="modifyYTiframeseektime('6066')">1:41:06</a> we still we stop here inshallah  
-<a onclick="modifyYTiframeseektime('6082')">1:41:22</a> [Music]  
-<a onclick="modifyYTiframeseektime('6097')">1:41:37</a> [Music]  
+<a onclick="modifyYTiframeseektime('6082')">1:41:22</a> Music  
+<a onclick="modifyYTiframeseektime('6097')">1:41:37</a> Music  
 <a onclick="modifyYTiframeseektime('6104')">1:41:44</a> m  
-<a onclick="modifyYTiframeseektime('6110')">1:41:50</a> [Music]  
+<a onclick="modifyYTiframeseektime('6110')">1:41:50</a> Music  
 <a onclick="modifyYTiframeseektime('6118')">1:41:58</a> foreign  
-<a onclick="modifyYTiframeseektime('6124')">1:42:04</a> [Music]  
+<a onclick="modifyYTiframeseektime('6124')">1:42:04</a> Music  
 <a onclick="modifyYTiframeseektime('6132')">1:42:12</a> foreign  
 <a onclick="modifyYTiframeseektime('6146')">1:42:26</a> my  
-<a onclick="modifyYTiframeseektime('6147')">1:42:27</a> [Music]  
+<a onclick="modifyYTiframeseektime('6147')">1:42:27</a> Music  
 <a onclick="modifyYTiframeseektime('6160')">1:42:40</a> foreign  
-<a onclick="modifyYTiframeseektime('6163')">1:42:43</a> [Music]  
-<a onclick="modifyYTiframeseektime('6171')">1:42:51</a> [Music]  
+<a onclick="modifyYTiframeseektime('6163')">1:42:43</a> Music  
+<a onclick="modifyYTiframeseektime('6171')">1:42:51</a> Music  
 <a onclick="modifyYTiframeseektime('6188')">1:43:08</a> so  
 <a onclick="modifyYTiframeseektime('6192')">1:43:12</a> you  
 </details>

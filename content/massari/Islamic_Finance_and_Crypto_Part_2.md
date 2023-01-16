@@ -28,7 +28,7 @@ Deep dive into Crypto with guest speaker
 
 ## Summary of [Islamic Finance and Crypto Part 2](https://www.youtube.com/watch?v=k9-zHPWB1Mc)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -78,7 +78,7 @@ Deep dive into Crypto with guest speaker
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00</a> [Music]  
+<a onclick="modifyYTiframeseektime('0')">0:00:00</a> Music  
 <a onclick="modifyYTiframeseektime('19')">0:00:19</a> um  
 <a onclick="modifyYTiframeseektime('20')">0:00:20</a> carrying on from last week inshallah it  
 <a onclick="modifyYTiframeseektime('22')">0:00:22</a> will be general islamic finance as well  
@@ -1850,7 +1850,7 @@ Deep dive into Crypto with guest speaker
 <a onclick="modifyYTiframeseektime('3459')">0:57:39</a> done properly that you're shorting real  
 <a onclick="modifyYTiframeseektime('3461')">0:57:41</a> stocks which you have  
 <a onclick="modifyYTiframeseektime('3462')">0:57:42</a> borrowed but from uh from  
-<a onclick="modifyYTiframeseektime('3465')">0:57:45</a> [Music]  
+<a onclick="modifyYTiframeseektime('3465')">0:57:45</a> Music  
 <a onclick="modifyYTiframeseektime('3466')">0:57:46</a> the from selling what you don't have you  
 <a onclick="modifyYTiframeseektime('3470')">0:57:50</a> see again why the one of the wisdom of  
 <a onclick="modifyYTiframeseektime('3472')">0:57:52</a> the prohibition of not selling what you  
@@ -2259,7 +2259,7 @@ Deep dive into Crypto with guest speaker
 <a onclick="modifyYTiframeseektime('4313')">1:11:53</a> something else it's another contract  
 <a onclick="modifyYTiframeseektime('4316')">1:11:56</a> unfortunately so our current focus are  
 <a onclick="modifyYTiframeseektime('4319')">1:11:59</a> unfortunately not uh they cannot  
-<a onclick="modifyYTiframeseektime('4323')">1:12:03</a> [Music]  
+<a onclick="modifyYTiframeseektime('4323')">1:12:03</a> Music  
 <a onclick="modifyYTiframeseektime('4324')">1:12:04</a> you cannot rely really on on there it's  
 <a onclick="modifyYTiframeseektime('4327')">1:12:07</a> very unfortunate  
 <a onclick="modifyYTiframeseektime('4328')">1:12:08</a> the unfor you you can see that's very  
@@ -2507,7 +2507,7 @@ Deep dive into Crypto with guest speaker
 <a onclick="modifyYTiframeseektime('4833')">1:20:33</a> to to balance the prices in the market  
 <a onclick="modifyYTiframeseektime('4836')">1:20:36</a> and bring it into and to  
 <a onclick="modifyYTiframeseektime('4838')">1:20:38</a> to invest into  
-<a onclick="modifyYTiframeseektime('4839')">1:20:39</a> [Music]  
+<a onclick="modifyYTiframeseektime('4839')">1:20:39</a> Music  
 <a onclick="modifyYTiframeseektime('4841')">1:20:41</a> to deliver the prices and bring it in  
 <a onclick="modifyYTiframeseektime('4844')">1:20:44</a> balance  
 <a onclick="modifyYTiframeseektime('4846')">1:20:46</a> but formally the contract is looks like  
@@ -4204,7 +4204,7 @@ Deep dive into Crypto with guest speaker
 <a onclick="modifyYTiframeseektime('8282')">2:18:02</a> two and a half hours i think it's enough  
 <a onclick="modifyYTiframeseektime('8284')">2:18:04</a> for today inshallah  
 <a onclick="modifyYTiframeseektime('8286')">2:18:06</a> next week  
-<a onclick="modifyYTiframeseektime('8300')">2:18:20</a> [Music]  
+<a onclick="modifyYTiframeseektime('8300')">2:18:20</a> Music  
 <a onclick="modifyYTiframeseektime('8316')">2:18:36</a> so  
 <a onclick="modifyYTiframeseektime('8322')">2:18:42</a> you  
 </details>

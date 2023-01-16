@@ -17,7 +17,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 ## Summary of [114 Tafseer ul Quran Surat Al-An'am Professor Dr Muhammad AL MASSARI](https://www.youtube.com/watch?v=58VB6BKm040)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -57,8 +57,8 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 <a onclick="modifyYTiframeseektime('9')">0:00:09</a> foreign  
-<a onclick="modifyYTiframeseektime('12')">0:00:12</a> [Music]  
-<a onclick="modifyYTiframeseektime('40')">0:00:40</a> [Music]  
+<a onclick="modifyYTiframeseektime('12')">0:00:12</a> Music  
+<a onclick="modifyYTiframeseektime('40')">0:00:40</a> Music  
 <a onclick="modifyYTiframeseektime('43')">0:00:43</a> welcome dear viewers brothers and  
 <a onclick="modifyYTiframeseektime('45')">0:00:45</a> sisters to episode 114 of our Cafe  
 <a onclick="modifyYTiframeseektime('47')">0:00:47</a> sessions of the noble Quran with  
@@ -1538,7 +1538,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <a onclick="modifyYTiframeseektime('3781')">1:03:01</a> void yeah  
 <a onclick="modifyYTiframeseektime('3783')">1:03:03</a> when Allah  
 <a onclick="modifyYTiframeseektime('3790')">1:03:10</a> foreign  
-<a onclick="modifyYTiframeseektime('3791')">1:03:11</a> [Music]  
+<a onclick="modifyYTiframeseektime('3791')">1:03:11</a> Music  
 <a onclick="modifyYTiframeseektime('3826')">1:03:46</a> everything will perish except this face  
 <a onclick="modifyYTiframeseektime('3829')">1:03:49</a> so why do you then give one meaning to  
 <a onclick="modifyYTiframeseektime('3831')">1:03:51</a> face and one Ayah and a completely  
@@ -1804,7 +1804,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <a onclick="modifyYTiframeseektime('4471')">1:14:31</a> of phase and so on and at the end of  
 <a onclick="modifyYTiframeseektime('4475')">1:14:35</a> time everything this appear except his  
 <a onclick="modifyYTiframeseektime('4477')">1:14:37</a> face his body even disappears  
-<a onclick="modifyYTiframeseektime('4480')">1:14:40</a> [Laughter]  
+<a onclick="modifyYTiframeseektime('4480')">1:14:40</a> Laughter  
 <a onclick="modifyYTiframeseektime('4483')">1:14:43</a> I I cannot really I cannot really avoid  
 <a onclick="modifyYTiframeseektime('4488')">1:14:48</a> saying um people he must be mocking the  
 <a onclick="modifyYTiframeseektime('4490')">1:14:50</a> some some time nobody is even with a  
@@ -2661,10 +2661,10 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <a onclick="modifyYTiframeseektime('6669')">1:51:09</a> by yourself exactly  
 <a onclick="modifyYTiframeseektime('6692')">1:51:32</a> thank you  
 <a onclick="modifyYTiframeseektime('6694')">1:51:34</a> thank you  
-<a onclick="modifyYTiframeseektime('6698')">1:51:38</a> [Music]  
-<a onclick="modifyYTiframeseektime('6706')">1:51:46</a> [Music]  
-<a onclick="modifyYTiframeseektime('6712')">1:51:52</a> [Music]  
+<a onclick="modifyYTiframeseektime('6698')">1:51:38</a> Music  
+<a onclick="modifyYTiframeseektime('6706')">1:51:46</a> Music  
+<a onclick="modifyYTiframeseektime('6712')">1:51:52</a> Music  
 <a onclick="modifyYTiframeseektime('6718')">1:51:58</a> latency is  
-<a onclick="modifyYTiframeseektime('6721')">1:52:01</a> [Music]  
-<a onclick="modifyYTiframeseektime('6730')">1:52:10</a> [Music]  
+<a onclick="modifyYTiframeseektime('6721')">1:52:01</a> Music  
+<a onclick="modifyYTiframeseektime('6730')">1:52:10</a> Music  
 </details>

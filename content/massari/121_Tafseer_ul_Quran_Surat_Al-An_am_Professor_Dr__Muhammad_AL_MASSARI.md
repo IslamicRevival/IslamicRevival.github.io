@@ -17,7 +17,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 ## Summary of [121 Tafseer ul Quran Surat Al-An'am Professor Dr Muhammad AL MASSARI](https://www.youtube.com/watch?v=3opiqJ46CVg)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -67,9 +67,9 @@ In this lecture, Dr. Muhammad AL MASSARI discusses the 121 Tafseer ul Quran Sura
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('16')">0:00:16</a> [Music]  
+<a onclick="modifyYTiframeseektime('16')">0:00:16</a> Music  
 <a onclick="modifyYTiframeseektime('29')">0:00:29</a> thank you  
-<a onclick="modifyYTiframeseektime('30')">0:00:30</a> [Music]  
+<a onclick="modifyYTiframeseektime('30')">0:00:30</a> Music  
 <a onclick="modifyYTiframeseektime('56')">0:00:56</a> welcome dear brothers and sisters to  
 <a onclick="modifyYTiframeseektime('59')">0:00:59</a> session 121 on our weekly sessions on  
 <a onclick="modifyYTiframeseektime('63')">0:01:03</a> the theater of the noble Quran with  
@@ -1087,7 +1087,7 @@ In this lecture, Dr. Muhammad AL MASSARI discusses the 121 Tafseer ul Quran Sura
 <a onclick="modifyYTiframeseektime('2579')">0:42:59</a> meticulously missing nothing or who  
 <a onclick="modifyYTiframeseektime('2581')">0:43:01</a> assault has to be  
 <a onclick="modifyYTiframeseektime('2584')">0:43:04</a> um  
-<a onclick="modifyYTiframeseektime('2589')">0:43:09</a> [Music]  
+<a onclick="modifyYTiframeseektime('2589')">0:43:09</a> Music  
 <a onclick="modifyYTiframeseektime('2595')">0:43:15</a> just a second  
 <a onclick="modifyYTiframeseektime('2598')">0:43:18</a> with a conversation going with me  
 <a onclick="modifyYTiframeseektime('2606')">0:43:26</a> give me a second  
@@ -2965,7 +2965,7 @@ In this lecture, Dr. Muhammad AL MASSARI discusses the 121 Tafseer ul Quran Sura
 <a onclick="modifyYTiframeseektime('7276')">2:01:16</a> check me out because some people should  
 <a onclick="modifyYTiframeseektime('7277')">2:01:17</a> some people should go and split in his  
 <a onclick="modifyYTiframeseektime('7279')">2:01:19</a> face for that  
-<a onclick="modifyYTiframeseektime('7280')">2:01:20</a> [Music]  
+<a onclick="modifyYTiframeseektime('7280')">2:01:20</a> Music  
 <a onclick="modifyYTiframeseektime('7281')">2:01:21</a> um  
 <a onclick="modifyYTiframeseektime('7282')">2:01:22</a> yes so I think I think the key is to be  
 <a onclick="modifyYTiframeseektime('7286')">2:01:26</a> sincere and truthful uh when debating  
@@ -3061,10 +3061,10 @@ In this lecture, Dr. Muhammad AL MASSARI discusses the 121 Tafseer ul Quran Sura
 <a onclick="modifyYTiframeseektime('7493')">2:04:53</a> we don't have to accept every 40 minutes  
 <a onclick="modifyYTiframeseektime('7496')">2:04:56</a> to Munich  
 <a onclick="modifyYTiframeseektime('7503')">2:05:03</a> thank you  
-<a onclick="modifyYTiframeseektime('7507')">2:05:07</a> [Music]  
-<a onclick="modifyYTiframeseektime('7532')">2:05:32</a> [Music]  
-<a onclick="modifyYTiframeseektime('7537')">2:05:37</a> [Music]  
+<a onclick="modifyYTiframeseektime('7507')">2:05:07</a> Music  
+<a onclick="modifyYTiframeseektime('7532')">2:05:32</a> Music  
+<a onclick="modifyYTiframeseektime('7537')">2:05:37</a> Music  
 <a onclick="modifyYTiframeseektime('7541')">2:05:41</a> foreign  
-<a onclick="modifyYTiframeseektime('7547')">2:05:47</a> [Music]  
-<a onclick="modifyYTiframeseektime('7555')">2:05:55</a> [Music]  
+<a onclick="modifyYTiframeseektime('7547')">2:05:47</a> Music  
+<a onclick="modifyYTiframeseektime('7555')">2:05:55</a> Music  
 </details>

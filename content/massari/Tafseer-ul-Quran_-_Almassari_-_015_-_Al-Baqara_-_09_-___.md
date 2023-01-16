@@ -16,7 +16,7 @@ Explanation of the reason of Nifaaq
 
 ## Summary of [Tafseer-ul-Quran - Almassari - 015 - Al-Baqara - 09 - تفسير سورة البقرة](https://www.youtube.com/watch?v=JHaEFJyrZZ4)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -44,7 +44,7 @@ explains that Islam is the opposite of disbelief, and that this concept is centr
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00</a> [Music]  
+<a onclick="modifyYTiframeseektime('0')">0:00:00</a> Music  
 <a onclick="modifyYTiframeseektime('28')">0:00:28</a> faster inshallah this time because  
 <a onclick="modifyYTiframeseektime('30')">0:00:30</a> at the beginning uh new concepts have to  
 <a onclick="modifyYTiframeseektime('34')">0:00:34</a> be  
@@ -1653,6 +1653,6 @@ explains that Islam is the opposite of disbelief, and that this concept is centr
 <a onclick="modifyYTiframeseektime('3617')">1:00:17</a> improving and correcting which meant in  
 <a onclick="modifyYTiframeseektime('3620')">1:00:20</a> this ayah specifically and generally  
 <a onclick="modifyYTiframeseektime('3626')">1:00:26</a> okay  
-<a onclick="modifyYTiframeseektime('3631')">1:00:31</a> [Music]  
+<a onclick="modifyYTiframeseektime('3631')">1:00:31</a> Music  
 <a onclick="modifyYTiframeseektime('3653')">1:00:53</a> you  
 </details>

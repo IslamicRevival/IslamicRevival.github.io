@@ -10,7 +10,7 @@ Numerical Miracle of the Quran
 
 ## Summary of [Session 2](https://www.youtube.com/watch?v=jlEz0o3gosQ)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -46,9 +46,9 @@ Numerical Miracle of the Quran
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00</a> [Music]  
-<a onclick="modifyYTiframeseektime('9')">0:00:09</a> [Applause]  
-<a onclick="modifyYTiframeseektime('9')">0:00:09</a> [Music]  
+<a onclick="modifyYTiframeseektime('0')">0:00:00</a> Music  
+<a onclick="modifyYTiframeseektime('9')">0:00:09</a> Applause  
+<a onclick="modifyYTiframeseektime('9')">0:00:09</a> Music  
 <a onclick="modifyYTiframeseektime('14')">0:00:14</a> i  
 <a onclick="modifyYTiframeseektime('26')">0:00:26</a> oh sorry yes so uh the remaining  
 <a onclick="modifyYTiframeseektime('28')">0:00:28</a> questions from last week  
@@ -2585,6 +2585,6 @@ Numerical Miracle of the Quran
 <a onclick="modifyYTiframeseektime('5859')">1:37:39</a> wrap it up today then aim for the same  
 <a onclick="modifyYTiframeseektime('5862')">1:37:42</a> next week in general  
 <a onclick="modifyYTiframeseektime('5865')">1:37:45</a> you probably should has finished  
-<a onclick="modifyYTiframeseektime('5871')">1:37:51</a> [Music]  
+<a onclick="modifyYTiframeseektime('5871')">1:37:51</a> Music  
 <a onclick="modifyYTiframeseektime('5880')">1:38:00</a> inshallah  
 </details>

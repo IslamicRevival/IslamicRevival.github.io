@@ -17,7 +17,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 ## Summary of [103 Tafseer ul Quran Surat Al Ma'idah Professor Dr Muhammad AL MASSARI](https://www.youtube.com/watch?v=puRj1fxnoKU)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -56,7 +56,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00</a> [Music]  
+<a onclick="modifyYTiframeseektime('0')">0:00:00</a> Music  
 <a onclick="modifyYTiframeseektime('25')">0:00:25</a> we meet you  
 <a onclick="modifyYTiframeseektime('26')">0:00:26</a> dear viewers brothers and sisters on  
 <a onclick="modifyYTiframeseektime('28')">0:00:28</a> episode 103 of the weekly episodes of  
@@ -747,7 +747,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <a onclick="modifyYTiframeseektime('1530')">0:25:30</a> that's all enough for us to explain the  
 <a onclick="modifyYTiframeseektime('1532')">0:25:32</a> quran  
 <a onclick="modifyYTiframeseektime('1534')">0:25:34</a> will come later  
-<a onclick="modifyYTiframeseektime('1535')">0:25:35</a> [Music]  
+<a onclick="modifyYTiframeseektime('1535')">0:25:35</a> Music  
 <a onclick="modifyYTiframeseektime('1537')">0:25:37</a> and then again another injunction in the  
 <a onclick="modifyYTiframeseektime('1538')">0:25:38</a> next ayah  
 <a onclick="modifyYTiframeseektime('1540')">0:25:40</a> threatening for those who transgress and  
@@ -963,7 +963,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <a onclick="modifyYTiframeseektime('2023')">0:33:43</a> cooperating in civil transition  
 <a onclick="modifyYTiframeseektime('2025')">0:33:45</a> whatsoever none whatsoever and beware of  
 <a onclick="modifyYTiframeseektime('2028')">0:33:48</a> allah because allah is victorious  
-<a onclick="modifyYTiframeseektime('2034')">0:33:54</a> [Music]  
+<a onclick="modifyYTiframeseektime('2034')">0:33:54</a> Music  
 <a onclick="modifyYTiframeseektime('2064')">0:34:24</a> forbidden to you is carrion and blood  
 <a onclick="modifyYTiframeseektime('2066')">0:34:26</a> and the flesh of swine and that over  
 <a onclick="modifyYTiframeseektime('2068')">0:34:28</a> which any name other than gods has been  
@@ -2837,7 +2837,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <a onclick="modifyYTiframeseektime('6159')">1:42:39</a> that's it  
 <a onclick="modifyYTiframeseektime('6160')">1:42:40</a> in someone rejecting that as ending it  
 <a onclick="modifyYTiframeseektime('6162')">1:42:42</a> in in clear comfort  
-<a onclick="modifyYTiframeseektime('6165')">1:42:45</a> [Music]  
+<a onclick="modifyYTiframeseektime('6165')">1:42:45</a> Music  
 <a onclick="modifyYTiframeseektime('6167')">1:42:47</a> but i don't know what to go to people  
 <a onclick="modifyYTiframeseektime('6169')">1:42:49</a> sometimes get stuck in such an idea that  
 <a onclick="modifyYTiframeseektime('6171')">1:42:51</a> even their mental so like for example we  
@@ -3067,10 +3067,10 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <a onclick="modifyYTiframeseektime('6641')">1:50:41</a> always uh ask next week  
 <a onclick="modifyYTiframeseektime('6649')">1:50:49</a> muhammad  
 <a onclick="modifyYTiframeseektime('6654')">1:50:54</a> be  
-<a onclick="modifyYTiframeseektime('6657')">1:50:57</a> [Music]  
+<a onclick="modifyYTiframeseektime('6657')">1:50:57</a> Music  
 <a onclick="modifyYTiframeseektime('6696')">1:51:36</a> foreign  
-<a onclick="modifyYTiframeseektime('6697')">1:51:37</a> [Music]  
+<a onclick="modifyYTiframeseektime('6697')">1:51:37</a> Music  
 <a onclick="modifyYTiframeseektime('6708')">1:51:48</a> so  
-<a onclick="modifyYTiframeseektime('6717')">1:51:57</a> [Music]  
+<a onclick="modifyYTiframeseektime('6717')">1:51:57</a> Music  
 <a onclick="modifyYTiframeseektime('6727')">1:52:07</a> you  
 </details>

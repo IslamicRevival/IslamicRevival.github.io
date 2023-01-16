@@ -14,7 +14,7 @@ Meaning of Iman, relation to Ghayb
 
 ## Summary of [Tafseer-ul-Quran - Almassari - 009 - Al-Baqara 03 - تفسير سورة البقرة](https://www.youtube.com/watch?v=QKcXkc_hRSA)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -45,7 +45,7 @@ Discusses the different schools of thought on the nature of iman, and how some o
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00</a> [Music]  
+<a onclick="modifyYTiframeseektime('0')">0:00:00</a> Music  
 <a onclick="modifyYTiframeseektime('22')">0:00:22</a> let's continue  
 <a onclick="modifyYTiframeseektime('23')">0:00:23</a> with the where we stood last time with  
 <a onclick="modifyYTiframeseektime('25')">0:00:25</a> few maybe additions  
@@ -857,7 +857,7 @@ Discusses the different schools of thought on the nature of iman, and how some o
 <a onclick="modifyYTiframeseektime('1886')">0:31:26</a> the iman and which was my mainstreaming  
 <a onclick="modifyYTiframeseektime('1888')">0:31:28</a> specifically  
 <a onclick="modifyYTiframeseektime('1889')">0:31:29</a> part of the taqwa is that he  
-<a onclick="modifyYTiframeseektime('1903')">0:31:43</a> [Music]  
+<a onclick="modifyYTiframeseektime('1903')">0:31:43</a> Music  
 <a onclick="modifyYTiframeseektime('1918')">0:31:58</a> how it musically works more than amanda  
 <a onclick="modifyYTiframeseektime('1921')">0:32:01</a> santaka has having more future musically  
 <a onclick="modifyYTiframeseektime('1924')">0:32:04</a> and  
@@ -878,7 +878,7 @@ Discusses the different schools of thought on the nature of iman, and how some o
 <a onclick="modifyYTiframeseektime('1984')">0:33:04</a> linguistic  
 <a onclick="modifyYTiframeseektime('1985')">0:33:05</a> play that's that's for example  
 <a onclick="modifyYTiframeseektime('1989')">0:33:09</a> another one uh it is  
-<a onclick="modifyYTiframeseektime('1993')">0:33:13</a> [Music]  
+<a onclick="modifyYTiframeseektime('1993')">0:33:13</a> Music  
 <a onclick="modifyYTiframeseektime('1995')">0:33:15</a> in that sense which  
 <a onclick="modifyYTiframeseektime('1998')">0:33:18</a> is the the one which is uh  
 <a onclick="modifyYTiframeseektime('2004')">0:33:24</a> the one which is in in  
@@ -1888,8 +1888,8 @@ Discusses the different schools of thought on the nature of iman, and how some o
 <a onclick="modifyYTiframeseektime('4262')">1:11:02</a> the reality of the quran and and i think  
 <a onclick="modifyYTiframeseektime('4265')">1:11:05</a> it is trivial it is shallow it is not it  
 <a onclick="modifyYTiframeseektime('4267')">1:11:07</a> is much deeper than they think  
-<a onclick="modifyYTiframeseektime('4275')">1:11:15</a> [Music]  
+<a onclick="modifyYTiframeseektime('4275')">1:11:15</a> Music  
 <a onclick="modifyYTiframeseektime('4284')">1:11:24</a> so  
-<a onclick="modifyYTiframeseektime('4287')">1:11:27</a> [Music]  
+<a onclick="modifyYTiframeseektime('4287')">1:11:27</a> Music  
 <a onclick="modifyYTiframeseektime('4297')">1:11:37</a> you  
 </details>

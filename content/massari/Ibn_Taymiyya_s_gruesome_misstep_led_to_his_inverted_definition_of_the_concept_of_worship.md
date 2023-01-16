@@ -15,7 +15,7 @@ We want to recommend Kitab ut-Tawheed: The Basis of Islam and the Reality of Mon
 
 ## Summary of [Ibn Taymiyya's gruesome misstep led to his inverted definition of the concept of worship](https://www.youtube.com/watch?v=itqbL8KzOcs)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:25:00</a>
 
@@ -31,7 +31,7 @@ Ibn Taymiyya's mistake in defining worship led him to develop an extreme and inv
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00</a> [Music]  
+<a onclick="modifyYTiframeseektime('0')">0:00:00</a> Music  
 <a onclick="modifyYTiframeseektime('28')">0:00:28</a> so we have just one question  
 <a onclick="modifyYTiframeseektime('29')">0:00:29</a> today so which other scholar has so far  
 <a onclick="modifyYTiframeseektime('32')">0:00:32</a> been able to point out  

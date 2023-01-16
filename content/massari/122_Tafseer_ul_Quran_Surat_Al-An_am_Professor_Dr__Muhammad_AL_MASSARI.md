@@ -17,7 +17,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 ## Summary of [122 Tafseer ul Quran Surat Al-An'am Professor Dr Muhammad AL MASSARI](https://www.youtube.com/watch?v=ey5maznjeCM)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -57,7 +57,7 @@ Professor Dr. Muhammad AL MASSARI discusses how the story of Ibrahim can be unde
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 <a onclick="modifyYTiframeseektime('9')">0:00:09</a> foreign  
-<a onclick="modifyYTiframeseektime('12')">0:00:12</a> [Music]  
+<a onclick="modifyYTiframeseektime('12')">0:00:12</a> Music  
 <a onclick="modifyYTiframeseektime('63')">0:01:03</a> these episodes are broadcast live on the  
 <a onclick="modifyYTiframeseektime('66')">0:01:06</a> study Circles of Professor Dr Muhammad  
 <a onclick="modifyYTiframeseektime('67')">0:01:07</a> al-masri YouTube channel every Sunday at  
@@ -2042,7 +2042,7 @@ Professor Dr. Muhammad AL MASSARI discusses how the story of Ibrahim can be unde
 <a onclick="modifyYTiframeseektime('4918')">1:21:58</a> and you might be maybe Haram you'll be  
 <a onclick="modifyYTiframeseektime('4919')">1:21:59</a> resentful but still you can give  
 <a onclick="modifyYTiframeseektime('4923')">1:22:03</a> excellent okay next question  
-<a onclick="modifyYTiframeseektime('4926')">1:22:06</a> [Music]  
+<a onclick="modifyYTiframeseektime('4926')">1:22:06</a> Music  
 <a onclick="modifyYTiframeseektime('4930')">1:22:10</a> I'm not sure what's he trying to say but  
 <a onclick="modifyYTiframeseektime('4932')">1:22:12</a> what would be the ruling on double first  
 <a onclick="modifyYTiframeseektime('4934')">1:22:14</a> cousins who are the children of two  
@@ -2666,10 +2666,10 @@ Professor Dr. Muhammad AL MASSARI discusses how the story of Ibrahim can be unde
 <a onclick="modifyYTiframeseektime('6580')">1:49:40</a> it's only about 50 minutes remaining  
 <a onclick="modifyYTiframeseektime('6585')">1:49:45</a> so  
 <a onclick="modifyYTiframeseektime('6599')">1:49:59</a> foreign  
-<a onclick="modifyYTiframeseektime('6604')">1:50:04</a> [Music]  
-<a onclick="modifyYTiframeseektime('6613')">1:50:13</a> [Music]  
-<a onclick="modifyYTiframeseektime('6619')">1:50:19</a> [Music]  
+<a onclick="modifyYTiframeseektime('6604')">1:50:04</a> Music  
+<a onclick="modifyYTiframeseektime('6613')">1:50:13</a> Music  
+<a onclick="modifyYTiframeseektime('6619')">1:50:19</a> Music  
 <a onclick="modifyYTiframeseektime('6629')">1:50:29</a> foreign  
-<a onclick="modifyYTiframeseektime('6636')">1:50:36</a> [Music]  
-<a onclick="modifyYTiframeseektime('6643')">1:50:43</a> [Music]  
+<a onclick="modifyYTiframeseektime('6636')">1:50:36</a> Music  
+<a onclick="modifyYTiframeseektime('6643')">1:50:43</a> Music  
 </details>

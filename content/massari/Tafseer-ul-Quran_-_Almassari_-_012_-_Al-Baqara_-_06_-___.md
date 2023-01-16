@@ -12,7 +12,7 @@ What happens to them and how should we be with them?
 
 ## Summary of [Tafseer-ul-Quran - Almassari - 012 - Al-Baqara - 06 - تفسير سورة البقرة](https://www.youtube.com/watch?v=m722n0ZG3uE)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -44,7 +44,7 @@ Discusses the concept of free will, and how it relates to the Quran's teachings 
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('3')">0:00:03</a> [Music]  
+<a onclick="modifyYTiframeseektime('3')">0:00:03</a> Music  
 <a onclick="modifyYTiframeseektime('29')">0:00:29</a> i mentioned some comments last time  
 <a onclick="modifyYTiframeseektime('31')">0:00:31</a> about salut and sally  
 <a onclick="modifyYTiframeseektime('32')">0:00:32</a> and said that the ones who claim that  
@@ -2241,7 +2241,7 @@ Discusses the concept of free will, and how it relates to the Quran's teachings 
 <a onclick="modifyYTiframeseektime('4688')">1:18:08</a> and that's that's that's the meaning the  
 <a onclick="modifyYTiframeseektime('4690')">1:18:10</a> correct meaning of khabar and qatar  
 <a onclick="modifyYTiframeseektime('4692')">1:18:12</a> really okay  
-<a onclick="modifyYTiframeseektime('4706')">1:18:26</a> [Music]  
+<a onclick="modifyYTiframeseektime('4706')">1:18:26</a> Music  
 <a onclick="modifyYTiframeseektime('4718')">1:18:38</a> so  
 <a onclick="modifyYTiframeseektime('4722')">1:18:42</a> you  
 </details>

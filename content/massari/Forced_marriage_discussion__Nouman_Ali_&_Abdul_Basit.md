@@ -8,7 +8,7 @@ Brother Abdul Basit discusses how Islam categorically prohibits forced marriages
 
 ## Summary of [Forced marriage discussion: Nouman Ali & Abdul Basit](https://www.youtube.com/watch?v=Zkokr9AlUYs)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:30:00</a>
 
@@ -324,7 +324,7 @@ Brother Abdul Basit discusses how Islam categorically prohibits forced marriages
 <a onclick="modifyYTiframeseektime('708')">0:11:48</a> to this chapter is the section regarding  
 <a onclick="modifyYTiframeseektime('711')">0:11:51</a> the wedding of a child while they are in  
 <a onclick="modifyYTiframeseektime('716')">0:11:56</a> a state of disliking it means that this  
-<a onclick="modifyYTiframeseektime('719')">0:11:59</a> [ __ ] this marriage is rejected and the  
+<a onclick="modifyYTiframeseektime('719')">0:11:59</a>  __  this marriage is rejected and the  
 <a onclick="modifyYTiframeseektime('722')">0:12:02</a> hadith is number 4845 inside jamias hey  
 <a onclick="modifyYTiframeseektime('726')">0:12:06</a> avi mamun bhai or him a lot how death  
 <a onclick="modifyYTiframeseektime('729')">0:12:09</a> knights marion on a hadith new malik and  
@@ -351,11 +351,11 @@ Brother Abdul Basit discusses how Islam categorically prohibits forced marriages
 <a onclick="modifyYTiframeseektime('789')">0:13:09</a> disliked this man she's not happy with  
 <a onclick="modifyYTiframeseektime('790')">0:13:10</a> this marriage so when she came so she  
 <a onclick="modifyYTiframeseektime('793')">0:13:13</a> came to the prophets now sell him when  
-<a onclick="modifyYTiframeseektime('794')">0:13:14</a> he heard of this he said this [ __ ] is  
+<a onclick="modifyYTiframeseektime('794')">0:13:14</a> he heard of this he said this  __  is  
 <a onclick="modifyYTiframeseektime('796')">0:13:16</a> not valid so simple straight the fact of  
 <a onclick="modifyYTiframeseektime('799')">0:13:19</a> the matter is if you are forcing your  
 <a onclick="modifyYTiframeseektime('801')">0:13:21</a> children  
-<a onclick="modifyYTiframeseektime('801')">0:13:21</a> into a [ __ ] they can walk away from  
+<a onclick="modifyYTiframeseektime('801')">0:13:21</a> into a  __  they can walk away from  
 <a onclick="modifyYTiframeseektime('804')">0:13:24</a> that any time so for anyone who's in a  
 <a onclick="modifyYTiframeseektime('805')">0:13:25</a> situation of force margin and feeling  
 <a onclick="modifyYTiframeseektime('807')">0:13:27</a> that all but you know I'm married is  
@@ -520,7 +520,7 @@ Brother Abdul Basit discusses how Islam categorically prohibits forced marriages
 <a onclick="modifyYTiframeseektime('1144')">0:19:04</a> Islam the people who implement the  
 <a onclick="modifyYTiframeseektime('1146')">0:19:06</a> Sharia these are the people we are  
 <a onclick="modifyYTiframeseektime('1147')">0:19:07</a> ordered to obey by Allah and then Allah  
-<a onclick="modifyYTiframeseektime('1150')">0:19:10</a> says in [ __ ] my internets acting for  
+<a onclick="modifyYTiframeseektime('1150')">0:19:10</a> says in  __  my internets acting for  
 <a onclick="modifyYTiframeseektime('1152')">0:19:12</a> sure and if you have any manner of  
 <a onclick="modifyYTiframeseektime('1153')">0:19:13</a> difference you have anything that you  
 <a onclick="modifyYTiframeseektime('1154')">0:19:14</a> differ on return it back to Allah and  

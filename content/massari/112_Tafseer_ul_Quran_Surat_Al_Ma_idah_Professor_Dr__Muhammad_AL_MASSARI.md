@@ -17,7 +17,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 ## Summary of [112 Tafseer ul Quran Surat Al Ma'idah Professor Dr Muhammad AL MASSARI](https://www.youtube.com/watch?v=d1OyGujhKgU)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -62,9 +62,9 @@ with all that they do." He stresses that when a believer comes to you, confirmin
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00</a> [Music]  
+<a onclick="modifyYTiframeseektime('0')">0:00:00</a> Music  
 <a onclick="modifyYTiframeseektime('3')">0:00:03</a> foreign  
-<a onclick="modifyYTiframeseektime('7')">0:00:07</a> [Music]  
+<a onclick="modifyYTiframeseektime('7')">0:00:07</a> Music  
 <a onclick="modifyYTiframeseektime('37')">0:00:37</a> YouTube channel every Sunday at 2PM  
 <a onclick="modifyYTiframeseektime('40')">0:00:40</a> British summer time we invite you to  
 <a onclick="modifyYTiframeseektime('42')">0:00:42</a> subscribe to the channel and activate  
@@ -369,7 +369,7 @@ with all that they do." He stresses that when a believer comes to you, confirmin
 <a onclick="modifyYTiframeseektime('787')">0:13:07</a> then the next one uh a look at the pixel  
 <a onclick="modifyYTiframeseektime('790')">0:13:10</a> translation see if pectal has some  
 <a onclick="modifyYTiframeseektime('791')">0:13:11</a> nuances there different than the others  
-<a onclick="modifyYTiframeseektime('796')">0:13:16</a> [Music]  
+<a onclick="modifyYTiframeseektime('796')">0:13:16</a> Music  
 <a onclick="modifyYTiframeseektime('804')">0:13:24</a> is  
 <a onclick="modifyYTiframeseektime('809')">0:13:29</a> oh ye you believe Let There Be Witnesses  
 <a onclick="modifyYTiframeseektime('813')">0:13:33</a> Between You When Death groweth knife  
@@ -1221,7 +1221,7 @@ with all that they do." He stresses that when a believer comes to you, confirmin
 <a onclick="modifyYTiframeseektime('2927')">0:48:47</a> and uh and they said this is there's  
 <a onclick="modifyYTiframeseektime('2930')">0:48:50</a> nobody nobody living there except shoes  
 <a onclick="modifyYTiframeseektime('2933')">0:48:53</a> but  
-<a onclick="modifyYTiframeseektime('2935')">0:48:55</a> [Music]  
+<a onclick="modifyYTiframeseektime('2935')">0:48:55</a> Music  
 <a onclick="modifyYTiframeseektime('2947')">0:49:07</a> we have broken the Covenant they  
 <a onclick="modifyYTiframeseektime('2950')">0:49:10</a> answered him back  
 <a onclick="modifyYTiframeseektime('2954')">0:49:14</a> we swear by Allah we did not do we did  
@@ -1716,7 +1716,7 @@ with all that they do." He stresses that when a believer comes to you, confirmin
 <a onclick="modifyYTiframeseektime('4098')">1:08:18</a> what's the manifestly rebellious or the  
 <a onclick="modifyYTiframeseektime('4101')">1:08:21</a> how did the last translation translates  
 <a onclick="modifyYTiframeseektime('4103')">1:08:23</a> the word faster P for a second  
-<a onclick="modifyYTiframeseektime('4105')">1:08:25</a> [Music]  
+<a onclick="modifyYTiframeseektime('4105')">1:08:25</a> Music  
 <a onclick="modifyYTiframeseektime('4107')">1:08:27</a> definitely disobedient to know that when  
 <a onclick="modifyYTiframeseektime('4109')">1:08:29</a> they buy their device yeah  
 <a onclick="modifyYTiframeseektime('4113')">1:08:33</a> so or rebellious sorry or stubbornly  
@@ -2527,7 +2527,7 @@ with all that they do." He stresses that when a believer comes to you, confirmin
 <a onclick="modifyYTiframeseektime('6155')">1:42:35</a> but whoever denied the truth after that  
 <a onclick="modifyYTiframeseektime('6157')">1:42:37</a> I will punish him more severely than  
 <a onclick="modifyYTiframeseektime('6159')">1:42:39</a> anyone in the universe  
-<a onclick="modifyYTiframeseektime('6162')">1:42:42</a> [Music]  
+<a onclick="modifyYTiframeseektime('6162')">1:42:42</a> Music  
 <a onclick="modifyYTiframeseektime('6166')">1:42:46</a> then I will punish him more than anyone  
 <a onclick="modifyYTiframeseektime('6168')">1:42:48</a> in the universe  
 <a onclick="modifyYTiframeseektime('6170')">1:42:50</a> now  
@@ -2938,8 +2938,8 @@ with all that they do." He stresses that when a believer comes to you, confirmin
 <a onclick="modifyYTiframeseektime('7117')">1:58:37</a> did you tell the people to adopt me or  
 <a onclick="modifyYTiframeseektime('7119')">1:58:39</a> to appoint me and my mother divine  
 <a onclick="modifyYTiframeseektime('7125')">1:58:45</a> by this kind of  
-<a onclick="modifyYTiframeseektime('7131')">1:58:51</a> [Music]  
+<a onclick="modifyYTiframeseektime('7131')">1:58:51</a> Music  
 <a onclick="modifyYTiframeseektime('7165')">1:59:25</a> foreign  
-<a onclick="modifyYTiframeseektime('7171')">1:59:31</a> [Music]  
-<a onclick="modifyYTiframeseektime('7191')">1:59:51</a> [Music]  
+<a onclick="modifyYTiframeseektime('7171')">1:59:31</a> Music  
+<a onclick="modifyYTiframeseektime('7191')">1:59:51</a> Music  
 </details>

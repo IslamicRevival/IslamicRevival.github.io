@@ -37,7 +37,7 @@ Discussion on Muhammad Ibn Abdul Wahab and his expansion on the mistake of Ibn T
 
 ## Summary of [Muhammad Ibn Abdul Wahab Hero or Heretic?](https://www.youtube.com/watch?v=cRawmTCJeh0)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -101,9 +101,9 @@ argues that Muhammad ibn Abdul Wahab was a hero or heretic, depending on how one
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00</a> [Music]  
+<a onclick="modifyYTiframeseektime('0')">0:00:00</a> Music  
 <a onclick="modifyYTiframeseektime('3')">0:00:03</a> foreign  
-<a onclick="modifyYTiframeseektime('9')">0:00:09</a> [Music]  
+<a onclick="modifyYTiframeseektime('9')">0:00:09</a> Music  
 <a onclick="modifyYTiframeseektime('25')">0:00:25</a> video this week on the subject of  
 <a onclick="modifyYTiframeseektime('29')">0:00:29</a> Muhammad  
 <a onclick="modifyYTiframeseektime('31')">0:00:31</a> paretic or hero  
@@ -433,7 +433,7 @@ argues that Muhammad ibn Abdul Wahab was a hero or heretic, depending on how one
 <a onclick="modifyYTiframeseektime('813')">0:13:33</a> too they went downhill and so on and  
 <a onclick="modifyYTiframeseektime('815')">0:13:35</a> nothing has happened and then he told  
 <a onclick="modifyYTiframeseektime('818')">0:13:38</a> the uh  
-<a onclick="modifyYTiframeseektime('821')">0:13:41</a> [Music]  
+<a onclick="modifyYTiframeseektime('821')">0:13:41</a> Music  
 <a onclick="modifyYTiframeseektime('822')">0:13:42</a> in one of the leader of a house this  
 <a onclick="modifyYTiframeseektime('826')">0:13:46</a> this happened Andrew says it's very  
 <a onclick="modifyYTiframeseektime('828')">0:13:48</a> simple send someone to their tribes so  
@@ -4459,11 +4459,11 @@ argues that Muhammad ibn Abdul Wahab was a hero or heretic, depending on how one
 <a onclick="modifyYTiframeseektime('10846')">3:00:46</a> Anytime Anyplace anywhere  
 <a onclick="modifyYTiframeseektime('10849')">3:00:49</a> it's on the ball's in your court  
 <a onclick="modifyYTiframeseektime('10851')">3:00:51</a> we will respond meaning  
-<a onclick="modifyYTiframeseektime('10863')">3:01:03</a> [Music]  
+<a onclick="modifyYTiframeseektime('10863')">3:01:03</a> Music  
 <a onclick="modifyYTiframeseektime('10874')">3:01:14</a> foreign  
-<a onclick="modifyYTiframeseektime('10875')">3:01:15</a> [Music]  
-<a onclick="modifyYTiframeseektime('10894')">3:01:34</a> [Music]  
+<a onclick="modifyYTiframeseektime('10875')">3:01:15</a> Music  
+<a onclick="modifyYTiframeseektime('10894')">3:01:34</a> Music  
 <a onclick="modifyYTiframeseektime('10904')">3:01:44</a> foreign  
-<a onclick="modifyYTiframeseektime('10907')">3:01:47</a> [Music]  
-<a onclick="modifyYTiframeseektime('10919')">3:01:59</a> [Music]  
+<a onclick="modifyYTiframeseektime('10907')">3:01:47</a> Music  
+<a onclick="modifyYTiframeseektime('10919')">3:01:59</a> Music  
 </details>

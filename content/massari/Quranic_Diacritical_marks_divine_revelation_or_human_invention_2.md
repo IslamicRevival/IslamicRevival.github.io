@@ -11,7 +11,7 @@ Quranic Diacritical marks divine revelation or human invention 2
 
 ## Summary of [Quranic Diacritical marks divine revelation or human invention 2](https://www.youtube.com/watch?v=V5VUEi_us-c)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:35:00</a>
 
@@ -29,7 +29,7 @@ Quranic Diacritical marks divine revelation or human invention 2
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00</a> [Music]  
+<a onclick="modifyYTiframeseektime('0')">0:00:00</a> Music  
 <a onclick="modifyYTiframeseektime('25')">0:00:25</a> all in a place where it shows you here  
 <a onclick="modifyYTiframeseektime('26')">0:00:26</a> you may doubt if so if that caligra is  
 <a onclick="modifyYTiframeseektime('28')">0:00:28</a> not good they're writing you may say  
@@ -590,7 +590,7 @@ Quranic Diacritical marks divine revelation or human invention 2
 <a onclick="modifyYTiframeseektime('1344')">0:22:24</a> possibility of adding and substracting  
 <a onclick="modifyYTiframeseektime('1346')">0:22:26</a> alif wow and yeah  
 <a onclick="modifyYTiframeseektime('1349')">0:22:29</a> the the the soft ones the extension ones  
-<a onclick="modifyYTiframeseektime('1352')">0:22:32</a> [Music]  
+<a onclick="modifyYTiframeseektime('1352')">0:22:32</a> Music  
 <a onclick="modifyYTiframeseektime('1355')">0:22:35</a> all right yeah there's no health there's  
 <a onclick="modifyYTiframeseektime('1357')">0:22:37</a> nothing  
 <a onclick="modifyYTiframeseektime('1358')">0:22:38</a> no rahim  
@@ -636,7 +636,7 @@ Quranic Diacritical marks divine revelation or human invention 2
 <a onclick="modifyYTiframeseektime('1447')">0:24:07</a> and then who they gave up and then they  
 <a onclick="modifyYTiframeseektime('1449')">0:24:09</a> they they left  
 <a onclick="modifyYTiframeseektime('1452')">0:24:12</a> talking to each other  
-<a onclick="modifyYTiframeseektime('1453')">0:24:13</a> [Music]  
+<a onclick="modifyYTiframeseektime('1453')">0:24:13</a> Music  
 <a onclick="modifyYTiframeseektime('1469')">0:24:29</a> this this invention booth  
 <a onclick="modifyYTiframeseektime('1474')">0:24:34</a> was a great arabic  
 <a onclick="modifyYTiframeseektime('1477')">0:24:37</a> specialist and have an enormous arabic  
@@ -760,7 +760,7 @@ Quranic Diacritical marks divine revelation or human invention 2
 <a onclick="modifyYTiframeseektime('1766')">0:29:26</a> together even if they are separated with  
 <a onclick="modifyYTiframeseektime('1767')">0:29:27</a> hawaii we know that  
 <a onclick="modifyYTiframeseektime('1769')">0:29:29</a> the usual israel like for example um  
-<a onclick="modifyYTiframeseektime('1772')">0:29:32</a> [Music]  
+<a onclick="modifyYTiframeseektime('1772')">0:29:32</a> Music  
 <a onclick="modifyYTiframeseektime('1775')">0:29:35</a> we have a scramble we don't have this  
 <a onclick="modifyYTiframeseektime('1776')">0:29:36</a> camera example  
 <a onclick="modifyYTiframeseektime('1793')">0:29:53</a> a super and the next letter of the first  
@@ -931,11 +931,11 @@ Quranic Diacritical marks divine revelation or human invention 2
 <a onclick="modifyYTiframeseektime('2222')">0:37:02</a> otherwise otherwise  
 <a onclick="modifyYTiframeseektime('2224')">0:37:04</a> i would declare mr vision as maybe as an  
 <a onclick="modifyYTiframeseektime('2227')">0:37:07</a> idiot but not as a cuffs  
-<a onclick="modifyYTiframeseektime('2232')">0:37:12</a> [Music]  
-<a onclick="modifyYTiframeseektime('2241')">0:37:21</a> [Music]  
+<a onclick="modifyYTiframeseektime('2232')">0:37:12</a> Music  
+<a onclick="modifyYTiframeseektime('2241')">0:37:21</a> Music  
 <a onclick="modifyYTiframeseektime('2271')">0:37:51</a> foreign  
-<a onclick="modifyYTiframeseektime('2272')">0:37:52</a> [Music]  
+<a onclick="modifyYTiframeseektime('2272')">0:37:52</a> Music  
 <a onclick="modifyYTiframeseektime('2285')">0:38:05</a> so  
-<a onclick="modifyYTiframeseektime('2293')">0:38:13</a> [Music]  
+<a onclick="modifyYTiframeseektime('2293')">0:38:13</a> Music  
 <a onclick="modifyYTiframeseektime('2302')">0:38:22</a> you  
 </details>

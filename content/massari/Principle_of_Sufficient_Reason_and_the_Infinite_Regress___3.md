@@ -10,7 +10,7 @@ Principle of Sufficient Reason and the Infinite Regress   3
 
 ## Summary of [Principle of Sufficient Reason and the Infinite Regress 3](https://www.youtube.com/watch?v=C8nlQ2AJJq4)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:55:00</a>
 
@@ -32,7 +32,7 @@ The principle of sufficient reason is discussed  and it is applied to various si
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00</a> [Music]  
+<a onclick="modifyYTiframeseektime('0')">0:00:00</a> Music  
 <a onclick="modifyYTiframeseektime('20')">0:00:20</a> so today we're gonna continue our  
 <a onclick="modifyYTiframeseektime('22')">0:00:22</a> episode uh on the principle of  
 <a onclick="modifyYTiframeseektime('24')">0:00:24</a> sufficient reason we discussed it last  
@@ -75,7 +75,7 @@ The principle of sufficient reason is discussed  and it is applied to various si
 <a onclick="modifyYTiframeseektime('108')">0:01:48</a> like for example the statement that uh  
 <a onclick="modifyYTiframeseektime('110')">0:01:50</a> uh  
 <a onclick="modifyYTiframeseektime('112')">0:01:52</a> the  
-<a onclick="modifyYTiframeseektime('113')">0:01:53</a> [Music]  
+<a onclick="modifyYTiframeseektime('113')">0:01:53</a> Music  
 <a onclick="modifyYTiframeseektime('116')">0:01:56</a> square circle does not exist  
 <a onclick="modifyYTiframeseektime('119')">0:01:59</a> is immediately evident self-explanatory  
 <a onclick="modifyYTiframeseektime('123')">0:02:03</a> does not exist so  
@@ -149,7 +149,7 @@ The principle of sufficient reason is discussed  and it is applied to various si
 <a onclick="modifyYTiframeseektime('270')">0:04:30</a> for its being true is simply because uh  
 <a onclick="modifyYTiframeseektime('274')">0:04:34</a> lost at waterloo is certainly true  
 <a onclick="modifyYTiframeseektime('276')">0:04:36</a> and then we have  
-<a onclick="modifyYTiframeseektime('277')">0:04:37</a> [Music]  
+<a onclick="modifyYTiframeseektime('277')">0:04:37</a> Music  
 <a onclick="modifyYTiframeseektime('279')">0:04:39</a> uh but that that we can accept napoleon  
 <a onclick="modifyYTiframeseektime('282')">0:04:42</a> lost at waterloo is true how we how we  
 <a onclick="modifyYTiframeseektime('284')">0:04:44</a> will come to know the uh to that we have  
@@ -1512,7 +1512,7 @@ The principle of sufficient reason is discussed  and it is applied to various si
 <a onclick="modifyYTiframeseektime('3270')">0:54:30</a> they have different  
 <a onclick="modifyYTiframeseektime('3272')">0:54:32</a> legal aspects  
 <a onclick="modifyYTiframeseektime('3274')">0:54:34</a> you see  
-<a onclick="modifyYTiframeseektime('3278')">0:54:38</a> [Music]  
+<a onclick="modifyYTiframeseektime('3278')">0:54:38</a> Music  
 <a onclick="modifyYTiframeseektime('3281')">0:54:41</a> let me see shut this one up  
 <a onclick="modifyYTiframeseektime('3282')">0:54:42</a> so that's that's that's the point which  
 <a onclick="modifyYTiframeseektime('3284')">0:54:44</a> is uh which is uh  
@@ -1527,10 +1527,10 @@ The principle of sufficient reason is discussed  and it is applied to various si
 <a onclick="modifyYTiframeseektime('3299')">0:54:59</a> which will have considerable implication  
 <a onclick="modifyYTiframeseektime('3301')">0:55:01</a> will apply to many things hopefully  
 <a onclick="modifyYTiframeseektime('3303')">0:55:03</a> today  
-<a onclick="modifyYTiframeseektime('3310')">0:55:10</a> [Music]  
+<a onclick="modifyYTiframeseektime('3310')">0:55:10</a> Music  
 <a onclick="modifyYTiframeseektime('3342')">0:55:42</a> foreign  
-<a onclick="modifyYTiframeseektime('3346')">0:55:46</a> [Music]  
+<a onclick="modifyYTiframeseektime('3346')">0:55:46</a> Music  
 <a onclick="modifyYTiframeseektime('3362')">0:56:02</a> so  
-<a onclick="modifyYTiframeseektime('3366')">0:56:06</a> [Music]  
+<a onclick="modifyYTiframeseektime('3366')">0:56:06</a> Music  
 <a onclick="modifyYTiframeseektime('3376')">0:56:16</a> foreign  
 </details>

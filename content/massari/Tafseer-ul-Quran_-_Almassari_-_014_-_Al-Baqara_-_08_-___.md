@@ -12,7 +12,7 @@ Misconceptions of Munafiqeen
 
 ## Summary of [Tafseer-ul-Quran - Almassari - 014 - Al-Baqara - 08 - تفسير سورة البقرة](https://www.youtube.com/watch?v=j5unWL0_bx4)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -40,7 +40,7 @@ in this video discusses the dangers of atheism and Christianity from the perspec
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('3')">0:00:03</a> [Music]  
+<a onclick="modifyYTiframeseektime('3')">0:00:03</a> Music  
 <a onclick="modifyYTiframeseektime('20')">0:00:20</a> yeah we continue  
 <a onclick="modifyYTiframeseektime('22')">0:00:22</a> with the the next group of eyes which  
 <a onclick="modifyYTiframeseektime('26')">0:00:26</a> uh related all of them to the penis the  
@@ -1568,7 +1568,7 @@ in this video discusses the dangers of atheism and Christianity from the perspec
 <a onclick="modifyYTiframeseektime('3300')">0:55:00</a> is killed going my son once physically  
 <a onclick="modifyYTiframeseektime('3302')">0:55:02</a> myself or  
 <a onclick="modifyYTiframeseektime('3304')">0:55:04</a> one  
-<a onclick="modifyYTiframeseektime('3306')">0:55:06</a> [Music]  
+<a onclick="modifyYTiframeseektime('3306')">0:55:06</a> Music  
 <a onclick="modifyYTiframeseektime('3317')">0:55:17</a> i remember myself watching television in  
 <a onclick="modifyYTiframeseektime('3320')">0:55:20</a> 1981-82  
 <a onclick="modifyYTiframeseektime('3321')">0:55:21</a> there was an america in a sabbatical  
@@ -1831,6 +1831,6 @@ in this video discusses the dangers of atheism and Christianity from the perspec
 <a onclick="modifyYTiframeseektime('3854')">1:04:14</a> about the vacuum  
 <a onclick="modifyYTiframeseektime('3855')">1:04:15</a> or and we will be able to to  
 <a onclick="modifyYTiframeseektime('3859')">1:04:19</a> to understand things better inshallah  
-<a onclick="modifyYTiframeseektime('3868')">1:04:28</a> [Music]  
+<a onclick="modifyYTiframeseektime('3868')">1:04:28</a> Music  
 <a onclick="modifyYTiframeseektime('3890')">1:04:50</a> you  
 </details>

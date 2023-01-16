@@ -31,7 +31,7 @@ Arabic Channel:
 
 ## Summary of [Roe Vs Wade, Abortion and liberties provided to Non Muslims in Islam](https://www.youtube.com/watch?v=ExrE8ICNhSE)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:30:00</a>
 
@@ -48,9 +48,9 @@ Discusses various aspects of Islamic law, including the issue of abortion.  argu
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00</a> [Music]  
+<a onclick="modifyYTiframeseektime('0')">0:00:00</a> Music  
 <a onclick="modifyYTiframeseektime('2')">0:00:02</a> foreign  
-<a onclick="modifyYTiframeseektime('6')">0:00:06</a> [Music]  
+<a onclick="modifyYTiframeseektime('6')">0:00:06</a> Music  
 <a onclick="modifyYTiframeseektime('24')">0:00:24</a> thing around abortion and in America  
 <a onclick="modifyYTiframeseektime('27')">0:00:27</a> some states have kind of like where  
 <a onclick="modifyYTiframeseektime('29')">0:00:29</a> where some states have bad abortion they  
@@ -294,7 +294,7 @@ Discusses various aspects of Islamic law, including the issue of abortion.  argu
 <a onclick="modifyYTiframeseektime('563')">0:09:23</a> permitted to commit continue with River  
 <a onclick="modifyYTiframeseektime('565')">0:09:25</a> within their own domain no no inside the  
 <a onclick="modifyYTiframeseektime('567')">0:09:27</a> domain  
-<a onclick="modifyYTiframeseektime('569')">0:09:29</a> [Music]  
+<a onclick="modifyYTiframeseektime('569')">0:09:29</a> Music  
 <a onclick="modifyYTiframeseektime('614')">0:10:14</a> will fight for them in the case of War  
 <a onclick="modifyYTiframeseektime('616')">0:10:16</a> that's the reason for these taxes  
 <a onclick="modifyYTiframeseektime('619')">0:10:19</a> that's all and it was calculated foreign  
@@ -823,5 +823,5 @@ Discusses various aspects of Islamic law, including the issue of abortion.  argu
 <a onclick="modifyYTiframeseektime('1909')">0:31:49</a> and bad invitation to Islam through  
 <a onclick="modifyYTiframeseektime('1911')">0:31:51</a> history  
 <a onclick="modifyYTiframeseektime('1914')">0:31:54</a> okay  
-<a onclick="modifyYTiframeseektime('1920')">0:32:00</a> [Music]  
+<a onclick="modifyYTiframeseektime('1920')">0:32:00</a> Music  
 </details>

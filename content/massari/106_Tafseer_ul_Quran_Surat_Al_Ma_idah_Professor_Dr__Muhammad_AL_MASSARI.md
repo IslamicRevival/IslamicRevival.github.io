@@ -17,7 +17,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 ## Summary of [106 Tafseer ul Quran Surat Al Ma'idah Professor Dr Muhammad AL MASSARI](https://www.youtube.com/watch?v=I9d2UgIkZm0)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -73,8 +73,8 @@ Dr. Muhammad Ali Massari discusses his upcoming presentation on Quranic studies 
 
 <a onclick="modifyYTiframeseektime('0')">0:00:00</a> muscle  
 <a onclick="modifyYTiframeseektime('1')">0:00:01</a> these episodes are broadcast  
-<a onclick="modifyYTiframeseektime('21')">0:00:21</a> [Music]  
-<a onclick="modifyYTiframeseektime('49')">0:00:49</a> [Music]  
+<a onclick="modifyYTiframeseektime('21')">0:00:21</a> Music  
+<a onclick="modifyYTiframeseektime('49')">0:00:49</a> Music  
 <a onclick="modifyYTiframeseektime('55')">0:00:55</a> i think everyone should mute because i  
 <a onclick="modifyYTiframeseektime('56')">0:00:56</a> think i was hearing something in the  
 <a onclick="modifyYTiframeseektime('57')">0:00:57</a> background  
@@ -85,7 +85,7 @@ Dr. Muhammad Ali Massari discusses his upcoming presentation on Quranic studies 
 <a onclick="modifyYTiframeseektime('65')">0:01:05</a> i we start with the ayah we finished  
 <a onclick="modifyYTiframeseektime('68')">0:01:08</a> yeah we finished the issue of people do  
 <a onclick="modifyYTiframeseektime('70')">0:01:10</a> a waging war  
-<a onclick="modifyYTiframeseektime('89')">0:01:29</a> [Music]  
+<a onclick="modifyYTiframeseektime('89')">0:01:29</a> Music  
 <a onclick="modifyYTiframeseektime('99')">0:01:39</a> one and um  
 <a onclick="modifyYTiframeseektime('100')">0:01:40</a> now as for the man who steals and the  
 <a onclick="modifyYTiframeseektime('102')">0:01:42</a> woman who steals cut off the hand of  
@@ -281,7 +281,7 @@ Dr. Muhammad Ali Massari discusses his upcoming presentation on Quranic studies 
 <a onclick="modifyYTiframeseektime('522')">0:08:42</a> cursed and the man was persuaded to let  
 <a onclick="modifyYTiframeseektime('524')">0:08:44</a> him go  
 <a onclick="modifyYTiframeseektime('525')">0:08:45</a> and then one president  
-<a onclick="modifyYTiframeseektime('527')">0:08:47</a> [Music]  
+<a onclick="modifyYTiframeseektime('527')">0:08:47</a> Music  
 <a onclick="modifyYTiframeseektime('529')">0:08:49</a> one of the tabirin who did not have  
 <a onclick="modifyYTiframeseektime('531')">0:08:51</a> really this high morality of the sahaba  
 <a onclick="modifyYTiframeseektime('533')">0:08:53</a> despite of some of them of tough  
@@ -1426,7 +1426,7 @@ Dr. Muhammad Ali Massari discusses his upcoming presentation on Quranic studies 
 <a onclick="modifyYTiframeseektime('3020')">0:50:20</a> the issue of killing and and and  
 <a onclick="modifyYTiframeseektime('3022')">0:50:22</a> compensation and so on who shows that  
 <a onclick="modifyYTiframeseektime('3023')">0:50:23</a> the national bastard  
-<a onclick="modifyYTiframeseektime('3041')">0:50:41</a> [Music]  
+<a onclick="modifyYTiframeseektime('3041')">0:50:41</a> Music  
 <a onclick="modifyYTiframeseektime('3053')">0:50:53</a> a life for a life and an eye for an eye  
 <a onclick="modifyYTiframeseektime('3056')">0:50:56</a> and a nose for a nose and an ear for an  
 <a onclick="modifyYTiframeseektime('3058')">0:50:58</a> ear and a tooth for a tooth and a  
@@ -3027,7 +3027,7 @@ Dr. Muhammad Ali Massari discusses his upcoming presentation on Quranic studies 
 <a onclick="modifyYTiframeseektime('6722')">1:52:02</a> series right let me see  
 <a onclick="modifyYTiframeseektime('6736')">1:52:16</a> yeah did we enter i have hookum  
 <a onclick="modifyYTiframeseektime('6743')">1:52:23</a> one second we are currently on  
-<a onclick="modifyYTiframeseektime('6746')">1:52:26</a> [Music]  
+<a onclick="modifyYTiframeseektime('6746')">1:52:26</a> Music  
 <a onclick="modifyYTiframeseektime('6747')">1:52:27</a> we are currently on uh  
 <a onclick="modifyYTiframeseektime('6750')">1:52:30</a> 49 so the one before  
 <a onclick="modifyYTiframeseektime('6757')">1:52:37</a> yeah it still said the final this is the  
@@ -3154,7 +3154,7 @@ Dr. Muhammad Ali Massari discusses his upcoming presentation on Quranic studies 
 <a onclick="modifyYTiframeseektime('7038')">1:57:18</a> that's the reality of the world and we  
 <a onclick="modifyYTiframeseektime('7040')">1:57:20</a> have to live with it as it is i think we  
 <a onclick="modifyYTiframeseektime('7042')">1:57:22</a> stop here this is  
-<a onclick="modifyYTiframeseektime('7052')">1:57:32</a> [Music]  
+<a onclick="modifyYTiframeseektime('7052')">1:57:32</a> Music  
 <a onclick="modifyYTiframeseektime('7054')">1:57:34</a> uh recurring question about the finance  
 <a onclick="modifyYTiframeseektime('7056')">1:57:36</a> stuff i hope the brother would have  
 <a onclick="modifyYTiframeseektime('7059')">1:57:39</a> dialed in because anything that's  
@@ -3195,7 +3195,7 @@ Dr. Muhammad Ali Massari discusses his upcoming presentation on Quranic studies 
 <a onclick="modifyYTiframeseektime('7137')">1:58:57</a> um  
 <a onclick="modifyYTiframeseektime('7138')">1:58:58</a> a bit of discussion in there most of  
 <a onclick="modifyYTiframeseektime('7140')">1:59:00</a> some  
-<a onclick="modifyYTiframeseektime('7154')">1:59:14</a> [Music]  
+<a onclick="modifyYTiframeseektime('7154')">1:59:14</a> Music  
 <a onclick="modifyYTiframeseektime('7155')">1:59:15</a> pocus  
 <a onclick="modifyYTiframeseektime('7158')">1:59:18</a> is not translated yet but it's available  
 <a onclick="modifyYTiframeseektime('7160')">1:59:20</a> in arabic the the the i think it's the  
@@ -3952,14 +3952,14 @@ Dr. Muhammad Ali Massari discusses his upcoming presentation on Quranic studies 
 <a onclick="modifyYTiframeseektime('8843')">2:27:23</a> that's in the 19th century now we have  
 <a onclick="modifyYTiframeseektime('8844')">2:27:24</a> to get out of them of the world of the  
 <a onclick="modifyYTiframeseektime('8846')">2:27:26</a> west and this passport and say  
-<a onclick="modifyYTiframeseektime('8861')">2:27:41</a> [Music]  
+<a onclick="modifyYTiframeseektime('8861')">2:27:41</a> Music  
 <a onclick="modifyYTiframeseektime('8863')">2:27:43</a> so there's the following question about  
 <a onclick="modifyYTiframeseektime('8865')">2:27:45</a> is it haram for a muslim to come  
 <a onclick="modifyYTiframeseektime('8867')">2:27:47</a> illegally  
 <a onclick="modifyYTiframeseektime('8868')">2:27:48</a> to an islamic authority then  
 <a onclick="modifyYTiframeseektime('8872')">2:27:52</a> why should be coming  
 <a onclick="modifyYTiframeseektime('8877')">2:27:57</a> illegally  
-<a onclick="modifyYTiframeseektime('8878')">2:27:58</a> [Music]  
+<a onclick="modifyYTiframeseektime('8878')">2:27:58</a> Music  
 <a onclick="modifyYTiframeseektime('8880')">2:28:00</a> i mean what means that so  
 <a onclick="modifyYTiframeseektime('8882')">2:28:02</a> for example you've got say i don't know  
 <a onclick="modifyYTiframeseektime('8885')">2:28:05</a> there's an authority there yeah just  
@@ -4012,7 +4012,7 @@ Dr. Muhammad Ali Massari discusses his upcoming presentation on Quranic studies 
 <a onclick="modifyYTiframeseektime('8985')">2:29:45</a> like  
 <a onclick="modifyYTiframeseektime('8986')">2:29:46</a> in the hadith  
 <a onclick="modifyYTiframeseektime('8988')">2:29:48</a> will come  
-<a onclick="modifyYTiframeseektime('8988')">2:29:48</a> [Music]  
+<a onclick="modifyYTiframeseektime('8988')">2:29:48</a> Music  
 <a onclick="modifyYTiframeseektime('8990')">2:29:50</a> by the way well established anyway  
 <a onclick="modifyYTiframeseektime('8992')">2:29:52</a> they they say they all the ruling of  
 <a onclick="modifyYTiframeseektime('8995')">2:29:55</a> islam applies to them and they have the  
@@ -4052,7 +4052,7 @@ Dr. Muhammad Ali Massari discusses his upcoming presentation on Quranic studies 
 <a onclick="modifyYTiframeseektime('9055')">2:30:55</a> the thing is also for a muslim to go to  
 <a onclick="modifyYTiframeseektime('9056')">2:30:56</a> a normal country can he just go there  
 <a onclick="modifyYTiframeseektime('9059')">2:30:59</a> illegally  
-<a onclick="modifyYTiframeseektime('9060')">2:31:00</a> [Music]  
+<a onclick="modifyYTiframeseektime('9060')">2:31:00</a> Music  
 <a onclick="modifyYTiframeseektime('9061')">2:31:01</a> yeah because you have the right to be  
 <a onclick="modifyYTiframeseektime('9063')">2:31:03</a> anywhere in the world  
 <a onclick="modifyYTiframeseektime('9064')">2:31:04</a> but you will be will be subject to the  
@@ -4202,11 +4202,11 @@ Dr. Muhammad Ali Massari discusses his upcoming presentation on Quranic studies 
 <a onclick="modifyYTiframeseektime('9404')">2:36:44</a> let's take this off you've got my what's  
 <a onclick="modifyYTiframeseektime('9405')">2:36:45</a> up  
 <a onclick="modifyYTiframeseektime('9428')">2:37:08</a> anyway  
-<a onclick="modifyYTiframeseektime('9444')">2:37:24</a> [Music]  
-<a onclick="modifyYTiframeseektime('9469')">2:37:49</a> [Music]  
-<a onclick="modifyYTiframeseektime('9474')">2:37:54</a> [Music]  
+<a onclick="modifyYTiframeseektime('9444')">2:37:24</a> Music  
+<a onclick="modifyYTiframeseektime('9469')">2:37:49</a> Music  
+<a onclick="modifyYTiframeseektime('9474')">2:37:54</a> Music  
 <a onclick="modifyYTiframeseektime('9481')">2:38:01</a> is  
-<a onclick="modifyYTiframeseektime('9484')">2:38:04</a> [Music]  
-<a onclick="modifyYTiframeseektime('9492')">2:38:12</a> [Music]  
+<a onclick="modifyYTiframeseektime('9484')">2:38:04</a> Music  
+<a onclick="modifyYTiframeseektime('9492')">2:38:12</a> Music  
 <a onclick="modifyYTiframeseektime('9514')">2:38:34</a> you  
 </details>

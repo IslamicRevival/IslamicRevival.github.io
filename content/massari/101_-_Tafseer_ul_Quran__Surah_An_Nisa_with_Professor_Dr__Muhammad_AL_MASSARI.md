@@ -13,7 +13,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 ## Summary of [101 - Tafseer ul Quran: Surah An Nisa with Professor Dr Muhammad AL MASSARI](https://www.youtube.com/watch?v=aKjLxPGk5C4)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -48,8 +48,8 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00</a> [Music]  
-<a onclick="modifyYTiframeseektime('50')">0:00:50</a> [Music]  
+<a onclick="modifyYTiframeseektime('0')">0:00:00</a> Music  
+<a onclick="modifyYTiframeseektime('50')">0:00:50</a> Music  
 <a onclick="modifyYTiframeseektime('57')">0:00:57</a> but as for those from among them who are  
 <a onclick="modifyYTiframeseektime('59')">0:00:59</a> deeply rooted in knowledge the believers  
 <a onclick="modifyYTiframeseektime('62')">0:01:02</a> who are who believe in that which has  
@@ -493,7 +493,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <a onclick="modifyYTiframeseektime('975')">0:16:15</a> which make him divine or anything like  
 <a onclick="modifyYTiframeseektime('977')">0:16:17</a> that  
 <a onclick="modifyYTiframeseektime('978')">0:16:18</a> another quran  
-<a onclick="modifyYTiframeseektime('986')">0:16:26</a> [Music]  
+<a onclick="modifyYTiframeseektime('986')">0:16:26</a> Music  
 <a onclick="modifyYTiframeseektime('1003')">0:16:43</a> and as we have inspired other apostles  
 <a onclick="modifyYTiframeseektime('1005')">0:16:45</a> whom we have mentioned to thee are this  
 <a onclick="modifyYTiframeseektime('1008')">0:16:48</a> as well as apostles as well as apostles  
@@ -1639,7 +1639,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <a onclick="modifyYTiframeseektime('3437')">0:57:17</a> and then another category  
 <a onclick="modifyYTiframeseektime('3441')">0:57:21</a> of this believer who committed in  
 <a onclick="modifyYTiframeseektime('3443')">0:57:23</a> addition engines is  
-<a onclick="modifyYTiframeseektime('3444')">0:57:24</a> [Music]  
+<a onclick="modifyYTiframeseektime('3444')">0:57:24</a> Music  
 <a onclick="modifyYTiframeseektime('3455')">0:57:35</a> behold those who have been to deny the  
 <a onclick="modifyYTiframeseektime('3456')">0:57:36</a> truth and evil doing god will not  
 <a onclick="modifyYTiframeseektime('3459')">0:57:39</a> forgive them nor will he guide them onto  
@@ -1833,8 +1833,8 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <a onclick="modifyYTiframeseektime('3871')">1:04:31</a> that's rational or acceptable  
 <a onclick="modifyYTiframeseektime('3874')">1:04:34</a> and then another address now to the  
 <a onclick="modifyYTiframeseektime('3876')">1:04:36</a> people of the book  
-<a onclick="modifyYTiframeseektime('3878')">1:04:38</a> [Music]  
-<a onclick="modifyYTiframeseektime('3889')">1:04:49</a> [Music]  
+<a onclick="modifyYTiframeseektime('3878')">1:04:38</a> Music  
+<a onclick="modifyYTiframeseektime('3889')">1:04:49</a> Music  
 <a onclick="modifyYTiframeseektime('3892')">1:04:52</a> rasulullah  
 <a onclick="modifyYTiframeseektime('3911')">1:05:11</a> oh followers of the gospel do not  
 <a onclick="modifyYTiframeseektime('3913')">1:05:13</a> overstep the bounds of truth in your  
@@ -2418,7 +2418,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <a onclick="modifyYTiframeseektime('5204')">1:26:44</a> he says you're the there's that famous  
 <a onclick="modifyYTiframeseektime('5206')">1:26:46</a> goal isn't it yeah the one after him or  
 <a onclick="modifyYTiframeseektime('5208')">1:26:48</a> the second of time  
-<a onclick="modifyYTiframeseektime('5210')">1:26:50</a> [Music]  
+<a onclick="modifyYTiframeseektime('5210')">1:26:50</a> Music  
 <a onclick="modifyYTiframeseektime('5214')">1:26:54</a> not believing in the divinity of christ  
 <a onclick="modifyYTiframeseektime('5216')">1:26:56</a> while the church is in in asia and so on  
 <a onclick="modifyYTiframeseektime('5219')">1:26:59</a> in the greek  
@@ -2513,11 +2513,11 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <a onclick="modifyYTiframeseektime('5417')">1:30:17</a> like  
 <a onclick="modifyYTiframeseektime('5418')">1:30:18</a> like  
 <a onclick="modifyYTiframeseektime('5419')">1:30:19</a> like a secret until you meet next time  
-<a onclick="modifyYTiframeseektime('5429')">1:30:29</a> [Music]  
-<a onclick="modifyYTiframeseektime('5436')">1:30:36</a> [Music]  
+<a onclick="modifyYTiframeseektime('5429')">1:30:29</a> Music  
+<a onclick="modifyYTiframeseektime('5436')">1:30:36</a> Music  
 <a onclick="modifyYTiframeseektime('5466')">1:31:06</a> is  
-<a onclick="modifyYTiframeseektime('5469')">1:31:09</a> [Music]  
+<a onclick="modifyYTiframeseektime('5469')">1:31:09</a> Music  
 <a onclick="modifyYTiframeseektime('5477')">1:31:17</a> so  
-<a onclick="modifyYTiframeseektime('5489')">1:31:29</a> [Music]  
+<a onclick="modifyYTiframeseektime('5489')">1:31:29</a> Music  
 <a onclick="modifyYTiframeseektime('5499')">1:31:39</a> you  
 </details>

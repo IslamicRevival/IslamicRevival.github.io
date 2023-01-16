@@ -17,7 +17,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 ## Summary of [116 Tafseer ul Quran Surat Al-An'am Professor Dr Muhammad AL MASSARI](https://www.youtube.com/watch?v=30BrZ-d5ZnA)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -69,7 +69,7 @@ The professor discusses the concept of ta'feer, or the Islamic practice of repen
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 <a onclick="modifyYTiframeseektime('10')">0:00:10</a> foreign  
-<a onclick="modifyYTiframeseektime('10')">0:00:10</a> [Music]  
+<a onclick="modifyYTiframeseektime('10')">0:00:10</a> Music  
 <a onclick="modifyYTiframeseektime('53')">0:00:53</a> foreign  
 <a onclick="modifyYTiframeseektime('66')">0:01:06</a> these episodes are broadcast live on the  
 <a onclick="modifyYTiframeseektime('69')">0:01:09</a> study Circles of Professor Dr Muhammad  
@@ -3132,11 +3132,11 @@ The professor discusses the concept of ta'feer, or the Islamic practice of repen
 <a onclick="modifyYTiframeseektime('7548')">2:05:48</a> very hard condemned Yourself by your own  
 <a onclick="modifyYTiframeseektime('7549')">2:05:49</a> behavior change your behavior then we  
 <a onclick="modifyYTiframeseektime('7552')">2:05:52</a> accept that  
-<a onclick="modifyYTiframeseektime('7574')">2:06:14</a> [Music]  
+<a onclick="modifyYTiframeseektime('7574')">2:06:14</a> Music  
 <a onclick="modifyYTiframeseektime('7585')">2:06:25</a> foreign  
-<a onclick="modifyYTiframeseektime('7590')">2:06:30</a> [Music]  
-<a onclick="modifyYTiframeseektime('7599')">2:06:39</a> [Music]  
-<a onclick="modifyYTiframeseektime('7605')">2:06:45</a> [Music]  
+<a onclick="modifyYTiframeseektime('7590')">2:06:30</a> Music  
+<a onclick="modifyYTiframeseektime('7599')">2:06:39</a> Music  
+<a onclick="modifyYTiframeseektime('7605')">2:06:45</a> Music  
 <a onclick="modifyYTiframeseektime('7616')">2:06:56</a> foreign  
-<a onclick="modifyYTiframeseektime('7622')">2:07:02</a> [Music]  
+<a onclick="modifyYTiframeseektime('7622')">2:07:02</a> Music  
 </details>

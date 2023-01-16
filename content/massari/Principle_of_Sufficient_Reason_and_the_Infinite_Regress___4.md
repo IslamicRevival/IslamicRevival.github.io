@@ -10,7 +10,7 @@ Principle of Sufficient Reason and the Infinite Regress   4
 
 ## Summary of [Principle of Sufficient Reason and the Infinite Regress 4](https://www.youtube.com/watch?v=hYFpm7PKzbA)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -59,7 +59,7 @@ Although this theory is accurate in some cases, it is not perfect. In fact, it m
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00</a> [Music]  
+<a onclick="modifyYTiframeseektime('0')">0:00:00</a> Music  
 <a onclick="modifyYTiframeseektime('18')">0:00:18</a> professor restart yeah okay  
 <a onclick="modifyYTiframeseektime('20')">0:00:20</a> so  
 <a onclick="modifyYTiframeseektime('21')">0:00:21</a> so let us stress that i think it is a  
@@ -333,7 +333,7 @@ Although this theory is accurate in some cases, it is not perfect. In fact, it m
 <a onclick="modifyYTiframeseektime('632')">0:10:32</a> is here yes is from uh according to  
 <a onclick="modifyYTiframeseektime('635')">0:10:35</a> bellows it must have been like a  
 <a onclick="modifyYTiframeseektime('637')">0:10:37</a> blank size  
-<a onclick="modifyYTiframeseektime('638')">0:10:38</a> [Music]  
+<a onclick="modifyYTiframeseektime('638')">0:10:38</a> Music  
 <a onclick="modifyYTiframeseektime('640')">0:10:40</a> or extremely small usually it is set as  
 <a onclick="modifyYTiframeseektime('642')">0:10:42</a> a blank size uh black hole  
 <a onclick="modifyYTiframeseektime('645')">0:10:45</a> and this one starts expanding expanding  
@@ -2109,11 +2109,11 @@ Although this theory is accurate in some cases, it is not perfect. In fact, it m
 <a onclick="modifyYTiframeseektime('4545')">1:15:45</a> which should be studied exclusively  
 <a onclick="modifyYTiframeseektime('4547')">1:15:47</a> mathematical but human beings need some  
 <a onclick="modifyYTiframeseektime('4549')">1:15:49</a> some pictures  
-<a onclick="modifyYTiframeseektime('4557')">1:15:57</a> [Music]  
-<a onclick="modifyYTiframeseektime('4563')">1:16:03</a> [Music]  
+<a onclick="modifyYTiframeseektime('4557')">1:15:57</a> Music  
+<a onclick="modifyYTiframeseektime('4563')">1:16:03</a> Music  
 <a onclick="modifyYTiframeseektime('4593')">1:16:33</a> a  
-<a onclick="modifyYTiframeseektime('4594')">1:16:34</a> [Music]  
+<a onclick="modifyYTiframeseektime('4594')">1:16:34</a> Music  
 <a onclick="modifyYTiframeseektime('4611')">1:16:51</a> so  
-<a onclick="modifyYTiframeseektime('4614')">1:16:54</a> [Music]  
+<a onclick="modifyYTiframeseektime('4614')">1:16:54</a> Music  
 <a onclick="modifyYTiframeseektime('4624')">1:17:04</a> you  
 </details>

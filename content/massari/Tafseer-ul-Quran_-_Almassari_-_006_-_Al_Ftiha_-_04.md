@@ -16,7 +16,7 @@ We want to recommend Kitab ut-Tawheed: The Basis of Islam and the Reality of Mon
 
 ## Summary of [Tafseer-ul-Quran - Almassari - 006 - Al Fātiha - 04](https://www.youtube.com/watch?v=kKgCSar1_So)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:50:00</a>
 
@@ -37,7 +37,7 @@ We want to recommend Kitab ut-Tawheed: The Basis of Islam and the Reality of Mon
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00</a> [Music]  
+<a onclick="modifyYTiframeseektime('0')">0:00:00</a> Music  
 <a onclick="modifyYTiframeseektime('49')">0:00:49</a> uh with the  
 <a onclick="modifyYTiframeseektime('50')">0:00:50</a> comparison to the comparable prayer or  
 <a onclick="modifyYTiframeseektime('54')">0:00:54</a> form of prayers because in fact has also  
@@ -78,7 +78,7 @@ We want to recommend Kitab ut-Tawheed: The Basis of Islam and the Reality of Mon
 <a onclick="modifyYTiframeseektime('133')">0:02:13</a> comprehensive scan of old manuscripts  
 <a onclick="modifyYTiframeseektime('136')">0:02:16</a> and  
 <a onclick="modifyYTiframeseektime('137')">0:02:17</a> evidences etc  
-<a onclick="modifyYTiframeseektime('138')">0:02:18</a> [Music]  
+<a onclick="modifyYTiframeseektime('138')">0:02:18</a> Music  
 <a onclick="modifyYTiframeseektime('140')">0:02:20</a> so the transition also is not only one  
 <a onclick="modifyYTiframeseektime('144')">0:02:24</a> version the various one is for  
 <a onclick="modifyYTiframeseektime('145')">0:02:25</a> protestant one for  
@@ -165,7 +165,7 @@ We want to recommend Kitab ut-Tawheed: The Basis of Islam and the Reality of Mon
 <a onclick="modifyYTiframeseektime('304')">0:05:04</a> somebody should have recorded it that's  
 <a onclick="modifyYTiframeseektime('306')">0:05:06</a> just one source  
 <a onclick="modifyYTiframeseektime('307')">0:05:07</a> because that's something  
-<a onclick="modifyYTiframeseektime('309')">0:05:09</a> [Music]  
+<a onclick="modifyYTiframeseektime('309')">0:05:09</a> Music  
 <a onclick="modifyYTiframeseektime('311')">0:05:11</a> supranatural and so obvious uh  
 <a onclick="modifyYTiframeseektime('314')">0:05:14</a> visible to all the people of jesus and  
 <a onclick="modifyYTiframeseektime('316')">0:05:16</a> that hundreds of the people came out of  
@@ -523,7 +523,7 @@ We want to recommend Kitab ut-Tawheed: The Basis of Islam and the Reality of Mon
 <a onclick="modifyYTiframeseektime('1062')">0:17:42</a> muslims in in  
 <a onclick="modifyYTiframeseektime('1063')">0:17:43</a> in the understanding of the meaning of  
 <a onclick="modifyYTiframeseektime('1064')">0:17:44</a> the shahada  
-<a onclick="modifyYTiframeseektime('1070')">0:17:50</a> [Music]  
+<a onclick="modifyYTiframeseektime('1070')">0:17:50</a> Music  
 <a onclick="modifyYTiframeseektime('1072')">0:17:52</a> belief in his heart will ultimately  
 <a onclick="modifyYTiframeseektime('1074')">0:17:54</a> enter paradise  
 <a onclick="modifyYTiframeseektime('1076')">0:17:56</a> and that has been abused also by by many  
@@ -1229,7 +1229,7 @@ We want to recommend Kitab ut-Tawheed: The Basis of Islam and the Reality of Mon
 <a onclick="modifyYTiframeseektime('2486')">0:41:26</a> it would  
 <a onclick="modifyYTiframeseektime('2486')">0:41:26</a> forgive us our sins no need to say i  
 <a onclick="modifyYTiframeseektime('2489')">0:41:29</a> would say as we forgive those  
-<a onclick="modifyYTiframeseektime('2490')">0:41:30</a> [Music]  
+<a onclick="modifyYTiframeseektime('2490')">0:41:30</a> Music  
 <a onclick="modifyYTiframeseektime('2492')">0:41:32</a> maybe it should uh in an islamist  
 <a onclick="modifyYTiframeseektime('2494')">0:41:34</a> application we see  
 <a onclick="modifyYTiframeseektime('2495')">0:41:35</a> and encourage us or motivate us to  
@@ -1375,7 +1375,7 @@ We want to recommend Kitab ut-Tawheed: The Basis of Islam and the Reality of Mon
 <a onclick="modifyYTiframeseektime('2769')">0:46:09</a> to whatever uh interpretation all of  
 <a onclick="modifyYTiframeseektime('2771')">0:46:11</a> them contradict allah sovereignty  
 <a onclick="modifyYTiframeseektime('2774')">0:46:14</a> and all all comprehensive power but  
-<a onclick="modifyYTiframeseektime('2777')">0:46:17</a> [Music]  
+<a onclick="modifyYTiframeseektime('2777')">0:46:17</a> Music  
 <a onclick="modifyYTiframeseektime('2779')">0:46:19</a> you you could get confused especially if  
 <a onclick="modifyYTiframeseektime('2780')">0:46:20</a> you are influenced in the time of the  
 <a onclick="modifyYTiframeseektime('2782')">0:46:22</a> spirit of the time at the time was like  
@@ -1458,7 +1458,7 @@ We want to recommend Kitab ut-Tawheed: The Basis of Islam and the Reality of Mon
 <a onclick="modifyYTiframeseektime('2928')">0:48:48</a> meaning let your kingdom come and  
 <a onclick="modifyYTiframeseektime('2931')">0:48:51</a> thought about an allies probably it is  
 <a onclick="modifyYTiframeseektime('2933')">0:48:53</a> asking for someone else to come  
-<a onclick="modifyYTiframeseektime('2934')">0:48:54</a> [Music]  
+<a onclick="modifyYTiframeseektime('2934')">0:48:54</a> Music  
 <a onclick="modifyYTiframeseektime('2936')">0:48:56</a> or to establish a kingdom or to kingdom  
 <a onclick="modifyYTiframeseektime('2938')">0:48:58</a> to come whatever way it comes but it has  
 <a onclick="modifyYTiframeseektime('2940')">0:49:00</a> to come  
@@ -1603,6 +1603,6 @@ We want to recommend Kitab ut-Tawheed: The Basis of Islam and the Reality of Mon
 <a onclick="modifyYTiframeseektime('3217')">0:53:37</a> as they come in their order okay i think  
 <a onclick="modifyYTiframeseektime('3219')">0:53:39</a> that's that's  
 <a onclick="modifyYTiframeseektime('3220')">0:53:40</a> that's  
-<a onclick="modifyYTiframeseektime('3228')">0:53:48</a> [Music]  
+<a onclick="modifyYTiframeseektime('3228')">0:53:48</a> Music  
 <a onclick="modifyYTiframeseektime('3233')">0:53:53</a> foreign  
 </details>

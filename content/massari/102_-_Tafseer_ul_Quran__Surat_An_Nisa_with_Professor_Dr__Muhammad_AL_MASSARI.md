@@ -15,7 +15,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 ## Summary of [102 - Tafseer ul Quran: Surat An Nisa with Professor Dr Muhammad AL MASSARI](https://www.youtube.com/watch?v=4-olgD8JezQ)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -55,7 +55,7 @@ Professor Dr. Muhammad AL MASSARI discusses the different scenarios in which a m
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00</a> [Music]  
+<a onclick="modifyYTiframeseektime('0')">0:00:00</a> Music  
 <a onclick="modifyYTiframeseektime('27')">0:00:27</a> brothers and sisters in episode 102 of  
 <a onclick="modifyYTiframeseektime('29')">0:00:29</a> the weekly episodes of the  
 <a onclick="modifyYTiframeseektime('31')">0:00:31</a> interpretation  
@@ -2091,7 +2091,7 @@ Professor Dr. Muhammad AL MASSARI discusses the different scenarios in which a m
 <a onclick="modifyYTiframeseektime('4466')">1:14:26</a> and we'll see from some of what he says  
 <a onclick="modifyYTiframeseektime('4468')">1:14:28</a> what's the problem was bugging him  
 <a onclick="modifyYTiframeseektime('4480')">1:14:40</a> for  
-<a onclick="modifyYTiframeseektime('4498')">1:14:58</a> [Music]  
+<a onclick="modifyYTiframeseektime('4498')">1:14:58</a> Music  
 <a onclick="modifyYTiframeseektime('4517')">1:15:17</a> they will ask thee to enlighten them say  
 <a onclick="modifyYTiframeseektime('4520')">1:15:20</a> god enlightens you thus about the laws  
 <a onclick="modifyYTiframeseektime('4522')">1:15:22</a> concerning inheritance from those who  
@@ -2435,7 +2435,7 @@ Professor Dr. Muhammad AL MASSARI discusses the different scenarios in which a m
 <a onclick="modifyYTiframeseektime('5246')">1:27:26</a> following  
 <a onclick="modifyYTiframeseektime('5249')">1:27:29</a> has have  
 <a onclick="modifyYTiframeseektime('5252')">1:27:32</a> unfortunately i must i must stress  
-<a onclick="modifyYTiframeseektime('5254')">1:27:34</a> [Music]  
+<a onclick="modifyYTiframeseektime('5254')">1:27:34</a> Music  
 <a onclick="modifyYTiframeseektime('5256')">1:27:36</a> a ton of rubbish  
 <a onclick="modifyYTiframeseektime('5257')">1:27:37</a> unfortunately i have to say it  
 <a onclick="modifyYTiframeseektime('5259')">1:27:39</a> openly and without hesitation  
@@ -3232,10 +3232,10 @@ Professor Dr. Muhammad AL MASSARI discusses the different scenarios in which a m
 <a onclick="modifyYTiframeseektime('7037')">1:57:17</a> and then inshaallah will continue with  
 <a onclick="modifyYTiframeseektime('7040')">1:57:20</a> next week  
 <a onclick="modifyYTiframeseektime('7075')">1:57:55</a> so  
-<a onclick="modifyYTiframeseektime('7080')">1:58:00</a> [Music]  
+<a onclick="modifyYTiframeseektime('7080')">1:58:00</a> Music  
 <a onclick="modifyYTiframeseektime('7116')">1:58:36</a> my  
-<a onclick="modifyYTiframeseektime('7117')">1:58:37</a> [Music]  
+<a onclick="modifyYTiframeseektime('7117')">1:58:37</a> Music  
 <a onclick="modifyYTiframeseektime('7128')">1:58:48</a> so  
-<a onclick="modifyYTiframeseektime('7137')">1:58:57</a> [Music]  
+<a onclick="modifyYTiframeseektime('7137')">1:58:57</a> Music  
 <a onclick="modifyYTiframeseektime('7147')">1:59:07</a> you  
 </details>

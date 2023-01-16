@@ -15,7 +15,7 @@ Dispelling Misconceptions?
 
 ## Summary of [Discussion on Zakat](https://www.youtube.com/watch?v=39Vep9aTNa4)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:35:00</a>
 
@@ -33,7 +33,7 @@ in this video discusses the Islamic concept of zakat, which is a mandatory chari
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('1')">0:00:01</a> [Music]  
+<a onclick="modifyYTiframeseektime('1')">0:00:01</a> Music  
 <a onclick="modifyYTiframeseektime('19')">0:00:19</a> okay  
 <a onclick="modifyYTiframeseektime('20')">0:00:20</a> okay just everyone inshallah we'll be  
 <a onclick="modifyYTiframeseektime('21')">0:00:21</a> starting the stuff here very shortly  
@@ -119,7 +119,7 @@ in this video discusses the Islamic concept of zakat, which is a mandatory chari
 <a onclick="modifyYTiframeseektime('200')">0:03:20</a> et cetera and other  
 <a onclick="modifyYTiframeseektime('201')">0:03:21</a> properties and also by by  
 <a onclick="modifyYTiframeseektime('205')">0:03:25</a> uh action  
-<a onclick="modifyYTiframeseektime('207')">0:03:27</a> [Music]  
+<a onclick="modifyYTiframeseektime('207')">0:03:27</a> Music  
 <a onclick="modifyYTiframeseektime('210')">0:03:30</a> which is working in commerce and so on  
 <a onclick="modifyYTiframeseektime('213')">0:03:33</a> and  
 <a onclick="modifyYTiframeseektime('213')">0:03:33</a> uh the question would be what  
@@ -386,7 +386,7 @@ in this video discusses the Islamic concept of zakat, which is a mandatory chari
 <a onclick="modifyYTiframeseektime('788')">0:13:08</a> theory which someone could adopt  
 <a onclick="modifyYTiframeseektime('791')">0:13:11</a> that comes to the state obviously only  
 <a onclick="modifyYTiframeseektime('793')">0:13:13</a> to the legislative state  
-<a onclick="modifyYTiframeseektime('795')">0:13:15</a> [Music]  
+<a onclick="modifyYTiframeseektime('795')">0:13:15</a> Music  
 <a onclick="modifyYTiframeseektime('796')">0:13:16</a> that's the reason they be only to the  
 <a onclick="modifyYTiframeseektime('797')">0:13:17</a> messiah now as a representative of the  
 <a onclick="modifyYTiframeseektime('799')">0:13:19</a> hidden imam or something like that  
@@ -473,7 +473,7 @@ in this video discusses the Islamic concept of zakat, which is a mandatory chari
 <a onclick="modifyYTiframeseektime('952')">0:15:52</a> and they they have a ballot and so on  
 <a onclick="modifyYTiframeseektime('954')">0:15:54</a> you can simply  
 <a onclick="modifyYTiframeseektime('956')">0:15:56</a> perfectly fine but it is on that day  
-<a onclick="modifyYTiframeseektime('959')">0:15:59</a> [Music]  
+<a onclick="modifyYTiframeseektime('959')">0:15:59</a> Music  
 <a onclick="modifyYTiframeseektime('960')">0:16:00</a> clearly you don't escape in the case of  
 <a onclick="modifyYTiframeseektime('963')">0:16:03</a> bitcoin others you cannot escape how  
 <a onclick="modifyYTiframeseektime('965')">0:16:05</a> you're going to escape  
@@ -1045,8 +1045,8 @@ in this video discusses the Islamic concept of zakat, which is a mandatory chari
 <a onclick="modifyYTiframeseektime('2096')">0:34:56</a> after that so i think  
 <a onclick="modifyYTiframeseektime('2098')">0:34:58</a> in fact the proportion of zakat on the  
 <a onclick="modifyYTiframeseektime('2100')">0:35:00</a> topics  
-<a onclick="modifyYTiframeseektime('2103')">0:35:03</a> [Music]  
-<a onclick="modifyYTiframeseektime('2113')">0:35:13</a> [Music]  
+<a onclick="modifyYTiframeseektime('2103')">0:35:03</a> Music  
+<a onclick="modifyYTiframeseektime('2113')">0:35:13</a> Music  
 <a onclick="modifyYTiframeseektime('2115')">0:35:15</a> in matters of cameras and so on we see  
 <a onclick="modifyYTiframeseektime('2116')">0:35:16</a> the main wealth of ali  
 <a onclick="modifyYTiframeseektime('2118')">0:35:18</a> but didn't specify other things because  
@@ -1127,7 +1127,7 @@ in this video discusses the Islamic concept of zakat, which is a mandatory chari
 <a onclick="modifyYTiframeseektime('2259')">0:37:39</a> definitely the inheritance through  
 <a onclick="modifyYTiframeseektime('2261')">0:37:41</a> the spirit according to the inheritance  
 <a onclick="modifyYTiframeseektime('2268')">0:37:48</a> thank you  
-<a onclick="modifyYTiframeseektime('2276')">0:37:56</a> [Music]  
+<a onclick="modifyYTiframeseektime('2276')">0:37:56</a> Music  
 <a onclick="modifyYTiframeseektime('2296')">0:38:16</a> so  
 <a onclick="modifyYTiframeseektime('2298')">0:38:18</a> you  
 </details>

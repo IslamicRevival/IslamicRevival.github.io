@@ -16,7 +16,7 @@ We want to recommend Kitab ut-Tawheed: The Basis of Islam and the Reality of Mon
 
 ## Summary of [02 - Establishing an Islamic State: Is it an Obligation (Fardh)?](https://www.youtube.com/watch?v=htLprHRqzTY)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -47,7 +47,7 @@ Discusses the obligation of every Muslim to establish an Islamic State, providin
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00</a> [Music]  
+<a onclick="modifyYTiframeseektime('0')">0:00:00</a> Music  
 <a onclick="modifyYTiframeseektime('28')">0:00:28</a> and we like to save sahib  
 <a onclick="modifyYTiframeseektime('29')">0:00:29</a> which we have a reference everyone  
 <a onclick="modifyYTiframeseektime('30')">0:00:30</a> referred to it in a  
@@ -1171,7 +1171,7 @@ Discusses the obligation of every Muslim to establish an Islamic State, providin
 <a onclick="modifyYTiframeseektime('2359')">0:39:19</a> what he did not understand probably and  
 <a onclick="modifyYTiframeseektime('2361')">0:39:21</a> the muslims did not answer probably  
 <a onclick="modifyYTiframeseektime('2363')">0:39:23</a> is that  
-<a onclick="modifyYTiframeseektime('2363')">0:39:23</a> [Music]  
+<a onclick="modifyYTiframeseektime('2363')">0:39:23</a> Music  
 <a onclick="modifyYTiframeseektime('2366')">0:39:26</a> was for protection to continue carrying  
 <a onclick="modifyYTiframeseektime('2369')">0:39:29</a> tawa not to establish a state it leads  
 <a onclick="modifyYTiframeseektime('2371')">0:39:31</a> by  

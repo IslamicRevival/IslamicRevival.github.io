@@ -13,7 +13,7 @@ Explanation of rizq, qadr - attribution to Allah
 
 ## Summary of [Tafseer-ul-Quran - Almassari - 011 - Al-Baqara 05 - تفسير سورة البقرة](https://www.youtube.com/watch?v=HdoGFCGAbyE)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -46,7 +46,7 @@ Explanation of rizq, qadr - attribution to Allah
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('3')">0:00:03</a> [Music]  
+<a onclick="modifyYTiframeseektime('3')">0:00:03</a> Music  
 <a onclick="modifyYTiframeseektime('32')">0:00:32</a> at the beginning we are going slow  
 <a onclick="modifyYTiframeseektime('34')">0:00:34</a> evidently because new concepts and new  
 <a onclick="modifyYTiframeseektime('37')">0:00:37</a> aspects of the quran coming forward and  
@@ -2180,6 +2180,6 @@ Explanation of rizq, qadr - attribution to Allah
 <a onclick="modifyYTiframeseektime('4865')">1:21:05</a> further  
 <a onclick="modifyYTiframeseektime('4868')">1:21:08</a> good yeah i think in that case we should  
 <a onclick="modifyYTiframeseektime('4872')">1:21:12</a> uh  
-<a onclick="modifyYTiframeseektime('4878')">1:21:18</a> [Music]  
+<a onclick="modifyYTiframeseektime('4878')">1:21:18</a> Music  
 <a onclick="modifyYTiframeseektime('4900')">1:21:40</a> you  
 </details>

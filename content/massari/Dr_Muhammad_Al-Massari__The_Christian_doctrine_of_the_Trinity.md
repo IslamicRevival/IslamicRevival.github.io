@@ -8,7 +8,7 @@ Dr Nuhammad Al-Massari: The Christian doctrine of the Trinity
 
 ## Summary of [Dr Muhammad Al-Massari: The Christian doctrine of the Trinity](https://www.youtube.com/watch?v=JYzWuiGNIOo)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
@@ -64,7 +64,7 @@ Dr. Muhammad Al-Massari discusses the Christian doctrine of the Trinity. He argu
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00</a> [Music]  
+<a onclick="modifyYTiframeseektime('0')">0:00:00</a> Music  
 <a onclick="modifyYTiframeseektime('24')">0:00:24</a> um  
 <a onclick="modifyYTiframeseektime('36')">0:00:36</a> there are various  
 <a onclick="modifyYTiframeseektime('38')">0:00:38</a> entries to the issue of  
@@ -1370,7 +1370,7 @@ Dr. Muhammad Al-Massari discusses the Christian doctrine of the Trinity. He argu
 <a onclick="modifyYTiframeseektime('2997')">0:49:57</a> what's the meaning of inevitable i think  
 <a onclick="modifyYTiframeseektime('2998')">0:49:58</a> what's the synonym  
 <a onclick="modifyYTiframeseektime('3001')">0:50:01</a> yeah  
-<a onclick="modifyYTiframeseektime('3003')">0:50:03</a> [Music]  
+<a onclick="modifyYTiframeseektime('3003')">0:50:03</a> Music  
 <a onclick="modifyYTiframeseektime('3004')">0:50:04</a> well  
 <a onclick="modifyYTiframeseektime('3005')">0:50:05</a> of course the text files don't support  
 <a onclick="modifyYTiframeseektime('3007')">0:50:07</a> the synonymous easily but you have to go  
@@ -2151,7 +2151,7 @@ Dr. Muhammad Al-Massari discusses the Christian doctrine of the Trinity. He argu
 <a onclick="modifyYTiframeseektime('4741')">1:19:01</a> it's not possible to do that  
 <a onclick="modifyYTiframeseektime('4745')">1:19:05</a> on stopping at any any number stopping  
 <a onclick="modifyYTiframeseektime('4747')">1:19:07</a> at a number is just arbitrary  
-<a onclick="modifyYTiframeseektime('4749')">1:19:09</a> [Music]  
+<a onclick="modifyYTiframeseektime('4749')">1:19:09</a> Music  
 <a onclick="modifyYTiframeseektime('4751')">1:19:11</a> for a necessarily existing being that  
 <a onclick="modifyYTiframeseektime('4753')">1:19:13</a> these things are that only in eternity  
 <a onclick="modifyYTiframeseektime('4755')">1:19:15</a> because of their divine lazily divine  
@@ -3145,7 +3145,7 @@ Dr. Muhammad Al-Massari discusses the Christian doctrine of the Trinity. He argu
 <a onclick="modifyYTiframeseektime('6937')">1:55:37</a> there are other examples they give none  
 <a onclick="modifyYTiframeseektime('6939')">1:55:39</a> of them are really helpful  
 <a onclick="modifyYTiframeseektime('6941')">1:55:41</a> bring you anywhere in a  
-<a onclick="modifyYTiframeseektime('6946')">1:55:46</a> [Music]  
+<a onclick="modifyYTiframeseektime('6946')">1:55:46</a> Music  
 <a onclick="modifyYTiframeseektime('6953')">1:55:53</a> of that which is if you analyze it  
 <a onclick="modifyYTiframeseektime('6955')">1:55:55</a> further but maybe you do it another  
 <a onclick="modifyYTiframeseektime('6956')">1:55:56</a> occasion good time is russian is  
@@ -3299,7 +3299,7 @@ Dr. Muhammad Al-Massari discusses the Christian doctrine of the Trinity. He argu
 <a onclick="modifyYTiframeseektime('7312')">2:01:52</a> be etc  
 <a onclick="modifyYTiframeseektime('7313')">2:01:53</a> they they have never been declared to be  
 <a onclick="modifyYTiframeseektime('7316')">2:01:56</a> a person nor have a separate will  
-<a onclick="modifyYTiframeseektime('7319')">2:01:59</a> [Music]  
+<a onclick="modifyYTiframeseektime('7319')">2:01:59</a> Music  
 <a onclick="modifyYTiframeseektime('7321')">2:02:01</a> nor being begotten or proceeding from  
 <a onclick="modifyYTiframeseektime('7323')">2:02:03</a> the father there has a tribute  
 <a onclick="modifyYTiframeseektime('7326')">2:02:06</a> connected with the being for all  
@@ -3646,7 +3646,7 @@ Dr. Muhammad Al-Massari discusses the Christian doctrine of the Trinity. He argu
 <a onclick="modifyYTiframeseektime('8084')">2:14:44</a> detail  
 <a onclick="modifyYTiframeseektime('8086')">2:14:46</a> professor you you know regarding the  
 <a onclick="modifyYTiframeseektime('8088')">2:14:48</a> verse  
-<a onclick="modifyYTiframeseektime('8095')">2:14:55</a> [Music]  
+<a onclick="modifyYTiframeseektime('8095')">2:14:55</a> Music  
 <a onclick="modifyYTiframeseektime('8101')">2:15:01</a> it was revealed for that same thing  
 <a onclick="modifyYTiframeseektime('8104')">2:15:04</a> about kelly that the christians thought  
 <a onclick="modifyYTiframeseektime('8106')">2:15:06</a> rasulallah  
@@ -4530,10 +4530,10 @@ Dr. Muhammad Al-Massari discusses the Christian doctrine of the Trinity. He argu
 <a onclick="modifyYTiframeseektime('10032')">2:47:12</a> have handled the question at the  
 <a onclick="modifyYTiframeseektime('10033')">2:47:13</a> beginning  
 <a onclick="modifyYTiframeseektime('10034')">2:47:14</a> inshallah  
-<a onclick="modifyYTiframeseektime('10038')">2:47:18</a> [Music]  
+<a onclick="modifyYTiframeseektime('10038')">2:47:18</a> Music  
 <a onclick="modifyYTiframeseektime('10076')">2:47:56</a> foreign  
-<a onclick="modifyYTiframeseektime('10078')">2:47:58</a> [Music]  
+<a onclick="modifyYTiframeseektime('10078')">2:47:58</a> Music  
 <a onclick="modifyYTiframeseektime('10094')">2:48:14</a> my  
-<a onclick="modifyYTiframeseektime('10098')">2:48:18</a> [Music]  
+<a onclick="modifyYTiframeseektime('10098')">2:48:18</a> Music  
 <a onclick="modifyYTiframeseektime('10107')">2:48:27</a> you  
 </details>
