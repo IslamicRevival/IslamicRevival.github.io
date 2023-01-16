@@ -13,14 +13,14 @@ Subscribe to Sunni defense : http://Youtube.com/thesunnidefense
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick=\"modifyYTiframeseektime('900')\">00:00:00](https://www.youtube.com/watch?v=Avq4Nb3_yY0&t=0) - [00:15:00</a>
+### <a onclick="modifyYTiframeseektime('900')">00:00:00 [00:15:00</a>
 
 Sunni teaches Shia Arabic and discusses the differences between Sunni and Shia views on marriage. Sunni claims that aisha is the highest of women in piety and the wife of the Prophet Muhammad, while Shia claim that Mary is the highest of women.
 
-**<a onclick=\"modifyYTiframeseektime('0')\">00:00:00</a>** Sunni teaches Shia Arabic and points out that in Surah Tehreem, allah condemns Aisha and Hafsa for their lack of intellect and faith. If Shia can prove they are more knowledgeable than Sunni, Sunni will retract his claim of intellectual superiority.
-* **<a onclick=\"modifyYTiframeseektime('300')\">00:05:00</a>** Sunni teaches Shia Arabic and discusses the differences between Sunni and Shia views on marriage. Sunni claims that aisha is the highest of women in piety and the wife of the Prophet Muhammad, while Shia claim that Mary is the highest of women.
-* **<a onclick=\"modifyYTiframeseektime('600')\">00:10:00</a>** Sunni teaches Shia Arabic in order to improve communication between the two groups. Shia believes that Sunnis may not be true Muslims, and Sunni believes that Shia Muslims are just like any other Muslims.
-* **<a onclick=\"modifyYTiframeseektime('900')\">00:15:00</a>** <>
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Sunni teaches Shia Arabic and points out that in Surah Tehreem, allah condemns Aisha and Hafsa for their lack of intellect and faith. If Shia can prove they are more knowledgeable than Sunni, Sunni will retract his claim of intellectual superiority.
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Sunni teaches Shia Arabic and discusses the differences between Sunni and Shia views on marriage. Sunni claims that aisha is the highest of women in piety and the wife of the Prophet Muhammad, while Shia claim that Mary is the highest of women.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Sunni teaches Shia Arabic in order to improve communication between the two groups. Shia believes that Sunnis may not be true Muslims, and Sunni believes that Shia Muslims are just like any other Muslims.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** <>
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

@@ -27,14 +27,14 @@ MOHAMMED HIJAB ALI DAWAH
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick=\"modifyYTiframeseektime('900')\">00:00:00](https://www.youtube.com/watch?v=Ix3vLX9cihA&t=0) - [00:15:00</a>
+### <a onclick="modifyYTiframeseektime('900')">00:00:00 [00:15:00</a>
 
 The narrator discusses the issue of masturbation in Islam and offers a few possible solutions for those struggling with sexual desires. He also advises that if someone cannot get married, he should fast.
 
-**<a onclick=\"modifyYTiframeseektime('0')\">00:00:00</a>** The chef discusses the ruling on masturbation and offers a few possible remedies for a Muslim struggling with sexual desires. He also discusses the issue of marriage and how it has become difficult in the West.
-* **<a onclick=\"modifyYTiframeseektime('300')\">00:05:00</a>** <>
-* **<a onclick=\"modifyYTiframeseektime('600')\">00:10:00</a>** <>
-* **<a onclick=\"modifyYTiframeseektime('900')\">00:15:00</a>** The narrator discusses the possible health benefits of masturbation and provides a few examples of where the Quran mentions it. He also advises that if someone cannot get married, he should fast.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The chef discusses the ruling on masturbation and offers a few possible remedies for a Muslim struggling with sexual desires. He also discusses the issue of marriage and how it has become difficult in the West.
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** <>
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** <>
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The narrator discusses the possible health benefits of masturbation and provides a few examples of where the Quran mentions it. He also advises that if someone cannot get married, he should fast.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

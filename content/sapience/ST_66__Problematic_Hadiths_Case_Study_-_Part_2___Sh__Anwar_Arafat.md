@@ -30,13 +30,13 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick=\"modifyYTiframeseektime('600')\">00:00:00](https://www.youtube.com/watch?v=eHsv5BLwGmI&t=0) - [00:10:00</a>
+### <a onclick="modifyYTiframeseektime('600')">00:00:00 [00:10:00</a>
 
  Sh. Anwar Arafat discusses how to deal with problematic hadiths. He emphasizes the need for sincerity and patience, noting that these qualities are important in any analysis. He goes on to discuss how these qualities help to avoid bias and ensure that the hadith is taken in context.  provides translations of a problematic hadith into English, Arabic, and Mishkatun, and discusses the different meanings of the phrases.  concludes with a warning that people should be careful when interpreting hadiths, as they may not be accurate.
 
-**<a onclick=\"modifyYTiframeseektime('0')\">00:00:00</a>**  Sh. Anwar Arafat discusses the toolkit for dealing with problematic hadiths. He emphasizes the need for sincerity and patience, noting that these qualities are important in any analysis. He goes on to discuss how these qualities help to avoid bias and ensure that the hadith is taken in context.
-* **<a onclick=\"modifyYTiframeseektime('300')\">00:05:00</a>* Discusses a problematic hadith, in which a cautious and sensible man could be led astray by some of the women in the population.  provides translations of the problematic phrase into English, Arabic, and Mishkatun, and discusses the different meanings of the phrases.  concludes with a warning that people should be careful when interpreting hadiths, as they may not be accurate.
-* **<a onclick=\"modifyYTiframeseektime('600')\">00:10:00</a>* Discusses a problematic hadith, which states that a woman is more deficient in intellect and religion than a man. He points out that this translation can be misleading because it changes the word "intellect" to "wisdom." This inaccuracy has led to many people misunderstanding the hadith. recommends that people access the original Arabic version to get a more accurate understanding.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  Sh. Anwar Arafat discusses the toolkit for dealing with problematic hadiths. He emphasizes the need for sincerity and patience, noting that these qualities are important in any analysis. He goes on to discuss how these qualities help to avoid bias and ensure that the hadith is taken in context.
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses a problematic hadith, in which a cautious and sensible man could be led astray by some of the women in the population.  provides translations of the problematic phrase into English, Arabic, and Mishkatun, and discusses the different meanings of the phrases.  concludes with a warning that people should be careful when interpreting hadiths, as they may not be accurate.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses a problematic hadith, which states that a woman is more deficient in intellect and religion than a man. He points out that this translation can be misleading because it changes the word "intellect" to "wisdom." This inaccuracy has led to many people misunderstanding the hadith. recommends that people access the original Arabic version to get a more accurate understanding.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

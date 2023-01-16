@@ -11,13 +11,13 @@ I read the article by Professor Bart Ehrman on his blog:  https://ehrmanblog.org
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick=\"modifyYTiframeseektime('600')\">00:00:00](https://www.youtube.com/watch?v=zfQ6bU6GYDw&t=0) - [00:10:00</a>
+### <a onclick="modifyYTiframeseektime('600')">00:00:00 https://www.youtube.com/watch?v=zfQ6bU6GYDw&t=0 00:10:00</a>
 
 Dr. Bart Ehrman discusses how some modern Christians may misinterpret verses in the Bible regarding Christ's authority. He points out that while Christ had equal authority as God himself, he did not have the same authority as Yahweh before his incarnation. discusses how Paul, the author of Philippians, did not believe in a trinity of God the Father, Son, and Holy Spirit as understood later in Christianity. He argues that this doctrine developed later, and that it is an evolution into a new species of theology that did not exist in the New Testament.
 
-**<a onclick=\"modifyYTiframeseektime('0')\">00:00:00</a>** In this article, Bart Ehrman explains why traditional Christian theology does not believe that Jesus is actually Yahweh, the god of the Hebrew Bible. Rather, Yahweh is a holy name that is only used by the high priest during the Jewish holiday of Yom Kippur. Christians who read the Old Testament saw Jesus as his son whom he exalted to his right hand.
-* **<a onclick=\"modifyYTiframeseektime('300')\">00:05:00</a>**  Dr. Bart Ehrman discusses how some modern Christians may misinterpret verses in the Bible regarding Christ's authority. He points out that while Christ had equal authority as God himself, he did not have the same authority as Yahweh before his incarnation.
-* **<a onclick=\"modifyYTiframeseektime('600')\">00:10:00</a>* Discusses how Paul, the author of Philippians, did not believe in a trinity of God the Father, Son, and Holy Spirit as understood later in Christianity. He argues that this doctrine developed later, and that it is an evolution into a new species of theology that did not exist in the New Testament.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** In this article, Bart Ehrman explains why traditional Christian theology does not believe that Jesus is actually Yahweh, the god of the Hebrew Bible. Rather, Yahweh is a holy name that is only used by the high priest during the Jewish holiday of Yom Kippur. Christians who read the Old Testament saw Jesus as his son whom he exalted to his right hand.
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Dr. Bart Ehrman discusses how some modern Christians may misinterpret verses in the Bible regarding Christ's authority. He points out that while Christ had equal authority as God himself, he did not have the same authority as Yahweh before his incarnation.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses how Paul, the author of Philippians, did not believe in a trinity of God the Father, Son, and Holy Spirit as understood later in Christianity. He argues that this doctrine developed later, and that it is an evolution into a new species of theology that did not exist in the New Testament.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

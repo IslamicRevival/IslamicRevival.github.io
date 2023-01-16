@@ -18,14 +18,14 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick=\"modifyYTiframeseektime('900')\">00:00:00](https://www.youtube.com/watch?v=oHgqXLnD4QM&t=0) - [00:15:00</a>
+### <a onclick="modifyYTiframeseektime('900')">00:00:00 [00:15:00</a>
 
 "Muslims reacting to Jordan Peterson on Islam (ft Dilly Hussain)," Muslim thinkers react to and criticize Jordan Peterson's views on Islam. They argue that Peterson is ignorant of Islam and that his views are based on a Eurocentric perspective. They also suggest that more people need to hear the Muslim perspective on these issues.
 
-**<a onclick=\"modifyYTiframeseektime('0')\">00:00:00</a>** Jordan Peterson discusses the fear muslims have of the West, and how this fear has been used to support the West. He argues that a historical perspective shows that muslims have been supportive of science and other advancements, and that the West is not as bad as people make it out to be.
-* **<a onclick=\"modifyYTiframeseektime('300')\">00:05:00</a>** The presenter discusses how Jordan Peterson believes that Islam is incompatible with secularism and that this is a problem for the west. They also talk about how, according to Peterson, the separation of church and state is something that is uniquely European and not applicable to other civilizations.
-* **<a onclick=\"modifyYTiframeseektime('600')\">00:10:00</a>** , Muslim thinkers react to Jordan Peterson's views on Islam. Dilly Hussain argues that Peterson is ignorant of Islam to protect his honor and integrity, and that Jesus would be a failure on a capitalist or liberal model due to his aesthetic value judgments.
-* **<a onclick=\"modifyYTiframeseektime('900')\">00:15:00</a>** Jordan Peterson discusses totalitarianism and hierarchy in regards to Islam, and some of his past praise of certain structures is criticized. 's host and others discuss Islam and Peterson's views, and suggest that more people hear the Muslim perspective.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Jordan Peterson discusses the fear muslims have of the West, and how this fear has been used to support the West. He argues that a historical perspective shows that muslims have been supportive of science and other advancements, and that the West is not as bad as people make it out to be.
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The presenter discusses how Jordan Peterson believes that Islam is incompatible with secularism and that this is a problem for the west. They also talk about how, according to Peterson, the separation of church and state is something that is uniquely European and not applicable to other civilizations.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** , Muslim thinkers react to Jordan Peterson's views on Islam. Dilly Hussain argues that Peterson is ignorant of Islam to protect his honor and integrity, and that Jesus would be a failure on a capitalist or liberal model due to his aesthetic value judgments.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Jordan Peterson discusses totalitarianism and hierarchy in regards to Islam, and some of his past praise of certain structures is criticized. 's host and others discuss Islam and Peterson's views, and suggest that more people hear the Muslim perspective.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

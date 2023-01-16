@@ -11,14 +11,14 @@ This video is attempts to gauge public opinion on the legalisation of prostituti
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick=\"modifyYTiframeseektime('900')\">00:00:00](https://www.youtube.com/watch?v=OUHBq0WFcgM&t=0) - [00:15:00</a>
+### <a onclick="modifyYTiframeseektime('900')">00:00:00 [00:15:00</a>
 
  discusses public opinion about the legalization of prostitution in Amsterdam, with a focus on the negative effects it has on women. It also provides a perspective on the Islamic perspective on the issue. urges viewers to think about the purpose of life and not to judge.
 
-**<a onclick=\"modifyYTiframeseektime('0')\">00:00:00</a>** Dawah team visits the red light district of Amsterdam to gauge public opinion on the legalization of prostitution. They ask questions about women's rights and freedom, and discuss the issue of human trafficking. Most people interviewed believe that prostitution should not be legalized, citing concerns about exploitation of women.
-* **<a onclick=\"modifyYTiframeseektime('300')\">00:05:00</a>**  Dutch researchers discuss the Pros and Cons of legalizing prostitution in order to reduce human trafficking. They argue that while human trafficking may increase in countries that legalize prostitution, the opposite is true in countries that criminalize prostitution.
-* **<a onclick=\"modifyYTiframeseektime('600')\">00:10:00</a>** The 1-paragraph summary of the video explains how human trafficking can happen when prostitution is illegal.  also mentions how human trafficking is always wrong, and that if there is good enough evidence to prove that legalizing prostitution increases human trafficking, then it should be done.
-* **<a onclick=\"modifyYTiframeseektime('900')\">00:15:00</a>* Discusses public opinion about the legalization of prostitution in Amsterdam, with a focus on the negative effects it has on women. It also provides a perspective on the Islamic perspective on the issue. encourages people to go back to basics and think about what the purpose of life is, and reminds viewers that this is not a good time to judge.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Dawah team visits the red light district of Amsterdam to gauge public opinion on the legalization of prostitution. They ask questions about women's rights and freedom, and discuss the issue of human trafficking. Most people interviewed believe that prostitution should not be legalized, citing concerns about exploitation of women.
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Dutch researchers discuss the Pros and Cons of legalizing prostitution in order to reduce human trafficking. They argue that while human trafficking may increase in countries that legalize prostitution, the opposite is true in countries that criminalize prostitution.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The 1-paragraph summary of the video explains how human trafficking can happen when prostitution is illegal.  also mentions how human trafficking is always wrong, and that if there is good enough evidence to prove that legalizing prostitution increases human trafficking, then it should be done.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses public opinion about the legalization of prostitution in Amsterdam, with a focus on the negative effects it has on women. It also provides a perspective on the Islamic perspective on the issue. encourages people to go back to basics and think about what the purpose of life is, and reminds viewers that this is not a good time to judge.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

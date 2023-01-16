@@ -29,14 +29,14 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick=\"modifyYTiframeseektime('900')\">00:00:00](https://www.youtube.com/watch?v=i3VL7t5kt54&t=0) - [00:15:00</a>
+### <a onclick="modifyYTiframeseektime('900')">00:00:00 [00:15:00</a>
 
 Sh. Yasir Qadhi urges Muslims to change their attitude towards LGBT individuals, and to support religious institutions that help Muslims return to their roots. He cites the American Muslim civil rights activist Linda Sarsour as an example of an individual who is wearing a  scarf and flirting with clandestine apostasy.
 
-**<a onclick=\"modifyYTiframeseektime('0')\">00:00:00</a>* Discusses how some dawah organizations have been doing great work, but there are some approaches that need to be examined more closely. also lauds Jonathan Brown, Jacquin, and others for their work in the past.
-* **<a onclick=\"modifyYTiframeseektime('300')\">00:05:00</a>* Discusses how Jonathan Brown, an American muslim, has argued that muslims should vote for homosexual marriage in America or else. also discusses how the level of shubha or doubt has been created on account of some of Jacquin's stances, and how the muslim community should apologize and clarify their stances on homosexuality.
-* **<a onclick=\"modifyYTiframeseektime('600')\">00:10:00</a>** Sh. Yasir Qadhi advises Muslims against accepting LGBT individuals into their mosques, and recommends excommunication instead. He cites the American Muslim civil rights activist Linda Sarsour as an example of an individual who is wearing a  scarf and flirting with clandestine apostasy. Qadhi says that this is an example of how LGBT individuals are putting Muslims "on the back foot" and "stripping them of the fake identity that [they] would be putting upon themselves."
-* **<a onclick=\"modifyYTiframeseektime('900')\">00:15:00</a>** Sh. Yasir Qadhi encourages Muslims to change their attitudes and approach to LGBT issues, and to support religious institutions that help Muslims return to their roots.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses how some dawah organizations have been doing great work, but there are some approaches that need to be examined more closely. also lauds Jonathan Brown, Jacquin, and others for their work in the past.
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses how Jonathan Brown, an American muslim, has argued that muslims should vote for homosexual marriage in America or else. also discusses how the level of shubha or doubt has been created on account of some of Jacquin's stances, and how the muslim community should apologize and clarify their stances on homosexuality.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Sh. Yasir Qadhi advises Muslims against accepting LGBT individuals into their mosques, and recommends excommunication instead. He cites the American Muslim civil rights activist Linda Sarsour as an example of an individual who is wearing a  scarf and flirting with clandestine apostasy. Qadhi says that this is an example of how LGBT individuals are putting Muslims "on the back foot" and "stripping them of the fake identity that [they] would be putting upon themselves."
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Sh. Yasir Qadhi encourages Muslims to change their attitudes and approach to LGBT issues, and to support religious institutions that help Muslims return to their roots.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

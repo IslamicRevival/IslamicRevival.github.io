@@ -32,13 +32,13 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick=\"modifyYTiframeseektime('600')\">00:00:00](https://www.youtube.com/watch?v=3q47FdX6cDc&t=0) - [00:10:00</a>
+### <a onclick="modifyYTiframeseektime('600')">00:00:00 [00:10:00</a>
 
  discusses the importance of being a compassionate and empathetic leader who consults with others. It cites the prophet Muhammad as an example of a leader who was loved by his followers.  urges viewers to donate money to support this vision and strategy.
 
-**<a onclick=\"modifyYTiframeseektime('0')\">00:00:00</a>* Discusses three core aspects of leadership: being empathetic, compassionate, and consulting with others. The prophet Muhammad said that if a leader is empathetic, compassionate, and consults with others, the people will be in mercy and follow their orders.
-* **<a onclick=\"modifyYTiframeseektime('300')\">00:05:00</a>* Discusses the importance of consultation in empowering followers, particularly leaders. The prophet Muhammad, considered by Muslims to be a prophet of God, was compassionate and kind to those who made a tragic mistake. He advised them to consult with each other in their affairs. This is a reminder to be compassionate and empathic to those around us and to consult with them in our affairs.
-* **<a onclick=\"modifyYTiframeseektime('600')\">00:10:00</a>* Discusses the importance of having a leader who is loved by their followers. If someone is moved by this vision and strategy, they should donate money to support it.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses three core aspects of leadership: being empathetic, compassionate, and consulting with others. The prophet Muhammad said that if a leader is empathetic, compassionate, and consults with others, the people will be in mercy and follow their orders.
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the importance of consultation in empowering followers, particularly leaders. The prophet Muhammad, considered by Muslims to be a prophet of God, was compassionate and kind to those who made a tragic mistake. He advised them to consult with each other in their affairs. This is a reminder to be compassionate and empathic to those around us and to consult with them in our affairs.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the importance of having a leader who is loved by their followers. If someone is moved by this vision and strategy, they should donate money to support it.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

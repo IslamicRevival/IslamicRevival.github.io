@@ -21,13 +21,13 @@ Please donate and help establish this Masjid and earn your reward ➡ https://ww
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick=\"modifyYTiframeseektime('600')\">00:00:00](https://www.youtube.com/watch?v=jxr6ykYcA1M&t=0) - [00:10:00</a>
+### <a onclick="modifyYTiframeseektime('600')">00:00:00 [00:10:00</a>
 
 Dr. Jordan Peterson is questioned on his thoughts about Muslims in the West and how to start a dialogue with them. He believes that it is important to be honest about the history of colonialism and Islam's place in it, and that it is often difficult to talk to people from other cultures.
 
-**<a onclick=\"modifyYTiframeseektime('0')\">00:00:00</a>** Dr. Jordan Peterson is asked about his thoughts on Muslims in the West and how to start a dialogue with them. He believes that it is important to be honest about the history of colonialism and Islam's place in it, and that it is often difficult to talk to people from other cultures.
-* **<a onclick=\"modifyYTiframeseektime('300')\">00:05:00</a>** Jordan Peterson is questioned on "Message to Muslims." Peterson argues that, while there are historical atrocities committed by both the West and Islam, Islam is not wholly to blame. He also points out that, while liberalism was an important part of the development of the West, it is not the only factor.
-* **<a onclick=\"modifyYTiframeseektime('600')\">00:10:00</a>**  Dr. Jordan Peterson is questioned about the historical record of Western civilization, which he argues does not show that the ideology of the West can fix our problems. Peterson also discusses the idea of body count, which he believes shows that societies with a depleted communitarian ethic and bereft of a respectful tradition are more likely to experience bloodshed.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Dr. Jordan Peterson is asked about his thoughts on Muslims in the West and how to start a dialogue with them. He believes that it is important to be honest about the history of colonialism and Islam's place in it, and that it is often difficult to talk to people from other cultures.
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Jordan Peterson is questioned on "Message to Muslims." Peterson argues that, while there are historical atrocities committed by both the West and Islam, Islam is not wholly to blame. He also points out that, while liberalism was an important part of the development of the West, it is not the only factor.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  Dr. Jordan Peterson is questioned about the historical record of Western civilization, which he argues does not show that the ideology of the West can fix our problems. Peterson also discusses the idea of body count, which he believes shows that societies with a depleted communitarian ethic and bereft of a respectful tradition are more likely to experience bloodshed.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

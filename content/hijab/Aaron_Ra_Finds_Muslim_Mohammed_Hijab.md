@@ -13,16 +13,16 @@ My New Book - 2.99 only - https://www.amazon.co.uk/Kalam-Cosmological-Arguments-
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick=\"modifyYTiframeseektime('1500')\">00:00:00](https://www.youtube.com/watch?v=v41xa9ptfY8&t=0) - [00:25:00</a>
+### <a onclick="modifyYTiframeseektime('1500')">00:00:00 [00:25:00</a>
 
 Aaron Ra argues that there must be a necessary being that all other things depend on for their existence. He illustrates this with the example of phones depending on batteries for their power. Julie challenges him to a debate, which he accepts. At the end of the video, Ra finds a Muslim woman wearing a hijab and asks her about it. The woman explains that it is a sign of respect and modesty.
 
-**<a onclick=\"modifyYTiframeseektime('0')\">00:00:00</a>** Aaron Ra argues that there cannot be an existence where only possible things exist, because there would be an absurdity of dependent things depending upon dependent things ad infinitum. He then posits that there must be a necessary being which all other dependent things depend on in order for there to be any existence at all. He asks a student if they agree, and they say they do.
-* **<a onclick=\"modifyYTiframeseektime('300')\">00:05:00</a>** Aaron Ra argues that there must be a necessary being that puts all other contingent things into existence, otherwise we would have an absurd world of dependent things. He poses a cosmological example to illustrate his point.
-* **<a onclick=\"modifyYTiframeseektime('600')\">00:10:00</a>** Aaron Ra makes a point that existence is contingent, and that only something with an infinite power source can guarantee it. He then goes on to show how this applies to phones, which will eventually run out of charge if they're connected to each other.
-* **<a onclick=\"modifyYTiframeseektime('900')\">00:15:00</a>** Aaron Ra argues that the Sun is not infinite, and that it depends on other things for its existence. He also argues that particles do not depend on anything for their existence.
-* **<a onclick=\"modifyYTiframeseektime('1200')\">00:20:00</a>** An atheist named Aaron Ra believes that fundamental particles are not dependent on anything, and when Julie challenges him on this, he retracts the statement. Julie then challenges him to a debate, which he accepts.
-* **<a onclick=\"modifyYTiframeseektime('1500')\">00:25:00</a>** Aaron Ra finds a Muslim woman wearing a hijab, and he hilariously asks her why she is wearing it. The woman responds by explaining that it is a sign of respect and modesty.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Aaron Ra argues that there cannot be an existence where only possible things exist, because there would be an absurdity of dependent things depending upon dependent things ad infinitum. He then posits that there must be a necessary being which all other dependent things depend on in order for there to be any existence at all. He asks a student if they agree, and they say they do.
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** Aaron Ra argues that there must be a necessary being that puts all other contingent things into existence, otherwise we would have an absurd world of dependent things. He poses a cosmological example to illustrate his point.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** Aaron Ra makes a point that existence is contingent, and that only something with an infinite power source can guarantee it. He then goes on to show how this applies to phones, which will eventually run out of charge if they're connected to each other.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Aaron Ra argues that the Sun is not infinite, and that it depends on other things for its existence. He also argues that particles do not depend on anything for their existence.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** An atheist named Aaron Ra believes that fundamental particles are not dependent on anything, and when Julie challenges him on this, he retracts the statement. Julie then challenges him to a debate, which he accepts.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>** Aaron Ra finds a Muslim woman wearing a hijab, and he hilariously asks her why she is wearing it. The woman responds by explaining that it is a sign of respect and modesty.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

@@ -30,13 +30,13 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick=\"modifyYTiframeseektime('600')\">00:00:00](https://www.youtube.com/watch?v=QlfuqSwdGX0&t=0) - [00:10:00</a>
+### <a onclick="modifyYTiframeseektime('600')">00:00:00 [00:10:00</a>
 
  discusses how to deal with problematic hadiths, including by identifying the historical context and context within other narrations. It also explains how to understand the makasud, or goals of the hadith. For example, the speaker discusses a Hadith in which the Prophet Muhammad warns women that they are responsible for a majority of those sent to Hell. He provides context for the Hadith by discussing how women often rely on their husbands for financial support, and how this can lead to them neglecting their own good deeds. He then encourages women to give charity independently, and urges them to do so even when their husbands are not willing to do so themselves.
 
-**<a onclick=\"modifyYTiframeseektime('0')\">00:00:00</a>** The sixth tool for understanding problematic Hadith is checking authenticity. This is done by consulting classical books of Hadith that explain the Hadith in detail. This helps to ensure that the Hadith is authentic and has not been altered or changed over time.
-* **<a onclick=\"modifyYTiframeseektime('300')\">00:05:00</a>* Discusses how to deal with problematic hadiths, including identifying the historical context and context within other narrations. It also explains how to understand the makasud, or goals of the hadith.
-* **<a onclick=\"modifyYTiframeseektime('600')\">00:10:00</a>* Discusses a Hadith in which the Prophet Muhammad warns women that they are responsible for a majority of those sent to Hell. He provides context for the Hadith by discussing how women often rely on their husbands for financial support, and how this can lead to them neglecting their own good deeds. He then encourages women to give charity independently, and urges them to do so even when their husbands are not willing to do so themselves.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The sixth tool for understanding problematic Hadith is checking authenticity. This is done by consulting classical books of Hadith that explain the Hadith in detail. This helps to ensure that the Hadith is authentic and has not been altered or changed over time.
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses how to deal with problematic hadiths, including identifying the historical context and context within other narrations. It also explains how to understand the makasud, or goals of the hadith.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses a Hadith in which the Prophet Muhammad warns women that they are responsible for a majority of those sent to Hell. He provides context for the Hadith by discussing how women often rely on their husbands for financial support, and how this can lead to them neglecting their own good deeds. He then encourages women to give charity independently, and urges them to do so even when their husbands are not willing to do so themselves.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

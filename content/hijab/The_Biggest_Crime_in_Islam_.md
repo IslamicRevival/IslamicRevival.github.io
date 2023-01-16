@@ -13,14 +13,14 @@ Video courtesy of our partners SC Dawah, the rest of the discussion is here -htt
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick=\"modifyYTiframeseektime('900')\">00:00:00](https://www.youtube.com/watch?v=ko0eCW6Pwzs&t=0) - [00:15:00</a>
+### <a onclick="modifyYTiframeseektime('900')">00:00:00 [00:15:00</a>
 
 in this video argues that the worst possible thing to do is to give rights to other than God, as this would make the human being insignificant in the universe. He goes on to say that, although Muslims are capable of doing this, it is not as bad as the person who gives rights to other than God.
 
-**<a onclick=\"modifyYTiframeseektime('0')\">00:00:00</a>** In Islamic theology, killing one person is considered to be less severe than committing the sin of shirk, which is associating partners with God.
-* **<a onclick=\"modifyYTiframeseektime('300')\">00:05:00</a>** in this video argues that it is the worst possible thing to give rights to other than God, as this would essentially make the human being insignificant in the universe. He goes on to say that, even though Muslims are capable of doing this, it is not as bad as the person who gives rights to other than God.
-* **<a onclick=\"modifyYTiframeseektime('600')\">00:10:00</a>** argues that there is an entity that is independent and preexisting, and that this entity must have certain attributes in order to create the universe. He goes on to say that these attributes include knowledge, power, and seeing and hearing.
-* **<a onclick=\"modifyYTiframeseektime('900')\">00:15:00</a>** Muslims believe in a Creator who assigned purpose and value to human beings, and communicated using angels. Mohammed is the final prophet.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** In Islamic theology, killing one person is considered to be less severe than committing the sin of shirk, which is associating partners with God.
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** in this video argues that it is the worst possible thing to give rights to other than God, as this would essentially make the human being insignificant in the universe. He goes on to say that, even though Muslims are capable of doing this, it is not as bad as the person who gives rights to other than God.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** argues that there is an entity that is independent and preexisting, and that this entity must have certain attributes in order to create the universe. He goes on to say that these attributes include knowledge, power, and seeing and hearing.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Muslims believe in a Creator who assigned purpose and value to human beings, and communicated using angels. Mohammed is the final prophet.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

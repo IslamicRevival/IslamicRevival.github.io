@@ -29,13 +29,13 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick=\"modifyYTiframeseektime('600')\">00:00:00](https://www.youtube.com/watch?v=2a3SWU35qxo&t=0) - [00:10:00</a>
+### <a onclick="modifyYTiframeseektime('600')">00:00:00 [00:10:00</a>
 
  Dr. William Lane Craig discusses the Qur'an's conception of the Trinity. He argues that it is more accurate than the Christian conception of the Trinity, which he says is a later development in Christian theology.
 
-**<a onclick=\"modifyYTiframeseektime('0')\">00:00:00</a>**  Dr. William Lane Craig discusses the Qur'an's conception of the Trinity, arguing that it is wrong. He goes on to say that this argument is familiar to Christians throughout the centuries, and that few missionaries or apologists write about Islam without making the same argument.
-* **<a onclick=\"modifyYTiframeseektime('300')\">00:05:00</a>**  Dr. William Lane Craig discusses the Qur'an's conception of the Trinity. He points out that, according to the Qur'an, Jesus is subordinate to God and that, in fact, all of humanity is weak in the presence of God. He also explains that the concept of the Trinity is not found in the Bible, but is instead a later development in Christian theology.
-* **<a onclick=\"modifyYTiframeseektime('600')\">00:10:00</a>**  shows how the Qur'an portrays the Trinity in a more accurate way than Christianity does. Dr. William Lane Craig discusses this in more detail in the next episode.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>**  Dr. William Lane Craig discusses the Qur'an's conception of the Trinity, arguing that it is wrong. He goes on to say that this argument is familiar to Christians throughout the centuries, and that few missionaries or apologists write about Islam without making the same argument.
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  Dr. William Lane Craig discusses the Qur'an's conception of the Trinity. He points out that, according to the Qur'an, Jesus is subordinate to God and that, in fact, all of humanity is weak in the presence of God. He also explains that the concept of the Trinity is not found in the Bible, but is instead a later development in Christian theology.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>**  shows how the Qur'an portrays the Trinity in a more accurate way than Christianity does. Dr. William Lane Craig discusses this in more detail in the next episode.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

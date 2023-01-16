@@ -32,13 +32,13 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick=\"modifyYTiframeseektime('600')\">00:00:00](https://www.youtube.com/watch?v=kGH0krX3lwE&t=0) - [00:10:00</a>
+### <a onclick="modifyYTiframeseektime('600')">00:00:00 [00:10:00</a>
 
 The Shepherd's Way: Ep. 2 - Necessity Achieves discusses the importance of developing a strategic focus in order to achieve one's vision. Sheikh Mansour provides the example of the prophet Muhammad's strategic focus of conveying Islam to the people of influence, and reminds viewers that allah has power over all things.
 
-**<a onclick=\"modifyYTiframeseektime('0')\">00:00:00</a>** Sheikh Mansour discusses the benefits of developing a strategic focus, including that it makes decision making easier and that it achieves one's vision. He also reminds viewers that the means can change, but that allah has power over all things.
-* **<a onclick=\"modifyYTiframeseektime('300')\">00:05:00</a>** The Shepherd's Way: Ep. 2 - Necessity Achieves provides an example of a prophet's strategic focus, which was to convey Islam to the people of influence. He recommends that we have a strategic focus, too, and that this will inevitably lead to our success.
-* **<a onclick=\"modifyYTiframeseektime('600')\">00:10:00</a>** The Shepherd's Way is a YouTube channel that focuses on defending and sharing Islam academically and intellectually. The channel aims to empower others to do the same, and asks for donations in order to help achieve this.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Sheikh Mansour discusses the benefits of developing a strategic focus, including that it makes decision making easier and that it achieves one's vision. He also reminds viewers that the means can change, but that allah has power over all things.
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The Shepherd's Way: Ep. 2 - Necessity Achieves provides an example of a prophet's strategic focus, which was to convey Islam to the people of influence. He recommends that we have a strategic focus, too, and that this will inevitably lead to our success.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The Shepherd's Way is a YouTube channel that focuses on defending and sharing Islam academically and intellectually. The channel aims to empower others to do the same, and asks for donations in order to help achieve this.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

@@ -11,16 +11,16 @@ For a basic 15 min read on the evidences for the Prophet Muhammad click here - h
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick=\"modifyYTiframeseektime('1500')\">00:00:00](https://www.youtube.com/watch?v=t2LHQbQ4L9E&t=0) - [00:25:00</a>
+### <a onclick="modifyYTiframeseektime('1500')">00:00:00 [00:25:00</a>
 
  discusses the idea that atheism and faith are not mutually exclusive, and that both have a purpose. argues that Islam is not only faith, but it is also proved faith.
 
-**<a onclick=\"modifyYTiframeseektime('0')\">00:00:00</a>* Discusses the idea that everyone has faith to some degree, and goes on to discuss why this is important. It argues that, due to the scientific method and other reasons, it is necessary to have faith in some things in order to do them.
-* **<a onclick=\"modifyYTiframeseektime('300')\">00:05:00</a>**  presents a summary of the Islamic belief that humans have a need for faith in order to understand and come to understand the purpose of life. The Quran teaches that faith is both a need and a proof of understanding.
-* **<a onclick=\"modifyYTiframeseektime('600')\">00:10:00</a>* Discusses the difference between atheism and faith, and how atheists must have faith in order to accept logic and evidence as proof of God's existence.  also mentions that some people, such as scientists, may have faith in their work even though they don't believe in God.
-* **<a onclick=\"modifyYTiframeseektime('900')\">00:15:00</a>** Atheism does not presuppose a fixed purpose in life, as does Islam. The purpose of life for an atheist may be different from that of a Muslim. The purpose of life is a difficult question to answer, as it can be subjective and personal.
-* **<a onclick=\"modifyYTiframeseektime('1200')\">00:20:00</a>** challenges the idea that the purpose of life is different for humans than it is for other creatures in creation, noting that the purpose of life for humans is the same as it is for everything else except for human beings, who have been given the choice to follow or not follow the same order and purpose as the rest of creation.
-* **<a onclick=\"modifyYTiframeseektime('1500')\">00:25:00</a>* Discusses the similarities between atheism and faith, and how both have a purpose. He goes on to say that Islam is not only faith, but it is also proved faith.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>* Discusses the idea that everyone has faith to some degree, and goes on to discuss why this is important. It argues that, due to the scientific method and other reasons, it is necessary to have faith in some things in order to do them.
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**  presents a summary of the Islamic belief that humans have a need for faith in order to understand and come to understand the purpose of life. The Quran teaches that faith is both a need and a proof of understanding.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>* Discusses the difference between atheism and faith, and how atheists must have faith in order to accept logic and evidence as proof of God's existence.  also mentions that some people, such as scientists, may have faith in their work even though they don't believe in God.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** Atheism does not presuppose a fixed purpose in life, as does Islam. The purpose of life for an atheist may be different from that of a Muslim. The purpose of life is a difficult question to answer, as it can be subjective and personal.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** challenges the idea that the purpose of life is different for humans than it is for other creatures in creation, noting that the purpose of life for humans is the same as it is for everything else except for human beings, who have been given the choice to follow or not follow the same order and purpose as the rest of creation.
+* **<a onclick="modifyYTiframeseektime('1500')">00:25:00</a>* Discusses the similarities between atheism and faith, and how both have a purpose. He goes on to say that Islam is not only faith, but it is also proved faith.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

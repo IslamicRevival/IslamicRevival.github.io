@@ -14,15 +14,15 @@ https://www.youtube.com/watch?v=ZKa9hYzpObE
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick=\"modifyYTiframeseektime('1200')\">00:00:00](https://www.youtube.com/watch?v=RsLrT1CFyuU&t=0) - [00:20:00</a>
+### <a onclick="modifyYTiframeseektime('1200')">00:00:00 [00:20:00</a>
 
 The theologian in the video discusses various aspects of Islam and how they compare to other religions. He argues that living in harmony with God is the most appropriate relationship, and that this can be done through following the guidelines in the Quran and the Sunnah. He offers his phone number to the viewer so that they can learn more about Islam.
 
-**<a onclick=\"modifyYTiframeseektime('0')\">00:00:00</a>** The theologian discusses the different attributes of God, and how living in harmony with Him is the most appropriate relationship. He then asks a question about how to be in harmony with God, and discusses how it can be done through living in accordance with His will.
-* **<a onclick=\"modifyYTiframeseektime('300')\">00:05:00</a>** The theologian shocks Muslims with the Islamic narrative that the way God communicates with human beings is through prophets who have come a full time. The prophets provide evidence for the message of submission and miracles.
-* **<a onclick=\"modifyYTiframeseektime('600')\">00:10:00</a>** The theologian discusses various evidences that human beings were created for a purpose, and that their purpose is to know and submit to God. He argues that these evidences make it difficult to claim that the Quranic revelations could have been guessed by a human.
-* **<a onclick=\"modifyYTiframeseektime('900')\">00:15:00</a>** The theologian argues that the Quran is a book that claims to be the Word of God, and that it has never had a controversy. He also argues that Christianity has been violent in comparison to other religions.
-* **<a onclick=\"modifyYTiframeseektime('1200')\">00:20:00</a>** The theologian discusses the purpose of life and how it can be achieved by following the guidelines in the Quran and the Sunnah. He then offers his phone number to the viewer so that they can learn more about Islam.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The theologian discusses the different attributes of God, and how living in harmony with Him is the most appropriate relationship. He then asks a question about how to be in harmony with God, and discusses how it can be done through living in accordance with His will.
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The theologian shocks Muslims with the Islamic narrative that the way God communicates with human beings is through prophets who have come a full time. The prophets provide evidence for the message of submission and miracles.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The theologian discusses various evidences that human beings were created for a purpose, and that their purpose is to know and submit to God. He argues that these evidences make it difficult to claim that the Quranic revelations could have been guessed by a human.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>** The theologian argues that the Quran is a book that claims to be the Word of God, and that it has never had a controversy. He also argues that Christianity has been violent in comparison to other religions.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** The theologian discusses the purpose of life and how it can be achieved by following the guidelines in the Quran and the Sunnah. He then offers his phone number to the viewer so that they can learn more about Islam.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

@@ -11,12 +11,12 @@ This honest christian tells us about incest in the Bible.
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick=\"modifyYTiframeseektime('300')\">00:00:00](https://www.youtube.com/watch?v=oqhkNGKRrUk&t=0) - [00:05:00</a>
+### <a onclick="modifyYTiframeseektime('300')">00:00:00 [00:05:00</a>
 
 In this funny interview, a Muslim man discusses how verses in the Quran regarding men and women are not applicable in today's society. He points out that two prostitutes from ancient times were examples of how the verses do not apply to modern day society.
 
-**<a onclick=\"modifyYTiframeseektime('0')\">00:00:00</a>** In Ezekiel 23,20, a prophet speaks of the sexual activities ofLot and his daughters after the flood. He says that because of this, their family line could continue. However, he also says that it would be better not to have incestuous relations because it would be a form of compulsion.
-* **<a onclick=\"modifyYTiframeseektime('300')\">00:05:00</a>** In this funny interview, a Muslim man discusses how verses in the Quran regarding men and women are not applicable in today's society. He points out that two prostitutes from ancient times were examples of how the verses do not apply to modern day society.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** In Ezekiel 23,20, a prophet speaks of the sexual activities ofLot and his daughters after the flood. He says that because of this, their family line could continue. However, he also says that it would be better not to have incestuous relations because it would be a form of compulsion.
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** In this funny interview, a Muslim man discusses how verses in the Quran regarding men and women are not applicable in today's society. He points out that two prostitutes from ancient times were examples of how the verses do not apply to modern day society.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

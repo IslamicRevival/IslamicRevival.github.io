@@ -17,15 +17,15 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick=\"modifyYTiframeseektime('1200')\">00:00:00](https://www.youtube.com/watch?v=pYObHod61eQ&t=0) - [00:20:00</a>
+### <a onclick="modifyYTiframeseektime('1200')">00:00:00 [00:20:00</a>
 
 discusses the Islamic concept of martyrdom and how it applies to the Palestinian people who are fighting against Israel. He argues that anti-Semitism is incompatible with Islam because Judaism and Islam are both religions of monotheism.
 
-**<a onclick=\"modifyYTiframeseektime('0')\">00:00:00</a>** argues that anti-Semitism is impossible for Muslims because they would have to attack one of their mothers, prophets, or themselves. Judaism is an ethnicity as well as a religion, and therefore anti-Semitism would be equivalent to anti-Judaism. This discourse will alienate the voices of people like this brave and gallant person behind him.
-* **<a onclick=\"modifyYTiframeseektime('300')\">00:05:00</a>* Discusses a hadith which predicts that there will be a time when Muslims will be divided into sects, just as they are during dinner. He predicts that this will happen specifically in relation to Israel and Palestine, and that the Jews and Muslims will be working together against the latter's enemies. He urges Jews and Muslims to remain supportive of one another, and to stand up to their enemies.
-* **<a onclick=\"modifyYTiframeseektime('600')\">00:10:00</a>** explains that Islam teaches that the enemy will be dividing and conquering Muslims, and that in order to prevent this, Muslims must be united under one principle. also discusses the hadith which states that anyone who follows another Islamic leader apart from the Prophet Muhammed will not go to Heaven.
-* **<a onclick=\"modifyYTiframeseektime('900')\">00:15:00</a>* Discusses the Islamic concept of martyrdom and how it applies to the Palestinian people who are fighting against Israel. He encourages Muslims to remember the martyrs and stay strong in the face of adversity.
-* **<a onclick=\"modifyYTiframeseektime('1200')\">00:20:00</a>** argues that anti-Semitism is incompatible with Islam because Judaism and Islam are both religions of monotheism.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** argues that anti-Semitism is impossible for Muslims because they would have to attack one of their mothers, prophets, or themselves. Judaism is an ethnicity as well as a religion, and therefore anti-Semitism would be equivalent to anti-Judaism. This discourse will alienate the voices of people like this brave and gallant person behind him.
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses a hadith which predicts that there will be a time when Muslims will be divided into sects, just as they are during dinner. He predicts that this will happen specifically in relation to Israel and Palestine, and that the Jews and Muslims will be working together against the latter's enemies. He urges Jews and Muslims to remain supportive of one another, and to stand up to their enemies.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** explains that Islam teaches that the enemy will be dividing and conquering Muslims, and that in order to prevent this, Muslims must be united under one principle. also discusses the hadith which states that anyone who follows another Islamic leader apart from the Prophet Muhammed will not go to Heaven.
+* **<a onclick="modifyYTiframeseektime('900')">00:15:00</a>* Discusses the Islamic concept of martyrdom and how it applies to the Palestinian people who are fighting against Israel. He encourages Muslims to remember the martyrs and stay strong in the face of adversity.
+* **<a onclick="modifyYTiframeseektime('1200')">00:20:00</a>** argues that anti-Semitism is incompatible with Islam because Judaism and Islam are both religions of monotheism.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 

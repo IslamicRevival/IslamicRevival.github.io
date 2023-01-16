@@ -11,13 +11,13 @@
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick=\"modifyYTiframeseektime('600')\">00:00:00](https://www.youtube.com/watch?v=ZdugED9KiQ8&t=0) - [00:10:00</a>
+### <a onclick="modifyYTiframeseektime('600')">00:00:00 [00:10:00</a>
 
  discusses the difference between a "god" in human form and a "god" in nature. It argues that the concept of a god in human form is contradictory and irrational, and that only Islam has a rational conception of God.  concludes by urging viewers to be spiritual and critical in their search for truth.
 
-**<a onclick=\"modifyYTiframeseektime('0')\">00:00:00</a>** Cosmic Atheist comes closer to understanding the various arguments for and against the existence of god. He finds the contingency argument to be the most plausible on a surface level, but is still undecided about his position. He appreciates Mick for bringing up the contingency argument, and hopes that he does not change his mind on the matter.
-* **<a onclick=\"modifyYTiframeseektime('300')\">00:05:00</a>* Discusses the difference between a "god" in human form and a "god" in nature. It argues that the concept of a god in human form is contradictory and irrational, and that only Islam has a rational conception of God.  concludes by urging viewers to be spiritual and critical in their search for truth.
-* **<a onclick=\"modifyYTiframeseektime('600')\">00:10:00</a>** The cosmic atheist argues that the relationship between humans and the necessary existence is one of submission. Everything else in creation is submitting to the will of the necessary existence, so humans must do the same if they want to be at one with nature.
+**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Cosmic Atheist comes closer to understanding the various arguments for and against the existence of god. He finds the contingency argument to be the most plausible on a surface level, but is still undecided about his position. He appreciates Mick for bringing up the contingency argument, and hopes that he does not change his mind on the matter.
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>* Discusses the difference between a "god" in human form and a "god" in nature. It argues that the concept of a god in human form is contradictory and irrational, and that only Islam has a rational conception of God.  concludes by urging viewers to be spiritual and critical in their search for truth.
+* **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The cosmic atheist argues that the relationship between humans and the necessary existence is one of submission. Everything else in creation is submitting to the will of the necessary existence, so humans must do the same if they want to be at one with nature.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
