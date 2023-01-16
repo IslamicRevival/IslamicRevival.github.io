@@ -27,7 +27,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  introduces Qur'anic arguments, which are used to support points made in the Surah Al-Qamar. The Surah is full of repetition and similes, which characterize the style and linguistic field of the text. The main point of the video is that the human being is like a tree that is pulled out of the ground by an event that is cataclysmic, serious, or enormous.
 
@@ -43,7 +43,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  introduces Qur'anic arguments, which are used to support points made in the Surah Al-Qamar. The Surah is full of repetition and similes, which characterize the style and linguistic field of the text. The main point of the video is that the human being is like a tree that is pulled out of the ground by an event that is cataclysmic, serious, or enormous.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the Qur'anic argument that if there is something rather than nothing, then it must be because God exists.  points out that the people of Samud were accusing Mohammed of being mad after he claimed to be a prophet, and then Allah gives them further evidence that he is a true prophet. If Mohammed were not a prophet, then it would be a lie for them to believe this.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses Surah Al-Qamar, which discusses the importance of parental guidance and admonishing children to pray. points out that if one's job is only to tell their children to pray, then the term "stubborn" would not be used. The Arabic words used in the Quran have specific meanings which are important to understand in order to properly raise one's children.  points out that today's world is full of challenges and that the easy thing to do is to do nothing, but to instead be mindful of what our Lord is saying through the Quran. urges viewers to remember the Quran and to be diligent in studying it.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  argues that the Qur'anic arguments against homosexuality are more valid than those in traditional religious texts. It also discusses the Prophet Mohammed and the end of the world, claiming that the Qur'an is the only source that accurately predicts this event.
 
@@ -59,7 +59,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** of the video discusses the Qur'an's prediction of the end of the world, which he claims is one of the biggest mistakes in the Bible. C.S. Lewis, a famous Christian author, discusses this same verse in his book "The Bible." He claims that the Bible got the prediction wrong, and that the Qur'an is the only source that accurately predicts this event.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>* introduces Qur'anic arguments, which he says are better than the evidences given by prophets in the past. He also discusses two views among scholars of the compilation of the Quran. One view says the Quran was compiled from the Prophet's companions, while the other view says it was compiled from Allah. Regardless of the source, the author says that this does not really matter because the content of the Quran is the same.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** argues that the Quran is structurally coherent, and that evidence points to Muhammad being the one who put it in its present order. They also mention that the existence of something rather than nothing necessitates the existence of a cause, and that this cause is God.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('7500')">02:05:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:05:00</a>
 
  introduces the idea of Qur'anic arguments, which assert that evil is a manifestation of one of Allah's attributes. The presenter discusses various alternatives to marriage, concluding that most people should get married and work on themselves to overcome their addictions.
 

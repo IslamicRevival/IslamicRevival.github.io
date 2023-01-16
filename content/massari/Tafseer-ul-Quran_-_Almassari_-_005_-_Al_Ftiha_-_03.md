@@ -18,7 +18,7 @@ We want to recommend Kitab ut-Tawheed: The Basis of Islam and the Reality of Mon
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the concept of worship in Islam, and how it should not be confused with other acts of reverence or respect. explains that worship is an act of obedience to God, and that there is no higher probability that obedience is correct than total surrender to Allah. He also points out that there is a difference between worshipping Allah and following the rulings of a prophet, as the latter is a direct revelation from Allah.
 
@@ -34,7 +34,7 @@ We want to recommend Kitab ut-Tawheed: The Basis of Islam and the Reality of Mon
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses different aspects of Islamic prayer, including the importance of being guided to the right path, the importance of free will, and the significance of the Lord's Prayer. It also compares and contrasts the two most important Islamic prayers, the Lord's Prayer and the salat.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** discusses the various aspects of the path to success, emphasizing that it is a holistic process that includes acts, words, and attitudes. He also mentions that guidance comes from Allah, who is the truth and perfection in all things.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** explains that Allah has promised that those who follow His guidance will be saved from depression and suicidal thoughts. He goes on to say that this is a fundamental part of the Islamic faith and is defined in detail by Prophet Muhammad. Those who follow his commandments will be rewarded, while those who do not will be punished.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3900')">01:05:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:05:00</a>
 
 of the video discusses how people can end up in trouble if they do not follow Allah's revelations and commandments. He warns people about following false prophets and philosophies, and how it can lead to lost salvation.
 

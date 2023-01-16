@@ -13,7 +13,7 @@ Sunni Muslim Mohammed Hijab relays the strongest Quranic argument against Ahmadi
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('900')">00:15:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:15:00</a>
 
  features a discussion between an Ahmadi Muslim and a Sunni Muslim. The Ahmadi Muslim points out that the Quran clearly states that Muhammad is the final prophet, and challenges the Sunni Muslim to recite the Quran in its entirety to prove her faith. The Sunni Muslim eventually walks away, and the Ahmadi Muslim sells her a key to his research proving that Muhammad is the final prophet.
 

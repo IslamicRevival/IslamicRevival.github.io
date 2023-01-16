@@ -26,7 +26,7 @@ My socials
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('900')">00:15:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:15:00</a>
 
 Naima B. Robert discusses the expectations of some Muslim feminists in marriage and how they can often conflict with traditional roles and expectations. She provides advice for both men and women to learn about their Islamic grounding and make a commitment based on something bigger than themselves.
 

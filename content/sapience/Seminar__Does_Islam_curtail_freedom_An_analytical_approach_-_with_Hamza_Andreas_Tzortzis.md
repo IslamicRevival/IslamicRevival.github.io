@@ -13,7 +13,7 @@ Islam means submission to God. However, does that mean Islam curtails people's f
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 The seminar discusses the idea of freedom and how Islam promotes it. It covers the philosophical concept of freedom, coercion and rights, and why the empirical account of freedom is incoherent. It then goes on to discuss why the Islamic conception of rights is more robust and how it is connected to the Quran and prophetic traditions.
 
@@ -29,7 +29,7 @@ The seminar discusses the idea of freedom and how Islam promotes it. It covers t
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the Islamic conception of rights and how it does not restrict freedom. It goes on to discuss how this understanding comes from the fact that Islam comes from God, who is the source of all good and is the source of all rights. It then goes on to discuss how the Islamic understanding of rights is the correct conception, and how anyone can understand this if they are willing to think critically.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** argues that, because Islam upholds certain principles of human rights, Muslims are actually free. This is contrary to the libertarian view, which assumes that freedom is the absence of coercion.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The presenter discusses how Islam preserves freedom, and how if someone can prove that Islam has its own conception of rights, they are free from the idea of freedom.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:00:00</a>
 
 argues that Islam does not curtail freedom, but rather that the rights given by Allah are true due to who Allah is.
 

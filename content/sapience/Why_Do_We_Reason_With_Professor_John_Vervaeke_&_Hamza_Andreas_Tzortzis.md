@@ -11,7 +11,7 @@ A conversation on rationality, God and science with Professor John Vervaeke and 
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  Professor John Vervaeke and Hamza Andreas Tzortzis discuss the importance of reason and how it can help us find truth and meaning in our lives. They argue that reason is more than just logical processing of information, but includes knowing when and how to be logical, as well as being able to ignore information that is not relevant. They discuss how evolutionary reliabilism is problematic and how a theistic perspective can help us understand human nature. Finally, they discuss how wisdom is not simply knowledge, but the ability to grasp the relevance of knowledge.
 
@@ -29,7 +29,7 @@ The key point of the video is that if we adopt a theistic perspective, then our 
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  Professor John Vervaeke and Hamza Andreas Tzortzis discuss the idea that we reason because it is adaptive, and that some of what we reason about might be false, but that it is still adaptive. They also discuss the problem of setting criteria for what is and is not a signal.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses how reasoning leads to truth, and how this is even more important when one's beliefs are not based in evidence. Professor John Vervaeke and Hamza Andreas Tzortzis discuss the importance of wisdom traditions, and how they transform the individual. They also discuss how having information in an abstract way can lead to a gap between what one knows and who they become.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Professor John Vervaeke and Hamza Andreas Tzortzis discuss the importance of reason in our lives and the role that symbolic play can play in helping us to transform ourselves. They point out that decision theory alone cannot help us make the necessary decisions, and that we need to be open to the possibility that we might lose something important when we make a change.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  Professor John Vervaeke and Hamza Andreas Tzortzis discuss the concept of reason and how it relates to other aspects of life, such as spirituality. They argue that reason is ultimately about chasing after a sense of contentment and happiness, rather than pursuing goals or achieving specific results. They also discuss how spiritual practices can help people shift from ego centrism to anti-semitism, and from a focus on the self to a more Reality Eccentric perspective.
 
@@ -45,7 +45,7 @@ The key point of the video is that if we adopt a theistic perspective, then our 
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** argues that there are many things that are sacred to different traditions, and that science supports the idea that reality is inexhaustible. He also argues that there is no one tradition that is better than all the others, and that each has its own strengths. He concludes by saying that while he is hesitant to privilege any one tradition, he believes that wisdom comes from committing to a spiritual path and sticking with it.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>* Discusses the idea that all humans are in a state of worship, and that the Islamic tradition came to correct this. They go on to say that, from a naturalistic perspective, spiritual practice can be problematic because it can lead to self-worship.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>**  Professor John Vervaeke and Hamza Andreas Tzortzis discuss the concept of reason and how it relates to other aspects of life, such as spirituality. They argue that reason is ultimately about chasing after a sense of contentment and happiness, rather than pursuing goals or achieving specific results. They also discuss how spiritual practices can help people shift from ego centrism to anti-semitism, and from a focus on the self to a more Reality Eccentric perspective.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('8100')">02:15:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:15:00</a>
 
  discusses how changes in society have led to a decline in religious belief, and how this has contributed to problems like the media crisis. It also explains how individualism has led to a breakdown in empathy and social obligations.  argues that humans need to rely on others for guidance and that living without tradition can lead to a lack of understanding. Finally, it discusses the importance of reason and how it can help us to have more meaningful discussions with others.
 

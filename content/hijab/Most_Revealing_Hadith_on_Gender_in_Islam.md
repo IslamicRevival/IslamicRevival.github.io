@@ -23,7 +23,7 @@ Please donate and help establish this Masjid and earn your reward ➡ https://ww
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1200')">00:20:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:20:00</a>
 
  discusses a hadith which states that if a Muslim man and woman repent to Allah, Allah will make their marriage work. This hadith is significant because it shows that even in the 7th century, there were still references to gender roles in Islam. This hadith is also significant for religious audiences and non-religious audiences alike because it sheds light on the origins of modern feminism.
 

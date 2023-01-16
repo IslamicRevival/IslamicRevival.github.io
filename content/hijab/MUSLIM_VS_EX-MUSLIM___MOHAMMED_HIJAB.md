@@ -11,7 +11,7 @@ A debate between a Muslim and an Ex-Muslim
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1800')">00:30:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:30:00</a>
 
 discusses the differences between Muslims and ex-Muslims, and how they can use deductive reasoning to debate the existence of God.  also argues that hyperbole and overt expressions of religious belief can be harmful to religious harmony.
 

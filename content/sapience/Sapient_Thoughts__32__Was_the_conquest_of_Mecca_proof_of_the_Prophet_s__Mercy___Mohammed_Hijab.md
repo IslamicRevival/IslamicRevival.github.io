@@ -11,7 +11,7 @@ Sapient Thoughts #32: Was the conquest of Mecca proof of the Prophet's ﷺ Mercy
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 Mohammed Hijab discusses the conquest of Mecca and how it was proof of the Prophet's mercy. He argues that the Prophet was not a harsh man, as is often portrayed, and that the stories of his assassination attempts are false. He concludes by saying that Muslims should not be fooled by false narratives about Muhammad.
 

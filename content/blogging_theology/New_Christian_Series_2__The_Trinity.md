@@ -24,7 +24,7 @@ https://twitter.com/freemonotheist
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2700')">00:45:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:45:00</a>
 
  discusses the doctrine of the Trinity, how it has been understood throughout history, and how it is relevant to contemporary Christian faith. It features a variety of authors with different perspectives on the doctrine.
 

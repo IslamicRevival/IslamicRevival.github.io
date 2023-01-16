@@ -31,7 +31,7 @@ Week 8: Summary and exam
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  provides an overview of the different types of doubts that people can experience, and offers strategies for how to deal with them. It emphasizes the importance of distinguishing between questions and doubts, and of not allowing doubts to become destructive.
 
@@ -47,7 +47,7 @@ Week 8: Summary and exam
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses how distinctions can give someone power when it comes to their faith. The first distinction is between waswasa (shaytanic whisperings), negative whisperings, and thoughts that someone does not agree with. The sahaba (companions of the Prophet Muhammad) had a psychological aversion to these thoughts, and according to the Prophet, this was a sign of faith.  also discusses how doubts can become destructive if taken seriously.  recommends ignoring the thoughts and not acting or talking about them.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** explains that there is a difference between questions and shaytanic whisperings, and that questions do not undermine or distort one's belief in Islam, while shaytanic whisperings do. recommends that, if one follows this strategy, shaytanic whispers will eventually disappear.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  explains ten strategies for dealing with doubts about Islam. The first strategy is to understand that questions about Islam are valid, and not to allow doubts to turn into destructive heart-wrenching doubt. Next, classical scholars can provide explanations of Islamic teachings that are beyond the understanding of the average person. Finally, it is important to remember that questions about Islam should not be confused with doubts about the validity of the Islamic faith itself.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3900')">01:05:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:05:00</a>
 
  discusses how to deal with doubts in a person's faith, how to ask specialists for advice, and how to learn Islamic knowledge holistically. It offers advice on how to identify and eliminate destructive doubts and suspicions that may be affecting a person's heart.
 

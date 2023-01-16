@@ -15,7 +15,7 @@ hijab10 discount code.
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('900')">00:15:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:15:00</a>
 
 discusses how people's beliefs about truth can be determined by whether or not they can provide evidence for those beliefs. then goes on to say that people who believe in evidence-based truths should also believe in the existence of other religions. discusses how there are other routes to knowledge, which are not based on observations or theories, and how belief is applied in science. He asks a simple question: does the speaker acknowledge testimony as a valid route to knowledge? answers that, if it is tested and proves accurate, then testimony is valid. However, if the testimony is not accurate, it is suspect.
 

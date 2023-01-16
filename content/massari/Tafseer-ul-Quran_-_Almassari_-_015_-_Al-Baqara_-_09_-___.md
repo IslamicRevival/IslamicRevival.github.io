@@ -18,7 +18,7 @@ Explanation of the reason of Nifaaq
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses practical hypocrisy among Muslims and how it can lead to them being deceived. It also discusses different readings of the Quran and how to deal with doubts about religious statements.
 
@@ -34,7 +34,7 @@ Explanation of the reason of Nifaaq
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** discusses how some Muslims interpret Qur'anic verses regarding fighting against racism and fighting for the rights of black people as being on the same level of logic and spirituality. He points out that this is not a sound interpretation, and that it is shaq (doubt) that is the root of the problem.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the issue of homosexuality and its place in Islam. It points out that homosexuality is not a part of Darwinism or the "survival of the fittest" theory, and that it does not have a place in a logical system that accommodates for evidence and logical argument.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The ayah discusses the concept of "the facade of argument," which refers to the idea that some people pretend to be Muslims while actually working against Islam. The ayah also discusses the concept of "corruption," which refers to the act of stealing or harming others. The ayah suggests that corruption will increase if Muslims do not take action to prevent it.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:00:00</a>
 
 explains that Islam is the opposite of disbelief, and that this concept is central to understanding the true meaning of the religion. He goes on to discuss how this ayah can be applied to our daily lives in order to improve and correct our own behavior.
 

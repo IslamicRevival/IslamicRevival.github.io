@@ -13,7 +13,7 @@ Full video on here - https://www.youtube.com/watch?v=N0wuXLFOSgs
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('300')">00:05:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:05:00</a>
 
  "Atheist Apologist tries to Disprove Quran with Science" discusses how science can be used to disprove the Quran. The atheist apologist argues that, because the Quran is meant to be guidance for all people, it cannot be dismissed as ridiculous because of modern science. He also points out that, because the Quran is multi-layered and speaks to different people in the same tone, it cannot be dismissed as a book written by a scientist who is not understood by all. Ultimately, though, he fails to provide a convincing argument against the miracles.
 

@@ -19,7 +19,7 @@ Byrne, ‘Religion and the Religious’ in Clarke & Sutherland (ed.s) The World'
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2400')">00:40:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:40:00</a>
 
 , a Turkish professor discusses the problems with liberalism as a religion. He argues that liberalism is based on the false idea that everyone is born equal, and that this leads to problems because some people are not born with the same opportunities as others. He also points out that equality of opportunity is not an achievable goal, and that it is important to have a quality of opportunity, not just an equality of opportunity.
 

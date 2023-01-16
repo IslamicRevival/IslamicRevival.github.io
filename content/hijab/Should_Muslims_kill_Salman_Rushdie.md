@@ -21,7 +21,7 @@ Please donate and help establish this Masjid and earn your reward ➡ https://ww
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 discusses the building of the first Islamic community center in Norway, and how Salman Rushdie has been helpful in fundraising.  also discusses the importance of establishing a mosque.
 

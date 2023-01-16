@@ -18,7 +18,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 In "109 Tafseer ul Quran Surat Al Ma'idah," Professor Dr Muhammad al-Massari continues hisinterpretation of the Surah al-Ma'idah. He discusses the prohibition against depriving oneself of good things in life, as well as the importance of following Allah's commandments. He also reminds viewers of the characteristic of the final messenger of final Revelations - that some good things may have become halal due to historical context.
 
@@ -34,7 +34,7 @@ In "109 Tafseer ul Quran Surat Al Ma'idah," Professor Dr Muhammad al-Massari con
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the possible interpretations of the phrase, "If you save my child from this operation I will donate a thousand for whatever cause." One interpretation is that if someone saves a child's life, they must offer something in return, such as a donation to a charity. The other interpretation is that if someone asks Allah for something, Allah will not willingly grant it, even if the person offers something valuable in return.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the various prohibitions associated with intoxicants and gambling, and provides a summary of the reasoning behind them. It also provides a perspective on Hezbollah's view on lotteries.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses how gambling can lead to financial problems and family problems. It also discusses how classical gambling is less popular but can still lead to problems.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  Professor Dr. Muhammad Al Massari discusses the dangers of intoxication and how it can lead to domestic violence. He explains that while there are ways to prevent intoxication, such as being aware of crosswalks and watching for cars, it is difficult to counterbalance a society that is addicted to gambling.
 
@@ -50,7 +50,7 @@ In "109 Tafseer ul Quran Surat Al Ma'idah," Professor Dr Muhammad al-Massari con
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>**  Professor Dr. Muhammad AL MASSARI discusses the definition of intoxication and how it relates to the Islamic faith. He explains that in Islam, intoxication is only permissible if it is within a certain limit and that any amount above that limit is considered poisonous.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>* Discusses the difference between intoxication and intoxication-level, and how it is important to do research in order to determine if a certain substance is intoxicating. Dr. Muhammad Al Massari discusses how some substances, like marijuana, are not as intoxicating as others, and how this can be a problem in terms of road safety. He also discusses how classical scholarship can be used to determine if a certain substance is intoxicating, but that this is not always done effectively. Dr. Al Massari concludes the video by discussing how intoxication-level can be used as an objective measure of how intoxicating a substance is, and how this can be a problem when it comes to substances like marijuana.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** The professor discusses the effects of alcohol on the body and why it is not considered Haram to drink alcohol-free beer. He also provides a laboratory result that backs up his claims.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('8700')">02:25:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:25:00</a>
 
  Professor Dr Muhammad AL MASSARI discusses the Islamic perspective on the use of Hammers and Cutlasses. He states that, in principle, Hammers and Cutlasses are permissible if used in a safe and responsible way. However, he cautions that, if used in a way that is harmful, the user may end up suffering dire consequences.
 

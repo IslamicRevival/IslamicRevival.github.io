@@ -15,7 +15,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3300')">00:55:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:55:00</a>
 
 Imam Tom discusses the book, "The Impossible State: Islam, Politics and Modernity's Moral Predicament" by Wael Hallaq. He argues that there is no such thing as an Islamic State, and that the Sharia is completely incompatible with modernity. This book is important because it provides a perspective on the current political situation in the Middle East, and it is interesting to hear from an Islamic scholar.
 

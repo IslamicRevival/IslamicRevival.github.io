@@ -84,7 +84,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  Norman Finkelstein discusses the Israel-Palestine conflict and how western governments give their utmost support to Israel while ignoring the inhumane acts that Israel commits. He also points out that the conflict is multi-dimensional and that it's very hard to sort out motives.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** , Dr. Norman Finkelstein discusses the Israeli-Palestinian conflict and the prospects for peace. He notes that there are many factors at play, and that it will likely take hours to sort them out. He also criticizes President Obama for not taking stronger action against Israel.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Dr. Norman Finkelstein discusses the Israeli-Palestinian conflict, mentioning the recent violence in Sheikh Jarrah and how it mirrors the conflict's historical roots. He says that the United States should not support Israel blindly, as it may be pulling the country away from its goals.
-### <a onclick="modifyYTiframeseektime('7200')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">01:00:00-02:00:00</a>
 
  Dr. Norman Finkelstein discusses the history of the Israeli occupation of Palestine and the effect it has had on the Palestinian people. He highlights the recent events in Shergir, where an Israeli settler killed two Palestinians and injured several others, and how the situation is part of a larger trend of Israeli aggression against Palestinians. Dr. Finkelstein urges people to learn more about the history of the occupation and the effect it has had on the Palestinians before making any decisions about the situation.
 
@@ -100,7 +100,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** , Dr. Norman Finkelstein discusses the Palestinian issue and why it is not just an Islamic issue. He also discusses how Christians living in the occupied West Bank suffer from similar oppression to Muslims, and how the issue is not just about al-Aqsa Mosque.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** , Dr. Norman Finkelstein discusses the oppression of the Palestinians and how it is comparable to the persecution of Jews during the Holocaust. He also points out that there is no comparison between the situation of the Palestinians and the Muslims in Europe, as the Palestinians were colonized by the British and later given land by the British in return for acts of terrorism.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Dr. Norman Finkelstein discusses the history and current situation of Palestine and the Israeli-Palestinian conflict. He stresses that the issue is not just about a territorial dispute but about an ideological conflict between Islam and Christianity. He also argues that action by the Muslim world is necessary to liberate Palestinian Muslims from Israeli oppression.
-### <a onclick="modifyYTiframeseektime('8700')">02:00:00</a> - [02:25:00</a>
+### <a onclick="modifyYTiframeseektime('8700')">02:00:00</a>
 
 In the video "Palestine Emergency Address with Dr. Norman Finkelstein | Thought Adventure Podcast," Dr. Norman Finkelstein discusses the need for a one-state solution to the Israeli-Palestinian conflict. He outlines the complexities of the issue and discusses the potential consequences of such a solution, including the possible establishment of an Islamic state in Palestine.
 

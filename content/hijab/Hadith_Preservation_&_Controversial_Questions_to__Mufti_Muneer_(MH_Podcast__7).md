@@ -14,7 +14,7 @@ Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  Mufti Muneer discusses the importance of studying Hadith and how it should be done, emphasizing the importance of having a pure philosophy before pursuing knowledge. He also emphasizes the importance of baby steps, saying that if someone does not take these steps, they may eventually give up.
 
@@ -30,7 +30,7 @@ Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses Hadith preservation and controversial questions to Mufti Muneer. Muneer has reservations about some of the hadith collections and believes that strike the shepherd and the sheep will scatter is a valid strategy. He also mentions examples of hadith collectors and their teachers.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the different ways that hadith can be critiqued, and discusses how critical evaluation of hadith should take precedence over criticism of individual narrators. It also points out that some hadiths conflict with other verses of the Qur'an, but that this does not mean that they are fabricated.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the science of men, which is an incredible compliment to the whole standard system of Islamic law. It also discusses the importance of identifying and categorizing people according to their names, nicknames, tribes, etc. Mufti Muneer explains that this science is essential for maintaining the accuracy and reliability of Islamic law. His explanation is met with criticism from Westerners who believe that the science is fabricated.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('6300')">01:45:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:45:00</a>
 
  discusses the importance of Hadith preservation and how it can help preserve cultural heritage. also advises Muslims to study Arabic and engage with people from different cultures in order to learn about their customs and beliefs.
 

@@ -26,7 +26,7 @@ The "Why Atheism is Irrational" series will include seminars on:
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the argument from prior cognitive information, which states that the source of prior cognitive information cannot be from something natural. The presenter argues that, even if it were true that a non-human animal species could intelligently interact with human beings, this would still not be evidence that animals have cognitive abilities. He concludes by saying that the most rational explanation is that something outside of the human being created the information.
 
@@ -42,7 +42,7 @@ The "Why Atheism is Irrational" series will include seminars on:
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** In this seminar and interview, the speaker discusses why atheism is irrational. argues that, on an evolutionary account, there can be no link between the mental and the physical, and that, even if we grant that evolution is for truth orientation, the bigger problem is that there is no way the mental affects the behavior on the physical.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** argues that there must be a living, willing, transcendent agent behind the process of human cognition, as cognitive information must be initiated by a living entity for it to be properly formed. He argues that this agent must be omniscient and possess immense knowledge in order to endow other entities with intellect. Finally, he argues that this agent must consciously select which cognitive information is initiated for human beings to have success.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The presenter argues that, because atheism is based on the absence of evidence, it is irrational. The traditional view of god, which posits that god is all-knowing, all-wise, and intimately involved in the lives of humans, makes perfect sense from a theistic perspective.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('4800')">01:20:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:20:00</a>
 
 Dr. Aaron Safarook Chowdhury discusses how atheism is irrational due to the lack of justification for moral laws. He argues that atheism requires prior cognitive information which cannot be arbitrarily derived from evolution, and that natural selection cannot be the source of this information. He explains that a transcendent agent must be responsible for it, and that people can follow his academic work on his website, Islamic analytic theology.org.
 

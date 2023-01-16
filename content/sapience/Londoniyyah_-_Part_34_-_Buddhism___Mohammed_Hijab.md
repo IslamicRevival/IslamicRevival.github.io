@@ -29,7 +29,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  provides an overview of Buddhism, including its central concepts of purification and meditation. It explains that, while Muslims may also practice meditation, Buddhists have a more specific set of practices and rituals in order to focus the mind.
 
@@ -45,7 +45,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses how Buddhism may be popular in the West because it is antithetical to the ideology of westernism. The main points made are that Buddhism is focused on the meditative, spiritual aspects, and that it is different from polytheism, which is a more theological form of Buddhism.  also discusses how westerners are starting to become interested in Buddhism because it is in opposition to the materialism and excesses of western culture.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the differences between Islam and other religions, and how Islam considers anything that is not done for the sake of Allah to be a waste of time. He goes on to discuss the importance of tawhid or monotheism, and how doing it for allah, not oneself, is the key to a successful life.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  provides a brief overview of Buddhism, including its central concepts of purification and meditation. It explains that, while Muslims may also practice meditation, Buddhists have a more specific set of practices and rituals in order to focus the mind.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3900')">01:05:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:05:00</a>
 
  discusses the importance of prayer and fasting in Islam, and how they help worshippers to focus their minds and deepen their concentration. explains that there are five pillars of Islam, each of which contributes to the goal of worshipping God.
 

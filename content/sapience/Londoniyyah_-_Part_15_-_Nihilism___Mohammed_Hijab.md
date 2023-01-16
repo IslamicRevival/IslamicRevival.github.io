@@ -27,7 +27,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  Mohammed Hijab discusses the concept of nihilism and how it relates to Islam. He points out that, in Islam, there is a sense of understanding that this world is only temporary and that there is a higher purpose to be pursued in the afterlife. He also discusses how nihilism can be a very depressing perspective, and how it can have a significant impact on how a person behaves in this life.
 
@@ -43,7 +43,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Mohammed Hijab discusses the definition of worship in Islam, citing verses from the Qur'an. He points out that worship is a voluntary act of submission to a higher power, and that there is a difference between human slavery and worship of God.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Mohammed Hijab discusses the idea of nihilism and how it relates to Islam. He points out that, in Islam, there is a sense of understanding that this world is only temporary and that there is a higher purpose to be pursued in the afterlife. He also discusses how nihilism can be a very depressing perspective, and how it can have a significant impact on how a person behaves in this life.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Mohammed Hijab discusses the concept of optimism in Islam, citing a hadith which states that one should have hope in the face of adversity. He also points out that pessimism is not a fair perspective and that one should have a balance of both optimism and pessimism.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('4800')">01:20:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:20:00</a>
 
  discusses the idea of nihilism, or the belief that there is no meaning or purpose in life. Mohammed Hijab says that for a pessimistic person, this can be a very optimistic perspective. He also discusses the importance of having hope and fear in order to motivate oneself and be realistic in one's outlook.
 

@@ -11,7 +11,7 @@ This is a brief examination of verses in the Quran which may relate to some of t
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1800')">00:30:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:30:00</a>
 
 , a Muslim theologian discusses how the Quran deals with atheists and atheism. The theologian argues that atheists cannot be certain of their ideology, and that, as a result, they cannot be certain of the existence of God.  advises Muslims to be "nice" and "ask them how their parents are."
 

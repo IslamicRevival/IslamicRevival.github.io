@@ -23,7 +23,7 @@ Please donate and help establish this Masjid and earn your reward ➡ https://ww
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1500')">00:25:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:25:00</a>
 
  discusses the reactions of Muslim men to Andrew Tate, a British figure known for his views on Islam and masculinity. The men discuss how Tate's views on Islam and masculinity affect their own lives, and discuss the importance of following the prophets instead.
 

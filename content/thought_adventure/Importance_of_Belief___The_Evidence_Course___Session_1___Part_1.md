@@ -64,7 +64,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  discusses the importance of belief, both in general and specifically for Muslims. It argues that belief is necessary in order to develop a moral philosophy, and that different outlooks on life arise from different beliefs.  also discusses the importance of using one's mind to establish the foundations of belief.
 

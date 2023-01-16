@@ -17,7 +17,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  provides a brief introduction to the Prophet Mohammed, discussing his background, life, and mission. It also introduces his wife, Hadija, and discusses the significance of the Surah of Warnings.
 
@@ -33,7 +33,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  introduction to Prophet Mohammed covers his early life, how he became a leader in Medina, and some of the miracles he performed. The five prayers were revealed during his journey to Jerusalem.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The Islamic prayer is central to the Islamic faith and is believed to be a way to connect with God. Daily prayer is mandatory for Muslims, and five times a day is the most common time for prayer. The Prophet Mohammed shared the risk of battle with his companions, married older women with children, and married Aisha, the daughter of Abu Bakr.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  introduces Prophet Mohammed and explains how his victories in war established Islam as a dominant force in the Middle East. The treaty he drafted with the Jewish people, in which they profess their religion and Muslims theirs and agree not to sin against each other, is an example of this. The jizya, a discriminatory tax levied against the Jews, is explained as having a different name because it has a spiritual function as well.  then goes on to discuss the importance of this treaty and how it facilitated the atmosphere for people of other faiths living in Medina.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('5400')">01:30:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:30:00</a>
 
  introduces the life of Prophet Mohammed and covers some of his accomplishments. It discusses his relationships with his wives and children, as well as his religious beliefs and practices.
 

@@ -11,7 +11,7 @@ Natural beauty can bring about a state of awe. This can increase cognition & red
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('900')">00:15:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:15:00</a>
 
 Fahad Islam discusses cognitive biases and how they can lead to inaccurate perceptions of reality. He then discusses how the environment can affect these perceptions, and how this can impact our ability to access the truth.
 

@@ -11,7 +11,7 @@ This is a clip of a positive discussion I had with two young men in Accra Ghana.
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 two Christians from Ghana discuss their disagreement with the Trinity. They say that the Trinity is not found in the Bible, and that Muhammad came to fix the mistakes made by Christians.
 

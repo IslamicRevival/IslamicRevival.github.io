@@ -13,7 +13,7 @@ Principle of Sufficient Reason and the Infinite Regress   4
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the principle of sufficient reason, which states that there must be a reason for everything in the universe. It also discusses the principle of the infinite regress, which states that any event must have a preceding event that is a cause for it.  argues that these principles are necessary for understanding causality, and that they are not just a principle of the mind.
 
@@ -43,7 +43,7 @@ Although this theory is accurate in some cases, it is not perfect. In fact, it m
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Principle of Sufficient Reason and the Infinite Regress, Professor Hawkin discusses the paradox of the infinite regression and how it can be solved. He argues that if a quantum fluctuation is outside of the universe or before it, then it is not a logical law and is instead a matter of necessity of reason.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The principle of sufficient reason states that the existence of something is logically necessitated by the existence of its conditions of possibility. However, the principle is not sufficient to explain the existence of things in existence, as it cannot account for their creation. Professor Taha argues that time must have begun at a singular point, which he refers to as the singularity, and that the universe must have been created with infinite values in its equations. He also claims that there is something inherently non-physical about these laws, which means that they do not exist in and of themselves, but require the mind to conceive of them.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  Professor Pippo Bono discusses the Principle of Sufficient Reason and the Infinite Regress. Bono argues that the principles of sufficient reason and the infinite regress are necessary for understanding causality, and that they are not just a principle of the mind. He also argues that the most primitive and limited form of causality is sufficient for understanding the cosmic vibration.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('4500')">01:15:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:15:00</a>
 
  discusses the Principle of Sufficient Reason and the Infinite Regress. The Principle of Sufficient Reason states that for any law, there must be a reason behind it. The Infinite Regress states that any law can be further explained by further explaining previous laws, which in turn can be explained by further explaining previous laws, and so on and so forth.  argues that the assumption that space and time are physical realities is wrong, and that a more accurate model must take into account the relativistic aspects of space-time.  concludes by saying that the eleventh synthesis, which is the idea that all laws can be explained by further explaining previous laws, is only speculation.
 

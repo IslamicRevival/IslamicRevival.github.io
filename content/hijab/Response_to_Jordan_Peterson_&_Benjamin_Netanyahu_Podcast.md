@@ -32,7 +32,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 Jordan Peterson and Benjamin Netanyahu debate the history of Israel and Palestine, with Peterson arguing that the British were responsible for state-building in Palestine and Netanyahu claiming that the Palestinian exodus was a "catastrophe."
 
@@ -48,7 +48,7 @@ Jordan Peterson and Benjamin Netanyahu debate the history of Israel and Palestin
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Jordan Peterson and Benjamin Netanyahu discuss the idea of a Jewish homeland in Palestine, with Netanyahu arguing that the area was largely desert and ripe for development. Jim Reisman, a Christian Zionist and one of the main advocates of the idea of a Jewish homeland in Palestine, disagrees, arguing that the area was already developed and that the Jews would return before Christ.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Jordan Peterson and Benjamin Netanyahu debate who is responsible for state-building in Palestine. Peterson argues that the British were responsible, while Netanyahu argues that it was the Palestinians who were building the state. Peterson argues that the renovations he made to his apartment are equivalent to the British occupying his land, while Netanyahu argues that the renovations were an example of self-determination.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Jordan Peterson and Benjamin Netanyahu discuss the history of Palestine, Netanyahu's claim that the Palestinian exodus was a "catastrophe," and Peterson's assertion that Jews were also killed by Zionist terrorists.  also points out that the Palestinian issue is not just a political issue, but a humanitarian one as well, as many innocent people have been killed in the conflict.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('4500')">01:15:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:15:00</a>
 
  discusses the Israeli-Palestinian conflict, with a focus on the one-state solution. The Arab League proposed this solution in the early 1950s, but the Zionists rejected it because they would lose their ethnic privilege.  argues that if Zionists are truly committed to justice, they should face their opponents in public debate.
 

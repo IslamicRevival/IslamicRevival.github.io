@@ -11,7 +11,7 @@ Islamic Jesus: How the King of the Jews Became a Prophet of the Muslims by Musta
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 The video discusses the story of Mary and her son, Yahya (John the Baptist), highlighting the parallels and differences between the Quran and the Bible. It also discusses the significance of John the Baptist in both Islamic and Christian theology.
 

@@ -13,7 +13,7 @@ Part 2 here: https://www.youtube.com/watch?v=WmiB1KSj-J8
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1500')">00:25:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:25:00</a>
 
 "Curious Muslim Meets Atheist Scientist", the two discuss the concept of worship. The atheist argues that worship is submission to the necessary existence of a deity, and the Muslim finds this unsatisfying. The atheist goes on to say that it is simply a logical question, and that the answer is unsatisfactory.
 

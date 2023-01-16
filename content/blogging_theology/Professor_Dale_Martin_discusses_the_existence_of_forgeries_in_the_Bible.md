@@ -12,7 +12,7 @@ Dr Dale Martin is a distinguished American New Testament scholar who taught at Y
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3300')">00:55:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:55:00</a>
 
  Professor Dale Martin discusses the existence of forgeries in the Bible. He cites examples of letters that are claimed to be written by Paul, but are actually written by someone else. He also discusses the style of writing and how it can be used to determine if a letter is written by the author claimed to be writing it.
 

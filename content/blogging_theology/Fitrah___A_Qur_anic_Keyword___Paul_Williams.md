@@ -11,7 +11,7 @@ I read from Quranic Keywords: A Reference Guide by Abdur Rashid Siddiqui https:/
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('300')">00:05:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:05:00</a>
 
 The video discusses the concept of fitrah and how it is a key psychological insight into human nature. It quotes from Surah Baqarah, which states that man is created in the best of moulds and that the true religion is in harmony with our human nature. Other key words mentioned include fitra and zoroastrianism.
 

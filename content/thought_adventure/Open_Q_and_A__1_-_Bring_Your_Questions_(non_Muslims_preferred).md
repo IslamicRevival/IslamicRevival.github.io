@@ -58,7 +58,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  is a live stream in which Muslims answer questions from non-Muslims about Islam. The questions raised range from beliefs in Islam to specific rulings in the Quran. Some non-Muslim viewers express concerns and ask questions, while others simply enjoy watching.
 
@@ -74,7 +74,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the concept of free will and its relationship to justice. He notes that while in the physical world, we see examples of free will, in the metaphysical realm, all actions are predetermined by God. He recommends using one's understanding of the physical world to better understand metaphysical reality.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Yusuf establishes that there are positions within Islam that attempt to reconcile the idea of all creations going to hellfire with the idea that some people may not deserve it. He then gives a question to Muhammad to answer. Muhammad says that it is Islamically acceptable, but not recommended, to hold the position.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** the speaker explains that who is responsible for an action is a question of where the action subsists. For example, when the speaker speaks, the speech subsists in the speaker, and when the speaker reads the Quran, the Quran subsists in the speaker. also explains that all actions belong to hidden mind, which belongs to the speaker. On the day of judgment, what the speaker does will be held accountable, and what anyone else does will be held accountable before.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  discusses the concept of consciousness, and how it cannot be explained by materialism. It goes on to say that there might be another force or part of the universe which is not yet clear to us which could explain consciousness.
 
@@ -90,7 +90,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** asks a Muslim man if he can give him a direct proof that allah or the god of islam is the creator. The man responds that there are rational arguments and revelation itself for believing in the prophethood of muhammad. then asks the man if he can do the same thing with his gun. The man responds that he doesn't trust that the speaker can do that, but that before that, there was no seven days or before there was a god, there was no meaning to the seven day cycle.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>* Discusses two arguments for the claim that Jesus is sovereign over all nations--one based on the authorship of Scripture, and the other based on the predicted universal implementation of the seven-day week. He argues that both propositions are true, and therefore Jesus is sovereign over all nations.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses the origins of the seven-day week, which is based on the moon. The narrator points out that no nation has ever kept a recurring seven-day cycle, and that even if one did, it would still not be a true example of the practice. He goes on to say that the evidence indicates that the Jews borrowed the idea from other cultures, and that Christianity is not necessarily true because it does not rely on evidence from the original sources.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('10800')">03:00:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-03:00:00</a>
 
  discusses the contingency argument and how it does not rely on whether something begins to exist. It also discusses different ways of responding to the argument. argues that there must be some limitations to the power of God, otherwise it would be arbitrary.
 
@@ -106,7 +106,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('9900')">02:45:00</a>**  a question is raised about the existence of an unlimited God. discusses how the reasoning behind this existence can be found in the contingency argument.
 * **<a onclick="modifyYTiframeseektime('10200')">02:50:00</a>* Discusses how an independent being's limitations can be arbitrary and limited. He explains that size, power, and mass are all potentially arbitrary limitations.
 * **<a onclick="modifyYTiframeseektime('10500')">02:55:00</a>** argues that there must be some limitations to the power of God, otherwise it would be arbitrary. He argues that this is most evident in the case of logical impossibility and impossibility.
-### <a onclick="modifyYTiframeseektime('10800')">03:00:00</a> - <a onclick="modifyYTiframeseektime('14400')">04:00:00</a>
+### <a onclick="modifyYTiframeseektime('10800')">03:00:00-04:00:00</a>
 
  features a Muslim speaker discussing various topics related to the Islamic faith, including the existence of God, predestination, free will, and apostasy. provides explanations for why certain things are forbidden in Islam, and also recommends a resource for those interested in learning more about the Islamic faith.
 
@@ -122,7 +122,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('13500')">03:45:00</a>** Abdul Rahman discusses the difference between analytic and synthetic propositions and how one can be true by definition but still be impossible. He provides an example of a synthetic proposition, water boiling at a lower temperature at a lower altitude, that is still true even if it is not within the definition of water.
 * **<a onclick="modifyYTiframeseektime('13800')">03:50:00</a>** asks a question about how to start understanding philosophical concepts, and explains that some theological schools of thought try to explain the complexities of theology in a way that is not meant to be easily understood by the average Muslim. recommends looking into the evidence course on Thought Adventure Podcast, which he has already watched half of.
 * **<a onclick="modifyYTiframeseektime('14100')">03:55:00</a>* Discusses the different types of debates that Muslims might engage in, focusing on philosophical discussions around the nature of Allah. The last guest, Murtaza, will be added to the live stream.
-### <a onclick="modifyYTiframeseektime('14400')">04:00:00</a> - <a onclick="modifyYTiframeseektime('15600')">04:20:00</a>
+### <a onclick="modifyYTiframeseektime('14400')">04:00:00-04:20:00</a>
 
  the speaker discusses how the apparent meaning of yad, or "God has two hands," is affirmed by various scholars across the board. The difference of opinion is going to be in what constitutes the "standards" of that meaning. also discusses how knowledge is similar for humans and gods, and how this similarity does not entail that gods are identical to humans in all regards.
 

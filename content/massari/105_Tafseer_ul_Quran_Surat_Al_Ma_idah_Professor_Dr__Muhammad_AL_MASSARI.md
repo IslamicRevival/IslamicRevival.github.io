@@ -18,7 +18,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses various stories from the Quran and how they relate to modern day events. It covers topics such as the Israelites crossing the Red Sea, the story of Adam and Eve, and the story of Cain and Abel.  also discusses how to interpret the Quran and how to avoid misinterpretations.
 
@@ -34,7 +34,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The professor discusses the story of the Israelites crossing the Red Sea and how they were ordered to go to a place called Kaddish Barney. He points out that this place is not in the Sinai Peninsula and that the geography of the area is incorrect.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the story of Adam's two sons, Cain and Abel. Cain killed Abel, and Abel's brother, God, told Cain that only the sacrifice of the "lightest" person would be accepted. Cain became filled with wrath and anger, and he killed Abel. Abel's brother told Cain that he should have been more righteous, and that is why God accepted his sacrifice.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses a story in which a man kills his brother in order to get his body back so he can cover up his brother's murder. However, this plan backfires and he is ultimately doomed.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  discusses the concept of punishments for those who wage war against Allah. It explains that there are many possible punishments, including crucifixion, amputation, and exile. It also discusses the importance of belief, and how it is essential to achieving success in Islam.
 
@@ -50,7 +50,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** 
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** In a hadith, the Prophet Muhammad said that a person who commits zinna or steals is not a believer, and their iman is inactive. There is a spiritual implication to this, as it can lead to legal implications. Another question asks whether a person's iman is lost if they die while committing zinna.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>**  Professor Dr. Muhammad AL MASSARI discusses the ayah in Qur'an 20 which says "my people remember god's blessings when he raised up amongst the prophets and appointed kings." He explains that this ayah is referring to the concept of monarchy, which is a system in which a ruler is granted absolute power by the people. He goes on to say that, according to traditional interpretation, this ayah means that all Jews are masters of their own destiny and are not subjects of a king. He also discusses the verse in which Muhammad complains to Allah about humans wanting to appoint kings instead of him.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('8700')">02:25:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:25:00</a>
 
  Professor Dr Muhammad AL Massari discusses theconcept of kingship, and how it is not possible for a Muslim to be a king over the people. He explains that the prophet Muhammad did not have the authority to overrule kings, and that appointing a king would only lead to oppression. Massari argues that this mindset - of thinking that one's own interests supersede those of others - is what prevents Muslims from adopting a constitutional monarchy like those found in other countries.
 

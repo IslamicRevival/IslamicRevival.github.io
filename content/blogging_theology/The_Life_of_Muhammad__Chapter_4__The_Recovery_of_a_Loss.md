@@ -24,7 +24,7 @@ https://twitter.com/freemonotheist
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('300')">00:05:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:05:00</a>
 
 The events that took place after Muhammad's revelation are covered in this video. After his initial discovery of the idols, abd al-muttalib was forced to continue digging by his disbelieving community. When he hit a well cover, he exclaimed thankfulness to god and the crowd gathered. They then decided to divide the treasure evenly between the tribe and the mosque.
 

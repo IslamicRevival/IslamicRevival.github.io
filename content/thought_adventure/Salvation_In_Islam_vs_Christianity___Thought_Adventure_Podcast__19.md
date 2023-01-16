@@ -87,7 +87,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 discusses the Islamic concept of salvation, as well as the possible fate of non-Muslims who attempt to enter paradise. It is explained that, while Christianity makes clear promises of salvation to those who accept Jesus as their Lord and Savior, Islam does not make this same sort of clear promise. Instead, Allah only knows the intentions of individuals and makes promises based on their apparent behavior and sincerity.
 
@@ -103,7 +103,7 @@ discusses the Islamic concept of salvation, as well as the possible fate of non-
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** In this Thought Adventure Podcast, the presenter discusses different theories of Christ's death, including the Christus Victor model which emphasizes Christ's mercy and love. He mentions that different denominations hold to different models, but ultimately all of them agree that Christ died for our sins in a substitutionary way.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the different ways that different Christians understand how one can be saved, with Catholicism emphasizing grace and works, and Protestantism emphasizing faith alone.  then goes on to say that if an individual does not believe in Jesus as their personal savior, they are "done" for in terms of salvation.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the issue of whether or not it is rational for an innocent person to die for the sins of all of the guilty. The presenter argues that, from an intuitive perspective, it does not make sense for a person to be punished for a crime they did not commit. God judges people justly, and does not do this arbitrarily.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  discusses the differences between salvation in Islam and Christianity. Muslims believe that everyone will be judged justly, and that there is always a chance for repentance. Christians believe that faith in God is the only way to be saved, and that animal sacrifices are not necessary for forgiveness. Both faiths place importance on the teachings of the Old Testament.
 
@@ -119,7 +119,7 @@ discusses the Islamic concept of salvation, as well as the possible fate of non-
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>**  the host challenges Christianity's position that it is rational to believe in salvation through obedience to the Mosaic law. The host also challenges Christianity's position that all sacrifices are necessary for salvation. Finally, the host provides an example of a Muslim who repents and is forgiven by God without any sacrifices.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>**  a Muslim and a Christian discuss repentance. The Muslim says that repentance in Islam is feeling regret for what one has done, seeking to recompense the mistake, and being sincere. The Christian says that repentance is simply saying "I'm sorry."
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** The muslim perspective on justice is that it is based on mercy, not on punishment. They argue that the psalmist is saying that God does not care about sacrifices, and that a contrite heart is what God wants. They also point to Isaiah 53, where it is prophesied that Christ will suffer for our sins.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('10800')">03:00:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-03:00:00</a>
 
  discusses the concept of atonement in Christianity and Islam. The theory of atonement that Jake takes is that it is moral governance view centered around the kingship of Christ. The purpose of the sacrifice done at Calvary was to show God's hatred of sin and to provide a just punishment for Jesus Christ. Christ is worthy of taking on this punishment because he takes on the office of king of all of humanity and the  of the church.
 
@@ -135,7 +135,7 @@ discusses the Islamic concept of salvation, as well as the possible fate of non-
 * **<a onclick="modifyYTiframeseektime('9900')">02:45:00</a>** , John Fisher explains the difference between Jesus Christ's role as the  of the church and the more general role of moral governor of the universe. He also touches on the idea of two separate offices for God, one as moral governor and another as  of the church. He argues that this is not analogous to God paying himself back with his own life, as this would be two different offices with two different responsibilities.
 * **<a onclick="modifyYTiframeseektime('10200')">02:50:00</a>* Discusses how salvation in Islam differs from Christianity, and how one event (the flood) can be applied to different groups of people in different ways. John argues that under Christianity, Isaac was innocent, but under Islam, Ishmael is still considered innocent.
 * **<a onclick="modifyYTiframeseektime('10500')">02:55:00</a>** , an atheist argues that the idea of substitutionary atonement - where an innocent person pays for the sins of a guilty person - does not make sense from a human perspective. The atheist argues that the idea is more obvious to most humans that death is a transition from one life to the next.
-### <a onclick="modifyYTiframeseektime('10800')">03:00:00</a> - <a onclick="modifyYTiframeseektime('13500')">03:45:00</a>
+### <a onclick="modifyYTiframeseektime('10800')">03:00:00-03:45:00</a>
 
 , Jake Hecht and Sharif Zakaria discuss the differences between Islam and Christianity in terms of salvation and the purpose of life. Zakaria argues that the purpose of life in Islam is to eliminate one's sins and raise one's rank in front of Allah, while Christianity teaches that the purpose of life is to find meaning in life. Hecht adds that in Christianity, purpose is not just about seeking happiness and pain, but also about finding meaning in life.
 

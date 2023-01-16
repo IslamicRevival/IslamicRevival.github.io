@@ -26,7 +26,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2400')">00:40:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:40:00</a>
 
  Mohammed Hijab discusses the concept of individualism. He explains that it is an ideology which prioritizes the individual in comparison to the collective. He also discusses the difference between individualism and egoism and how to define them. Finally, he discusses the difference between individualism and democracy and how parliament is sovereign.
 

@@ -39,7 +39,7 @@ Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 Daniel Haqiqatjou discusses how to deal with apostates and how to turn the tables on opponents in a debate. He also provides his thoughts on how to address doubts about Islam.
 
@@ -55,7 +55,7 @@ Daniel Haqiqatjou discusses how to deal with apostates and how to turn the table
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses why he believes that students of knowledge should be careful when addressing controversial topics, such as homosexuality and apostasy, because they may be giving straight-forward answers that do not reflect the complexity of the issue. He also discusses how Jonathan Brown's book on slavery and apostasy demonstrates this approach.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>**  controversial questions are asked to Daniel Haqiqatjou about the punishment for apostasy in Islam. Haqiqatjou provides a detailed explanation of the different schools of thought on the matter, including the Hanafi school of thought which allows for a state to not have a capital punishment for apostasy. He also discusses the conditional agreement between a Muslim country and a non-Muslim country, which allows for the relocation of apostates to a non-Muslim land.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Jonathan Brown's approach to addressing doubts about Islam is through nuance and providing a comprehensive solution, while Jonathan Brown's opponent believes that the core source of the problem is that Muhammad was a prophet and his teachings were based on the Hadith.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('6000')">01:40:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:40:00</a>
 
  features controversial questions to Daniel Haqiqatjou, a MH survivor and advocate. The questions focus on Haqiqatjou's experiences as a MH survivor, and raise questions about his account of the disease and its effects.
 

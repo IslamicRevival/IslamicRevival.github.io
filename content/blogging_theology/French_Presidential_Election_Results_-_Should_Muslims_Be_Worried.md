@@ -17,7 +17,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1800')">00:30:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:30:00</a>
 
  discusses the results of the French Presidential election, and how Muslims in France should be worried about the possible outcomes. Marine Le Pen, the far-right candidate, has a history of anti-Muslim rhetoric and could potentially become the next French President.
 

@@ -73,7 +73,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 discusses the possibility of rationally proving the existence of God.  presents the Kalam Cosmological Argument and Imam Ghazali's argument, and concludes that atheists are free to present their own methods of proof if they wish.
 
@@ -89,7 +89,7 @@ discusses the possibility of rationally proving the existence of God.  presents 
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** In this Thought Adventure podcast, brothers Justin and Masha'allah discuss the possibility of God being proven rationally. Justin explains that there are logical arguments for and against a particular god model, and that he is convinced based on certain steps taken towards that argument.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses how empirical data can be used to infer things about the fundamental layer of reality. He argues that if we observe contingent things, then we must assume causality is presupposed. This is empirical and therefore, we are no longer within empiricism. then explains how we can move from contingent things to a necessary thing.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the principle of sufficient reason, which states that there must be an external explanation for every contingent thing in the universe. If this principle is true, then it is logically necessary that everything that exists is independent.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
 The hosts of the Thought Adventure podcast discuss the idea that it is possible to rationally argue for the existence of God. They mention that there are arguments for and against evolution based on its truthfulness. If evolution is true, then it would seem that the most successful being would be based on truth. However, if evolution is not true, then science would be in conflict with its own goals.
 
@@ -107,7 +107,7 @@ The hosts of the Thought Adventure podcast discuss the idea that it is possible 
 The article from which the summary was taken argues that religious beliefs are not inherited or given to children, and that this idea of a being or creator is something that is inherent in human beings from a very early age.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** The presenter discusses how a rational argument for the existence of a Creator who has a will and chooses to create the universe can be used to argue that all aspects of existence, including human beings, are ultimately created by the Creator.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>**  the Thought Adventure podcast discusses whether or not God can be proven rationally. Hosts discuss how a person's worldview determines how they answer this question. They also mention that there are arguments for and against evolution based on its truthfulness. If evolution is true, then it would seem that the most successful being would be based on truth. However, if evolution is not true, then science would be in conflict with its own goals.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('8700')">02:25:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:25:00</a>
 
 "Can God be Proven Rationally? | Thought Adventure Podcast #2", two atheist thinkers discuss the concept of fitzroy, or innate knowledge that leads one to believe in God. One argues that this knowledge cannot be learned through experience, while the other argues that it can. Finally, the hidden brother who does all the graphics on the channel says thank you to Giuseppe for all his hard work.
 

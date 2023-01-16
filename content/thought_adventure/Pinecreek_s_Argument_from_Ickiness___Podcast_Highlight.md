@@ -80,7 +80,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2700')">00:45:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:45:00</a>
 
 Pinecreek argues that if God did not create hell, then there would be no people in hell today or in the future. He also argues that if morality is based on the nature of God, then God would only create a world without people who commit sin. However, Pinecreek argues that this does not entail that God wants people to create people knowing that some will die without asking for forgiveness.
 

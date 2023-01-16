@@ -15,7 +15,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3000')">00:50:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:50:00</a>
 
 In this video, Dr. Ali Ataie discusses the arguments for and against the existence of God. He argues that atheists make illogical arguments based on false premises, and that religious and secular fundamentalism create violence and oppression. He provides evidence that points to the existence of God, based on moral arguments and the lack of evidence to support naturalism.
 

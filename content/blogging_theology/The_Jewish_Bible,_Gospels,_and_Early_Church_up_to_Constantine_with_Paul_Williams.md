@@ -18,7 +18,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 This video discusses the history of Judaism and Christianity, focusing on the importance of the Talmud. It touches on how the rabbinical interpretation of the Torah and Gemara contribute to the development of Islamic law.
 
@@ -34,7 +34,7 @@ This video discusses the history of Judaism and Christianity, focusing on the im
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Paul Williams discusses the differences between the gospel of Jesus Christ as preached by Paul and the gospel of Jesus Christ as preached by Jesus' brother, James. Williams explains that Christianity becomes a gospel about Jesus rather than the actual message of Jesus, which is about Jesus' death on the cross and resurrection.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The video discusses the differences between the religions of James the brother of Jesus and Paul of Tarsus, who founded Christianity. James was a Christian who believed in his brother as a messiah, while Paul was a Christian who believed in Jesus as a savior. However, there was a split within the early Christian movement between those who followed James and those who followed Paul, with the latter group becoming known as the Ebionites. The Council of Nicaea in 325 A.D. decided that Jesus was a deity but not the messiah, and that followers of Jesus needed to keep the Jewish law.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The video discusses the controversy surrounding who Jesus was – whether he was equal to God or a creative being. It then goes on to discuss the first creed, which declared Jesus to be God. The video finishes by saying that if one wants to be a faithful follower of Jesus today, they must be a Muslim.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('4500')">01:15:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:15:00</a>
 
 This video discusses the differences between the teachings of Jesus and Paul, and how historical evidence suggests that the gospels are not eyewitness accounts. It also introduces the idea that there is a "reaction against the threat of biblical scholarship" in the form of fundamentalist Christianity.
 

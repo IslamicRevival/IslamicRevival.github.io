@@ -11,7 +11,7 @@ Live with Sapience Institute: Q&A with Imran Hussein & Hamza Tzortzis
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 , Imran Hussein and Hamza Tzortzis of the Sapience Institute discuss the existence of god, morality, and purpose in the absence of a deity. They discuss how humans can make sense of these concepts without the help of a deity, and how the lack of a creator leads to the potential meaninglessness of life.
 
@@ -27,7 +27,7 @@ Live with Sapience Institute: Q&A with Imran Hussein & Hamza Tzortzis
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** , Imran Hussein and Hamza Tzortzis discuss the Hebrew story of Moses and the young boy who was killed. The men discuss how Moses could not bear with patience and how it led to him making a number of mistakes. The men also discuss the meaning of the phrase "the universe is made up of nothing."
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Imran Hussein discusses why there is something rather than nothing and how this applies to slavery in Islam. He also touches on the different perspectives on slavery in Islam and how it should be discussed.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Imran Hussein discusses the difference between western slavery and Islamic ethics, emphasizing the importance of understanding the social model of Islam. He explains that once slaves understand this, they can break free from their egos and seek to worship only Allah. He suggests a webinar on the topic.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  Imran Hussein and Hamza Tzortzis of the Sapience Institute discuss the concept of self-evident truths and how they can be used as evidence for the existence of a creator. They also discuss how certain things can be accepted without proof, and how the Qur'an can help uncloud the fitra to allow it to direct itself towards the truth.
 
@@ -43,7 +43,7 @@ Live with Sapience Institute: Q&A with Imran Hussein & Hamza Tzortzis
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** Imran Hussein and Hamza Tzortzis discuss the perspective that the universe is contingent and has derived its existence from a necessary being. They go on to say that this conclusion philosophically in an abstract sense leads to the idea that there could be other necessary beings, some of which may even be Islamic.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** The Sapience Institute is translating a book about the Quran, which will include proof of the Prophet Muhammad's miracle. The book is coming out in January or February, and the author asks for prayers for its success. He advises against worrying excessively about the future, as this can lead to negative mental states. However, he advises being patient and trusting in Allah. He emphasizes that trials and tribulations are part of life, and that they can make us stronger.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Imran Hussein discusses the importance of having a good opinion of Allah, and how it can help during difficult times. He also discusses his experience growing up in a Turkish-speaking community and how it has shaped his views on life.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('7500')">02:05:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:05:00</a>
 
 , Imran Hussein and Hamza Tzortzis discuss the philosophy of science in relation to contingent existence. They argue that if every contingent fact is explained by a previous contingent fact, then the present day universe would never have come into existence. Hussein's book "Dying to Believe" explores the meaning of life and is expected to be released soon.
 

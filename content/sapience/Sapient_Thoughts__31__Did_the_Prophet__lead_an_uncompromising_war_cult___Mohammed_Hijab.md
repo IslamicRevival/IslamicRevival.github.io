@@ -11,7 +11,7 @@ Sapient Thoughts #31: Did the Prophet ﷺ lead an uncompromising war cult? | Moh
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  discusses the Prophet Muhammad's attitude towards war and jihad, and how he was able to successfully negotiate peace treaties with various tribes. It also discusses the story of Abu Jandal, a Muslim who was physically restrained by the Prophet Muhammad to show the severity of war against Muslims. discusses the examples of the Prophet Muhammad's statesmanship, which included preferring peace to war and putting treaties and agreements first.
 

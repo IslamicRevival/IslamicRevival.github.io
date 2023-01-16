@@ -9,7 +9,7 @@ An interesting discussion on whether or not the Quilliam Foundation's aims are b
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('900')">00:15:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:15:00</a>
 
 Adam Deen of Quilliam debates Mohammed Hijab on the implementation of Sharia law in Britain. Deen argues that it is necessary to implement Sharia law to prevent being absorbed by more powerful empires, and that the Islamic concept of jihad justifies violence against those who oppress Muslims.
 

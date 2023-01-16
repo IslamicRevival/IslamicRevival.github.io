@@ -11,7 +11,7 @@ Christian Origins in A Nutshell from The Real Jesus: Then and Now by Professor G
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('900')">00:15:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:15:00</a>
 
 This video provides a brief overview of the origins of Christianity, focusing on the doctrines of the Trinity and the incarnation of Jesus. Geza Vermes, a professor of Jewish studies, writes that in 325 AD, the emperor Constantine summoned and opened the ecumenical council at Nicaea, at which 318 bishops declared Jesus God, consubstantial with the Father. This doctrine, called the Nicene Creed, became the essential beliefs of Christianity. From then on, Christianity's influence on public life increased steadily.
 

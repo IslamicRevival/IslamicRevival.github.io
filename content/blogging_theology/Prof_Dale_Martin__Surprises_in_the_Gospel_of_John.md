@@ -11,7 +11,7 @@ We continue our series of talks on the New Testament with the Gospel of John. Pr
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3000')">00:50:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:50:00</a>
 
  Dale Martin discusses the differences between the Gospel of John and the other New Testament gospels. He argues that John was not written by an eyewitness, but by someone who was familiar with the other gospels. He also discusses how the gospel was edited and changed over time, and how this affects the various Christological statements in the text.
 

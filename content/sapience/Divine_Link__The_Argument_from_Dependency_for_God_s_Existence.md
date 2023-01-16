@@ -11,7 +11,7 @@ Divine Link: The Argument from Dependency God's Existence
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2100')">00:35:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:35:00</a>
 
  argues that the universe is eternal and dependent, and that this dependency requires an external explanation. provides an example of a flower to illustrate his point. He argues that even if the universe were eternal, it does not mean it is necessary. The individual making the argument contends that there is no scientific explanation for the universe, and that this proves that God must exist.
 

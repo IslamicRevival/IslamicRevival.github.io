@@ -15,7 +15,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1200')">00:20:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:20:00</a>
 
 The BBC reporter interrogates a hijab-wearing Muslim woman about her beliefs and leadership role in the Muslim Council of Britain. The woman is critiqued for her treatment of the sister of a Muslim woman and her believe that Islam is a "dark phase" of feminism.
 

@@ -11,7 +11,7 @@ I read from "The Letter of Peter to James" in After the New Testament: 100-300 C
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 The video discusses the differences between Paul's Christianity and early Jewish Christianity, which eventually became Islam. It argues that Paul's Christianity did not abolition the law, as Islam does, but rather continued it.
 

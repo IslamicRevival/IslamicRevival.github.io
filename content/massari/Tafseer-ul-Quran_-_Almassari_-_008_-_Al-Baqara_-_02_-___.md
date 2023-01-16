@@ -22,7 +22,7 @@ Qadr - detailed discussion on the nature of Qadr and misconceptions
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the various hypotheses regarding the meanings of certain verses of the Qur'an. One of the hypotheses discussed is that certain verses point to Muhammad Ali, the boxer. Dr. Ahmed Muhammad Zain argues that this is a plausible hypothesis, and provides a PDF of his paper on the subject.
 
@@ -38,7 +38,7 @@ Qadr - detailed discussion on the nature of Qadr and misconceptions
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the Hadith which states that if Qatar is correct, nothing will prevent it from reaching its destination, except if it is correct. The narrator provides a translation of the Hadith into English, and discusses how different translators have interpreted it. He then provides his own interpretation of the Hadith, which is that Qatar is protected from evil by taking action to protect itself.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the importance of having a god awareness, as this will help protect oneself from punishment in the afterlife. It also discusses the importance of following revelation, as this will help one act in accordance with God's will.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the importance of being knowledgeable and virtuous, and how repentance can be difficult to achieve if the environment is not conducive to change.  then discusses the example of a man who killed 100 people, and who asked about the most knowledgeable person on earth. The people who were guiding him told him that repentance is not possible for him because he has not made a commitment to change.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('5100')">01:25:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:25:00</a>
 
  provides a detailed interpretation of the Qur'an verse 2:255, discussing the different approaches to understanding scripture by medieval scholar Ibn Arabi and contemporary scholar Jason. Although Ibn Arabi is considered a more spiritual and visionary scholar, Jason is more able to communicate his ideas effectively. Ibn Arabi's approach is more biased and contentious, while Jason's is more rational and respectable. Both scholars have valuable lessons to teach; Ibn Arabi in his ability to see the spiritual side of scripture, and Jason in his ability to communicate effectively across different sects and cultures.
 

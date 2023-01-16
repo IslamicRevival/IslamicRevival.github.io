@@ -11,7 +11,7 @@ I read from Islam and the Destiny of Man by Gai Eaton https://www.amazon.co.uk/I
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('900')">00:15:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:15:00</a>
 
 This video provides a brief overview of some of the main teachings of Islam, with a focus on the Islamic understanding of science. It points out that the prophet Muhammad did not promote blind praise of him, but instead asked for a clear understanding of his teachings.
 

@@ -29,7 +29,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the history and different aspects of Hinduism. It covers topics such as the different gods and goddesses, caste, reincarnation, and the concept of Brahman.  argues that while monotheism is the dominant religion in the world, there is evidence that polytheism still exists.
 
@@ -45,7 +45,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  Mohammed Hijab discusses how animals in the wild have a relatively predictable set of behaviors, and how this can lead to fatalism in humans. He also mentions how some Hindus believe in reincarnation, which can lead to questions about what morality is for different animals.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the problematic nature of reincarnation in Hinduism and Christianity, as well as the theory of an emergent monotheism. It argues that this process of reverse engineering can lead to the formation of one god, which can then be corrupted.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the theory that polytheism emerged from monetism, and that the dominant theory in anthropology is the opposite of that. They go on to talk about the idea that everything started with a spirit, and that the polytheism was a natural state before monotheism was created. mentions how when people started worshiping idols, they claimed that when Abraham came, he was the founder of monotheism. They go on to say that while monotheism is the dominant religion in the world, there is evidence that polytheism still exists.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('6900')">01:55:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:55:00</a>
 
  Mohammed Hijab discusses Hinduism and its various similarities to Islam. He argues that the Prophet Muhammad meets the criteria for being a kalki avatar, and encourages people to learn more about Hinduism so they can have a better understanding of Islam.
 

@@ -11,7 +11,7 @@ This video highlights two police officers telling one individual muslim not to p
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  discusses the policy of the British police not to allow Muslims to pray in congregation in the Royal Parks. The policy is based on the idea that collective religious worship is not traditional park-related activity, and the disadvantages of allowing it almost certainly outweigh the benefits to adherents of particular religions or beliefs. The Muslim community protests this policy, saying that it is against their religious beliefs.
 

@@ -13,7 +13,7 @@ With Fahad Tasleem.
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  Fahad Ismail discusses the concept of rationality and how it relates to the fitrah in Islam. He explains that the fitrah is an absolute concept that must be accepted in order for rationality to work. He also previews the next episode in this series, which will explore the concept of the fitrah more in depth.
 

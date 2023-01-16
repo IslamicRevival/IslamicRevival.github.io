@@ -13,7 +13,7 @@ Or if you want to listen to the episode on your phone or tablet, check it out on
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('900')">00:15:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:15:00</a>
 
 of the video discusses the feminist debate over pornography, pointing to evidence that it is linked to a variety of negative outcomes for women. He argues that pornography can become an addiction and lead to psychological disorders, and recommends that people try to marry young and have children to help reduce the demand for it.
 

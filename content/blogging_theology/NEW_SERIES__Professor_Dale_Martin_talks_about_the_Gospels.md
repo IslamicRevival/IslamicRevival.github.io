@@ -12,7 +12,7 @@ Please consider supporting my work on Patreon: https://www.patreon.com/Bloggingt
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  Professor Dale Martin discusses the differences between the four canonical Gospels. He argues that John is set apart from the other gospels and comes last in the canon due to its more mature writing style and emphasis on the deity of Jesus. Martin also discusses how scholars can identify parallels between the Greek texts of the Gospels and how they are likely to have been copied and edited by the authors.
 
@@ -28,7 +28,7 @@ Please consider supporting my work on Patreon: https://www.patreon.com/Bloggingt
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Professor Dale Martin discusses the Gospels, noting that while the gospel of Mark may have had some literary value in the 2nd century, it was not appreciated by ancient readers. He goes on to say that, as Mark was the most common gospel among early Christians, it is most likely that the author was John, one of the apostles.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The video discusses the linguistic differences between Greek and Aramaic, which are two of the languages Jesus may have spoken. It argues that these differences make it difficult to ascertain the historical reliability of the Gospels, as the authors may have been influenced by the Aramaic language they were writing in.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** In this passage, Jesus says that the disciples can pick which gospel they want to follow, but they should only pick one. Later in the same chapter, Jesus compares the gospel of Matthew to a good wine, while the gospel of Mark is like vinegar. Paul's style in Colossians and Ephesians is also mentioned.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3900')">01:05:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:05:00</a>
 
 Professor Dale Martin discusses the Gospels and how they differ from other ancient texts. He argues that the Gospel of Mark reflects a lower level of christology than found in the other Gospels. He points to Plato and Apollonius of Tyana as examples of ancient figures who were considered divine by some, but not by all.
 

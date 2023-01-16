@@ -15,7 +15,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 <span style="color:red; font-size:125%">This summary is AI generated - there are inaccuracies</span>
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 In this YouTube video, Bart Dehrman discusses his view of Jesus, the Bible, and Christianity. He argues that early Christians believed that Jesus was a divine being, and that this idea may have originated with the Gospel of John. He also suggests that there may have been conflicts between early disciples of Jesus and those who followed Paul.
 
@@ -31,7 +31,7 @@ In this YouTube video, Bart Dehrman discusses his view of Jesus, the Bible, and 
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The transcript excerpt discusses the accuracy of biblical manuscripts, specifically the Isaias scroll. It is important to keep in mind that even if a manuscript is accurate, it does not necessarily mean that the author wrote what is inside it. There are multiple sources of error that can occur over a period of 700 years.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Walter Bauer argued that early Christianity was riddled with heresy, much of which resembled later Gnostic beliefs.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Bart Dehrman discusses the view that there were multiple groups of Christians throughout history, with one group eventually winning out and rewriting history. He presents Bauer's view, which argues that there was diversity among early Christians. Bauer's book, which was not translated into English until the late 1970s, has become a very popular critical opinion among critical historians.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('5100')">01:25:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:25:00</a>
 
 In this YouTube video, Bart Dehrman discusses the history of Jesus and how he was misinterpreted by later historians. He also recommends two books for those interested in further exploring these topics.
 

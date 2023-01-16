@@ -13,7 +13,7 @@ Don't forget to subscribe to Saboor Ahmed's channel - https://www.youtube.com/ch
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the implications of Darwin's theory of evolution, with a focus on how it relates to religious beliefs. Professor Jeremy Pritchard argues that, while Darwin's theory does undermine the existence of a creator, it does not disprove the existence of evolution. Ahmed discusses how he sees science evolving, and how this understanding helps to understand the nature of the question posed by tonight's speaker, Professor Ahmed.
 
@@ -29,7 +29,7 @@ Don't forget to subscribe to Saboor Ahmed's channel - https://www.youtube.com/ch
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** This 1-paragraph summary of the video discusses how Professor Thomas S. Kuhn, a philosopher of science, believes that Darwin's theory of evolution undermined God. Kuhn argues that Darwin's theory is based on methodological naturalism, which is the belief that natural phenomena can be explained without reference to supernatural forces. However, Kuhn points out that Darwin was wrong about a number of things, including his belief that genetics was based on quantitative changes rather than qualitative changes, and that it was not until later that scientists came to understand the full power of genes. Kuhn argues that this distinction between methodological and philosophical naturalism is important for narrowing the gap between the popular understanding of science and the academic understanding.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** A Darwinist professor agrees with Muslim philosophers that there are different ways of looking at the world and that science can never be 100% certain. He also warns against using science to try to understand morality.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses moral implications of free will, with a Darwinist professor agreeing with a Muslim that there may be a genetic basis to some kinds of evil. While the professor recognizes that genetics cannot fully explain evil, he argues that it nevertheless presents an opportunity for moral reflection.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('4500')">01:15:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:15:00</a>
 
 features two professors discussing the theory of evolution from a Darwinian perspective. The Darwinist professor agrees with the Muslim professor that there is no "better than" or "worse than" in the natural world. The professor also discusses the problem of evil and how it relates to Islam.
 

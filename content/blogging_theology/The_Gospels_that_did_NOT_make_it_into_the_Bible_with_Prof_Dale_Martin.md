@@ -12,7 +12,7 @@ https://www.marquette.edu/maqom/Gospel%20of%20Thomas%20Lambdin.pdf
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 The video discusses different Gospels that did not make it into the Bible, and argues that they are just as important as the ones that did. It also discusses how the different gospels were received as scripture and canonized.
 
@@ -28,7 +28,7 @@ The video discusses different Gospels that did not make it into the Bible, and a
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The video discusses the different gospels that did not make it into the Bible, and how some of them are from the Bible but some are not. It also discusses the gospel of Peter and how it became popular.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The video discusses the different texts that did not make it into the Bible, and how this influenced how they were received as scripture and canonized. The text mentions the transition from scrolls to codexes, and how this helped make lists of what was acceptable to read.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The author discusses apocryphal gospels, which were once thought to be less important than canonical gospel texts. He points out that this is not always the case, and that there is still much to be discovered about the Bible.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:00:00</a>
 
  Dale Martin discusses some of the Gospels that did not make it into the Bible. He notes that while there may not be anything new to be said about these texts, they are still important because they offer a different perspective on certain aspects of Christianity.
 

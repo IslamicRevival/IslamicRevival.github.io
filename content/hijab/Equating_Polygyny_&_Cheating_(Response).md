@@ -13,7 +13,7 @@ For Islamnet in Norway click here: https://www.saveiman.com/fb?affiliate_id=3414
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1800')">00:30:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:30:00</a>
 
  discusses the issue of polygyny from an Islamic perspective. points out that this issue is often framed in a biased way, with men being given more rights than women. Polygny can also be seen as a woman versus woman issue, as more women are involved in the equation than men. This can be harmful to the women involved, as they may be coerced into divorcing their sisters or other female family members. recommends that people consult knowledgeable Islamic scholars when considering the issue of polygamy.
 

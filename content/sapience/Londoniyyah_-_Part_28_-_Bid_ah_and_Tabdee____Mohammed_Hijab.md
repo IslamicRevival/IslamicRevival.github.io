@@ -29,7 +29,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3300')">00:55:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:55:00</a>
 
  Mohammed Hijab discusses the concept of tabdee' (labeling someone as an innovator), and the conditions under which prayer can be considered valid. He also discusses how menstruation can be a man preventer, and how janib (ritually unclean) can be a woman preventer.
 

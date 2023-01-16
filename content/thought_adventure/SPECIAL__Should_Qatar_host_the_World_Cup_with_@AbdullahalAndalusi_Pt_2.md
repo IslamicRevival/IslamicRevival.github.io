@@ -58,7 +58,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  "SPECIAL: Should Qatar host the World Cup?" features Abdullah al-Andalusi discussing Qatar's hosting of the World Cup and how some in the West are criticizing Qatar without fully understanding the situation. Al-Andalusi argues that Qatar's hosting of the World Cup is a way of using its wealth to improve the lives of its people, and that the West has a history of hypocrisy when it comes to criticizing Muslim countries.
 
@@ -76,7 +76,7 @@ Gmail: hello.tapodcast@gmail.com
 In the second part of the video, Andalusi discusses a recent article he read in which a Danish professor argues that bestiality should be allowed. This idea is controversial in the West, but Andalusi argues that it should be accepted because it is a consensual act between two adults. He says that Muslims need to make this point more often, as many people in the West do not understand the full scope of the LGBTQ+ issue.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the Islamic paradigm of sovereignty, which states that the individual has the right to own their body and make their own decisions, in contrast to the Western view that individuals are sovereign only to the extent that they obey the laws of their nation. also clarifies that this view is not limited to Muslims, as many Asian cultures believe that parents own their children.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** argues that the liberal stance on transgender and transsexuality is inconsistent and confusing. He points out that, in some cases, certain life-changing, irreversible mutilations of the body are allowed because of a decision that can be taken on a whim.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  "SPECIAL: Should Qatar host the World Cup? with @AbdullahalAndalusi Pt 2" discusses the pros and cons of Qatar hosting the World Cup. Abdullahal Andalusi argues that, while Qatar may have spent a lot of money on the World Cup, there are other things that the country could have spent the money on, such as infrastructure and creating a First World country. Andalusi also argues that, even if Qatar's government is not sincere, the people there are still creative and will try to see evidence to back up their arguments.
 
@@ -92,7 +92,7 @@ In the second part of the video, Andalusi discusses a recent article he read in 
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>* Discusses the possibility of Qatar hosting the World Cup, and the possible impact it might have on the psychology of children. It points to the fact that there are two realities, one of which is based on evidence of medical and psychological research, and another which is based on the narrative of the profit-driven corporate establishment. mentions a course that Abdullah Al-Andalusi is taking, and suggests that he should be mentioned before the last guest is introduced.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>* Discusses why Qatar should not host the World Cup, citing the Quran's teachings on worldly and spiritual pursuits. He believes that Muslims should be focusing on improving the world instead of entertainment-related things.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses the importance of reflection on one's purpose in life and how distractions, such as sports, can take away from this. They go on to talk about a lecture given by a Muslim scholar on LGBT rights and how we should not categorize people based on sexual orientation. Jake, the speaker's opponent in the debate, has some good points, but the speaker reminds the audience that Jake is just one person and that there are many more who share their views.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('8400')">02:20:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:20:00</a>
 
  "SPECIAL: Should Qatar host the World Cup?" features Abdullahal Andalusi discussing the pros and cons of Qatar hosting the World Cup. He discusses how Trinitarianism differs from social Unitarianism and how his arguments against God's existence can be made clearer to viewers. He also apologizes for technical problems that occurred during the beginning of the show.
 

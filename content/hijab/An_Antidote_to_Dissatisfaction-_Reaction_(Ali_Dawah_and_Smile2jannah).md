@@ -21,7 +21,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1200')">00:20:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:20:00</a>
 
  discusses the importance of gratitude, and how it can help reduce negative emotions and traits. It also talks about how gratitude can help people deal with problems and how it is an important part of the Islamic faith.
 

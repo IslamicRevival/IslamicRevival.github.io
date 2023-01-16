@@ -18,7 +18,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the various things that Allah, or God, refers to as His "sustainer," or "Lord." The professor argues that if one does not follow Allah's guidance, they may end up lost in the world. He also explains that according to Islamic theology, the deity of a group of people cannot be a mix of different divine entities, as this would be contradictory. Ultimately, the professor argues, this doctrine leads to security and peace, as those who believe in Allah will not be confused about who their ultimate authority is.
 
@@ -42,7 +42,7 @@ be a worthy candidate for Divinity.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  Professor Dr. Muhammad AL Massari discusses the importance of Imam, or spiritual leader, in Islamic traditions. He explains that although Imam is not necessarily infallible, he is nevertheless a valuable leader who can bring people the message of Islam.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the controversial nature of who is a prophet in Islam and Christianity, and contrasts the three translations of the Quran.  also discusses Elijah, Jonah, and Lot, and their respective prophets in Islam, Christianity, and Judaism.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses an inscription that is claimed to show that Joshua, the son of noon, is the true savior. However, the inscription is older than Christianity and is actually from the Arab Islamic period. Furthermore, the video suggests that Christians may be mistaken in their belief that Joshua is the savior.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('6300')">01:45:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:45:00</a>
 
  discusses the different Islamic concepts of guidance, lying, and prophets. It argues that while lying is generally prohibited, it is allowed in some circumstances according to Sharia.  also discusses the lack of female prophets mentioned in the Quran, and how this does not mean that they do not exist.
 

@@ -18,7 +18,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the different ways that Prophet Muhammad has been portrayed throughout history. It argues that Muhammad was not the kind of person who would bring changes to Sharia, as some classical scholars have suggested.
 
@@ -34,7 +34,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  a Roman soldier asks a gospel writer about the crucifixion of an innocent man, to which the gospel writer replies that it wasn't the Divine's will to crucify him. The soldier then asks the gospel writer about the Divine's will in relation to death, to which the gospel writer responds that death receiving is one of the Divine's fundamental principles. Allah, which in Quran means "to receive," refers to the process of death receiving in this context.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>**  Professor Dr Muhammad AL MASSARI discusses the three possible outcomes of the return of Prophet Isa (peace be upon him). He notes that the first outcome is that Isa will come back as a just ruler, and the second outcome is that he will come back as a guide and guidance leader. The third outcome is that Isa's prophethood will be sealed and he will no longer be a prophet.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** This 1-paragraph summary of the video discusses how certain classical scholars thought that Muhammad might bring changes to Sharia, but this is not actually the case.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  Professor Dr. Muhammad Al Massari discusses the various objections to the belief that someone who has died can be brought back to life. He explains that the main objection is based on incorrect assumptions about the nature of death, and that other objections can be dismissed based on sound reasoning.
 
@@ -50,7 +50,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** discusses the difference between historians who are monophysic, and historians who are not. He says that monophysic historians are not necessarily wrong, but that they do not follow the Creed of Nestorius. also discusses the difference between arianism and Nestorianism, and how arianism believes that Christ has a supernatural power, but is not Divine.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>* Discusses the legality of promissory notes, and explains that while they may be based on cheating, once they are used for exchange, they are considered currencies with an intrinsic value.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses the concept of exchange and how it works between different types of goods. It also explains how an evaluator can be used to measure the quality of different goods without cheating.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('8100')">02:15:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:15:00</a>
 
  Professor Dr. Muhammad Al Massari discusses the differences between currencies and how to deal with contracts in a Muslim context. He stresses the importance of treating currencies as valuable metals, and goes on to say that Muslims should avoid contracts that devalue the currency. He also explains that, even though currency is based on trust, it is still possible to earn haram money by engaging in illegitimate activities.
 

@@ -11,7 +11,7 @@ This lecture attempts to assess the changing premise of feminism throughout the 
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1800')">00:30:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:30:00</a>
 
  discusses the origins and beliefs of feminism, and how it has changed over time. It argues that feminism is a racist movement, and that it is not synonymous with women's rights.  also discusses the conflict between feminism and radical lesbianism, and how Islam views the relationship between men and women.
 

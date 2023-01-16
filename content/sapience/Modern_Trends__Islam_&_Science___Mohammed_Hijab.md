@@ -27,7 +27,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the relationship between Islam and science, arguing that there is a tension between the two but that they are not in opposition to each other. goes on to discuss the decline of Islamic science, attributing this to a variety of factors including the Ottoman Empire's decline in the 17th and 18th centuries.  explains that while the Muslims were unable to keep up with the technological advances of the West, they did have some key advantages, such as being able to colonize large parts of the world.
 
@@ -43,7 +43,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Robert Merton believes that religion facilitated and sanctioned scientific discoveries, some of which were independent of the Greeks. Muhammad Hijab provides examples of such independent discoveries.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Max Faber discusses how the Protestant Reformation led to the Scientific Revolution, and how Robert Merton argues that Christianity gives people the incentive to engage in industry and create science. He also mentions how there is a tension between the Christian church and science.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses how Karl Marx formalized the idea of ideologies, how competing theories led to the substitution of morality with religion, and how Darwin's theory of evolution became almost a religion.  points to examples of how new atheism inhibits science by dissuading scientists from engaging in religious discussion, and how this discourages scientific inquiry.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:00:00</a>
 
  discusses how some new atheists have cast aspersions on the theory of evolution, claiming that it is not empirically based. also discusses how the West has taken over the Muslim world in terms of science, citing independent knowledge production as one example.
 

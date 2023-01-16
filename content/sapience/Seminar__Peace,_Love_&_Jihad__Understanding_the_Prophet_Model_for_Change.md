@@ -11,7 +11,7 @@ Seminar: “Peace, Love & Jihad — Understanding the Prophet Model for Change�
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the concept of "peace, love, and jihad," which refers to the Islamic concept of "tawheed." According to this concept, Muslims must adhere to a set of specific beliefs in order to be considered true Muslims. These beliefs include the belief that there is only one god, and that Muslims must love all other humans as they love themselves. Muslims who adhere to this concept are also committed to the well-being of others, and will avoid extremist actions.
 
@@ -27,7 +27,7 @@ Seminar: “Peace, Love & Jihad — Understanding the Prophet Model for Change�
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses how the prophet Muhammad welcomed Christians into Islam and had philosophical discussions with them about the nature of Jesus and God. After the discussions, the prophet instructed them to supplicate earnestly.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The presenter discusses how the Prophet Muhammed's peaceful, loving, and just approach to religious dialogue can be applied to current conflicts between different faiths. He points out that the ProphetMuhammed was not just a pacifist, but also a very generous and merciful man. This makes his teachings on religious pluralism and perpetual peace more credible.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The seminar discusses the purpose of prophets and how this differs from the purpose of natural scientists. The first assumption is that prophets have a teleological view of history, meaning they believe that history is progressing towards a certain endpoint. The second assumption is that the Quran is a source of knowledge, and the sunnah and hadith are sources of knowledge. Outsiders who approach prophethood without accepting these assumptions find it difficult to understand the purpose of prophets.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('6300')">01:45:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:45:00</a>
 
  discusses the life and work of the Prophet Muhammad, with a focus on how he established peace in the Muslim community. It argues that the Prophet's treaty with the Meccans was a major victory, and that the peace it created allowed Islam to grow rapidly in popularity.
 

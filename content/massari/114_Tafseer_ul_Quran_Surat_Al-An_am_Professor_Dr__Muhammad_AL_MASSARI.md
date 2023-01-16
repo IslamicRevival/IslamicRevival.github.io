@@ -18,7 +18,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the concept of Allah having different names in the Old Testament, as well as the concept of Allah having no specific name in the Qur'an. The professor goes on to discuss the theory that the Big Bang was the beginning of the universe, and how this contradicts the idea of a previous universe.  concludes with a discussion of the evolution of man from the cosmic beginning until today.
 
@@ -34,7 +34,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** discusses the 114th verse of Quran, Surat Al-An'am. The professor discusses the different translations of the verse and how it could be interpreted. He concludes that the verse is talking about the throne being on water, and that this is an offensive concept to those who believe in a creatve God.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** by Professor Dr. Muhammad AL MASSARI discusses how the Islamic scholar Muhammad ibn 'Abdul-Wahhab believed that the Throne is not created, and that Allah is only in Heaven and on Earth. He goes on to say that this viewpoint is contradictory and wrong.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The professor's main point is that Muslims are not obliged to know about certain aspects of Islamic theology, and that those who do not understand these concepts are "stupid" or "partisan." He also points out that the mind is limited, and that some Muslims are "indulgent" and "not consistent."
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('6600')">01:50:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:50:00</a>
 
  Professor Dr. Muhammad al Massari discusses the 114th verse of the Quran, which has been interpreted in different ways by scholars. He demonstrates how the verse can be interpreted in a way that goes against traditional interpretations, and explains the implications of this for understanding the Quran as a whole.
 

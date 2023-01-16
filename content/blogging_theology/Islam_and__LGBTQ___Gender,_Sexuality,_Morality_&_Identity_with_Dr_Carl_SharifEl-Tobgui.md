@@ -126,7 +126,7 @@ Chapters:
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses how the sexual revolution has impacted Muslims and their views on LGBTQ+ people. Dr. Carl Sharif El-Tobgui argues that the revolution has led to a separation of sex and reproduction, which has made it difficult for traditional religious believers to accept.
 
@@ -142,7 +142,7 @@ Chapters:
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses fallout of the sexual revolution, which has led to an increase in divorce and fatherlessness, as well as an overall decline in the number of nuclear families.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses how the rise of fatherlessness is correlated with the rise in delinquency, single motherhood, and poverty in society. It goes on to say that sexuality is tightly bound to the family system, and that norms surrounding sexuality are very stringent. Finally, it argues that wokism, or "new" religion, has the characteristics of a religion and is influenced by the sexual revolution.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses issues surrounding LGBTQ rights and Islam. Dr. Carl Sharif El-Tobgui points out that, in terms of religious doctrine, sex should be bound together with marriage, morality, and reproduction. He argues that this is a difficult position for traditional religious believers to accept, especially in the context of the contemporary western sexual revolution.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  discusses the role of gender and sexuality in Islam, and how these concepts are intertwined with one's identity. Dr. Carl Sharif El-Tobgui points out that in Islam, being authentic is key to living a fulfilling life. Living in accordance with one's inner feelings is key to being authentic, and this is something that is often difficult to do in a society that demands conformity to societal norms.
 
@@ -162,7 +162,7 @@ In recent years, there has been a growing trend among some people in the LGBTQ c
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** The authors of "After the Ball: America Will Conquer Its Fear and Hatred of Gays in the 1990s" argue that the campaign to overcome public opposition to homosexuality in the 1990s was deliberately designed to subvert and undermine traditional values. The book's authors are two gay men who both attended Harvard University.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** s discuss the various issues surrounding LGBTQ people, sexuality, morality, and identity. They explore how these issues are addressed in different religions, and point out that, in modern society, sexual desire is considered to be central to human identity. They also discuss how sex is political, and how Islamic law regards sex and sexuality. s conclude with a discussion of how these issues apply to Muslims, and how they can be understood in a different context.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** In Islam, gender is considered a creation of God, with male and female genders having different roles and responsibilities. Men are given a role of superiority over women, but this is balanced by the rights and duties each gender has. This parity is emphasized in practical life, with men and women interacting differently and having different responsibilities in society.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('10800')">03:00:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-03:00:00</a>
 
  discusses the Islamic views on sexuality, gender, and morality, and how these views may be applied to LGBTQ people. It argues that, because of the ambiguity in the Quran on the issue of LGBTQ relationships, it is not possible to say with certainty that they are always wrong.
 
@@ -180,7 +180,7 @@ In recent years, there has been a growing trend among some people in the LGBTQ c
 * **<a onclick="modifyYTiframeseektime('10500')">02:55:00</a>* Discusses slamic teachings on sexuality, gender, and morality and how these teachings are applied to LGBTQ people. It notes that while there are some verses that could be interpreted as condemning LGBTQ relationships, there are also many verses that condemn straight people who engage in same-sex behavior.
 
  argues that, because of this ambiguity, it is not possible to say with certainty that LGBTQ relationships are always wrong. It also points out that there are many verses in the Quran that deal specifically with the gender of the partner in a same-sex relationship, and that these verses cannot be interpreted in a way that justifies LGBTQ relationships.
-### <a onclick="modifyYTiframeseektime('10800')">03:00:00</a> - <a onclick="modifyYTiframeseektime('13800')">03:50:00</a>
+### <a onclick="modifyYTiframeseektime('10800')">03:00:00-03:50:00</a>
 
  Dr. Carl Sharif El-Tobgui discusses the Islamic perspective on gender, sexuality, and morality. He argues that all of these issues are intrinsically prohibited and lead to other prohibited acts. He also discusses a support group for Muslim individuals who are struggling with same-sex attractions or gender dysphoria.
 

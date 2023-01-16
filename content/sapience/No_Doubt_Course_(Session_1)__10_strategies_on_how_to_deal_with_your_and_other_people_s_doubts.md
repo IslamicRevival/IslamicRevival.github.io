@@ -31,7 +31,7 @@ Week 8: Summary and exam
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  provides an overview of the No Doubt Course, which is designed to help people learn strategies for dealing with doubts. The course begins with a metaphysical background and discusses the nature of the heart. Later, the speaker discusses crises and challenges, and the importance of finding a specialist.  also provides case studies illustrating how studying Islam can help dismantle doubts.
 
@@ -47,7 +47,7 @@ Week 8: Summary and exam
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the three levels of certainty in Islam, which are knowledge, certainty of the eye, and certainty of being it.  contrasts these levels of certainty with the level of certainty a person has when they are doubting their faith.  explains that certainty of the heart is the desired state for Muslims, and that the heart needs to remain firm on the truth in order to have this certainty.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>**  No Doubt Course instructor Hamza Yusuf discusses the two main types of doubts: destructive doubts, which are worse than desires, and fitna, or "the Trials." He explains that destructive doubts change the religion and destroy people's faith.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  No Doubt Course instructor Foyumi Al-Fiyumi discusses the different types of doubts that Muslims can experience. She discusses the different types of doubts that are caused by different factors, including philosophical, scientific, and moral concerns. She also discusses the ways in which doubt can harm Muslims spiritually and socially.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:00:00</a>
 
  provides 10 strategies for dealing with both your own doubts and other people's doubts. The strategies include being aware, making the distinction, avoiding attention, focusing on your heart, making dua, focusing on key sources of doubt, dealing with trauma, finding a specialist, and making dua.
 

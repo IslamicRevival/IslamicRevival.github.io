@@ -17,7 +17,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3300')">00:55:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:55:00</a>
 
  discusses the idea that there is scientific evidence to support the claims made in the Quran. argues that when we think morally and spiritually, we can come to see that we are all interconnected and that our relationship with God is a solemn pledge. He urges people to learn more about Islam and its teachings in order to create a better society.
 

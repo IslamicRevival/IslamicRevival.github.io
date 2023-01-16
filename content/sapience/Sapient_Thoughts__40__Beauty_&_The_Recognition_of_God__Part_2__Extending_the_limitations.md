@@ -11,7 +11,7 @@ Natural beauty can bring about a state of awe. This can increase cognition & red
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('900')">00:15:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:15:00</a>
 
  Sapient Thoughts discusses how exposure to beauty or natural beauty can help one see truth as it really is. The point is made that no individual person can know everything, and so one can broaden their epistemic limitations by relying on the skills and knowledge of others. However, this does not allow for full trust in one's own cognition.
 

@@ -40,7 +40,7 @@ Discussion on Muhammad Ibn Abdul Wahab and his expansion on the mistake of Ibn T
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses arguments for and against Muhammad ibn Abdul Wahab, with the main argument being that he was either a hero or a heretic.  argues that there is no clear definition for who is a "sahabi," and that this ambiguity has led to various disputes and disagreements among Muslims. It also discusses the idea that different companions had different levels of understanding of the Quran, and that this difference in understanding makes the companions' understanding of the Quran the "best of understanding."
 
@@ -56,7 +56,7 @@ Discussion on Muhammad Ibn Abdul Wahab and his expansion on the mistake of Ibn T
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses how Muhammad Ibn Abdul Wahab, a hero or heretic, differed from other Islamic leaders in that he was focused on establishing power and convincing the population to obey instead of rebelling against religious authority.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** 
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses secondary questions about the Quran, such as whether it was created or not. It goes on to say that these are all minor issues, and that the main issue is that Muhammad and his followers disagreed on certain theological matters.  argues that this is why the issue of the Quran's creation is not a major one, and that evidence is needed to support any claims.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  discusses the controversy around the late Islamic scholar Muhammad Ibn Abdul Wahab. Ibn Abdul Wahab believed that it was better to do less obligatory prayers in order to make it easier for people to follow the religion. He also disagreed with the practice of reciting the Quran in Arabic, considering it to be a form of idolatry. Despite these disagreements, many Muslims regard him as a hero for his efforts to spread Islam in the Arabian Peninsula.
 
@@ -72,7 +72,7 @@ Discussion on Muhammad Ibn Abdul Wahab and his expansion on the mistake of Ibn T
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** The narrator discusses a Hadith in which Muhammad orders Muslims not to obey non-Muslims in court or attach resources to them, emphasizing the importance of obedience to Allah. He points out that this Hadith does not support the Madras's narrative that non-Muslims are "evil" and "oppressor[s] of Muslims." The narrator explains that the reason the Hadith is ignored is because some Hadith scholars try to use it to support their argument that there is no government in Islam. He warns that this mindset will lead to Muslims losing their faith.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** Imam Ibn Abdul Wahab was a Mujaddid who argued that the consensus of scholars is not based on anything, and that Hadith should be studied for its virtues, not its faults. He also cautioned against blindly following any Imam, and advised learning the Quran and applying it to one's life.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Muhammad Ibn Abdul Wahab discusses the importance of studying the Quran and applying it to one's life, contrasting this advice with that of people who focus on worldly matters such as fitness. He contends that the world will eventually come to an end, and that the best way to prepare for this is to learn the Quran and apply it to one's life. He warns that society is on the brink of disaster, and that the only way to save people is to have a leader who can provide peace and order.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('10800')">03:00:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-03:00:00</a>
 
 Discusses the controversy surrounding Muhammad ibn Abdul Wahab, a Muslim reformer who was either heroic or heretical. points out that Muhammad ibn Abdul Wahab took things out of context to achieve his goals, and that he was very sophisticated in his manipulation of people. He also provides an example of how Muhammad ibn Abdul Wahab's actions would have been interpreted if he had changed the Quran or used different words.
 
@@ -88,7 +88,7 @@ Discusses the controversy surrounding Muhammad ibn Abdul Wahab, a Muslim reforme
 * **<a onclick="modifyYTiframeseektime('9900')">02:45:00</a>** The narrator discusses how some people think that Muhammad ibn Abdul Wahab, a revered Muslim scholar and founder of the Wahhabi movement, was either a hero or heretic. The narrator argues that while Muhammad ibn Abdul Wahab may have had some good ideas, his followers went too far in their devotion to him.
 * **<a onclick="modifyYTiframeseektime('10200')">02:50:00</a>** 
 * **<a onclick="modifyYTiframeseektime('10500')">02:55:00</a>**  David argues that, according to the Qur'an, worship is only due to Allah, and that there is no other deity beside Him. He also points out that, based on this principle, Muhammad ibn Abdul Wahab -- considered a hero by many Muslims -- was actually a heretic because he worshipped other beings besides Allah.
-### <a onclick="modifyYTiframeseektime('10800')">03:00:00</a> - <a onclick="modifyYTiframeseektime('10800')">03:00:00</a>
+### <a onclick="modifyYTiframeseektime('10800')">03:00:00-03:00:00</a>
 
 argues that Muhammad ibn Abdul Wahab was a hero or heretic, depending on how one interprets his teachings. Open discussions about his ideas can help to improve Islam. He suggests that those who view Wahab as a heretic may be misunderstanding his teachings, and that Wahab's goals were actually to reform and improve Islam.
 

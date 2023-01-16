@@ -60,7 +60,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 the atheist philosopher discusses how his view of the natural world differs from that of a theist. He argues that, because the theist believes in a god who creates the natural world, their view of the natural world is not as objective as ours. He further argues that, if we agree that necessary things do not have explanation, then we have made progress in the conversation.
 

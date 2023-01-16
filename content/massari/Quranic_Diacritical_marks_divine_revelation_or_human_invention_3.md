@@ -14,7 +14,7 @@ Quranic Diacritical marks divine revelation or human invention 3
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2400')">00:40:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:40:00</a>
 
  discusses the use of diacritical marks to determine the source of a particular revelation or text. The presenter argues that while the marks may be divine revelation, they are still subject to human error. He also suggests that, in order to properly understand the Qur'an, we should first be able to read it without any diacritical marks.
 

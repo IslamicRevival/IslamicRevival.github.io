@@ -29,7 +29,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the different interpretations of the Imam in Shia Islam, and the differences between Sunni and Shia beliefs concerning the Imam. It argues that while the Imam is a part of the religion, it is not an important point and can be debated.
 
@@ -45,7 +45,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses Shi'ite beliefs about Imam. It discusses that although the Imams have political authority, they are higher in status than prophets. This is easily refuted by considering what the Quran says about Fatima and Mary.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** <>
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses how some companions of the prophet Muhammad were considered hypocrites by other Muslims. It also notes that only men can be considered bedouins.  then goes on to say that these companions are trustworthy and noble, and that Allah is pleased with them.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  discusses various aspects of Shia Islam and how it differs from Sunni Islam. It also touches on the origins of the conflict between the two groups and why it is important to be careful not to excommunicate Shia Muslims.
 
@@ -61,7 +61,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** The narrator explains that there is a hadith in the Sahaja Collection that says that Fatima withdrew from Muhammad until her death. He goes on to say that this hadith is connected to the Prophet's observation that Fatima died six months after his death.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** Shia Muslims allege that the Prophet Muhammad did not allow his daughter, Fatima, to inherit from her father because she was upset with him. Ali understood this and said that he would come to give her an inheritance tomorrow.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** The Shia community has two camps with regards to whether or not there has been tampering with the Quran. One camp believes that there has been tampering, while the other believes that there has not been.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('8700')">02:25:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:25:00</a>
 
  discusses Shia beliefs about the Quran, the succession to the prophet Muhammad, and cursing Ali. Mohammed Hijab argues that the Quran was changed over time and that the prophet Muhammad was a failure because he did not transmit all of his teachings to his followers.
 

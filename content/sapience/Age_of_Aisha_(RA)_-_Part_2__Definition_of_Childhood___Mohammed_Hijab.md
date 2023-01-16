@@ -27,7 +27,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3000')">00:50:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:50:00</a>
 
 discusses the definition of childhood and how it has evolved over time. provides examples of law in different countries that define childhood at different ages, and points out that the age of consent is still a controversial topic. He also discusses how the expectations of a child have changed over time, and how this affects how children are raised.
 

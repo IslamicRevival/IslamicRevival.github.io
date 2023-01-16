@@ -24,7 +24,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 In his latest video, Elon Musk discusses the possibility of "saving and replaying memories" in the future. He argues that this is a form of "magical" technology which is rooted in deception. Musk's comments bypass important discussions happening in academia, and could have negative consequences for society.
 

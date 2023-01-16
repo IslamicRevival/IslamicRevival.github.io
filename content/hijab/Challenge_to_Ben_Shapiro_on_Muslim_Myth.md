@@ -29,7 +29,7 @@ Time stamps
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1200')">00:20:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:20:00</a>
 
 Ben Shapiro is challenged on his beliefs about Muslims. He is asked to explain why he believes that all Muslims are radicalized, and he cites the example of Indonesia as proof that this is not the case. He is also challenged to a discussion on the topic of racism in Muslim communities, and he is shown to be hesitant in prosecuting the killer of George Floyd.
 

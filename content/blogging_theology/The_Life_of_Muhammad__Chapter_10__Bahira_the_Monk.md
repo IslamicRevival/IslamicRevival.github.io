@@ -15,7 +15,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('300')">00:05:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:05:00</a>
 
 In this chapter of the life of Muhammad, Bahira the monk tells Muhammad about a man he met who had the same mark of prophecy as Muhammad. Bahira also tells Muhammad about the dangers of the Jews, who he believes will try to harm the boy if they find out about him.
 

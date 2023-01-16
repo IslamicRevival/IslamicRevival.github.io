@@ -27,7 +27,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  a Muslim man discusses how the introduction of Qur'anic arguments can help people accept modern technology and scientific advancements more easily. He argues that since there is no logical contradiction between Qur'anic teachings and modern technology, people should be more accepting of modern technology. He also discusses the "Double Split" experiment, which demonstrates that one particle can be in two places at the same time.
 
@@ -43,7 +43,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  introduces Qur'anic arguments, discussing Surah An-Najm. Mohammed Hijab explains that the most pleasurable things in life are those that are temporary, such as eating a big meal and relieving oneself. He argues that these experiences aren't memorable, and that they're simply everyday occurrences.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the boredom he feels in the worldly life, how this translates to the deeper emotions in the afterlife, and how Allah provides deeper emotions in the afterlife through love. He also talks about how humans have negative emotions such as jealousy, anger, and anxiety, and how Allah provides relief from these negative emotions in the afterlife.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the Islamic concept of "ar-Rahman," or "the Most Merciful." It points out that this concept is mentioned in other religions, and that Islam didn't come about with a new message. It goes on to discuss the concept of "taqwa," or "fear of Allah." provides examples of how taqwa is demonstrated in everyday life, and how it is a prerequisite for faith. then discusses the concept of "tauba," or "repentance." He says that repentance is not only a personal act, but that it is also a prerequisite for faith. finishes the video by discussing the example of someone who turns away from Islam and then stops giving, illustrating the concept with a story from the previous Surah.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('4800')">01:20:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:20:00</a>
 
  introduces the idea of Qur'anic arguments, which state that no burden person shall bear the burden of another, that man can have nothing but what he does good or bad, and that his deeds will be seen. It then goes on to argue that science is the investigation of past patterns of natural behavior to predict the future, and that law is based on precedent.  then compares the resurrection to other events in which Allah was involved, such as the creation of the universe and humans. It concludes by stating that it is difficult to believe in these event when they have been done before, and that Allah is the one who gives much more than even in contentment outside of the Resurrection.
 

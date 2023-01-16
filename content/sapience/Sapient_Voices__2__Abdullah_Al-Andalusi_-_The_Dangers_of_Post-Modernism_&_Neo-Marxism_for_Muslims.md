@@ -41,7 +41,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 Abdullah Al-Andalusi discusses the dangers of post-modernism and neo-Marxism for Muslims, arguing that these ideologies create contradictions within Muslim thought and society, and that they can lead to suffocation or asphyxiation. He suggests that we critique these ideologies and engage them in order to defeat them.
 
@@ -57,7 +57,7 @@ Abdullah Al-Andalusi discusses the dangers of post-modernism and neo-Marxism for
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Post-modernism and neo-Marxism can have dangerous consequences for Muslims because they undermine traditional values and beliefs.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Abdullah Al-Andalusi discusses the dangers of post-modernism and neo-Marxism for Muslims, citing Hegel, Marx, and Carl Monk. He points out that these ideologies create contradictions within Muslim thought and society, and that they can lead to suffocation or asphyxiation.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Abdullah Al-Andalusi discusses the dangers of post-modernism and neo-Marxism for Muslims, arguing that these ideologies control the culture and fool the working classes into thinking that their situations are normal. He suggests that we critique these ideologies and engage them in order to defeat them.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  Abdullah Al-Andalusi discusses the dangers of post-modernism and neo-Marxism for Muslims. He argues that these ideologies covertly promote racism and can lead to the destruction of society. He recommends using critical race theory to combat the negative effects of these ideologies.
 
@@ -73,7 +73,7 @@ Abdullah Al-Andalusi discusses the dangers of post-modernism and neo-Marxism for
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>* Discusses the dangers of neo-Marxism and post-modernism for Muslims, emphasizing the importance of following the Quran and Sunnah. He provides an example of how these ideologies can lead to a division within the Muslim community and a rise in racism. He recommends using critical race theory as a way to educate Muslims about the dangers of these ideologies.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** Abdullah Al-Andalusi critiques feminism and postmodernism, asserting that islam provides better rights for men and women and that it's not about gender anymore. He also discusses racism in the United States, noting that it is rampant and that there is no dispute about the documented observed statistics. He goes on to say that the question is how to explain it and what the solution is.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses the dangers of post-modernism and neo-Marxism for Muslims, arguing that these ideologies covertly promote racism. Critical race theorists believe that these ideologies encode white supremacy in language, which gives the impression that black people are inferior.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('8700')">02:25:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:25:00</a>
 
  Abdullah Al-Andalusi discusses the dangers of post-modernism and neo-Marxism for Muslims, noting that these ideologies can obscure the reality of racism and oppression in society. He also points out that this is a common human phenomenon that can be explained without recourse to divine revelation.
 

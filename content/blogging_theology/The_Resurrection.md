@@ -11,7 +11,7 @@ More about Professor Geza Vermes: https://www.haaretz.com/jewish/1924-the-priest
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1200')">00:20:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:20:00</a>
 
 The resurrection of Jesus is a central tenet of Christianity, but according to Professor Giza Vermes, it is not something that Jesus himself taught. Vermes argues that the concept of resurrection was initially promoted by the Pharisees, and that it is rarely mentioned in first-century tomb inscriptions. He also points out that the disciples' disbelief at Jesus' resurrection is in line with what would be expected if these prophecies did not originate with Jesus himself.
 

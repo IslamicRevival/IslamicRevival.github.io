@@ -11,7 +11,7 @@
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1200')">00:20:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:20:00</a>
 
 The Fatiha is a short poem in the Quran that serves as a call to worship God. The poem references several case studies of people who followed God's teachings and lived virtuous lives. Muslims try to emulate these examples in their own lives, hoping to live a righteous and fulfilling life.
 

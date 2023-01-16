@@ -15,7 +15,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('300')">00:05:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:05:00</a>
 
 The video discusses a Hadith which describes the day of resurrection. On that day, everyone will be called to follow their own religion. Those who used to prostrate to Allah will be allowed to do so again, but their backs will be made as one stiff part. The faithful will pass over a bridge to Paradise while others are sent to hell. The video highlights the mercy of God, which is reiterated throughout the Quran.
 

@@ -17,7 +17,7 @@ Also to buy his book click this link :https://www.amazon.co.uk/Divine-Reality-Is
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 Hamza Tzortzis discusses induction and its limitations in the video "Hard Questions to Hamza Tzortzis." He argues that induction is not the only means of acquiring knowledge, and does not always lead to the truth. He goes on to say that people should approach religious teachings with an open mind, accepting that there are different approaches within scholarly circles.
 
@@ -33,7 +33,7 @@ Hamza Tzortzis discusses induction and its limitations in the video "Hard Questi
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses how some classical scholars in the field of Islamic history believe there are "historical miracles" in the Quran. He goes on to say that while there may be a logical connection between the conclusion and the premises, there may be other premises which are not inductive.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>**  Hamza Tzortzis discusses the difference between "miracle" and "awakening the truth within." He argues that while miracles are based on inductive reasoning, awakening the truth within is based on a metaphysic of the fitrah. Tzortzis goes on to say that while some people may claim to know this approach, it is still a gift from Allah.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses how hard it can be to have a sincere intellectual discussion with someone who disagrees with you on a fundamental level, specifically when it comes to theology and philosophy. points out that this is due to the emotional baggage we bring to such conversations, which often cloud our judgement. He goes on to say that we need to focus on engaging with the "sunny majority," which is a challenge given the prevalence of atheism and skepticism in today's society.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:00:00</a>
 
 Hamza Tzortzis discusses the arguments for and against the existence of God, and how to approach religious discussions with empathy and reason. He stresses the importance of having a multi-layered approach to understanding religion, and recommends reading a book on the subject.
 

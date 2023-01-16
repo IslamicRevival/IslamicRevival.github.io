@@ -11,7 +11,7 @@ This debate between Saboor Ahmed and Aaron Ra is perhaps the most informative de
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 Aaron Ra and Saboor Ahmed debate the validity of evolution. Ahmed concedes that evolution is based on observable phenomena and testable hypotheses, while Ra argues that it is based on assumptions. Ultimately, the debate shows that both sides have valid points, and that evolution is a reality based on what is known.
 
@@ -35,7 +35,7 @@ Aaron Ra reconfirmed that the theory is an "absolute fact," but Saboor Ahmed poi
 Saboor Ahmed also points out that the theory is based on a fundamental postulate that is widely accepted in evolutionary theory, but there is little evidence to support it. He argues that the theory is based on a questionable assumption about homology, and that it is also based on ad hoc hypotheses that can't be eliminated.
 
 Both Aaron Ra and Saboor Ahmed make interesting arguments. However, Saboor Ahmed's argument seems more convincing.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  discusses the debate between theist and atheist over the theory of evolution. Ra argues that the evidence suggests that humans and chimps share a common ancestor, but the evidence is not conclusive. Ahmed argues that the genetic similarity between humans and chimps is compelling evidence that they have a common ancestor.
 
@@ -51,7 +51,7 @@ Both Aaron Ra and Saboor Ahmed make interesting arguments. However, Saboor Ahmed
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>* Discusses the third way of evolution, which is different from the two main ways of evolution. The third way of evolution is based on the idea that evolution can occur in more than one way. This includes the possibility that evolution can occur through multiple episodes of creation.  also discusses the Hindu belief that the creation story is like a tree of life, which is identical in its details.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>* Discusses the debate between theist and atheist, and argues that the history of life is not easily disproved by criticism of the mechanism of evolution. points out that there are many observed speciation events, and that Darwinian evolution is true, though we have never observed a transition from one species to another.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>**  Aaron Ra and Saboor Ahmed discuss the theory of evolution. Ahmed argues that, because evolution is a scientific theory, it should be treated as a religion and not as a scientific proposition. Ra points out that the history of science shows that major paradigm shifts happen frequently and that, even if evolution is accepted as a scientific theory for the next thousand years, there is no reason for any person to attach it to their religious beliefs.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:00:00</a>
 
 The two debaters in this video take opposing views on the relationship between evolution and atheism. Ahmed argues that evolution necessarily leads to atheism, while Ra argues that the two are not necessarily linked. The debate between the two is respectful and engaging, providing food for thought for viewers on both sides of the issue.
 

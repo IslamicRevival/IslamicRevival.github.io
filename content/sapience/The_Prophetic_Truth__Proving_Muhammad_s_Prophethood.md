@@ -11,7 +11,7 @@ The Prophetic Truth: Proving Muhammad's (may God's peace and blessings be upon h
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2100')">00:35:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:35:00</a>
 
  discusses the various pieces of evidence that support Muhammad's prophethood. It argues that Muhammad could not have been a liar or deluded, and that his prophecies have come true.  also discusses the Prophet Muhammad's teachings on love and compassion, and how rejecting him is the same as rejecting one's mother.
 

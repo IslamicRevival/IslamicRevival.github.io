@@ -18,7 +18,7 @@ on Geocentrism - https://soundcloud.com/mohammed-hijab-465985305/does-islam-prom
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('900')">00:15:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:15:00</a>
 
  discusses the reasons why atheist P believes that there is no objective morality. He goes on to say that, as a subjectivist, he does not believe that nihilism is synonymous with objectivity. 's main point is that if someone doesn't believe in objective morality, they must believe in subjective morality or money. The final moments of the career of an Islamophobe are shown, in which he admits that he does not have any answers for objections to Islam based on morality. He is then laughed at by other commentators for not being able to provide a third option.
 

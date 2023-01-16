@@ -27,7 +27,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 Imran Hussein discusses how nihilism can be overcome from an Islamic perspective. He argues that Islam provides a comprehensive answer that destroys nihilism and even breaks down Nietzsche's criticisms of religion.
 

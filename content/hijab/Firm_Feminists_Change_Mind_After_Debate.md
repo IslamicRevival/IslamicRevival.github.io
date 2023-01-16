@@ -11,7 +11,7 @@ This is a short discussion between a Muslim man and two European Feminists. Wher
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1800')">00:30:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:30:00</a>
 
  "Firm Feminists Change Mind After Debate" discusses a study which found that when feminists focus on overall issues, rather than individual issues, they are less likely to be successful.  also discusses a debate between feminists about whether or not a rise in a manager's power correlates with an increase in their responsibility. Ultimately, both sides of the debate agree that if a job entails increased responsibility, then an increase in power usually accompanies it.
 

@@ -18,7 +18,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  Linda Sarsour, Omar Suleiman, and Ali Dawah discuss American Muslim activism and the importance of being clear about objectives and staying segregated from non-Muslims. Dawah advises Muslims to lead civil rights movements, and Sarsour warns against jumping on the bandwagon and compromising one's principles.
 
@@ -34,7 +34,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Linda Sarsour, Omar Suleiman, and American Muslim activism are discussed in this video. Ali Dawah and Dilly Hussain discuss the red line that needs to be drawn when it comes to Islamic activism, and how it often comes back to compromising the rights of Allah. They also discuss how the opportunity cost of Muslim activism can be high, and how it's a failed strategy when compared to the UK's strategy of Islamic conservatives.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>**  Linda Sarsour, Omar Suleiman, and Ali Dawah discuss American Muslim activism and the importance of being clear about objectives and staying segregated from non-Muslims. Dawah advises Muslims to lead civil rights movements, and Sarsour warns against jumping on the bandwagon and compromising one's principles.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses Linda Sarsour, Omar Suleiman, and American Muslim activism. Dilly Hussain and Ali Dawah point out that if someone has changed their views, that does not mean that their previous views were wrong. They argue that there are red lines that enable activists to be held accountable, and that Linda Sarsour and others in the U.S. have not been held to these same standards.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3900')">01:05:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:05:00</a>
 
 The discussion on this podcast centers around the idea that American Muslim activists are not doing enough to study and follow Islam, and that this could lead to conflicts down the line. The need for a middle ground is emphasized, and it is suggested that people try to develop a more nuanced understanding of Islam.
 

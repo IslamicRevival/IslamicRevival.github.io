@@ -13,7 +13,7 @@ https://thequran.institute/palestine
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  discusses how radical Zionist Tariq Ramadan is teaching a course on Palestinian advocacy at the Quran Institute. The course is open to Muslims around the world, and Ramadan encourages Muslims to challenge Zionist arguments -on.  also discusses how radical Zionist David Ben-Gurion did not support colonization of Argentina, despite earlier writings that suggested as much. Ben-Gurion later decided that colonization of Argentina was a good idea, but argued that Zionism was still a form of settler colonialism.
 

@@ -95,7 +95,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 The Kalam cosmological argument is a philosophical argument for the existence of God that relies on the principle of causality. It argues that because everything that exists has a cause, and the universe exists, then there must be a cause for the universe, which is usually assumed to be God. However, the argument has several weaknesses, including the lack of evidence for the existence of a first cause, the difficulty of identifying what this cause is, and the challenge of explaining why this cause has certain attributes.
 
@@ -111,7 +111,7 @@ The Kalam cosmological argument is a philosophical argument for the existence of
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The Kalam cosmological argument states that the universe has a beginning, and if it has a beginning, then it must have a cause. If you don't have a cause, then you can't understand anything about the universe. Neurological nihilism is the idea that you don't exist as an individual, and that everything is ultimately nihilistic.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Quantum mechanics can show that things that exist do not always have a cause. This can be interpreted as implying that there is some level of indeterminacy at work in the universe.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The Kalam Cosmological Argument is a argument for the existence of God that relies on the principle of causality. It argues that because quantum mechanics does not allow for deterministic causation, there must be a God who is the necessary cause of all events. However, there are some problems with this argument, including the fact that quantum mechanics allows for probabilistic causation.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
 The Kalam cosmological argument is a teleological argument that argues that the universe had a purpose or creator. Its first premise is that causation is something that can be derived through experience, and its second premise is that the universe is orderly and has a creator. However, some objections have been raised against the argument, including that causation does not necessarily equal god.
 
@@ -127,7 +127,7 @@ The Kalam cosmological argument is a teleological argument that argues that the 
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** The Kalam Cosmological Argument states that it is impossible for something to come into existence or to exist for an infinite amount of time without a cause. This is a metaphysical impossibility, and therefore, a contradiction.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** Kalam cosmological argument states that the universe began at a specific point in time, and that there must be a first cause. Stephen Hawking and Roger Penrose argue that, if time began at the moment the universe was created, there is no cause before the universe because there was no before the idea of the concept of before.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** The Kalam Cosmological Argument argues that there is a cause, which is God, that created the universe. The objection is that assuming this causes us to assume that there is no before in time, which is a contradiction in terms.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('10800')">03:00:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-03:00:00</a>
 
 The Kalam cosmological argument is a philosophical argument that argues for the existence of God based on the principle of cause and effect. The argument has three main points: 1) everything has a cause, 2) the universe began to exist, and 3) we can infer that our solar system began to exist because we have evidence of how it did. Critics of the argument say that it does not provide a definitive answer, and that cosmologists will continue to search for a cause for the beginning of the universe.
 
@@ -143,7 +143,7 @@ The Kalam cosmological argument is a philosophical argument that argues for the 
 * **<a onclick="modifyYTiframeseektime('9900')">02:45:00</a>** The Kalam Cosmological Argument argues that everything that begins to exist has a cause. The philosopher argues that this principle is unreasonable, and that we can't reason if we reach that point.
 * **<a onclick="modifyYTiframeseektime('10200')">02:50:00</a>* Discusses the strengths and weaknesses of the Kalam cosmological argument. While the argument is strong in that it provides a plausible explanation for the beginning of the universe, it is weak in that it does not provide a definitive answer. Cosmologists use observations and assumptions to try to infer a cause for the beginning of the universe, and may continue to do so for as long as they remain curious.
 * **<a onclick="modifyYTiframeseektime('10500')">02:55:00</a>* Discusses the Kalam cosmological argument, which states that there must be something outside of the universe that affects gravity, otherwise the stars on the outer edges of galaxies would be orbiting too fast. Scientists have observed that stars on the outer edges of galaxies are orbiting at a faster rate than they should, and have hypothesized that this is due to something outside of the universe having an effect on gravity. However, they don't have direct observational evidence for this cause, so they resort to using an abductive process, which assumes that the observations are not random and are instead underpinned by a law or system. They hope to make the next big discovery based on this assumption.
-### <a onclick="modifyYTiframeseektime('10800')">03:00:00</a> - <a onclick="modifyYTiframeseektime('14100')">03:55:00</a>
+### <a onclick="modifyYTiframeseektime('10800')">03:00:00-03:55:00</a>
 
 The Kalam cosmological argument is a philosophical argument that the universe had a beginning, and that this beginning was caused by a divine will. However, the argument has been criticized for making assumptions about the nature of time and change.
 

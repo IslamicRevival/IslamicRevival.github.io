@@ -13,7 +13,7 @@ This is one of many videos which will be uploaded on this channel so subscribe t
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 discusses a variety of predictions made by Mohammed about the future of Islam. He predicted that Egypt would become a Muslim country, that Jerusalem would be conquered by Muslims, and that Syria would also become a Muslim nation. He also made predictions about the economic growth of Muslims and a fire that would ravage the Hejaz region.
 

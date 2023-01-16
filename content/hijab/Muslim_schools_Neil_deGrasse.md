@@ -17,7 +17,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1200')">00:20:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:20:00</a>
 
  discusses Neil deGrasse's claim that Muslims have been historically bad at science. It argues that this claim is contradictory to historical evidence and instead indicative of deGrasse's own lack of understanding of the subject.  goes on to say that even though al-Ghazali was a Muslim philosopher, he was also a mathematician and astronomer, and thus had a significant impact on the development of science.
 

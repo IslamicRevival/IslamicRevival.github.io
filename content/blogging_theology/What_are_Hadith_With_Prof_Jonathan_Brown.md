@@ -36,7 +36,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  Jonathan Brown discusses the concept of hadith, or Islamic religious teachings. He notes that hadith can be divided into two categories: those that are considered to be authentic, and those that are not. Brown points out that some scholars believe that hadith originated later, and that orthodoxy – or the set of teachings that is considered to be the most authentic – changes what came before it to make it look more like Muhammad wanted it to look. This can lead to bizarre situations where people argue about whether a certain hadith is authentic or not.
 
@@ -52,7 +52,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Hadith are books that are organized by topic, and which are usually dated to the late 600s of the Common Era. Prof. Jonathan Brown notes that while they do not necessarily help us to say that Sahih Bukhari is 100 accurate, they do tell us that Muslim scholars were able to accurately transmit material from the early period. Additionally, he explains that sometimes when errors or forgeries enter into this field, Muslim scholars are aware of it and sometimes they are not averse to it.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses different ways in which western historical critical methods impact discussions of hadith reliability. points out that, while this method is objective, it is shaped by the experiences of the western world with Christianity and classical Greco-Roman scholarship. He discusses the ways in which these assumptions impact discussions of hadith authenticity and reliability.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  Jonathan Brown explains the concept of hadith, or Islamic religious teachings. He notes that hadith can be divided into two categories: those that are considered to be authentic, and those that are not. Brown points out that some scholars believe that hadith originated later, and that orthodoxy – or the set of teachings that is considered to be the most authentic – changes what came before it to make it look more like Muhammad wanted it to look. This can lead to bizarre situations where people argue about whether a certain hadith is authentic or not.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3900')">01:05:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:05:00</a>
 
 Jonathan Brown discusses the origins of Hadith, and how they differ from other Islamic sources. He also discusses how Hadith can be used to support Islamic law, and how there are blind spots in Hadith scholarship.
 

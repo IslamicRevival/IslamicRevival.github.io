@@ -17,7 +17,7 @@ The Quran and the Secular Mind: A Philosophy of Islam https://www.amazon.co.uk/Q
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2700')">00:45:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:45:00</a>
 
 In this video, Dr. Shabbir Akhtar discusses the importance of being careful when interpreting the teachings of Muhammad. He argues that Muslims need to show respect for the convictions of secularists in order to achieve a degree of balance. Akhtar also talks about his new book, The Crown and the Secular Mind: A Muslim's Defense of Western Democracy, which synthesizes the insights of Western philosophy and Islamic studies.
 

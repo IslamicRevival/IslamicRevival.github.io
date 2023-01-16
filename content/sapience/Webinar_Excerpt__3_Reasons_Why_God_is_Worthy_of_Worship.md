@@ -15,7 +15,7 @@ To watch and learn from the free Sapience Institute launch webinars please acces
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('900')">00:15:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:15:00</a>
 
  discusses the reasons why Allah is worthy of worship, and explains that being grateful for even the simplest favors can free a person from pain and lead to a more productive life.
 

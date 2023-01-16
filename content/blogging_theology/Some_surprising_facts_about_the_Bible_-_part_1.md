@@ -11,7 +11,7 @@ Nowhere does the Christian Bible claim to be the word of God, or inspired of God
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 The Bible is a collection of religious texts that has been accumulation over centuries. It contains many accurate historical accounts as well as unusual stories. While it is often thought to be the word of God, there are many factors that suggest otherwise.
 

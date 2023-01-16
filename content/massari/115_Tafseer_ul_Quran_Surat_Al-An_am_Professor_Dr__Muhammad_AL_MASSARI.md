@@ -18,7 +18,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  is a lecture by Muhammad AL MASSARI on the Qur'an's Surat al-An'am, which mentions the city of Iran. Dr. Massari argues that archaeological finds in Syria support the Quran's accuracy, and warns of the consequences of disbelief.
 
@@ -34,7 +34,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** discusses the necessity of Allah for existence, and how believing in Allah is the only way to be saved. He goes on to explain that even though people may choose to disbelieve in Allah, He will still reward those who do believe in Him. concludes the talk by saying that anyone can make a choice to believe in Allah, and that if they do, He will guide and help them.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The professor discusses the meaning of Allah's decreeing mercy upon Himself, stating that it does not contradict Divine simplicity. He goes on to say that the Divine is an essential one entity which cannot be split into but that it has certain attributes.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** explains that, in Arabic, there is a linguistic separation between words that points to nothing existing except for the Divine. He gives the example of the square circle, which cannot exist but is still talked about. He then goes on to say that, linguistically, the Divine is simple and has no attributes. Every minute has the same attributes, which cannot be separated. Allah obliges Himself to never do injustice, which is defined as punishing someone for something they did not do. This is rational and reasonable, but it is contingent and possible for Allah to do injustice.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  Professor Muhammad AL MASSARI discusses the different aspects of Islamic theology. He covers topics such as Divine Stability, simplicity, qadar (the Islamic concept of predestination), and mortgages. He argues that, while some aspects of Islamic theology may be debated, the overall message is that Allah is merciful and that people have free will.
 
@@ -50,7 +50,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>* Discusses how someone with a large income should be careful not to take out a usurious mortgage, as Islamic banking has no excuse for doing so. The second question is about someone wanting to add equity to their home by building an additional house. Islamic banking does not cover this, as it is not a necessity.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>**  Professor Dr. Muhammad Al Massari discusses the issue of money and its relation to Islam. He notes that, in Islam, money is not viewed as a source of evil, but rather as a way of earning a living. He goes on to say that, if a person is able to earn a legitimate income through legitimate means, there is no problem with them using that money. However, if a person is using money acquired through illegitimate means, they should repent and return the money to its rightful owners.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>**  Professor Muhammad AL MASSARI discusses the issue of non-Arabic words in the Quran. He explains that these words were taken from other languages and have been "urbanized" by being taken into the Arabic language.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('9000')">02:30:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:30:00</a>
 
  Professor Dr Muhammad AL MASSARI discusses the meaning of the number 13 in Surat Al-An'am. He explains how the number is a blessed number, and how it is often associated with good luck.
 

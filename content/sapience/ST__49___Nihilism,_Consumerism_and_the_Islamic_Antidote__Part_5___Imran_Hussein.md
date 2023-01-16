@@ -27,7 +27,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  discusses consumerism and how it is connected to nihilism. It argues that when people become consumed by materialism, they are more prone to nihilism.  discusses how this is a problem and how it needs to be addressed.
 

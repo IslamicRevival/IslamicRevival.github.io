@@ -19,7 +19,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2100')">00:35:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:35:00</a>
 
 , a man who identifies as a "MGTOW" or "Red Pill anti-feminist" explains the Men Going Their Own Way movement. He argues that feminism has failed to produce positive results for women, and that men are now choosing to return to traditional, patriarchal values. He suggests that Islam is the answer to restoring justice between men and women.
 

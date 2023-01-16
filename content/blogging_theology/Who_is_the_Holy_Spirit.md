@@ -13,7 +13,7 @@ I read from 'Islamic Jesus: How the King of the Jews Became a Prophet of the Mus
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('300')">00:05:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:05:00</a>
 
 The Holy Spirit is a force that is mentioned in both the Quran and Christianity. In the Quran, it is used as a corrective and polemical force, while in Christianity it is the transmitter of the revelation from God to Jesus. Gabriel plays a role in transmitting the revelation to Jesus in both religions, meaning that the term "the holy spirit" can be used in both Christianity and the Quran.
 

@@ -28,7 +28,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the views of various scholars on coffee; the majority of whom believe that coffee is permissible. One of the strongest pieces of evidence is the fact that unanimous consensus was often cited in favor of the permitting side.
 
@@ -44,7 +44,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** explains that when a person looks at religious rulings, they should be careful to assess the question and wording correctly in order to avoid a provisional answer. He goes on to say that the number of prohibitions will decrease substantially due to this understanding.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses how coffee is permissible under Sharia law, depending on the scholar asking the question and the level of knowledge they have of coffee. There is no clear correlation between the two, with some prohibitionists coming from math hubs and others not.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses how coffee was once deemed haram by a majority of Scholars, and how this resulted in the ban of the drink. However, Senator points out that this is not actually the case, as the Scholars in question were only agreeing to ban coffee because it was seen as a threat to their craft.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('5700')">01:35:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:35:00</a>
 
  "Coffee Was Once Haram?!" discusses how coffee was once considered to be haram, or forbidden, by some scholars and jurists. However, the presenter argues that this view is insufficient and points to reasons why scholars might have reached this false conclusion. He offers possible hypotheses as to why this might be the case. The main takeaway from the video is that Muslims should always rely on primary sources when judging the state of Muslim scholarship.
 

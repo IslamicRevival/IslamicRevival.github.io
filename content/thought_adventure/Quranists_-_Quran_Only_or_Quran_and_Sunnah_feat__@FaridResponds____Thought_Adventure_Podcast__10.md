@@ -98,7 +98,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Brother Farid discusses the objections to preserving hadith and responses to them. He mentions the Chinese Whisperer and how it can be used to illustrate the folly of trying to preserve hadith through whispers.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The presenter discusses some of the common objections that Quranists have to Sunnah, which is based on ignorance of the historical tradition. Jake points out that hadith verification is not something that started 1400 years ago, but actually started with the first three generations of Muslims. Imams Malik and Bukhari had a golden chain of transmission, meaning they were the only ones who could confirm hadith's accuracy.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Brother Jake adds that the Quran and Sunnah have the same standard of preservation, and that Muslims should not distrust the Quran. There are many evidences for the Quran's authenticity, including geographical, astronomical, and historical evidence.
-### <a onclick="modifyYTiframeseektime('7200')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">01:00:00-02:00:00</a>
 
  discusses the difference between Quranists and Quran and Sunnah proponents. Quranists believe that the Prophet Muhammad only followed the Quran and nothing else, while the Sunnah proponents believe that the Prophet Muhammad followed the Quran and the Sunnah (his actions and teachings).
 
@@ -114,7 +114,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>* Discusses whether cutting off a thief's hands is prescribed in the Quran or Sunnah. points out that historically, people were often punished with death for theft, and suggests that this is because the Quran and Sunnah do not prescribe cutting off a thief's hands only in cases of extreme theft. He also argues that the current practice of cutting off a thief's hands only in cases of extreme theft is a recent development, and that in the past, thieves were typically punished with amputation of their hands.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** A Muslim scholar discussing the differences between the Quran and the Bible. He says that while there are some differences, the Quran overall upholds the same teachings as the Bible.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses the different teachings of Islam regarding the law that was revealed to Prophet Muhammad. They note that while the law was revealed in every instance to be the same, different revelations were given to different people at different times and in different nations. The revelation of the Quran is considered the final revelation, and is for the whole of mankind, regardless of color, nation, or tribe. believes in the teachings of Islam and feels that it is the best path for humanity.
-### <a onclick="modifyYTiframeseektime('10800')">02:00:00</a> - [03:00:00</a>
+### <a onclick="modifyYTiframeseektime('10800')">02:00:00</a>
 
 discusses the different ways Quranists can interpret and apply the Quran and Sunnah. Farid Responds discusses the idea that some hadith may conflict with modern science and how a responsible approach to Hadith studies entails accepting hadith as true with an effect that comes from Allah.
 

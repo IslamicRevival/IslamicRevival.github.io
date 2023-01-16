@@ -14,7 +14,7 @@ Keith Ward is an English Anglican priest, philosopher, and theologian. He is a f
 
 <span style="color:red; font-size:125%">This summary is AI generated - there are inaccuracies</span> [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 Rev. Keith Ward discusses his belief that Muhammad was a genuine prophet of God. He emphasizes the need for all the major spiritual faiths to come to a greater understanding of their own traditions before they can adequately perceive the truth of their own.
 

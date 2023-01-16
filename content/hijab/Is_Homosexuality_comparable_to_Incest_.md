@@ -17,7 +17,7 @@ Instagram - @bromohammedhijab
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('900')">00:15:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:15:00</a>
 
 in this video discusses the morality of homosexuality and argues that it is comparable to incest. They say that from an objective standpoint, it is impossible to prove which is more immoral, and that people should make their own decisions in life.
 

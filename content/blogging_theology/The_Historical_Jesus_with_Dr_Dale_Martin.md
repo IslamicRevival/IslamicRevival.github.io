@@ -44,7 +44,7 @@ Chapters :
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 This video discusses the historical Jesus and how scholars use criteria to try to determine which of his sayings are authentic. It argues that the Gospel of John is less reliable than the other gospels because it contains many similarities to other gospels.
 
@@ -60,7 +60,7 @@ This video discusses the historical Jesus and how scholars use criteria to try t
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** This YouTube video discusses the differences between secular humanists' views of Jesus and those of evangelical Christians, who believe that Jesus taught an imminent coming of the kingdom of God. Secular humanists believe that Jesus taught a moral code similar to that of ancient Greeks and Romans, and did not advocate marriage.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The historical Jesus is a construction by modern historians, according to modern historical rules. In the light of Mark 10:17-18, why do you call me good, no one is good but God alone? What kind of person was Jesus according to historical reconstruction? Jesus was a jewish prophet and teacher of love, who emphasized the dual commandment of loving God and loving your neighbor. He spoke Hebrew and Aramaic, not Greek, and did not seek to found a religion.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The video discusses some of the historical evidence for Jesus' Jewishness and his adherence to Jewish law. It argues that Jesus was not as liberal in his interpretations of the law as is often portrayed and that he may have been more conservative than some of his disciples.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('4800')">01:20:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:20:00</a>
 
  Dr. Dale Martin discusses the historical Jesus and argues that there are many discontinuities between the historical Jesus and the later Christian faith. He says that these discontinuities show a lack of faith on the part of followers of the historical Jesus. Dr. Martin also discusses how post-modernism ultimately undermines its own claim by denying the existence of a single, objective truth.
 

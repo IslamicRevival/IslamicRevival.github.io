@@ -13,7 +13,7 @@ New atheist Sam Harris has often made a case against Islam using fallacious argu
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('900')">00:15:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:15:00</a>
 
  Sam Harris challenges Muslims on their stance on slavery, noting that while the Quran does not condone slavery, it does allow for the freeing of slaves in cases of dire need. Harris argues that many Muslims in the present day are still practicing slavery, and that this reflects the power and reach of radical Islamist factions.
 

@@ -17,7 +17,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  discusses the logical difficulties with the idea that everything came from nothing. It argues that the idea is unintelligible without reference to something, and suggests that the nothing might be something, or might not even exist at all. discusses how an atheist's logic can be rejected on a priori grounds. He points out that retro causality, or the idea that something can cause itself, is impossible.
 

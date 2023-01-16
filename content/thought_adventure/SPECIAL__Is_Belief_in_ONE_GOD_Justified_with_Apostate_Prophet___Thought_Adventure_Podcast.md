@@ -66,7 +66,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  "SPECIAL: Is Belief in ONE GOD Justified? with Apostate Prophet | Thought Adventure Podcast" discusses the justification for belief in one God. The presenter provides rational justification for this belief, based on the fact that humans have been speculating on the existence of God for thousands of years.
 
@@ -82,7 +82,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses how belief in God is often based on assumptions rather than evidence, and how a possible event like the appearance of a leg from nowhere can lead to a reconsideration of belief.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the argument for the existence of a necessary being, which is that all contingent realities require an explanation outside of themselves. It argues that one possible explanation is that a necessary being exists, which would answer the question of whether this universe has a beginning. However, the video argues that these thoughts and discussions are clouded and dark and don't actually lead us anywhere.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Ridwan discusses the problem of Hell and how it conflicts with the Islamic concept of morality. He believes that the idea is incoherent and inconsistent.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  discusses the Islamic perspective on whether belief in one God is justified. The Islamic position is that one who rejects the truth after seeing it will go to hell. argues that belief in one God is justified but that there is an inconsistency within the Islamic tradition, making it incoherent.
 
@@ -98,7 +98,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>* Discusses the two propositions that Islam puts forward, that Allah is all-knowing and all-merciful, and that Allah creates humans despite knowing they will eventually burn in hell.  then discusses how these propositions contradict each other, and concludes that the first proposition is incoherent.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>* Discusses the problems of other minds and how we identify things have minds. It argues that because we lack knowledge in one area, skepticism is justified in another area. It argues that because the necessary being is non-deterministic and does not have a cause, it is necessarily true.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** The atheist argues that we know very little about reality, and that all the explanations we have for things are naturalistic. He provides a plausible explanation for why the necessary foundation or first cause necessarily has a will and mind.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('8400')">02:20:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:20:00</a>
 
  discusses the justification for belief in one god, with the presenter arguing that it is justified by a logical entailment. The panelists offer different perspectives on the mind, which leads to a discussion of philosophy and neuroscience. Ridwan asks the panelists to speak on their behalf, and they agree.
 

@@ -21,7 +21,7 @@ Please donate and help establish this Masjid and earn your reward ➡ https://ww
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2100')">00:35:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:35:00</a>
 
 "Full Channel 4 Interview Hindutva/Muslim Tensions," the Norwegian speaker Muhammad Hijab interviews a British Muslim about the tensions between Muslims and Hindutva/right-wing groups. The British Muslim argues that there is compatibility between Islam and social liberalism or secular feminism. The psychotherapist in the video discusses how Islamaphobia is causing tension in Leicester. urges both the police and the media to do their jobs properly in order to prevent similar incidents from happening in the future.
 

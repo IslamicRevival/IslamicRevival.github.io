@@ -12,7 +12,7 @@ https://www.penguinrandomhouse.com/books/260984/the-history-of-the-church-by-eus
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('300')">00:05:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:05:00</a>
 
 The earliest Christians believed that Jesus was a great prophet of God and a messiah, and that he was born of the virgin Mary without involvement of Joseph. This belief was later rejected by mainstream Christianity.
 

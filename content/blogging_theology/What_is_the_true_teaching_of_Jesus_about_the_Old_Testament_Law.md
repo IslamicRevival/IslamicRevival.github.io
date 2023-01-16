@@ -17,7 +17,7 @@ I quote from 'The New Jerome Biblical Commentary' by Raymond E. Brown, page 641.
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  discusses the different interpretations of what Jesus said regarding the Old Testament law. Some scholars say that Jesus abolished the law while others say that he renewed it. The video argues that Islam is closer to the original teaching of Jesus.
 

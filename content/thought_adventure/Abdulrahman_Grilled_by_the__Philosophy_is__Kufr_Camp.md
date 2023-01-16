@@ -58,7 +58,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2700')">00:45:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:45:00</a>
 
 In response to the claim that philosophy requires certain prerequisites, Abdulrahman argues that this is not true and that anyone who studies philosophy must have a solid understanding of Sunnah before diving into the topic. He praises the shadow for standing up against the Jahmir and the philosopher, and affirms that some of their arguments can be classified as kalami arguments. However, he does not think that sweeping generalizations are beneficial, and asks brothers what they think about what he just read.
 

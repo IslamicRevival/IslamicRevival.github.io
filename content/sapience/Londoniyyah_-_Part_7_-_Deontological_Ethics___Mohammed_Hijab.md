@@ -26,7 +26,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2100')">00:35:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:35:00</a>
 
  discusses the conflict between universalizing principles and their consequences. Mohammed Hijab argues that there are no clear rules in morality, and that it is impossible to always know what is the right thing to do. Kant's ethics offers a possible solution to this problem, but it is not always applicable in the real world.
 

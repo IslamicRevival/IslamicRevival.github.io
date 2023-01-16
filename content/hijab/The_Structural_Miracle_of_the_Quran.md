@@ -11,7 +11,7 @@ A brief overview of an incredibly interesting yet neglected aspect of the Qurani
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('900')">00:15:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:15:00</a>
 
  discusses the structural coherence of the Quran, which supports its validity as a source of guidance for Muslims. It also discusses the predictions made by the Quran concerning future events, including the fate of Prophet Muhammad and the Jews.
 

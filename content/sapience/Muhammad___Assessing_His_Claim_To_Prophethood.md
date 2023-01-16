@@ -11,7 +11,7 @@
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  a retired professor and atheist philosopher discusses how humans should not rely solely on their intellect to reach truth, as this would be based on false beliefs. He also points out that the deer believe in a god with imperfect attributes, and thus cannot rely on their intellect when it comes to understanding the nature of God.  concludes that only those who are qualified can be considered prophets.
 
@@ -27,7 +27,7 @@
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses how it is unlikely that Muhammad took elements from other religions- such as Judaism and Christianity- without first learning these religions himself. He also points out that some of Muhammad's teachings, such as correcting other religions' errors, are similar to those of other prophets.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the Orientalist argument that Muhammad may have been dishonest in his prophecies, given that he preached about one God but also made arrangements with the Jewish community in Medina.  points out that even though there are similarities between Muhammad's teachings and those of the Jews, there are also fundamental differences between the two religions.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  Muhammad's claim to prophethood is evaluated, and it is shown that there are only two possible conclusions: that he was either an imposter or truthful.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:00:00</a>
 
 provides a brief overview of Muhammad's claim to prophethood, and discusses some of the arguments Muslims use to support this claim. It also recommends reading about Muhammad's life and teachings in order to get a better understanding of his message.
 

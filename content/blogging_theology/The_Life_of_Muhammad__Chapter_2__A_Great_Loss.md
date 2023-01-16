@@ -24,7 +24,7 @@ https://twitter.com/freemonotheist
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('0')">00:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:00:00</a>
 
 The video tells the story of the rise of idol worship in Mecca and the eventual destruction of the well of Zamzam. This event had a profound impact on Muhammad and the other Abrahamic religions.
 

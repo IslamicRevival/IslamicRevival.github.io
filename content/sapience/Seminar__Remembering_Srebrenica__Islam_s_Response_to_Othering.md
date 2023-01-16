@@ -11,7 +11,7 @@ Seminar: "Remembering Srebrenica: Islam's Response to Othering" by Dr. Osman Lat
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 This seminar discusses the history of othering, specifically how Bosnian Muslims were otherized during the genocide in Bosnia. It also discusses the Spanish Inquisition, in which Muslims were portrayed as Saracens, Hagarians, and Hagarine Beasts.
 
@@ -27,7 +27,7 @@ This seminar discusses the history of othering, specifically how Bosnian Muslims
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The seminar discusses how the language of dehumanization was used to describe Muslims throughout the centuries. It discusses how the Spanish Inquisition and other official documents referred to Muslims as pests, plagues, and beasts.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** This seminar discusses how Islam's response to othering has led to events such as the siege of Sarajevo and the Rwandan genocide. It also discusses how violence and othering can lead to a dehumanizing of an opponent, which can make it easier for perpetrators to commit atrocities.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** <>
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('4500')">01:15:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:15:00</a>
 
 The seminar discusses the idea of "othering" and how it can lead to violence and genocide. The presenter discusses how the teachings of the Qur'an can be used to combat hate and discrimination. The talk ends with a discussion of a Quranic lesson on the importance of remembering the great loss of life during mass atrocities.
 

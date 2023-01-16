@@ -64,7 +64,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('900')">00:15:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:15:00</a>
 
  discusses the Islamic concept of miracles, which refers to an inimitable act that cannot be explained by human beings or nature. The evidence for these miracles comes from the prophets and messengers sent by God, whose evidence cannot be replicated. When individuals witness one of these miracles, they are fully aware that it is not something that can be done by human beings alone.
 

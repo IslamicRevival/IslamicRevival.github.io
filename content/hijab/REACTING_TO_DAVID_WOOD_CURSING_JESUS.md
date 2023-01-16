@@ -19,7 +19,7 @@ https://twitter.com/InitiativeSalam
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 David Wood curses Jesus and is challenged by friends to explain himself. He doesn't seem to have a clear answer, and his lack of understanding of Christianity is evident in his arguments against Islam.
 

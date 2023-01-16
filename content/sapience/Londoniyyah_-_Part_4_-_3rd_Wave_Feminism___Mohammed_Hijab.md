@@ -25,7 +25,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3300')">00:55:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:55:00</a>
 
  discusses some of the key concepts of third wave feminism, including intersectionality and post-modernism. It critiques the movement for not taking into account the complexities of different intersections of identity, and for not adhering to medical definitions of terms such as "srs."
 

@@ -17,7 +17,7 @@ Facebook: https://www.facebook.com/brothermohammedhijab/
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('900')">00:15:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:15:00</a>
 
  "William Lane Craig's Bible Dilemma Worries Christians" discusses the problem of contradictions in the Bible and how they can be interpreted allegorically. Craig argues that even if one goes allegorical, they still have the problem of contradictory metaphors.  discusses the difficulties Christians face when trying to reconcile two contradictory metaphors in the Bible.
 

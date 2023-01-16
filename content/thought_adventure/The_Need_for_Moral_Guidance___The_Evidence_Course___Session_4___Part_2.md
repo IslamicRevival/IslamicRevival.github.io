@@ -64,7 +64,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('900')">00:15:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:15:00</a>
 
  the presenter discusses the need for moral guidance, and how humans often rely on assumptions about life and morality to make decisions. He points to two examples of contradictory moral views - murder being a greater crime than rape, and bestiality being a lesser crime. argues that humans have always differed in their opinions on morality, and that this means that there is no one correct answer to questions of morality. Instead, people should look to Allah for guidance on how to live their lives.
 

@@ -27,7 +27,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3300')">00:55:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:55:00</a>
 
 Mohammed Hijab discusses the theory of historical materialism and how it relates to the ideas of Marx. He explains how surplus value is created in capitalism and how this can lead to exploitation of workers. Hijab argues that a different kind of system, in which the government owns the means of production, would be more beneficial to the workers.
 

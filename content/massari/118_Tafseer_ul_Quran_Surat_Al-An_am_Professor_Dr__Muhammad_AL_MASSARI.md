@@ -18,7 +18,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  is a lecture by a respected scholar on the different schools of thought regarding the interpretation of the Quran. The scholar points out that the level of depth of understanding found in some of the more traditional schools of thought is not coincidental, and that this superficiality is a result of not having a deeper understanding of the Quran itself. He also points out that some of the more popular Islamic preachers, such as Zakir Naik, are not as knowledgeable about the Quran as they should be. The lecture concludes with a discussion of the Egg of the Ostrich, a comparison of the Airship to an ostrich, and the importance of managing the Quran correctly.
 
@@ -34,7 +34,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the idea that in a calamity, the only thing that can help is Allah. It goes on to say that in certain cases, atheists may resort to invoking God in order to cope.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** discusses how Allah uses various forms of hardship and misfortune to push people down and make them humble themselves. The examples given are of prophets and people in previous eras, and how few of them ever responded positively to Allah's messages.  also mentions how some people in the present day are misguided and are engulfed by smoke and folk, which is a metaphor for how they have become stubborn and unresponsive to Allah's messages.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses how some early Muslims believed that the Prophet Muhammad's arrival would bring an end to all societal conflicts and that all people would be able to live in peace and harmony. However, the video points out that this did not happen, and instead, Muslims experienced tremendous turmoil and division due to disagreements over religious beliefs.  concludes by discussing how this pattern of disagreement and conflict is still evident in today's society.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('6300')">01:45:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:45:00</a>
 
  contains a lecture by Professor Dr. Muhammad Al Massari on the interpretation of the Quran. He discusses how the gates to everything the people desired in the past were closed abruptly, and how this is a sign of Allah's mercy. The cycle of hardship will eventually come to an end, and the people of the Book will be rewarded for their faith.
 

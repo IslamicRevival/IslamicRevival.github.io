@@ -17,7 +17,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2700')">00:45:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:45:00</a>
 
  discusses the Quran's origins and poetic properties. Dr. Mustafa Khattab points out that the Quran is composed of 2000 roots, making it easy to understand for non-Arabic speakers. He also provides a website where people can access the Quran in Arabic.
 

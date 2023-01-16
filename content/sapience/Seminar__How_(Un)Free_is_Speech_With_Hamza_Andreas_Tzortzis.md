@@ -13,7 +13,7 @@ The seminar will cover the objectives of freedom of speech, its limits, the role
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 This seminar discusses the importance of using wisdom when discussing freedom of speech. argues that free speech is not absolute, and that it should be linked to values in order to be truly effective. He also discusses how different interpretations of free speech can lead to tension and hypocrisy.
 
@@ -29,7 +29,7 @@ This seminar discusses the importance of using wisdom when discussing freedom of
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the concept of freedom of speech, noting that it does not exist in an absolute sense. Every society has limitations on speech, based on a competition of values. For example, in France, political cartoonist Maurice Cine was fired for his cartoons mocking the relationship of former French President Sarkozy's son with a wealthy jewish woman.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the objectives of freedom of speech, and how it is not always valued for its own sake, but rather for its ability to facilitate progress and justice. It also explains how restrictions on speech can lead to tyranny, and how values should be prioritized when making decisions about restrictions.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** In this seminar, Hamza Andreas Tzortzis discusses the importance of free speech and its relation to the objectives of freedom of speech. He argues that insults can often prevent people from acquiring truth and progress.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('6900')">01:55:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:55:00</a>
 
  Hamza Andreas Tzortzis discusses how (un)free speech can lead to genocide, as demonstrated by Nazi Germany and Rwanda. He argues that freedom to degrade and insult can go against the objectives of free speech, and can actually be counterproductive, leading to social discord and genocide.
 

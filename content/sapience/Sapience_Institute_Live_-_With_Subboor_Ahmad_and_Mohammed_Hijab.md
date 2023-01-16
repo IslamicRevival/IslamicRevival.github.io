@@ -11,7 +11,7 @@ Sapience Institute Live - With Subboor Ahmad and Mohammed Hijab
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 The Sapience Institute holds a live stream in which they discuss various misconceptions about Islam. They argue that some of the miracles in the Quran are metaphysical, and that it is unscientific to believe in Islam. They also discuss the Flat argument, and how it is a fallacy of equivocation. In conclusion, they submit to the commands of Allah and follow His interpretation of equality.
 
@@ -27,7 +27,7 @@ The Sapience Institute holds a live stream in which they discuss various misconc
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the difference between atheists and believers in regards to their understanding of the concept of "nothing." Atheists believe that something can come from nothing, while believers believe that nothing exists. asserts that this argument is a fallacy of equivocation because what "nothing" means to the atheists is not the same as what "nothing" means to the believers.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the objection to the existence of meaning in the universe raised by quantum characters. He explains that this objection is an assertion rather than an argument, and that there is no evidence for it. He goes on to say that if meaning is something which is purely environmental, then natural selection cannot account for it. He asks the audience to remember the way evolution works, and points out that if meaning is something which develops due to the environment, then it would not be stable over long periods of time. He concludes by asking the audience to dismiss the assertion without evidence.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses how equality is different between men and women and how feminism and egalitarianism are at odds with each other. He argues that we should submit to the commands of Allah and follow His interpretation of equality.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
 In the "Sapience Institute Live" video, Subboor Ahmad and Mohammed Hijab discuss a variety of topics related to Islam. They discuss the inconsistency of the Quran, the concept of deism, and the existence of Adam. They also answer questions from viewers about these topics.
 
@@ -43,7 +43,7 @@ In the "Sapience Institute Live" video, Subboor Ahmad and Mohammed Hijab discuss
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** argues that because the Quran speaks about naturalistic phenomena, it is a miracle. goes on to say that while other ancient texts do not have this privilege, islam is unique in that it has a precedent for interpreting the Quran in a way that is concurrent with 21st century cosmological understandings.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** tells the audience that he has found two good arguments against deism, one from a Muslim perspective and one from a Christian perspective. He recommends that anyone interested in the topic read Bassam Zawadi's article on deism.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses the concept of deism, which is the belief that God created the world and left it to run on its own. argues that deism is not a consistent belief because it would mean that God is doing something superfluous that has no meaning or purpose. also argues that the verses of the Quran support the idea that God is always involved in the running of the universe, which makes deism untenable.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('9000')">02:30:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:30:00</a>
 
 the panelists discuss the history of evolution and the role of Muslim scholars in this field. They also discuss the idea that non-collaborative manuscripts with pictures on them can have errors. Finally, they discuss the question of whether or not things that are measured to be the same are, in fact, the same ontologically.
 

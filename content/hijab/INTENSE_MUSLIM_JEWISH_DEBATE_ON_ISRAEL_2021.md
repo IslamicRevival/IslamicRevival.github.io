@@ -11,7 +11,7 @@
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2400')">00:40:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:40:00</a>
 
  two Muslims debate the issue of Israel and Palestine. The first Muslim argues that, because of the recent violence in Gaza and East Jerusalem, the Israeli government is "catastrophic" for the people there. The second Muslim argues that condemnation of violence and death is important, and that the two sides should be able to live together in peace.
 

@@ -9,7 +9,7 @@ This is a brief talk about the concept justice as per the religious, or more spe
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  discusses the idea that justice can be objectively realized in different ways, depending on one's perspective. argues that from a Muslim perspective, offering evidence is the best way to achieve justice.
 

@@ -13,7 +13,7 @@ The Daily Mail article here: https://www.dailymail.co.uk/news/article-10101671/F
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 The author argues that both Islam and Christianity are under threat from radicals who are eroding traditional values. The author recommends that Muslims prioritize faith and values over social approval in order to protect their religion.
 

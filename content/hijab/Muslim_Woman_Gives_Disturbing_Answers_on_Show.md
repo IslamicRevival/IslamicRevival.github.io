@@ -23,7 +23,7 @@ Please donate and help establish this Masjid and earn your reward ➡ https://ww
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1200')">00:20:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:20:00</a>
 
 "Muslim Woman Gives Disturbing Answers on Show", a Muslim woman gives disturbing answers about Islam. She argues that men are meant to be the managers of the household and protectors of women, but because of what men gave women over the years, it is contradictory to an Islamic point of view. Additionally, she believes that feminism is like another religion with different presuppositions and assumptions.
 

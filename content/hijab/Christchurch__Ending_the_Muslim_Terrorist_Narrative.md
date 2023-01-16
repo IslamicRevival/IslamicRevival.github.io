@@ -9,7 +9,7 @@ This video exposes the humiliating double standards of right wing propagators. T
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  discusses how the Christchurch terrorist attack was motivated by both ideology and emotion, and argues that the right wing needs to change its discourse on immigration and Islam in order to prevent future terrorist attacks. wants to end the Muslim terrorist narrative by having discussions and debates about points of tension in controlled settings.
 

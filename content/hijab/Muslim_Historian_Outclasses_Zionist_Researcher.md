@@ -15,7 +15,7 @@ Full debate on SCDawah Channel - ***Must Watch*** https://youtu.be/DyxzVqNIQ8g
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('900')">00:15:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:15:00</a>
 
  discusses the claims of a Muslim historian who, according to the narrator, outperforms a Zionist researcher in terms of scholarship. The Muslim historian's testimony was true in both court cases and in his overall career, while the Zionist researcher achieved prominence in Islamic society but was honest about the persecution of Jews. The narrator points to examples of persecution that the Muslim historian has experienced, which are supported by the letter of Maimonides. If the letter is authentic, it would suggest that Maimonides was truthful about his experiences of persecution.
 

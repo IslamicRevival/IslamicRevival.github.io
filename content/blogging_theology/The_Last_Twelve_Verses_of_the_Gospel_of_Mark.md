@@ -13,7 +13,7 @@ I explain why.
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('0')">00:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:00:00</a>
 
 Discusses the theory that the last twelve verses of the Gospel of Mark were added by later scribes, and explores the possibility that the original ending of the gospel did not include the story of Jesus' resurrection.
 

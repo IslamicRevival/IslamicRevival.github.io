@@ -69,7 +69,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  the author discusses the difference between reality and what people believe reality to be. He argues that reality is what everyone believes it to be, and that it doesn't really give us any information to work with. He goes on to say that reality exists because that would be existence exists, and that the fundamental nature of that what differentiates your view from mine is called experience we share a reality. then asks the listener if they accept stage one cosmological arguments, which take one to a necessary being. The listener says that they do, and that as long as the perspective is natural, they are fine with it. then asks the listener if they are agnostic about whether reality is natural or not, to which the listener says that as long as the perspective is natural, they are okay with it.
  discusses the idea of god, specifically discussing whether or not it has a mind. It concludes by saying that, in order to make a claim about the mentality or mental activity of a god, one must assume a physicalist theory of mind.

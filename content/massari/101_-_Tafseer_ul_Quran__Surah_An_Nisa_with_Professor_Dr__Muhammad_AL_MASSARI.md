@@ -15,7 +15,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the different interpretations of Surah An Nisa, with a focus on the Professor Dr Muhammad AL MASSARI's view. He argues that the Quran is a book that is meant for all people, not just prophets. He also discusses the ranking of the prophets and how it relates to the claims of the Jews and Christians.  finishes with a discussion of the language and style of the Quran.
 
@@ -31,7 +31,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the idea that prophets are able to access special knowledge without actually knowing about it. This knowledge comes to them directly from God, and is not something that prophets are aware of.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the importance of knowing who the angels are and their role in witnessing Allah. It also discusses the destiny of those who reject Allah, and their condemnation.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the importance of understanding the Qur'an's Surah An Nisa, which discusses the fate of those who reject the truth and evil doers. It also discusses the possible destinations for those who reject the truth and evil doers.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('5400')">01:30:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:30:00</a>
 
  Professor Dr. Muhammad AL MASSARI discusses Surah An Nisa and its importance in Islamic inheritance laws. He explains that while people used to mistakenly think that fractions were a necessary part of understanding the Quran, the real issue is that many people do not know how to do basic math. He assures the viewer that he will keep the secret of this information until the next meeting, and encourages viewers to study the Quran for themselves to truly understand its teachings.
 

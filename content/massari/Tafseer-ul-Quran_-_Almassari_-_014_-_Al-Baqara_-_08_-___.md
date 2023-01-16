@@ -15,7 +15,7 @@ Misconceptions of Munafiqeen
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  Tafseer-ul-Quran - Almassari - 014 - Al-Baqara - 08 - تفسير سورة البقرة discusses the difference between believing in Allah and being a believer. It explains that some people who embraced Islam did not immigrate, but stayed with their own people, and fought alongside the Muslims. When the Muslims were fighting against other tribes, some of these people became apostates, because they were not fully committed to the faith. However, even after they apostatized, they are still not believers, according to Allah's judgement. It is important to be aware of this distinction, in order to better understand all the issues surrounding the Quran.
 
@@ -31,7 +31,7 @@ Misconceptions of Munafiqeen
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** discusses the dangers of relying on reason alone to understand religious texts, and argues that people can be deceived by their own false understanding of religion. He goes on to say that successful deceivers often disguise themselves as believers in order to gain access to secret information, and that this can lead to disastrous consequences for the deceived.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** discusses how some people have deficient beliefs about Islam, which leads to them deceiving themselves. He goes on to say that true believers should have strong beliefs in Allah and be willing to face hardship in order to enter paradise.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** discusses how he believes that people can fail the test of faith if they do not understand Allah correctly. He says that this deficiency is widespread in Christianity, and that it can lead to people being unlucky in life. He also mentions how one day his dog died, and how this incident made him realize that god does not exist.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:00:00</a>
 
 in this video discusses the dangers of atheism and Christianity from the perspective of iman and kophor. He goes on to discuss the various aspects of atheism, and how it can be understood from the perspective of iman and kophor. Next, he discusses the danger of the jews and one African's relationship with them, and how Muslims should be aware of the dangers involved. Finally, he discusses the importance of understanding atheism and Christianity from a perspective of iman and kophor, and recommends that Muslims ask questions if they have any related to the discussion.
 

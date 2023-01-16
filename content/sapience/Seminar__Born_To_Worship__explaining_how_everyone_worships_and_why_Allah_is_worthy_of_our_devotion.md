@@ -11,7 +11,7 @@ A da’wah seminar explaining how everyone, including atheists, worship somethin
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  seminar discusses the concept of worship and why Allah is the only deity worthy of devotion. According to the presenter, worship of Allah is a form of associationism, which is the gravest sin. Allowing ourselves to be mislead by other deities and failing to repent from our sins means that we will be punished by Allah. Those who repent and believe in Allah will have their sins forgiven and will have their evil deeds turned into good deeds.
 
@@ -27,7 +27,7 @@ A da’wah seminar explaining how everyone, including atheists, worship somethin
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the difference between the biblical God and Allah, and how Allah is more forgiving. He goes on to talk about how repentance and good deeds can lead to Allah forgiving a person. Finally, the speaker explains that because islam is our father, Allah also teaches us the words of forgiveness.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The presenter discusses the concept of "associationism" and its relation to the sin of ingratitude. He then goes on to explain why associating partners with Allah is the gravest sin and the greatest injustice. Finally, he provides a brief overview of the philosophy of worshiping Allah.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the concept of worship, which is to know Allah to love Allah, to obey Allah, and to direct all acts of worship to Allah alone. It discusses how the concept of worship can be universalized in the Islamic tradition to include love for one's nation, extreme nationalism, and one's spouse.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('6000')">01:40:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:40:00</a>
 
  discusses the idea that everyone worships something, and that Allah is the most worthy of our devotion. It also describes how people can become obsessed with their favorite football team or celebrity, and how this can lead to conflicts with friends and family.
 

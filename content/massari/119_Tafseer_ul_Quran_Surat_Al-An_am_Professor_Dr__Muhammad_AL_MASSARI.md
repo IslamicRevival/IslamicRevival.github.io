@@ -18,7 +18,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the concept of accountability in Islam, in which everyone has to communicate with Allah directly and make their own account with Him. It also discusses the idea that there is no one who can forgive someone else's sins for them, and that one's relationship with Allah is established by oneself.  ends with a reminder that God knows best who is grateful to Him.
 
@@ -34,7 +34,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the different translations of the Arabic word "jahadah," which is translated as "transition." It states that the word is wavering and not good, and that it is used to describe someone who is in a state of ignorance or insanity. It provides a hint that those who deliberately sin, or who study sin for entertainment, are not truly believers. This weakens the warning of the Quran, as it makes it easier for people to make mistakes.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The professor discusses the different types of repentance and how they apply to Muslims. He stresses the importance of repentance and corrective action being taken, as those who rebel against Allah will not be forgiven.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the various positions on Surat Al-An'am among Muslims, and how these positions can often lead to disputes. It goes on to say that the Quran leaves the interpretation of these verses up to humans, and that there is no one right answer.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('6600')">01:50:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:50:00</a>
 
  Professor Dr. Muhammad AL MASSARI discusses the concept of tafseer ul Quran, or the interpretation of Quranic verses. He states that attributing any form of deity to Allah or the Prophet Muhammad is forbidden, and that anyone who does so is misguided. He goes on to say that the three fundamentals of faith – belief in Allah, submission to his commands, and having a fundamental will to obey him – are all necessary for salvation.
 

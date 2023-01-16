@@ -27,7 +27,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  Mohammed Hijab discusses the works of al-Ghazali, a medieval scholar and philosopher. Al-Ghazali argued that there is an "infinite regress" in the understanding of reality, meaning that humans can never fully understand or comprehend reality. He also argued that humans need to focus on smaller, more manageable goals in order to achieve true happiness.
 
@@ -43,7 +43,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  Al Ghazali discusses the impossibility of an infinite regress, arguing that if we keep breaking something down, we must eventually reach a "simple thing" that has no beginning and cannot be broken down any further. He says this is why the idea of an infinite universe is problematic, as it would mean that anything has a cause and therefore cannot exist without it.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>**  physicist Roger Penrose discusses the fine tuning of the universe. He argues that if the second premise of the argument, that the universe had a beginning, is not true, then the argument cannot be used to prove the existence of God. Penrose says that even if someone is a good physicist, they will have difficulty defending the argument if it is longer to make the argument but easier to defend.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  William Lane Craig uses the argument against infinity to show the impossibility of an infinite regress. He then asks the audience to think of an argument which will encapsulate both telekeeb and anti-infinite-regress arguments.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3900')">01:05:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:05:00</a>
 
  discusses the impossibility of an infinite regress, and how this argument can be used to support the existence of God. It covers the history of the argument, and how William Lane Craig is the only person to have successfully defeated its opponents in a debate. suggests that critics of this argument might argue that energy cannot be created or destroyed, but they can reformulate the argument to say that the potential for destruction exists even in the present state of the object.
 

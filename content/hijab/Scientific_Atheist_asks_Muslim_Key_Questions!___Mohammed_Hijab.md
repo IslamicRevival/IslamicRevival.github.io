@@ -13,7 +13,7 @@ Video compliments of 'Abu Zarrar' youtube channel.
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  "Scientific Atheist Asks Muslim Key Questions!" features a discussion between a Muslim and an atheist about the validity of objective morality. The Muslim argues that objective morality cannot be right because it is based on the assumption that Muslims believe in something that is wrong, and the atheist argues that science can help us find certainty in our understanding of the world.
 

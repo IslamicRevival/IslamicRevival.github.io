@@ -26,7 +26,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3300')">00:55:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:55:00</a>
 
  Mohammed Hijab discusses the differences between materialism and naturalism. He explains that while materialism is the assumption that everything is material, naturalism is the assumption that we don't assume that god exists when we do scientific experiments. He also discusses the different strands of materialism, including emergent materialism, reductive materialism, functionalism, and logical positivism. He also discusses the arguments against materialism and how morality is inaccessible to materialists. Finally, he talks about how robots and artificial intelligence are good examples of materialism in action.
 

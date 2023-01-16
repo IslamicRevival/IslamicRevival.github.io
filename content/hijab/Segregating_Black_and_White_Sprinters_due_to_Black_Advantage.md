@@ -11,7 +11,7 @@ This video argues that second-wave feminist objections to women and men particip
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  the author argues that, because of black athletes' biological and anatomical advantages in sprinting, they should be segregated from white athletes. However, feminists argue that, in order to achieve equality in all spheres of life, there should be no exceptions to this rule in regards to sports.
 

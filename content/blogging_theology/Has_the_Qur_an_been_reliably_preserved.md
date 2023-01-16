@@ -16,7 +16,7 @@ https://www.cambridge.org/core/books/cambridge-companion-to-the-quran/C396A0E0B9
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 The video discusses the reliability of the traditional Muslim narrative that the Quran was received and compiled by Prophet Muhammad directly from God. The leading Western experts on the Quran say that the traditional story is supported by evidence and has been discarded by scholars as a radical revisionist attack.
 

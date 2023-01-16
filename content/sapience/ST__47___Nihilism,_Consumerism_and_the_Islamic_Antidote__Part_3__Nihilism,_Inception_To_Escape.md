@@ -25,7 +25,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('900')">00:15:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:15:00</a>
 
  is the third in a series on nihilism. It discusses the views of philosopher Friedrich Nietzsche on nihilism and how he attempted to address the problem. Nietzsche believed that religion was not a good way to deal with nihilism, and he instead advocated for a return to ancient Greek values.
 

@@ -19,7 +19,7 @@ Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 Joe Rogan and Richard Dawkins discuss atheism and Islam, with Dawkins saying that atheism is becoming more popular and that Islam is dying. Rogan asks Dawkins if he agrees that atheism is rising in the Muslim world, to which Dawkins responds that he does, but that it's methodologically flawed. Rogan also points out that Dawkins is 78 years old and irrelevant, and that the atheist argument has not taken off in the Western world the way that he predicted.
 

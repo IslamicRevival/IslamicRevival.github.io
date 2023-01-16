@@ -19,7 +19,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 , Logan Paul and Mike Tyson discuss death and religion. Paul says that he is not afraid of death, and that he believes in Islam. Tyson says that he is an atheist and does not believe in any gods. They discuss which religious book is the correct one, and Paul says that the Quran is the word of God.
 

@@ -23,7 +23,7 @@ Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 The Muslim community is displeased with the comedian's decision to mock Christchurch victims. They believe that he has not done a referendum on 1.8 billion people, and that the Quran itself says that what has God benefit with your punishment if you are thankful. They invite the comedian to Islam, where they believe he will find eternal happiness.
 

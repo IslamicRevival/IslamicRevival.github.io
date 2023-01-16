@@ -69,7 +69,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the Trinity and argues that it is a logical possibility that can be believed by rational people.  goes on to say that there are plausible explanations for why the Trinity might exist, including the possibility that it is a logical possibility.
 
@@ -85,7 +85,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the concept of 'god' and whether or not it makes sense. The presenter argues that god is logically possible, and that without him, reality would be meaningless. He goes on to say that even though people may have incoherent beliefs about god, this does not mean that he is not a necessary being.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The Trinity is a difficult concept to understand, and some people believe that it is incoherent. The discussion is about whether or not the Trinity makes sense and whether or not it is possible for God to be free. Camden argues that it doesn't matter what the topic of discussion is, as the epistemology (the way in which we believe) of those who believe in the Trinity is wrong.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** of the YouTube video argues that the trinity is not logically incoherent, and that it can be plausibly believed by rational people. He goes on to say that there are plausible explanations for why the trinity might exist, including the possibility that it is a logical possibility.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
 , two advocates for the Trinity argue that the doctrine of the Trinity does not logically lead to polytheism. One advocate points out that if one defines the persons of the Trinity as being identical to one another, then one falls into modalism, while the other argues that defining the persons of the Trinity as being separate from one another results in social trinitarianism or a version of polytheism. Neither advocate argues that the Trinity makes sense.
 
@@ -101,7 +101,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>* Discusses the difference between the Trinity and the idea of a necessary being, and argues that the latter is a problem because it leads to metaphysical questions that cannot be answered. Brother Sharif mentions that the Muslim scholars have addressed this issue.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** The Trinity is a mystery that Christians cannot fully understand, and in conversations about it, they often shift the goalposts. Justin Satriano, one of the guests on the Thought Adventure Podcast, came up with an argument that the Trinity cannot be logically refuted.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** The Trinity is a mystery to some, but it makes sense within the context of absolute divine simplicity. Bohmian mechanics is a physical theory that can explain the double slit experiment without the need for additional physical entities.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('9600')">02:40:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:40:00</a>
 
 The Trinity is a concept that is often debated, with some people claiming that it makes sense and others claiming that it does not. In this episode of the Thought Adventure Podcast, the hosts discuss the appeal to mystery in Christianity and Islam and how it avoids ontological and metaphysical costs in one's faith. They also discuss how Jesus is limited in his being, and how this might limit God.
 

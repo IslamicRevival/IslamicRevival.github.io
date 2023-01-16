@@ -11,7 +11,7 @@ Free book: https://sapienceinstitute.org/theburhan/
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('900')">00:15:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:15:00</a>
 
 Eben Tamiya argues that the contingency argument can be used to refute the attributes of God. He also discusses the cosmological fallacy, and how if you put together things which are non-existent, it does not make them exist.
 

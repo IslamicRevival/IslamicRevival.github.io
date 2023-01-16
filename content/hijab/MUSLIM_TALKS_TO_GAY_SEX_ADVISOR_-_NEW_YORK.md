@@ -11,7 +11,7 @@ Salam alaikum, peace be upon you all. If you have benefitted then please do shar
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1200')">00:20:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:20:00</a>
 
 The man in this video talks to a gay sex advisor about how Islam views sex and the risks of transmitting diseases through sexual activity. He points out that some diseases can be transmitted through blood movement or even from other insects. He asks the advisor if he would mind if he asked the man's last name. The advisor politely declines, thanking the man for his time.
 

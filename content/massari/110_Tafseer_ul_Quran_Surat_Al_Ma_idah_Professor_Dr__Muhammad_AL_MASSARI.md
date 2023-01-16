@@ -18,7 +18,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  Professor Dr. Muhammad Al Massari discusses various concepts relating to the Quran and Islam. He argues that some contemporary philosophers are attempting to reinterpret the Quran in a way that is far from its original meaning, and that this interpretation is contradictory and unsupported by evidence. He also discusses the idea that the universe may have been created by a Divine being, who is free and has the necessary knowledge and power to do so.
 
@@ -34,7 +34,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The professor discusses the argument that Allah knows things in advance, and how this argument is irrefutable.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** This YouTube video, featuring Professor Dr. Muhammad Al Massari, discusses how some contemporary philosophers are attempting to reinterpret the Quran in a way that is far from its original meaning. Al Massari points out that this interpretation is contradictory and unsupported by evidence.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** discusses the idea that the universe may have been created by a Divine being, who is free and has the necessary knowledge and power to do so. He points out that this concept is contradictory, and ultimately leads to the conclusion that the universe may not be loving towards humanity.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  features a critical scholar who analyzes the reliability of various hadith narrators and has determined that many of them are "fabricated." He goes on to discuss the origins of fatalism in Islam, explaining that it was likely encouraged by "simple-minded" narrators.  also discusses the persecution of scholars who disagreed with Muhammad al Massari's interpretation of Quranic verses, and how this persecution has continued throughout history.
 
@@ -50,7 +50,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>**  describes how a ruler should obey even if he commands haram, as long as he is acting according to orders from Allah. It also discusses the importance of a ruler's guardianship of the faith, and how this is not an exclusively Muslim concept. Finally, the video discusses how a ruler's power is not unlimited, and how he is subject to criticism and oversight.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>* Discusses how Prophet Muhammad (PBUH) was not allowed to have any dominance or control over the people in Makkah, and how he was not allowed to force anyone to believe in him. It goes on to say that he was only allowed to seek refuge from the people, and that he did not establish a state or have any authority above them. Finally, the video reviews the argument for and against studying Quran, and concludes that it is important to start from zero and avoid making assumptions.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** The narrator explains that the Quraishi tribe was not under Muhammad's command and that it was better for him to call for consultation before starting a war with them. He also mentions that the Quraishi could have said they didn't want Muhammad to fight them outside of Medina, but they didn't.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('10800')">03:00:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-03:00:00</a>
 
  Professor Dr. Muhammad al Massari discusses the meaning of Surat Al Ma'idah and how it applies to current events. He also discusses the importance of following Allah's commandments and warns of the dangers of murder. He concludes the video by stressing the importance of referring issues of war and peace to the head of state.
 
@@ -66,7 +66,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 * **<a onclick="modifyYTiframeseektime('9900')">02:45:00</a>** The professor discusses the differences between Islamic and Western views on female modesty, explaining that while the Islamic view is that women should cover their entire body except their face and hands, the Western view is that women should only cover their face and hands. He goes on to say that, even though the Western view is more tolerant, it is still not permissible for women to go topless in public.
 * **<a onclick="modifyYTiframeseektime('10200')">02:50:00</a>** discusses the idea that Allah knows what people will choose in the past and what their choices will lead to, and that He is not surprised by them. He also discusses the idea that Madina is better than Mecca, despite the fact that it is not expressed very clearly in the Quran.
 * **<a onclick="modifyYTiframeseektime('10500')">02:55:00</a>** The presenter gives a short summary of a video in which a professor discusses the concept of pre-knowledge and Allah's knowledge. He goes on to say that the traditional understanding of Muslim Scholars is that Allah knows things but his knowledge is not necessarily here in this world, and that some choices are allowed to happen even if they are not necessarily knowable.
-### <a onclick="modifyYTiframeseektime('10800')">03:00:00</a> - <a onclick="modifyYTiframeseektime('10800')">03:00:00</a>
+### <a onclick="modifyYTiframeseektime('10800')">03:00:00-03:00:00</a>
 
 the professor discusses how time can be viewed as a possibility, and how knowledge would follow if a decision were made to bring a thing into existence. He goes on to say that this is how Allah views time, and that everything that exists does so because Allah has willed it into existence.
 

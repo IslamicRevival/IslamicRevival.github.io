@@ -27,7 +27,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2100')">00:35:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:35:00</a>
 
  Londoniyyah discusses the possibility that Muhammad may have been one of the Jewish prophets. He points out the similarities between Muhammad's teachings and those found in the Bible, as well as the criticism directed towards Londoniyyah for claiming that Muhammad is the same as the biblical prophets. Dr. Ali Atai, a Hebrew scholar, is also interviewed and provides additional information on the subject.
 

@@ -30,7 +30,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the issue of free will and determinism, and how they are incompatible. argues that this is a problem for all schools of thought, and that when debating Christians and Jews, atheists often don't bring up this issue.
 
@@ -46,7 +46,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the principle of difference, which states that there are some things which if two people have the same experiences and whatever it is they were active in, they cannot say that they will act exactly the same way. This establishes the principle of free will. The hadith that is used to illustrate this principle is the one about the rain falling on different parts of the earth and bringing forth different amounts of grass and herbs. Another hadith is about a man who understands the religion of Allah and gets benefit from it, but who doesn't accept Allah's guidance. This hadith is used to illustrate the principle of difference, which states that there are some things which if two people have the same experiences and whatever it is they were active in, they cannot say that they will act exactly the same way.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>**  the speaker explains the problems with libertarian and determinism theories. First, the speaker argues that libertarianism does not have internal consistency, because it does not explain why things have causes and effects. Second, determinism does not have the full explanatory scope needed to explain human free will and the principle of difference. Finally, the speaker explains that the existence of determinism and human free will is impossible, due to these two things contradicting each other.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses how the two things which must exist in order for human free will to exist - independent choice and divine determinism - are not contradictory, but incompatable. They note that this is a problem for all schools of thought, and that when debating Christians and Jews, atheists often don't bring up this issue.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3900')">01:05:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:05:00</a>
 
 Mohammed Hijab discusses how a robust theory of theological determinism can help people cope with difficult events in their lives. He cites a hadith which states that "all of [a believer's] affairs are good," and goes on to say that this is not the case for anyone except for the believer. He also discusses the idea of free will, and how it can help people cope with events in their life that they may see as unfair or undeserved.
 

@@ -11,7 +11,7 @@
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the Islamic tradition of spirituality, focusing on the importance of the heart. It explains that there are four main enemies to inward and outward surrender to Allah, and that one way to achieve this is to be mindful of one's actions and to have sound knowledge of Islamic teachings.
 
@@ -27,7 +27,7 @@
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses Islamic spirituality, specifically discussing how the heart can become encrusted with sin, and how doing good deeds can be counterproductive if not done properly. It goes on to say that many spiritual masters have warned of this and that it is a major issue in our day and age.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses Islamic spirituality, discussing topics such as the heart, soul, and path to God. It explains that there are spiritual blind spots that we need to be aware of, and that these blind spots can lead to problems such as darkening of the heart and addiction to material attractions.  also discusses the enmity of the nafs (the ego) and Shaitaan (the devil), and how Allah helps us avoid following the footsteps of both.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  Islamic scholar Dr. Shuker Muhabba discusses the four main obstacles to obedience to Allah, which are the ego, worldliness, devil, and whims. Dr. Muhabba goes on to discuss the importance of following the obligatory Islamic practices, such as daily prayers, fasting during the month of Ramadan, and performing Hajj. Finally, Dr. Muhabba discusses the importance of having a strong desire to obey Allah and being humble before Him.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('5400')">01:30:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:30:00</a>
 
  discusses Islamic spirituality and the various ways in which one can connect with Allah. It highlights the importance of humility and sincerity, and points out that social media can be a major contributor to the problems of ostentation and forgetfulness of Creation. encourages viewers to adopt a centric mindset in order to overcome these obstacles and maintain a sincere connection with Allah.
 

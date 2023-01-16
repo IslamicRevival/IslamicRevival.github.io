@@ -11,7 +11,7 @@ The Failed Hypothesis? A 'New' Approach in Understanding the Qur'an and Science
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 In "The Failed Hypothesis? A 'New' Approach in Understanding the Qur'an and Science", the presenter discusses how attempts to find modern science in the Qur'an or prove its veracity by way of modern science are fundamentally flawed due to a conceptual confusion produced by various forms of scientism.
 
@@ -27,7 +27,7 @@ In "The Failed Hypothesis? A 'New' Approach in Understanding the Qur'an and Scie
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the alleged miraculous nature of the Qur'an, discussing how certain verses might refer to scientific concepts or knowledge that was not available or discovered at the time of revelation. The first point made is that the knowledge implied by the verses was not available or discovered at the time of revelation, but this is not true. The second point made is that the prophet Muhammad could not have had access to knowledge implied by the verses, which is also false. Finally, the video discusses how the alleged miraculous nature of the Qur'an is based on some flawed historical assumptions and some possible deliberate misunderstandings of history.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the failed hypothesis that the moon was lighted by the sun and that the mountains have roots. The clip also points out that this knowledge was pre-existing in the biblical literature.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the idea that the Prophet Muhammad could not have had access to knowledge implied by Quranic verses, citing established sunnah and historical evidence. He notes that, due to the arab's extensive trading ties, the Prophet Muhammad would have been aware of prevailing medical and scientific practices from other civilizations. Islamic medicine grew to be the best in the world due to this.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('5700')">01:35:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:35:00</a>
 
 The new approach to understanding the Qur'an discussed in the video is based on the idea that the Qur'an is a timeless, four-dimensional entity that speaks to all people. This new understanding shows that the Qur'an is fundamentally about worshipping Allah, and does not rely on specific cultural or historical references.
 

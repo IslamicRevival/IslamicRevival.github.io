@@ -13,7 +13,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 Discusses the differences between the Quran and the Bible in regards to the creation story. Dr. Al-Massari points out that the ancient writers of the scriptures were likely motivated by partisanship and political struggle, and that the concept of "God rested" is logically impossible. He goes on to say that the Quran's insistence on the observance of the Sabbath is grounded in a divine activity separate from God's need to rest.
 
@@ -29,7 +29,7 @@ Discusses the differences between the Quran and the Bible in regards to the crea
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  Dr. Al-Massari discusses the creation story in the Quran vs. the Bible. He points out that the ancient writers of the scriptures were likely motivated by partisanship and political struggle, and that the concept of "God rested" is logically impossible. He goes on to say that the Quran's insistence on the observance of the Sabbath is grounded in a divine activity separate from God's need to rest.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Dr. Al-Massari discusses the differences between the creation story in the Quran and the creation story in the Bible. He points out that the order of creation in the Quran is more reasonable and fits more or less roughly with the geology and paleontology that is known today. He also mentions that some of the details in the creation story are not acceptable and may have been derived from myths.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the differing interpretations of the Garden of Eden, and how the geography of the Garden is unreliable. It also provides an example of how the geography of an empire can be changed by a conversion to Christianity.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  Dr. Al-Massari discusses the differences between the Quran and the Bible. He argues that the Quran is a more sophisticated and philosophically-inventive book than the Bible. He also discusses the different concepts of man being made in the likeness of God, and whether this implies that man is a supernatural being.
 
@@ -45,7 +45,7 @@ Discusses the differences between the Quran and the Bible in regards to the crea
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>* Discusses the origins of the devil and how he was created. It also discusses the Islamic concept of the devil and how it is different from the Christian concept. Finally, the video discusses the devil's role in whisperings and obsessions.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>* Discusses the differences between the Quran and Bible stories of the creation of man. The Quran says that the devil came along to try to trick Adam and Eve into eating from the tree of knowledge of good and evil, but Adam was aware of his mortality and knew that he would die if he ate from the tree of knowledge. The angels, except for one, obeyed God's command and became angels, while the jinn was released from being attached to Adam but was still part of the angels.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>**  Dr. Al-Massari discusses the difference between Quran and Bible with regards to spirituality. He argues that it is not very wise to indulge in studying spirituality for humans because it can lead to confusion and blind faith in matters of the cosmos which are ultimately unknowable. He gives an example of how something like a computer program can have an existence even though it is not material.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('8100')">02:15:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:15:00</a>
 
  discusses the difference between the Quran and the Bible when it comes to the story of Creation. The Quran seems to be more in line with modern scientific understanding of evolution, while the Bible seems to be more focused on the story of Adam and Eve.  also points out that, when it comes to the issue of women's roles in society, the Quran is much more progressive than the Bible.
 

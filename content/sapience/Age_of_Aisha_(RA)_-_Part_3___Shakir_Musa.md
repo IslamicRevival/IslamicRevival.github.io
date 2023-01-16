@@ -27,7 +27,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2400')">00:40:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:40:00</a>
 
 Shakir Musa discusses the age of Aisha when she got married to the Prophet Muhammad. He argues that this age was within the historical bounds of possibility at the time, and that it would be unjust to take that limit away based on factors such as the schooling system, voting, and other historically contingent factors. Musa also brings up some hadiths that suggest that Aisha was intelligent and articulate, and that her speaking abilities were not the result of a child's natural inclination to lie. He concludes the discussion by discussing how a person's perception of the Prophet Muhammad may be affected by their understanding of Aisha's age when she got married.
 

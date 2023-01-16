@@ -27,7 +27,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the different approaches to Islamic belief among the three major sects of Islam: Asharite, Hanbalite, and Maturidite Aqeedah. Asharite and Hanbalite aqeedah emphasize the attributes of God, while Maturidite Aqeedah stresses the attribute of mercy. El Juani, Abu Bakr al-Bakalani, and Amish Heather are all examples of early Islamic scholars who laid the groundwork for systematic theology.
 
@@ -43,7 +43,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses three different aqeedah (religious beliefs) approaches: the Ashari, Hanbalite, and Maturidite. The Ashari position is that we don't know what the meaning of certain Quranic verses are, while the Hanbalite and Maturidite positions are that these verses are affirmations of specific attributes of Allah. The Ashari position has the same consequences as the Hanbalite and Maturidite positions, but the working results are different because the early Salaf had a tough position on the matter. Al-Qaeda is a principle which is consistent throughout the three aqeedah positions, but each one has counter examples.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses three Islamic aqeedah traditions - Asharite, Hanbalite, and Maturidite - and how their teachings differ. He argues that the Creed of the early Muslims was very similar, but the articulations of the teachings were different. Later, Ashari lived in a martesley household and wrote Islamin, which is contested as an author.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the different approaches to Islamic belief among the three major sects of Islam: Asharite, Hanbalite, and Maturidite Aqeedah. Asharite and Hanbalite aqeedah emphasize the attributes of God, while Maturidite Aqeedah stresses the attribute of mercy. El Juani, Abu Bakr al-Bakalani, and Amish Heather are all examples of early Islamic scholars who laid the groundwork for systematic theology.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('5700')">01:35:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:35:00</a>
 
  discusses the three main Sunni Muslim aqeedah schools of thought: the Asharite, Hanbalite, and Maturidite. Each of these schools of thought has a different approach to the Quran, with the Asharite school believing in the earliest interpretation possible, the Hanbalite school believing in the opinion of the most renowned scholars, and the Maturidite school believing in the general consensus of the community.
 

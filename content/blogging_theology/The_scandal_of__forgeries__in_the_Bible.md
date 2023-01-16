@@ -12,7 +12,7 @@ Please consider supporting my work on Patreon: https://www.patreon.com/Bloggingt
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  "The scandal of 'forgeries' in the Bible" discusses how some scholars believe that some of the letters in the New Testament were not actually written by the apostles, but were instead forgeries. This is a controversial topic, as it challenges the authority of the Bible. The video goes on to discuss how the canonization process has led to some texts being considered more authoritative than others.
 

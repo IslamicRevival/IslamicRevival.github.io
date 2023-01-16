@@ -13,7 +13,7 @@ He is probed on how he comes to this conclusion given the ungeneralisable nature
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 the presenter discusses the idea that white people are not inherently smarter than black people, and that the IQ test is not an accurate measure of intelligence. They suggest that an IQ test should not be used to categorize races, because it is based on a flawed social science.
 

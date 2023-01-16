@@ -12,7 +12,7 @@ http://www.historytoday.com/archive/path-peace-inspired-past
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1200')">00:20:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:20:00</a>
 
  discusses the historical context of the conflict between Palestine and Israel. According to scholars, the relationship between the two groups was generally peaceful and cooperative. However, there were occasional instances of violence and aggression on both sides. The main point of the video is that the current situation is not the result of a centuries-long hatred between the two groups, but of recent events, specifically the expulsion of the Jews and Muslims from Palestine in the 1940s.
 

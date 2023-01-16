@@ -11,7 +11,7 @@ Sapience Institute Live - With Mohammed Hijab and Subboor Ahmad
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 The Sapience Institute Live video with Mohammed Hijab and Subboor Ahmad discusses various topics related to Islam, atheism, liberalism, feminism, and religious skepticism. They also touch on the importance of science and how it can be undermined by social theories.
 
@@ -27,7 +27,7 @@ The Sapience Institute Live video with Mohammed Hijab and Subboor Ahmad discusse
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** explains that there is no such thing as philosophy, and that when studying at a Western university, you are studying Western skepticism. He goes on to say that, when studying the Islamic tradition, you will be studying Islamic epistemology and islamic philosophy. Finally, the speaker provides some advice for a Muslim student who wants to pursue philosophy in the West, and recommends some books.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The Sapience Institute Live video features Mohammed Hijab and Subboor Ahmad discussing three subjects that dominate philosophy departments: Islamic epistemology, the purpose of philosophy, and grounding philosophy in Islam. Hijab argues that Muslim philosophers must study Islam first in order to properly approach Western philosophy. Ahmad argues that knowledge is justified true belief, not knowledge itself.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The Sapience Institute Live episode with Mohammed Hijab and Subboor Ahmad discusses the Verse, "The ones who are going out according to this which is the majority opinion the ones who are going out with the prophet are the ones who are referred to as the ones who are learning about the religion." Shaykh Abdul-Rahim Green says that after understanding the Quran's philosophy, one should study it again and again until it becomes a part of you. This advice is similar to that of Shaykh Hijab, who says that one should focus on learning Islam and the Quran simultaneously.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  features Mohammed Hijab and Subboor Ahmad discussing various topics related to Islam and science. They discuss the scientific evidence for the miracles of Islam, the Islamic view of human existence, and how to approach questions of doubt and atheism. They also discuss the Sapience Institute's live stream with Mohammed Hijab and Subboor Ahmad, in which they discuss the Matrix theory of reality.
 
@@ -43,7 +43,7 @@ The Sapience Institute Live video with Mohammed Hijab and Subboor Ahmad discusse
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** talks about how people who believe in string theory often try to escape the inevitability of a creator by positing that there are an infinite number of universes. He also points out that this thinking is based on no evidence, and that even the thought experiment of assigning arbitrary values to certain variables does not prove anything.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** The Sapience Institute live interview with Mohammed Hijab and Subboor Ahmad discusses the Argument of Composition, the Argument of Necessity, and how secularists often try to use science to disprove the existence of Allah. Hijab and Ahmad argue that it was Muslims who were the first to push the scientific method and inductive reasoning, and that they have been persecuted by atheists and secularists alike.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses how, historically, there have been various groups of scientists in the Muslim world. Mohammed Hijab and Subboor Ahmad discuss how, from a theological perspective, muslims can accept heretics, even those who have ideas in opposition to Islam, from a scientific standpoint. They also discuss why many muslims disbelieve in Islam's logic.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('7500')">02:05:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:05:00</a>
 
 in this video discusses the importance of looking at the truthfulness of Islam and the falsehood of disbelief, saying that it is important for Muslims to remember all the good that Allah has done for them, even if they have to attribute some of it to a test. He goes on to discuss the importance of listening to the Qur'an and Prophet Muhammad, stressing the importance of followership over the individual. He concludes with a discussion of how anyone can help bring about change by engaging in dialogues with those in positions of power.
 

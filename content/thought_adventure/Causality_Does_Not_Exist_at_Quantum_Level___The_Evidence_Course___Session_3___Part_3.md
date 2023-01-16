@@ -68,7 +68,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1200')">00:20:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:20:00</a>
 
  scientists discuss the idea that the universe came from nothing. They point out that, according to the laws of quantum mechanics, it is not clear where these fields came from or why the world should have existed in the first place. They also argue that, even if materialistic causation does not exist, there must still be an independent, unlimited creator to have determined the existence of the universe.
 

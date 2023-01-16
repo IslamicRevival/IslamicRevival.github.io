@@ -31,7 +31,7 @@ Week 8: Summary and exam
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses how social conformity can lead to doubts and, in some cases, suicide. It also discusses how people can be socialized to conform to other people's opinions or beliefs, leading to doubts and, in some cases, suicide.  discusses how the line experiment demonstrates the power of social conformity, and how social norms can influence our thoughts, beliefs, and behaviors.
 
@@ -47,7 +47,7 @@ Week 8: Summary and exam
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the line experiment, in which a group of people is asked to choose a line that matches the length of one of three different lines. The experiment shows that, when asked in the presence of others who have chosen the wrong line, a majority of participants will conform to the group. This demonstrates the power of social conformity, and the importance of having friends who are supportive and honest.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses a study that found that the introduction of social norm messages emphasizing that most people eat vegetables with their meal in a workplace restaurant was associated with an increase in the proportion of meals purchased with vegetables.  also discusses how social norms can influence our thoughts, beliefs, and behaviors.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  No Doubt Course instructor Dr. Moira Weigel discusses how social norms are created and based upon what we see and what people we know begin to buy into. She also explains the jelly bean experiment, which demonstrates how people can change their estimates after hearing the opinions of others. Finally, she urges the audience to heed the advice of the Quran, which emphasizes the importance of belief in Divine accountability and the consequences of one's actions.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('4200')">01:10:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:10:00</a>
 
  discusses different strategies for dealing with doubts and negative thoughts, including surround yourself with positive people and choosing your friends wisely.  also provides an analogy of a good companion to a bad one.
 

@@ -17,7 +17,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1800')">00:30:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:30:00</a>
 
  discusses the oppression of the Uyghur people in China by the Chinese government. The Uyghurs are a Muslim minority group who have faced discrimination and displacement.  interviews Uighur activists who are working to raise awareness about the issue and pressure the Chinese government to change its policies.
 

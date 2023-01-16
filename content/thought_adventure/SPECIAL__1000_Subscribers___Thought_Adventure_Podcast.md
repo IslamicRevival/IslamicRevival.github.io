@@ -61,7 +61,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 Thought Adventure Podcast is introducing a new way of interacting with its listeners by having a live chat session every episode. The first episode featured an introduction to the podcast and its aims, followed by a discussion of the problems of logic and the trinity. The next episode was on miracles, and the fourth discussed consciousness. The last episode featured a guest, brother Hamilton, and the episode was not as beneficial as it could have been because many listeners did not understand the subject matter.
 
@@ -77,7 +77,7 @@ Thought Adventure Podcast is introducing a new way of interacting with its liste
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the topic of how muslims are increasingly discussing reason and rationality in relation to the existence of allah, and how this is helping to push muslims to learn these arguments. It also discusses the idea of having a panel discussion with Justin about godfrey will's challenge to god's free will.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The host of the video discusses the recent controversy surrounding a popular atheist YouTuber who has claimed to have converted to Islam. The host argues that the controversy illustrates the different problems that can exist when discussing free will. He also discusses the possibility of live streaming again, as Justin has promised to do in the future.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses how Thought Adventure Podcast plans to increase the number of guests on its panel to four, in order to avoid overcrowding. It also explains how Thought Adventure Podcast does not want to overwhelm its brothers, and invites any brothers who are busy with their own streams to participate.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('4500')">01:15:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:15:00</a>
 
 The Thought Adventure Podcast has reached a milestone of 1,000 subscribers, and  the hosts discuss some of the challenges and rewards of engaging with such a large and diverse audience. They encourage viewers to check out their other channels and to leave feedback in the comments section.
 

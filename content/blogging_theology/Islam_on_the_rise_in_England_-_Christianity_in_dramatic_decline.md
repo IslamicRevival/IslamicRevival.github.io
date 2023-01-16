@@ -11,7 +11,7 @@ Less than half of England and Wales population Christian, Census 2021 shows http
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 Discusses the recent rise in Islam in England, which is in contrast to Christianity's dramatic decline. The Englishman attributes this trend to both immigration and conversion and predicts that, in the future, Islam will become the main focus of monotheistic energy in Britain.
 

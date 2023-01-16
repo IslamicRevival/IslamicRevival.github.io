@@ -11,7 +11,7 @@ Sapient Thoughts #15: Does the Quran refer to the “Big Bang”? | Mohammed Hij
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 of the video argues that the Quran does not refer to the "Big Bang" theory, instead referring to a longer epoch or generational time period. He argues that from a scientific perspective, the theory is underdetermined and shouldn't require Muslims to overcompensate by believing in it.
 

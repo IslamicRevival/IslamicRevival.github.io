@@ -58,7 +58,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the claim that there are many gods, and that some of these gods make sense and have evidence to support them. It then goes on to say that if someone becomes convinced of a particular religion, it can be justified to accept it.  finishes with a discussion of the claim that monotheism is the one true religion, and how it is not observed in many cases by the followers of these religions.
 
@@ -74,7 +74,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the criteria for knowing if a religion is true, and points out that some religions claim to be from God but contradict each other in fundamental ways. It also mentions a possible contradiction in a religion's claims to be monotheistic and valid.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The five criteria for a religion to be from God are: 1) it must have a perfect conception of God, 2) it must be monotheistic, 3) it must have a preserved text, 4) it must have no contradictions, and 5) it must make people's lives better.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses how the Quran claims to be preserved in future tense, how it was preserved in four ways, and how people's understanding of preservation can be improved by considering the author's points about language preservation.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
 discusses how humanity gradually transitioned from polytheism to monotheism, and how this change was based on human instinct and need for simplicity. The guest argues that true finding can be antagonistic to survival, and that this is why evolution selects for survivability instead of true finding.
 
@@ -90,7 +90,7 @@ discusses how humanity gradually transitioned from polytheism to monotheism, and
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** The presenter discusses the idea of morality and where it comes from, and how it is not just individual, but collective as well in Islam. They argue that any religion or way of life that cannot provide this for its followers is false by definition.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>* Discusses the criteria for finding a religion, and argues that the need to worship is an innate quality that is not necessarily based on rationality. It points out that one of the reasons humans are endowed with rationality is to help us investigate and find guidance in our lives.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses the idea that humanity went from polytheism to monotheism, and that this transition was not a sudden change but rather a gradual process that was based on human instinct and need for simplicity. The guest, a professor of neuroscience, argues that true finding can be antagonistic to survival, and that this is why evolution selects for survivability instead of true finding. He also mentions the Lighthouse Project, which is a program that helps people seek answers to personal questions.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('10800')">03:00:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-03:00:00</a>
 
  discusses the idea that some cultures have more evidence for a non-anthropomorphic god than a monotheistic one, and that atheism is an acquired position.  discusses the theory that belief in one god is not innate, and that this is supported by evidence from across history and culture. Dr. Paul Bloom, an atheist, has conducted research which backs up this theory.
 
@@ -106,7 +106,7 @@ discusses how humanity gradually transitioned from polytheism to monotheism, and
 * **<a onclick="modifyYTiframeseektime('9900')">02:45:00</a>* Discusses how a person's beliefs about gods can be based on incorrect criteria. It suggests that rational filters can help in this process by providing a criterion for what makes a belief true or false.  also discusses a stream that will be airing tomorrow, in which a question about Islam will be answered.
 * **<a onclick="modifyYTiframeseektime('10200')">02:50:00</a>* Discusses whether or not all Muslims believe that following Jesus is mandatory, and whether or not this belief is based on scripture. points out that Jesus is also mentioned in the Quran as a source of compassion and mercy.
 * **<a onclick="modifyYTiframeseektime('10500')">02:55:00</a>**  the speaker addresses the question of how to follow Jesus Christ, given that the quran is silent on a large part of his teachings. points out that if the quran is generally silent on a subject, then it follows that what is affirmed is true - in this case, that we should follow Jesus Christ based on what is affirmed in the scriptures. If something is not affirmed, then it raises questions about its authenticity.
-### <a onclick="modifyYTiframeseektime('10800')">03:00:00</a> - <a onclick="modifyYTiframeseektime('11100')">03:05:00</a>
+### <a onclick="modifyYTiframeseektime('10800')">03:00:00-03:05:00</a>
 
  discusses the idea of whether or not it is possible to know the truth about God, given that there are so many different interpretations of who God is. It argues that it is difficult to know for sure, as there is no one source of information that can be trusted.
 

@@ -9,7 +9,7 @@ A really interesting discussion between Muslims and Mormons on racism in the Lat
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1200')">00:20:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:20:00</a>
 
  discusses how Mormons and Muslims are different, and argues that Mormons are wrong and Islam is the correct religion. also points out that Mormons are more organized and disciplined than Muslims, and that Mormons are more likely to provide help when needed.
 

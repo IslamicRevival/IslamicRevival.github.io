@@ -11,7 +11,7 @@ Full episode here: https://youtu.be/eL3FybpUt0s
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 Ayaan Hirsi Ali's work on the link between Muslim immigration and sexual violence is flawed and does not hold up to academic scrutiny. Her work is full of rehashed fascist rhetoric and should not be taken seriously.
 

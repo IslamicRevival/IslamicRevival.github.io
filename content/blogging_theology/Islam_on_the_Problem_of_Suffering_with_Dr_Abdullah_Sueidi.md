@@ -45,7 +45,7 @@ Chapters ::
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 In this YouTube video, Dr. Abdullah Sueidi discusses Islam's view of suffering. He explains that it is based on allah's knowledge, wisdom, and power, and that those who suffer will be rewarded in the afterlife. He also notes that some atheists claim that this doctrine conflicts with their beliefs about objective moral good and evil.
 
@@ -61,7 +61,7 @@ In this YouTube video, Dr. Abdullah Sueidi discusses Islam's view of suffering. 
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Islam teaches that people will be rewarded for their sufferings in this life, and that on the day of judgement, everyone will be judged fairly. This is important to remember when experiencing hardship, as it will help ease the pain.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Islam teaches that those who suffer will receive a greater reward in the afterlife, and that even children who do not know about Islam can go to paradise. Some atheists claim that because Muslims do not punish those who do not know about their religion, Islam is a terrorist religion. However, the Qur'an teaches that Allah will punish those who reject His messages.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Islam teaches that suffering is a part of this world, and that atheists should help alleviate suffering wherever they find it. However, some atheists argue that this doctrine conflicts with their beliefs about objective moral good and evil.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('4200')">01:10:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:10:00</a>
 
 Dr. Abdullah Sueidi discusses how there is no good or evil in an atheistic worldview, and how this can lead to a lack of comfort in the face of suffering. He goes on to say that this lack of comfort is a sign that there is something wrong with the atheist's worldview. recommends Muslims read books on the topic of suffering in order to better understand it and cope with it.
 

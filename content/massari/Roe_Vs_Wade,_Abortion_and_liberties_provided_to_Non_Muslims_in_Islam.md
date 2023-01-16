@@ -34,7 +34,7 @@ https://www.youtube.com/channel/UCoGIB6_SWhLWNP0916iqA7A
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1800')">00:30:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:30:00</a>
 
 Discusses various aspects of Islamic law, including the issue of abortion.  argues that while abortion is technically prohibited in Islam, it is usually a minor issue and should not be a factor in determining a person's religious beliefs.  also discusses the rights afforded to non-Muslim citizens in the event of war, and how they are not obliged to join the military services. Finally, the video discusses how non-Muslim citizens are allowed to practice their religion and dress in a way that is normal for their culture, with one exception - public life should be governed by Sharia law.
 

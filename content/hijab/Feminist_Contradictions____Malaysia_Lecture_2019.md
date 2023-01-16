@@ -13,7 +13,7 @@ It also asks the question - to what extent is Islam compatible with feminism and
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2700')">00:45:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:45:00</a>
 
  discusses contradictions in feminism, specifically focusing on Malaysia's current situation where there is a lack of balance in rights and equality between men and women. It also touches on the issue of maternity leave, which is currently not required in Malaysia but is in England where it is discriminatory. Finally, the speaker discusses the Islamic concept of an all-powerful, all-knowing, and all-wise god, which has exceptions that apply in specific cases.
 

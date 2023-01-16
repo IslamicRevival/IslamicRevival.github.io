@@ -26,7 +26,7 @@ My socials
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the importance of absent fathers stepping up and taking responsibility in order to improve relationships between men and women. It argues that, when men prioritize their spiritual development over their material possessions, women are more likely to be happy in their role as wife and mother.
 
@@ -42,7 +42,7 @@ My socials
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Na'ima B. Robert discusses the negative connotations of the terms "patriarchy" and "beta" and their origins in oppressive systems against women. She also discusses the qualities of compassion and leadership which are associated with beta status, and advises not to desire or aspire to be leaders because this can lead to a sense of dominance and self-assertion.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses importance of men stepping up and taking responsibility in order to improve relationships between men and women. It argues that, when men prioritize their spiritual development over their material possessions, women are more likely to be happy in their role as wife and mother.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Na'ima B Robert, a teacher and someone who is learning, discusses the importance of masculinity and how it relates to religion and cleanliness. She points out how the landscape of relationships has changed and how people need to be more honest about who they are before getting married.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('4200')">01:10:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:10:00</a>
 
  discusses the issue of absent fathers and their impact on families. Na'ima B. Robert discusses how her own experience with her husband and children has changed over time, and how her brothers' marriages and relationships have also been affected. She discusses the negative impacts that pornography and other issues related to absent fathers can have on families.
 

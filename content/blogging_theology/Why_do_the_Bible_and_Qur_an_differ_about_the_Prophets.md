@@ -16,7 +16,7 @@ by Professor Sidney H. Griffith https://www.amazon.co.uk/Bible-Arabic-Scriptures
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 The video discusses the ways in which the Quran's portrayal of prophets and patriarchs differs from that of the Bible. argues that the Quran is more concerned with well-known accounts of the Bible's principle characters than with the Bible itself. He provides quotes from the Qur'an to illustrate his point.
 

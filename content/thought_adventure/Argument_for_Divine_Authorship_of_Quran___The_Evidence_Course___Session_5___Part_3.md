@@ -64,7 +64,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1200')">00:20:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:20:00</a>
 
 argues that the Qur'an was not written by humans, but by a divinely-inspired prophet. He points to verses in the Qur'an that criticize the Quraish people for their beliefs and practices, and argues that this shows that the Qur'an was not written by God. He also points to historical evidence that shows the Quraish were opposed to the message of the Qur'an and the claim of prophethood of Muhammad. If the Qur'an had been written by God, the Quraish would have been unable to resist the challenge it posed. Therefore, the absence of proof that the Qur'an was not written by humans demonstrates that it was indeed written by God.
 

@@ -15,7 +15,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 Muhammad Hijab discusses how liberalism has infiltrated Nigeria and how to stop it. He argues that education is key to countering the effects of westernization. He also claims that the west is not morally superior to other nations and that morality in the west is in decline.
 

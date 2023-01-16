@@ -17,7 +17,7 @@ Paul Williams at Blogging Theology
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  psychiatrist Paul Williams talks about the Islamic perspective on death. He explains that Muslims see death as a natural passage from one dimension of existence to another, and that it is the responsibility of the believer to be prepared for it. He recommends performing wudu, reciting the Quran, and giving charity on behalf of the deceased as ways of helping the deceased to prepare for the hereafter.
 

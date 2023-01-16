@@ -15,7 +15,7 @@ The institution of the Lord’s Supper in 1 Corinthians 11 (NRSV):
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 of the YouTube video argues that the Christian belief in a sacrificial death on the cross is not based on historical evidence, but instead is based on a mystical revelation from an external power. He goes on to say that this belief has created a different religion from the religion of Jesus Christ in many ways.
 

@@ -76,7 +76,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  the presenter discusses the debate between two individuals over the possibility of having the divine nature without aseity. The presenter argues that it is impossible to have the divine nature without aseity, and that Dr. Beau's rebuttals do not follow logically from the eunomian premise.
 
@@ -92,7 +92,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** the presenter discusses the burden of proof and argues that it is not being shirked on him by Jake. He points out that who has the burden of proof in this discussion is unclear, as it seems to be shifted to Jake. He also argues that the metaphysical impossibility of this view is not something that can be easily debunked. Instead, the discussion needs to focus on the questions of what metaphysical laws are being used and what properties are being considered.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** This paper argues that if a theist believes in a deity who is necessary, then their position entails that the deity does not exist. The paper goes on to provide three arguments that support this statement.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** , Jake responds to Dr. Beau's argument that it is impossible to have the divine nature without aseity. Dr. Beau's rebuttals rely on auxiliary assumptions about metaphysics, which Jake argues do not follow logically from the eunomian premise. He also addresses the objection that Father and the Son have different powers, and the objection that being naturally obligo means that something must have a cause.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('6900')">01:55:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:55:00</a>
 
 argues that it is impossible to have the divine nature without aseity. Jake counters that this is not the case. then argues that if one takes into account the metaphysics of the person, it is necessary to accept that an aristotelian essence does not exist. Jake argues that this is predicated on a type of essentialism that he does not accept.
 

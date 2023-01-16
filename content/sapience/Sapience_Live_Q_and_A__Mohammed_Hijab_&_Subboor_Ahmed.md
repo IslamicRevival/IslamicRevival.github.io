@@ -11,7 +11,7 @@
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  is a discussion between Mohammed Hijab and Subboor Ahmed about the various evidences for the truthfulness of Islam. They discuss the Quran, Hadith, science, history, and the concept of evil within Islam. In the end, they agree that Islam is a true religion and that it is supported by many different pieces of evidence.
 
@@ -27,7 +27,7 @@
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Sapience Live Q&A with Mohammed Hijab and Subboor Ahmed discusses the idea that there are "just so stories," which are stories that are coherent but don't have any evidence to support them. Mohammed Hijab and Subboor Ahmed argue that these stories are plausible enough that people tend to interpret them as evidence, even though they might not be true.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Sapience Live moderator Mohammed Hijab and guest Subboor Ahmed discuss the concept of skepticism and its various applications. Ahmed argues that the arguments for moral skepticism are the strongest in philosophy, but are rejected by most philosophers. Hijab points out that this is because the postmodernists themselves are not really following skepticism, but instead believing in some form of moral objectivity.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Mohammed Hijab and Subboor Ahmed discuss the meaning of "evil" within Islam. They agree that evil does exist in the real world, but disagree on whether evil is absolute or relative. They also discuss the philosophical concept of "theodicy," which is the justification of evil.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
 Mohammed Hijab and Subboor Ahmed discuss the different schools of thought on divine command theory. Hijab explains that Islam does not have one singular answer, and the two discuss pantheism. They conclude that pantheism makes no sense because if god is divided into pieces, this would entail that he is generated.
 
@@ -43,7 +43,7 @@ Mohammed Hijab and Subboor Ahmed discuss the different schools of thought on div
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** Mohammed Hijab and Subboor Ahmed discuss the importance of being focused and resilient in the face of challenges, and share their advice for studying for a university degree and finding a job.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** Mohammed Hijab and Subboor Ahmed discuss the idea that if one chooses to work over traditional family life, they are more likely to experience depression in their 30s. They also mention Betty Friedan's book, "The Feminine Mystique," in which Friedan discusses women's dissatisfaction with their roles in society.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** In this Q&A, Mohammed Hijab and Subboor Ahmed discuss the morality of marriage, and Ahmed asks Hijab if attributes of Allah can be limited to the presence of the creation. Hijab responds that it is irrelevant because if you put someone in a desert island, Allah does not need to exercise any action to have it, which is a logical quantity to think. The Christians will come and say that's why the trinity makes sense because love needed to be manifested to someone in order to create the bodies of the Trinity.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('7800')">02:10:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:10:00</a>
 
 Mohammed Hijab and Subboor Ahmed discuss the absurdity of the infinite regress, and how it applies to the problem of infinity. They argue that the regress is dependent on something else for its existence, and if it is dependent on itself, it is absurd. Ivy Sone points out that if all of the things in the infinite regress are contingent, then the regress cannot be infinite.
 

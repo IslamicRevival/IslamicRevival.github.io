@@ -17,7 +17,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  Firas Zahabi discusses the concept of truth. He explains that there are different theories of truth, and that one must choose a theory based on its practical applications. He also discusses the law of non-contradiction, which states that a proposition cannot be both true and false at the same time.
 
@@ -33,7 +33,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  explains that, just like humans, robots have subjective experiences, and that when a powerful lightning strike occurs, a robot like Paul 2.0 would experience fear and hope.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>**  ventriloquist act performer Firas Zahabi discusses the difference between robots and humans, arguing that while robots can be made to mimic human behavior, humans have direct experience of their own consciousness. He goes on to say that while humans can use logic and scientific experimentation to understand aspects of the world, they cannot understand ultimate reality--that is, God--through these means. Zahabi argues that this is why Allah--who is beyond logic and science--points us to a primary way of knowing Him, through intuition.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  azalea goes into detail about what truth is. She explains that there are different types of truth, including the allah light, which is also reflected. Ali, Firas Zahabi's assistant, then gives a short description of Thomas Huxley's atheist views. He says that, even though he is an atheist, he can still associate himself with allah because he has a direct connection to him. Finally, Razali discusses the essence of something, and how it is different for each person.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  discusses the concept of truth, and how humans are predisposed to believe things are true because they make sense. It also discusses how faith in science is just a form of faith, and that scientific truths are also historical. Finally, the video discusses the concept of fitra, or "the inner divine element within us," and how it is through understanding this that we can understand the truth about history.
 
@@ -49,7 +49,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>**  Firas Zahabi discusses what he believes to be the truth: that there are no mistakes in the universe, that all events are determined, and that thoughts occur due to the random interactions of matter. He then goes on to discuss how an atheist would view this idea, and how it would contradict their beliefs in rational thought. Finally, he argues that an atheist would be forced to accept that they are just experiencing noise, or chaos, if materialism and chemistry were true.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>**  Firas Zahabi discusses how the atheist's radical skepticism of theism is selective and not consistently applied. He argues that, if atheism were a principle across the board, it would be self-defeating.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Firas Zahabi discusses the idea of 'faith' and how it can be used to overcome logical reasoning. He discusses the example of a coin being flipped 100 times and how one can develop a trust in Allah based on repeated experiences. He then goes on to discuss the idea of 'universe cycles' and how one can know this without observing a universe in action. Finally, he discusses how atheists who believe in an 'end-of-the-universe' are hoping for a scenario where this happens and that they are not actually living in faith.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('8700')">02:25:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:25:00</a>
 
  Firas Zahabi discusses the concept of truth and how it relates to religious experience. He argues that all truth is a religious experience, and that the different theories of truth are all based on abstractions. He emphasizes the importance of first experiencing truth firsthand, through prayer and reflection.
 

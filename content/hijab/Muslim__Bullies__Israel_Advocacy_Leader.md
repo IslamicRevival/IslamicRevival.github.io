@@ -11,7 +11,7 @@ This is one part of a 4 part video which tracks the history of Zionist terrorism
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1500')">00:25:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:25:00</a>
 
  discusses the massacre of 92 people at the King David Hotel in 1946, which was carried out by the same group that orchestrated 9/11.  argues that the comparison of these events is valid because the goals of the groups are strikingly similar. The Muslim "bullies" Israel advocacy leader argues that the death of other Jews elsewhere justifies Muslims' actions against British soldiers during World War II, and also compares South Africa to Israel, where the white minority regime was justified in its actions against the black majority.
 

@@ -13,7 +13,7 @@ Usman Sheikh discusses his recent Oxford University MPhil thesis where he counte
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 This video discusses the different ways that Christian scholars have interpreted the Qur'an, with a focus on how it portrays God. argues that the Qur'an has its own unique perspective on God that should be respected.
 
@@ -29,7 +29,7 @@ This video discusses the different ways that Christian scholars have interpreted
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** notes that the quran seems to endorse the idea that God is one, while denying that Jesus was crucified. He also observes that this idea is similar to the Shema, a Jewish prayer that states, "Hear, O Israel, the Lord our God is one."
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** discusses a number of passages from the Qur'an which critique central Christian beliefs. He points out that this undermines the argument that the Quran is anti-Christian.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** discusses the similarities and differences between the Qur'an and various biblical stories. He notes that the Qur'an is nuanced and precise in its interactions with these stories, prompting people with its own viewpoint. He hopes to have his thesis published soon so that everyone can read it.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:00:00</a>
 
 a scholar refutes some claims that Christian scholars have made about God in the Qur'an. He thanks the Christian scholar for the opportunity to join in on the conversation, and he argues that the Qur'an actually affirms the existence of God.
 

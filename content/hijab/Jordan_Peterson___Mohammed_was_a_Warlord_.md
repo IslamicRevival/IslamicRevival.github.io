@@ -15,7 +15,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('900')">00:15:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:15:00</a>
 
 Jordan Peterson argues that Muhammad was not a warlord, and that comparisons between him and Jesus are unjustified. He points to passages in the Quran and Bible to support his claims, and argues that the historical Jesus was violent.
 

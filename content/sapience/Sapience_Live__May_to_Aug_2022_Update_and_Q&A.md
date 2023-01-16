@@ -11,7 +11,7 @@ Join the Sapience Institute Team who will provide key updates on their work and 
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the upcoming courses and projects of the Sapience Institute. It introduces a new online seminar series and a new series focused on combating destructive doubts among Muslims. It also discusses a forthcoming course on Islamic thought aimed at imams and specialists.
 
@@ -27,7 +27,7 @@ Join the Sapience Institute Team who will provide key updates on their work and 
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  Sapience CEO and co-founder Hamza Khan discusses the role of Muslim literature in the West, and how it should move forward. He also mentions the Quantum Chronicles, a website that provides information about Muslim culture and literature.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses Sapience Live's upcoming courses on the Fitrah, and how understanding the Fitrah can help philosophers and others understand normativity and other complex topics.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the idea of fitra, or "the innate predispositions of human beings that form the basis for their spiritual beliefs." It goes on to say that while rational arguments are important, there are other ways to bring people's fitrahs into balance, such as through the use of spirituality.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
 provides updates on the work of Sapience Live, a group that is working to revive Islamic values in contemporary society.  also features a discussion with Dr. Jordan B. Peterson, who offers his thoughts on Islam and how it should be understood as a worldview.
 
@@ -43,7 +43,7 @@ provides updates on the work of Sapience Live, a group that is working to revive
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** In a video d "Sapience Live: May to Aug 2022 Update and Q&A," the founder and CEO of Sapience, Dr. Jordan B. Peterson, discusses Islam and how it is not a religion. He goes on to say that a better way to understand Islam is as a worldview that encompasses truth and meaning versus non-truth and non-meaning. He also mentions Bruce Spinoza and how he didn't believe in a personal god. Peterson provides a question from a brother that he says the brother cannot answer.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** SapienceLive host Sergio Clare updates viewers on the progress of sapience projects in Pakistan and India, and mentions that he has been endorsed by a group of Muslims seeking to revive Islamic values in contemporary society. Clare also discusses the importance of human-to-human contact, and offers advice for those seeking to engage in thoughtful dialogue with others.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses the concept of "who is allah" and how people may perceive a difference in his justice. He advises that if we understand allah is perfect in his justice, mercy, and wisdom, we should not concern ourselves with perceived differences in his justice.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('7800')">02:10:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:10:00</a>
 
 on Sapience Live discusses how understanding who allah is can help us accuse ourselves before accusing allah in any scenario. He points out that while we have imperfect knowledge, allah is still infinitely perfect and will never wrong anyone.  ends with a reminder for viewers to make dua for the sapience institute.
 

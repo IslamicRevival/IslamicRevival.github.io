@@ -17,7 +17,7 @@ We want to recommend Kitab ut-Tawheed: The Basis of Islam and the Reality of Mon
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1500')">00:25:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:25:00</a>
 
 Ibn Taymiyya's mistake in defining worship led him to develop an extreme and inverted view of the concept. This ultimately caused him to cooperate with the British against other Muslims and attribute sovereignty to religious figures.
 

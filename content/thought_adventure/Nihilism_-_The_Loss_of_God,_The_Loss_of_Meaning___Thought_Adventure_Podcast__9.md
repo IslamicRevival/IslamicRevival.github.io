@@ -71,7 +71,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  explores the concept of nihilism and its effects on the individual. It discusses how nihilism can lead to depression and suicide, and how it can be overcome by creating one's own meaning and purpose in life.
 
@@ -87,7 +87,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Nietzsche argues that the drive to achieve truth and reason in the west was ultimately undermined by Christianity, resulting in a nihilistic attitude towards the world.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Nihilism is the loss of meaning and purpose in life. It is a philosophical position that is often associated with Friedrich Nietzsche.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Nihilism is the philosophical position that there is no objective meaning or purpose in the universe. Nietzsche believed that this nihilism would lead to existential nihilism, or the belief that life has no value.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
 The Thought Adventure podcast discusses nihilism, meaning, and consciousness. They argue that nihilism is subjective and that it does not matter what other people think or believe, as it is ultimately based on one's own personal viewpoint.
 
@@ -103,7 +103,7 @@ The Thought Adventure podcast discusses nihilism, meaning, and consciousness. Th
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** Atheism leads to nihilism and moral problems, while theism provides a system of meaning and purpose.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>* Discusses the problems with grounding morality on a worldview, and how this can lead to inconsistency. It then discusses how a nihilistic view of morality allows for individuals to be ethical without having to adhere to any specific moral values.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses the idea of nihilism, or the loss of meaning in life. They argue that nihilism is subjective and that it does not matter what other people think or believe, as it is ultimately based on one's own personal viewpoint.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('10800')">03:00:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-03:00:00</a>
 
 In the "Nihilism - The Loss of God, The Loss of Meaning?" YouTube video, the host discusses how nihilism is an option for those who do not believe in the existence of a God. He argues that it can be more productive to engage in meaningful activity rather than avoiding belief.
 
@@ -119,7 +119,7 @@ In the "Nihilism - The Loss of God, The Loss of Meaning?" YouTube video, the hos
 * **<a onclick="modifyYTiframeseektime('9900')">02:45:00</a>** The YouTube channel "Nihilism - The Loss of God, The Loss of Meaning?" features a discussion between Nathan and others about the loss of meaning in life. Nathan comes across as respectful and nice, but his discussion of atheism and deconversion may not always be the most tactful or persuasive. Nathan's advice for those interested in engaging with him is to be sincere and honest, and to project that same character on social media.
 * **<a onclick="modifyYTiframeseektime('10200')">02:50:00</a>** Nathan argues that atheism or hard agnosticism lead to nihilism, but this is not necessarily the case. Atheism requires a metaphysical position in order to be convincing, and the majority of people do not have access to this kind of philosophy. To overcome nihilism, an atheist or agnostic would need to be interested in abstract philosophy and live a life without concern for objective moral facts.
 * **<a onclick="modifyYTiframeseektime('10500')">02:55:00</a>** , a philosopher discusses the differences between ontological liberalism and ontological realism. He argues that ontological liberalism is equally ontological liberal as a theistic picture, but that a reductive naturalist is not going to use the same language of supervenus as a neoplatonist for example. He also argues that there are problems with any view ultimately, and that the most successful view is one that achieves the virtues of objective realism.
-### <a onclick="modifyYTiframeseektime('10800')">03:00:00</a> - <a onclick="modifyYTiframeseektime('11700')">03:15:00</a>
+### <a onclick="modifyYTiframeseektime('10800')">03:00:00-03:15:00</a>
 
  nihilism is discussed, with the reductionist naturalist arguing that there is no mind or moral realist position that stands up to comparison. The theist is then asked how they propose to ground objective morality, and is met with a series of questions that point to the need for a mind or some other force to ground morality.
 

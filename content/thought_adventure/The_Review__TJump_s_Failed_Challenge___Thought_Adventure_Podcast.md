@@ -62,7 +62,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 discusses the idea of an "evil" god, and argues that the concept is incoherent.  goes on to say that, even if an evil god did exist, he would not want to experience maximal suffering because it would contradict his own goodness.
 
@@ -78,7 +78,7 @@ discusses the idea of an "evil" god, and argues that the concept is incoherent. 
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses why suffering is undesirable, and argues that the evil god would not want to experience maximal suffering because it would contradict his own goodness.  discusses another point, that even if the evil god wants to be in a maximal state of happiness, he would still be more comfortable with someone in a maximal state of happiness who is also powerful.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Muhammad discusses the idea that good and evil can exist on their own, without the need for one another. He goes on to say that, as human beings, we all see ourselves as morally good in one way or another and try to justify our actions, even those which are perceived as evil, as having some sort of necessity or greater good.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses how there can be an inherent goodness in evil, and argues that an evil god would create beings for their own suffering or anti-benefit.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  discusses TJump's failed challenge, in which he claims that a perfect world with no evil is the best possible world. 's host argues that the concept of evil is logically irrelevant to the discussion, and that the best of all possible worlds would be one where the least amount of will is imposed.
 
@@ -94,7 +94,7 @@ discusses the idea of an "evil" god, and argues that the concept is incoherent. 
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** The philosopher argues that there is no logical or moral parity between a perfect, omnipotent, and omniscient being and an evil, maximally constrained being.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>* Discusses the idea that there is an asymmetry between the maximally evil state and the minimally evil state. The maximally evil state, in which the being desires to maintain its state of unhappiness for eternity, is not possible, according to the argument.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** The reviewer discusses the idea that there is no symmetry between the positions of "perfectly evil" and "perfectly good" gods. They argue that if a god is perfectly evil, he would want to live in an undesirable state, and if a god is perfectly good, he would not want to kill himself. The reviewer goes on to say that this argument is flawed because it does not take into account the possibility of an evil god who wants to destroy itself.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('10800')">03:00:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-03:00:00</a>
 
  discusses various problems with TJump's evil god challenge, which attempts to show that a good god cannot exist if an evil god also exists.  argues that TJump's arguments are incoherent and do not hold up to scrutiny.
 
@@ -110,7 +110,7 @@ discusses the idea of an "evil" god, and argues that the concept is incoherent. 
 * **<a onclick="modifyYTiframeseektime('9900')">02:45:00</a>**  Abdul argues that there are four possible positions on the existence of God: atheism, agnosticism, theism, and agnostic atheism. He argues that the most rational position is agnostic atheism, because there is not enough evidence to support either position.
 * **<a onclick="modifyYTiframeseektime('10200')">02:50:00</a>** The review points out that there are two versions of omnipotence - a very Christianized version that justifies incarnation, and a different version that Muslims attest to. The discussion then turns to the question of whether or not god can limit his power. The review notes that this question results in incoherence, because it would require god to limit himself in an absolute sense, which he does not do.
 * **<a onclick="modifyYTiframeseektime('10500')">02:55:00</a>** Jake argues that, due to the Christian definition of omnipotence, the evil god argument falls apart because it can't be mirrored.
-### <a onclick="modifyYTiframeseektime('10800')">03:00:00</a> - <a onclick="modifyYTiframeseektime('11400')">03:10:00</a>
+### <a onclick="modifyYTiframeseektime('10800')">03:00:00-03:10:00</a>
 
 "The Review: TJump's Failed Challenge | Thought Adventure Podcast", the hosts discuss TJump's argument for the existence of an evil god. They argue that it is not clear what the good being would achieve by imposing on himself to be in a state of maximal happiness.
 

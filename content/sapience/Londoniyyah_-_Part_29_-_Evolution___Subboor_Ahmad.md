@@ -29,7 +29,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the history of evolutionary thought, and how it has often been used to promote atheism and secularism. It points out that this is not an accurate portrayal of the theory, and that even Darwin himself had doubts about it at one point in his life.
 
@@ -45,7 +45,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  explains how the first cell could have evolved, despite the origination probability being close to zero. The theory is that there was a transition probability, and that the first cell evolved into different branches and domains.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Francis Crick discovered the structure of DNA, and he believes that initial life on Earth was seeded by aliens. This theory, called panspermia, is not accepted by all scientists, but it is an interesting idea nonetheless.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses how presuppositions can influence scientific conclusions, and how these presuppositions can be tied to naturalism and Darwinism. He quotes Richard Lewinton, a Harvard evolutionary scientist, who says, "most of the discussions that are happening in terms of Darwinian theory are to do with science, but the reason why I wanted to do this session was to show that you can't just start off with the science you have to get into the philosophy first."
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:00:00</a>
 
  Subboor Ahmad discusses how Darwinism is not just a theory but, in fact, a religion. He argues that this is true even though many scientists don't accept this perspective. He provides several examples to support his claim, including the fact that Darwinism is taught in schools as fact, even though it is still technically a theory. Ultimately, he concludes that Darwinism is more than just a theory - it is a religion that has been adopted by many people.
 

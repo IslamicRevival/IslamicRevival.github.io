@@ -13,7 +13,7 @@ https://www.amazon.co.uk/How-Jesus-Became-Bart-Ehrman/dp/0061778184
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  Bart Ehrman discusses the evidence that Jesus did not claim to be God, but instead may have been claiming a priestly prerogative. He points out that there are few, if any, explicit claims of this nature in earlier sources, and that this suggests that Jesus did not consider himself to be divine. The video also argues that Jesus' miracles and forgiveness are indicative of his divine nature, and that he is worshipped as if he were a god.
 

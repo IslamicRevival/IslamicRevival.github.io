@@ -11,7 +11,7 @@
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the arguments for and against the existence of god, the validity of the Quran, and Islam. Mohammed Hijab and Subboor Ahmad argue that knowledge is based on experience, intuition, and reason, and that a thing is defined as something that can conceivably exist. They also discuss the compatibility of atheism and determinism, the role of spirituality in Islam, and the impact of common ancestry on evolutionary theory.
 
@@ -27,7 +27,7 @@
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Mohammed Hijab and Subboor Ahmad discuss the compatibility of atheism and determinism, the role of spirituality in Islam, and the impact of common ancestry on evolutionary theory.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses a controversy about junk DNA, with philosopher Philip Kitcher arguing that most of it is functional. Richard Dawkins and others disagree and claim that it is vestigial, meaning it is no longer useful. Jonathan Sacks, the former rabbi of the Grand Rabbi in the UK, agrees that the majority of it is functional, but cautions that the Darwinian paradigm may not be the best way to view this information.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Mohammed Hijab and Subboor Ahmad discuss how natural selection can eliminate jobs that are not useful for the organism, and how this can lead to false positives in scientific research. Hijab challenges the study's definition of functional DNA, and Ahmad explains that the example he gave of a muscle is specific to a particular population, not universal.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
 The Sapience Institute discusses various aspects of Islam and Judaism in a live video. Mohammed Hijab and Subboor Ahmad compare and contrast the two religions, discuss the importance of studying both in order to better understand Islam, and share their thoughts on the recent David Wood vs. Mohammed Hijab debate. They also advise caution when engaging in potentially dangerous practices, such as astral projection.
 
@@ -43,7 +43,7 @@ The Sapience Institute discusses various aspects of Islam and Judaism in a live 
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** The Sapience Institute discusses the idea that if all God has is knowledge, then he cannot be the most powerful being because he would have equal knowledge and power to another being with the same abilities. This concept is similar to that of Jesus, who also had equal knowledge and power to other entities. If any Muslims believe that this logic negates their faith, it is important to appreciate the difference between the two beliefs.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** argues that if there are two necessary existences, one with necessary qualities and one without, then it is logically impossible for the two to be different. He goes on to say that if necessary resistance is the same in both existences, then it is equivalent to saying that they are the same. He concludes that if there are no moral restrictions, then it is possible for the two to be different.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses the contradiction between being omnipotent and having mercy. He argues that this contradiction is only relative and can be resolved by understanding that actions are only evil insofar as we choose to interact with the world in a certain way.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('7500')">02:05:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:05:00</a>
 
 The Sapience Institute held a live event with Mohammed Hijab and Subboor Ahmad to discuss how Muslims can use technology to improve their lives and the global community. The panelists discussed the importance of maintaining a creative relationship with God, while also recognizing His mercy and wisdom.
 

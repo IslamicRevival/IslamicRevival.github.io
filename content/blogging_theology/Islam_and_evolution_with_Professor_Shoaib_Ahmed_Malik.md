@@ -46,7 +46,7 @@ https://twitter.com/freemonotheist
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 , Professor Shoaib Ahmed Malik discusses how Muslims can approach the issue of evolution. He argues that, provided neo-darwinism is true, most of it can be embraced by a Muslim. If either of these two filters are not met, then something must change in the science.
 
@@ -62,7 +62,7 @@ https://twitter.com/freemonotheist
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Shoaib Ahmed Malik discusses the compatibility of Islam and evolution, citing Quranic verses and Hadith. He argues that because the Quranic worldview presupposes continuous supernatural activity, it conflicts with modern science's understanding of the cosmos as a self-contained set of patterns.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Professor Malik discusses how Islamic theology and science differ in regards to the metaphysical. He asserts that although there are theoretical distinctions between the two, in practice there is overlap. He concludes by saying that scientists shouldn't have a worry about mixing their faith and science.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** , Professor Shoaib Ahmed Malik discusses how Muslims believe that there is design in nature, even if science denies it. He also points out that there is a tension between science and religion, as science denies teleology while religion affirms it.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('5400')">01:30:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:30:00</a>
 
 "Islam and evolution with Professor Shoaib Ahmed Malik", Malik discusses how Islam and evolution are compatible. He explains that while there is scriptural evidence which supports the theory of evolution, there is also evidence which supports the theory of intelligent design. He makes it clear that from a calamity perspective critiquing ID does not equate to critiquing neo-Darwinism. Malik finishes by saying that from a theological perspective, contingency is sufficient for proving the existence of God.
 

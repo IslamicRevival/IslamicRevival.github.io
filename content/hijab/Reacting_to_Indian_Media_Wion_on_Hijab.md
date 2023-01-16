@@ -19,7 +19,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 react to Indian media reports about a potential law that would make hijab mandatory for women in Turkey. He points out the inconsistency of such a law, as well as the hypocrisy of westerners who impose similar restrictions on women in mixed-gender settings. He also points out that there is no such law mentioned in the Quran, and that this doesn't mean that women can wear whatever they want.
 

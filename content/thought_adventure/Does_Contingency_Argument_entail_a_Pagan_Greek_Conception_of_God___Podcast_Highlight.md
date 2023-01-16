@@ -58,7 +58,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1800')">00:30:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:30:00</a>
 
 The presenter discusses the idea of divine simplicity, which is the idea that the whole is prior to the parts. They discuss how this might be applied to the concept of God, and how a possible world in which God does not create anything would be a non-changing, non-time-based universe in which God is still necessary. then discusses the different models of God that people could hold, and how the correspondence theory of truth would entail at least one of these models being true.
 

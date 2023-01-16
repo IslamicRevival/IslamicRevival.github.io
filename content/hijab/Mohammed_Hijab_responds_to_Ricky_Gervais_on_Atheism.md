@@ -16,7 +16,7 @@ Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 Mohammed Hijab responds to Ricky Gervais on atheism, arguing that it is a legitimate belief system. He challenges Gervais' arguments and suggests that everyone should question their own beliefs.
 

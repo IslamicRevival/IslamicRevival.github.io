@@ -12,7 +12,7 @@ Thumbnail: A "cariye" or Ottoman concubine, painting by Gustav Richter (1823-188
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the Quran's view of concubinage, rape, and "sexual slavery."  argues that the Quran does not condone rape, and that slaves should be treated humanely. It also discusses the different types of slavery in history, and how slaves in Islam were considered equal to believers.
 
@@ -28,7 +28,7 @@ Thumbnail: A "cariye" or Ottoman concubine, painting by Gustav Richter (1823-188
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Islam recognizes the importance of masculinity and the honorable qualities that go along with it. Sexual abuse or coercion against a woman is considered unlawful, and violators can be subject to punishment, including physical punishment.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Justin Parrott discusses the prohibition of sexual harm against women in Islam, including rape. He also cites examples of concubinage, rape, and punishment of rapists in Islamic history.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Justin Parrott discusses classical texts which do not condone consenting to intercourse with a concubine, stating that this is understood to be bad behavior. He also quotes Kesha Ali, a feminist Muslim academic, who disagrees with him.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('4800')">01:20:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:20:00</a>
 
 Justin Parrott discusses the different interpretations of concubinage, rape, and "sexual slavery" in Islam. He argues that while these concepts are not exactly equivalent to marriage, they are similar in many ways and have certain rights associated with them. He also provides a historical context for these concepts, citing Jonathan AC Brown's book, "Slavery and Islam."
 

@@ -66,7 +66,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  discusses the three main arguments for the existence of a creator: fixed patterns within the universe, the need for an eternal cause for temporal effects, and the need for a creator with a will. It concludes that based on these arguments, the only possible creator is a sentient singular being, allah, as described in the Quran.
 

@@ -99,7 +99,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  Hamza Tzortzis and Jake Chapman discuss the various arguments for and against the existence of consciousness. They discuss the concepts of eliminative materialism, reductive materialism, panpsychism, and Professor Johnson's Chinese Room Argument, among others. They conclude by discussing the possibility of artificial intelligence being conscious.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Hamza Tzortzis, a philosopher, discusses how consciousness can be seen as a miracle by naturalists, and how this causes problems for theism. He also asks brother Hamza a question.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the concept of consciousness, and argues that consciousness can be explained by the way the brain works. It suggests that an integrated dualism, which sees the physical and non-physical as existing together, makes sense under theism. Prof. Hamza Tzortzis also discusses how skepticism could undermine claims about religion and other matters.
-### <a onclick="modifyYTiframeseektime('7200')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">01:00:00-02:00:00</a>
 
  Hamza Tzortzis discusses consciousness and how it cannot be explained by physical means. He also discusses how the Islamic conception of panpsychism is incompatible with the idea of a unified conscious experience.
 
@@ -115,7 +115,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>* Discusses the problem of consciousness and how it is not explainable by physical means, which leads to the conclusion that consciousness must be caused by a creator. The brothers discuss this further and come to the conclusion that this creator must be conscious.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** Hamza Tzortzis discusses the pros and cons of the idea that consciousness is a miracle, arguing that it fits more naturally with a theistic worldview.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Hamza Tzortzis discusses the Islamic conception of panpsychism, which is the view that everything has some form of proto-consciousness. He argues that this conception is incompatible with the idea of a unified conscious experience, as individual parts of a whole cannot have individual conscious experiences.
-### <a onclick="modifyYTiframeseektime('9300')">02:00:00</a> - [02:35:00</a>
+### <a onclick="modifyYTiframeseektime('9300')">02:00:00</a>
 
 Hamza Tzortzis discusses the philosophical issue of consciousness and how it cannot be explained by Neuroscience or Materialism. He argues that panpsychism, or the belief that everything has some level of consciousness, is a better way to account for the existence of consciousness than materialism. He also mentions that even atheist philosophers agree with panpsychism in order to avoid the problem of having to believe in a separate deity.
 

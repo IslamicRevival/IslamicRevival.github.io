@@ -66,7 +66,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  Professor Brian Cox discusses the idea of the universe being contingent, and how this provides an explanation for the existence of limited dependent beings. He argues that the idea of infinite sums of finite things is an impossibility, and that this is not based in rational thinking. He uses this argument to refute the contention that time has a beginning, as well as the idea that there could be an infinite number of universes.
 

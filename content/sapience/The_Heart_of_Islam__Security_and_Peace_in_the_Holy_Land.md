@@ -13,7 +13,7 @@ The Heart of Islam: Security and Peace in the Holy Land
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the history of the conflict between Israelis and Palestinians, and how Islam has played a role in maintaining peace. Dr. Uthman Latif discusses how Islam teaches that coexistence is possible, and how people need to be educated about this to help make a solution.
 
@@ -29,7 +29,7 @@ The Heart of Islam: Security and Peace in the Holy Land
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the Islamic history of security and peace in the Holy Land, highlighting how the practice of having jews and christians live under their own religious laws without interference from the state led to a difference in social harmony between the three groups. He goes on to say that, if we're going to compare Islamic history to other civilizations, we should look at examples from throughout history, not just recent times. He argues that, if we're going to adopt Islamic values in our society, it is important to have open discussion of them and to teach them in schools.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the Islamic intellectual foundations and how they are true in a practical way. He discusses how the region is currently in a worse situation than it was under the Ottoman Empire, and how the current occupation is worse than anything that has ever been experienced in the region. He concludes by urging Muslims to have a conversation about solutions to the current conflict.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the history of the conflict between Palestinians and Israelis, and how Islam has played a role in maintaining peace. It cites research on dehumanization and how it has led to the current situation in the Middle East. Dr. Uthman discusses how Islam teaches that coexistence is possible, and how people need to be educated about this to help make a solution.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('6900')">01:55:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:55:00</a>
 
  discusses the importance of Islam in achieving security and peace in the Holy Land. It highlights the importance of understanding and practicing Islam as a whole, and emphasizes the importance of being consistent with one's moral values.
 

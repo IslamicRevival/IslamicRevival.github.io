@@ -29,7 +29,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('900')">00:15:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:15:00</a>
 
  explains the Islamic doctrine of salvation, which is based on the belief that Allah is always merciful and perfect. This contrasts sharply with the Christian model of salvation, which is based on the belief that Jesus was the only way to gain eternal salvation.
 

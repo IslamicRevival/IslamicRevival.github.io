@@ -25,7 +25,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  dialogues the concept of salvation between Fahad Tasleem of the Islamic perspective and Rick Mattson of the Christian perspective. Tasleem argues that salvation is a gift from God, not something that can be earned, while Mattson argues that salvation is a result of faith in Jesus Christ. This salvation extends to all of creation, and at the end of the age, all things will be redeemed through Jesus.
 
@@ -41,7 +41,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses salvation, specifically whether it is possible for someone who does not follow a specific religion to be saved. Fahad Tasleem and Rick Mattson agree that there is no one right answer, but that salvation is based on a person's natural state of belief and orientation towards God. If someone dies in that state, they would be considered a Muslim.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Salvation is a central concept in both Christianity and Islam, and while there are some significant differences between the two religions, both promise salvation to those who trust in Christ as their savior. In Christianity, this assurance is based on the fact that God has declared that those who trust in Christ will be saved. In Islam, however, there is also the assurance of salvation based on the belief that if a person responds positively to the amount of light they've been given and accepts Islam as their religion, they will be saved.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The two speakers discuss the differences between salvation in Islam and Christianity. In Christianity, salvation is a relationship with God that is based on love. Islam, on the other hand, does not guarantee salvation to all people. The speakers discuss the concept of spiritual meaningfulness and how it affects the moral valuation of people. They also discuss the idea of being maximally forgiving and maximally loving.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3900')">01:05:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:05:00</a>
 
 Fahad Tasleem and Rick Mattson discuss the idea of salvation. Tasleem points out that, according to Christianity, salvation is a voluntary act on the part of the individual. Mattson counters that if God is held to his own standards, then he should not have chosen to save humanity in the first place.
 

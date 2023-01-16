@@ -60,7 +60,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 discusses how philosophy helped him overcome his doubts about Islam and how it has aided in his studies of the religion. He talks about how he began to doubt the existence of Allah and the Quran, but eventually found peace in Yemen.
 
@@ -76,7 +76,7 @@ discusses how philosophy helped him overcome his doubts about Islam and how it h
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** This Muslim man tells the story of how he gradually came to embrace Islam and how it was met with opposition from his non-Muslim family and classmates. He eventually left Germany to study Islam in Yemen, where he found peace and tolerance.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses how philosophy has helped him overcome doubts and how it has aided in his studies of Islam. He went on to say that while he was at the school, he only studied for two years before moving on to study part-time.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the reasons why he began doubting the veracity of Islam and the existence of Allah. He also discusses the argument that Islam is coherent, but he has doubts about its truthfulness because he can't establish the existence of Quran or Allah.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
 discusses how philosophy helped one man overcome his doubts about Islam. The man, who is from a conservative Muslim family, says that in order to discuss atheism intelligently, one must first establish the foundation of religion. He goes on to say that, despite the challenges of atheism today, Islam is still the most logical and comprehensive religion.
 
@@ -92,7 +92,7 @@ discusses how philosophy helped one man overcome his doubts about Islam. The man
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>* Discusses how philosophy helped one man overcome his doubts about Islam. The man, who is from a conservative Muslim family, says that in order to discuss atheism intelligently, one must first establish the foundation of religion. He goes on to say that, despite the challenges of atheism today, Islam is still the most logical and comprehensive religion.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** 's main point is that there is a problem with some brothers using philosophy to support their religious beliefs, as the brothers are not always correct in their private conversations with one another. The problem is compounded by the brothers' followers, who are not always correcting the brothers when they make mistakes in their philosophical arguments.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Professor Abnetamia discusses how philosophy can help to resolve doubts and discrepancies between religious texts. He provides two examples of how this can be done, one using textual evidence and one using logical reasoning.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('9600')">02:40:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:40:00</a>
 
 discusses how philosophy helped the speaker to overcome his doubts about Islam. He argues that the Quran contains clear-cut evidence that supports the Islamic belief system, and that philosophy can be used to help interpret this evidence. He also discusses how philosophy has helped him to better understand others and to approach religious topics more objectively.
 

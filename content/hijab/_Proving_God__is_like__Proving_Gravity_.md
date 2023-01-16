@@ -11,7 +11,7 @@ An interesting take on how we use inferences to come to conclusions, and how we 
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1200')">00:20:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:20:00</a>
 
  discusses the idea that there is something which is "sophisticated" and "in place," and that this entity may suggest a cause which led to its existence. It goes on to say that this cause is something which is "called the fallacy of incredulity," in which someone doubts something simply because they do not understand it.  then asks a question: what is the purpose of life? After some discussion, it is agreed that everyone has their own purpose, and that it is not important to understand everyone else's purpose.
 

@@ -13,7 +13,7 @@ It is important to understand that the Bible is a *library of books* written ove
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('300')">00:05:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:05:00</a>
 
 Discusses some surprising facts about the Bible, including the fact that there are many different canons of the Bible and that Muhammad Assad believes that the Quran should be used to confirm the truth of what remains in earlier scriptures. finishes the video by saying that he hopes this information was of interest.
 

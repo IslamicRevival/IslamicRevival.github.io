@@ -15,7 +15,7 @@ This course has been launched on our learning platform. Enroll here for free: ht
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3000')">00:50:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:50:00</a>
 
  discusses how to deal with destructive doubts, and introduces 10 strategies for doing so. The main points covered include the importance of studying Islam and developing a strong Islamic identity, the role of the heart in understanding doubt, and the importance of being sincere and committed to the goodness of all human beings.
 

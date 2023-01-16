@@ -24,7 +24,7 @@ Sharing Islam, truth & doubts - with Shaykh Hisham
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses how doubts can be caused by various factors, including exposure to different ideologies and values, unstable spirituality, and difficult experiences in one's life. It emphasizes the importance of having a strong spiritual conviction, which can help to overcome doubts.
 
@@ -44,7 +44,7 @@ Islam teaches that there are many meanings to events in one's life, and that it 
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the idea that famous speakers and YouTube stars who answer questions on the platform can create a social dependency on their followers. In order to create sustainable leaders, these individuals need to provide foundational knowledge and independence before seeking out questions and answers.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>**  explains that people typically have three levels of certainty: madea pain, I know yet pain, and the pain of seeing. The madea pain is the pain of knowledge, the I know yet pain is the pain of seeing, and the pain of happening is part of reality. A question can increase a person's levels of certainty, depending on the situation.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** provides a brief overview of the work of a Muslim chaplain, who suggests that people need to have a foundation in order to answer questions about Islam. The chaplain goes on to talk about his recent project, which is to develop bite-sized courses that teach Islamic concepts for university students. He also discusses his efforts to create a foundation of Islamic knowledge for Muslims, and how his online courses are designed to help people achieve this.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3900')">01:05:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:05:00</a>
 
 discusses how many students have registered for one of his webinars on Islamic tradition, pointing out that this shows there is a need for Islamic tradition to be communicated in a more accessible way. He then talks about a project called "Sharing Islam, Truth, and Doubts" which aims to provide discussions and listening ears to Muslims and others in the 17-25 age bracket.
 

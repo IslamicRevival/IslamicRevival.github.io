@@ -11,7 +11,7 @@ Online Seminar: Beauty & the Recognition of God with Fahad Tasleem
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 Seminar: Beauty & the Recognition of God is a video that discusses the idea that beauty leads to a greater ability to see truth as it really is. The presenter discusses how the world has moved away from truths being based on evidence and towards a post-truth world where people distrust one another. He encourages people to think critically about the world they live in, and how social media has contributed to the spread of mistrust.
 
@@ -27,7 +27,7 @@ Seminar: Beauty & the Recognition of God is a video that discusses the idea that
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Roger Scruton's book "Beauty" discusses the concepts of beauty, pleasure, and judgment. He argues that beauty is pleasing to the senses, and that it is the subject matter of a judgment.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The seminar discusses the concepts of taste, beauty, and meaning, and how they are connected. It explains that when someone sets a table for aesthetic reasons, they are saying something about themselves and their guest. The deeper meaning of setting a table for aesthetic reasons is that it reflects the care the host has for their guests.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the difference between art and entertainment, highlighting that art often has a deeper purpose than just being entertaining. It then moves on to discuss prose and poetry, pointing out that prose is often used for information, and that poetry often has a deeper meaning than simply conveying information.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('5700')">01:35:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:35:00</a>
 
  discusses the concept of beauty and how it is connected to the recognition of God. argues that humans have a natural bias towards things that are part of nature, and that this can be seen in the experience of beauty. He goes on to discuss the concept of awe and how it relates to the Islamic concept of ego. Finally, the speaker encourages the audience to think deeply about their concept of God and how worship fits into their fitrah.
 

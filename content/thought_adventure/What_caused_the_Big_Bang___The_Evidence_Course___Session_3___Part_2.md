@@ -108,7 +108,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('900')">00:15:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:15:00</a>
 
  discusses the argument that asks what caused the Big Bang, and how it goes against the theory that the universe has always existed. It points out that this question assumes that time existed before the Big Bang, and therefore it can't be answered. Some atheists have attempted to propose other explanations for the Big Bang, but all of them ultimately lead to the conclusion that a creator exists.
 

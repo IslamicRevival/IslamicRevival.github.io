@@ -11,7 +11,7 @@
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the importance of having a vision for campus, and how it can help leaders achieve their goals. It emphasizes the importance of focus, strategy, and self-awareness, and provides tips for developing a vision. It also discusses the importance of serving others and having compassion.
 
@@ -27,7 +27,7 @@
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the importance of having a vision, and how a leader's job is to enable that vision to become a reality. It discusses the examples of some of the most successful leaders in history, and how their visions were greater than themselves. It emphasizes the importance of developing a strategy for achieving one's vision, and how following through with that strategy is key to success. Finally, the speaker discusses how having a vision is essential for any leader, and how following through with that vision can transcend one's death.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** provides a brief overview of their background and experience as a CEO, emphasizing the importance of developing an "extreme ownership" style and being willing to work hard for the benefit of others. He discusses some of the key aspects of leadership, emphasizing the importance of balancing individual ambition with the needs of the organization as a whole. He also discusses the importance of developing soft skills and traits such as empathy and compassion.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the importance of developing a vision for campus, serving others, and having compassion and mercy. He also discusses the five pillars of leadership: knowledge, activism, dour, prayer, and service.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  discusses how to develop a vision for campus and how to make it a reality. It emphasizes the importance of sincerity, service, and leadership.
 
@@ -43,7 +43,7 @@
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>* Discusses how to develop a campus vision, how to balance between ego and showing the right things done, and how heart therapy is important for any leader. He goes on to say that one of the greatest leaders of all time, Ibrahim alaihissalam allah, mentions one of his sincere supplications to allah. advises that if one does not have a right intention and a clean heart allah will remove the blessing in one's word. He advises that one start admiring themselves and working on their spiritual illnesses before focusing on their diet or spiritual practices. He also stresses the importance of remembrance and maintaining a daily routine of prayer, fasting, and reading the quran.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>* Discusses how important it is to remember Allah, how to develop a vision for campus, and the importance of consulting with others before making decisions. It also provides an example of how the prophet Muhammad took into account the opinions of his companions before making a decision.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** provides advice on how to develop a vision for campus, how to make it happen, and how to get advice from those who are more experienced. He advises that consultation should be sincere, private, and constructive, and that single-outting of individuals is not the way to go.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('8100')">02:15:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:15:00</a>
 
 in this video discusses the importance of having a vision for campus, and provides advice on how to develop and make it happen. He also discusses how to overcome obstacles, and how to be successful in this endeavor.
 

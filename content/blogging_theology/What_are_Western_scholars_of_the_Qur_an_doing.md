@@ -12,7 +12,7 @@ The Qur'an: A Historical-Critical Introduction (New Edinburgh Islamic Surveys) b
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 Western scholars of the Qur'an have differing approaches to studying the text, but are united in their goals of furthering understanding of the Qur'an. Traditionalists see every verse as having a precise location in Muhammad's life, while revisionists question the connection between the Islamic version of events and the Qur'an. Neo-traditionalists accept the traditional narrative while still acknowledging some later influence. These scholars are working together on various projects to collect and study quranic manuscripts.
 

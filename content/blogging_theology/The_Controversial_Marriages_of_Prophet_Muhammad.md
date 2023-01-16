@@ -12,7 +12,7 @@ https://twitter.com/home
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  discusses the controversial marriages of Prophet Muhammad, with Aisha being mentioned as an example. It is noted that, based on historical and cultural context, things look very different than how they are viewed in the present day, with marriage at puberty being a more appropriate norm for Muhammad's time.
 

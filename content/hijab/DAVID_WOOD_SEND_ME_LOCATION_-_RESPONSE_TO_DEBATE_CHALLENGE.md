@@ -20,7 +20,7 @@ https://www.launchgood.com/project/keep_salam_going#!/
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('900')">00:15:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:15:00</a>
 
 David Wood challenges Muslims to a debate on the fundamentals of Christianity and Islam, offering a $1,000 prize. The Muslim claims that Scripture is insufficient to prove Christianity's truth, and Wood responds that the Bible is the only source of evidence for Christianity. Wood argues that Christianity's starting points are more reasonable than Islam's.
 

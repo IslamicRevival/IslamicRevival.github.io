@@ -58,7 +58,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses how to take philosophical concepts and turn them into "shorthand" terminology that people with little or no knowledge of philosophy can still understand. Jake argues that patience and explanation are key in this process, as well as reaching out to the Muslim community to provide them with accessible information about philosophy.
 
@@ -76,7 +76,7 @@ Jake in the UK discusses the idea of taking philosophical concepts and turning t
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Jake discusses how the death of God has happened multiple times throughout history, citing examples such as the French Revolution and Nietzsche's proclamation that "God is dead." He then moves on to discuss how the Islamic resistance to the idea of Christ's divinity is due to the prophet's elevated status. Finally, he concludes the video by talking about how the concept of nietzsche's "day of subscribers" is similar to that of Christ's "vacuum."
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Jake discusses how the death of god is a problem in secular societies, and how Christianity tries to solve that problem. He argues that this profithood is lost in Islam due to its connection to the divine.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the concept of transcendence and how it applies to Islamic and Christian traditions. Jake discusses how following the sunnah of the prophets, which is living tradition, fills a spiritual void. Islam and Christianity have different ideas about who qualifies as a prophet, and as a result, the two religions are far apart in terms of practice. Jake argues that iman, or faith, is the key to bridging the gap between the two religions.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('6000')">01:40:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:40:00</a>
 
 Jake discusses his thoughts on the current state of the YouTube community, and how he plans on helping to grow it. He also talks about his experience with other social media platforms, and how he prefers to use YouTube and Twitter.
 

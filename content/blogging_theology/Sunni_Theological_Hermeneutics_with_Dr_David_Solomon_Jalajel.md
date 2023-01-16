@@ -19,7 +19,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 Sunni theological hermeneutics focuses on understanding possible meanings of the Quran. Dr. David Solomon Jalajel discusses the importance of being cautious and humble when approaching theological questions, and the usefulness of the concept of "suspension of judgment" in making decisions about religious matters.
 
@@ -35,7 +35,7 @@ Sunni theological hermeneutics focuses on understanding possible meanings of the
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Sunni theological Hermeneutics focuses on the nature and how to understand certain aspects of scriptures, such as the angels having wings and God's transcendence. There is disagreement among Sunni theologians on how often to apply this concept of deferment, but all agree that it exists. One difference between Sunni theology and other theological schools is that Sunni theology focuses on the attributes of a topic, while other schools focus on the topic itself.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Sunni theology is different from Islamic law, which relies on a suspension of judgment in cases of uncertainty. The hermeneutics of law involves navigating uncertainty, weighing evidence, and making decisions in the face of uncertainty.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  Dr. David Solomon Jalajel discusses Sunni theological hermeneutics, discussing how one should approach theological questions with caution and humility, and the importance of experts in these fields. He also touches on the concept of "suspension of judgment," discussing how it is often used in Islamic traditions and how it can be beneficial to Muslims.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('6900')">01:55:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:55:00</a>
 
 Sunni theological hermeneutics is a detailed and systematic approach to interpreting the Quran and Sunnah.  Dr. David Solomon Jalajel discusses the different ways in which reason does not help when it comes to understanding Scripture, and how focusing on what is mentioned in the text is a better approach. He also provides several examples from the Prophet Muhammad to illustrate his point.
 

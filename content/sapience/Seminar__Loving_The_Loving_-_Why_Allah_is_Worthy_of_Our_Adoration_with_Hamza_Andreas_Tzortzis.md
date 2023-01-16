@@ -11,7 +11,7 @@ Seminar: Loving The Loving - Why Allah is Worthy of Our Adoration with Hamza And
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the reasons why Allah is worthy of our adoration, focusing on the relationship between knowledge and love. Ali Ghazali argues that love is a result of having knowledge about the object of our love, and that only those who are endowed with insight can truly love without any object of love. goes on to explain that if we do not have perfect love for Allah, our worship is incomplete. In order to truly worship Allah, we must have a deep love for Him, more than anything else in the world.
 
@@ -27,7 +27,7 @@ Seminar: Loving The Loving - Why Allah is Worthy of Our Adoration with Hamza And
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Ali Ghazali argues that if we want to be spiritually fulfilled, we should love allah the most. He also argues that self-love should lead to love for allah, as allah created the conditions for our well-being and continuation on Earth. From this, Ali Ghazali argues that allah is deserving of our ultimate love, and that if we love allah, we will love ourselves and have a greater affinity and inclination towards him.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Hamza Andreas Tzortzis discusses the reasons why Allah is worthy of our adoration, citing Ali Ghazali's arguments. He points out that humans naturally love those who have benefitted them in some way, and that this love is multiplied when a person benefits us continuously. He also discusses the importance of the gift of life, and how it is one of the reasons why Allah is worthy of our love.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Ali Ghazali provides four reasons why Allah is worthy of our love, including the fact that Allah is the source of all people's blessings and pleasures. This love is not limited to those who give us benefits or are good to us, but extends to anyone who is beautiful or good.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('6900')">01:55:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:55:00</a>
 
  discusses the reasons why Allah is worthy of our adoration. Hamza Andreas Tzortzis points to the Qur'an, which says that Allah created human beings with souls, and the hadith which states that the soul came out of Adam's nose. He also argues that loving something due to an affinity or similarity leads to a stronger love. Finally, he mentions that all humans have a natural inclination towards Allah and that this makes him the most deserving of our love.
 

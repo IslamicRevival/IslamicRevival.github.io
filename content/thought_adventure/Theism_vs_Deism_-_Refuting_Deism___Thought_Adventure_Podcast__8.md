@@ -69,7 +69,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  the presenter refutes the claim that miracles are impossible, and argues that they should not cause a problem for theism. He also addresses the argument that miracles are logically impossible, and points out that there is nothing about the laws of nature that is necessarily logical.
 
@@ -85,7 +85,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Theism vs Deism - Refuting Deism discusses the idea that a creator must be interested in the world, as the universe would not operate according to natural law without him. Deists argue that, as a contingent being, a god could have any attribute and need not necessarily exist in the same way as we do.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>**  the presenter refutes the claim that miracles are impossible, and argues that they should not cause a problem for theism. He also addresses the argument that miracles are logically impossible, and points out that there is nothing about the laws of nature that is necessarily logical.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the reasons why not everyone believes in miracles, and argues that miracles cannot contradict laws of nature because they are conditional statements. It goes on to discuss the concept of a necessary being, and argues that human beings have certain attributes that are not necessary for ourselves, but are necessary for other beings. Finally, the presenter discusses why people might expect revelation.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  discusses theism vs deism, and how the belief in a creator affects how one views moral principles. It also discusses how the creator may provide us with moral guidance.
 
@@ -101,7 +101,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** Theism vs. Deism is discussed  with theism being that there is a god, and deism being the belief that there is no god. Theism has a rich intellectual tradition, while deism does not. Theism is able to show that god is the necessary being, and that he created the universe. Deism cannot account for time, and so god cannot be in time.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** Theism vs. deism is a philosophical debate about the existence of a creator deity. Deists believe that a creator deity exists, but that the creator deity does not interfere with the natural world. Theism, on the other hand, believes that a creator deity exists and actively intervenes in the natural world.  argues that theism is more consistent with our understanding of causality, and that we cannot comprehend the nature of the creator without suspending our ability to think within a temporal framework.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Theism vs Deism discusses the creator's knowledge of themselves and their actions, concluding that there is no logical problem with an actionless creator.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('9000')">02:30:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:30:00</a>
 
 The thought adventure podcast features a discussion between host Thought Adventure and guests Karen and Muhammad Ali about why a deistic belief in a creator does not necessitate a need for revelation or care by the creator.
 

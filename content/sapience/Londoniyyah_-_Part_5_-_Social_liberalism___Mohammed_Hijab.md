@@ -25,7 +25,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2700')">00:45:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:45:00</a>
 
 In the fifth session on liberalism, Mohammed Hijab discusses social liberalism and the harm principle. He argues that social liberalism has been inconsistently applied in the West, often overlooking rights such as those of homosexuals and incestuous relationships. Hijab makes the case that social liberalism should be rooted in Islamic values in order to be truly beneficial.
 

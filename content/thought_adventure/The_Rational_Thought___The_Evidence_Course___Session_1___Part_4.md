@@ -66,7 +66,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('900')">00:15:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:15:00</a>
 
  is part of a course on rational thought. It discusses how thoughts are generated and how they can be interpreted. It also discusses how language must be taught to us in order to be acquired. The course emphasizes the importance of previous information in order to understand thoughts.
 

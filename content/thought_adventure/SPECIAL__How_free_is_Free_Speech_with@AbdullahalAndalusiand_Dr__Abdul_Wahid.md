@@ -76,7 +76,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  Abdullah al-Andalusi and Dr. Abdul Wahid discuss the concept of free speech, and how it should be preserved. They argue that if we are going to uphold the value of free speech, we should ban insults that are done without any intention of harm. They also mention that social media companies, such as Facebook and Twitter, are actively contradicting free speech by banning legitimate criticism. Finally, they remind the audience that they will be back in five minutes, and encourage them to stick around so they can continue the discussion.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** AbdullahalAndalusi and Dr. Abdul Wahid discuss the importance of free speech and its relation to satire. They discuss John Stuart Mill's argument that free speech is a way of expressing ideas, searching for the truth, and holding governments to account.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses how free speech is often used to criticize or ridicule groups that have less power, such as Muslims in the West. points to the example of the book, "The Rusty Book of Muslims," which opened the door to islamophobia in the West.
-### <a onclick="modifyYTiframeseektime('7200')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">01:00:00-02:00:00</a>
 
  "SPECIAL: How free is Free Speech? with@AbdullahalAndalusiand Dr. Abdul Wahid" discusses the Islamic perspective on free speech. The discussion turns to the Rushdie affair, in which the Islamic community voiced its disapproval of the author's 1992 book, The Satanic Verses.  concludes by noting that every state must have a bedrock basis for its laws, which should include a determination of what is true.
 
@@ -92,7 +92,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>* Discusses free speech and how it is important to be factual and accurate when speaking. He points out that this is often difficult to do when someone is offended, and argues that this focus on Muslims is not fair. He says that the focus on Muslims is due to the prevalence of Islamophobia in the West, and that the discussion should also include other groups that are targeted for insults.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** Yusuf discusses how free speech is often misunderstood, with examples of how certain statements or actions can be classified as libel or slander. He argues that if we engage with an opponent's argument, even if it is offensive, we are acting in a honorable way.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Salman Rushdie's "The Satanic Verses" was convicted in the UK of "public order" due to its insulting nature to the police. In similar cases, there is a public interest element that must be considered.
-### <a onclick="modifyYTiframeseektime('10800')">02:00:00</a> - [03:00:00</a>
+### <a onclick="modifyYTiframeseektime('10800')">02:00:00</a>
 
  Abdullahal Andalusi and Dr. Abdul Wahid discuss the concept of free speech and how it differs between Islamic and Western societies. Andalusi argues that free speech is actually regulated in Islamic societies in order to protect the community, while in Western societies it is often used to harm others. Wahid points out that there is a double standard when it comes to how Muslims are treated in the west when compared to how non-Muslims are treated.
 

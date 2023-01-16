@@ -29,7 +29,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the arguments made by those who reject the authority of the Quran. It notes that these arguments rely on verses from the Quran itself, which state that the Quran is a guide to the straight path. points out that if the Quran can only guide one person, then there is no need for any other guidance. He argues that the sunnah, which is the teachings of the Prophet Muhammad, is another source of guidance.
 
@@ -45,7 +45,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses arguments against the belief that the Quran contains everything that a Muslim needs, including subsidiary details such as zoology. It cites verses from the Quran and Hadith to support this claim.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the arguments made by those who believe that the Qur'an is not the complete, perfect guide for Muslims. It cites verses from the Qur'an that describe the Qur'an as an explanation of everything, and that all Allah is the guide for Muslims. It also cites verses that say that the Qur'an is a detailed guide for the straight path, and that Muslims should not look to other sources for guidance.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses some of the arguments used by those who reject the authority of the Quran. He notes that these arguments rely on verses from the Quran itself, which state that the Quran is a guide to the straight path. points out that if the Quran can only guide one person, then there is no need for any other guidance. He argues that the sunnah, which is the teachings of the Prophet Muhammad, is another source of guidance.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('5400')">01:30:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:30:00</a>
 
 discusses the reasons why some people reject Hadith, and points out that these people lack basic understanding of Arabic and don't care about social participation. He also mentions that some of these people are intellectually challenged because they can't reconcile certain Hadith with modern understanding.
 

@@ -11,7 +11,7 @@ source: https://www.facebook.com/UmmKhalidMuslimMom
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 The video discusses how women have been lied to for years, and how this has led to various negative consequences in society. It points to examples of how Muslim women have followed in the footsteps of non-Muslim women by engaging in practices such as sleeping around and getting abortions. It suggests that the way to overcome these issues is to start from a place of truth, Islam, and to respect and cherish wifehood and motherhood.
 

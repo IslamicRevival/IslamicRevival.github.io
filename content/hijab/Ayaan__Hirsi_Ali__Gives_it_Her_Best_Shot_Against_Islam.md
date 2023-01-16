@@ -11,7 +11,7 @@ full episode here: https://youtu.be/eL3FybpUt0s
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 Ayaan Hirsi Ali gives a lecture on misogyny in Islam, pointing out that there are certain practices which contribute to sexism. She also says that, while western feminists may be opposed to traditional values, they are actually practicing a form of misogyny themselves.
 

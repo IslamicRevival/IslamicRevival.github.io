@@ -39,7 +39,7 @@ Does Traditional Islam Need to be Liberalized? Join Mohammed Hijab in his debate
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the idea that liberalism is based on a fallacy and that traditional Islam should be liberalized in order to be more in line with modern values. The presenter argues that liberalism is prevalent in the Western world today, while traditional Islam is still prevalent in the Middle East. They also discuss the idea of colonialism and Islamic imperialism and how they are not the same thing. Finally, the presenter argues that liberalism is based on a hypothesis, which is not supported by evidence.
 
@@ -57,7 +57,7 @@ Does Traditional Islam Need to be Liberalized? Join Mohammed Hijab in his debate
 
 Mohammed Hijab argues that liberalism is based on false premises, and that traditional Islam needs to be liberalized in order to harmonize with modernity. Lars Gule counters that liberalism is based on human rights and individual liberty, two values that are intrinsic to traditional Islam. Gule concludes that liberalism is the best way to live, and that Mohammed Hijab is mistaken in his assumptions about the traditions of both liberalism and traditional Islam.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the idea that liberalism is based on a fallacy and that traditional Islam should be liberalized in order to be more in line with modern values. The presenter argues that liberalism is prevalent in the Western world today, while traditional Islam is still prevalent in the Middle East. They also discuss the idea of colonialism and Islamic imperialism and how they are not the same thing. Finally, the presenter argues that liberalism is based on a hypothesis, which is not supported by evidence.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
 "FULL DEBATE! Does Traditional Islam Need to be Liberalized - Mohammed Hijab VS Lars Gule," Hijab and Gule debate the morality of traditional Islam. Gule argues that traditional Islam needs to be liberalized in order to accommodate the modern world, while Hijab maintains that traditional Islam is based on individual conscience and should not be changed for the sake of other cultures. The discussion becomes contentious, with Gule accusing Hijab of being racist and elitist, and Hijab accusing Gule of being ignorant of Islamic tradition. Ultimately, the two agree to disagree on the issue.
 
@@ -73,7 +73,7 @@ Mohammed Hijab argues that liberalism is based on false premises, and that tradi
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** The traditional interpretation of Islam needs to be liberalized in order to be compatible with human rights laws, according to one of the participants in the debate. However, there is no guarantee that the liberalization will be accepted by all Muslims.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>* Discusses the issue of traditional Islam needing to be liberalized, with Mohammed Hijab arguing that it doesn't have to be separate and that it should be based on human rights. Dr. Lodge argues that there are instances where traditional Islamic values do not align with human rights, and that it is important to define boundaries.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Mohammed Hijab, a Muslim dissenter, and Lars Gule, a secular humanist, debate the morality of traditional Islam. Gule argues that traditional Islam needs to be liberalized in order to accommodate the modern world, while Hijab maintains that traditional Islam is based on individual conscience and should not be changed for the sake of other cultures. The discussion becomes contentious, with Gule accusing Hijab of being racist and elitist, and Hijab accusing Gule of being ignorant of Islamic tradition. Ultimately, the two agree to disagree on the issue.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('10500')">02:55:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:55:00</a>
 
 , Mohammed Hijab and Lars Gule debate the need for traditional Islam to be liberalized. Hijab argues that it harms the people, while Gule argues that it is an empirical statement that can be investigated empirically by the science of Medicine.
 

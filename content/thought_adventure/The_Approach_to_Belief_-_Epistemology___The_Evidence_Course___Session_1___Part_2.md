@@ -64,7 +64,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  discusses the philosophy of epistemology, which deals with the theory of knowledge. It explains that many atheists argue that there is no evidence for god, but this statement has a number of presuppositions, the first of which is that science is the only method of knowing. It also discusses other methods of knowing, such as empirical evidence and rational evidence. In the next video, we'll dive deeper into the scientific method and analyze its assumptions, insights, and limitations.
 

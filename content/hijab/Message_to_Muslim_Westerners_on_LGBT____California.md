@@ -11,7 +11,7 @@ This is a critical assessment on a worrying narrative with attempts to manipulat
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 in this video is a Muslim addressing other Muslims living in the West. He argues that Muslims should be more accepting of LGBT people, even though Islam teaches that homosexuality is a sin. He believes that everyone should be welcome in the community, regardless of their sexual orientation.
 

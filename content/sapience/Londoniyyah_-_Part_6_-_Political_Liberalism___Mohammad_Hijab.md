@@ -25,7 +25,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3300')">00:55:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:55:00</a>
 
  Mohammad Hijab discusses the principles of liberalism, including the social contract, the idea that humans are born equal, and the importance of religious language in liberalism. He also addresses the criticism that individualism within liberalism can lead to a culture of freeloading.
 

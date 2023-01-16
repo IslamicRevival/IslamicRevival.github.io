@@ -17,7 +17,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2100')">00:35:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:35:00</a>
 
  "Lucidity before death: Extraordinary challenges to materialism" discusses the phenomenon of terminal lucidity, in which a person who is near death becomes aware and communicative. This phenomenon challenges materialism, as it suggests that there is more to reality than what can be physically observed. The video features interviews with people who have had near-death experiences, as well as with experts who discuss the implications of these experiences.
 

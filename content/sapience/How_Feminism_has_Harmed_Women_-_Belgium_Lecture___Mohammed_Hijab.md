@@ -27,7 +27,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3000')">00:50:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:50:00</a>
 
 Mohammed Hijab, a Belgian Islamic scholar, discusses how feminism has harmed women in a number of ways. He argues that feminism has led to women suffering from mental disorders and harming their children. He also argues that feminism has given men too much power in the household.
 

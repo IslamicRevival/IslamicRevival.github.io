@@ -14,7 +14,7 @@ Quranic Diacritical marks divine revelation or human invention 2
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2100')">00:35:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:35:00</a>
 
  "Quranic Diacritical Marks: Divine Revelation or Human Invention 2" discusses the various diacritical marks used in the Qur'an, and how some scholars believe that they were divine revelation or human invention.  points out that Hebrew letters do not have any dots, and that this is why the Qur'an does not use the same diacritical marks as Hebrew.  concludes by discussing the possible meaning of the first food in the Qur'an, and whether or not it has any significance.
 

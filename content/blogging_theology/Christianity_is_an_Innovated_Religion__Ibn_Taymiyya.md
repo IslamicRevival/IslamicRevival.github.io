@@ -11,7 +11,7 @@
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  Professor John Hoover discusses the views of Ibn Tammiyya about Christianity as an innovated religion. Ibn Tammiyya argues that Christianity is an unscriptural and irrational innovation, and that its project of biblical interpretation seeks to rally the jewish and christian texts to support Islam.
 

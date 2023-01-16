@@ -13,7 +13,7 @@ With Shaykh Yasir Al-Hanifi and Hamza Andreas Tzortzis
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the idea that it is okay to be assertive when trying to convert others to Islam, as long as you do it in a peaceful way. points to a story in the Quran where Prophet Muhammad (peace be upon him) allowed someone who had insulted him and was being disrespectful to leave his presence. stresses the importance of being patient when trying to convert others, as it can be difficult to deal with people who are insulting or rude.
 
@@ -29,7 +29,7 @@ With Shaykh Yasir Al-Hanifi and Hamza Andreas Tzortzis
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses a verse in the Quran that encourages patience in taking revenge. It points out that this patience can be seen in the life of Prophet Salah, who waited 950 years for retribution to be carried out in equal measure.  then goes on to discuss another verse in the Quran that says that those who invite others to join in good deeds will be mentioned after those who invite people to join in evil deeds. Finally, the video explores the importance of having a group of believers to guide and protect oneself.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the concept of good and evil, and how they are not the same.  then discusses how the tower woman is better in speech and deeds than the man, and how it is important to be humble when inviting towards Allah.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the idea that it is okay to be assertive when trying to convert others to Islam, as long as you do it in a peaceful way. points to a story in the Quran where Prophet Muhammad (peace be upon him) allowed someone who had insulted him and was being disrespectful to leave his presence. stresses the importance of being patient when trying to convert others, as it can be difficult to deal with people who are insulting or rude.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('5400')">01:30:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:30:00</a>
 
 the speaker discusses the importance of giving dawah in a sincere and humble manner, in order to avoid causing harm or increasing the misguided. He also emphasizes the importance of being assertive and avoiding mockery, and provides guidance on how to engage in discussions about Islam in a beneficial way.
 

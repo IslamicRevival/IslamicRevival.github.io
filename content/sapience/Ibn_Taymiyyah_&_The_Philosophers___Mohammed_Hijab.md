@@ -27,7 +27,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 Ibn Taymiyyah was a medieval Muslim theologian who developed the Ashari movement. He argued that anything which is composed of parts is dependent, and that the human being is a rational animal. He also discussed the impossibility of finding a thing that does not exist and how this applies to the topic of the attributes of God. Finally, he argued that the logical syllogism does not allow for new knowledge to be gleaned from it.
 
@@ -43,7 +43,7 @@ Ibn Taymiyyah was a medieval Muslim theologian who developed the Ashari movement
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  Ibn Taymiyyah discusses how the existence of universals cannot be proven, and argues that they are conceptual analysis only. He goes on to say that the necessary existence of a universal must be a proposition, and that this is what Kant argued in his Critique of Pure Reason.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Ibn Taymiyyah argues that the logical syllogism does not allow for new knowledge to be gleaned from it, instead it is just a way of expressing common sense notions. He also criticizes the definition of love, saying that it does not differentiate between platonic and romantic forms of love.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Ibn Taymiyyah argues that there cannot be an infinite regress of causes, because if one causes an effect, then the possibility of that effect occurring must come from an earlier cause. This argument is used to defend the existence of God.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('5700')">01:35:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:35:00</a>
 
  Ibn Taymiyyah discusses various philosophical concepts and how they relate to the existence of God. He argues that the concept of an all-powerful, eternal, and infinite God is logically impossible, and that any arguments based on this concept are invalid. He also discusses the relationship between conceptus and universals, and argues that although proposition is not existence, it's still necessary.
 

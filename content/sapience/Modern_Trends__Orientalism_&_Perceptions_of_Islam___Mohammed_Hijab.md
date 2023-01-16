@@ -27,7 +27,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2700')">00:45:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:45:00</a>
 
  discusses different ways of understanding Islam and Muslims, and how they often don't align with each other. Mohammed Hijab argues that post-colonial Marxist theories are not accurate, and that there is no such thing as a post-modernist Marxist. He suggests that a middle ground of negotiation and discussion is the best way forward.
 

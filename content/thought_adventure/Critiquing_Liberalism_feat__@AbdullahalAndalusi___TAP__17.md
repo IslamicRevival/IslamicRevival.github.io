@@ -75,7 +75,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Liberalism, or the belief that humans should be allowed to do what they want as long as it doesn't hurt other people, has been criticized for its lack of safety regulations and its acceptance of staff turnover.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The clip discusses how liberalism has various contradictions within itself, specifically with regards to how individuals should express their opinions. Islam, in contrast, has a more clear-cut understanding of what is required of followers, with no room for error.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses how liberalism within Islam leads to conflict within the church, while disagreement on theology is not an issue. Islam also has a higher bar for prosecuting someone for leaving Islam, as the judge would need to have a clear-cut verse of Quran or Sunnah to convict someone.
-### <a onclick="modifyYTiframeseektime('7200')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">01:00:00-02:00:00</a>
 
  critiques liberalism, and points out how it is hypocritical for those who support it to criticize those who critique it. It also mentions how recent Prime Minister David Cameron said that too long we've been a passively tolerant society, which has helped foster extremism and grievance.
 
@@ -91,7 +91,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** critiques liberalism for its inconsistencies and problems. He argues that liberalism is not conducive to giving dawah, as it is often inconsistent and limited. He also points out that liberalism can motivate people to adopt secular, modern notions of right and wrong, which changes Islam.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>**  critiques liberalism, and points out how it is hypocritical for those who support it to criticize those who critique it. It also mentions how recent Prime Minister David Cameron said that too long we've been a passively tolerant society, which has helped foster extremism and grievance.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** In the recent debate mentioned by brother Abdullah, one of the brothers said to an ex-Muslim Slim that why don't you call for so you like who's accused of like why you're in the west and you're you know why don't you just leave the west and go to some muslim or islamic regime. The response was that the one you tell those ex-Muslim liberals secularist atheists and the muslim world to leave the muslim because the world is not that the muslim murders clearly not following what you believe in and move to those poor countries which are liberal fully liberal like botswana and south america, is ridiculous. The point of freedom of speech is at least by the enlightenment you know thinkers was to pursue truth which we believe wholeheartedly, and so even in islamic societies where the west depicts them anachronistically as being oppressive or you couldn't express which you wanted to say like in the islamic caliphates in the past from you know from uh the right rightly guided caliphs to the umayyabs and so on so forth, muslims had academic discourses intellectual discourses christians jews even atheists um zoroastrians all having all kinds of discourses publicly and openly
-### <a onclick="modifyYTiframeseektime('10800')">02:00:00</a> - <a onclick="modifyYTiframeseektime('10800')">03:00:00</a>
+### <a onclick="modifyYTiframeseektime('10800')">02:00:00-03:00:00</a>
 
 Abdullahal Andalusi discusses how liberalism is not always the best option for society, and how it can sometimes lead to negative consequences. He argues that it is important to look at the benefits and drawbacks of liberalism before making any decisions.
 
@@ -107,7 +107,7 @@ Abdullahal Andalusi discusses how liberalism is not always the best option for s
 * **<a onclick="modifyYTiframeseektime('9900')">02:45:00</a>** Abdullahal Andalusi discusses the merits of Islamic governance and how it can be applied to the Muslim world. He also discusses the need for Muslims to engage in open discussions about Islam and its values.
 * **<a onclick="modifyYTiframeseektime('10200')">02:50:00</a>** Abdullahal Andalusi discusses how liberalism is not always followed by respect in society. He argues that it is important to look at the benefits of certain ideas, rather than just judging them by their consequences.
 * **<a onclick="modifyYTiframeseektime('10500')">02:55:00</a>**  Abdullahal Andalusi discusses how liberalism relies on the assumption that each individual has a unique set of goals and that those goals should be allowed to be pursued without interference from society. He argues that this assumption is not always correct, and that in some cases it can actually lead to negative consequences for society as a whole.
-### <a onclick="modifyYTiframeseektime('14400')">03:00:00</a> - <a onclick="modifyYTiframeseektime('14400')">04:00:00</a>
+### <a onclick="modifyYTiframeseektime('14400')">03:00:00-04:00:00</a>
 
 Abdullahal Andalusi provides a critique of liberalism, arguing that it often leads to unintended consequences such as the restriction of other people's rights. He also argues that Muslims must be careful when critiquing liberalism as it can lead to dissonance with Islam.
 
@@ -123,7 +123,7 @@ Abdullahal Andalusi provides a critique of liberalism, arguing that it often lea
 * **<a onclick="modifyYTiframeseektime('13500')">03:45:00</a>** provides a critique of liberalism from a Muslim perspective. argues that Muslims must be careful when critiquing liberalism as it leads to dissonance with Islam in conflict with itself. There are also books available on liberalism that Muslims should read in order to provide a more complete understanding of the ideology.
 * **<a onclick="modifyYTiframeseektime('13800')">03:50:00</a>** Abdullahal Andalusi critiques liberalism, pointing out that while liberals may claim to believe in tolerance, in reality they are conservative Muslims who are only advocating for the teachings of Islam if it requires change. He goes on to say that Muslims are actually subjects of the Islamic state, not the caliph, and that Christians who follow Islam have the same rights as Muslims.
 * **<a onclick="modifyYTiframeseektime('14100')">03:55:00</a>** <>
-### <a onclick="modifyYTiframeseektime('18000')">04:00:00</a> - [05:00:00</a>
+### <a onclick="modifyYTiframeseektime('18000')">04:00:00</a>
 
 Abdullahal Andalusi discusses the problems with liberalism, arguing that it is inherently contradictory and that it leads to problems such as exploitation and violence. He suggests that Islam is a better system because it balances the needs of the individual and society.
 

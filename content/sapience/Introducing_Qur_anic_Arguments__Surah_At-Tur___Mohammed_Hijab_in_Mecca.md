@@ -27,7 +27,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses Quranic arguments that focus on the idea that humans are responsible for their own actions, and that they will be coerced into accepting this responsibility if they do not take it.  also discusses how some atheists' level of skepticism is comedic in nature.
 
@@ -43,7 +43,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  features a group of people speaking Arabic with rhythm and power, discussing war, the camel, and horses. One of the people discusses the sky, stars, and imagination, saying that these were all topics of discussion for people living in a desert environment. He notes that in the 21st century, people have a Judging ability that allows them to assess things like skill in football, poetry, and arbitration.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses how the Quran refers to Mohammed as being neither a magician nor possessing any supernatural abilities. It goes on to say that this evidence shows the Quran to be from Allah.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The woman in the video challenges some of the accusations against Mohammed Hijab, arguing that because he spent a lifetime among Muslims, he would have been known and would not need to provide evidence. She also argues that he could not have been a magician, as this was not known about him and he was not a part of The Magicians, a group of magicians.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  introduces Qur'anic arguments and discusses how Surah At-Tur supports the idea that Mohammed Hijab should be in Mecca. It explains that the challenge in the Surah is a psychological inhibition that indicates a person's arrogance, and that the Arabs were not able to meet the challenge of being able to produce a single Surah that matched or exceeded the quality of the Quran.  also discusses the difference between a magician and a prophet, and argues that the Quran contains more variety of miracle than any magic trick.
 
@@ -59,7 +59,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>**  introduces Qur'anic arguments and discusses how Surah At-Tur, which discusses things that come down from the sky, parallels the beginning and end of Surah Al-Fatiha and the beginning of Surah Al-An'am. It also points out that some Muslims may try to rationalize evidence for cosmological miracles by saying that it fits with their worldview.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** introduces Qur'anic arguments, which include Surah At-Tur and Mohammed Hijab in Mecca.  explains that believers will see their day in which they will sink into a horror of disappointment when they know about the truth of the Quran. The linguistic similarities between Surah At-Tur and other Qur'anic verses are interesting, as are the structural similarities.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses Surahs with similar wordings and concepts, showing that the Quran was not simply a random collection of verses, but was instead designed with a specific purpose in mind. The 114 different words in each Surah were chosen specifically to convey a specific message, and the poetic style used to make these messages most persuasive.  explains that even if one does not understand Arabic, it is still possible to appreciate the beauty and precision of the Quran's arguments.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:00:00</a>
 
  discusses the Qur'an, specifically Surah At-Tur, and how its arguments are convincing.  then breaks for a 10-minute break, at which point the narrator announces that they will be praying and then coming back to continue the video.
 

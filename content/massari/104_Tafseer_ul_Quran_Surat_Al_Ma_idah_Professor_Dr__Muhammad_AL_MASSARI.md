@@ -18,7 +18,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  Professor Dr. Muhammad al-Massari discusses the meaning of going down your throat in the context of Quran interpretation. He explains that the metaphor refers to the heart, which contains all the information and knowledge collected over time. This is why it is important to remember that all of this information is inside the heart, and not just the state of the heart.  discusses the importance of having a commitment to Allah, and the consequences of breaking that commitment. It also stresses the importance of always being conscious of God, and bearing witness to the truth in equity and justice.
 
@@ -34,7 +34,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** discusses the importance of remembrance of Allah and how breaking a covenant with Him can lead to heart hardness. He goes on to say that the Quran specifies the borders of Israel and how the jubilee year is a year of freedom and cancelling of debts for the Israelites. concludes by saying that many Muslims have forgotten about these things, and that the 70-year period mentioned in the Quran is to compensate for all of the times Muslims have broken their covenants with Allah.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses a professor's thoughts on the covenant between God and the Muslims. He argues that the Muslims have violated this covenant, and that as a result, God has turned away from them. He goes on to say that even though the Muslims may believe in many things that are not based in scripture, they are still capable of understanding what is happening. He also says that the atheists are masters of deception and that they are unable to move the general masters except by this way.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the concept of "postmodernism," and how it leads to the belief that what we believe is ultimately what matters. The professor goes on to discuss how this concept is applied to the Islamic faith, and how there is a fundamental contradiction between what some Muslims believe and what is written in the Quran. He concludes the video by saying that while postmodernism may be a "relatively new" phenomenon, it has led to the fragmentation of the Muslim community and the increased animosity between those who adhere to traditional Islamic beliefs and those who do not.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('5700')">01:35:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:35:00</a>
 
  Professor Dr. Muhammad al Massari discusses his analysis of the Qur'an. He argues that clear statements in the Qur'an support the idea that Prophet Muhammad was a great prophet of God, even after the so-called Crusades and crucifixion. He also discusses the history of sectarianism in Islam, noting that it has only gotten worse since the Qur'an was first revealed. Professor Massari concludes by urging Muslims to take the Qur'an and Sunnah (the Prophet's teachings) as a whole, rather than dissecting them piecemeal.
 

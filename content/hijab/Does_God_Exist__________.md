@@ -11,7 +11,7 @@
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the evidence for and against the existence of God. who supports the existence of God argues that the evidence points overwhelmingly in that direction, while the speaker who opposes the existence of God argues that the evidence points overwhelmingly against the existence of a transcendent, all-powerful, all-knowing God.
 
@@ -27,7 +27,7 @@
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  speakers argue that there is no evidence for God existing, and that if God does exist, it would be a miracle. They also discuss the arguments from evil, and argue that on a naturalistic worldview, evil does not exist.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** addresses the question of whether or not God exists, and argues that despite the presence of evidence to the contrary, the idea that humans are born equal is a false premise. He goes on to say that the idea of natural selection, which assumes that the fittest survive, justifies the patriarchy. Finally, the speaker addresses the fine-tuning argument, which suggests that the universe is designed in a way that is specifically suited for human life. He argues that, even if this is true, it does not imply that a transcendent being exists.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Mohamad argues that there is a problem with the argument from contingency because it requires a necessary being for everything that is contingent. He goes on to say that the idea of a necessary being that could explain a contingent fact without introducing a new contingent fact in need of explanation is impossible. Furthermore, he argues that the notion of objective moral values existing without being created by God is also problematic. He ends by saying that we cannot even call something evil unless we have a moral foundation, implying that consciousness depends on the physical brain.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  discusses the existence of God, and argues that there is an "extrude" of evidence that points to the existence of a single, independent God. It also argues that if there is a multiverse, then there is no problem because there is an infinite number of universes.
 
@@ -43,7 +43,7 @@
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>* Discusses the concept of cause and effect, and how it can be argued that there is no such thing as a cause. It also discusses the philosophical argument made by Bertrand Russell that because the world is made up of small parts, it does not mean that the world itself is small.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>* Discusses the existence of God, and argues that there is an "extrude" of evidence that points to the existence of a single, independent God. He also argues that if there is a multiverse, then there is no problem because there is an infinite number of universes.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses evidence from the Koran and revelation, which says that a woolly bedroom, a bad Halloween sale, and the Roman defeat of the Britons were all signs of Allah's will.  also discusses predictions made by Muhammad, and how some of them have come true. It concludes with a discussion of Edward Muhammad, a Muslim who works to promote the rights of Muslims in America. He is consistent in his opposition to arbitrary judgments and his work opposing Trump's Muslim ban.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('8100')">02:15:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:15:00</a>
 
 The debate between Mohammed and Edwards in the video "Does God Exist ?" is summarized, with Edwards coming out victorious. Edwards points to the lack of evidence for God's existence, both in terms of things that would be predicted by Muhammad if he were a prophet and in terms of evidence for a special creation of humans. Mohammed is unable to refute these points, and so the video concludes that atheism is the correct position.
 

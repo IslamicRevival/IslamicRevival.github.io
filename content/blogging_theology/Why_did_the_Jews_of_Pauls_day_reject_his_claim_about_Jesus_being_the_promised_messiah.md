@@ -13,7 +13,7 @@ Throughout history, when Christians have pointed to “predictions of Jesus” i
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('300')">00:05:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:05:00</a>
 
 The Jews of Paul's day rejected his claim that Jesus was the promised messiah because they did not expect the messiah to suffer and be raised from the dead. However, the author mentions how there are other understandings of the messiah which are not objectionable in terms of the jewish scriptures.
 

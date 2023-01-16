@@ -13,7 +13,7 @@ Principle of Sufficient Reason and the Infinite Regress   1
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the principle of sufficient reason and its implications for reality and our understanding of it. The principle states that there must be a reason for everything, and that this reason can be either self-evident or impossible to explain.  goes on to discuss the various ways in which this principle can be applied, as well as its limitations.
 
@@ -29,7 +29,7 @@ Principle of Sufficient Reason and the Infinite Regress   1
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The principle of sufficient reason is a principle that states that everything that can be explained must be explained using existing knowledge. This principle is often used to exclude things that are impossible to explain, such as voluntary acts or voluntary illnesses. However, some thinkers claim that the principle of sufficient reason is also used to exclude things that are seemingly impossible, such as the reality of free will.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The principle of sufficient reason states that there is a reason for everything, and that we can understand it by looking in ourselves and analyzing our own existence. The second principle, the principle of contradiction, states that two things cannot be simultaneously true. The third principle, the principle of non-contradiction, states that two things cannot be simultaneously false. The fourth principle, the principle of parsimony, states that the simplest explanation is usually the best explanation. Finally, the principle of cognitive orgasm states that it is not possible for one human being to fully understand all of these principles.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The theory of a matrix is a failed explanation of reality, according to the author. Mathematics is a language of the mind, and if people do not study it, they will not be able to understand it. Most teachers are not skilled mathematicians, and this results in students not enjoying mathematics.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:00:00</a>
 
  explains the principle of sufficient reason and how it leads to the principle of convergence.  uses the example of a sequence of numbers to illustrate how the two principles work together to produce a result.
 

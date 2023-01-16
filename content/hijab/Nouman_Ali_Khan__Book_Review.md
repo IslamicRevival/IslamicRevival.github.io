@@ -15,7 +15,7 @@ Dr. Aymans Instagram - https://www.instagram.com/ayman_sebazzi/
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2700')">00:45:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:45:00</a>
 
 This book provides an overview of the Quran's linguistic precision and structural coherence. It also discusses how these qualities make the Quran a linguistic miracle.
 

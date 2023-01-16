@@ -51,7 +51,7 @@ Viewers are reminded that the personal beliefs or non-beliefs of the guest do no
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  Daniel Haqiqatjou discusses the impact of modernist philosophies on Islam. He argues that these philosophies have led to a decline in traditional values and social bonds, and that they pose a threat to the Islamic tradition. He also discusses the signs that indicate the end of times is near.
 
@@ -67,7 +67,7 @@ Viewers are reminded that the personal beliefs or non-beliefs of the guest do no
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Daniel Haqiqatjou discusses the impact of "modernist liberalism" on islam, which he describes as being under attack from a "brutal, most brutal type of crackdown." He refers to Sheikh Abdul Hakim Murad, a mild-mannered professor who has recently spoken out against the prevent program in the United Kingdom, as an example of this trend.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses rise of liberal secularism and how it has failed to provide the goods promised, leading to widespread discontent. argues that this discontent may lead to violence and brutality on the part of the state, which could ultimately lead to the end of liberalism.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  Daniel Haqiqatjou discusses the signs that indicate the end of times is near. One of the themes of Islamic eschatology is that everything will be backwards, and good will be considered evil and evil will be considered good. Haqiqatjou's background as a religious scholar informs his views on the matter.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:00:00</a>
 
 Daniel Haqiqatjou discusses the effects of modernism on Muslim cultures, highlighting the loss of robust faith in young Muslims. He also discusses the need for Muslims to recognize the problem and work to find solutions.
 

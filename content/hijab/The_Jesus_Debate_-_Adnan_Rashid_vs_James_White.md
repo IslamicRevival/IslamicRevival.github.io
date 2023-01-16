@@ -13,7 +13,7 @@ Recorded by SCDawah Channel , support them by *subscribing* here - https://www.y
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  Adnan Rashid and James White debate the similarities between Christians and Muslims. Rashid argues that both groups share many similarities in their beliefs and practices, while White argues that the two groups are not alike because Jesus is the only way to God.  also discusses the idea that Jesus confirmed the law of Moses, and that Paul later gave Christians the beliefs they currently hold.
 
@@ -31,7 +31,7 @@ The Jesus debate is important because it allows Christians and Muslims to discus
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The Jesus Debate between Adnan Rashid and James White is a discussion on whether or not Christianity or Islam is the right way to follow Jesus Christ. Both Adnan Rashid and James White argue that their respective religions are the only way to be made like Jesus Christ, and that true Christians die to themselves and take up the cross. James White also mentions that there are people who want to have peace in the world, and share love and compassion.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** , Adnan Rashid discusses some of the similarities between Jesus and Muslims. He points out that Jesus followed the law of Moses, and that Paul later gave Christians the beliefs they currently hold. He also emphasizes the importance of Historic Jesus in regards to beliefs, rituals, and outward appearances.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses nconsistencies in the teaching of Jesus Christ, specifically focusing on the inconsistencies in His view of the Trinity and His stance on law and morality.  also points out that it is difficult for a Muslim to believe in Jesus Christ, and that, even if a Muslim did believe, it would be impossible for them to follow His teachings and become one of His followers.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('5400')">01:30:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:30:00</a>
 
  is a debate between two people with different religious beliefs. Adnan Rashid believes that Muslims and Jesus are similar in many ways, while James White believes that Christianity is based on trust in the Spirit of God. The debate ends with White asking why Jesus would reveal something that would not be understood by people until the Holy Spirit has been poured out upon the church, to which Rashid responds that Jesus could easily tell his disciples this in the future.
 

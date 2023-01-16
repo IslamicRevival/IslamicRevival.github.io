@@ -11,7 +11,7 @@ We discuss his latest book Travelling Home: Essays on Islam in Europe https://ww
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 Shaykh Abdal Hakim Murad discusses the importance of blogging theology, noting that although Muslims are traditionally very traditional in their views of sexuality and gender, this is beginning to change in the west. He warns that this shift may lead to increased pressure on Muslims, particularly in regards to their views on sexuality and gender within heterosexual marriage and the role of gender within society.
 
@@ -27,7 +27,7 @@ Shaykh Abdal Hakim Murad discusses the importance of blogging theology, noting t
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Shaykh Abdal Hakim Murad discusses the challenges of being a Muslim in a secular society, how mosques are crowded and dynamic events, and how the Muslim family, neighborhood, place of worship, and gender are still maintained despite challenges.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The video discusses the significance of local customs in Islamic law, and argues that they should not be replaced by a uniform Arabness. It also points to examples of how Islamic law has uplifted local cultures.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Shaykh Abdal Hakim Murad discusses the challenges of modernizing mosques in Sweden and Europe, and how the traditional enculturation of the Ummah can be helpful in adapting to the modern world. He also discusses the importance of neighborliness in Islam, and how the rise of the third generation will help to overcome cultural barriers.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3900')">01:05:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:05:00</a>
 
 Shaykh Abdal Hakim Murad discusses his journey from atheism to Islam, and how he believes that science has shown that the universe is too ordered and beautiful to be explained by chance. He believes that monotheism will ultimately prevail over atheism due to people's ability to transcend their egos and see the beauty in Islam.
 

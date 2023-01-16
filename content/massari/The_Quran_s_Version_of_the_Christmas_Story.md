@@ -14,7 +14,7 @@ The Quran's Version of the Christmas Story
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the different versions of the Christmas story found in the Quran.  highlights how the Quran's version of the story stresses the importance of good news being brought to those who are in need.
 
@@ -30,7 +30,7 @@ The Quran's Version of the Christmas Story
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses how Muhammad, the founder of Islam, received a revelation that Jesus was not the only son of God. Muhammad was surprised when he saw a girl who matched the description of Jesus in this revelation. Muhammad asked the Lord for a sign, and was given wisdom and affection.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the different versions of the Christmas story found in the Quran.  highlights how the Quran's version of the story stresses the importance of good news being brought to those who are in need.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the story of the virgin birth, which is a topic of contention for many people who study the Old Testament and refute its aspects. It cites a verse from the Quran which supports the story. However, the video argues that even if one part of the story is false, the whole thing is still false.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  explains how the Quran's version of the Christmas story differs from the traditional story. The traditional story involves Jesus traveling to Bethlehem, being born, and then returning to Galilee. The Quran's version involves Jesus traveling to a high plain in Jordan, being born, and then returning to Palestine.  argues that this version makes more sense and is more reasonable.
 
@@ -46,7 +46,7 @@ The Quran's Version of the Christmas Story
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>**  an Islamic scholar discusses the Quran's version of the Christmas story. He points out that while the Christmas story in the Bible is pagan, the Quran's version is actually quite miraculous. The Quran's version of the Christmas story features a pregnant woman who sees a sign from God, and she and her husband go away to a remote place to hide. After some years, they return and bring their child with them, and nobody is surprised or even knows who the child is.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a> Discusses how the Quran's version of the Christmas story differs from the traditional story. The traditional story involves Jesus traveling to Bethlehem, being born, and then returning to Galilee. The Quran's version involves Jesus traveling to a high plain in Jordan, being born, and then returning to Palestine. argues that this version makes more sense and is more reasonable.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses the different Christmas stories, noting that the Quran's version is far more historically accurate. The narrator argues that the story of the virgin birth is most likely a revelation from God, and that the Christmas story was created to deceive people.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('10500')">02:55:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:55:00</a>
 
  "The Quran's Version of the Christmas Story" discusses the differences between the Quran's version of the story and the traditional Christian version.  argues that the Quran's version is more rational and allows for a better understanding of spirituality and the meaning of life.
 

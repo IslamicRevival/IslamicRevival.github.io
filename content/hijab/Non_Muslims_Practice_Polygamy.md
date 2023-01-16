@@ -11,7 +11,7 @@ This video exposes the double standards of those who criticise Islam on some of 
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  discusses polygamy and how it is viewed from an atheistic or liberal perspective. It mentions how there is a spiritual disincentive for someone who is monogamous to practice polygamy, and how Christianity has a different view on the matter.
 

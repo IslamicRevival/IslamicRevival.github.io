@@ -11,7 +11,7 @@
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 Andrew Tate discusses his views on religion, feminism, and the concept of personal responsibility. He argues that traditional family values are important for a stable and successful society. He also shares his thoughts on the current state of tolerance in society, and how it is used to manipulate individuals into thinking that right and wrong no longer exist.
 
@@ -27,7 +27,7 @@ Andrew Tate discusses his views on religion, feminism, and the concept of person
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses idea that it is better for society and for the competitiveness of humanity for people to be in their original gender roles. Andrew Tate argues that traditional family is one way to help achieve this.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** According to Nicholas Wolfinger, a demographics expert, religious families are the most stable and successful in terms of raising children. This is in contrast to the feminist movement, which aims to break down the traditional family unit. This movement has led to an increase in unhappiness and confusion amongst women, as they no longer have the support of their parents.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses how feminism and the idea of getting the mother out of the household and locking the children in educational camps are purposeful efforts to control the youth. He argues that atheism is a neutral position when it comes to these controversial topics, because people can be convinced that even if they see a giraffe, their mind tells them it is a horse.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('4800')">01:20:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:20:00</a>
 
  Andrew Tate discusses how taking your beliefs to their logical conclusion can often lead to undesirable results. Mohammed Hijab argues that these ideas have not been tested and are false, leading to a false reality. The two then debate the merits of Islam and its ability to help people overcome challenges in their lives.
 

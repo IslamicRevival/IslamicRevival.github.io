@@ -27,7 +27,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the necessary conditions for prophethood and revelation, explaining that these conditions must be met in order for something to be considered a prophecy or revelation. The presenter also discusses probabilistic reasoning, using examples from everyday life to illustrate the point.
 
@@ -43,7 +43,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The narrator discusses how Prophet Muhammad (PBUH) was an exemplary example of living a frugal life, having impeccable manners and being humble. He also points out that his engagement in warfare only occurred before he was persecuted, and this is evidence of his prophethood.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses how the prophet Muhammad was rejected violently by his people but gained leadership through popular support. It also mentions that he put in place constitutional protections for minority groups, including Jews. This is in contrast to the situation in Britain, where Muslims do not have similar protections.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses how Islam is the most anti-racist religion in the face of the earth, and that racism is not found in any of the scriptures of any ancient world religion. It also discusses how Prophet Muhammad married a jewish woman and gave her words to say to defend herself which would exalt her ethnic status if he were such an anti-semite.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('4200')">01:10:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:10:00</a>
 
  discusses the character of Prophet Muhammad and how his actions indicate that he was a true prophet. It encourages Muslims to be careful in their preaching and teaching of Muhammad, and to make sure that their arguments are based on sound evidence.
 

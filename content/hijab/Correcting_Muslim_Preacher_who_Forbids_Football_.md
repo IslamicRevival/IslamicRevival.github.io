@@ -9,7 +9,7 @@
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  is a humorous critique of a Muslim preacher who forbids football. points out that the preacher is wrong in his beliefs, and offers to help the audience learn critical thinking skills.
 

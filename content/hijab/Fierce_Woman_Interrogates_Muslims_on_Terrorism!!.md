@@ -11,7 +11,7 @@ This video examines the claim that Islamic terrorism eclipses all other kinds of
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1500')">00:25:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:25:00</a>
 
  discusses how Muslims are often unfairly targeted and prosecuted in the United States, and how legislation aimed at combating terrorism can be discriminatory. encourages open dialogue between Muslims and other members of the community, and wishes them success in doing so.
 

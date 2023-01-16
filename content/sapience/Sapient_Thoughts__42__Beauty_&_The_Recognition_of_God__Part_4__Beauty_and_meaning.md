@@ -11,7 +11,7 @@ Natural beauty can bring about a state of awe. This can increase cognition & red
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 discusses the difference between beauty and meaning in terms of art. It provides examples of beauty in various forms, including prose and poetry, and discusses how the two can be compared. discusses how beauty can evoke a deeper sense of understanding in the reader, and how this can lead to a greater pleasure in the experience of the work.
 

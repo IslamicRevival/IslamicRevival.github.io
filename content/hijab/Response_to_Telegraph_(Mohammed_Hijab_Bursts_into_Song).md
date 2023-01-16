@@ -15,7 +15,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  "Response to Telegraph (Mohammed Hijab Bursts into Song)" is a response to an article published in the Telegraph about Mohammed Hijab, a Muslim teenager who burst into song.  criticizes the Telegraph for its poor journalism and for including a section about the teenager's father without properly sourcing it.  also criticizes Catherine Lau, the author of the Telegraph article, for not doing her own research.
 

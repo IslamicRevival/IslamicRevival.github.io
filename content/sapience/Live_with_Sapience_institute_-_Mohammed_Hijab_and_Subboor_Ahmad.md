@@ -11,7 +11,7 @@ Live with Sapience institute - Mohammed Hijab and Subboor Ahmad
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 Mohammed Hijab and Subboor Ahmad from Sapience Institute discuss the reasons for Islam, the objections to it, and how to answer them. They also introduce their first guest, Mashaallah, and talk about his experience as a Muslim.
 
@@ -27,7 +27,7 @@ Mohammed Hijab and Subboor Ahmad from Sapience Institute discuss the reasons for
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Mohammed Hijab and Subboor Ahmad discuss the argument that the Quran is more superior than other religious texts. They argue that this is because the Quran was written down by human beings who were mislead in the beginning. They also discuss contradictions within the Quran and how Christian leaders have tried to reconcile them.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Mohammed Hijab and Subboor Ahmad discuss the idea that there may be a contradiction in the Bible, and how this may affect how people approach religious beliefs. Hijab argues that the text must be metaphorized in order to avoid a conflict. Ahmad points out that there are different schools of thought within Christianity regarding how to approach the text, and that both literalism and spiritualization risk apostasies. He ultimately recommends Islam as the best option for those who want to maintain their rationality and spirituality while still believing in religious miracles.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses how Mohammed Hijab and Subboor Ahmad strawman the Quran in order to make their own points. These points are not as valid as they seem, and can easily be dismissed.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('6300')">01:45:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:45:00</a>
 
  Mohammed Hijab and Subboor Ahmad from the Sapience Institute discuss the harm principle, liberalism, and Islamic morality. They argue that the harm principle has changed over time, and that it needs to be reconsidered in light of new challenges and criticisms. They also discuss the importance of Islamic morality and its objectivity.
 

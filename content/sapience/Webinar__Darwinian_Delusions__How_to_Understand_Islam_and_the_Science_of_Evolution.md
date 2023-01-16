@@ -13,7 +13,7 @@ To watch and learn from the free Sapience Institute launch webinars please acces
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the conflict between Islam and the theory of evolution, and how science does not lead to certainty. It also discusses the problems of induction, under determination, and unconceived alternatives.
 
@@ -29,7 +29,7 @@ To watch and learn from the free Sapience Institute launch webinars please acces
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the limits of scientific inquiry and how this forces scientists to accept certain conclusions even if they may be counterintuitive or mystifying to the uninitiated. He goes on to say that despite this limitation, materialism is still absolute because we cannot allow a divine foot in the door.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the implications of methodological naturalism on the theory of evolution, and how it limits scientists' ability to understand evolution. It also points out that though 99.999% of the data on earth is missing, this does not mean that evolution is a theory without evidence.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Richard Lewinton and Stephen Jay Gould wrote a paper in the 1970s called "Darwinian Delusions." The paper discusses how some stories, even if coherent and consistent with natural selection, are empirically baseless. It is important to understand that all of these stories are based on assumptions.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('5700')">01:35:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:35:00</a>
 
  discusses the problems with reconciling science and the Quran, and argues that there is no contradiction between the two. also suggests that Muslims should focus on non-Muslims instead of name-calling.
 

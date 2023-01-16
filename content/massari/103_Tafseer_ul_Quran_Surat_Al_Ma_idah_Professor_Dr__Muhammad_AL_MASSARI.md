@@ -18,7 +18,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  Professor Dr. Muhammad AL MASSARI discusses the different prohibitions in Islam, the reasons for these prohibitions, and the consequences of breaking them. He also discusses the concept of "perfected faith," which refers to the fact that Islam has been perfected at this day.
 
@@ -34,7 +34,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  Professor Dr. Muhammad AL MASSARI discusses the difference between the intentions of a person when traveling, and when intending to do evil. He explains that the person in the latter case is not allowed to eat the meat from the animal that they killed, as it would be considered an act of evil.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** discusses the various permissible ways to hunt and eat meat, emphasizing that mentioning the name of God is a key part of the process. He advises Muslims to repent before engaging in any hunting or eating, as sinfulness can add to an already difficult situation.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** explains that all good things in life, such as food, are now lawful for Muslims. It also states that marriage is permissible for believers and virtuous women from other religions, provided that the husband gives his bride a dowry and they do not have secret affairs. If someone rejects faith in God, all of their works will come to nothing in this life and in the next.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('6600')">01:50:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:50:00</a>
 
  discusses the various interpretations of the obligation to wash one's hands before salah, with the majority of scholars agreeing that wet hands are sufficient. However, there is some disagreement over whether washing the feet is also necessary, with the majority of scholars considering it to be optional.
 

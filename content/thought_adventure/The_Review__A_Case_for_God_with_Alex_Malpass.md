@@ -58,7 +58,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  Alex Malpass argues for the existence of God using the principle of sufficient reason. He says that God exists because there is no reason why he should not exist, and that this is a contradiction of the idea that God sometimes exists and sometimes does not.
 
@@ -74,7 +74,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Alex Malpass argues that there is no answer to the question of why God exists, but that nonetheless God exists because of the "sufficient reason" principle. He says that God would finish counting down to aleph null if he had always been counted down, but that this is contradicted by the fact that God has already counted an infinite amount of numbers.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the contradiction between the idea that God always exists and the idea that he sometimes exists and has an end. Alex Malpass pointed out that the responses given by the person in the chat were contradictory, and suggested that this might be because the person is counting from a finite point.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Alex Malpass discusses the problem of the Psr, or "person's always counting" theory of time. He argues that this theory is arbitrary and does not make sense. Another brother brought the same objection to him, and he found the argument in the literature.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
 Alex Malpass discusses the problem with the argument for an infinite causal chain and how the solution is that there is not an infinite causal chain. He also discusses how the concept of free will is not necessitated and can be explained without recourse to a God.
 
@@ -90,7 +90,7 @@ Alex Malpass discusses the problem with the argument for an infinite causal chai
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** Alex Malpass discusses the concept of free will and its relation to libertarian free will. He argues that free will exists as an experience within human beings, and that an ultimate explanation for why a certain choice was made exists. He goes on to say that this explanation is not deterministic, and that the concept of free will is necessary for a meaningful understanding of the universe.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>**  philosopher Alex Malpass argues that free will is not necessitated and can be explained without recourse to a God. He provides an example of a person choosing between two options, one of which is contingent on a prior decision made by another person. Malpass argues that this example does not require an explanation outside of the person making the choice, and that the existence of a necessary being - such as God - does not necessitate the existence of free will.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Dr. Alex Malpass discusses the idea of libertarian free will and how it is incompatible with causality. He also points out that the concept of libertarian free will does not require a further explanation because it is built upon the idea of a free world.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('10800')">03:00:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-03:00:00</a>
 
  Alex Malpass discusses contingency and how it relates to necessary vs. contingent explanations. He argues that all concrete things are contingent because in the actual world they don't always require an explanation. He then goes on to say that if God is causal, then there must be an infinite series of contingent things, which is implausible.
 
@@ -106,7 +106,7 @@ Alex Malpass discusses the problem with the argument for an infinite causal chai
 * **<a onclick="modifyYTiframeseektime('9900')">02:45:00</a>** Alex Malpass discusses the two positions he previously defended - the strong principle of necessitation and the beginningless chain - and how he has now come to accept the third option, which is contingent reality is explained by the conjunction of all individual explanations. He argues that this view is more consistent and plausible than the strong principle of necessitation.
 * **<a onclick="modifyYTiframeseektime('10200')">02:50:00</a>**  philosopher Alex Malpass argues that the view that there is something rather than nothing is better explanation than the view that does not explain why there is something. He also argues that the view that posits a necessary being is stronger than the view that does not posit a necessary being.
 * **<a onclick="modifyYTiframeseektime('10500')">02:55:00</a>**  Alex Malpass discusses why it is that there is something rather than nothing, and why necessary abstract objects exist. He argues that if certain premises of the "necessary being must have an ontological account for its existence" argument are accepted, then it is reasonable to posit a necessary reality to explain why there are contingent realities.
-### <a onclick="modifyYTiframeseektime('10800')">03:00:00</a> - <a onclick="modifyYTiframeseektime('14400')">04:00:00</a>
+### <a onclick="modifyYTiframeseektime('10800')">03:00:00-04:00:00</a>
 
 "The Review: A Case for God with Alex Malpass," Malpass discusses how one can have a simple or complex theory of God, depending on how one defines "necessary thing." He goes on to say that there is a tension between the positions he holds, and that he will have to try to make it work.
 
@@ -122,7 +122,7 @@ Alex Malpass discusses the problem with the argument for an infinite causal chai
 * **<a onclick="modifyYTiframeseektime('13500')">03:45:00</a>* Discusses the idea that some people might not believe in God because of personal reasons, such as the person's own philosophical axioms not being based on faith. Alex Malpass argues that this does not mean the person is wrong, and that it is helpful to have discussions with those who do not believe in God in order to enlighten them on the arguments for and against the existence of a deity.
 * **<a onclick="modifyYTiframeseektime('13800')">03:50:00</a>** , Alex Malpass discusses the "necessity being" argument against atheism, which goes like this: If there is a necessary being, then everything within the temporal universe becomes necessary, because God could only choose one particular way to create it. The "modal collapse" argument is that if this is true, then mind or agency must exist within the necessary being, because it is from the point of view of the observer – not the creator – that all possible universes become necessary.
 * **<a onclick="modifyYTiframeseektime('14100')">03:55:00</a>**  "The Review: A Case for God with Alex Malpass" discusses Alex Malpass's argument that the prophet Muhammad only used the Quran to speak. Malpass argues that this is wrong, as the prophet Muhammad also reasoned with non-Muslims.
-### <a onclick="modifyYTiframeseektime('14400')">04:00:00</a> - <a onclick="modifyYTiframeseektime('14700')">04:05:00</a>
+### <a onclick="modifyYTiframeseektime('14400')">04:00:00-04:05:00</a>
 
  looks at how people have been arguing for and against the existence of God throughout history, and how these arguments have changed over time. Alex Malpass argues that even though people may have arguments against Islam, it does not mean that they need to study metaphysics or philosophy in order to believe in God.
 

@@ -11,7 +11,7 @@
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1500')">00:25:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:25:00</a>
 
  discusses the importance of civility and freedom of speech in relation to the development of the modern world. It argues that Islam facilitated this progress, as it implemented values such as progressiveness and natural science. European growth was also facilitated by the Islamic civilization, and the liberal ideologues of today should understand that they will never be satisfied with their lack of worship unless they adhere to Islam.
 

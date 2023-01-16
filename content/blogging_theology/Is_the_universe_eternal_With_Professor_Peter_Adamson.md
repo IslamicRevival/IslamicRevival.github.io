@@ -12,7 +12,7 @@ History of philosophy podcasts: https://historyofphilosophy.net/
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  "Is the universe eternal? With Professor Peter Adamson" discusses the debate over the eternal nature of the universe. Adamson introduces the positions of Plato and Aristotle and discusses how late antiquity philosophers reconciled these two positions. He also discusses the work of al-Ghazali and Ibn Cena in the 12th century and how their arguments influenced the debate.
 
@@ -28,7 +28,7 @@ History of philosophy podcasts: https://historyofphilosophy.net/
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The professor discusses how the Quran teaches that God is unchallengeable, has no cause, and is the creator of the universe eternally. Algazali declared Ibn Cena a non-muslim, and this could have consequences for him in the afterlife.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Professor Peter Adamson discusses the idea that the universe is eternal, and how this idea has been debated over the centuries by various philosophers. He points out that, while Al-Gazali's criticisms of Ibn Cena were influential, they were not the only ones, and that other arguments in favor of the universe's eternity continue to be made today.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the influence of Ghazali, a medieval Islamic philosopher, on the debate over the existence of the universe. It notes that while Ghazali's arguments against the eternity of the world are not decisive, they are persuasive nonetheless. This position is later passed on to the Latin tradition and Thomas Aquinas, who argues that the arguments for and against the existence of the universe are not decisive.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:00:00</a>
 
 Professor Peter Adamson discusses whether the universe is eternal. He cites sources that back up his claim that the universe is eternal, and mentions that Oxford and Cambridge have published books on the topic in German and Latin, respectively.
 

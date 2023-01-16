@@ -13,7 +13,7 @@ Principle of Sufficient Reason and the Infinite Regress   3
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3300')">00:55:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:55:00</a>
 
 The principle of sufficient reason is discussed  and it is applied to various situations. The principle is said to be a useful tool, and it is hoped that it will be applied more often in the future.
 

@@ -15,7 +15,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('900')">00:15:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:15:00</a>
 
 The Negus of Abyssinia allows the early Muslims to practice their religion freely and provides them with refuge from persecution. The Muslims are comforted by the Negus' recitation of a passage from the Quran which states that Jesus is a slave of God. The Muslims go on to have a long and prosperous history in Abyssinia.
 

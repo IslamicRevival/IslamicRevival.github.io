@@ -27,7 +27,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  Mohammed Hijab discusses the current condition of Muslims and how it differs from traditional Islamic values. He argues that modern values, such as positivism and economic rationality, have negative effects on the way Muslims view human beings. He also points out the strengths of traditional Islamic values, such as the importance of morality and the interconnectedness of the world's realities.
 
@@ -43,7 +43,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  the author explains how the United States' legislature works, and how each state has two senators and one representative. also mentions that, in Islam, the laws are already there, so there is no need for a legislature. This renders the legislature as a redundant body.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the legitimacy of a Muslim leader, discussing how a caliphate can never be declared without shulk (having power to protect the people), and why a representative democracy and Islam's method of choosing a leader are different. notes that women have a vote for 100 years and that they were giving back to the prophet, sallam, from a thousand four hundred years ago.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Mohammed Hijab discusses the current condition of Muslims and how they differ from traditional Islamic values. He argues that modern values, such as positivism and economic rationality, have negative effects on the way Muslims view human beings. He also points out the strengths of traditional Islamic values, such as the importance of morality and the interconnectedness of the world's realities.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('4800')">01:20:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:20:00</a>
 
 Mohammed Hijab discusses the current condition of Muslims and how democracy can be used instrumentally, but warns against taking it too far. He suggests the middle ground as the best option.
 

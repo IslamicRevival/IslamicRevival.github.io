@@ -64,7 +64,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1200')">00:20:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:20:00</a>
 
  discusses how someone can become a theist based on evidence, and how the key step is accepting that there is a good case to say that the necessary being has a will.  also discusses the moment an atheist becomes a theist, and how there is little to no skepticism when it comes to the existence of one's daughter and that she is another mind.
 

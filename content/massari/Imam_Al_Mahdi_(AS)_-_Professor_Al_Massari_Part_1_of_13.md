@@ -11,7 +11,7 @@ Professor Muhammad Al Massari discusses matters related to the prophecised Imam 
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('300')">00:05:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:05:00</a>
 
  discusses the idea that the state will last more than a thousand years, based on indications of a habit that has been shown in reality. He also mentions that prophecies of Muhammad say almost everything is near, and that a thousand years almost like a fraction of a second is possible. He goes on to say that there may be a time order, although it is difficult to determine. He also says that after Muhammad said there is no other prophet coming, it is over, so it is extremely difficult to determine an order. However, based on various hadith, he believes some sort of order may be possible. He concludes by saying that, although there are many uncertainties, indications suggest that the state will last more than a thousand years.
 

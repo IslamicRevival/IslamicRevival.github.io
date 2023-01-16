@@ -15,7 +15,7 @@ http://www.manyprophetsonemessage.com/2014/06/28/muhammad-pbuh-and-madinah-in-th
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  Muhammad discusses the similarities and differences between his hometown of Mecca and the city of Jerusalem in the Bible. He highlights the importance of both cities to Muslims and highlights the similarities and differences between the two.
 

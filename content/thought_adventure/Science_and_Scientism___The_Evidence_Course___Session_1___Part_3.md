@@ -64,7 +64,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1500')">00:25:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:25:00</a>
 
  discusses how science and scientism are two different approaches to studying evidence. The first problem with scientism is that it is self-refuting, as stated by the examples given. The second problem is that certain things we are sure about without the use of science, like the existence of great grandmothers, are inductively derived.
 

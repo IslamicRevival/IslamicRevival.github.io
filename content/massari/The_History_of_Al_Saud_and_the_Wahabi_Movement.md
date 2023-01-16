@@ -11,7 +11,7 @@
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the history of Al Saud and the Wahabi movement. It explains that the Wahabi movement is based on the interpretation of Qur'an and Sunnah, and that it is not limited to prophets or human judges.  also states that the essence of the law is for Allah alone, and that the prophets were ruling by formulating laws according to inspiration.
 
@@ -27,7 +27,7 @@
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the history of Al Saud, the Wahabi movement, and the Prophet Muhammad. It notes that Al Saud was after Ramadan in the 10th year meaning before this was like six months after after Ramadan, and sent some gold which is mined but not even purified from its dust. It also describes how Omar stood up and said let me strike his neck, which is the monafic, and i said leave him from this school or from this from this root or from his germ, which means the back because by the conception that children are produced from the back they carry the features somehow. This is an old conception which is reflected in the language.  ends by noting that these people are indulged in acts of worship, piety, and jihad because the man did not do anything which was worthy of being killed.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The history of the Wahabi movement discusses how the early khawaris were afraid to commit major sins, and how later generations became even worse.  also discusses the correct interpretation of the Qur'an's injunction that the khalifa should be from Quraysh.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the history of Al Saud and the Wahabi movement. It explains that the Wahabi movement is based on the interpretation of Qur'an and Sunnah, and that it is not limited to prophets or human judges.  also states that the essence of the law is for Allah alone, and that the prophets were ruling by formulating laws according to inspiration.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('6000')">01:40:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:40:00</a>
 
  discusses the history of Al Saud and the Wahabi movement, focusing on the origins of the Wahabi movement and its relationship to the Saudi royal family. It also explains how the Wahabi movement has been linked to terrorist groups, including Daesh.
 

@@ -17,7 +17,7 @@ Q and A
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  Dr. Majid Al-Masari discusses the concept of iman, or faith, and how it differs from other beliefs. He provides several examples of how iman manifests itself in different situations, concluding that it is a matter of will and not just a state of mind. Dr. Al-Masari stresses the importance of having conviction in regards to iman, and encourages humanity to develop a clear understanding of its meaning.
 
@@ -33,7 +33,7 @@ Q and A
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** discusses how paganism and Judaism have their roots in sacrifices, and how the idea of a divine being with free will and power is contradictory. He goes on to say that it is possible that the statement "the divine being exists" was made based on a lack of knowledge, and that it is still possible for that statement to be correct even though the divine being is not fully understood.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** in this YouTube video discusses the meaning of the benevolent one who loved the world, and how this concept is pagan and has nothing to do with reality. He goes on to say that this statement is elaborated in a further discussion and that it does not go back to the act of the heart which is accepted in that because he regarded most likely as natural but it has to be elaborated as an act of the heart which is obviously when this when he discusses issues like mathematical issues and issues of theology and philosophy which you could some of them could develop them to a level of proof similar to the level of mathematical proof. Everything appears to be logical and cold, but you don't notice the side of acceptance and surrender because there's no issue there for things which are having mathematical proof to accept to reject and not reject. This is a mental state of mental arrangement, but even in that there is an acceptance and surrender but of no relevance to anything it doesn't relate to any point of view of the world because we have issues here of scientific or mathematical evidences which you can put your hand and do it if necessary if you want or you accept which is showing you that and you can and he show you how the proof is done and you follow it after him and verify that
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Raji discusses the conditions for having faith in Allah, emphasizing that it must be based on evidence and be accompanied by good deeds. He gives the example of the sun rising in the west, saying that even if people disbelieve this evidence, it will be too late because Allah has already revealed His signs.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('5100')">01:25:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:25:00</a>
 
  provides a summary of Syrian Imami Shi'a scholar Almassari's views on iman, stating that it is the statement of the heart and the acceptance and surrender to allah that creates the action of the heart, which is the result of iman. Almassari goes on to say that external actions are not part of iman, and that iman is solely the issue of the heart.
 

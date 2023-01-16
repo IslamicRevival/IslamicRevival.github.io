@@ -11,7 +11,7 @@ Full video here -https://www.youtube.com/channel/UCVe9scgFCo97IEWj0I37Ozg
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  discusses how liberalism can be difficult to define and how it often clashes with other values. argues that this is a problem for liberalism, as it can allow people to enact their individual desires without restraint.
 

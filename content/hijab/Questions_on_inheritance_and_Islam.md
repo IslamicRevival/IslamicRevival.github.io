@@ -11,7 +11,7 @@ Another recap of some inheritance anomalies where the estate goes over 1.
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  discusses the Muslim inheritance law, which is not mentioned exclusively in the Quran. The woman explains that while the law differs between men and women, in most cases the son will receive more money than the daughter. She thanks the viewer for their question and wishes them good luck.
 

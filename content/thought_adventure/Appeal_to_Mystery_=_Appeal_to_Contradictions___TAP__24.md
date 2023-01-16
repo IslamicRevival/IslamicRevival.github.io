@@ -58,7 +58,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 discusses how appealing to mystery is not the same as appealing to contradictions. It argues that, when it comes to something that is at the core of a theory or belief, it is important to make sure that the appeal to mystery is justified.  also discusses how Christians and Muslims have contradictory views on aspects of God's nature, and how this can be problematic if one is not clear about what the A and not a contradiction is.
 
@@ -74,7 +74,7 @@ discusses how appealing to mystery is not the same as appealing to contradiction
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** talks about how Christians and Muslims have contradictory views on aspects of God's nature. They argue that if one cannot understand an attribute of God, they cannot talk about it meaningfully. then argues that if one is trying to make a comparison between God's attributes and creation, then that similarity would be a contradiction.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses how Christians often use adjectives to describe Allah, such as "mercy," "wrath," and "wisdom." However, this does not mean that these adjectives are applicable to Allah in the same way that they are applicable to creation. goes on to say that even beyond the differences that we know of, there are certain things about Allah's attributes that we do not know of. Nevertheless, using language that we are familiar with and that is given to us in the Quran and Sunnah is okay as long as we understand the correct parameters.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the concept of logical contradictions, and how they are not things that God can or cannot do. It then goes on to ask a final question related to logical contradictions.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
 the speaker discusses how people can be contradictory in their beliefs, and points to Muhammad Hanif's comments in the comments section of the video as an example. He argues that the apparent meaning of a word cannot be determined if it is not what is observed. Hanif then points out that if a word does not indicate the apparent meaning, then it must be metaphor. He concludes by saying that if a word does not indicate the apparent meaning, then it must be a physical organ.
 
@@ -90,7 +90,7 @@ the speaker discusses how people can be contradictory in their beliefs, and poin
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>**  Muhammad discusses the analogy between angels and creatures in our physical reality, and argues that angels cannot be physical because they are not in the universe. He then asks the viewer to defend his position.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** Abdulrahman argues that even though angels have wings, they are still physical beings in a similar way to things within the universe.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Jake claims that there is similarity between the properties of Allah's knowledge and Mercy, despite the lack of a physical connection between the two. He suggests that this similarity is due to their abstract nature.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('9900')">02:45:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:45:00</a>
 
  Terry asks his opponent why he would use his arguments if he has his own, more delicious ones. His opponent responds that he has his own arguments for God, but Terry does not seem to be comfortable defending them. Terry argues that numbers don't apply to eternity and his opponent disagrees. discusses how it is important to understand logical contradictions in order to properly evaluate beliefs and arguments. He goes on to explain that when someone appeals to mystery, they have to demonstrate that the contradiction is not a logical one.
 

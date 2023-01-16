@@ -19,7 +19,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  Professor Linda Woodhead discusses the decline of Christianity in Britain. She cites a lack of religious experience among the population as one reason. She also discusses the implicit racism and sexism present in British society, and the way that governing ideologies often disguise the reality that Britain is still a Christian country.
 
@@ -35,7 +35,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Professor Linda Woodhead discusses her hypothesis that there is a "constancy of experience of the Supernatural and the sacred" in the secular world. She notes that this is often underestimated, as many people have religious experiences that go beyond the traditional religious tenets.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>**  Professor Linda Woodhead discusses how there is still a lot of spiritual underreporting in Britain, which is evidenced by the medical profession's continued medicalization of experiences like shamanism and spirituality. Woodhead also points out that there is still a Protestant heritage in the way that mainstream society deals with spirituality, which is contrasted with the practice of Catholicism where the devout venerate saints but do not worship them.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Professor Linda Woodhead discusses the decline of Christianity in Britain, citing a lack of religious experience among the population as one reason. She also discusses the implicit racism and sexism present in British society, and the way that governing ideologies often disguise the reality that Britain is still a Christian country.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:00:00</a>
 
 Professor Linda Woodhead discusses the state of Christianity in Britain, noting that while there have been declines in the number of people identifying as Christians, the situation is not as dire as some might think. She discusses the importance of understanding religion in the modern world, and encourages viewers to listen to her book or watch her YouTube video for more information.
 

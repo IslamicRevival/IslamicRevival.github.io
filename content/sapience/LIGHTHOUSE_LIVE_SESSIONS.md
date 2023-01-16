@@ -31,7 +31,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the idea of solipsism, and how to engage with someone who holds that view. Muhammad Latif, a future Lighthouse mentor, joins the discussion to say that it is important to ask the person why they think solipsism is important to them. Latif also advises viewers to ask themselves why they believe in any particular position, and to be open to different arguments.
 
@@ -47,7 +47,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses how people can become forgetful and lose focus, and how this can lead to problems. It also mentions how Allah reminds people of their blessings and how to stay grateful.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses how people are judged by their actions in a virtual reality world, and how some people may be tempted to do bad things because of their good deeds in the previous world.  teaches that people can't be sure of what will happen in the future, and that there is no wisdom behind the events.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses how small, insignificant events in life can have far-reaching consequences. He advises listeners to remember that every individual is important to Allah, and that nothing happens to us without meaning. emphasizes the importance of patience and putting effort into understanding events in life.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('4500')">01:15:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:15:00</a>
 
  "LIGHTHOUSE LIVE SESSIONS" features Islamic cleric Mohammed Abdullah discussing the benefits of having strong beliefs in Allah and how they are natural, not learned. Abdullah also discusses how children are more likely to have religious beliefs without being taught them, and how atheists are more likely to believe in life after death without being taught it. Abdullah also mentions a retreat he is taking to Turkey.
 

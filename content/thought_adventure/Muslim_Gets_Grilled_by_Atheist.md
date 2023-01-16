@@ -64,7 +64,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 , an atheist and a Muslim debate the nature of reality and God. The atheist argues that reality is concrete and that there is no justification for believing in God. The Muslim argues that logic and philosophy precede experience, and that experience is the basis for belief. The debate then turns to the laws of cause and effect, with the Muslim arguing that there must be a reason why a given observation differs from another. The atheist disagrees, saying that experience is based on previous experiences. The Muslim then argues that assumptions are based on evidence, and that if one believes in a proposition, it is assumed prior to experiencing it.  concludes with the Muslim arguing that an infinite regression cannot exist, and that a necessary being exists.
 
@@ -80,7 +80,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The Muslim is grilled by an atheist on the existence of a necessary being, which the atheist argues is not a mechanical force that necessarily had to create out of compulsion of its nature, but something that changed and made it decide to create all contingencies. The Muslim argues that because an eternal necessary being exists, the effect would be eternal. The atheist points out that all possible actualization happens like that, where some possibilities happen without a choice or determination on the part of the cosmos. The Muslim responds that an infinite number of universes in the cosmos is an assumption, and that science cannot tell what is outside the universe.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** argues that logic and reason dictate that the universe must be spatially and temporally finite, and that there can be no 'outside' of this universe because logic implies that there must be one. He goes on to say that this inference is made from experience, and that if logic were not independent of space and time, it would be contingent upon a particular universe. He concludes by saying that if these two arguments hold up, it would mean that our universe is the only one that exists.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The Muslim speaker discusses how an argument for God, or a necessary being, can be made using logical and reasonable assumptions. However, the speaker points out a problem with the argument-namely that it would be impossible for the necessary being to exist without having reasons for doing so, which goes against the principle of spontaneity. also points out that a possible explanation for the origins of the universe that makes sense to him is based on belief, not on a great explanation.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3900')">01:05:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:05:00</a>
 
  features a Muslim man being interviewed by an atheist about the existence of God. The Muslim man argues that the atheist's reasoning is flawed, and the two eventually agree to debate the issue.
 

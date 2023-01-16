@@ -18,7 +18,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  Professor Dr. Muhammad AL MASSARI discusses various concepts related to knowledge and time. He explains that the knowledge of Allah is represented in the Quran as a book that is unchangeable and fair. He also discusses the idea that humans use metaphors to express this knowledge, such as the idea that Allah is a protected tablet. He finally argues that Divine Knowledge is more important than fatalism, and that Wilson colonization and connection with the Divine was a Blessing.
 
@@ -34,7 +34,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Professor Dr. Muhammad AL MASSARI discusses the impossibility of learning specific advice or knowledge, as it is impossible to know all the possible contingencies. He goes on to explain how this impossibility affects human behavior, and how Classical Mechanics is no longer applicable to the Universe due to its quantum mechanics nature. Finally, Professor MASSARI discusses how Divine Knowledge is more important than fatalism, and how Wilson colonization and connection with the Divine was a Blessing.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The professor discusses the concept of eternity and explains that it is an infinite point in time. He goes on to say that, for some people, it is difficult to imagine that there is nothing before Allah. He then quotes a verse from the Quran which states that Allah existed always but that He created time and the universe. He explains that this means that time does not have a beginning or end.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** of the video discusses the concept of absolute zero and its impossibility to exist in reality. He goes on to discuss the concept of negative absolute temperature, and how it is impossible to define. He also discusses the concept of infinity and how it applies to the domain of mathematics. In the end, the author urges caution when working with complex mathematics, and reminds the viewer that it is important to be aware of the negative axis.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('6900')">01:55:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:55:00</a>
 
  Professor Dr. Muhammad AL Massari discusses the importance of doing mathematics carefully and systematically. He also discusses the dangers of making mistakes if one does not follow these principles. Finally, he points out that quantum theory is the fundamental theory of physics, and that the experimental error in related theory making time is still unresolved.
 

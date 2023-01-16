@@ -19,7 +19,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2700')">00:45:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:45:00</a>
 
  Keith Ward discusses how science has become more religion-friendly in recent years, with the introduction of quantum mechanics and field theory. These theories suggest that there is no certain reality, only probabilities. Although this change in perspective may be difficult to accept at first, it is ultimately a more accurate portrayal of reality.
 

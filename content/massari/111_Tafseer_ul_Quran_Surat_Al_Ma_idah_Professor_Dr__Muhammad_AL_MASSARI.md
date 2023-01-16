@@ -18,7 +18,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the symbolism behind certain Quranic references and how they are necessary for humans to reference things in their limited world experience. The professor also says that Allah knows everything, and that it is our duty to educate others about this.
 
@@ -34,7 +34,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** discusses the idea that head of state should be elected, and how Ali was more qualified to hold the position than any other individual. He also points out that the Shia's claim that Imam Mahdi is a Divine appointment is fundamentally flawed.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the history of the Islamic State, which began as a small rebellion against a corrupt central authority, and how it has rapidly grown in size and power. The narrator argues that this success is due to the neglect of state and society in favor of the rulers, and that this will ultimately lead to the group's downfall.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the historical development of Muslim rulers, arguing that monarchies are permissible, but that the Prophet Muhammad had already been given the prophetic office. recommends taking advantage of bad situations in order to improve oneself, and advises being mindful of God in order to prosper.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  Professor Dr. Muhammad AL MASSARI discusses the importance of understanding the different translations of the Qur'an. He explains that one translation is more forgivable than another, and that some questions are not allowed based on religious principles.  also discusses the Prophet Muhammad's anger when people asked him difficult questions, and advises people to be cautious about what they ask.
 
@@ -50,7 +50,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>* Discusses the Islamic definition of the state, which is described as being minimalistic and providing welfare services to the needy.  also discusses the implications of this definition on the American state, which is not considered to be a minimal state due to its reliance on individualism and capitalism. If society cannot manage these services on its own, then the state must step in and provide minimal services as needed.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** The 111 Tafseer ul Quran Surat Al Ma'idah Professor Dr Muhammad AL MASSARI explains that the principle behind the western or liberal state is not a substitute for a Divinely-appointed king, but rather it is an alternative to a state with no authority. The state has no rights unless proven by text, and it is not that the west is like a substitute for a king; rather, the west is an enemy that will try to occupy and attack the Islamic state. The professor goes on to discuss the theory of minimalism, which is the principle behind the Islamic state. The state will only do things unless sanctioned by Sharia.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>**  Professor Dr. Muhammad AL MASSARI discusses the importance of having an absolute reference frame in order to maintain order and prevent chaos. He also discusses the inherent problems with having a human-made law as the source of authority, and how Islamic history demonstrates the success of implementing a system with a divine reference frame.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('7800')">02:10:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:10:00</a>
 
 Professor Dr. Muhammad AL MASSARI discusses the various options for succession in Islam, including the idea of tribes or ethnicities separating from states in a peaceful way. He explains that if an enemy tribe is engaged in war against Islam, they are allowed to wage war against them in order to take their land. He also discusses the idea of self-determination, and how it applies in the case of tribes or ethnicities separating from a state. Finally, he mentions the idea of succession in Islam, and how it can be determined by voting in a peaceful way.
 

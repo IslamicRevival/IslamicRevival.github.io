@@ -58,7 +58,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2700')">00:45:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:45:00</a>
 
  discusses a contradiction between two ideas in the Quran - that God determines everything and that free agents can determine their own fate. It argues that the contradiction can be understood in the context of modernism, which is the idea that God creates a scenario knowing what the free acts of the individual would be.
 

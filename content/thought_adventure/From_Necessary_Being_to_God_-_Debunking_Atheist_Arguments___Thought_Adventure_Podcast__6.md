@@ -70,7 +70,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the theist's arguments against atheism, and how some of these arguments are rational and coherent.  finishes by saying that atheism is irrational in light of these arguments.
 
@@ -86,7 +86,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  brothers Justin and Jake discuss how Islam requires belief in a creator, which automatically leads to a revelation about that creator's attributes. Justin agrees with the sentiment and believes that without a revelation from God, Muslims would be "blind" to certain aspects of His nature.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the theist's arguments against atheism, and how some of these arguments are rational and coherent.  finishes by saying that atheism is irrational in light of these arguments.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the difference between reality and existence, and explains that reality refers to what exists as a possible or necessary existence, while existence refers to the act of bringing something into being. The presenter argues that reality must have a will in order to bring things into being, and that a necessary being must have this will.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  "From Necessary Being to God - Debunking Atheist Arguments | Thought Adventure Podcast #6" examines the idea of a necessary being and argues that it is impossible for this being to exist.  then goes on to argue that the only viable position is that of theism.
 
@@ -102,7 +102,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** argues that the cosmological argument is a good argument, and that using the same premises, the only explanation for a necessary being is that it has will and intentionality. They go on to say that if the cause is eternal, the effect would be the same, which would be deterministic.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** The argument concludes that if a necessary being exists, it must cause its effects, which means that the universe and all its contingent beings are eternal.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>**  debunks arguments for atheism by examining the concept of a necessary being, which would require an infinite regress of contingent beings.  argues that these concepts are impossible, as the necessary being has a beginning and does not have to cause the effect. This leads to the conclusion that theism is the only viable position.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('10200')">02:50:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:50:00</a>
 
  discusses the two stages of the cosmological argument, which are necessary being and God creating the universe. The first stage is that something exists that is necessary for the universe to exist, and the second stage is that God created the universe.  points out that if one already conceded on the first stage, then moving on to the secondary points does not seem to make much sense.
 

@@ -17,7 +17,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  a Muslim physicist at Oxford University discusses how his Islamic faith helps him to reconcile science and religion. He argues that many atheists and non-believers fail to properly understand the significance of submission to God, and that this can lead to a lack of appreciation for beauty and simpleness in the universe.
 
@@ -33,7 +33,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The physicist discusses how atheistic positions can lead to a lack of appreciation for beauty and simpleness in the universe. He believes that Muslims have a simpler theology which allows them to be more accepting of scientific advancements.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>**  a Muslim physicist at Oxford University discusses how his faith in Islam helps him to maintain a strong relationship with God, despite the challenges of cognitive dissonance. He notes that many atheists and non-believers are good people with good intentions, but fail to properly understand the significance of submission to God.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses how the Islamic worldview conflicts with the scientific perspective, which assumes that the cosmos is a self-contained set of patterned empirical sequences intelligible to us in terms of natural causality. The Islamic worldview posits an additional Supernatural realm, and denies the autonomy of nature.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('5100')">01:25:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:25:00</a>
 
  a Muslim physicist at Oxford University discusses his views on religion and science. He notes that while many people view religion and science as incompatible, his research shows that they are actually very complementary. He thanks the interviewer for their time and politely leaves.
 

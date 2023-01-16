@@ -26,7 +26,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2100')">00:35:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:35:00</a>
 
  Mohammed Hijab discusses the fine-tuning argument for God's existence. He argues that the universe is in a very specific state that allows life, and that this is evidence of the existence of a designer. He also discusses the concept of infinity, and how a designer could have an uninterrupted line of causation.
 

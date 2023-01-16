@@ -11,7 +11,7 @@ Brother Abdul Basit discusses how Islam categorically prohibits forced marriages
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1800')">00:30:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:30:00</a>
 
  discusses the new British law which makes it a crime to force a child into marriage. The speaker, brother Abdelbaset, explains that forced marriages are different than arranged marriages, which are common in society. The two differences between forced and arranged marriages are that forced marriages are done against a person's will, and arranged marriages are accepted by society.
 

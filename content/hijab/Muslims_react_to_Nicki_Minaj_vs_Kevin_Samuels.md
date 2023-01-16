@@ -26,7 +26,7 @@ Please donate and help establish this Masjid and earn your reward ➡ https://ww
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1200')">00:20:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:20:00</a>
 
 In the "Muslims react to Nicki Minaj vs Kevin Samuels" video, Muslims in Norway give their thoughts on the recent diss track by Nicki Minaj. They feel that both Minaj and Samuels handled the situation well, but there are some areas of criticism. Muslims largely agree with Samuels' view on sex in relationships, and they also discuss the importance of children in marriages. Finally, the Muslims in the video establish a message and center to help promote Norwegian Dawah.
 

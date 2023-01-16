@@ -15,7 +15,7 @@ What happens to them and how should we be with them?
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  Almassari discusses the meaning of the term "dunya" and its various interpretations. He concludes that there is not one specific interpretation of dunya, but that it must be analyzed in light of its context within the revelation. He also discusses the different theories on time and the universe, and how they do not fit with the Qur'an.
 
@@ -31,7 +31,7 @@ What happens to them and how should we be with them?
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** discusses the different theories on time and the universe, and how they do not fit with the Qur'an. He points to the existence of a necessarily existing being, which is absolutely free and spontaneous, and which does not have to obey the laws of the universe. This being is called "allah," and is the one who made the universe and chose to create the human race.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** discusses the Islamic concept of "ta'seer," or interpretation of the Quran. He points out that while all Muslims must interpret the Quran according to the Shariah, not all interpret it in the same way. He discusses the difference between "ta'seer ul-Quran" (the interpretation of the Quran) and "ta'seer ul-Akhbar" (the interpretation of the historical context of the Quran). He argues that while ta'seer ul-Akhbar is important, ta'seer ul-Quran is the definitive interpretation of the Quran. He goes on to say that while most scholars believe that the decision of whether or not to punish or forgive someone is up to Allah, some scholars believe that the decision is postponed until Allah commands it. He concludes by saying that while it is impossible to know what Allah's decision will be, it is clear that Allah is eternal and that He has Himself in His being.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses some of the flaws in a hadith about when a person's life is decided, which is said to be before 40 or 1440. It goes on to discuss other hadith that are more reliable.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('4500')">01:15:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:15:00</a>
 
 Discusses the concept of free will, and how it relates to the Quran's teachings on predestination. He explains that, although the will may be free, the universe itself is not. He goes on to refute some of the hadith that have been used to justify the belief in predestination.
 

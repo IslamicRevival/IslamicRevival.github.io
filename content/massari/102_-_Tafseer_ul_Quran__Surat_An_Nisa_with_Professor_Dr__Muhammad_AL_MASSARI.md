@@ -18,7 +18,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  Professor Dr. Muhammad AL MASSARI discusses Surat An Nisa, which contains verses about inheritance law. He explains that, according to the verses, women will get an eighth of what men inherit, and that this is a hint that whatever shares are to come, they will be taken from the original capital, not from the reduced capital. The narrator also discusses the Hadith in which Jabra Abdullah Muhammad (the fifth Imam of Shi'ism) reports that himself and his cousin studied with Java from a young age, and that Java would have written down what they learned if he had not been so excellent a mobilizer.
 
@@ -34,7 +34,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  Professor Dr. Muhammad AL MASSARI discusses Surat An Nisa, which discusses inheritance laws. He explains that if a father has children with more than one wife, each child will receive an equivalent share of two daughters, and if there are only daughters, the child will receive half of what the father leaves behind. If there is no father, the mother will receive one third of what he leaves behind. If the father has brothers and sisters, the mother will receive one sixth of what he leaves behind. This law is from God and is all-knowing, wise, and perfect.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>**  Professor Dr. Muhammad AL Massari discusses Surat An Nisa and its tafseer. He discusses the five points of division mentioned in the Quran, and goes on to discuss the greater equalization relation. He notes that this relation is secondary, and that it should be defined in terms of the greater equalization. He also discusses a hadith which confirms the error of treating daughters of a son as if they are equal to daughters of a daughter. Finally, he discusses the implications of this error, and how it applies to situations like the one described in the video.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  Professor Dr Muhammad AL MASSARI discusses Surat An Nisa, specifically the verses concerning the share of a mother in the event that her children are all deceased. He notes that, in either case - where there are no children or only children - the mother's share is three-sixths. If there are brothers and sisters, the mother's share is reduced to one-sixth. In the latter case, where the mother has only brothers, her share is reduced to zero. Finally, he discusses the implications of this law in a society where women are not obligated to support the household.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('6900')">01:55:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:55:00</a>
 
 Professor Dr. Muhammad AL MASSARI discusses the different scenarios in which a mother may or may not be present in a family, and how those scenarios are affected. He concludes that, in most cases, the mother of the father is closer to the child than the mother of the mother.
 

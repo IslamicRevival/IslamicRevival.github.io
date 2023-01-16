@@ -20,7 +20,7 @@ Don't forget to like, comment and subscribe.
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  Zeeshan Beast responds to Ken Ham, a young earth creationist. Beast argues that, based on the Bible, dinosaurs lived and died much earlier than scientists currently believe. However, Beast also points out that orthodox Christian belief includes the idea that all of creation was created in six days. This evidence, Beast argues, contradicts itself.
 

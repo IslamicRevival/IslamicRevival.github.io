@@ -13,7 +13,7 @@ Principle of Sufficient Reason and the Infinite Regress   2
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 The principle of sufficient reason states that everything in the universe has a cause, and that this cause can be determined by examining the nature of the thing itself. This principle is the foundation for the scientific method, and is used to argue that people who believe in magic are mentally ill. However, some philosophers believe that the principle is too restrictive, and that reality is more complex than we can understand.
 
@@ -31,7 +31,7 @@ This principle is often used to argue that people who believe in magic are menta
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The Principle of Sufficient Reason states that there must be a sufficient reason for every event, and the Infinite Regress theory states that the universe cannot go in a circular pattern forever.  discusses the Principle of Sufficient Reason and the Infinite Regress theory and provides a prediction for the outcome of measurements of anomalies in the universe that may support the existence of the Penrose Universe.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the Principle of Sufficient Reason, which states that certain truths must be able to be explained by the actions of finite beings, and the contradiction it creates with the reality of science and technology. It argues that, if the Principle is a law of the mind, it is also all of nature, and therefore must be true.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The Principle of Sufficient Reason states that everything that exists has a reason for existence. The principle is rational because it is based on expert knowledge and experimentation, and applied sciences have confirmed its validity. Denying the principle of sufficient reason would undermine all science and technology.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('6300')">01:45:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:45:00</a>
 
 The principle of sufficient reason is a philosophical principle that there must be a reason for everything that exists. This principle is often used to support the idea of a first cause for the universe, and that everything that exists must have come from something else. The principle of sufficient reason is also used to explain why there cannot be an infinite regress of causes, as each new cause must be logically sufficient to explain the existence of the previous cause.
 

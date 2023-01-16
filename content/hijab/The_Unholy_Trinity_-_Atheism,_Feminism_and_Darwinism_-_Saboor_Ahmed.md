@@ -13,7 +13,7 @@ Also please get my new book on feminism "fifth wave feminism" - https://www.amaz
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2100')">00:35:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:35:00</a>
 
  "The Unholy Trinity - Atheism, Feminism and Darwinism - Saboor Ahmed" discusses the conflict between atheism, feminism, and Darwinism.  argues that the new atheist movement is sexist and based upon social Darwinism, and that feminists have voiced their concerns about this.  also discusses how Darwinism and feminism clash, and how one prominent feminist, Emma Thompson, is not consistent in her beliefs.
 

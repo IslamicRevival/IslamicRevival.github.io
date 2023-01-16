@@ -16,7 +16,7 @@ Explanation of rizq, qadr - attribution to Allah
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the different interpretations of the Quran, and how some of them are based on evidence from the text. It states that these interpretations are not clearly stated in the Quran itself, but are instead based on other evidence from the Quran.  also discusses the idea that believing in something doesn't mean that one has no evidence for it.
 
@@ -32,7 +32,7 @@ Explanation of rizq, qadr - attribution to Allah
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** discusses the importance of establishing salah (prayer) in one's life, noting that it is not just a prayer that is done once, but an essential part of one's daily routine. He goes on to say that, while many activities are still done while standing, many are still done while sitting due to the modern world's busy schedule.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The main point of this video is to emphasize the importance of spending one's income in a way that is pleasing to God. Various principles are established in the Quran related to this, such as spending from what one does not own fundamentally, and working together in cohort with others. This is in contrast to the belief of some Christians that there is a multiplicity of gods.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the difference between attributing an action to Allah (God), and simply saying that Allah is responsible for something. The main point is that attributing an action to Allah does not necessitate that Allah does the action directly, it could be through intermediaries. This could open up questions about the role of Allah in the world, and the free will of humans.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('4800')">01:20:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:20:00</a>
 
  discusses the idea that risk in the universe comes from various sources, including the risk of people's salaries being paid. It emphasizes that people's salaries are ultimately a gift from God, and that people should remember not to take risks without understanding the consequences. also discusses the incorrect claims made by some people regarding the Quran, specifically discussing the claims that salah will provide patients or patience. He points out that these claims are not supported by the text, and that there are other places in the Quran where these benefits are discussed.
 

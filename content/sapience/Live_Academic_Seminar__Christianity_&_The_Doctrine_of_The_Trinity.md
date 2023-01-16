@@ -11,7 +11,7 @@ Live Academic Seminar: Christianity & The Doctrine of The Trinity with Adnan Ras
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the doctrine of the Trinity, which is the belief that there is one eternal being of God, shared by three coequal co eternal persons: the Father, the Son, and the Holy Spirit. The doctrine can be found in the Bible, and the Quran rejects it.
 
@@ -27,7 +27,7 @@ Live Academic Seminar: Christianity & The Doctrine of The Trinity with Adnan Ras
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** John Henry Newman, a well-known Catholic Cardinal, discusses the Holy Spirit in relation to the doctrine of the Trinity. He states that, despite the lack of clarity on the subject in the early centuries of Christianity, the divinity of the Holy Spirit is still not explicitly stated in the Bible.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the doctrine of the Trinity, which is the belief that there are three persons in God, namely the Father, the Son, and the Holy Spirit. According to the video, the status of the holy spirit is still not clear to Christians, as they have differing views on the holy spirit. In 380 CE, nearly 350 years after Jesus Christ, Gregory of Nazianzus gave an illuminating picture of the wide variety of views which still held the field. Some consider the holy spirit to be a force, others a creature, others God, and others making the vagueness of scripture the excuse declined to commit themselves of those who acknowledge deity. Some keep it as a pious opinion to themselves, others proclaim it openly, and others seem to postulate three persons possessing deity in different degrees. Gregory answers in the 4th century that the status of the holy spirit is still not clear to Christians, and that they have differing views on the holy spirit. Therefore, if the bible was so categorical as the bible thumpers and the bible bashers or the christian missionaries or christian apologists claim, the trinity would be there for readers to read, but it is not there. Rather, Israelis not exegesis; they are reading
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  Steven G. Hall explains how the doctrine of the Trinity emerged from disputes among Christian thinkers. The idea of the Trinity was initially binarian, meaning that it implied the deity of the Holy Spirit but did not refer to him as God. However, later Christian fathers insisted that the doctrine be added into the Trinity. David G. Hall references a writing by Basil of Caesarea who was a trinitarian but did not call the Holy Spirit God.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('5400')">01:30:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:30:00</a>
 
 The doctrine of the Trinity has been a source of theological disputes for centuries, as different Christians try to understand the nature of Jesus and his relationship to God.  discusses the history of the doctrine and how it has changed over time.
 

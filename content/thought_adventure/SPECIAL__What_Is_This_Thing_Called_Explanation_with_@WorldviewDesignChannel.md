@@ -98,7 +98,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the idea of explanation and how it applies to different theories. It argues that the simpler the theory, the deeper the explanation. It also discusses the concepts of simplicity and explanatory depth, and how they apply to different theories. Ultimately, the video argues that in order to find the ultimate explanation, one must go beyond the simplicity of a theory and look for a deeper, simpler explanation.
 
@@ -114,7 +114,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** of the video discusses how the kind of consciousness that can have intentionality and self-determination distinguishes life from non-life. He argues that this consciousness is the original first mover, and that it is this mind that creates everything we see in reality, including living things. He goes on to say that quantum mechanics leaves open the possibility that this mind is behind the physical phenomena that we observe.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** In his book How Reason Can Lead to God, philosopher Carlo Revelli argues that, in order to understand mathematical truths, we must first understand that they are necessary truths, but that they cannot be explained by causal means. He also suggests that these truths are grounded in the perfection of the foundation, which in turn is grounded in the mind of God.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  WorldviewDesignChannel discusses the concept of explanation and how it can be compared between different theories. According to the channel, there are two types of theories - those that entail the simplest foundation and those that entail complexity. The idea is that the simpler the theory, the deeper the explanation.  goes on to discuss the concepts of simplicity and explanatory depth, and how they apply to different theories. Ultimately, the video argues that in order to find the ultimate explanation, one must go beyond the simplicity of a theory and look for a deeper, simpler explanation.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  WorldviewDesignChannel's John Abbamonte discusses the idea of a "simple" theory. He argues that a theory that does not include an arbitrary cut-off of physical description is the simplest. He also discusses the idea of free will and how it relates to the concept of a "simple" theory.
 
@@ -130,7 +130,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>* Discusses the problem of indexicals, which is the question of how each person can know self-referential propositions (such as "I am the father") differently. It argues that this problem poses a problem for the more unitive or oneself theory of the Trinity.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** Josh and Jake discuss the philosophy of modality, and Josh mentions the Grim Reaper paradox. Jake asks Josh about this, and Josh tells him that it's a discussion they've had multiple times.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses the idea of explanation, and how modal epistemology can handicap a person's ability to investigate situations or to know if something is possible. Worldview Design Channel's presenter discusses how the Aristotelian theory of modality can be difficult to apply in certain situations, and how the idea of a necessary foundation is needed to run the argument deductively.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('7500')">02:05:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:05:00</a>
 
 Josh discusses the concept of explanation with WorldviewDesignChannel and notes that it is important to have a clear understanding of what explanation is before critiquing it.
 

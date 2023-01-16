@@ -15,7 +15,7 @@ I read from 'There Is a God: How the World's Most Notorious Atheist Changed His 
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 Atheist philosopher Anthony Flew changed his mind about the existence of God after studying evidence, and now believes in an intelligent creator of the universe.  Flew discusses his reasons for changing his belief, and how his colleagues and fellow atheists reacted to his change.
 

@@ -13,7 +13,7 @@ This discussion is particularly important as it attempts to access the most rati
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1800')">00:30:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:30:00</a>
 
 Discusses the existence of the universe and why it began. The Muslim argues that the universe had a beginning and that everything that begins to exist has a cause. The atheist argues that the universe is simply an expanding collection of matter, and that there is no cause for its existence.  then discusses the intelligent design thesis, which is that there is something, or some entity, that began the universe and controls it. Finally, the video discusses the idea that we can make our own subjective purposes.
 

@@ -14,7 +14,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 This video discusses the importance of respecting and caring for elderly people in Islamic societies. It points out that this is typically done with patience and hope for reward from God. In the west, however, it is often shameful for families to take care of their elderly members and they are often sent away to special homes. This is contrasted with the way elderly people are treated in Islamic societies, where they are typically cared for by their families with patience and hope for reward from God.
 

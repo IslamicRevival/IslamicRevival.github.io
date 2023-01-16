@@ -41,7 +41,7 @@ Chapters:
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2400')">00:40:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:40:00</a>
 
 Shaykh Hamza Karamali discusses the similarities and differences between Christianity and Islam when it comes to miraculous events. He points out that miracles are not just limited to Christianity, but are also common in the life of Prophet Muhammad.
 

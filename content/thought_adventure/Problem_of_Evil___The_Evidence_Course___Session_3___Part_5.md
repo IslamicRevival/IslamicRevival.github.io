@@ -64,7 +64,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1200')">00:20:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:20:00</a>
 
  discusses how atheism lacks the ability to determine whether something or someone's actions are good or evil. It goes on to say that from a religious perspective, good and evil are determined by an individual's viewpoint.  concludes by saying that belief in a creator can help people be emotionally stable and have a sense of tranquility.
 

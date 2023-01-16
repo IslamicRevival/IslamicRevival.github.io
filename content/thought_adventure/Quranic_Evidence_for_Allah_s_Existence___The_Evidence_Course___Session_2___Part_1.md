@@ -64,7 +64,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 The Qur'an provides convincing evidence for the existence of Allah, including visualized arguments about the universe and its creatures. Ibrahim al-Ismail questions the existence of the stars and moon, but is reassured by Allah's guidance. The sun, moon, and stars follow patterns and laws set by Allah, and cannot be explained without a creator. This leads Ibrahim to profess faith in Allah alone.
 

@@ -23,7 +23,7 @@ To clarify an important point , in the discussion two individuals came in and in
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 The Sunni and Shia debate the authenticity of the Quran. The Sunni argue that the Quran is authentic while the Shia maintain that some parts have been removed or added to it. The Shia further argue that there is a difference of opinion among Shia scholars on the matter of Tahrir.
 
@@ -39,7 +39,7 @@ The Sunni and Shia debate the authenticity of the Quran. The Sunni argue that th
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The Sunni vs Shia debate revolves around the number of companions who returned after Muhammad's death. Sunni Muslims accept that there were many companions who returned, but argue that this does not negate the sahaba's status as pious Muslims. Shia Muslims argue that the number of companions who returned is significant because it shows the depth of Muhammad's followership.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The Shia vs Sunni debate revolves around which of the prophet's friends were true believers. Sunni scholar Jafar Sadiq says that the friends of the prophet were truthful, and that there is a difference of opinion between them in their own books. Shia scholar Imam Ali al-Aaliyah says that Imam Ali did not call Abu Bakr or Umar disbelievers, and that these verses come later in the Quran.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Imam Ali al-Saleh named one of his sons Abdul Rahman, which is mentioned in the book "Irshad." This proves that he loved and respected his son.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('5100')">01:25:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:25:00</a>
 
 , Sunni and Shia Muslims debate the issue of who has the most accurate knowledge of God. Shia Muslims argue that belief in a set number of infallible imams is necessary for salvation, while Sunni Muslims argue that anyone who believes in one of the imams is already saved. Sunni Muslims also argue that belief in a set number of infallible imams is necessary for salvation, as stated in the Quran and Sunnah.
 

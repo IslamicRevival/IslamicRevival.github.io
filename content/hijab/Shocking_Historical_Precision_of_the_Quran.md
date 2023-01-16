@@ -15,7 +15,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1500')">00:25:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:25:00</a>
 
 The Quran contains many historical accuracies that were unknown at the time it was composed. It correctly describes the Pharaoh of Moses, the Israelites, and various events that took place during a time of a biblical flood. of the Quran had a deep understanding of ancient Egyptian religion and culture, which is evident in the accuracy of the Quran's portrayal of Egyptian beliefs and history.
 

@@ -18,7 +18,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  Professor Dr Muhammad al Massari discusses the meaning of Surat Al-An'am. He explains that some people ask if it is possible to go back in time and kill one's grandfather, and goes on to say that according to the Quran, this is impossible. He also says that reality can only be translated once, and if those who were brought back to life would return to the same state of ignorance they were in before, they are liars.
 
@@ -34,7 +34,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The professor discusses the concept of free will and how it is not always possible to determine a person's future. He argues that even if a person is able to go back in time and make the same choices, they would still be in the same condition because they have already made a decision.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The professor explains that if someone returns to life after dying, they would have to return to the same situation that was forbidden to them.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses Surat Al-An'am, in which the disbelievers are asked if they believe in anything beyond this life. The professor explains that some of the disbelievers claimed that there is nothing beyond this life, but others maintained that they would be resurrected. He then goes on to discuss the different translations of this Surat, concluding that it is not impossible that there is something beyond this life, but it is more likely that his copy of the Quran is faulty.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  Professor Dr. Muhammad AL MASSARI discusses the various aspects of Surat Al-An'am, including the idea of resurrection and punishment in the afterlife. He argues that Muhammad was likely suffering from epilepsy, which caused him to think he was a prophet. He also suggests that this may be evidence that Muhammad was deliberately lying about his purported divine connection. Ultimately, the professor points out that there is no need for free will or anything else in order for someone to be called to respond to Allah's call, and that those who can hear will respond regardless of whether they are dead or alive.
 
@@ -50,7 +50,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>* Discusses the claims of a preacher who says that the Messiah, Son of God, is standing in the Quran. The preacher argues that the Messiah does not need the city to be a son of God, and that this is not what the wording of the verse stands for. He also argues that the Messiah was not a billionaire, and that he may make more change than a billionaire. The preacher concludes that the Messiah will never get anywhere because he is unwilling to consider the possibility that the competition in life is not about becoming the leader of Mecca or becoming wealthy.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** discusses the traditional point of view that, if there was a mechanism to go back in time, disbelievers would still disbelieve under the same circumstances. He argues that this point still holds even if an individual accepts the traditional argument.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** The professor discusses the traditional and alternative points of view on the issue of whether or not Allah will allow humans to go back on their original decision to disbelieve in Him and reject His Divine authority. He notes that the traditional point of view, which is that if they will do even in if they retain back they will do the same, is correct. The professor also notes that if the impossible happened- which is a fallacy- then anything can be concluded, including that humans will repeat the same.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('8700')">02:25:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:25:00</a>
 
  Professor Dr. Muhammad AL Massari discusses the theory of relativity and how it applies to time. He explains that while the speed of light is constant, the time it takes for a signal to travel between two points is not always the same. He goes on to say that this discrepancy is due to the theory of relativity and that physicists don't fully understand the implications of this theory.
 

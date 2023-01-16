@@ -22,7 +22,7 @@ Get Outlook for Android
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1800')">00:30:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:30:00</a>
 
  discusses the situation of the Uyghur Muslim population in East Turkestan, China, and describes their history and relationship to other cultures in China. It notes that the Uyghur population is predominantly Turkish, and discusses the Chinese government's efforts to assimilate them into Chinese society.  also highlights the concentration camps in which the Uyghur Muslim population is being forced to learn Chinese.
 

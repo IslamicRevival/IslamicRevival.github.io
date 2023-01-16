@@ -11,7 +11,7 @@ Professor Muhammad Al Massari discusses matters related to the prophecised Imam 
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  discusses Imam Al Mahdi (AS), whose coming will bring justice to the earth after it has been filled with inequity and transgression. Three hadiths describing his character and behavior are discussed, and it is pointed out that none of them are exclusively Muslim. Some of the hadiths' weaknesses are discussed, and it is noted that the coming of Imam Al Mahdi is not a certainty.
 

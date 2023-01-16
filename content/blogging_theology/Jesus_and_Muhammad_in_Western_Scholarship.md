@@ -11,7 +11,7 @@ Usman Sheikh discusses the historical Jesus and the historical Muhammad in weste
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 This video discusses how Western scholarship has traditionally treated Jesus and Muhammad differently, with more emphasis placed on Muhammad. argues that this is due in part to the fact that the Quran provides direct access to Muhammad's preaching, while the historical evidence for Jesus is more scattered. The video discusses some of the ways in which scholars can learn about the historical Muhammad, including the use of hadith collections.
 
@@ -27,7 +27,7 @@ This video discusses how Western scholarship has traditionally treated Jesus and
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** This video discusses how Western scholarship has largely neglected Muhammad's successor, Jesus, while focusing on Muhammad himself. Some of the historical evidence for Jesus's existence comes from hadith collections compiled by Muslims.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Professor Jonathan Brown at Leiden University has identified at least 130,000 Hadiths which are securely dated to the first century of the Islamic era. In his essay, Monsieur discusses the methodology he used to arrive at this number. He also discusses the reliability of sources, specifically Hadiths attributed to orwa and nil zubair.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** This video discusses the letters attributed to Jesus and Muhammad, and how some scholars defend their authenticity. Sean Anthony summarizes the material in his book, Uh, which is published by the University of California Press. Krona says that we probably know more about Muhammad than about Jesus or Moses, and that we need more sophisticated methods to investigate the sources.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('5400')">01:30:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:30:00</a>
 
 This video discusses differences in historical views of Jesus between Muslims and Christians. The consensus among historians is that Jesus did not come to establish a new religion called Christianity, but was a jew preaching judaism to jews. The video also discusses other points of contrast between various biblical traditions, such as the miracle of Moses' staff turning into a serpent. Muslims believe that this miracle was performed by God, while Christians believe it was a sign from God. Muslims also believe that the control of God was shown through Moses' hand becoming white without disease or defect.
 

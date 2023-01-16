@@ -15,7 +15,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses liberalism and its history. It notes that liberalism became institutionalized in the 18th century, and that it coincided with the decline of religious enthusiasm. It also discusses the impact of liberalism on society, with particular focus on the notions of the harm principle and utilitarianism. Finally, it discusses the liberal philosopher John Stuart Mill and his advocacy for women's suffrage.
 
@@ -31,7 +31,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses liberal religion and its relation to apostasy laws in different countries, pointing out that such laws are not necessarily against liberalism. John Locke and Emmanuel Kant are cited as liberal thinkers who believe such laws are not against liberalism.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the case of two children killed by a drone attack in Yemen because the American government were afraid that their father, Rahman al-Awhlaki, would make them into radicals. Al-Awhlaki was an Islamic scholar and critic of the American government.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the difference between liberalism and islam, noting that while both ideologies have principles that can be applied in the real world, liberalism has a "perceived epistemological upper hand" due to its seemingly scientific explanations of secular ideology. also points out that human rights are a concept that is impossible to actualize, and that those who preach liberalism often don't actually believe in it. Finally, the speaker provides a critique of liberalism that points out its lack of solutions for the problems faced by Muslims in liberal states.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('6300')">01:45:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:45:00</a>
 
 , Muhammad Hassan discusses liberalism and its implications for human rights. He points out that while liberals may claim to uphold human rights, in practice many of these rights could be in conflict with each other, and can even lead to tyranny. He recommends that when debating liberals, one should focus on attacking their arguments rather than engaging in personal attacks.
 

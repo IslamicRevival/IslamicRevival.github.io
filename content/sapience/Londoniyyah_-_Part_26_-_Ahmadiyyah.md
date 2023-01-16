@@ -27,7 +27,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3300')">00:55:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:55:00</a>
 
  discusses the Ahmadiyya Muslim sect and their beliefs regarding the death of Jesus Christ.  claims that, according to Islam, Jesus did not die on the cross, but instead went into "sleep." This difference is significant because it undermines the central claim of Christianity - that Jesus' death on the cross was the foundation of salvation.
 

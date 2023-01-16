@@ -64,7 +64,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1800')">00:30:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:30:00</a>
 
  discusses the linguistic miracle of the Quran, which refers to the fact that the Quran is a miraculously flawless, accurately delivered message from God. The Quran's linguistic superiority over other scriptures is a demonstration of this miracle. Muslims believe that if a person doubts the Quran's authenticity, they are required to produce a chapter like it in Arabic. Non-Arabs who understand Arabic can also appreciate the miracle of the Quran.
 

@@ -15,7 +15,7 @@ Modal Collapse
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 Discusses the idea of modal collapse, or the idea that the physical reality may be different depending on the structure of the reality. The presenter argues that this concept is consistent with mathematical imagination, but not with the direct imagination. He also discusses the concept, and argues that it may exist in reality.
 
@@ -31,7 +31,7 @@ Discusses the idea of modal collapse, or the idea that the physical reality may 
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the concept of modal collapse, which is the idea that the physical reality may be different depending on the structure of the reality. Physicists have to use abstract concepts to try and understand the universe, but there is no guarantee that what they are seeing is actually real. In particular, when extending the past, there are two options for extension: either extending to minus infinity or to a point where the past and future become indistinguishable.  reviews the concept of time and shows that it is also a pure form of perception.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the philosophical problems with the theory of relativity, which are summed up in a quote from Dr. Al-Massari: "time is essentially different in space while space is symmetrical and there's no difference between going back and forth and backward equally an equal measure."
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the problems with quantum mechanics, relativity, and cosmology. It suggests that if these theories are based on an absolute reality, they must have a fundamental problem.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  Dr. Al-Massari discusses the concept of modal collapse, which he defines as a "spontaneous" occurrence of a certain entity due to the free actions of that entity. He argues that this concept is necessary for the understanding of free agents, consciousness, and the development of time. Dr. Al-Massari also discusses the notion of divine knowledge, arguing that it is intrinsic or initial in eternity and can become extrinsic after that.
 
@@ -47,7 +47,7 @@ Discusses the idea of modal collapse, or the idea that the physical reality may 
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>* Discusses the concept of divine free will and its implications for human behavior. Dr. Al-Massari argues that free will is not a deception, but instead is a guarantee of the divine's ability to create people with will cable or schedule even not on people. He also argues that the universe is capable of evolving in ways that are impossible to know without divine intervention.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** discusses the argument from divine knowledge being extensive, intrinsic, and without time exchange. He argues that, without a time exchange, the argument from divine knowledge being extensive, intrinsic, and without time exchange would be invalid.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses the two premises of a modal argument that professor Al-Massari presents in order to disprove the idea that there is a collapse of modality. He argues that, because God is absolutely free, he could have existed without having to create external things. The second premise, that God has contingent knowledge, is also discussed. The argument is not clear, however, at which point in eternity (or time) the premise is intended to apply. It is also unclear what the relation between time and God is supposed to be.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('10500')">02:55:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:55:00</a>
 
  Dr. Al-Massari discusses the idea that God has intrinsic knowledge, which is knowledge that is necessary and cannot be otherwise. He goes on to say that this knowledge is not contingent, meaning that it is not possible for God to not know it. Dr. Al-Massari also argues that, if God had contingent knowledge, then He would not be able to create anything since He would not know what to create.
 

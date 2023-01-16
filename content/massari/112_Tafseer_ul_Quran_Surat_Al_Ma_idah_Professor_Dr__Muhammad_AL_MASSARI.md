@@ -18,7 +18,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  Professor Dr. Muhammad Al Massari discusses the importance of witnesses in Islam, and how they can help to prevent defects in transactions. He also points out that women witnesses are acceptable, provided they have a counter-witness.
 
@@ -39,7 +39,7 @@ with all that they do." He stresses that when a believer comes to you, confirmin
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** discusses the perils of perjury, and how it can lead to serious legal consequences. It also discusses the concept of " Kasama," or oath-taking, which is a custom in Islamic law where a group of people are asked to swear that a certain individual is guilty of a crime. If the group is able to prove their suspicion, they are allowed to execute the suspect.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the issue of witnesses being acceptable to Muslims. It states that, based on Quranic teaching, witnesses of non-Muslims are acceptable, provided they are treated equitably. Furthermore, it points out that women witnesses are also acceptable, provided they have a counter-witness. Finally, it mentions that, in modern times, lawyers can be trusted, provided there is doubt about their actions.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the difference between witnesses, which are called in when there is a transaction between two people, and those who are witnesses to a dead instrument. It states that witnesses are called in when there is a transaction between two people, and that even women can be witnesses. It also states that witnesses are beneficial, because they can help to prevent defects in transactions.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('6900')">01:55:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:55:00</a>
 
  Professor Dr. Muhammad AL MASSARI discusses various topics related to the Qur'an and Islam. He discusses how some stories in the Quran about witchcraft and magic are simply invented stories, and how the story of Jesus' birth is likely not historical. He also discusses the miracle of resurrection, and how it is more miraculous than other miracles. The professor concludes the discussion by asking the audience if they believe that he and his mother are divine.
 

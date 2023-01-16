@@ -82,7 +82,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 , philosopher Inspiring Philosophy discusses the concept of the Trinity with a student. He explains that the Trinity is a concept that is difficult to define, but he believes that it is something that is fundamental to idealism. He goes on to say that if we accept that there are three centers of self-consciousness within a single being, then we would have to accept that there are three substances within the Trinity.
 
@@ -98,7 +98,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the possible concerns raised by Dr. Branson about the Trinity, specifically that an "infinite regress of persons" could occur if the sun and the spirit share the same intrinsic properties of being able to beget a divine person. Phil argues that the two properties - ability and causation - must be the same for the argument to hold, and that the sun does not act upon its ability because one of Dr. Branson's arguments is that the son has perfect goodness and omniscience which would prevent him from generating more than three divine persons.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** , philosopher and author Dr. Siduarda discusses the idea of the Trinity with Inspiring Philosophy host Phil. Siduarda argues that if it is possible for the sun to exist without a sadie, then the father must have that property in order to generate a spirit. He also notes that possession of the divine nature does not necessitate a sadie, and that if it doesn't, then the divine nature does not entail one. Phil asks Dr. Siduarda if he agrees with this, and Dr. Siduarda responds that he does, but that it's still an essential extrinsic property of the father.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  philosopher Siduardi talks about the possible worlds in which there is an assay rock, and argues that it is metaphysically possible. He also discusses how the offshoot of his position, that God is contingent, fits with Trinitarian theology.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('4800')">01:20:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:20:00</a>
 
 discusses the philosophical possibility of a world in which a rock exists, and argues that if god exists in that world, then he would not be metaphysically necessary. He then goes on to discuss how society is a part of the nature of a thing, and how this could lead to disagreements about the nature of necessity. He ends by saying that he is not completely convinced that a saying has to be necessary in order to be a saying, but that at the very least, a saying entails necessity such that if a rock exists, it would be necessary.
 

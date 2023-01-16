@@ -12,7 +12,7 @@ Please consider supporting my work on Patreon: https://www.patreon.com/Bloggingt
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3000')">00:50:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:50:00</a>
 
  Professor Dale Martin discusses the differences between the Gospel of Matthew and the other gospels. He points out that Matthew is unique in its focus on the church, and its insistence on the importance of the Jewishness of the Christian faith. He also discusses the different ways scholars have organized Matthew's Gospel, and how it parallels the way the Hebrew Bible is organized.
 

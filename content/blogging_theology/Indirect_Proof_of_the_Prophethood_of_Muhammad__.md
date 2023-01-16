@@ -16,7 +16,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('0')">00:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:00:00</a>
 
 The video discusses the problem of trying to determine which verses of the Quran deny the crucifixion of Jesus. If Muhammad wrote the Quran, this would be a problem as it would contradict his message of unity between people of different faiths. Scholars have generally agreed that the crucifixion is not denied in the Quran, although it is criticized.
 

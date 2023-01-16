@@ -11,7 +11,7 @@
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the different perspectives on Prophet Muhammad's role in peace or war. It argues that the true purpose of the prophet was to promote peace. It then goes on to discuss the life of the Prophet Muhammad during the Medinan phase, when he does not engage in warfare.
 
@@ -27,7 +27,7 @@
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The presenter discusses the two assumptions underlying a teleological view of history – that there is a purpose and direction to history, and that the Quran is a source of knowledge. He points out that from an intellectual standpoint, human beings have progressed in their understanding of the world over time. He also notes that from a sociological standpoint, human beings are developing in their ability to cooperate and understand each other.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the Islamic view of prophecy, which is that a prophet is sent with a message specifically for a specific community and at a specific time.  then goes on to discuss the example of prophets such as Moses and Jesus.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The purpose of prophets and messengers is to send guidance and truth to humanity. The first ayah talks about the prophet Muhammad and the second ayah talks about other prophets who have come before him.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('5400')">01:30:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:30:00</a>
 
 The purpose of prophethood is to provide guidance and bring people closer to Allah. The Prophet Muhammad saws had a compassionate and perfect approach to achieving this purpose, and we should follow in his footsteps.
 

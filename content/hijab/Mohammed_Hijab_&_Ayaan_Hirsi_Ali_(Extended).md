@@ -25,7 +25,7 @@ Please donate and help establish this Masjid and earn your reward ➡ https://ww
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 Ayaan Hirsi Ali and Mohammed Hijab debate the wearing of hijabs, with Hirsi Ali arguing that it is oppressive and has no basis in the Quran. Hirsi Ali criticizes Hijab for not citing any sources and for exaggerating certain points in her argument.
 

@@ -12,7 +12,7 @@ Please consider supporting my work on Patreon: https://www.patreon.com/Bloggingt
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 The video discusses how various gentile Christian movements rejected the idea of the Trinity, and how this led to accusations of Judaizing. The Trinity was fully established only half a century later at the Council of Constantinople, and even today the Aryan tendency never fully died out.
 

@@ -15,7 +15,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 , Ben Shapiro defends Israel by saying that the city of Jerusalem is, in fact, the capital of a future Palestinian state. He also claims that the Israeli police have been arrested while peaceful Palestinians are being brutalized. Shapiro says that Hamas is to blame for the violence, but doesn't condemn the Israeli army or authorities for their actions.
 

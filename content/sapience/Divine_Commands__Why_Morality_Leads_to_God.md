@@ -13,7 +13,7 @@ You can read Hamza’s essay on this topic here: “Know God, Know Good: God & O
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2100')">00:35:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:35:00</a>
 
  discusses the idea that morality leads to God, and that objective morals exist outside of human beings. It goes on to discuss meta ethics, and how one must first have principles or lenses to justify an objective morality. The presenter argues that morality does not lead to God, because different people can have conflicting moral views.
 

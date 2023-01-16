@@ -62,7 +62,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2400')">00:40:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:40:00</a>
 
  discusses the difficulties of believing in a necessary being, or "God," and how, if this being has a will and is constantly sustaining things, it becomes difficult to believe in it as a god. Carla Carlos points out that, in order to believe in a god, the first discussion has to be that there is a necessary being, which doesn't necessarily have to exist. If the necessary being has a will, does it have intentionality, and does it have reality, then it becomes possible to believe in a god. However, if the necessary being is matter, and other matter exists outside of time and space, then it becomes difficult to understand how the eternal effect cause produces a temporal effect.
 

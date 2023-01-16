@@ -91,7 +91,7 @@ The Problem of Evil is a philosophical problem that asks why evil exists in the 
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The Problem of Evil is a difficult question for believers to answer, as it appears that there is no point behind some evils in the world. Saf Chowdhury from Thought Adventure Podcast discusses this problem and argues that a good god would provide reasons for why evil exists.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The Problem of Evil is a philosophical problem that asks why evil exists in the world. Islam discusses the concept of the problem of evil in various ways, and scholars throughout the ages have offered various solutions.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The Problem of Evil is a problem that has been discussed by scholars for centuries, and it is still a problem today. Allah, the most powerful and loving God, can also be punishing and evil. All of creation, including humans, must try to embody all of Allah's good attributes in order to have faith in him.
-### <a onclick="modifyYTiframeseektime('7200')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">01:00:00-02:00:00</a>
 
 The problem of evil is a philosophical question that has been debated for centuries.  Saf Chowdhury and Jake Makel argue that there is a contradiction between the idea that God is all-powerful and all-knowing and the existence of evil. They posit that this contradiction can only be resolved if one accepts that God is both all-powerful and all-knowing.
 
@@ -107,7 +107,7 @@ The problem of evil is a philosophical question that has been debated for centur
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** , Saf Chowdhury and Jake Makel argue that there is a logical contradiction between the idea that God wants people to go to Hell and the existence of evil. They posit that this contradiction can only be resolved if one accepts that God is both all-powerful and all-knowing.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** Saf Chowdhury argues that there is a problem with evil, as some people will end up in hell. He also points out that there is a logical contradiction in believing in a god who creates knowing what will happen will lead to people going to hell. This contradicts the idea of free will, which is central to Islam.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Caleb Jackson argues that emotions play a role in judging the correctness of moral propositions. He also says that metaethical considerations, such as a person's underlying ethical theory, may play a role in how strongly they feel about a particular moral proposition.
-### <a onclick="modifyYTiframeseektime('10800')">02:00:00</a> - [03:00:00</a>
+### <a onclick="modifyYTiframeseektime('10800')">02:00:00</a>
 
 Saf Chowdhury discusses the problem of evil in this video. He argues that if there is a cause and effect relationship between x and y, then x must necessarily happen. However, if x does not necessarily happen, then there is no explanation for why it did not occur. Chowdhury argues that this makes it difficult to understand why God would choose one course of action over another.
 

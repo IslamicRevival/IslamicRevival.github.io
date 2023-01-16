@@ -29,7 +29,7 @@ Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 , a Muslim responds to Logan Paul's claims that Islam is "good" because it can't be bad because "we can imagine the universe." The Muslim points out that there is right and wrong, and that this higher power, which is called God, has endowed humans with the ability to know what is right and wrong. He also points out that there are prophets in Islam who were sent to their people, and that Muhammad was the final messenger.
 

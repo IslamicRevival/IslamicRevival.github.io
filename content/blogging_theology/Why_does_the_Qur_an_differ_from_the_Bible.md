@@ -11,7 +11,7 @@ This video extract is taken from 'Jesus and Muhammad in Western Scholarship' whe
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1500')">00:25:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:25:00</a>
 
 The video discusses the differences between the Qur'an and the Bible, with a focus on how the Qur'an supports monotheism more than the Bible does. It also touches on the idea of precision theology, where the Qur'an confirms certain aspects of Judaism in its first verse.
 

@@ -13,7 +13,7 @@ http://sunnahtours.com/?page_id=295
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 The Hajj is an Islamic pilgrimage to Mecca that is considered to be a very holy occasion. The journey is filled with many challenges, but it is also an opportunity to learn about and reflect on one's religion.  tells the story of one woman's journey and highlights the diversity of the pilgrims.
 

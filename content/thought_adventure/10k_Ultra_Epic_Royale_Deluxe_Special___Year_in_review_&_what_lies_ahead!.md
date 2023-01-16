@@ -58,7 +58,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 discusses the 10k Ultra Epic Royale Deluxe Special, a channel created by Jake Paul. Jake Paul discusses how he believes that the psr is flawed and that the trinity is not in line with jewish monotheism. He also discusses how he met Alex Mappas, who sent him a link to a documentary about the trinity.
 
@@ -74,7 +74,7 @@ discusses the 10k Ultra Epic Royale Deluxe Special, a channel created by Jake Pa
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the role that abdu played in getting the 10k Ultra Epic Royale Deluxe Special running and in spreading Islam through social media. It also discusses the various Paradoxes and Contradictions that abdu was able to solve using Simplicity Theory.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** features a British man who started speaking proper English a few years ago, and discusses how his views on atheism have changed since. He talks about how he would like to debate prominent atheists, and how important it is to put claims to the test. He also mentions a recent drama talk between himself and another atheist.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses how two atheists, one of which is Jake, have been having discussions with other atheists about their beliefs. One of the goals of the discussions is to build alliances with other atheists so that they can better fight against religious beliefs.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  is a review of the year and a preview of what is to come for the "10k Ultra Epic Royale Deluxe Special" team. They discuss their favorite videos from the past year, their plans for the future, and their excitement for upcoming projects.
 
@@ -90,7 +90,7 @@ discusses the 10k Ultra Epic Royale Deluxe Special, a channel created by Jake Pa
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>* Discusses the year in review, including changes in government legislation that allows for anyone to speak in public, and talks about some of the people that they have seen at Speaker's Corner in London. He also mentions a brother that he met there who is very shy, and encourages others to visit Speaker's Corner and have discussions with others.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** James Fodor, Josh Norman, and Bart Norman discussed the concept of eternity from a scientific point of view, with James concluding that it is "problematic" because it is difficult to measure. Abdul added that there are many routes one can take when discussing the concept of eternity.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses how humans have difficulty understanding the nature of time and how to know if God is good. It also references a philosophy of time model created by the speaker.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('8400')">02:20:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:20:00</a>
 
 The "10k Ultra Epic Royale Deluxe Special" is a YouTube video that discusses the progress of the Project Movies channel over the past year and predicts that by the end of the year, they'll have reached 10,000 subscribers. It also mentions that they have other social media platforms, such as Facebook, Twitter, and Podcasts, and that viewers can reach them through those platforms as well. Finally, the video provides a contact information for viewers to send questions to the team in private.
 

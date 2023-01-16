@@ -23,7 +23,7 @@ MOHAMED HIJAB ALI DAWAH
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1500')">00:25:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:25:00</a>
 
  "Learning About Epistemology? - Critical Thinking" discusses the importance of gaining knowledge from both within and outside oneself. Jorah discusses how emotions can fit into the context of experiential knowledge, and how first-person experiences are important in epistemology.
 

@@ -15,7 +15,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  various topics are discussed in relation to the year 2022. These topics include the World Cup, Ramadan, Zionism, the Temple Institute, and the rise of Islam. The video also features a discussion about the possible creation of a new religion called Abrahamia.
 
@@ -31,7 +31,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The video reviews the differences between traditional Muslim and Christian youth activities, and then discusses the harm that can come from using certain language. Stanford University has released a guide called the "Harmful Language Guide."
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>**  Stanford University professor John Hinderaker discusses how the use of euphemisms in discussions of sensitive topics can desensitize people to the reality of what's being proposed, and how the reaction of many Muslims to the conversion of Andrew Tate was "strange."
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** reviews the possibility that Jesus did not die on the cross, and if this is the case, the Quran's claim about the crucifixion is historically valid.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3900')">01:05:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:05:00</a>
 
  Dr. Alia Thai reviews 2022 and thanks her viewers for their support.
 

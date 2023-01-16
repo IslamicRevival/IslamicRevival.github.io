@@ -11,7 +11,7 @@ See the BBC article 'Young more likely to pray than over-55s - survey': https://
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('300')">00:05:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:05:00</a>
 
 Discusses the increasing popularity of mosques in the UK, as well as the possible reasons behind this trend. The article suggest that this may be due to the pandemic, as people may find it easier to express their faith online. However, the author also points out that there is still a lot of division between mosque and church communities in the UK, with the average church being closed most of the time.
 

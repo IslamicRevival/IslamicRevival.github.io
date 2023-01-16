@@ -27,7 +27,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2700')">00:45:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:45:00</a>
 
  Imam Shabazz discusses the Islamic concept of maslaha, which is the idea that we should make decisions based on what will be in the best interest of all people, not just ourselves. He critiques people who act in their own self-interest, arguing that this is actually against their own interest.
 

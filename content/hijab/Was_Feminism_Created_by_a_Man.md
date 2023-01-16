@@ -11,7 +11,7 @@ Full Video here - https://www.youtube.com/watch?v=DOY84Ycaa2U
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  discusses how men are happier than women post-feminism, and argues that this is because feminism has benefited men more than it has benefited women.  suggests that women should not be aware of this situation.
 

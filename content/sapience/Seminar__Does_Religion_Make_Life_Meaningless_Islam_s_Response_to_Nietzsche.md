@@ -11,7 +11,7 @@ Seminar: Does Religion Make Life Meaningless? Islam's Response to Nietzsche with
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses how religion can provide meaning in life, with a focus on Islam. It is noted that, for Muslims, the meaning of life is objective and not subjective. It is also suggested that the Islamic concept of "maktab" - or service to God - can be a source of meaning and purpose in life.
 
@@ -27,7 +27,7 @@ Seminar: Does Religion Make Life Meaningless? Islam's Response to Nietzsche with
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** This seminar discusses how religion can provide meaning in life to those who are apathetic towards it, and how to articulate this to those who are non-religious. Jordan Peterson is mentioned as an example of someone who has struck a chord with those who are apathetic towards religion, by providing them with meaningful concepts such as the meaning of life and purpose. After explaining the importance of meaning to those who are apathetic towards religion, the seminar discusses how to provide this to these individuals by engaging in conversation.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses how the idea of an "ultimate meaning" to life can be a powerful tool for exploitation, and how mentioning Islam's promise of an actual paradise can be a good thing because it helps to dispel the idea that there is no hope or meaning in life. He suggests that the Islamic concept of "maktab" - or service to God - can be a source of meaning and purpose in life, and that the Islamic faith should be mentioned more often when discussing salvation.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  a seminar is held on the topic of religion and its impact on life meaninglessness. One of the speakers, Hamza, discusses how Islam provides a meaning to suffering, and how it can be a savior to those in difficult times. Another speaker, Viktor Franco, discusses how meaning can be found in suffering, and how it can be used to make sense of difficult times.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('4500')">01:15:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:15:00</a>
 
 argues that religion does not make life meaningless, and that there are other things beyond what we can see that exist. He suggests that humans are emotional beings and that emotions dictate what we believe. He encourages people to focus on living a purposeful life and to share this with others, and believes that Allah will bless them in the process.
 

@@ -66,7 +66,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the problem of reconciling the idea that Jesus was both fully God and fully man. Various models are discussed, with each having its own problems. Finally, the difficulties associated with each model are summarized.
 
@@ -82,7 +82,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses Jake's argument that the early church adopted a position and credo matter and that this caused later revisions to the doctrines of Christianity. Muslims are welcome to call in and discuss the issue.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The problem with understanding Jesus as fully God and fully man is that he would have to have all the divine properties and all the human properties, and there is a verse in the New Testament that suggests he did just that - that he "grew" in wisdom and stature.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the problem of Nestorianism, which is the belief that there are two separate persons in God, one who is divine and ignorant, and one who is human and omniscient. Samuel Greene, an apologist for Christianity, is interviewed on the Dao Wise stream. Greene discusses the problem of Nestorianism and how it arises when one asks who was ignorant. He then goes on to say that the incarnation of Jesus is more logically problematic than the trinity and the atonement.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  theologians discuss the problems with the traditional view of Jesus Christ as the incarnation of God on Earth. They argue that if Jesus had a human soul, then he was not fully divine. They also argue that the doctrine of the incarnation is one of the three main doctrines of Christianity that is contradicted by the historical record.
 
@@ -98,7 +98,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** The Thought Adventure Podcast discusses whether or not there is a logical contradiction in Christianity if God is to be both divine and human at the same time. The podcast references the revelation of God as well as biblical evidence in order to support their point.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>* Discusses the logical problem of claiming that certain attributes are necessary for being God, and then claiming that Jesus was not fully God because he had restrictions while on earth. points out that, even though Jesus was fully God, he still had restrictions while on earth, and is not fully God yet.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** reviews the different concepts of god found in monotheistic religions, noting that the christian conception of salvation and atonement is not arbitrary. He goes on to say that this does not mean that god ceased to exist as the second person of the Trinity while he was on earth.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('8400')">02:20:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:20:00</a>
 
  discusses the idea that Jesus was not fully God while he was on earth, and that this is a problem for Christians because it creates a contradiction. William Lane Craig, an orthodox Christian scholar, is interviewed and argues that the problem is a logical contradiction.  also mentions that next week's episode of the "Adventure Podcast" will feature Justin McElroy, an atheist critic of Christianity.
 

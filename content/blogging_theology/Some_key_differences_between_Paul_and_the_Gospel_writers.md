@@ -11,7 +11,7 @@ I cite 'Jesus Interrupted: Revealing the Hidden Contradictions in the Bible (and
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 Bart Ehrman discusses some key differences between Paul and the Gospel writers, including their beliefs about human sacrifice and the Jewish law. He also highlights a difference in their views on salvation, with Paul teaching that it comes to those who follow Jesus and keep the Jewish law, and Matthew believing that it is available to all who treat others humanely.
 

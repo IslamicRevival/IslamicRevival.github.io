@@ -11,7 +11,7 @@ FX3_4740_3.mp4
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 Andrew Tate cross-examines Piers Morgan about the supposed authority husbands have over their wives. Tate argues that there are certain circumstances where a man should be in charge of decision-making regarding his wife, and Piers Morgan does not seem to understand what he is talking about.
 

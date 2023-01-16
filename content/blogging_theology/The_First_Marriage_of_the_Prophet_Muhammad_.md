@@ -15,7 +15,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 This video tells the story of the Prophet Muhammad's first marriage to Khadijah. Khadijah was already married and had two sons from her previous marriage, but she fell in love with Muhammad and asked her uncle to let them marry. Abu Talib agreed, but he also arranged for Muhammad to take care of Khadijah's business. Khadijah and Muhammad were married in 624 CE in Mecca. Khadijah was forty-nine and Muhammad was twenty-eight. After the marriage, Muhammad started to take care of her business and trade for her. One day, Khadijah sent Muhammad on a business trip to Syria. When Muhammad came back, he found out that Khadijah had married him to her other son, Maysara, without telling him. Muhammad was angry and decided to break up the marriage. However, unexpected circumstances led him to change his mind and he married Khadijah in 628 CE.
 

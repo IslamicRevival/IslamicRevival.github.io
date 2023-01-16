@@ -11,7 +11,7 @@ Some unusual hadiths that are strikingly similar to some modern day phenomena.
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  features a discussion about predictions made by the Prophet Muhammad about the future. He predicts that there will be many wars and that some people will be persecuted.  also discusses other hadith which talk about the vehicles of the day, including the ships mentioned in the hadith. It concludes with a discussion of whether or not the women in these tutorials are aware of these hadith.
 

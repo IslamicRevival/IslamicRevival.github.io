@@ -15,7 +15,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 Discusses how the early Christians did not view the New Testament as the word of God, due to the fact that it was not originally seen as inspired by God. He points to chapter 10 of his book, A History of the Bible, which discusses how the books in the Hebrew Bible had acquired an official status for Jews by the end of the first century. Christians, whether Jews or not, took for granted this status when quoting from the Bible. The New Testament began life as occasional literature, rather than being sacrosanct like the Hebrew Bible.
 

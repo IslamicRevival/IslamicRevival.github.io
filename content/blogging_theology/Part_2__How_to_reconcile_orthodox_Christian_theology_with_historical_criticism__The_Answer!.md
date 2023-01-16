@@ -11,7 +11,7 @@ I read from 'Biblical Truths: The Meaning of Scripture in the Twenty-First Centu
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 Dale Martin argues that orthodox Christian theology can reconcile with historical criticism by reading later theological views into earlier texts, practicing anachronism, and ignoring what Paul and other apostles say about Jesus.
 

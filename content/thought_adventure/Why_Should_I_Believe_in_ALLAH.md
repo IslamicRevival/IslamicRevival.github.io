@@ -60,7 +60,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2100')">00:35:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:35:00</a>
 
  discusses various reasons for why one should believe in Allah, including rational arguments and the similarities between Islam and other religions. It also touches on the possible reasons why Muhammad may have lied or made up stories, and how the Quran is superior to other religious texts.
 

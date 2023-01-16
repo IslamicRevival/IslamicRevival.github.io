@@ -19,7 +19,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 Abdullah al Andalusi discusses the problems that liberalism has with tolerance of multiple ways of life. He argues that Islam manages plurality better than liberalism, and that liberalism fails to have a first principles approach.
 

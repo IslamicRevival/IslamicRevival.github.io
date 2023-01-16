@@ -32,7 +32,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 Mohammed Hijab discusses the origins of the Londoniyyah poem and how it addresses various issues affecting Londoners. He also discusses the importance of being fair to everyone who has contributed to the Londoniyyah project, and thanks the viewers of the Sapience Institute's YouTube channel for their support.
 

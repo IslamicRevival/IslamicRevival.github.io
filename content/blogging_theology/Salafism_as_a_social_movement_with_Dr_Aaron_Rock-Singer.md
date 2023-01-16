@@ -12,7 +12,7 @@ https://www.amazon.co.uk/Shade-Sunna-Salafi-Twentieth-Century-Middle/dp/05203825
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 Salafism is a social movement that has its origins in the 20th century Middle East. The movement is characterized by a focus on tradition and the strict interpretation of religious texts. Salafism has been shaped by questions of women's presence in public space, female sexuality, and the power of the modern state.
 
@@ -28,7 +28,7 @@ Salafism is a social movement that has its origins in the 20th century Middle Ea
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses how, beginning in the 1970s, a new argument emerged in regards to segregation between men and women in Islam - that it is required by divine law. argues that this position is difficult to justify, as it requires a novel interpretation of scripture and is not supported by direct proof texts.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>**  provides a brief overview of the history and contemporary significance of Salafism, a conservative Muslim movement. Salafism is characterized by its adherence to a strict interpretation of the Quran and the Sunnah, or the teachings of Muhammad. The movement has been shaped by questions of women's presence in public space, female sexuality, and the power of the modern state. Salafism is also comparable to broader religious movements around the world during this period, due to the influence of colonialism and globalization.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses Salafism as a social movement, discussing the importance of precision in religious practice and the significance of this trend in terms of the erosion of religious communities and the rise of secularism. Salafism, as a response to these factors, is seen as a healthy reaction.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:00:00</a>
 
 In "Shade of the Sunnah: Salafi Parties in the 20th Century Middle East," Dr. Aaron Rock-Singer examines the emergence of salafism as a social movement in the Middle East. Salafism is defined as a "return to the original ways of the Prophet Muhammad," and as such, Rock-Singer argues, it is deeply shaped by questions and concerns of the 20th century.
 

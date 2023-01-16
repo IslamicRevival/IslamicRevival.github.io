@@ -9,7 +9,7 @@ A short but fruitful discussion on what to expect after death.
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('900')">00:15:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:15:00</a>
 
  "You're Dead !" discusses the idea of meaning and purpose in life, and how it can be found outside of the physical world. argues that if we confine ourselves to the material realm, we will have material solutions and problems, but if we expand to the metaphysical realm, we can start talking about things like theology and philosophy.  discusses the three schools of thought within philosophy concerning the relationship between mind and body, and how everything has a cause, including life after death. It then goes on to discuss how, according to some philosophers, anything which can be verified is meaningful, while anything else is meaningless.
 

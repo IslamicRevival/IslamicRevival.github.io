@@ -11,7 +11,7 @@ See the complete article here: https://www.scientificamerican.com/article/atheis
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 Top physicist Stephen Hawking says that atheism is inconsistent with the scientific method because it doesn't allow for the humility and tolerance required in science. He argues that this is a problem because it means that people can't trust scientists to be honest about the limitations of their knowledge.
 

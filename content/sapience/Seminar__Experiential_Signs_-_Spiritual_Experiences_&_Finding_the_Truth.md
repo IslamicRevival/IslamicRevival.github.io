@@ -13,7 +13,7 @@ A seminar with Fahad Tasleem on how to ise spiritual experiences to help them fi
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 This seminar discusses Islamic spirituality and how it can be used to find the truth in the modern world. covers the ontology of the soul and how to properly articulate Islamic spirituality. They offer advice on how to improve one's spiritual life in the face of the challenges of the modern world.
 
@@ -29,7 +29,7 @@ This seminar discusses Islamic spirituality and how it can be used to find the t
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the concepts of iman (internal belief) and ham (disquiet or anxiety). It explains that iman gives the person the appropriate medicine to deal with ham, which can be manifested in terms of peace, security, and tranquility. The Islamic worldview differs from other worldviews in that it also includes a rational component, meaning that there is a sense of mental and spiritual stability as well as peace.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses how spiritual experiences can be interpreted in different ways, and how rationality and spirituality need to be balanced in order to be stable. also highlights a Quranic ayah about knowledge and obedience.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Seminar speaker discusses the concept of 'hasan,' or beauty both on an external and internal level. He compares it to the term 'jamil,' which refers to beauty that is delightful to the eyes. He encourages husbands to say 'anti jamilah' to their wives.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('6300')">01:45:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:45:00</a>
 
 This seminar discusses how to identify spiritual experiences and how to use them to find the truth. It covers the idea of fasting and how it can be spiritually beneficial. The presenter encourages listeners to stand in the possibility that there is a different interpretation to a spiritual experience, whether it be from Allah or another god.
 

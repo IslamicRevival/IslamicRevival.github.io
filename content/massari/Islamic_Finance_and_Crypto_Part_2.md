@@ -30,7 +30,7 @@ Deep dive into Crypto with guest speaker
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses Islamic finance and crypto, focusing on the legal and economic validity of interest and how it varies depending on the jurisdiction. It also discusses the use of fiat currencies, and how inflation can occur due to an increase in the money supply. The presenter discusses how cryptocurrencies can be used to avoid usurious interest rates and inflation, and provides an example of a contract in which a farmer exchanges bushels of wheat for dollars.
 
@@ -46,7 +46,7 @@ Deep dive into Crypto with guest speaker
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Islamic finance allows for immediate, direct transactions between different currencies. The system is designed to be more systematic and well-structured than traditional forex exchanges, which can be subject to arbitrage.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** discusses Islamic finance and crypto and how it works. The main point is that, in order to make a loan, a broker will often require you to keep a security, such as cash or stocks, in your behalf. This increases the risk of the loan and can result in interest charges.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The main problem with Islamic finance is that some hedge funds who are shorting stocks may have sold stocks which are not real, and when the stock market went against them, they were forced to borrow trillions of dollars from the banks.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  discusses Islamic finance and crypto, focusing on the concept of "taratul." Taratul is based on tawatur, or certainty, and is an important part of Islamic finance. The narrator points out that this concept is not always followed in practice, and that there are two places in the Quran where it is specifically addressed. Taratul is important for security reasons, as it helps prevent wars.
 
@@ -62,7 +62,7 @@ Deep dive into Crypto with guest speaker
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>**  an Imam discusses some of the more bizarre aspects of Islamic finance and cryptocurrency. Included are stories of people being sold as slaves, and a suggestion that a debt be sold as a slave. Ultimately, these points of view have been abandoned, but still remain in some Islamic history.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>**  an Islamic scholar discusses the various issues associated with gold and silver prices. He notes that there is no specific hadith about a revealed price ratio for these metals, and that if they are different then exchange as much as you like. He goes on to say that Dogecoin is similar to bitcoin, but that it is later in development and has a greater financial energy because of its lack of intrinsic value.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses Islamic finance and crypto, discussing the similarities between these two fields. The narrator points out that, in terms of fundamentals, both rice and wheat are similar, and that it would make sense for Islamic finance to adopt similar currencies to those already in use, such as the dinar and gold and silver. He goes on to say that, if this is done, other types of currencies could be covered as well.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('8100')">02:15:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:15:00</a>
 
  discusses Islamic finance and cryptocurrency, and how they are similar and different. The presenter argues that both have metaphysical existence, but that Islamic finance is more widely understood. He also argues that cryptocurrencies could lead to the downfall of the Islamic world.
 

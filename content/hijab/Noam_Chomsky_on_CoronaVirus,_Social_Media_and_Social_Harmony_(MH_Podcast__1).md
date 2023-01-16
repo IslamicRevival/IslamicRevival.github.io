@@ -11,7 +11,7 @@ link here - https://www.naturesblends.co.uk/
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('900')">00:15:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:15:00</a>
 
 Noam Chomsky discusses the response to the coronavirus pandemic and how social media can be used to help or hinder social harmony. He recommends that people be educated on basic Islamic beliefs to help reduce discrimination and advocates for groups that advocate for change.
 

@@ -18,7 +18,7 @@ We want to recommend Kitab ut-Tawheed: The Basis of Islam and the Reality of Mon
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3000')">00:50:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:50:00</a>
 
  covers a lot of information about the Lord's Prayer, including its origins, the different interpretations of it, and its connection to the Quran. It also discusses the idea that the prayer is not simply a request for sustenance, but also for guidance in order to behave in a way that will allow for the development of the earth.
 

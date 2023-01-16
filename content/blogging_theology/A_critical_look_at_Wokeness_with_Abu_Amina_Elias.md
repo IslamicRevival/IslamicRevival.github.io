@@ -17,7 +17,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the dangers of post-modernism and its effects on society. It argues that the philosophy is irrational and self-refuting, and that it leads to the rationalization of atrocities.  also discusses how post-modernism has infiltrated Christianity, and how this could harm the tradition.
 
@@ -33,7 +33,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  explains that there is a natural reality, which opposes the false "blank slate" ideology. Stephen Pinker, an atheist, provides evidence that this ideology is not scientific. Abu Amina Elias, a Muslim, argues that this ideology harms teenagers, by teaching them that they do not need to follow traditional values.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses parallels between Islam and Tesla technology, noting that while Tesla's theories were flawed, they were still muslims. He also points out that there is no precedent for the ideas Tesla promoted in Islamic history.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The narrator discusses how a foreign philosophy, in this case, greek philosophy, can influence Muslims to commit atrocities against their own Muslim brothers and sisters. He also warns that if the Muslims do not have a relationship with their religious leaders, they will turn to political leaders who will also be influenced by the non-muslim academics in the field. The narrator cites examples of this trend in the United States, such as Joe Biden and Alexandria Castillo Cortez, and how it can have negative consequences for Muslim children.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('4800')">01:20:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:20:00</a>
 
  discusses the concept of "wokeness" and how it is used to manipulate people. It covers the double standards that identitarians adhere to, as well as their obsession with power dynamics.  also points out the worldliness of the "Woke" movement and how it is incompatible with true activism.
 

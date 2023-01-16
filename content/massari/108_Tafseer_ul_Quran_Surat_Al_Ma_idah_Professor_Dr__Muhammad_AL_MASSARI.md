@@ -18,7 +18,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  Professor Muhammad Al Massari discusses the Surat Al-Ma'idah from the Quran. He explains that the People of the Book have no valid grounds for their beliefs unless they truly observe the Torah and Gospel. He also discusses how the final revelation abrogated previous instructions contained in the Torah. The presenter then discusses the difference between believing in Allah and doing good deeds, and how believing in Allah is not enough to be saved.  concludes with a discussion of how some people have tried to discredit those who do not believe in Allah and His judgment by pointing to their good deeds.
 
@@ -34,7 +34,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the different interpretations of the Trinity, and argues that the concept is irrational and contradictory. It also points out that the belief in all three entities as one is required to be compatible with the principle of identity, which is a fundamental principle of logic.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the Islamic concept of the trinity, which is found in many scriptures. The trinity is simply the idea that there is a deity referred to as "the father," "the son," and "the holy spirit." There is no evidence that this concept is necessary for understanding the scriptures, and there is no indication that it is related to the Christian concept of the trinity. The core of the trinity concept is that what is told to Musa (God's prophet) is true, and that this deity exists from eternity. The messiah, son of man, and mother of Jesus all have a human nature, and will eventually die and return.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  Professor Muhammad AL MASSARI discusses the various arguments against the divine suffering and sacrifice of Jesus Christ. He argues that these arguments are based on rational impossibility, and that they ultimately fail. He also discusses the various denominations of Christianity, and how they each claim to have the true teachings of Christ. He concludes the video by saying that the reality of Christ is simple and straightforward, and that the various theological speculation is ultimately fruitless.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
 Professor Dr. Muhammad Al Massari discusses the concept of good and evil, and how various religious groups have tried to solve the problem. He argues that these solutions are contradictory and impossible, and that the problem of good and evil can never be solved.
 
@@ -50,7 +50,7 @@ Professor Dr. Muhammad Al Massari discusses the concept of good and evil, and ho
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** The professor discusses the importance of the ummah and how it applies to different issues such as victory in war and relations among different religions. He also mentions the need for further clarification of the concept of the ummah and why it is important.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>**  Professor Dr. Muhammad AL Massari discusses the difference between those who say that those who die without Islam are punished by Allah for not accepting Muhammad as their messenger, and those who believe that anyone who has heard of Islam but rejects it is still accountable to Allah. He also points out that this internal contradiction is attributed to Allah in contradiction to what he says in the Quran.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses how some people believe that if a messenger has not come to a person, then that person is not worthy of punishment. Muhammad Al Massari discussed the principle that a messenger must come with clear evidence for a person to be punished. If someone rejects the message after seeing evidence, that person may be punished in the hereafter.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('7800')">02:10:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:10:00</a>
 
 in this video discusses the different types of contracts a Muslim may enter into, and how they are all okay as long as the conditions of salah are met. He also briefly explains how to trade stocks and borrow money from a broker. Finally, the speaker discusses the different sects of Christianity and their differences, with a focus on the Syrian church.
 

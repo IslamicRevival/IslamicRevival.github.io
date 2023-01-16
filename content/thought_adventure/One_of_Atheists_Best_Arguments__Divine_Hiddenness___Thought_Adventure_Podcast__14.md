@@ -67,7 +67,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the Divine Hiddenness argument, which suggests that if God exists, He would not want a world with non-resistant non-believers.  argues that this argument fails to take into account various Islamic theological arguments for the existence of God.
 
@@ -83,7 +83,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses why the Quran rejects the idea that people can be convinced to Islam simply through signs or miracles. They also discuss how people who have been given clear signs from God often go astray. Lastly, the speaker discusses how people who do not believe in Islam will not be punished in Hell.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses one of atheists' best arguments: divine hiddenness. They argue that belief alone, or the lack of belief, is not sufficient to send someone to hell. also discusses how the argument fails to take into account various Islamic theological arguments for the existence of God. Finally, the speaker points out that the underlying principle of the argument is already assuming that there is good sufficient justification for belief in God. This assumption is part of the reason the argument fails.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses why some people think that god is not obvious, and how this argument relates to the argument for divine hiddenness. argues that there is ample evidence to support the existence of a god.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  atheists discuss some of the best arguments against the existence of God. The arguments discussed include the argument from contingency, the argument from free will, and the argument from divine hiddenness.  also includes a discussion of how the presenter feels about the matter.
 
@@ -99,7 +99,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>* Discusses the four arguments for and against divine will, and concludes with a discussion of how the presenter feels about the matter. The presenter believes that there is a possibility that divine will does not exist, but that it could just be a natural event.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>* Discusses the argument of divine hiddenness, which contends that if God exists, then there are no non-resistant non-believers. Carlos argues that the argument is a "rubbish" one, and Shadeep points out that the problem of evil is a stronger argument for God. Sharif points out that people in the past witnessed miracles, but still disbelieved.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses one of atheists' best arguments - that divine hiddenness makes it difficult to know for certain whether or not God exists. Ray argues that this argument is irrelevant to atheists, as they do not believe in a physical God.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('10800')">03:00:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-03:00:00</a>
 
  discusses the atheist argument against divine hiddenness, which is that everything can be explained by physical non-conscious non-living matter. Atheists, according to the video, are forced to embrace a belief system which they cannot disprove.  goes on to discuss how using epistemology to come to ontological conclusions is a category error.
 
@@ -115,7 +115,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('9900')">02:45:00</a>** summarizes the main points of their argument, which is that miracles are signs, not the thing itself. Miracles are not repeatable, so they cannot be evidence of the existence of God.
 * **<a onclick="modifyYTiframeseektime('10200')">02:50:00</a>* Discusses how using epistemology to come to ontological conclusions is a category error. Carlos makes the point that if someone holds certain views on the existence of other minds or the reality of the external world, they are using ontological conclusions based on their own epistemology and are inconsistent.
 * **<a onclick="modifyYTiframeseektime('10500')">02:55:00</a>* Discusses how an atheist can be agnostic about the existence of a divine being, but still hold that it must have some kind of explanation. It then goes on to discuss how this explanation may be either a contingent reality as a whole or a non-contingent reality, depending on the principle used to explain it. From an atheistic perspective, the first option is in principle the same as positing that there may not be an explanation for something, while the second option is to be consistent and believe that a necessary explanation exists.
-### <a onclick="modifyYTiframeseektime('10800')">03:00:00</a> - <a onclick="modifyYTiframeseektime('10800')">03:00:00</a>
+### <a onclick="modifyYTiframeseektime('10800')">03:00:00-03:00:00</a>
 
  "One of Atheists’ Best Arguments: Divine Hiddenness | Thought Adventure Podcast #14" discusses the divine hiddenness argument, which is based on the assumption that God is hidden from us. Mr. Ray argues that this assumption is not necessarily true, and that the divine hiddenness argument doesn't operate in any meaningful way in the philosophical discussion.
 

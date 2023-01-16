@@ -71,7 +71,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 This podcast is about exploring theological, religious, and Islamic ideas. The panelists discuss their experiences with atheists, Christians, and Hindus and how they think these conversations can be beneficial. They also mention that they will be streaming on their respective channels in the future.
 
@@ -87,7 +87,7 @@ This podcast is about exploring theological, religious, and Islamic ideas. The p
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* introduces himself and discusses the nature of a necessary being. He then discusses the experience of religion and how it can be connected to the holy spirit. He also discusses the Islamic perspective on the trinity and how it differs from the Christian perspective. Finally, he asks William Lane Craig a question about the doctrine of the trinity.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Justin, the host of "The Empathetic Atheist Show", chats with Sharif and Jake about his experiences talking to Christians and Muslims. He notes that while there are some similarities between the two groups, there are also significant differences. Justin believes that if Christians could approach discussions with Muslims in a more thoughtful and open manner, there would be more understanding and cooperation between the two groups.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the difference between Islamic theology and other religions and how Muslims try to provide empirical evidence for their beliefs. He says that there must be a logical argument and evidence behind the existence of a creator, which must be backed up by empirical means. says that he is not an empiricist and that he values empirical data, but is still not fully convinced that these arguments are true. He says that skepticism is the point where one is speaking about just logical arguments and can't go beyond that. then talks about a problem with this and how it relates to trying to prove the existence of a computer game's creator.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  the speaker argues that atheism is an illness caused by a lack of understanding of the evidence. They suggest that dialogue with atheists is necessary in order to find what is causing their atheism.
 
@@ -103,7 +103,7 @@ This podcast is about exploring theological, religious, and Islamic ideas. The p
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** The Thought Adventure Podcast explores ideas around theology, religion, and Islam. In this episode, the hosts ask a question about how to reconcile teachings in the bible about Jesus praying to different deities, and then discussing Jesus' temptation in the desert. They also talk about how the idea of separate beings expressing themselves in different modes can be reconciled within modalism.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** Muslims believe that there is a separate being called Allah who is greater than any human, and that through prayer, Allah can be contacted and answered. Christians believe that through the mediation of Jesus, humans can reach God. Muslims argue that this is unnecessary because Allah is already greater than any human and can be contacted directly.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses how they don't believe in a mode between humans and God, instead believing everything is directly related. They explain how passages from the Bible support their position.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('8100')">02:15:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:15:00</a>
 
 The Thought Adventure Podcast discusses theology, religion, and Islam in a respectful and civil manner. The guests on the show discuss various topics related to these topics, and the show will be on the last day of January.
 

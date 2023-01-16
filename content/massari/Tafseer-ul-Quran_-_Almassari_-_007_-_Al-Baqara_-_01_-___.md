@@ -18,7 +18,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the significance of the number of letters in the Quran, and how this number affects the meaning of the text. It also discusses the different orders of the letters, and how they can be used to find interesting phrases or sentences.
 
@@ -34,7 +34,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the meaning of the alif in the Quran. It states that the alif is the alif at the beginning of the hamza, and that if it is assumed to be 14 letters, then there are 87 billion possible arrangements. The narrator calculates that there are 178 million possible arrangements for the 40 letters in the alif.  also discusses the alignment of the letters in order to find a sentence or phrase with an interesting meaning.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the Arabic writing of the Quran, which is known as "the writing which is dominant." It also mentions that although this writing is pronounced the same as the letter "alif," it is not the same letter. The Arabic language requires divine power to make it similar to the Quran, as no one can achieve this without it.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the 19 letters in the Qur'an and their significance. It also discusses the significance of the number 19 in the Qur'an and the correlation between 29 and 28.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:00:00</a>
 
  Shaykh Muhammad al-Mashhur provides a tafseer of the Qur'an's chapter Al-Baqara. He covers verse 01, which discusses the creation of the universe. He explains that the universe was created by Allah and that everything in it is controlled by Him.
 

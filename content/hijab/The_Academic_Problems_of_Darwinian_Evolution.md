@@ -13,7 +13,7 @@ Visit Darwnian Delusions Channel for morehttps://www.youtube.com/channel/UCRkKHy
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1500')">00:25:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:25:00</a>
 
  discusses the academic problems with Darwinian evolution, specifically its lack of certainty and its potential to be used to justify atrocities like the Holocaust. It also points out that other scientific theories have similar flaws.
 

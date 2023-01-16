@@ -16,7 +16,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3000')">00:50:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:50:00</a>
 
 The video discusses the concept of divine decree in Islam and how it applies to everyday life. It explains that each individual has a destiny, and that there is no escaping it. The video also discusses the importance of humility when understanding the unseen.
 

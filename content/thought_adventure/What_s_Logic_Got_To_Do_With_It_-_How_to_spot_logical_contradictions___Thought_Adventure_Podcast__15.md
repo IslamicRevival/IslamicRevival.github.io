@@ -76,7 +76,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses how to identify a logical contradiction and provides an example. It also explains how a concept can be true but still be incoherent.
 
@@ -92,7 +92,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** , Abdul Rahmani argues that there is a contradiction in the idea that God allows sin, because if God doesn't like sin, then people who sin will go to Hell. However, Rahami points out that this is not a contradiction, because if you affirm both concepts simultaneously, then there cannot be a contradiction.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>**  Jake and Sharif discuss how a concept can be coherent yet still be unreasonable or implausible. They also discuss how a concept can be true but still be incoherent.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** , Sharif discusses how a contradiction can exist when someone tries to argue that there is a contradiction between the idea that there is a god and the idea that humans have free will. He argues that there is no contradiction because the two ideas are not in the same sense. He then goes on to say that some Muslims who are unsure about whether or not to believe in a god will hear what is being discussed and may become convinced that there is no god.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
 , "What's Logic Got To Do With It? - How to spot logical contradictions," philosopher Jake Knoll explains that the concept of libertarian free will is contradictory, because the main thing that needs to exist in order to have free will is a reason for what a person chooses, but that reason does not necessitate that the choice be made. If this is the case, then it would be impossible for an agent to be morally accountable for their actions, as there would be no explanation as to why they acted in a particular way.
 
@@ -108,7 +108,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>**  Sean discusses the concept of logic and how it can be used to spot contradictions in someone's reasoning. He also explains how reason can dictate whether or not someone chooses to do something, based on their current condition.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>**  Jake reads from a previous article in which he argues that a god does not need anything in order to be satisfied, and therefore creates contradictory statements. Jake provides an example of this contradiction in the form of the contradiction between the statement "I don't need the snickers bars, but I ate one" and the fact that Jake has reasons to eat the snickers bar.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses how humans need reasons to act, but argues that this is not always the case for God. Abdul Rahman provides an example of a choice that does not require a reason, and argues that God does not need reasons for His actions.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('10800')">03:00:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-03:00:00</a>
 
 , lawyer Matthew Danish discusses how to spot logical contradictions. He explains that a logical contradiction arises when two things in a relationship are known to be contradictory, such as the idea that God knows humans will do something and humans are still free. He goes on to say that, in order to demonstrate this contradiction, the person doing the demonstration must first provide an explanation for why the two things are contradictory.
 
@@ -124,7 +124,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('9900')">02:45:00</a>**  Matthew argues that it is possible for there to be a logical contradiction where one definition of a word is not equal to another. He goes on to say that this would only happen if one's definition of the word was the only possible definition.
 * **<a onclick="modifyYTiframeseektime('10200')">02:50:00</a>** Sharif argues that tests do not necessitate ignorance of the outcome, but rather that the test-taker can know the outcome and still do it. He provides several counter-examples to this claim.
 * **<a onclick="modifyYTiframeseektime('10500')">02:55:00</a>**  Matthew discusses how some people misunderstand the concept of "saying the truth is from your lord." He goes on to say that anyone who wishes to believe in Allah should do so, regardless of whether or not they believe in the Quran or Sunnah. Furthermore, he cites a number of verses from the Quran and Sunnah to back up his argument. Finally, he points out that there is a category of disbelievers who can become believers, and Allah reaffirms this reality in the Quran.
-### <a onclick="modifyYTiframeseektime('10800')">03:00:00</a> - <a onclick="modifyYTiframeseektime('13200')">03:40:00</a>
+### <a onclick="modifyYTiframeseektime('10800')">03:00:00-03:40:00</a>
 
  discusses how to spot logical contradictions and how to create effective arguments. It also discusses the rise in popularity of the Thought Adventure Podcast and how to become a supporter.
 

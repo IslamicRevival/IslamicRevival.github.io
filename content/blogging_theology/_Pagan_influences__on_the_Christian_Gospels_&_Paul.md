@@ -15,7 +15,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1200')">00:20:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:20:00</a>
 
 The video discusses how pagan influences can be found in the Christian Gospels and Paul, noting that Middle Platonic thought heavily influenced John's gospel. It explains how Justin Martyr admitted that the similarities between pagan myths and Christian doctrines, claiming that the devil created fake pagan myths to emulate Christ.
 

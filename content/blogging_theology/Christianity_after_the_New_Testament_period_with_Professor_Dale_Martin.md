@@ -33,7 +33,7 @@ Chapters:
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  Professor Dale Martin discusses Christianity after the New Testament period. He discusses how Christianity spread throughout the world after the death of Jesus Christ and how it underwent many transformations over its long history. He also discusses the importance of Emperor Constantine in advancing the religion.
 
@@ -49,7 +49,7 @@ Chapters:
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** This video discusses the debate among scholars about whether or not Constantine was a Christian. Some scholars argue that he was not really a Christian, while others argue that he was. One argument for Constantine being a Christian is that he baptized himself on his deathbed--a practice not uncommon among emperors.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** This video discusses Christianity in the post-New Testament period, focusing on Emperor Constantine's role in advancing the religion. Eusebius wrote a Life of Constantine to support his claim that Christianity was destined to become the dominant religion in the empire.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  Professor Dale Martin discusses Christianity after the New Testament period. He argues that while Christianity was originally centered around Europe, it has since become a global religion. Martin discusses how changes in the 18th century, specifically Protestant evangelism in newly-colonized areas such as North America and South America, helped to create this shift.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3900')">01:05:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:05:00</a>
 
  Professor Dale Martin discusses Christianity's spread throughout the world in the modern era. He notes that Christianity began to become a world religion in the 20th century when scholars started including it among other religions. Martin also discusses the controversial topic of whether or not Christianity is the only world religion.
 

@@ -64,7 +64,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1500')">00:25:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:25:00</a>
 
 The presenter in this video discusses the need for messengers to communicate with a creator. They explain how the nature of a human being is alluded to within the Quran and in debates with atheists. says that even when a person faces a difficult situation, they still maintain hope in the creator.  discusses how humans have an innate desire to seek something more than material to appease something beyond the physical universe, which manifests as a lack of control and fear in difficult situations. It goes on to discuss how this manifests in different ways across different cultures, concluding that it is a universal phenomenon.
 

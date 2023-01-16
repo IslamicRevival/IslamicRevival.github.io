@@ -18,7 +18,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 Professor Dr. Muhammad AL MASSARI discusses how the story of Ibrahim can be understood from the evidence found in the Quran. He points out that while the wahhabi way of thinking led to the development of three sects, it does not inherently possess the power of harm or benefit. He goes on to say that while traditions may desire business or interest, true power is based on one's own being, not external sources. Finally, he gives an example of how the procedure of invoking a deity with milk on top can still be seen in India today.
 
@@ -34,7 +34,7 @@ Professor Dr. Muhammad AL MASSARI discusses how the story of Ibrahim can be unde
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the idea that Allah has a kingdom, which is present at all times and in all places. This kingdom is revealed at a specific time, called the day of judgment.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the idea of 'subtraction' - that what is known about the universe is only a 'conceptualization' in comparison to what is yet to be understood. The professor suggests that one of the ways to understand this is to think about 'fields' - things that are present in the universe, but which we can't access or understand in our current state. One example the professor provides is the Malaysian plane that has yet to be found, despite multiple searches over a period of several years. While we may never know the full details of what happened to the plane, the professor reminds us that this is just one example of the unknown that exists in the universe.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The following is a transcript excerpt of a YouTube video titled "122 Tafseer ul Quran Surat Al-An'am Professor Dr Muhammad AL MASSARI" followed by a 1-paragraph summary of the Ibrahim story in the Quran.  discusses how the story of Ibrahim, the founder of Islamic philosophy and scholarship, can be understood from the evidence found in the Quran.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('6600')">01:50:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:50:00</a>
 
  Professor Dr. Muhammad AL MASSARI discusses the Quran's account of history and its reliability. He argues that the Quran is more reliable than the Bible and that it contains important information that is essential for people to understand. He also discusses the concept of idols and how they should not be worshipped.
 

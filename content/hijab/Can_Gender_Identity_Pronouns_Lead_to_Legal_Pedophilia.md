@@ -11,7 +11,7 @@ This video attempts to question the implications of allowing people to identify 
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  discusses the possible implications of gender identity pronouns. It argues that, because gender is a social construct, people have the right to self-identify in any way they choose. If the state dictates that a person must identify with a certain gender, that person would have to be consistent in their self-identification or else their self-identification would be invalid. This could lead to people being deluded about their age or identity.
 

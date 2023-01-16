@@ -27,7 +27,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the idea of individualism and how it can lead to conflict. It cites the example of the Protestant Reformation, which led to the break-up of the Catholic Church, as an example of good reform. However, it also notes that in some cases, terrorists may be motivated by such a mindset, as they are not concerned with the consequences of their actions.
 
@@ -43,7 +43,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Mohammed Hijab discusses the idea of perpetual conflict between nations due to the presence of a superpower, Pax Americana. He notes that this creates stability because the "big boss" takes care of business.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the idea of individuals being motivated by self-interest or being devoted to a cause greater than themselves, and how this can lead to conflict. It goes on to say that, in some cases, terrorists may be motivated by such a mindset, as they are not concerned with the consequences of their actions.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** De Tocqueville argues that individualism is a calm and considered feeling that disposes each person to isolate themselves from the mass of their fellows, withdraw into the circle of their family and friends, and enjoy life to the fullest. He goes on to say that egoism can be differentiated from individualism only in the fact that the latter is based on misguided judgment.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3900')">01:05:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:05:00</a>
 
  Mohammed Hijab discusses the concept of individualism, which he says can lead to tyranny. He points to the example of Alexis de Tocqueville, who wrote about the dangers of individualism in the early 1800s. Tocqueville argued that when individuals are free to do whatever they want, it becomes much easier for tyrants to control them. Hijab explains that individualism can lead to tyranny, specifically because it allows the government to customize its tyrannical behavior to the individual's likes and dislikes.
 

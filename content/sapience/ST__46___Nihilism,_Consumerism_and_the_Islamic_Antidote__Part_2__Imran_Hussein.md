@@ -25,7 +25,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  Imran Hussein discusses the origins of nihilism and consumerism, and how they are related. He explains that nihilism is a philosophy that has its origins in the Enlightenment period, and that consumerism is a product of this philosophy. He asks viewers to share their thoughts on the link between these phenomena in the comment section below.
 

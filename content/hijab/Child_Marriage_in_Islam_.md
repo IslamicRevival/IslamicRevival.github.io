@@ -9,7 +9,7 @@ This video explains how Islamic law forbids sexual relationships with minors and
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('900')">00:15:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:15:00</a>
 
  discusses child marriage in Islam, explaining that the Quran allows for marriage at a young age. argues that while there is potential for harm to the children involved, it is not always the case.
 

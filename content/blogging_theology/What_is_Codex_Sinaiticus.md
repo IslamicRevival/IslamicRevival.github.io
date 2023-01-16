@@ -15,7 +15,7 @@ https://codexsinaiticus.org/en/codex/
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('300')">00:05:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:05:00</a>
 
 The Codex Sinaiticus is an ancient Christian manuscript that contains the earliest known complete copy of the Bible. It is notable for its links to world history and its differences from modern bibles.
 

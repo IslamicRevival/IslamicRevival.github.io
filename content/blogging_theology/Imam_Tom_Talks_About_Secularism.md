@@ -17,7 +17,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 Imam Tom discusses secularism and how it has changed the way Muslims interact with their faith. He argues that, while there are some negative aspects to secularism, it can be more beneficial than traditional methods. He also discusses how secularism has changed the way people experience and understand the world.
 
@@ -33,7 +33,7 @@ Imam Tom discusses secularism and how it has changed the way Muslims interact wi
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Imam Tom discusses secularism and its effects on Muslims in the United States. He talks about how mainline Protestant denominations became secularized and how this created a split between evangelical and mainline denominations. He also points out that the Muslim American experience is different depending on where one lives.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Imam Tom discusses secularism and how it is legitimized. He quotes Charles Taylor and shows how the assumption that religious conviction leads to violence is false.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Imam Tom discusses secularism, its benefits and drawbacks, and how it shapes the way politics are shaped in secular societies.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('5100')">01:25:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:25:00</a>
 
 Imam Tom discusses secularism and its advantages and disadvantages. He argues that secularism is not just about separating religious life into the private sphere but also the determination of the state of what religion is and is not. Secularism is the murder of god by the state, and this is the ultimate hindrance to Muslims because it gives the state too much power.
 

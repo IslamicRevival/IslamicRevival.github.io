@@ -13,7 +13,7 @@ To watch and learn from the free Sapience Institute launch webinars please acces
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the implications of atheism and naturalism, and how they lead to existential nihilism and a world without God. It offers solutions to this problem, including Islam.  argues that, without an ultimate purpose or goal, humans are ultimately reduced to nothingness. It also points out that world religions have caused many negative effects.
 
@@ -29,7 +29,7 @@ To watch and learn from the free Sapience Institute launch webinars please acces
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Atheism and naturalism do not offer a satisfactory answer to the fundamental questions of life. People who live without God often experience existential angst, which can lead to psychological issues.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the idea that world religions have caused deaths, corruption, and other negative effects. He also points out that, as modernism became more popular, it failed to achieve its goals of creating a worldly utopia. Post-modernism has helped to expose modernism for what it is, and this has led to a renewed awareness of the negative effects of world religions.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Nietzsche predicted that a world without God would result in nihilism, meaninglessness, and violence. He was commenting on the idea that as soon as people turn away from God, they are faced with the logical consequences of their decision.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('6000')">01:40:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:40:00</a>
 
  discusses how people are searching for meaning in a world without God. It discusses the various ways that people have responded to the lack of meaning in the world, including gaming, technology, and subjective definitions of reality. argues that Islam provides a meaningful life that balances human nature.
 

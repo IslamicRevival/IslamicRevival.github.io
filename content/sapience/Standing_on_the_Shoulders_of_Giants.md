@@ -43,7 +43,7 @@ https://thevisionaries.co.uk
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the importance of having a vision, strategy, and principles in order to be successful in one's work. It mentions that during the retreat, attendees will be able to learn about the 14 key principles and qualities that are required in order to achieve success.
 
@@ -59,7 +59,7 @@ https://thevisionaries.co.uk
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the importance of having a vision and strategy, and how to know when a strategy is working. It also discusses the importance of looking at the Dunya (the worldly realm) and the Akhirah (the hereafter) when formulating a strategy. will be speaking at a retreat on how to develop a strategy, and how to optimize it through Quranic and Sunnah study.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Brothers and sisters should develop a strategy and vision from the ground up, focusing on the principles of Quran 68:4 and 24:52. Strategies achieve success by following the best character, leaders, and obeying Allah.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the concept of micro visions and micro targets, which is an Islamic term for small goals that can be achieved over time. The retreat is specifically for brothers, but any interested person is welcome to attend. The retreat is focused on developing vision and strategy, and attendees can expect to learn about the quranasana and other principles of the dao.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('5100')">01:25:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:25:00</a>
 
 provides a brief overview of the main objectives of the upcoming retreat, which are to develop a vision and strategy for personal, organizational, and financial success. He then goes on to discuss the importance of face-to-face mentorship and how it is essential for individuals to have a better understanding of the Quran and Sunnah in order to make the right decisions.
 

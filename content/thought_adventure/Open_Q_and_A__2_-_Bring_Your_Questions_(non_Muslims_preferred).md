@@ -58,7 +58,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 Sharif discusses how he reached a level of certainty about Islam through reading the Quran and studying the life of the Prophet Muhammad. He also answers a question about how to guide a Layman when it comes to understanding the attributes of God. Imam Khazana discusses the difference between the at30 and the asheri schools of thought on when to divert and when not to divert from the apparent meaning of the Quran. also discusses the different views on metaphor in relation to the Quran.
 
@@ -74,7 +74,7 @@ Sharif discusses how he reached a level of certainty about Islam through reading
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the difference between ontology and metaphysics, and goes on to say that ontology is a branch of metaphysics. He explains that a metaphysical commitment is either to believe that all reality is physical, or to believe that there is another realm beyond the physical. tries to explain what metaphysical discussion is about by giving an example of a question.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the boundaries of ontology, which is the branch of philosophy concerned with the nature of existence. Some discussions within ontology may overlap with other branches of philosophy, such as logic and ethics, but the concepts themselves are still considered metaphysical. It can be difficult to categorize these discussions, but that is part of the process of learning about them.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the principle of sufficient reason, which states that everything that exists has a reason for its existence. There are two versions of this principle: a strong version and a weaker version. The strong version requires that everything has an explanation, while the weaker version allows for the idea of free will. discusses how these versions of the principle commit one to certain metaphysical positions.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  the speaker discusses the idea that Allah, as a perfect being, has certain attributes that are necessary for him to have, but which do not contradict his nature. He goes on to discuss how some of these attributes are necessary for perfection, even if humans don't have access to all of the necessary information.
 
@@ -90,7 +90,7 @@ Sharif discusses how he reached a level of certainty about Islam through reading
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>**  the speaker discusses the idea that Allah, as a perfect being, has certain attributes that are necessary for him to have, but which do not contradict his nature.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** The hosts of the video discuss the different attributes of God and how some are necessary for perfection, even if humans don't have access to all of the necessary information. One guest asks about channels for the hosts, and Sharif responds that it is too difficult to maintain a personal channel.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** In response to a question about whether human beings have decreased in size and lifespan, Hamza explains that there are different interpretations of a Hadith about Adam being 60 cubits tall. He also mentions that when humans return to glory, they will return to their natural size.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('10800')">03:00:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-03:00:00</a>
 
  a philosopher discusses the concept of a necessary being and how it relates to the ability for something to have power. He says that, in order to have a necessary being, something must be independent, which means that it has no dependencies and no causes outside of itself. He goes on to say that, because a necessary being has this ability, it must also be powerful, which is why it is associated with the concept of power.
 
@@ -106,7 +106,7 @@ Sharif discusses how he reached a level of certainty about Islam through reading
 * **<a onclick="modifyYTiframeseektime('9900')">02:45:00</a>** Sharif's argument is that there must always be a Nesto Being and Contingent Beings in all possible worlds, otherwise the eternal cause would be impossible.
 * **<a onclick="modifyYTiframeseektime('10200')">02:50:00</a>**  OpenQ and A discuss the possibility of a world in which there is an eternal necessary being and contingent beings. OpenQ argues that this is a contradiction, and Lemonade responds that OpenQ is having to affirm both concepts simultaneously.
 * **<a onclick="modifyYTiframeseektime('10500')">02:55:00</a>* Discusses the contradiction between the necessary being necessitating its effect and the impossibility of an infinite regress. He suggests that the contradiction is due to the speaker's understanding of conception.
-### <a onclick="modifyYTiframeseektime('10800')">03:00:00</a> - <a onclick="modifyYTiframeseektime('14400')">04:00:00</a>
+### <a onclick="modifyYTiframeseektime('10800')">03:00:00-04:00:00</a>
 
 addresses various questions about the Quran and Islamic tradition. He discusses how the Quran confirms certain parts of the Bible, how different interpretations of the Quran can be based on whether or not certain scriptures were actually revealed to Prophet Jesus, and how the Quran and other scriptures can be used to support different positions on scripture interpretation.
 
@@ -122,7 +122,7 @@ addresses various questions about the Quran and Islamic tradition. He discusses 
 * **<a onclick="modifyYTiframeseektime('13500')">03:45:00</a>* Discusses the issue of whether someone is powerful "by virtue of his power" or "by virtue of his Essence." He argues that this question is nonsensical, as the two concepts are contradictory.
 * **<a onclick="modifyYTiframeseektime('13800')">03:50:00</a>* Discusses the various factors involved in verifying a Hadith. The main points are that the Hadith must be verified through the chain of transmission, the reporter, and the mutter.
 * **<a onclick="modifyYTiframeseektime('14100')">03:55:00</a>** The narrator explains that the Hadith science involves assessing the chain of reporters, the narrators, and the mutton (the reported Hadith) to determine if it is sahih. If there is a discrepancy, the Hadith may be classified as ahad (not reached the level of motor water).
-### <a onclick="modifyYTiframeseektime('14400')">04:00:00</a> - <a onclick="modifyYTiframeseektime('15300')">04:15:00</a>
+### <a onclick="modifyYTiframeseektime('14400')">04:00:00-04:15:00</a>
 
 in this video discusses how Muslims have often been unfairly treated by Western scholars, and how this has led to a history of prejudice against them. He goes on to say that some of the same thinkers who argue against Muslims today are indebted to Muslims for their approach to textual criticism. discusses the importance of external verification when studying the Hadith literature, and how archaeological evidence supports its accuracy.
 

@@ -87,7 +87,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 Justin, an atheist who converted to Islam, discusses how he became interested in religion and atheism, and how he eventually came to believe in Islam. He talks about how the Quran's unique ring structure proves it to be authentic, and how he believes that Islam is the true religion.
 
@@ -103,7 +103,7 @@ Justin, an atheist who converted to Islam, discusses how he became interested in
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Justin, an atheist, talks about his journey from atheism to Islam. He discusses how rational arguments and evidence led him to theism, and how materialism and naturalism have their own problems.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Justin's journey from atheism to Islam began with analysis of the various arguments for and against each religion. He considered the experience of being a host of an atheist YouTube channel, which showed him that there are many religious views and that he wanted to know more about the truth. He found that Judaism was not the right religion for him because of the evidence for Islam, and he believes that this was a light bulb moment that led him to intuitively accept that there needs to be some sort of message in the world.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Justin begins his discussion by discussing how he became interested in religion and atheism. He talks about how he came to believe in Islam and its many proofs. He also explains how the Quran's unique ring structure proves it to be authentic.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('5400')">01:30:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:30:00</a>
 
 Justin discusses his journey from atheism to Islam, sharing his reasons for converting and the negative reaction he received from the atheist community. He reflects on the impact that tribalism and religious ideologies have had on the atheist community, and expresses hope that by promoting secular humanism, he can help bridge the gap between the atheist and Muslim communities.
 

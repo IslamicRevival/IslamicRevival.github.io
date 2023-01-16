@@ -25,7 +25,7 @@ The Death of Meaning: Islam & Nihilism - Session 1 | Yusuf Ponders
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  Yusuf Ponders discusses the concept of nihilism and how it affects people and society. He provides personal experience to illustrate the point and asks what makes the human being unique. He also discusses how humans engage with the world from a very early age and how meaning is conveyed through signs and symbols.
 
@@ -41,7 +41,7 @@ The Death of Meaning: Islam & Nihilism - Session 1 | Yusuf Ponders
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Yusuf Ponders discusses the idea of meaning and its relation to nihilism in Islam. He points out that meaning is subjective and can be absorbed, accepted, or acted upon. He also discusses the idea of objectivity, noting that it is not synonymous with truth or false, but rather with a certain understanding of something. He goes on to discuss how subjective experiences can lead to questions about objective reality.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Yusuf Ponders the concept of meaning, discussing how it can be objective or subjective, and how it can be represented by pictures or words.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Yusuf Ponders the meaning of life and how it can be difficult to determine. He quotes Zhang Cai, who argues that the question itself is absurd, and goes on to discuss various books and media on the subject. He concludes that the meaning of life is incredibly vague and impractical to try to apply to everyone.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  Yusuf Ponders discusses the meaning of life and nihilism. He argues that nihilism is a viewpoint that traditional values and beliefs are unfounded and that existence is senseless and useless. He goes on to say that there are four ways in which nihilism can be expressed: existential nihilism, cosmic nihilism, moral nihilism, and epistemological nihilism. He also discusses the consequences of nihilism, which can be summarized as the negation of any sort of meaning, value, or purpose. Finally, he explains that nihilism is an experience that is necessarily tied to life, and that the meaning of life is subjective.
 
@@ -57,7 +57,7 @@ The Death of Meaning: Islam & Nihilism - Session 1 | Yusuf Ponders
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>**  Yusuf Ponders discusses how the Dunning-Kruger effect can lead to pessimism and nihilism, and how this can be a problem for those who want to pursue truth. He also quotes Friedrich Nietzsche, who argues that the inclination to truth is a moral judgment.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** Yusuf Ponders discusses how nihilism has taken over society and how people have lost faith in the ability to achieve truth. He argues that this trend has led to the post-truth era, where truth becomes whatever people want.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Yusuf Ponders discusses how nihilism, or the denial of meaning, can lead to the undermining of truth, morality, and even life itself. He talks about how human beings can be considered distinct from other animals because of our ability to question ourselves.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('9300')">02:35:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:35:00</a>
 
 discusses the concept of nihilism, and how it can lead to an existential crisis. He argues that philosophy should be used as a tool to achieve practical goals, not as an escape from reality.  advises the viewer to be patient, and to have safety measures in place in order to avoid being pulled down with the person suffering from depression.
 

@@ -18,7 +18,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  Professor Dr Muhammad AL MASSARI discusses the punishment for theft in Islam. He points out that the punishment is not only a deterrent, but also a punishment that is severe and usually lasts for life. He also notes that this punishment is not only for the purpose of deterring future theft, but also for external access, such as when someone steals from someone else without justification. Finally, he points out that this punishment is not only found in Islam, but is also found in other religions.
 
@@ -34,7 +34,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  Professor Dr Muhammad AL MASSARI discusses the inconsistencies found in the Quran, specifically Surat Al Ma'idah. He notes that some verses contain guidance and light, while other verses are silly. He also points out that, although the Quran is the complete and final revelation from God, it may contain additions and fabrications due to the human nature of the prophets who were responsible for it. Ultimately, Professor Dr. MASSARI believes that what is in our hands now cannot be read in full, as it is outdated and unnecessary. He recommends that, if we are concerned about the validity of the Quran, we focus on its overall meaning and message, rather than analyzing individual verses.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>**  Professor Dr. Muhammad AL MASSARI discusses the importance of the life for life principle in Islam, and how it applies to cases of murder and unintentional injury. He also discusses the abrogation of the life for life principle in later revelations, and how this has led to further development of the principle.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the difference between the two ayahs in Surat Al Ma'idah, which some scholars claim are for different groups of people. The first ayah is for those who have rejected Allah, while the second is for those who have faith but misapply it. The streamlight of the quran does not warrant ruling in this way, as it is not an executive act.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  discusses the various changes that took place in regards to Islamic law during the time of Muhammad, with a focus on the importance of accurate knowledge and understanding of the Quran and Sunnah. It also provides examples of how incorrect interpretations of the Quran can lead to trouble.
 
@@ -50,7 +50,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** The professor Dr. Muhammad Al Massari discusses the ayah "And He will tell you why disagree and how the agreement has happened and settled their scores." He explains that this agreement is based on honesty and that it is important to have knowledge and understanding of the revelation in order to be able to agree or disagree with it.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>* Discusses the importance of judging between people according to what God has revealed to them, and warns against following the whims of non-Muslims. It argues that even if a Muslim ruler rules based on God's directives, they still have the right to turn away from them if they are unjust or sinful.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses the importance of following the Quran and the Prophet Muhammad (peace be upon him), and how following these guidelines will protect Muslims from going astray. It also discusses the importance of having accurate knowledge of Islamic law, and how following it will protect Muslims from making wrong decisions.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('9300')">02:35:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:35:00</a>
 
 Dr. Muhammad Ali Massari discusses his upcoming presentation on Quranic studies at a local mosque. He also mentions his plans to teach swordfighting, Hadith, and Islamic law at the mosque.
 

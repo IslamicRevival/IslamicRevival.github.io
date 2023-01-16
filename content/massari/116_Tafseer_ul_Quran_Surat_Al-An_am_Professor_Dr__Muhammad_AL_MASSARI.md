@@ -18,7 +18,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  is a lecture by Professor Dr. Muhammad AL MASSARI on the meaning of the word "Allah." He argues that Allah cannot be linguistic, since it can only refer to nothing and has no existence. He also notes that Allah is the Supreme controller and master of all creation, by necessity of Reason.
 
@@ -34,7 +34,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** reviews various evidences that suggest that Muhammad is only one of many deities, and concludes that he is not a witness to the existence of spirits. He rejects any connection between himself and these entities, and declares himself innocent of any involvement in their affairs.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** discusses how the majority of why people reject belief in a messenger is because of the contradictions in their inherited reasoning. also mentions that even if a person accepts that a messenger is telling the truth, they must still follow him because of the importance of īman.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses various stories of two Jewish scholars who came to the Prophet Muhammad and asked him to join them in going to Israel. Muhammad Abdullah, who claimed to be a prophet, refused, noting that he does not use the word "prophet" if he hears it. The two Jewish scholars then asked various strange questions, which seem strange for them, but Muhammad Abdullah explains that this is because he is applying principles from the Quran. Once he has shown he is knowledgeable in the Quran, the scholars allow him to join them.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
 Professor Dr. Muhammad AL MASSARI discusses the issue of abrogation in the Quran. He argues that abrogation is only allowed for rules that are not based on creed, and that it is clearly understood by everyone. He also discusses the issue of Allah's freedom and explains that it is impossible for Allah to be bound by previous law.
 
@@ -52,7 +52,7 @@ Professor Dr. Muhammad AL MASSARI discusses the issue of abrogation in the Quran
  provides evidence that Muhammad is the true Prophet of God and that his prophecies will be fulfilled.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>* Discusses the dating of the Quran, which has been independently dated by archaeological evidence and by polygraphy. It argues that the Quran was copied and written before Muhammad, and that it is impossible for Muhammad to fulfill the prophecy of Teresa coming.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>**  Professor Dr. Muhammad al Massari discusses abrogation, which is when a previous statement or law is superseded by a more recent one. He notes that abrogation is only allowed for rules that are not based on creed, and that it is clearly understood by everyone.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('7500')">02:05:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:05:00</a>
 
 The professor discusses the concept of ta'feer, or the Islamic practice of repentance, and how it can be applied to specific situations in life. He also discusses the importance of having a clear understanding of Islamic law and how it can change with the Prophet Muhammad's (PBUH) sayings. The professor makes the point that debates over meaning are often fought using fallacious arguments, leading to a lack of understanding and compromise on either side.
 

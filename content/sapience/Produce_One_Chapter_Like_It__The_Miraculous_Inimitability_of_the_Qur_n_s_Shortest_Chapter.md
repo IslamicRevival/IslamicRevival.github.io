@@ -11,7 +11,7 @@ Produce One Chapter Like It: The Miraculous Inimitability of the Qur'ān's Short
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the importance of the environment in which the Quran was revealed, specifically the challenge of producing similar linguistic structures to those found in the Quran. The presenter argues that this is due to the human capacity for language and its ability to transcend material existence.
 
@@ -27,7 +27,7 @@ Produce One Chapter Like It: The Miraculous Inimitability of the Qur'ān's Short
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the linguistic environment in which the Qur'ān was revealed, and how the Arabs esteemed poetry and considered it a form of speech with great importance. Whenever a poet emerged, celebrations would erupt among the Arabs.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the importance of the environment in which the Quran was revealed, specifically the challenge of producing similar linguistic structures to those found in the Quran. He argues that this is due to the human capacity for language and its ability to transcend material existence.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The short Surah al-Kothar was revealed to Prophet Muhammad in 7th century Arabia in response to the Prophet's son's death. The Surah's message emphasizes the importance of patience and contemplation, and stresses that all humans are subject to Allah's will.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  discusses the meaning of the Qur'an's shortest chapter and its significance. The chapter is seen as a transition from the power and majesty of Allah to a closeness with Him. The chapter also highlights the importance of time and how it is often wasted.
 
@@ -43,7 +43,7 @@ Produce One Chapter Like It: The Miraculous Inimitability of the Qur'ān's Short
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** The word "hater" is chosen to describe the enemies of the prophet Saws because it is the word that they used against him. The word has a different meaning when used to describe the enemies of the process of prophethood. The term "karaha" is used to describe something that is hated, and it is good for the person doing the hating.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>* Discusses the shortness of the Qur'ān's Chapter 23 and its significance. The chapter does not mention the one who insulted the Prophet Muhammad, making it applicable to anyone who attempts to denigrate the process of Islam. The Qur'ān's repetition and rhythm are linked with its meaning and semantic force.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** The 23 features of the Qur'an's shortest chapter are rhyme, meaning, and factual accuracy. The chapter has a poetic musing quality, but it also has a connection to reality. The verses of the Qur'an are factual and accurate, tying in with reality.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('8100')">02:15:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:15:00</a>
 
  discusses the unique features of the shortest chapter in the Quran, Surat al-kausa, and how they point to the Quran's inimitability. The presenter explains that the Quran's short, yet miraculous, verses are proof of its genuineness, and that the challenge of different quran interpretations is a challenge to science.
 

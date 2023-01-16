@@ -27,7 +27,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 Mohammed Hijab discusses the dangers of Takfeer, or accusing others of being kuffar. He argues that Takfeer is impractical and impossible, and that it is anti-Islamic.
 
@@ -43,7 +43,7 @@ Mohammed Hijab discusses the dangers of Takfeer, or accusing others of being kuf
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses how, within Islam, there are different schools of thought on how to deal with extremism. One such school of thought is the ashari, which holds that extremism is caused by problems within a person's character, not by their adherence to Islam.  then goes on to discuss how, in the modern era, certain groups have proliferated due to the actions of the United States and Israel. These groups, including ISIS and al-Qaeda, are said to be responsible for a large amount of bloodshed.  concludes by saying that, in order to combat these groups, we need to take control of the narratives around them and avoid scapegoating one group over another.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>**  covers Takfeer, or the crime of killing someone who is considered a Muslim saint, and discusses the case of Abu Bakr al-Baghdadi, who was not even alive at the time of these events. It points out that many Muslims are indoctrinated with techfeedism, and that this ideology can lead to disastrous consequences, such as infighting between friends who would otherwise be united in jihad.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  Mohammed Hijab discusses the dangers of Takfeer, or accusing others of being kuffar. He also discusses the psychological effects of living in a society where such accusations are commonplace. He argues that Takfeer is impractical and impossible, and that it is anti-Islamic.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3900')">01:05:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:05:00</a>
 
 criticizes the logic used by Isil, which argues that if someone is not Muslim, they are automatically an enemy and may be killed. argues that this logic is invalid because it is based on a person's specific beliefs and actions, which cannot be generalized to all Muslims.
 

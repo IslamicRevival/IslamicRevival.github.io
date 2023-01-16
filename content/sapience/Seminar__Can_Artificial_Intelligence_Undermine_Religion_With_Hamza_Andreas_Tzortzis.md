@@ -11,7 +11,7 @@ Seminar: Can Artificial Intelligence Undermine Religion? With Hamza Andreas Tzor
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  Hamza Andreas Tzortzis discusses the potential for artificial intelligence to undermine religion. He argues that computers are not able to understand or attach meaning to symbols the way humans do, and that this means they cannot understand or participate in religious rituals. He suggests that the two main questions of the hard problem of consciousness – what it is like to have a specific conscious experience and how inner subjective conscious experience arises from seemingly blind physical processes – cannot be answered with reductive materialism or physicalism, and that further investigation into these issues is not worth the effort.
 
@@ -27,7 +27,7 @@ Seminar: Can Artificial Intelligence Undermine Religion? With Hamza Andreas Tzor
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  Hamza Andreas Tzortzis discusses the possibility of artificial intelligence undermining religion. He points out that there is a logical fallacy known as the "deny of the antecedent" (i.e. assuming that something does not exist because we have not seen evidence to support that it does), and argues that soul does not commit this fallacy. Dale continues to argue on behalf of cell, contending that functionism is the only logical conclusion if one accepts that some things are intrinsically intentional. However, this argument fails because even if machines could duplicate intentionality, they would still not be conscious.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** This seminar discusses the potential for artificial intelligence to undermine religion, with a focus on how humans can attach meaning to symbols. Some philosophers argue that a conscious robot would not be able to do this, while others believe that consciousness is only simulated.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** In this seminar, Hamza Andreas Tzortzis argues that artificial intelligence can never think like humans, and that any purported similarities between the brain's electrical signals and subjective conscious experience are merely coincidence. He suggests that the two main questions of the hard problem of consciousness – what it is like to have a specific conscious experience and how inner subjective conscious experience arises from seemingly blind physical processes – cannot be answered with reductive materialism or physicalism, and that further investigation into these issues is not worth the effort.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('4200')">01:10:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:10:00</a>
 
 The seminar presenter, Hamza Andreas Tzortzis, discusses how artificial intelligence (AI) can be used for good or bad, and how social media can have an impact on our psychology. He argues that AI cannot explain consciousness adequately, and that theism does a better job of explaining it.
 

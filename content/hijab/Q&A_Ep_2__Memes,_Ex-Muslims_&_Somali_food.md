@@ -16,7 +16,7 @@ Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 In the second episode of Q&A, the interviewer asks the Prophet Muhammad about the best books to understand liberalism and feminism, and he provides basic advice on how to study these topics. He also discusses Western Islamic philosophy and history, and asks the Prophet how he feels about this topic. Finally, the interviewer jokingly suggests that the Prophet grow hair.
 

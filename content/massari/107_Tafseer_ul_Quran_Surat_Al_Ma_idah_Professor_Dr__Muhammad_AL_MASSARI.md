@@ -18,7 +18,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  Professor Dr Muhammad Al Massari discusses the reasons why people may disagree with one another, and how to overcome these disagreements peacefully. He also discusses the importance of translating the Quran accurately, and how the Prophet Muhammad will see those who have bad hearts.
 
@@ -34,7 +34,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** discusses the importance of faith and the fact that Muslims have an obligation to fight against those who disbelieve in God, even if that means fighting alongside disbelievers. He goes on to say that there is a higher level of obligation to stay away from those who mock or make fun of one's faith.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** discusses a story about a professor who once saw a woman walking around the airport in a very revealing outfit. The professor remembers thinking that the woman was not being respectful of her own religion and that she was demonstrating a lack of rationality. The professor suggests that allies who benefit from a shared religion should be treated with more respect.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** discusses why Muslims are treated poorly by others. He notes that, while there are reasons for the mistreatment of Muslims, the main reason is that most Muslims are believers in God and are obedient to Him. Those who reject God and worship evil are worse in station and far more astray from the right path than those who believe in God.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  Professor Dr. Muhammad Al Massari discusses the Surat Al Ma'idah from the Quran. He talks about how the verses in this surah are relevant to today's society, where there is a trend of people rejecting faith in Allah. He urges Muslims to have courage and self-respect in order to speak out against those who reject faith in Allah.
 
@@ -50,7 +50,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** Professor Dr. Muhammad AL MASSARI discusses the bravery of the narrator, who is obese and afraid of fighting, but still decides to speak to him in order to ask for advice. The narrator proposes three conditions for an agreement between them: that the narrator become a Muslim, that he send his friends to fight with him, and that he come down and fight the narrator. The narrator then asks the professor if he is a prophet, to which he replies that it is up to Allah to decide. The narrator then asks the professor if he is going to fight him, to which he responds that he will not fight him if Muhammad is alive. The narrator then asks the professor if he is going to join Muhammad, to which he replies that he would rather die than join him.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** 
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>**  features a lecture by Professor Dr. Muhammad Al Massari on Surat Al Ma'idah. He discusses how the night before his death, the Prophet Muhammad said that unless someone who loves Allah loves him, he will have them through tomorrow. He also discusses how he felt after his death and his thoughts on dawah broadcasting. He clarifies that it is only someone from his own family who is allowed to broadcast his teachings after his death.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('8100')">02:15:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:15:00</a>
 
 Dr. Muhammad Al Massari discusses the importance of understanding the Quran in its entirety, and not just relying on one's own interpretation of it. He also points out that the hadith in which Muhammad predicts his own death is a fabrication, and that claims that it provides evidence for his infallibility are misguided.
 

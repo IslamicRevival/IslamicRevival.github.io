@@ -9,7 +9,7 @@ My book Kalam cosmological arguments can be found here - https://www.amazon.co.u
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1500')">00:25:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:25:00</a>
 
 introduces the top 10 polymaths in Islamicate history, including their contributions to fields such as philosophy, astronomy, and mathematics. While all of the polymaths featured in the video are highly respected for their work, Joe A. K. Aziz is considered to be the most influential of the group.  highlights the importance of specialization in academic pursuits, and features a quote from one of the polymaths emphasizing the need to focus on one or two things in order to be truly good at them.
 

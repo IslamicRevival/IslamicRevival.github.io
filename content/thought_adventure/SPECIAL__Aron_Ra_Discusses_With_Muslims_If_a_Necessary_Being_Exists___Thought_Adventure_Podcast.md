@@ -63,7 +63,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 Aron Ra discusses with Muslims whether a necessary being exists. He argues that there is no objective evidence for the existence of such a being, and that anything outside of empirical observation cannot be known. He concludes that by definition, the mind is a product of brain, and that philosophy should be used to explore empirical evidence for God.
 
@@ -81,7 +81,7 @@ Another way to interpret the data is to say that our whole theory of gravity is 
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Aron Ra discusses the principle of sufficient reason, which states that any observations that we have within the universe requires an explanation. He argues that, without logical axioms, we would be forced to believe in magic.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Aron Ra discusses the principle of sufficient reason with Muslims, and argues that anything is possible if accepted as a principle. If this is true, then an infinite regress of explanations is created, as each thing requires an explanation for itself.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Aron Ra discusses with Muslims if a necessary being exists, and concludes that given the existence of contingent things, a necessary being must exist. He argues that a necessary being can be logically inferred from the principle of sufficient reason and the concept of contingency.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('6300')">01:45:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:45:00</a>
 
 Aron Ra discusses with Muslims if a necessary being exists, and finds that there is no clear answer. He then goes on to explain the importance of philosophy and how undermining it can have serious consequences.
 

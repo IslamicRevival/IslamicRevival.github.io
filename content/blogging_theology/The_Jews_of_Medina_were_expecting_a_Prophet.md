@@ -15,7 +15,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('300')">00:05:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:05:00</a>
 
 The Jews of Medina were eagerly awaiting the arrival of a new prophet, and when Muhammad visited the tribe of the Khasraj, they were very interested in hearing his message. However, one young man named Yes son of Mudda rejected the Prophet's message and died soon after. Some of those who were present at his death said that they could hear him continually testifying to the oneness of God and praising Him until the end.
 

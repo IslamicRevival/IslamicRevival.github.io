@@ -22,7 +22,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 Imam Tom discusses his favorite books, which helps him to see the importance of religion in the public sphere. He also discusses the changing form of the prime directive, which is still active today.
 
@@ -38,7 +38,7 @@ Imam Tom discusses his favorite books, which helps him to see the importance of 
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Imam Tom discusses his favorite books on secularism and how it differs from other religions. He points out that secularism is the murder of god by the state and that modern western democracies are much less diverse and pluralistic than islam.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Imam Tom discusses his favorite books, which focus on the pre-modern Islamic world and how it contrasts with the modern world. He argues that the episteme, or the way in which Muslims think about knowledge, determines whether or not they are able to enjoy modern technology.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Imam Tom discusses his favourite books, including a comparison of the technology behind the ancient Islamic walk system to modern economic systems. Halak argues that the walk system was an important part of Islamic civilization, and that it avoided the conflict of interest often seen in government systems.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3900')">01:05:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:05:00</a>
 
 Imam Tom discusses his favorite books, which include works by Friedrich Nietzsche and Oswald Spengler. He emphasizes the importance of Islam's role in the redemption of the west, and recommends following his mosque and YouTube channel for more information.
 

@@ -27,7 +27,7 @@ Also consider these contradictions:
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('300')">00:05:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:05:00</a>
 
 The video discusses how Christians imagine the very first Christmas, 2000 years ago, and points out that the idea of God changing is contradictory and therefore cannot be true. of the video urges people to abandon theology and belief in something simpler, purer, and monotheistic, which he believes is what Jesus himself proclaimed.
 

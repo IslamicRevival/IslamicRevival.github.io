@@ -13,7 +13,7 @@ You can view an article I wrote here -http://www.salam.org.uk/2018/10/01/the-pro
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1800')">00:30:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:30:00</a>
 
 Marco Logic discusses liberalism, which he argues is a white colonialist's new religion. He discusses the important questions that need to be asked about liberalism, and how Muslims and Westerners need to question the assumptions behind these questions. He also discusses how liberalism has problematic presuppositions, and how it needs to be confronted in order to be reformed.
 

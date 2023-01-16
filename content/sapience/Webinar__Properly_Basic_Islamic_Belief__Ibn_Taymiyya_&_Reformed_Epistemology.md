@@ -13,7 +13,7 @@ To watch and learn from the free Sapience Institute launch webinars please acces
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the idea of proper basic Islamic belief, which is that the heart is central to understanding true knowledge. It also suggests that the potency of the "fitrah" (the original nature of humans) makes it possible for humans to think intelligently and believe in the creator.
 
@@ -29,7 +29,7 @@ To watch and learn from the free Sapience Institute launch webinars please acces
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** This webinar discusses the Islamic belief that a basic belief is something that comes to a person immediately without argument or inference. It also discusses the idea of properly basic beliefs, or beliefs that are warranted by the faculties that the person uses to hold them.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the idea that human beings have faculties for knowing things, and that proper function of these faculties can lead to the formation of beliefs that are properly basic. Ibn Taymiyya proposes a model of reform of history which shows how theism (belief in god) can be properly basic, and that it can be justified along the lines of proper function.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Ibn Taymiyya discusses the idea of proper basic Islamic belief, which is that the heart is central to understanding true knowledge. He also suggests that the potency of the "fitrah" (the original nature of humans) makes it possible for humans to think intelligently and believe in the creator.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('5400')">01:30:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:30:00</a>
 
 This webinar discusses Ibn Taymiyya's view that proper belief in God is based on proper faculties functioning properly. It is argued that atheism is not logically sound, and that science can influence belief in God.
 

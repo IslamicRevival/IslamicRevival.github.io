@@ -11,7 +11,7 @@ Dr Nuhammad Al-Massari: The Christian doctrine of the Trinity
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 Dr. Muhammad Al-Massari discusses the Christian doctrine of the Trinity. He argues that the doctrine is based on a flawed idea that there is a single essence or being that exists within multiple "parts." He goes on to say that the Trinity is a result of humans trying to understand too much, and that it is not necessary for reality to be composed of parts.
 
@@ -27,7 +27,7 @@ Dr. Muhammad Al-Massari discusses the Christian doctrine of the Trinity. He argu
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The Christian doctrine of the Trinity states that God is three persons: Father, Son, and Holy Spirit. In this doctrine, the three persons are "one god by nature of one substance of one nature."
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>**  Dr. Muhammad Al-Massari explains the Christian doctrine of the Trinity. He states that the Father, Son, and Holy Spirit are one entity by nature, and that each has a separate but equal role in the Godhead. He also discusses the issue of time, and how it does not have a beginning or end. He concludes by stating that the doctrine of the Trinity is clear and original.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** discusses the concept of godhead and how it is not a category. He goes on to explain that there is only one entity that can be called godhead and that it is a necessarily existing entity with absolute freedom and omnipotence.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  discusses the Christian doctrine of the Trinity, which is that there is one God who is three persons.  points out that this doctrine is not mentioned in the Bible, and that it is a philosophical discourse that developed later.  then discusses the history of the doctrine, and how it came to be controversial. It states that the philosopher Alexandria was President of the Church of Alexandria, and was excommunicated for his beliefs.
 
@@ -43,7 +43,7 @@ Dr. Muhammad Al-Massari discusses the Christian doctrine of the Trinity. He argu
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** This Youtube video discusses the Christian doctrine of the Trinity, which states that there is one God in three persons. of the video cites a recent example of this doctrine being disproven by science. also argues that this doctrine should be scrutinized further, and that parts of it should be used to cross-examine each other.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** discusses cross-examination and how it can be used to expose contradictions in religious texts. He also mentions atheists who neglect the Islamic history, specifically in philosophy and the sciences. argues that the main fault is with the church, which put Europe behind the high iron curtain for centuries. advises Muslims to adopt the philosophy of William Greg and to continue presenting their intellectual achievements to the public.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses the Christian doctrine of the Trinity, which is that there is one God who is three Persons: the Father, the Son, and the Holy Spirit. It explains that this doctrine is not explicitly mentioned in the Bible, and that it is a philosophical discourse that developed later.  then discusses the history of the doctrine, and how it came to be controversial. It states that the philosopher Alexandria was President of the Church of Alexandria, and was excommunicated for his beliefs.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('9900')">02:45:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:45:00</a>
 
  discusses the Christian doctrine of the Trinity, and how it has been used to justify eternity. The atheist criticizes this doctrine as an example of a mental construct, reasoning that because the attributes of God do not exist outside of the mind, they cannot exist objectively. The Christian argues that the essence of God does not exist in any physical form, but instead exists as a reference in the mind. The Trinity has been formulated by various theologians throughout history, but the critic insists that it does not solve the problem of how the three persons are related.
 

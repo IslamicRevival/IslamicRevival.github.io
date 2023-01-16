@@ -64,7 +64,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the cosmological argument, which attempts to prove the existence of God. The astrophysicist argues that the premise of the argument is not necessarily true, and that we need to go deeper into physics to understand what actually happens. The debaters then discuss some of the "weird stuff" that is happening in the world, and the astrophysicist argues that this does not negate causality.
 
@@ -80,7 +80,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The astrophysicist discusses the cosmological argument, which states that our expectation of the universe is not one that is matched with certainty, but is instead something that is based on experience and may or may not be justified. He argues that, because we have experience of the universe, our belief in the future is based on something that is justifiable.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The cosmological argument is an argument that posits that there is a law or pattern within nature that is known through induction. If this pattern were not fixed, then it would be impossible to make predictions about the future or to understand the mode of action of a particular thing. However, because the pattern is known through induction, scientists are justified in making claims about the safety of certain things, even though they haven't actually demonstrated the pattern to be true. In other words, the cosmological argument is a belief that is based on intuition rather than empirical evidence.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The astrophysicist argues that, based on empirical evidence, the universe began to exist. However, if someone rejects this premise, the astrophysicist argues that this person has no way of knowing this for certain.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('4200')">01:10:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:10:00</a>
 
  discusses the various problems with the big bang theory and the arguments for and against the continuity of time. explains that while the concept of an infinite past is possible, it is not possible to count it or complete the counting of it.  concludes that there are three premises that can be used to argue against the idea that the past is infinite.
 

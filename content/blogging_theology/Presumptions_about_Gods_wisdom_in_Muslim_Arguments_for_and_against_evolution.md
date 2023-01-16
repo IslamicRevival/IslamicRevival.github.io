@@ -17,7 +17,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 The video discusses different presumptions Muslims make about God's wisdom in regards to evolution. It points out that while all Muslims agree that a child will reach a point where they understand God, there is still much more to God than what is understood at this point. The video also discusses the role of the universe and how it helps Muslims to understand God more fully.
 
@@ -33,7 +33,7 @@ The video discusses different presumptions Muslims make about God's wisdom in re
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The three Sunni schools of thought (al-Ghazali, anesthesiology, and nest of theologians) agree that knowledge of the wise is the knower of the reality of things and the capable of precision in making them accord precisely through his will. They disagree, however, on whether this requires a coherent creation or not. Imam al-Mataridi points out that if those sectarians people of other sexes gave consideration to what we have mentioned of proofs, they would know their intellects are limited in their ability to know human wisdom. He then goes on to say that even human wisdom is hard for humans to figure out, let alone being able to comprehend the Lord's wisdom. Finally, he emphasizes that while knowledge of the wise is a valuable asset, it does not mean that because we get no benefit out of the center of the mountain, the core of the earth, or the bottom of the sea, that God created them in vain.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Muslims argue that because God's wisdom is hidden from us, we can't know the details of how he created the world. They also argue that because evolution is wasteful, it proves that God does not exist.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The video presents two arguments for and against evolution: the first is conservative and efficient, while the second is more liberal and aesthetic. Both arguments have been used against evolution, with the former being seen as wasteful and inefficient and the latter as foolish. Al-Ghazali, an Islamic philosopher, argued that the best possible world is one in which the Earth revolves around the sun, as this is more efficient and practical.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('6000')">01:40:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:40:00</a>
 
 The video discusses the various arguments that Muslims have made for and against evolution, pointing out that all of the arguments suffer from the same flaw: they presume that God's actions are limited by human actions. This leads to charismatic leaders using unsubstantiated arguments to build personal empires.
 

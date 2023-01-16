@@ -25,7 +25,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2700')">00:45:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:45:00</a>
 
  discusses the proposition that everything made up of pieces is dependent, and shows how this can be applied to the universe and the infinite multiverse.  then goes on to discuss how this argument can be made on a mathematical basis.  argues that the universe is dependent on other things, an idea which is supported by set theory, mathematics, and geometry. The atheist cannot argue that the universe is dependent on something without knowing the whole, which is something that cannot be known empirically.  finishes by saying that denying logic, mathematics, and geometry is better than just a cosmological reality.
 

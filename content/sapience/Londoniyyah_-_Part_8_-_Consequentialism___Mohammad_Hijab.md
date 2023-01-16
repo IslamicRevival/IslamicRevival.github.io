@@ -25,7 +25,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2400')">00:40:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:40:00</a>
 
 Consequentialism is a philosophical theory that holds that the right action is the one that has the best consequences.  Mohammad Hijab discusses the merits and demerits of consequentialism. He points out that consequentialism solves some of the problems of deontological ethics, but that it can also lead to wrong decisions.
 

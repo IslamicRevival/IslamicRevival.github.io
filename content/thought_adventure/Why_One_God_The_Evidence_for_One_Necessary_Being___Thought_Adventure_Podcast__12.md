@@ -75,7 +75,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the argument for one necessary being in Islam. discusses how the Quran discusses this concept in relation to perfection and harmony within the universe. He also argues that if there are multiple creators, each creator would have their own arbitrary attributes and so they are no longer necessary beings.
 
@@ -91,7 +91,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The first guest on the Thought Adventure Podcast discusses the argument for one necessary being. He claims that everything in the universe is contingent, but that the universe itself is necessary. He argues that there is nothing in the universe that is contingent, and that this proves the existence of a necessary being.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The presenter discusses the two types of arguments for why one God is necessary- logical necessity, which is based on a set of rules, and metaphysical necessity, which says things must be the way they are because they could not have been any other way. He argues that the naturalist or atheist cannot prove that any subset of matter and energy is necessary in order to bear the burden of proof.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the argument that if modal collapse is true, then it destroys the concept of moral obligation. The hosts discuss how this argument fails and how it would require a foundation explanation to justify the concept of moral obligation.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  discusses the idea of one necessary being, and attempts to provide evidence for why this is the case. The principles of metaphysics and indiscernibility are discussed, as well as a thought experiment involving three iron spheres. Scotus and Bukhari are also mentioned, with Bukhari discussing the difference between a contingency argument and a kalam argument.
 
@@ -107,7 +107,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** Sharif discusses the difficulties trinitarian Christians face when trying to reconcile logical contradictions in Scripture. He points out that some trinitarian Christians try to do this by constructing a story model to reconcile the contradictions, which can be a difficult task.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** The kalam cosmological argument claims that certain attributes of God, such as the hand of God, cannot be taken literally, and must be understood metaphorically. Some scholars argue that this metaphor is found in the Arabic language and can be affirmed without logically contradicting the other verse of the Quran which states that there is nothing like unto God.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** The Muslim Imam, Imam Bukhari, discusses the Arash of Allah, quoting him as saying "This refers to the illness." The Imam goes on to say that there is a legitimate debate surrounding the use of the language in these verses, and that those who say it refers to a metaphorical meaning or that it does not have a literal meaning are both correct. The Imam also discusses the difference between a contingency argument and a kalam argument, stating that the kalam argument tries to address the issue that something began to exist, and does not need to posit a beginning.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('10200')">02:50:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:50:00</a>
 
 discusses the evidence for one necessary being, and argues that this being is more logically consistent than an infinite universe or a universe that has been around for eternity. They also mention that they will be streaming a discussion of this topic with a pro-monotheist scholar, Yusuf Ali.
 

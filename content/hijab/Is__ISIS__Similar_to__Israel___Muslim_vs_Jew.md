@@ -11,7 +11,7 @@ This video is a discussion on the similarities between ISIS and Israel and wheth
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1200')">00:20:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:20:00</a>
 
  discusses the similarities between "ISIS" and "Israel", and argues that the Muslim community should be worried about the Israeli government's actions. points out that both ISIS and Israel were created because their respective governments lacked a strong military presence, and that both have been accused of killing civilians indiscriminately.
 

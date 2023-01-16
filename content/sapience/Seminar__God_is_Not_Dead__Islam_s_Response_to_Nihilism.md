@@ -11,7 +11,7 @@ Seminar: God is Not Dead - Islam's Response to Nihilism with Imran Hussein
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses how Islam is the solution to nihilism, and how it provides meaning and purpose to life. It highlights the dangers of addiction to video games and other forms of escapism, and the need for Muslims to find meaning in their lives through their faith.
 
@@ -27,7 +27,7 @@ Seminar: God is Not Dead - Islam's Response to Nihilism with Imran Hussein
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the various problems that exist in the world, including the problem of nihilism. Islam has a solution – the understanding of good and bad that Allah inspires in the soul. Atheists, who have no hope or meaning in life, are living in contradiction to this.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses how some people within the spiritual community, specifically those who practice "idolism," often link spirituality with meditation and other practices. argues that this is a form of self-creation, where people create their own meaning and purpose in life, instead of relying on external sources.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Muslims have a problem with nihilism and need to figure out ways to internalize Islam's teachings in order to combat the existential angst and anxiety it causes. Ahmed discusses how fear of hellfire is only one of many methods Allah uses to encourage Muslims to follow him.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('4200')">01:10:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:10:00</a>
 
 Jordan Peterson discusses how Islam addresses the problem of nihilism and how it breaks down Nietzsche's critique of the true world. He argues that Islam provides a more satisfying response to the challenges of modernity than atheism does.
 

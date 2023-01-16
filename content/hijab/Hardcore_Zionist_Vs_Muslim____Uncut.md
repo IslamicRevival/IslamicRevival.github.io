@@ -11,7 +11,7 @@ A full debate between leader of the Zionist advocacy group and Mohammed Hijab .
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the different perspectives on the establishment of Israel, with Zionists arguing that it was necessary to create a Jewish state and Muslims arguing that it was an act of ethnic cleansing.  also discusses the similarities between Zionist and Nazi ideology, and how Israel's actions in the Palestinian territories are illegal and violate human rights.
 
@@ -27,7 +27,7 @@ A full debate between leader of the Zionist advocacy group and Mohammed Hijab .
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** agrees that there were temporary ceasefire lines in the past, but argues that what Israel can win in war is not equivalent to what it can live on. He goes on to say that if Israel is not allowed to have freedom of expression, it is only because it serves Israel's interests. then compares the situation in the UK and Israel, arguing that while the UK allows more freedom of expression than Israel, it is not perfect.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses how Israel is wrong because it colonializes other territories, and discusses how Arab colonialism (which started earlier) was not as bad. The presenter goes on to say that Israel should do the same thing as Arab colonialism and explore creating colonies.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** argues that Israel is a colonial power, and that its settlements in the occupied territories and Gaza Strip are examples of this. He also points out that the British Empire was similar to the Israeli one in terms of its methods of conquest and exploitation.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3900')">01:05:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:05:00</a>
 
 discusses the difference between hardcore Zionist Jews and Muslim Jews.  argues that the two groups have a similar DNA, but that Muslim Jews are better than Zionist Jews because they have a more intimate connection to their religion.
 

@@ -11,7 +11,7 @@ Sapient Thoughts #30: Does Adam's height of 60 cubits make sense? | Mohammed Hij
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 The narrator discusses the Islamic stance on the theory of evolution, and the claim that Adam was 60 cubits tall. They point out that there is no evidence to support this claim and that it is an unreasonable assumption to make. They also argue that it is wrong to use today's human anatomy as a reference point when discussing Adam's size.
 

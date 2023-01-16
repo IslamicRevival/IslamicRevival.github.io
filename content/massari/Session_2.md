@@ -13,7 +13,7 @@ Numerical Miracle of the Quran
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  the scholar discusses the significance of the number 19 in Islamic scripture. He points out that it appears in various places, including in the Qur'an's 114 surahs, and that it is a multiple of 19. He also discusses the basmati rice, which is mentioned in the Qur'an but is not found in any other scripture. The child is asked about what happened to the basmati rice. The child says that he doesn't know, and then goes on to explain that the ant went at night and ate it away. The child also mentions that surat kaff (114 times), 113 separate eyes, and one phrase all have to do with cops. This becomes important when considering that there are 114 letters in the Quran, 113 of which are cuffs. Counting letters as they are written without taking into account the pronunciation can result in incorrect counts, as demonstrated by the word "because" which, according to the video, should count as two letters. This applies to other words as well, such as "muhammad" which has two articles (the letter "m" and the word "muhammad"). However, this system of counting is not consistent throughout the Quran, and there are other instances where letters are counted
 
@@ -29,7 +29,7 @@ Numerical Miracle of the Quran
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the occurrence of the word "shah" (month) in the Quran 12 times. It points out that this word is also used to refer to different concepts, such as Adam, Messiah, and Maryam. It also mentions that there are dual and plural forms of the word in Arabic, which adds to the mystery of why it is mentioned in certain places and not others.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses how numerical coincidences in the Quran defy belief if they are simply accidental. It then goes on to discuss the word "young," which appears 364 times in the Quran.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  the presenter explains that the year is not 365 days, but rather 364 days with 5 extra days. This number, 364, is a multiple of 7 and is also a hint that the best count of month days in the years is actually 364. Additionally, the presenter explains that the year is a lunar concept and that the months are based on the moon. This system is different from the solar concept of months, which is dictated by the movement of the sun. Finally, the presenter explains that there are several different systems used to calculate the year, and that one of these is 19 years (364 + 1).
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('5700')">01:35:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:35:00</a>
 
  discusses the various ways in which the Quran can be read, and how there is no one correct way to do so. It also discusses the importance of accurate pronunciation, and how different readings can be useful for educational purposes.
 

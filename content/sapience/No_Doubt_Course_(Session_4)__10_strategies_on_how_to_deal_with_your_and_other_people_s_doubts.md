@@ -31,7 +31,7 @@ Week 8: Summary and exam
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses various strategies for dealing with doubts and uncertainty. The first principle is that there is no doubt in Allah, and the starting point for dealing with doubts is the fitrah. Certain things that can cloud the fitrah include incomplete knowledge or preconceptions. The ten strategies discussed include using logic and reason, relying on Allah, and standing in the possibility of success.
 
@@ -47,7 +47,7 @@ Week 8: Summary and exam
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses how Islam emphasizes the importance of studying and understanding it properly in order to achieve true success. They go on to say that this includes studying the scriptures and the sunnah of the prophet Muhammad, which are both used to clarify and enlighten the seeker.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses how studying Islam is not like studying other subjects because there is the rational and spiritual aspects to studying islam, and how a knowledge that is not beneficial is knowledge that is not acted upon. He also mentions how knowledge of Allah is beneficial, and how when a person has beneficial knowledge, it leads to seeking refuge from a heart that is not reverent.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the importance of having a reverential fear of Allah, and how knowledge that has no benefit is absent from knowledge of Allah. It goes on to say that studying Islam must have an impact on a person's being, and that this is why when you read the Quran, you will see a connection between knowledge and spirituality. Finally, the video talks about the importance of studying knowledge in a way that benefits the soul.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  No Doubt Course instructor Dr. Zakir Naik discusses how Islamic law allows for a wide range of interpretations, some of which support child abuse. He goes on to explain that by studying Islamic knowledge, scholars are able to eliminate any misconceptions or shubuhat (false assumptions) about the religion.
 
@@ -63,7 +63,7 @@ Week 8: Summary and exam
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** The scholars of Islamic jurisprudence have formulated five legal maxims that a student of knowledge should adhere to when judging cases. These maxims are derived from Islamic sources and help to avoid causing harm, separating harm, and removing certainty from doubt.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** The principle that certainty is not removed by doubt is known as the "legal maxim." It is an injunction to follow what is easiest for the individual, in this case, based on the understanding that what is known among the people is good. It is a heuristic to help make decisions in chaotic or difficult situations.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses how different cultures and societies dictate different morals, practices, and manners.  cites examples of how a judge would distribute assets in a divorce case depending on the location and culture of the case.  also discusses how guns and weapons in a household are determined by the culture and custom of the area.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('10200')">02:50:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:50:00</a>
 
  the speaker discusses how to deal with doubts and how to navigate through challenging situations. He offers 10 strategies on how to deal with people's doubts, including tips on how to build confidence, how to respond to doubts, and how to manage doubters.
 

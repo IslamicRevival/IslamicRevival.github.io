@@ -17,7 +17,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1200')">00:20:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:20:00</a>
 
 Douglas Murray is a conservative commentator who argues that traditional Muslim beliefs promote murder. He is challenged on this belief by a Muslim audience member, and he argues that the liberal approach to free speech is hypocritical. He argues that conservatives should embody the liberal ideal of civility and tolerance, instead of hiding behind the freedom of speech argument.
 

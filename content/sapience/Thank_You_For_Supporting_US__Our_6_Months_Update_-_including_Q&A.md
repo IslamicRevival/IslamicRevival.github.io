@@ -15,7 +15,7 @@ In-shā-a-Allāh.
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  provides an update on the progress of the Thank You For Supporting US project, which includes a description of the 10 effective strategies for dealing with doubts and the publication of a book on the topic. The project is also dependent on the completion of a website responding to anti-Islamic websites.  discusses how the Sapience Institute plans to achieve its goals for the upcoming year, including engaging in four academic discussions/debates, translating its work into other languages, and producing more than 35 videos.
 
@@ -31,7 +31,7 @@ In-shā-a-Allāh.
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the success of the US-based Q&A platform, which offers free access to courses and allows users to follow lectures and quiz themselves. The platform will eventually feature interactive features between students and teachers, as well as live Q&A sessions.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the 6-month update of the US policy, including Bilal's work on risk assessments and relationship building. Yusuf Ponders discusses his upcoming essay, Islam as an antidote to "that" and discusses progress made.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the recent 6-month update of the Muslim American Society's (MAS) work, including Q&A. In the update, it is mentioned that the book, which was initially supposed to be completed in six months, is now in the process of being completed. It is also mentioned that the brotherhood is in the process of filming a course on nihilism with brother Jake, and that the author is also in the process of coaching others to have a great impact in their community.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
 the presenter provides an update on the work of the Sapience Institute, including the development of a course on evolution, Darwinism, and naturalism. He also discusses the arguments against the existence of God based on the theory of evolution and the argument from prior cognitive input. Finally, he provides a link to the institute's website where people can chat with the creator of the video or one of the other contributors.
 
@@ -47,7 +47,7 @@ the presenter provides an update on the work of the Sapience Institute, includin
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** Brother discusses the concepts of free will and dependency in relation to the concept of necessary existence. He points out that, according to the dependency principle, contingent things always make up dependent holes, no matter the form. Yusuf offers another perspective on this principle which focuses on the dependency of parts on the whole.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>* Discusses the six-month update for the "Thank You for Supporting US" campaign, including Q&A.  explains that although the principle of dependency does not fall into the fallacy of composition, it is still fallacious to infer from the part to the whole with this particular quality.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>**  Bilal discusses his six-month update, including a Q&A. He notes that one of the main issues he faced was the example of taking a hot chocolate or tea, as the choice between these options does not have a clear reason behind it. He argues that the example should be applied to the universe as a whole, as we do not have a full knowledge of what is outside it. He also mentions the fallacy of composition, which states that anything that is made up of parts is generated, and therefore the universe is generated. He argues that this is a logical conclusion based on our ability to conceive of it, and that any such multiverse would be dependent on its parts.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('10800')">03:00:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-03:00:00</a>
 
  the speaker discusses the updates to their book, "Thank You For Supporting US." They mention that they have received feedback on the manuscript, and that anyone is welcome to book a session with them to discuss it further. also speaks about the new theological argument for the existence of Allah, and how it is being used in contemporary circles.
 
@@ -63,7 +63,7 @@ the presenter provides an update on the work of the Sapience Institute, includin
 * **<a onclick="modifyYTiframeseektime('9900')">02:45:00</a>* Discusses the "design argument," which is a metaphysical argument that states that there is evidence of design in the universe. The presenter notes that, while some people may believe in this argument, jealousy is a dangerous game and can lead to negative mental health outcomes.
 * **<a onclick="modifyYTiframeseektime('10200')">02:50:00</a>* Discusses how a person's psychological temperament affects how they should approach life, and how to identify and adjust to the varying needs of different people. It also cites a hadith in which the Prophet Muhammad says that giving someone poison will only make them sick, and that different people need different types of help.
 * **<a onclick="modifyYTiframeseektime('10500')">02:55:00</a>* Discusses the psychological and spiritual aspects of wearing a hijab. He notes that there is a spiritual side to jealousy, which is healing over time. He encourages people to practice dawah with good etiquettes, and to be reflective upon themselves. plugs the Lighthouse Project, a website that provides information on Islam and its teachings.
-### <a onclick="modifyYTiframeseektime('10800')">03:00:00</a> - <a onclick="modifyYTiframeseektime('10800')">03:00:00</a>
+### <a onclick="modifyYTiframeseektime('10800')">03:00:00-03:00:00</a>
 
  discusses the "Lighthouse Project" which is a service where Muslims can have one-on-one conversations with Islamic scholars to gain guidance in their religious life.  features interviews with several participants in the project, including the founder, Abdul Rahman, Jake from the "Thought Adventure" podcast, Fahad Tazlim from the "Safety Check Doctor" podcast, and uthman Latif from the "Islamic Mentor" podcast. The attendees discuss the importance of the project and how it has helped them grow in their faith.
 

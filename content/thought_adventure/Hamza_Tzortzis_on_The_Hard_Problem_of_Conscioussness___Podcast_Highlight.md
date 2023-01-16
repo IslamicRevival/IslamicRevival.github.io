@@ -66,7 +66,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1200')">00:20:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:20:00</a>
 
 Hamza Tzortzis discusses the hard problem of consciousness, which is the challenge of understanding subjective experiences from a materialist perspective. He argues that the epistemic gap between people who have conscious experiences and those who don't remains unsolved. He then introduces a professor from King's College in London who has articulated a powerful undercutting defeater to those who claim that neuroscience will one day be able to answer this question.
 

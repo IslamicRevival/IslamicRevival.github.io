@@ -11,7 +11,7 @@ I read from Islam and the Destiny of Man by Gai Eaton https://www.amazon.co.uk/I
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('300')">00:05:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:05:00</a>
 
 In this BBC radio program, Guy Eaton discusses how monotheism is not just a theology, but also a psychological phenomenon. He recommends a book about monotheism that is written in English with exquisite beauty.
 

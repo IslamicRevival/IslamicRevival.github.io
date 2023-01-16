@@ -11,7 +11,7 @@ Sapient Thoughts #10: Does the Hadith of the Sun prostrating support geocentrism
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1200')">00:20:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:20:00</a>
 
  discusses a hadith which some people say supports geocentrism. argues that the hadith does not support geocentrism and is actually talking about the sun prostrating.
 

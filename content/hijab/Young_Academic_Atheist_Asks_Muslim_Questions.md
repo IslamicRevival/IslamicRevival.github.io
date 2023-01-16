@@ -15,7 +15,7 @@ Kalam Cosmological Arguments Book here - https://www.amazon.co.uk/Kalam-Cosmolog
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 The young academic atheist and the Muslim discuss the argument of contingency. The young atheist argues that the Kalam cosmological argument is based on shaky premises. He also discusses three reasons why he believes that there could be more than one necessary existence. Finally, he argues that an independent existence must exist in order for everything else to exist.
 

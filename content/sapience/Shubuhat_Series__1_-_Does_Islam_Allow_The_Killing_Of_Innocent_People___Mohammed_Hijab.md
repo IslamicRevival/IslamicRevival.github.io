@@ -29,7 +29,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses whether or not Islam allows for the killing of innocent people. provides several verses from the Quran to support his position that Islam does not condone the killing of innocent civilians. He also discusses how some later Muslim leaders were successful in expanding the Islamic empire through peaceful means.
 
@@ -45,7 +45,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the various Qur'anic verses that support the killing of innocent people, and how these verses were interpreted during the early days of Islam. It also discusses how later Muslim leaders such as Khalid bin Walid and Omar bin Khattab were successful in expanding the Islamic empire. Finally, the video explains how Ali ibn Abi Talib was the final righteous khalifa, and how his reign was marked by numerous successful military campaigns.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the idea that there is evidence that early Islamic caliphs went into other empires and tried to forcefully convert the non-combatant population, which resulted in the first Islamic civil war. Mohammed Hijab argues that this is anachronistic because we are living in a post-world war two environment and that domestic violence, homosexuality, and other forms of inequality are all on the rise because of equal strength.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses how Islamic teachings can be interpreted in a way that justifies the killing of innocent people. He also mentions how western academics often focus on the aggressive dimensions of jihad, overlooking the peaceful aspect.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('4500')">01:15:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:15:00</a>
 
 discusses the issue of whether Islam allows the killing of innocent people. points out that, in reality, Muslims are always on the defensive, and that they should be on the counteroffensive instead. He goes on to say that, thanks to the truth, many people have benefitted from these sessions.
 

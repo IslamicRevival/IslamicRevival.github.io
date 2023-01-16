@@ -15,7 +15,7 @@ God willing I will produce a separate video on each council.
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 The video discusses the seven great Church Councils, beginning with the Council of Nicaea in 325 AD. The Council of Nicaea decided that Jesus was both God and man, and that the Father and Son shared the same substance. This doctrine, called the Trinity, was later defined in the Creed of the Church. The video then recommends a book about the Council of Nicaea called "When Jesus Became God: The Struggle to Define Christianity During the Last Days of Rome."
 

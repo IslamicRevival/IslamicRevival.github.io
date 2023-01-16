@@ -17,7 +17,7 @@ Meaning of Iman, relation to Ghayb
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 Tafseer-ul-Quran Almassari discusses the different accusations and doubts Muslims may have about each other, and how these doubts should not exist based on the Quran's clear teachings. He also mentions how, due to the Brexit vote, the word "evil" had been removed from a particular location in the Quran.
 
@@ -33,7 +33,7 @@ Tafseer-ul-Quran Almassari discusses the different accusations and doubts Muslim
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  Almassari discusses the difference between need for iman and need for miracles, and how some people (like the man who came for hajj) only need the Quran's words. He also points out that some people (like the prophet Muhammad) need both words and miracles.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses Islamic theology, specifically the different schools of thought on iman (faith) and israel (belief in one God). It explains that some people have an agenda, because they accept certain individuals to judge in matters of faith, such as the Dean of Allāh. It also discusses how some people believe that the party of Maurya (the founder of the Mauryan dynasty) is a kāfir (disbeliever).
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  Almassari explains the difference between epileptic seizures and muhammad's reported revelations. He notes that epileptic seizures can have a variety of different appearances, but the one described in this particular instance is unique and specific to muhammad. He also points out that even if epileptic seizures did occur during muhammad's revelations, it would not explain why he did not follow the western so-called scholar's practice of claiming his revelations were due to epilepsy.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('4200')">01:10:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:10:00</a>
 
 Discusses the different schools of thought on the nature of iman, and how some of these views can lead to disagreements. also points out that iman is a complex issue, and that it is important to have a rational, comprehensive view on it in order to avoid infighting and partisanship.
 

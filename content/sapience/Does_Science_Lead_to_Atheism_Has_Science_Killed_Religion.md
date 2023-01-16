@@ -11,7 +11,7 @@ Does Science Lead to Atheism? Has Science Killed Religion? A Lecture by Hamza An
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the idea that science may lead to atheism, and points out that there are several assumptions that must be made in order for this to happen. First, science is limited in what it can observe, and as a result, truths can change over time. Second, the assumption that science leads to certainty is false, as scientific theories and conclusions can be changed based on further observations. Finally, the assumption that science leads to absolute truth is also false, as scientific truths can be debated and changed over time.
 
@@ -27,7 +27,7 @@ Does Science Lead to Atheism? Has Science Killed Religion? A Lecture by Hamza An
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  the speaker discusses the philosophical and scientific problems with Darwinism. He explains that Darwinism suffers from several limitations, including its probabilistic nature and its assumptions. He goes on to say that, as a Muslim, it is possible to fully accept Darwinism while still upholding religious values.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** In this lecture, the speaker discusses the various assumptions that go into science, and how these assumptions must be accepted in order to allow for scientific progress. also talks about the importance of first principles, and how they are necessary for any field of knowledge to grow.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the idea that science may lead to atheism, and how the assumption of physicalism is required for neuroscience to understand subjective states such as consciousness.  also discusses Islam's first principle, which is the belief that every human being has an innate state of awareness and primordial knowledge of God.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:00:00</a>
 
 in this video argues that science does not necessarily lead to atheism, as many people assume. He suggests that when we examine the philosophy of science, we will find that it is not as black-and-white as many people think. This could lead to a greater appreciation for both science and religion.
 

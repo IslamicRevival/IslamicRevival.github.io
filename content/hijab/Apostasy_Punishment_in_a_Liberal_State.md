@@ -16,7 +16,7 @@ A Law which is so holy and inviolable that it is practically a crime even to Cas
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1200')">00:20:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:20:00</a>
 
 discusses apostasy and how it would be punished in a liberal state. argues that, in a liberal state, apostasy would be seen as a breach of the social contract and would be punished accordingly. He also argues that human rights are not always respected in liberal states, and that there must be a balance between rights and responsibilities.
 

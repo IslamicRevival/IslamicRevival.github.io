@@ -11,7 +11,7 @@ Discussion on the recent outbreak of COVID-19 misconceptions, conspiracies, how 
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  "Debunking COVID-19 Conspiracy Theories and Constructing Political Analysis" discusses how many of the conspiracy theories surrounding the coronavirus are baseless. It argues that the virus is natural, and that the global economy would be affected if it were to collapse.
 
@@ -27,7 +27,7 @@ Discussion on the recent outbreak of COVID-19 misconceptions, conspiracies, how 
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  debunks COVID-19 conspiracy theories and constructs political analysis. It argues that, if the pandemic is real, it would make sense for countries to try to gain control over it by using vaccines. However, some people may view this as a way to breed humans into a new "superior" species, and may try to use it for other nefarious purposes.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>**  debunks COVID-19 conspiracy theories, explaining that the theories are not grounded in reality. It states that there is still a long way to go before such technology is possible, and that any potential backlash would be manageable.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** A conspiracy theory is that the government is hiding evidence of an alien invasion, and that the pandemic is a cover-up. However, even if this were true, it would still be difficult to accept. The conspiracy theorist also suggests that the government is using the pandemic to control the population. However, this is not supported by evidence.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('6000')">01:40:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:40:00</a>
 
  discusses COVID-19 conspiracy theories and how they are based on false information.  argues that people can be fooled by these theories and that a lack of spirituality can lead to events like the Sandy Hook shootings.
 

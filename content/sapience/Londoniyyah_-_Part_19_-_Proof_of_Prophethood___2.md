@@ -27,7 +27,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  the sheikh discusses the necessary and sufficient conditions for revelation and how they were met by Prophet Muhammad. He also discusses the various proofs of prophethood for Muhammad, including his background and reputation, and the manner in which he conducted himself.  ends with a reminder for Muslims that Muhammad is the perfect example for them to follow.
 
@@ -43,7 +43,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the structure of the Quran, with particular attention to the order in which the Prophet Muhammad allegedly recited it. Two views are proposed: one, that the Quran was compiled from the Prophet Muhammad's own recitation, and two, that it was compiled from the Prophet Muhammad's companions. While either view is valid, it is interesting to note that the Quran itself mentions this structure.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses the idea that the Qur'an could be historically accurate, based on the verse where allah states that the heavens and earth wept not for Pharaoh and were not replying to him.  also mentions the fact that the quran mentions the pharaohs' claims to divinity.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses how the Qur'an references specific historical events that are not mentioned in the Old Testament, such as the existence of the Children of Israel in Egypt. He also points out that certain general sayings in the Qur'an could refer to the existence of Israel in general. Finally, the author discusses the story of Pharaoh's body being found in France and how it confirms that Pharaoh was the pharaoh.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('4800')">01:20:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:20:00</a>
 
  discusses various prophecies found in the Quran and Bible, and compares and contrasts their accuracy. It concludes that prophecies are a strong way of confirming the truth of Islam, and that there are too many prophecies to go through individually.
 

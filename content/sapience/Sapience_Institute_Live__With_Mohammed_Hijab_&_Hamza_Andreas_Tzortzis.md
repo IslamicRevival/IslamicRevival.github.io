@@ -11,7 +11,7 @@
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 , Mohammed Hijab and Hamza Andreas Tzortzis discuss the concept of kadar (or "potential"). Tzortzis argues that, in the Islamic universe, there are many possible outcomes, some of which are even worse than Hell. He then asks Hijab whether returning fiends to the Earth would constitute a reversal of their original sin. Hijab responds that, if they were to repent, they would be forgiven and returned to their previous state.
 
@@ -27,7 +27,7 @@
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The Sapience Institute discusses the idea that "internalized it means that when you look at so-called enemies of Islam, or the media, or this world, you don't give them any intrinsic power," which leads to a liberation from fear and a greater understanding of Allah's will. Practical implications of this idea include a greater sense of responsibility and peace of mind.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The Sapience InstituteLive panel discusses the idea that humans are actors but not masters of their own spiritual destiny, with Mohammed Hijab and Hamza Andreas Tzortzis providing differing viewpoints. Mohammed Hijab argues that all actions come from Allah, and that we should leave spiritual decisions to Him. Hamza Andreas Tzortzis points out that some scientific miracles are not plausible, and that if we extend the idea of spiritual destiny to hard scientific miracles, it becomes problematic.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Mohammed Hijab and Hamza Andreas Tzortzis discuss the situation in France and how it relates to Islam and Muslims. They say that if Muslims don't understand the social and political context in France, they don't have an opinion on the situation. They also discuss the dehumanization of Muslims and how it can lead to atrocities.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
 The Sapience Institute's "Live: With Mohammed Hijab & Hamza Andreas Tzortzis" video features the two philosophers discussing a variety of topics related to Islam. They touch on the idea of anthropocentricity, the different names and attributes of Allah, and the importance of love and repentance. Hijab also shares his thoughts on Eurocentrism in the Muslim community and the difficulties of having constructive conversations with non-Muslims.
 
@@ -43,7 +43,7 @@ The Sapience Institute's "Live: With Mohammed Hijab & Hamza Andreas Tzortzis" vi
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** The Sapience Institute discusses the various names and attributes of Allah, which help to answer the question of who Allah is. Ali Ghazali, a renowned Islamic scholar, said that if an area has negativity about the process of Hajj, then the Hajj is lifted from that area.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>* Discusses how arguments for God's existence can be effective or ineffective, depending on how the person arguing connects with Allah in prayer. He also discusses a Pakistani atheist who approached him, admitting that he did not understand the argument. explained to the atheist that the nature of the cause is still up for debate in western philosophy, and that he needed to connect with Allah in prayer in order to understand it.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses the contradiction between Mohammed Hijab's argument that AI machines can be fully conscious, and his previous argument that ai machines cannot be fully conscious because they lack a soul. Hijab explains that this contradiction is an indication that psychological factors are at play, and that it is always his goal to think about and investigate these psychological factors. He then goes on to talk about his experience trying to have constructive conversations with non-Muslims, and how frustrating it is that they are not swayed by the strongest arguments he has. He finishes the video by discussing how it is important to remember that even if someone opinion differs from yours, Allah still guides whom He wills.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('9900')">02:45:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:45:00</a>
 
  discusses the difference between the cosmological and free will arguments. The cosmological argument (what is) asks what caused the universe, while the free will argument (how is) asks how the universe is the way it is now. The two questions are different and one is impossible to answer mechanically. Although there are skeptics, the majority of people have agreed that there must be a prime mover of uncle's causes.
 

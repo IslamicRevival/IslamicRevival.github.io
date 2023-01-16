@@ -23,7 +23,7 @@ Please donate and help establish this Masjid and earn your reward ➡ https://ww
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1200')">00:20:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:20:00</a>
 
  demonstrates how Firas Zahabi, a world-renowned MMA fighter, uses takedowns to defeat bigger opponents. The techniques demonstrated include body lock takedowns, hip toss takedowns, and ankle pick knee pig takedowns. There is a risk associated with using these takedowns, but they are useful in dire circumstances.
 

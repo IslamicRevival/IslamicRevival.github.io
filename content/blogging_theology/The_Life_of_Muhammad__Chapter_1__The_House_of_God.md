@@ -24,7 +24,7 @@ https://twitter.com/freemonotheist
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 This video discusses the life of Muhammad and how he is seen as a prophet of both the Abrahamic and Ishmaelic religious traditions. It describes the building of the Kaaba and notes that the most holy object in the Kaaba is a celestial stone brought down to earth by an angel.
 

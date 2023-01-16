@@ -18,7 +18,7 @@ We want to recommend Kitab ut-Tawheed: The Basis of Islam and the Reality of Mon
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 in this video discusses the obligation of Muslims to establish an Islamic state, and argues that this obligation is based on the Qur'an and the example of the prophets. He goes on to say that the current methods being used to pursue this goal are becoming increasingly complex and difficult, and suggests that Muslims should instead focus on simpler goals.
 
@@ -34,7 +34,7 @@ in this video discusses the obligation of Muslims to establish an Islamic state,
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** discusses the obligation to establish an Islamic state, and explains that this obligation comes from the Qur'an and the example of the prophets. He warns against those who would try to take power through force or corruption, and notes that the first part of authority (the ability to make decisions) is derived from the consent of the people.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** discusses the idea of establishing an Islamic State, and how it is an obligation (fardh) for Muslims. He goes on to say that the methodologies being used to pursue this goal are becoming increasingly complex and fraught with difficulties. He suggests that, instead, Muslims should focus on simpler goals, such as supporting the needy and oppressed.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** discusses the obligation of establishing an Islamic State, citing various reasons why this is a necessary obligation. He also points out that relying on weak narration can lead to incorrect conclusions, and that a state of war with the Romans and Persians was not the result of muslim aggression, but rather the result of the agreements between these empires. He goes on to say that evidence of Abyssinian peaceable relations with Muslims over many centuries proves that this obligation is not impossible to fulfill.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('4200')">01:10:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:10:00</a>
 
 Discusses the obligation of every Muslim to establish an Islamic State, providing examples of what this entails. He also notes that IS should not be seen as a single entity, but as a series of parties and organizations working towards the same goal. Finally, he provides a possible explanation for why some Muslims have been attracted to IS, and offers advice for Muslims who want to oppose and oppose IS.
 

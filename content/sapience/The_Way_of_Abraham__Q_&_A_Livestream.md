@@ -11,7 +11,7 @@ https://www.sapienceinstitute.org/donate
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  is a discussion about the way of Abraham, a spiritual teaching that invites humanity to focus on Allah alone. The discussion covers the Fitrah, the innate disposition that leads humans towards righteousness, and how it can be obscured over time. offers advice on how to ask questions about spiritual topics, and urges Muslims to be aggressive in the way that is better.
 
@@ -27,7 +27,7 @@ https://www.sapienceinstitute.org/donate
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** This Muslim discusses the fact that animals are Muslim, and that they can be eaten in accordance to Islamic law. He then asks a question about the validity of veganism, as it is based on reasoning that may be flawed. He concludes by stating that while reason can be a basis for determining truth, there is always the risk of our reasoning being imperfect.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The way of Abraham is a means to establish the truth, and different means can lead to the truth. For example, sound reasoning can lead to the truth, but the heart may have the spiritual disease of arrogance which would block the function of the heart, preventing the person from realizing the truth.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the idea that all human beings are born with a fitra, or innate ability to recognize God. It discusses how this might be taught, and explains that one way to do this is through the affirmation of revelation.  also discusses the importance of creating a good relationship with one's children, and how this can help them recognize God and develop a strong faith.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
 In the "The Way of Abraham: Q & A Livestream" video, the speaker discusses how Abraham changed his views after becoming Muslim, and how this affected his relationship with his family. He also offers advice on how to improve one's health through a vegan diet.
 
@@ -43,7 +43,7 @@ In the "The Way of Abraham: Q & A Livestream" video, the speaker discusses how A
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>* Discusses how Abraham, a man who was originally Greek, changed his views after becoming Muslim. Abraham is interviewed and explains that he loved cooking and had a passion for it. However, his wife and son later divorced him because he was too pious and respectful.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>* Discusses the importance of both meats and vegetables, and how their veganism adversely affects their health. offers to cook for the listener and offers advice on how to improve one's health through a vegan diet.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>**  a friend of the interviewer's, Dick, talks about his transformation from a meat-eating human to a vegan, and how he knows that this is the right way to live. He also gives advice to greek Muslims about Islam and how to open their minds to the benefits of following this religion.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('8100')">02:15:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:15:00</a>
 
 The Way of Abraham is a mentoring program that helps individuals get involved in the dialogue of Islam. The program is currently fully booked for September, but offers bookings until next year. The mentoring process includes taking individuals through a serious issue, and is more valuable than providing just an intellectual answer online. The program is led by Yusuf Paine, a leading American Muslim, and is a step towards fulfilling the sunnah of allah.
 

@@ -11,7 +11,7 @@ A brief discussion with some really charming atheists who become acquainted with
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1500')">00:25:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:25:00</a>
 
  "Clever Atheists Talk to Muslim" discusses how atheists and Muslims view the universe and the role of God in it.  presents the Islamic thesis that everything in the universe was created by God, and that life has a purpose. The presenter argues that, from an atheistic perspective, a human being has the ability to reason and ask why questions.  discusses how different prophets were sent to different parts of the world, and Muhammad is the last and most universal of them.
 

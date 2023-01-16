@@ -18,7 +18,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  introduces viewers to Dr. Muhammad Al Massari, a respected Quran scholar and professor. Dr. Massari discusses the meaning of Surat Al-An'am and what to expect during the final days. He explains that death is not the final end, and that charity and good deeds can help extend one's life. Finally, he addresses the issue of false belief in divine beings, noting that it is impossible for such beings to exist.
 
@@ -37,7 +37,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 
 Dr. Muhammad Al Massari explains that this is because people are only able to understand the consequences of their actions after they have experienced them first-hand. Once people have experienced the consequences of their actions, they will be more inclined to repent.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  discusses the difference between mockery and criticism, and argues that mockery is not appropriate when discussing the Divine. then goes on to explain that if one drops the assumption that Jesus is Divine, then there is no need for the acrobatic claims made about Him in the Bible.
 
@@ -53,7 +53,7 @@ Dr. Muhammad Al Massari explains that this is because people are only able to un
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>* Discusses the difference between what Muhammad al-Massari says when he is not debating, and when he is debating. al-Massari argues that when one is not debating, they are simply attacking their opponents, which is wrong.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>**  Professor Dr. Muhammad al Massari discusses the difference between mockery and criticism. He says that mockery is less serious than criticism, and that it is important to be sincere and truthful when engaging in debate. He explains that the definition of mockery is more specific than the definition of criticism, and that it is clear from the Qur'an what it means to mock someone. He concludes by saying that being sincere and truthful are the two important factors in any debate.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses the difference between mockery and criticism, and argues that mockery is not appropriate when discussing the Divine. then goes on to explain that if one drops the assumption that Jesus is Divine, then there is no need for the acrobatic claims made about Him in the Bible.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('7500')">02:05:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:05:00</a>
 
 In this lecture, Dr. Muhammad AL MASSARI discusses the 121 Tafseer ul Quran Surat Al-An'am. He covers the meaning and significance of the Surat, as well as its implications for modern day debates.
 

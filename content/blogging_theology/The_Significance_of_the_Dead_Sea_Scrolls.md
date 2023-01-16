@@ -17,7 +17,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('300')">00:05:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:05:00</a>
 
 The Dead Sea Scrolls are an important discovery because they are accurate; they do not have any differences between what Hitler actually wrote and the first printed copy of his writings, which means that it is not right to say that the manuscript is accurate. Additionally, isaiah, which is a book that many scholars believe was compiled from multiple authors, does not mean that the prophet isaiah is right.
 

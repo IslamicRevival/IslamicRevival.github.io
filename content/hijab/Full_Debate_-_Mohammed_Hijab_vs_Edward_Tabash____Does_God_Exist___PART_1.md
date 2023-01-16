@@ -20,7 +20,7 @@ Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 , Mohammed Hijab and Edward Tabash debate the existence of God. Hijab argues that the universe is uniform and coherent, which is presupposed by science. He also argues that there is a need for external explanations for these phenomena, which is a common argument for the existence of God. Tabash counters that if it was an infinite series, then the world would still be necessary, as it could be conceived that the series could be arranged in another way. They eventually reach a consensus that God, or an eternal, independent thing, is required for any existence to exist.
 
@@ -36,7 +36,7 @@ Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>**  two atheists debate the existence of God. The first atheist argues that because there are different versions of the hadith, Muhammad's successors should not be chosen based on qualifications alone but rather need to have direct bloodline to Muhammad. The second atheist argues that because modern humans have learned that there is no reason for men to be in charge of women, the Quran and Bible are incorrect in their teachings on this issue. Additionally, the first atheist argues that because the Quran and Bible talk about Hell for those who don't believe in the religion, each Revelation is promoting false beliefs.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>**  two debaters discuss the arguments for and against the existence of God. Muhammad Hijab argues that evidence points towards the existence of a supernatural God, while Edward Tabash argues that the evidence does not support this belief.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The five points raised in this YouTube video are that evolution does not contradict theism, that the argument from evil does not exist, that we are all born predisposed to believe in God, that there is evidence for the existence of a God who is not anthropomorphic, and that the idea of free will is meaningful on a naturalistic worldview.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('4200')">01:10:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:10:00</a>
 
  Muhammad Hijab and Edward Tabash debate the existence of God. Hijab argues that the universe is contingent and therefore there must be a necessary being (God) for it. Tabash counters by saying that a necessary being cannot entail a contingent fact without introducing a new contingent fact, which in turn requires explanation. Hijab then argues that if consciousness could exist apart from the brain, diseases and anesthetics would eclipse consciousness, and we can infer the existence of God from the functioning of the universe, then there is no need for a God. Tabash argues that if we accept naturalism, then everything must be explained by natural causes and the existence of a God is not necessary for this explanation.  concludes with a question and answer session between the two debaters.
 

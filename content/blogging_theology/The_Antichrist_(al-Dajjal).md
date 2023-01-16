@@ -11,7 +11,7 @@ I read from Man and the Universe: An Islamic Perspective by Dr Mostafa Al-Badawi
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 The video discusses the ways in which Western civilization has denied human rights to various groups, including the mentally ill, the sub-normal, and the Jews. It also discusses the origins of totalitarianism, referencing figures such as Adolf Hitler, Stalin, and Milosevic, who were all brought to power by exploiting the public's fear and hatred of those considered "other." Finally, the video discusses the West's hypocrisy in professing to care about human rights, given the atrocities these same people have committed in the past.
 

@@ -18,7 +18,7 @@ Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1200')">00:20:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:20:00</a>
 
 "Richard Dawkins "Robots will become conscious" ft Hamza Tzortzis", Richard Dawkins discusses the potential for artificial intelligence to become conscious. He argues that this would be a problem because it goes against the grain of our natural instinct to treat machines as if they are conscious.
 

@@ -11,7 +11,7 @@ A brief discussion on truth standards with a friendly agnostic man .
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2400')">00:40:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:40:00</a>
 
  a philosopher discusses the concept of truth and how it is different from "authoritative source." He goes on to say that empirical evidence is what is used in science, and people often misinterpret what he has studied. suggests that people learn about film from a different perspective, and that it is similar to studying sociology.
 

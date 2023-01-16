@@ -17,7 +17,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('900')">00:15:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:15:00</a>
 
  discusses the idea that black women are less likely to be romantically or sexually attracted to black men than other women, and criticizes the red pill movement for promoting this idea. says that this reasoning is based on weak sociological evidence and is unworthy of a man with an intellectual background. urges men to find their purpose in life instead of focusing too much on getting women's attention.
 

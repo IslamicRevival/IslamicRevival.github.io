@@ -11,7 +11,7 @@ A discussion with UFC's Firas Zahabi goes deep check it out inshallah!
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3000')">00:50:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:50:00</a>
 
  Firas Zahabi discusses randomness and how it applies to the universe and to God. He argues that randomness is an important part of the universe, and that without it, there would be no order or design. He also says that a higher power is responsible for creating and maintaining the universe.
 

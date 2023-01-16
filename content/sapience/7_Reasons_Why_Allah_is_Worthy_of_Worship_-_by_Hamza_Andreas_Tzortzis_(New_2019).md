@@ -13,7 +13,7 @@ You can read Hamza’s essay on this topic here: “7 Reasons Why God is Worthy 
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3300')">00:55:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:55:00</a>
 
  discusses seven reasons why Allah is worthy of worship, and argues that He is the only being worthy of worship, the only object worthy of worship, and the only deity worthy of worship. He also points out that those who worship other gods have committed shirk, and that praising Allah is an act of worship.
 

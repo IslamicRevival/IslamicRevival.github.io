@@ -27,7 +27,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  Muslims discuss their experiences with Marxism, Communism, and Socialism. Muslims say that while these ideologies have some similarities, they are ultimately very different. Muslims also discuss how Marxist states have persecuted religious people, which is in opposition to the Marxist ideology.
 
@@ -43,7 +43,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** , Mohammed Hijab discusses different aspects of Marxism and how it relates to human history. He points out that, in terms of value, commodities can have a high or low value based on the amount of labor that went into producing them. He also discusses the different types of socialism and how they differ in terms of their approach to labor.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Mohammed Hijab discusses Marxism and explains that it is a philosophy that can be applied in a variety of ways, depending on the situation. He goes on to explain how the Chinese Communist Party has turned into its opposite, and how this might impact his view of Marxism. He also discusses the problem of calling oneself a communist when one's enemy's definition of the term is different than one's own. Finally, he answers a question from the audience.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Mohammed Hijab discusses Marx's predictions about the beginning of the socialist revolution, which differed from reality in Germany and Britain. He also argues that Islam provides a more practical way to organize society than Marxism, which is antithetical to the historical reality of Islam.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:00:00</a>
 
  Jack discusses some of the key ideas of Karl Marx. He notes that Marx was not eurocentric and that he made important contributions to the understanding of capitalism and communism. Jack also points out that Marx's predictions about the revolution happening in Russia were correct. Finally, Jack discusses the idea of altruism and how atheists are some of the most altruistic people he's ever met.
 

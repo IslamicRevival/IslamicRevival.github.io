@@ -13,7 +13,7 @@ FULL DEBATE -https://www.youtube.com/watch?v=hgXY4hJkrLA
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1800')">00:30:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:30:00</a>
 
 discusses the idea of the Trinity and how it is difficult to prove. argues that the Father, Son, and Holy Spirit are not equal, and that the Father's will is higher than the Son's. He also argues that if someone doesn't show what they have, they don't possess it. In conclusion, the speaker explains why he cannot accept the concept of the Trinity.
 

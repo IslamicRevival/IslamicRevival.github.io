@@ -19,7 +19,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2400')">00:40:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:40:00</a>
 
 The BBC interviews a Palestinian activist about her views on anti-Semitism and apartheid. The activist argues that while it is possible for someone to be anti-Semitic, it is impossible for a Muslim to be anti-Semitic, as the prophet Muhammad married a Jewish woman. She also discusses the risk of engaging in free speech when it is used to insult or offend populations, citing the example of anti-slavery advocates in the 19th century who went to war to end slavery.
 

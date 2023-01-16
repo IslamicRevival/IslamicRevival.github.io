@@ -89,7 +89,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses how the media in the west is biased against Muslims, and how this has led to a false perception of Islamic terrorism. It argues that this hypocrisy is a major reason why Muslims have a difficult time communicating with the wider world.
 
@@ -105,7 +105,7 @@ Gmail: hello.tapodcast@gmail.com
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses how the West perpetuates a false narrative that all terrorists are Muslims, and how this skews how the public perceives terrorist attacks. It also points to examples of where the West has made mistakes in its refugee resettlement policies, and how these stories receive less attention than incidents where refugees are involved in sexual assault.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses how the media downplays or ignores the prevalence of Islamic terrorism, while at the same time portraying Muslims in a negative light. It argues that this hypocrisy is a major reason why Muslims have a difficult time communicating with the wider world.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Tony Blair's victory in the 1997 UK elections was due in part to a deal he made with the Sun, which is well known. Since then, the free press has changed dramatically, becoming more biased in favor of the state. Norm Chomsky wrote a book called Manufacturing Consent about the subject. He found that while there are many conflicts reported in the media, the focus on one particular conflict is due to the West's geopolitical interests. Politicians and their spouses are often very well connected to the media, and donors to political parties often have interests in the media industry. These small ways help to create the narratives that the media reports.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('6000')">01:40:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:40:00</a>
 
  discusses the hypocrisy of the West and how it is often hypocritical in its claims. It argues that the West's hypocrisy is not a coincidence, and is instead orchestrated and manufactured. urges Muslims to be reasonable and to listen to what the west has to say.
 

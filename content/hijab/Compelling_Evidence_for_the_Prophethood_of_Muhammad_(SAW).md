@@ -19,7 +19,7 @@ https://iera.org/shop/forbidden-prophecy-download/
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('900')">00:15:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:15:00</a>
 
 discusses the compelling evidence that Muhammad was a true prophet of God. It argues that Muhammad's prophecies are from basic probability and are impossible to falsify. Many people today follow false prophets, but God has provided guidance in the form of Muhammad's prophecies.
 

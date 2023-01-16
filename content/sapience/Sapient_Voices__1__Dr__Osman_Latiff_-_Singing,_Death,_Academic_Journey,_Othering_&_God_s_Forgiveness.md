@@ -55,7 +55,7 @@ Sapient Voices is a series of YouTube videos that discusses various academic top
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** In her book "On Being Human," Charlotte Holman discusses the role of empathy and othering in various conflicts, including the current conflict in Ukraine. She notes that selective empathy and othering can be signs of a diseased heart.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** In his book Sapient Voices, Dr. Osman Latiff discusses the power of empathy and othering. He discusses the Rwandan genocide, the Crusades, and the way that people are dehumanized. He also speaks about the prophet Muhammad's empathy and how it helped him to understand the suffering of other people.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The talk highlighted the Quranic emphasis on distinctions among peoples, and how it can lead to empathy and othering. The talk also highlighted how othering can lead to dehumanization.
-### <a onclick="modifyYTiframeseektime('7200')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">01:00:00-02:00:00</a>
 
  Dr. Osman Latiff discusses how Muslims should approach the Quran and avoid creating monoliths. He also discusses the importance of the prophetic traditions of the prophet Muhammad and encourages listeners to download his book, Being Human.
 
@@ -71,7 +71,7 @@ Sapient Voices is a series of YouTube videos that discusses various academic top
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** According to Dr. Osman Latiff, the concept of God in Islam is not maximally perfect because it compromises God's holiness. He also argues that the God of Islam is not maximally loving because sinners are not loved by Allah. In order to solve the Adamic Conundrum, Dr. Latiff argues that the divinity of Jesus Christ is the fundamental point to begin with. Everything else follows from this.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>**  Dr. Osman Latiff discusses the different models of hamatiology, which is the theological concept of sin and salvation. He notes that the Christian position is that Adam went to three different levels of damnation, physical, spiritual, and eternal. This understanding is important because it affects every discussion you have with a Christian later on, as it will change the way you view their beliefs about God. Latiff also discusses the theories of atonement, which include devil ransom, origin, and fish hook. He explains that each of these theories has its own important implications for understanding the crucifixion of Jesus.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Doctor Osman Latiff discusses why the idea of God becoming man is complex and problematic for Christians. He also discusses the Quran's perspective on the matter.
-### <a onclick="modifyYTiframeseektime('8400')">02:00:00</a> - [02:20:00</a>
+### <a onclick="modifyYTiframeseektime('8400')">02:00:00</a>
 
  Dr. Osman Latiff discusses the Islamic tradition of forgiveness, othering, and God's generosity. He also notes that Ramadan is the month of the harvest, and that whoever makes the next life their biggest concern in this life will be blessed by Allah.
 

@@ -18,7 +18,7 @@ Dispelling Misconceptions?
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2100')">00:35:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:35:00</a>
 
 in this video discusses the Islamic concept of zakat, which is a mandatory charity tax. He explains that, although the tax is based on an individual's ability to pay, it is still a reasonable measure to take into account when making economic decisions. He also discusses the concept of umra, which is a pilgrimage to Mecca. He advises those who make the pilgrimage to take care of their financial affairs while they are away, in case they are unable to return home due to economic difficulties. He concludes the talk by discussing how zakat can be used to help developing regions.
 

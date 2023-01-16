@@ -64,7 +64,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1800')">00:30:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:30:00</a>
 
 an Orthodox Christian discusses the problem of identity in regards to the Trinity. He argues that, at the very least, it appears that this problem is based on a legitimate problem. The Orthodox Christian discusses the problem of polytheism, which results from the definition of the Trinity as three beings who are not distinct from one another. He argues that if the persons are defined separately from one another, then one wind up with social trinitarianism or a version of polytheism, while if the persons are not defined separately, then one winds up with modalism. The Orthodox Christian argues that, because God's attributes are human concepts, they are not identical to God's essence. However, under the model of divine simplicity, these attributes must be identical to one another and to God's essence in order to be true. This leads to the conclusion that God is the creator, has knowledge, and is necessary. discusses the problem of reconciling two contradictory beliefs about God- that God is simple and also outside of time. He suggests that we appeal to mystery to come to a deeper understanding of God.
 

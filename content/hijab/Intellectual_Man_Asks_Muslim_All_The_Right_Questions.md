@@ -11,7 +11,7 @@ Thanks to brothers from guidance avenue for providing this video.
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2100')">00:35:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:35:00</a>
 
  discusses the difference between a theologian and a prophet, and how a theologian is allowed to interpret scripture in a different way than a prophet.  also mentions that there have never been any theological controversies surrounding the idea that God is one.
 

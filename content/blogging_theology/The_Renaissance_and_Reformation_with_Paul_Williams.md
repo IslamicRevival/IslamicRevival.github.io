@@ -18,7 +18,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 The Renaissance and Reformation were two of the most influential periods in Western history. The Renaissance was a time where people rediscovered the classical Greek and Roman civilizations and began to write and paint in a more beautiful and innovative way. The Reformation was a time when Martin Luther and other reformers challenged the authority of the Catholic Church and led to the separation of church and state. The video discusses the importance of the Renaissance and Reformation in the development of Christianity and the modern world.
 
@@ -34,7 +34,7 @@ The Renaissance and Reformation were two of the most influential periods in West
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The Reformation was a time of change in Christianity, as Martin Luther and Calvin challenged the Catholic Church. In doing so, they opened the door to the acceptance of Muhammad as a prophet of God. The Protestant work ethic, which emphasized the sanctity of the ordinary man, was also born out of the Reformation.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The Reformation led to the breakup of Christendom and the beginning of nation states. The individual conscience before God, apart from the church, led to the wars in the 30 years war. The Protestant ethic of individualism led to the rise of the American Revolution.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** The video discusses the importance of the Renaissance and Reformation, which led to the spread of Christianity throughout Europe. The Catholic king of England, Henry VIII, was not allowed to divorce, a practice which is still not permitted in the Catholic Church. The split between the Catholic West and Orthodox East is still not healed, contributing to the spread of Christianity throughout the world but with different denominations.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:00:00</a>
 
 Paul Williams discusses the differences between the orthodox churches in the east and the catholic church, mentioning the pope's elevated status within the Catholic Church. He argues that the divisions between the two faiths will never be healed, and that the Quran speaks of this reality.
 

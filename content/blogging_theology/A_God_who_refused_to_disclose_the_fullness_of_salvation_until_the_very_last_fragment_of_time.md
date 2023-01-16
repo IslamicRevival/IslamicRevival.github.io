@@ -28,7 +28,7 @@ According to a Prophetic narration collected by Ibn Ḥibbân, the total number 
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('300')">00:05:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:05:00</a>
 
 in this YouTube video discusses the idea that God may have withheld salvation from humanity for over two thousand years in order to teach them a lesson. references a Christmas poem by Thomas Hardy which speaks to this issue. also mentions that Christianity expected the world to be converted within a few years, and that they had no concept of deep time before that.
 

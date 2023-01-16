@@ -20,7 +20,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1800')">00:30:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:30:00</a>
 
 Professor Nicholas Wolfinger discusses the trends in marriage, divorce, and family stability in the United States. He notes that, while there are some positive trends moving forward, much of the stability in families is outside of our control. He recommends waiting until your late 20s to marry, avoiding marrying someone who is too similar to you, and contributing to the material upkeep of your children.
 

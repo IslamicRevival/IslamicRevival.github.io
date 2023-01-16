@@ -17,7 +17,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2700')">00:45:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:45:00</a>
 
  Dr. William Lane Craig discusses the historicity of Adam and Eve, the fall of Adam and Eve, and the origins of humanity. He argues that the biblical stories exhibit family resemblances and mythological imagery, and that while some details of the story are meant to be taken figuratively, the fall itself is historicity. He also discusses how to discern which details of the story are meant to be taken figuratively and which are meant to be taken historically.
 

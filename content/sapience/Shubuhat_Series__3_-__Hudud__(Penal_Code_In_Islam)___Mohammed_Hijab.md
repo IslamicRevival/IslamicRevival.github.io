@@ -29,7 +29,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('2100')">00:35:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:35:00</a>
 
  Mohammed Hijab discusses the Islamic penal code, "hudud." He explains that hudud is a fundamental part of Islamic law and is applied on the other side as well, namely in the Western world. He provides examples of punishments for crimes such as zina and kufr, and concludes with a statement of gratitude and peace.
 

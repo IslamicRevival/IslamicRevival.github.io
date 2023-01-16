@@ -11,7 +11,7 @@ We continue a series of talks on the New Testament with the Gospel of Luke and t
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3000')">00:50:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:50:00</a>
 
 The video discusses the Gospel of Luke, which omits key verses that mention the doctrine of the atonement. The author argues that Luke's Christology is found in the story of the Last Supper, where Jesus says "this is my body which is given for you." He suggests that this subtle change is one of the reasons why some people might be resistant to the idea of an atonement in Luke.
 

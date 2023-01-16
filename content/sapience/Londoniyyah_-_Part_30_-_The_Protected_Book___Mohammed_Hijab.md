@@ -29,7 +29,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the controversy surrounding the preservation of the Quran, and presents various opinions on the matter. It goes on to say that, although there is no one definitive way in which the Quran has been preserved, it has been collected and written down over time, and that there is also an oral tradition that traces back to the time of the Prophet Muhammad.
 
@@ -45,7 +45,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses the criteria for recitation of the Quran, which includes having an authentic narrative chain of narration and being in line with the traditional orthographic texts. He goes on to say that there is no such thing as Christianity and Judaism, because Moses did not say that the Torah has been revealed. Another difference between the Quran and other scriptures is that there is no criterion for authentication.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The narrator discusses the difference between a 10-Karat gold standard and a lower standard for preserving the Quran. He argues that if we are explaining Islam, we have less to prove, and that those like Jessaly Zimmerman who reject textual criticism are committing an act of apostasy. He also points out that if a scholar is using textual criticism for ideological purposes, they are committing blasphemy.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the theory of abrogation, which is the idea that a particular Quranic verse can be canceled or replaced by another verse. He gives examples of when abrogation might happen, and explains that a fair-minded person would agree that the Quran fulfills the criterion for preservation. He compares the Quran with the Bible, and points out that there is no criterion for what should be included in the Bible and what should be taken out. He concludes by saying that a fair-minded person would agree that the Quran is the correct Islamic scripture.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:00:00</a>
 
  is part of a series about the city of London and its history. In this installment, the presenter discusses the differences between the Septuagint and other translations of the Bible, and how the lack of a chain of narration makes the Septuagint not a valid translation. He also discusses the differences between the text and the archaeological evidence. The presenter finishes with a reminder for those attending next week's meetings.
 

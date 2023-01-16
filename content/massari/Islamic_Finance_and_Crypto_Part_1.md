@@ -19,7 +19,7 @@ Discussion on Futures Contracts
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses Islamic finance and crypto, explaining the differences between these two industries. Islamic finance is designed to prevent a false valuation, while crypto is designed to prevent someone from taking advantage of others. The primary goal of Islamic finance is to help people financially, while the goal of crypto is to protect investors. Islamic finance is well established and has been passed down through history, while crypto is new and has been developed recently. Islamic finance is more beneficial to the borrower, while crypto is more beneficial to the lender. Islamic finance is more straightforward, while crypto is more complex. However, the intention of the law may not be the primary reason for it.
 
@@ -35,7 +35,7 @@ Discussion on Futures Contracts
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses Islamic finance and its relation to crypto, noting that Islamic finance does not rely on interest as a way to incentivize lending, and that in some cases, Islamic law allows for debtors to escape from obligations if they can prove a need. The main problem with this system is that it is not enforced by the law system, which can lead to debtors being exploited.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses Islamic finance, which has led to the issue of credit cards. The benefits of credit cards are discussed, but the downside is that people can get into serious debt. The example of a bill and the due date is given, and it is explained that if the due date is not met, interest is charged and a crisis can occur. It is suggested that people make a decision about their situation and whether or not they should be using a credit card. Islamic finance is also discussed, and it is explained that it can be a good or bad thing depending on the person's intentions. Finally, the example of a relative transferring a credit card account to someone else is given, and it is explained that this is not a normal occurrence.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** discusses Islamic finance and cryptocurrency. Many Muslims are coming into the UK in the 1950s and 1960s, when there was a need for workers. They recognized that owning a house was a better financial investment than paying off rent forever, and so the Hanafi school of Islamic jurisprudence developed. This school relies on semi-russian arguments, which are not very persuasive, because first, there is a state of war with Britain, and secondly, people can't kill other people without justification. Theargument that a Muslim can take money from a non-Muslim without justification is not plausible.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  discusses Islamic finance and crypto, and how they can be used together. It points out that Islamic finance is more conservative and regulated, while crypto is more volatile. It also discusses how crypto can be used for speculation and hedging, but that there are potential legal issues with using it for these purposes.
 
@@ -51,7 +51,7 @@ Discussion on Futures Contracts
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** Islamic finance and crypto are discussed in this YouTube video, with particular focus on futures and options. Futures allow for hedging and other financial activities, while options allow for speculation. However, there are potential legal issues with using crypto for these activities.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** The Islamic finance system is designed to help farmers and traders make contracts for the delivery of a fixed quantity of a specific good or service, without specifying the date or conditions of the contract. In this system, traders may borrow money from brokers to finance their contracts. This can lead to problems, as the trader may be unable to fulfill their contract if the harvest is not good.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Islamic finance is a system of financial transactions that take into account Islamic values and principles. Crypto is a type of asset that uses cryptography to secure its transactions and to control the creation of new units.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('7800')">02:10:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:10:00</a>
 
 Discusses Islamic finance and cryptocurrency. It offers a brief overview of various crypto-related activities and currencies, and suggests that governments should allow Islamic finance to be used in their countries.
 

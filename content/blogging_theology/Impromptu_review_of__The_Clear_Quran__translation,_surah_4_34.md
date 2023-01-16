@@ -11,7 +11,7 @@ The Clear Quran website: https://theclearquran.org//
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 The video discusses the possible problems with the translation of surah 4:34 in the Clear Quran. It is noted that while the translation is highly regarded by western academics, some issues with its literal translation may exist.
 

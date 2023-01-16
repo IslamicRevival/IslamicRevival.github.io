@@ -27,7 +27,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the Sikh religion and its beliefs. Sikhism believes in one God who is both immanent and transcendent, and they give this divine being various names.  discusses Sikhism's beliefs about worship and the relationship between god and the guru. It also discusses the Sikh scripture, the Guru Granth Sahib, and the similarities between Sikhism and other religions.
 
@@ -43,7 +43,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** Sikhism has rituals associated with baptism, including the drinking of a holy beverage and singing of hymns. Five symbols of Sikh faith are worn on the body. The founder of Sikhism, Guru Gobind Singh, is said to have appeared in a physical form as the last guru.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The Sikh religion is based on the belief that there are ten gurus who have brought humankind salvation. The final guru, Guru Gobind Singh, created the theology. Sikhism is largely pacifistic, but they had a close relationship with the Moguls until they were expelled in the 1800s.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>* Discusses the Sikh religion and its relationship to the Mughal Empire. It discusses the ninth guru, Guru Tegh Bahadur, who is said to have been split in the middle and brought back to life. He is then persecuted by the Mughals. Some Sikhs revere him as a martyr, while others view him as a loser for his involvement in military expeditions against the empire. This hostility towards Muslim communities is still alive in modern times.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('3900')">01:05:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:05:00</a>
 
  covers the basics of Sikhism, including their beliefs in scripture and reincarnation, as well as their practices of prayer and giving to the gurdwara. Mohammed Hijab finishes with a message to Sikhs to seek the truth and be liberated from its power.
 

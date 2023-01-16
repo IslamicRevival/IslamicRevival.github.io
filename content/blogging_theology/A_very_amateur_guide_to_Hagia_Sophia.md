@@ -11,7 +11,7 @@ Filmed in Turkey on Thursday 4th November. For more information about Hagia Soph
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
 Hagia Sophia is a mosque in Istanbul that was once a cathedral. The building is stunning, with beautiful columns and mosaics. The guide provides information about the different areas of the mosque and how it is used today.
 

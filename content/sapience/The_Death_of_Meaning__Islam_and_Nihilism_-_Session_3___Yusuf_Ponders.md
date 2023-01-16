@@ -25,7 +25,7 @@ The Death of Meaning: Islam and Nihilism - Session 3 | Yusuf Ponders
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 Yusuf Ponders discusses how nihilism can arise from a lack of meaning in life, and how this can lead to a pessimistic view of the world. He also discusses the implications of epistemological nihilism, and how it can undermine various moral values.
 
@@ -41,7 +41,7 @@ Yusuf Ponders discusses how nihilism can arise from a lack of meaning in life, a
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>* Discusses how when morals are undermined, people are less likely to believe in truths and knowledge, which in turn undermines other moral values.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Yusuf Ponders discusses the implications of epistemological nihilism on the way we view the world. He explains that while science cannot offer absolute truths, it can only appeal to the best explanation, and that when we come to believe in a concept such as revelation from God, or evolution, these beliefs cease to be problems.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Yusuf Ponders about how nihilism can arise from a lack of meaning in life, academia's approach to these subjects, and the average person's lack of time to think deeply about these subjects. He suggests that people looking for meaning might retreat into post-truth thinking.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
 In the third video of the Islam and Nihilism series, Yusuf Ponders discusses the individual and societal effects of nihilism. He argues that nihilism leads to a lack of meaning, which can manifest itself in increased levels of corruption and a fractured society.
 
@@ -57,7 +57,7 @@ In the third video of the Islam and Nihilism series, Yusuf Ponders discusses the
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** In this third installment of Yusuf Ponders' series on Islam and nihilism, the presenter explores the ways in which nihilism can manifest itself on an individual level, describing how one individual's experience of the absurd can deteriorate over time.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** Yusuf Ponders the ways in which meaninglessness can manifest itself in individuals and societies. He discusses the different forms of escapism that can lead to nihilism and suicide.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>** Yusuf Ponders discusses how nihilism and a lack of meaning can lead to increased levels of corruption and a fractured society. He also points out that the rise of Donald Trump can be partially attributed to the revolutionary and activist mentality that has arisen due to the lack of political overlap between parties.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('9900')">02:45:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:45:00</a>
 
 In the third session of the "Death of Meaning" series, Yusuf Ponders discusses arguments for the existence of God, existential nihilism, and epistemological nihilism. He recommends listening to podcasts by the Thoughts Adventure Podcast, which will be available on all major podcast platforms.
 

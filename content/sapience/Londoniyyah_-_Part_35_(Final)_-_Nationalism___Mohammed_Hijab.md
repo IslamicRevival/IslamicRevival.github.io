@@ -29,7 +29,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the concept of nationalism and its various applications. Mohammed Hijab, a Pakistani boxer, discusses how he gets more support from English fans than Ricky Hatton, the current British boxing champion. He also discusses the issue of borders and how they are often arbitrary and based on subjective preferences. Another topic discussed is the concept of being an Egyptian, which is not limited to speaking Arabic or having Egyptian heritage. Finally, the video discusses the idea of making a nation, and how it can be difficult when one does not look or feel like the majority of the population.
 
@@ -45,7 +45,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** argues that nationalism is not the best way to preserve language, culture, and other aspects of society, and that other methods are possible. He also points out that the assumption that a nation is the best protector of its citizens is often false, and that a nation can be defended better by being part of a larger, more powerful nation.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** The four arguments presented in this video are: nationalism, collective self determination, the right to self defense, and the argument from the right to self-determination. Each argument has its own issues, but overall, the video argues that all of these issues are important and that Muslims should support them. Muslims have a religious obligation to support nationalism, collective self determination, the right to self defense, and the argument from the right to self-determination, but secularists, atheists, and feminists have the same obligation to support these arguments.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** Essentially, this video argues that liberalism and nationalism are incompatible, especially when it comes to the value of human life. It goes on to say that America, as the dominant superpower, has replaced nationalism with a super nationalist program.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('5400')">01:30:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:30:00</a>
 
 In the final episode of the Londoniyyah series, Mohammed Hijab discusses the problems with nationalism and its effects on society. He also covers the Islamic stance on nationalism, concluding that it is not a necessary condition for success. This episode provides valuable information for students and viewers.
 

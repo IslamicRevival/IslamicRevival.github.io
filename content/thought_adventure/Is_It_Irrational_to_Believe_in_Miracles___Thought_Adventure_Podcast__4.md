@@ -72,7 +72,7 @@ Gmail: hello.tapodcast@gmail.com
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
 The Thought Adventure Podcast discusses whether or not belief in miracles is rational. The podcast argues that, while miracles may be beyond the natural world, they're not impossible and should not be looked down upon. The discussion then shifts to whether or not there is a logical contradiction between a law of nature and a miracle. In the end, it is agreed that there is not a contradiction, but that a miracle is simply a break in an observed regularity.
 
@@ -88,7 +88,7 @@ The Thought Adventure Podcast discusses whether or not belief in miracles is rat
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** The Thought Adventure Podcast discusses whether it is rational to believe in miracles. The host argues that, depending on the claim being made, a single, testable prediction can be evidence of the individual's claim being true. In the case of belief in a god, multiple predictions may be needed in order to build a case that the individual is actually from god.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>** Jake and Carlos discuss the three issues that need to be addressed in order to determine whether or not a miracle could happen. Jake reiterates that anything is possible, and Carlos agrees. Carlos then asks Jake a question about whether or not a miracle is logically possible, and Jake responds that it is.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>**  the Thought Adventure Podcast discusses the first and second steps of the rational belief in miracles argument. The first step is that there is no logical problem affirming that a religion or claim to guidance from god is irrational. The second step is that when we look at this question about whether or not there is an in principle problem of identifying miracles, presupposes that we believe in a creator and that there are regularities within the universe. For atheists, this proves that there is no reason to believe in a religion or a claim to guidance from god.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('7200')">02:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-02:00:00</a>
 
  discusses the philosophical argument between those who believe that miracles are possible and those who believe that they are not. The former group argues that because the laws of nature are contingent, miracles are also possible. The latter group argues that because miracles would contradict the laws of nature, they are not possible.  concludes with a discussion of the Qur'an as a miracle.
 
@@ -104,7 +104,7 @@ The Thought Adventure Podcast discusses whether or not belief in miracles is rat
 * **<a onclick="modifyYTiframeseektime('6300')">01:45:00</a>** asks Carlos if it is rational to believe in miracles, and Carlos replies that it depends on what is meant by "reality." If reality is what we experience, then it is explainable. If, however, reality is the fundamental cause of everything, then it is un explainable. then asks what the difference is, and Carlos says that experience is what differentiates our views.
 * **<a onclick="modifyYTiframeseektime('6600')">01:50:00</a>** While trying to answer the question of whether or not there is a mind or soul outside of a physical brain, Justin argues that it is logically impossible to know for certain. He also argues that, even if such a thing did exist, it would only be an intelligence at a level beyond our own.
 * **<a onclick="modifyYTiframeseektime('6900')">01:55:00</a>* Discusses the philosophical argument between physicalists and those who believe in souls or minds in other humans. The physicalist argues that only things with brains can have minds, while the believer in souls or minds in other humans believes that the mind is an eternal, necessary aspect of existence. The physicalist argues that because the mind is a product of thinking, it does not need to be seen to exist. The believer in souls or minds in other humans argues that because all Allah is all-knowing and eternal, he must have a mind, and therefore, humans do as well.
-### <a onclick="modifyYTiframeseektime('7200')">02:00:00</a> - <a onclick="modifyYTiframeseektime('9600')">02:40:00</a>
+### <a onclick="modifyYTiframeseektime('7200')">02:00:00-02:40:00</a>
 
 The Thought Adventure Podcast discusses the idea of miracles and how to approach them logically. They point out that there is more nuance to the subject than simply rejecting all miracles. They also discuss the idea of rationality and whether or not it can be grounded in naturalism.
 

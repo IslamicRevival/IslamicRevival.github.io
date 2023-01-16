@@ -23,7 +23,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('600')">00:10:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
 
  Joe Rogan discusses how he has changed his mind about Islam and believes that it can have positive effects on Muslims. He argues that the purpose of life is to worship God, and that this is the most straightforward way to achieve happiness. Rogan also warns people against chasing illusions and advises them to focus on meeting God's purpose.
 

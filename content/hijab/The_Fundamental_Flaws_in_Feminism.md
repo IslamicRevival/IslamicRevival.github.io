@@ -11,7 +11,7 @@ This talk is an attempt at identifying some of the issues regarding 2nd wave fem
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1500')">00:25:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:25:00</a>
 
  discusses the fundamental flaws in feminism, including the fact that it disregards the power of mothers and the differences between men and women. It argues that this leads to unequal rights and treatment between men and women, and that the movement needs to focus on rectifying these issues before discussing further equality.
 

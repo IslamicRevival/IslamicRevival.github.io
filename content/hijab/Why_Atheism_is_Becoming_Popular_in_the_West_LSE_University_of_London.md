@@ -11,7 +11,7 @@ A brief sociological/historical break down as to why atheism is becoming popular
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1200')">00:20:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:20:00</a>
 
 Atheism is becoming more popular in the West, due to the weaknesses of the Christian tradition in the area of science and medicine, and the rise of monotheistic religions such as Islam.  discusses how atheism is becoming more popular in the West, and points out that this is due to the fact that the Roman Empire was the Empire of the day and was able to spread its message to all those people. It also mentions that Christianity is a historical development and that Islam was spread differently.  discusses how atheism is becoming more popular in the West, primarily because there is no need for a deity to explain natural phenomena like mathematics or the universe.
 

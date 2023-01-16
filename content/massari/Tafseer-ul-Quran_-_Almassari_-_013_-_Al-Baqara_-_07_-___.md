@@ -14,7 +14,7 @@ Description of the address of disbelievers
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
  discusses the different ways that the Arabic word "kafir" can be translated, and explains how the word has come to refer to anyone who does not adhere to Islamic teachings. It also discusses the issue of whether or not someone who does not accept Muhammad as a prophet is a kafir, or an apostate.
 
@@ -30,7 +30,7 @@ Description of the address of disbelievers
 * **<a onclick="modifyYTiframeseektime('2700')">00:45:00</a>** discusses how, if a choice has already been made by God, it cannot be changed by humans. He goes on to say that, because of this, the quraishi (those who followed Muhammad) are not able to repent of their sin of following Muhammad instead, they will go to hellfire.
 * **<a onclick="modifyYTiframeseektime('3000')">00:50:00</a>* Discusses a Hadith in which the Prophet Muhammad said that all people will be divided into two groups: those who will be saved by repentance and those who will be saved by faith. It also discusses the idea that some people may be saved by immediate action, while others may be saved in a more indirect way.
 * **<a onclick="modifyYTiframeseektime('3300')">00:55:00</a>** discusses a number of reports on the life of Abu Sufyan, including one in which he was killed by a friend while watching the Battle of Yarmouk. He notes that the most accurate narration of Abu Sufyan's life is that of Abdullah ibn Zubair, who notes that despite his faults, he was a good leader and sahabi. He also says that it is clear that Abu Sufyan never embraced faith, and that this is a secondary issue.
-### <a onclick="modifyYTiframeseektime('3600')">01:00:00</a> - <a onclick="modifyYTiframeseektime('5100')">01:25:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">01:00:00-01:25:00</a>
 
  discusses the different types of disbelievers and how to deal with them, according to the Quran. also warns against asking Muslims questions about their beliefs, as this can lead to dangerous misunderstandings. Finally, the video recommends focusing on the overall meaning of the Quran, rather than getting caught up in the details.
 

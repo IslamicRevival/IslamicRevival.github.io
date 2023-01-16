@@ -16,7 +16,7 @@ https://www.youtube.com/c/scdawahchannel
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('1200')">00:20:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:20:00</a>
 
 The "Ultra-Skeptic Atheist" is confronted with the question of where the universe came from and is unable to provide a satisfactory answer.  suggests that skeptics should apply the same reasoning to questions of life and afterlife as they do to questions of health and safety.
 

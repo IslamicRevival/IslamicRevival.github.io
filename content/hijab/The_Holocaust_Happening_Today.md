@@ -13,7 +13,7 @@ Charity link 2: www.justgiving.com/ Burmafood
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('900')">00:15:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:15:00</a>
 
  discusses the media's coverage of the Holocaust and how the Western world initially responded to it without being fully aware of what was happening. Jackson argues that, had public opinion been aroused from the beginning, the Holocaust may have been prevented.
 

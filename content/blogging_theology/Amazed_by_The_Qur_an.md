@@ -15,7 +15,7 @@ https://www.paypal.com/paypalme/bloggingtheology?locale.x=en_GB
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00</a> - <a onclick="modifyYTiframeseektime('300')">00:05:00</a>
+### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:05:00</a>
 
  "Amazed by The Qur'an" presents the author's renewed amazement at the Quran, a holy book written by the prophet Muhammad. points out that, despite being criticized by God himself, the prophet delivered the revelations in all honesty. This speaks to his nobility and beauty as a way of reproaching those who deny the resurrection and last day.
 
