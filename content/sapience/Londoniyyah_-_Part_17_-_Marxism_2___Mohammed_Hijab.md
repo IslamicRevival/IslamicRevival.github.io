@@ -1,6 +1,6 @@
 # Londoniyyah - Part 17 - Marxism/2 | Mohammed Hijab (2022-02-22)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/AL6YzHBiJ0A'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/AL6YzHBiJ0A'></iframe>
 
 ## Description
 

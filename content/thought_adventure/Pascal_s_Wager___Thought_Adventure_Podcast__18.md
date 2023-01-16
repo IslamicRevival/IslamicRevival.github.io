@@ -1,6 +1,6 @@
 # Pascal's Wager | Thought Adventure Podcast #18 (2021-10-24)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/HkCKH5PRb1Y'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/HkCKH5PRb1Y'></iframe>
 
 ## Description
 

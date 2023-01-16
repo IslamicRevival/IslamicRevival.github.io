@@ -1,6 +1,6 @@
 # Live Academic Seminar: Christianity & The Doctrine of The Trinity (2021-06-25)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/7U8ldw1Ha9U'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/7U8ldw1Ha9U'></iframe>
 
 ## Description
 

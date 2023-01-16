@@ -1,6 +1,6 @@
 # Londoniyyah - Part 30 - The Protected Book | Mohammed Hijab (2022-04-25)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/Sd0AgICznTc'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/Sd0AgICznTc'></iframe>
 
 ## Description
 

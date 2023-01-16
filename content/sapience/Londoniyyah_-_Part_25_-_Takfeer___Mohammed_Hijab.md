@@ -1,6 +1,6 @@
 # Londoniyyah - Part 25 - Takfeer | Mohammed Hijab (2022-04-12)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/ny2l7NACRGs'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/ny2l7NACRGs'></iframe>
 
 ## Description
 

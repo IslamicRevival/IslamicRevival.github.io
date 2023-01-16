@@ -1,6 +1,6 @@
 # SPECIAL: How free is Free Speech? with@AbdullahalAndalusiand Dr. Abdul Wahid (2022-08-14)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/x9n_t9Q2xqo'></iframe>## Description
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/x9n_t9Q2xqo'></iframe>## Description
 
 After the attack against #SalmanRushdie we look at the question whether #Muslims are simply too sensitive over insults against their religion or whether all societies have sacred values they seek to preserve? We further examine whether this idea of #FreeSpeech is a workable idea that is befitting for a healthy cohesive society.
 

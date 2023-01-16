@@ -1,6 +1,6 @@
 # The History of Al Saud and the Wahabi Movement (2022-05-18)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/6E9dWGt9qIQ'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/6E9dWGt9qIQ'></iframe>
 
 ## Description
 

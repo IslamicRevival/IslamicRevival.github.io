@@ -1,6 +1,6 @@
 # Tafseer-ul-Quran - Almassari - 014 - Al-Baqara - 08 - تفسير سورة البقرة (2021-04-20)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/j5unWL0_bx4'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/j5unWL0_bx4'></iframe>
 
 ## Description
 

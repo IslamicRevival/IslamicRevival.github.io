@@ -1,6 +1,6 @@
 # Compelling Evidence for the Prophethood of Muhammad (SAW) (2020-01-14)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/CJlZgFBIw5Y'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/CJlZgFBIw5Y'></iframe>
 
 ## Description
 

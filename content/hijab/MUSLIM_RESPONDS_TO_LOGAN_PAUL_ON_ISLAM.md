@@ -1,6 +1,6 @@
 # MUSLIM RESPONDS TO LOGAN PAUL ON ISLAM (2020-07-12)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/W7CdWzs8Lfg'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/W7CdWzs8Lfg'></iframe>
 
 ## Description
 

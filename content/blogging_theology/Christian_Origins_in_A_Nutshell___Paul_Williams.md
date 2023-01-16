@@ -1,6 +1,6 @@
 # Christian Origins in A Nutshell | Paul Williams (2021-09-13)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/QCl5DL_wf3w'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/QCl5DL_wf3w'></iframe>
 
 ## Description
 

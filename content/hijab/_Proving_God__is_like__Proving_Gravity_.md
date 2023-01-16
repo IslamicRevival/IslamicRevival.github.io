@@ -1,6 +1,6 @@
 # "Proving God" is like "Proving Gravity" (2018-06-18)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/Nbv9u4RAKBI'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/Nbv9u4RAKBI'></iframe>
 
 ## Description
 

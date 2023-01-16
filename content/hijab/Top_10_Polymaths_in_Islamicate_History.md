@@ -1,6 +1,6 @@
 # Top 10 Polymaths in Islamicate History (2020-03-30)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/l6jwMzE5XaI'></iframe>## Description
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/l6jwMzE5XaI'></iframe>## Description
 
 My book Kalam cosmological arguments can be found here - https://www.amazon.co.uk/Kalam-Cosmological-Arguments-Mohammed-Hijab-ebook/dp/B07RHWJ686
 

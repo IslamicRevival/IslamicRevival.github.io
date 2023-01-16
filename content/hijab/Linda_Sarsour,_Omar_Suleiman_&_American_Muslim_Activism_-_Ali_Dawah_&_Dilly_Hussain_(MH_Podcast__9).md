@@ -1,6 +1,6 @@
 # Linda Sarsour, Omar Suleiman & American Muslim Activism - Ali Dawah & Dilly Hussain (MH Podcast #9) (2020-09-26)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/JF7ym1dUwGA'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/JF7ym1dUwGA'></iframe>
 
 ## Description
 

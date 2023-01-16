@@ -1,6 +1,6 @@
 # Umm Khalid: "Women have been lied to" (2021-12-16)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/2nENnMKESOA'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/2nENnMKESOA'></iframe>
 
 ## Description
 

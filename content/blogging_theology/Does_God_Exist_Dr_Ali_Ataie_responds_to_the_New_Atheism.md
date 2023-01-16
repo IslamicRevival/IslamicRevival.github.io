@@ -1,6 +1,6 @@
 # Does God Exist? Dr Ali Ataie responds to the New Atheism (2022-08-22)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/If3cNUixEBM'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/If3cNUixEBM'></iframe>
 
 ## Description
 

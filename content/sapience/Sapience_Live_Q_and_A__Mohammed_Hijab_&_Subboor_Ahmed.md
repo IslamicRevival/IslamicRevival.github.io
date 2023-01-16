@@ -1,6 +1,6 @@
 # Sapience Live Q and A: Mohammed Hijab & Subboor Ahmed (2021-07-24)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/aliu6yertgo'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/aliu6yertgo'></iframe>
 
 ## Description
 

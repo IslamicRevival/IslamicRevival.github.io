@@ -1,6 +1,6 @@
 # Importance of Belief | The Evidence Course | Session 1 / Part 1 (2021-06-09)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/hQMnjy65mGo'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/hQMnjy65mGo'></iframe>
 
 ## Description
 

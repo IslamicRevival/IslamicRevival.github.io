@@ -1,6 +1,6 @@
 # AMAZING! Revd Professor Keith Ward on Muhammad as a Prophet of God (2021-05-02)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/FkeoGRT_ATE'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/FkeoGRT_ATE'></iframe>
 
 ## Description
 

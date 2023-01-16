@@ -1,6 +1,6 @@
 # How the world's leading atheist changed his mind about God (2021-02-13)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/Gc-3QVEkfbM'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/Gc-3QVEkfbM'></iframe>
 
 ## Description
 

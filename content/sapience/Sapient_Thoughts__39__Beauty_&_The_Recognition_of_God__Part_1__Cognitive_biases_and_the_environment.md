@@ -1,6 +1,6 @@
 # Sapient Thoughts #39: Beauty & The Recognition of God — Part 1: Cognitive biases and the environment (2021-08-12)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/L8_pBqY_yyg'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/L8_pBqY_yyg'></iframe>
 
 ## Description
 

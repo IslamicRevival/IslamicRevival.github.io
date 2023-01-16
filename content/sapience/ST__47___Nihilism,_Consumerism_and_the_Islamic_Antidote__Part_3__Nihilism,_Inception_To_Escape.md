@@ -1,6 +1,6 @@
 # ST #47:  Nihilism, Consumerism and the Islamic Antidote — Part 3: Nihilism, Inception To Escape (2021-12-22)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/iyDGNu1-lcU'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/iyDGNu1-lcU'></iframe>
 
 ## Description
 

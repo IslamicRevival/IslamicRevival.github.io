@@ -1,6 +1,6 @@
 # Reality Is Reality!? | Podcast Highlight (2021-03-09)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/KRuUq0dCrmA'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/KRuUq0dCrmA'></iframe>
 
 ## Description
 

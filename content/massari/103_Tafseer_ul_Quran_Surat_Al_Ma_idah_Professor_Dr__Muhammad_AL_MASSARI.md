@@ -1,6 +1,6 @@
 # 103 Tafseer ul Quran Surat Al Ma'idah Professor Dr  Muhammad AL MASSARI (2022-08-05)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/puRj1fxnoKU'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/puRj1fxnoKU'></iframe>
 
 ## Description
 

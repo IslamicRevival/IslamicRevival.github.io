@@ -1,6 +1,6 @@
 # Apostasy Punishment in a Liberal State? (2019-01-28)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/PnRGigvmVL8'></iframe>## Description
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/PnRGigvmVL8'></iframe>## Description
 
 This is a spin on the usual question posed to Muslim traditionalists of what the punishment of apostasy is in an Islamic state. The question under investigation in this video is the extent to which social contract models (in liberal states) could allow punitive punishment for 'anti-state' expressions in a public domain. 
 

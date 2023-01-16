@@ -1,6 +1,6 @@
 # Tafseer-ul-Quran - Almassari - 006 - Al Fātiha - 04 (2020-08-22)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/kKgCSar1_So'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/kKgCSar1_So'></iframe>
 
 ## Description
 

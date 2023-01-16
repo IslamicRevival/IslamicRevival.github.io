@@ -1,6 +1,6 @@
 # Fitrah | A Qur'anic Keyword | Paul Williams (2021-09-16)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/ae51YI1XJ20'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/ae51YI1XJ20'></iframe>
 
 ## Description
 

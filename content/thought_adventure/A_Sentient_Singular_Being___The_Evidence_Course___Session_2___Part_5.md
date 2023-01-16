@@ -1,6 +1,6 @@
 # A Sentient Singular Being | The Evidence Course | Session 2 / Part 5 (2021-08-04)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/pNtzuXqS6Zs'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/pNtzuXqS6Zs'></iframe>
 
 ## Description
 

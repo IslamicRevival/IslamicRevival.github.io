@@ -1,6 +1,6 @@
 # 2 Shocking Facts about "Israel" (2021-05-15)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/-nrAOd8uj_I'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/-nrAOd8uj_I'></iframe>
 
 ## Description
 

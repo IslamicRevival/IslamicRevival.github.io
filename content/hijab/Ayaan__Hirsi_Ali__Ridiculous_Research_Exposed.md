@@ -1,6 +1,6 @@
 # Ayaan 'Hirsi Ali' Ridiculous Research Exposed (2022-03-04)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/LpHAK_-2YFs'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/LpHAK_-2YFs'></iframe>
 
 ## Description
 

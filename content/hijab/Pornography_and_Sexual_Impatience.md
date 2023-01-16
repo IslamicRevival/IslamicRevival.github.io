@@ -1,6 +1,6 @@
 # Pornography and Sexual Impatience (2017-12-01)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/MTPwUrTQ-8M'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/MTPwUrTQ-8M'></iframe>
 
 ## Description
 

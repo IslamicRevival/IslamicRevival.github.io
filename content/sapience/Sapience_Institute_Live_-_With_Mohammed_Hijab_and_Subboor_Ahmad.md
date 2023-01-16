@@ -1,6 +1,6 @@
 # Sapience Institute Live - With Mohammed Hijab and Subboor Ahmad (2021-02-06)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/hYLRm-PE4sA'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/hYLRm-PE4sA'></iframe>
 
 ## Description
 

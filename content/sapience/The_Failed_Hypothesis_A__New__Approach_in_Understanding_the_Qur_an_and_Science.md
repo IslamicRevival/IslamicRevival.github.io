@@ -1,6 +1,6 @@
 # The Failed Hypothesis? A 'New' Approach in Understanding the Qur'an and Science (2017-09-18)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/ox_O3QFUc_A'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/ox_O3QFUc_A'></iframe>
 
 ## Description
 

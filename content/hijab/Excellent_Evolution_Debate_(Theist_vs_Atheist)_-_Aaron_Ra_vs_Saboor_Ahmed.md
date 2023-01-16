@@ -1,6 +1,6 @@
 # Excellent Evolution Debate (Theist vs Atheist) - Aaron Ra vs Saboor Ahmed (2017-08-12)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/8F83ZZ4ZDyY'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/8F83ZZ4ZDyY'></iframe>
 
 ## Description
 

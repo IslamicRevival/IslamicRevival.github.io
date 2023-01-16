@@ -1,6 +1,6 @@
 # SPECIAL: How Philosophy Helped to Overcome His Doubts (2022-07-10)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/B0MK51Tbih8'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/B0MK51Tbih8'></iframe>
 
 ## Description
 

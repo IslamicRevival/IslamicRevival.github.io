@@ -1,6 +1,6 @@
 # The Death of Meaning: Islam and Nihilism - Session 3 | Yusuf Ponders (2021-04-08)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/yyJtXxe1yt8'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/yyJtXxe1yt8'></iframe>
 
 ## Description
 

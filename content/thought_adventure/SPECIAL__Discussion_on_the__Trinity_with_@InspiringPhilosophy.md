@@ -1,6 +1,6 @@
 # SPECIAL: Discussion on the #Trinity with @InspiringPhilosophy (2022-05-21)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/hasgbxDiC24'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/hasgbxDiC24'></iframe>
 
 ## Description
 

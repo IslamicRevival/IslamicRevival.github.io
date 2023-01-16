@@ -1,6 +1,6 @@
 # Where are you going? How to develop your vision for campus & how to make it happen (2020-11-30)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/2kBG40htWcM'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/2kBG40htWcM'></iframe>
 
 ## Description
 

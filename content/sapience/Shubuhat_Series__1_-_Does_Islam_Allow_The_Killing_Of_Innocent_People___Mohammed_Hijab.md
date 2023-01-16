@@ -1,6 +1,6 @@
 # Shubuhat Series #1 - Does Islam Allow The Killing Of Innocent People? | Mohammed Hijab (2022-05-24)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/5QlZj-4rt6o'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/5QlZj-4rt6o'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Imam Al Mahdi (AS) - Professor Al Massari Part 3 of 13 (2014-03-29)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/cXoDEF5zBqY'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/cXoDEF5zBqY'></iframe>
 
 ## Description
 

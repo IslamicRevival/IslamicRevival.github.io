@@ -1,6 +1,6 @@
 # 102 - Tafseer ul Quran: Surat An Nisa with Professor Dr  Muhammad AL MASSARI (2022-08-05)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/4-olgD8JezQ'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/4-olgD8JezQ'></iframe>
 
 ## Description
 

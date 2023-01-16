@@ -1,6 +1,6 @@
 # Dr Muhammad Al-Massari: The Christian doctrine of the Trinity (2021-11-28)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/JYzWuiGNIOo'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/JYzWuiGNIOo'></iframe>
 
 ## Description
 

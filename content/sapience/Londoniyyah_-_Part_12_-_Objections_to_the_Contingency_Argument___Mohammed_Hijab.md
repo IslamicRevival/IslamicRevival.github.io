@@ -1,6 +1,6 @@
 # Londoniyyah - Part 12 - Objections to the Contingency Argument | Mohammed Hijab (2022-01-04)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/HKEYocPz0e8'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/HKEYocPz0e8'></iframe>
 
 ## Description
 

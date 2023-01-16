@@ -1,6 +1,6 @@
 # William Lane Craig's Bible Dilemma Worries Christians (2021-06-21)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/d3uKsG31xWI'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/d3uKsG31xWI'></iframe>
 
 ## Description
 

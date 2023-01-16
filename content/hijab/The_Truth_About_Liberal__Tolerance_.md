@@ -1,6 +1,6 @@
 # The Truth About Liberal 'Tolerance' (2019-02-05)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/3cc8SyDc3WI'></iframe>## Description
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/3cc8SyDc3WI'></iframe>## Description
 
 This is a short video on the truth of liberal accommodation for universalised 'intolerance' which directly oppose individual rights. This information leads us to some shocking comparisons between the compatibility of liberalism with an Islamic governance.
 

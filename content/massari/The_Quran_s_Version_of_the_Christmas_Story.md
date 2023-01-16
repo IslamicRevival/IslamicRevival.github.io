@@ -1,6 +1,6 @@
 # The Quran's Version of the Christmas Story (2022-01-27)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/wCE9lDGIxRs'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/wCE9lDGIxRs'></iframe>
 
 ## Description
 

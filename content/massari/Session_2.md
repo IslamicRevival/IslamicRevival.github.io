@@ -1,6 +1,6 @@
 # Session 2 (2021-01-21)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/jlEz0o3gosQ'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/jlEz0o3gosQ'></iframe>
 
 ## Description
 

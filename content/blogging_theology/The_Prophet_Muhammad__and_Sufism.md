@@ -1,6 +1,6 @@
 # The Prophet Muhammad ﷺ and Sufism (2022-02-23)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/yHQfbRii2pI'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/yHQfbRii2pI'></iframe>
 
 ## Description
 

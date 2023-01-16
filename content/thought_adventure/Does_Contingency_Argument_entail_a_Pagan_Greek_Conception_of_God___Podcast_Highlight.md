@@ -1,6 +1,6 @@
 # Does Contingency Argument entail a Pagan Greek Conception of God? | Podcast Highlight (2022-04-19)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/fVsoifMP0fQ'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/fVsoifMP0fQ'></iframe>
 
 ## Description
 

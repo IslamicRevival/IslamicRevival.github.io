@@ -1,6 +1,6 @@
 # Douglas Murray Flees Challenge (2021-11-18)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/QK2p2GdD7cs'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/QK2p2GdD7cs'></iframe>
 
 ## Description
 

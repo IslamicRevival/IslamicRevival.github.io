@@ -1,6 +1,6 @@
 # The Review: TJump's Failed Challenge | Thought Adventure Podcast (2021-09-26)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/ct2-Raq_4K0'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/ct2-Raq_4K0'></iframe>
 
 ## Description
 

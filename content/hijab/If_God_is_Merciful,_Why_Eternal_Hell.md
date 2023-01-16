@@ -1,6 +1,6 @@
 # If God is Merciful, Why Eternal Hell? (2019-04-18)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/8pYwCzTTiG4'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/8pYwCzTTiG4'></iframe>
 
 ## Description
 

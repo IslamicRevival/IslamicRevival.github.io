@@ -1,6 +1,6 @@
 # The Story Of "Londoniyyah" | Mohammed Hijab (2022-04-30)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/RwgCDLQ828g'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/RwgCDLQ828g'></iframe>
 
 ## Description
 

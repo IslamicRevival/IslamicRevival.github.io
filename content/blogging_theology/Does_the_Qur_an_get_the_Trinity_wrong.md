@@ -1,6 +1,6 @@
 # Does the Qur'an get the Trinity wrong? (2021-08-01)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/qxUiBgt5eG0'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/qxUiBgt5eG0'></iframe>
 
 ## Description
 

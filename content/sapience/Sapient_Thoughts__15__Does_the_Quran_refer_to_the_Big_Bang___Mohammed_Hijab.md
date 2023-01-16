@@ -1,6 +1,6 @@
 # Sapient Thoughts #15: Does the Quran refer to the “Big Bang”? | Mohammed Hijab (2021-02-01)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/FPZ57LCYLqQ'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/FPZ57LCYLqQ'></iframe>
 
 ## Description
 

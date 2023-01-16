@@ -1,6 +1,6 @@
 # Christchurch: Ending the Muslim Terrorist Narrative (2019-03-21)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/irdHM1pDfLI'></iframe>## Description
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/irdHM1pDfLI'></iframe>## Description
 
 This video exposes the humiliating double standards of right wing propagators. This is an open invitation to right wing influencers on key issues we believe they misrepresent including Islam's supposed indispensable link with terrorism or Islam and Human Rights.
 

@@ -1,6 +1,6 @@
 # Londoniyyah - Part 2 -  Naturalism, Materialism | Mohammed Hijab (2021-10-06)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/leoNNkpoYPg'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/leoNNkpoYPg'></iframe>
 
 ## Description
 

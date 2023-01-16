@@ -1,6 +1,6 @@
 # Comparing Mosque and Church in the UK | Paul Williams (2021-09-28)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/vd8uAbkTWyY'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/vd8uAbkTWyY'></iframe>
 
 ## Description
 

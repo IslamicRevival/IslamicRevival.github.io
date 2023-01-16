@@ -1,6 +1,6 @@
 # Q&A Ep 2: Memes, Ex-Muslims & Somali food (2020-07-24)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/UbB9UeI47uk'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/UbB9UeI47uk'></iframe>
 
 ## Description
 

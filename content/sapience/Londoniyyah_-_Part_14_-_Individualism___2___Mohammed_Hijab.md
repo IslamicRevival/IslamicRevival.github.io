@@ -1,6 +1,6 @@
 # Londoniyyah - Part 14 - Individualism / 2 | Mohammed Hijab (2022-01-21)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/VI2pCsMoEfw'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/VI2pCsMoEfw'></iframe>
 
 ## Description
 

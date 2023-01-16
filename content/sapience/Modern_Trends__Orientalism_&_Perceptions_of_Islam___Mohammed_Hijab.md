@@ -1,6 +1,6 @@
 # Modern Trends: Orientalism & Perceptions of Islam | Mohammed Hijab (2022-12-08)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/rRaNmHmJ0CY'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/rRaNmHmJ0CY'></iframe>
 
 ## Description
 

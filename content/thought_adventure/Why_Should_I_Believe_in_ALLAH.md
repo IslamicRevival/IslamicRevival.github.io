@@ -1,6 +1,6 @@
 # Why Should I Believe in ALLAH? (2022-08-04)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/jdS2lYUATtQ'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/jdS2lYUATtQ'></iframe>
 
 ## Description
 

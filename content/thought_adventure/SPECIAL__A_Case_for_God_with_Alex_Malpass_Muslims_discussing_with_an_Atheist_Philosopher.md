@@ -1,6 +1,6 @@
 # SPECIAL: A Case for God with Alex Malpass Muslims discussing with an Atheist Philosopher (2021-11-17)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/71_dZrMWgVQ'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/71_dZrMWgVQ'></iframe>
 
 ## Description
 

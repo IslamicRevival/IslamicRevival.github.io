@@ -1,6 +1,6 @@
 # The Problem of Evil feat. Saf Chowdhury | Thought Adventure Podcast #13 (2021-08-01)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/y_2rsDsiUeU'></iframe>## Description
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/y_2rsDsiUeU'></iframe>## Description
 
 The problem of evil is one of the most popular arguments many atheists use against theists. The argument attempts to show that the existence of God is logically impossible due to the existence of evil in the world. 
 

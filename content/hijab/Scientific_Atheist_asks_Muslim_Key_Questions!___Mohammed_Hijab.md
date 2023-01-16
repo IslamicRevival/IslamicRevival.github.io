@@ -1,6 +1,6 @@
 # Scientific Atheist asks Muslim Key Questions!|| Mohammed Hijab (2016-12-13)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/cZw4ur_zzRU'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/cZw4ur_zzRU'></iframe>
 
 ## Description
 

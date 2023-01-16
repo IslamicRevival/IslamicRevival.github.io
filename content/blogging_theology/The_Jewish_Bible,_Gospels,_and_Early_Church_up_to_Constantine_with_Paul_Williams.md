@@ -1,6 +1,6 @@
 # The Jewish Bible, Gospels, and Early Church up to Constantine with Paul Williams (2022-08-05)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/wLLtdScZnzs'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/wLLtdScZnzs'></iframe>
 
 ## Description
 

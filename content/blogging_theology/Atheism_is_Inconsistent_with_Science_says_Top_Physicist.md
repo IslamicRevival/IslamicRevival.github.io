@@ -1,6 +1,6 @@
 # Atheism is Inconsistent with Science says Top Physicist (2021-10-29)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/iCcA-kuASDQ'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/iCcA-kuASDQ'></iframe>
 
 ## Description
 

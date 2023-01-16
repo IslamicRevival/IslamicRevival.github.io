@@ -1,6 +1,6 @@
 # Need for Messengers - Argument from Fitrah | The Evidence Course | Session 4 / Part 1 (2021-09-15)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/z2m7jsH3_Mw'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/z2m7jsH3_Mw'></iframe>
 
 ## Description
 

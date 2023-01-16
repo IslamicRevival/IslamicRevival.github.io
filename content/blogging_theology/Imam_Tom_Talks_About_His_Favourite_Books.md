@@ -1,6 +1,6 @@
 # Imam Tom Talks About His Favourite Books (2022-06-12)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/37TWdUVKYFc'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/37TWdUVKYFc'></iframe>
 
 ## Description
 

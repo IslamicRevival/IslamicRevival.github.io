@@ -1,6 +1,6 @@
 # Salvation In Islam vs Christianity | Thought Adventure Podcast #19 (2021-11-08)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/g5xh3ZqT8-o'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/g5xh3ZqT8-o'></iframe>
 
 ## Description
 

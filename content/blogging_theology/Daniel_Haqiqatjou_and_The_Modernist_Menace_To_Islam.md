@@ -1,6 +1,6 @@
 # Daniel Haqiqatjou and The Modernist Menace To Islam (2021-12-24)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/mZAZktv6HWM'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/mZAZktv6HWM'></iframe>
 
 ## Description
 

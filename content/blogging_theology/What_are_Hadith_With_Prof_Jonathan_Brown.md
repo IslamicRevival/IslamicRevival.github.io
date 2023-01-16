@@ -1,6 +1,6 @@
 # What are Hadith? With Prof Jonathan Brown (2022-02-18)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/KOsc-uI9Lro'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/KOsc-uI9Lro'></iframe>
 
 ## Description
 

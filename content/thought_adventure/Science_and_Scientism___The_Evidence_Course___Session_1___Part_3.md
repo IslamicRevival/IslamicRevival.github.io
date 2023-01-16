@@ -1,6 +1,6 @@
 # Science and Scientism | The Evidence Course | Session 1 / Part 3 (2021-06-23)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/twjPt1cOHKE'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/twjPt1cOHKE'></iframe>
 
 ## Description
 

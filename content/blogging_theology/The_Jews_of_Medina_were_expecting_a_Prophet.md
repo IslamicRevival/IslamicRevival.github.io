@@ -1,6 +1,6 @@
 # The Jews of Medina were expecting a Prophet (2022-04-15)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/Z4pm2fSYhCI'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/Z4pm2fSYhCI'></iframe>
 
 ## Description
 

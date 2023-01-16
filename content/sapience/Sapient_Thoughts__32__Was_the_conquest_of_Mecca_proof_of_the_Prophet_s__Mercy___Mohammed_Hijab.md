@@ -1,6 +1,6 @@
 # Sapient Thoughts #32: Was the conquest of Mecca proof of the Prophet's ﷺ Mercy? | Mohammed Hijab (2021-06-18)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/T8NPXjP99kY'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/T8NPXjP99kY'></iframe>
 
 ## Description
 

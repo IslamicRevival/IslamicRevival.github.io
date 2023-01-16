@@ -1,6 +1,6 @@
 # Seminar: How (Un)Free is Speech? With Hamza Andreas Tzortzis (2022-05-08)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/V3ziPGToIbc'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/V3ziPGToIbc'></iframe>
 
 ## Description
 

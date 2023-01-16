@@ -1,6 +1,6 @@
 # The Last Twelve Verses of the Gospel of Mark (2021-01-04)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/vAX__ok05JU'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/vAX__ok05JU'></iframe>
 
 ## Description
 

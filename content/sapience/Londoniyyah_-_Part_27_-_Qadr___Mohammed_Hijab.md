@@ -1,6 +1,6 @@
 # Londoniyyah - Part 27 - Qadr | Mohammed Hijab (2022-04-15)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/UrSuNcmxXLg'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/UrSuNcmxXLg'></iframe>
 
 ## Description
 

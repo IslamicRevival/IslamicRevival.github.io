@@ -1,6 +1,6 @@
 # Muhammad Ibn Abdul Wahab Hero or Heretic? (2022-11-29)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/cRawmTCJeh0'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/cRawmTCJeh0'></iframe>
 
 ## Description
 

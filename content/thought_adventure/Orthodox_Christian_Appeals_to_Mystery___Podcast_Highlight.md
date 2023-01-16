@@ -1,6 +1,6 @@
 # Orthodox Christian Appeals to Mystery | Podcast Highlight (2021-02-16)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/CiU2GN49UO0'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/CiU2GN49UO0'></iframe>
 
 ## Description
 

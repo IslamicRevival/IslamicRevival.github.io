@@ -1,6 +1,6 @@
 # The Extraordinary Cambridge Central Mosque (2021-10-11)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/CyOcGExNclY'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/CyOcGExNclY'></iframe>
 
 ## Description
 

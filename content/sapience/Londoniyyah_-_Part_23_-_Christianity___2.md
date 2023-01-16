@@ -1,6 +1,6 @@
 # Londoniyyah - Part 23 - Christianity / 2 (2022-04-07)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/BHBPSIhQ1-w'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/BHBPSIhQ1-w'></iframe>
 
 ## Description
 

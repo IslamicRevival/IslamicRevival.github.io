@@ -1,6 +1,6 @@
 # Londoniyyah - Part 28 - Bid'ah and Tabdee' | Mohammed Hijab (2022-04-18)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/MEsRBf334G8'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/MEsRBf334G8'></iframe>
 
 ## Description
 

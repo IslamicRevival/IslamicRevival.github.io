@@ -1,6 +1,6 @@
 # A Surprising Fact about the Christian Bible (2022-02-17)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/rQIgCtMcoEo'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/rQIgCtMcoEo'></iframe>
 
 ## Description
 

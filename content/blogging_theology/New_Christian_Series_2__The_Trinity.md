@@ -1,6 +1,6 @@
 # New Christian Series 2: The Trinity (2021-11-29)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/DZ5aLzm6tMw'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/DZ5aLzm6tMw'></iframe>
 
 ## Description
 

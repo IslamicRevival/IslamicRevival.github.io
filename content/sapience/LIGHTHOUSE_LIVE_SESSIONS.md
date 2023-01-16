@@ -1,6 +1,6 @@
 # LIGHTHOUSE LIVE SESSIONS (2022-10-14)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/r9bibL-z1Fo'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/r9bibL-z1Fo'></iframe>
 
 ## Description
 

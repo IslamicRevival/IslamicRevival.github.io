@@ -1,6 +1,6 @@
 # The Life of Muhammad ﷺ Chapter 10: Bahira the Monk (2022-02-05)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/InxNDE8FCUM'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/InxNDE8FCUM'></iframe>
 
 ## Description
 

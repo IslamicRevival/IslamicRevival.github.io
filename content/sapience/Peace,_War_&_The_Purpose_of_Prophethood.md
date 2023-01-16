@@ -1,6 +1,6 @@
 # Peace, War & The Purpose of Prophethood (2020-11-28)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/p6I4wCuq0OA'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/p6I4wCuq0OA'></iframe>
 
 ## Description
 

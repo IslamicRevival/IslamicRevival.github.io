@@ -1,6 +1,6 @@
 # The Fundamental Flaws in Feminism (2017-08-29)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/IKhIeCF1kPY'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/IKhIeCF1kPY'></iframe>
 
 ## Description
 

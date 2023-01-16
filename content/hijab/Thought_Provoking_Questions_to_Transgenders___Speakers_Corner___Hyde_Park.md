@@ -1,6 +1,6 @@
 # Thought Provoking Questions to Transgenders | Speakers Corner | Hyde Park (2017-12-18)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/is61wp1w7-w'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/is61wp1w7-w'></iframe>
 
 ## Description
 

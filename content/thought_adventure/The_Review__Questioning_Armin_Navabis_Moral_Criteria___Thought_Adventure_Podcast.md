@@ -1,6 +1,6 @@
 # The Review: Questioning Armin Navabi’s Moral Criteria | Thought Adventure Podcast (2021-10-01)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/h1TJdQ4kkGE'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/h1TJdQ4kkGE'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Noam Chomsky on CoronaVirus, Social Media and Social Harmony (MH Podcast #1) (2020-04-21)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/MHhgCFJWgM0'></iframe>## Description
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/MHhgCFJWgM0'></iframe>## Description
 
 For a 10% discount on premium black seed products use Hijab10 discount code. 
 

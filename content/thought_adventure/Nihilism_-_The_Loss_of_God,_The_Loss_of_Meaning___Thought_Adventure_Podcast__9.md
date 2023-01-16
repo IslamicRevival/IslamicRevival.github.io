@@ -1,6 +1,6 @@
 # Nihilism - The Loss of God, The Loss of Meaning? | Thought Adventure Podcast #9 (2021-05-30)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/bdE6cyUtcOI'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/bdE6cyUtcOI'></iframe>
 
 ## Description
 

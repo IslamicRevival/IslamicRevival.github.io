@@ -1,6 +1,6 @@
 # Muslim 'Bullies' Israel Advocacy Leader (2018-04-17)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/F2b9Gai5Qks'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/F2b9Gai5Qks'></iframe>
 
 ## Description
 

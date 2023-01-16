@@ -1,6 +1,6 @@
 # The Approach to Belief - Epistemology | The Evidence Course | Session 1 / Part 2 (2021-06-16)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/Unb6O0zpIYM'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/Unb6O0zpIYM'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Shias Catch Sunni Mohammed Hijab in Speakers Corner (2018-01-15)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/agMBFfuGB5Y'></iframe>## Description
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/agMBFfuGB5Y'></iframe>## Description
 
 A brief discussion on the so called infallibility of the 12 imams and the family of the prophet.
 

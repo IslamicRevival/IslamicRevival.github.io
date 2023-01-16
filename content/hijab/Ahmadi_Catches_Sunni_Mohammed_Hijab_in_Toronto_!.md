@@ -1,6 +1,6 @@
 # Ahmadi Catches Sunni Mohammed Hijab in Toronto ! (2019-10-10)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/yl2ifwqqOtQ'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/yl2ifwqqOtQ'></iframe>
 
 ## Description
 

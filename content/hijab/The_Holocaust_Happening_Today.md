@@ -1,6 +1,6 @@
 # The Holocaust Happening Today (2017-11-01)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/RbwRiNWYLFY'></iframe>## Description
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/RbwRiNWYLFY'></iframe>## Description
 
 A brief discussion of potentially the most severe human catastrophe on planet earth today.
 

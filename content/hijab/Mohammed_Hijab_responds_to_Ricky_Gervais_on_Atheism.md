@@ -1,6 +1,6 @@
 # Mohammed Hijab responds to Ricky Gervais on Atheism (2020-06-18)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/bHRZN5roVl8'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/bHRZN5roVl8'></iframe>
 
 ## Description
 

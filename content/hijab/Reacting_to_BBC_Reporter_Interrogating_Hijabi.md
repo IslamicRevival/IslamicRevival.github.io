@@ -1,6 +1,6 @@
 # Reacting to BBC Reporter Interrogating Hijabi (2021-02-10)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/7-YSMyJHWTU'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/7-YSMyJHWTU'></iframe>
 
 ## Description
 

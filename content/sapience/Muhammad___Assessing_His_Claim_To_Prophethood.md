@@ -1,6 +1,6 @@
 # Muhammad ﷺ: Assessing His Claim To Prophethood (2020-11-21)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/5V-guO60a9o'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/5V-guO60a9o'></iframe>
 
 ## Description
 

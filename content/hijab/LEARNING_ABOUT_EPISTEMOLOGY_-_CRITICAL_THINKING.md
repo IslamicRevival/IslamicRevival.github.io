@@ -1,6 +1,6 @@
 # LEARNING ABOUT EPISTEMOLOGY? - CRITICAL THINKING (2018-09-13)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/qu536euyd2c'></iframe>## Description
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/qu536euyd2c'></iframe>## Description
 
 ***Donate Support the Dawah:*** 
 https://www.launchgood.com/supportsalam

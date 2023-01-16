@@ -1,6 +1,6 @@
 # Response to Telegraph (Mohammed Hijab Bursts into Song) (2022-10-01)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/ffi2vmGVz8o'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/ffi2vmGVz8o'></iframe>
 
 ## Description
 

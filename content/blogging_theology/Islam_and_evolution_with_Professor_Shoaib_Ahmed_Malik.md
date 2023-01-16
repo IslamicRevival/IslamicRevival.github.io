@@ -1,6 +1,6 @@
 # Islam and evolution with Professor Shoaib Ahmed Malik (2021-12-09)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/rmRH80lj9UM'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/rmRH80lj9UM'></iframe>
 
 ## Description
 

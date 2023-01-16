@@ -1,6 +1,6 @@
 # SPECIAL: Should Qatar host the World Cup? with @AbdullahalAndalusi Pt 1 (2022-12-05)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/NgkJ_hmu8ZE'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/NgkJ_hmu8ZE'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # 10000+ Gods!? Can we know the truth? | TAP #23 (2022-09-18)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/HjzqpDzk1jY'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/HjzqpDzk1jY'></iframe>
 
 ## Description
 

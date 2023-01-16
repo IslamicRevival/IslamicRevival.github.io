@@ -1,6 +1,6 @@
 # Muslims react to Nicki Minaj vs Kevin Samuels (2022-02-24)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/l33Wv9GSHuc'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/l33Wv9GSHuc'></iframe>
 
 ## Description
 

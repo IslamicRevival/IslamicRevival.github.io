@@ -1,6 +1,6 @@
 # The Linguistic Miracle of the Quran |The Evidence Course | Session 5 / Part 2 (2021-10-06)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/BTPqQzUZVzo'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/BTPqQzUZVzo'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Response to Jordan Peterson and Ayaan Hirsi Ali interview (2021-02-25)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/XCvLgCf9Fgw'></iframe>## Description
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/XCvLgCf9Fgw'></iframe>## Description
 
 This interview unveils the bias Jordan Peterson has against Islam. 
 

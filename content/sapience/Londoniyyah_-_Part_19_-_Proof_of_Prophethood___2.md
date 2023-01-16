@@ -1,6 +1,6 @@
 # Londoniyyah - Part 19 - Proof of Prophethood / 2 (2022-03-10)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/CVA1jeoE_1k'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/CVA1jeoE_1k'></iframe>
 
 ## Description
 

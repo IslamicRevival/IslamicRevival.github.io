@@ -1,6 +1,6 @@
 # The Gospel of Luke denies Jesus died for our sins! (2021-07-05)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/PMIyqDwrnjY'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/PMIyqDwrnjY'></iframe>
 
 ## Description
 

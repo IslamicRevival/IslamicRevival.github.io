@@ -1,6 +1,6 @@
 # Muslim schools Neil deGrasse (2021-01-26)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/nfRnYNig9jU'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/nfRnYNig9jU'></iframe>
 
 ## Description
 

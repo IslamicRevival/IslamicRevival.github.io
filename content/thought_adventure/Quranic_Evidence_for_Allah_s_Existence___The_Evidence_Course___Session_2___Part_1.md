@@ -1,6 +1,6 @@
 # Quranic Evidence for Allah's Existence | The Evidence Course | Session 2 / Part 1 (2021-07-07)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/MULVQnMHfEk'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/MULVQnMHfEk'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # DAVID WOOD SEND ME LOCATION - RESPONSE TO DEBATE CHALLENGE (2018-10-06)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/Hax68VgkjuQ'></iframe>## Description
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/Hax68VgkjuQ'></iframe>## Description
 
 Liberalism essay - 
 http://www.salam.org.uk/2018/10/01/the-problems-with-liberalism/

@@ -1,6 +1,6 @@
 # The Unholy Trinity - Atheism, Feminism and Darwinism - Saboor Ahmed (2020-02-12)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/OYOi9DekfMY'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/OYOi9DekfMY'></iframe>
 
 ## Description
 

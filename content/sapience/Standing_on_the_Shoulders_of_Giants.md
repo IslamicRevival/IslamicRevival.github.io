@@ -1,6 +1,6 @@
 # Standing on the Shoulders of Giants (2022-10-07)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/Th6nKXXElQY'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/Th6nKXXElQY'></iframe>
 
 ## Description
 

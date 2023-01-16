@@ -1,6 +1,6 @@
 # Professor Nicholas Wolfinger - Marriage, Divorce, Family Stability in the USA (MH Podcast #12) (2021-10-28)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/A-tbVbkE9ec'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/A-tbVbkE9ec'></iframe>
 
 ## Description
 

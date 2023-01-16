@@ -1,6 +1,6 @@
 # SPECIAL: Aron Ra Discusses With Muslims If a Necessary Being Exists | Thought Adventure Podcast (2021-04-28)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/ZHP5lzIiXwQ'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/ZHP5lzIiXwQ'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Be Careful with Muhammad! With Dr Shabbir Akhtar (2021-08-10)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/YbwyFNXXC00'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/YbwyFNXXC00'></iframe>
 
 ## Description
 

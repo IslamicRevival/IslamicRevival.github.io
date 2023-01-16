@@ -1,6 +1,6 @@
 # Is "ISIS" Similar to "Israel" ? Muslim vs Jew (2019-04-01)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/0vS-UiPFD7Q'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/0vS-UiPFD7Q'></iframe>
 
 ## Description
 

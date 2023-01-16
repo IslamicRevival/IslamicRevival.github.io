@@ -1,6 +1,6 @@
 # Non Muslims Practice Polygamy (2017-03-01)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/q-TA4xTIXAQ'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/q-TA4xTIXAQ'></iframe>
 
 ## Description
 

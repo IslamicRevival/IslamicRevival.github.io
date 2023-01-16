@@ -1,6 +1,6 @@
 # WHAT IS SALVATION? A Dialogue Between Fahad Tasleem & Rick Mattson - Rice University (2022-02-15)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/XN8rO0PS-IA'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/XN8rO0PS-IA'></iframe>
 
 ## Description
 

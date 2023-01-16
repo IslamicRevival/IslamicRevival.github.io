@@ -1,6 +1,6 @@
 # Hardcore Zionist Vs Muslim || Uncut (2018-04-23)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/2xrEVcqpuQM'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/2xrEVcqpuQM'></iframe>
 
 ## Description
 

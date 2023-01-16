@@ -1,6 +1,6 @@
 # Londoniyyah - Part 6 - Political Liberalism | Mohammad Hijab (2021-11-15)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/TT5DwVgfcJk'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/TT5DwVgfcJk'></iframe>
 
 ## Description
 

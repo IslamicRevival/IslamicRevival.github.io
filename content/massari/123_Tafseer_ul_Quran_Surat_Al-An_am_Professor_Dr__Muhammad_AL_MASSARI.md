@@ -1,6 +1,6 @@
 # 123 Tafseer ul Quran Surat Al-An'am Professor Dr  Muhammad AL MASSARI (2023-01-02)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/ZMU5PMdTxC4'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/ZMU5PMdTxC4'></iframe>
 
 ## Description
 

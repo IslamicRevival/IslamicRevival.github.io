@@ -1,6 +1,6 @@
 # Does the Quran Deal with Atheists/Atheism ? (2018-10-23)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/Ld8WACThegs'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/Ld8WACThegs'></iframe>
 
 ## Description
 

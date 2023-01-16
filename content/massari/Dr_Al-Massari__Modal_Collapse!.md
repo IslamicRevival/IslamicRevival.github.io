@@ -1,6 +1,6 @@
 # Dr Al-Massari: Modal Collapse?! (2022-01-23)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/K9ZEKZKenjw'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/K9ZEKZKenjw'></iframe>
 
 ## Description
 

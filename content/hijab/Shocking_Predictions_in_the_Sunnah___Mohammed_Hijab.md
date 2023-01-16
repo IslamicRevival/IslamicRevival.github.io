@@ -1,6 +1,6 @@
 # Shocking Predictions in the Sunnah|| Mohammed Hijab (2017-03-21)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/ezvPEwizqRc'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/ezvPEwizqRc'></iframe>
 
 ## Description
 

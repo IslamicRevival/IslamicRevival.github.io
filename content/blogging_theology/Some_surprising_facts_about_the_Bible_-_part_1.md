@@ -1,6 +1,6 @@
 # Some surprising facts about the Bible - part 1 (2021-01-16)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/ITZHvxxRpj8'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/ITZHvxxRpj8'></iframe>
 
 ## Description
 

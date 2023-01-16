@@ -1,6 +1,6 @@
 # The Historical Jesus with Dr Dale Martin (2021-11-16)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/YSNrTsBTH7Q'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/YSNrTsBTH7Q'></iframe>
 
 ## Description
 

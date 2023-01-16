@@ -1,6 +1,6 @@
 # The First Marriage of the Prophet Muhammad ﷺ (2022-02-19)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/CoCqGJZvglQ'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/CoCqGJZvglQ'></iframe>
 
 ## Description
 

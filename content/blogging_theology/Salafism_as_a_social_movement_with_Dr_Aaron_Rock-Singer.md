@@ -1,6 +1,6 @@
 # Salafism as a social movement with Dr Aaron Rock-Singer (2022-10-13)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/NEblRvBHmbs'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/NEblRvBHmbs'></iframe>
 
 ## Description
 

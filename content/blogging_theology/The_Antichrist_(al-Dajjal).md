@@ -1,6 +1,6 @@
 # The Antichrist (al-Dajjal) (2021-06-01)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/pPpg14D7GbM'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/pPpg14D7GbM'></iframe>
 
 ## Description
 

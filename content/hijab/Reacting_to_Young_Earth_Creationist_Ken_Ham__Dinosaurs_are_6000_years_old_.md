@@ -1,6 +1,6 @@
 # Reacting to Young Earth Creationist Ken Ham "Dinosaurs are 6000 years old" (2021-05-09)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/0J10ig00g3g'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/0J10ig00g3g'></iframe>
 
 ## Description
 

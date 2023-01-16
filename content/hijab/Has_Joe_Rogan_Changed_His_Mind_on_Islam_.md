@@ -1,6 +1,6 @@
 # Has Joe Rogan Changed His Mind on Islam ? (2021-07-03)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/WWnaQR9OHeI'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/WWnaQR9OHeI'></iframe>
 
 ## Description
 

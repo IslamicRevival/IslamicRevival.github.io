@@ -1,9 +1,7 @@
 # #NoDesign🙄 (2022-12-03)
 
-<iframe loading="lazy" src="https://www.youtube.com/embed/UGDLUiVhY7w"></iframe>
+<iframe loading="lazy" allow="autoplay" src="https://www.youtube.com/embed/UGDLUiVhY7w"></iframe>
 
-
-<a onclick="modifyYTiframeseektime('300')">Modify Iframe</a>
 
 ## Description
 

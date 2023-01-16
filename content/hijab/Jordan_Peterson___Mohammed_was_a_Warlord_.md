@@ -1,6 +1,6 @@
 # Jordan Peterson: "Mohammed was a Warlord" (2021-11-05)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/ilrwPbvXqaE'></iframe>## Description
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/ilrwPbvXqaE'></iframe>## Description
 
 Twitter: https://twitter.com/mohammed_hijab?s=20
 Instagram: https://www.instagram.com/mohammedhijabofficial/?hl=en

@@ -1,6 +1,6 @@
 # Current Condition of Muslims | Mohammed Hijab (2022-11-08)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/DQgUVN4Oya8'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/DQgUVN4Oya8'></iframe>
 
 ## Description
 

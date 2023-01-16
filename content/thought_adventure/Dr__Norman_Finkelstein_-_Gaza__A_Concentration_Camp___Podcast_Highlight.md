@@ -1,6 +1,8 @@
 # Dr. Norman Finkelstein - Gaza: A Concentration Camp | Podcast Highlight (2021-06-05)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/ZJLafeXvGN8'></iframe>## Description
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/ZJLafeXvGN8'></iframe>
+
+## Description
 
 Dr. Norman Finkelstein explains in detail the history of the conflict in Palestine and the recent actions conducted by the Israeli regime. He provides much needed clarity and addresses a number of misconceptions and misinformation being promoted by Zionists propaganda.
 
@@ -60,11 +62,9 @@ Gmail: hello.tapodcast@gmail.com
 ## Summary of [Dr. Norman Finkelstein - Gaza: A Concentration Camp | Podcast Highlight](https://www.youtube.com/watch?v=ZJLafeXvGN8)
 
 
-*
-
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick=\"modifyYTiframeseektime('3000')\">00:00:00](https://www.youtube.com/watch?v=ZJLafeXvGN8&t=0) - [00:50:00</a>
+### <a onclick=\"modifyYTiframeseektime('3000')\">00:00:00 - 00:50:00</a>
 
  Dr. Norman Finkelstein discusses the Gaza conflict and how Israeli actions are disproportionate. He argues that most Palestinians are reasonable people, and that a reasonable settlement could be reached if Israel would stop torture and tormenting Palestinians.
 

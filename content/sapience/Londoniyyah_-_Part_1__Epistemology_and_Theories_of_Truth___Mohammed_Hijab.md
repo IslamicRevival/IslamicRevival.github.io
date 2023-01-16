@@ -1,6 +1,6 @@
 # Londoniyyah - Part 1: Epistemology and Theories of Truth | Mohammed Hijab (2021-09-19)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/eSQk1CpCh5k'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/eSQk1CpCh5k'></iframe>
 
 ## Description
 

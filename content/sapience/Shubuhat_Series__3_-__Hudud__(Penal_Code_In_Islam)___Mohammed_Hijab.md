@@ -1,6 +1,6 @@
 # Shubuhat Series #3 - "Hudud" (Penal Code In Islam) | Mohammed Hijab (2022-05-28)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/pVNN4R4fMng'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/pVNN4R4fMng'></iframe>
 
 ## Description
 

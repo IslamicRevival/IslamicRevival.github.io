@@ -66,7 +66,7 @@ def gen_markdown_page(video_id: str, title: str, description: str, smarkdown: st
     markdown = ""
 
     markdown += f"# {title} ({date})\n\n"
-    markdown += f"<iframe loading='lazy' src='https://www.youtube.com/embed/{video_id}'></iframe>"
+    markdown += f"<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/{video_id}'></iframe>"
     markdown += "## Description\n\n"
     markdown += description.strip()
     markdown += "\n\n"
@@ -254,7 +254,7 @@ def main(channel_ids=channel_ids_input):
                 driver.close()
                 driver.quit()
                 # grep -rL "AI" *.md|xargs rm -f ##find and rm missing AI
-                # find ./ -type f -name "*.md" -exec sed -i 's/Discusses\w+/Discusses /g' {} \;
+                # find ./ -type f -name "*.md" -exec sed -i 's/loading='lazy'\/loading='lazy' allow='autoplay' /g' {} \;
                 # find . -type f -name "*.md" -exec sed -ie 's/<\/details>\([^ ]*\)$//g' {} \; 
                 # find . -type f -name "*.md" -exec sed -i "s/\[\([^]]*\)\](https.*t=\([0-9]*\))\s*-\s*\[\([^]]*\)\](https.*t=\([0-9]*\))/<a onclick=\"modifyYTiframeseektime('\2')\">\1<\/a> - <a onclick=\"modifyYTiframeseektime('\4')\">\3<\/a>/g" {} \;
                 # find . -type f -name "*.md" -exec sed -i "s/\[\(.*\)\](https.*t=\([0-9]*\))/<a onclick=\"modifyYTiframeseektime('\2')\">\1<\/a>/g" {} \; # TODO do s/r in python of this

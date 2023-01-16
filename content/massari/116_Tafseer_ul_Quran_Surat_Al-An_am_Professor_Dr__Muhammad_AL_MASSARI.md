@@ -1,6 +1,6 @@
 # 116 Tafseer ul Quran Surat Al-An'am Professor Dr  Muhammad AL MASSARI (2022-11-13)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/30BrZ-d5ZnA'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/30BrZ-d5ZnA'></iframe>
 
 ## Description
 

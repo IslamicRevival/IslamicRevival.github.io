@@ -1,6 +1,6 @@
 # REACTING TO DAWKINS & JOE ROGAN INTERVIEW (2020-08-16)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/fbgnaA6t588'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/fbgnaA6t588'></iframe>
 
 ## Description
 

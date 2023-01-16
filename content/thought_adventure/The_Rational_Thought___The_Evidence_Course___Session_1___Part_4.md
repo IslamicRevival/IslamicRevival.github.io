@@ -1,6 +1,6 @@
 # The Rational Thought | The Evidence Course | Session 1 / Part 4 (2021-06-30)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/Nb7HHZDr5vU'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/Nb7HHZDr5vU'></iframe>
 
 ## Description
 

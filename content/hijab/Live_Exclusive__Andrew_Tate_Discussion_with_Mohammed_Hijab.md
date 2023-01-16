@@ -1,6 +1,6 @@
 # Live Exclusive: Andrew Tate Discussion with Mohammed Hijab (2022-10-29)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/diqgTxR99JE'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/diqgTxR99JE'></iframe>
 
 ## Description
 

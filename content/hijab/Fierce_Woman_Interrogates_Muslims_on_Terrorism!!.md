@@ -1,6 +1,6 @@
 # Fierce Woman Interrogates Muslims on Terrorism!! (2017-03-28)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/pMqpB4czMcA'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/pMqpB4czMcA'></iframe>
 
 ## Description
 

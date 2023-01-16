@@ -1,6 +1,6 @@
 # Islam and "LGBTQ": Gender, Sexuality, Morality & Identity with Dr Carl Sharif El-Tobgui (2022-06-17)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/_M4aHFvrCuI'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/_M4aHFvrCuI'></iframe>
 
 ## Description
 

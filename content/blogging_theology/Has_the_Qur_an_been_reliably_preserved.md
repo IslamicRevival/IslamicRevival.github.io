@@ -1,6 +1,6 @@
 # Has the Qur'an been reliably preserved? (2021-02-19)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/WKlSJa-ZnJQ'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/WKlSJa-ZnJQ'></iframe>
 
 ## Description
 

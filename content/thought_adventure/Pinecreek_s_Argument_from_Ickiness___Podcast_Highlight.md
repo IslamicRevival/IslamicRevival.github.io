@@ -1,6 +1,6 @@
 # Pinecreek's Argument from Ickiness | Podcast Highlight (2021-08-29)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/BEhojR0S8UM'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/BEhojR0S8UM'></iframe>
 
 ## Description
 

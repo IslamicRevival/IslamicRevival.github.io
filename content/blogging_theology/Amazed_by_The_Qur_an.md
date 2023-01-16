@@ -1,6 +1,6 @@
 # Amazed by The Qur'an (2022-05-09)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/FVRTmCbVJYE'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/FVRTmCbVJYE'></iframe>
 
 ## Description
 

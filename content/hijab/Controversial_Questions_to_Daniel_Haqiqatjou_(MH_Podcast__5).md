@@ -1,6 +1,6 @@
 # Controversial Questions to Daniel Haqiqatjou (MH Podcast #5) (2020-06-29)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/ymdIblvOnXU'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/ymdIblvOnXU'></iframe>
 
 ## Description
 

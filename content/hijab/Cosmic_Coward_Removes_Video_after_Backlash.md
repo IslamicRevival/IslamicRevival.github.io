@@ -1,6 +1,6 @@
 # Cosmic Coward Removes Video after Backlash (2021-08-20)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/G8Ia9BHpAQk'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/G8Ia9BHpAQk'></iframe>
 
 ## Description
 

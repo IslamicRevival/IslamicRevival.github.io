@@ -1,6 +1,6 @@
 # Nouman Ali Khan  Book Review (2017-11-23)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/hKub_aeM-6w'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/hKub_aeM-6w'></iframe>
 
 ## Description
 

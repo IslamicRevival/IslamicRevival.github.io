@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "cross-env NODE_ENV=development vitepress dev content --host --port 4000",
-    "build": "cross-env NODE_ENV=production vitepress build content",
+    "build": "cross-env NODE_ENV=production vitepress build content --debug",
     "serve": "cross-env NODE_ENV=production vitepress serve content"
   },
   "author": "",

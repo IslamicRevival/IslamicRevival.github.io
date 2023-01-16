@@ -1,6 +1,6 @@
 # The Life of Muhammad ﷺ Chapter 11: A Pact of Chivalry (2022-02-10)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/nRCX73fSUMA'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/nRCX73fSUMA'></iframe>
 
 ## Description
 

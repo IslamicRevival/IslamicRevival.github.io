@@ -1,6 +1,6 @@
 # The Final Moments of  Apostate P's Islamophobe's Career (2020-08-26)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/8QE11l6sc04'></iframe>## Description
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/8QE11l6sc04'></iframe>## Description
 
 Full video: https://youtu.be/QxQxUFGWQwc
 

@@ -1,6 +1,6 @@
 # “Why Do We Reason?” With Professor John Vervaeke & Hamza Andreas Tzortzis (2020-02-08)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/oN6byBLR_a8'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/oN6byBLR_a8'></iframe>
 
 ## Description
 

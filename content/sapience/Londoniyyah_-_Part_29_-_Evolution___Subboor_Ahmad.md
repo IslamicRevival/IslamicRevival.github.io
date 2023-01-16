@@ -1,6 +1,6 @@
 # Londoniyyah - Part 29 - Evolution | Subboor Ahmad (2022-04-24)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/4-tTk7i1LHo'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/4-tTk7i1LHo'></iframe>
 
 ## Description
 

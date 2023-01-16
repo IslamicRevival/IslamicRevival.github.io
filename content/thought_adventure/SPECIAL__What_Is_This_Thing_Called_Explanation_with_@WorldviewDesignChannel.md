@@ -1,6 +1,6 @@
 # SPECIAL: What Is This Thing Called Explanation? with @WorldviewDesignChannel (2022-03-18)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/_4a5SKkeAQI'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/_4a5SKkeAQI'></iframe>
 
 ## Description
 

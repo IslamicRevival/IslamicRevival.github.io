@@ -1,6 +1,6 @@
 # Sunni Theological Hermeneutics with Dr David Solomon Jalajel (2022-01-17)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/MPezdzuEqgo'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/MPezdzuEqgo'></iframe>
 
 ## Description
 

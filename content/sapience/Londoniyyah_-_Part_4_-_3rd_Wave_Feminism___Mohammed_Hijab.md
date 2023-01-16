@@ -1,6 +1,6 @@
 # Londoniyyah - Part 4 - 3rd Wave Feminism | Mohammed Hijab (2021-10-15)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/4y70z7M4Br0'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/4y70z7M4Br0'></iframe>
 
 ## Description
 

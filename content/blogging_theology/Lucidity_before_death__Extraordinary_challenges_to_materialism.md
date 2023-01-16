@@ -1,6 +1,6 @@
 # Lucidity before death: Extraordinary challenges to materialism (2022-12-29)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/Xsuu31AUCRw'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/Xsuu31AUCRw'></iframe>
 
 ## Description
 

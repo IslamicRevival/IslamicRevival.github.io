@@ -1,6 +1,6 @@
 # Tafseer-ul-Quran - Almassari - 011 - Al-Baqara 05 - تفسير سورة البقرة (2021-04-11)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/HdoGFCGAbyE'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/HdoGFCGAbyE'></iframe>
 
 ## Description
 

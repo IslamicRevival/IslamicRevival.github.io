@@ -1,6 +1,6 @@
 # Muslim Response to Comedian Mocking Christchurch Victims (2020-08-03)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/tcW4fvnHX8g'></iframe>## Description
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/tcW4fvnHX8g'></iframe>## Description
 
 "Comedian" Isaac Butterfield has been slammed over a 'joke' in which he said the saddest thing about the death of Muslims in the Christchurch massacre was that it led to a shortage of taxi drivers.
 

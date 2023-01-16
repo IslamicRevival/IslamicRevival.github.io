@@ -1,6 +1,6 @@
 # What is happening to the #Uyghur Muslims in Chinese occupied #EastTurkestan (2020-04-27)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/jPRjuHtygYI'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/jPRjuHtygYI'></iframe>
 
 ## Description
 

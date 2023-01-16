@@ -1,6 +1,6 @@
 # Thank You For Supporting US: Our 6 Months Update - including Q&A (2021-11-21)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/T2aVwJ3YlBM'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/T2aVwJ3YlBM'></iframe>
 
 ## Description
 

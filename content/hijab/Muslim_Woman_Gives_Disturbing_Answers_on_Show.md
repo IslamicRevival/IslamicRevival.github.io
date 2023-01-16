@@ -1,6 +1,6 @@
 # Muslim Woman Gives Disturbing Answers on Show (2022-02-14)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/0eUfu5Wrh5E'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/0eUfu5Wrh5E'></iframe>
 
 ## Description
 

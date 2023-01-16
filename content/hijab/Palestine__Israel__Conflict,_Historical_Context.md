@@ -1,6 +1,6 @@
 # Palestine/"Israel" Conflict, Historical Context (2021-05-14)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/9ZKuPycKiX8'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/9ZKuPycKiX8'></iframe>
 
 ## Description
 

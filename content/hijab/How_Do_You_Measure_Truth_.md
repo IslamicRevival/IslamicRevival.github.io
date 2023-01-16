@@ -1,6 +1,6 @@
 # How Do You Measure Truth ? (2018-01-22)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/_9qRZVO6JKQ'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/_9qRZVO6JKQ'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # What about the harsh shariah punishments in Islam? (2022-09-21)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/cKdJ0etaI2g'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/cKdJ0etaI2g'></iframe>
 
 ## Description
 

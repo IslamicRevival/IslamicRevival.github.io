@@ -1,6 +1,6 @@
 # MUSLIM VS EX-MUSLIM | MOHAMMED HIJAB (2017-08-15)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/U_vSh7wXQGI'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/U_vSh7wXQGI'></iframe>
 
 ## Description
 

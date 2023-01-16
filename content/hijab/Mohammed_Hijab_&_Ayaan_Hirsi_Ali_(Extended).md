@@ -1,6 +1,6 @@
 # Mohammed Hijab & Ayaan Hirsi Ali (Extended) (2022-03-02)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/PdiRh_BkBCg'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/PdiRh_BkBCg'></iframe>
 
 ## Description
 

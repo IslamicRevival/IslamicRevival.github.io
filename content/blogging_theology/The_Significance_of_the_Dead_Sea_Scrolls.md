@@ -1,6 +1,6 @@
 # The Significance of the Dead Sea Scrolls (2022-01-03)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/lm4b5lDSJKE'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/lm4b5lDSJKE'></iframe>
 
 ## Description
 

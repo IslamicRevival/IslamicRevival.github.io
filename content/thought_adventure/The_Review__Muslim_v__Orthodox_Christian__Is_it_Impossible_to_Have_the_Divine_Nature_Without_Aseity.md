@@ -1,6 +1,6 @@
 # The Review: Muslim v. Orthodox Christian: Is it Impossible to Have the Divine Nature Without Aseity? (2022-06-06)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/cNxIpOQM9oY'></iframe>## Description
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/cNxIpOQM9oY'></iframe>## Description
 
 Thought Adventure Support
 ◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 

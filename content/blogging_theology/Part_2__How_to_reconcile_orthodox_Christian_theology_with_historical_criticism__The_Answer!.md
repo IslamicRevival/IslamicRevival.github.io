@@ -1,6 +1,6 @@
 # Part 2: How to reconcile orthodox Christian theology with historical criticism: The Answer! (2021-01-01)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/xje4w27JSEg'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/xje4w27JSEg'></iframe>
 
 ## Description
 

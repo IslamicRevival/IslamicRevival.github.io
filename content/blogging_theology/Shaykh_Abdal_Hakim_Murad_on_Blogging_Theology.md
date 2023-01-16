@@ -1,6 +1,6 @@
 # Shaykh Abdal Hakim Murad on Blogging Theology (2021-07-15)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/laFLPKZBUZE'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/laFLPKZBUZE'></iframe>
 
 ## Description
 

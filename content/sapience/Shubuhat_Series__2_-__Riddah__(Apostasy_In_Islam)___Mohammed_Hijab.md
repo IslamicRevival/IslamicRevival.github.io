@@ -1,6 +1,6 @@
 # Shubuhat Series #2 - "Riddah" (Apostasy In Islam) | Mohammed Hijab (2022-05-26)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/ShR19UbTSSE'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/ShR19UbTSSE'></iframe>
 
 ## Description
 

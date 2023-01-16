@@ -1,6 +1,6 @@
 # Can Consciousness Be Grounded on Materialism? feat. Hamza Tzortzis | Thought Adventure Podcast #11 (2021-06-20)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/g3hB7hJW1C0'></iframe>## Description
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/g3hB7hJW1C0'></iframe>## Description
 
 Joined by special guest Hamza Andreas Tzortzis, the TAP panellists discuss whether materialistic accounts of consciousness can overcome the "Hard Problem" - and explore several proposed solutions in the process.
 

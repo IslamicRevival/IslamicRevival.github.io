@@ -1,6 +1,6 @@
 # Firm Feminists Change Mind After Debate (2017-10-16)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/Mmu0GgrKTnU'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/Mmu0GgrKTnU'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # SPECIAL: From Atheism to Islam: Justin’s Journey in His Own Words | Thought Adventure Podcast (2021-04-18)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/-sMquXs4sDg'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/-sMquXs4sDg'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # On Andrew Tate Allegations and Criticism (2023-01-11)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/4i7BppErIMk'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/4i7BppErIMk'></iframe>
 
 ## Description
 

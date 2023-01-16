@@ -1,6 +1,6 @@
 # Islamic spirituality: the heart, the soul & the path to God (2020-06-30)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/r1eZEzM4rwM'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/r1eZEzM4rwM'></iframe>
 
 ## Description
 

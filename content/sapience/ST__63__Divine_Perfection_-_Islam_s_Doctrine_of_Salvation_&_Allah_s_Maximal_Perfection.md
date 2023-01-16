@@ -1,6 +1,6 @@
 # ST# 63: Divine Perfection - Islam's Doctrine of Salvation & Allah's Maximal Perfection (2022-06-27)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/Nv7ek29NEo4'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/Nv7ek29NEo4'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Islam and the Dark Face of Feminism (2018-10-16)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/sC5K5PT-atA'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/sC5K5PT-atA'></iframe>
 
 ## Description
 

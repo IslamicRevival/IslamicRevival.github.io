@@ -1,6 +1,6 @@
 # Who is the Holy Spirit? (2021-08-05)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/VGd59ASK_VM'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/VGd59ASK_VM'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Presumptions about God’s wisdom in Muslim Arguments for and against evolution (2022-03-01)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/0IzntNKcmLQ'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/0IzntNKcmLQ'></iframe>
 
 ## Description
 

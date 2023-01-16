@@ -1,6 +1,6 @@
 # Introducing Qur’anic Arguments: Surah Al-Qamar | Mohammed Hijab In Mecca (2023-01-13)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/no9nXw8hfds'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/no9nXw8hfds'></iframe>
 
 ## Description
 

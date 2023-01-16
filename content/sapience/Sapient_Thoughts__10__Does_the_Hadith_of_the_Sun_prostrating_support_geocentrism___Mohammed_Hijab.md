@@ -1,6 +1,6 @@
 # Sapient Thoughts #10: Does the Hadith of the Sun prostrating support geocentrism? | Mohammed Hijab (2021-01-16)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/IQXXeBnVjdo'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/IQXXeBnVjdo'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Sharing Islam, truth & doubts (2020-06-24)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/xCDztfZEtD8'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/xCDztfZEtD8'></iframe>
 
 ## Description
 

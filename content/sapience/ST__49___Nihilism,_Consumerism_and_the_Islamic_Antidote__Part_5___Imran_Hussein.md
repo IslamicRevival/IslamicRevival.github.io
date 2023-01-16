@@ -1,6 +1,6 @@
 # ST #49:  Nihilism, Consumerism and the Islamic Antidote — Part 5 | Imran Hussein (2022-01-15)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/6uD33MoU2SI'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/6uD33MoU2SI'></iframe>
 
 ## Description
 

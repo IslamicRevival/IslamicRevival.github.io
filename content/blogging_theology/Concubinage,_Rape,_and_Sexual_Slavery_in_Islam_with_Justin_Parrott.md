@@ -1,6 +1,6 @@
 # Concubinage, Rape, and ‘Sexual Slavery’ in Islam with Justin Parrott (2022-11-03)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/Qak9PoRyCfg'></iframe>## Description
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/Qak9PoRyCfg'></iframe>## Description
 
 ‘Custodianship of the Right Hand: Concubinage, Rape, and ‘Sexual Slavery’ in Islam’
 https://www.abuaminaelias.com/custodianship-of-the-right-hand/

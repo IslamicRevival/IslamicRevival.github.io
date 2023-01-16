@@ -1,6 +1,6 @@
 # Sapience Institute Live: With Mohammed Hijab & Hamza Andreas Tzortzis (2021-04-04)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/86yTspoBMqk'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/86yTspoBMqk'></iframe>
 
 ## Description
 

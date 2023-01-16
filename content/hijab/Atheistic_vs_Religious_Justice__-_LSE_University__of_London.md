@@ -1,6 +1,6 @@
 # Atheistic vs Religious Justice  - LSE University  of London (2017-11-21)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/8t4G19Wr_mo'></iframe>## Description
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/8t4G19Wr_mo'></iframe>## Description
 
 This is a brief talk about the concept justice as per the religious, or more specifically Islamic, and atheistic narratives.
 

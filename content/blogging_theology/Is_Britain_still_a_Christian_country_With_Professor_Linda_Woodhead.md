@@ -1,6 +1,6 @@
 # Is Britain still a Christian country? With Professor Linda Woodhead (2022-12-18)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/-FoNkisQYkU'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/-FoNkisQYkU'></iframe>
 
 ## Description
 

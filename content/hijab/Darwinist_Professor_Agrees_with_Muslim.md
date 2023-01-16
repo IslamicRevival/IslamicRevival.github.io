@@ -1,6 +1,6 @@
 # Darwinist Professor Agrees with Muslim (2019-08-04)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/LsdgFrlRIrI'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/LsdgFrlRIrI'></iframe>
 
 ## Description
 

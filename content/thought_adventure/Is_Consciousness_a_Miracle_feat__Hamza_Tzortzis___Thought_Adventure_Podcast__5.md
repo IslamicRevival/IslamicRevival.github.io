@@ -1,6 +1,6 @@
 # Is Consciousness a Miracle? feat. Hamza Tzortzis | Thought Adventure Podcast #5 (2021-03-14)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/RskdqZa7gws'></iframe>## Description
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/RskdqZa7gws'></iframe>## Description
 
 00:00 Introduction and Arguments
 - Guests -

@@ -1,6 +1,6 @@
 # Miracles in Christianity & Islam with Shaykh Hamza Karamali (2022-03-21)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/s5V5huEfy4A'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/s5V5huEfy4A'></iframe>
 
 ## Description
 

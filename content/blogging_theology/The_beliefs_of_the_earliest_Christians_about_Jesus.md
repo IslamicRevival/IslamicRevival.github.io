@@ -1,6 +1,6 @@
 # The beliefs of the earliest Christians about Jesus (2021-01-25)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/K51AcZBWS68'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/K51AcZBWS68'></iframe>
 
 ## Description
 

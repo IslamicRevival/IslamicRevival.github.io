@@ -1,6 +1,6 @@
 # Some Surprises on the Day of Resurrection (2022-10-31)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/Xzv6Inbl8co'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/Xzv6Inbl8co'></iframe>
 
 ## Description
 

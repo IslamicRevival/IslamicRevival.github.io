@@ -1,6 +1,6 @@
 # REACTING TO DAVID WOOD CURSING JESUS (2018-08-07)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/fHHI2j71OXQ'></iframe>## Description
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/fHHI2j71OXQ'></iframe>## Description
 
 Donate Support the Dawah: http://www.salam.org.uk/donate/ 
 

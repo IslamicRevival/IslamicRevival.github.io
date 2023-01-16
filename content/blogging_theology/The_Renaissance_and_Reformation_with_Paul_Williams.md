@@ -1,6 +1,6 @@
 # The Renaissance and Reformation with Paul Williams (2022-08-07)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/gezns0xCCrg'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/gezns0xCCrg'></iframe>
 
 ## Description
 

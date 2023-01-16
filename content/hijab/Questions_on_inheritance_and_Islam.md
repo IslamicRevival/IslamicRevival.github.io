@@ -1,6 +1,6 @@
 # Questions on inheritance and Islam (2018-06-18)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/dYFJpFwOShQ'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/dYFJpFwOShQ'></iframe>
 
 ## Description
 

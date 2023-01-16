@@ -1,6 +1,6 @@
 # Segregating Black and White Sprinters due to Black Advantage (2019-03-28)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/QAL5-zWYIz0'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/QAL5-zWYIz0'></iframe>
 
 ## Description
 

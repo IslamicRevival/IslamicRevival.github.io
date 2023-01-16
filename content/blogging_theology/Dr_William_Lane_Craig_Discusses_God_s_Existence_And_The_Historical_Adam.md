@@ -1,6 +1,6 @@
 # Dr William Lane Craig Discusses God's Existence And The Historical Adam (2022-05-25)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/RCBG4Bx9HEI'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/RCBG4Bx9HEI'></iframe>
 
 ## Description
 

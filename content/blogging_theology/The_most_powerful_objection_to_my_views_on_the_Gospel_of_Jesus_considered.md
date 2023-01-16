@@ -1,6 +1,6 @@
 # The most powerful objection to my views on the Gospel of Jesus considered (2020-12-31)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/lNeVDnS7eoQ'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/lNeVDnS7eoQ'></iframe>
 
 ## Description
 

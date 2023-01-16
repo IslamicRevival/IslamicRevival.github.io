@@ -1,6 +1,6 @@
 # Is Science the Only Route to Truth? (2020-02-27)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/O2DE8vQCX2Y'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/O2DE8vQCX2Y'></iframe>
 
 ## Description
 

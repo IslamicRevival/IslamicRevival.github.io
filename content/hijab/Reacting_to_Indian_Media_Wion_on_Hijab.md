@@ -1,6 +1,6 @@
 # Reacting to Indian Media Wion on Hijab (2021-09-21)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/c_QwdFONeoQ'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/c_QwdFONeoQ'></iframe>
 
 ## Description
 

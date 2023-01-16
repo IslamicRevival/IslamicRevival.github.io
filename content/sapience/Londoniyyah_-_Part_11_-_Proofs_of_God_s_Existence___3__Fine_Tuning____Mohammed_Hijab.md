@@ -1,6 +1,6 @@
 # Londoniyyah - Part 11 - Proofs of God's Existence / 3 "Fine Tuning" | Mohammed Hijab (2021-12-24)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/lkGjBAP7smc'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/lkGjBAP7smc'></iframe>
 
 ## Description
 

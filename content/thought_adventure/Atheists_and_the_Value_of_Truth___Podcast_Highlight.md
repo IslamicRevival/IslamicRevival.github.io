@@ -1,6 +1,6 @@
 # Atheists and the Value of Truth | Podcast Highlight (2021-06-04)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/GS1wzxk5XEs'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/GS1wzxk5XEs'></iframe>
 
 ## Description
 

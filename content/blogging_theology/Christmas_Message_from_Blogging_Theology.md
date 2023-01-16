@@ -1,6 +1,6 @@
 # Christmas Message from Blogging Theology (2020-12-24)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/UKfoEkJ_Yi0'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/UKfoEkJ_Yi0'></iframe>
 
 ## Description
 

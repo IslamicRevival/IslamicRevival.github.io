@@ -1,6 +1,6 @@
 # You're Dead ! (2018-07-17)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/gghVWp2u2bA'></iframe>## Description
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/gghVWp2u2bA'></iframe>## Description
 
 A short but fruitful discussion on what to expect after death.
 

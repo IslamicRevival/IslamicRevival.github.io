@@ -1,6 +1,6 @@
 # Gay Guy Catches Hijabi on Homophobia (2021-01-16)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/U9TcNNmHeP8'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/U9TcNNmHeP8'></iframe>
 
 ## Description
 

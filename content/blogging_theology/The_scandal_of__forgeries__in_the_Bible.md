@@ -1,6 +1,6 @@
 # The scandal of 'forgeries' in the Bible (2021-05-31)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/DY7V9Ch7Q5k'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/DY7V9Ch7Q5k'></iframe>
 
 ## Description
 

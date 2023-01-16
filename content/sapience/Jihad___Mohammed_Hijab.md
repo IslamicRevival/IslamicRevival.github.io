@@ -1,6 +1,6 @@
 # Jihad | Mohammed Hijab (2022-12-12)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/4rC1F0lIzUw'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/4rC1F0lIzUw'></iframe>
 
 ## Description
 

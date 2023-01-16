@@ -1,6 +1,6 @@
 # Monotheism is not only a Theology; it is also a Psychology (2021-09-25)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/KgFnibU7Auc'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/KgFnibU7Auc'></iframe>
 
 ## Description
 

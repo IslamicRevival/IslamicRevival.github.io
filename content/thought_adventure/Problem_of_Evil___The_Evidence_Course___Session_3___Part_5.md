@@ -1,6 +1,6 @@
 # Problem of Evil | The Evidence Course | Session 3 / Part 5 (2021-09-08)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/Bb6GSwEvkRg'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/Bb6GSwEvkRg'></iframe>
 
 ## Description
 

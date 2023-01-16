@@ -1,6 +1,6 @@
 # The Review: Is the Trinity Coherent? Vin from Vin and Sori vs. The Muslim Metaphysician (2021-04-07)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/mW1EVGitSsc'></iframe>## Description
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/mW1EVGitSsc'></iframe>## Description
 
 In this video, Yusuf Ponders from Pondering Soul and Abdul from the Thought Adventure Podcast join The Muslim Metaphysician to review a recent debate he had with Vin from the Vin and Sori YouTube Channel. The debate was held on The EA Show and the link to the debate can be found below.
 

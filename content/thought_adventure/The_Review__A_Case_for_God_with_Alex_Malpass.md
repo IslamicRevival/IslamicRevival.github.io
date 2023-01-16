@@ -1,6 +1,6 @@
 # The Review: A Case for God with Alex Malpass (2021-11-29)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/57xAZAShcIY'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/57xAZAShcIY'></iframe>
 
 ## Description
 

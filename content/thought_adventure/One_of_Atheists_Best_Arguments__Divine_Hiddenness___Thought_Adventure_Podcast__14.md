@@ -1,6 +1,6 @@
 # One of Atheists’ Best Arguments: Divine Hiddenness | Thought Adventure Podcast #14 (2021-08-22)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/OWVl33e47iU'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/OWVl33e47iU'></iframe>
 
 ## Description
 

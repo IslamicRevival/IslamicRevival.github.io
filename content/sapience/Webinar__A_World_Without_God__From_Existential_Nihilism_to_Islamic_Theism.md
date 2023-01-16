@@ -1,6 +1,6 @@
 # Webinar: A World Without God — From Existential Nihilism to Islamic Theism (2020-09-12)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/nvRKAzbU3nM'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/nvRKAzbU3nM'></iframe>
 
 ## Description
 

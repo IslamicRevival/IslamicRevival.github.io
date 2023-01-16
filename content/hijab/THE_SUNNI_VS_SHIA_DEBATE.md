@@ -1,6 +1,6 @@
 # THE SUNNI VS SHIA DEBATE (2017-06-18)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/ukK-PmQFSp4'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/ukK-PmQFSp4'></iframe>
 
 ## Description
 

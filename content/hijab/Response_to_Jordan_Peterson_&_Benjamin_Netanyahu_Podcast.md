@@ -1,6 +1,6 @@
 # Response to Jordan Peterson & Benjamin Netanyahu Podcast (2022-12-13)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/uJQbYgMb-jM'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/uJQbYgMb-jM'></iframe>
 
 ## Description
 

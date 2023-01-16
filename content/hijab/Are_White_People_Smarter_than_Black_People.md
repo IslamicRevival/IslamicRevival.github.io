@@ -1,6 +1,6 @@
 # Are White People Smarter than Black People? (2019-02-18)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/7zkiV1EToGg'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/7zkiV1EToGg'></iframe>
 
 ## Description
 

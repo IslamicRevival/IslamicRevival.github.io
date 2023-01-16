@@ -1,6 +1,6 @@
 # Reply to Pseudo-Salafi Critique of Contingency Argument in Dawah (2022-04-09)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/TU7mQOn_SQ4'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/TU7mQOn_SQ4'></iframe>
 
 ## Description
 

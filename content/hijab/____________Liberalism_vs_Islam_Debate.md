@@ -1,6 +1,6 @@
 # كلمة محمد حجاب الافتتاحية خلال مناظرته مع لارس جول حول موضوع الليبرالية Liberalism vs Islam Debate (2020-03-23)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/P8rbfhffxG8'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/P8rbfhffxG8'></iframe>
 
 ## Description
 

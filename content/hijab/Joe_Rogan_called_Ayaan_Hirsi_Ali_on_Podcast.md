@@ -1,6 +1,6 @@
 # Joe Rogan called Ayaan Hirsi Ali on Podcast (2021-03-05)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/4mPc7M3sPPU'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/4mPc7M3sPPU'></iframe>
 
 ## Description
 

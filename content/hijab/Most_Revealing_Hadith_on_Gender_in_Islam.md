@@ -1,6 +1,6 @@
 # Most Revealing Hadith on Gender in Islam? (2022-01-14)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/BHP78wJXi30'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/BHP78wJXi30'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # 02 - Establishing an Islamic State: Is it an Obligation (Fardh)? (2020-08-26)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/htLprHRqzTY'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/htLprHRqzTY'></iframe>
 
 ## Description
 

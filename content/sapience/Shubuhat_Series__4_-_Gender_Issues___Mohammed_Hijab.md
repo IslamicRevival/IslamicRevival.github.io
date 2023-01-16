@@ -1,6 +1,6 @@
 # Shubuhat Series #4 - Gender Issues | Mohammed Hijab (2022-06-01)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/VdcdwyjPuaM'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/VdcdwyjPuaM'></iframe>
 
 ## Description
 

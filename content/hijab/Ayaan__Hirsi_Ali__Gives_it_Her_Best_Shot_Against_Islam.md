@@ -1,6 +1,6 @@
 # Ayaan 'Hirsi Ali' Gives it Her Best Shot Against Islam (2022-03-03)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/HuoZtJIRM3s'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/HuoZtJIRM3s'></iframe>
 
 ## Description
 

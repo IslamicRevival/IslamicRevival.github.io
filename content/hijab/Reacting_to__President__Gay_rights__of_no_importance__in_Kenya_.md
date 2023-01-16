@@ -1,6 +1,6 @@
 # Reacting to 'President: Gay rights 'of no importance' in Kenya' (2021-05-05)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/wp4REjWl7yk'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/wp4REjWl7yk'></iframe>
 
 ## Description
 

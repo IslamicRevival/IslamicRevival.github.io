@@ -1,6 +1,6 @@
 # Indirect Proof of the Prophethood of Muhammad ﷺ ? (2022-02-03)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/FgAMysWHCvo'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/FgAMysWHCvo'></iframe>
 
 ## Description
 

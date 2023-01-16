@@ -1,6 +1,6 @@
 # Al Ghazali and the Impossibility of an Infinite Regress | Mohammed Hijab (2022-10-15)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/C1yThMy_0Q0'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/C1yThMy_0Q0'></iframe>
 
 ## Description
 

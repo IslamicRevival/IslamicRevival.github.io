@@ -1,6 +1,6 @@
 # Liberal Muslim Re-interpreting The Qur'an (Response) (2022-12-29)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/UwkiCC-gaVw'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/UwkiCC-gaVw'></iframe>
 
 ## Description
 

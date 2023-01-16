@@ -1,6 +1,6 @@
 # LIBERALISM'S UNSOVABLE PROBLEMS Dr Graham Oppy vs Abdullah al Andalusi (2021-10-29)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/HKb06PKhP1A'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/HKb06PKhP1A'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # A very amateur guide to Hagia Sophia (2021-11-06)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/Hf-l1I5Wta4'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/Hf-l1I5Wta4'></iframe>
 
 ## Description
 

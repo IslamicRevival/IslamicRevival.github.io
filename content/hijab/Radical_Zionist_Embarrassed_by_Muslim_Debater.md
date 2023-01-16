@@ -1,6 +1,6 @@
 # Radical Zionist Embarrassed by Muslim Debater (2021-08-31)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/MUEowQNLa2w'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/MUEowQNLa2w'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Islamic manners and morality (2022-03-22)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/HWzf359ROjw'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/HWzf359ROjw'></iframe>
 
 ## Description
 

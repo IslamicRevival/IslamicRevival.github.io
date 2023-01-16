@@ -1,6 +1,6 @@
 # Full Debate - Mohammed Hijab vs Edward Tabash || Does God Exist? | PART 1 (2019-04-11)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/dm46FPgRGbQ'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/dm46FPgRGbQ'></iframe>
 
 ## Description
 

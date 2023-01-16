@@ -1,6 +1,6 @@
 # Open Q and A #1 - Bring Your Questions (non Muslims preferred) (2022-09-04)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/XW8aKZAak70'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/XW8aKZAak70'></iframe>
 
 ## Description
 

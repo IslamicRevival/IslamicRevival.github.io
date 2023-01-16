@@ -1,6 +1,6 @@
 # Discussion with UFC's Firas Zahabi on Randomness, God and the Universe (2018-03-28)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/1Z3A6N5ck3c'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/1Z3A6N5ck3c'></iframe>
 
 ## Description
 

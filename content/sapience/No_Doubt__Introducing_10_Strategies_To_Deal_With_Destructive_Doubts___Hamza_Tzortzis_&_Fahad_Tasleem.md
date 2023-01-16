@@ -1,6 +1,6 @@
 # No Doubt: Introducing 10 Strategies To Deal With Destructive Doubts | Hamza Tzortzis & Fahad Tasleem (2021-07-11)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/RleAnrjY5FQ'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/RleAnrjY5FQ'></iframe>
 
 ## Description
 

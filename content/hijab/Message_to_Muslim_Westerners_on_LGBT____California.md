@@ -1,6 +1,6 @@
 # Message to Muslim Westerners on LGBT || California (2019-05-11)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/J7g1DCg_ukI'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/J7g1DCg_ukI'></iframe>
 
 ## Description
 

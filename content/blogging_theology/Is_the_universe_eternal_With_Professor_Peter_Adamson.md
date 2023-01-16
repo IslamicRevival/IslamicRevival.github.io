@@ -1,6 +1,6 @@
 # Is the universe eternal? With Professor Peter Adamson (2023-01-09)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/m8MObPqwGzA'></iframe>## Description
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/m8MObPqwGzA'></iframe>## Description
 
 What is Islamic philosophy? With Professor Peter Adamson:
 https://www.youtube.com/watch?v=bGnwwSyVdgs&t=2691s

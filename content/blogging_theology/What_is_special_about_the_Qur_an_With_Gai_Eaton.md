@@ -1,6 +1,6 @@
 # What is special about the Qur'an? With Gai Eaton (2022-08-14)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/Osc1p4wW-v8'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/Osc1p4wW-v8'></iframe>
 
 ## Description
 

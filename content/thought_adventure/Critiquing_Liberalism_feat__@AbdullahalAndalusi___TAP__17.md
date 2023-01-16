@@ -1,6 +1,6 @@
 # Critiquing Liberalism feat. @AbdullahalAndalusi | TAP #17 (2021-10-04)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/OK-kam16tsE'></iframe>## Description
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/OK-kam16tsE'></iframe>## Description
 
 Thought Adventure Support
 ◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 

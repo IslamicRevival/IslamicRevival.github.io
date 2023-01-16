@@ -1,6 +1,6 @@
 # God and physics: Talking with a Muslim physicist at Oxford University (2022-09-12)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/dQstuTSkWD8'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/dQstuTSkWD8'></iframe>
 
 ## Description
 

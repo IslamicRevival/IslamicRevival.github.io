@@ -1,6 +1,6 @@
 # Ibn Taymiyyah & The Philosophers | Mohammed Hijab (2022-10-01)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/wShrJLpj0mk'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/wShrJLpj0mk'></iframe>
 
 ## Description
 

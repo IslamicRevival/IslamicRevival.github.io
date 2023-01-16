@@ -1,6 +1,6 @@
 # Londoniyyah - Part 32 - Hadith Rejectors | Mohammed Hijab (2022-04-27)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/p2rA7fXF1-8'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/p2rA7fXF1-8'></iframe>
 
 ## Description
 

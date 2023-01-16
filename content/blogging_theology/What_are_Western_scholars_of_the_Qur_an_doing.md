@@ -1,6 +1,6 @@
 # What are Western scholars of the Qur'an doing? (2021-08-29)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/9JSVA39PkS0'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/9JSVA39PkS0'></iframe>
 
 ## Description
 

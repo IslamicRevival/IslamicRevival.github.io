@@ -1,6 +1,6 @@
 # Londoniyyah - Part 3 - Feminism, 1st and 2nd Wave | Mohammed Hijab (2021-10-07)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/DOY84Ycaa2U'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/DOY84Ycaa2U'></iframe>
 
 ## Description
 

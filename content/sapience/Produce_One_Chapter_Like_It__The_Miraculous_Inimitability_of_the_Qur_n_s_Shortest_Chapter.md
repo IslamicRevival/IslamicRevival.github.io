@@ -1,6 +1,6 @@
 # Produce One Chapter Like It: The Miraculous Inimitability of the Qur'ān's Shortest Chapter (2022-09-28)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/sn-ErdHFpvA'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/sn-ErdHFpvA'></iframe>
 
 ## Description
 

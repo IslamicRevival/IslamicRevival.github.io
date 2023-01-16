@@ -1,6 +1,6 @@
 # Londoniyyah - Part 7 - Deontological Ethics | Mohammed Hijab (2021-11-11)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/H59kvs6CciI'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/H59kvs6CciI'></iframe>
 
 ## Description
 

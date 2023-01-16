@@ -1,6 +1,6 @@
 # Will Palestine Issue Cause Islamic Radicalism? (2021-05-23)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/_9tp4pNMcqk'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/_9tp4pNMcqk'></iframe>
 
 ## Description
 

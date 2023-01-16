@@ -1,6 +1,6 @@
 # Rebuilding the Ka'bah (2022-03-06)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/Maihu1XOM6U'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/Maihu1XOM6U'></iframe>
 
 ## Description
 

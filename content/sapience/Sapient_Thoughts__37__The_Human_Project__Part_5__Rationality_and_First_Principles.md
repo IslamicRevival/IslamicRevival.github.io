@@ -1,6 +1,6 @@
 # Sapient Thoughts #37: The Human Project — Part 5: Rationality and First Principles (2021-08-02)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/KEWB4pjQFOg'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/KEWB4pjQFOg'></iframe>
 
 ## Description
 

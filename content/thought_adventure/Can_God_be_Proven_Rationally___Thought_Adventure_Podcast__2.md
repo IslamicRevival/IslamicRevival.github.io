@@ -1,6 +1,6 @@
 # Can God be Proven Rationally? | Thought Adventure Podcast #2 (2021-01-31)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/X-19SfRhwZA'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/X-19SfRhwZA'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Clever Atheists Talk to Muslim (2018-03-05)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/W-yfuJfChvY'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/W-yfuJfChvY'></iframe>
 
 ## Description
 

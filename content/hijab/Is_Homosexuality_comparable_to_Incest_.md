@@ -1,6 +1,6 @@
 # Is Homosexuality comparable to Incest ? (2017-05-08)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/wPR8dUCgoIM'></iframe>## Description
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/wPR8dUCgoIM'></iframe>## Description
 
 A shocking video where a homosexual loses the plot at acts in an incredibly unpredictable way. 
 

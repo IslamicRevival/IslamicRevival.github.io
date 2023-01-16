@@ -1,6 +1,6 @@
 # Christianity is an Innovated Religion: Ibn Taymiyya (2021-11-20)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/Fe4vcLOpzds'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/Fe4vcLOpzds'></iframe>
 
 ## Description
 

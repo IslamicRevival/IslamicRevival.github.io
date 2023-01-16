@@ -1,6 +1,6 @@
 # An Antidote to Dissatisfaction- Reaction (Ali Dawah and Smile2jannah) (2022-01-05)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/HsgSuVWEVmg'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/HsgSuVWEVmg'></iframe>
 
 ## Description
 

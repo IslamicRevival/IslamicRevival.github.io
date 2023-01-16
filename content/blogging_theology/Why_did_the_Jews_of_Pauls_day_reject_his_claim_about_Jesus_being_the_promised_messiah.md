@@ -1,6 +1,6 @@
 # Why did the Jews of Paul’s day reject his claim about Jesus being the promised messiah? (2021-02-14)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/6_NfquS4Enk'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/6_NfquS4Enk'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Advice to Yaqeen/Sh.Yasir Qadhi on LGBT (2022-06-23)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/i3VL7t5kt54'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/i3VL7t5kt54'></iframe>
 
 ## Description
 

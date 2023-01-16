@@ -1,6 +1,6 @@
 # Quilliam's Adam Deen Debates Mohammed Hijab (2018-05-14)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/-Hi57tuW-OI'></iframe>## Description
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/-Hi57tuW-OI'></iframe>## Description
 
 An interesting discussion on whether or not the Quilliam Foundation's aims are being met and whether they are effective in counter-extremism.
 

@@ -1,6 +1,6 @@
 # Scholarly Christian Tries His Hardest To Prove Trinity (2017-06-13)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/gfo_IMb0t6M'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/gfo_IMb0t6M'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # The Structural Miracle of the Quran (2017-05-17)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/ciQVUBMyVkY'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/ciQVUBMyVkY'></iframe>
 
 ## Description
 

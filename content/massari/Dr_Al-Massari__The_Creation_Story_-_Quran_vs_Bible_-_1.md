@@ -1,6 +1,6 @@
 # Dr Al-Massari: The Creation Story - Quran vs Bible - 1 (2021-12-06)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/4gTijjVhwAM'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/4gTijjVhwAM'></iframe>
 
 ## Description
 

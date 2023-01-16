@@ -1,6 +1,6 @@
 # Londoniyyah - Part 33 - Shiaism | Mohammed Hijab (2022-04-28)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/bh9nVomQnv0'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/bh9nVomQnv0'></iframe>
 
 ## Description
 

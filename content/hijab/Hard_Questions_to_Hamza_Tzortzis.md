@@ -1,6 +1,6 @@
 # Hard Questions to Hamza Tzortzis (2017-10-10)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/jTi9f_JqTUo'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/jTi9f_JqTUo'></iframe>
 
 ## Description
 

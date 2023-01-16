@@ -1,6 +1,6 @@
 # Approaches to Islamic Heritage: Asharite, Hanbalite and Maturidite Aqeedah (2022-09-29)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/nBAW5mZ_0a4'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/nBAW5mZ_0a4'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # When the Ottomans first tried coffee (2022-10-16)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/hIixS9zaUhE'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/hIixS9zaUhE'></iframe>
 
 ## Description
 

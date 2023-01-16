@@ -1,6 +1,6 @@
 # Intellectual Man Asks Muslim All The Right Questions (2017-10-03)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/nbbMxzYWP2o'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/nbbMxzYWP2o'></iframe>
 
 ## Description
 

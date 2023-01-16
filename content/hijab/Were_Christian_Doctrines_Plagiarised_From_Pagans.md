@@ -1,6 +1,6 @@
 # Were Christian Doctrines Plagiarised From Pagans? (2021-03-15)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/Y_etzz56iW0'></iframe>## Description
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/Y_etzz56iW0'></iframe>## Description
 
 Visit https://www.naturesblends.com/ and use hijab10 for a 10% discount. 
 

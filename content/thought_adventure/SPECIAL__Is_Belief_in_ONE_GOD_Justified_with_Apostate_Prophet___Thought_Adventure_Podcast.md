@@ -1,6 +1,6 @@
 # SPECIAL: Is Belief in ONE GOD Justified? with Apostate Prophet | Thought Adventure Podcast (2021-07-18)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/NaJuYozrxDI'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/NaJuYozrxDI'></iframe>
 
 ## Description
 

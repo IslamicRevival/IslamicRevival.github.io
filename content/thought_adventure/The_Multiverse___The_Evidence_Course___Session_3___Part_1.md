@@ -1,6 +1,6 @@
 # The Multiverse | The Evidence Course | Session 3 / Part 1 (2021-08-11)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/zTqywht1u8A'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/zTqywht1u8A'></iframe>
 
 ## Description
 

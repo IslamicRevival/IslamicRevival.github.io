@@ -1,6 +1,6 @@
 # The Gospels that did NOT make it into the Bible with Prof Dale Martin (2021-08-26)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/11NiLEydjjg'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/11NiLEydjjg'></iframe>
 
 ## Description
 

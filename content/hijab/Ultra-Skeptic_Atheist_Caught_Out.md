@@ -1,6 +1,6 @@
 # Ultra-Skeptic Atheist Caught Out (2020-02-03)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/ejpxks97j3o'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/ejpxks97j3o'></iframe>
 
 ## Description
 

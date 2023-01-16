@@ -1,6 +1,6 @@
 # Impromptu review of 'The Clear Quran' translation, surah 4:34 (2020-12-05)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/JhkYto2hX44'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/JhkYto2hX44'></iframe>
 
 ## Description
 

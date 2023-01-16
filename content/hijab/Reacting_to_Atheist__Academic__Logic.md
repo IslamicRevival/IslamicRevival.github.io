@@ -1,6 +1,6 @@
 # Reacting to Atheist 'Academic' Logic (2021-09-19)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/HfsGoK83NjA'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/HfsGoK83NjA'></iframe>
 
 ## Description
 

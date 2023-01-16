@@ -1,6 +1,6 @@
 # Does God Exist ? هل الله موجود؟ مناظرة بين محمد حجاب وإدوارد تاباش (2020-02-27)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/VOgBVkcfnws'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/VOgBVkcfnws'></iframe>
 
 ## Description
 

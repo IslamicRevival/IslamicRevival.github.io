@@ -1,6 +1,6 @@
 # Muslim Gets Grilled by Atheist (2021-07-16)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/4mFxkJZlRx8'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/4mFxkJZlRx8'></iframe>
 
 ## Description
 

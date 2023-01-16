@@ -1,6 +1,6 @@
 # liberalism: White Colonialist's New Religion (2018-10-12)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/2Dyzc282ZFE'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/2Dyzc282ZFE'></iframe>
 
 ## Description
 

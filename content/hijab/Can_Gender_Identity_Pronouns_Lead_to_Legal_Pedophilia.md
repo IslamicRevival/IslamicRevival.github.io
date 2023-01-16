@@ -1,6 +1,6 @@
 # Can Gender Identity Pronouns Lead to Legal Pedophilia? (2018-12-24)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/3fDe6Q972EI'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/3fDe6Q972EI'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # What is Islamic psychology? With Dr Abdallah Rothman (2022-12-15)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/dYGFhqdQfdI'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/dYGFhqdQfdI'></iframe>
 
 ## Description
 

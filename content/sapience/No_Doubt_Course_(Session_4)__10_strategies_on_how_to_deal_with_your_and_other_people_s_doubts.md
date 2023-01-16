@@ -1,6 +1,6 @@
 # No Doubt Course (Session 4): 10 strategies on how to deal with your and other people's doubts (2020-11-18)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/n6yH7bWC5AI'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/n6yH7bWC5AI'></iframe>
 
 ## Description
 

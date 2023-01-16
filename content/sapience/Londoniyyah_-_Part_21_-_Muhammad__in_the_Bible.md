@@ -1,6 +1,6 @@
 # Londoniyyah - Part 21 - Muhammad ﷺ in the Bible (2022-03-25)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/diCnJvtrpL4'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/diCnJvtrpL4'></iframe>
 
 ## Description
 

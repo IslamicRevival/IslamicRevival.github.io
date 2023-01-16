@@ -1,6 +1,6 @@
 # Some key differences between Paul and the Gospel writers (2020-12-16)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/KuA2ozpf6AA'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/KuA2ozpf6AA'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Reacting to  MGTOW (Red Pill, Anti-Feminists) (2021-02-24)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/nK4fCDXefx0'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/nK4fCDXefx0'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Black Magic and Ancient Babylon (2021-06-01)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/dLQAEBFakr8'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/dLQAEBFakr8'></iframe>
 
 ## Description
 

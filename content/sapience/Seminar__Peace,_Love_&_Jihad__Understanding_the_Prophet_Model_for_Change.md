@@ -1,6 +1,6 @@
 # Seminar: Peace, Love & Jihad — Understanding the Prophet Model for Change (2021-08-10)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/rHcZaPbwr4s'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/rHcZaPbwr4s'></iframe>
 
 ## Description
 

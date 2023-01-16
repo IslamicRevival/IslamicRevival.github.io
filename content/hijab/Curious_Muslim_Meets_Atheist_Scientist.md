@@ -1,6 +1,6 @@
 # Curious Muslim Meets Atheist Scientist (2019-01-21)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/37EY8TP7d3k'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/37EY8TP7d3k'></iframe>
 
 ## Description
 

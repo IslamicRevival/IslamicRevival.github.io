@@ -1,6 +1,6 @@
 # FULL DEBATE!  Does Traditional Islam Need to be Liberalized - Mohammed Hijab VS Lars Gule (2019-11-05)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/tzlOG4jntzw'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/tzlOG4jntzw'></iframe>
 
 ## Description
 

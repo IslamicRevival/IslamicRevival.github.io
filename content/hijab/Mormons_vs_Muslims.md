@@ -1,6 +1,6 @@
 # Mormons vs Muslims (2017-08-01)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/_IHsxI76Ztc'></iframe>## Description
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/_IHsxI76Ztc'></iframe>## Description
 
 A really interesting discussion between Muslims and Mormons on racism in the Latter Day Saint Church.
 

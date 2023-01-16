@@ -1,6 +1,6 @@
 # Atheist Apologist tries to Disprove Quran with Science (2019-09-18)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/cBzK_RppDrA'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/cBzK_RppDrA'></iframe>
 
 ## Description
 

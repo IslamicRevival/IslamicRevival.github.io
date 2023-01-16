@@ -1,6 +1,6 @@
 # Responding to Ben Shapiro defending Israel (2021-05-22)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/swuU7XzKf8o'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/swuU7XzKf8o'></iframe>
 
 ## Description
 

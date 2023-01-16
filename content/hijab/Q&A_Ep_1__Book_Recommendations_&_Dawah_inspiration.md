@@ -1,6 +1,6 @@
 # Q&A Ep 1: Book Recommendations & Dawah inspiration (2020-07-08)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/zCfvKD88BEg'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/zCfvKD88BEg'></iframe>
 
 ## Description
 

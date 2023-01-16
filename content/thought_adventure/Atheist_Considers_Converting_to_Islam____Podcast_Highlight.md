@@ -1,6 +1,6 @@
 # Atheist Considers Converting to Islam 😲 | Podcast Highlight (2021-01-18)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/E9o_fE9QIFc'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/E9o_fE9QIFc'></iframe>
 
 ## Description
 

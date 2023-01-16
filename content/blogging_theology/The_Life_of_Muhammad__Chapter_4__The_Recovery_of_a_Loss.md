@@ -1,6 +1,6 @@
 # The Life of Muhammad ﷺ Chapter 4: The Recovery of a Loss (2021-12-14)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/OfaguOrr-Hs'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/OfaguOrr-Hs'></iframe>
 
 ## Description
 

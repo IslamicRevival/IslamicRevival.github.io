@@ -1,6 +1,6 @@
 # Did Paul Distort the Message of Christ? (2021-08-04)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/FUb8dxd63RI'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/FUb8dxd63RI'></iframe>
 
 ## Description
 

@@ -1,6 +1,6 @@
 # Correcting Muslim Preacher who Forbids Football ⚽️ (2021-07-15)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/k6Vnz5r7fVQ'></iframe>## Description
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/k6Vnz5r7fVQ'></iframe>## Description
 
 
 

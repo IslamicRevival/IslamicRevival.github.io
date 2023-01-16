@@ -1,6 +1,6 @@
 # Child Marriage in Islam ? (2019-10-13)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/sEkCeBHQvXw'></iframe>## Description
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/sEkCeBHQvXw'></iframe>## Description
 
 This video explains how Islamic law forbids sexual relationships with minors and incapable people. It explains how there is a conflation in discourse between what is referred to as nikah (which doesn't necessitate consummation) and jimaa3 (sexual intercourse).
 

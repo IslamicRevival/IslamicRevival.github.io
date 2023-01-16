@@ -1,6 +1,6 @@
 # British Police Tell Muslim Not to Pray In SC (2018-04-16)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/bNp3I1VSkBA'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/bNp3I1VSkBA'></iframe>
 
 ## Description
 

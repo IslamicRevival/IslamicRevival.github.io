@@ -1,6 +1,6 @@
 # How Feminism has Harmed Women - Belgium Lecture | Mohammed Hijab (2022-11-01)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/LdC1PepIg2U'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/LdC1PepIg2U'></iframe>
 
 ## Description
 

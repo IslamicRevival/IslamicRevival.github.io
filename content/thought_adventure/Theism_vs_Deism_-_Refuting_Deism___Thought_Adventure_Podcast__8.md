@@ -1,6 +1,6 @@
 # Theism vs Deism - Refuting Deism | Thought Adventure Podcast #8 (2021-05-02)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/C_KWEKUAesU'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/C_KWEKUAesU'></iframe>
 
 ## Description
 

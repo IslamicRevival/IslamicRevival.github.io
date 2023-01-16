@@ -1,6 +1,6 @@
 # Age of Aisha (RA) - Part 2: Definition of Childhood | Mohammed Hijab (2022-12-20)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/kEf6uuYGkB0'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/kEf6uuYGkB0'></iframe>
 
 ## Description
 

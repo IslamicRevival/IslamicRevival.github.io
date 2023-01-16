@@ -1,6 +1,6 @@
 # Islam on the rise in England - Christianity in dramatic decline (2022-12-01)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/R1IF9maoMj8'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/R1IF9maoMj8'></iframe>
 
 ## Description
 

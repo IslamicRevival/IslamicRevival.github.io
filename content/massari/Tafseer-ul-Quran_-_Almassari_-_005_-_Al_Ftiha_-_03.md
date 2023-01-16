@@ -1,6 +1,6 @@
 # Tafseer-ul-Quran - Almassari - 005 - Al Fātiha - 03 (2020-08-07)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/DrMf0P_DZgA'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/DrMf0P_DZgA'></iframe>
 
 ## Description
 

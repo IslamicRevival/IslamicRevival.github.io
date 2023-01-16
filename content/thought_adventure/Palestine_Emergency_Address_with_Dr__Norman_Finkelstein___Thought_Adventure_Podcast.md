@@ -1,6 +1,6 @@
 # Palestine Emergency Address with Dr. Norman Finkelstein | Thought Adventure Podcast (2021-05-16)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/PAQ-oIQ5OA8'></iframe>## Description
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/PAQ-oIQ5OA8'></iframe>## Description
 
 The TAP team are joined with Dr. Norman Finkelstein to discuss the current Israeli aggression against Masjid al Aqsa and the attacks on Gaza. 
 

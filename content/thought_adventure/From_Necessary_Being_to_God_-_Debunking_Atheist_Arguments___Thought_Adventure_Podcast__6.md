@@ -1,6 +1,6 @@
 # From Necessary Being to God - Debunking Atheist Arguments | Thought Adventure Podcast #6 (2021-03-28)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/qoMyzWN28gI'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/qoMyzWN28gI'></iframe>
 
 ## Description
 

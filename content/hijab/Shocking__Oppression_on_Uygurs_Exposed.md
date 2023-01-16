@@ -1,6 +1,6 @@
 # Shocking  Oppression on Uygurs Exposed (2021-09-07)
 
-<iframe loading='lazy' src='https://www.youtube.com/embed/zV3CBrQuYGE'></iframe>
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/zV3CBrQuYGE'></iframe>
 
 ## Description
 
