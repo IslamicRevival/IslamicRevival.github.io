@@ -65,7 +65,7 @@ Gmail: hello.tapodcast@gmail.com
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('3600')">00:00:00 <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">00:00:00 - 01:00:00</a>
 
 Vin from Vin and Sori debates The Muslim Metaphysician about the Trinity. Vin argues that the Trinity is coherent, while the Muslim Metaphysician argues that it is not. Vin says that the Trinity is coherent because it follows steps in arguments, and that conceding here means to concede to the whole thing. Yusuf points out that this is problematic because it means because Vin doesn't like calling people dishonest, he must be ignorant of the arguments. Vin then goes on to say that if Jake thinks the slide Jake's concession to this slide has any influence on the fact that the whole formulation of it might or might not be contradictory, then Jake is mistaken.
 

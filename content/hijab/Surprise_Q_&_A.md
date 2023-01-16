@@ -15,7 +15,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('3600')">00:00:00 <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">00:00:00 - 01:00:00</a>
 
 features a Q&A session with McKalla Peterson, where she discusses her views on Islam and muslim immigration. Some of her claims are questionable and dubious, and her discussion of sexual violence against non-muslim populations is absurd and offensive.
 

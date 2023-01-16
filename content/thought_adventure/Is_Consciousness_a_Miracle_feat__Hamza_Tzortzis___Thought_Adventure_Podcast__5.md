@@ -83,7 +83,7 @@ Gmail: hello.tapodcast@gmail.com
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('3600')">00:00:00 <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">00:00:00 - 01:00:00</a>
 
  Hamza Tzortzis discusses the hard problem of consciousness, which is the question of what it's like to be in a subjective conscious experience. He explains that while it is a first person fact, no one can deny that they are aware of their own awareness or that they are undergoing or experiencing a form of phenomenal consciousness. Tzortzis argues that consciousness is a miracle, and that materialism cannot account for the existence of qualia.
 

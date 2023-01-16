@@ -29,7 +29,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('3600')">00:00:00 <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">00:00:00 - 01:00:00</a>
 
  Dr. Osman Latiff and Dr. Michael Nazir-Ali discuss the similarities and differences between the Islamic and Christian beliefs about salvation. They discuss how each religion views sacrifice and the role of Christ in salvation. They also discuss the different implications of the resurrection for the universe as a whole.
 

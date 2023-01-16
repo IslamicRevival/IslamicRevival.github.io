@@ -60,7 +60,7 @@ Gmail: hello.tapodcast@gmail.com
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('3600')">00:00:00 <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">00:00:00 - 01:00:00</a>
 
  discusses the issue of free speech, and how it is often used to target minority groups such as Muslims. It features AbdullahalAndalusi and Dr. Abdul Wahid discussing the topic, and they argue that free speech is important in order to search for the truth and hold governments accountable.
 

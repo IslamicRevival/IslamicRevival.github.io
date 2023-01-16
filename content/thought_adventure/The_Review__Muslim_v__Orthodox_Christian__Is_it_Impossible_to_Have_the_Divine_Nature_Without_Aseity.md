@@ -58,7 +58,7 @@ Gmail: hello.tapodcast@gmail.com
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('3600')">00:00:00 <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">00:00:00 - 01:00:00</a>
 
  discusses the debate between Muslim and Orthodox Christian theologians over the existence of aseity, or divine nature without matter. It argues that, due to the lack of a metaphysical or i priori justification for the necessity of only three divine persons, Orthodox Christianity's position is an arbitrary amount. This leaves room for a non-assay divine being, which Gregory argues is necessitated by the mysterious causal ability that is accidental to the nature.
 

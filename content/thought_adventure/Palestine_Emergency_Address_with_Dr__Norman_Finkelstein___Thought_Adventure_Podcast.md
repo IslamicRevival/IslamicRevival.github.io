@@ -68,7 +68,7 @@ Gmail: hello.tapodcast@gmail.com
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('3600')">00:00:00 <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">00:00:00 - 01:00:00</a>
 
  Dr. Norman Finkelstein discusses the Israeli-Palestinian conflict and its history. He argues that the current situation is not equal, with the occupiers and the occupied not being on the same level. He also criticizes the media's portrayal of the conflict, and encourages people to learn more about the injustices suffered by the Palestinian people.
 

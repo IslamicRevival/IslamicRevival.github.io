@@ -75,7 +75,7 @@ Gmail: hello.tapodcast@gmail.com
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('3600')">00:00:00 <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">00:00:00 - 01:00:00</a>
 
 The Problem of Evil is a philosophical problem that asks why evil exists in the world. Saf Chowdhury from Thought Adventure Podcast discusses this problem and argues that a good god would provide reasons for why evil exists.
 

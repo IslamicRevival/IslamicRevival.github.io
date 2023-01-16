@@ -37,7 +37,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('3600')">00:00:00 <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">00:00:00 - 01:00:00</a>
 
 Dr. Osman Latiff discusses the concept of "othering" and how it can lead to dehumanization. He gives examples of how othering has been used in history, such as in the Crusades and the Rwandan genocide. He argues that it is important to be empathetic in order to understand the suffering of others.
 

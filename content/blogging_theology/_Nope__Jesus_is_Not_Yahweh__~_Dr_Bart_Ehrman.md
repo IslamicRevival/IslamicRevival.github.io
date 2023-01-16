@@ -11,7 +11,7 @@ I read the article by Professor Bart Ehrman on his blog:  https://ehrmanblog.org
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('600')">00:00:00 https://www.youtube.com/watch?v=zfQ6bU6GYDw&t=0 00:10:00</a>
+### <a onclick="modifyYTiframeseektime('600')">00:00:00 00:10:00</a>
 
 Dr. Bart Ehrman discusses how some modern Christians may misinterpret verses in the Bible regarding Christ's authority. He points out that while Christ had equal authority as God himself, he did not have the same authority as Yahweh before his incarnation. discusses how Paul, the author of Philippians, did not believe in a trinity of God the Father, Son, and Holy Spirit as understood later in Christianity. He argues that this doctrine developed later, and that it is an evolution into a new species of theology that did not exist in the New Testament.
 

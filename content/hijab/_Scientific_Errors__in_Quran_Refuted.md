@@ -42,7 +42,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('3600')">00:00:00 <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">00:00:00 - 01:00:00</a>
 
  discusses various supposed scientific errors in the Quran and Hadith. It argues that many of these claims are based on misinterpretations or false premises, and that the Quran and Hadith are not necessarily unscientific.
 

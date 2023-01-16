@@ -82,7 +82,7 @@ Gmail: hello.tapodcast@gmail.com
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('3600')">00:00:00 <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">00:00:00 - 01:00:00</a>
 
  discusses the differences between Quranists and Sunnahists, and discusses some of the evidence behind following the Sunnah.  discusses the science of hadith, and how like, unlike the Quran, hadith is not a standalone source of religious authority. discusses why it is important to use the Quran to disprove the arguments of people who reject hadith as a source of Islamic authority. They explain that if one does not have access to hadith then they must either reinterpret verses so much that they change their religion, or accept that some of the commands are incomplete and need further explanation.
 

@@ -59,7 +59,7 @@ Gmail: hello.tapodcast@gmail.com
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('3600')">00:00:00 <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">00:00:00 - 01:00:00</a>
 
  discusses liberalism and how it differs from Islam. It explains that Islam is true by definition and, as such, becomes a difficult topic to reconcile with liberalism. suggests that understanding liberalism's historical development is essential to understanding it.
 

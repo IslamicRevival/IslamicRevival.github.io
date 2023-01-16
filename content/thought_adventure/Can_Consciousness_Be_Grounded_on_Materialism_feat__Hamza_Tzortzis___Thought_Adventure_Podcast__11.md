@@ -70,7 +70,7 @@ Gmail: hello.tapodcast@gmail.com
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
 
-### <a onclick="modifyYTiframeseektime('3600')">00:00:00 <a onclick="modifyYTiframeseektime('3600')">01:00:00</a>
+### <a onclick="modifyYTiframeseektime('3600')">00:00:00 - 01:00:00</a>
 
 Hamza Tzortzis discusses the hard problem of consciousness and how materialists try to explain it. He points out the various problems with this approach, and suggests that Muslims should instead approach the problem from a philosophical perspective. He also discusses the importance of neuroscience in understanding consciousness, and how it is limited by its physicalist ontology.
 
