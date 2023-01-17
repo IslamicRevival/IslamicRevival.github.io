@@ -5,19 +5,17 @@
   "main": "index.js",
   "scripts": {
     "dev": "cross-env NODE_ENV=development vitepress dev content --host --port 4000",
-    "build": "cross-env NODE_ENV=production vitepress build content --debug 1",
+    "build": "cross-env NODE_ENV=production vitepress build content --debug",
     "serve": "cross-env NODE_ENV=production vitepress serve content"
   },
-  "author": "",
+  "author": "SirVival",
   "license": "ISC",
   "devDependencies": {
     "@tailwindcss/forms": "^0.5.2",
     "autoprefixer": "^10.4.7",
     "cross-env": "^7.0.3",
     "dotenv": "^16.0.1",
-    "postcss-import": "^14.1.0",
     "vitepress": "^1.0.0-alpha.29",
-    "vitepress-plugin-autobar": "^1.0.8",
     "vue": "^3.2.37"
   },
   "dependencies": {
