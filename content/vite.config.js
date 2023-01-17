@@ -1,4 +1,4 @@
-import { SearchPlugin } from "vitepress-plugin-search";
+//import { SearchPlugin } from "vitepress-plugin-search";
 import { defineConfig, searchForWorkspaceRoot } from "vitepress";
 
 var options = {
@@ -8,5 +8,5 @@ var options = {
   };
 
 export default defineConfig({
-    plugins: [SearchPlugin(options)],
+   // plugins: [SearchPlugin(options)],
 });
