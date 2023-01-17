@@ -93,7 +93,7 @@ def string_to_filename(filename: str, raw: bool = False):
     Returns:
         str: The modified file name.
     """
-    illegal_characters_in_file_names = r'"/\*?<>|:\' \#.'
+    illegal_characters_in_file_names = r'"/\*?<>|:\' \#.~'
 
     if raw:
         return ''.join(c for c in filename if c not in illegal_characters_in_file_names)
