@@ -14,7 +14,7 @@
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** Discusses the objectives of the Zionist authorities in Israel, as well as the history of ethnic cleansing and collusion with the Nazis. It highlights the fact that these actions should be questioned on the grounds of racism.
 
-* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** <>
+* **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>**
 * **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** 's narrator points out that Israel is one of the most cowardly and weakest militaries in the world, and that its targeting of civilians is unique among terrorist groups. The narrator also notes that Israel's attempts to manipulate narratives in order to expand its own power are similar to those of the Nazis.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
