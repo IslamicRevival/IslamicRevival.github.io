@@ -12,7 +12,6 @@
   "license": "ISC",
   "devDependencies": {
     "@tailwindcss/forms": "^0.5.2",
-    "autoprefixer": "^10.4.7",
     "cross-env": "^7.0.3",
     "dotenv": "^16.0.1",
     "vitepress": "^1.0.0-alpha.29",
@@ -22,6 +21,7 @@
     "@giscus/vue": "^2.2.4",
     "file-saver": "^2.0.5",
     "flexsearch": "^0.7.31",
+    "lodash": "^4.17.21",
     "markdownlint-cli": "^0.33.0",
     "tslib": "^2.4.1",
     "vitepress-plugin-search": "^1.0.4-alpha.16"
