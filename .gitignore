@@ -9,4 +9,4 @@ dist
 tmp
 chromedriver
 *.deb
-**/*.temp/**
+.temp/*
