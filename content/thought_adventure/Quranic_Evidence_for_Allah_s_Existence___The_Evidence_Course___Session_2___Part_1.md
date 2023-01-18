@@ -1,27 +1,27 @@
 # Quranic Evidence for Allah's Existence | The Evidence Course | Session 2 / Part 1 (2021-07-07)
 
-<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/MULVQnMHfEk'></iframe>
+<iframe loading='lazy' src='https://www.youtube.com/embed/MULVQnMHfEk'></iframe>
 
 ## Description
 
 Session 2 Part 1
 
-In an age of information overload and widespread pseudo-intellectualism, understanding the core foundations of Islam is as essential as ever.
+In an age of information overload and widespread pseudo-intellectualism, understanding the core foundations of Islam is as essential as ever. 
 
 This course comprehensively deconstructs the skeletal structure of prevalent ideologies and concepts such as atheism, scientism, materialism, secularism, and skepticism, in light of an all-encompassing intellectually robust Islamic worldview.
 
 Thought Adventure Support
-◄ PayPal - <https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN>
-◄ YouTube - <https://www.youtube.com/c/ThoughtAdventurePodcast/join>
-◄ PATREON - <https://www.patreon.com/thoughtadventurepodcast>
+◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
+◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
+◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: <https://twitter.com/T_A_Podcast​​> [@T_A_Podcast]
-◄ Clubhouse <https://www.clubhouse.com/club/thought-adventure-podcast>
-◄ Spotify: <https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC>
-◄ Facebook: <https://m.facebook.com/ThoughtAdventurePodcast>
-◄ Instagram: <https://www.instagram.com/ThoughtAdventurePodcast​>
+◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
+◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
+◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
+◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
+◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
 
 ----------------------------------------------------------------
 
@@ -29,344 +29,344 @@ Thought Adventure Social Media
 ----------------------|
 Jake Brancatella, The Muslim Metaphysician
 
-- Youtube: <https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ>
-- Twitter:  <https://twitter.com/MMetaphysician​​> [@MMetaphysician]
+- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
+- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
-- Youtube: <https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA>
-- Twitter: <https://twitter.com/YusufPonders​​> [@YusufPonders]
-- Facebook: <https://www.facebook.com/yusufponders​> [@yusufpodners]
+- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
+- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
+- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
 
 ----------------------|
 
 Sharif
 
-- Twitter: <https://twitter.com/sharifhafezi​​> [@sharifhafezi]
+- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: <https://twitter.com/abdul_now​> [@abdul_now]
+- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
 
 ----------------------|
 
 Admin
 
-Riyad
+Riyad 
 Gmail: hello.tapodcast@gmail.com
 
 ## Summary of [Quranic Evidence for Allah's Existence | The Evidence Course | Session 2 / Part 1](https://www.youtube.com/watch?v=MULVQnMHfEk)
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 
-### <a onclick="modifyYTiframeseektime('0')">00:00:00-00:10:00</a>
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+
+### [00:00:00](https://www.youtube.com/watch?v=MULVQnMHfEk&t=0) - [00:10:00](https://www.youtube.com/watch?v=MULVQnMHfEk&t=600)
 
 The Qur'an provides convincing evidence for the existence of Allah, including visualized arguments about the universe and its creatures. Ibrahim al-Ismail questions the existence of the stars and moon, but is reassured by Allah's guidance. The sun, moon, and stars follow patterns and laws set by Allah, and cannot be explained without a creator. This leads Ibrahim to profess faith in Allah alone.
 
-**<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** The Quran discusses the existence of a Creator and provides evidence for this belief. Ibn Kathir explains that understanding the creations of the heavens and Earth and the alternations of night and day are all Signs for intelligent people to contemplate upon and come to the conclusion that Allah exists. Ibrahim's story is used to illustrate this point.
-
-- **<a onclick="modifyYTiframeseektime('300')">00:05:00</a>** The Qur'an provides convincing evidence for the existence of Allah, including visualized arguments about the universe and its creatures. Ibrahim al-Ismail questions the existence of the stars and moon, but is reassured by Allah's guidance. The sun, moon, and stars follow patterns and laws set by Allah, and cannot be explained without a creator. This leads Ibrahim to profess faith in Allah alone.
-- **<a onclick="modifyYTiframeseektime('600')">00:10:00</a>** The Qur'an provides evidence for the existence of Allah. Ibrahim al-Hassam pointed out that when one turns to Allah in repentance, they are not considered a polytheist and can understand this evidence. The take-home message is to reflect on the reality of Allah's existence, and to appreciate this evidence through deep thought.
+**[00:00:00](https://www.youtube.com/watch?v=MULVQnMHfEk&t=0)** The Quran discusses the existence of a Creator and provides evidence for this belief. Ibn Kathir explains that understanding the creations of the heavens and Earth and the alternations of night and day are all Signs for intelligent people to contemplate upon and come to the conclusion that Allah exists. Ibrahim's story is used to illustrate this point.
+* **[00:05:00](https://www.youtube.com/watch?v=MULVQnMHfEk&t=300)** The Qur'an provides convincing evidence for the existence of Allah, including visualized arguments about the universe and its creatures. Ibrahim al-Ismail questions the existence of the stars and moon, but is reassured by Allah's guidance. The sun, moon, and stars follow patterns and laws set by Allah, and cannot be explained without a creator. This leads Ibrahim to profess faith in Allah alone.
+* **[00:10:00](https://www.youtube.com/watch?v=MULVQnMHfEk&t=600)** The Qur'an provides evidence for the existence of Allah. Ibrahim al-Hassam pointed out that when one turns to Allah in repentance, they are not considered a polytheist and can understand this evidence. The take-home message is to reflect on the reality of Allah's existence, and to appreciate this evidence through deep thought.
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('15')">0:00:15</a> so in the first section  
-<a onclick="modifyYTiframeseektime('17')">0:00:17</a> we discussed about the importance of  
-<a onclick="modifyYTiframeseektime('20')">0:00:20</a> belief  
-<a onclick="modifyYTiframeseektime('21')">0:00:21</a> the approach and the manner by which we  
-<a onclick="modifyYTiframeseektime('23')">0:00:23</a> approach this question about  
-<a onclick="modifyYTiframeseektime('25')">0:00:25</a> what is our purpose of life we looked at  
-<a onclick="modifyYTiframeseektime('28')">0:00:28</a> the limitations of science in answering  
-<a onclick="modifyYTiframeseektime('31')">0:00:31</a> this question  
-<a onclick="modifyYTiframeseektime('33')">0:00:33</a> and we also looked at the rational  
-<a onclick="modifyYTiframeseektime('34')">0:00:34</a> process by which we can use  
-<a onclick="modifyYTiframeseektime('37')">0:00:37</a> in order to come to this conclusion or  
-<a onclick="modifyYTiframeseektime('38')">0:00:38</a> potentially come to the conclusion  
-<a onclick="modifyYTiframeseektime('40')">0:00:40</a> what is our purpose in life now we're  
-<a onclick="modifyYTiframeseektime('44')">0:00:44</a> going on to discuss  
-<a onclick="modifyYTiframeseektime('45')">0:00:45</a> about does a creator exist and what are  
-<a onclick="modifyYTiframeseektime('48')">0:00:48</a> the various  
-<a onclick="modifyYTiframeseektime('49')">0:00:49</a> evidences and it's important  
-<a onclick="modifyYTiframeseektime('52')">0:00:52</a> from a muslim perspective to understand  
-<a onclick="modifyYTiframeseektime('55')">0:00:55</a> how the quran  
-<a onclick="modifyYTiframeseektime('56')">0:00:56</a> addresses this particular question about  
-<a onclick="modifyYTiframeseektime('59')">0:00:59</a> the existence of allah  
-<a onclick="modifyYTiframeseektime('62')">0:01:02</a> now the quranic approach to this  
-<a onclick="modifyYTiframeseektime('64')">0:01:04</a> question is unique and that's not just  
-<a onclick="modifyYTiframeseektime('66')">0:01:06</a> withstanding the fact that the quran is  
-<a onclick="modifyYTiframeseektime('69')">0:01:09</a> inimitable  
-<a onclick="modifyYTiframeseektime('70')">0:01:10</a> in its linguistic miracle meaning that  
-<a onclick="modifyYTiframeseektime('72')">0:01:12</a> it cannot be matched  
-<a onclick="modifyYTiframeseektime('73')">0:01:13</a> and it's a linguistic miracle because  
-<a onclick="modifyYTiframeseektime('76')">0:01:16</a> the quran  
-<a onclick="modifyYTiframeseektime('77')">0:01:17</a> not only provides ideas that stimulate  
-<a onclick="modifyYTiframeseektime('80')">0:01:20</a> the mind  
-<a onclick="modifyYTiframeseektime('81')">0:01:21</a> but also the quran affects the emotions  
-<a onclick="modifyYTiframeseektime('86')">0:01:26</a> for example allah in the quran states  
-<a onclick="modifyYTiframeseektime('90')">0:01:30</a> in chapter three surah al-imran verse  
-<a onclick="modifyYTiframeseektime('93')">0:01:33</a> 190  
-<a onclick="modifyYTiframeseektime('94')">0:01:34</a> most surely in the creation of the  
-<a onclick="modifyYTiframeseektime('96')">0:01:36</a> heavens and the earth  
-<a onclick="modifyYTiframeseektime('98')">0:01:38</a> and the alternations of the night and  
-<a onclick="modifyYTiframeseektime('100')">0:01:40</a> the day there are signs for men  
-<a onclick="modifyYTiframeseektime('102')">0:01:42</a> of understanding and ibrahim  
-<a onclick="modifyYTiframeseektime('106')">0:01:46</a> of this particular verse he quotes the  
-<a onclick="modifyYTiframeseektime('109')">0:01:49</a> prophet sallallahu alaihi wasallam  
-<a onclick="modifyYTiframeseektime('113')">0:01:53</a> who said woe unto he  
-<a onclick="modifyYTiframeseektime('116')">0:01:56</a> who recites this verse but does not  
-<a onclick="modifyYTiframeseektime('119')">0:01:59</a> contemplate it  
-<a onclick="modifyYTiframeseektime('121')">0:02:01</a> so the verse was saying what it was  
-<a onclick="modifyYTiframeseektime('123')">0:02:03</a> saying indeed in the creations of the  
-<a onclick="modifyYTiframeseektime('125')">0:02:05</a> heavens and the earth  
-<a onclick="modifyYTiframeseektime('130')">0:02:10</a> and the alternations of the night and  
-<a onclick="modifyYTiframeseektime('132')">0:02:12</a> the day the change  
-<a onclick="modifyYTiframeseektime('134')">0:02:14</a> that we see around us that these  
-<a onclick="modifyYTiframeseektime('137')">0:02:17</a> are signs for a people of  
-<a onclick="modifyYTiframeseektime('141')">0:02:21</a> thinking  
-<a onclick="modifyYTiframeseektime('144')">0:02:24</a> and you know just the point about this  
-<a onclick="modifyYTiframeseektime('147')">0:02:27</a> word  
-<a onclick="modifyYTiframeseektime('148')">0:02:28</a> the people of thinking the word al-bab  
-<a onclick="modifyYTiframeseektime('151')">0:02:31</a> it comes linguistically  
-<a onclick="modifyYTiframeseektime('152')">0:02:32</a> from the word which means to go to the  
-<a onclick="modifyYTiframeseektime('155')">0:02:35</a> very inner  
-<a onclick="modifyYTiframeseektime('156')">0:02:36</a> core of the fruit so when it says that  
-<a onclick="modifyYTiframeseektime('159')">0:02:39</a> understanding the creations of the  
-<a onclick="modifyYTiframeseektime('161')">0:02:41</a> heavens and the earth  
-<a onclick="modifyYTiframeseektime('163')">0:02:43</a> really thinking about it contemplating  
-<a onclick="modifyYTiframeseektime('165')">0:02:45</a> about it  
-<a onclick="modifyYTiframeseektime('166')">0:02:46</a> all the alternations of night and day  
-<a onclick="modifyYTiframeseektime('168')">0:02:48</a> the changes that we  
-<a onclick="modifyYTiframeseektime('170')">0:02:50</a> see within the universe if you really  
-<a onclick="modifyYTiframeseektime('173')">0:02:53</a> think going to the  
-<a onclick="modifyYTiframeseektime('174')">0:02:54</a> deep understanding a deep enlightened  
-<a onclick="modifyYTiframeseektime('177')">0:02:57</a> approach to this  
-<a onclick="modifyYTiframeseektime('179')">0:02:59</a> that there are signs for people signs  
-<a onclick="modifyYTiframeseektime('182')">0:03:02</a> for what  
-<a onclick="modifyYTiframeseektime('183')">0:03:03</a> for the existence of allah  
-<a onclick="modifyYTiframeseektime('186')">0:03:06</a> and so this is why the prophet  
-<a onclick="modifyYTiframeseektime('189')">0:03:09</a> sallallahu alaihi wasallam  
-<a onclick="modifyYTiframeseektime('191')">0:03:11</a> said woe unto the one who recites it but  
-<a onclick="modifyYTiframeseektime('194')">0:03:14</a> does not contemplate it  
-<a onclick="modifyYTiframeseektime('195')">0:03:15</a> contemplate upon the verse and what the  
-<a onclick="modifyYTiframeseektime('198')">0:03:18</a> verse is telling us to contemplate upon  
-<a onclick="modifyYTiframeseektime('200')">0:03:20</a> which is the creation the universe  
-<a onclick="modifyYTiframeseektime('202')">0:03:22</a> around us  
-<a onclick="modifyYTiframeseektime('204')">0:03:24</a> hence the quran calls upon humanity to  
-<a onclick="modifyYTiframeseektime('208')">0:03:28</a> contemplate upon the universe  
-<a onclick="modifyYTiframeseektime('209')">0:03:29</a> and what it contains and it is through  
-<a onclick="modifyYTiframeseektime('211')">0:03:31</a> this deep reflection  
-<a onclick="modifyYTiframeseektime('213')">0:03:33</a> this deep study that we will come to the  
-<a onclick="modifyYTiframeseektime('215')">0:03:35</a> conclusion  
-<a onclick="modifyYTiframeseektime('216')">0:03:36</a> about the existence of one absolute  
-<a onclick="modifyYTiframeseektime('218')">0:03:38</a> creator allah  
-<a onclick="modifyYTiframeseektime('220')">0:03:40</a> this forms therefore part of the quranic  
-<a onclick="modifyYTiframeseektime('223')">0:03:43</a> method or the the quranic method  
-<a onclick="modifyYTiframeseektime('225')">0:03:45</a> in approaching the belief in the creator  
-<a onclick="modifyYTiframeseektime('227')">0:03:47</a> as ibn kathy goes on to state about that  
-<a onclick="modifyYTiframeseektime('230')">0:03:50</a> verse of quran  
-<a onclick="modifyYTiframeseektime('231')">0:03:51</a> where he says referring to the part of  
-<a onclick="modifyYTiframeseektime('233')">0:03:53</a> the ayah that states  
-<a onclick="modifyYTiframeseektime('236')">0:03:56</a> there are indeed that these are  
-<a onclick="modifyYTiframeseektime('240')">0:04:00</a> for indeed signs of men of understanding  
-<a onclick="modifyYTiframeseektime('242')">0:04:02</a> he says referring to the intelligent  
-<a onclick="modifyYTiframeseektime('245')">0:04:05</a> sound rational minds that contemplate  
-<a onclick="modifyYTiframeseektime('248')">0:04:08</a> about the true reality of things  
-<a onclick="modifyYTiframeseektime('250')">0:04:10</a> unlike the deaf and the mute who do not  
-<a onclick="modifyYTiframeseektime('252')">0:04:12</a> have sound comprehension  
-<a onclick="modifyYTiframeseektime('254')">0:04:14</a> death in the mute here is meant in a  
-<a onclick="modifyYTiframeseektime('255')">0:04:15</a> metaphorical sense  
-<a onclick="modifyYTiframeseektime('257')">0:04:17</a> so the quran demonstrates that through  
-<a onclick="modifyYTiframeseektime('259')">0:04:19</a> deep enlightened rational thought  
-<a onclick="modifyYTiframeseektime('261')">0:04:21</a> that about the universe through a  
-<a onclick="modifyYTiframeseektime('264')">0:04:24</a> rational comprehension  
-<a onclick="modifyYTiframeseektime('265')">0:04:25</a> about the existence of things around us  
-<a onclick="modifyYTiframeseektime('267')">0:04:27</a> that we can come to the existence  
-<a onclick="modifyYTiframeseektime('269')">0:04:29</a> come to the the knowledge that our  
-<a onclick="modifyYTiframeseektime('271')">0:04:31</a> creator exists  
-<a onclick="modifyYTiframeseektime('272')">0:04:32</a> and that allah dies the originator of  
-<a onclick="modifyYTiframeseektime('275')">0:04:35</a> this universe  
-<a onclick="modifyYTiframeseektime('276')">0:04:36</a> and this is clearly demonstrated in the  
-<a onclick="modifyYTiframeseektime('279')">0:04:39</a> story of ibrahim  
-<a onclick="modifyYTiframeseektime('282')">0:04:42</a> who in the verse of quran chapter number  
-<a onclick="modifyYTiframeseektime('285')">0:04:45</a> 6 verse 74 to 80  
-<a onclick="modifyYTiframeseektime('288')">0:04:48</a> it mentions remember when ibrahim said  
-<a onclick="modifyYTiframeseektime('291')">0:04:51</a> to his  
-<a onclick="modifyYTiframeseektime('291')">0:04:51</a> uh said to azer  
-<a onclick="modifyYTiframeseektime('295')">0:04:55</a> do you take idols for gods surely i see  
-<a onclick="modifyYTiframeseektime('298')">0:04:58</a> you and your people in manifest era  
-<a onclick="modifyYTiframeseektime('301')">0:05:01</a> thus we were showing ibrahim the  
-<a onclick="modifyYTiframeseektime('304')">0:05:04</a> kingdoms of the heavens and the earth  
-<a onclick="modifyYTiframeseektime('306')">0:05:06</a> that he might be of those who have sure  
-<a onclick="modifyYTiframeseektime('309')">0:05:09</a> faith  
-<a onclick="modifyYTiframeseektime('310')">0:05:10</a> so when the night out spread over  
-<a onclick="modifyYTiframeseektime('312')">0:05:12</a> ibrahim he saw a star  
-<a onclick="modifyYTiframeseektime('315')">0:05:15</a> he said this is my lord  
-<a onclick="modifyYTiframeseektime('319')">0:05:19</a> questioning but when the star set in the  
-<a onclick="modifyYTiframeseektime('322')">0:05:22</a> morning he said  
-<a onclick="modifyYTiframeseektime('324')">0:05:24</a> this cannot be my lord because it has  
-<a onclick="modifyYTiframeseektime('326')">0:05:26</a> passed  
-<a onclick="modifyYTiframeseektime('327')">0:05:27</a> away and i do not like the transitory  
-<a onclick="modifyYTiframeseektime('330')">0:05:30</a> transitory gods on the next day when he  
-<a onclick="modifyYTiframeseektime('333')">0:05:33</a> saw on the next night when he saw the  
-<a onclick="modifyYTiframeseektime('335')">0:05:35</a> moon rising he said  
-<a onclick="modifyYTiframeseektime('336')">0:05:36</a> this is my lord but when the moon said  
-<a onclick="modifyYTiframeseektime('339')">0:05:39</a> he said  
-<a onclick="modifyYTiframeseektime('339')">0:05:39</a> if my lord had not guided me then i  
-<a onclick="modifyYTiframeseektime('342')">0:05:42</a> shall  
-<a onclick="modifyYTiframeseektime('343')">0:05:43</a> surely be of those who have gone astray  
-<a onclick="modifyYTiframeseektime('346')">0:05:46</a> in the morning when ibrahim saw the sun  
-<a onclick="modifyYTiframeseektime('349')">0:05:49</a> rising he said this must be my lord  
-<a onclick="modifyYTiframeseektime('352')">0:05:52</a> because this is greater than the star  
-<a onclick="modifyYTiframeseektime('353')">0:05:53</a> and the moon but when he saw the sun  
-<a onclick="modifyYTiframeseektime('356')">0:05:56</a> set he said o my people surely  
-<a onclick="modifyYTiframeseektime('359')">0:05:59</a> i am free from what you associate and i  
-<a onclick="modifyYTiframeseektime('362')">0:06:02</a> have sincerely turned myself  
-<a onclick="modifyYTiframeseektime('364')">0:06:04</a> to him who originated the heavens and  
-<a onclick="modifyYTiframeseektime('366')">0:06:06</a> the earth  
-<a onclick="modifyYTiframeseektime('367')">0:06:07</a> and i am not of one of those who are the  
-<a onclick="modifyYTiframeseektime('369')">0:06:09</a> mushrikeen  
-<a onclick="modifyYTiframeseektime('370')">0:06:10</a> the people who commit shirk and  
-<a onclick="modifyYTiframeseektime('372')">0:06:12</a> polytheism  
-<a onclick="modifyYTiframeseektime('374')">0:06:14</a> so here the quran gives a very potent  
-<a onclick="modifyYTiframeseektime('377')">0:06:17</a> visualized argument about those things  
-<a onclick="modifyYTiframeseektime('380')">0:06:20</a> that exist within the universe  
-<a onclick="modifyYTiframeseektime('383')">0:06:23</a> ibrahim al-islam according to when he's  
-<a onclick="modifyYTiframeseektime('386')">0:06:26</a> saying this is my lord he's speaking to  
-<a onclick="modifyYTiframeseektime('387')">0:06:27</a> the people  
-<a onclick="modifyYTiframeseektime('388')">0:06:28</a> so he's not affirming this about the  
-<a onclick="modifyYTiframeseektime('390')">0:06:30</a> star of the moon or the sun  
-<a onclick="modifyYTiframeseektime('392')">0:06:32</a> he's questioning them about this and  
-<a onclick="modifyYTiframeseektime('394')">0:06:34</a> ibrahimo  
-<a onclick="modifyYTiframeseektime('395')">0:06:35</a> islam he's explaining that look the  
-<a onclick="modifyYTiframeseektime('397')">0:06:37</a> stars rose  
-<a onclick="modifyYTiframeseektime('399')">0:06:39</a> and the star set the moon rose and the  
-<a onclick="modifyYTiframeseektime('402')">0:06:42</a> moon  
-<a onclick="modifyYTiframeseektime('402')">0:06:42</a> set the sun rose and it set  
-<a onclick="modifyYTiframeseektime('406')">0:06:46</a> they follow regulations they  
-<a onclick="modifyYTiframeseektime('409')">0:06:49</a> change they follow certain laws  
-<a onclick="modifyYTiframeseektime('413')">0:06:53</a> they're imposed upon by certain patterns  
-<a onclick="modifyYTiframeseektime('417')">0:06:57</a> the question then becomes why believe in  
-<a onclick="modifyYTiframeseektime('420')">0:07:00</a> something  
-<a onclick="modifyYTiframeseektime('421')">0:07:01</a> which is limited and dependent upon  
-<a onclick="modifyYTiframeseektime('423')">0:07:03</a> those laws for it to exist  
-<a onclick="modifyYTiframeseektime('426')">0:07:06</a> rather the question then becomes that  
-<a onclick="modifyYTiframeseektime('429')">0:07:09</a> actually we should free ourselves  
-<a onclick="modifyYTiframeseektime('431')">0:07:11</a> from the limited dependent things but  
-<a onclick="modifyYTiframeseektime('433')">0:07:13</a> worship the one that imposed the law  
-<a onclick="modifyYTiframeseektime('436')">0:07:16</a> and the order and the creation of these  
-<a onclick="modifyYTiframeseektime('438')">0:07:18</a> things  
-<a onclick="modifyYTiframeseektime('441')">0:07:21</a> so this is what the quran is pointing to  
-<a onclick="modifyYTiframeseektime('443')">0:07:23</a> in the story of ibrahim al-islam  
-<a onclick="modifyYTiframeseektime('445')">0:07:25</a> that those things which are limited and  
-<a onclick="modifyYTiframeseektime('447')">0:07:27</a> dependent are dependent upon  
-<a onclick="modifyYTiframeseektime('450')">0:07:30</a> a law giver they're following laws so  
-<a onclick="modifyYTiframeseektime('453')">0:07:33</a> there must be a law giver  
-<a onclick="modifyYTiframeseektime('454')">0:07:34</a> of those celestial objects no matter how  
-<a onclick="modifyYTiframeseektime('457')">0:07:37</a> great they  
-<a onclick="modifyYTiframeseektime('458')">0:07:38</a> are they require something other than  
-<a onclick="modifyYTiframeseektime('460')">0:07:40</a> themselves to determine these laws  
-<a onclick="modifyYTiframeseektime('462')">0:07:42</a> that something can only be the one that  
-<a onclick="modifyYTiframeseektime('465')">0:07:45</a> that something  
-<a onclick="modifyYTiframeseektime('466')">0:07:46</a> can only be the one who created the  
-<a onclick="modifyYTiframeseektime('468')">0:07:48</a> stars the moon the sun  
-<a onclick="modifyYTiframeseektime('470')">0:07:50</a> the universe as a whole and could have  
-<a onclick="modifyYTiframeseektime('472')">0:07:52</a> ordained  
-<a onclick="modifyYTiframeseektime('473')">0:07:53</a> that these weak limited needy objects  
-<a onclick="modifyYTiframeseektime('476')">0:07:56</a> the laws that they are governed by  
-<a onclick="modifyYTiframeseektime('479')">0:07:59</a> indeed to this day no theory whether  
-<a onclick="modifyYTiframeseektime('482')">0:08:02</a> framed in the  
-<a onclick="modifyYTiframeseektime('484')">0:08:04</a> newtonian or quantum mechanics  
-<a onclick="modifyYTiframeseektime('487')">0:08:07</a> and physics gives an explanation to the  
-<a onclick="modifyYTiframeseektime('490')">0:08:10</a> fundamental point  
-<a onclick="modifyYTiframeseektime('493')">0:08:13</a> that argument of why do bodies exist  
-<a onclick="modifyYTiframeseektime('497')">0:08:17</a> in the way that they do and  
-<a onclick="modifyYTiframeseektime('500')">0:08:20</a> can these things that exist which are  
-<a onclick="modifyYTiframeseektime('502')">0:08:22</a> limited and needy and dependent  
-<a onclick="modifyYTiframeseektime('504')">0:08:24</a> exist without a creator and an  
-<a onclick="modifyYTiframeseektime('507')">0:08:27</a> originator  
-<a onclick="modifyYTiframeseektime('509')">0:08:29</a> and most what they do is they describe  
-<a onclick="modifyYTiframeseektime('512')">0:08:32</a> how things exist they might provide to  
-<a onclick="modifyYTiframeseektime('515')">0:08:35</a> us  
-<a onclick="modifyYTiframeseektime('516')">0:08:36</a> a mechanistic explanation to the  
-<a onclick="modifyYTiframeseektime('519')">0:08:39</a> universe  
-<a onclick="modifyYTiframeseektime('521')">0:08:41</a> but what they can't do is explain to us  
-<a onclick="modifyYTiframeseektime('524')">0:08:44</a> why the thing the agency behind that  
-<a onclick="modifyYTiframeseektime('527')">0:08:47</a> mechanism  
-<a onclick="modifyYTiframeseektime('528')">0:08:48</a> why that mechanism exists in the first  
-<a onclick="modifyYTiframeseektime('530')">0:08:50</a> place  
-<a onclick="modifyYTiframeseektime('532')">0:08:52</a> so reflecting on the universe only leads  
-<a onclick="modifyYTiframeseektime('535')">0:08:55</a> us to understanding  
-<a onclick="modifyYTiframeseektime('537')">0:08:57</a> for a need for the creator this is what  
-<a onclick="modifyYTiframeseektime('539')">0:08:59</a> the quran  
-<a onclick="modifyYTiframeseektime('540')">0:09:00</a> and allah is suggesting within the quran  
-<a onclick="modifyYTiframeseektime('544')">0:09:04</a> and that there must be something that's  
-<a onclick="modifyYTiframeseektime('546')">0:09:06</a> absolutely independent of creation  
-<a onclick="modifyYTiframeseektime('548')">0:09:08</a> in order to explain the existence of  
-<a onclick="modifyYTiframeseektime('550')">0:09:10</a> dependent limited things  
-<a onclick="modifyYTiframeseektime('552')">0:09:12</a> this point is further illustrated in the  
-<a onclick="modifyYTiframeseektime('555')">0:09:15</a> verse that describes the creator as  
-<a onclick="modifyYTiframeseektime('557')">0:09:17</a> a summit when the well-known  
-<a onclick="modifyYTiframeseektime('561')">0:09:21</a> well-recited surah surah iqlas  
-<a onclick="modifyYTiframeseektime('564')">0:09:24</a> what allah says allah is a summit  
-<a onclick="modifyYTiframeseektime('570')">0:09:30</a> in arabic language as-samad means  
-<a onclick="modifyYTiframeseektime('573')">0:09:33</a> the one without need without  
-<a onclick="modifyYTiframeseektime('575')">0:09:35</a> incompleteness  
-<a onclick="modifyYTiframeseektime('577')">0:09:37</a> whole self-sufficient requiring nothing  
-<a onclick="modifyYTiframeseektime('580')">0:09:40</a> else for  
-<a onclick="modifyYTiframeseektime('581')">0:09:41</a> its existence  
-<a onclick="modifyYTiframeseektime('584')">0:09:44</a> and also as samad means that which  
-<a onclick="modifyYTiframeseektime('588')">0:09:48</a> other things require its existence for  
-<a onclick="modifyYTiframeseektime('591')">0:09:51</a> so allah  
-<a onclick="modifyYTiframeseektime('593')">0:09:53</a> is describing in the quran  
-<a onclick="modifyYTiframeseektime('596')">0:09:56</a> his nature his subhana with allah's  
-<a onclick="modifyYTiframeseektime('598')">0:09:58</a> nature  
-<a onclick="modifyYTiframeseektime('599')">0:09:59</a> which is that allah is assamed  
-<a onclick="modifyYTiframeseektime('601')">0:10:01</a> independent  
-<a onclick="modifyYTiframeseektime('602')">0:10:02</a> self-sufficient free of any need  
-<a onclick="modifyYTiframeseektime('606')">0:10:06</a> but upon which all other things depend  
-<a onclick="modifyYTiframeseektime('609')">0:10:09</a> their existence for  
-<a onclick="modifyYTiframeseektime('611')">0:10:11</a> and this is a point that was recognized  
-<a onclick="modifyYTiframeseektime('613')">0:10:13</a> by ibrahim alaihissalam  
-<a onclick="modifyYTiframeseektime('615')">0:10:15</a> when he said i have sincerely turned  
-<a onclick="modifyYTiframeseektime('618')">0:10:18</a> myself to him  
-<a onclick="modifyYTiframeseektime('619')">0:10:19</a> who originated the heavens and the earth  
-<a onclick="modifyYTiframeseektime('622')">0:10:22</a> and indeed i am not  
-<a onclick="modifyYTiframeseektime('624')">0:10:24</a> one of the polytheists so we can  
-<a onclick="modifyYTiframeseektime('626')">0:10:26</a> understand that the quranic approach  
-<a onclick="modifyYTiframeseektime('629')">0:10:29</a> the take home message here is the  
-<a onclick="modifyYTiframeseektime('631')">0:10:31</a> quranic approach  
-<a onclick="modifyYTiframeseektime('632')">0:10:32</a> tells us to reflect or to sense the  
-<a onclick="modifyYTiframeseektime('635')">0:10:35</a> reality  
-<a onclick="modifyYTiframeseektime('636')">0:10:36</a> but not only just to sense the reality  
-<a onclick="modifyYTiframeseektime('639')">0:10:39</a> but to  
-<a onclick="modifyYTiframeseektime('639')">0:10:39</a> really really think about this reality  
-<a onclick="modifyYTiframeseektime('642')">0:10:42</a> in a  
-<a onclick="modifyYTiframeseektime('643')">0:10:43</a> deep way and through that thought  
-<a onclick="modifyYTiframeseektime('646')">0:10:46</a> through that comprehension do we come to  
-<a onclick="modifyYTiframeseektime('649')">0:10:49</a> the knowledge and the signs for the  
-<a onclick="modifyYTiframeseektime('650')">0:10:50</a> existence of the creator  
-<a onclick="modifyYTiframeseektime('652')">0:10:52</a> and just as a quick side point  
-<a onclick="modifyYTiframeseektime('655')">0:10:55</a> if things are easy and you acquire them  
-<a onclick="modifyYTiframeseektime('658')">0:10:58</a> easily  
-<a onclick="modifyYTiframeseektime('659')">0:10:59</a> then you will not appreciate what you  
-<a onclick="modifyYTiframeseektime('661')">0:11:01</a> have  
-<a onclick="modifyYTiframeseektime('662')">0:11:02</a> when you really have to struggle and  
-<a onclick="modifyYTiframeseektime('664')">0:11:04</a> think about something  
-<a onclick="modifyYTiframeseektime('666')">0:11:06</a> and you come to the conclusion upon that  
-<a onclick="modifyYTiframeseektime('668')">0:11:08</a> thing for through hard work for a mental  
-<a onclick="modifyYTiframeseektime('670')">0:11:10</a> exercise in this case  
-<a onclick="modifyYTiframeseektime('672')">0:11:12</a> then you can really appreciate what you  
-<a onclick="modifyYTiframeseektime('674')">0:11:14</a> have  
-<a onclick="modifyYTiframeseektime('675')">0:11:15</a> this is in essence what it means to  
-<a onclick="modifyYTiframeseektime('677')">0:11:17</a> contemplate about the signs for the  
-<a onclick="modifyYTiframeseektime('678')">0:11:18</a> existence of the creator  
-<a onclick="modifyYTiframeseektime('680')">0:11:20</a> and the next video we're going into a  
-<a onclick="modifyYTiframeseektime('682')">0:11:22</a> bit more detail  
-<a onclick="modifyYTiframeseektime('684')">0:11:24</a> with regards to the evidences for the  
-<a onclick="modifyYTiframeseektime('686')">0:11:26</a> existence of  
-<a onclick="modifyYTiframeseektime('687')">0:11:27</a> the creator of the subhanallah darla  
+[0:00:15](https://youtu.be/MULVQnMHfEk?t=15) so in the first section  
+[0:00:17](https://youtu.be/MULVQnMHfEk?t=17) we discussed about the importance of  
+[0:00:20](https://youtu.be/MULVQnMHfEk?t=20) belief  
+[0:00:21](https://youtu.be/MULVQnMHfEk?t=21) the approach and the manner by which we  
+[0:00:23](https://youtu.be/MULVQnMHfEk?t=23) approach this question about  
+[0:00:25](https://youtu.be/MULVQnMHfEk?t=25) what is our purpose of life we looked at  
+[0:00:28](https://youtu.be/MULVQnMHfEk?t=28) the limitations of science in answering  
+[0:00:31](https://youtu.be/MULVQnMHfEk?t=31) this question  
+[0:00:33](https://youtu.be/MULVQnMHfEk?t=33) and we also looked at the rational  
+[0:00:34](https://youtu.be/MULVQnMHfEk?t=34) process by which we can use  
+[0:00:37](https://youtu.be/MULVQnMHfEk?t=37) in order to come to this conclusion or  
+[0:00:38](https://youtu.be/MULVQnMHfEk?t=38) potentially come to the conclusion  
+[0:00:40](https://youtu.be/MULVQnMHfEk?t=40) what is our purpose in life now we're  
+[0:00:44](https://youtu.be/MULVQnMHfEk?t=44) going on to discuss  
+[0:00:45](https://youtu.be/MULVQnMHfEk?t=45) about does a creator exist and what are  
+[0:00:48](https://youtu.be/MULVQnMHfEk?t=48) the various  
+[0:00:49](https://youtu.be/MULVQnMHfEk?t=49) evidences and it's important  
+[0:00:52](https://youtu.be/MULVQnMHfEk?t=52) from a muslim perspective to understand  
+[0:00:55](https://youtu.be/MULVQnMHfEk?t=55) how the quran  
+[0:00:56](https://youtu.be/MULVQnMHfEk?t=56) addresses this particular question about  
+[0:00:59](https://youtu.be/MULVQnMHfEk?t=59) the existence of allah  
+[0:01:02](https://youtu.be/MULVQnMHfEk?t=62) now the quranic approach to this  
+[0:01:04](https://youtu.be/MULVQnMHfEk?t=64) question is unique and that's not just  
+[0:01:06](https://youtu.be/MULVQnMHfEk?t=66) withstanding the fact that the quran is  
+[0:01:09](https://youtu.be/MULVQnMHfEk?t=69) inimitable  
+[0:01:10](https://youtu.be/MULVQnMHfEk?t=70) in its linguistic miracle meaning that  
+[0:01:12](https://youtu.be/MULVQnMHfEk?t=72) it cannot be matched  
+[0:01:13](https://youtu.be/MULVQnMHfEk?t=73) and it's a linguistic miracle because  
+[0:01:16](https://youtu.be/MULVQnMHfEk?t=76) the quran  
+[0:01:17](https://youtu.be/MULVQnMHfEk?t=77) not only provides ideas that stimulate  
+[0:01:20](https://youtu.be/MULVQnMHfEk?t=80) the mind  
+[0:01:21](https://youtu.be/MULVQnMHfEk?t=81) but also the quran affects the emotions  
+[0:01:26](https://youtu.be/MULVQnMHfEk?t=86) for example allah in the quran states  
+[0:01:30](https://youtu.be/MULVQnMHfEk?t=90) in chapter three surah al-imran verse  
+[0:01:33](https://youtu.be/MULVQnMHfEk?t=93) 190  
+[0:01:34](https://youtu.be/MULVQnMHfEk?t=94) most surely in the creation of the  
+[0:01:36](https://youtu.be/MULVQnMHfEk?t=96) heavens and the earth  
+[0:01:38](https://youtu.be/MULVQnMHfEk?t=98) and the alternations of the night and  
+[0:01:40](https://youtu.be/MULVQnMHfEk?t=100) the day there are signs for men  
+[0:01:42](https://youtu.be/MULVQnMHfEk?t=102) of understanding and ibrahim  
+[0:01:46](https://youtu.be/MULVQnMHfEk?t=106) of this particular verse he quotes the  
+[0:01:49](https://youtu.be/MULVQnMHfEk?t=109) prophet sallallahu alaihi wasallam  
+[0:01:53](https://youtu.be/MULVQnMHfEk?t=113) who said woe unto he  
+[0:01:56](https://youtu.be/MULVQnMHfEk?t=116) who recites this verse but does not  
+[0:01:59](https://youtu.be/MULVQnMHfEk?t=119) contemplate it  
+[0:02:01](https://youtu.be/MULVQnMHfEk?t=121) so the verse was saying what it was  
+[0:02:03](https://youtu.be/MULVQnMHfEk?t=123) saying indeed in the creations of the  
+[0:02:05](https://youtu.be/MULVQnMHfEk?t=125) heavens and the earth  
+[0:02:10](https://youtu.be/MULVQnMHfEk?t=130) and the alternations of the night and  
+[0:02:12](https://youtu.be/MULVQnMHfEk?t=132) the day the change  
+[0:02:14](https://youtu.be/MULVQnMHfEk?t=134) that we see around us that these  
+[0:02:17](https://youtu.be/MULVQnMHfEk?t=137) are signs for a people of  
+[0:02:21](https://youtu.be/MULVQnMHfEk?t=141) thinking  
+[0:02:24](https://youtu.be/MULVQnMHfEk?t=144) and you know just the point about this  
+[0:02:27](https://youtu.be/MULVQnMHfEk?t=147) word  
+[0:02:28](https://youtu.be/MULVQnMHfEk?t=148) the people of thinking the word al-bab  
+[0:02:31](https://youtu.be/MULVQnMHfEk?t=151) it comes linguistically  
+[0:02:32](https://youtu.be/MULVQnMHfEk?t=152) from the word which means to go to the  
+[0:02:35](https://youtu.be/MULVQnMHfEk?t=155) very inner  
+[0:02:36](https://youtu.be/MULVQnMHfEk?t=156) core of the fruit so when it says that  
+[0:02:39](https://youtu.be/MULVQnMHfEk?t=159) understanding the creations of the  
+[0:02:41](https://youtu.be/MULVQnMHfEk?t=161) heavens and the earth  
+[0:02:43](https://youtu.be/MULVQnMHfEk?t=163) really thinking about it contemplating  
+[0:02:45](https://youtu.be/MULVQnMHfEk?t=165) about it  
+[0:02:46](https://youtu.be/MULVQnMHfEk?t=166) all the alternations of night and day  
+[0:02:48](https://youtu.be/MULVQnMHfEk?t=168) the changes that we  
+[0:02:50](https://youtu.be/MULVQnMHfEk?t=170) see within the universe if you really  
+[0:02:53](https://youtu.be/MULVQnMHfEk?t=173) think going to the  
+[0:02:54](https://youtu.be/MULVQnMHfEk?t=174) deep understanding a deep enlightened  
+[0:02:57](https://youtu.be/MULVQnMHfEk?t=177) approach to this  
+[0:02:59](https://youtu.be/MULVQnMHfEk?t=179) that there are signs for people signs  
+[0:03:02](https://youtu.be/MULVQnMHfEk?t=182) for what  
+[0:03:03](https://youtu.be/MULVQnMHfEk?t=183) for the existence of allah  
+[0:03:06](https://youtu.be/MULVQnMHfEk?t=186) and so this is why the prophet  
+[0:03:09](https://youtu.be/MULVQnMHfEk?t=189) sallallahu alaihi wasallam  
+[0:03:11](https://youtu.be/MULVQnMHfEk?t=191) said woe unto the one who recites it but  
+[0:03:14](https://youtu.be/MULVQnMHfEk?t=194) does not contemplate it  
+[0:03:15](https://youtu.be/MULVQnMHfEk?t=195) contemplate upon the verse and what the  
+[0:03:18](https://youtu.be/MULVQnMHfEk?t=198) verse is telling us to contemplate upon  
+[0:03:20](https://youtu.be/MULVQnMHfEk?t=200) which is the creation the universe  
+[0:03:22](https://youtu.be/MULVQnMHfEk?t=202) around us  
+[0:03:24](https://youtu.be/MULVQnMHfEk?t=204) hence the quran calls upon humanity to  
+[0:03:28](https://youtu.be/MULVQnMHfEk?t=208) contemplate upon the universe  
+[0:03:29](https://youtu.be/MULVQnMHfEk?t=209) and what it contains and it is through  
+[0:03:31](https://youtu.be/MULVQnMHfEk?t=211) this deep reflection  
+[0:03:33](https://youtu.be/MULVQnMHfEk?t=213) this deep study that we will come to the  
+[0:03:35](https://youtu.be/MULVQnMHfEk?t=215) conclusion  
+[0:03:36](https://youtu.be/MULVQnMHfEk?t=216) about the existence of one absolute  
+[0:03:38](https://youtu.be/MULVQnMHfEk?t=218) creator allah  
+[0:03:40](https://youtu.be/MULVQnMHfEk?t=220) this forms therefore part of the quranic  
+[0:03:43](https://youtu.be/MULVQnMHfEk?t=223) method or the the quranic method  
+[0:03:45](https://youtu.be/MULVQnMHfEk?t=225) in approaching the belief in the creator  
+[0:03:47](https://youtu.be/MULVQnMHfEk?t=227) as ibn kathy goes on to state about that  
+[0:03:50](https://youtu.be/MULVQnMHfEk?t=230) verse of quran  
+[0:03:51](https://youtu.be/MULVQnMHfEk?t=231) where he says referring to the part of  
+[0:03:53](https://youtu.be/MULVQnMHfEk?t=233) the ayah that states  
+[0:03:56](https://youtu.be/MULVQnMHfEk?t=236) there are indeed that these are  
+[0:04:00](https://youtu.be/MULVQnMHfEk?t=240) for indeed signs of men of understanding  
+[0:04:02](https://youtu.be/MULVQnMHfEk?t=242) he says referring to the intelligent  
+[0:04:05](https://youtu.be/MULVQnMHfEk?t=245) sound rational minds that contemplate  
+[0:04:08](https://youtu.be/MULVQnMHfEk?t=248) about the true reality of things  
+[0:04:10](https://youtu.be/MULVQnMHfEk?t=250) unlike the deaf and the mute who do not  
+[0:04:12](https://youtu.be/MULVQnMHfEk?t=252) have sound comprehension  
+[0:04:14](https://youtu.be/MULVQnMHfEk?t=254) death in the mute here is meant in a  
+[0:04:15](https://youtu.be/MULVQnMHfEk?t=255) metaphorical sense  
+[0:04:17](https://youtu.be/MULVQnMHfEk?t=257) so the quran demonstrates that through  
+[0:04:19](https://youtu.be/MULVQnMHfEk?t=259) deep enlightened rational thought  
+[0:04:21](https://youtu.be/MULVQnMHfEk?t=261) that about the universe through a  
+[0:04:24](https://youtu.be/MULVQnMHfEk?t=264) rational comprehension  
+[0:04:25](https://youtu.be/MULVQnMHfEk?t=265) about the existence of things around us  
+[0:04:27](https://youtu.be/MULVQnMHfEk?t=267) that we can come to the existence  
+[0:04:29](https://youtu.be/MULVQnMHfEk?t=269) come to the the knowledge that our  
+[0:04:31](https://youtu.be/MULVQnMHfEk?t=271) creator exists  
+[0:04:32](https://youtu.be/MULVQnMHfEk?t=272) and that allah dies the originator of  
+[0:04:35](https://youtu.be/MULVQnMHfEk?t=275) this universe  
+[0:04:36](https://youtu.be/MULVQnMHfEk?t=276) and this is clearly demonstrated in the  
+[0:04:39](https://youtu.be/MULVQnMHfEk?t=279) story of ibrahim  
+[0:04:42](https://youtu.be/MULVQnMHfEk?t=282) who in the verse of quran chapter number  
+[0:04:45](https://youtu.be/MULVQnMHfEk?t=285) 6 verse 74 to 80  
+[0:04:48](https://youtu.be/MULVQnMHfEk?t=288) it mentions remember when ibrahim said  
+[0:04:51](https://youtu.be/MULVQnMHfEk?t=291) to his  
+[0:04:51](https://youtu.be/MULVQnMHfEk?t=291) uh said to azer  
+[0:04:55](https://youtu.be/MULVQnMHfEk?t=295) do you take idols for gods surely i see  
+[0:04:58](https://youtu.be/MULVQnMHfEk?t=298) you and your people in manifest era  
+[0:05:01](https://youtu.be/MULVQnMHfEk?t=301) thus we were showing ibrahim the  
+[0:05:04](https://youtu.be/MULVQnMHfEk?t=304) kingdoms of the heavens and the earth  
+[0:05:06](https://youtu.be/MULVQnMHfEk?t=306) that he might be of those who have sure  
+[0:05:09](https://youtu.be/MULVQnMHfEk?t=309) faith  
+[0:05:10](https://youtu.be/MULVQnMHfEk?t=310) so when the night out spread over  
+[0:05:12](https://youtu.be/MULVQnMHfEk?t=312) ibrahim he saw a star  
+[0:05:15](https://youtu.be/MULVQnMHfEk?t=315) he said this is my lord  
+[0:05:19](https://youtu.be/MULVQnMHfEk?t=319) questioning but when the star set in the  
+[0:05:22](https://youtu.be/MULVQnMHfEk?t=322) morning he said  
+[0:05:24](https://youtu.be/MULVQnMHfEk?t=324) this cannot be my lord because it has  
+[0:05:26](https://youtu.be/MULVQnMHfEk?t=326) passed  
+[0:05:27](https://youtu.be/MULVQnMHfEk?t=327) away and i do not like the transitory  
+[0:05:30](https://youtu.be/MULVQnMHfEk?t=330) transitory gods on the next day when he  
+[0:05:33](https://youtu.be/MULVQnMHfEk?t=333) saw on the next night when he saw the  
+[0:05:35](https://youtu.be/MULVQnMHfEk?t=335) moon rising he said  
+[0:05:36](https://youtu.be/MULVQnMHfEk?t=336) this is my lord but when the moon said  
+[0:05:39](https://youtu.be/MULVQnMHfEk?t=339) he said  
+[0:05:39](https://youtu.be/MULVQnMHfEk?t=339) if my lord had not guided me then i  
+[0:05:42](https://youtu.be/MULVQnMHfEk?t=342) shall  
+[0:05:43](https://youtu.be/MULVQnMHfEk?t=343) surely be of those who have gone astray  
+[0:05:46](https://youtu.be/MULVQnMHfEk?t=346) in the morning when ibrahim saw the sun  
+[0:05:49](https://youtu.be/MULVQnMHfEk?t=349) rising he said this must be my lord  
+[0:05:52](https://youtu.be/MULVQnMHfEk?t=352) because this is greater than the star  
+[0:05:53](https://youtu.be/MULVQnMHfEk?t=353) and the moon but when he saw the sun  
+[0:05:56](https://youtu.be/MULVQnMHfEk?t=356) set he said o my people surely  
+[0:05:59](https://youtu.be/MULVQnMHfEk?t=359) i am free from what you associate and i  
+[0:06:02](https://youtu.be/MULVQnMHfEk?t=362) have sincerely turned myself  
+[0:06:04](https://youtu.be/MULVQnMHfEk?t=364) to him who originated the heavens and  
+[0:06:06](https://youtu.be/MULVQnMHfEk?t=366) the earth  
+[0:06:07](https://youtu.be/MULVQnMHfEk?t=367) and i am not of one of those who are the  
+[0:06:09](https://youtu.be/MULVQnMHfEk?t=369) mushrikeen  
+[0:06:10](https://youtu.be/MULVQnMHfEk?t=370) the people who commit shirk and  
+[0:06:12](https://youtu.be/MULVQnMHfEk?t=372) polytheism  
+[0:06:14](https://youtu.be/MULVQnMHfEk?t=374) so here the quran gives a very potent  
+[0:06:17](https://youtu.be/MULVQnMHfEk?t=377) visualized argument about those things  
+[0:06:20](https://youtu.be/MULVQnMHfEk?t=380) that exist within the universe  
+[0:06:23](https://youtu.be/MULVQnMHfEk?t=383) ibrahim al-islam according to when he's  
+[0:06:26](https://youtu.be/MULVQnMHfEk?t=386) saying this is my lord he's speaking to  
+[0:06:27](https://youtu.be/MULVQnMHfEk?t=387) the people  
+[0:06:28](https://youtu.be/MULVQnMHfEk?t=388) so he's not affirming this about the  
+[0:06:30](https://youtu.be/MULVQnMHfEk?t=390) star of the moon or the sun  
+[0:06:32](https://youtu.be/MULVQnMHfEk?t=392) he's questioning them about this and  
+[0:06:34](https://youtu.be/MULVQnMHfEk?t=394) ibrahimo  
+[0:06:35](https://youtu.be/MULVQnMHfEk?t=395) islam he's explaining that look the  
+[0:06:37](https://youtu.be/MULVQnMHfEk?t=397) stars rose  
+[0:06:39](https://youtu.be/MULVQnMHfEk?t=399) and the star set the moon rose and the  
+[0:06:42](https://youtu.be/MULVQnMHfEk?t=402) moon  
+[0:06:42](https://youtu.be/MULVQnMHfEk?t=402) set the sun rose and it set  
+[0:06:46](https://youtu.be/MULVQnMHfEk?t=406) they follow regulations they  
+[0:06:49](https://youtu.be/MULVQnMHfEk?t=409) change they follow certain laws  
+[0:06:53](https://youtu.be/MULVQnMHfEk?t=413) they're imposed upon by certain patterns  
+[0:06:57](https://youtu.be/MULVQnMHfEk?t=417) the question then becomes why believe in  
+[0:07:00](https://youtu.be/MULVQnMHfEk?t=420) something  
+[0:07:01](https://youtu.be/MULVQnMHfEk?t=421) which is limited and dependent upon  
+[0:07:03](https://youtu.be/MULVQnMHfEk?t=423) those laws for it to exist  
+[0:07:06](https://youtu.be/MULVQnMHfEk?t=426) rather the question then becomes that  
+[0:07:09](https://youtu.be/MULVQnMHfEk?t=429) actually we should free ourselves  
+[0:07:11](https://youtu.be/MULVQnMHfEk?t=431) from the limited dependent things but  
+[0:07:13](https://youtu.be/MULVQnMHfEk?t=433) worship the one that imposed the law  
+[0:07:16](https://youtu.be/MULVQnMHfEk?t=436) and the order and the creation of these  
+[0:07:18](https://youtu.be/MULVQnMHfEk?t=438) things  
+[0:07:21](https://youtu.be/MULVQnMHfEk?t=441) so this is what the quran is pointing to  
+[0:07:23](https://youtu.be/MULVQnMHfEk?t=443) in the story of ibrahim al-islam  
+[0:07:25](https://youtu.be/MULVQnMHfEk?t=445) that those things which are limited and  
+[0:07:27](https://youtu.be/MULVQnMHfEk?t=447) dependent are dependent upon  
+[0:07:30](https://youtu.be/MULVQnMHfEk?t=450) a law giver they're following laws so  
+[0:07:33](https://youtu.be/MULVQnMHfEk?t=453) there must be a law giver  
+[0:07:34](https://youtu.be/MULVQnMHfEk?t=454) of those celestial objects no matter how  
+[0:07:37](https://youtu.be/MULVQnMHfEk?t=457) great they  
+[0:07:38](https://youtu.be/MULVQnMHfEk?t=458) are they require something other than  
+[0:07:40](https://youtu.be/MULVQnMHfEk?t=460) themselves to determine these laws  
+[0:07:42](https://youtu.be/MULVQnMHfEk?t=462) that something can only be the one that  
+[0:07:45](https://youtu.be/MULVQnMHfEk?t=465) that something  
+[0:07:46](https://youtu.be/MULVQnMHfEk?t=466) can only be the one who created the  
+[0:07:48](https://youtu.be/MULVQnMHfEk?t=468) stars the moon the sun  
+[0:07:50](https://youtu.be/MULVQnMHfEk?t=470) the universe as a whole and could have  
+[0:07:52](https://youtu.be/MULVQnMHfEk?t=472) ordained  
+[0:07:53](https://youtu.be/MULVQnMHfEk?t=473) that these weak limited needy objects  
+[0:07:56](https://youtu.be/MULVQnMHfEk?t=476) the laws that they are governed by  
+[0:07:59](https://youtu.be/MULVQnMHfEk?t=479) indeed to this day no theory whether  
+[0:08:02](https://youtu.be/MULVQnMHfEk?t=482) framed in the  
+[0:08:04](https://youtu.be/MULVQnMHfEk?t=484) newtonian or quantum mechanics  
+[0:08:07](https://youtu.be/MULVQnMHfEk?t=487) and physics gives an explanation to the  
+[0:08:10](https://youtu.be/MULVQnMHfEk?t=490) fundamental point  
+[0:08:13](https://youtu.be/MULVQnMHfEk?t=493) that argument of why do bodies exist  
+[0:08:17](https://youtu.be/MULVQnMHfEk?t=497) in the way that they do and  
+[0:08:20](https://youtu.be/MULVQnMHfEk?t=500) can these things that exist which are  
+[0:08:22](https://youtu.be/MULVQnMHfEk?t=502) limited and needy and dependent  
+[0:08:24](https://youtu.be/MULVQnMHfEk?t=504) exist without a creator and an  
+[0:08:27](https://youtu.be/MULVQnMHfEk?t=507) originator  
+[0:08:29](https://youtu.be/MULVQnMHfEk?t=509) and most what they do is they describe  
+[0:08:32](https://youtu.be/MULVQnMHfEk?t=512) how things exist they might provide to  
+[0:08:35](https://youtu.be/MULVQnMHfEk?t=515) us  
+[0:08:36](https://youtu.be/MULVQnMHfEk?t=516) a mechanistic explanation to the  
+[0:08:39](https://youtu.be/MULVQnMHfEk?t=519) universe  
+[0:08:41](https://youtu.be/MULVQnMHfEk?t=521) but what they can't do is explain to us  
+[0:08:44](https://youtu.be/MULVQnMHfEk?t=524) why the thing the agency behind that  
+[0:08:47](https://youtu.be/MULVQnMHfEk?t=527) mechanism  
+[0:08:48](https://youtu.be/MULVQnMHfEk?t=528) why that mechanism exists in the first  
+[0:08:50](https://youtu.be/MULVQnMHfEk?t=530) place  
+[0:08:52](https://youtu.be/MULVQnMHfEk?t=532) so reflecting on the universe only leads  
+[0:08:55](https://youtu.be/MULVQnMHfEk?t=535) us to understanding  
+[0:08:57](https://youtu.be/MULVQnMHfEk?t=537) for a need for the creator this is what  
+[0:08:59](https://youtu.be/MULVQnMHfEk?t=539) the quran  
+[0:09:00](https://youtu.be/MULVQnMHfEk?t=540) and allah is suggesting within the quran  
+[0:09:04](https://youtu.be/MULVQnMHfEk?t=544) and that there must be something that's  
+[0:09:06](https://youtu.be/MULVQnMHfEk?t=546) absolutely independent of creation  
+[0:09:08](https://youtu.be/MULVQnMHfEk?t=548) in order to explain the existence of  
+[0:09:10](https://youtu.be/MULVQnMHfEk?t=550) dependent limited things  
+[0:09:12](https://youtu.be/MULVQnMHfEk?t=552) this point is further illustrated in the  
+[0:09:15](https://youtu.be/MULVQnMHfEk?t=555) verse that describes the creator as  
+[0:09:17](https://youtu.be/MULVQnMHfEk?t=557) a summit when the well-known  
+[0:09:21](https://youtu.be/MULVQnMHfEk?t=561) well-recited surah surah iqlas  
+[0:09:24](https://youtu.be/MULVQnMHfEk?t=564) what allah says allah is a summit  
+[0:09:30](https://youtu.be/MULVQnMHfEk?t=570) in arabic language as-samad means  
+[0:09:33](https://youtu.be/MULVQnMHfEk?t=573) the one without need without  
+[0:09:35](https://youtu.be/MULVQnMHfEk?t=575) incompleteness  
+[0:09:37](https://youtu.be/MULVQnMHfEk?t=577) whole self-sufficient requiring nothing  
+[0:09:40](https://youtu.be/MULVQnMHfEk?t=580) else for  
+[0:09:41](https://youtu.be/MULVQnMHfEk?t=581) its existence  
+[0:09:44](https://youtu.be/MULVQnMHfEk?t=584) and also as samad means that which  
+[0:09:48](https://youtu.be/MULVQnMHfEk?t=588) other things require its existence for  
+[0:09:51](https://youtu.be/MULVQnMHfEk?t=591) so allah  
+[0:09:53](https://youtu.be/MULVQnMHfEk?t=593) is describing in the quran  
+[0:09:56](https://youtu.be/MULVQnMHfEk?t=596) his nature his subhana with allah's  
+[0:09:58](https://youtu.be/MULVQnMHfEk?t=598) nature  
+[0:09:59](https://youtu.be/MULVQnMHfEk?t=599) which is that allah is assamed  
+[0:10:01](https://youtu.be/MULVQnMHfEk?t=601) independent  
+[0:10:02](https://youtu.be/MULVQnMHfEk?t=602) self-sufficient free of any need  
+[0:10:06](https://youtu.be/MULVQnMHfEk?t=606) but upon which all other things depend  
+[0:10:09](https://youtu.be/MULVQnMHfEk?t=609) their existence for  
+[0:10:11](https://youtu.be/MULVQnMHfEk?t=611) and this is a point that was recognized  
+[0:10:13](https://youtu.be/MULVQnMHfEk?t=613) by ibrahim alaihissalam  
+[0:10:15](https://youtu.be/MULVQnMHfEk?t=615) when he said i have sincerely turned  
+[0:10:18](https://youtu.be/MULVQnMHfEk?t=618) myself to him  
+[0:10:19](https://youtu.be/MULVQnMHfEk?t=619) who originated the heavens and the earth  
+[0:10:22](https://youtu.be/MULVQnMHfEk?t=622) and indeed i am not  
+[0:10:24](https://youtu.be/MULVQnMHfEk?t=624) one of the polytheists so we can  
+[0:10:26](https://youtu.be/MULVQnMHfEk?t=626) understand that the quranic approach  
+[0:10:29](https://youtu.be/MULVQnMHfEk?t=629) the take home message here is the  
+[0:10:31](https://youtu.be/MULVQnMHfEk?t=631) quranic approach  
+[0:10:32](https://youtu.be/MULVQnMHfEk?t=632) tells us to reflect or to sense the  
+[0:10:35](https://youtu.be/MULVQnMHfEk?t=635) reality  
+[0:10:36](https://youtu.be/MULVQnMHfEk?t=636) but not only just to sense the reality  
+[0:10:39](https://youtu.be/MULVQnMHfEk?t=639) but to  
+[0:10:39](https://youtu.be/MULVQnMHfEk?t=639) really really think about this reality  
+[0:10:42](https://youtu.be/MULVQnMHfEk?t=642) in a  
+[0:10:43](https://youtu.be/MULVQnMHfEk?t=643) deep way and through that thought  
+[0:10:46](https://youtu.be/MULVQnMHfEk?t=646) through that comprehension do we come to  
+[0:10:49](https://youtu.be/MULVQnMHfEk?t=649) the knowledge and the signs for the  
+[0:10:50](https://youtu.be/MULVQnMHfEk?t=650) existence of the creator  
+[0:10:52](https://youtu.be/MULVQnMHfEk?t=652) and just as a quick side point  
+[0:10:55](https://youtu.be/MULVQnMHfEk?t=655) if things are easy and you acquire them  
+[0:10:58](https://youtu.be/MULVQnMHfEk?t=658) easily  
+[0:10:59](https://youtu.be/MULVQnMHfEk?t=659) then you will not appreciate what you  
+[0:11:01](https://youtu.be/MULVQnMHfEk?t=661) have  
+[0:11:02](https://youtu.be/MULVQnMHfEk?t=662) when you really have to struggle and  
+[0:11:04](https://youtu.be/MULVQnMHfEk?t=664) think about something  
+[0:11:06](https://youtu.be/MULVQnMHfEk?t=666) and you come to the conclusion upon that  
+[0:11:08](https://youtu.be/MULVQnMHfEk?t=668) thing for through hard work for a mental  
+[0:11:10](https://youtu.be/MULVQnMHfEk?t=670) exercise in this case  
+[0:11:12](https://youtu.be/MULVQnMHfEk?t=672) then you can really appreciate what you  
+[0:11:14](https://youtu.be/MULVQnMHfEk?t=674) have  
+[0:11:15](https://youtu.be/MULVQnMHfEk?t=675) this is in essence what it means to  
+[0:11:17](https://youtu.be/MULVQnMHfEk?t=677) contemplate about the signs for the  
+[0:11:18](https://youtu.be/MULVQnMHfEk?t=678) existence of the creator  
+[0:11:20](https://youtu.be/MULVQnMHfEk?t=680) and the next video we're going into a  
+[0:11:22](https://youtu.be/MULVQnMHfEk?t=682) bit more detail  
+[0:11:24](https://youtu.be/MULVQnMHfEk?t=684) with regards to the evidences for the  
+[0:11:26](https://youtu.be/MULVQnMHfEk?t=686) existence of  
+[0:11:27](https://youtu.be/MULVQnMHfEk?t=687) the creator of the subhanallah darla  
 </details>
