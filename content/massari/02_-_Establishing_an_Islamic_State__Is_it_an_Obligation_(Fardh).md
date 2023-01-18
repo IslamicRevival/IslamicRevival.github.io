@@ -20,7 +20,7 @@ We want to recommend Kitab ut-Tawheed: The Basis of Islam and the Reality of Mon
 
 ### <a onclick="modifyYTiframeseektime('0')">00:00:00-01:00:00</a>
 
-in this video discusses the obligation of Muslims to establish an Islamic state, and argues that this obligation is based on the Qur'an and the example of the prophets. He goes on to say that the current methods being used to pursue this goal are becoming increasingly complex and difficult, and suggests that Muslims should instead focus on simpler goals.
+In this video Dr Massari discusses the obligation of Muslims to establish an Islamic state, and argues that this obligation is based on the Qur'an and the example of the prophets. He goes on to say that the current methods being used to pursue this goal are becoming increasingly complex and difficult, and suggests that Muslims should instead focus on simpler goals.
 
 **<a onclick="modifyYTiframeseektime('0')">00:00:00</a>** discusses the establishment of an Islamic State, and whether or not it is an obligation (fardh) for Muslims. He points out that while the world did not establish a state in Medina, the first Muslims became Islamic by virtue of the fact that they had a Muslim king. He goes on to say that even if Muslims do not have a state, it is still their obligation to establish one, as it is the majority of Muslims who live in a state. concludes by saying that Muslims should be focused on creating a proper Islamic society, rather than worrying about the establishment of a state.
 
