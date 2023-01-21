@@ -17,3 +17,5 @@
 16. [# Debating Tawhid: Athari Creed vs Ismaili Neoplatonism (2022-06-16)](Debating_Tawhid_Athari_Creed_vs_Ismaili_Neoplatonism.md)
 17. [# Does Contingency Argument entail a Pagan Greek Conception of God? | Podcast Highlight (2022-04-19)](Does_Contingency_Argument_entail_a_Pagan_Greek_Conception_of_God_Podcast_Highlight.md)
 18. [# Does the Trinity Make Sense? | Thought Adventure Podcast #3 (2021-02-14)](Does_the_Trinity_Make_Sense_Thought_Adventure_Podcast_3.md)
+19. [# Dr. Norman Finkelstein - Gaza: A Concentration Camp | Podcast Highlight (2021-06-05)](Dr._Norman_Finkelstein_-_Gaza_A_Concentration_Camp_Podcast_Highlight.md)
+20. [# Dr. Norman Finkelstein - Gaza: A Concentration Camp | Podcast Highlight (2021-06-05)](Dr_Norman_Finkelstein_-_Gaza_A_Concentration_Camp_Podcast_Highlight.md)
