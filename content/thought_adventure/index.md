@@ -19,3 +19,7 @@
 18. [# Does the Trinity Make Sense? | Thought Adventure Podcast #3 (2021-02-14)](Does_the_Trinity_Make_Sense_Thought_Adventure_Podcast_3.md)
 19. [# Dr. Norman Finkelstein - Gaza: A Concentration Camp | Podcast Highlight (2021-06-05)](Dr._Norman_Finkelstein_-_Gaza_A_Concentration_Camp_Podcast_Highlight.md)
 20. [# Dr. Norman Finkelstein - Gaza: A Concentration Camp | Podcast Highlight (2021-06-05)](Dr_Norman_Finkelstein_-_Gaza_A_Concentration_Camp_Podcast_Highlight.md)
+21. [# Exploring Ideas around Theology, Religion and Islam | Thought Adventure Podcast #1 (2021-01-18)](Exploring_Ideas_around_Theology,_Religion_and_Islam_Thought_Adventure_Podcast_1.md)
+22. [# From Necessary Being to God - Debunking Atheist Arguments | Thought Adventure Podcast #6 (2021-03-28)](From_Necessary_Being_to_God_-_Debunking_Atheist_Arguments_Thought_Adventure_Podcast_6.md)
+23. [# Hamza Tzortzis on The Hard Problem of Conscioussness | Podcast Highlight (2021-03-21)](Hamza_Tzortzis_on_The_Hard_Problem_of_Conscioussness_Podcast_Highlight.md)
+24. [# Importance of Belief | The Evidence Course | Session 1 / Part 1 (2021-06-09)](Importance_of_Belief_The_Evidence_Course_Session_1_Part_1.md)
