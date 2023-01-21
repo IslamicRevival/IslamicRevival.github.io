@@ -31,4 +31,3 @@
 30. [# Making Progress with an Atheist Philosopher | Podcast Highlights (2021-11-26)](Making_Progress_with_an_Atheist_Philosopher_Podcast_Highlights.md)
 31. [# Muslim Gets Grilled by Atheist (2021-07-16)](Muslim_Gets_Grilled_by_Atheist.md)
 32. [# Need for Messengers - Argument from Fitrah | The Evidence Course | Session 4 / Part 1 (2021-09-15)](Need_for_Messengers_-_Argument_from_Fitrah_The_Evidence_Course_Session_4_Part_1.md)
-33. [# Nihilism - The Loss of God, The Loss of Meaning? | Thought Adventure Podcast #9 (2021-05-30)](Nihilism_-_The_Loss_of_God,_The_Loss_of_Meaning_Thought_Adventure_Podcast_9.md)
