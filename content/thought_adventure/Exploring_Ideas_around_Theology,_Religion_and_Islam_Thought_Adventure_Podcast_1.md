@@ -24,7 +24,7 @@ Thought Adventure Support
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
+◄ Twitter: https://twitter.com/T_A_Podcast​​@T_A_Podcast
 ◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
 ◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
 ◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
@@ -37,27 +37,27 @@ Thought Adventure Social Media
 Jake Brancatella, The Muslim Metaphysician
 
 - Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Twitter:  https://twitter.com/MMetaphysician​​@MMetaphysician
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
 - Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Twitter: https://twitter.com/YusufPonders​​@YusufPonders
+- Facebook: https://www.facebook.com/yusufponders​@yusufpodners
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: https://twitter.com/sharifhafezi​​@sharifhafezi
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: https://twitter.com/abdul_now​@abdul_now
 
 ----------------------|
 
@@ -523,7 +523,7 @@ The Thought Adventure Podcast discusses theology, religion, and Islam in a respe
 [0:13:24](https://youtu.be/muoqQDZ9jik?t=804) do you have a channel  
 [0:13:25](https://youtu.be/muoqQDZ9jik?t=805) yeah or if you ah it's just the facebook  
 [0:13:29](https://youtu.be/muoqQDZ9jik?t=809) groups with uh  
-[0:13:30](https://youtu.be/muoqQDZ9jik?t=810) jake and sherry [ __ ] and shall i maybe  
+[0:13:30](https://youtu.be/muoqQDZ9jik?t=810) jake and sherry __ and shall i maybe  
 [0:13:33](https://youtu.be/muoqQDZ9jik?t=813) we can inspire you both to start being a  
 [0:13:34](https://youtu.be/muoqQDZ9jik?t=814) bit more  
 [0:13:35](https://youtu.be/muoqQDZ9jik?t=815) active on your own channels as well  
@@ -931,7 +931,7 @@ The Thought Adventure Podcast discusses theology, religion, and Islam in a respe
 [0:28:04](https://youtu.be/muoqQDZ9jik?t=1684) on plato socrates can't uh  
 [0:28:08](https://youtu.be/muoqQDZ9jik?t=1688) sometimes and you know sometimes even  
 [0:28:10](https://youtu.be/muoqQDZ9jik?t=1690) the  
-[0:28:11](https://youtu.be/muoqQDZ9jik?t=1691) philosophers how'd you get on with [ __ ]  
+[0:28:11](https://youtu.be/muoqQDZ9jik?t=1691) philosophers how'd you get on with __  
 [0:28:14](https://youtu.be/muoqQDZ9jik?t=1694) well yeah but um i guess that um  
 [0:28:18](https://youtu.be/muoqQDZ9jik?t=1698) that that cat was really complicated for  
 [0:28:21](https://youtu.be/muoqQDZ9jik?t=1701) a  
@@ -1510,7 +1510,7 @@ The Thought Adventure Podcast discusses theology, religion, and Islam in a respe
 [0:50:08](https://youtu.be/muoqQDZ9jik?t=3008) uh it's a very good uh first  
 [0:50:12](https://youtu.be/muoqQDZ9jik?t=3012) yeah uh so by the way um elmo's world  
 [0:50:15](https://youtu.be/muoqQDZ9jik?t=3015) podcast  
-[0:50:16](https://youtu.be/muoqQDZ9jik?t=3016) guys spotify [ __ ] yeah  
+[0:50:16](https://youtu.be/muoqQDZ9jik?t=3016) guys spotify __ yeah  
 [0:50:19](https://youtu.be/muoqQDZ9jik?t=3019) because uh we both uh sharif and i have  
 [0:50:23](https://youtu.be/muoqQDZ9jik?t=3023) been guests on there so it's a good  
 [0:50:25](https://youtu.be/muoqQDZ9jik?t=3025) podcast  
@@ -1527,7 +1527,7 @@ The Thought Adventure Podcast discusses theology, religion, and Islam in a respe
 [0:50:54](https://youtu.be/muoqQDZ9jik?t=3054) collection back here you know yeah quite  
 [0:50:57](https://youtu.be/muoqQDZ9jik?t=3057) quite the collection quite the  
 [0:50:58](https://youtu.be/muoqQDZ9jik?t=3058) collection  
-[0:50:59](https://youtu.be/muoqQDZ9jik?t=3059) [Laughter]  
+[0:50:59](https://youtu.be/muoqQDZ9jik?t=3059)Laughter 
 [0:51:01](https://youtu.be/muoqQDZ9jik?t=3061) oh is that you got to go with that  
 [0:51:04](https://youtu.be/muoqQDZ9jik?t=3064) green screen yeah yeah got to make it  
 [0:51:07](https://youtu.be/muoqQDZ9jik?t=3067) look fancy  
@@ -2271,7 +2271,7 @@ The Thought Adventure Podcast discusses theology, religion, and Islam in a respe
 [1:16:36](https://youtu.be/muoqQDZ9jik?t=4596) maybe if he presses his head against  
 [1:16:37](https://youtu.be/muoqQDZ9jik?t=4597) your ear  
 [1:16:39](https://youtu.be/muoqQDZ9jik?t=4599) you're right little man can you hear us  
-[1:16:42](https://youtu.be/muoqQDZ9jik?t=4602) [Laughter]  
+[1:16:42](https://youtu.be/muoqQDZ9jik?t=4602)Laughter 
 [1:16:44](https://youtu.be/muoqQDZ9jik?t=4604) all right well thank you guys for having  
 [1:16:45](https://youtu.be/muoqQDZ9jik?t=4605) me on i appreciate you uh yeah yeah  
 [1:16:47](https://youtu.be/muoqQDZ9jik?t=4607) bringing me on the show  
@@ -2670,7 +2670,7 @@ The Thought Adventure Podcast discusses theology, religion, and Islam in a respe
 [1:30:23](https://youtu.be/muoqQDZ9jik?t=5423) in my ministry i work with atheists on  
 [1:30:25](https://youtu.be/muoqQDZ9jik?t=5425) the internet that's their natural  
 [1:30:27](https://youtu.be/muoqQDZ9jik?t=5427) habitat  
-[1:30:28](https://youtu.be/muoqQDZ9jik?t=5428) [Laughter]  
+[1:30:28](https://youtu.be/muoqQDZ9jik?t=5428)Laughter 
 [1:30:31](https://youtu.be/muoqQDZ9jik?t=5431) like when i became born again almost  
 [1:30:34](https://youtu.be/muoqQDZ9jik?t=5434) eight years ago now i used to preach  
 [1:30:37](https://youtu.be/muoqQDZ9jik?t=5437) and then i you know i started hearing  

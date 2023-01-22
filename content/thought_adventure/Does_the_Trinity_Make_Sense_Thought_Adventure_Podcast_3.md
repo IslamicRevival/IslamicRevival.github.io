@@ -19,7 +19,7 @@ Thought Adventure Support
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
+◄ Twitter: https://twitter.com/T_A_Podcast​​@T_A_Podcast
 ◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
 ◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
 ◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
@@ -32,27 +32,27 @@ Thought Adventure Social Media
 Jake Brancatella, The Muslim Metaphysician
 
 - Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Twitter:  https://twitter.com/MMetaphysician​​@MMetaphysician
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
 - Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Twitter: https://twitter.com/YusufPonders​​@YusufPonders
+- Facebook: https://www.facebook.com/yusufponders​@yusufpodners
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: https://twitter.com/sharifhafezi​​@sharifhafezi
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: https://twitter.com/abdul_now​@abdul_now
 
 ----------------------|
 
@@ -117,7 +117,7 @@ The Trinity is a concept that is often debated, with some people claiming that i
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-[0:00:06](https://youtu.be/smJ66-gtAYA?t=6) [Music]  
+[0:00:06](https://youtu.be/smJ66-gtAYA?t=6)Music 
 [0:00:07](https://youtu.be/smJ66-gtAYA?t=7) are you  
 [0:00:20](https://youtu.be/smJ66-gtAYA?t=20) did they just double play the audio then  
 [0:00:22](https://youtu.be/smJ66-gtAYA?t=22) for everyone else or just me  
@@ -2408,7 +2408,7 @@ The Trinity is a concept that is often debated, with some people claiming that i
 [1:19:03](https://youtu.be/smJ66-gtAYA?t=4743) things  
 [1:19:03](https://youtu.be/smJ66-gtAYA?t=4743) and they're distinct they cannot be  
 [1:19:06](https://youtu.be/smJ66-gtAYA?t=4746) identical to one another  
-[1:19:07](https://youtu.be/smJ66-gtAYA?t=4747) [Music]  
+[1:19:07](https://youtu.be/smJ66-gtAYA?t=4747)Music 
 [1:19:09](https://youtu.be/smJ66-gtAYA?t=4749) they can be identical in essence as i've  
 [1:19:11](https://youtu.be/smJ66-gtAYA?t=4751) shown that  
 [1:19:12](https://youtu.be/smJ66-gtAYA?t=4752) god if he beholds himself in his mind  
@@ -3485,7 +3485,7 @@ The Trinity is a concept that is often debated, with some people claiming that i
 [1:55:35](https://youtu.be/smJ66-gtAYA?t=6935) what comes out of that 666 equals  
 [1:55:37](https://youtu.be/smJ66-gtAYA?t=6937) atheism  
 [1:55:39](https://youtu.be/smJ66-gtAYA?t=6939) prove me wrong  
-[1:55:40](https://youtu.be/smJ66-gtAYA?t=6940) [Laughter]  
+[1:55:40](https://youtu.be/smJ66-gtAYA?t=6940)Laughter 
 [1:55:50](https://youtu.be/smJ66-gtAYA?t=6950) it's true because it follows its own  
 [1:55:51](https://youtu.be/smJ66-gtAYA?t=6951) logic  
 [1:55:54](https://youtu.be/smJ66-gtAYA?t=6954) and it's a mystery yeah  
@@ -3915,7 +3915,7 @@ The Trinity is a concept that is often debated, with some people claiming that i
 [2:09:41](https://youtu.be/smJ66-gtAYA?t=7781) grand priest  
 [2:09:42](https://youtu.be/smJ66-gtAYA?t=7782) is from the uk so i mean what does he  
 [2:09:44](https://youtu.be/smJ66-gtAYA?t=7784) really know anyway  
-[2:09:46](https://youtu.be/smJ66-gtAYA?t=7786) [Laughter]  
+[2:09:46](https://youtu.be/smJ66-gtAYA?t=7786)Laughter 
 [2:09:48](https://youtu.be/smJ66-gtAYA?t=7788) you know just i want to bring justin in  
 [2:09:50](https://youtu.be/smJ66-gtAYA?t=7790) because justin he made a really  
 [2:09:51](https://youtu.be/smJ66-gtAYA?t=7791) interesting uh  
@@ -4444,9 +4444,9 @@ The Trinity is a concept that is often debated, with some people claiming that i
 [2:26:38](https://youtu.be/smJ66-gtAYA?t=8798) i think so so that's the let's say you  
 [2:26:40](https://youtu.be/smJ66-gtAYA?t=8800) go for it again  
 [2:26:43](https://youtu.be/smJ66-gtAYA?t=8803) putting them on the spot  
-[2:26:51](https://youtu.be/smJ66-gtAYA?t=8811) [Music]  
+[2:26:51](https://youtu.be/smJ66-gtAYA?t=8811)Music 
 [2:27:00](https://youtu.be/smJ66-gtAYA?t=8820) oh  
-[2:27:09](https://youtu.be/smJ66-gtAYA?t=8829) [Music]  
+[2:27:09](https://youtu.be/smJ66-gtAYA?t=8829)Music 
 [2:27:21](https://youtu.be/smJ66-gtAYA?t=8841) the fact that even when i'm putting you  
 [2:27:22](https://youtu.be/smJ66-gtAYA?t=8842) on the spot you're still  
 [2:27:24](https://youtu.be/smJ66-gtAYA?t=8844) you're dealing with it well so yeah good  
@@ -4768,7 +4768,7 @@ The Trinity is a concept that is often debated, with some people claiming that i
 [2:37:48](https://youtu.be/smJ66-gtAYA?t=9468) it there you've got a minute  
 [2:37:49](https://youtu.be/smJ66-gtAYA?t=9469) no more than that otherwise you get last  
 [2:37:51](https://youtu.be/smJ66-gtAYA?t=9471) i need a muslim guest for my show  
-[2:37:54](https://youtu.be/smJ66-gtAYA?t=9474) [Laughter]  
+[2:37:54](https://youtu.be/smJ66-gtAYA?t=9474)Laughter 
 [2:37:58](https://youtu.be/smJ66-gtAYA?t=9478) jake i don't know if you want to say  
 [2:37:59](https://youtu.be/smJ66-gtAYA?t=9479) anything really quickly or i i wanted to  
 [2:38:01](https://youtu.be/smJ66-gtAYA?t=9481) add just one or two points so  
@@ -4914,7 +4914,7 @@ The Trinity is a concept that is often debated, with some people claiming that i
 [2:42:29](https://youtu.be/smJ66-gtAYA?t=9749) go sharif oh no no it's cool i think  
 [2:42:32](https://youtu.be/smJ66-gtAYA?t=9752) we will probably have to end it anyway  
 [2:42:35](https://youtu.be/smJ66-gtAYA?t=9755) we've got the limelight  
-[2:42:36](https://youtu.be/smJ66-gtAYA?t=9756) [Laughter]  
+[2:42:36](https://youtu.be/smJ66-gtAYA?t=9756)Laughter 
 [2:42:39](https://youtu.be/smJ66-gtAYA?t=9759) no i just wanted to just answer this  
 [2:42:40](https://youtu.be/smJ66-gtAYA?t=9760) particular issue about  
 [2:42:42](https://youtu.be/smJ66-gtAYA?t=9762) people claiming that we're limiting god  

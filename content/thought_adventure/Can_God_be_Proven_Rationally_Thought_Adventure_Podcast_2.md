@@ -23,7 +23,7 @@ Thought Adventure Support
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
+◄ Twitter: https://twitter.com/T_A_Podcast​​@T_A_Podcast
 ◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
 ◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
 ◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
@@ -36,27 +36,27 @@ Thought Adventure Social Media
 Jake Brancatella, The Muslim Metaphysician
 
 - Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Twitter:  https://twitter.com/MMetaphysician​​@MMetaphysician
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
 - Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Twitter: https://twitter.com/YusufPonders​​@YusufPonders
+- Facebook: https://www.facebook.com/yusufponders​@yusufpodners
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: https://twitter.com/sharifhafezi​​@sharifhafezi
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: https://twitter.com/abdul_now​@abdul_now
 
 ----------------------|
 
@@ -1635,7 +1635,7 @@ The article from which the summary was taken argues that religious beliefs are n
 [0:52:27](https://youtu.be/X-19SfRhwZA?t=3147) yeah necessarily so so would you call  
 [0:52:30](https://youtu.be/X-19SfRhwZA?t=3150) that  
 [0:52:31](https://youtu.be/X-19SfRhwZA?t=3151) uh an empirical observation  
-[0:52:33](https://youtu.be/X-19SfRhwZA?t=3153) [Music]  
+[0:52:33](https://youtu.be/X-19SfRhwZA?t=3153)Music 
 [0:52:37](https://youtu.be/X-19SfRhwZA?t=3157) um because if we're gonna go back to  
 [0:52:42](https://youtu.be/X-19SfRhwZA?t=3162) to what empiricism is  
 [0:52:45](https://youtu.be/X-19SfRhwZA?t=3165) empiricism is basically knowledge  
@@ -2968,7 +2968,7 @@ The article from which the summary was taken argues that religious beliefs are n
 [1:38:13](https://youtu.be/X-19SfRhwZA?t=5893) to believe what he wants so are you  
 [1:38:16](https://youtu.be/X-19SfRhwZA?t=5896) oh wait wait i thought no one was free  
 [1:38:18](https://youtu.be/X-19SfRhwZA?t=5898) for your determination  
-[1:38:22](https://youtu.be/X-19SfRhwZA?t=5902) [Laughter]  
+[1:38:22](https://youtu.be/X-19SfRhwZA?t=5902)Laughter 
 [1:38:28](https://youtu.be/X-19SfRhwZA?t=5908) free in the sense that we are going to  
 [1:38:29](https://youtu.be/X-19SfRhwZA?t=5909) uh three in the sense we don't  
 [1:38:31](https://youtu.be/X-19SfRhwZA?t=5911) we're gonna play along with the illusion  
@@ -3468,8 +3468,8 @@ The article from which the summary was taken argues that religious beliefs are n
 [1:55:22](https://youtu.be/X-19SfRhwZA?t=6922) yeah and um i live in the gulf now but  
 [1:55:26](https://youtu.be/X-19SfRhwZA?t=6926) uh my home country is egyptian okay  
 [1:55:30](https://youtu.be/X-19SfRhwZA?t=6930) egyptian  
-[1:55:32](https://youtu.be/X-19SfRhwZA?t=6932) [Laughter]  
-[1:55:36](https://youtu.be/X-19SfRhwZA?t=6936) [Music]  
+[1:55:32](https://youtu.be/X-19SfRhwZA?t=6932)Laughter 
+[1:55:36](https://youtu.be/X-19SfRhwZA?t=6936)Music 
 [1:55:45](https://youtu.be/X-19SfRhwZA?t=6945) so we've got a bit of more l on and then  
 [1:55:48](https://youtu.be/X-19SfRhwZA?t=6948) i think we've got the  
 [1:55:49](https://youtu.be/X-19SfRhwZA?t=6949) uh the hidden guy in the background he  
@@ -4390,7 +4390,7 @@ The article from which the summary was taken argues that religious beliefs are n
 [2:25:45](https://youtu.be/X-19SfRhwZA?t=8745) mo el jazar again for your contribution  
 [2:25:48](https://youtu.be/X-19SfRhwZA?t=8748) there uh  
 [2:25:49](https://youtu.be/X-19SfRhwZA?t=8749) bless you and we'll see you  
-[2:25:51](https://youtu.be/X-19SfRhwZA?t=8751) [Music]  
+[2:25:51](https://youtu.be/X-19SfRhwZA?t=8751)Music 
 [2:25:53](https://youtu.be/X-19SfRhwZA?t=8753) uh so everyone uh i just want to make a  
 [2:25:56](https://youtu.be/X-19SfRhwZA?t=8756) call again if you're watching and you  
 [2:25:58](https://youtu.be/X-19SfRhwZA?t=8758) haven't liked already please do like  

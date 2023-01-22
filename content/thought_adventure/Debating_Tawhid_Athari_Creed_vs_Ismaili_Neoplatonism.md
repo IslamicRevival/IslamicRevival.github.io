@@ -13,7 +13,7 @@ Thought Adventure Support
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
+◄ Twitter: https://twitter.com/T_A_Podcast​​@T_A_Podcast
 ◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
 ◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
 ◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
@@ -26,27 +26,27 @@ Thought Adventure Social Media
 Jake Brancatella, The Muslim Metaphysician
 
 - Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Twitter:  https://twitter.com/MMetaphysician​​@MMetaphysician
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
 - Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Twitter: https://twitter.com/YusufPonders​​@YusufPonders
+- Facebook: https://www.facebook.com/yusufponders​@yusufpodners
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: https://twitter.com/sharifhafezi​​@sharifhafezi
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: https://twitter.com/abdul_now​@abdul_now
 
 ----------------------|
 
@@ -105,7 +105,7 @@ In the "Debating Tawhid: Athari Creed vs Ismaili Neoplatonism" YouTube video, Kh
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-[0:00:05](https://youtu.be/dHNYCZKXes0?t=5) [Music]  
+[0:00:05](https://youtu.be/dHNYCZKXes0?t=5)Music 
 [0:00:07](https://youtu.be/dHNYCZKXes0?t=7) i am  
 [0:00:32](https://youtu.be/dHNYCZKXes0?t=32) welcome guys to another  
 [0:00:34](https://youtu.be/dHNYCZKXes0?t=34) um stream from the thought adventure  
@@ -1771,7 +1771,7 @@ In the "Debating Tawhid: Athari Creed vs Ismaili Neoplatonism" YouTube video, Kh
 [1:03:26](https://youtu.be/dHNYCZKXes0?t=3806) in your opening your slides are up so  
 [1:03:28](https://youtu.be/dHNYCZKXes0?t=3808) are these like a different set of slides  
 [1:03:30](https://youtu.be/dHNYCZKXes0?t=3810) no no is this in here yeah yeah yeah  
-[1:03:33](https://youtu.be/dHNYCZKXes0?t=3813) [Music]  
+[1:03:33](https://youtu.be/dHNYCZKXes0?t=3813)Music 
 [1:03:34](https://youtu.be/dHNYCZKXes0?t=3814) so did you so you do you wanna do you  
 [1:03:36](https://youtu.be/dHNYCZKXes0?t=3816) wanna i don't you wanna start over yeah  
 [1:03:38](https://youtu.be/dHNYCZKXes0?t=3818) i would appreciate that because i  
@@ -3989,7 +3989,7 @@ In the "Debating Tawhid: Athari Creed vs Ismaili Neoplatonism" YouTube video, Kh
 [2:26:35](https://youtu.be/dHNYCZKXes0?t=8795) i guess we'll end it right there  
 [2:26:37](https://youtu.be/dHNYCZKXes0?t=8797) so yeah thank you for watching jake i  
 [2:26:39](https://youtu.be/dHNYCZKXes0?t=8799) guess you can end this right there  
-[2:26:47](https://youtu.be/dHNYCZKXes0?t=8807) [Music]  
+[2:26:47](https://youtu.be/dHNYCZKXes0?t=8807)Music 
 [2:26:51](https://youtu.be/dHNYCZKXes0?t=8811) ah  
 [2:27:10](https://youtu.be/dHNYCZKXes0?t=8830) you  
 </details>

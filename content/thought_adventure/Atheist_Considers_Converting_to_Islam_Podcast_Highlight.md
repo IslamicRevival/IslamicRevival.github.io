@@ -15,7 +15,7 @@ Thought Adventure Support
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
+◄ Twitter: https://twitter.com/T_A_Podcast​​@T_A_Podcast
 ◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
 ◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
 ◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
@@ -28,27 +28,27 @@ Thought Adventure Social Media
 Jake Brancatella, The Muslim Metaphysician
 
 - Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Twitter:  https://twitter.com/MMetaphysician​​@MMetaphysician
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
 - Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Twitter: https://twitter.com/YusufPonders​​@YusufPonders
+- Facebook: https://www.facebook.com/yusufponders​@yusufpodners
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: https://twitter.com/sharifhafezi​​@sharifhafezi
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: https://twitter.com/abdul_now​@abdul_now
 
 ----------------------|
 
@@ -815,7 +815,7 @@ Gmail: hello.tapodcast@gmail.com
 [0:25:05](https://youtu.be/E9o_fE9QIFc?t=1505) maybe if he presses his head against  
 [0:25:06](https://youtu.be/E9o_fE9QIFc?t=1506) your ear  
 [0:25:09](https://youtu.be/E9o_fE9QIFc?t=1509) you're right little man can you hear us  
-[0:25:11](https://youtu.be/E9o_fE9QIFc?t=1511) [Laughter]  
+[0:25:11](https://youtu.be/E9o_fE9QIFc?t=1511)Laughter 
 [0:25:13](https://youtu.be/E9o_fE9QIFc?t=1513) all right well thank you guys for having  
 [0:25:14](https://youtu.be/E9o_fE9QIFc?t=1514) me on i appreciate you uh yeah yeah yeah  
 [0:25:16](https://youtu.be/E9o_fE9QIFc?t=1516) bringing me on the show if anybody in  

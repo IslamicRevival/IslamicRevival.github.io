@@ -11,7 +11,7 @@ Thought Adventure Support
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
+◄ Twitter: https://twitter.com/T_A_Podcast​​@T_A_Podcast
 ◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
 ◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
 ◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
@@ -24,27 +24,27 @@ Thought Adventure Social Media
 Jake Brancatella, The Muslim Metaphysician
 
 - Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Twitter:  https://twitter.com/MMetaphysician​​@MMetaphysician
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
 - Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Twitter: https://twitter.com/YusufPonders​​@YusufPonders
+- Facebook: https://www.facebook.com/yusufponders​@yusufpodners
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: https://twitter.com/sharifhafezi​​@sharifhafezi
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: https://twitter.com/abdul_now​@abdul_now
 
 ----------------------|
 
@@ -1595,7 +1595,7 @@ Abdullahal Andalusi discusses liberalism and how it is not connected to any spec
 [0:51:28](https://youtu.be/OK-kam16tsE?t=3088) things one particular interpretation  
 [0:51:29](https://youtu.be/OK-kam16tsE?t=3089) becomes uh or is implemented by a state  
 [0:51:32](https://youtu.be/OK-kam16tsE?t=3092) and enforcement  
-[0:51:34](https://youtu.be/OK-kam16tsE?t=3094) [Music]  
+[0:51:34](https://youtu.be/OK-kam16tsE?t=3094)Music 
 [0:51:36](https://youtu.be/OK-kam16tsE?t=3096) sure the kind of issues that arose from  
 [0:51:38](https://youtu.be/OK-kam16tsE?t=3098) um the thing that liberalism uh came up  
 [0:51:41](https://youtu.be/OK-kam16tsE?t=3101) with but the historical circumstance of  
@@ -4214,7 +4214,7 @@ Abdullahal Andalusi discusses liberalism and how it is not connected to any spec
 [2:22:19](https://youtu.be/OK-kam16tsE?t=8539) is that people are under the oppression  
 [2:22:21](https://youtu.be/OK-kam16tsE?t=8541) does  
 [2:22:22](https://youtu.be/OK-kam16tsE?t=8542) adoption of some  
-[2:22:23](https://youtu.be/OK-kam16tsE?t=8543) [Music]  
+[2:22:23](https://youtu.be/OK-kam16tsE?t=8543)Music 
 [2:22:25](https://youtu.be/OK-kam16tsE?t=8545) liberal themes  
 [2:22:27](https://youtu.be/OK-kam16tsE?t=8547) automatically equate to a sort of lacks  
 [2:22:30](https://youtu.be/OK-kam16tsE?t=8550) understanding of the islam which is  
@@ -5400,7 +5400,7 @@ Abdullahal Andalusi discusses liberalism and how it is not connected to any spec
 [3:04:58](https://youtu.be/OK-kam16tsE?t=11098) soylent green is people i don't know if  
 [3:05:00](https://youtu.be/OK-kam16tsE?t=11100) you ever come across that  
 [3:05:02](https://youtu.be/OK-kam16tsE?t=11102) is it  
-[3:05:07](https://youtu.be/OK-kam16tsE?t=11107) [Laughter]  
+[3:05:07](https://youtu.be/OK-kam16tsE?t=11107)Laughter 
 [3:05:13](https://youtu.be/OK-kam16tsE?t=11113) kill a few individuals off yeah  
 [3:05:15](https://youtu.be/OK-kam16tsE?t=11115) yeah uh yeah that in that scenario i i  
 [3:05:19](https://youtu.be/OK-kam16tsE?t=11119) think that islamic perspective would be  
@@ -7209,7 +7209,7 @@ Abdullahal Andalusi discusses liberalism and how it is not connected to any spec
 [4:09:07](https://youtu.be/OK-kam16tsE?t=14947) three one to loosen  
 [4:09:10](https://youtu.be/OK-kam16tsE?t=14950) up  
 [4:09:12](https://youtu.be/OK-kam16tsE?t=14952) okay yeah  
-[4:09:13](https://youtu.be/OK-kam16tsE?t=14953) [Laughter]  
+[4:09:13](https://youtu.be/OK-kam16tsE?t=14953)Laughter 
 [4:09:19](https://youtu.be/OK-kam16tsE?t=14959) right so i was just going to say danny  
 [4:09:21](https://youtu.be/OK-kam16tsE?t=14961) uh i think the issue is this is that  
 [4:09:24](https://youtu.be/OK-kam16tsE?t=14964) what we're saying is on the one hand  
@@ -8980,7 +8980,7 @@ Abdullahal Andalusi discusses liberalism and how it is not connected to any spec
 [5:10:26](https://youtu.be/OK-kam16tsE?t=18626) um which is where to get his posters and  
 [5:10:28](https://youtu.be/OK-kam16tsE?t=18628) if preferably signed as well  
 [5:10:39](https://youtu.be/OK-kam16tsE?t=18639) foreign  
-[5:10:49](https://youtu.be/OK-kam16tsE?t=18649) [Music]  
+[5:10:49](https://youtu.be/OK-kam16tsE?t=18649)Music 
 [5:10:52](https://youtu.be/OK-kam16tsE?t=18652) ah  
 [5:11:12](https://youtu.be/OK-kam16tsE?t=18672) you  
 </details>

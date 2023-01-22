@@ -15,7 +15,7 @@ Thought Adventure Support
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
+◄ Twitter: https://twitter.com/T_A_Podcast​​@T_A_Podcast
 ◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
 ◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
 ◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
@@ -28,27 +28,27 @@ Thought Adventure Social Media
 Jake Brancatella, The Muslim Metaphysician
 
 - Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Twitter:  https://twitter.com/MMetaphysician​​@MMetaphysician
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
 - Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Twitter: https://twitter.com/YusufPonders​​@YusufPonders
+- Facebook: https://www.facebook.com/yusufponders​@yusufpodners
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: https://twitter.com/sharifhafezi​​@sharifhafezi
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: https://twitter.com/abdul_now​@abdul_now
 
 ----------------------|
 
@@ -89,7 +89,7 @@ Gmail: hello.tapodcast@gmail.com
 [0:00:26](https://youtu.be/YATcLLcOqOM?t=26) yeah not bad okay carlos we've already  
 [0:00:29](https://youtu.be/YATcLLcOqOM?t=29) had one  
 [0:00:30](https://youtu.be/YATcLLcOqOM?t=30) atheist change his views on the channel  
-[0:00:34](https://youtu.be/YATcLLcOqOM?t=34) [Laughter]  
+[0:00:34](https://youtu.be/YATcLLcOqOM?t=34)Laughter 
 [0:00:38](https://youtu.be/YATcLLcOqOM?t=38) all right okay yeah i mean uh  
 [0:00:41](https://youtu.be/YATcLLcOqOM?t=41) unfortunately  
 [0:00:42](https://youtu.be/YATcLLcOqOM?t=42) i have missed some of the conversation  
@@ -341,7 +341,7 @@ Gmail: hello.tapodcast@gmail.com
 [0:09:45](https://youtu.be/YATcLLcOqOM?t=585) of a temporal contingent uh universal  
 [0:09:48](https://youtu.be/YATcLLcOqOM?t=588) existence the cause did not have to  
 [0:09:52](https://youtu.be/YATcLLcOqOM?t=592) pause  
-[0:09:53](https://youtu.be/YATcLLcOqOM?t=593) [Music]  
+[0:09:53](https://youtu.be/YATcLLcOqOM?t=593)Music 
 [0:09:56](https://youtu.be/YATcLLcOqOM?t=596) then the effect would be eternal  
 [0:10:02](https://youtu.be/YATcLLcOqOM?t=602) yeah i don't know it's difficult because  
 [0:10:06](https://youtu.be/YATcLLcOqOM?t=606) the whole concept of time becomes very  

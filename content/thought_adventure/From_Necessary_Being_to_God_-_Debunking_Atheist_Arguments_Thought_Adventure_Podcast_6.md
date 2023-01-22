@@ -20,7 +20,7 @@ Thought Adventure Support
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
+◄ Twitter: https://twitter.com/T_A_Podcast​​@T_A_Podcast
 ◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
 ◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
 ◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
@@ -33,27 +33,27 @@ Thought Adventure Social Media
 Jake Brancatella, The Muslim Metaphysician
 
 - Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Twitter:  https://twitter.com/MMetaphysician​​@MMetaphysician
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
 - Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Twitter: https://twitter.com/YusufPonders​​@YusufPonders
+- Facebook: https://www.facebook.com/yusufponders​@yusufpodners
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: https://twitter.com/sharifhafezi​​@sharifhafezi
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: https://twitter.com/abdul_now​@abdul_now
 
 ----------------------|
 
@@ -131,7 +131,7 @@ Gmail: hello.tapodcast@gmail.com
 [0:00:47](https://youtu.be/qoMyzWN28gI?t=47) i got all the pointing right first time  
 [0:00:49](https://youtu.be/qoMyzWN28gI?t=49) yeah  
 [0:00:51](https://youtu.be/qoMyzWN28gI?t=51) i like him everybody  
-[0:00:53](https://youtu.be/qoMyzWN28gI?t=53) [Music]  
+[0:00:53](https://youtu.be/qoMyzWN28gI?t=53)Music 
 [0:00:54](https://youtu.be/qoMyzWN28gI?t=54) do apologize slightly for the delay uh  
 [0:00:57](https://youtu.be/qoMyzWN28gI?t=57) so we've  
 [0:00:58](https://youtu.be/qoMyzWN28gI?t=58) uh sort of had a bit of a hiccup at the  
@@ -2245,7 +2245,7 @@ Gmail: hello.tapodcast@gmail.com
 [1:11:20](https://youtu.be/qoMyzWN28gI?t=4280) but then he's gonna try also empathetic  
 [1:11:23](https://youtu.be/qoMyzWN28gI?t=4283) no he's gotta  
 [1:11:24](https://youtu.be/qoMyzWN28gI?t=4284) take the hat  
-[1:11:25](https://youtu.be/qoMyzWN28gI?t=4285) [Laughter]  
+[1:11:25](https://youtu.be/qoMyzWN28gI?t=4285)Laughter 
 [1:11:29](https://youtu.be/qoMyzWN28gI?t=4289) right justin that there are i i just  
 [1:11:31](https://youtu.be/qoMyzWN28gI?t=4291) think you have to i think you do know  
 [1:11:32](https://youtu.be/qoMyzWN28gI?t=4292) this but you have to take it  
@@ -2460,7 +2460,7 @@ Gmail: hello.tapodcast@gmail.com
 [1:18:40](https://youtu.be/qoMyzWN28gI?t=4720) always say have a good night stay home  
 [1:18:41](https://youtu.be/qoMyzWN28gI?t=4721) stay safe and let's make america secular  
 [1:18:43](https://youtu.be/qoMyzWN28gI?t=4723) again  
-[1:18:44](https://youtu.be/qoMyzWN28gI?t=4724) [Laughter]  
+[1:18:44](https://youtu.be/qoMyzWN28gI?t=4724)Laughter 
 [1:18:47](https://youtu.be/qoMyzWN28gI?t=4727) but uh thanks for having me on guys and  
 [1:18:49](https://youtu.be/qoMyzWN28gI?t=4729) we'll be on i guess next time you come  
 [1:18:51](https://youtu.be/qoMyzWN28gI?t=4731) you come on i'll try and jump on with  
@@ -2488,7 +2488,7 @@ Gmail: hello.tapodcast@gmail.com
 [1:19:43](https://youtu.be/qoMyzWN28gI?t=4783) we got brother sharif back and now we're  
 [1:19:46](https://youtu.be/qoMyzWN28gI?t=4786) going to bring on  
 [1:19:47](https://youtu.be/qoMyzWN28gI?t=4787) brother call to  
-[1:20:21](https://youtu.be/qoMyzWN28gI?t=4821) [Music]  
+[1:20:21](https://youtu.be/qoMyzWN28gI?t=4821)Music 
 [1:20:26](https://youtu.be/qoMyzWN28gI?t=4826) i was listening to justin there was um  
 [1:20:30](https://youtu.be/qoMyzWN28gI?t=4830) any other arguments you could have used  
 [1:20:32](https://youtu.be/qoMyzWN28gI?t=4832) for um  
@@ -3101,7 +3101,7 @@ Gmail: hello.tapodcast@gmail.com
 [1:41:10](https://youtu.be/qoMyzWN28gI?t=6070) understand you properly  
 [1:41:13](https://youtu.be/qoMyzWN28gI?t=6073) i'm saying that yeah some things  
 [1:41:16](https://youtu.be/qoMyzWN28gI?t=6076) in nature  
-[1:41:19](https://youtu.be/qoMyzWN28gI?t=6079) [Music]  
+[1:41:19](https://youtu.be/qoMyzWN28gI?t=6079)Music 
 [1:41:20](https://youtu.be/qoMyzWN28gI?t=6080) we shouldn't like be be too hasty to say  
 [1:41:23](https://youtu.be/qoMyzWN28gI?t=6083) that just because we can conceive of  
 [1:41:25](https://youtu.be/qoMyzWN28gI?t=6085) something that means  
@@ -4323,7 +4323,7 @@ Gmail: hello.tapodcast@gmail.com
 [2:24:13](https://youtu.be/qoMyzWN28gI?t=8653) hadn't thought about before and i will  
 [2:24:15](https://youtu.be/qoMyzWN28gI?t=8655) go away  
 [2:24:15](https://youtu.be/qoMyzWN28gI?t=8655) and ponder that um  
-[2:24:18](https://youtu.be/qoMyzWN28gI?t=8658) [Laughter]  
+[2:24:18](https://youtu.be/qoMyzWN28gI?t=8658)Laughter 
 [2:24:21](https://youtu.be/qoMyzWN28gI?t=8661) i will i will have i will i will give  
 [2:24:23](https://youtu.be/qoMyzWN28gI?t=8663) that um some time  
 [2:24:24](https://youtu.be/qoMyzWN28gI?t=8664) and maybe come back with some forms but  
@@ -4526,7 +4526,7 @@ Gmail: hello.tapodcast@gmail.com
 [2:31:01](https://youtu.be/qoMyzWN28gI?t=9061) no no you don't have to leave now just  
 [2:31:02](https://youtu.be/qoMyzWN28gI?t=9062) explain to us just  
 [2:31:05](https://youtu.be/qoMyzWN28gI?t=9065) degenerate  
-[2:31:06](https://youtu.be/qoMyzWN28gI?t=9066) [Laughter]  
+[2:31:06](https://youtu.be/qoMyzWN28gI?t=9066)Laughter 
 [2:31:12](https://youtu.be/qoMyzWN28gI?t=9072) i like that my brother like you know  
 [2:31:15](https://youtu.be/qoMyzWN28gI?t=9075) like but last caller you didn't show  
 [2:31:17](https://youtu.be/qoMyzWN28gI?t=9077) this for uh this time  

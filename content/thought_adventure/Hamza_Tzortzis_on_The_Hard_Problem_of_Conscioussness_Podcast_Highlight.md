@@ -16,7 +16,7 @@ Thought Adventure Support
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
+◄ Twitter: https://twitter.com/T_A_Podcast​​@T_A_Podcast
 ◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
 ◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
 ◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
@@ -29,27 +29,27 @@ Thought Adventure Social Media
 Jake Brancatella, The Muslim Metaphysician
 
 - Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Twitter:  https://twitter.com/MMetaphysician​​@MMetaphysician
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
 - Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Twitter: https://twitter.com/YusufPonders​​@YusufPonders
+- Facebook: https://www.facebook.com/yusufponders​@yusufpodners
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: https://twitter.com/sharifhafezi​​@sharifhafezi
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: https://twitter.com/abdul_now​@abdul_now
 
 ----------------------|
 
@@ -106,7 +106,7 @@ Hamza Tzortzis discusses the hard problem of consciousness, which is the challen
 [0:01:07](https://youtu.be/zwDd2UNm9lE?t=67) and i wasn't aware of other people's  
 [0:01:09](https://youtu.be/zwDd2UNm9lE?t=69) conscious awareness at the same time  
 [0:01:12](https://youtu.be/zwDd2UNm9lE?t=72) that i'm aware of my own awareness  
-[0:01:14](https://youtu.be/zwDd2UNm9lE?t=74) [Laughter]  
+[0:01:14](https://youtu.be/zwDd2UNm9lE?t=74)Laughter 
 [0:01:16](https://youtu.be/zwDd2UNm9lE?t=76) that might be a bit confusing but that  
 [0:01:18](https://youtu.be/zwDd2UNm9lE?t=78) was extremely lonely  
 [0:01:20](https://youtu.be/zwDd2UNm9lE?t=80) it was it just dawned on me it was such  

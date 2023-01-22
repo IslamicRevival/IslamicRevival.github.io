@@ -20,7 +20,7 @@ Thought Adventure Support
 ____________________________________________________________________
 
 Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​ [@T_A_Podcast]
+◄ Twitter: https://twitter.com/T_A_Podcast​​@T_A_Podcast
 ◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
 ◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
 ◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
@@ -33,27 +33,27 @@ Thought Adventure Social Media
 Jake Brancatella, The Muslim Metaphysician
 
 - Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​ [@MMetaphysician]
+- Twitter:  https://twitter.com/MMetaphysician​​@MMetaphysician
 
 ----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
 - Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​ [@YusufPonders]
-- Facebook: https://www.facebook.com/yusufponders​ [@yusufpodners]
+- Twitter: https://twitter.com/YusufPonders​​@YusufPonders
+- Facebook: https://www.facebook.com/yusufponders​@yusufpodners
 
 ----------------------|
 
 Sharif
 
-- Twitter: https://twitter.com/sharifhafezi​​ [@sharifhafezi]
+- Twitter: https://twitter.com/sharifhafezi​​@sharifhafezi
 
 ----------------------|
 
 Abdulrahman
 
-- Twitter: https://twitter.com/abdul_now​ [@abdul_now]
+- Twitter: https://twitter.com/abdul_now​@abdul_now
 
 ----------------------|
 
@@ -2837,7 +2837,7 @@ Hamza Tzortzis discusses the question of whether or not consciousness can be gro
 [1:27:59](https://youtu.be/g3hB7hJW1C0?t=5279) if this occurs then the computer will do  
 [1:28:01](https://youtu.be/g3hB7hJW1C0?t=5281) this but the computer's not self aware  
 [1:28:04](https://youtu.be/g3hB7hJW1C0?t=5284) of doing any of these things  
-[1:28:05](https://youtu.be/g3hB7hJW1C0?t=5285) [Music]  
+[1:28:05](https://youtu.be/g3hB7hJW1C0?t=5285)Music 
 [1:28:07](https://youtu.be/g3hB7hJW1C0?t=5287) uh let me rephrase what you're saying to  
 [1:28:09](https://youtu.be/g3hB7hJW1C0?t=5289) see if i understand it  
 [1:28:11](https://youtu.be/g3hB7hJW1C0?t=5291) because i don't think i do if you are  
@@ -4309,7 +4309,7 @@ Hamza Tzortzis discusses the question of whether or not consciousness can be gro
 [2:15:49](https://youtu.be/g3hB7hJW1C0?t=8149) experience of  
 [2:15:50](https://youtu.be/g3hB7hJW1C0?t=8150) playing on his phone why his spouse man  
 [2:15:51](https://youtu.be/g3hB7hJW1C0?t=8151) the live stream for example  
-[2:15:52](https://youtu.be/g3hB7hJW1C0?t=8152) [Laughter]  
+[2:15:52](https://youtu.be/g3hB7hJW1C0?t=8152)Laughter 
 [2:15:55](https://youtu.be/g3hB7hJW1C0?t=8155) um the the other the other thing is um  
 [2:15:59](https://youtu.be/g3hB7hJW1C0?t=8159) okay fine so we agree he had we have  
 [2:16:00](https://youtu.be/g3hB7hJW1C0?t=8160) this first person fact of inner  
@@ -6283,12 +6283,12 @@ Hamza Tzortzis discusses the question of whether or not consciousness can be gro
 [3:23:44](https://youtu.be/g3hB7hJW1C0?t=12224) for work because i i'm 19 so i  
 [3:23:47](https://youtu.be/g3hB7hJW1C0?t=12227) a year ago did my a levels math physics  
 [3:23:50](https://youtu.be/g3hB7hJW1C0?t=12230) and computer science  
-[3:23:51](https://youtu.be/g3hB7hJW1C0?t=12231) i'm brilliant because i'm a [ __ ] nerd  
+[3:23:51](https://youtu.be/g3hB7hJW1C0?t=12231) i'm brilliant because i'm a __ nerd  
 [3:23:56](https://youtu.be/g3hB7hJW1C0?t=12236) and what are you uh what are you going  
 [3:23:57](https://youtu.be/g3hB7hJW1C0?t=12237) to do now you're going to university or  
 [3:23:59](https://youtu.be/g3hB7hJW1C0?t=12239) you're going to do something else  
 [3:24:01](https://youtu.be/g3hB7hJW1C0?t=12241) um i plan to eventually go to university  
-[3:24:05](https://youtu.be/g3hB7hJW1C0?t=12245) but i need to work out what the [ __ ] i  
+[3:24:05](https://youtu.be/g3hB7hJW1C0?t=12245) but i need to work out what the __ i  
 [3:24:06](https://youtu.be/g3hB7hJW1C0?t=12246) actually want to do first  
 [3:24:07](https://youtu.be/g3hB7hJW1C0?t=12247) language language turn up oh sorry  
 [3:24:10](https://youtu.be/g3hB7hJW1C0?t=12250) language  
@@ -6485,7 +6485,7 @@ Hamza Tzortzis discusses the question of whether or not consciousness can be gro
 [3:31:15](https://youtu.be/g3hB7hJW1C0?t=12675) so how do you have these experiences  
 [3:31:17](https://youtu.be/g3hB7hJW1C0?t=12677) then  
 [3:31:18](https://youtu.be/g3hB7hJW1C0?t=12678) um  
-[3:31:19](https://youtu.be/g3hB7hJW1C0?t=12679) [Music]  
+[3:31:19](https://youtu.be/g3hB7hJW1C0?t=12679)Music 
 [3:31:22](https://youtu.be/g3hB7hJW1C0?t=12682) bizarre sensations and signs and  
 [3:31:26](https://youtu.be/g3hB7hJW1C0?t=12686) at one point i just straight up had  
 [3:31:27](https://youtu.be/g3hB7hJW1C0?t=12687) three people disappear in front of me  
@@ -6525,7 +6525,7 @@ Hamza Tzortzis discusses the question of whether or not consciousness can be gro
 [3:32:55](https://youtu.be/g3hB7hJW1C0?t=12775) oh yes of course you did yeah i do  
 [3:32:57](https://youtu.be/g3hB7hJW1C0?t=12777) apologize you did say that my apologies  
 [3:33:00](https://youtu.be/g3hB7hJW1C0?t=12780) um but how often i'm high is  
-[3:33:04](https://youtu.be/g3hB7hJW1C0?t=12784) [Laughter]  
+[3:33:04](https://youtu.be/g3hB7hJW1C0?t=12784)Laughter 
 [3:33:06](https://youtu.be/g3hB7hJW1C0?t=12786) a couple of times a week maybe lsd  
 [3:33:09](https://youtu.be/g3hB7hJW1C0?t=12789) there is maybe the cause to your  
 [3:33:11](https://youtu.be/g3hB7hJW1C0?t=12791) problems my friend  
@@ -6932,7 +6932,7 @@ Hamza Tzortzis discusses the question of whether or not consciousness can be gro
 [3:46:56](https://youtu.be/g3hB7hJW1C0?t=13616) really need to go now it's like 150 a.m  
 [3:46:59](https://youtu.be/g3hB7hJW1C0?t=13619) okay  
 [3:46:59](https://youtu.be/g3hB7hJW1C0?t=13619) okay okay for all your patience  
-[3:47:07](https://youtu.be/g3hB7hJW1C0?t=13627) [Laughter]  
+[3:47:07](https://youtu.be/g3hB7hJW1C0?t=13627)Laughter 
 [3:47:16](https://youtu.be/g3hB7hJW1C0?t=13636) we need to get you more involved man in  
 [3:47:18](https://youtu.be/g3hB7hJW1C0?t=13638) everything  
 [3:47:20](https://youtu.be/g3hB7hJW1C0?t=13640) i need to use and abuse you man for the  
@@ -7149,6 +7149,6 @@ Hamza Tzortzis discusses the question of whether or not consciousness can be gro
 [3:54:22](https://youtu.be/g3hB7hJW1C0?t=14062) bless you all i hope you have a  
 [3:54:25](https://youtu.be/g3hB7hJW1C0?t=14065) pleasant week coming and and then to  
 [3:54:27](https://youtu.be/g3hB7hJW1C0?t=14067) your weekend assalamu alaikum  
-[3:54:39](https://youtu.be/g3hB7hJW1C0?t=14079) [Music]  
+[3:54:39](https://youtu.be/g3hB7hJW1C0?t=14079)Music 
 [3:55:02](https://youtu.be/g3hB7hJW1C0?t=14102) you  
 </details>
