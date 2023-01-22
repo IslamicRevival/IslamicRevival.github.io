@@ -21,7 +21,7 @@ Please donate and help establish this Masjid and earn your reward ➡ https://ww
 ## Summary of [Diet, Self-defence, Khamzat Chimaev and Philosophy. MH Podcast - Firas Zahabi](https://www.youtube.com/watch?v=v4-FUP5Nefk)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=v4-FUP5Nefk&t=0) - [01:00:00](https://www.youtube.com/watch?v=v4-FUP5Nefk&t=3600)
 

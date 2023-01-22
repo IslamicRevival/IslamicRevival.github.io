@@ -9,7 +9,7 @@ An interesting take on how we use inferences to come to conclusions, and how we 
 ## Summary of ["Proving God" is like "Proving Gravity"](https://www.youtube.com/watch?v=Nbv9u4RAKBI)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=Nbv9u4RAKBI&t=0) - [00:20:00](https://www.youtube.com/watch?v=Nbv9u4RAKBI&t=1200)
 

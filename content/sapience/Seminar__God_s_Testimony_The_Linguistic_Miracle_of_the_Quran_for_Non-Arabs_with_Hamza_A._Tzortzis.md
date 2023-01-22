@@ -9,7 +9,7 @@ Learn how to articulate the linguistic miracle of the Quran without any knowledg
 ## Summary of [Seminar: "God's Testimony: The Linguistic Miracle of the Quran for Non-Arabs" with Hamza A. Tzortzis](https://www.youtube.com/watch?v=7ppOyadhYB0)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=7ppOyadhYB0&t=0) - [01:00:00](https://www.youtube.com/watch?v=7ppOyadhYB0&t=3600)
 

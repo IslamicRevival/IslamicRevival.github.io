@@ -18,7 +18,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 ## Summary of [Professor Nicholas Wolfinger - Marriage, Divorce, Family Stability in the USA (MH Podcast #12)](https://www.youtube.com/watch?v=A-tbVbkE9ec)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=A-tbVbkE9ec&t=0) - [00:30:00](https://www.youtube.com/watch?v=A-tbVbkE9ec&t=1800)
 

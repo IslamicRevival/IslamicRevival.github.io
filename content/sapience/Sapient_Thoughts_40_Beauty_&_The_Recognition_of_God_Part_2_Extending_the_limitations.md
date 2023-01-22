@@ -9,7 +9,7 @@ Natural beauty can bring about a state of awe. This can increase cognition & red
 ## Summary of [Sapient Thoughts #40: Beauty & The Recognition of God — Part 2: Extending the limitations](https://www.youtube.com/watch?v=sWbZlh0jA4k)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=sWbZlh0jA4k&t=0) - [00:15:00](https://www.youtube.com/watch?v=sWbZlh0jA4k&t=900)
 

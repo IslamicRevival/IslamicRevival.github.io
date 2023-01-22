@@ -9,7 +9,7 @@ Seminar: Can Artificial Intelligence Undermine Religion? With Hamza Andreas Tzor
 ## Summary of [Seminar: Can Artificial Intelligence Undermine Religion? With Hamza Andreas Tzortzis](https://www.youtube.com/watch?v=7oa5kCt_9aA)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=7oa5kCt_9aA&t=0) - [01:00:00](https://www.youtube.com/watch?v=7oa5kCt_9aA&t=3600)
 

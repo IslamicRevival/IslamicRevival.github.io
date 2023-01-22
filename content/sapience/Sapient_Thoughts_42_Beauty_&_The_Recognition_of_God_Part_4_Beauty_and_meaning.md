@@ -9,7 +9,7 @@ Natural beauty can bring about a state of awe. This can increase cognition & red
 ## Summary of [Sapient Thoughts #42: Beauty & The Recognition of God — Part 4: Beauty and meaning](https://www.youtube.com/watch?v=sdMYWj65pY0)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=sdMYWj65pY0&t=0) - [00:10:00](https://www.youtube.com/watch?v=sdMYWj65pY0&t=600)
 

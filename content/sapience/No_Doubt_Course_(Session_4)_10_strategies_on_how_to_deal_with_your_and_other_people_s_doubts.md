@@ -29,7 +29,7 @@ Week 8: Summary and exam
 ## Summary of [No Doubt Course (Session 4): 10 strategies on how to deal with your and other people's doubts](https://www.youtube.com/watch?v=n6yH7bWC5AI)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=n6yH7bWC5AI&t=0) - [01:00:00](https://www.youtube.com/watch?v=n6yH7bWC5AI&t=3600)
 

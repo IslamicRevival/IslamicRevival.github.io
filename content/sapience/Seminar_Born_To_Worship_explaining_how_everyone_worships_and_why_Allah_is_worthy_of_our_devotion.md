@@ -9,7 +9,7 @@ A da’wah seminar explaining how everyone, including atheists, worship somethin
 ## Summary of [Seminar: Born To Worship — explaining how everyone worships and why Allah is worthy of our devotion](https://www.youtube.com/watch?v=j6pO6OrWD8E)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=j6pO6OrWD8E&t=0) - [01:00:00](https://www.youtube.com/watch?v=j6pO6OrWD8E&t=3600)
 

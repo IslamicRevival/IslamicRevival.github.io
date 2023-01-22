@@ -9,7 +9,7 @@ A debate between a Muslim and an Ex-Muslim
 ## Summary of [MUSLIM VS EX-MUSLIM | MOHAMMED HIJAB](https://www.youtube.com/watch?v=U_vSh7wXQGI)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=U_vSh7wXQGI&t=0) - [00:30:00](https://www.youtube.com/watch?v=U_vSh7wXQGI&t=1800)
 

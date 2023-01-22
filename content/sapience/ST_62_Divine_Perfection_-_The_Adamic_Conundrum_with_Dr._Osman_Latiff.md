@@ -27,7 +27,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 ## Summary of [ST#62: Divine Perfection - The Adamic Conundrum with Dr. Osman Latiff](https://www.youtube.com/watch?v=3wPFspSeMX0)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=3wPFspSeMX0&t=0) - [00:15:00](https://www.youtube.com/watch?v=3wPFspSeMX0&t=900)
 

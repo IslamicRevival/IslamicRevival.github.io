@@ -15,7 +15,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 ## Summary of [Shocking Oppression on Uygurs Exposed](https://www.youtube.com/watch?v=zV3CBrQuYGE)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=zV3CBrQuYGE&t=0) - [00:30:00](https://www.youtube.com/watch?v=zV3CBrQuYGE&t=1800)
 

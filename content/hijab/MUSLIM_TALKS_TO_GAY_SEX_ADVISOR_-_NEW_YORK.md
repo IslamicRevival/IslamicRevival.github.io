@@ -9,7 +9,7 @@ Salam alaikum, peace be upon you all. If you have benefitted then please do shar
 ## Summary of [MUSLIM TALKS TO GAY SEX ADVISOR - NEW YORK](https://www.youtube.com/watch?v=KLdjHNGf9XM)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=KLdjHNGf9XM&t=0) - [00:20:00](https://www.youtube.com/watch?v=KLdjHNGf9XM&t=1200)
 

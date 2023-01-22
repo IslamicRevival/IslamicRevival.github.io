@@ -9,7 +9,7 @@ Natural beauty can bring about a state of awe. This can increase cognition & red
 ## Summary of [Sapient Thoughts #39: Beauty & The Recognition of God — Part 1: Cognitive biases and the environment](https://www.youtube.com/watch?v=L8_pBqY_yyg)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=L8_pBqY_yyg&t=0) - [00:15:00](https://www.youtube.com/watch?v=L8_pBqY_yyg&t=900)
 

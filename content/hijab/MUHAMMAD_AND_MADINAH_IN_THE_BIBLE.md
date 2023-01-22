@@ -13,7 +13,7 @@ http://www.manyprophetsonemessage.com/2014/06/28/muhammad-pbuh-and-madinah-in-th
 ## Summary of [MUHAMMAD ﷺ AND MADINAH IN THE BIBLE](https://www.youtube.com/watch?v=hpny44O0eEQ)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=hpny44O0eEQ&t=0) - [00:10:00](https://www.youtube.com/watch?v=hpny44O0eEQ&t=600)
 

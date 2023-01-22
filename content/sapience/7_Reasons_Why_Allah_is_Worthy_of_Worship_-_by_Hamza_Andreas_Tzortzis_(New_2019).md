@@ -11,7 +11,7 @@ You can read Hamza’s essay on this topic here: “7 Reasons Why God is Worthy 
 ## Summary of [7 Reasons Why Allah is Worthy of Worship - by Hamza Andreas Tzortzis (New 2019)](https://www.youtube.com/watch?v=7GThORUJhf0)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=7GThORUJhf0&t=0) - [00:55:00](https://www.youtube.com/watch?v=7GThORUJhf0&t=3300)
 

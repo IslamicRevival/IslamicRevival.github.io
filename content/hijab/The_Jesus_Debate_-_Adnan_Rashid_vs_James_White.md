@@ -11,7 +11,7 @@ Recorded by SCDawah Channel , support them by *subscribing* here - https://www.y
 ## Summary of [The Jesus Debate - Adnan Rashid vs James White](https://www.youtube.com/watch?v=58c-GxWM5SY)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=58c-GxWM5SY&t=0) - [01:00:00](https://www.youtube.com/watch?v=58c-GxWM5SY&t=3600)
 

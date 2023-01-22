@@ -11,7 +11,7 @@ This discussion is particularly important as it attempts to access the most rati
 ## Summary of [Why Are We ALIVE ? Muslim/Atheist Discussion](https://www.youtube.com/watch?v=elYcn0Hy8Vc)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=elYcn0Hy8Vc&t=0) - [00:30:00](https://www.youtube.com/watch?v=elYcn0Hy8Vc&t=1800)
 

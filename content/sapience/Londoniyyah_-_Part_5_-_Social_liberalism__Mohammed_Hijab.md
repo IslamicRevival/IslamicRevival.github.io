@@ -23,7 +23,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 ## Summary of [Londoniyyah - Part 5 - Social liberalism | Mohammed Hijab](https://www.youtube.com/watch?v=_-K2MfGZ414)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=_-K2MfGZ414&t=0) - [00:45:00](https://www.youtube.com/watch?v=_-K2MfGZ414&t=2700)
 

@@ -68,7 +68,7 @@ Gmail: hello.tapodcast@gmail.com
 ## Summary of [Can Consciousness Be Grounded on Materialism? feat. Hamza Tzortzis | Thought Adventure Podcast #11](https://www.youtube.com/watch?v=g3hB7hJW1C0)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=g3hB7hJW1C0&t=0) - [01:00:00](https://www.youtube.com/watch?v=g3hB7hJW1C0&t=3600)
 

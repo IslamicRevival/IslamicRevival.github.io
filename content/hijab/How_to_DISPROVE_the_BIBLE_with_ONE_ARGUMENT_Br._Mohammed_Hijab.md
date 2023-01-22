@@ -23,7 +23,7 @@ In Job 9:6 it says, "Who shakes the earth out of its place, and its pillars (ydw
 ## Summary of [How to DISPROVE the BIBLE with ONE ARGUMENT|| Br. Mohammed Hijab](https://www.youtube.com/watch?v=xQDU-eZ8dYg)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=xQDU-eZ8dYg&t=0) - [00:10:00](https://www.youtube.com/watch?v=xQDU-eZ8dYg&t=600)
 

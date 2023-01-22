@@ -11,7 +11,7 @@ With Fahad Tasleem.
 ## Summary of [Sapient Thoughts #37: The Human Project — Part 5: Rationality and First Principles](https://www.youtube.com/watch?v=KEWB4pjQFOg)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=KEWB4pjQFOg&t=0) - [00:10:00](https://www.youtube.com/watch?v=KEWB4pjQFOg&t=600)
 

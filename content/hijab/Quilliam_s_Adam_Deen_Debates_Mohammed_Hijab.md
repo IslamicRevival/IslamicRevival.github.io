@@ -7,7 +7,7 @@ An interesting discussion on whether or not the Quilliam Foundation's aims are b
 ## Summary of [Quilliam's Adam Deen Debates Mohammed Hijab](https://www.youtube.com/watch?v=-Hi57tuW-OI)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=-Hi57tuW-OI&t=0) - [00:15:00](https://www.youtube.com/watch?v=-Hi57tuW-OI&t=900)
 

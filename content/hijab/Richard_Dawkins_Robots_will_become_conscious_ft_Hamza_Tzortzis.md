@@ -16,7 +16,7 @@ Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
 ## Summary of [Richard Dawkins "Robots will become conscious" ft Hamza Tzortzis](https://www.youtube.com/watch?v=aUm0o0Cu5qg)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=aUm0o0Cu5qg&t=0) - [00:20:00](https://www.youtube.com/watch?v=aUm0o0Cu5qg&t=1200)
 

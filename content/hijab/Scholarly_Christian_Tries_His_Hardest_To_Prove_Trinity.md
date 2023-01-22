@@ -11,7 +11,7 @@ FULL DEBATE -https://www.youtube.com/watch?v=hgXY4hJkrLA
 ## Summary of [Scholarly Christian Tries His Hardest To Prove Trinity](https://www.youtube.com/watch?v=gfo_IMb0t6M)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=gfo_IMb0t6M&t=0) - [00:30:00](https://www.youtube.com/watch?v=gfo_IMb0t6M&t=1800)
 

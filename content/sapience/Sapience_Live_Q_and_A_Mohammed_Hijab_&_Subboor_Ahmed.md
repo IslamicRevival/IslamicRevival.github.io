@@ -9,7 +9,7 @@
 ## Summary of [Sapience Live Q and A: Mohammed Hijab & Subboor Ahmed](https://www.youtube.com/watch?v=aliu6yertgo)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=aliu6yertgo&t=0) - [01:00:00](https://www.youtube.com/watch?v=aliu6yertgo&t=3600)
 

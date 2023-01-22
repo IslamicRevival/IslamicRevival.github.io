@@ -9,7 +9,7 @@ Some unusual hadiths that are strikingly similar to some modern day phenomena.
 ## Summary of [Modern Day Predictions of the Prophet](https://www.youtube.com/watch?v=meza_N1vFCI)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=meza_N1vFCI&t=0) - [00:10:00](https://www.youtube.com/watch?v=meza_N1vFCI&t=600)
 

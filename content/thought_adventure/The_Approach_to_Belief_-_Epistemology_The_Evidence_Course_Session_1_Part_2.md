@@ -62,7 +62,7 @@ Gmail: hello.tapodcast@gmail.com
 ## Summary of [The Approach to Belief - Epistemology | The Evidence Course | Session 1 / Part 2](https://www.youtube.com/watch?v=Unb6O0zpIYM)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=Unb6O0zpIYM&t=0) - [00:10:00](https://www.youtube.com/watch?v=Unb6O0zpIYM&t=600)
 

@@ -11,7 +11,7 @@ Part 2 here: https://www.youtube.com/watch?v=WmiB1KSj-J8
 ## Summary of [Curious Muslim Meets Atheist Scientist](https://www.youtube.com/watch?v=37EY8TP7d3k)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=37EY8TP7d3k&t=0) - [00:25:00](https://www.youtube.com/watch?v=37EY8TP7d3k&t=1500)
 

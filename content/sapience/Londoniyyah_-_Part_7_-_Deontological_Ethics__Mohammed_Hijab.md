@@ -24,7 +24,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 ## Summary of [Londoniyyah - Part 7 - Deontological Ethics | Mohammed Hijab](https://www.youtube.com/watch?v=H59kvs6CciI)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=H59kvs6CciI&t=0) - [00:35:00](https://www.youtube.com/watch?v=H59kvs6CciI&t=2100)
 

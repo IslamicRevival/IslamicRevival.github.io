@@ -62,7 +62,7 @@ Gmail: hello.tapodcast@gmail.com
 ## Summary of [Argument for Divine Authorship of Qur’an | The Evidence Course | Session 5 / Part 3](https://www.youtube.com/watch?v=cVNx4Ubq1Dw)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=cVNx4Ubq1Dw&t=0) - [00:20:00](https://www.youtube.com/watch?v=cVNx4Ubq1Dw&t=1200)
 

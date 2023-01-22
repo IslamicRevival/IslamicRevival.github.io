@@ -9,7 +9,7 @@
 ## Summary of [Hating Civility: France, Freedom of Speech & the Defamatory Cartoons of the Prophet Muhammad ﷺ](https://www.youtube.com/watch?v=WtRvdFu8i7I)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=WtRvdFu8i7I&t=0) - [00:25:00](https://www.youtube.com/watch?v=WtRvdFu8i7I&t=1500)
 

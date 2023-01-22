@@ -25,7 +25,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 ## Summary of [Introducing Qur’anic Arguments: Surah Al-Qamar | Mohammed Hijab In Mecca](https://www.youtube.com/watch?v=no9nXw8hfds)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=no9nXw8hfds&t=0) - [01:00:00](https://www.youtube.com/watch?v=no9nXw8hfds&t=3600)
 

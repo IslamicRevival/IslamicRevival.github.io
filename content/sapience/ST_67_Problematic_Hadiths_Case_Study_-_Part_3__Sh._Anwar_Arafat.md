@@ -28,7 +28,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 ## Summary of [ST#67: Problematic Hadiths Case Study - Part 3 | Sh. Anwar Arafat](https://www.youtube.com/watch?v=QlfuqSwdGX0)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=QlfuqSwdGX0&t=0) - [00:10:00](https://www.youtube.com/watch?v=QlfuqSwdGX0&t=600)
 

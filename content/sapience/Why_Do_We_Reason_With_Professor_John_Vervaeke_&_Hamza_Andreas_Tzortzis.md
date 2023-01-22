@@ -9,7 +9,7 @@ A conversation on rationality, God and science with Professor John Vervaeke and 
 ## Summary of [“Why Do We Reason?” With Professor John Vervaeke & Hamza Andreas Tzortzis](https://www.youtube.com/watch?v=oN6byBLR_a8)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=oN6byBLR_a8&t=0) - [01:00:00](https://www.youtube.com/watch?v=oN6byBLR_a8&t=3600)
 

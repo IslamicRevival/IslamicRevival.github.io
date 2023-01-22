@@ -17,7 +17,7 @@ Www.facebook.com/brothermohammedhijab
 ## Summary of [Ex-Shia Muslim TV host Interview (Fascinating) || Br. Mohammed Hijab PART 2/2](https://www.youtube.com/watch?v=_0SyGKXh-rQ)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=_0SyGKXh-rQ&t=0) - [00:50:00](https://www.youtube.com/watch?v=_0SyGKXh-rQ&t=3000)
 

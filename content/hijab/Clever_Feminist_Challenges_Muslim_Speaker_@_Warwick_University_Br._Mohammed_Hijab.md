@@ -9,7 +9,7 @@ An important exposition of the Islamic understanding of husband and wife relatio
 ## Summary of [Clever Feminist Challenges Muslim Speaker @ Warwick University|| Br. Mohammed Hijab](https://www.youtube.com/watch?v=b86dMlXvdMA)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=b86dMlXvdMA&t=0) - [00:15:00](https://www.youtube.com/watch?v=b86dMlXvdMA&t=900)
 

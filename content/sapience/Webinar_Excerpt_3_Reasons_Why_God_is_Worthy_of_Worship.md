@@ -13,7 +13,7 @@ To watch and learn from the free Sapience Institute launch webinars please acces
 ## Summary of [Webinar Excerpt: 3 Reasons Why God is Worthy of Worship](https://www.youtube.com/watch?v=HwQT_21tM18)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=HwQT_21tM18&t=0) - [00:15:00](https://www.youtube.com/watch?v=HwQT_21tM18&t=900)
 

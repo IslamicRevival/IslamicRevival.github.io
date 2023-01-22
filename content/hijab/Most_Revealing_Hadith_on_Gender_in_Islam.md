@@ -21,7 +21,7 @@ Please donate and help establish this Masjid and earn your reward ➡ https://ww
 ## Summary of [Most Revealing Hadith on Gender in Islam?](https://www.youtube.com/watch?v=BHP78wJXi30)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=BHP78wJXi30&t=0) - [00:20:00](https://www.youtube.com/watch?v=BHP78wJXi30&t=1200)
 

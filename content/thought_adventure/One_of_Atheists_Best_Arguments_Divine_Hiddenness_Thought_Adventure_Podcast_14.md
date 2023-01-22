@@ -65,7 +65,7 @@ Gmail: hello.tapodcast@gmail.com
 ## Summary of [One of Atheists’ Best Arguments: Divine Hiddenness | Thought Adventure Podcast #14](https://www.youtube.com/watch?v=OWVl33e47iU)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=OWVl33e47iU&t=0) - [01:00:00](https://www.youtube.com/watch?v=OWVl33e47iU&t=3600)
 

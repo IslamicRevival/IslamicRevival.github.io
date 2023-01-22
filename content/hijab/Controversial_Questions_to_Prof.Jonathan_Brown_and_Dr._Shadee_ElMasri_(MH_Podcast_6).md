@@ -30,7 +30,7 @@ Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
 ## Summary of [Controversial Questions to Prof.Jonathan Brown and Dr. Shadee ElMasri (MH Podcast #6)](https://www.youtube.com/watch?v=7jXye1-Wbug)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=7jXye1-Wbug&t=0) - [01:00:00](https://www.youtube.com/watch?v=7jXye1-Wbug&t=3600)
 

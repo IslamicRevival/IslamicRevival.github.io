@@ -9,7 +9,7 @@
 ## Summary of [Black Magic and Ancient Babylon](https://www.youtube.com/watch?v=dLQAEBFakr8)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=dLQAEBFakr8&t=0) - [00:20:00](https://www.youtube.com/watch?v=dLQAEBFakr8&t=1200)
 

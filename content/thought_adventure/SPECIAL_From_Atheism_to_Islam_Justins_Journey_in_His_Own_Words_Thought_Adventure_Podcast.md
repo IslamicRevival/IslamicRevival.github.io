@@ -85,7 +85,7 @@ Gmail: hello.tapodcast@gmail.com
 ## Summary of [SPECIAL: From Atheism to Islam: Justin’s Journey in His Own Words | Thought Adventure Podcast](https://www.youtube.com/watch?v=-sMquXs4sDg)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=-sMquXs4sDg&t=0) - [01:00:00](https://www.youtube.com/watch?v=-sMquXs4sDg&t=3600)
 

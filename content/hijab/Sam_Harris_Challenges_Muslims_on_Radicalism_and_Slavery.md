@@ -11,7 +11,7 @@ New atheist Sam Harris has often made a case against Islam using fallacious argu
 ## Summary of [Sam Harris Challenges Muslims on Radicalism and Slavery](https://www.youtube.com/watch?v=Hl7mPkjE8pI)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=Hl7mPkjE8pI&t=0) - [00:15:00](https://www.youtube.com/watch?v=Hl7mPkjE8pI&t=900)
 

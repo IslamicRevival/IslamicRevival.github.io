@@ -11,7 +11,7 @@ Islam means submission to God. However, does that mean Islam curtails people's f
 ## Summary of [Seminar: Does Islam curtail freedom? An analytical approach - with Hamza Andreas Tzortzis](https://www.youtube.com/watch?v=71jEgL9tR1g)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=71jEgL9tR1g&t=0) - [01:00:00](https://www.youtube.com/watch?v=71jEgL9tR1g&t=3600)
 

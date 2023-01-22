@@ -11,7 +11,7 @@ Sunni Muslim Mohammed Hijab relays the strongest Quranic argument against Ahmadi
 ## Summary of [Ahmadi Catches Sunni Mohammed Hijab in Toronto !](https://www.youtube.com/watch?v=yl2ifwqqOtQ)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=yl2ifwqqOtQ&t=0) - [00:15:00](https://www.youtube.com/watch?v=yl2ifwqqOtQ&t=900)
 

@@ -56,7 +56,7 @@ Gmail: hello.tapodcast@gmail.com
 ## Summary of [The Review: Muslim v. Orthodox Christian: Is it Impossible to Have the Divine Nature Without Aseity?](https://www.youtube.com/watch?v=cNxIpOQM9oY)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=cNxIpOQM9oY&t=0) - [01:00:00](https://www.youtube.com/watch?v=cNxIpOQM9oY&t=3600)
 

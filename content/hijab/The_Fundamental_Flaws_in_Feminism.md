@@ -9,7 +9,7 @@ This talk is an attempt at identifying some of the issues regarding 2nd wave fem
 ## Summary of [The Fundamental Flaws in Feminism](https://www.youtube.com/watch?v=IKhIeCF1kPY)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=IKhIeCF1kPY&t=0) - [00:25:00](https://www.youtube.com/watch?v=IKhIeCF1kPY&t=1500)
 

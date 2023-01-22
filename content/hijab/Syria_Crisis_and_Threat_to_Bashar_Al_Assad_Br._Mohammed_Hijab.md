@@ -9,7 +9,7 @@ Please don't forget to give charity -http://www.muntadaaid.org/donate/#/project/
 ## Summary of [Syria Crisis and Threat to Bashar Al Assad|| Br. Mohammed Hijab](https://www.youtube.com/watch?v=eXYyNE4JVpQ)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=eXYyNE4JVpQ&t=0) - [00:10:00](https://www.youtube.com/watch?v=eXYyNE4JVpQ&t=600)
 

@@ -64,7 +64,7 @@ Gmail: hello.tapodcast@gmail.com
 ## Summary of [The Rational Thought | The Evidence Course | Session 1 / Part 4](https://www.youtube.com/watch?v=Nb7HHZDr5vU)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=Nb7HHZDr5vU&t=0) - [00:15:00](https://www.youtube.com/watch?v=Nb7HHZDr5vU&t=900)
 

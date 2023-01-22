@@ -21,7 +21,7 @@ Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
 ## Summary of [Muslim Response to Comedian Mocking Christchurch Victims](https://www.youtube.com/watch?v=tcW4fvnHX8g)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=tcW4fvnHX8g&t=0) - [00:10:00](https://www.youtube.com/watch?v=tcW4fvnHX8g&t=600)
 

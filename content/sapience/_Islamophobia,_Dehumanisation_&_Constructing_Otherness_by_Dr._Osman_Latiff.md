@@ -9,7 +9,7 @@ As part of Islamophobia Awareness Month Sapience Institute delivered a free onli
 ## Summary of ["Islamophobia, Dehumanisation & Constructing Otherness" by Dr. Osman Latiff](https://www.youtube.com/watch?v=y8b_XtMsNto)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=y8b_XtMsNto&t=0) - [01:00:00](https://www.youtube.com/watch?v=y8b_XtMsNto&t=3600)
 

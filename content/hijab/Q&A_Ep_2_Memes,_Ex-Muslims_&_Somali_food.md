@@ -14,7 +14,7 @@ Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
 ## Summary of [Q&A Ep 2: Memes, Ex-Muslims & Somali food](https://www.youtube.com/watch?v=UbB9UeI47uk)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=UbB9UeI47uk&t=0) - [00:10:00](https://www.youtube.com/watch?v=UbB9UeI47uk&t=600)
 

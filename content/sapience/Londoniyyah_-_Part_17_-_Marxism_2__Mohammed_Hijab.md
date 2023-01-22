@@ -25,7 +25,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 ## Summary of [Londoniyyah - Part 17 - Marxism/2 | Mohammed Hijab](https://www.youtube.com/watch?v=AL6YzHBiJ0A)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=AL6YzHBiJ0A&t=0) - [01:00:00](https://www.youtube.com/watch?v=AL6YzHBiJ0A&t=3600)
 

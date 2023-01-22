@@ -58,7 +58,7 @@ Gmail: hello.tapodcast@gmail.com
 ## Summary of [SPECIAL: How free is Free Speech? with@AbdullahalAndalusiand Dr. Abdul Wahid](https://www.youtube.com/watch?v=x9n_t9Q2xqo)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=x9n_t9Q2xqo&t=0) - [01:00:00](https://www.youtube.com/watch?v=x9n_t9Q2xqo&t=3600)
 

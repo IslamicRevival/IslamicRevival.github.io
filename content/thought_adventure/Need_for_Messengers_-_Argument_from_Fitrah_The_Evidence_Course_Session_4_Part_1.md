@@ -62,7 +62,7 @@ Gmail: hello.tapodcast@gmail.com
 ## Summary of [Need for Messengers - Argument from Fitrah | The Evidence Course | Session 4 / Part 1](https://www.youtube.com/watch?v=z2m7jsH3_Mw)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=z2m7jsH3_Mw&t=0) - [00:25:00](https://www.youtube.com/watch?v=z2m7jsH3_Mw&t=1500)
 

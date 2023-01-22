@@ -13,7 +13,7 @@ This course has been launched on our learning platform. Enroll here for free: ht
 ## Summary of [No Doubt: Introducing 10 Strategies To Deal With Destructive Doubts | Hamza Tzortzis & Fahad Tasleem](https://www.youtube.com/watch?v=RleAnrjY5FQ)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=RleAnrjY5FQ&t=0) - [00:50:00](https://www.youtube.com/watch?v=RleAnrjY5FQ&t=3000)
 

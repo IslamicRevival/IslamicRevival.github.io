@@ -7,7 +7,7 @@
 ## Summary of [Correcting Muslim Preacher who Forbids Football ⚽️](https://www.youtube.com/watch?v=k6Vnz5r7fVQ)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=k6Vnz5r7fVQ&t=0) - [00:10:00](https://www.youtube.com/watch?v=k6Vnz5r7fVQ&t=600)
 

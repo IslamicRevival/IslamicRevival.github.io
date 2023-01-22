@@ -9,7 +9,7 @@
 ## Summary of [Sapience Institute Live: With Mohammed Hijab & Hamza Andreas Tzortzis](https://www.youtube.com/watch?v=86yTspoBMqk)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=86yTspoBMqk&t=0) - [01:00:00](https://www.youtube.com/watch?v=86yTspoBMqk&t=3600)
 

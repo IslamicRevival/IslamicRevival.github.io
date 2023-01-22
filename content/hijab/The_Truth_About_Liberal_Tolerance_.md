@@ -9,7 +9,7 @@ Full video here -https://www.youtube.com/channel/UCVe9scgFCo97IEWj0I37Ozg
 ## Summary of [The Truth About Liberal 'Tolerance'](https://www.youtube.com/watch?v=3cc8SyDc3WI)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=3cc8SyDc3WI&t=0) - [00:10:00](https://www.youtube.com/watch?v=3cc8SyDc3WI&t=600)
 

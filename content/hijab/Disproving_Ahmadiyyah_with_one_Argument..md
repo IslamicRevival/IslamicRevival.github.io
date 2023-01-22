@@ -11,7 +11,7 @@ What true prophesies look like - https://iera.org/shop/forbidden-prophecy-downlo
 ## Summary of [Disproving Ahmadiyyah with one Argument.](https://www.youtube.com/watch?v=tFXReth0BEM)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=tFXReth0BEM&t=0) - [00:15:00](https://www.youtube.com/watch?v=tFXReth0BEM&t=900)
 

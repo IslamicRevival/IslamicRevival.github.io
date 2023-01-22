@@ -9,7 +9,7 @@ Thanks to brothers from guidance avenue for providing this video.
 ## Summary of [Intellectual Man Asks Muslim All The Right Questions](https://www.youtube.com/watch?v=nbbMxzYWP2o)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=nbbMxzYWP2o&t=0) - [00:35:00](https://www.youtube.com/watch?v=nbbMxzYWP2o&t=2100)
 

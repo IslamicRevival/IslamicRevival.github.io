@@ -9,7 +9,7 @@ Free book: https://sapienceinstitute.org/theburhan/
 ## Summary of [Reply to Pseudo-Salafi Critique of Contingency Argument in Dawah](https://www.youtube.com/watch?v=TU7mQOn_SQ4)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=TU7mQOn_SQ4&t=0) - [00:15:00](https://www.youtube.com/watch?v=TU7mQOn_SQ4&t=900)
 

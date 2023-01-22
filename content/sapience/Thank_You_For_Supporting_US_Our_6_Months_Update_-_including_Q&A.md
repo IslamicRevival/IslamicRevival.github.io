@@ -13,7 +13,7 @@ In-shā-a-Allāh.
 ## Summary of [Thank You For Supporting US: Our 6 Months Update - including Q&A](https://www.youtube.com/watch?v=T2aVwJ3YlBM)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=T2aVwJ3YlBM&t=0) - [01:00:00](https://www.youtube.com/watch?v=T2aVwJ3YlBM&t=3600)
 

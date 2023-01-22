@@ -9,7 +9,7 @@ link here - https://www.naturesblends.co.uk/
 ## Summary of [Noam Chomsky on CoronaVirus, Social Media and Social Harmony (MH Podcast #1)](https://www.youtube.com/watch?v=MHhgCFJWgM0)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=MHhgCFJWgM0&t=0) - [00:15:00](https://www.youtube.com/watch?v=MHhgCFJWgM0&t=900)
 

@@ -9,7 +9,7 @@ This is an important philosophical question that aims to probe an atheist's insi
 ## Summary of [Why Atheists Don't Believe in God.](https://www.youtube.com/watch?v=Tx2ZiRQ1luM)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=Tx2ZiRQ1luM&t=0) - [00:10:00](https://www.youtube.com/watch?v=Tx2ZiRQ1luM&t=600)
 

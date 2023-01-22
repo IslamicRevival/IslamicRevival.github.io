@@ -9,7 +9,7 @@ This video exposes the double standards of those who criticise Islam on some of 
 ## Summary of [Non Muslims Practice Polygamy](https://www.youtube.com/watch?v=q-TA4xTIXAQ)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=q-TA4xTIXAQ&t=0) - [00:10:00](https://www.youtube.com/watch?v=q-TA4xTIXAQ&t=600)
 

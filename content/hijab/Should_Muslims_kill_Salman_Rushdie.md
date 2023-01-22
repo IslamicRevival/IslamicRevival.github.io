@@ -19,7 +19,7 @@ Please donate and help establish this Masjid and earn your reward ➡ https://ww
 ## Summary of [Should Muslims kill Salman Rushdie??](https://www.youtube.com/watch?v=2z1J6ydYTYw)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=2z1J6ydYTYw&t=0) - [00:10:00](https://www.youtube.com/watch?v=2z1J6ydYTYw&t=600)
 

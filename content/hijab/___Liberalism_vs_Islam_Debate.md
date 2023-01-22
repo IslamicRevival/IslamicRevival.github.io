@@ -9,7 +9,7 @@ full debate here - https://www.youtube.com/watch?v=tzlOG4jntzw
 ## Summary of [كلمة محمد حجاب الافتتاحية خلال مناظرته مع لارس جول حول موضوع الليبرالية Liberalism vs Islam Debate](https://www.youtube.com/watch?v=P8rbfhffxG8)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=P8rbfhffxG8&t=0) - [00:20:00](https://www.youtube.com/watch?v=P8rbfhffxG8&t=1200)
 

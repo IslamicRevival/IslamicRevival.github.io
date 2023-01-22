@@ -24,7 +24,7 @@ The "Why Atheism is Irrational" series will include seminars on:
 ## Summary of [Seminar & Interview: Why Atheism is Irrational #1 — The Argument from Prior Cognitive Information](https://www.youtube.com/watch?v=t2bdY2RBoQs)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=t2bdY2RBoQs&t=0) - [01:00:00](https://www.youtube.com/watch?v=t2bdY2RBoQs&t=3600)
 

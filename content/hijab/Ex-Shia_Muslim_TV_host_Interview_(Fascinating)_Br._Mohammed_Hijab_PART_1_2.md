@@ -28,7 +28,7 @@ Follow brother Mohammed hijab on:
 ## Summary of [Ex-Shia Muslim TV host Interview (Fascinating) || Br. Mohammed Hijab PART 1/2](https://www.youtube.com/watch?v=kxQ_YABUmJ8)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=kxQ_YABUmJ8&t=0) - [00:30:00](https://www.youtube.com/watch?v=kxQ_YABUmJ8&t=1800)
 

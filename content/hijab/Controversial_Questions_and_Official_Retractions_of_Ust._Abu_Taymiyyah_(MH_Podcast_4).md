@@ -14,7 +14,7 @@ Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
 ## Summary of [Controversial Questions and Official Retractions of Ust. Abu Taymiyyah (MH Podcast #4)](https://www.youtube.com/watch?v=ERxMxtTR9eo)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=ERxMxtTR9eo&t=0) - [01:00:00](https://www.youtube.com/watch?v=ERxMxtTR9eo&t=3600)
 

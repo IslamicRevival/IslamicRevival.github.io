@@ -37,7 +37,7 @@ Does Traditional Islam Need to be Liberalized? Join Mohammed Hijab in his debate
 ## Summary of [FULL DEBATE! Does Traditional Islam Need to be Liberalized - Mohammed Hijab VS Lars Gule](https://www.youtube.com/watch?v=tzlOG4jntzw)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=tzlOG4jntzw&t=0) - [01:00:00](https://www.youtube.com/watch?v=tzlOG4jntzw&t=3600)
 

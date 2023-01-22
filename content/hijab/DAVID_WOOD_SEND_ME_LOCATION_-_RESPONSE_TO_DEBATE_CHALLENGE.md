@@ -18,7 +18,7 @@ https://www.launchgood.com/project/keep_salam_going#!/
 ## Summary of [DAVID WOOD SEND ME LOCATION - RESPONSE TO DEBATE CHALLENGE](https://www.youtube.com/watch?v=Hax68VgkjuQ)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=Hax68VgkjuQ&t=0) - [00:15:00](https://www.youtube.com/watch?v=Hax68VgkjuQ&t=900)
 

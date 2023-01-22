@@ -11,7 +11,7 @@ A seminar with Fahad Tasleem on how to ise spiritual experiences to help them fi
 ## Summary of [Seminar: Experiential Signs - Spiritual Experiences & Finding the Truth](https://www.youtube.com/watch?v=1DbEexzAUQE)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=1DbEexzAUQE&t=0) - [01:00:00](https://www.youtube.com/watch?v=1DbEexzAUQE&t=3600)
 

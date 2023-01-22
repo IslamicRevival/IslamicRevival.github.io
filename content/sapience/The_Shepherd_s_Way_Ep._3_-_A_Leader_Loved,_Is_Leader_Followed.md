@@ -30,7 +30,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 ## Summary of [The Shepherd's Way: Ep. 3 - A Leader Loved, Is Leader Followed](https://www.youtube.com/watch?v=3q47FdX6cDc)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=3q47FdX6cDc&t=0) - [00:10:00](https://www.youtube.com/watch?v=3q47FdX6cDc&t=600)
 

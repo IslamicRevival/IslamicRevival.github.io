@@ -17,7 +17,7 @@ https://twitter.com/InitiativeSalam
 ## Summary of [REACTING TO DAVID WOOD CURSING JESUS](https://www.youtube.com/watch?v=fHHI2j71OXQ)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=fHHI2j71OXQ&t=0) - [00:10:00](https://www.youtube.com/watch?v=fHHI2j71OXQ&t=600)
 

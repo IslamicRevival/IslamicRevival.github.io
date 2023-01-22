@@ -62,7 +62,7 @@ Gmail: hello.tapodcast@gmail.com
 ## Summary of [Atheists and the Value of Truth | Podcast Highlight](https://www.youtube.com/watch?v=GS1wzxk5XEs)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=GS1wzxk5XEs&t=0) - [00:10:00](https://www.youtube.com/watch?v=GS1wzxk5XEs&t=600)
 

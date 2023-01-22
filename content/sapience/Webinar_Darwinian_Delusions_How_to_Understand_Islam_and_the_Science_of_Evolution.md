@@ -11,7 +11,7 @@ To watch and learn from the free Sapience Institute launch webinars please acces
 ## Summary of [Webinar: Darwinian Delusions — How to Understand Islam and the Science of Evolution](https://www.youtube.com/watch?v=GTYQShozr2c)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=GTYQShozr2c&t=0) - [01:00:00](https://www.youtube.com/watch?v=GTYQShozr2c&t=3600)
 

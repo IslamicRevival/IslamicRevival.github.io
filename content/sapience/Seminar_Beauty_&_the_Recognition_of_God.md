@@ -9,7 +9,7 @@ Online Seminar: Beauty & the Recognition of God with Fahad Tasleem
 ## Summary of [Seminar: Beauty & the Recognition of God](https://www.youtube.com/watch?v=xwwqQymjOaQ)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=xwwqQymjOaQ&t=0) - [01:00:00](https://www.youtube.com/watch?v=xwwqQymjOaQ&t=3600)
 

@@ -63,7 +63,7 @@ Gmail: hello.tapodcast@gmail.com
 ## Summary of [The Review: Is the Trinity Coherent? Vin from Vin and Sori vs. The Muslim Metaphysician](https://www.youtube.com/watch?v=mW1EVGitSsc)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=mW1EVGitSsc&t=0) - [01:00:00](https://www.youtube.com/watch?v=mW1EVGitSsc&t=3600)
 

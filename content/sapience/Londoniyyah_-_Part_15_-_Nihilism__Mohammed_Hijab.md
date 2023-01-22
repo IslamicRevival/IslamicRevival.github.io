@@ -25,7 +25,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 ## Summary of [Londoniyyah - Part 15 - Nihilism | Mohammed Hijab](https://www.youtube.com/watch?v=tDcqb2d7CrA)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=tDcqb2d7CrA&t=0) - [01:00:00](https://www.youtube.com/watch?v=tDcqb2d7CrA&t=3600)
 

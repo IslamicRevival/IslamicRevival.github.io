@@ -32,7 +32,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 ## Summary of [Sapient Voices #3: Dr. Osman Latiff - New Book, Successes & Failures, Self-Amazement & Gratitude](https://www.youtube.com/watch?v=__NpvDxDSlw)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=__NpvDxDSlw&t=0) - [01:00:00](https://www.youtube.com/watch?v=__NpvDxDSlw&t=3600)
 

@@ -11,7 +11,7 @@ Also please get my new book on feminism "fifth wave feminism" - https://www.amaz
 ## Summary of [The Unholy Trinity - Atheism, Feminism and Darwinism - Saboor Ahmed](https://www.youtube.com/watch?v=OYOi9DekfMY)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=OYOi9DekfMY&t=0) - [00:35:00](https://www.youtube.com/watch?v=OYOi9DekfMY&t=2100)
 

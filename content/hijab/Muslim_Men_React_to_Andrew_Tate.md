@@ -21,7 +21,7 @@ Please donate and help establish this Masjid and earn your reward ➡ https://ww
 ## Summary of [Muslim Men React to Andrew Tate](https://www.youtube.com/watch?v=JZ6_bRIuvB0)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=JZ6_bRIuvB0&t=0) - [00:25:00](https://www.youtube.com/watch?v=JZ6_bRIuvB0&t=1500)
 

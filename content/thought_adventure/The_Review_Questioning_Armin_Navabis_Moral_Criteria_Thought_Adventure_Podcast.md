@@ -59,7 +59,7 @@ Gmail: hello.tapodcast@gmail.com
 ## Summary of [The Review: Questioning Armin Navabi’s Moral Criteria | Thought Adventure Podcast](https://www.youtube.com/watch?v=h1TJdQ4kkGE)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=h1TJdQ4kkGE&t=0) - [01:00:00](https://www.youtube.com/watch?v=h1TJdQ4kkGE&t=3600)
 

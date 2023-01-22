@@ -64,7 +64,7 @@ Gmail: hello.tapodcast@gmail.com
 ## Summary of [Hamza Tzortzis on The Hard Problem of Conscioussness | Podcast Highlight](https://www.youtube.com/watch?v=zwDd2UNm9lE)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=zwDd2UNm9lE&t=0) - [00:20:00](https://www.youtube.com/watch?v=zwDd2UNm9lE&t=1200)
 

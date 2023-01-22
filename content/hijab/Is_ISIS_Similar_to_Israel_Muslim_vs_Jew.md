@@ -9,7 +9,7 @@ This video is a discussion on the similarities between ISIS and Israel and wheth
 ## Summary of [Is "ISIS" Similar to "Israel" ? Muslim vs Jew](https://www.youtube.com/watch?v=0vS-UiPFD7Q)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=0vS-UiPFD7Q&t=0) - [00:20:00](https://www.youtube.com/watch?v=0vS-UiPFD7Q&t=1200)
 

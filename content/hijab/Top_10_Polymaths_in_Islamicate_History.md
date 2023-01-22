@@ -7,7 +7,7 @@ My book Kalam cosmological arguments can be found here - https://www.amazon.co.u
 ## Summary of [Top 10 Polymaths in Islamicate History](https://www.youtube.com/watch?v=l6jwMzE5XaI)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=l6jwMzE5XaI&t=0) - [00:25:00](https://www.youtube.com/watch?v=l6jwMzE5XaI&t=1500)
 

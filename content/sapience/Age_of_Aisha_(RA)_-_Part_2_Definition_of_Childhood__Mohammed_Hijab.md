@@ -25,7 +25,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 ## Summary of [Age of Aisha (RA) - Part 2: Definition of Childhood | Mohammed Hijab](https://www.youtube.com/watch?v=kEf6uuYGkB0)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=kEf6uuYGkB0&t=0) - [00:50:00](https://www.youtube.com/watch?v=kEf6uuYGkB0&t=3000)
 

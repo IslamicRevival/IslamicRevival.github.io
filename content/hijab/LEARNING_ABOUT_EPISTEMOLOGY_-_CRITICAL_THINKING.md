@@ -21,7 +21,7 @@ MOHAMED HIJAB ALI DAWAH
 ## Summary of [LEARNING ABOUT EPISTEMOLOGY? - CRITICAL THINKING](https://www.youtube.com/watch?v=qu536euyd2c)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=qu536euyd2c&t=0) - [00:25:00](https://www.youtube.com/watch?v=qu536euyd2c&t=1500)
 

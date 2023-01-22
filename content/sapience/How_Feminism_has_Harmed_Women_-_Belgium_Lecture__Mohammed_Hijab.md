@@ -25,7 +25,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 ## Summary of [How Feminism has Harmed Women - Belgium Lecture | Mohammed Hijab](https://www.youtube.com/watch?v=LdC1PepIg2U)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=LdC1PepIg2U&t=0) - [00:50:00](https://www.youtube.com/watch?v=LdC1PepIg2U&t=3000)
 

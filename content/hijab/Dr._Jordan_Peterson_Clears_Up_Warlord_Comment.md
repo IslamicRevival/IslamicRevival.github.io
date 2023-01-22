@@ -9,7 +9,7 @@ Full Podcast Here: https://www.youtube.com/watch?v=qgYMuRqXPr0&t=3128s
 ## Summary of [Dr. Jordan Peterson Clears Up Warlord Comment](https://www.youtube.com/watch?v=v0qZCupZ2SU)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=v0qZCupZ2SU&t=0) - [00:10:00](https://www.youtube.com/watch?v=v0qZCupZ2SU&t=600)
 

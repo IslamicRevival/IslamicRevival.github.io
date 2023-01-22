@@ -25,7 +25,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 ## Summary of [Londoniyyah - Part 21 - Muhammad ﷺ in the Bible](https://www.youtube.com/watch?v=diCnJvtrpL4)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=diCnJvtrpL4&t=0) - [00:35:00](https://www.youtube.com/watch?v=diCnJvtrpL4&t=2100)
 

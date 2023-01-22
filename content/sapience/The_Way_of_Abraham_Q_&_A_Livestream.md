@@ -9,7 +9,7 @@ https://www.sapienceinstitute.org/donate
 ## Summary of [The Way of Abraham: Q & A Livestream](https://www.youtube.com/watch?v=aaPp0Nxbnn8)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=aaPp0Nxbnn8&t=0) - [01:00:00](https://www.youtube.com/watch?v=aaPp0Nxbnn8&t=3600)
 

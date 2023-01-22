@@ -23,7 +23,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 ## Summary of [Londoniyyah - Part 12 - Objections to the Contingency Argument | Mohammed Hijab](https://www.youtube.com/watch?v=HKEYocPz0e8)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=HKEYocPz0e8&t=0) - [00:40:00](https://www.youtube.com/watch?v=HKEYocPz0e8&t=2400)
 

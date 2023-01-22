@@ -9,7 +9,7 @@ A discussion with UFC's Firas Zahabi goes deep check it out inshallah!
 ## Summary of [Discussion with UFC's Firas Zahabi on Randomness, God and the Universe](https://www.youtube.com/watch?v=1Z3A6N5ck3c)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=1Z3A6N5ck3c&t=0) - [00:50:00](https://www.youtube.com/watch?v=1Z3A6N5ck3c&t=3000)
 

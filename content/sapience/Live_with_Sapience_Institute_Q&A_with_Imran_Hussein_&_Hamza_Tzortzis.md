@@ -9,7 +9,7 @@ Live with Sapience Institute: Q&A with Imran Hussein & Hamza Tzortzis
 ## Summary of [Live with Sapience Institute: Q&A with Imran Hussein & Hamza Tzortzis](https://www.youtube.com/watch?v=FtEkSMnywCc)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=FtEkSMnywCc&t=0) - [01:00:00](https://www.youtube.com/watch?v=FtEkSMnywCc&t=3600)
 

@@ -11,7 +11,7 @@ With Shaykh Yasir Al-Hanifi and Hamza Andreas Tzortzis
 ## Summary of [The Way of the Prophets - An analysis of prophetic guidance for those who share & defend Islam](https://www.youtube.com/watch?v=YqVD91REsQM)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=YqVD91REsQM&t=0) - [01:00:00](https://www.youtube.com/watch?v=YqVD91REsQM&t=3600)
 

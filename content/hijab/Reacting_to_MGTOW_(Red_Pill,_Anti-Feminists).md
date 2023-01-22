@@ -17,7 +17,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 ## Summary of [Reacting to MGTOW (Red Pill, Anti-Feminists)](https://www.youtube.com/watch?v=nK4fCDXefx0)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=nK4fCDXefx0&t=0) - [00:35:00](https://www.youtube.com/watch?v=nK4fCDXefx0&t=2100)
 

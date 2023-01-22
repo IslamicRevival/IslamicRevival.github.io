@@ -29,7 +29,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 ## Summary of [ST #53: Divine Perfection - Dr. William Lane Craig & the Qur'an's Conception of the Trinity - PART 2](https://www.youtube.com/watch?v=Nx_O-c8pYac)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=Nx_O-c8pYac&t=0) - [00:10:00](https://www.youtube.com/watch?v=Nx_O-c8pYac&t=600)
 

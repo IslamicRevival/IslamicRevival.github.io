@@ -9,7 +9,7 @@ Sapience Institute Live - With Subboor Ahmad and Mohammed Hijab
 ## Summary of [Sapience Institute Live - With Subboor Ahmad and Mohammed Hijab](https://www.youtube.com/watch?v=iyWFulQ7apg)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=iyWFulQ7apg&t=0) - [01:00:00](https://www.youtube.com/watch?v=iyWFulQ7apg&t=3600)
 

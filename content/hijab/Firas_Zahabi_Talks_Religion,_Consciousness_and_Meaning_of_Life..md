@@ -11,7 +11,7 @@ Make sure you visit Firas's youtube channel -https://www.youtube.com/user/trista
 ## Summary of [Firas Zahabi Talks Religion, Consciousness and Meaning of Life.](https://www.youtube.com/watch?v=Pwkw85fRWtI)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=Pwkw85fRWtI&t=0) - [00:35:00](https://www.youtube.com/watch?v=Pwkw85fRWtI&t=2100)
 

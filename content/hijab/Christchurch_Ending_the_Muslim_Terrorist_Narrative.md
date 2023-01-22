@@ -7,7 +7,7 @@ This video exposes the humiliating double standards of right wing propagators. T
 ## Summary of [Christchurch: Ending the Muslim Terrorist Narrative](https://www.youtube.com/watch?v=irdHM1pDfLI)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=irdHM1pDfLI&t=0) - [00:10:00](https://www.youtube.com/watch?v=irdHM1pDfLI&t=600)
 

@@ -39,7 +39,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 ## Summary of [Sapient Voices #2: Abdullah Al-Andalusi - The Dangers of Post-Modernism & Neo-Marxism for Muslims](https://www.youtube.com/watch?v=ecvIoKa8r-M)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=ecvIoKa8r-M&t=0) - [01:00:00](https://www.youtube.com/watch?v=ecvIoKa8r-M&t=3600)
 

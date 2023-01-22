@@ -9,7 +9,7 @@ This is a brief examination of verses in the Quran which may relate to some of t
 ## Summary of [Does the Quran Deal with Atheists/Atheism ?](https://www.youtube.com/watch?v=Ld8WACThegs)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=Ld8WACThegs&t=0) - [00:30:00](https://www.youtube.com/watch?v=Ld8WACThegs&t=1800)
 

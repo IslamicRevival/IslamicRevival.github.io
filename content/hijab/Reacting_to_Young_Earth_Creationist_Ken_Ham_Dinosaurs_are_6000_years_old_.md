@@ -18,7 +18,7 @@ Don't forget to like, comment and subscribe.
 ## Summary of [Reacting to Young Earth Creationist Ken Ham "Dinosaurs are 6000 years old"](https://www.youtube.com/watch?v=0J10ig00g3g)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=0J10ig00g3g&t=0) - [00:10:00](https://www.youtube.com/watch?v=0J10ig00g3g&t=600)
 

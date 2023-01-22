@@ -21,7 +21,7 @@ Please donate and help establish this Masjid and earn your reward ➡ https://ww
 ## Summary of [How to Fight a Bigger Man - Firas Zahabi](https://www.youtube.com/watch?v=1l-jS2LDxEw)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=1l-jS2LDxEw&t=0) - [00:20:00](https://www.youtube.com/watch?v=1l-jS2LDxEw&t=1200)
 

@@ -115,7 +115,7 @@ Gmail: hello.tapodcast@gmail.com
 ## Summary of [SPECIAL: A Case for God with Alex Malpass Muslims discussing with an Atheist Philosopher](https://www.youtube.com/watch?v=71_dZrMWgVQ)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=71_dZrMWgVQ&t=0) - [01:00:00](https://www.youtube.com/watch?v=71_dZrMWgVQ&t=3600)
 

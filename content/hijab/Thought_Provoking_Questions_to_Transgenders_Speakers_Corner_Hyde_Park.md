@@ -9,7 +9,7 @@ This is a discussion which aims to ask key questions to transgendered/gender flu
 ## Summary of [Thought Provoking Questions to Transgenders | Speakers Corner | Hyde Park](https://www.youtube.com/watch?v=is61wp1w7-w)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=is61wp1w7-w&t=0) - [00:25:00](https://www.youtube.com/watch?v=is61wp1w7-w&t=1500)
 

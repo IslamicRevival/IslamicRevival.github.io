@@ -9,7 +9,7 @@ Sapient Thoughts #10: Does the Hadith of the Sun prostrating support geocentrism
 ## Summary of [Sapient Thoughts #10: Does the Hadith of the Sun prostrating support geocentrism? | Mohammed Hijab](https://www.youtube.com/watch?v=IQXXeBnVjdo)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=IQXXeBnVjdo&t=0) - [00:20:00](https://www.youtube.com/watch?v=IQXXeBnVjdo&t=1200)
 

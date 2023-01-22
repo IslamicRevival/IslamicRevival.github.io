@@ -9,7 +9,7 @@ A brief sociological/historical break down as to why atheism is becoming popular
 ## Summary of [Why Atheism is Becoming Popular in the West? LSE University of London](https://www.youtube.com/watch?v=cjxrc5EfxY0)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=cjxrc5EfxY0&t=0) - [00:20:00](https://www.youtube.com/watch?v=cjxrc5EfxY0&t=1200)
 

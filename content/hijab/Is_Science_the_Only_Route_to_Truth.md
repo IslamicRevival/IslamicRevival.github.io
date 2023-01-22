@@ -13,7 +13,7 @@ hijab10 discount code.
 ## Summary of [Is Science the Only Route to Truth?](https://www.youtube.com/watch?v=O2DE8vQCX2Y)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=O2DE8vQCX2Y&t=0) - [00:15:00](https://www.youtube.com/watch?v=O2DE8vQCX2Y&t=900)
 

@@ -27,7 +27,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 ## Summary of [Shubuhat Series #4 - Gender Issues | Mohammed Hijab](https://www.youtube.com/watch?v=VdcdwyjPuaM)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=VdcdwyjPuaM&t=0) - [00:35:00](https://www.youtube.com/watch?v=VdcdwyjPuaM&t=2100)
 

@@ -9,7 +9,7 @@ This is a clip of a positive discussion I had with two young men in Accra Ghana.
 ## Summary of [2 CHRISTIANS DENOUNCE TRINITY IN GHANA](https://www.youtube.com/watch?v=LHtzRl6ORkw)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=LHtzRl6ORkw&t=0) - [00:10:00](https://www.youtube.com/watch?v=LHtzRl6ORkw&t=600)
 

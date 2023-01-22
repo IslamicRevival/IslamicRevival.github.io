@@ -73,7 +73,7 @@ Gmail: hello.tapodcast@gmail.com
 ## Summary of [The Problem of Evil feat. Saf Chowdhury | Thought Adventure Podcast #13](https://www.youtube.com/watch?v=y_2rsDsiUeU)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=y_2rsDsiUeU&t=0) - [01:00:00](https://www.youtube.com/watch?v=y_2rsDsiUeU&t=3600)
 

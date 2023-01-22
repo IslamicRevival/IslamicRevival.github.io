@@ -11,7 +11,7 @@ He is probed on how he comes to this conclusion given the ungeneralisable nature
 ## Summary of [Are White People Smarter than Black People?](https://www.youtube.com/watch?v=7zkiV1EToGg)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=7zkiV1EToGg&t=0) - [00:10:00](https://www.youtube.com/watch?v=7zkiV1EToGg&t=600)
 

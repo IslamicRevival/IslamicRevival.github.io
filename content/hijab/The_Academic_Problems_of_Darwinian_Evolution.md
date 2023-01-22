@@ -11,7 +11,7 @@ Visit Darwnian Delusions Channel for morehttps://www.youtube.com/channel/UCRkKHy
 ## Summary of [The Academic Problems of Darwinian Evolution](https://www.youtube.com/watch?v=fsJUk_vQnCs)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=fsJUk_vQnCs&t=0) - [00:25:00](https://www.youtube.com/watch?v=fsJUk_vQnCs&t=1500)
 

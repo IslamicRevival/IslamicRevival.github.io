@@ -9,7 +9,7 @@ In light of the racially motivated cold-blooded murder of George Floyd, Dr. Osma
 ## Summary of [Seminar: "I Can’t Breathe" with Dr. Osman Latiff](https://www.youtube.com/watch?v=2T1sZXtWc5E)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=2T1sZXtWc5E&t=0) - [01:00:00](https://www.youtube.com/watch?v=2T1sZXtWc5E&t=3600)
 

@@ -13,7 +13,7 @@ Full debate on SCDawah Channel - ***Must Watch*** https://youtu.be/DyxzVqNIQ8g
 ## Summary of [Muslim Historian Outclasses Zionist Researcher](https://www.youtube.com/watch?v=0fvzO7-JTUg)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=0fvzO7-JTUg&t=0) - [00:15:00](https://www.youtube.com/watch?v=0fvzO7-JTUg&t=900)
 

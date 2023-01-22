@@ -13,7 +13,7 @@ You can purchase the book here: https://www.amazon.co.uk/Treatise-Disputation-Ar
 ## Summary of [The Islamic Discipline of Debate and Argumentation with Dr. Safaruk Chowdhury](https://www.youtube.com/watch?v=VgFH2Qr7WP0)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=VgFH2Qr7WP0&t=0) - [01:00:00](https://www.youtube.com/watch?v=VgFH2Qr7WP0&t=3600)
 

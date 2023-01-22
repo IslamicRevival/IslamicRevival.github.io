@@ -14,7 +14,7 @@ https://www.youtube.com/c/scdawahchannel
 ## Summary of [Ultra-Skeptic Atheist Caught Out](https://www.youtube.com/watch?v=ejpxks97j3o)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=ejpxks97j3o&t=0) - [00:20:00](https://www.youtube.com/watch?v=ejpxks97j3o&t=1200)
 

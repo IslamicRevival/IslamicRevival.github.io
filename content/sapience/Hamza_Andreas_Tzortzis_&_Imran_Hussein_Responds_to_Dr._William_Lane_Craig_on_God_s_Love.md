@@ -9,7 +9,7 @@ Hamza Andreas Tzortzis and Imran Hussein respond to Dr. William Lane Craig on th
 ## Summary of [Hamza Andreas Tzortzis & Imran Hussein Responds to Dr. William Lane Craig on God's Love](https://www.youtube.com/watch?v=rPvWFCdEOLU)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=rPvWFCdEOLU&t=0) - [00:45:00](https://www.youtube.com/watch?v=rPvWFCdEOLU&t=2700)
 

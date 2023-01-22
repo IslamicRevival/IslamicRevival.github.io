@@ -13,7 +13,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 ## Summary of [Gym Series- Pull day @silverback\_aj@strong.believers](https://www.youtube.com/watch?v=eKMH6Bdj8ak)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=eKMH6Bdj8ak&t=0) - [00:10:00](https://www.youtube.com/watch?v=eKMH6Bdj8ak&t=600)
 

@@ -11,7 +11,7 @@ https://thequran.institute/palestine
 ## Summary of [Radical Zionist Embarrassed by Muslim Debater](https://www.youtube.com/watch?v=MUEowQNLa2w)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=MUEowQNLa2w&t=0) - [00:10:00](https://www.youtube.com/watch?v=MUEowQNLa2w&t=600)
 

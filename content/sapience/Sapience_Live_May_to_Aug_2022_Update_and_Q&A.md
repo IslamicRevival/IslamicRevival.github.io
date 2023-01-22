@@ -9,7 +9,7 @@ Join the Sapience Institute Team who will provide key updates on their work and 
 ## Summary of [Sapience Live: May to Aug 2022 Update and Q&A](https://www.youtube.com/watch?v=UkN3oEdHTUI)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=UkN3oEdHTUI&t=0) - [01:00:00](https://www.youtube.com/watch?v=UkN3oEdHTUI&t=3600)
 

@@ -13,7 +13,7 @@ Kalam Cosmological Arguments Book here - https://www.amazon.co.uk/Kalam-Cosmolog
 ## Summary of [Young Academic Atheist Asks Muslim Questions](https://www.youtube.com/watch?v=dFg443_BlQ8)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=dFg443_BlQ8&t=0) - [00:10:00](https://www.youtube.com/watch?v=dFg443_BlQ8&t=600)
 

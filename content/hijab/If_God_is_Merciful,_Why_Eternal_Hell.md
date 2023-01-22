@@ -9,7 +9,7 @@ This video aims to answer the question relating to the compatibility of of the e
 ## Summary of [If God is Merciful, Why Eternal Hell?](https://www.youtube.com/watch?v=8pYwCzTTiG4)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=8pYwCzTTiG4&t=0) - [00:10:00](https://www.youtube.com/watch?v=8pYwCzTTiG4&t=600)
 

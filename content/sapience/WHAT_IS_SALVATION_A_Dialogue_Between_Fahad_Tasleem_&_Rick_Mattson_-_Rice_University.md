@@ -23,7 +23,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 ## Summary of [WHAT IS SALVATION? A Dialogue Between Fahad Tasleem & Rick Mattson - Rice University](https://www.youtube.com/watch?v=XN8rO0PS-IA)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=XN8rO0PS-IA&t=0) - [01:00:00](https://www.youtube.com/watch?v=XN8rO0PS-IA&t=3600)
 

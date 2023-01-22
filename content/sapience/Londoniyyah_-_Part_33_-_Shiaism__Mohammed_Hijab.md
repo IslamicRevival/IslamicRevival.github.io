@@ -27,7 +27,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 ## Summary of [Londoniyyah - Part 33 - Shiaism | Mohammed Hijab](https://www.youtube.com/watch?v=bh9nVomQnv0)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=bh9nVomQnv0&t=0) - [01:00:00](https://www.youtube.com/watch?v=bh9nVomQnv0&t=3600)
 

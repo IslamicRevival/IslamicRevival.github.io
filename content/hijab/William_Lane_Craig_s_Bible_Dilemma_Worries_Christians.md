@@ -15,7 +15,7 @@ Facebook: https://www.facebook.com/brothermohammedhijab/
 ## Summary of [William Lane Craig's Bible Dilemma Worries Christians](https://www.youtube.com/watch?v=d3uKsG31xWI)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=d3uKsG31xWI&t=0) - [00:15:00](https://www.youtube.com/watch?v=d3uKsG31xWI&t=900)
 

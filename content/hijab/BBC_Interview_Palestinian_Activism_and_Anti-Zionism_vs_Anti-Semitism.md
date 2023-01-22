@@ -17,7 +17,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 ## Summary of [BBC Interview: Palestinian Activism and Anti-Zionism vs Anti-Semitism](https://www.youtube.com/watch?v=6zHL2x0ndgE)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=6zHL2x0ndgE&t=0) - [00:40:00](https://www.youtube.com/watch?v=6zHL2x0ndgE&t=2400)
 

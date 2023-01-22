@@ -11,7 +11,7 @@ You can read Hamza’s essay on this topic here: “Know God, Know Good: God & O
 ## Summary of [Divine Commands: Why Morality Leads to God](https://www.youtube.com/watch?v=yt-SUQqRLWk)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=yt-SUQqRLWk&t=0) - [00:35:00](https://www.youtube.com/watch?v=yt-SUQqRLWk&t=2100)
 

@@ -65,7 +65,7 @@ Gmail: hello.tapodcast@gmail.com
 ## Summary of [Contingency and Rational Evidence for God | The Evidence Course | Session 2 / Part 2](https://www.youtube.com/watch?v=_jOj2QylBww)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=_jOj2QylBww&t=0) - [00:20:00](https://www.youtube.com/watch?v=_jOj2QylBww&t=1200)
 

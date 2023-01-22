@@ -13,7 +13,7 @@ My book: https://sapienceinstitute.org/the-scientific-deception-of-the-new-athei
 ## Summary of [Jordan Peterson: "Mohammed was a Warlord"](https://www.youtube.com/watch?v=ilrwPbvXqaE)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=ilrwPbvXqaE&t=0) - [00:15:00](https://www.youtube.com/watch?v=ilrwPbvXqaE&t=900)
 

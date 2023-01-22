@@ -9,7 +9,7 @@ Seminar: Does Religion Make Life Meaningless? Islam's Response to Nietzsche with
 ## Summary of [Seminar: Does Religion Make Life Meaningless? Islam's Response to Nietzsche](https://www.youtube.com/watch?v=KHSN3iV5-Zg)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=KHSN3iV5-Zg&t=0) - [01:00:00](https://www.youtube.com/watch?v=KHSN3iV5-Zg&t=3600)
 

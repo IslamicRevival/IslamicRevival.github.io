@@ -58,7 +58,7 @@ Gmail: hello.tapodcast@gmail.com
 ## Summary of [SPECIAL: How Philosophy Helped to Overcome His Doubts](https://www.youtube.com/watch?v=B0MK51Tbih8)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=B0MK51Tbih8&t=0) - [01:00:00](https://www.youtube.com/watch?v=B0MK51Tbih8&t=3600)
 

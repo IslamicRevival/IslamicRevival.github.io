@@ -9,7 +9,7 @@
 ## Summary of [Does God Exist ? هل الله موجود؟ مناظرة بين محمد حجاب وإدوارد تاباش](https://www.youtube.com/watch?v=VOgBVkcfnws)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=VOgBVkcfnws&t=0) - [01:00:00](https://www.youtube.com/watch?v=VOgBVkcfnws&t=3600)
 

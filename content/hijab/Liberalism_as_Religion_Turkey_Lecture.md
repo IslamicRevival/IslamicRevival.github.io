@@ -17,7 +17,7 @@ Byrne, ‘Religion and the Religious’ in Clarke & Sutherland (ed.s) The World'
 ## Summary of [Liberalism as Religion || Turkey Lecture](https://www.youtube.com/watch?v=K_5-JhJPTFY)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=K_5-JhJPTFY&t=0) - [00:40:00](https://www.youtube.com/watch?v=K_5-JhJPTFY&t=2400)
 

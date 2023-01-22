@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=ZKa9hYzpObE
 ## Summary of [Theologian Shocks Muslims With...](https://www.youtube.com/watch?v=RsLrT1CFyuU)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=RsLrT1CFyuU&t=0) - [00:20:00](https://www.youtube.com/watch?v=RsLrT1CFyuU&t=1200)
 

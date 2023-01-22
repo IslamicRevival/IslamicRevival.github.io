@@ -9,7 +9,7 @@ Divine Link: The Argument from Dependency God's Existence
 ## Summary of [Divine Link: The Argument from Dependency for God's Existence](https://www.youtube.com/watch?v=DlNEnD65Wfo)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=DlNEnD65Wfo&t=0) - [00:35:00](https://www.youtube.com/watch?v=DlNEnD65Wfo&t=2100)
 

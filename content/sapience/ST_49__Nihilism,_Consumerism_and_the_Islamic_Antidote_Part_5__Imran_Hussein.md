@@ -25,7 +25,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 ## Summary of [ST #49: Nihilism, Consumerism and the Islamic Antidote — Part 5 | Imran Hussein](https://www.youtube.com/watch?v=6uD33MoU2SI)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=6uD33MoU2SI&t=0) - [00:10:00](https://www.youtube.com/watch?v=6uD33MoU2SI&t=600)
 

@@ -17,7 +17,7 @@ Soundcloud: https://soundcloud.com/mohammed-hijab-465985305
 ## Summary of [REACTING TO DAWKINS & JOE ROGAN INTERVIEW](https://www.youtube.com/watch?v=fbgnaA6t588)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=fbgnaA6t588&t=0) - [00:10:00](https://www.youtube.com/watch?v=fbgnaA6t588&t=600)
 

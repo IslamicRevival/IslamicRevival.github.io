@@ -85,7 +85,7 @@ Gmail: hello.tapodcast@gmail.com
 ## Summary of [Salvation In Islam vs Christianity | Thought Adventure Podcast #19](https://www.youtube.com/watch?v=g5xh3ZqT8-o)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=g5xh3ZqT8-o&t=0) - [01:00:00](https://www.youtube.com/watch?v=g5xh3ZqT8-o&t=3600)
 

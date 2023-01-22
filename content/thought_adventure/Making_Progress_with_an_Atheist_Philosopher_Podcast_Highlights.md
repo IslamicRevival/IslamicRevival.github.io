@@ -58,7 +58,7 @@ Gmail: hello.tapodcast@gmail.com
 ## Summary of [Making Progress with an Atheist Philosopher | Podcast Highlights](https://www.youtube.com/watch?v=-WLQ5nteiQk)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=-WLQ5nteiQk&t=0) - [00:10:00](https://www.youtube.com/watch?v=-WLQ5nteiQk&t=600)
 

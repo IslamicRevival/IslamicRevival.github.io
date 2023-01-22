@@ -58,7 +58,7 @@ Gmail: hello.tapodcast@gmail.com
 ## Summary of [SPECIAL: Should Qatar host the World Cup? with @AbdullahalAndalusi Pt 1](https://www.youtube.com/watch?v=NgkJ_hmu8ZE)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=NgkJ_hmu8ZE&t=0) - [00:25:00](https://www.youtube.com/watch?v=NgkJ_hmu8ZE&t=1500)
 

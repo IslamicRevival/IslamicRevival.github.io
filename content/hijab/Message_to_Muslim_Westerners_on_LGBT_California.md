@@ -9,7 +9,7 @@ This is a critical assessment on a worrying narrative with attempts to manipulat
 ## Summary of [Message to Muslim Westerners on LGBT || California](https://www.youtube.com/watch?v=J7g1DCg_ukI)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=J7g1DCg_ukI&t=0) - [00:10:00](https://www.youtube.com/watch?v=J7g1DCg_ukI&t=600)
 

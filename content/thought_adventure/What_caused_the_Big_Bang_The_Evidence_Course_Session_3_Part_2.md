@@ -106,7 +106,7 @@ Gmail: hello.tapodcast@gmail.com
 ## Summary of [What caused the Big Bang? | The Evidence Course | Session 3 / Part 2](https://www.youtube.com/watch?v=Fnbwkib8FTM)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=Fnbwkib8FTM&t=0) - [00:15:00](https://www.youtube.com/watch?v=Fnbwkib8FTM&t=900)
 

@@ -9,7 +9,7 @@ This is a short discussion between a Muslim man and two European Feminists. Wher
 ## Summary of [Firm Feminists Change Mind After Debate](https://www.youtube.com/watch?v=Mmu0GgrKTnU)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=Mmu0GgrKTnU&t=0) - [00:30:00](https://www.youtube.com/watch?v=Mmu0GgrKTnU&t=1800)
 

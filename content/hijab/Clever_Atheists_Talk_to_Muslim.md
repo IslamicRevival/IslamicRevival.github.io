@@ -9,7 +9,7 @@ A brief discussion with some really charming atheists who become acquainted with
 ## Summary of [Clever Atheists Talk to Muslim](https://www.youtube.com/watch?v=W-yfuJfChvY)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=W-yfuJfChvY&t=0) - [00:25:00](https://www.youtube.com/watch?v=W-yfuJfChvY&t=1500)
 

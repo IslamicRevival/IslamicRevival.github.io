@@ -9,7 +9,7 @@ full episode here: https://youtu.be/eL3FybpUt0s
 ## Summary of [Ayaan 'Hirsi Ali' Gives it Her Best Shot Against Islam](https://www.youtube.com/watch?v=HuoZtJIRM3s)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=HuoZtJIRM3s&t=0) - [00:10:00](https://www.youtube.com/watch?v=HuoZtJIRM3s&t=600)
 

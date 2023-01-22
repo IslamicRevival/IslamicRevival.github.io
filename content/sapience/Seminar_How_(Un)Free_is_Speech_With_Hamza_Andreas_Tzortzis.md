@@ -11,7 +11,7 @@ The seminar will cover the objectives of freedom of speech, its limits, the role
 ## Summary of [Seminar: How (Un)Free is Speech? With Hamza Andreas Tzortzis](https://www.youtube.com/watch?v=V3ziPGToIbc)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=V3ziPGToIbc&t=0) - [01:00:00](https://www.youtube.com/watch?v=V3ziPGToIbc&t=3600)
 

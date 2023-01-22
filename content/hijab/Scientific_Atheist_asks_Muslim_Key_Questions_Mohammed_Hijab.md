@@ -11,7 +11,7 @@ Video compliments of 'Abu Zarrar' youtube channel.
 ## Summary of [Scientific Atheist asks Muslim Key Questions!|| Mohammed Hijab](https://www.youtube.com/watch?v=cZw4ur_zzRU)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=cZw4ur_zzRU&t=0) - [00:10:00](https://www.youtube.com/watch?v=cZw4ur_zzRU&t=600)
 

@@ -13,7 +13,7 @@ Dr. Aymans Instagram - https://www.instagram.com/ayman_sebazzi/
 ## Summary of [Nouman Ali Khan Book Review](https://www.youtube.com/watch?v=hKub_aeM-6w)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=hKub_aeM-6w&t=0) - [00:45:00](https://www.youtube.com/watch?v=hKub_aeM-6w&t=2700)
 

@@ -9,7 +9,7 @@ This video attempts to question the implications of allowing people to identify 
 ## Summary of [Can Gender Identity Pronouns Lead to Legal Pedophilia?](https://www.youtube.com/watch?v=3fDe6Q972EI)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=3fDe6Q972EI&t=0) - [00:10:00](https://www.youtube.com/watch?v=3fDe6Q972EI&t=600)
 

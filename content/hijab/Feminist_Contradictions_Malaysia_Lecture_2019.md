@@ -11,7 +11,7 @@ It also asks the question - to what extent is Islam compatible with feminism and
 ## Summary of [Feminist Contradictions || Malaysia Lecture 2019](https://www.youtube.com/watch?v=DAa67Pw6Zpg)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=DAa67Pw6Zpg&t=0) - [00:45:00](https://www.youtube.com/watch?v=DAa67Pw6Zpg&t=2700)
 

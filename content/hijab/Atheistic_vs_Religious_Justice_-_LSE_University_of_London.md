@@ -7,7 +7,7 @@ This is a brief talk about the concept justice as per the religious, or more spe
 ## Summary of [Atheistic vs Religious Justice - LSE University of London](https://www.youtube.com/watch?v=8t4G19Wr_mo)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=8t4G19Wr_mo&t=0) - [00:10:00](https://www.youtube.com/watch?v=8t4G19Wr_mo&t=600)
 

@@ -23,7 +23,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 ## Summary of [ST #47: Nihilism, Consumerism and the Islamic Antidote — Part 3: Nihilism, Inception To Escape](https://www.youtube.com/watch?v=iyDGNu1-lcU)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=iyDGNu1-lcU&t=0) - [00:15:00](https://www.youtube.com/watch?v=iyDGNu1-lcU&t=900)
 

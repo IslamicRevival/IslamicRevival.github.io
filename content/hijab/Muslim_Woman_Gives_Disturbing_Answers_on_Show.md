@@ -21,7 +21,7 @@ Please donate and help establish this Masjid and earn your reward ➡ https://ww
 ## Summary of [Muslim Woman Gives Disturbing Answers on Show](https://www.youtube.com/watch?v=0eUfu5Wrh5E)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=0eUfu5Wrh5E&t=0) - [00:20:00](https://www.youtube.com/watch?v=0eUfu5Wrh5E&t=1200)
 

@@ -96,7 +96,7 @@ Gmail: hello.tapodcast@gmail.com
 ## Summary of [SPECIAL: What Is This Thing Called Explanation? with @WorldviewDesignChannel](https://www.youtube.com/watch?v=_4a5SKkeAQI)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=_4a5SKkeAQI&t=0) - [01:00:00](https://www.youtube.com/watch?v=_4a5SKkeAQI&t=3600)
 

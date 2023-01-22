@@ -24,7 +24,7 @@ VISIT our website for articles in English, Spanish and Turkish; mentoring servic
 ## Summary of [Londoniyyah - Part 2 - Naturalism, Materialism | Mohammed Hijab](https://www.youtube.com/watch?v=leoNNkpoYPg)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=leoNNkpoYPg&t=0) - [00:55:00](https://www.youtube.com/watch?v=leoNNkpoYPg&t=3300)
 

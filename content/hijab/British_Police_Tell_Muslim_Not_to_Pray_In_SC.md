@@ -9,7 +9,7 @@ This video highlights two police officers telling one individual muslim not to p
 ## Summary of [British Police Tell Muslim Not to Pray In SC](https://www.youtube.com/watch?v=bNp3I1VSkBA)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=bNp3I1VSkBA&t=0) - [00:10:00](https://www.youtube.com/watch?v=bNp3I1VSkBA&t=600)
 

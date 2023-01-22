@@ -30,7 +30,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 ## Summary of [The Shepherd's Way: Ep. 1 - Lofty Goals Lead to Success](https://www.youtube.com/watch?v=y_HOuCxRdvs)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=y_HOuCxRdvs&t=0) - [00:15:00](https://www.youtube.com/watch?v=y_HOuCxRdvs&t=900)
 

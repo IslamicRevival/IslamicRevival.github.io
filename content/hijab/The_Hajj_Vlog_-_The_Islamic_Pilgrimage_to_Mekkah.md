@@ -11,7 +11,7 @@ http://sunnahtours.com/?page_id=295
 ## Summary of [The Hajj Vlog - The Islamic Pilgrimage to Mekkah](https://www.youtube.com/watch?v=uuY1dzbOJuA)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=uuY1dzbOJuA&t=0) - [00:10:00](https://www.youtube.com/watch?v=uuY1dzbOJuA&t=600)
 

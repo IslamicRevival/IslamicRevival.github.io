@@ -21,7 +21,7 @@ Please donate and help establish this Masjid and earn your reward ➡ https://ww
 ## Summary of [Mohammed Hijab interviews Dr. Bart Ehrman on Jesus Christ and Biblical Corruption](https://www.youtube.com/watch?v=YdNynCDN9SA)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=YdNynCDN9SA&t=0) - [00:10:00](https://www.youtube.com/watch?v=YdNynCDN9SA&t=600)
 

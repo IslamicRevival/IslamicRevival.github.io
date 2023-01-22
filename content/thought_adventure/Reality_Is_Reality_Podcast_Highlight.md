@@ -67,7 +67,7 @@ Gmail: hello.tapodcast@gmail.com
 ## Summary of [Reality Is Reality!? | Podcast Highlight](https://www.youtube.com/watch?v=KRuUq0dCrmA)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=KRuUq0dCrmA&t=0) - [00:10:00](https://www.youtube.com/watch?v=KRuUq0dCrmA&t=600)
 

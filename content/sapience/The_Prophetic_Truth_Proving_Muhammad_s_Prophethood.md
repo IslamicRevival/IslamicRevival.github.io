@@ -9,7 +9,7 @@ The Prophetic Truth: Proving Muhammad's (may God's peace and blessings be upon h
 ## Summary of [The Prophetic Truth: Proving Muhammad's Prophethood](https://www.youtube.com/watch?v=pJaYA9rbQ8A)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=pJaYA9rbQ8A&t=0) - [00:35:00](https://www.youtube.com/watch?v=pJaYA9rbQ8A&t=2100)
 

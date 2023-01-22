@@ -62,7 +62,7 @@ Gmail: hello.tapodcast@gmail.com
 ## Summary of [Atheist Considers Converting to Islam 😲 | Podcast Highlight](https://www.youtube.com/watch?v=E9o_fE9QIFc)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=E9o_fE9QIFc&t=0) - [00:25:00](https://www.youtube.com/watch?v=E9o_fE9QIFc&t=1500)
 

@@ -64,7 +64,7 @@ Gmail: hello.tapodcast@gmail.com
 ## Summary of [A Sentient Singular Being | The Evidence Course | Session 2 / Part 5](https://www.youtube.com/watch?v=pNtzuXqS6Zs)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=pNtzuXqS6Zs&t=0) - [00:10:00](https://www.youtube.com/watch?v=pNtzuXqS6Zs&t=600)
 

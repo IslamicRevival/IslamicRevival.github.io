@@ -9,7 +9,7 @@ A full debate between leader of the Zionist advocacy group and Mohammed Hijab .
 ## Summary of [Hardcore Zionist Vs Muslim || Uncut](https://www.youtube.com/watch?v=2xrEVcqpuQM)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=2xrEVcqpuQM&t=0) - [01:00:00](https://www.youtube.com/watch?v=2xrEVcqpuQM&t=3600)
 

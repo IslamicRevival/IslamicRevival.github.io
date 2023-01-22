@@ -56,7 +56,7 @@ Gmail: hello.tapodcast@gmail.com
 ## Summary of [Does Contingency Argument entail a Pagan Greek Conception of God? | Podcast Highlight](https://www.youtube.com/watch?v=fVsoifMP0fQ)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=fVsoifMP0fQ&t=0) - [00:30:00](https://www.youtube.com/watch?v=fVsoifMP0fQ&t=1800)
 

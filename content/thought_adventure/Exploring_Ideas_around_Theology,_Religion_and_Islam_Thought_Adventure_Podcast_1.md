@@ -69,7 +69,7 @@ Gmail: hello.tapodcast@gmail.com
 ## Summary of [Exploring Ideas around Theology, Religion and Islam | Thought Adventure Podcast #1](https://www.youtube.com/watch?v=muoqQDZ9jik)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=muoqQDZ9jik&t=0) - [01:00:00](https://www.youtube.com/watch?v=muoqQDZ9jik&t=3600)
 

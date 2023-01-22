@@ -25,7 +25,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 ## Summary of [Introducing Qur'anic Arguments: Surah At-Tur | Mohammed Hijab in Mecca](https://www.youtube.com/watch?v=XLRH77_Yx1w)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=XLRH77_Yx1w&t=0) - [01:00:00](https://www.youtube.com/watch?v=XLRH77_Yx1w&t=3600)
 

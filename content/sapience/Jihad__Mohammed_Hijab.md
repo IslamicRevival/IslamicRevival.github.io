@@ -25,7 +25,7 @@ Articles, speaker requests & more: https://sapienceinstitute.org/
 ## Summary of [Jihad | Mohammed Hijab](https://www.youtube.com/watch?v=4rC1F0lIzUw)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=4rC1F0lIzUw&t=0) - [00:45:00](https://www.youtube.com/watch?v=4rC1F0lIzUw&t=2700)
 

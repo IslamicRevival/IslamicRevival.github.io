@@ -7,7 +7,7 @@ This honest christian tells us about incest in the Bible.
 ## Summary of [FUNNY INTERVIEW (X-RATED BIBLE VERSES)|| Br. Mohammed Hijab](https://www.youtube.com/watch?v=oqhkNGKRrUk)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. [](/)*
+*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
 
 ### [00:00:00](https://www.youtube.com/watch?v=oqhkNGKRrUk&t=0) - [00:05:00](https://www.youtube.com/watch?v=oqhkNGKRrUk&t=300)
 
