@@ -25,6 +25,3 @@
 24. [# Importance of Belief | The Evidence Course | Session 1 / Part 1 (2021-06-09)](Importance_of_Belief_The_Evidence_Course_Session_1_Part_1.md)
 25. [# Is Consciousness a Miracle? feat. Hamza Tzortzis | Thought Adventure Podcast #5 (2021-03-14)](Is_Consciousness_a_Miracle_feat._Hamza_Tzortzis_Thought_Adventure_Podcast_5.md)
 26. [# Is Consciousness a Miracle? feat. Hamza Tzortzis | Thought Adventure Podcast #5 (2021-03-14)](Is_Consciousness_a_Miracle_feat_Hamza_Tzortzis_Thought_Adventure_Podcast_5.md)
-27. [# Is It Irrational to Believe in Miracles? | Thought Adventure Podcast #4 (2021-02-28)](Is_It_Irrational_to_Believe_in_Miracles_Thought_Adventure_Podcast_4.md)
-28. [# Jake in the UK | Let's get to 10k! (2022-01-11)](Jake_in_the_UK_Let_s_get_to_10k.md)
-29. [# Kalam Cosmological Argument Strengths and Weaknesses | Thought Adventure Podcast #21 (2022-02-07)](Kalam_Cosmological_Argument_Strengths_and_Weaknesses_Thought_Adventure_Podcast_21.md)
