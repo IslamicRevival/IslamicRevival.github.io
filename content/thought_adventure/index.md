@@ -23,7 +23,3 @@
 22. [# From Necessary Being to God - Debunking Atheist Arguments | Thought Adventure Podcast #6 (2021-03-28)](From_Necessary_Being_to_God_-_Debunking_Atheist_Arguments_Thought_Adventure_Podcast_6.md)
 23. [# Hamza Tzortzis on The Hard Problem of Conscioussness | Podcast Highlight (2021-03-21)](Hamza_Tzortzis_on_The_Hard_Problem_of_Conscioussness_Podcast_Highlight.md)
 24. [# Importance of Belief | The Evidence Course | Session 1 / Part 1 (2021-06-09)](Importance_of_Belief_The_Evidence_Course_Session_1_Part_1.md)
-25. [# Jake in the UK | Let's get to 10k! (2022-01-11)](Jake_in_the_UK_Let_s_get_to_10k.md)
-26. [# Kalam Cosmological Argument Strengths and Weaknesses | Thought Adventure Podcast #21 (2022-02-07)](Kalam_Cosmological_Argument_Strengths_and_Weaknesses_Thought_Adventure_Podcast_21.md)
-27. [# Making Progress with an Atheist Philosopher | Podcast Highlights (2021-11-26)](Making_Progress_with_an_Atheist_Philosopher_Podcast_Highlights.md)
-28. [# Muslim Gets Grilled by Atheist (2021-07-16)](Muslim_Gets_Grilled_by_Atheist.md)
