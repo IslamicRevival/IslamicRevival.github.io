@@ -32,13 +32,13 @@ Timestamps / Chapters
 02:04:02 - Conclusion
 
 References
-[1] On Quantum Field Theory, Carlo Rovelli
-[2] The Case Against Reality by Donald D. Hoffman
-[3] Philip Goff (Philosopher)
-[4] How Reason Can Lead To God by Joshua L. Rasmussen
-[5] The Lord of Non-Contradiction by James N. Anderson
-[6] Graham Oppy (Australian philosopher)
-[7] Defending the Correspondence Theory of Truth by Joshua L. Rasmussen
+On Quantum Field Theory, Carlo Rovelli
+The Case Against Reality by Donald D. Hoffman
+Philip Goff (Philosopher)
+How Reason Can Lead To God by Joshua L. Rasmussen
+The Lord of Non-Contradiction by James N. Anderson
+Graham Oppy (Australian philosopher)
+Defending the Correspondence Theory of Truth by Joshua L. Rasmussen
 
 
 May ﷻ ألله bless everyone involved in this video incl. viewers and give Joshua هداية
