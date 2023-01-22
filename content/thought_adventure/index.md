@@ -23,5 +23,3 @@
 22. [# From Necessary Being to God - Debunking Atheist Arguments | Thought Adventure Podcast #6 (2021-03-28)](From_Necessary_Being_to_God_-_Debunking_Atheist_Arguments_Thought_Adventure_Podcast_6.md)
 23. [# Hamza Tzortzis on The Hard Problem of Conscioussness | Podcast Highlight (2021-03-21)](Hamza_Tzortzis_on_The_Hard_Problem_of_Conscioussness_Podcast_Highlight.md)
 24. [# Importance of Belief | The Evidence Course | Session 1 / Part 1 (2021-06-09)](Importance_of_Belief_The_Evidence_Course_Session_1_Part_1.md)
-25. [# Is Consciousness a Miracle? feat. Hamza Tzortzis | Thought Adventure Podcast #5 (2021-03-14)](Is_Consciousness_a_Miracle_feat._Hamza_Tzortzis_Thought_Adventure_Podcast_5.md)
-26. [# Is Consciousness a Miracle? feat. Hamza Tzortzis | Thought Adventure Podcast #5 (2021-03-14)](Is_Consciousness_a_Miracle_feat_Hamza_Tzortzis_Thought_Adventure_Podcast_5.md)
