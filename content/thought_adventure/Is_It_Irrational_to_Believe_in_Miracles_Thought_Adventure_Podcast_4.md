@@ -28,16 +28,14 @@ Thought Adventure Social Media
 ◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
 ◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
 
-----------------------------------------------------------------
 
 *The Hosts:*
-----------------------|
+
 Jake Brancatella, The Muslim Metaphysician
 
 - Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
 - Twitter:  https://twitter.com/MMetaphysician​​@MMetaphysician
 
-----------------------|
 
 Yusuf Ponders, The Pondering Soul
 
@@ -45,19 +43,18 @@ Yusuf Ponders, The Pondering Soul
 - Twitter: https://twitter.com/YusufPonders​​@YusufPonders
 - Facebook: https://www.facebook.com/yusufponders​@yusufpodners
 
-----------------------|
 
 Sharif
 
 - Twitter: https://twitter.com/sharifhafezi​​@sharifhafezi
 
-----------------------|
+-----------------
 
 Abdulrahman
 
 - Twitter: https://twitter.com/abdul_now​@abdul_now
 
-----------------------|
+-----------------
 
 Admin
 
@@ -70,7 +67,7 @@ Gmail: hello.tapodcast@gmail.com
 ## Summary of [Is It Irrational to Believe in Miracles? | Thought Adventure Podcast #4](https://www.youtube.com/watch?v=-UlkXwMOaT4)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
+<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>
 
 ### [00:00:00](https://www.youtube.com/watch?v=-UlkXwMOaT4&t=0) - [01:00:00](https://www.youtube.com/watch?v=-UlkXwMOaT4&t=3600)
 

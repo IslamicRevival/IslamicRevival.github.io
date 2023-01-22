@@ -27,13 +27,13 @@ Thought Adventure Social Media
 ----------------------------------------------------------------
 
 *The Hosts:*
-----------------------|
+-----------------
 Jake Brancatella, The Muslim Metaphysician
 
 - Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
 - Twitter:  https://twitter.com/MMetaphysician​​@MMetaphysician
 
-----------------------|
+-----------------
 
 Yusuf Ponders, The Pondering Soul
 
@@ -41,19 +41,19 @@ Yusuf Ponders, The Pondering Soul
 - Twitter: https://twitter.com/YusufPonders​​@YusufPonders
 - Facebook: https://www.facebook.com/yusufponders​@yusufpodners
 
-----------------------|
+-----------------
 
 Sharif
 
 - Twitter: https://twitter.com/sharifhafezi​​@sharifhafezi
 
-----------------------|
+-----------------
 
 Abdulrahman
 
 - Twitter: https://twitter.com/abdul_now​@abdul_now
 
-----------------------|
+-----------------
 
 Admin
 
