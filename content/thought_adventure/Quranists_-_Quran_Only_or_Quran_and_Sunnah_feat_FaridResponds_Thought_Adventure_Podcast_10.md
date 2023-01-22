@@ -1,6 +1,8 @@
 # Quranists - Quran Only or Quran and Sunnah? feat. @FaridResponds  | Thought Adventure Podcast #10 (2021-06-13)
 
-<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/89bhKCr0uUo'></iframe>## Description
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/89bhKCr0uUo'></iframe>
+
+## Description
 
 A modern movement amongst some Muslims today claim that following anything other than the Quran is “shirk” (associating partners with God) and that following the Sunnah of the Prophet (sallallahu alayhi wasallam) is false.
 
@@ -74,11 +76,9 @@ Gmail: hello.tapodcast@gmail.com
 
 # Islam #QuranOnly #HadithRejectors
 
-## Summary of Quranists - Quran Only or Quran and Sunnah? feat. @FaridResponds | Thought Adventure Podcast #10(https://www.youtube.com/watch?v=89bhKCr0uUo)
+## Summary of Quranists - Quran Only or Quran and Sunnah? feat. @FaridResponds | [Thought Adventure Podcast #10](https://www.youtube.com/watch?v=89bhKCr0uUo)
 
-*
-
-<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
+<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>
 
 ### <a onclick="modifyYTiframeseektime('3600')">00:00:00 - 01:00:00</a>
 
