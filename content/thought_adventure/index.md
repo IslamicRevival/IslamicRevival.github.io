@@ -24,4 +24,3 @@
 23. [# Hamza Tzortzis on The Hard Problem of Conscioussness | Podcast Highlight (2021-03-21)](Hamza_Tzortzis_on_The_Hard_Problem_of_Conscioussness_Podcast_Highlight.md)
 24. [# Importance of Belief | The Evidence Course | Session 1 / Part 1 (2021-06-09)](Importance_of_Belief_The_Evidence_Course_Session_1_Part_1.md)
 25. [# Is It Irrational to Believe in Miracles? | Thought Adventure Podcast #4 (2021-02-28)](Is_It_Irrational_to_Believe_in_Miracles_Thought_Adventure_Podcast_4.md)
-26. [# Jake in the UK | Let's get to 10k! (2022-01-11)](Jake_in_the_UK_Let_s_get_to_10k.md)
