@@ -2,9 +2,33 @@ import 'dotenv/config'
 import { defineConfig} from 'vitepress'
 import { getSideBar }  from  './theme/vitepress-plugin-autobar/'
 
+import { SitemapStream } from 'sitemap'
+import { createWriteStream } from 'node:fs'
+import { resolve } from 'node:path'
+
 // see vite.config.js for search
 
+const links = []
+
 export default defineConfig({
+  transformHtml: (_, id, { pageData }) => {
+    if (!/[\\/]404\.html$/.test(id))
+      links.push({
+        // you might need to change this if not using clean urls mode
+        url: pageData.relativePath.replace(/((^|\/)index)?\.md$/, '$2'),
+        lastmod: pageData.lastUpdated
+      })
+  },
+  buildEnd: async ({ outDir }) => {
+    const sitemap = new SitemapStream({
+      hostname: 'https://islamicrevival.github.io/'
+    })
+    const writeStream = createWriteStream(resolve(outDir, 'sitemap.xml'))
+    sitemap.pipe(writeStream)
+    links.forEach((link) => sitemap.write(link))
+    sitemap.end()
+    await new Promise((r) => writeStream.on('finish', r))
+  },
   base: '/',
   lang: 'en-US',
   title: 'Islamic Revival',
