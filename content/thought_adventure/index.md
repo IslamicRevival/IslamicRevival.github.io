@@ -28,3 +28,8 @@
 27. [# Making Progress with an Atheist Philosopher | Podcast Highlights (2021-11-26)](Making_Progress_with_an_Atheist_Philosopher_Podcast_Highlights.md)
 28. [# Muslim Gets Grilled by Atheist (2021-07-16)](Muslim_Gets_Grilled_by_Atheist.md)
 29. [# Need for Messengers - Argument from Fitrah | The Evidence Course | Session 4 / Part 1 (2021-09-15)](Need_for_Messengers_-_Argument_from_Fitrah_The_Evidence_Course_Session_4_Part_1.md)
+30. [# One of Atheists’ Best Arguments: Divine Hiddenness | Thought Adventure Podcast #14 (2021-08-22)](One_of_Atheists_Best_Arguments_Divine_Hiddenness_Thought_Adventure_Podcast_14.md)
+31. [# Orthodox Christian Appeals to Mystery | Podcast Highlight (2021-02-16)](Orthodox_Christian_Appeals_to_Mystery_Podcast_Highlight.md)
+32. [# Palestine Emergency Address with Dr. Norman Finkelstein | Thought Adventure Podcast (2021-05-16)](Palestine_Emergency_Address_with_Dr._Norman_Finkelstein_Thought_Adventure_Podcast.md)
+33. [# Palestine Emergency Address with Dr. Norman Finkelstein | Thought Adventure Podcast (2021-05-16)](Palestine_Emergency_Address_with_Dr_Norman_Finkelstein_Thought_Adventure_Podcast.md)
+34. [# Pascal's Wager | Thought Adventure Podcast #18 (2021-10-24)](Pascal_s_Wager_Thought_Adventure_Podcast_18.md)
