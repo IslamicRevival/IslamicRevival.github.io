@@ -60,13 +60,10 @@ Admin
 Riyad
 Gmail: hello.tapodcast@gmail.com
 
-# palestine #justice #NormanFinkelstein
 
 ## Summary of [Palestine Emergency Address with Dr. Norman Finkelstein | Thought Adventure Podcast](https://www.youtube.com/watch?v=PAQ-oIQ5OA8)
 
-*
-
-<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
+<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>
 
 ### <a onclick="modifyYTiframeseektime('3600')">00:00:00 - 01:00:00</a>
 
