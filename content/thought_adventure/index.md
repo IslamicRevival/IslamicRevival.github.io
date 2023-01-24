@@ -33,6 +33,5 @@
 32. [# Orthodox Christian Appeals to Mystery | Podcast Highlight (2021-02-16)](Orthodox_Christian_Appeals_to_Mystery_Podcast_Highlight.md)
 33. [# Palestine Emergency Address with Dr. Norman Finkelstein | Thought Adventure Podcast (2021-05-16)](Palestine_Emergency_Address_with_Dr._Norman_Finkelstein_Thought_Adventure_Podcast.md)
 34. [# Palestine Emergency Address with Dr. Norman Finkelstein | Thought Adventure Podcast (2021-05-16)](Palestine_Emergency_Address_with_Dr_Norman_Finkelstein_Thought_Adventure_Podcast.md)
-35. [# Pascal's Wager | Thought Adventure Podcast #18 (2021-10-24)](Pascal_s_Wager_Thought_Adventure_Podcast_18.md)
-36. [# Pinecreek's Argument from Ickiness | Podcast Highlight (2021-08-29)](Pinecreek_s_Argument_from_Ickiness_Podcast_Highlight.md)
-37. [# Quranic Evidence for Allah's Existence | The Evidence Course | Session 2 / Part 1 (2021-07-07)](Quranic_Evidence_for_Allah_s_Existence_The_Evidence_Course_Session_2_Part_1.md)
+35. [# Pinecreek's Argument from Ickiness | Podcast Highlight (2021-08-29)](Pinecreek_s_Argument_from_Ickiness_Podcast_Highlight.md)
+36. [# Quranic Evidence for Allah's Existence | The Evidence Course | Session 2 / Part 1 (2021-07-07)](Quranic_Evidence_for_Allah_s_Existence_The_Evidence_Course_Session_2_Part_1.md)
