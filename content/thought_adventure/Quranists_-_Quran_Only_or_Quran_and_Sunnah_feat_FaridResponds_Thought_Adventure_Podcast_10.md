@@ -74,8 +74,6 @@ Admin
 Riyad
 Gmail: hello.tapodcast@gmail.com
 
-# Islam #QuranOnly #HadithRejectors
-
 ## Summary of Quranists - Quran Only or Quran and Sunnah? feat. @FaridResponds | Thought Adventure Podcast #10(https://www.youtube.com/watch?v=89bhKCr0uUo)
 
 <span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>
