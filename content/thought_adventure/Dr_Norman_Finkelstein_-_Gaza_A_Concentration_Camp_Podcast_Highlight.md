@@ -918,7 +918,7 @@ Gmail: hello.tapodcast@gmail.com
 <a onclick="modifyYTiframeseektime('2173)')">0:36:13 i hate saying things like that i'm gonna</a>
 <a onclick="modifyYTiframeseektime('2175)')">0:36:15 do another interview like i'm michael</a>
 <a onclick="modifyYTiframeseektime('2177)')">0:36:17 jackson</a>
-<a onclick="modifyYTiframeseektime('2178)')">0:36:18 [Laughter]</a>
+<a onclick="modifyYTiframeseektime('2178)')">0:36:18/a>
 <a onclick="modifyYTiframeseektime('2181)')">0:36:21 we respect the fact that you have many</a>
 <a onclick="modifyYTiframeseektime('2183)')">0:36:23 things going on these days of course guy</a>
 <a onclick="modifyYTiframeseektime('2185)')">0:36:25 would want to be michael jackson dead or</a>

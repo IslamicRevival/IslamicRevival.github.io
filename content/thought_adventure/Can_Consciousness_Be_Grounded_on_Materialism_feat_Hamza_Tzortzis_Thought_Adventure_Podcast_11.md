@@ -2842,7 +2842,7 @@ Hamza Tzortzis discusses the question of whether or not consciousness can be gro
 <a onclick="modifyYTiframeseektime('5279)')">1:27:59 if this occurs then the computer will do</a>
 <a onclick="modifyYTiframeseektime('5281)')">1:28:01 this but the computer's not self aware</a>
 <a onclick="modifyYTiframeseektime('5284)')">1:28:04 of doing any of these things</a>
-<a onclick="modifyYTiframeseektime('5285)')">1:28:05 [Music]</a>
+<a onclick="modifyYTiframeseektime('5285)')">1:28:05/a>
 <a onclick="modifyYTiframeseektime('5287)')">1:28:07 uh let me rephrase what you're saying to</a>
 <a onclick="modifyYTiframeseektime('5289)')">1:28:09 see if i understand it</a>
 <a onclick="modifyYTiframeseektime('5291)')">1:28:11 because i don't think i do if you are</a>
@@ -4314,7 +4314,7 @@ Hamza Tzortzis discusses the question of whether or not consciousness can be gro
 <a onclick="modifyYTiframeseektime('8149)')">2:15:49 experience of</a>
 <a onclick="modifyYTiframeseektime('8150)')">2:15:50 playing on his phone why his spouse man</a>
 <a onclick="modifyYTiframeseektime('8151)')">2:15:51 the live stream for example</a>
-<a onclick="modifyYTiframeseektime('8152)')">2:15:52 [Laughter]</a>
+<a onclick="modifyYTiframeseektime('8152)')">2:15:52/a>
 <a onclick="modifyYTiframeseektime('8155)')">2:15:55 um the the other the other thing is um</a>
 <a onclick="modifyYTiframeseektime('8159)')">2:15:59 okay fine so we agree he had we have</a>
 <a onclick="modifyYTiframeseektime('8160)')">2:16:00 this first person fact of inner</a>
@@ -6490,7 +6490,7 @@ Hamza Tzortzis discusses the question of whether or not consciousness can be gro
 <a onclick="modifyYTiframeseektime('12675)')">3:31:15 so how do you have these experiences</a>
 <a onclick="modifyYTiframeseektime('12677)')">3:31:17 then</a>
 <a onclick="modifyYTiframeseektime('12678)')">3:31:18 um</a>
-<a onclick="modifyYTiframeseektime('12679)')">3:31:19 [Music]</a>
+<a onclick="modifyYTiframeseektime('12679)')">3:31:19/a>
 <a onclick="modifyYTiframeseektime('12682)')">3:31:22 bizarre sensations and signs and</a>
 <a onclick="modifyYTiframeseektime('12686)')">3:31:26 at one point i just straight up had</a>
 <a onclick="modifyYTiframeseektime('12687)')">3:31:27 three people disappear in front of me</a>
@@ -6530,7 +6530,7 @@ Hamza Tzortzis discusses the question of whether or not consciousness can be gro
 <a onclick="modifyYTiframeseektime('12775)')">3:32:55 oh yes of course you did yeah i do</a>
 <a onclick="modifyYTiframeseektime('12777)')">3:32:57 apologize you did say that my apologies</a>
 <a onclick="modifyYTiframeseektime('12780)')">3:33:00 um but how often i'm high is</a>
-<a onclick="modifyYTiframeseektime('12784)')">3:33:04 [Laughter]</a>
+<a onclick="modifyYTiframeseektime('12784)')">3:33:04/a>
 <a onclick="modifyYTiframeseektime('12786)')">3:33:06 a couple of times a week maybe lsd</a>
 <a onclick="modifyYTiframeseektime('12789)')">3:33:09 there is maybe the cause to your</a>
 <a onclick="modifyYTiframeseektime('12791)')">3:33:11 problems my friend</a>
@@ -6937,7 +6937,7 @@ Hamza Tzortzis discusses the question of whether or not consciousness can be gro
 <a onclick="modifyYTiframeseektime('13616)')">3:46:56 really need to go now it's like 150 a.m</a>
 <a onclick="modifyYTiframeseektime('13619)')">3:46:59 okay</a>
 <a onclick="modifyYTiframeseektime('13619)')">3:46:59 okay okay for all your patience</a>
-<a onclick="modifyYTiframeseektime('13627)')">3:47:07 [Laughter]</a>
+<a onclick="modifyYTiframeseektime('13627)')">3:47:07/a>
 <a onclick="modifyYTiframeseektime('13636)')">3:47:16 we need to get you more involved man in</a>
 <a onclick="modifyYTiframeseektime('13638)')">3:47:18 everything</a>
 <a onclick="modifyYTiframeseektime('13640)')">3:47:20 i need to use and abuse you man for the</a>
@@ -7154,6 +7154,6 @@ Hamza Tzortzis discusses the question of whether or not consciousness can be gro
 <a onclick="modifyYTiframeseektime('14062)')">3:54:22 bless you all i hope you have a</a>
 <a onclick="modifyYTiframeseektime('14065)')">3:54:25 pleasant week coming and and then to</a>
 <a onclick="modifyYTiframeseektime('14067)')">3:54:27 your weekend assalamu alaikum</a>
-<a onclick="modifyYTiframeseektime('14079)')">3:54:39 [Music]</a>
+<a onclick="modifyYTiframeseektime('14079)')">3:54:39/a>
 <a onclick="modifyYTiframeseektime('14102)')">3:55:02 you</a>
 </details>

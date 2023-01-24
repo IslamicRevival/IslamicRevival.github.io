@@ -1615,7 +1615,7 @@ In the video "Palestine Emergency Address with Dr. Norman Finkelstein | Thought 
 <a onclick="modifyYTiframeseektime('3556)')">0:59:16 gonna do</a>
 <a onclick="modifyYTiframeseektime('3557)')">0:59:17 another interview like i'm michael</a>
 <a onclick="modifyYTiframeseektime('3559)')">0:59:19 jackson</a>
-<a onclick="modifyYTiframeseektime('3559)')">0:59:19 [Laughter]</a>
+<a onclick="modifyYTiframeseektime('3559)')">0:59:19/a>
 <a onclick="modifyYTiframeseektime('3562)')">0:59:22 we respect the fact that you have many</a>
 <a onclick="modifyYTiframeseektime('3565)')">0:59:25 things going on these days of course</a>
 <a onclick="modifyYTiframeseektime('3566)')">0:59:26 that guy would want to be michael</a>
@@ -1884,7 +1884,7 @@ In the video "Palestine Emergency Address with Dr. Norman Finkelstein | Thought 
 <a onclick="modifyYTiframeseektime('4265)')">1:11:05 supremacist</a>
 <a onclick="modifyYTiframeseektime('4266)')">1:11:06 sack of  __  don't talk to me that way</a>
 <a onclick="modifyYTiframeseektime('4270)')">1:11:10 don't talk to me that way i said you get</a>
-<a onclick="modifyYTiframeseektime('4273)')">1:11:13 it you stupid [ __ ]</a>
+<a onclick="modifyYTiframeseektime('4273)')">1:11:13 it you stupid/a>
 <a onclick="modifyYTiframeseektime('4275)')">1:11:15 i'm sick of these people the arrogance</a>
 <a onclick="modifyYTiframeseektime('4279)')">1:11:19 the arrogance of these people nauseate</a>
 <a onclick="modifyYTiframeseektime('4283)')">1:11:23 me</a>
@@ -2030,7 +2030,7 @@ In the video "Palestine Emergency Address with Dr. Norman Finkelstein | Thought 
 <a onclick="modifyYTiframeseektime('4643)')">1:17:23 browbeating by the tears if you had</a>
 <a onclick="modifyYTiframeseektime('4646)')">1:17:26 any heart in you you would be crying for</a>
 <a onclick="modifyYTiframeseektime('4649)')">1:17:29 the palestinians</a>
-<a onclick="modifyYTiframeseektime('4651)')">1:17:31 [Applause]</a>
+<a onclick="modifyYTiframeseektime('4651)')">1:17:31/a>
 <a onclick="modifyYTiframeseektime('4659)')">1:17:39 yeah so that really gets a point across</a>
 <a onclick="modifyYTiframeseektime('4662)')">1:17:42 very well</a>
 <a onclick="modifyYTiframeseektime('4662)')">1:17:42 um first of all his own history uh so</a>
@@ -2413,7 +2413,7 @@ In the video "Palestine Emergency Address with Dr. Norman Finkelstein | Thought 
 <a onclick="modifyYTiframeseektime('5425)')">1:30:25 and so let's just play the rest of the</a>
 <a onclick="modifyYTiframeseektime('5429)')">1:30:29 video</a>
 <a onclick="modifyYTiframeseektime('5431)')">1:30:31 no no one no one</a>
-<a onclick="modifyYTiframeseektime('5434)')">1:30:34 [Music]</a>
+<a onclick="modifyYTiframeseektime('5434)')">1:30:34/a>
 <a onclick="modifyYTiframeseektime('5442)')">1:30:42 jakob you know this is not your house</a>
 <a onclick="modifyYTiframeseektime('5444)')">1:30:44 yeah it was shake jarrah</a>
 <a onclick="modifyYTiframeseektime('5446)')">1:30:46 it said then uh east jerusalem's</a>
@@ -2425,8 +2425,8 @@ In the video "Palestine Emergency Address with Dr. Norman Finkelstein | Thought 
 <a onclick="modifyYTiframeseektime('5458)')">1:30:58 didn't do this</a>
 <a onclick="modifyYTiframeseektime('5459)')">1:30:59 but yeah you need to yell at you</a>
 <a onclick="modifyYTiframeseektime('5462)')">1:31:02 are stealing my house</a>
-<a onclick="modifyYTiframeseektime('5478)')">1:31:18 [Music]</a>
-<a onclick="modifyYTiframeseektime('5490)')">1:31:30 [Music]</a>
+<a onclick="modifyYTiframeseektime('5478)')">1:31:18/a>
+<a onclick="modifyYTiframeseektime('5490)')">1:31:30/a>
 <a onclick="modifyYTiframeseektime('5501)')">1:31:41 this isn't like people don't need to</a>
 <a onclick="modifyYTiframeseektime('5504)')">1:31:44 think this isn't just like an isolated</a>
 <a onclick="modifyYTiframeseektime('5505)')">1:31:45 incident</a>
@@ -2893,7 +2893,7 @@ In the video "Palestine Emergency Address with Dr. Norman Finkelstein | Thought 
 <a onclick="modifyYTiframeseektime('6405)')">1:46:45 and to see what life is really like here</a>
 <a onclick="modifyYTiframeseektime('6407)')">1:46:47 for christians</a>
 <a onclick="modifyYTiframeseektime('6408)')">1:46:48 living in the occupied west bank</a>
-<a onclick="modifyYTiframeseektime('6420)')">1:47:00 [Music]</a>
+<a onclick="modifyYTiframeseektime('6420)')">1:47:00/a>
 <a onclick="modifyYTiframeseektime('6422)')">1:47:02 i always try to tell my child that we</a>
 <a onclick="modifyYTiframeseektime('6425)')">1:47:05 don't hate</a>
 <a onclick="modifyYTiframeseektime('6426)')">1:47:06 israelis but we hate what they are doing</a>
@@ -3631,7 +3631,7 @@ In the video "Palestine Emergency Address with Dr. Norman Finkelstein | Thought 
 <a onclick="modifyYTiframeseektime('7907)')">2:11:47 i think it's about uh n-e-t-u-r-e-i</a>
 <a onclick="modifyYTiframeseektime('7912)')">2:11:52 a carter spell k-a-r-t-a</a>
 <a onclick="modifyYTiframeseektime('7917)')">2:11:57 for a carter</a>
-<a onclick="modifyYTiframeseektime('7920)')">2:12:00 [Music]</a>
+<a onclick="modifyYTiframeseektime('7920)')">2:12:00/a>
 <a onclick="modifyYTiframeseektime('7921)')">2:12:01 carter uh right i'll share the screen</a>
 <a onclick="modifyYTiframeseektime('7924)')">2:12:04 you tell me if i've</a>
 <a onclick="modifyYTiframeseektime('7925)')">2:12:05 spelt that right uh</a>
@@ -3639,7 +3639,7 @@ In the video "Palestine Emergency Address with Dr. Norman Finkelstein | Thought 
 <a onclick="modifyYTiframeseektime('7934)')">2:12:14 that's too long yeah just play one which</a>
 <a onclick="modifyYTiframeseektime('7937)')">2:12:17 is like a minute clip or something</a>
 <a onclick="modifyYTiframeseektime('7940)')">2:12:20 there's one here just i'll just play on</a>
-<a onclick="modifyYTiframeseektime('7945)')">2:12:25 [Music]</a>
+<a onclick="modifyYTiframeseektime('7945)')">2:12:25/a>
 <a onclick="modifyYTiframeseektime('7954)')">2:12:34 he was believing in god the state of</a>
 <a onclick="modifyYTiframeseektime('7957)')">2:12:37 israel</a>
 <a onclick="modifyYTiframeseektime('7957)')">2:12:37 cannot speak in our name yes</a>
@@ -3647,7 +3647,7 @@ In the video "Palestine Emergency Address with Dr. Norman Finkelstein | Thought 
 <a onclick="modifyYTiframeseektime('7963)')">2:12:43 eighties that don't believe in god</a>
 <a onclick="modifyYTiframeseektime('7965)')">2:12:45 against god so that's that's the message</a>
 <a onclick="modifyYTiframeseektime('7967)')">2:12:47 that you want to bring out</a>
-<a onclick="modifyYTiframeseektime('7975)')">2:12:55 [Music]</a>
+<a onclick="modifyYTiframeseektime('7975)')">2:12:55/a>
 <a onclick="modifyYTiframeseektime('7977)')">2:12:57 oh remaining the israeli flag every year</a>
 <a onclick="modifyYTiframeseektime('7979)')">2:12:59 on point is the day</a>
 <a onclick="modifyYTiframeseektime('7981)')">2:13:01 that smacks up the</a>
@@ -3664,7 +3664,7 @@ In the video "Palestine Emergency Address with Dr. Norman Finkelstein | Thought 
 <a onclick="modifyYTiframeseektime('8018)')">2:13:38 us in exile</a>
 <a onclick="modifyYTiframeseektime('8020)')">2:13:40 it is asked us to stay in</a>
 <a onclick="modifyYTiframeseektime('8023)')">2:13:43 not to go out by our own</a>
-<a onclick="modifyYTiframeseektime('8033)')">2:13:53 [Music]</a>
+<a onclick="modifyYTiframeseektime('8033)')">2:13:53/a>
 <a onclick="modifyYTiframeseektime('8036)')">2:13:56 power</a>
 <a onclick="modifyYTiframeseektime('8040)')">2:14:00 yeah and the the ultra orthodox have</a>
 <a onclick="modifyYTiframeseektime('8044)')">2:14:04 quite a few issues themselves within</a>
@@ -3694,7 +3694,7 @@ In the video "Palestine Emergency Address with Dr. Norman Finkelstein | Thought 
 <a onclick="modifyYTiframeseektime('8090)')">2:14:50 we can go through bits and this is</a>
 <a onclick="modifyYTiframeseektime('8091)')">2:14:51 obviously this is the the position of</a>
 <a onclick="modifyYTiframeseektime('8095)')">2:14:55 the general public here um</a>
-<a onclick="modifyYTiframeseektime('8125)')">2:15:25 [Music]</a>
+<a onclick="modifyYTiframeseektime('8125)')">2:15:25/a>
 <a onclick="modifyYTiframeseektime('8137)')">2:15:37 so yeah he just like outright says if it</a>
 <a onclick="modifyYTiframeseektime('8140)')">2:15:40 was up to him he'd kill them all</a>
 <a onclick="modifyYTiframeseektime('8141)')">2:15:41 um and it doesn't get much better</a>
@@ -3702,7 +3702,7 @@ In the video "Palestine Emergency Address with Dr. Norman Finkelstein | Thought 
 <a onclick="modifyYTiframeseektime('8149)')">2:15:49 sharif can answer this question</a>
 <a onclick="modifyYTiframeseektime('8152)')">2:15:52 then we can maybe end it</a>
 <a onclick="modifyYTiframeseektime('8156)')">2:15:56 uh brother sharif all right</a>
-<a onclick="modifyYTiframeseektime('8160)')">2:16:00 [Laughter]</a>
+<a onclick="modifyYTiframeseektime('8160)')">2:16:00/a>
 <a onclick="modifyYTiframeseektime('8162)')">2:16:02 yes i think was what he's saying is that</a>
 <a onclick="modifyYTiframeseektime('8164)')">2:16:04 all right okay because</a>
 <a onclick="modifyYTiframeseektime('8166)')">2:16:06 you know in islam them are not have</a>
@@ -3907,7 +3907,7 @@ In the video "Palestine Emergency Address with Dr. Norman Finkelstein | Thought 
 <a onclick="modifyYTiframeseektime('8615)')">2:23:35 i'll make it easy for them well i</a>
 <a onclick="modifyYTiframeseektime('8617)')">2:23:37 protect them well i give them patience</a>
 <a onclick="modifyYTiframeseektime('8619)')">2:23:39 i mean male occurs the oppressors</a>
-<a onclick="modifyYTiframeseektime('8622)')">2:23:42 [Music]</a>
+<a onclick="modifyYTiframeseektime('8622)')">2:23:42/a>
 <a onclick="modifyYTiframeseektime('8624)')">2:23:44 so we'll we'll finish it there today</a>
 <a onclick="modifyYTiframeseektime('8626)')">2:23:46 brothers and sisters</a>
 <a onclick="modifyYTiframeseektime('8628)')">2:23:48 and ladies and gentlemen all who have</a>
