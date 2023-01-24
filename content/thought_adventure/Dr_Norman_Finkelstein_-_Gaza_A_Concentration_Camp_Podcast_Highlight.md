@@ -57,11 +57,10 @@ Admin
 Riyad
 Gmail: hello.tapodcast@gmail.com
 
-# Gaza #Finkelstein #Isreal
-
 ## Summary of [Dr. Norman Finkelstein - Gaza: A Concentration Camp | Podcast Highlight](https://www.youtube.com/watch?v=ZJLafeXvGN8)
 
-<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
+<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>
+
 
 ### <a onclick="modifyYTiframeseektime('3000')">00:00:00 - 00:50:00</a>
 
