@@ -78,9 +78,7 @@ Gmail: hello.tapodcast@gmail.com
 
 ## Summary of Quranists - Quran Only or Quran and Sunnah? feat. @FaridResponds | Thought Adventure Podcast #10(https://www.youtube.com/watch?v=89bhKCr0uUo)
 
-*
-
-<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
+<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>
 
 ### <a onclick="modifyYTiframeseektime('3600')">00:00:00 - 01:00:00</a>
 

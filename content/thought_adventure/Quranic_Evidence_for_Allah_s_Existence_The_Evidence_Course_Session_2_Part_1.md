@@ -62,7 +62,7 @@ Gmail: hello.tapodcast@gmail.com
 ## Summary of Quranic Evidence for Allah's Existence | The Evidence Course | Session 2 / Part 1(https://www.youtube.com/watch?v=MULVQnMHfEk)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. (/)*
+<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>
 
 ### 00:00:00(https://www.youtube.com/watch?v=MULVQnMHfEk&t=0) - 00:10:00(https://www.youtube.com/watch?v=MULVQnMHfEk&t=600)
 
