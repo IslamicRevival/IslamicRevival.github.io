@@ -32,4 +32,6 @@
 31. [# Pinecreek's Argument from Ickiness | Podcast Highlight (2021-08-29)](Pinecreek_s_Argument_from_Ickiness_Podcast_Highlight.md)
 32. [# Problem of Evil | The Evidence Course | Session 3 / Part 5 (2021-09-08)](Problem_of_Evil_The_Evidence_Course_Session_3_Part_5.md)
 33. [# Quranic Evidence for Allah's Existence | The Evidence Course | Session 2 / Part 1 (2021-07-07)](Quranic_Evidence_for_Allah_s_Existence_The_Evidence_Course_Session_2_Part_1.md)
-34. [# Quranists - Quran Only or Quran and Sunnah? feat. @FaridResponds  | Thought Adventure Podcast #10 (2021-06-13)](Quranists_-_Quran_Only_or_Quran_and_Sunnah_feat_FaridResponds_Thought_Adventure_Podcast_10.md)
+34. [# Reality Is Reality!? | Podcast Highlight (2021-03-09)](Reality_Is_Reality_Podcast_Highlight.md)
+35. [# Salvation In Islam vs Christianity | Thought Adventure Podcast #19 (2021-11-08)](Salvation_In_Islam_vs_Christianity_Thought_Adventure_Podcast_19.md)
+36. [# Science and Scientism | The Evidence Course | Session 1 / Part 3 (2021-06-23)](Science_and_Scientism_The_Evidence_Course_Session_1_Part_3.md)
