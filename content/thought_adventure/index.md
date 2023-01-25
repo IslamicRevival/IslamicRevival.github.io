@@ -32,5 +32,3 @@
 31. [# Pinecreek's Argument from Ickiness | Podcast Highlight (2021-08-29)](Pinecreek_s_Argument_from_Ickiness_Podcast_Highlight.md)
 32. [# Problem of Evil | The Evidence Course | Session 3 / Part 5 (2021-09-08)](Problem_of_Evil_The_Evidence_Course_Session_3_Part_5.md)
 33. [# Reality Is Reality!? | Podcast Highlight (2021-03-09)](Reality_Is_Reality_Podcast_Highlight.md)
-34. [# SPECIAL: A Case for God with Alex Malpass Muslims discussing with an Atheist Philosopher (2021-11-17)](SPECIAL_A_Case_for_God_with_Alex_Malpass_Muslims_discussing_with_an_Atheist_Philosopher.md)
-35. [# SPECIAL: Aron Ra Discusses With Muslims If a Necessary Being Exists | Thought Adventure Podcast (2021-04-28)](SPECIAL_Aron_Ra_Discusses_With_Muslims_If_a_Necessary_Being_Exists_Thought_Adventure_Podcast.md)
