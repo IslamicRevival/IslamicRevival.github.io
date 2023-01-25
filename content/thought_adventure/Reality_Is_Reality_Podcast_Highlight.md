@@ -12,62 +12,11 @@ This back-and-forth very  briefly touches on some of these issues.
 
 Full video: https://youtu.be/-UlkXwMOaT4 
 
-Thought Adventure Support
-◄ PayPal - https://www.paypal.com/donate/?hosted_button_id=6KZWK75RB23RN 
-◄ YouTube - https://www.youtube.com/c/ThoughtAdventurePodcast/join
-◄ PATREON - https://www.patreon.com/thoughtadventurepodcast
-____________________________________________________________________
-
-Thought Adventure Social Media
-◄ Twitter: https://twitter.com/T_A_Podcast​​@T_A_Podcast
-◄ Clubhouse https://www.clubhouse.com/club/thought-adventure-podcast
-◄ Spotify: https://open.spotify.com/show/7x4UVfTz9QX8KVdEXquDUC
-◄ Facebook: https://m.facebook.com/ThoughtAdventurePodcast
-◄ Instagram: https://www.instagram.com/ThoughtAdventurePodcast​
-
-----------------------------------------------------------------
-
-*The Hosts:*
--------------------
-Jake Brancatella, The Muslim Metaphysician
-
-- Youtube: https://www.youtube.com/channel/UCcGQRfTPNyHlXMqckvz2uqQ
-- Twitter:  https://twitter.com/MMetaphysician​​@MMetaphysician
-
--------------------
-
-Yusuf Ponders, The Pondering Soul
-
-- Youtube: https://www.youtube.com/channel/UCsiDDxy0JXLqM6HBA0MA4NA
-- Twitter: https://twitter.com/YusufPonders​​@YusufPonders
-- Facebook: https://www.facebook.com/yusufponders​@yusufpodners
-
--------------------
-
-Sharif
-
-- Twitter: https://twitter.com/sharifhafezi​​@sharifhafezi
-
--------------------
-
-Abdulrahman
-
-- Twitter: https://twitter.com/abdul_now​@abdul_now
-
--------------------
-
-Admin
-
-Riyad 
-Gmail: hello.tapodcast@gmail.com
-
-
-#reality
 
 ## Summary of [Reality Is Reality!? | Podcast Highlight](https://www.youtube.com/watch?v=KRuUq0dCrmA)
 
 
-*<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>.
+<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>
 
 ### [00:00:00](https://www.youtube.com/watch?v=KRuUq0dCrmA&t=0) - [00:10:00](https://www.youtube.com/watch?v=KRuUq0dCrmA&t=600)
 
