@@ -32,7 +32,4 @@
 31. [# Pinecreek's Argument from Ickiness | Podcast Highlight (2021-08-29)](Pinecreek_s_Argument_from_Ickiness_Podcast_Highlight.md)
 32. [# Problem of Evil | The Evidence Course | Session 3 / Part 5 (2021-09-08)](Problem_of_Evil_The_Evidence_Course_Session_3_Part_5.md)
 33. [# Reality Is Reality!? | Podcast Highlight (2021-03-09)](Reality_Is_Reality_Podcast_Highlight.md)
-34. [# What caused the Big Bang? | The Evidence Course | Session 3 / Part 2 (2021-08-19)](What_caused_the_Big_Bang_The_Evidence_Course_Session_3_Part_2.md)
-35. [# What's Logic Got To Do With It? - How to spot logical contradictions | Thought Adventure Podcast #15 (2021-09-05)](What_s_Logic_Got_To_Do_With_It_-_How_to_spot_logical_contradictions_Thought_Adventure_Podcast_15.md)
-36. [# Why One God? The Evidence for One Necessary Being | Thought Adventure Podcast #12 (2021-07-11)](Why_One_God_The_Evidence_for_One_Necessary_Being_Thought_Adventure_Podcast_12.md)
-37. [# Why Should I Believe in ALLAH? (2022-08-04)](Why_Should_I_Believe_in_ALLAH.md)
+34. [# SPECIAL: 1000 Subscribers | Thought Adventure Podcast (2021-03-26)](SPECIAL_1000_Subscribers_Thought_Adventure_Podcast.md)
