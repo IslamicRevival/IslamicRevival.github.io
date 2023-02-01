@@ -169,12 +169,15 @@ def main(channel_ids=channel_ids_input):
                         videos_ids.append(res.id.videoId)
                         #print(res.id.videoId)
                 next_page_token = response.nextPageToken
+                d = datetime.today() - timedelta(days=10)
+                daysago = ( str(d.isoformat()) + "Z")
                 response = api.search(
                     channel_id=channel_id,
                     limit=limit,
                     count=count,
                     page_token=next_page_token,
-                    order="date"
+                    order="date",
+                    published_after=daysago
                 )
         except Exception as exception:
             logger.warn(f'Error getting vids for channel: {exception}', exc_info=True)
@@ -271,7 +274,7 @@ def main(channel_ids=channel_ids_input):
                 words_to_remove = ['title', 'head', 'gtag', 'props', 'could not summarize', '<could not summarize>', 'In this video,', 'in this video,',
                                     'In this YouTube video','The video', 'This video', 'According to this video,', 'This short video', 'This YouTube video is titled', 'The YouTube video', 'In this video,', ' In this short video,',
                                     'The speaker in the video ', 'The speaker ', 'This YouTube video ', 'In the video, ', 'In the YouTube video ', 'The author ', 'The main points of this video are that ', 'The narrator of this video ',
-                                    ' The video ', ' In this YouTube video, ', 'In this video, ', 'summarize.tech ', 'Summarize another video', '[Music]']
+                                    ' The video ', ' In this YouTube video, ', 'In this video, ', 'summarize.tech ', 'Summarize another video', '[Music]', '----|', '[@']
 
                 # remove each word from the string
                 for word in words_to_remove:
