@@ -153,7 +153,7 @@ def main(channel_ids=channel_ids_input):
             path="content/massari/"
 
         videos_ids = []
-        limit = 100
+        limit = 10
         count = 25
         length = 600 ## only interested in vids > 10minutes
         try:
@@ -170,7 +170,8 @@ def main(channel_ids=channel_ids_input):
                     channel_id=channel_id,
                     limit=limit,
                     count=count,
-                    page_token=next_page_token
+                    page_token=next_page_token,
+                    order="date"
                 )
         except Exception as exception:
             logger.warn(f'Error getting vids for channel: {exception}', exc_info=True)
