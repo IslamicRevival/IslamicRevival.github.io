@@ -1108,7 +1108,7 @@ Professor John J. Collins discusses the idea that Jesus is the fulfillment of Ol
 <a onclick="modifyYTiframeseektime('2535)')">0:42:15 72 to 73</a>
 <a onclick="modifyYTiframeseektime('2538)')">0:42:18 then i came back to the states and</a>
 <a onclick="modifyYTiframeseektime('2540)')">0:42:20 they've been here since</a>
-<a onclick="modifyYTiframeseektime('2541)')">0:42:21 [Laughter]</a>
+<a onclick="modifyYTiframeseektime('2541)')">0:42:21 </a>
 <a onclick="modifyYTiframeseektime('2542)')">0:42:22 so that would be out of the last what 53</a>
 <a onclick="modifyYTiframeseektime('2546)')">0:42:26 years</a>
 <a onclick="modifyYTiframeseektime('2548)')">0:42:28 i've spent 52 of them</a>

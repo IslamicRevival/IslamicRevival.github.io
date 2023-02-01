@@ -244,7 +244,7 @@ discusses the Islamic concept of salvation, as well as the possible fate of non-
 <a onclick="modifyYTiframeseektime('112')">0:01:52 any uh any interesting stories that you</a>
 <a onclick="modifyYTiframeseektime('114')">0:01:54 came across out there</a>
 <a onclick="modifyYTiframeseektime('117')">0:01:57 um</a>
-<a onclick="modifyYTiframeseektime('118')">0:01:58 [Music]</a>
+<a onclick="modifyYTiframeseektime('118')">0:01:58 </a>
 <a onclick="modifyYTiframeseektime('119')">0:01:59 not really not on top was it was it that</a>
 <a onclick="modifyYTiframeseektime('123')">0:02:03 not that guy who you met</a>
 <a onclick="modifyYTiframeseektime('125')">0:02:05 out there no no i didn't i didn't meet</a>
@@ -1568,7 +1568,7 @@ discusses the Islamic concept of salvation, as well as the possible fate of non-
 <a onclick="modifyYTiframeseektime('3133')">0:52:13 doubted its authenticity it was such a</a>
 <a onclick="modifyYTiframeseektime('3136')">0:52:16 it was such a big problem for him uh the</a>
 <a onclick="modifyYTiframeseektime('3138')">0:52:18 book of james and so</a>
-<a onclick="modifyYTiframeseektime('3139')">0:52:19 [Music]</a>
+<a onclick="modifyYTiframeseektime('3139')">0:52:19 </a>
 <a onclick="modifyYTiframeseektime('3141')">0:52:21 yeah for some for some people like</a>
 <a onclick="modifyYTiframeseektime('3143')">0:52:23 catholics and this is why they have all</a>
 <a onclick="modifyYTiframeseektime('3145')">0:52:25 these different</a>
@@ -1631,7 +1631,7 @@ discusses the Islamic concept of salvation, as well as the possible fate of non-
 <a onclick="modifyYTiframeseektime('3275')">0:54:35 christianity</a>
 <a onclick="modifyYTiframeseektime('3276')">0:54:36 one which is related to uh works</a>
 <a onclick="modifyYTiframeseektime('3280')">0:54:40 uh</a>
-<a onclick="modifyYTiframeseektime('3280')">0:54:40 [Applause]</a>
+<a onclick="modifyYTiframeseektime('3280')">0:54:40 </a>
 <a onclick="modifyYTiframeseektime('3282')">0:54:42 i think from my understanding what</a>
 <a onclick="modifyYTiframeseektime('3283')">0:54:43 protestants basically say is that there</a>
 <a onclick="modifyYTiframeseektime('3285')">0:54:45 is a transformation in the individual</a>
@@ -5720,7 +5720,7 @@ discusses the Islamic concept of salvation, as well as the possible fate of non-
 <a onclick="modifyYTiframeseektime('12565')">3:29:25 yeah</a>
 <a onclick="modifyYTiframeseektime('12566')">3:29:26 i do</a>
 <a onclick="modifyYTiframeseektime('12571')">3:29:31 uh i'm super nervous but</a>
-<a onclick="modifyYTiframeseektime('12573')">3:29:33 [Laughter]</a>
+<a onclick="modifyYTiframeseektime('12573')">3:29:33 </a>
 <a onclick="modifyYTiframeseektime('12575')">3:29:35 fanboy here but i'll try my best to keep</a>
 <a onclick="modifyYTiframeseektime('12577')">3:29:37 my composure so i have um if you don't</a>
 <a onclick="modifyYTiframeseektime('12580')">3:29:40 if you guys don't mind i have two</a>
@@ -6051,7 +6051,7 @@ discusses the Islamic concept of salvation, as well as the possible fate of non-
 <a onclick="modifyYTiframeseektime('13306')">3:41:46 the meaning now i agree</a>
 <a onclick="modifyYTiframeseektime('13307')">3:41:47 the goal is to find the meaning but</a>
 <a onclick="modifyYTiframeseektime('13310')">3:41:50 one shouldn't think then that</a>
-<a onclick="modifyYTiframeseektime('13313')">3:41:53 [Music]</a>
+<a onclick="modifyYTiframeseektime('13313')">3:41:53 </a>
 <a onclick="modifyYTiframeseektime('13314')">3:41:54 finding happiness or receiving you know</a>
 <a onclick="modifyYTiframeseektime('13316')">3:41:56 getting these feelings that they are</a>
 <a onclick="modifyYTiframeseektime('13318')">3:41:58 not a part of that meaning or search of</a>
@@ -6207,7 +6207,7 @@ discusses the Islamic concept of salvation, as well as the possible fate of non-
 <a onclick="modifyYTiframeseektime('13636')">3:47:16 miss you all and i missed the the time</a>
 <a onclick="modifyYTiframeseektime('13638')">3:47:18 that we would spend together this is a</a>
 <a onclick="modifyYTiframeseektime('13640')">3:47:20 nice uh refreshing</a>
-<a onclick="modifyYTiframeseektime('13642')">3:47:22 [Music]</a>
+<a onclick="modifyYTiframeseektime('13642')">3:47:22 </a>
 <a onclick="modifyYTiframeseektime('13643')">3:47:23 come together for lack of a better word</a>
 <a onclick="modifyYTiframeseektime('13646')">3:47:26 yeah it was really good having you on</a>
 <a onclick="modifyYTiframeseektime('13648')">3:47:28 and and we miss you too and inshallah we</a>
@@ -6243,7 +6243,7 @@ discusses the Islamic concept of salvation, as well as the possible fate of non-
 <a onclick="modifyYTiframeseektime('13704')">3:48:24 something came up thank you guys so much</a>
 <a onclick="modifyYTiframeseektime('13706')">3:48:26 and thanks everybody for joining and we</a>
 <a onclick="modifyYTiframeseektime('13710')">3:48:30 hope to see you soon again inshallah</a>
-<a onclick="modifyYTiframeseektime('13721')">3:48:41 [Music]</a>
+<a onclick="modifyYTiframeseektime('13721')">3:48:41 </a>
 <a onclick="modifyYTiframeseektime('13724')">3:48:44 family</a>
 <a onclick="modifyYTiframeseektime('13744')">3:49:04 you</a>
 </details>

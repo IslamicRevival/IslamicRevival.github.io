@@ -93,7 +93,7 @@ The professor discusses the concept of ta'feer, or the Islamic practice of repen
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 <a onclick="modifyYTiframeseektime('10')">0:00:10 foreign</a>
-<a onclick="modifyYTiframeseektime('10')">0:00:10 [Music]</a>
+<a onclick="modifyYTiframeseektime('10')">0:00:10 </a>
 <a onclick="modifyYTiframeseektime('53')">0:00:53 foreign</a>
 <a onclick="modifyYTiframeseektime('66')">0:01:06 these episodes are broadcast live on the</a>
 <a onclick="modifyYTiframeseektime('69')">0:01:09 study Circles of Professor Dr Muhammad</a>
@@ -3156,11 +3156,11 @@ The professor discusses the concept of ta'feer, or the Islamic practice of repen
 <a onclick="modifyYTiframeseektime('7548')">2:05:48 very hard condemned Yourself by your own</a>
 <a onclick="modifyYTiframeseektime('7549')">2:05:49 behavior change your behavior then we</a>
 <a onclick="modifyYTiframeseektime('7552')">2:05:52 accept that</a>
-<a onclick="modifyYTiframeseektime('7574')">2:06:14 [Music]</a>
+<a onclick="modifyYTiframeseektime('7574')">2:06:14 </a>
 <a onclick="modifyYTiframeseektime('7585')">2:06:25 foreign</a>
-<a onclick="modifyYTiframeseektime('7590')">2:06:30 [Music]</a>
-<a onclick="modifyYTiframeseektime('7599')">2:06:39 [Music]</a>
-<a onclick="modifyYTiframeseektime('7605')">2:06:45 [Music]</a>
+<a onclick="modifyYTiframeseektime('7590')">2:06:30 </a>
+<a onclick="modifyYTiframeseektime('7599')">2:06:39 </a>
+<a onclick="modifyYTiframeseektime('7605')">2:06:45 </a>
 <a onclick="modifyYTiframeseektime('7616')">2:06:56 foreign</a>
-<a onclick="modifyYTiframeseektime('7622')">2:07:02 [Music]</a>
+<a onclick="modifyYTiframeseektime('7622')">2:07:02 </a>
 </details>

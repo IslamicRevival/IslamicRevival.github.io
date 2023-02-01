@@ -47,7 +47,7 @@ The principle of sufficient reason is discussed  and it is applied to various si
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00 [Music]</a>
+<a onclick="modifyYTiframeseektime('0')">0:00:00 </a>
 <a onclick="modifyYTiframeseektime('20')">0:00:20 so today we're gonna continue our</a>
 <a onclick="modifyYTiframeseektime('22')">0:00:22 episode uh on the principle of</a>
 <a onclick="modifyYTiframeseektime('24')">0:00:24 sufficient reason we discussed it last</a>
@@ -90,7 +90,7 @@ The principle of sufficient reason is discussed  and it is applied to various si
 <a onclick="modifyYTiframeseektime('108')">0:01:48 like for example the statement that uh</a>
 <a onclick="modifyYTiframeseektime('110')">0:01:50 uh</a>
 <a onclick="modifyYTiframeseektime('112')">0:01:52 the</a>
-<a onclick="modifyYTiframeseektime('113')">0:01:53 [Music]</a>
+<a onclick="modifyYTiframeseektime('113')">0:01:53 </a>
 <a onclick="modifyYTiframeseektime('116')">0:01:56 square circle does not exist</a>
 <a onclick="modifyYTiframeseektime('119')">0:01:59 is immediately evident self-explanatory</a>
 <a onclick="modifyYTiframeseektime('123')">0:02:03 does not exist so</a>
@@ -164,7 +164,7 @@ The principle of sufficient reason is discussed  and it is applied to various si
 <a onclick="modifyYTiframeseektime('270')">0:04:30 for its being true is simply because uh</a>
 <a onclick="modifyYTiframeseektime('274')">0:04:34 lost at waterloo is certainly true</a>
 <a onclick="modifyYTiframeseektime('276')">0:04:36 and then we have</a>
-<a onclick="modifyYTiframeseektime('277')">0:04:37 [Music]</a>
+<a onclick="modifyYTiframeseektime('277')">0:04:37 </a>
 <a onclick="modifyYTiframeseektime('279')">0:04:39 uh but that that we can accept napoleon</a>
 <a onclick="modifyYTiframeseektime('282')">0:04:42 lost at waterloo is true how we how we</a>
 <a onclick="modifyYTiframeseektime('284')">0:04:44 will come to know the uh to that we have</a>
@@ -1527,7 +1527,7 @@ The principle of sufficient reason is discussed  and it is applied to various si
 <a onclick="modifyYTiframeseektime('3270')">0:54:30 they have different</a>
 <a onclick="modifyYTiframeseektime('3272')">0:54:32 legal aspects</a>
 <a onclick="modifyYTiframeseektime('3274')">0:54:34 you see</a>
-<a onclick="modifyYTiframeseektime('3278')">0:54:38 [Music]</a>
+<a onclick="modifyYTiframeseektime('3278')">0:54:38 </a>
 <a onclick="modifyYTiframeseektime('3281')">0:54:41 let me see shut this one up</a>
 <a onclick="modifyYTiframeseektime('3282')">0:54:42 so that's that's that's the point which</a>
 <a onclick="modifyYTiframeseektime('3284')">0:54:44 is uh which is uh</a>
@@ -1542,10 +1542,10 @@ The principle of sufficient reason is discussed  and it is applied to various si
 <a onclick="modifyYTiframeseektime('3299')">0:54:59 which will have considerable implication</a>
 <a onclick="modifyYTiframeseektime('3301')">0:55:01 will apply to many things hopefully</a>
 <a onclick="modifyYTiframeseektime('3303')">0:55:03 today</a>
-<a onclick="modifyYTiframeseektime('3310')">0:55:10 [Music]</a>
+<a onclick="modifyYTiframeseektime('3310')">0:55:10 </a>
 <a onclick="modifyYTiframeseektime('3342')">0:55:42 foreign</a>
-<a onclick="modifyYTiframeseektime('3346')">0:55:46 [Music]</a>
+<a onclick="modifyYTiframeseektime('3346')">0:55:46 </a>
 <a onclick="modifyYTiframeseektime('3362')">0:56:02 so</a>
-<a onclick="modifyYTiframeseektime('3366')">0:56:06 [Music]</a>
+<a onclick="modifyYTiframeseektime('3366')">0:56:06 </a>
 <a onclick="modifyYTiframeseektime('3376')">0:56:16 foreign</a>
 </details>

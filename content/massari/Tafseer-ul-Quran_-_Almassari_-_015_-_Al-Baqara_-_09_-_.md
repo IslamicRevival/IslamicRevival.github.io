@@ -59,7 +59,7 @@ explains that Islam is the opposite of disbelief, and that this concept is centr
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00 [Music]</a>
+<a onclick="modifyYTiframeseektime('0')">0:00:00 </a>
 <a onclick="modifyYTiframeseektime('28')">0:00:28 faster inshallah this time because</a>
 <a onclick="modifyYTiframeseektime('30')">0:00:30 at the beginning uh new concepts have to</a>
 <a onclick="modifyYTiframeseektime('34')">0:00:34 be</a>
@@ -1668,6 +1668,6 @@ explains that Islam is the opposite of disbelief, and that this concept is centr
 <a onclick="modifyYTiframeseektime('3617')">1:00:17 improving and correcting which meant in</a>
 <a onclick="modifyYTiframeseektime('3620')">1:00:20 this ayah specifically and generally</a>
 <a onclick="modifyYTiframeseektime('3626')">1:00:26 okay</a>
-<a onclick="modifyYTiframeseektime('3631')">1:00:31 [Music]</a>
+<a onclick="modifyYTiframeseektime('3631')">1:00:31 </a>
 <a onclick="modifyYTiframeseektime('3653')">1:00:53 you</a>
 </details>

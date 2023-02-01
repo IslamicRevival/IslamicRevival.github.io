@@ -4489,7 +4489,7 @@ Alex Malpass discusses the patchwork principle with an atheist philosopher and a
 <a onclick="modifyYTiframeseektime('8562')">2:22:42 fact that's the gist of it and the the</a>
 <a onclick="modifyYTiframeseektime('8564')">2:22:44 general point is that well</a>
 <a onclick="modifyYTiframeseektime('8567')">2:22:47 if you don't have any a priori method to</a>
-<a onclick="modifyYTiframeseektime('8571')">2:22:51 [Music]</a>
+<a onclick="modifyYTiframeseektime('8571')">2:22:51 </a>
 <a onclick="modifyYTiframeseektime('8572')">2:22:52 to basically</a>
 <a onclick="modifyYTiframeseektime('8575')">2:22:55 discern the</a>
 <a onclick="modifyYTiframeseektime('8577')">2:22:57 explainable from the unexplainable or</a>
@@ -5587,7 +5587,7 @@ Alex Malpass discusses the patchwork principle with an atheist philosopher and a
 <a onclick="modifyYTiframeseektime('10838')">3:00:38 necessary truths don't have explanations</a>
 <a onclick="modifyYTiframeseektime('10840')">3:00:40 do you agree with that</a>
 <a onclick="modifyYTiframeseektime('10843')">3:00:43 um</a>
-<a onclick="modifyYTiframeseektime('10843')">3:00:43 [Music]</a>
+<a onclick="modifyYTiframeseektime('10843')">3:00:43 </a>
 <a onclick="modifyYTiframeseektime('10845')">3:00:45 in a sense that i don't really like the</a>
 <a onclick="modifyYTiframeseektime('10848')">3:00:48 self-explanation idea</a>
 <a onclick="modifyYTiframeseektime('10850')">3:00:50 so</a>

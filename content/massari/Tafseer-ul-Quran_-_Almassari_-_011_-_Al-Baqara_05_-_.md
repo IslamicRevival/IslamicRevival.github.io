@@ -65,7 +65,7 @@ Explanation of rizq, qadr - attribution to Allah
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('3')">0:00:03 [Music]</a>
+<a onclick="modifyYTiframeseektime('3')">0:00:03 </a>
 <a onclick="modifyYTiframeseektime('32')">0:00:32 at the beginning we are going slow</a>
 <a onclick="modifyYTiframeseektime('34')">0:00:34 evidently because new concepts and new</a>
 <a onclick="modifyYTiframeseektime('37')">0:00:37 aspects of the quran coming forward and</a>
@@ -2199,6 +2199,6 @@ Explanation of rizq, qadr - attribution to Allah
 <a onclick="modifyYTiframeseektime('4865')">1:21:05 further</a>
 <a onclick="modifyYTiframeseektime('4868')">1:21:08 good yeah i think in that case we should</a>
 <a onclick="modifyYTiframeseektime('4872')">1:21:12 uh</a>
-<a onclick="modifyYTiframeseektime('4878')">1:21:18 [Music]</a>
+<a onclick="modifyYTiframeseektime('4878')">1:21:18 </a>
 <a onclick="modifyYTiframeseektime('4900')">1:21:40 you</a>
 </details>

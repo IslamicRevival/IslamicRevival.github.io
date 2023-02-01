@@ -278,7 +278,7 @@ Saf Chowdhury discusses the problem of evil in this video. He argues that if the
 <a onclick="modifyYTiframeseektime('234')">0:03:54 have him today on thought adventure</a>
 <a onclick="modifyYTiframeseektime('236')">0:03:56 podcast and inshallah hopefully he'll</a>
 <a onclick="modifyYTiframeseektime('238')">0:03:58 come on uh</a>
-<a onclick="modifyYTiframeseektime('241')">0:04:01 [Music]</a>
+<a onclick="modifyYTiframeseektime('241')">0:04:01 </a>
 <a onclick="modifyYTiframeseektime('253')">0:04:13 yeah so today's topic inshallah is going</a>
 <a onclick="modifyYTiframeseektime('255')">0:04:15 to be on the problem of evil now the</a>
 <a onclick="modifyYTiframeseektime('258')">0:04:18 problem of evil</a>
@@ -1101,7 +1101,7 @@ Saf Chowdhury discusses the problem of evil in this video. He argues that if the
 <a onclick="modifyYTiframeseektime('1990')">0:33:10 so</a>
 <a onclick="modifyYTiframeseektime('1991')">0:33:11 um even though</a>
 <a onclick="modifyYTiframeseektime('1994')">0:33:14 um</a>
-<a onclick="modifyYTiframeseektime('1994')">0:33:14 [Music]</a>
+<a onclick="modifyYTiframeseektime('1994')">0:33:14 </a>
 <a onclick="modifyYTiframeseektime('1995')">0:33:15 you may not know why</a>
 <a onclick="modifyYTiframeseektime('1997')">0:33:17 what good reasons god has for permitting</a>
 <a onclick="modifyYTiframeseektime('1999')">0:33:19 evil what you do know is you have</a>
@@ -2411,7 +2411,7 @@ Saf Chowdhury discusses the problem of evil in this video. He argues that if the
 <a onclick="modifyYTiframeseektime('4782')">1:19:42 that's right and the angels the angels</a>
 <a onclick="modifyYTiframeseektime('4783')">1:19:43 in the quranic tradition the angels</a>
 <a onclick="modifyYTiframeseektime('4786')">1:19:46 asked that very same question in in</a>
-<a onclick="modifyYTiframeseektime('4788')">1:19:48 [Music]</a>
+<a onclick="modifyYTiframeseektime('4788')">1:19:48 </a>
 <a onclick="modifyYTiframeseektime('4789')">1:19:49 when</a>
 <a onclick="modifyYTiframeseektime('4790')">1:19:50 according to our you know</a>
 <a onclick="modifyYTiframeseektime('4792')">1:19:52 belief adam was created</a>
@@ -5299,7 +5299,7 @@ Saf Chowdhury discusses the problem of evil in this video. He argues that if the
 <a onclick="modifyYTiframeseektime('10812')">3:00:12 tell me that does not suggest</a>
 <a onclick="modifyYTiframeseektime('10814')">3:00:14 predestination</a>
 <a onclick="modifyYTiframeseektime('10816')">3:00:16 no</a>
-<a onclick="modifyYTiframeseektime('10817')">3:00:17 [Music]</a>
+<a onclick="modifyYTiframeseektime('10817')">3:00:17 </a>
 <a onclick="modifyYTiframeseektime('10818')">3:00:18 okay why</a>
 <a onclick="modifyYTiframeseektime('10820')">3:00:20 because we don't take the quran in</a>
 <a onclick="modifyYTiframeseektime('10822')">3:00:22 isolation what you have to do is you</a>
@@ -6352,7 +6352,7 @@ Saf Chowdhury discusses the problem of evil in this video. He argues that if the
 <a onclick="modifyYTiframeseektime('13128')">3:38:48 yes it is pretty torturous i'm wondering</a>
 <a onclick="modifyYTiframeseektime('13131')">3:38:51 why god has put me through this and i</a>
 <a onclick="modifyYTiframeseektime('13134')">3:38:54 have to end the stream</a>
-<a onclick="modifyYTiframeseektime('13136')">3:38:56 [Music]</a>
+<a onclick="modifyYTiframeseektime('13136')">3:38:56 </a>
 <a onclick="modifyYTiframeseektime('13137')">3:38:57 i honestly feel i honestly feel your</a>
 <a onclick="modifyYTiframeseektime('13139')">3:38:59 pain jake because a lot of these guys</a>
 <a onclick="modifyYTiframeseektime('13141')">3:39:01 who come on like this brother just came</a>

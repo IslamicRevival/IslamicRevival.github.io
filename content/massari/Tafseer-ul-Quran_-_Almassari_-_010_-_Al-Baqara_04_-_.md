@@ -68,7 +68,7 @@ Q and A
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('1')">0:00:01 [Music]</a>
+<a onclick="modifyYTiframeseektime('1')">0:00:01 </a>
 <a onclick="modifyYTiframeseektime('25')">0:00:25 we should have a little bit more maybe</a>
 <a onclick="modifyYTiframeseektime('27')">0:00:27 one stop like</a>
 <a onclick="modifyYTiframeseektime('28')">0:00:28 when one halaqa about iman uh</a>
@@ -690,7 +690,7 @@ Q and A
 <a onclick="modifyYTiframeseektime('1515')">0:25:15 supported iman meaning</a>
 <a onclick="modifyYTiframeseektime('1517')">0:25:17 include the the action not necessary it</a>
 <a onclick="modifyYTiframeseektime('1520')">0:25:20 does not support that</a>
-<a onclick="modifyYTiframeseektime('1521')">0:25:21 [Music]</a>
+<a onclick="modifyYTiframeseektime('1521')">0:25:21 </a>
 <a onclick="modifyYTiframeseektime('1522')">0:25:22 there's another so these are the ones</a>
 <a onclick="modifyYTiframeseektime('1524')">0:25:24 who essentially say iman is the actions</a>
 <a onclick="modifyYTiframeseektime('1527')">0:25:27 instead i i expanded to say the access</a>
@@ -2335,6 +2335,6 @@ Q and A
 <a onclick="modifyYTiframeseektime('5160')">1:26:00 yeah so but but the state itself is</a>
 <a onclick="modifyYTiframeseektime('5163')">1:26:03 obviously</a>
 <a onclick="modifyYTiframeseektime('5164')">1:26:04 a wrong statement that's not correct</a>
-<a onclick="modifyYTiframeseektime('5172')">1:26:12 [Music]</a>
+<a onclick="modifyYTiframeseektime('5172')">1:26:12 </a>
 <a onclick="modifyYTiframeseektime('5193')">1:26:33 you</a>
 </details>

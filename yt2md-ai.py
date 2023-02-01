@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-import datetime
 import logging
 import os
 import time
@@ -10,10 +9,12 @@ import re
 from markdownify import markdownify as md
 from pyyoutube import Api ## Needs Google Data (YouTube v3 key)
 from youtube_transcript_api import YouTubeTranscriptApi
+from datetime import datetime, timedelta
+
 
 import requests
 
-API_KEY = os.getenv('API_KEY3') ## codespaces secrets 1-12
+API_KEY = os.getenv('API_KEY4') ## codespaces secrets 1-12
 channel_ids_input = ["UC0uyPbeJ56twBLoHUbwFKnA", "UC57cqHgR_IZEs3gx0nxyZ-g", 'UCo5TlU2TZWVDsAlGI94QCoA', "UCeZBhrU8xHcik0ZgtDwjsdA", "UCHDFNoOk8WOXtHo8DIc8efQ", "UC_SLXSHcCwK2RSZTXVL26SA"]  ## thought_adv, sapience, hijab, bloggingtheology, docs, doc
 
 logging.basicConfig(level=15, format='[%(asctime)s] %(levelname)s: %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
@@ -66,7 +67,7 @@ def gen_markdown_page(video_id: str, title: str, description: str, smarkdown: st
     markdown = ""
 
     markdown += f"# {title} ({date})\n\n"
-    markdown += f"<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/{video_id}'></iframe>"
+    markdown += f"<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/{video_id}'></iframe>\n\n"
     markdown += "\n\n## Description\n\n"
     markdown += description.strip()
     markdown += "\n\n"
@@ -78,7 +79,7 @@ def gen_markdown_page(video_id: str, title: str, description: str, smarkdown: st
         markdown += f'<a onclick="modifyYTiframeseektime('
         markdown += f"'{int(c['start'])}')"
         markdown += f'">'
-        markdown += f"{datetime.timedelta(seconds=int(c['start']))} {c['text']}</a>\n"
+        markdown += f"{timedelta(seconds=int(c['start']))} {c['text']}</a>\n"
     markdown += "</details>"
     return markdown          
 
@@ -210,7 +211,7 @@ def main(channel_ids=channel_ids_input):
                 preview_path = 'tmp/'
                 logging.info(f"\n\nVideo ID is {video_id} with title {title}")
                 description = video_metadata.snippet.description
-                date = datetime.datetime.strptime(video_metadata.snippet.publishedAt, "%Y-%m-%dT%H:%M:%SZ").strftime("%Y-%m-%d")
+                date = datetime.strptime(video_metadata.snippet.publishedAt, "%Y-%m-%dT%H:%M:%SZ").strftime("%Y-%m-%d")
                 captions = YouTubeTranscriptApi.get_transcript(video_id)
 
                 # Get AI summary

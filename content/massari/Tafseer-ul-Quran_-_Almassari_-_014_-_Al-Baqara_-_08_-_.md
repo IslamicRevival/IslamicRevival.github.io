@@ -56,7 +56,7 @@ in this video discusses the dangers of atheism and Christianity from the perspec
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('3')">0:00:03 [Music]</a>
+<a onclick="modifyYTiframeseektime('3')">0:00:03 </a>
 <a onclick="modifyYTiframeseektime('20')">0:00:20 yeah we continue</a>
 <a onclick="modifyYTiframeseektime('22')">0:00:22 with the the next group of eyes which</a>
 <a onclick="modifyYTiframeseektime('26')">0:00:26 uh related all of them to the penis the</a>
@@ -1584,7 +1584,7 @@ in this video discusses the dangers of atheism and Christianity from the perspec
 <a onclick="modifyYTiframeseektime('3300')">0:55:00 is killed going my son once physically</a>
 <a onclick="modifyYTiframeseektime('3302')">0:55:02 myself or</a>
 <a onclick="modifyYTiframeseektime('3304')">0:55:04 one</a>
-<a onclick="modifyYTiframeseektime('3306')">0:55:06 [Music]</a>
+<a onclick="modifyYTiframeseektime('3306')">0:55:06 </a>
 <a onclick="modifyYTiframeseektime('3317')">0:55:17 i remember myself watching television in</a>
 <a onclick="modifyYTiframeseektime('3320')">0:55:20 1981-82</a>
 <a onclick="modifyYTiframeseektime('3321')">0:55:21 there was an america in a sabbatical</a>
@@ -1847,6 +1847,6 @@ in this video discusses the dangers of atheism and Christianity from the perspec
 <a onclick="modifyYTiframeseektime('3854')">1:04:14 about the vacuum</a>
 <a onclick="modifyYTiframeseektime('3855')">1:04:15 or and we will be able to to</a>
 <a onclick="modifyYTiframeseektime('3859')">1:04:19 to understand things better inshallah</a>
-<a onclick="modifyYTiframeseektime('3868')">1:04:28 [Music]</a>
+<a onclick="modifyYTiframeseektime('3868')">1:04:28 </a>
 <a onclick="modifyYTiframeseektime('3890')">1:04:50 you</a>
 </details>

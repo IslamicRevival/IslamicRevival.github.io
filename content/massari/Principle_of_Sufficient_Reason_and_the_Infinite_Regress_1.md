@@ -54,7 +54,7 @@ Principle of Sufficient Reason and the Infinite Regress   1
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00 [Music]</a>
+<a onclick="modifyYTiframeseektime('0')">0:00:00 </a>
 <a onclick="modifyYTiframeseektime('20')">0:00:20 good evening morning everyone salaam</a>
 <a onclick="modifyYTiframeseektime('22')">0:00:22 alaikum for all our</a>
 <a onclick="modifyYTiframeseektime('24')">0:00:24 muslim audience</a>
@@ -83,7 +83,7 @@ Principle of Sufficient Reason and the Infinite Regress   1
 <a onclick="modifyYTiframeseektime('75')">0:01:15 definition of</a>
 <a onclick="modifyYTiframeseektime('78')">0:01:18 the principle of sufficient treason</a>
 <a onclick="modifyYTiframeseektime('80')">0:01:20 please professor</a>
-<a onclick="modifyYTiframeseektime('90')">0:01:30 [Music]</a>
+<a onclick="modifyYTiframeseektime('90')">0:01:30 </a>
 <a onclick="modifyYTiframeseektime('92')">0:01:32 which was one of the most important</a>
 <a onclick="modifyYTiframeseektime('94')">0:01:34 professor your voice is not very good</a>
 <a onclick="modifyYTiframeseektime('96')">0:01:36 it's a little bit echoey</a>
@@ -1795,11 +1795,11 @@ Principle of Sufficient Reason and the Infinite Regress   1
 <a onclick="modifyYTiframeseektime('3763')">1:02:43 intriguing we'll not spend more time on</a>
 <a onclick="modifyYTiframeseektime('3765')">1:02:45 that but it has some nice aspects</a>
 <a onclick="modifyYTiframeseektime('3768')">1:02:48 perfect</a>
-<a onclick="modifyYTiframeseektime('3775')">1:02:55 [Music]</a>
-<a onclick="modifyYTiframeseektime('3781')">1:03:01 [Music]</a>
+<a onclick="modifyYTiframeseektime('3775')">1:02:55 </a>
+<a onclick="modifyYTiframeseektime('3781')">1:03:01 </a>
 <a onclick="modifyYTiframeseektime('3811')">1:03:31 foreign</a>
-<a onclick="modifyYTiframeseektime('3812')">1:03:32 [Music]</a>
+<a onclick="modifyYTiframeseektime('3812')">1:03:32 </a>
 <a onclick="modifyYTiframeseektime('3826')">1:03:46 so</a>
-<a onclick="modifyYTiframeseektime('3832')">1:03:52 [Music]</a>
+<a onclick="modifyYTiframeseektime('3832')">1:03:52 </a>
 <a onclick="modifyYTiframeseektime('3842')">1:04:02 you</a>
 </details>

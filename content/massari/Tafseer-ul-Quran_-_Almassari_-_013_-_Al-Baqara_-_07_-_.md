@@ -65,7 +65,7 @@ Description of the address of disbelievers
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('3')">0:00:03 [Music]</a>
+<a onclick="modifyYTiframeseektime('3')">0:00:03 </a>
 <a onclick="modifyYTiframeseektime('44')">0:00:44 so</a>
 <a onclick="modifyYTiframeseektime('44')">0:00:44 after discussing the various types of</a>
 <a onclick="modifyYTiframeseektime('46')">0:00:46 believers first of all that the quran is</a>
@@ -2462,7 +2462,7 @@ Description of the address of disbelievers
 <a onclick="modifyYTiframeseektime('5228')">1:27:08 the more we'll be will be detecting</a>
 <a onclick="modifyYTiframeseektime('5230')">1:27:10 things which are</a>
 <a onclick="modifyYTiframeseektime('5231')">1:27:11 surprising and never expected before</a>
-<a onclick="modifyYTiframeseektime('5239')">1:27:19 [Music]</a>
+<a onclick="modifyYTiframeseektime('5239')">1:27:19 </a>
 <a onclick="modifyYTiframeseektime('5250')">1:27:30 so</a>
 <a onclick="modifyYTiframeseektime('5261')">1:27:41 you</a>
 </details>

@@ -226,7 +226,7 @@ Alex Malpass discusses the problem with the argument for an infinite causal chai
 <a onclick="modifyYTiframeseektime('121')">0:02:01 uh last week uh he's coming on with a</a>
 <a onclick="modifyYTiframeseektime('124')">0:02:04 lot of credibility</a>
 <a onclick="modifyYTiframeseektime('126')">0:02:06 per se</a>
-<a onclick="modifyYTiframeseektime('132')">0:02:12 [Laughter]</a>
+<a onclick="modifyYTiframeseektime('132')">0:02:12 </a>
 <a onclick="modifyYTiframeseektime('134')">0:02:14 17th of november so yeah i think it was</a>
 <a onclick="modifyYTiframeseektime('137')">0:02:17 last week wasn't it a week in a week and</a>
 <a onclick="modifyYTiframeseektime('139')">0:02:19 a half week and a half ago because</a>
@@ -263,7 +263,7 @@ Alex Malpass discusses the problem with the argument for an infinite causal chai
 <a onclick="modifyYTiframeseektime('205')">0:03:25 because it was just uh you and</a>
 <a onclick="modifyYTiframeseektime('206')">0:03:26 abdulrahman how come</a>
 <a onclick="modifyYTiframeseektime('208')">0:03:28 how come we were invited me and yourself</a>
-<a onclick="modifyYTiframeseektime('211')">0:03:31 [Laughter]</a>
+<a onclick="modifyYTiframeseektime('211')">0:03:31 </a>
 <a onclick="modifyYTiframeseektime('214')">0:03:34 well i mean you guys are invited but um</a>
 <a onclick="modifyYTiframeseektime('218')">0:03:38 we thought it would be better if we had</a>
 <a onclick="modifyYTiframeseektime('220')">0:03:40 less people on</a>
@@ -1536,7 +1536,7 @@ Alex Malpass discusses the problem with the argument for an infinite causal chai
 <a onclick="modifyYTiframeseektime('3038')">0:50:38 wait in</a>
 <a onclick="modifyYTiframeseektime('3042')">0:50:42 he's probably combing his hair or</a>
 <a onclick="modifyYTiframeseektime('3044')">0:50:44 something dude</a>
-<a onclick="modifyYTiframeseektime('3045')">0:50:45 [Laughter]</a>
+<a onclick="modifyYTiframeseektime('3045')">0:50:45 </a>
 <a onclick="modifyYTiframeseektime('3047')">0:50:47 because i don't want to move off this</a>
 <a onclick="modifyYTiframeseektime('3048')">0:50:48 topic of uh</a>
 <a onclick="modifyYTiframeseektime('3050')">0:50:50 actual infinite because i know he has a</a>
@@ -1551,8 +1551,8 @@ Alex Malpass discusses the problem with the argument for an infinite causal chai
 <a onclick="modifyYTiframeseektime('3070')">0:51:10 okay let's hold on</a>
 <a onclick="modifyYTiframeseektime('3072')">0:51:12 let's see</a>
 <a onclick="modifyYTiframeseektime('3074')">0:51:14 hey what's up buddy salaam</a>
-<a onclick="modifyYTiframeseektime('3077')">0:51:17 [Laughter]</a>
-<a onclick="modifyYTiframeseektime('3080')">0:51:20 [Music]</a>
+<a onclick="modifyYTiframeseektime('3077')">0:51:17 </a>
+<a onclick="modifyYTiframeseektime('3080')">0:51:20 </a>
 <a onclick="modifyYTiframeseektime('3082')">0:51:22 he'll be back in a second inshallah but</a>
 <a onclick="modifyYTiframeseektime('3085')">0:51:25 you see you see the contradiction i'm</a>
 <a onclick="modifyYTiframeseektime('3087')">0:51:27 deriving now sharif right yeah yeah</a>
@@ -1709,7 +1709,7 @@ Alex Malpass discusses the problem with the argument for an infinite causal chai
 <a onclick="modifyYTiframeseektime('3450')">0:57:30 it's still very low it's it's a little</a>
 <a onclick="modifyYTiframeseektime('3453')">0:57:33 bit better but it's it's not it's still</a>
 <a onclick="modifyYTiframeseektime('3455')">0:57:35 very low</a>
-<a onclick="modifyYTiframeseektime('3459')">0:57:39 [Laughter]</a>
+<a onclick="modifyYTiframeseektime('3459')">0:57:39 </a>
 <a onclick="modifyYTiframeseektime('3463')">0:57:43 oh sorry man i'm not laughing at you but</a>
 <a onclick="modifyYTiframeseektime('3466')">0:57:46 it's kind of funny so the the the point</a>
 <a onclick="modifyYTiframeseektime('3469')">0:57:49 that i was gonna make sharif is that</a>

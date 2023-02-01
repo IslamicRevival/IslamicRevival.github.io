@@ -84,7 +84,7 @@ This principle is also used to explain why there can never be an infinite regres
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00 [Music]</a>
+<a onclick="modifyYTiframeseektime('0')">0:00:00 </a>
 <a onclick="modifyYTiframeseektime('22')">0:00:22 yeah yes professor</a>
 <a onclick="modifyYTiframeseektime('24')">0:00:24 so this this one approach</a>
 <a onclick="modifyYTiframeseektime('28')">0:00:28 will</a>
@@ -2935,10 +2935,10 @@ This principle is also used to explain why there can never be an infinite regres
 <a onclick="modifyYTiframeseektime('6299')">1:44:59 okay</a>
 <a onclick="modifyYTiframeseektime('6301')">1:45:01 professor thank you so much</a>
 <a onclick="modifyYTiframeseektime('6303')">1:45:03 see you next week</a>
-<a onclick="modifyYTiframeseektime('6317')">1:45:17 [Music]</a>
+<a onclick="modifyYTiframeseektime('6317')">1:45:17 </a>
 <a onclick="modifyYTiframeseektime('6349')">1:45:49 foreign</a>
-<a onclick="modifyYTiframeseektime('6351')">1:45:51 [Music]</a>
+<a onclick="modifyYTiframeseektime('6351')">1:45:51 </a>
 <a onclick="modifyYTiframeseektime('6360')">1:46:00 so</a>
-<a onclick="modifyYTiframeseektime('6371')">1:46:11 [Music]</a>
+<a onclick="modifyYTiframeseektime('6371')">1:46:11 </a>
 <a onclick="modifyYTiframeseektime('6380')">1:46:20 you</a>
 </details>

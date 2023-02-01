@@ -144,7 +144,7 @@ The Thought Adventure Podcast discusses objective morality and how ex-Muslims of
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 <a onclick="modifyYTiframeseektime('0')">0:00:00 um</a>
-<a onclick="modifyYTiframeseektime('30')">0:00:30 [Music]</a>
+<a onclick="modifyYTiframeseektime('30')">0:00:30 </a>
 <a onclick="modifyYTiframeseektime('35')">0:00:35 today</a>
 <a onclick="modifyYTiframeseektime('37')">0:00:37 on the thought adventure podcast</a>
 <a onclick="modifyYTiframeseektime('40')">0:00:40 um</a>
@@ -410,7 +410,7 @@ The Thought Adventure Podcast discusses objective morality and how ex-Muslims of
 <a onclick="modifyYTiframeseektime('580')">0:09:40 yeah and what happened uh regards to</a>
 <a onclick="modifyYTiframeseektime('582')">0:09:42 that and</a>
 <a onclick="modifyYTiframeseektime('583')">0:09:43 you know again you know you can start to</a>
-<a onclick="modifyYTiframeseektime('585')">0:09:45 [Music]</a>
+<a onclick="modifyYTiframeseektime('585')">0:09:45 </a>
 <a onclick="modifyYTiframeseektime('586')">0:09:46 go down numerous lines of discussions in</a>
 <a onclick="modifyYTiframeseektime('589')">0:09:49 regards to this but i think the best way</a>
 <a onclick="modifyYTiframeseektime('592')">0:09:52 is to take it back to okay why are you</a>
@@ -956,7 +956,7 @@ The Thought Adventure Podcast discusses objective morality and how ex-Muslims of
 <a onclick="modifyYTiframeseektime('1711')">0:28:31 used to as you'd know isn't it they used</a>
 <a onclick="modifyYTiframeseektime('1713')">0:28:33 to sacrifice women into the nile yeah</a>
 <a onclick="modifyYTiframeseektime('1716')">0:28:36 i'm not saying you did it</a>
-<a onclick="modifyYTiframeseektime('1717')">0:28:37 [Laughter]</a>
+<a onclick="modifyYTiframeseektime('1717')">0:28:37 </a>
 <a onclick="modifyYTiframeseektime('1719')">0:28:39 but i'm just saying they used to do that</a>
 <a onclick="modifyYTiframeseektime('1721')">0:28:41 to help them now flow so they so people</a>
 <a onclick="modifyYTiframeseektime('1725')">0:28:45 were happy it's not like the people</a>
@@ -1363,7 +1363,7 @@ The Thought Adventure Podcast discusses objective morality and how ex-Muslims of
 <a onclick="modifyYTiframeseektime('2586')">0:43:06 yeah let me add let me address all of</a>
 <a onclick="modifyYTiframeseektime('2588')">0:43:08 that okay so just pause it then i didn't</a>
 <a onclick="modifyYTiframeseektime('2590')">0:43:10 address it</a>
-<a onclick="modifyYTiframeseektime('2592')">0:43:12 [Music]</a>
+<a onclick="modifyYTiframeseektime('2592')">0:43:12 </a>
 <a onclick="modifyYTiframeseektime('2595')">0:43:15 yeah so i i i know it's how they quickly</a>
 <a onclick="modifyYTiframeseektime('2598')">0:43:18 just simply kicked you off</a>
 <a onclick="modifyYTiframeseektime('2602')">0:43:22 i also noticed that yeah</a>
@@ -3187,7 +3187,7 @@ The Thought Adventure Podcast discusses objective morality and how ex-Muslims of
 <a onclick="modifyYTiframeseektime('6366')">1:46:06 yeah</a>
 <a onclick="modifyYTiframeseektime('6367')">1:46:07 so</a>
 <a onclick="modifyYTiframeseektime('6369')">1:46:09 that must mean</a>
-<a onclick="modifyYTiframeseektime('6377')">1:46:17 [Laughter]</a>
+<a onclick="modifyYTiframeseektime('6377')">1:46:17 </a>
 <a onclick="modifyYTiframeseektime('6380')">1:46:20 but yeah we were just reviewing uh</a>
 <a onclick="modifyYTiframeseektime('6382')">1:46:22 abdul rahman's discussion with</a>
 <a onclick="modifyYTiframeseektime('6385')">1:46:25 aramine never be</a>
@@ -3459,7 +3459,7 @@ The Thought Adventure Podcast discusses objective morality and how ex-Muslims of
 <a onclick="modifyYTiframeseektime('6886')">1:54:46 and you're like whoa crap how you know</a>
 <a onclick="modifyYTiframeseektime('6889')">1:54:49 how did this happen</a>
 <a onclick="modifyYTiframeseektime('6890')">1:54:50 and um</a>
-<a onclick="modifyYTiframeseektime('6891')">1:54:51 [Music]</a>
+<a onclick="modifyYTiframeseektime('6891')">1:54:51 </a>
 <a onclick="modifyYTiframeseektime('6892')">1:54:52 this</a>
 <a onclick="modifyYTiframeseektime('6893')">1:54:53 whole picture</a>
 <a onclick="modifyYTiframeseektime('6895')">1:54:55 you know is</a>
@@ -3742,7 +3742,7 @@ The Thought Adventure Podcast discusses objective morality and how ex-Muslims of
 <a onclick="modifyYTiframeseektime('7473')">2:04:33 yeah i opium uh</a>
 <a onclick="modifyYTiframeseektime('7476')">2:04:36 poppies were being sold as drugs to</a>
 <a onclick="modifyYTiframeseektime('7478')">2:04:38 china china tried to ban britain from um</a>
-<a onclick="modifyYTiframeseektime('7482')">2:04:42 [Music]</a>
+<a onclick="modifyYTiframeseektime('7482')">2:04:42 </a>
 <a onclick="modifyYTiframeseektime('7484')">2:04:44 selling uh the opium because it was</a>
 <a onclick="modifyYTiframeseektime('7486')">2:04:46 causing huge problems in terms of their</a>
 <a onclick="modifyYTiframeseektime('7488')">2:04:48 internal workforce and internal uh</a>
@@ -4394,7 +4394,7 @@ The Thought Adventure Podcast discusses objective morality and how ex-Muslims of
 <a onclick="modifyYTiframeseektime('8802')">2:26:42 for a saturday</a>
 <a onclick="modifyYTiframeseektime('8804')">2:26:44 good morning</a>
 <a onclick="modifyYTiframeseektime('8806')">2:26:46 more reason to sit up all night and</a>
-<a onclick="modifyYTiframeseektime('8808')">2:26:48 [Music]</a>
+<a onclick="modifyYTiframeseektime('8808')">2:26:48 </a>
 <a onclick="modifyYTiframeseektime('8809')">2:26:49 some better ethics out on the stream</a>
 <a onclick="modifyYTiframeseektime('8812')">2:26:52 you know what we need to do we need to</a>
 <a onclick="modifyYTiframeseektime('8814')">2:26:54 we need to do a review and we're going</a>

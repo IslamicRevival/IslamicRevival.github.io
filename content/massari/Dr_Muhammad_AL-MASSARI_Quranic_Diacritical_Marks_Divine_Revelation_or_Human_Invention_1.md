@@ -42,7 +42,7 @@ Quranic Diacritical marks divine revelation or human invention 1
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00 [Music]</a>
+<a onclick="modifyYTiframeseektime('0')">0:00:00 </a>
 <a onclick="modifyYTiframeseektime('24')">0:00:24 okay</a>
 <a onclick="modifyYTiframeseektime('26')">0:00:26 yeah</a>
 <a onclick="modifyYTiframeseektime('27')">0:00:27 it was</a>
@@ -1168,11 +1168,11 @@ Quranic Diacritical marks divine revelation or human invention 1
 <a onclick="modifyYTiframeseektime('2462')">0:41:02 of calligraphy and so five feathers</a>
 <a onclick="modifyYTiframeseektime('2464')">0:41:04 occasion but</a>
 <a onclick="modifyYTiframeseektime('2476')">0:41:16 otherwise</a>
-<a onclick="modifyYTiframeseektime('2482')">0:41:22 [Music]</a>
-<a onclick="modifyYTiframeseektime('2491')">0:41:31 [Music]</a>
+<a onclick="modifyYTiframeseektime('2482')">0:41:22 </a>
+<a onclick="modifyYTiframeseektime('2491')">0:41:31 </a>
 <a onclick="modifyYTiframeseektime('2519')">0:41:59 is</a>
-<a onclick="modifyYTiframeseektime('2522')">0:42:02 [Music]</a>
+<a onclick="modifyYTiframeseektime('2522')">0:42:02 </a>
 <a onclick="modifyYTiframeseektime('2539')">0:42:19 so</a>
-<a onclick="modifyYTiframeseektime('2542')">0:42:22 [Music]</a>
+<a onclick="modifyYTiframeseektime('2542')">0:42:22 </a>
 <a onclick="modifyYTiframeseektime('2552')">0:42:32 you</a>
 </details>

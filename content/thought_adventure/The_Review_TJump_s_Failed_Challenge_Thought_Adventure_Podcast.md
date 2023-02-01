@@ -274,7 +274,7 @@ discusses the idea of an "evil" god, and argues that the concept is incoherent. 
 <a onclick="modifyYTiframeseektime('264')">0:04:24 it is</a>
 <a onclick="modifyYTiframeseektime('274')">0:04:34 while i was getting distracted by</a>
 <a onclick="modifyYTiframeseektime('276')">0:04:36 objectively good hair</a>
-<a onclick="modifyYTiframeseektime('278')">0:04:38 [Laughter]</a>
+<a onclick="modifyYTiframeseektime('278')">0:04:38 </a>
 <a onclick="modifyYTiframeseektime('281')">0:04:41 so the argument is is that you've got</a>
 <a onclick="modifyYTiframeseektime('283')">0:04:43 this parity between an all good god and</a>
 <a onclick="modifyYTiframeseektime('286')">0:04:46 an all evil being there's no way to</a>
@@ -1850,7 +1850,7 @@ discusses the idea of an "evil" god, and argues that the concept is incoherent. 
 <a onclick="modifyYTiframeseektime('3512')">0:58:32 evil on its own that would make just as</a>
 <a onclick="modifyYTiframeseektime('3513')">0:58:33 much sense i don't think you've</a>
 <a onclick="modifyYTiframeseektime('3514')">0:58:34 explained</a>
-<a onclick="modifyYTiframeseektime('3519')">0:58:39 [Music]</a>
+<a onclick="modifyYTiframeseektime('3519')">0:58:39 </a>
 <a onclick="modifyYTiframeseektime('3521')">0:58:41 doesn't need to create right just like a</a>
 <a onclick="modifyYTiframeseektime('3523')">0:58:43 maximally benevolent being doesn't need</a>
 <a onclick="modifyYTiframeseektime('3525')">0:58:45 to create right so there's a parity</a>
@@ -2407,7 +2407,7 @@ discusses the idea of an "evil" god, and argues that the concept is incoherent. 
 <a onclick="modifyYTiframeseektime('4636')">1:17:16 the evil god is evil because he is</a>
 <a onclick="modifyYTiframeseektime('4639')">1:17:19 unjust</a>
 <a onclick="modifyYTiframeseektime('4641')">1:17:21 um</a>
-<a onclick="modifyYTiframeseektime('4641')">1:17:21 [Music]</a>
+<a onclick="modifyYTiframeseektime('4641')">1:17:21 </a>
 <a onclick="modifyYTiframeseektime('4642')">1:17:22 and</a>
 <a onclick="modifyYTiframeseektime('4644')">1:17:24 yeah so here the question is is are</a>
 <a onclick="modifyYTiframeseektime('4647')">1:17:27 there any other attributes now when i</a>
@@ -4164,7 +4164,7 @@ discusses the idea of an "evil" god, and argues that the concept is incoherent. 
 <a onclick="modifyYTiframeseektime('8135')">2:15:35 arguments empirical arguments moral</a>
 <a onclick="modifyYTiframeseektime('8137')">2:15:37 intuitions</a>
 <a onclick="modifyYTiframeseektime('8138')">2:15:38 yeah moral progress that justifies it</a>
-<a onclick="modifyYTiframeseektime('8142')">2:15:42 [Laughter]</a>
+<a onclick="modifyYTiframeseektime('8142')">2:15:42 </a>
 <a onclick="modifyYTiframeseektime('8144')">2:15:44 so</a>
 <a onclick="modifyYTiframeseektime('8145')">2:15:45 in the same way we're not we're not</a>
 <a onclick="modifyYTiframeseektime('8147')">2:15:47 pulling out you know attributes out of</a>
@@ -5728,7 +5728,7 @@ discusses the idea of an "evil" god, and argues that the concept is incoherent. 
 <a onclick="modifyYTiframeseektime('11264')">3:07:44 brilliant video on the omnipotence</a>
 <a onclick="modifyYTiframeseektime('11267')">3:07:47 paradox on each channel i need to do</a>
 <a onclick="modifyYTiframeseektime('11268')">3:07:48 some extensions on it as well yeah</a>
-<a onclick="modifyYTiframeseektime('11275')">3:07:55 [Laughter]</a>
+<a onclick="modifyYTiframeseektime('11275')">3:07:55 </a>
 <a onclick="modifyYTiframeseektime('11282')">3:08:02 i don't think there's any more to</a>
 <a onclick="modifyYTiframeseektime('11284')">3:08:04 discuss with t jump now in terms of his</a>
 <a onclick="modifyYTiframeseektime('11285')">3:08:05 actual discussion because he isn't</a>
@@ -5862,7 +5862,7 @@ discusses the idea of an "evil" god, and argues that the concept is incoherent. 
 <a onclick="modifyYTiframeseektime('11575')">3:12:55 there for today uh we shall see you next</a>
 <a onclick="modifyYTiframeseektime('11577')">3:12:57 week inshallah</a>
 <a onclick="modifyYTiframeseektime('11588')">3:13:08 my</a>
-<a onclick="modifyYTiframeseektime('11591')">3:13:11 [Music]</a>
+<a onclick="modifyYTiframeseektime('11591')">3:13:11 </a>
 <a onclick="modifyYTiframeseektime('11594')">3:13:14 family</a>
 <a onclick="modifyYTiframeseektime('11617')">3:13:37 you</a>
 </details>

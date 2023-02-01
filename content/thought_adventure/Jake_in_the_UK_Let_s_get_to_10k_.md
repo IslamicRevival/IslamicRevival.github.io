@@ -155,7 +155,7 @@ Jake discusses his thoughts on the current state of the YouTube community, and h
 <a onclick="modifyYTiframeseektime('129')">0:02:09 yeah but see if you can do it anyway</a>
 <a onclick="modifyYTiframeseektime('131')">0:02:11 because i want to tweet it out tweet out</a>
 <a onclick="modifyYTiframeseektime('132')">0:02:12 the link oh yeah</a>
-<a onclick="modifyYTiframeseektime('133')">0:02:13 [Music]</a>
+<a onclick="modifyYTiframeseektime('133')">0:02:13 </a>
 <a onclick="modifyYTiframeseektime('136')">0:02:16 there we go</a>
 <a onclick="modifyYTiframeseektime('137')">0:02:17 try again</a>
 <a onclick="modifyYTiframeseektime('141')">0:02:21 okay let's see</a>
@@ -173,7 +173,7 @@ Jake discusses his thoughts on the current state of the YouTube community, and h
 <a onclick="modifyYTiframeseektime('163')">0:02:43 me jake um sharif and then some other</a>
 <a onclick="modifyYTiframeseektime('167')">0:02:47 duets</a>
 <a onclick="modifyYTiframeseektime('169')">0:02:49 in inshallah um</a>
-<a onclick="modifyYTiframeseektime('170')">0:02:50 [Music]</a>
+<a onclick="modifyYTiframeseektime('170')">0:02:50 </a>
 <a onclick="modifyYTiframeseektime('172')">0:02:52 yeah and so what we want to do hopefully</a>
 <a onclick="modifyYTiframeseektime('174')">0:02:54 as well is we want to try and get to 10k</a>
 <a onclick="modifyYTiframeseektime('177')">0:02:57 uh before then because what are we on at</a>
@@ -582,7 +582,7 @@ Jake discusses his thoughts on the current state of the YouTube community, and h
 <a onclick="modifyYTiframeseektime('1062')">0:17:42 that but slowly slowly</a>
 <a onclick="modifyYTiframeseektime('1064')">0:17:44 get there eventually bit by bit</a>
 <a onclick="modifyYTiframeseektime('1066')">0:17:46 inshallah we'll go get there</a>
-<a onclick="modifyYTiframeseektime('1068')">0:17:48 [Music]</a>
+<a onclick="modifyYTiframeseektime('1068')">0:17:48 </a>
 <a onclick="modifyYTiframeseektime('1070')">0:17:50 so any and have you got so after the</a>
 <a onclick="modifyYTiframeseektime('1071')">0:17:51 tweaks have you got any planned</a>
 <a onclick="modifyYTiframeseektime('1073')">0:17:53 discussions or anything jake any any</a>
@@ -1275,7 +1275,7 @@ Jake discusses his thoughts on the current state of the YouTube community, and h
 <a onclick="modifyYTiframeseektime('2487')">0:41:27 what was it in a an article or something</a>
 <a onclick="modifyYTiframeseektime('2489')">0:41:29 no no this was in the mohammed hijab</a>
 <a onclick="modifyYTiframeseektime('2491')">0:41:31 peter</a>
-<a onclick="modifyYTiframeseektime('2493')">0:41:33 [Music]</a>
+<a onclick="modifyYTiframeseektime('2493')">0:41:33 </a>
 <a onclick="modifyYTiframeseektime('2495')">0:41:35 and what he basically said was</a>
 <a onclick="modifyYTiframeseektime('2501')">0:41:41 yeah there we go he he mixed</a>
 <a onclick="modifyYTiframeseektime('2503')">0:41:43 yeah that was so it was at</a>
@@ -2379,7 +2379,7 @@ Jake discusses his thoughts on the current state of the YouTube community, and h
 <a onclick="modifyYTiframeseektime('4858')">1:20:58 wide-eyed yeah like he hadn't been on a</a>
 <a onclick="modifyYTiframeseektime('4861')">1:21:01 bloody 50-hour flight</a>
 <a onclick="modifyYTiframeseektime('4863')">1:21:03 uh jake likes american rugby</a>
-<a onclick="modifyYTiframeseektime('4867')">1:21:07 [Laughter]</a>
+<a onclick="modifyYTiframeseektime('4867')">1:21:07 </a>
 <a onclick="modifyYTiframeseektime('4871')">1:21:11 no no we're at the sapience office which</a>
 <a onclick="modifyYTiframeseektime('4873')">1:21:13 is right next door</a>
 <a onclick="modifyYTiframeseektime('4875')">1:21:15 to the air office</a>
@@ -2407,7 +2407,7 @@ Jake discusses his thoughts on the current state of the YouTube community, and h
 <a onclick="modifyYTiframeseektime('4921')">1:22:01 been so nice to have done a nice little</a>
 <a onclick="modifyYTiframeseektime('4923')">1:22:03 live stream with all four of us in the</a>
 <a onclick="modifyYTiframeseektime('4925')">1:22:05 same room yeah really cool</a>
-<a onclick="modifyYTiframeseektime('4928')">1:22:08 [Music]</a>
+<a onclick="modifyYTiframeseektime('4928')">1:22:08 </a>
 <a onclick="modifyYTiframeseektime('4930')">1:22:10 um</a>
 <a onclick="modifyYTiframeseektime('4931')">1:22:11 episode suggestion names and attributes</a>
 <a onclick="modifyYTiframeseektime('4934')">1:22:14 of allah</a>
@@ -2668,7 +2668,7 @@ Jake discusses his thoughts on the current state of the YouTube community, and h
 <a onclick="modifyYTiframeseektime('5473')">1:31:13 down the high street in bolton i just</a>
 <a onclick="modifyYTiframeseektime('5477')">1:31:17 i just walked down the high street in</a>
 <a onclick="modifyYTiframeseektime('5479')">1:31:19 bolton he said</a>
-<a onclick="modifyYTiframeseektime('5480')">1:31:20 [Music]</a>
+<a onclick="modifyYTiframeseektime('5480')">1:31:20 </a>
 <a onclick="modifyYTiframeseektime('5481')">1:31:21 and then if you manage to survive either</a>
 <a onclick="modifyYTiframeseektime('5484')">1:31:24 that treacherous course</a>
 <a onclick="modifyYTiframeseektime('5486')">1:31:26 uh or the uh the walk down bolton um</a>
@@ -2992,7 +2992,7 @@ Jake discusses his thoughts on the current state of the YouTube community, and h
 <a onclick="modifyYTiframeseektime('6096')">1:41:36 doing the work in the front line so man</a>
 <a onclick="modifyYTiframeseektime('6098')">1:41:38 i bless every single one of you and you</a>
 <a onclick="modifyYTiframeseektime('6099')">1:41:39 guys are here</a>
-<a onclick="modifyYTiframeseektime('6102')">1:41:42 [Music]</a>
+<a onclick="modifyYTiframeseektime('6102')">1:41:42 </a>
 <a onclick="modifyYTiframeseektime('6103')">1:41:43 so yeah lots of exciting things going on</a>
 <a onclick="modifyYTiframeseektime('6106')">1:41:46 uh so you know follow us on all of the</a>
 <a onclick="modifyYTiframeseektime('6108')">1:41:48 social media thought adventure podcast</a>
@@ -3049,6 +3049,6 @@ Jake discusses his thoughts on the current state of the YouTube community, and h
 <a onclick="modifyYTiframeseektime('6213')">1:43:33 okay i'm getting</a>
 <a onclick="modifyYTiframeseektime('6214')">1:43:34 an angry text message</a>
 <a onclick="modifyYTiframeseektime('6216')">1:43:36 other</a>
-<a onclick="modifyYTiframeseektime('6226')">1:43:46 [Music]</a>
+<a onclick="modifyYTiframeseektime('6226')">1:43:46 </a>
 <a onclick="modifyYTiframeseektime('6231')">1:43:51 uh are um</a>
 </details>

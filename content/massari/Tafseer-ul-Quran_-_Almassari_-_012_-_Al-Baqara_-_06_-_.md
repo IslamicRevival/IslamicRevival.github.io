@@ -62,7 +62,7 @@ discusses the concept of free will, and how it relates to the Quran's teachings 
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('3')">0:00:03 [Music]</a>
+<a onclick="modifyYTiframeseektime('3')">0:00:03 </a>
 <a onclick="modifyYTiframeseektime('29')">0:00:29 i mentioned some comments last time</a>
 <a onclick="modifyYTiframeseektime('31')">0:00:31 about salut and sally</a>
 <a onclick="modifyYTiframeseektime('32')">0:00:32 and said that the ones who claim that</a>
@@ -2259,7 +2259,7 @@ discusses the concept of free will, and how it relates to the Quran's teachings 
 <a onclick="modifyYTiframeseektime('4688')">1:18:08 and that's that's that's the meaning the</a>
 <a onclick="modifyYTiframeseektime('4690')">1:18:10 correct meaning of khabar and qatar</a>
 <a onclick="modifyYTiframeseektime('4692')">1:18:12 really okay</a>
-<a onclick="modifyYTiframeseektime('4706')">1:18:26 [Music]</a>
+<a onclick="modifyYTiframeseektime('4706')">1:18:26 </a>
 <a onclick="modifyYTiframeseektime('4718')">1:18:38 so</a>
 <a onclick="modifyYTiframeseektime('4722')">1:18:42 you</a>
 </details>

@@ -239,7 +239,7 @@ Gmail: hello.tapodcast@gmail.com
 <a onclick="modifyYTiframeseektime('128')">0:02:08 messing about</a>
 <a onclick="modifyYTiframeseektime('129')">0:02:09 but then i end up really falling asleep</a>
 <a onclick="modifyYTiframeseektime('131')">0:02:11 while i'm putting it to his arms</a>
-<a onclick="modifyYTiframeseektime('133')">0:02:13 [Laughter]</a>
+<a onclick="modifyYTiframeseektime('133')">0:02:13 </a>
 <a onclick="modifyYTiframeseektime('137')">0:02:17 salaam straight housewives man what's</a>
 <a onclick="modifyYTiframeseektime('138')">0:02:18 been happening with yourself</a>
 <a onclick="modifyYTiframeseektime('142')">0:02:22 uh nothing really just preparing for a</a>
@@ -257,7 +257,7 @@ Gmail: hello.tapodcast@gmail.com
 <a onclick="modifyYTiframeseektime('172')">0:02:52 discussion debate out</a>
 <a onclick="modifyYTiframeseektime('174')">0:02:54 uh with uh reverend samuel green</a>
 <a onclick="modifyYTiframeseektime('177')">0:02:57 yeah</a>
-<a onclick="modifyYTiframeseektime('178')">0:02:58 [Laughter]</a>
+<a onclick="modifyYTiframeseektime('178')">0:02:58 </a>
 <a onclick="modifyYTiframeseektime('180')">0:03:00 so in charlotte let's uh let's begin in</a>
 <a onclick="modifyYTiframeseektime('182')">0:03:02 charlotte with the discussion today so</a>
 <a onclick="modifyYTiframeseektime('184')">0:03:04 today we're talking about</a>
@@ -2113,7 +2113,7 @@ Gmail: hello.tapodcast@gmail.com
 <a onclick="modifyYTiframeseektime('4130')">1:08:50 they committed</a>
 <a onclick="modifyYTiframeseektime('4140')">1:09:00 you can see it in ap's face as well as</a>
 <a onclick="modifyYTiframeseektime('4143')">1:09:03 he's doing it he was struggling brother</a>
-<a onclick="modifyYTiframeseektime('4147')">1:09:07 [Music]</a>
+<a onclick="modifyYTiframeseektime('4147')">1:09:07 </a>
 <a onclick="modifyYTiframeseektime('4151')">1:09:11 he's laughing man he's like i'm loving</a>
 <a onclick="modifyYTiframeseektime('4154')">1:09:14 this</a>
 <a onclick="modifyYTiframeseektime('4159')">1:09:19 and look at you as well i mean the same</a>
@@ -2993,7 +2993,7 @@ Gmail: hello.tapodcast@gmail.com
 <a onclick="modifyYTiframeseektime('5947')">1:39:07 here and i would say yes abdul if you</a>
 <a onclick="modifyYTiframeseektime('5949')">1:39:09 want to talk you got to bring your your</a>
 <a onclick="modifyYTiframeseektime('5951')">1:39:11 mic down</a>
-<a onclick="modifyYTiframeseektime('5954')">1:39:14 [Music]</a>
+<a onclick="modifyYTiframeseektime('5954')">1:39:14 </a>
 <a onclick="modifyYTiframeseektime('5955')">1:39:15 i wasn't talking though but yeah i know</a>
 <a onclick="modifyYTiframeseektime('5957')">1:39:17 but you were you were before when sean</a>
 <a onclick="modifyYTiframeseektime('5959')">1:39:19 first came on and you were muted yeah</a>
@@ -3844,7 +3844,7 @@ Gmail: hello.tapodcast@gmail.com
 <a onclick="modifyYTiframeseektime('7779')">2:09:39 um</a>
 <a onclick="modifyYTiframeseektime('7780')">2:09:40 anyway i wouldn't hire you matt that's</a>
 <a onclick="modifyYTiframeseektime('7782')">2:09:42 all i'm saying</a>
-<a onclick="modifyYTiframeseektime('7783')">2:09:43 [Laughter]</a>
+<a onclick="modifyYTiframeseektime('7783')">2:09:43 </a>
 <a onclick="modifyYTiframeseektime('7790')">2:09:50 um this is uh i'm sorry to interrupt you</a>
 <a onclick="modifyYTiframeseektime('7793')">2:09:53 guys can i can you guys call on me like</a>
 <a onclick="modifyYTiframeseektime('7795')">2:09:55 next because i have to help uh one of my</a>
@@ -3855,7 +3855,7 @@ Gmail: hello.tapodcast@gmail.com
 <a onclick="modifyYTiframeseektime('7804')">2:10:04 i think we got abu mohammed next</a>
 <a onclick="modifyYTiframeseektime('7808')">2:10:08 that's it danish is not coming back on</a>
 <a onclick="modifyYTiframeseektime('7810')">2:10:10 now</a>
-<a onclick="modifyYTiframeseektime('7810')">2:10:10 [Laughter]</a>
+<a onclick="modifyYTiframeseektime('7810')">2:10:10 </a>
 <a onclick="modifyYTiframeseektime('7827')">2:10:27 yeah it's good to hear in your voice</a>
 <a onclick="modifyYTiframeseektime('7829')">2:10:29 yeah likewise</a>
 <a onclick="modifyYTiframeseektime('7831')">2:10:31 have you got a comment</a>
@@ -5334,7 +5334,7 @@ Gmail: hello.tapodcast@gmail.com
 <a onclick="modifyYTiframeseektime('10994')">3:03:14 um mr delicious</a>
 <a onclick="modifyYTiframeseektime('10997')">3:03:17 hold on before i before i bring him on</a>
 <a onclick="modifyYTiframeseektime('10999')">3:03:19 let me take a drink here</a>
-<a onclick="modifyYTiframeseektime('11001')">3:03:21 [Laughter]</a>
+<a onclick="modifyYTiframeseektime('11001')">3:03:21 </a>
 <a onclick="modifyYTiframeseektime('11004')">3:03:24 mr delicious welcome sir</a>
 <a onclick="modifyYTiframeseektime('11007')">3:03:27 how you guys doing</a>
 <a onclick="modifyYTiframeseektime('11009')">3:03:29 good i'm just wondering what's what's</a>
@@ -6306,6 +6306,6 @@ Gmail: hello.tapodcast@gmail.com
 <a onclick="modifyYTiframeseektime('13168')">3:39:28 you want to add anything</a>
 <a onclick="modifyYTiframeseektime('13172')">3:39:32 and uh</a>
 <a onclick="modifyYTiframeseektime('13179')">3:39:39 foreign</a>
-<a onclick="modifyYTiframeseektime('13184')">3:39:44 [Music]</a>
+<a onclick="modifyYTiframeseektime('13184')">3:39:44 </a>
 <a onclick="modifyYTiframeseektime('13206')">3:40:06 you</a>
 </details>

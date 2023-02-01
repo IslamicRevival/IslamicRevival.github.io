@@ -74,7 +74,7 @@ Although this theory is accurate in some cases, it is not perfect. In fact, it m
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00 [Music]</a>
+<a onclick="modifyYTiframeseektime('0')">0:00:00 </a>
 <a onclick="modifyYTiframeseektime('18')">0:00:18 professor restart yeah okay</a>
 <a onclick="modifyYTiframeseektime('20')">0:00:20 so</a>
 <a onclick="modifyYTiframeseektime('21')">0:00:21 so let us stress that i think it is a</a>
@@ -348,7 +348,7 @@ Although this theory is accurate in some cases, it is not perfect. In fact, it m
 <a onclick="modifyYTiframeseektime('632')">0:10:32 is here yes is from uh according to</a>
 <a onclick="modifyYTiframeseektime('635')">0:10:35 bellows it must have been like a</a>
 <a onclick="modifyYTiframeseektime('637')">0:10:37 blank size</a>
-<a onclick="modifyYTiframeseektime('638')">0:10:38 [Music]</a>
+<a onclick="modifyYTiframeseektime('638')">0:10:38 </a>
 <a onclick="modifyYTiframeseektime('640')">0:10:40 or extremely small usually it is set as</a>
 <a onclick="modifyYTiframeseektime('642')">0:10:42 a blank size uh black hole</a>
 <a onclick="modifyYTiframeseektime('645')">0:10:45 and this one starts expanding expanding</a>
@@ -2124,11 +2124,11 @@ Although this theory is accurate in some cases, it is not perfect. In fact, it m
 <a onclick="modifyYTiframeseektime('4545')">1:15:45 which should be studied exclusively</a>
 <a onclick="modifyYTiframeseektime('4547')">1:15:47 mathematical but human beings need some</a>
 <a onclick="modifyYTiframeseektime('4549')">1:15:49 some pictures</a>
-<a onclick="modifyYTiframeseektime('4557')">1:15:57 [Music]</a>
-<a onclick="modifyYTiframeseektime('4563')">1:16:03 [Music]</a>
+<a onclick="modifyYTiframeseektime('4557')">1:15:57 </a>
+<a onclick="modifyYTiframeseektime('4563')">1:16:03 </a>
 <a onclick="modifyYTiframeseektime('4593')">1:16:33 a</a>
-<a onclick="modifyYTiframeseektime('4594')">1:16:34 [Music]</a>
+<a onclick="modifyYTiframeseektime('4594')">1:16:34 </a>
 <a onclick="modifyYTiframeseektime('4611')">1:16:51 so</a>
-<a onclick="modifyYTiframeseektime('4614')">1:16:54 [Music]</a>
+<a onclick="modifyYTiframeseektime('4614')">1:16:54 </a>
 <a onclick="modifyYTiframeseektime('4624')">1:17:04 you</a>
 </details>

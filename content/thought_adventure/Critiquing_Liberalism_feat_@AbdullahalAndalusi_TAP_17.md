@@ -1666,7 +1666,7 @@ Abdullahal Andalusi discusses liberalism and how it is not connected to any spec
 <a onclick="modifyYTiframeseektime('3088')">0:51:28 things one particular interpretation</a>
 <a onclick="modifyYTiframeseektime('3089')">0:51:29 becomes uh or is implemented by a state</a>
 <a onclick="modifyYTiframeseektime('3092')">0:51:32 and enforcement</a>
-<a onclick="modifyYTiframeseektime('3094')">0:51:34 [Music]</a>
+<a onclick="modifyYTiframeseektime('3094')">0:51:34 </a>
 <a onclick="modifyYTiframeseektime('3096')">0:51:36 sure the kind of issues that arose from</a>
 <a onclick="modifyYTiframeseektime('3098')">0:51:38 um the thing that liberalism uh came up</a>
 <a onclick="modifyYTiframeseektime('3101')">0:51:41 with but the historical circumstance of</a>
@@ -4285,7 +4285,7 @@ Abdullahal Andalusi discusses liberalism and how it is not connected to any spec
 <a onclick="modifyYTiframeseektime('8539')">2:22:19 is that people are under the oppression</a>
 <a onclick="modifyYTiframeseektime('8541')">2:22:21 does</a>
 <a onclick="modifyYTiframeseektime('8542')">2:22:22 adoption of some</a>
-<a onclick="modifyYTiframeseektime('8543')">2:22:23 [Music]</a>
+<a onclick="modifyYTiframeseektime('8543')">2:22:23 </a>
 <a onclick="modifyYTiframeseektime('8545')">2:22:25 liberal themes</a>
 <a onclick="modifyYTiframeseektime('8547')">2:22:27 automatically equate to a sort of lacks</a>
 <a onclick="modifyYTiframeseektime('8550')">2:22:30 understanding of the islam which is</a>
@@ -5471,7 +5471,7 @@ Abdullahal Andalusi discusses liberalism and how it is not connected to any spec
 <a onclick="modifyYTiframeseektime('11098')">3:04:58 soylent green is people i don't know if</a>
 <a onclick="modifyYTiframeseektime('11100')">3:05:00 you ever come across that</a>
 <a onclick="modifyYTiframeseektime('11102')">3:05:02 is it</a>
-<a onclick="modifyYTiframeseektime('11107')">3:05:07 [Laughter]</a>
+<a onclick="modifyYTiframeseektime('11107')">3:05:07 </a>
 <a onclick="modifyYTiframeseektime('11113')">3:05:13 kill a few individuals off yeah</a>
 <a onclick="modifyYTiframeseektime('11115')">3:05:15 yeah uh yeah that in that scenario i i</a>
 <a onclick="modifyYTiframeseektime('11119')">3:05:19 think that islamic perspective would be</a>
@@ -7280,7 +7280,7 @@ Abdullahal Andalusi discusses liberalism and how it is not connected to any spec
 <a onclick="modifyYTiframeseektime('14947')">4:09:07 three one to loosen</a>
 <a onclick="modifyYTiframeseektime('14950')">4:09:10 up</a>
 <a onclick="modifyYTiframeseektime('14952')">4:09:12 okay yeah</a>
-<a onclick="modifyYTiframeseektime('14953')">4:09:13 [Laughter]</a>
+<a onclick="modifyYTiframeseektime('14953')">4:09:13 </a>
 <a onclick="modifyYTiframeseektime('14959')">4:09:19 right so i was just going to say danny</a>
 <a onclick="modifyYTiframeseektime('14961')">4:09:21 uh i think the issue is this is that</a>
 <a onclick="modifyYTiframeseektime('14964')">4:09:24 what we're saying is on the one hand</a>
@@ -9051,7 +9051,7 @@ Abdullahal Andalusi discusses liberalism and how it is not connected to any spec
 <a onclick="modifyYTiframeseektime('18626')">5:10:26 um which is where to get his posters and</a>
 <a onclick="modifyYTiframeseektime('18628')">5:10:28 if preferably signed as well</a>
 <a onclick="modifyYTiframeseektime('18639')">5:10:39 foreign</a>
-<a onclick="modifyYTiframeseektime('18649')">5:10:49 [Music]</a>
+<a onclick="modifyYTiframeseektime('18649')">5:10:49 </a>
 <a onclick="modifyYTiframeseektime('18652')">5:10:52 ah</a>
 <a onclick="modifyYTiframeseektime('18672')">5:11:12 you</a>
 </details>

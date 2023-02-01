@@ -59,7 +59,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00 [Music]</a>
+<a onclick="modifyYTiframeseektime('0')">0:00:00 </a>
 <a onclick="modifyYTiframeseektime('29')">0:00:29 or the two second</a>
 <a onclick="modifyYTiframeseektime('30')">0:00:30 the first layers of meaning</a>
 <a onclick="modifyYTiframeseektime('33')">0:00:33 of certain fact how we have covered</a>
@@ -141,7 +141,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <a onclick="modifyYTiframeseektime('276')">0:04:36 layers of meanings</a>
 <a onclick="modifyYTiframeseektime('277')">0:04:37 uh so this is uh there's a better it's</a>
 <a onclick="modifyYTiframeseektime('280')">0:04:40 not</a>
-<a onclick="modifyYTiframeseektime('302')">0:05:02 [Music]</a>
+<a onclick="modifyYTiframeseektime('302')">0:05:02 </a>
 <a onclick="modifyYTiframeseektime('308')">0:05:08 if i would have uh adopt a close friend</a>
 <a onclick="modifyYTiframeseektime('311')">0:05:11 or a close ally i would adopt abu bakr</a>
 <a onclick="modifyYTiframeseektime('313')">0:05:13 but your myself meaning himself your</a>
@@ -958,7 +958,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <a onclick="modifyYTiframeseektime('2195')">0:36:35 it was half writing although you find it</a>
 <a onclick="modifyYTiframeseektime('2196')">0:36:36 off written this way that's not the</a>
 <a onclick="modifyYTiframeseektime('2198')">0:36:38 correct wrong</a>
-<a onclick="modifyYTiframeseektime('2202')">0:36:42 [Music]</a>
+<a onclick="modifyYTiframeseektime('2202')">0:36:42 </a>
 <a onclick="modifyYTiframeseektime('2211')">0:36:51 even a silent alif is there everything</a>
 <a onclick="modifyYTiframeseektime('2213')">0:36:53 is there and the only ayah which has</a>
 <a onclick="modifyYTiframeseektime('2216')">0:36:56 oral if you check all the quran you will</a>
@@ -1506,19 +1506,19 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <a onclick="modifyYTiframeseektime('3477')">0:57:57 more about the program kappa</a>
 <a onclick="modifyYTiframeseektime('3479')">0:57:59 and issues related to them and then</a>
 <a onclick="modifyYTiframeseektime('3481')">0:58:01 we'll continue with the ayats inshallah</a>
-<a onclick="modifyYTiframeseektime('3495')">0:58:15 [Music]</a>
-<a onclick="modifyYTiframeseektime('3511')">0:58:31 [Music]</a>
-<a onclick="modifyYTiframeseektime('3522')">0:58:42 [Music]</a>
-<a onclick="modifyYTiframeseektime('3536')">0:58:56 [Music]</a>
-<a onclick="modifyYTiframeseektime('3549')">0:59:09 [Music]</a>
+<a onclick="modifyYTiframeseektime('3495')">0:58:15 </a>
+<a onclick="modifyYTiframeseektime('3511')">0:58:31 </a>
+<a onclick="modifyYTiframeseektime('3522')">0:58:42 </a>
+<a onclick="modifyYTiframeseektime('3536')">0:58:56 </a>
+<a onclick="modifyYTiframeseektime('3549')">0:59:09 </a>
 <a onclick="modifyYTiframeseektime('3556')">0:59:16 foreign</a>
-<a onclick="modifyYTiframeseektime('3564')">0:59:24 [Music]</a>
+<a onclick="modifyYTiframeseektime('3564')">0:59:24 </a>
 <a onclick="modifyYTiframeseektime('3570')">0:59:30 foreign</a>
-<a onclick="modifyYTiframeseektime('3587')">0:59:47 [Music]</a>
+<a onclick="modifyYTiframeseektime('3587')">0:59:47 </a>
 <a onclick="modifyYTiframeseektime('3598')">0:59:58 foreign</a>
-<a onclick="modifyYTiframeseektime('3602')">1:00:02 [Music]</a>
-<a onclick="modifyYTiframeseektime('3610')">1:00:10 [Music]</a>
+<a onclick="modifyYTiframeseektime('3602')">1:00:02 </a>
+<a onclick="modifyYTiframeseektime('3610')">1:00:10 </a>
 <a onclick="modifyYTiframeseektime('3612')">1:00:12 foreign</a>
-<a onclick="modifyYTiframeseektime('3616')">1:00:16 [Music]</a>
+<a onclick="modifyYTiframeseektime('3616')">1:00:16 </a>
 <a onclick="modifyYTiframeseektime('3632')">1:00:32 you</a>
 </details>

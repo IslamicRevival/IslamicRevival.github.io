@@ -78,9 +78,9 @@ Being on earth is not a sin
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00 [Music]</a>
+<a onclick="modifyYTiframeseektime('0')">0:00:00 </a>
 <a onclick="modifyYTiframeseektime('1')">0:00:01 foreign</a>
-<a onclick="modifyYTiframeseektime('6')">0:00:06 [Music]</a>
+<a onclick="modifyYTiframeseektime('6')">0:00:06 </a>
 <a onclick="modifyYTiframeseektime('26')">0:00:26 first of all it is neither in Genesis by</a>
 <a onclick="modifyYTiframeseektime('29')">0:00:29 the way to be fair nor in the Quran</a>
 <a onclick="modifyYTiframeseektime('31')">0:00:31 there is anything compelling that Adam</a>
@@ -1408,12 +1408,12 @@ Being on earth is not a sin
 <a onclick="modifyYTiframeseektime('3191')">0:53:11 done when we shave it took it is</a>
 <a onclick="modifyYTiframeseektime('3195')">0:53:15 just a whisper in the mind</a>
 <a onclick="modifyYTiframeseektime('3197')">0:53:17 the subconscious not available</a>
-<a onclick="modifyYTiframeseektime('3206')">0:53:26 [Music]</a>
+<a onclick="modifyYTiframeseektime('3206')">0:53:26 </a>
 <a onclick="modifyYTiframeseektime('3212')">0:53:32 and ignoring the fact that that the</a>
 <a onclick="modifyYTiframeseektime('3216')">0:53:36 ultimate meaning of existence is the</a>
 <a onclick="modifyYTiframeseektime('3218')">0:53:38 acknowledging Allah's ultimate</a>
 <a onclick="modifyYTiframeseektime('3220')">0:53:40 sovereignty</a>
-<a onclick="modifyYTiframeseektime('3226')">0:53:46 [Music]</a>
+<a onclick="modifyYTiframeseektime('3226')">0:53:46 </a>
 <a onclick="modifyYTiframeseektime('3235')">0:53:55 worship me meaning acknowledge me as the</a>
 <a onclick="modifyYTiframeseektime('3237')">0:53:57 ultimate sovereign</a>
 <a onclick="modifyYTiframeseektime('3256')">0:54:16 which</a>
@@ -2294,7 +2294,7 @@ Being on earth is not a sin
 <a onclick="modifyYTiframeseektime('5309')">1:28:29 the video maybe maybe uh it's just gonna</a>
 <a onclick="modifyYTiframeseektime('5313')">1:28:33 give you a lot away give everyone copy</a>
 <a onclick="modifyYTiframeseektime('5314')">1:28:34 of it so you can listen to it again</a>
-<a onclick="modifyYTiframeseektime('5323')">1:28:43 [Music]</a>
+<a onclick="modifyYTiframeseektime('5323')">1:28:43 </a>
 <a onclick="modifyYTiframeseektime('5333')">1:28:53 thank you</a>
-<a onclick="modifyYTiframeseektime('5335')">1:28:55 [Music]</a>
+<a onclick="modifyYTiframeseektime('5335')">1:28:55 </a>
 </details>

@@ -137,7 +137,7 @@ The "10k Ultra Epic Royale Deluxe Special" is a YouTube video that discusses the
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 <a onclick="modifyYTiframeseektime('4')">0:00:04 um</a>
-<a onclick="modifyYTiframeseektime('9')">0:00:09 [Music]</a>
+<a onclick="modifyYTiframeseektime('9')">0:00:09 </a>
 <a onclick="modifyYTiframeseektime('37')">0:00:37 why am i all alone come on guys</a>
 <a onclick="modifyYTiframeseektime('46')">0:00:46 uh you you get to do that because you</a>
 <a onclick="modifyYTiframeseektime('48')">0:00:48 guys are like all the way there right</a>
@@ -994,7 +994,7 @@ The "10k Ultra Epic Royale Deluxe Special" is a YouTube video that discusses the
 <a onclick="modifyYTiframeseektime('1859')">0:30:59 don't know</a>
 <a onclick="modifyYTiframeseektime('1860')">0:31:00 what he looks like</a>
 <a onclick="modifyYTiframeseektime('1862')">0:31:02 i didn't want</a>
-<a onclick="modifyYTiframeseektime('1866')">0:31:06 [Laughter]</a>
+<a onclick="modifyYTiframeseektime('1866')">0:31:06 </a>
 <a onclick="modifyYTiframeseektime('1875')">0:31:15 it was it was a long journey and it was</a>
 <a onclick="modifyYTiframeseektime('1879')">0:31:19 a tough one and i'm i've gone back and</a>
 <a onclick="modifyYTiframeseektime('1881')">0:31:21 i've i've you know gone through the</a>
@@ -1084,7 +1084,7 @@ The "10k Ultra Epic Royale Deluxe Special" is a YouTube video that discusses the
 <a onclick="modifyYTiframeseektime('2052')">0:34:12 some of you brothers know some of you</a>
 <a onclick="modifyYTiframeseektime('2054')">0:34:14 not but inshallah um i'm gonna be</a>
 <a onclick="modifyYTiframeseektime('2056')">0:34:16 getting married thursday</a>
-<a onclick="modifyYTiframeseektime('2058')">0:34:18 [Applause]</a>
+<a onclick="modifyYTiframeseektime('2058')">0:34:18 </a>
 <a onclick="modifyYTiframeseektime('2070')">0:34:30 you went from a redneck atheist to a</a>
 <a onclick="modifyYTiframeseektime('2073')">0:34:33 married muslim in less than a year</a>
 <a onclick="modifyYTiframeseektime('2075')">0:34:35 unbelievable yeah</a>
@@ -1092,7 +1092,7 @@ The "10k Ultra Epic Royale Deluxe Special" is a YouTube video that discusses the
 <a onclick="modifyYTiframeseektime('2081')">0:34:41 i don't know what it is</a>
 <a onclick="modifyYTiframeseektime('2083')">0:34:43 i gotta come to this i gotta say</a>
 <a onclick="modifyYTiframeseektime('2085')">0:34:45 something just don't get married</a>
-<a onclick="modifyYTiframeseektime('2089')">0:34:49 [Laughter]</a>
+<a onclick="modifyYTiframeseektime('2089')">0:34:49 </a>
 <a onclick="modifyYTiframeseektime('2098')">0:34:58 tell us what you can tell us like why</a>
 <a onclick="modifyYTiframeseektime('2099')">0:34:59 did that happen i i have been doing a</a>
 <a onclick="modifyYTiframeseektime('2102')">0:35:02 lot more tick tock than youtube lately</a>
@@ -1165,12 +1165,12 @@ The "10k Ultra Epic Royale Deluxe Special" is a YouTube video that discusses the
 <a onclick="modifyYTiframeseektime('2245')">0:37:25 and um don't need a license bro you just</a>
 <a onclick="modifyYTiframeseektime('2248')">0:37:28 need witnesses we've got we've got 1774</a>
 <a onclick="modifyYTiframeseektime('2254')">0:37:34 there's a few of us</a>
-<a onclick="modifyYTiframeseektime('2263')">0:37:43 [Laughter]</a>
+<a onclick="modifyYTiframeseektime('2263')">0:37:43 </a>
 <a onclick="modifyYTiframeseektime('2277')">0:37:57 because i mean i still am an ordained</a>
 <a onclick="modifyYTiframeseektime('2279')">0:37:59 minister with the flying spaghetti</a>
 <a onclick="modifyYTiframeseektime('2280')">0:38:00 monster oh</a>
 <a onclick="modifyYTiframeseektime('2282')">0:38:02 yeah but</a>
-<a onclick="modifyYTiframeseektime('2301')">0:38:21 [Laughter]</a>
+<a onclick="modifyYTiframeseektime('2301')">0:38:21 </a>
 <a onclick="modifyYTiframeseektime('2314')">0:38:34 the brothers they want to call me zach</a>
 <a onclick="modifyYTiframeseektime('2316')">0:38:36 because that's actually what they know</a>
 <a onclick="modifyYTiframeseektime('2317')">0:38:37 me as so they always stumble up when</a>
@@ -1231,7 +1231,7 @@ The "10k Ultra Epic Royale Deluxe Special" is a YouTube video that discusses the
 <a onclick="modifyYTiframeseektime('2446')">0:40:46 never sold you i don't like london you</a>
 <a onclick="modifyYTiframeseektime('2449')">0:40:49 always do</a>
 <a onclick="modifyYTiframeseektime('2450')">0:40:50 with your actions</a>
-<a onclick="modifyYTiframeseektime('2454')">0:40:54 [Music]</a>
+<a onclick="modifyYTiframeseektime('2454')">0:40:54 </a>
 <a onclick="modifyYTiframeseektime('2459')">0:40:59 uh you need to come up north and have</a>
 <a onclick="modifyYTiframeseektime('2461')">0:41:01 some proper food</a>
 <a onclick="modifyYTiframeseektime('2463')">0:41:03 some proper gilani's burgers</a>
@@ -1529,7 +1529,7 @@ The "10k Ultra Epic Royale Deluxe Special" is a YouTube video that discusses the
 <a onclick="modifyYTiframeseektime('3117')">0:51:57 give him a couple words</a>
 <a onclick="modifyYTiframeseektime('3121')">0:52:01 yeah</a>
 <a onclick="modifyYTiframeseektime('3122')">0:52:02 that'd be interesting</a>
-<a onclick="modifyYTiframeseektime('3124')">0:52:04 [Laughter]</a>
+<a onclick="modifyYTiframeseektime('3124')">0:52:04 </a>
 <a onclick="modifyYTiframeseektime('3137')">0:52:17 it free for uh paul</a>
 <a onclick="modifyYTiframeseektime('3138')">0:52:18 no</a>
 <a onclick="modifyYTiframeseektime('3140')">0:52:20 oh forget that he won't come on unless</a>
@@ -1557,7 +1557,7 @@ The "10k Ultra Epic Royale Deluxe Special" is a YouTube video that discusses the
 <a onclick="modifyYTiframeseektime('3189')">0:53:09 and uh i hope you'll be really good it's</a>
 <a onclick="modifyYTiframeseektime('3192')">0:53:12 definitely uh paul draper would be very</a>
 <a onclick="modifyYTiframeseektime('3195')">0:53:15 interesting to speak to</a>
-<a onclick="modifyYTiframeseektime('3196')">0:53:16 [Music]</a>
+<a onclick="modifyYTiframeseektime('3196')">0:53:16 </a>
 <a onclick="modifyYTiframeseektime('3197')">0:53:17 yeah i think mainly</a>
 <a onclick="modifyYTiframeseektime('3199')">0:53:19 those two guys</a>
 <a onclick="modifyYTiframeseektime('3201')">0:53:21 we were thinking about um</a>
@@ -1566,7 +1566,7 @@ The "10k Ultra Epic Royale Deluxe Special" is a YouTube video that discusses the
 <a onclick="modifyYTiframeseektime('3221')">0:53:41 philosopher atheist</a>
 <a onclick="modifyYTiframeseektime('3224')">0:53:44 whereas i just want to go down to the</a>
 <a onclick="modifyYTiframeseektime('3226')">0:53:46 iron rods</a>
-<a onclick="modifyYTiframeseektime('3227')">0:53:47 [Laughter]</a>
+<a onclick="modifyYTiframeseektime('3227')">0:53:47 </a>
 <a onclick="modifyYTiframeseektime('3231')">0:53:51 honestly they're both important for</a>
 <a onclick="modifyYTiframeseektime('3233')">0:53:53 different reasons like so</a>
 <a onclick="modifyYTiframeseektime('3235')">0:53:55 so so jake mentioned bart ehrman and</a>
@@ -1723,7 +1723,7 @@ The "10k Ultra Epic Royale Deluxe Special" is a YouTube video that discusses the
 <a onclick="modifyYTiframeseektime('3550')">0:59:10 and daniel who</a>
 <a onclick="modifyYTiframeseektime('3552')">0:59:12 yeah yeah apparently they had a debate</a>
 <a onclick="modifyYTiframeseektime('3554')">0:59:14 on liberalism i believe</a>
-<a onclick="modifyYTiframeseektime('3556')">0:59:16 [Music]</a>
+<a onclick="modifyYTiframeseektime('3556')">0:59:16 </a>
 <a onclick="modifyYTiframeseektime('3560')">0:59:20 watch the video i saw it popped up on my</a>
 <a onclick="modifyYTiframeseektime('3562')">0:59:22 list but i hadn't had time to watch it</a>
 <a onclick="modifyYTiframeseektime('3564')">0:59:24 yeah me neither yeah i put on my cube</a>
@@ -1798,7 +1798,7 @@ The "10k Ultra Epic Royale Deluxe Special" is a YouTube video that discusses the
 <a onclick="modifyYTiframeseektime('3732')">1:02:12 especially</a>
 <a onclick="modifyYTiframeseektime('3734')">1:02:14 uh after seeing that picture with the</a>
 <a onclick="modifyYTiframeseektime('3736')">1:02:16 red cap it's biggest color i</a>
-<a onclick="modifyYTiframeseektime('3740')">1:02:20 [Laughter]</a>
+<a onclick="modifyYTiframeseektime('3740')">1:02:20 </a>
 <a onclick="modifyYTiframeseektime('3747')">1:02:27 yeah that was that was that was a scary</a>
 <a onclick="modifyYTiframeseektime('3750')">1:02:30 picture it was really scary</a>
 <a onclick="modifyYTiframeseektime('3752')">1:02:32 seeing that red hat there you know</a>
@@ -1818,7 +1818,7 @@ The "10k Ultra Epic Royale Deluxe Special" is a YouTube video that discusses the
 <a onclick="modifyYTiframeseektime('3786')">1:03:06 lion is smiling</a>
 <a onclick="modifyYTiframeseektime('3791')">1:03:11 okay</a>
 <a onclick="modifyYTiframeseektime('3792')">1:03:12 yeah that's uh his red hat is the thief</a>
-<a onclick="modifyYTiframeseektime('3798')">1:03:18 [Music]</a>
+<a onclick="modifyYTiframeseektime('3798')">1:03:18 </a>
 <a onclick="modifyYTiframeseektime('3801')">1:03:21 i think brother riyad came on to to</a>
 <a onclick="modifyYTiframeseektime('3805')">1:03:25 basically</a>
 <a onclick="modifyYTiframeseektime('3806')">1:03:26 say out the name of the channel like</a>
@@ -1882,7 +1882,7 @@ The "10k Ultra Epic Royale Deluxe Special" is a YouTube video that discusses the
 <a onclick="modifyYTiframeseektime('3955')">1:05:55 please please just speak malay like you</a>
 <a onclick="modifyYTiframeseektime('3958')">1:05:58 did in that video that you sent us</a>
 <a onclick="modifyYTiframeseektime('3960')">1:06:00 it was amazing it felt like it was about</a>
-<a onclick="modifyYTiframeseektime('3970')">1:06:10 [Laughter]</a>
+<a onclick="modifyYTiframeseektime('3970')">1:06:10 </a>
 <a onclick="modifyYTiframeseektime('3977')">1:06:17 khalil do you um any languages other</a>
 <a onclick="modifyYTiframeseektime('3979')">1:06:19 than uh redneck</a>
 <a onclick="modifyYTiframeseektime('3982')">1:06:22 no that's it redneck in</a>
@@ -1947,7 +1947,7 @@ The "10k Ultra Epic Royale Deluxe Special" is a YouTube video that discusses the
 <a onclick="modifyYTiframeseektime('4130')">1:08:50 sort of world of you know</a>
 <a onclick="modifyYTiframeseektime('4133')">1:08:53 creating new</a>
 <a onclick="modifyYTiframeseektime('4134')">1:08:54 people</a>
-<a onclick="modifyYTiframeseektime('4135')">1:08:55 [Music]</a>
+<a onclick="modifyYTiframeseektime('4135')">1:08:55 </a>
 <a onclick="modifyYTiframeseektime('4137')">1:08:57 creating memes and things like that or</a>
 <a onclick="modifyYTiframeseektime('4138')">1:08:58 marketing out</a>
 <a onclick="modifyYTiframeseektime('4140')">1:09:00 they really like their name yeah because</a>
@@ -2157,7 +2157,7 @@ The "10k Ultra Epic Royale Deluxe Special" is a YouTube video that discusses the
 <a onclick="modifyYTiframeseektime('4613')">1:16:53 i think it was was it six</a>
 <a onclick="modifyYTiframeseektime('4615')">1:16:55 oh right yeah uh</a>
 <a onclick="modifyYTiframeseektime('4619')">1:16:59 from god from a necessary being to god</a>
-<a onclick="modifyYTiframeseektime('4623')">1:17:03 [Music]</a>
+<a onclick="modifyYTiframeseektime('4623')">1:17:03 </a>
 <a onclick="modifyYTiframeseektime('4625')">1:17:05 where is it</a>
 <a onclick="modifyYTiframeseektime('4627')">1:17:07 oh we got a lot of shorts oh there it is</a>
 <a onclick="modifyYTiframeseektime('4629')">1:17:09 yeah</a>
@@ -2169,7 +2169,7 @@ The "10k Ultra Epic Royale Deluxe Special" is a YouTube video that discusses the
 <a onclick="modifyYTiframeseektime('4639')">1:17:19 uh</a>
 <a onclick="modifyYTiframeseektime('4641')">1:17:21 the moment oh yeah she had a time with</a>
 <a onclick="modifyYTiframeseektime('4643')">1:17:23 brother khalil that was an epic moment</a>
-<a onclick="modifyYTiframeseektime('4646')">1:17:26 [Music]</a>
+<a onclick="modifyYTiframeseektime('4646')">1:17:26 </a>
 <a onclick="modifyYTiframeseektime('4647')">1:17:27 but how long ago was that nine months</a>
 <a onclick="modifyYTiframeseektime('4648')">1:17:28 ago that was in the shower that was when</a>
 <a onclick="modifyYTiframeseektime('4650')">1:17:30 he he moved from atheism to theism oh</a>
@@ -2184,7 +2184,7 @@ The "10k Ultra Epic Royale Deluxe Special" is a YouTube video that discusses the
 <a onclick="modifyYTiframeseektime('4665')">1:17:45 this happened in the beginning of the</a>
 <a onclick="modifyYTiframeseektime('4667')">1:17:47 channel when the challenge was</a>
 <a onclick="modifyYTiframeseektime('4669')">1:17:49 the channel was developing</a>
-<a onclick="modifyYTiframeseektime('4671')">1:17:51 [Music]</a>
+<a onclick="modifyYTiframeseektime('4671')">1:17:51 </a>
 <a onclick="modifyYTiframeseektime('4672')">1:17:52 as the best planners</a>
 <a onclick="modifyYTiframeseektime('4674')">1:17:54 yeah</a>
 <a onclick="modifyYTiframeseektime('4676')">1:17:56 and then jake what was your highlight</a>
@@ -2361,7 +2361,7 @@ The "10k Ultra Epic Royale Deluxe Special" is a YouTube video that discusses the
 <a onclick="modifyYTiframeseektime('5132')">1:25:32 but then uh turkey wouldn't give him a</a>
 <a onclick="modifyYTiframeseektime('5134')">1:25:34 visa they didn't like the look at him</a>
 <a onclick="modifyYTiframeseektime('5136')">1:25:36 we're gonna go</a>
-<a onclick="modifyYTiframeseektime('5143')">1:25:43 [Laughter]</a>
+<a onclick="modifyYTiframeseektime('5143')">1:25:43 </a>
 <a onclick="modifyYTiframeseektime('5148')">1:25:48 for me i looked at the regulations and</a>
 <a onclick="modifyYTiframeseektime('5149')">1:25:49 if i if i were to come they i'd have to</a>
 <a onclick="modifyYTiframeseektime('5152')">1:25:52 i'd have to quarantine for 10 days</a>
@@ -3303,7 +3303,7 @@ The "10k Ultra Epic Royale Deluxe Special" is a YouTube video that discusses the
 <a onclick="modifyYTiframeseektime('7162')">1:59:22 trying to mute so i could tell yeah</a>
 <a onclick="modifyYTiframeseektime('7165')">1:59:25 and i accidentally just i did this and i</a>
 <a onclick="modifyYTiframeseektime('7167')">1:59:27 was like coffee</a>
-<a onclick="modifyYTiframeseektime('7172')">1:59:32 [Laughter]</a>
+<a onclick="modifyYTiframeseektime('7172')">1:59:32 </a>
 <a onclick="modifyYTiframeseektime('7182')">1:59:42 it's honestly it's a very big question</a>
 <a onclick="modifyYTiframeseektime('7184')">1:59:44 as well but uh so i wouldn't know where</a>
 <a onclick="modifyYTiframeseektime('7186')">1:59:46 to start but how do you know god is good</a>
@@ -3337,7 +3337,7 @@ The "10k Ultra Epic Royale Deluxe Special" is a YouTube video that discusses the
 <a onclick="modifyYTiframeseektime('7236')">2:00:36 meta ethics and you know</a>
 <a onclick="modifyYTiframeseektime('7238')">2:00:38 normative ethics that always comes into</a>
 <a onclick="modifyYTiframeseektime('7240')">2:00:40 the picture like you know oh wow</a>
-<a onclick="modifyYTiframeseektime('7242')">2:00:42 [Laughter]</a>
+<a onclick="modifyYTiframeseektime('7242')">2:00:42 </a>
 <a onclick="modifyYTiframeseektime('7246')">2:00:46 that's an interesting picture</a>
 <a onclick="modifyYTiframeseektime('7250')">2:00:50 we've had that one</a>
 <a onclick="modifyYTiframeseektime('7252')">2:00:52 i think i think riyadh made it but we</a>
@@ -3847,5 +3847,5 @@ The "10k Ultra Epic Royale Deluxe Special" is a YouTube video that discusses the
 <a onclick="modifyYTiframeseektime('8436')">2:20:36 been great broccoli to everyone again</a>
 <a onclick="modifyYTiframeseektime('8439')">2:20:39 it's been a pleasure until next time</a>
 <a onclick="modifyYTiframeseektime('8440')">2:20:40 assalamu alaykum</a>
-<a onclick="modifyYTiframeseektime('8446')">2:20:46 [Music]</a>
+<a onclick="modifyYTiframeseektime('8446')">2:20:46 </a>
 </details>

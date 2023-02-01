@@ -566,7 +566,7 @@ Gmail: hello.tapodcast@gmail.com
 <a onclick="modifyYTiframeseektime('1083')">0:18:03 it is subdivided into three further</a>
 <a onclick="modifyYTiframeseektime('1085')">0:18:05 sciences first one is</a>
 <a onclick="modifyYTiframeseektime('1088')">0:18:08 which is the science of meaning</a>
-<a onclick="modifyYTiframeseektime('1091')">0:18:11 [Music]</a>
+<a onclick="modifyYTiframeseektime('1091')">0:18:11 </a>
 <a onclick="modifyYTiframeseektime('1093')">0:18:13 which is to do with the science of</a>
 <a onclick="modifyYTiframeseektime('1094')">0:18:14 expression</a>
 <a onclick="modifyYTiframeseektime('1096')">0:18:16 and</a>

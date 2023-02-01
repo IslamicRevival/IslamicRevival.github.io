@@ -73,7 +73,7 @@ Qadr - detailed discussion on the nature of Qadr and misconceptions
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00 [Music]</a>
+<a onclick="modifyYTiframeseektime('0')">0:00:00 </a>
 <a onclick="modifyYTiframeseektime('29')">0:00:29 we mentioned quite a number of</a>
 <a onclick="modifyYTiframeseektime('31')">0:00:31 coincidences and interesting i would say</a>
 <a onclick="modifyYTiframeseektime('33')">0:00:33 miraculous aspects</a>
@@ -2392,16 +2392,16 @@ Qadr - detailed discussion on the nature of Qadr and misconceptions
 <a onclick="modifyYTiframeseektime('5022')">1:23:42 monday or friday if you have articulated</a>
 <a onclick="modifyYTiframeseektime('5024')">1:23:44 the</a>
 <a onclick="modifyYTiframeseektime('5025')">1:23:45 question and things insha'allah for</a>
-<a onclick="modifyYTiframeseektime('5039')">1:23:59 [Music]</a>
-<a onclick="modifyYTiframeseektime('5046')">1:24:06 [Music]</a>
-<a onclick="modifyYTiframeseektime('5060')">1:24:20 [Music]</a>
-<a onclick="modifyYTiframeseektime('5074')">1:24:34 [Music]</a>
+<a onclick="modifyYTiframeseektime('5039')">1:23:59 </a>
+<a onclick="modifyYTiframeseektime('5046')">1:24:06 </a>
+<a onclick="modifyYTiframeseektime('5060')">1:24:20 </a>
+<a onclick="modifyYTiframeseektime('5074')">1:24:34 </a>
 <a onclick="modifyYTiframeseektime('5082')">1:24:42 foreign</a>
-<a onclick="modifyYTiframeseektime('5088')">1:24:48 [Music]</a>
+<a onclick="modifyYTiframeseektime('5088')">1:24:48 </a>
 <a onclick="modifyYTiframeseektime('5096')">1:24:56 foreign</a>
-<a onclick="modifyYTiframeseektime('5111')">1:25:11 [Music]</a>
-<a onclick="modifyYTiframeseektime('5126')">1:25:26 [Music]</a>
-<a onclick="modifyYTiframeseektime('5134')">1:25:34 [Music]</a>
+<a onclick="modifyYTiframeseektime('5111')">1:25:11 </a>
+<a onclick="modifyYTiframeseektime('5126')">1:25:26 </a>
+<a onclick="modifyYTiframeseektime('5134')">1:25:34 </a>
 <a onclick="modifyYTiframeseektime('5152')">1:25:52 so</a>
 <a onclick="modifyYTiframeseektime('5156')">1:25:56 you</a>
 </details>

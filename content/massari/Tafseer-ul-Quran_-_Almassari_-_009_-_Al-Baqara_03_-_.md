@@ -62,7 +62,7 @@ discusses the different schools of thought on the nature of iman, and how some o
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00 [Music]</a>
+<a onclick="modifyYTiframeseektime('0')">0:00:00 </a>
 <a onclick="modifyYTiframeseektime('22')">0:00:22 let's continue</a>
 <a onclick="modifyYTiframeseektime('23')">0:00:23 with the where we stood last time with</a>
 <a onclick="modifyYTiframeseektime('25')">0:00:25 few maybe additions</a>
@@ -874,7 +874,7 @@ discusses the different schools of thought on the nature of iman, and how some o
 <a onclick="modifyYTiframeseektime('1886')">0:31:26 the iman and which was my mainstreaming</a>
 <a onclick="modifyYTiframeseektime('1888')">0:31:28 specifically</a>
 <a onclick="modifyYTiframeseektime('1889')">0:31:29 part of the taqwa is that he</a>
-<a onclick="modifyYTiframeseektime('1903')">0:31:43 [Music]</a>
+<a onclick="modifyYTiframeseektime('1903')">0:31:43 </a>
 <a onclick="modifyYTiframeseektime('1918')">0:31:58 how it musically works more than amanda</a>
 <a onclick="modifyYTiframeseektime('1921')">0:32:01 santaka has having more future musically</a>
 <a onclick="modifyYTiframeseektime('1924')">0:32:04 and</a>
@@ -895,7 +895,7 @@ discusses the different schools of thought on the nature of iman, and how some o
 <a onclick="modifyYTiframeseektime('1984')">0:33:04 linguistic</a>
 <a onclick="modifyYTiframeseektime('1985')">0:33:05 play that's that's for example</a>
 <a onclick="modifyYTiframeseektime('1989')">0:33:09 another one uh it is</a>
-<a onclick="modifyYTiframeseektime('1993')">0:33:13 [Music]</a>
+<a onclick="modifyYTiframeseektime('1993')">0:33:13 </a>
 <a onclick="modifyYTiframeseektime('1995')">0:33:15 in that sense which</a>
 <a onclick="modifyYTiframeseektime('1998')">0:33:18 is the the one which is uh</a>
 <a onclick="modifyYTiframeseektime('2004')">0:33:24 the one which is in in</a>
@@ -1905,8 +1905,8 @@ discusses the different schools of thought on the nature of iman, and how some o
 <a onclick="modifyYTiframeseektime('4262')">1:11:02 the reality of the quran and and i think</a>
 <a onclick="modifyYTiframeseektime('4265')">1:11:05 it is trivial it is shallow it is not it</a>
 <a onclick="modifyYTiframeseektime('4267')">1:11:07 is much deeper than they think</a>
-<a onclick="modifyYTiframeseektime('4275')">1:11:15 [Music]</a>
+<a onclick="modifyYTiframeseektime('4275')">1:11:15 </a>
 <a onclick="modifyYTiframeseektime('4284')">1:11:24 so</a>
-<a onclick="modifyYTiframeseektime('4287')">1:11:27 [Music]</a>
+<a onclick="modifyYTiframeseektime('4287')">1:11:27 </a>
 <a onclick="modifyYTiframeseektime('4297')">1:11:37 you</a>
 </details>

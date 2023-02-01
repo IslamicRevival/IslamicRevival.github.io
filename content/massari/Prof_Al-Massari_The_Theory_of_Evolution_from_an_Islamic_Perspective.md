@@ -102,7 +102,7 @@ Professor Al-Massari discusses the theory of evolution from an Islamic perspecti
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0')">0:00:00 [Music]</a>
+<a onclick="modifyYTiframeseektime('0')">0:00:00 </a>
 <a onclick="modifyYTiframeseektime('20')">0:00:20 you you placed a few</a>
 <a onclick="modifyYTiframeseektime('23')">0:00:23 items in my telegram channel about</a>
 <a onclick="modifyYTiframeseektime('26')">0:00:26 my telegram contact</a>
@@ -3025,7 +3025,7 @@ Professor Al-Massari discusses the theory of evolution from an Islamic perspecti
 <a onclick="modifyYTiframeseektime('6504')">1:48:24 it's a little bit off topic</a>
 <a onclick="modifyYTiframeseektime('6506')">1:48:26 yeah go ahead</a>
 <a onclick="modifyYTiframeseektime('6508')">1:48:28 it's it's about the uh</a>
-<a onclick="modifyYTiframeseektime('6515')">1:48:35 [Music]</a>
+<a onclick="modifyYTiframeseektime('6515')">1:48:35 </a>
 <a onclick="modifyYTiframeseektime('6517')">1:48:37 very famously said that you know whoever</a>
 <a onclick="modifyYTiframeseektime('6519')">1:48:39 wants to hear</a>
 <a onclick="modifyYTiframeseektime('6520')">1:48:40 uh quran being recited the way that i</a>
@@ -3361,7 +3361,7 @@ Professor Al-Massari discusses the theory of evolution from an Islamic perspecti
 <a onclick="modifyYTiframeseektime('7430')">2:03:50 that like i don't believe it's</a>
 <a onclick="modifyYTiframeseektime('7432')">2:03:52 abrogated the recitation only i believe</a>
 <a onclick="modifyYTiframeseektime('7434')">2:03:54 it's both</a>
-<a onclick="modifyYTiframeseektime('7438')">2:03:58 [Music]</a>
+<a onclick="modifyYTiframeseektime('7438')">2:03:58 </a>
 <a onclick="modifyYTiframeseektime('7448')">2:04:08 in that case we don't have the opposite</a>
 <a onclick="modifyYTiframeseektime('7450')">2:04:10 actually</a>
 <a onclick="modifyYTiframeseektime('7452')">2:04:12 but it has to come as an ayah in the</a>
@@ -3971,7 +3971,7 @@ Professor Al-Massari discusses the theory of evolution from an Islamic perspecti
 <a onclick="modifyYTiframeseektime('8857')">2:27:37 some of these guys from</a>
 <a onclick="modifyYTiframeseektime('8859')">2:27:39 and so on they're almost worshipping him</a>
 <a onclick="modifyYTiframeseektime('8861')">2:27:41 regarding him as almost the messiah</a>
-<a onclick="modifyYTiframeseektime('8864')">2:27:44 [Music]</a>
+<a onclick="modifyYTiframeseektime('8864')">2:27:44 </a>
 <a onclick="modifyYTiframeseektime('8865')">2:27:45 they will be like that</a>
 <a onclick="modifyYTiframeseektime('8867')">2:27:47 they thought what is the name of saint</a>
 <a onclick="modifyYTiframeseektime('8868')">2:27:48 john</a>
@@ -4498,10 +4498,10 @@ Professor Al-Massari discusses the theory of evolution from an Islamic perspecti
 <a onclick="modifyYTiframeseektime('10062')">2:47:42 jesus and what can be said about him</a>
 <a onclick="modifyYTiframeseektime('10065')">2:47:45 probably</a>
 <a onclick="modifyYTiframeseektime('10075')">2:47:55 foreign</a>
-<a onclick="modifyYTiframeseektime('10078')">2:47:58 [Music]</a>
+<a onclick="modifyYTiframeseektime('10078')">2:47:58 </a>
 <a onclick="modifyYTiframeseektime('10116')">2:48:36 my</a>
-<a onclick="modifyYTiframeseektime('10117')">2:48:37 [Music]</a>
+<a onclick="modifyYTiframeseektime('10117')">2:48:37 </a>
 <a onclick="modifyYTiframeseektime('10125')">2:48:45 so</a>
-<a onclick="modifyYTiframeseektime('10137')">2:48:57 [Music]</a>
+<a onclick="modifyYTiframeseektime('10137')">2:48:57 </a>
 <a onclick="modifyYTiframeseektime('10147')">2:49:07 you</a>
 </details>
