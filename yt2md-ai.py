@@ -283,9 +283,9 @@ def main(channel_ids=channel_ids_input):
                 smarkdown = re.sub(r'.*config\', \'G-.*','', smarkdown)
                 smarkdown = re.sub(r'.*dataLayer.*','', smarkdown)
                 smarkdown = re.sub(r'.==.*','', smarkdown)
-                smarkdown = re.sub(r' \[(.*)\]$','\1', smarkdown)
-                smarkdown = re.sub(r"\[([^]]*)\]\(https.*t=([0-9]*)\)\s*-\s*\[([^]]*)\]\(https.*t=([0-9]*)\)", r'<a onclick="modifyYTiframeseektime(\2)">\1</a> - <a onclick="modifyYTiframeseektime(\4)">\3</a>'', smarkdown)
-                smarkdown = re.sub(r"\[(.*)\]\(https.*t=([0-9]*)\)", r'<a onclick="modifyYTiframeseektime(\2)">\1</a>', smarkdown)
+                smarkdown = re.sub(r"\[([^]]*)\]\(https.*t=([0-9]*)\)\s*-\s*\[([^]]*)\]\(https.*t=([0-9]*)\)", r'<a onclick="modifyYTiframeseektime(\2)">\1</a> - <a onclick="modifyYTiframeseektime(\4)">\3</a>\n', smarkdown)
+                smarkdown = re.sub(r"\[(.*)\]\(https.*t=([0-9]*)\)", r'<a onclick="modifyYTiframeseektime(\2)">\1</a>\n', smarkdown)
+                smarkdown = re.sub(r' \[(.*)\]<','\1', smarkdown)
                 smarkdown = re.sub(r'This is an AI generated summary. There may be inaccuracies', '\n\n<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>', smarkdown)
                 if not "AI generated" in smarkdown:
                     logging.warn("SKIPPING: no summary markdown generated")

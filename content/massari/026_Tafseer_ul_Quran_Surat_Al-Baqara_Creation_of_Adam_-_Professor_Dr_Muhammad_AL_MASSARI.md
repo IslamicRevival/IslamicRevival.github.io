@@ -2274,7 +2274,5 @@ Being on earth is not a sin
 <a onclick="modifyYTiframeseektime('5309)')">1:28:29 the video maybe maybe uh it's just gonna<\a>
 <a onclick="modifyYTiframeseektime('5313)')">1:28:33 give you a lot away give everyone copy<\a>
 <a onclick="modifyYTiframeseektime('5314)')">1:28:34 of it so you can listen to it again<\a>
-<a onclick="modifyYTiframeseektime('5323)')">1:28:43
 <a onclick="modifyYTiframeseektime('5333)')">1:28:53 thank you<\a>
-<a onclick="modifyYTiframeseektime('5335)')">1:28:55
 </details>
