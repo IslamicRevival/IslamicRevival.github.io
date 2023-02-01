@@ -6,7 +6,7 @@
 
 Discussion on the recent outbreak of COVID-19 misconceptions, conspiracies, how to navigate/debunk conspiracy theories, how to construct correct political analysis.
 
-## Summary of [Debunking COVID-19 Conspiracy Theories and Constructing Political Analysis](https://www.youtube.com/watch?v=RjKs1YVLcug)
+## Summary of\1(https://www.youtube.com/watch?v=RjKs1YVLcug)
 
 *<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>. *
 

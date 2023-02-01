@@ -78,7 +78,7 @@ def gen_markdown_page(video_id: str, title: str, description: str, smarkdown: st
         markdown += f'<a onclick="modifyYTiframeseektime('
         markdown += f"'{int(c['start'])})')"
         markdown += '">{datetime.timedelta(seconds=int(c['
-        markdown += "'start']))} {c['text']}<\/a>\n"
+        markdown += "'start']))} {c['text']}</a>\n"
     markdown += "</details>"
     return markdown          
 
