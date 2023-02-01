@@ -13,7 +13,7 @@ from youtube_transcript_api import YouTubeTranscriptApi
 
 import requests
 
-API_KEY = os.getenv('API_KEY2') ## codespaces secrets 1-12
+API_KEY = os.getenv('API_KEY3') ## codespaces secrets 1-12
 channel_ids_input = ["UC0uyPbeJ56twBLoHUbwFKnA", "UC57cqHgR_IZEs3gx0nxyZ-g", 'UCo5TlU2TZWVDsAlGI94QCoA', "UCeZBhrU8xHcik0ZgtDwjsdA", "UCHDFNoOk8WOXtHo8DIc8efQ", "UC_SLXSHcCwK2RSZTXVL26SA"]  ## thought_adv, sapience, hijab, bloggingtheology, docs, doc
 
 logging.basicConfig(level=15, format='[%(asctime)s] %(levelname)s: %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
@@ -104,6 +104,9 @@ def string_to_filename(filename: str, raw: bool = False):
     for x in [["?", "¿"]] + [[x, "_"] for x in illegal_characters_in_file_names.replace("?", "")]:
         filename = filename.replace(x[0], x[1])
         filename = filename.encode('ascii', errors='ignore').decode() # remove non-english
+
+    filename = filename.replace("___", "_")
+    filename = filename.replace("__", "_")
     return filename
 
 def yt_time(duration="P1W2DT6H21M32S"):
