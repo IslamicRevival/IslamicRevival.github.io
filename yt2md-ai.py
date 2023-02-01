@@ -14,7 +14,7 @@ from datetime import datetime, timedelta
 
 import requests
 
-API_KEY = os.getenv('API_KEY4') ## codespaces secrets 1-12
+API_KEY = os.getenv('API_KEY7') ## codespaces secrets 1-12
 channel_ids_input = ["UC0uyPbeJ56twBLoHUbwFKnA", "UC57cqHgR_IZEs3gx0nxyZ-g", 'UCo5TlU2TZWVDsAlGI94QCoA', "UCeZBhrU8xHcik0ZgtDwjsdA", "UCHDFNoOk8WOXtHo8DIc8efQ", "UC_SLXSHcCwK2RSZTXVL26SA"]  ## thought_adv, sapience, hijab, bloggingtheology, docs, doc
 
 logging.basicConfig(level=15, format='[%(asctime)s] %(levelname)s: %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
@@ -170,7 +170,7 @@ def main(channel_ids=channel_ids_input):
                         videos_ids.append(res.id.videoId)
                         #print(res.id.videoId)
                 next_page_token = response.nextPageToken
-                d = datetime.today() - timedelta(days=10)
+                d = datetime.today() - timedelta(days=7)
                 daysago = ( str(d.isoformat()) + "Z")
                 response = api.search(
                     channel_id=channel_id,
