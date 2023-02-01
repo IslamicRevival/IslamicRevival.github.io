@@ -75,7 +75,10 @@ def gen_markdown_page(video_id: str, title: str, description: str, smarkdown: st
     markdown += "<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>\n\n"
     for c in captions:
         #markdown += f"[{datetime.timedelta(seconds=int(c['start']))}](https://youtu.be/{video_id}?t={int(c['start'])}) {c['text']}  \n"
-        markdown += f"<a onclick=\\"modifyYTiframeseektime('{int(c['start'])})')\\">{datetime.timedelta(seconds=int(c['start']))} {c['text']}<\/a>\n"
+        markdown += f'<a onclick="modifyYTiframeseektime('
+        markdown += f"'{int(c['start'])})')"
+        markdown += '">{datetime.timedelta(seconds=int(c['
+        markdown += "'start']))} {c['text']}<\/a>\n"
     markdown += "</details>"
     return markdown          
 
@@ -93,7 +96,7 @@ def string_to_filename(filename: str, raw: bool = False):
     Returns:
         str: The modified file name.
     """
-    illegal_characters_in_file_names = r'"/\*?<>|:\' \#.~!@_()'
+    illegal_characters_in_file_names = r'"/\*?<>|:\' \#.~!'
 
     if raw:
         return ''.join(c for c in filename if c not in illegal_characters_in_file_names)
@@ -261,7 +264,7 @@ def main(channel_ids=channel_ids_input):
 
                 smarkdown = md(mdresponse, strip=['title', 'head', 'gtag', 'props', 'could not summarize', '<could not summarize>', 'js', 'config'])
                 # list of AI NLP words to remove
-                words_to_remove = ['-----|', 'head', 'gtag', 'props', 'could not summarize', '<could not summarize>', 'In this video,', 'in this video,',
+                words_to_remove = ['title', 'head', 'gtag', 'props', 'could not summarize', '<could not summarize>', 'In this video,', 'in this video,',
                                     'In this YouTube video','The video', 'This video', 'According to this video,', 'This short video', 'This YouTube video is titled', 'The YouTube video', 'In this video,', ' In this short video,',
                                     'The speaker in the video ', 'The speaker ', 'This YouTube video ', 'In the video, ', 'In the YouTube video ', 'The author ', 'The main points of this video are that ', 'The narrator of this video ',
                                     ' The video ', ' In this YouTube video, ', 'In this video, ', 'summarize.tech ', 'Summarize another video']
@@ -271,7 +274,7 @@ def main(channel_ids=channel_ids_input):
                     smarkdown = smarkdown.replace(word, "")
 
                 smarkdown = re.sub(r'\* of this video ', ' ', smarkdown)
-                smarkdown = re.sub(r'\*\s+discuss ', ' Discuss ', smarkdown)
+                smarkdown = re.sub(r'\*\s+discusses ', ' Discusses ', smarkdown)
                 smarkdown = re.sub(r'\{\"props.*\"', '', smarkdown)
                 smarkdown = re.sub(r'See more\* ','', smarkdown)
                 smarkdown = re.sub(r'summary for:.*summarize.tech.*Summary','## Summary', smarkdown)
