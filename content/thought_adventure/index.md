@@ -31,3 +31,4 @@
 30. [# Pascal's Wager | Thought Adventure Podcast #18 (2021-10-24)](Pascal_s_Wager_Thought_Adventure_Podcast_18.md)
 31. [# Pinecreek's Argument from Ickiness | Podcast Highlight (2021-08-29)](Pinecreek_s_Argument_from_Ickiness_Podcast_Highlight.md)
 32. [# Problem of Evil | The Evidence Course | Session 3 / Part 5 (2021-09-08)](Problem_of_Evil_The_Evidence_Course_Session_3_Part_5.md)
+33. [# What caused the Big Bang? | The Evidence Course | Session 3 / Part 2 (2021-08-19)](What_caused_the_Big_Bang_The_Evidence_Course_Session_3_Part_2.md)
