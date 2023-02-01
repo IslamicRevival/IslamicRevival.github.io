@@ -104,6 +104,9 @@ def string_to_filename(filename: str, raw: bool = False):
     for x in [["?", "¿"]] + [[x, "_"] for x in illegal_characters_in_file_names.replace("?", "")]:
         filename = filename.replace(x[0], x[1])
         filename = filename.encode('ascii', errors='ignore').decode() # remove non-english
+    for x in [["__", "!"]] + [[x, ""] for x in illegal_characters_in_file_names.replace("?", "")]:
+        filename = filename.replace(x[0], x[1])
+        filename = filename.encode('ascii', errors='ignore').decode() # remove non-english
     return filename
 
 def yt_time(duration="P1W2DT6H21M32S"):
