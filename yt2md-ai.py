@@ -14,7 +14,7 @@ from youtube_transcript_api import YouTubeTranscriptApi
 import requests
 
 API_KEY = os.getenv('API_KEY2') ## codespaces secrets 1-12
-channel_ids_input = ['UCo5TlU2TZWVDsAlGI94QCoA', "UCeZBhrU8xHcik0ZgtDwjsdA", "UCHDFNoOk8WOXtHo8DIc8efQ", "UC_SLXSHcCwK2RSZTXVL26SA", "UC0uyPbeJ56twBLoHUbwFKnA", "UC57cqHgR_IZEs3gx0nxyZ-g"]  ## thought_adv, sapience, hijab, bloggingtheology, docs, doc
+channel_ids_input = ["UC0uyPbeJ56twBLoHUbwFKnA", "UC57cqHgR_IZEs3gx0nxyZ-g", 'UCo5TlU2TZWVDsAlGI94QCoA', "UCeZBhrU8xHcik0ZgtDwjsdA", "UCHDFNoOk8WOXtHo8DIc8efQ", "UC_SLXSHcCwK2RSZTXVL26SA"]  ## thought_adv, sapience, hijab, bloggingtheology, docs, doc
 
 logging.basicConfig(level=15, format='[%(asctime)s] %(levelname)s: %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
 logger = logging.getLogger()
@@ -75,7 +75,7 @@ def gen_markdown_page(video_id: str, title: str, description: str, smarkdown: st
     markdown += "<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>\n\n"
     for c in captions:
         #markdown += f"[{datetime.timedelta(seconds=int(c['start']))}](https://youtu.be/{video_id}?t={int(c['start'])}) {c['text']}  \n"
-        markdown += f"<a onclick=\"modifyYTiframeseektime('{int(c['start'])})')\">{datetime.timedelta(seconds=int(c['start']))} {c['text']}<\/a>\n"
+        markdown += f"<a onclick=\\"modifyYTiframeseektime('{int(c['start'])})')\\">{datetime.timedelta(seconds=int(c['start']))} {c['text']}<\/a>\n"
     markdown += "</details>"
     return markdown          
 
