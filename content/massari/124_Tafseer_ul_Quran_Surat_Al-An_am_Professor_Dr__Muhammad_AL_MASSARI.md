@@ -59,7 +59,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
 <a onclick="modifyYTiframeseektime('8)')">0:00:08 foreign<\a>
-<a onclick="modifyYTiframeseektime('11)')">0:00:11\1<\a>
+<a onclick="modifyYTiframeseektime('11)')">0:00:11<\a><\a>
 <a onclick="modifyYTiframeseektime('63)')">0:01:03 these episodes are broadcast live on the<\a>
 <a onclick="modifyYTiframeseektime('65)')">0:01:05 study Circles of Professor Dr Muhammad<\a>
 <a onclick="modifyYTiframeseektime('67)')">0:01:07 almasa YouTube channel every Sunday at<\a>
@@ -1937,7 +1937,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <a onclick="modifyYTiframeseektime('4543)')">1:15:43 they can be used for location uh fixing<\a>
 <a onclick="modifyYTiframeseektime('4546)')">1:15:46 Etc<\a>
 <a onclick="modifyYTiframeseektime('4547)')">1:15:47 um<\a>
-<a onclick="modifyYTiframeseektime('4549)')">1:15:49\1<\a>
+<a onclick="modifyYTiframeseektime('4549)')">1:15:49<\a><\a>
 <a onclick="modifyYTiframeseektime('4551)')">1:15:51 foreign<\a>
 <a onclick="modifyYTiframeseektime('4560)')">1:16:00 so that you might be guided by them in<\a>
 <a onclick="modifyYTiframeseektime('4562)')">1:16:02 the midst of the deep darkness of land<\a>
@@ -2252,7 +2252,7 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <a onclick="modifyYTiframeseektime('5386)')">1:29:46 say it is yeah<\a>
 <a onclick="modifyYTiframeseektime('5388)')">1:29:48 is um<\a>
 <a onclick="modifyYTiframeseektime('5392)')">1:29:52 mustakar<\a>
-<a onclick="modifyYTiframeseektime('5396)')">1:29:56\1<\a>
+<a onclick="modifyYTiframeseektime('5396)')">1:29:56<\a><\a>
 <a onclick="modifyYTiframeseektime('5405)')">1:30:05 oh yes it said which will be says asked<\a>
 <a onclick="modifyYTiframeseektime('5409)')">1:30:09 me did you marry I said didn't marry yet<\a>
 <a onclick="modifyYTiframeseektime('5411)')">1:30:11 they say<\a>
@@ -3036,8 +3036,8 @@ Study Circles of Professor Dr. Muhammad AL-MASSARI
 <a onclick="modifyYTiframeseektime('7350)')">2:02:30 foreign<\a>
 <a onclick="modifyYTiframeseektime('7358)')">2:02:38 [Music]<\a>
 <a onclick="modifyYTiframeseektime('7364)')">2:02:44 [Music]<\a>
-<a onclick="modifyYTiframeseektime('7373)')">2:02:53\1<\a>
+<a onclick="modifyYTiframeseektime('7373)')">2:02:53<\a><\a>
 <a onclick="modifyYTiframeseektime('7381)')">2:03:01 [Music]<\a>
 <a onclick="modifyYTiframeseektime('7388)')">2:03:08 foreign<\a>
-<a onclick="modifyYTiframeseektime('7393)')">2:03:13\1<\a>
+<a onclick="modifyYTiframeseektime('7393)')">2:03:13<\a><\a>
 </details>

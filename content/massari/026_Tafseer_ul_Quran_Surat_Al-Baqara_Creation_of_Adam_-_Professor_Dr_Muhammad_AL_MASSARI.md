@@ -1,6 +1,8 @@
 # 026 Tafseer ul Quran Surat Al-Baqara Creation of Adam - Professor Dr Muhammad AL MASSARI (2023-01-16)
 
-<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/cnCtYozEThY'></iframe>## Description
+<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/cnCtYozEThY'></iframe>
+
+## Description
 
 Seminars and lessons of Sheikh Dr. Muhammad bin Abdullah Al-Masari Study Circles of Professor Dr. AL-MASSARI 
 
@@ -56,9 +58,9 @@ Being on earth is not a sin
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0)')">0:00:00\1
+<a onclick="modifyYTiframeseektime('0)')">0:00:00 <\a>
 <a onclick="modifyYTiframeseektime('1)')">0:00:01 foreign<\a>
-<a onclick="modifyYTiframeseektime('6)')">0:00:06
+<a onclick="modifyYTiframeseektime('6)')">0:00:06 <\a>
 <a onclick="modifyYTiframeseektime('26)')">0:00:26 first of all it is neither in Genesis by<\a>
 <a onclick="modifyYTiframeseektime('29)')">0:00:29 the way to be fair nor in the Quran<\a>
 <a onclick="modifyYTiframeseektime('31)')">0:00:31 there is anything compelling that Adam<\a>
@@ -1386,7 +1388,7 @@ Being on earth is not a sin
 <a onclick="modifyYTiframeseektime('3191)')">0:53:11 done when we shave it took it is<\a>
 <a onclick="modifyYTiframeseektime('3195)')">0:53:15 just a whisper in the mind<\a>
 <a onclick="modifyYTiframeseektime('3197)')">0:53:17 the subconscious not available<\a>
-<a onclick="modifyYTiframeseektime('3206)')">0:53:26\1
+<a onclick="modifyYTiframeseektime('3206)')">0:53:26<\a>
 <a onclick="modifyYTiframeseektime('3212)')">0:53:32 and ignoring the fact that that the<\a>
 <a onclick="modifyYTiframeseektime('3216)')">0:53:36 ultimate meaning of existence is the<\a>
 <a onclick="modifyYTiframeseektime('3218)')">0:53:38 acknowledging Allah's ultimate<\a>

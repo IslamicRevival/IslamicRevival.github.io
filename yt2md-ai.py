@@ -67,7 +67,7 @@ def gen_markdown_page(video_id: str, title: str, description: str, smarkdown: st
 
     markdown += f"# {title} ({date})\n\n"
     markdown += f"<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/{video_id}'></iframe>"
-    markdown += "## Description\n\n"
+    markdown += "\n\n## Description\n\n"
     markdown += description.strip()
     markdown += "\n\n"
     markdown += smarkdown.strip()
@@ -76,9 +76,9 @@ def gen_markdown_page(video_id: str, title: str, description: str, smarkdown: st
     for c in captions:
         #markdown += f"[{datetime.timedelta(seconds=int(c['start']))}](https://youtu.be/{video_id}?t={int(c['start'])}) {c['text']}  \n"
         markdown += f'<a onclick="modifyYTiframeseektime('
-        markdown += f"'{int(c['start'])})')"
-        markdown += '">{datetime.timedelta(seconds=int(c['
-        markdown += "'start']))} {c['text']}</a>\n"
+        markdown += f"'{int(c['start'])}')"
+        markdown += f'">'
+        markdown += f"{datetime.timedelta(seconds=int(c['start']))} {c['text']}</a>\n"
     markdown += "</details>"
     return markdown          
 
@@ -283,8 +283,9 @@ def main(channel_ids=channel_ids_input):
                 smarkdown = re.sub(r'.*config\', \'G-.*','', smarkdown)
                 smarkdown = re.sub(r'.*dataLayer.*','', smarkdown)
                 smarkdown = re.sub(r'.==.*','', smarkdown)
-                smarkdown = re.sub(r"\[([^]]*)\]\(https.*t=([0-9]*)\)\s*-\s*\[([^]]*)\]\(https.*t=([0-9]*)\)", r"<a onclick=\"modifyYTiframeseektime('\2')\">\1</a> - <a onclick=\"modifyYTiframeseektime('\4')\">\3</a>", smarkdown)
-                smarkdown = re.sub(r"\[(.*)\]\(https.*t=([0-9]*)\)", r"<a onclick=\"modifyYTiframeseektime('\2')\">\1</a>", smarkdown)
+                smarkdown = re.sub(r' \[(.*)\]$','\1', smarkdown)
+                smarkdown = re.sub(r"\[([^]]*)\]\(https.*t=([0-9]*)\)\s*-\s*\[([^]]*)\]\(https.*t=([0-9]*)\)", r'<a onclick="modifyYTiframeseektime(\2)">\1</a> - <a onclick="modifyYTiframeseektime(\4)">\3</a>'', smarkdown)
+                smarkdown = re.sub(r"\[(.*)\]\(https.*t=([0-9]*)\)", r'<a onclick="modifyYTiframeseektime(\2)">\1</a>', smarkdown)
                 smarkdown = re.sub(r'This is an AI generated summary. There may be inaccuracies', '\n\n<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>', smarkdown)
                 if not "AI generated" in smarkdown:
                     logging.warn("SKIPPING: no summary markdown generated")

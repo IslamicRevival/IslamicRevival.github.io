@@ -92,7 +92,7 @@ Sahih Bukhari did not rely on just one transmittor (Farabri), it was actually di
 
 <details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>
 
-<a onclick="modifyYTiframeseektime('0)')">0:00:00\1</a>
+<a onclick="modifyYTiframeseektime('0)')">0:00:00<\a></a>
 <a onclick="modifyYTiframeseektime('1)')">0:00:01 foreign</a>
 <a onclick="modifyYTiframeseektime('6)')">0:00:06
 <a onclick="modifyYTiframeseektime('17)')">0:00:17 okay so we finished last week on</a>
@@ -428,7 +428,7 @@ Sahih Bukhari did not rely on just one transmittor (Farabri), it was actually di
 <a onclick="modifyYTiframeseektime('894)')">0:14:54 or is it a separate several tribulation</a>
 <a onclick="modifyYTiframeseektime('897)')">0:14:57 like in the case of Assam called the</a>
 <a onclick="modifyYTiframeseektime('899)')">0:14:59 Heckman the Sunnah</a>
-<a onclick="modifyYTiframeseektime('903)')">0:15:03\1</a>
+<a onclick="modifyYTiframeseektime('903)')">0:15:03<\a></a>
 <a onclick="modifyYTiframeseektime('913)')">0:15:13 a practical steps of management of the</a>
 <a onclick="modifyYTiframeseektime('915)')">0:15:15 nation</a>
 <a onclick="modifyYTiframeseektime('916)')">0:15:16 Etc so that's maybe the foreign</a>
@@ -1810,7 +1810,7 @@ Sahih Bukhari did not rely on just one transmittor (Farabri), it was actually di
 <a onclick="modifyYTiframeseektime('4490)')">1:14:50 not from this category and they don't</a>
 <a onclick="modifyYTiframeseektime('4492)')">1:14:52 belong to this class</a>
 <a onclick="modifyYTiframeseektime('4495)')">1:14:55 let us see what you want if there's uh</a>
-<a onclick="modifyYTiframeseektime('4498)')">1:14:58\1</a>
+<a onclick="modifyYTiframeseektime('4498)')">1:14:58<\a></a>
 <a onclick="modifyYTiframeseektime('4520)')">1:15:20 of God yeah and on the translation when</a>
 <a onclick="modifyYTiframeseektime('4523)')">1:15:23 we made a covenant with you and raised</a>
 <a onclick="modifyYTiframeseektime('4525)')">1:15:25 the mountain over you we said hold fast</a>
@@ -2779,5 +2779,5 @@ Sahih Bukhari did not rely on just one transmittor (Farabri), it was actually di
 <a onclick="modifyYTiframeseektime('6960)')">1:56:00 the Quran is enough</a>
 <a onclick="modifyYTiframeseektime('6963)')">1:56:03 so</a>
 <a onclick="modifyYTiframeseektime('6969)')">1:56:09 that sounds fun</a>
-<a onclick="modifyYTiframeseektime('6980)')">1:56:20\1</a>
+<a onclick="modifyYTiframeseektime('6980)')">1:56:20<\a></a>
 </details>
