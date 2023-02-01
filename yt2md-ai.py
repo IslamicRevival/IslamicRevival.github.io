@@ -96,7 +96,7 @@ def string_to_filename(filename: str, raw: bool = False):
     Returns:
         str: The modified file name.
     """
-    illegal_characters_in_file_names = r'"/\*?<>|:\' \#.~!'
+    illegal_characters_in_file_names = r'"/\*?<>|:_\' \#.~!'
 
     if raw:
         return ''.join(c for c in filename if c not in illegal_characters_in_file_names)
@@ -268,7 +268,7 @@ def main(channel_ids=channel_ids_input):
                 words_to_remove = ['title', 'head', 'gtag', 'props', 'could not summarize', '<could not summarize>', 'In this video,', 'in this video,',
                                     'In this YouTube video','The video', 'This video', 'According to this video,', 'This short video', 'This YouTube video is titled', 'The YouTube video', 'In this video,', ' In this short video,',
                                     'The speaker in the video ', 'The speaker ', 'This YouTube video ', 'In the video, ', 'In the YouTube video ', 'The author ', 'The main points of this video are that ', 'The narrator of this video ',
-                                    ' The video ', ' In this YouTube video, ', 'In this video, ', 'summarize.tech ', 'Summarize another video']
+                                    ' The video ', ' In this YouTube video, ', 'In this video, ', 'summarize.tech ', 'Summarize another video', '[Music]']
 
                 # remove each word from the string
                 for word in words_to_remove:
@@ -286,7 +286,7 @@ def main(channel_ids=channel_ids_input):
                 smarkdown = re.sub(r'.==.*','', smarkdown)
                 smarkdown = re.sub(r"\[([^]]*)\]\(https.*t=([0-9]*)\)\s*-\s*\[([^]]*)\]\(https.*t=([0-9]*)\)", r'<a onclick="modifyYTiframeseektime(\2)">\1</a> - <a onclick="modifyYTiframeseektime(\4)">\3</a>\n', smarkdown)
                 smarkdown = re.sub(r"\[(.*)\]\(https.*t=([0-9]*)\)", r'<a onclick="modifyYTiframeseektime(\2)">\1</a>\n', smarkdown)
-                smarkdown = re.sub(r' \[(.*)\]<','\1', smarkdown)
+                smarkdown = re.sub(r'\[(.*)\]<','\1', smarkdown)
                 smarkdown = re.sub(r'This is an AI generated summary. There may be inaccuracies', '\n\n<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>', smarkdown)
                 if not "AI generated" in smarkdown:
                     logging.warn("SKIPPING: no summary markdown generated")
