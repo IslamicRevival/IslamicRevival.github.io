@@ -1,0 +1,26 @@
+{
+  "hash": "21652e7c",
+  "browserHash": "6ceed8e0",
+  "optimized": {
+    "vue": {
+      "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "bf79d14d",
+      "needsInterop": false
+    },
+    "@giscus/vue": {
+      "src": "../../../../node_modules/@giscus/vue/dist/index.mjs",
+      "file": "@giscus_vue.js",
+      "fileHash": "13fc2692",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-6S52NMOK": {
+      "file": "chunk-6S52NMOK.js"
+    },
+    "giscus-6abec598-X3RTHH7F": {
+      "file": "giscus-6abec598-X3RTHH7F.js"
+    }
+  }
+}
