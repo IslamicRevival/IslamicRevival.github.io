@@ -27,10 +27,10 @@ pipeline:
             steps:
               - step:
                   type: Run
-                  name: Run_1
+                  name: detect package manager
                   identifier: Run_1
                   spec:
-                    shell: Sh
+                    shell: Bash
                     command: |
                       if [ -f "${{ github.workspace }}/yarn.lock" ]; then
                           echo "manager=yarn" >> $GITHUB_OUTPUT
