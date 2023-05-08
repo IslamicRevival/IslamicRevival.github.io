@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "cross-env NODE_ENV=development vitepress dev content --host --port 4000",
-    "build": "cross-env NODE_ENV=production  NODE_OPTIONS=--max_old_space_size=65536 vitepress build content --debug",
+    "build": "cross-env NODE_ENV=production  NODE_OPTIONS=--max_old_space_size=32768 vitepress build content --debug",
     "serve": "cross-env NODE_ENV=production vitepress serve content"
   },
   "author": "SirVival",
