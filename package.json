@@ -26,6 +26,7 @@
     "node": "^19.4.0",
     "sitemap": "^7.1.1",
     "tslib": "^2.4.1",
+    "vitepress-plugin-auto-sidebar": "^1.0.6",
     "vitepress-plugin-search": "^1.0.4-alpha.16"
   }
 }

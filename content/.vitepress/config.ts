@@ -1,6 +1,9 @@
 import 'dotenv/config'
 import { defineConfig} from 'vitepress'
-import { getSideBar }  from  './theme/vitepress-plugin-autobar/'
+//import { getSideBar }  from  './theme/vitepress-plugin-autobar/'
+import { getSidebar } from 'vitepress-plugin-auto-sidebar'
+
+
 
 import { SitemapStream } from 'sitemap'
 import { createWriteStream } from 'node:fs'
@@ -105,16 +108,24 @@ export default defineConfig({
   text: 'Fiqh & Tafseer',link: '/massari/' 
 },
 {
-  text: 'Mohd. Hijab', link: '/hijab/' 
+  text: 'Mohd. Hijab', link: '/hijab/'
  },
  {
   text: 'Sapience', link: '/sapience/'
  },
  { text: 'Thgt Advtr.', link: '/thought_adventure/' },
     ],
-    sidebar:  getSideBar( "./content", {
-      ignoreMDFiles: ['index'],
-      ignoreDirectory: ['node_modules'],
-    }),
+    // sidebar:  getSideBar( "./content", {
+    //     ignoreMDFiles: ['index'],
+    //     ignoreDirectory: ['node_modules'],
+    // }),
+
+    sidebar: getSidebar({ contentRoot: '/content', contentDirs: ["articles",
+    "blogging_theology",
+    "hijab",
+    "massari",
+    "sapience",
+    "thought_adventure"], collapsible: true, collapsed: true })
   }
 })
+
