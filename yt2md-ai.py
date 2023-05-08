@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# pip install python-youtube markdownify youtube-transcript-api
+
 import logging
 import os
 import time
@@ -192,7 +194,7 @@ def main(channel_ids=channel_ids_input):
                 video_metadata = api.get_video_by_id(video_id=video_id).items[0]
 
                 # only return videos published in the last 7 days
-                if video_metadata.snippet.published > d:
+                if video_metadata.snippet.published_after > d:
                     logging.info(f"SKIPPING: older video: {duration} {title}")
                     continue
                 if yt_time(duration) < length:
