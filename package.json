@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "cross-env NODE_ENV=development vitepress dev content --host --port 4000",
-    "build": "cross-env NODE_ENV=production  NODE_OPTIONS=--max_old_space_size=32768 vitepress build content --debug",
+    "build": "cross-env NODE_ENV=production NODE_OPTIONS=--max_old_space_size=65536 vitepress build content --debug",
     "serve": "cross-env NODE_ENV=production vitepress serve content"
   },
   "author": "SirVival",
@@ -14,7 +14,7 @@
     "@tailwindcss/forms": "^0.5.2",
     "cross-env": "^7.0.3",
     "dotenv": "^16.0.1",
-    "vitepress": "^1.0.0-alpha.29",
+    "vitepress": "^1.0.0-alpha.70",
     "vue": "^3.2.37"
   },
   "dependencies": {
