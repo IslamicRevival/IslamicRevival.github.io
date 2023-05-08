@@ -8,5 +8,5 @@ var options = {
   };
 
 export default defineConfig({
-    plugins: [SearchPlugin(options)],
+    plugins: [SearchPlugin(options)]
 });

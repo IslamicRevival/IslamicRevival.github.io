@@ -1,17 +1,17 @@
 {
-  "hash": "3584047e",
-  "browserHash": "02134405",
+  "hash": "46d0e20d",
+  "browserHash": "cc2562cf",
   "optimized": {
     "vue": {
       "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "4b20377b",
+      "fileHash": "89a24c92",
       "needsInterop": false
     },
     "@giscus/vue": {
       "src": "../../../../node_modules/@giscus/vue/dist/index.mjs",
       "file": "@giscus_vue.js",
-      "fileHash": "236d62be",
+      "fileHash": "44857d71",
       "needsInterop": false
     }
   },

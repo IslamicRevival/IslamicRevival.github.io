@@ -1,6 +1,7 @@
----
-title: misunderstanding ibada
----
+***
+
+## title: misunderstanding ibada
+
 # The Problem with the Salafi/Najdi understanding of ibada (worship)
 
 The biggest issue with Salafi or Najdi Da’wa is that they have misunderstood part of Ibada (worship). This misunderstanding is the main reason for takfir against millions of fellow Muslims, and it has caused many deaths and killings.
@@ -9,8 +10,8 @@ Followers of Najdi Da’wa believe that Ibada is any legislated (valid) act that
 
 On the surface, this definition seems fine. However, there is a major issue with it. According to followers of Najdi Da’wa, these acts, by themselves and in isolation, are Ibadat (acts of worship), regardless of who they are performed towards. Therefore, if someone performs these acts of Ibada towards anyone other than Allah, then, according to Najdi Da’wa, that act is shirk and the person doing it is likely a Mushrik.
 
-
 ## A grave mistake
+
 For example, if someone asks followers of Najdi Da’wa:
 
 > “If I do Sajda to my mother or father or son or even to a grave, is that an act of shirk?”
@@ -19,36 +20,35 @@ Based on their understanding of Ibada, their answer would be “Yes, it is an ac
 
 According to them, it is an act of shirk because:
 
-- Sajda is a legislated act of Ibada (worship).
-- Ibada is reserved only for Allah.
-- Since they performed Sajda to someone other than Allah, it is therefore an act of shirk and they likely became a Mushrik due to this act.
-
-
+*   Sajda is a legislated act of Ibada (worship).
+*   Ibada is reserved only for Allah.
+*   Since they performed Sajda to someone other than Allah, it is therefore an act of shirk and they likely became a Mushrik due to this act.
 
 ## Shirk'ing responsibility
 
 There are several problems with this understanding of Ibada and shirk. For example:
 
-- Did Yaqub Alaisalaam and his family commit shirk when they performed Sajda to Yusuf Alaihi assalaam?
-- Did Allah azawajal order shirk when he commanded the angels and Iblees to do Sajda to Adam Alaihi assalaam?
+*   Did Yaqub Alaisalaam and his family commit shirk when they performed Sajda to Yusuf Alaihi assalaam?
+*   Did Allah azawajal order shirk when he commanded the angels and Iblees to do Sajda to Adam Alaihi assalaam?
 
 Followers of Najdi Da’wa often respond to these questions with:
 
-- The Sharia of Yaqub Alaihi assalaam allowed Sajda to someone other than Allah.
-- It was a Sajda of Respect and not a Sajda of Ibada.
-- It was Allah azawajal who ordered the Sajda, so it is okay.
-- We do not answer or talk to Ahl-ul-Bid’a.
+*   The Sharia of Yaqub Alaihi assalaam allowed Sajda to someone other than Allah.
+*   It was a Sajda of Respect and not a Sajda of Ibada.
+*   It was Allah azawajal who ordered the Sajda, so it is okay.
+*   We do not answer or talk to Ahl-ul-Bid’a.
 
 However, these responses do not address the fundamental problem with their understanding of Ibada and shirk. For example:
 
 > If the sharia of previous prophets allowed sajda to someone other than Allah, then that would make the act of Sajda to be part of ahkaam (sharia) and not part of aqeeda. In that case, Sajda would be a sin in the Sharia of Rasulullah alaisalaam, but it would not be shirk.
 
 ## Previous Prophets' deen
+
 The Deen/Aqeeda of all prophets is the same. Rasulullah said:
 
->    نحن معشر الأنبياء … ديننا واحد
+> نحن معشر الأنبياء … ديننا واحد
 
->We are the prophets, … our Deen/Religion/Aqeeda is one.
+> We are the prophets, … our Deen/Religion/Aqeeda is one.
 
 Therefore, it is not possible for something to be shirk in our sharia and be allowed in previous sharia or vice versa.
 
@@ -64,13 +64,9 @@ Allah azawajal will never order fahsha and munkar & will never order shirk.
 
 Sometimes they answer:
 
->    The Salaf didn’t answer difficult questions
+> The Salaf didn’t answer difficult questions
 
 It is strange that they don’t know the answer to an Aqeeda matter in which they claim to have expertise in, which made them reach the zenith of being “Saved” & “Sorted”.
-
-
-
-
 
 ## Sold to the higest bid'a?
 
@@ -82,11 +78,9 @@ The only way out of this chicken and egg situation is for the followers of Najdi
 
 Some do not admit this misunderstanding and instead bury their head in the sand and say:
 
-- We do not reply to the questions of Ahlul-Bid’a
-- The Salaf did not answer all questions
-- When the Salaf were asked questions they did this and that
-
-
+*   We do not reply to the questions of Ahlul-Bid’a
+*   The Salaf did not answer all questions
+*   When the Salaf were asked questions they did this and that
 
 ## When is Sajda to other than Allah shirk?
 
@@ -102,9 +96,8 @@ When Yaqub Alaisalaam and his family did sujud to Yusuf Alaisalaam, Yaqub Alaisa
 
 Since no divinity was associated to Yusuf, therefore the Sajda to him is not Ibada & it isn't considered to be an act of shirk.
 
-
-
 ## Hindu-standing
+
 You might ask:
 
 > So why do we consider Hindus to be mushrik when they do sajda to their idols.
@@ -121,8 +114,6 @@ This belief is what makes them mushrik, regardless of any acts.
 
 After the above belief, every act they do towards those beings are acts of shirk.
 
-
-
 ## Conclusion
 
 In summary, actions by themselves are not Ibada. They become Ibada once those actions are performed or targeted towards a divine being. We Muslims alhamdulillah associate divinity only to Allah azawajal.
@@ -134,4 +125,3 @@ Sajda was used as an example, you can essentially pick other acts and the same r
 The objective of this article is in no way to encourage people to start doing sajda to others. Sajda is haram in our Sharia based on hadith, but the subject of this article is not whether it is haram (like theft, alcohol etc). The objective was to discuss whether it is shirk. Sajda is definitely shirk when divinity has been associated with a being other than Allah and when sajda or any other act is performed towards that being, then it is 100% shirk.
 
 Otherwise Sajda to other than Allah is sin, haram and at best a high level of stupidity in our sharia.
-

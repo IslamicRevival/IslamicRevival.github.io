@@ -24,6 +24,9 @@ for i in "${!directories[@]}"; do
       n=$((n+1))
     fi
   done
+  
+  # lint recent files
+  find . -name "index.md" -type f -ctime 1 -exec remark {} --use remark-preset-lint-consistent --use remark-preset-lint-recommended -o \;
 
   # Change back to the parent directory
   cd ..
