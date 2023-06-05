@@ -994,6 +994,7 @@ sourcemap-codec@^1.4.8:
   integrity sha512-9NykojV5Uih4lgo5So5dtw+f0JgJX30KCNI8gwhz2J9A15wD0Ml6tjHKwf6fTSa6fAdVBdZeNOs9eJ71qCk8vA==
 
 "string-width-cjs@npm:string-width@^4.2.0", string-width@^4.1.0:
+  name string-width-cjs
   version "4.2.3"
   resolved "https://registry.yarnpkg.com/string-width/-/string-width-4.2.3.tgz#269c7117d27b05ad2e536830a8ec895ef9c6d010"
   integrity sha512-wKyQRQpjJ0sIp62ErSZdGsjMJWsap5oRNihHhu6G7JVO/9jIB6UyevL+tXuOqrng8j/cxKTWyWUwvSTriiZz/g==
@@ -1012,6 +1013,7 @@ string-width@^5.0.1, string-width@^5.1.2:
     strip-ansi "^7.0.1"
 
 "strip-ansi-cjs@npm:strip-ansi@^6.0.1", strip-ansi@^6.0.0, strip-ansi@^6.0.1:
+  name strip-ansi-cjs
   version "6.0.1"
   resolved "https://registry.yarnpkg.com/strip-ansi/-/strip-ansi-6.0.1.tgz#9e26c63d30f53443e9489495b2105d37b67a85d9"
   integrity sha512-Y38VPSHcqkFrCpFnQ9vuSXmquuv5oXOKpGeT6aGrr3o3Gc9AlVa6JBfUSOCnbxGGZF+/0ooI7KrPuUSztUdU5A==
@@ -1052,9 +1054,9 @@ vite@^4.3.3:
     fsevents "~2.3.2"
 
 vitepress-plugin-auto-sidebar@>=1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/vitepress-plugin-auto-sidebar/-/vitepress-plugin-auto-sidebar-1.0.6.tgz#4ec8820dc9947564907b2b61f8a009c153082efa"
-  integrity sha512-/qCfzaeHkCn3G/ziCCSoEKp1uJWyfYhM+gLhi9rKSUSDdW82tOl+23b6X9ZqfyYIUjo7rs5Q0g5VKlrnfd+PNw==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/vitepress-plugin-auto-sidebar/-/vitepress-plugin-auto-sidebar-1.0.7.tgz#98fd8329e848794e5d7cc7581d0f8c8c086fedfa"
+  integrity sha512-W26pdwwI2tGrghOW+8L8j2e1L4yxVAgg8IgD1ZpMJOxnm88IUIXZnHGekEnpmUOWnV/8F5isUHkXk5TNloRq2g==
 
 vitepress-plugin-search@>=1.0.4-alpha.16:
   version "1.0.4-alpha.20"
