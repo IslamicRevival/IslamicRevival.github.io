@@ -22,11 +22,11 @@
     "file-saver": "^2.0.5",
     "flexsearch": "^0.7.31",
     "lodash": "^4.17.21",
-    "markdownlint-cli": "^0.34.0",
-    "node": "^19.4.0",
+    "markdownlint-cli": "^0.35.0",
+    "node": "^20.2.0",
     "sitemap": "^7.1.1",
-    "tslib": "^2.4.1",
-    "vitepress-plugin-auto-sidebar": "^1.0.6",
+    "tslib": "^2.5.3",
+    "vitepress-plugin-auto-sidebar": "^1.1.0",
     "vitepress-plugin-search": "^1.0.4-alpha.16"
   }
 }
