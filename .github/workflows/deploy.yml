@@ -55,7 +55,7 @@ jobs:
       - run: yarn cache clean; yarn install --frozen-lockfile
       - name: Build
         run: yarn build
-        timeout-minutes: 10
+        timeout-minutes: 15
         env:
           NODE_OPTIONS: --max_old_space_size=32768
           DEBUG: true
