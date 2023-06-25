@@ -1,10 +1,10 @@
-***
-
-## title: How to add or update content
+---
+title: How to add or update content
+---
 
 # How to add or update content
 
-We want everyone to share & archive books, articles, documents, pdfs, videos files on various Islaamic sciences as we are a non-partisan, non-sectarian site.
+We want everyone to share & archive books, articles, documents, pdfs, videos files on various Islaamic sciences as we are a non-partisan, non-sectarian site.    
 
 Contribute Islamic knowledge freely using coding techniques of peer-reviewing and versioning
 
@@ -16,7 +16,7 @@ It uses Markdown in the `/content/` folder to render every document. If you don'
 
 ## Adding Articles
 
-All articles are stored as Markdown files under [`/content/`][2].
+All articles are stored as Markdown files under [`/content/`][2]. 
 
 To create a new article, you need to be logged into GitHub with your personal username, then click the "Add file" dropdown menu near the top right of the [`/content/`][2] page.
 
@@ -48,12 +48,12 @@ twitterImage: /_social/article
 
 A couple of notes:
 
-*   After the `---` line, you can type the contents of the article in markdown.
-    Feel free to use `# Heading1`, `## Heading2`, `**bold**`, `_italic_`, and other
-    markdown to make the page look awesome.
+- After the `---` line, you can type the contents of the article in markdown.
+Feel free to use `# Heading1`, `## Heading2`, `**bold**`, `_italic_`, and other
+markdown to make the page look awesome.
 
-*   For keyboard shortcuts, use the HTML tag `<kbd>`, i.e.
-    `<kbd>Alt</kbd>+<kbd>F4</kbd>`.
+- For keyboard shortcuts, use the HTML tag `<kbd>`, i.e.
+`<kbd>Alt</kbd>+<kbd>F4</kbd>`.
 
 When you're all done, fill out the "Commit new file" form at the bottom with the
 description of your changes and press the "Commit changes" button.
@@ -69,7 +69,6 @@ When you're all done, fill out the "Commit changes" form at the bottom with the
 description of your changes and press the "Commit changes" button. This will generate a Pull Request for an admin to review.
 
 ## Beautifying Markdown content
-
 To beautify markdown content, you can use a markdown editor or previewer that supports formatting options such as headings, bold and italic text, lists, links, and images. Some examples of markdown editors and previewers include Typora, Dillinger, and StackEdit.
 
 To use these tools, simply open the editor or previewer and paste your markdown content into the editor window. The editor or previewer will automatically format the content according to the markdown syntax, making it easier to read and understand.
@@ -82,33 +81,42 @@ Overall, using a markdown editor or previewer, along with extensions and online 
 
 ## Files, Images, and Links
 
-To store files, put them in the `/content/public` folder.
+To store files, put them in the `/content/public` folder. 
 
-Anything in that folder will be available at the base URL.
+Anything in that folder will be available at the base URL. 
 
 When linking to files, please use the absolute path, i.e.
 `/images/islam.png`.
+
 
 ## Local Development
 
 For simple edits, you can directly edit the file on GitHub and generate a Pull Request per above, else you will need to clone this repository to your local computer.
 
+
 ## Project setup
 
-    git clone https://github.com/IslamicRevival/IslamicRevival.github.io.git
+```
+git clone https://github.com/IslamicRevival/IslamicRevival.github.io.git
 
-    yarn install
+yarn install
+```
 
 ### Compiles and hot-reloads for development
 
-    # yarn
-    yarn dev
+```
+# yarn
+yarn dev
+```
 
 ### Compiles and minifies for production
 
-    # yarn
-    yarn build
+```
+# yarn
+yarn build
+```
+
 
 [1]: https://help.github.com/articles/markdown-basics/
-
 [2]: https://github.com/IslamicRevival/IslamicRevival.github.io/tree/main/content
+

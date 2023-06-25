@@ -192,18 +192,19 @@ def main(channel_ids=channel_ids_input):
         for video_id in videos_ids:
             try:
                 video_metadata = api.get_video_by_id(video_id=video_id).items[0]
+<<<<<<< HEAD
 
                 # only return videos published in the last 7 days
                 if video_metadata.snippet.published_after > d:
                     logging.info(f"SKIPPING: older video: {duration} {title}")
                     continue
+=======
+                title = video_metadata.snippet.title
+                duration = video_metadata.contentDetails.duration
+>>>>>>> parent of 4230cf9 (remark {} --use remark-preset-lint-consistent --use remark-preset-lint-recommended -o)
                 if yt_time(duration) < length:
                     logging.info(f"SKIPPING: short video: {duration} {title}")
                     continue
-
-                title = video_metadata.snippet.title
-                duration = video_metadata.contentDetails.duration
-
 
                 # check if video was already downloaded
                 md_file_name = os.path.join(path, string_to_filename(title)) + '.md'
