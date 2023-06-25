@@ -24,12 +24,9 @@ for i in "${!directories[@]}"; do
       n=$((n+1))
     fi
   done
-<<<<<<< HEAD
   
   # lint recent files
   find . -name "*.md" -type f -mtime 1 -exec remark {} --use remark-preset-lint-consistent --use remark-preset-lint-recommended -o \;
-=======
->>>>>>> parent of 4230cf9 (remark {} --use remark-preset-lint-consistent --use remark-preset-lint-recommended -o)
 
   # Change back to the parent directory
   cd ..
