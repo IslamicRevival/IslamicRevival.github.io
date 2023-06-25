@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "cross-env NODE_ENV=development vitepress dev content --host --port 4000",
-    "build": "cross-env NODE_ENV=production  NODE_OPTIONS=--max_old_space_size=32768 vitepress build content --debug",
-    "serve": "cross-env NODE_ENV=production vitepress serve content"
+    "dev": "cross-env NODE_ENV=development DEBUG=true vitepress dev content --host --port 4000",
+    "build": "cross-env NODE_ENV=production DEBUG=true NODE_OPTIONS=--max_old_space_size=32768 vitepress build content --debug",
+    "serve": "cross-env NODE_ENV=production DEBUG=true vitepress serve content"
   },
   "author": "SirVival",
   "license": "ISC",

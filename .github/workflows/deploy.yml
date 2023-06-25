@@ -24,6 +24,7 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  # Build job
   build:
     runs-on: ubuntu-latest
     steps:
@@ -52,80 +53,27 @@ jobs:
         env:
           NODE_OPTIONS: --max_old_space_size=32768
       - run: yarn install --frozen-lockfile
-      - name: Start Vitepress development server
-        run: yarn dev
+      - name: Build
+        run: yarn build
+        timeout-minutes: 10
         env:
           NODE_OPTIONS: --max_old_space_size=32768
+          DEBUG: true
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: ./content/.vitepress/dist
 
+  # Deployment job
   deploy:
     environment:
       name: github-pages
     runs-on: ubuntu-latest
     needs: build
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
       - name: Deploy to GitHub Pages
-        run: |
-          git config --global user.name "Your Name"
-          git config --global user.email "your-email@example.com"
-          yarn build
-          cd content/.vitepress/dist
-          git init
-          git add -A
-          git commit -m "Deploy to GitHub Pages"
-          git push --force --quiet "https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" master:gh-pages
-
-# jobs:
-#   # Build job
-#   build:
-#     runs-on: ubuntu-latest
-#     steps:
-#       - name: Checkout
-#         uses: actions/checkout@v3
-#       - name: Detect package manager
-#         id: detect-package-manager
-#         run: |
-#           if [ -f "${{ github.workspace }}/yarn.lock" ]; then
-#             echo "manager=yarn" >> $GITHUB_OUTPUT
-#             echo "command=install" >> $GITHUB_OUTPUT
-#             exit 0
-#           elif [ -f "${{ github.workspace }}/package.json" ]; then
-#             echo "manager=npm" >> $GITHUB_OUTPUT
-#             echo "command=ci" >> $GITHUB_OUTPUT
-#             exit 0
-#           else
-#             echo "Unable to determine packager manager"
-#             exit 1
-#           fi
-#       - name: Setup Node
-#         uses: actions/setup-node@v3
-#         with:
-#           node-version: "16"
-#           cache: ${{ steps.detect-package-manager.outputs.manager }}
-#         env:
-#           NODE_OPTIONS: --max_old_space_size=32768
-#       - run: yarn install --frozen-lockfile
-#       - name: Build
-#         run: yarn build
-#         env:
-#           NODE_OPTIONS: --max_old_space_size=32768
-#       - name: Upload artifact
-#         uses: actions/upload-pages-artifact@v1
-#         with:
-#           path: ./content/.vitepress/dist
-
-
-#   # Deployment job
-#   deploy:
-#     environment:
-#       name: github-pages
-#     runs-on: ubuntu-latest
-#     needs: build
-#     steps:
-#       - name: Deploy to GitHub Pages
-#         id: deployment
-#         uses: actions/deploy-pages@v1
+        id: deployment
+        uses: actions/deploy-pages@v1
 
 
 #      - name: Deploy
