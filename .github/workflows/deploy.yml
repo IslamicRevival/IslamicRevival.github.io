@@ -52,7 +52,7 @@ jobs:
           cache: ${{ steps.detect-package-manager.outputs.manager }}
         env:
           NODE_OPTIONS: --max_old_space_size=32768
-      - run: yarn install --frozen-lockfile
+      - run: yarn cache clean; yarn install --frozen-lockfile
       - name: Build
         run: yarn build
         timeout-minutes: 10
