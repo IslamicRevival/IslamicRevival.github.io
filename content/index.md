@@ -1,7 +1,7 @@
 ---
 layout: home
 
-title: Islamic Revival - AI GPT framework for knowledge curation, sharing & archiving
+title: Islamic Revival - AI framework for knowledge curation, sharing & archiving
 titleTemplate: Islamic Revival - AI framework for knowledge curation, sharing & archiving
 
 hero:
