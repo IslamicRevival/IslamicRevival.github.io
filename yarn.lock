@@ -910,9 +910,9 @@ node-bin-setup@^1.0.0:
   integrity sha512-opgw9iSCAzT2+6wJOETCpeRYAQxSopqQ2z+N6BXwIMsQQ7Zj5M8MaafQY8JMlolRR6R1UXg2WmhKp0p9lSOivg==
 
 node@^20.2.0:
-  version "20.2.0"
-  resolved "https://registry.yarnpkg.com/node/-/node-20.2.0.tgz#1224da60acbee074b91dc959c9d8d2ff1e77954e"
-  integrity sha512-oF1+u42FT/nFtRFdcsUNdexVCWQKAHB7LtKHOk/9o0cQBq19leB/0awrB3ZdzHU/Pz9tC9RHwgd52PK9bON30A==
+  version "20.5.0"
+  resolved "https://registry.yarnpkg.com/node/-/node-20.5.0.tgz#c465ace076f99e98f33ed37ac0a7ed1c6eb7e71b"
+  integrity sha512-+mVyKGaCscnINaMNIa+plgDoN9XXb5ksw7FQB78pUmodmftxomwlaU6z6ze1aCbHVB69BGqo84KkyD6NJC9Ifg==
   dependencies:
     node-bin-setup "^1.0.0"
 
@@ -1013,6 +1013,7 @@ source-map-js@^1.0.2:
   integrity sha512-R0XvVJ9WusLiqTCEiGCmICCMplcCkIwwR11mOSD9CR5u+IXYdiseeEuXCVAjS54zqwkLcPNnmU4OeJ6tUrWhDw==
 
 "string-width-cjs@npm:string-width@^4.2.0", string-width@^4.1.0:
+  name string-width-cjs
   version "4.2.3"
   resolved "https://registry.yarnpkg.com/string-width/-/string-width-4.2.3.tgz#269c7117d27b05ad2e536830a8ec895ef9c6d010"
   integrity sha512-wKyQRQpjJ0sIp62ErSZdGsjMJWsap5oRNihHhu6G7JVO/9jIB6UyevL+tXuOqrng8j/cxKTWyWUwvSTriiZz/g==
@@ -1031,6 +1032,7 @@ string-width@^5.0.1, string-width@^5.1.2:
     strip-ansi "^7.0.1"
 
 "strip-ansi-cjs@npm:strip-ansi@^6.0.1", strip-ansi@^6.0.0, strip-ansi@^6.0.1:
+  name strip-ansi-cjs
   version "6.0.1"
   resolved "https://registry.yarnpkg.com/strip-ansi/-/strip-ansi-6.0.1.tgz#9e26c63d30f53443e9489495b2105d37b67a85d9"
   integrity sha512-Y38VPSHcqkFrCpFnQ9vuSXmquuv5oXOKpGeT6aGrr3o3Gc9AlVa6JBfUSOCnbxGGZF+/0ooI7KrPuUSztUdU5A==
