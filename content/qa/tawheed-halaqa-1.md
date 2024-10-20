@@ -12,7 +12,7 @@ The speaker says that someone suggested that since he didn’t come from a Shari
 1011.319s: Would you like to expand on this or would you like to get into the text?
 The speaker explains that this is just an introduction to the book, and the details are all in the book. 
 
-1026.6s: What is controversial about your support of Wahhabism?
+1026.6s: What is controversial about your criticism of Wahhabism?
 The speaker states that there is a lot of controversy because Wahhabism doesn’t accurately describe the reality of “shirk” as it existed among the pre-Islamic Arabs. 
 
 1864.08s: How harsh was the translation? 
