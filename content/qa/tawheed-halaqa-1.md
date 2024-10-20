@@ -1,4 +1,5 @@
 https://www.youtube.com/watch?v=uKkCSxJIsR8&list=PLmpU7KBqn11p_Dg7zvkQ7ZsyAAvWDyT29
+
 22.48s: What is this video about?
 The speaker explains that he wanted to give a quick introduction to the topic, but the history of the book being written is part of the introduction.
 
