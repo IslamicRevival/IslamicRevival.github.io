@@ -1,329 +1,315 @@
-#!/usr/bin/env python3
-
-# pip install python-youtube markdownify youtube-transcript-api
-
-import logging
 import os
-import time
-
-import re
-
-from markdownify import markdownify as md
-from pyyoutube import Api ## Needs Google Data (YouTube v3 key)
-from youtube_transcript_api import YouTubeTranscriptApi
-from datetime import datetime, timedelta
-
-
+import asyncio
+import logging
 import requests
+from random import shuffle
+from typing import List, Dict, Tuple
 
-API_KEY = os.getenv('API_KEY7') ## codespaces secrets 1-12
-channel_ids_input = ["UC0uyPbeJ56twBLoHUbwFKnA", "UC57cqHgR_IZEs3gx0nxyZ-g", 'UCo5TlU2TZWVDsAlGI94QCoA', "UCeZBhrU8xHcik0ZgtDwjsdA", "UCHDFNoOk8WOXtHo8DIc8efQ", "UC_SLXSHcCwK2RSZTXVL26SA"]  ## thought_adv, sapience, hijab, bloggingtheology, docs, doc
+import openai  # Import OpenAI library
+import google.generativeai as genai
+from youtube_transcript_api import YouTubeTranscriptApi
 
-logging.basicConfig(level=15, format='[%(asctime)s] %(levelname)s: %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
-logger = logging.getLogger()
+"""
+## YouTube Transcript Summarizer
 
-def get_preview_image(img_file_name:str, img_url: str, video_id: str, path: str) -> str:
-    """
-    Downloads an image from the given URL and saves it to the specified file path.
+This script processes YouTube video transcripts, extracts key information, and generates a summarized markdown output.
 
-    Args:
-        img_file_name (str): The file name for the image.
-        img_url (str): The URL of the image.
-        video_id (str): The ID of the video associated with the image.
-        path (str): The file path to save the image to.
-        
-    Returns:
-        str: The file name of the saved image. Returns None if the image could not be fetched.
-    """
-    with open(img_file_name, 'wb') as handle:
-        headers = {'Content-Type': 'application/json','Referer': '*.my-app.appspot.com/*'}
-        response = requests.get(img_url, stream=True, headers=headers)
+**Features:**
 
-        if not response.ok:
-            logger.warning("Couldn't fetch preview: %s", response)
-            return None
+- Processes single videos or entire channels.
+- Extracts timestamps and generates questions from transcripts.
+- Uses OpenAI or Gemini for advanced natural language processing.
+- Option to simulate LLM processing with a local HuggingFace model.
+- Stores processed video IDs to avoid redundant processing.
 
-        for block in response.iter_content(1024):
-            if not block:
-                break
-            handle.write(block)
-        return img_file_name
+**Requirements:**
+python3 -m pip install openai google-generativeai youtube-transcript-api langchain langchain_community langchain_huggingface requests
+"""
 
-def gen_markdown_page(video_id: str, title: str, description: str, smarkdown: str, path: str, date: datetime, captions: list) -> str:
-    """
-    Generates a markdown page for the given video information.
+# Configuration
+YOUTUBE_API_KEY = 'AIzaSyDF46IyZYwPlb6ZBxAD6-IuLxVNYsbTIwQ'  # Replace with your actual API key
+huggingfacehub_api_token = 'hf_NUNySPyUNsmRIb9sUC4FKR2hIeacJOr4Rm'
+GENAI_API_KEY = 'AIzaSyAGG9rdcfUvo49ubD3SwEmswXLRHri7vTY' # https://www.cloudskillsboost.google/focuses/86502?catalog_rank=%7B%22rank%22%3A30%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=38481400
+OPENAI_API_KEY = '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'
+USE_PROXY = False  # Set to True to use proxies, False otherwise
+USE_OPENAI = False  # Set to True to use OpenAI, False for Gemini
+SIMULATE_LLM = False  # Set to True to use a local LLM (HuggingFaceHub), False for OpenAI/Gemini
+MAX_VIDEOS_TO_PROCESS = None  # Set to an integer to limit the number of videos processed, None for no limit
 
-    Copy code
-    Args:
-        video_id (str): The ID of the video.
-        title (str): The title of the video.
-        description (str): The description of the video.
-        smarkdown (str): The markdown content for the video.
-        path (str): The file path to save the markdown page to.
-        date (datetime): The date the video was uploaded.
-        captions (list): A list of caption dictionaries, each containing 'start' and 'text' keys.
-        
-    Returns:
-        str: The generated markdown page content.
-    """
-    markdown = ""
+# Global variables
+PROXIES = {}
+PROCESSED_VIDEOS_FILE = "processed_videos.txt"
+OUTPUT_MARKDOWN_FILE = "summary.md"  # File to store the summarized output
 
-    markdown += f"# {title} ({date})\n\n"
-    markdown += f"<iframe loading='lazy' allow='autoplay' src='https://www.youtube.com/embed/{video_id}'></iframe>\n\n"
-    markdown += "\n\n## Description\n\n"
-    markdown += description.strip()
-    markdown += "\n\n"
-    markdown += smarkdown.strip()
-    markdown += "\n\n"
-    markdown += "<details><summary><h2>Full transcript with timestamps: CLICK TO EXPAND</h2></summary>\n\n"
-    for c in captions:
-        #markdown += f"[{datetime.timedelta(seconds=int(c['start']))}](https://youtu.be/{video_id}?t={int(c['start'])}) {c['text']}  \n"
-        markdown += f'<a onclick="modifyYTiframeseektime('
-        markdown += f"'{int(c['start'])}')"
-        markdown += f'">'
-        markdown += f"{timedelta(seconds=int(c['start']))} {c['text']}</a>\n"
-    markdown += "</details>"
-    return markdown          
 
-def string_to_filename(filename: str, raw: bool = False):
-    """
-    Converts a string to a valid file name. If raw is True, all illegal characters will be removed.
-    Otherwise, "?" will be replaced with "¿" and all other illegal characters will be replaced with "-".
-    Any non-English characters will also be removed.
+# Initialize loggers
+logger = logging.getLogger(__name__)
+logging.basicConfig(level=logging.INFO)
 
-    Copy code
-    Args:
-        filename (str): The original file name.
-        raw (bool, optional): Whether to remove all illegal characters or replace them with "¿" or "-". Defaults to False.
+# --- LLM Configuration and Utilities ---
+def initialize_llm():
+    """Initializes and returns the selected LLM."""
+    if SIMULATE_LLM:
+        # Use a fast, local LLM for simulation 
+        from langchain.prompts import PromptTemplate
+        from langchain_community.llms import HuggingFaceHub
+        from transformers import pipeline
+        from langchain_huggingface import HuggingFacePipeline
+        from langchain.text_splitter import RecursiveCharacterTextSplitter
 
-    Returns:
-        str: The modified file name.
-    """
-    illegal_characters_in_file_names = r'"/\*?<>|:_\' \#.~!'
-
-    if raw:
-        return ''.join(c for c in filename if c not in illegal_characters_in_file_names)
-
-    for x in [["?", "¿"]] + [[x, "_"] for x in illegal_characters_in_file_names.replace("?", "")]:
-        filename = filename.replace(x[0], x[1])
-        filename = filename.encode('ascii', errors='ignore').decode() # remove non-english
-
-    filename = filename.replace("___", "_")
-    filename = filename.replace("__", "_")
-    return filename
-
-def yt_time(duration="P1W2DT6H21M32S"):
-    """
-    Converts YouTube duration (ISO 8061)
-    into Seconds
-
-    see http://en.wikipedia.org/wiki/ISO_8601#Durations
-    """
-    ISO_8601 = re.compile(
-        'P'   # designates a period
-        '(?:(?P<years>\d+)Y)?'   # years
-        '(?:(?P<months>\d+)M)?'  # months
-        '(?:(?P<weeks>\d+)W)?'   # weeks
-        '(?:(?P<days>\d+)D)?'    # days
-        '(?:T' # time part must begin with a T
-        '(?:(?P<hours>\d+)H)?'   # hours
-        '(?:(?P<minutes>\d+)M)?' # minutes
-        '(?:(?P<seconds>\d+)S)?' # seconds
-        ')?')   # end of time part
-    # Convert regex matches into a short list of time units
-    units = list(ISO_8601.match(duration).groups()[-3:])
-    # Put list in ascending order & remove 'None' types
-    units = list(reversed([int(x) if x != None else 0 for x in units]))
-    # Do the maths
-    return sum([x*60**units.index(x) for x in units])
-
-def main(channel_ids=channel_ids_input):
-    """Fetch metadata for all videos in the specified YouTube channels
+        hf_pipeline = pipeline(
+            "text2text-generation",
+            model="google/flan-t5-xl",  # Consider a smaller model if Flan-T5-XL is too slow
+            model_kwargs={
+                "temperature": 1.0,  # Increase temperature for more randomness (less accuracy)
+                "do_sample": True,
+                "top_k": 40,       # Reduce top_k for faster sampling
+                "num_beams": 1,     # Disable beam search (greedy decoding)
+            },
+            trust_remote_code=True,
+            device=0  # Use GPU if available
+        )
     
-    Args:
-        channel_ids (list[str]): List of YouTube channel ids to fetch videos from.
-    """
-    for channel_id in channel_ids:
-        api = Api(api_key=API_KEY)
+        # Create a Langchain LLM wrapper
+        llm = HuggingFacePipeline(pipeline=hf_pipeline)
+    elif USE_OPENAI:
+        openai.api_key = OPENAI_API_KEY
+        # Use OpenAI for content generation
+        llm = openai.ChatCompletion
+    else:
+        genai.configure(api_key=GENAI_API_KEY)
+        # Use Gemini for content generation
+        llm = genai.GenerativeModel("gemini-1.5-flash")
+    return llm
 
-        # TODO make the channel_id list a dict with paths
-        if channel_id == 'UC_SLXSHcCwK2RSZTXVL26SA':
-            path="content/blogging_theology/"
-        elif channel_id =='UCHDFNoOk8WOXtHo8DIc8efQ':
-            path="content/hijab/"
-        elif channel_id =='UCeZBhrU8xHcik0ZgtDwjsdA':
-            path='content/sapience/'
-        elif channel_id == 'UCo5TlU2TZWVDsAlGI94QCoA':
-            path='content/thought_adventure'
+# --- YouTube Data Retrieval ---
+async def get_video_transcript(video_id: str) -> str:
+    """Extracts and returns the transcript of a YouTube video."""
+    try:
+        if USE_PROXY:
+            proxies = [f"http://{p}" for p in PROXIES.values()]
+            shuffle(proxies)
         else:
-            path="content/massari/"
+            proxies = None
 
-        videos_ids = []
-        limit = 10
-        count = 25
-        length = 600 ## only interested in vids > 10minutes
-        try:
-            logger.info(f"Fetching all vids in channel {channel_id}")
-            response = api.search(channel_id=channel_id, limit=limit, count=count)
-            next_page_token = response.nextPageToken
-            while next_page_token:
-                for res in response.items:
-                    if res.id.videoId:
-                        videos_ids.append(res.id.videoId)
-                        #print(res.id.videoId)
-                next_page_token = response.nextPageToken
-                d = datetime.today() - timedelta(days=7)
-                daysago = ( str(d.isoformat()) + "Z")
-                response = api.search(
-                    channel_id=channel_id,
-                    limit=limit,
-                    count=count,
-                    page_token=next_page_token,
-                    order="date",
-                    published_after=daysago
-                )
-        except Exception as exception:
-            logger.warn(f'Error getting vids for channel: {exception}', exc_info=True)
-        vid_count = len(videos_ids)
-        logger.info(f"Gathered {vid_count} videos for {channel_id} now pulling metadata for each video")
-        #videos_ids= ['37K1mPnMIeE'] ## enter single video_id here if overridding full list for testing
-        ## search for vids missing AI summary: grep -riL "AI" *.md
+        for i in range(len(proxies)) if proxies else range(1):
+            if proxies:
+                proxy = proxies[i]
+                logger.info(f"Trying proxy {proxy}")
+            else:
+                proxy = None
 
-        for video_id in videos_ids:
             try:
-                video_metadata = api.get_video_by_id(video_id=video_id).items[0]
-<<<<<<< HEAD
+                transcript = await asyncio.wait_for(
+                    asyncio.to_thread(
+                        lambda: YouTubeTranscriptApi.get_transcript(
+                            video_id, proxies={"http": proxy, "https": proxy} if proxy else None
+                        )
+                    ),
+                    timeout=5,
+                )
+                return "\n".join(
+                    [str(line["start"]) + "s : " + line["text"] for line in transcript]
+                )
+            except (
+                YouTubeTranscriptApi.NoTranscriptAvailable,
+                YouTubeTranscriptApi.NoTranscriptFound,
+                YouTubeTranscriptApi.TranscriptsDisabled,
+            ) as e:
+                logger.error(f"No transcript found for video ID {video_id}: {e}")
+                if not proxies:
+                    break
+            except asyncio.TimeoutError:
+                logger.error(f"Timeout error for video ID {video_id}")
+                await asyncio.sleep(1)
+                continue
+            except Exception as e:
+                logger.error(f"General error for video ID {video_id}: {e}")
+                await asyncio.sleep(1)
+                continue
+        return ""
 
-                # only return videos published in the last 7 days
-                if video_metadata.snippet.published_after > d:
-                    logging.info(f"SKIPPING: older video: {duration} {title}")
-                    continue
-=======
-                title = video_metadata.snippet.title
-                duration = video_metadata.contentDetails.duration
->>>>>>> parent of 4230cf9 (remark {} --use remark-preset-lint-consistent --use remark-preset-lint-recommended -o)
-                if yt_time(duration) < length:
-                    logging.info(f"SKIPPING: short video: {duration} {title}")
-                    continue
+    except Exception as e:
+        logger.error(f"Error fetching transcript for video ID {video_id}: {e}")
+        return ""
 
-                # check if video was already downloaded
-                md_file_name = os.path.join(path, string_to_filename(title)) + '.md'
-                if os.path.exists(md_file_name):
-                    logging.info(f"SKIPPING: MD file file {video_id} {title} md already downloaded")
-                    continue
+async def get_channel_video_ids(channel_id: str) -> List[str]:
+    """Fetches and returns a list of video IDs from a YouTube channel."""
+    video_ids = []
+    next_page_token = None
+    base_url = "https://www.googleapis.com/youtube/v3/search"
 
-                #img_file_name = os.path.join(path, video_id) + '.jpg'
-                #if os.path.exists(img_file_name):
-                #    print(f"IMG FOR {video_id} img already downloaded, skipping. ", end="")
-                #    continue
-            
-                #preview_path = get_preview_image(img_file_name=img_file_name, img_url=video_metadata.snippet.thumbnails.default.url, video_id=video_id, path=path) 
-                preview_path = 'tmp/'
-                logging.info(f"\n\nVideo ID is {video_id} with title {title}")
-                description = video_metadata.snippet.description
-                date = datetime.strptime(video_metadata.snippet.publishedAt, "%Y-%m-%dT%H:%M:%SZ").strftime("%Y-%m-%d")
-                captions = YouTubeTranscriptApi.get_transcript(video_id)
+    while True:
+        params = {
+            "key": YOUTUBE_API_KEY,
+            "channelId": channel_id,
+            "part": "snippet",
+            "type": "video",
+            "maxResults": 50,  # Fetch up to 50 videos per request
+            "pageToken": next_page_token
+        }
 
-                # Get AI summary
-                # from requests_html import HTMLSession
-                url = f"https://www.summarize.tech/www.youtube.com/watch?v={video_id}"
+        response = requests.get(base_url, params=params)
+        response.raise_for_status()  # Raise an exception for bad status codes
+        data = response.json()
 
-                # sudo apt  install chromium-chromedriver --fix-missing
-                # wget https://chromedriver.storage.googleapis.com/108.0.5359.71/chromedriver_linux64.zip
-                from selenium import webdriver
-                from selenium.webdriver.chrome.options import Options
-                from selenium.webdriver.support.ui import WebDriverWait
-                from selenium.webdriver.common.by import By
-                from selenium.webdriver.support import expected_conditions as EC
+        if "items" in data:
+            for item in data["items"]:
+                video_ids.append(item["id"]["videoId"])
+                #print(item["id"]["videoId"])
 
-                ## configure webdriver
-                options = Options()
-                options.headless = True  # hide GUI
-                options.add_argument('--headless')
-                options.add_argument('--disable-infobars')
-                options.add_argument('--no-sandbox')
-                #options.add_argument('--remote-debugging-port=9222')
-                #options.add_argument("--window-size=1920,1080")  # set window size to native GUI size
-                #options.add_argument("--start-maximized")  # ensure window is full-screen
-                options.add_argument("--disable-extensions")
-                options.add_argument("--disable-gpu")
-                options.add_argument("--disable-dev-shm-usage")
-                options.binary_location = "/usr/bin/google-chrome-stable"    #chrome binary location specified here
+        if "nextPageToken" in data:
+            next_page_token = data["nextPageToken"]
+        else:
+            break  # No more pages
 
-                # configure chrome browser to not load images and javascript
-                chrome_options = webdriver.ChromeOptions()
-                chrome_options.add_argument('--headless')
-                #chrome_options.add_experimental_option("prefs", {"profile.managed_default_content_settings.images": 2}) 
-                #chrome_options.add_argument("--disable-setuid-sandbox") 
-                #chrome_options.add_argument("--remote-debugging-port=9222")  # this
-                chrome_options.add_argument("--disable-extensions") 
-                chrome_options.add_argument("--disable-gpu") 
-                #chrome_options.add_argument("--start-maximized") 
-                chrome_options.add_argument('--no-sandbox')
-                chrome_options.add_argument('--disable-dev-shm-usage')
-                #chrome_options.add_argument('--profile-directory=Default')  # use default Chrome browser profile
-                chrome_options.binary_location = "/usr/bin/google-chrome-stable"  # specify chrome binary location
+    return video_ids
 
-                # start the webdriver and load the webpage
-                driver = webdriver.Chrome('./chromedriver', options=options, chrome_options=chrome_options)
-                driver.get(url)
-                wait = WebDriverWait(driver, 50)
-                #wait.until(EC.presence_of_element_located((By.TAG_NAME,"h1")))
-                wait.until(EC.presence_of_element_located((By.ID,"__NEXT_DATA__")))
-                time.sleep(20) #sleep for X sec
-                mdresponse = driver.page_source
-                driver.close()
-                driver.quit()
-                # grep -rL "AI" *.md|xargs rm -f ##find and rm missing AI
-                # find ./ -type f -name "*.md" -exec sed -i 's/loading='lazy'\/loading='lazy' allow='autoplay' /g' {} \;
-                # find . -type f -name "*.md" -exec sed -ie 's/<\/details>\([^ ]*\)$//g' {} \; 
-                # find . -type f -name "*.md" -exec sed -i "s/\[\([^]]*\)\](https.*t=\([0-9]*\))\s*-\s*\[\([^]]*\)\](https.*t=\([0-9]*\))/<a onclick=\"modifyYTiframeseektime('\2')\">\1<\/a> - <a onclick=\"modifyYTiframeseektime('\4')\">\3<\/a>/g" {} \;
-                # find . -type f -name "*.md" -exec sed -i "s/\[\(.*\)\](https.*t=\([0-9]*\))/<a onclick=\"modifyYTiframeseektime('\2')\">\1<\/a>/g" {} \; # TODO do s/r in python of this
+def generate_summary(transcript_text: str, prompt: str, llm) -> str:
+    """Generates a summarized markdown output from the transcript."""
+    if SIMULATE_LLM:
+        text_splitter = RecursiveCharacterTextSplitter(
+            chunk_size=450,  # Reduce chunk size to be well below 512
+            chunk_overlap=50,  # You can adjust overlap as needed
+            length_function=len,
+        )
+        transcript_chunks = text_splitter.create_documents([transcript_text])
 
-                smarkdown = md(mdresponse, strip=['title', 'head', 'gtag', 'props', 'could not summarize', '<could not summarize>', 'js', 'config'])
-                # list of AI NLP words to remove
-                words_to_remove = ['title', 'head', 'gtag', 'props', 'could not summarize', '<could not summarize>', 'In this video,', 'in this video,',
-                                    'In this YouTube video','The video', 'This video', 'According to this video,', 'This short video', 'This YouTube video is titled', 'The YouTube video', 'In this video,', ' In this short video,',
-                                    'The speaker in the video ', 'The speaker ', 'This YouTube video ', 'In the video, ', 'In the YouTube video ', 'The author ', 'The main points of this video are that ', 'The narrator of this video ',
-                                    ' The video ', ' In this YouTube video, ', 'In this video, ', 'summarize.tech ', 'Summarize another video', '[Music]', '----|', '[@']
+        # Process each chunk and combine the results
+        all_responses = []
+        for chunk in transcript_chunks:
+            formatted_prompt = prompt + "```\n" + chunk.page_content + "\n```"
+            response = llm.invoke(formatted_prompt, max_new_tokens=200)  # Set max_new_tokens here
+            all_responses.append(response)
+        return "\n\n".join(all_responses)
+    elif USE_OPENAI:
+        # Use OpenAI for content generation
+        response = llm.create(
+            model="gpt-3.5-turbo",
+            messages=[
+                {"role": "system", "content": "You are a helpful assistant."},
+                {"role": "user", "content": prompt + transcript_text},
+            ]
+        )
+        return response.choices[0].message['content']
+    else:
+        # Use Gemini for content generation
+        try:
+            response = llm.generate_content(prompt + transcript_text)
+            return response.text
+        except ValueError as e:
+            logger.warning(f"Gemini safety filter triggered: {e}")
+            return ""  # Return an empty string to indicate failure
 
-                # remove each word from the string
-                for word in words_to_remove:
-                    smarkdown = smarkdown.replace(word, "")
+def process_transcript(transcript_text: str, video_url: str, llm) -> str:  # Add llm as argument
+    """Processes the transcript to extract questions, generate summaries, and format the output."""
+    prompt = """You are Youtube video summarizer. You will read the transcript text of a youtube video and extract questions that are asked.
+    You will summarize each of those questions (to maximum of 100 words), always include the timestamp, and give a summary of the answer (maximum 100 words), 
+    do not number the questions. Do not waste space with filler words such as 'The Speaker says' or "the speaker asks", do not create a section called 
+    Summary just give the answer after the question. Keep it succint, remove any Ums or Ahs from the speakers. Format it all into markdown. 
+    Add a category label under each question, it should be a succint keyword describing the content category.
+    Please do that for the text given here:  """
+    summary = generate_summary(transcript_text, prompt, llm)
+    return summary  # Don't forget to return the summary
 
-                smarkdown = re.sub(r'\* of this video ', ' ', smarkdown)
-                smarkdown = re.sub(r'\*\s+discusses ', ' Discusses ', smarkdown)
-                smarkdown = re.sub(r'\{\"props.*\"', '', smarkdown)
-                smarkdown = re.sub(r'See more\* ','', smarkdown)
-                smarkdown = re.sub(r'summary for:.*summarize.tech.*Summary','## Summary', smarkdown)
-                smarkdown = re.sub(r'.*gtag.*','', smarkdown)
-                smarkdown = re.sub(r'.*new Date.*','', smarkdown)
-                smarkdown = re.sub(r'.*config\', \'G-.*','', smarkdown)
-                smarkdown = re.sub(r'.*dataLayer.*','', smarkdown)
-                smarkdown = re.sub(r'.==.*','', smarkdown)
-                smarkdown = re.sub(r"\[([^]]*)\]\(https.*t=([0-9]*)\)\s*-\s*\[([^]]*)\]\(https.*t=([0-9]*)\)", r'<a onclick="modifyYTiframeseektime(\2)">\1</a> - <a onclick="modifyYTiframeseektime(\4)">\3</a>\n', smarkdown)
-                smarkdown = re.sub(r"\[(.*)\]\(https.*t=([0-9]*)\)", r'<a onclick="modifyYTiframeseektime(\2)">\1</a>\n', smarkdown)
-                smarkdown = re.sub(r'\[(.*)\]<','\1', smarkdown)
-                smarkdown = re.sub(r'This is an AI generated summary. There may be inaccuracies', '\n\n<span style="color:red; font-size:125%">This summary is AI generated - there may be inaccuracies</span>', smarkdown)
-                if not "AI generated" in smarkdown:
-                    logging.warn("SKIPPING: no summary markdown generated")
-                    continue
-                logging.info(smarkdown)
+# --- State Management (Processed Videos) ---
+def load_processed_videos() -> List[str]:
+    """Loads the list of processed video IDs from the state file."""
+    processed_videos = []
+    if os.path.exists(PROCESSED_VIDEOS_FILE):
+        with open(PROCESSED_VIDEOS_FILE, "r") as f:
+            processed_videos = f.read().splitlines()
+    return processed_videos
 
-                with open(md_file_name, 'w') as handle:
-                        handle.write(
-                    gen_markdown_page(video_id=video_id,
-                                    title=title,
-                                    path=preview_path,
-                                    smarkdown=smarkdown,
-                                    description=description,
-                                    date=date,
-                                    captions=captions))
-            except Exception as exception:
-                logging.warn(exception, exc_info=True)
-        print(f"Finished processing videos and md for {channel_id}")
+def save_processed_videos(processed_videos: List[str]):
+    """Saves the updated list of processed video IDs to the state file."""
+    with open(PROCESSED_VIDEOS_FILE, "w") as f:
+        f.write("\n".join(processed_videos))
+
+# --- Final LLM Processing ---
+async def create_final_summary(input_md_file: str, output_md_file: str, llm):  # Add llm as a parameter
+
+    """Processes the intermediate markdown file to create the final output."""
+    with open(input_md_file, "r") as f:
+        all_content = f.read()
+
+    final_summary_prompt = f"""
+    You are a markdown document organizer. Please take the content below and identify the different question categories using the labels.
+    Then, re-organize the content into sections for each of those categories, with a clickable table of contents at the top. 
+    Each question should be encopassed in an href link to the video at the specific timestamp, you have to craft the complete video URL from the url 
+    given at the top by adding the timestamp and creating the markdown href. The href text should only encompass each question, i.e.
+    keep the answer outside of the href text.
+
+    Here is the content:
+    ```
+    {all_content}
+    ```
+    """
+
+    # Directly invoke the LLM for the final summary
+    if SIMULATE_LLM:
+        final_summary = llm.invoke(final_summary_prompt, max_new_tokens=200) 
+    else:  # Assuming this is for Gemini
+        response = llm.generate_content(final_summary_prompt)
+        final_summary = response.text
+
+    with open(output_md_file, "w") as f:
+        f.write(final_summary)
+
+# --- Main Execution Flow ---
+async def main():
+    """Main function to orchestrate the video processing pipeline."""
+    global PROXIES
+
+    # Load previously processed videos
+    processed_videos = load_processed_videos()
+
+    # Initialize LLM
+    llm = initialize_llm()
+
     
+    # Logic to handle single video vs. channel input
+    #video_id = input("Enter a YouTube video ID or channel ID: ")
+    #video_id = "https://www.youtube.com/watch?v=b6INC5e_jhw"
+    video_id = "https://www.youtube.com/channel/UC0uyPbeJ56twBLoHUbwFKnA"
+    # Extract Channel ID if a URL is provided
+    if "/channel/" in video_id:
+        video_id = video_id.split("/channel/")[1]  # Extract the part after "/channel/"
 
-if __name__ == '__main__':
-    #get_transcript()
-    main()
+    if "watch?v=" in video_id:
+        video_ids = video_id.split("watch?v=")[1]
+    else:
+        video_ids = await get_channel_video_ids(video_id)  # Pass the extracted Channel ID
+        print(video_ids)
+
+    # Open the output markdown file in append mode
+    with open(OUTPUT_MARKDOWN_FILE, "a") as md_file:
+        for video_id in video_ids:
+            if video_id in processed_videos:
+                logger.info(f"Skipping already processed video: {video_id}")
+                continue
+
+            if MAX_VIDEOS_TO_PROCESS is not None and len(processed_videos) >= MAX_VIDEOS_TO_PROCESS:
+                logger.info(f"Reached maximum number of videos to process: {MAX_VIDEOS_TO_PROCESS}")
+                break
+
+            video_url = f"https://www.youtube.com/watch?v={video_id}"
+            transcript_text = await get_video_transcript(video_id)
+
+            if transcript_text:
+                # Process the transcript and generate the summary
+                summary = process_transcript(transcript_text, video_url, llm)
+
+                # Append the summary to the markdown file
+                md_file.write(f"## {video_url}\n\n{summary}\n\n")
+
+                # Update processed videos and save the state
+                processed_videos.append(video_id)
+                save_processed_videos(processed_videos)
+            else:
+                logger.warning(f"No transcript found for video: {video_url}")
+    
+    await create_final_summary(OUTPUT_MARKDOWN_FILE, "final_summary.md", llm)  # Pass llm here
+
+if __name__ == "__main__":
+    asyncio.run(main())
