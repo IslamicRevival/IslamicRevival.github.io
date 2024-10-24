@@ -21680,3 +21680,392 @@ The speaker says that reading the ayah that states that Allah is "the ever-livin
 
 **Answer**: The speaker warns against blindly following scholars and intellectuals, reminding viewers that they should always critically evaluate their arguments and not accept their pronouncements without scrutiny. 
 
+## https://www.youtube.com/watch?v=VwxuA0Yljns
+
+##  How can a Messenger be sent to all mankind when previous Sharia is still valid? 
+**Timestamp:** 3.08s
+**Category:** Islamic Law
+**Summary:** The speaker is questioning how a Messenger can be sent to all mankind when previous Sharia is still valid. They argue that if a Messenger is sent to all mankind, then previous Sharia should be abated.
+
+##  How did the Quran approach the question of a Messenger for all mankind? 
+**Timestamp:** 7.08s
+**Category:** Quranic Interpretation
+**Summary:** The speaker is curious about how the Quran addressed the idea of a Messenger for all mankind. They mention that the Quran has explored this concept from both philosophical and Quranic perspectives.
+
+##  How is it possible that Muhammad was a Messenger for all mankind?
+**Timestamp:** 12.92s
+**Category:** Islamic Theology 
+**Summary:** The speaker questions the notion of Muhammad being a Messenger for all mankind. They wonder how this can be true considering that previous Sharia is still valid.
+
+##  What does the Quran claim about Muhammad being a Messenger for all mankind?
+**Timestamp:** 19.84s
+**Category:** Quranic Interpretation
+**Summary:** The speaker is interested in the Quranic perspective on Muhammad being a Messenger for all mankind. They want to understand how the Quran specifically addresses this claim.
+
+##  If Muhammad was a Messenger for all mankind, does that mean previous Sharia is invalid?
+**Timestamp:** 22.8s
+**Category:** Islamic Law 
+**Summary:** The speaker explores the implications of Muhammad being a Messenger for all mankind. They question whether this means that previous Sharia is no longer valid. 
+
+##  How can a Japanese person be addressed by a Messenger sent to all mankind?
+**Timestamp:** 27.76s
+**Category:** Islamic Law 
+**Summary:** The speaker uses the example of a Japanese person to illustrate their point. They question how a Messenger sent to all mankind can be relevant to someone who was not addressed in previous Sharia.
+
+##  If a Japanese person claims that Muhammad was not sent to them, how can they be considered part of the Messenger's community?
+**Timestamp:** 33.92s
+**Category:** Islamic Law 
+**Summary:** The speaker expands on the previous example of a Japanese person. They question how someone who claims that Muhammad was not sent to them can be considered part of the Messenger's community.
+
+##  How is the concept of a Messenger for all mankind reconciled with the validity of previous Sharia? 
+**Timestamp:** 37.16s
+**Category:** Islamic Law 
+**Summary:** The speaker expresses their confusion about how the concept of a Messenger for all mankind can be reconciled with the continued validity of previous Sharia. They are looking for a way to understand this seeming contradiction.
+
+##  If a new Sharia is given, what happens to the previous one?
+**Timestamp:** 42.0s
+**Category:** Islamic Law 
+**Summary:** The speaker asks about the consequences of introducing a new Sharia. They want to understand if this means that the previous Sharia is no longer valid.
+
+##  How can a new Sharia be valid if the previous one still exists?
+**Timestamp:** 47.079s
+**Category:** Islamic Law
+**Summary:** The speaker challenges the idea of a new Sharia being valid when the previous one is still in place. They argue that the previous Sharia cannot be valid for someone who was not addressed in it.
+
+##  How can previous Sharia be considered valid for someone who was not part of its original audience? 
+**Timestamp:** 49.44s
+**Category:** Islamic Law 
+**Summary:** The speaker continues to explore the concept of Sharia's validity. They question how a previous Sharia can be relevant to someone who was not part of its original audience.
+
+##  What are some examples of how previous Sharia might not be applicable to everyone?
+**Timestamp:** 54.239s
+**Category:** Islamic Law 
+**Summary:** The speaker requests examples of situations where previous Sharia might not be applicable to all people. They are looking for evidence to support their argument.
+
+##  Is there more than one argument against the validity of previous Sharia?
+**Timestamp:** 58.399s
+**Category:** Islamic Law 
+**Summary:** The speaker is looking for confirmation that there are multiple arguments against the continued validity of previous Sharia. They want to know if there are other reasons besides the example of the Japanese person.
+
+##  What kind of conviction does the speaker have regarding the validity of previous Sharia? 
+**Timestamp:** 60.359s
+**Category:** Islamic Law 
+**Summary:** The speaker describes their level of certainty about the validity of previous Sharia. They express a strong conviction about its limitations.
+
+##  How does the speaker view the origins of Jewish Sharia? 
+**Timestamp:** 67.799s
+**Category:** Jewish Law 
+**Summary:** The speaker discusses their perspective on the origin of Jewish Sharia. They believe that a significant portion of it is fabricated and not divinely inspired.
+
+##  What happens to previous Sharia when a new Messenger arrives?
+**Timestamp:** 75.68s
+**Category:** Islamic Law 
+**Summary:** The speaker asks about the fate of previous Sharia when a new Messenger is sent. They are curious to know if it is completely abrogated or simply forgotten. 
+
+
+## https://www.youtube.com/watch?v=P-FaPnpXBe8
+
+## What was the intention of the person who wrote the Quran? 
+**Category:**  Purpose
+**Timestamp:** 0.16s 
+**Answer:** The speaker believes the writer of the Quran did not intend for it to be seen as evidence for Islam. 
+
+## What did the author of the Quran want to show? 
+**Category:**  Purpose
+**Timestamp:** 3.04s 
+**Answer:** The speaker believes the author of the Quran wanted to show that Shar'ia is a good system, as it fulfills essential human needs.
+
+## What needs are not meant to be fulfilled by Shar'ia?
+**Category:**  Purpose
+**Timestamp:** 5.64s 
+**Answer:** The speaker did not specify what needs are not meant to be fulfilled by Shar'ia.
+
+## What does the speaker mean by 'for example the came'?
+**Category:**  Purpose
+**Timestamp:** 9.44s 
+**Answer:** The speaker clarifies that the example of camels is not relevant to the topic of Shar'ia's purpose. 
+
+## What are the five fundamental necessities or needs of life?
+**Category:**  Shar'ia
+**Timestamp:** 12.759s 
+**Answer:** The speaker lists the five necessities as: protecting religion, protecting life, protecting genealogy, protecting wealth, and protecting honor. 
+
+## What is the sixth protection mentioned?
+**Category:**  Shar'ia
+**Timestamp:** 29.48s 
+**Answer:** The sixth protection is protecting the public peace and tranquility, or social order. 
+
+## Why is it okay to add or subtract from the list of necessities?
+**Category:**  Shar'ia
+**Timestamp:** 43.48s 
+**Answer:**  The speaker suggests that the list can be adjusted because achieving the goal of public peace and tranquility could be achieved through other means.
+
+## What is the purpose of the Quran? 
+**Category:**  Purpose
+**Timestamp:** 56.559s 
+**Answer:** The speaker believes that the purpose of the Quran is to show that Shar'ia fulfills the basic necessities of life.
+
+## Why is the Quran not meant to be used as evidence for Islam?
+**Category:**  Purpose
+**Timestamp:** 98.119s
+**Answer:** The speaker believes the Quran should not be used as evidence for Islam because it's a sales pitch rather than a fundamental argument.  
+
+
+## https://www.youtube.com/watch?v=jSej-AiQB3U
+
+## Is voting in a general election permissible? 
+**Timestamp:** 1.48s 
+**Category:** Voting
+**Question:** The speaker asks about the permissibility of voting in general elections, particularly focusing on the London mayoral elections.
+
+**Answer:** The speaker argues that participating in a general election, including voting for a candidate like the Mayor of London, is not problematic. They believe that these elections are administrative bodies with no legislative power, making participation permissible. 
+
+## Is voting tactically permissible? 
+**Timestamp:** 6.24s
+**Category:** Voting
+**Question:** The speaker poses a question about the permissibility of tactical voting, specifically in the context of the US presidential election, where the goal is to "vote Biden out."
+
+**Answer:**  The speaker acknowledges that tactical voting, aiming to remove a specific candidate, is not inherently prohibited. However, they highlight the difficulty of coordinating and organizing such an effort. They also emphasize the need to publicly announce the intention behind tactical voting to avoid deception. 
+
+## Does vocalizing the intention behind a tactical vote override the initial prohibition? 
+**Timestamp:** 29.72s
+**Category:** Voting
+**Question:** The speaker questions whether explicitly stating the reason for a tactical vote – to remove a specific candidate – overrides the initial prohibition on supporting a non-Muslim ruler.
+
+**Answer:** The speaker is concerned about the idea that simply vocalizing a negative intention towards a candidate, while voting for another, can negate the potential harm of supporting that candidate's legislation. They wonder if this vocalization alone is enough to override the initial prohibition of voting for a candidate who might implement harmful laws. 
+
+## How does tactical voting differ from a traditional vote? 
+**Timestamp:** 383.08s
+**Category:** Voting
+**Question:** The speaker draws an analogy between voting for a candidate like Trump to defeat Biden and voting for someone to remove a specific individual from power. 
+
+**Answer:**  The speaker clarifies that the analogy is flawed. They argue that voting for Trump, even with the intention of removing Biden, is not equivalent to the situation discussed earlier, where the goal is to punish a candidate for their actions. 
+
+## Is voting in a presidential election analogous to choosing a place for sermons? 
+**Timestamp:** 471.44s
+**Category:** Voting
+**Question:** The speaker compares the situation of choosing a place for sermons, even if it contains idols, to the act of voting for a candidate who might implement harmful laws.
+
+**Answer:** The speaker uses the analogy of choosing a place for sermons to illustrate that the presence of undesirable elements (like idols) does not necessarily imply endorsement of those elements. They argue that the act of voting for a candidate with problematic policies does not necessarily mean accepting those policies, but rather using the voting system to achieve a desired outcome (removing a specific candidate).
+
+## How does abstaining from voting affect the outcome? 
+**Timestamp:** 893.839s 
+**Category:** Voting
+**Question:** The speaker discusses the possibility of abstaining from voting as a form of protest. They raise concerns about the effectiveness of this strategy in certain voting systems.
+
+**Answer:** The speaker acknowledges that abstaining from voting can be a form of protest, but they point out that it might not be effective in systems where votes for no one are not counted. They argue that in such systems, abstaining from voting would be less impactful than casting a vote strategically to reduce the influence of a specific candidate.
+
+## Can tactical voting be applied to other situations?
+**Timestamp:** 943.56s
+**Category:** Voting
+**Question:** The speaker asks whether tactical voting, with the intention of punishing a candidate, is applicable to situations beyond the US presidential election. They use the example of the UK Labour party election.
+
+**Answer:** The speaker cites the UK Labour party election as an example of tactical voting, where voters chose an independent candidate to punish the Labour party for specific actions. They highlight that, in this context, the voters' actions were a clear form of punishment and not necessarily an endorsement of the independent candidate.
+
+## What are the alternatives to tactical voting?
+**Timestamp:** 1047.36s
+**Category:** Voting
+**Question:** The speaker considers alternatives to tactical voting, particularly in situations where the goal is to remove a specific candidate from power.
+
+**Answer:** The speaker acknowledges that abstaining from voting could be an alternative to tactical voting. However, they point out that this approach might not be as effective in achieving the desired outcome, especially in situations where a specific candidate needs to be punished for their actions.
+
+## How can Muslims utilize tactical voting effectively?
+**Timestamp:** 1115.44s
+**Category:** Voting
+**Question:** The speaker addresses the challenge of educating Muslims about the permissibility and effectiveness of tactical voting. 
+
+**Answer:**  The speaker emphasizes the importance of educating Muslim voters about Islamic principles and understanding of Haram and Halal when it comes to voting. They suggest analyzing the candidates and the ballot, and strategically voting for the candidate least likely to win, even if that candidate is not the preferred choice. 
+
+## What are the potential benefits of tactical voting in the US election?
+**Timestamp:** 1171.24s
+**Category:** Voting
+**Question:** The speaker explores the potential effects of a successful tactical voting campaign in the US presidential election, focusing on the possibility of influencing Biden's policies.
+
+**Answer:** The speaker believes that a successful tactical voting campaign aimed at removing Biden from power could potentially force him to change his policies, particularly regarding his support for Israel. They suggest that the pressure created by such a campaign could lead to a shift in Biden's stance, potentially even before the election.
+
+## Is it permissible to support a potentially problematic candidate in order to remove a specific individual from power? 
+**Timestamp:** 1191.799s
+**Category:** Voting
+**Question:** The speaker reaffirms that, from a Shariah perspective, there is no inherent problem with tactical voting, even if it involves supporting a candidate who might have undesirable policies.
+
+**Answer:** The speaker emphasizes that the primary goal should be to remove the problematic candidate from power. They argue that the potential consequences of supporting a less desirable candidate are a matter of future uncertainty and should be left to Allah.
+
+## How can Muslims create a successful campaign for tactical voting?
+**Timestamp:** 1228.96s
+**Category:** Voting
+**Question:** The speaker discusses the importance of a well-organized and effective campaign for tactical voting.
+
+**Answer:** The speaker emphasizes the necessity of a well-structured and focused campaign for tactical voting to be successful. They believe that a strong campaign, with proper organization and engagement, could have a significant impact on the outcome of the election.
+
+## How can we understand Biden's true intentions?
+**Timestamp:** 1263.039s
+**Category:** Politics
+**Question:** The speaker questions Biden's sincerity regarding his statements about the Palestinian conflict.
+
+**Answer:** The speaker suggests that Biden's statements about the Palestinian conflict are not necessarily a reflection of his true beliefs, but rather a strategic move to avoid backlash. They point out that his actions, such as continuing to support Israel, contradict his stated intentions.
+
+## What are the potential consequences of Trump winning the election?
+**Timestamp:** 1297.0s
+**Category:** Politics
+**Question:** The speaker expresses concern about the potential negative consequences of Trump winning the election. 
+
+**Answer:** The speaker suggests that Trump's victory could lead to further detrimental policies towards Palestinians. They argue that Trump's potential actions would be motivated by a desire for revenge and could further harm the Palestinian cause.
+
+## What scenarios could lead to an alternative to Biden or Trump? 
+**Timestamp:** 1354.0s
+**Category:** Politics
+**Question:** The speaker speculates about scenarios that could lead to the emergence of an alternative candidate to Biden or Trump.
+
+**Answer:** The speaker suggests that unexpected events, such as a major political scandal or crisis, could force the Democrats to nominate a different candidate. They mention the possibility of choosing someone like Michelle Obama or Kennedy to replace Biden. 
+
+
+## https://www.youtube.com/watch?v=6a6zcwWlT1c
+
+##  0.28s : Waging War to Yemen meaning occupying 
+**Category:** War Strategy 
+
+**Question:**  What does waging war on Yemen mean in terms of occupation? 
+
+**Answer:** Occupying Yemen means controlling and administering it. This would involve deploying troops, establishing military bases, and potentially establishing a new government. It's a complex and challenging endeavor.
+
+## 2.399s : Yemen and this an order which is not
+**Category:** International Order 
+
+**Question:**  Is there an order preventing the United States from occupying Yemen? 
+
+**Answer:** There is no formal order preventing the United States from occupying Yemen. However, international law and diplomatic agreements can impose limitations and create significant obstacles.
+
+## 4.56s : possible now the United States could do
+**Category:** Military Capabilities 
+
+**Question:**  Is it possible for the United States to occupy Yemen, and if so, how?
+
+**Answer:**  While the United States has military capabilities, a full-scale occupation of Yemen presents significant challenges. It would require a substantial commitment of troops, resources, and logistical support, all while facing a strong resistance. 
+
+## 7.16s : that if they are ready to get 300
+**Category:** Military Deployment 
+
+**Question:** How many soldiers would the United States need to occupy Yemen? 
+
+**Answer:** The speaker suggests that a significant force of at least 300,000 soldiers would be necessary to occupy Yemen, highlighting the massive scale and logistical complexities involved.
+
+## 9.639s : 400,000 soldiers and invade y but where
+**Category:**  Military Logistics
+
+**Question:** Where would the US troops land in Yemen if they were to invade? 
+
+**Answer:** Finding suitable landing sites in Yemen would be a major challenge, as the terrain is difficult and the country is heavily defended. 
+
+## 12.32s : to land who will give you Landing place
+**Category:**  International Cooperation
+
+**Question:**  Would any country be willing to provide a landing place for US troops in Yemen?
+
+**Answer:** The speaker doubts any country would be willing to allow US troops to land on their soil to invade Yemen, especially due to the potential for retaliation from Yemenis and their allies.
+
+## 14.519s : in Saudi Arabia even the the beginning
+**Category:** Military Risk 
+
+**Question:**  What are the potential risks of landing US troops in Saudi Arabia for an invasion of Yemen? 
+
+**Answer:** Even in the initial stages of landing in Saudi Arabia, there is a high risk of devastating attacks from Yemen on Saudi Arabian soil. 
+
+## 17.68s : of the landing will if it happens there
+**Category:**  Military Risk
+
+**Question:**  What would happen if the US troops were to land in Saudi Arabia? 
+
+**Answer:** If the US troops landed in Saudi Arabia to launch an invasion of Yemen, it is highly likely that there would be severe retaliation from Yemen, potentially putting the Saudi regime at risk.
+
+## 20.92s : will be there will be a devastating
+**Category:**  Military Strategy
+
+**Question:**  How likely is it that Yemen would launch attacks on Saudi Arabia if US troops were to land there?
+
+**Answer:** The speaker believes that Yemen would undoubtedly launch devastating attacks against Saudi Arabia if US troops were to land there. This suggests a high probability of retaliation.
+
+## 23.8s : attacks from Yen against Saudi Arabia
+**Category:**  Military Impact 
+
+**Question:**  What would be the impact of Yemeni attacks on Saudi Arabia? 
+
+**Answer:**  The attacks would likely be devastating to Saudi Arabia, potentially jeopardizing the regime's stability. 
+
+## 26.359s : that regime will most lik be tobl and
+**Category:**  Military Consequences
+
+**Question:**  What would be the consequences for Saudi Arabia if it allowed US troops to land there to invade Yemen?
+
+**Answer:**  The Saudi Arabian regime would be at high risk of being toppled and destroyed, even before the invasion of Yemen began, due to the likely retaliation from Yemeni forces.
+
+## 28.279s : destroyed before even because you cannot
+**Category:**  Logistics and Preparation
+
+**Question:**  Why is it unlikely that the US could successfully occupy Yemen? 
+
+**Answer:** It would be difficult to mobilize and transport enough troops and supplies to Yemen, especially considering the challenges of landing forces and securing logistical routes.
+
+## 30.599s : get 400,000 remember the G War so
+**Category:**  Historical Comparison
+
+**Question:**  How does the potential occupation of Yemen compare to the US invasion of Iraq?
+
+**Answer:**  The speaker uses the Gulf War as an example, highlighting the time it took to deploy and settle forces, suggesting that a similar operation in Yemen would require considerable time and effort.
+
+## 33.8s : liberation of quit it took several
+**Category:**  Military Deployment Time
+
+**Question:** How long did it take to deploy and settle forces during the Gulf War? 
+
+**Answer:**  The Gulf War required several months for the deployment and stabilization of forces before operations could proceed.
+
+## 35.879s : months until all these forces were there
+**Category:**  Military Deployment
+
+**Question:**  What are the key steps involved in deploying and settling forces for a military operation?
+
+**Answer:**  It takes significant time to deploy and settle forces, which includes moving troops, establishing logistical support networks, and securing key locations before launching offensive operations.
+
+## 37.76s : until were settled and the and the and
+**Category:** Military Preparation
+
+**Question:** What other steps need to be taken before launching a military operation?
+
+**Answer:**  Before a full-scale military operation, a thorough planning phase is necessary, including defining objectives, mapping out routes, and coordinating with allies.
+
+## 41.44s : the front lines are
+**Category:**  Military Planning
+
+**Question:**  What needs to be decided in the planning phase of a military operation?
+
+**Answer:**  Before launching a military operation, crucial steps include identifying frontline positions, establishing communication channels, and preparing contingency plans.
+
+## 43.039s : clearly marked and the the plans are in
+**Category:**  Military Coordination
+
+**Question:**  How is a military operation planned and coordinated?
+
+**Answer:**  The planning phase involves developing detailed strategies, assigning specific roles and responsibilities to different units, and establishing clear lines of communication.
+
+## 46.32s : place etc etc this is all doesn't it's
+**Category:**  Military Feasibility
+
+**Question:**  Is a full-scale invasion of Yemen feasible?
+
+**Answer:**  The speaker argues that a full-scale occupation of Yemen is highly unlikely to succeed due to the logistical challenges, potential for retaliation, and the complex terrain of the country.
+
+## 49.8s : not going to work that it's not going to
+**Category:**  Military Feasibility
+
+**Question:**  Why would a full-scale invasion of Yemen fail?
+
+**Answer:** The speaker concludes that an invasion of Yemen is simply not feasible, considering the high risk of retaliation and the difficulty of achieving a sustainable military presence in the country. 
+
+## 51.76s : work with the kind situation account for
+**Category:**  International Context
+
+**Question:**  What other factors should be considered when assessing the feasibility of invading Yemen? 
+
+**Answer:** The speaker suggests that the international political climate and the complex dynamics of the region would also have to be factored into any plans for invading Yemen, potentially creating further challenges. 
+
+
