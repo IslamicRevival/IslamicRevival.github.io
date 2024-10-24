@@ -17587,3 +17587,4096 @@ The speaker believes that there is a movement among ultra-orthodox Jews to rebui
 The speaker believes that the coming weeks will be crucial for the conflict, with the potential for major events in both Gaza and the West Bank. They emphasize the importance of remaining vigilant and prepared for any possible developments. 
 
 
+## https://www.youtube.com/watch?v=b6INC5e_jhw
+
+##  1.14s:  Name of Jesus
+**Category:**  Name 
+**Question:** What about the Greek writing of the name "Isa" because we have the earliest writings of Christianity in our hands, we don't have any early Aramaic or early Arabic writings by Matthew, Ezekiel, or the others; only bits of it translated are available in the four gospels and possibly other places, but definitely that one is not available. 
+**Answer:** The speaker suggests that anyone with contact with Hamza Yusuf should direct that question to him to check the issue of the name Isa's usage in Greek writings. This is a minor detail but could be important to compare with the Septuagint Greek and ancient Greek translation of the Old Testament. 
+
+## 35.76s:  Maryam and Maria
+**Category:**  Comparison
+**Question:**  So we compared the story of Maryam with sword Maria.
+**Answer:** The speaker compares the story of Maryam in the Quran to the story of Mary in the Bible. It is unclear what exactly the speaker is comparing. 
+
+## 37.86s:  Previous Ayahs
+**Category:**  Interpretation
+**Question:** The two previous Ayahs essentially said...
+**Answer:** The speaker is talking about the previous verses in the Quran that detail the announcement of the Messiah.  
+
+## 402.84s:  Who is the translator?
+**Category:**  Translation
+**Question:**  Who is the translator of the first translation?
+**Answer:** The speaker is asking about the translator of the first translation of the Quran verse 19:19. The second translator is the one the speaker is most familiar with. 
+
+## 413.46s:  Word for Offspring
+**Category:**  Word choice
+**Question:** What does the word "walad" mean?
+**Answer:**  The speaker notes that both translations did not accurately translate the word "walad," which means offspring and applies to both boys and girls.  
+
+## 453.9s:  Why the confusion?
+**Category:**  Interpretation
+**Question:** It's interesting to see that people have taken away from that obviously the announcement that the name given is a female name, so they thought that she said she was amazed that she may get a boy or a son. 
+**Answer:** The speaker is pointing out the misconception that Mary was amazed she would give birth to a son, when the Quran verse says that she was amazed she could have any offspring, regardless of gender. The speaker believes that the Quran's wording is more accurate, and the misconception arose from a misunderstanding of the original Arabic. 
+
+## 501.96s:  Natural Law
+**Category:**  Miracle
+**Question:**  How can I give birth to a child without a man?
+**Answer:**  The speaker points out the obvious physical impossibility of Mary conceiving without having physical contact with a man. They acknowledge the possibility of a miracle from Allah. 
+
+## 532.459s:  Angels Present
+**Category:**  Angels
+**Question:**  There were several angels present, one of them always talking to her?
+**Answer:** The speaker clarifies that several angels were present during Mary's conception, one of whom was talking to her. This aligns with the story of the Angel Gabriel announcing Mary's pregnancy.  
+
+## 553.56s:  One Angel Leading
+**Category:**  Angels
+**Question:**  It's an intelligence of angels led by one Angel possibly because he's plural and insulated?
+**Answer:**  The speaker suggests that the angels present during Mary's conception were led by one Angel, most likely Gabriel. This interpretation is based on the plural wording used in the Quran verse. 
+
+## 602.1s:  Will of Allah
+**Category:**  Allah's Power
+**Question:**  If he decides something, he simply says "be" and then it happens?
+**Answer:** The speaker reiterates the Quran's teaching that when Allah wills something, it simply happens. This is highlighted by the story of Mary's conception, where the Angel's word "be" led to Mary's pregnancy, despite its physical impossibility. 
+
+## 685.339s:  Meaning of Injil
+**Category:**  Interpretation
+**Question:** Let us comment on this piece itself.
+**Answer:** The speaker is referencing the Quran verse 19:19, which mentions teaching "the book, wisdom, the Torah, and the gospel." They introduce a discussion about the meaning of "Injil" (gospel) as used in this verse. 
+
+## 689.1s:  Who will teach Isa?
+**Category:**  Teaching
+**Question:**  So we will teach him.
+**Answer:** The speaker is referencing the Quran verse 19:19, which states that Allah will teach Isa "the book, wisdom, the Torah, and the gospel." This refers to Allah's divine knowledge and guidance that Isa would be given. 
+
+## 703.14s:  Quran's Origin
+**Category:**  Quran
+**Question:**  What is the meaning of "Ali Injil"?
+**Answer:**  The speaker references a video discussing the meaning of "Ali Injil" (the gospel). One academic claimed that the Quran is from Muhammad, meaning that the angel delivered the Quran to Muhammad. 
+
+## 743.1s:  Meaning of Injil 
+**Category:**  Terminology
+**Question:**  What is the meaning of "Injil"?
+**Answer:**  The speaker discusses the meaning of "Injil" in relation to the Quran, noting that scholars disagree on its exact meaning. It is often interpreted as revelation or teaching. 
+
+## 765.0s:  Revelation and Hikmah
+**Category:**  Terminology
+**Question:**  In the Quran, if you use it generally, the revelation... 
+**Answer:** The speaker differentiates between "hikmah" (wisdom) and "revelation." The Quran uses "hikmah" to refer to wisdom given to prophets and the revelation from Allah.
+
+## 793.38s:  Book in Heaven 
+**Category:**  Terminology
+**Question:**  The "Injil" could be described as a book in heaven. 
+**Answer:** The speaker suggests that the "Injil" could be interpreted as a book in heaven, meaning the divine knowledge and teaching that Allah has given to Isa. 
+
+## 805.16s:  Teaching of Musa 
+**Category:**  Terminology
+**Question:** The "Injil" could be considered as the teaching, which is what was given to Musa. 
+**Answer:**  The speaker discusses the word "Injil" in relation to the teaching given to Musa, which is not limited to the tablets but includes the entire body of knowledge and guidance he received from Allah. 
+
+## 832.32s:  Replacing Tablets
+**Category:**  Torah
+**Question:**  Allah replaced the tablets. 
+**Answer:** The speaker explains that the first set of tablets given to Musa were broken when the Israelites worshipped the golden calf. Allah replaced the tablets with a new set, both of which were placed in the Ark of the Covenant.
+
+## 851.76s:  Revelation to Isa
+**Category:**  Revelation
+**Question:**  "Injil" is the specific revelation to Isa. 
+**Answer:** The speaker clarifies that "Injil" refers to the specific revelation given to Isa, not the books written later claiming to be the gospel. 
+
+## 875.22s:  Allah's Involvement
+**Category:**  Allah's Word
+**Question:**  Allah has nothing to do with the books written later claiming to be the "Injil"?
+**Answer:** The speaker emphasizes that Allah is not responsible for the books written later claiming to be the gospel. He stresses that the "Injil" refers to the divine knowledge given to Isa, not the interpretations and writings of others. 
+
+## 893.12s:  Authentic Gospels
+**Category:**  Interpretation
+**Question:**  Some missionaries claim that the gospels are authentic and approved by Allah? 
+**Answer:**  The speaker addresses the claim that the gospels are authentic and approved by Allah, arguing that this is not true and that these books are attempts to capture Isa's history and teachings, but they are not divinely inspired. 
+
+## 922.86s:  True Gospel 
+**Category:**  Bible
+**Question:**  What is the "Injil" really?
+**Answer:**  The speaker emphasizes that the "Injil" is the divine knowledge and teaching given to Isa. It is not the books written later, which contain different interpretations and stories. 
+
+## 931.74s:  General Word
+**Category:**  Terminology
+**Question:**  "Injil" is similar to the general word "answer." 
+**Answer:**  The speaker compares "Injil" to the general word "answer," suggesting that it encompasses the entirety of Allah's knowledge and guidance given to Isa, not just a specific book. 
+
+## 947.42s:  Revelation and Book
+**Category:**  Terminology
+**Question:**  All revelations have come down and the book may be in heaven. 
+**Answer:** The speaker explains that the revelation given to prophets may be in heaven and the specific version of the revelation given to a prophet.  
+
+## 979.32s:  Islamic View
+**Category:**  Islamic Beliefs
+**Question:**  He dispels many myths and shows textual evidence of the Quran. 
+**Answer:** The speaker is referencing a video that addresses the meaning of "Injil." The video debunks misconceptions about the Quran and the gospel, presenting textual and historical evidence for the Quran's view of the gospel. 
+
+## 1000.019s:  Gospel's Content
+**Category:**  Bible
+**Question:**  The story of crucifixion is present in all the gospels. 
+**Answer:** The speaker points out that the story of Isa's crucifixion is central to most versions of the gospel.  
+
+## 1043.64s:  Quran's Take
+**Category:**  Quran
+**Question:**  What does the Quran say about the story of Isa's crucifixion? 
+**Answer:** The speaker clarifies that the Quran does not explicitly endorse the story of Isa's crucifixion as it is presented in the gospels. It instead emphasizes that Isa was lifted up to Allah and purified from those who rejected him. 
+
+## 1140.179s:  Isa's Message 
+**Category:**  Mission
+**Question:**  "I will make him an apostle to the children of Israel... I have come to you with a message from your sustainer."
+**Answer:**  The speaker references the Quran verse 19:30 and questions the translation of "message." The second translation is preferred as it aligns with the context of the verse. 
+
+## 1151.94s:  Message and Signs
+**Category:**  Terminology
+**Question:**  Why do the translations say "message" here?
+**Answer:** The speaker discusses the translations of Quran verse 19:30, which mentions Isa coming with a message. The speaker argues that the translations should emphasize the signs and evidence that Isa brought, rather than just focusing on the message itself. 
+
+## 1179.059s:  Different Translations
+**Category:**  Translation
+**Question:**  We should stick to the second translation and then maybe you picked out another because the first one is many of the words I don't know why it's stuck in a quote system.
+**Answer:**  The speaker continues the discussion about the translation of Quran verse 19:30, suggesting that the second translation is more accurate than the first one, which seems to have used a stock quote system.  
+
+## 1182.12s:  Meaning of "Rab"
+**Category:**  Terminology
+**Question:**  The issue is that "rab" is used as a singular apostle.
+**Answer:** The speaker is referring to the use of the word "rab" in Quran verse 19:30.  He believes that Muhammad Assad, the translator, was influenced by the association of "rab" with "sustainer" and wrongly translated it as "sustainer" rather than "lord" or "master."  
+
+## 1208.539s:  Translation Inaccuracies
+**Category:**  Translation
+**Question:**  Muhammad Assad may have been infected by someone's happy thought and got stuck with the issue of "rab."
+**Answer:**  The speaker continues to critique the translation of Muhammad Assad, suggesting that he was influenced by the common understanding of "rab" as "sustainer" and missed the more accurate translation of "lord" or "master" in the context of the verse.  
+
+## 1257.9s:  Confusion in Translation
+**Category:**  Translation
+**Question:**  There's some confusion that I think Muhammad Assad has been a bit infected. 
+**Answer:** The speaker reiterates that he believes Muhammad Assad's translation of Quran verse 19:30 is inaccurate, particularly regarding the word "rab," which he believes should be translated as "lord" or "master," not "sustainer." 
+
+## 1278.38s:  Science and Signs
+**Category:**  Terminology
+**Question:**  Let's listen to your science or evidences or higher science. 
+**Answer:**  The speaker is referencing the Quran verse 19:30, which mentions Isa coming with a "message from your sustainer." He connects this message to the "science" of the Quran, which is the divine knowledge revealed in it. 
+
+## 1290.299s:  Miraculous Signs
+**Category:**  Miracles
+**Question:**  Every verse is a miracle.
+**Answer:**  The speaker believes that every verse of the Quran is a miracle in itself. This is because it contains divine knowledge and wisdom that surpasses human understanding. 
+
+## 1306.32s:  Miraculous Bird
+**Category:**  Miracles
+**Question:**  "I will create a bird like for you from clay and breathe into it and by God's permission it will be a bird."
+**Answer:** The speaker references Quran verse 19:30, which mentions Isa creating a bird from clay. He connects this with Isa's miraculous abilities, which are a sign from Allah to confirm his mission.  
+
+## 1315.7s:  Non-Canonical Gospels
+**Category:**  Bible
+**Question:**  This is not in the canonical gospels.
+**Answer:**  The speaker points out that the story of Isa creating a bird from clay is not found in the canonical gospels, which are the most widely accepted books of the Bible. It can be found in some non-canonical gospels.
+
+## 1362.96s:  Leprosy
+**Category:**  Disease
+**Question:**  Lepers, what do you know about them?
+**Answer:** The speaker is referencing Quran verse 19:30, which mentions Isa healing lepers. He explains that leprosy is a skin disease characterized by white spots that can spread to the whole body. It is common in the Middle East and Asia, but less frequent in other parts of the world. 
+
+## 1433.159s:  Healings
+**Category:**  Miracles
+**Question:**  He healed lepers and other diseases. 
+**Answer:**  The speaker highlights the Quran's account of Isa's miraculous healings, including healing lepers and other illnesses. He believes that these miracles are a sign of Isa's divine power and mission. 
+
+## 1446.44s:  Knowing What People Eat
+**Category:**  Miracles
+**Question:**  "I will tell you what you may eat and what you should store in your home." 
+**Answer:** The speaker is referencing Quran verse 19:30. He highlights the miraculous nature of this statement, as Isa could tell people what they were eating and storing in their homes without having access to their houses or any communication with them.
+
+## 1479.659s:  Isa's Message
+**Category:**  Interpretation
+**Question:**  A further important point about the messages. 
+**Answer:** The speaker transitions to a discussion about the message that Isa brought. 
+
+## 1507.76s:  Torah's Content
+**Category:**  Bible
+**Question:**  "I will make permissible for you some of the things that were forbidden to you." 
+**Answer:** The speaker is referencing Quran verse 19:30, which mentions Isa making permissible certain things that were forbidden under the Torah.  
+
+## 1522.14s:  Meaning of Torah
+**Category:**  Terminology
+**Question:** It's interesting to say "Torah"
+**Answer:**  The speaker discusses the meaning of "Torah," explaining that it refers to the revelation given to Musa, not just the five books in the Old Testament. The word "Torah" is more encompassing and includes the teachings and practices of the Israelites as well.
+
+## 1539.08s:  Good Faith
+**Category:**  Bible
+**Question:**  Let's assume this happened in good faith, not an attempt to mislead people. 
+**Answer:** The speaker acknowledges the possibility that the authors of the Old Testament books were acting in good faith, but still acknowledges that the Torah contains elements that cannot be attributed to Musa himself, such as the description of his own death. 
+
+## 1558.22s:  Parts of the Torah
+**Category:**  Bible
+**Question:**  The "Torah" contains parts of the revelation given to Musa.
+**Answer:** The speaker clarifies that the "Torah" is not limited to the five books of the Old Testament, but encompasses the entirety of the revelation given to Musa, parts of which may be lost. 
+
+## 1564.2s:  Musa's Death
+**Category:**  Bible
+**Question:**  The description of Musa's death cannot be from him.
+**Answer:** The speaker argues that the description of Musa's death in the Old Testament cannot be attributed to Musa himself, as he could not have written about his own death. This suggests that the "Torah" contains elements that were written later by others. 
+
+## 1577.159s:  Genesis' Origin
+**Category:**  Bible
+**Question:**  Genesis was taken from previous prophets, maybe from Joseph and Jacob.
+**Answer:**  The speaker discusses the origins of Genesis, arguing that it may have been compiled from the stories of previous prophets, such as Joseph and Jacob, and may have been edited and combined with pagan stories.
+
+## 1593.96s:  Creation Story
+**Category:**  Creation
+**Question:**  The story of creation is discussed more extensively in this Discord recording.
+**Answer:** The speaker mentions a Discord recording that discusses the creation story in more detail, comparing the Quran's account to the Old Testament's account.
+
+## 1627.2s:  Nativity of Mary
+**Category:**  Bible
+**Question:**  We continue the discussion of the three interior, so it must be out as a title of "The Nativity of Mary." 
+**Answer:**  The speaker transitions the discussion to the story of Mary's birth, which is known as "The Nativity of Mary" in Christian tradition.
+
+## 1642.26s:  Confirming the Law
+**Category:**  Bible
+**Question:**  He's confirming that he's not changing the law, he's just completing it. 
+**Answer:**  The speaker is referencing the Quran verse 19:30 and pointing out that Isa's mission was not to change the law, but to complete it and clarify some aspects of it. This is similar to what is claimed by some Christians regarding the relationship between the Old Testament and New Testament. 
+
+## 1663.26s:  Clarifying the Law
+**Category:**  Bible
+**Question:**  He will clarify that this is actually lawful. 
+**Answer:** The speaker explains that Isa's role includes clarifying certain aspects of the law, which may have been misconstrued or added to by scholars.  
+
+## 1690.62s:  Excessive Laws
+**Category:**  Bible
+**Question:**  They indulge in hair splitting and extreme deduction.
+**Answer:**  The speaker criticizes the excessive interpretations and deductions of scholars, which led to a long list of obligations and prohibitions that made life difficult for many. 
+
+## 1702.5s:  Clarifying Prohibition
+**Category:**  Bible
+**Question:**  These prohibitions are just the inventions of scholars, not really what Musa said.
+**Answer:** The speaker argues that some of the prohibitions found in Jewish tradition are not based on Musa's actual teachings but on later interpretations and additions by scholars. 
+
+## 1732.5s:  Making Things Lawful
+**Category:**  Bible
+**Question:**  He will declare some things to be lawful and permissible.
+**Answer:** The speaker discusses how Isa's teachings clarified and changed some of the prohibitions found in the Torah, making certain things lawful and permissible. 
+
+## 1741.559s:  Sacrifices
+**Category:**  Islamic Practices
+**Question:**  The qurbani, the sacrifice.
+**Answer:** The speaker mentions the qurbani, a sacrifice practiced by Muslims during the Hajj pilgrimage. 
+
+## 1750.08s:  Sacrifices and Repentance
+**Category:**  Islamic Practices
+**Question:**  Acts of repentance must be combined with sacrifice. 
+**Answer:**  The speaker discusses the Islamic concept of repentance, which often involves offering a sacrifice as a form of atonement. 
+
+## 1757.58s:  Prohibition and Halāl
+**Category:**  Terminology
+**Question:**  That was an obligation and violation of it was haram.
+**Answer:** The speaker explains that the qurbani was a religious obligation, and not performing it was considered haram (forbidden). Isa made it halal (permitted) to perform or not perform the sacrifice, allowing for greater flexibility. 
+
+## 1794.6s:  Evidences from Allah
+**Category:**  Allah's Word
+**Question:**  "Again, I did bring you evidences from your lord." 
+**Answer:** The speaker references Quran verse 19:30, which reiterates Isa's mission as a messenger with evidence from Allah. This emphasizes the divine nature of his teachings.
+
+## 1813.7s:  Fundamental Principle
+**Category:**  Monotheism
+**Question:**  This is the fundamental principle of all revelation and all messages.
+**Answer:**  The speaker introduces a discussion of the fundamental principle of all revelations and messages, which is the recognition of Allah as the one true God and the only one worthy of worship.
+
+## 1819.32s:  Worshiping Allah
+**Category:**  Monotheism
+**Question:**  God is my lord and your lord, so worship him.
+**Answer:** The speaker emphasizes the central message of the Quran and the teachings of Isa, which is to worship Allah alone. 
+
+## 1841.399s:  Greatest Sin
+**Category:**  Sin
+**Question:**  What is the greatest sin? 
+**Answer:**  The speaker touches on the concept of sin and asks what the greatest sin is, referencing the idea of sinning against the spirit, which is associated with associating partners with Allah. 
+
+## 1849.2s:  Sin Against the Spirit
+**Category:**  Sin
+**Question:**  Is it against the sin against the spirit that you mean by anybody beside Allah?
+**Answer:** The speaker clarifies that "sinning against the spirit" refers to associating partners with Allah. It is considered the greatest sin, with other sins like murder coming after it. 
+
+## 1865.159s:  Straight Path
+**Category:**  Truth
+**Question:**  This is the straight path.
+**Answer:** The speaker emphasizes the importance of following the straight path, which is defined by acknowledging Allah as the one true God and worshipping him alone. 
+
+## 1874.659s:  Definition of Worship
+**Category:**  Worship
+**Question:**  Worship me with the correct definition of meaning. 
+**Answer:** The speaker discusses the definition of worship, explaining that it is not limited to physical actions but involves recognizing Allah as the ultimate authority and submitting to his commands without questioning them.
+
+## 1893.44s:  Worshiping Allah
+**Category:**  Worship
+**Question:**  Attribute the full divinity to me.
+**Answer:**  The speaker explains that true worship involves recognizing Allah as the ultimate being and giving him all credit for creation and guidance. 
+
+## 1949.46s:  Recognizing Allah
+**Category:**  Worship
+**Question:**  The worship is recognizing Allah and accepting his command without any question.
+**Answer:**  The speaker clarifies the essence of worship, which involves acknowledging Allah as the ultimate authority and accepting his commands without questioning them in principle.
+
+## 1979.039s:  Recognizing the Divine
+**Category:**  Existence
+**Question:**  What is the most familiar that you recognize that your essence will exist?
+**Answer:** The speaker is asking what is the most basic understanding of reality that we can perceive:  that we are finite beings and there must be an infinite being that created us.
+
+## 2017.62s:  Purpose of Life
+**Category:**  Purpose
+**Question:**  What gives you your understanding of yourself and your place in the universe? 
+**Answer:** The speaker explores the idea of purpose, suggesting that recognizing Allah as the creator provides a sense of understanding our own existence and place in the universe. This is contrasted with the idea of a meaningless, deterministic world.
+
+## 2051.58s:  Twisted Path
+**Category:**  Truth
+**Question:**  Any other path is a twisted path.
+**Answer:**  The speaker emphasizes that any path that denies the existence of Allah as the creator and denies the purpose of life is considered a twisted path. 
+
+## 2082.359s:  Place in Reality
+**Category:**  Existence
+**Question:**  You have to have knowing your place in the existing reality. 
+**Answer:** The speaker argues that recognizing Allah as the creator is essential for understanding our place in reality.  It gives meaning to our lives and helps us understand our purpose.
+
+## 2093.7s:  Blind Nature
+**Category:**  Creation
+**Question:**  Is it just a natural, blind nature which is evolving and dynamically forever?
+**Answer:** The speaker rejects the idea that the universe is simply a random, blind, and evolving process. He argues that the existence of creation points to a deliberate act of creation by Allah. 
+
+## 2113.68s:  Purpose and Revelation
+**Category:**  Purpose
+**Question:**  The purpose can be gleaned from revelation.
+**Answer:** The speaker connects the purpose of life to revelation, suggesting that Allah's message gives us a sense of purpose and direction. This contrasts with the idea of living without a clear purpose. 
+
+## 2124.96s:  Blind Man in a Jungle
+**Category:**  Metaphor
+**Question:**  You will just go in a circle like a blind man in a jungle. 
+**Answer:**  The speaker uses the metaphor of a blind man in a jungle to describe someone living without recognizing Allah as the creator. They will wander aimlessly without purpose or direction. 
+
+## 2148.92s:  Success in Life
+**Category:**  Truth
+**Question:**  Then you will become successful.
+**Answer:**  The speaker concludes that recognizing Allah as the creator and submitting to his will leads to true success in life. 
+
+## 2159.579s:  Struggle for Survival
+**Category:**  Life
+**Question:**  Everyone is struggling alive, even going out to get food. 
+**Answer:** The speaker acknowledges the struggle for survival that is inherent in human life, but he connects this struggle to our need to understand our purpose and our relationship with Allah.  
+
+## 2219.64s:  Focus on Isa
+**Category:**  Focus
+**Question:**  The rest of the story and childbeth is not given, that's given in the story of Maryam. 
+**Answer:** The speaker explains that the focus is on the story of Isa, and the details of his birth and childhood are covered in the story of Maryam (Mary) in the Quran.
+
+## 2231.7s:  Disputes with Christians
+**Category:**  Debate
+**Question:**  The issue here is the discussion with the Christians.
+**Answer:**  The speaker acknowledges the central theme of the discussion, which is to address the beliefs and arguments of Christians about the nature of Isa.
+
+## 2241.42s:  Secondary Issues
+**Category:**  Focus
+**Question:**  It's not important to discuss how he was born.
+**Answer:** The speaker clarifies that the focus of the discussion is not on the details of Isa's birth, but rather on the theological implications of his being a messenger from Allah.
+
+## 2251.079s:  Abyssinian Migration
+**Category:**  History
+**Question:**  When they went to the Abyssinian... 
+**Answer:** The speaker refers to the historical event of the Muslim migration to Abyssinia, a region in modern-day Ethiopia. This migration occurred during the early stages of Islam to escape persecution in Mecca. 
+
+## 2280.98s:  Isa's Supporters
+**Category:**  Bible
+**Question:**  When Jesus sends their refusal to acknowledge the truth, he asked "who are my supporters in God's cause?"
+**Answer:**  The speaker references the story of Isa asking his followers who supported him in his mission. This highlights the challenge he faced in convincing the Israelites of his message. 
+
+## 2301.859s:  Duration of Isa's Mission
+**Category:**  Bible
+**Question:**  We don't know how long the mission of Isa lasted.
+**Answer:** The speaker acknowledges that the duration of Isa's mission is not explicitly stated in the gospels, although it is commonly believed to be around three years.  
+
+## 2316.3s:  Rejection of Isa
+**Category:**  Bible
+**Question:**  There was a general consensus of rejecting him by the Israelites.
+**Answer:**  The speaker points out that the Israelites generally rejected Isa's message and his claim as the Messiah, which contributed to the tension and conflict he experienced.
+
+## 2322.96s:  Isa's Feeling of Isolation
+**Category:**  Bible
+**Question:**  They were rejecting the message and he felt comfort was not coming from them. 
+**Answer:** The speaker emphasizes that Isa felt a sense of isolation and lack of support from the Israelites, leading him to ask who truly believed in his message.  
+
+## 2332.92s:  Isa's True Supporters
+**Category:**  Bible
+**Question:**  Who will support me because of Allah?
+**Answer:**  The speaker highlights Isa's question about his true supporters, emphasizing that he sought those who believed in his message because of their faith in Allah, not out of personal gain or favoritism. 
+
+## 2341.859s:  Submission to Allah
+**Category:**  Islamic Beliefs
+**Question:**  We believe in Allah, so bear witness that we have submitted. 
+**Answer:**  The speaker is referencing the disciples' response to Isa's question about who supported him. They declare their submission to Allah, stating that they are Muslims, meaning they believe in and submit to Allah's will.
+
+## 2353.92s:  All Prophets and Islam
+**Category:**  Islamic Beliefs
+**Question:**  All prophets before Muhammad and all the revelations are Islam.
+**Answer:** The speaker emphasizes that all prophets, including Isa, preached the message of Islam, which means submission to Allah's will. He clarifies that Islam is not a new religion but the original message revealed to all prophets. 
+
+## 2372.42s:  Islam and Islām
+**Category:**  Terminology
+**Question:**  Be clear about the distinction between Islām and Islam.
+**Answer:** The speaker draws attention to the distinction between the Arabic words "Islām" and "Islam." "Islām" refers to the concept of submission to Allah's will, while "Islam" is the specific religion based on this principle.
+
+## 2388.26s:  Witnesses
+**Category:**  Islamic Beliefs
+**Question:**  "Our Lord, we believe in what you have revealed and we follow the messenger, so record us as witnesses."
+**Answer:** The speaker references the disciples' request to be recorded as witnesses of their belief in Isa's message and their commitment to following his teachings. 
+
+## 2421.72s:  Plot Against Isa
+**Category:**  Bible
+**Question:**  There was a plot to kill Isa.
+**Answer:**  The speaker references the events leading up to Isa's crucifixion, highlighting the plot that was hatched against him by some of the Israelites.
+
+## 2439.5s:  Plot Against Isa
+**Category:**  Bible
+**Question:**  And they, the unbelievers plotted against Jesus, but God calls their schemes to fail. 
+**Answer:**  The speaker summarizes the Quran's account of the plot against Isa, emphasizing that Allah thwarted their plans. This demonstrates the divine protection Isa received despite the opposition he faced. 
+
+## 2455.44s:  Ending of the Plot
+**Category:**  Bible
+**Question:**  That's the end of the story.
+**Answer:** The speaker summarizes the story of the plot against Isa and transitions to discussing the aftermath of the plot and Isa's fate. 
+
+## 2485.5s:  Isa's Movements
+**Category:**  Bible
+**Question:**  They were different, they had different activities. 
+**Answer:**  The speaker is referring to the various factions and leaders among the Israelites, who were not united under a single government. This explains why Isa needed to navigate different regions and avoid potential enemies.
+
+## 2514.24s:  Azar's Death
+**Category:**  Bible
+**Question:**  There were those who were plotting to catch him. 
+**Answer:** The speaker references a story in Luke about Isa's encounter with a man named Azar, who was sick. Isa delayed going to see him because he was aware of a plot against him. This highlights Isa's awareness of danger and his need to be cautious.
+
+## 2531.28s:  Final Plot
+**Category:**  Bible
+**Question:**  The final plot was given in the current gospels, but it is obscure and confusing.
+**Answer:** The speaker acknowledges that the account of the final plot against Isa in the gospels is unclear and potentially misleading, suggesting that it is a fictionalized account. 
+
+## 2592.44s:  Divine Counter-Plot
+**Category:**  Quran
+**Question:**  Allah said, "Jesus, I will cause you to die and raise you up to me. 
+**Answer:** The speaker summarizes the Quran's account of Allah's plan for Isa, explaining that Allah would take him up to himself and purify him from those who rejected him. This is a key point of difference between the Quran's account and the gospels. 
+
+## 2619.0s:  Summary of Events
+**Category:**  Quran
+**Question:**  This is a fantastic summary of that development. 
+**Answer:** The speaker praises the Quran's concise and powerful summary of the events surrounding Isa's death and his ascension to Allah.  
+
+## 2650.92s:  Angels and Isa
+**Category:**  Bible
+**Question:**  Two angels came to pacify him. 
+**Answer:** The speaker is referencing the gospels' account of Isa being comforted by angels in the Garden of Gethsemane before his arrest. However, he suggests that the story of Isa's encounter with angels could be interpreted differently.  
+
+## 2662.64s:  Allah's Comfort
+**Category:**  Quran
+**Question:**  Allah gave him information that he didn't need to worry, he would face the transitions. 
+**Answer:** The speaker suggests that instead of angels, Isa was comforted by Allah himself, who assured him that he would be taken up to him and purified from those who rejected him. This aligns with the Quran's account.
+
+## 
+
+## https://www.youtube.com/watch?v=aKjLxPGk5C4
+
+## Questions Asked in the YouTube Video
+
+**0:57**  |  **Quranic Verse Explanation** |  The speaker asks about the meaning of the verse that mentions “those deeply rooted in knowledge and the believers who believe in what has been revealed to you.” He specifically inquires about the grammatical structure of the verse.
+>  The speaker explains that the phrase “those deeply rooted in knowledge” is in the accusative case, indicating that it is a direct object of a hidden verb. This means that the verse is actually saying "I specifically mention those who are deeply rooted in knowledge", highlighting their dedication to faith and knowledge. 
+
+**4:41**  |  **Prophets and Revelation** | The speaker inquires about the verse that mentions prophets like Noah, Abraham, and Moses, and asks why they are being highlighted in this particular context.
+> The speaker clarifies that the verse's focus on these specific prophets is due to the intended audience - the "People of the Book." They represent a key lineage in prophethood, especially within the last 4000 years. The speaker also acknowledges the possibility of other prophetic lines in different parts of the world, mentioning potential examples in China, India, and Native American cultures. 
+
+**10:23**  |  **Direct Revelation to Moses** | The speaker asks about the specific mention of God speaking directly to Moses, wondering if this was unique to him or if other prophets also experienced direct communication with God. 
+>  The speaker explains that while direct communication with God is a rare occurrence for prophets, it seems to have been a defining characteristic of Moses's mission. He suggests that while other prophets may have received direct communication on certain occasions, Moses had a unique relationship with God. 
+
+**12:39**  | **Prophets in the Quran** | The speaker poses a question about prophets not explicitly mentioned in the Quran, wondering how we can be sure they existed.
+> The speaker explains that the Quran focuses on the main prophetic line of the central civilizations of the world, such as the holy land, Arabia, and surrounding areas. It doesn't mean there weren't other prophets in different regions like Africa, India, China, and Native America. However, their histories might be shrouded in mystery or embellished with legends, making it difficult to confirm their existence definitively.  
+
+**19:51**  |  **Old Testament Accuracy** | The speaker raises concerns about the historical accuracy of the Old Testament, particularly the first five books, and asks for a historical overview.
+> The speaker discusses the complexities of the Old Testament's transmission and canonization. He notes that the version we have today is a result of scholarly efforts in the third century BC.  He also mentions the availability of a more recent text (Masoretic Text) from the 10th century AD, which is considered more authentic and reliable. However, even the Old Testament's textual history shows evidence of editing and re-editing, with some books possibly abridged or lost entirely. He acknowledges the importance of approaching the Old Testament with a critical eye, recognizing that even the historical sections may contain inaccuracies or biases.
+
+**26:11**  | **Purpose of Messengers** | The speaker asks about the ultimate reason why God sends messengers to humanity. 
+> The speaker argues that messengers are sent to provide proof of the resurrection and the day of judgment. He emphasizes that messengers are not sent to teach mundane matters like inheritance laws, but rather to offer guidance and a message of hope for a better afterlife. He also discusses the possibility that those who never receive a messenger might have an easier path to paradise due to their lack of knowledge about potential temptations and challenges.
+
+**28:42**  | **Allah as Witness** | The speaker raises a question about the verse that states "God himself bears witness to what he has sent down to you." He suggests that this seems strange because God witnessing for Muhammad seems redundant.
+> The speaker clarifies that this verse is not addressed to those who have already received proof. Instead, it’s a philosophical statement aimed at those who believe that prophets receive knowledge without direct communication from God, but rather through a passive reception of divine energy.  This verse emphasizes the active and conscious nature of God's revelation, challenging those who believe in a detached, impersonal divine entity.
+
+**32:68** | **Destiny of Those Who Reject the Truth** | The speaker asks about the fate of those who deny the truth and actively prevent others from following the right path.
+> The speaker explains that those who reject the truth and mislead others will be condemned. They will not even receive the benefit of divine guidance in the form of dreams or other subtle interventions, as they have chosen to ignore the clear evidence presented to them. This is a consequence of their stubbornness and their deliberate rejection of God's message. 
+
+**37:54**  | **God's Ownership of All Things** | The speaker emphasizes the verse that says "to God belongs everything that is in the heavens and on earth" and highlights its significance.
+> The speaker emphasizes that God's dominion over all things is absolute, and this should be understood as a reassurance for believers. It means that those who reject God's message are only harming themselves, not God. This emphasizes the message that God's sovereignty and power are not affected by human belief or disbelief. 
+
+**39:08** | **The Gospel and Extremes** | The speaker discusses the verse that addresses "People of the Book" and asks about the meaning of "do not overstep the bounds of truth in your religious beliefs."
+> The speaker clarifies that this verse is aimed at both Jews and Christians who have gone to extremes in their beliefs. The Jews, he explains, went too far by rejecting Jesus as a messenger, while Christians, he believes, went too far by elevating Jesus to divine status. The verse calls for a balanced and truthful understanding of faith.
+
+**42:32**  | **The Messiah's Humility** | The speaker questions the statement that the Messiah "was never too proud to be God's servant."  He asks if this is a criticism of Christians who believe in Jesus’s divinity.
+> The speaker clarifies that this verse highlights the fundamental difference between Islam and Christianity. He emphasizes that the Messiah (Jesus), according to Islam, was a servant of God and a messenger, not a divine being. He states that this was also the understanding of the early Church Fathers, especially in the first century. However, this view later became overshadowed by the development of trinitarian theology, where Jesus’s divinity became a central tenet of the faith. 
+
+**46:26**  | **Early Church History** | The speaker asks about the role of the Jerusalem Church and early Church Fathers in the development of Christian beliefs.
+> The speaker discusses the early Church, highlighting the differences in theology between the Jerusalem Church, which believed Jesus was a prophet, and the Pauline school, which emphasized Jesus’s divinity. The speaker suggests that the Jerusalem Church was eventually marginalized and its history overshadowed by the rise of Pauline Christianity, which eventually gained dominance through its emphasis on Jesus’s divinity. He emphasizes the need to revisit original sources to understand the diverse and sometimes conflicting viewpoints within early Christianity.  
+
+**50:14**  | **The Importance of Understanding Inheritance Laws** | The speaker mentions the issue of inheritance and suggests that it is important to understand how it is addressed in Islamic teachings.
+> The speaker hints at a future discussion on the subject of inheritance, highlighting the importance of understanding the proper Islamic interpretation of these laws. He also mentions a specific case involving Ibn Abbas and Umar, two prominent figures in Islamic history.  The speaker implies that this case will serve as a basis for further discussion about proper understanding of inheritance in Islam. 
+
+
+## https://www.youtube.com/watch?v=k__6S-rs7pM
+
+## 38.36s:  
+**Question:** What is the recommendation if someone follows the opinion that Salah can be combined? 
+**Category:** Prayer 
+**Answer:** To combine the prayers, as times will become more constrained during British summertime.
+
+## 65.519s:
+**Question:** What is the format of the session following the Palestine update? 
+**Category:** Session Format 
+**Answer:** Questions that have been submitted previously and questions asked live will be addressed.
+
+## 80.52s:
+**Question:** What event is familiar to everyone, especially the events of the shaheed in Palestine?
+**Category:** Palestine 
+**Answer:** The events surrounding the shaheed in Palestine.
+
+## 115.759s:
+**Question:** What allegations were made against the shaheed, and what was the reality? 
+**Category:** Palestine 
+**Answer:** Allegations that the shaheed was hiding behind hostages were made. The reality was that he fought to the last moment, even with a stick.
+
+## 180.519s: 
+**Question:** What was the reaction of the rulers to the news of the shaheed's death?
+**Category:** Palestine 
+**Answer:** They colluded with the Israelis and stopped attacks on them. They are building a land bridge while people in Gaza starve.
+
+## 204.28s: 
+**Question:** What mechanism does the speaker believe this channel can be?
+**Category:** Channel Purpose
+**Answer:** This channel is a good mechanism to push back against the false narratives regarding Palestine.
+
+## 214.48s: 
+**Question:** What are the main subjects that the speaker wants to discuss on the channel?
+**Category:** Channel Content
+**Answer:** Subjects of vital importance, particularly those requiring a response to current events. 
+
+## 255.079s:
+**Question:** Who does the speaker aim to defend on the channel?
+**Category:** Channel Purpose
+**Answer:** Anyone that needs to be defended.
+
+## 269.72s:
+**Question:** What does the speaker encourage the viewers to do with the channel?
+**Category:** Channel Engagement
+**Answer:** Be active and participate in the discussion.
+
+## 353.52s: 
+**Question:** Who are the people being addressed in the ayah? 
+**Category:** Quran Interpretation
+**Answer:** The ayah addresses those who are arrogant and prideful.
+
+## 391.599s: 
+**Question:** What question is asked on the day of resurrection? 
+**Category:** Quran Interpretation
+**Answer:**  "Where are those associates, for whose sake you denied me and became so hostile?"
+
+## 403.599s: 
+**Question:** What is the meaning of the phrase "Those who are wronging themselves?"
+**Category:** Quran Interpretation
+**Answer:** They are those who have seen the truth and rejected it despite the evidence.
+
+## 457.12s: 
+**Question:** What is the meaning of the ayah "Now enter the Gates of Hell to remain therein forever?"
+**Category:** Quran Interpretation
+**Answer:** The abode of the arrogant is evil and they will remain in hell forever.
+
+## 480.8s: 
+**Question:** What does the speaker explain about the definition of "Kibr?" 
+**Category:** Quran Interpretation
+**Answer:** Kibr is not merely about being beautiful or having nice things. It is about rejecting the truth when you see it.
+
+## 550.56s: 
+**Question:**  What is the definition of rejecting the truth? 
+**Category:** Quran Interpretation
+**Answer:** Rejecting the truth is refusing to accept it even after being presented with evidence, and may involve claiming that no resurrection exists.
+
+## 591.399s:
+**Question:** What happens when evidence is presented but the person refuses to accept it? 
+**Category:** Quran Interpretation
+**Answer:** This is rejecting the truth, and it is worse than those who don't understand the truth because they are doing so knowingly.
+
+## 611.2s: 
+**Question:** What does the speaker explain about "wronging themselves?"
+**Category:** Quran Interpretation 
+**Answer:** It doesn't mean they lacked understanding or had excuses. They deliberately rejected the truth even though they were presented with clear evidence.
+
+## 633.8s:
+**Question:** What is the wrong way to do Da'wah? 
+**Category:** Da'wah 
+**Answer:** Forcing people to believe, as this is not effective and doesn't reflect the true principles of Da'wah.
+
+## 653.279s: 
+**Question:**  What are the two main aspects of Kibr? 
+**Category:** Quran Interpretation
+**Answer:**  Rejecting the truth and looking down on others.
+
+## 681.279s: 
+**Question:** Which aspect of Kibr is more catastrophic? 
+**Category:** Quran Interpretation 
+**Answer:** Rejecting the truth is more devastating than looking down on others. 
+
+## 703.88s: 
+**Question:** What does the speaker ask about the previous ayah?
+**Category:** Quran Interpretation 
+**Answer:**  The speaker asks if the previous ayah has already been discussed.
+
+## 724.76s:
+**Question:** What is the example given to illustrate those who reject the truth out of arrogance?
+**Category:** Quran Interpretation
+**Answer:** Two people belonging to a slave nation who reject the truth because it doesn't fit their sense of superiority.
+
+## 752.36s: 
+**Question:** What is a key point to remember about the word "kibr?" 
+**Category:** Quran Interpretation
+**Answer:** It is a negative attribute for all entities except Allah.
+
+## 771.639s:
+**Question:**  Why doesn't the word "kibr" apply to Allah?
+**Category:** Quran Interpretation
+**Answer:** Allah is the truth and is fully content with himself. He does not reject any truth, and there is no one equal to him.
+
+## 821.959s:
+**Question:**  For whom is the attribute of "kibr" genuinely negative?
+**Category:** Quran Interpretation 
+**Answer:** It is negative for all except Allah, and therefore should be rejected.
+
+## 871.32s: 
+**Question:** What is the response of the God-conscious when asked about what their sustainer has bestowed? 
+**Category:** Quran Interpretation 
+**Answer:**  The response is "Goodness Supreme," as they recognize that all blessings come from Allah and lead to ultimate good.
+
+## 945.04s:
+**Question:** What should you say if someone claiming to be a prophet comes to you?
+**Category:** Quran Interpretation
+**Answer:** If he is a true prophet, he must have received the ultimate good, because only good can come from Allah.
+
+## 1013.519s: 
+**Question:** What is the difference between the dots above and below a letter in Arabic?
+**Category:** Arabic Language 
+**Answer:**  The dot above a letter in Arabic is different from the dot below a letter, and the placement is crucial for meaning.
+
+## 1053.4s: 
+**Question:** What does the speaker state about the description of paradise?
+**Category:** Quran Interpretation
+**Answer:** The description of paradise is clear and obvious, and includes rivers, gardens, and trees. 
+
+## 1062.52s:
+**Question:** What does the speaker say about the Old Testament in relation to the Quran?
+**Category:** Quran Interpretation 
+**Answer:** The Quran gives a more eloquent and comprehensive description of paradise compared to the Old Testament.
+
+## 1093.48s: 
+**Question:** What does the speaker mention about the knowledge of paradise? 
+**Category:** Quran Interpretation
+**Answer:** No soul knows what has been hidden for them in paradise, even the eye, ear, and heart can't perceive it.
+
+## 1103.6s:
+**Question:** What is the meaning of the phrase "Candy of the eye"?
+**Category:** Quran Interpretation
+**Answer:** It refers to the pleasure of the eye, providing relaxation and joy. 
+
+## 1124.24s:
+**Question:** What is the speaker explaining about the Old Testament? 
+**Category:** Quran Interpretation
+**Answer:**  It is based on revelation, but the Quran is even more comprehensive in its description of paradise.
+
+## 1133.559s: 
+**Question:** What does the speaker state about the human ability to know what is hidden?
+**Category:** Quran Interpretation
+**Answer:**  No soul can know what has been hidden, even guessing is impossible.
+
+## 1145.039s: 
+**Question:** What does the speaker say about the wording in the Old Testament?
+**Category:** Quran Interpretation
+**Answer:** The wording in the Old Testament is based on revelation but the Quranic expression is more comprehensive.
+
+## 1171.6s:
+**Question:** What does the speaker say about the descriptions of paradise in the Quran? 
+**Category:** Quran Interpretation
+**Answer:** The descriptions, like rivers of milk, honey, and wine, are meant to be relatable, but the true nature of paradise is beyond human comprehension. 
+
+## 1211.4s:
+**Question:** What are the descriptions of paradise ultimately? 
+**Category:** Quran Interpretation
+**Answer:** They are names and pointers to things beyond human comprehension. 
+
+## 1250.4s: 
+**Question:** What is the meaning of the phrase "Those whom the Angels Gathering in death while they are in a state of inner Purity?"
+**Category:** Quran Interpretation
+**Answer:** The angels gather the souls of the righteous in death, greeting them with peace and welcoming them to paradise.
+
+## 1279.039s: 
+**Question:**  What is the meaning of the word "by" in this ayah?
+**Category:** Quran Interpretation 
+**Answer:** It means "because of"  what they did, it is not a reward but a necessary condition for entering paradise.
+
+## 1293.039s:
+**Question:** Is entering paradise a reward for the good deeds? 
+**Category:** Quran Interpretation
+**Answer:** No, it is not a reward, it is a necessary condition.
+
+## 1315.799s:
+**Question:** What is the difference between the finite and infinite time?
+**Category:** Quran Interpretation
+**Answer:** There is no comparison between the finite time spent in this life and the infinite time spent in paradise.
+
+## 1324.32s: 
+**Question:** What is the nature of deeds in this world?
+**Category:** Quran Interpretation 
+**Answer:** They are mixed and rarely completely pure.
+
+## 1340.64s:
+**Question:** What is the example given to explain the excessive nature of paradise? 
+**Category:** Quran Interpretation 
+**Answer:** An example is being promised 50 pounds per hour for a job but instead receiving 50 billion pounds - it is beyond anything imaginable. 
+
+## 1378.08s: 
+**Question:** What is the main condition for entering paradise?
+**Category:** Quran Interpretation
+**Answer:**  You must have fulfilled the necessary conditions.
+
+## 1401.72s:
+**Question:** What does the speaker say about entering paradise?
+**Category:** Quran Interpretation
+**Answer:** No one will enter paradise as a reward for their deeds, but only through Allah's mercy.
+
+## 1411.64s:
+**Question:** What is the condition for being eligible for Allah's mercy? 
+**Category:** Quran Interpretation 
+**Answer:**  To be eligible for Allah's mercy, you must fulfill the necessary conditions and perform good deeds.
+
+## 1469.679s: 
+**Question:** What does the speaker ask for the translation of the ayah?
+**Category:** Quran Interpretation
+**Answer:** The speaker asks for the translation of the next ayah.
+
+## 1489.039s:
+**Question:** What are the unbelievers waiting for? 
+**Category:** Quran Interpretation 
+**Answer:** They are waiting for the angels to appear or for God's judgment to be manifested.
+
+## 1534.36s: 
+**Question:**  What is the indirect answer to those who say they will not believe until they see the angels? 
+**Category:** Quran Interpretation 
+**Answer:**  If the angels appear, it is too late, and the same thing happened to previous generations who were destroyed.
+
+## 1588.88s:
+**Question:** Why do most people insist on seeing the angels or divine punishment? 
+**Category:** Quran Interpretation
+**Answer:**  They are stuck in a habitual way of thinking, waiting for outward signs instead of seeking inner understanding and evidence.
+
+## 1601.64s: 
+**Question:** What type of miracles do the speaker believe people should be asking for?
+**Category:** Quran Interpretation
+**Answer:**  They should be asking for evidence that benefits them, not for punishment or outward signs.
+
+## 1621.08s: 
+**Question:** What happened to the people who ridiculed the coming of the angels?
+**Category:** Quran Interpretation
+**Answer:**  They were overwhelmed by the very thing they ridiculed - divine punishment.
+
+## 1684.96s: 
+**Question:** What do those who associate partners with Allah say? 
+**Category:** Quran Interpretation
+**Answer:** They claim that if Allah had willed, they would have worshipped him alone.
+
+## 1737.24s: 
+**Question:** What is the main point of what the polytheists are saying? 
+**Category:** Quran Interpretation
+**Answer:** They are saying that they worship other deities with Allah's permission. 
+
+## 1751.279s: 
+**Question:** What kind of permission are they appealing to? 
+**Category:** Quran Interpretation 
+**Answer:** They are appealing to Allah's creative permission, but not legislative permission. 
+
+## 1761.24s: 
+**Question:** What are the polytheists trying to negate by appealing to Allah's dominance?
+**Category:** Quran Interpretation
+**Answer:** They are trying to negate free will.
+
+## 1772.399s:
+**Question:**  What is the polytheist's argument for their actions? 
+**Category:** Quran Interpretation
+**Answer:**  They argue that if Allah had willed, they would have believed.
+
+## 1781.88s:
+**Question:** What is the reason Allah does not force people to believe?
+**Category:** Quran Interpretation
+**Answer:**  Allah wants to give people free choice and sends messengers to warn them, allowing them to make their own decisions.
+
+## 1800.799s:
+**Question:** What example is given of how people try to use the argument of Allah's will to escape responsibility? 
+**Category:** Quran Interpretation
+**Answer:**  Those facing execution claim they are merely following their predetermined steps, but this is a false excuse.
+
+## 1831.6s: 
+**Question:** What argument is inescapable for fatalists?
+**Category:** Quran Interpretation 
+**Answer:** The argument that Allah's will is absolute and that free will is an illusion.
+
+## 1846.6s: 
+**Question:** What is the claim of fatalists regarding free will?
+**Category:** Quran Interpretation 
+**Answer:**  Fatalists believe that free will is an illusion and that all events are predetermined.
+
+## 1861.12s: 
+**Question:** What is the polytheists' reasoning for their actions?
+**Category:** Quran Interpretation
+**Answer:** They appeal to Allah's absolute power and say that if he did not want them to commit shirk, he would not have allowed it.
+
+## 1875.32s: 
+**Question:** What is the difference between creative will and legislative will?
+**Category:** Quran Interpretation 
+**Answer:**  Creative will refers to Allah's creation of the universe, while legislative will refers to his commands and guidance for humans. 
+
+## 1904.279s: 
+**Question:**  What is the common misconception about people's religious beliefs?
+**Category:** Religion 
+**Answer:** People often believe that their religion is something natural and inherent, passed down from their parents, rather than a conscious choice. 
+
+## 1920.84s:
+**Question:** What does the speaker state about the universe?
+**Category:** Universe
+**Answer:**  The universe doesn't force people to be a certain religion. Allah has given them sufficient free will to make their own choices.
+
+## 1937.799s: 
+**Question:** What is the capability that Allah has given to humans?
+**Category:** Universe
+**Answer:** The capability to make their own future and create their own destiny.
+
+## 1942.0s: 
+**Question:** What does the speaker mention about human destiny? 
+**Category:** Universe 
+**Answer:**  Humans have their own destiny, and are bound by their choices and actions.
+
+## 1960.799s: 
+**Question:** What is a complex aspect of Allah's will?
+**Category:** Quran Interpretation
+**Answer:** Understanding the difference between Allah's creative will and his legislative will.
+
+## 1978.84s:
+**Question:** What is the issue that has led to confusion and the mixing of ideas?
+**Category:** Quran Interpretation
+**Answer:** The issue of mixing the concept of Allah's will with the idea of predestination, which can lead to fatalism.
+
+## 1981.88s: 
+**Question:** What is the main point of the speaker regarding fatalism?
+**Category:** Quran Interpretation
+**Answer:**  The idea that everything is predetermined is incorrect and cannot be reconciled with the Quran. 
+
+## 1987.12s: 
+**Question:** What is the correct understanding of Allah's will?
+**Category:** Quran Interpretation
+**Answer:**  It is not about predestination, but rather about Allah's knowledge and control of the universe, and the free will he has granted to humans.
+
+## 2000.399s: 
+**Question:** Is the argument that even if Allah permitted something to happen, he must be happy with it valid?
+**Category:** Quran Interpretation 
+**Answer:**  This argument is invalid. Even though Allah created the universe with free will, this doesn't mean he endorses all actions.
+
+## 2066.48s:
+**Question:** What is the speaker going to discuss next?
+**Category:** Quran Interpretation
+**Answer:** The speaker is going to discuss the concept of Allah's creative command.
+
+## 2116.96s: 
+**Question:** What is the main issue that the speaker is addressing in the ayah?
+**Category:** Quran Interpretation 
+**Answer:**  The issue of guidance and misguidance, and whether or not Allah preordains these things.
+
+## 2123.839s: 
+**Question:** What is the meaning of the phrase "misguidance has been ordained?" 
+**Category:** Quran Interpretation
+**Answer:**  It means Allah has permitted misguidance, but individuals still have the choice to be guided.
+
+## 2133.92s:
+**Question:**  What is the speaker explaining about Allah's role in guidance?
+**Category:** Quran Interpretation 
+**Answer:**  Allah has given people the choice to be guided. If he had not allowed them to choose, they would not have been guided.
+
+## 2141.32s:
+**Question:** What is the fundamental choice that Allah has made in the creation of the world?
+**Category:** Quran Interpretation
+**Answer:**   Allah has given everyone the freedom to choose whatever they want.
+
+## 2151.359s:
+**Question:**  What does the speaker say about Allah's role in human choices? 
+**Category:** Quran Interpretation 
+**Answer:**  Allah allows everyone to choose, but does not force them. He gave them the power to hold themselves back or make a decision.
+
+## 2167.48s:
+**Question:** What is a challenging concept to comprehend?
+**Category:** Quran Interpretation
+**Answer:**  The concept of Allah allowing humans to choose, even though he has absolute control over everything. 
+
+## 2172.839s:
+**Question:**  What is the example given to illustrate this concept?
+**Category:** Quran Interpretation
+**Answer:**  The example of the three who had their decision postponed by Allah.
+
+## 2179.68s: 
+**Question:**  What is Allah's freedom when people accept his guidance? 
+**Category:** Quran Interpretation
+**Answer:**  Allah is at liberty to give more guidance and open people's minds to deeper understanding.
+
+## 2202.44s:
+**Question:**  What does the speaker say about misguidance? 
+**Category:** Quran Interpretation
+**Answer:** Allah doesn't give people more misguidance, but they can miss the truth by their own deliberate mistakes. 
+
+## 2220.119s:
+**Question:** What is an example of how people can condition themselves to fail?
+**Category:** Quran Interpretation
+**Answer:**  Studying a subject but deliberately choosing wrong methods, which prevents them from learning correctly.
+
+## 2245.319s: 
+**Question:** How is the mind and universe structured? 
+**Category:** Universe 
+**Answer:** It is structured for finite beings, where mistakes can lead to further misguidance.
+
+## 2254.96s: 
+**Question:** Does Allah preordain misguidance? 
+**Category:** Quran Interpretation
+**Answer:** No, misguidance is a result of their own actions.
+
+## 2262.52s:
+**Question:** What is the speaker rejecting? 
+**Category:** Quran Interpretation
+**Answer:**  The idea that misguidance is predetermined before birth.
+
+## 2271.119s: 
+**Question:**  What is the meaning of the phrase "misguidance is deserving?"
+**Category:** Quran Interpretation
+**Answer:**  It means that misguidance is a consequence of their actions, not a preordained fate. 
+
+## 2278.4s:
+**Question:**  Why is it difficult to understand this concept?
+**Category:** Quran Interpretation 
+**Answer:**  Because the issue is complex and has many facets, requiring examination of multiple verses.
+
+## 2286.28s: 
+**Question:** What does the speaker say about Allah's absolute dominance?
+**Category:** Quran Interpretation
+**Answer:**  It is real and acts in a specific way, but it is not an excuse for shirk.
+
+## 2303.96s:
+**Question:** What is the speaker's opinion on Muhammad Assad's translation? 
+**Category:** Translation
+**Answer:**  Muhammad Assad's translation is sometimes better, but he could have provided more explanation and detail.
+
+## 2330.8s:
+**Question:**  What does the speaker suggest for translators to do in complex areas?
+**Category:** Translation
+**Answer:**  They should add more explanation in parenthesis or preceding with "meaning to..." 
+
+## 2352.119s:
+**Question:** What is the speaker's point about translators? 
+**Category:** Translation
+**Answer:**  Not all translators are focused enough on understanding complex theological issues.
+
+## 2377.599s: 
+**Question:**  What is the meaning of the phrase "those who are bent on denying the truth?"
+**Category:** Quran Interpretation
+**Answer:** It refers to those who are deliberately rejecting the truth despite being shown the right way. 
+
+## 2403.44s: 
+**Question:** What does the speaker say about Allah's guidance?
+**Category:** Quran Interpretation
+**Answer:**  Allah does not bestow his guidance on those whom he judges to have gone astray.
+
+## 2412.839s:
+**Question:**  What is the purpose of the second reading of the ayah?
+**Category:** Quran Interpretation
+**Answer:**  It is meant to attribute the action of going astray to the person, not Allah.
+
+## 2422.079s:
+**Question:**  What does the first reading of the ayah imply?
+**Category:** Quran Interpretation
+**Answer:**  Allah will not guide those who have been misguided by him before.
+
+## 2435.16s:
+**Question:**  Why is it impossible for Allah to initiate misguidance?
+**Category:** Quran Interpretation
+**Answer:** Allah gives people the choice to be guided or misguided. He allows them to choose whatever they want.
+
+## 2456.92s:
+**Question:** What does the speaker say about Allah misguiding someone?
+**Category:** Quran Interpretation
+**Answer:**  Allah does not mislead someone in the sense of forcing them to go astray.
+
+## 2462.16s:
+**Question:**  What does the second reading of the ayah imply?
+**Category:** Quran Interpretation
+**Answer:**  Allah will not guide those who go astray by themselves.
+
+## 2471.839s:
+**Question:**  Is the second reading permissible?
+**Category:** Quran Interpretation
+**Answer:** Yes, it is a permissible reading.
+
+## 2481.92s:
+**Question:** Why are variations in readings acceptable?
+**Category:** Quran Interpretation
+**Answer:** It is permissible to have different variations in readings of the Quran, as long as they are linguistically sound and consistent with the overall message.
+
+## 2499.64s:
+**Question:** What is the main condition for accepting a Quranic reading?
+**Category:** Quran Interpretation 
+**Answer:**  It must make sense in Arabic and be consistent with the message of the Quran.
+
+## 2513.92s: 
+**Question:**  What is the third condition for accepting a Quranic reading?
+**Category:** Quran Interpretation
+**Answer:**  It is good to stick to the readings that have been narrated.
+
+## 2519.56s: 
+**Question:**  Are there readings that have not been narrated? 
+**Category:** Quran Interpretation 
+**Answer:** Yes, there might be other readings that have not been explicitly narrated.
+
+## 2523.96s:
+**Question:**  What example is given to illustrate this point?
+**Category:** Quran Interpretation
+**Answer:**  An example is the story of Yusuf and his brothers, where the reader of the 4th century used a different reading that implied the brothers had camels.
+
+## 2549.2s:
+**Question:** What does the speaker say about the brothers of Yusuf giving up?
+**Category:** Quran Interpretation 
+**Answer:** They gave up hope that Yusuf would comply with their request to release their brother. 
+
+## 2568.559s: 
+**Question:**  What is the difference in the reading that the 4th-century reader used?
+**Category:** Quran Interpretation
+**Answer:**  It involved a change in the dots of the letter, which can change the meaning.
+
+## 2576.04s: 
+**Question:**  What is the 4th-century reader's opinion on the story of Yusuf?
+**Category:** Quran Interpretation
+**Answer:**  He believed that the brothers used camels for travel, which contradicted historical claims.
+
+## 2583.079s: 
+**Question:**  What did the people of that century do in response to the different reading? 
+**Category:** Quran Interpretation
+**Answer:**  They held a legal session to either force the reader to repent or declare him a heretic.
+
+## 2595.52s:
+**Question:** What was the 4th-century reader's expertise? 
+**Category:** Quran Interpretation
+**Answer:** He was a first-class Arabic linguist.
+
+## 2606.119s:
+**Question:**  What did the 4th-century reader say about the different reading?
+**Category:** Quran Interpretation 
+**Answer:** He believed it was more reasonable than the interpretations of other scholars.
+
+## 2613.64s:
+**Question:**  What is the key point for accepting the different reading? 
+**Category:** Quran Interpretation
+**Answer:** The dots of the letters were added later, so their absence could indicate a different reading. 
+
+## 2628.28s: 
+**Question:**  What is the most likely scenario regarding the dots?
+**Category:** Quran Interpretation 
+**Answer:**  The dots were most likely not originally present, which makes the different reading more likely. 
+
+## 2635.24s: 
+**Question:**  What does the speaker say about the linguistic acceptance of the different reading? 
+**Category:** Quran Interpretation
+**Answer:** It is linguistically acceptable and gives a hint that camels were used at the time.
+
+## 2641.839s: 
+**Question:**  What is the historical claim that the 4th-century reader challenged? 
+**Category:** History 
+**Answer:** The claim that camels were not available for travel at the time of Yusuf.
+
+## 2655.4s: 
+**Question:**  What does the speaker say about finding camel bones?
+**Category:** History
+**Answer:** The absence of camel bones doesn't necessarily mean that camels weren't present.
+
+## 2659.52s: 
+**Question:** When is the claim that camels were domesticated in Palestine? 
+**Category:** History 
+**Answer:** It is claimed that camels were domesticated much later than the time of Yusuf, around 1000 BC.
+
+## 2668.079s:
+**Question:** What is the speaker's conclusion about the story of Yusuf?
+**Category:** Quran Interpretation
+**Answer:**  The different reading, which implies camels, might have been allowed by Allah to correct historical and archaeological mistakes.
+
+## 2683.319s:
+**Question:** What is the speaker referring to when he says "young racing quality camels"?
+**Category:** History 
+**Answer:**  The speaker is referring to the fact that camels were used for racing at the time.
+
+## 2704.68s: 
+**Question:** What does the speaker say about the two readings of the ayah? 
+**Category:** Quran Interpretation
+**Answer:** Both readings are acceptable and require complex interpretation.
+
+## 2710.28s: 
+**Question:**  What does the speaker say about those who have been chosen for misguidance?
+**Category:** Quran Interpretation
+**Answer:**  They are allowed to go astray, even though Allah has absolute control.
+
+## 2715.68s: 
+**Question:**  In what sense can it be said that Allah misguided them?
+**Category:** Quran Interpretation
+**Answer:**  Allah allowed them to go astray according to their own choices.
+
+## 2736.64s:
+**Question:**  What does the speaker say about the expanded reading of the ayah?
+**Category:** Quran Interpretation
+**Answer:**  It is unnecessary, as the second reading makes the point clear.
+
+## 2746.68s:
+**Question:** What is the difference between the two readings?
+**Category:** Quran Interpretation
+**Answer:** The first reading is more complex and requires considering other evidence. The second reading is straightforward.
+
+## 2757.92s:
+**Question:**  What does the speaker say about those who have gone astray?
+**Category:** Quran Interpretation 
+**Answer:**  They will have no one to help them on the Day of Resurrection.
+
+## 2777.359s:
+**Question:** What would it be insulting to Allah to say?
+**Category:** Quran Interpretation
+**Answer:**  It is insulting to say that Allah deliberately misguides people.
+
+## 2789.24s: 
+**Question:** What does the speaker say about the interpretation of the Quran? 
+**Category:** Quran Interpretation
+**Answer:** It is important to interpret the Quran rationally and avoid interpretations that undermine its message.
+
+## 2830.88s: 
+**Question:** What technical problem is occurring?
+**Category:** Technical Issues 
+**Answer:**  The speaker's internet connection is dropping out.
+
+## 2991.4s: 
+**Question:** Can the viewers hear the speaker?
+**Category:** Technical Issues 
+**Answer:** The viewers can hear the speaker.
+
+## 3074.839s:
+**Question:** What does the speaker say about the technical issue? 
+**Category:** Technical Issues
+**Answer:** The speaker encourages the viewers to contact Aasha if they encounter similar problems.
+
+## 3101.2s: 
+**Question:** What does the speaker explain about the permission settings? 
+**Category:** Technical Issues
+**Answer:**  The speaker deliberately disabled permissions in the meeting room because of people trolling.
+
+## 3117.44s:
+**Question:** What did happen during the technical issue? 
+**Category:** Technical Issues
+**Answer:** The speaker's image froze, but the audio remained good for some time before dropping out completely.
+
+## 3143.04s: 
+**Question:**  What did the speaker do about the technical issue?
+**Category:** Technical Issues
+**Answer:** The speaker called the technician.
+
+## 3163.359s: 
+**Question:** What does the speaker say about fixing the technical issue? 
+**Category:** Technical Issues
+**Answer:** The speaker is only going to call the technician, as any other actions could mess things up.
+
+## 3213.559s: 
+**Question:** What is the fundamental evidence for the resurrection? 
+**Category:** Quran Interpretation
+**Answer:**  It is not the possibility of resurrection, but the fact that it is within Allah's capability.
+
+## 3220.96s: 
+**Question:** What do those who deny resurrection claim?
+**Category:** Quran Interpretation
+**Answer:**  They claim that the natural order of life and death is beyond Allah's control.
+
+## 3230.72s:
+**Question:** What does the speaker ask someone who denies resurrection?
+**Category:** Quran Interpretation 
+**Answer:**  "Do you believe in a divine being who created the universe, or none?"
+
+## 3242.4s:
+**Question:**  If the universe is not necessarily existing, what is it within? 
+**Category:** Quran Interpretation
+**Answer:** It is within the Divine capability.
+
+## 3250.92s:
+**Question:** On what ground will the resurrection happen?
+**Category:** Quran Interpretation
+**Answer:**  Allah has obligated himself to fulfill this promise, and this obligation is binding for all eternity. 
+
+## 3267.16s: 
+**Question:** What is the purpose of Allah's obligation to resurrect people?
+**Category:** Quran Interpretation 
+**Answer:**  It is to reward the righteous and punish the wrongdoers.
+
+## 3273.079s: 
+**Question:**  What is not binding on Allah?
+**Category:** Quran Interpretation 
+**Answer:**  The threat of punishment is not binding on Allah, he can choose to forgo it.
+
+## 3286.92s:
+**Question:**  What does it show if Allah forgoes punishment?
+**Category:** Quran Interpretation 
+**Answer:**  It shows his generosity and perfection.
+
+## 3291.24s: 
+**Question:**  What does it show if Allah denies a promise? 
+**Category:** Quran Interpretation
+**Answer:**  It would show weakness and inconsistency, which is impossible for Allah.
+
+## 3301.319s: 
+**Question:** What makes
+
+## https://www.youtube.com/watch?v=kkMTOo9RgoA
+
+##  1.7s: [Music]
+27.039s: Okay so we stopped at the Ayah.
+31.119s: I say this is an interesting Ayah. It has
+33.2s: plenty of controversy about it, and
+36.04s: That's the
+37.36s: Ayah.
+##  What is the controversy about this Ayah? 
+**Category:** Quran Interpretation
+**Answer:** The speaker notes the controversy surrounding the Ayah, which is then discussed throughout the video. The speaker refers to this Ayah as an "interesting" one and suggests it has "plenty of controversy" about it. The rest of the video delves into this controversy and the speaker's interpretation of the Ayah.  
+
+52.64s: Um, and then it because of Injustice 
+56.879s: And transgression of the people who Jiz
+59.359s: The Jews
+60.44s: We have prohibited things and so on
+62.16s: That's essentially a second context but
+64.519s: It's continuation of the previous one so
+66.52s: The previous context
+69.439s: Is rebuking the Jews for their
+72.36s: Transgression time
+75.88s: Past, in response to that that they
+79.479s: Demanding that you bring them a book 
+81.68s: From Heaven Etc and so on maybe like
+84.32s: What Musa brought the tablets and things
+86.6s: That we discussed that and uh, and Allah
+89.68s: Said
+90.52s: This is nothing new they have asked more 
+92.68s: Than they ask to see Allah directly etc 
+95.28s: Etc until it goes
+100.159s: To their their the break breaking of the
+103.72s: Sabbath and breaking of their covenants
+106.04s: And then the the rejection of the signs
+108.28s: Of Allah and killing the prophets
+110.399s: Without justification and the claim that 
+112.56s: They are full of knowledge and their
+113.88s: Hearts are sealed they don't they don't
+115.84s: Need to receive anything new Etc and
+118.719s: Then it says
+121.799s: For their disbelief and 
+124.64s: Their Grievous utterance
+127.44s: Against peace be upon here and the
+130.64s: Statement that we killed the Messiah the
+132.599s: Son of Maryam the messenger of Allah
+134.28s: Mockingly obviously, and the Quran says
+141.36s: Clearly they did not kill they did not
+143.879s: Kill him, nor did they crucify him, but it
+146.72s: Was made to appear like that and we
+148.28s: Discussed that last time or have that
+150.92s: For in English one day
+156.08s: Soon those who have disputing about it
+159.0s: They are confused they have no fir
+161.04s: Knowledge except following conjectures
+163.2s: And guess work and they indeed they did
+165.959s: Not kill him for certainly then
+171.44s: Now Allah lifted him to lifted Isa to
+174.8s: Him and Allah is exalted and wise, or 
+178.959s: Perfectionist
+180.92s: Here in this place it says elevated him 
+184.92s: Lifted him
+186.4s: Up to
+188.72s: Him and the AY which matter of 
+191.4s: Discussion comes after that, but let us
+193.879s: Go back to the Ayah in I have it in some
+197.84s: Writing I wrote in Arabic the in
+203.68s: Iman discusses this lifting in more 
+206.04s: Detail, let's go to it quickly, just just
+208.48s: Give it a quick scan
+210.439s: So connect this to
+215.72s: The have written plenty of things here
+218.239s: 20 pages about these various
+227.439s: Issues
+236.12s: So
+238.68s: Okay
+241.64s: There's a chapter in writing about the 
+243.319s: Coming of Isa before this, the chapter
+246.599s: With the title of
+248.2s: This, so
+253.12s: In, we have the AY are saying there the 
+268.6s: Following
+271.68s: Anyway I recite it for 
+275.56s: Memory, here it is in
+279.28s: This the lifting of the is not mentioned
+283.16s: Alone, is mentioned in a complex sequence
+286.32s: Allah
+298.56s: Says
+300.919s: Essentially saying OHA I am receiving
+305.16s: With and lifting you to me and purifying
+307.919s: You from 
+309.72s: Disbelievers 
+312.12s: Here, number that's the IR number 55 in 
+316.479s: Al, if you want to go to read the 
+318.08s: Translation, that's okay, you can go back 
+319.52s: To Alan number 55 or 54 because my count
+323.68s: Here, this is the count we have the count
+325.919s: Of H
+328.479s: Actually, so 
+336.52s: 55, are you there?
+342.25s: [Music]
+351.32s: [Music]
+358.479s: Yeah
+364.59s: [Music]
+370.08s: Yeah, that that's enough we just need the
+372.28s: Translation, just to bring that in our
+375.919s: Memory, you have 
+378.919s: The, sorry 
+381.319s: What
+382.919s: 55, 55 you give me two
+387.16s: Seconds, yeah just go to the website, that
+389.639s: One we said it has 55, find it, one second
+393.68s: Just click in the main page, and then
+395.68s: Even 55 is there, and remember when said
+399.36s: So this is 
+401.199s: With that's the one that's the one, and
+403.8s: Remember when you said, oh Moses indeed
+405.919s: We shall not, no no no no I have 55 
+411.56s: In, going back, just to connecting the
+414.52s: Two, three, says 355, bro, 355. My, yes, okay
+420.919s: Lo God said, oh Jesus verily I shall 
+423.36s: Cause thee to die, and shall exalt thee
+425.599s: Unto me and cleanse thee of the presence 
+427.8s: Of those who are bent on denying the 
+429.639s: Truth and I shall Place those who follow 
+432.319s: Thee just only this and purify so read
+435.199s: Another translation we only just the
+437.199s: Address to okay so God said Jesus, I will
+441.199s: Cause you to die, and raise you up to me,
+442.759s: And purify you from those who denied the 
+444.84s: Truth, and I will exalt your followers
+447.039s: Over those who deny you until the res
+449.479s: Beginning on all of them, say cause you
+452.199s: To die, yeah yeah, all of them is there
+455.0s: Another one who says that, well one of 
+457.199s: Them, this is says oh Jesus, I will raise
+460.52s: I will take you and raise you up to
+462.12s: Myself, yeah, I'll take you, that's correct
+467.84s: Because when we say IIM, that's Ibrahim 
+471.199s: Who completed all what he's been ordered
+473.4s: To do and delivered in Wa the is so
+478.319s: That's giving everything what you are
+480.159s: Supposed to
+481.28s: Give
+485.44s: That's and the the the the other form of 
+489.68s: It is that is someone giving and then 
+493.4s: One the opposite receiving in full is
+497.159s: Or so, I will receive you I will take you 
+499.96s: In full total all of your body and soul
+503.08s: And everything, so the translation is
+505.199s: That I cause you to die is nonsensical
+507.159s: It may be, it may be not, we don't know
+509.08s: What deception, but the AY is clearly
+511.159s: What's 
+512.24s: Saying, I, I will reive you to me in full 
+515.599s: By lifting you to me
+517.479s: Up, and before that I have purified you
+520.8s: The reason for that for all this process
+522.68s: That I purified you from disbeliever
+525.16s: Let's go now to our current AY in our 
+527.279s: Current AY, the before is just only I'm 
+530.24s: Lifting you to me, but let us Ponder a
+532.76s: Little bit about this purifying you from
+535.44s: This believer meaning they will not be
+537.88s: Able to put even one finger of their 
+539.6s: Filthy finger on you, so it is impossible
+542.8s: That they have apprehended him is no way 
+545.76s: That they have detained detained him
+547.68s: There's no way that they have tried him
+549.6s: They, no way that they have spat they
+551.76s: Have spat in his face, there's no way
+553.959s: That they have taken his clothe, no way 
+556.6s: That I have plugged him, no way that I
+558.72s: Have put the the crown of Thor on his 
+561.72s: Head, no way that I crucified him knowing
+564.48s: That they have forced him to drink the
+566.04s: Bitter drink, no they did Kill because
+568.72s: All of them that is contradict
+571.12s: Purification, that they don't even touch
+573.079s: Him with their filthy fingers, so that
+575.079s: Refus all of that in one go, and then
+577.56s: After that he was lifted up, as the his
+580.44s: Dis reported, we have in the current
+583.04s: Existing New Testament, that that he has
+587.079s: Been lifted after after the so-call
+589.44s: Crucifixion, 40 or 50 days he Has Lifted
+592.36s: In front of their eyes, that disappeared
+593.92s: In the sky, so the lifting process, the
+596.8s: Beginning of it is visible to them, they
+598.48s: Have witnessed and they reported it
+601.12s: After the sky, we don't know what has
+602.48s: Happened, so the lifting process is part
+604.16s: Of it 
+605.2s: Is, and then this way I received you in
+608.2s: Full to me, or clearly he was lifted with 
+610.2s: His body in front of him, there was 
+611.48s: Nobody lifting to for burial, anything so
+614.839s: That's receiving, I will receive, we have
+617.64s: To use the linguistic meaning, is it
+619.72s: Causing to die, is it causing some people 
+621.88s: Say because in the Quran when it applied 
+625.16s: To human beings meaning usually caused
+626.839s: To die, not necessary first of all we
+629.399s: Have the famous Ayah in Surah what is I
+632.68s: Think it is in in Z
+641.0s: Allah, Allah is the one who received the
+643.519s: Souls now the souls, not the bodies, not
+645.76s: Not the whole beings, so when they die
+649.32s: And also he sa the souls for those who
+651.16s: Are in 
+652.0s: Sleep, then he hold back the one he has 
+654.6s: Been decided it should die and send the
+656.88s: One back for a certain appointed time
+659.12s: Time for a limited time, because it will
+661.04s: Be one day taken away
+663.76s: Anyway in this there are signs for
+666.16s: People who Ponder and analyze, so it's
+669.04s: Allah who does this, how is this this
+671.72s: Process of taking the souls now the 
+673.56s: Souls of us, or the spirits, or whatever
+676.24s: You may express it in the case of death
+679.12s: And the case of sleep is is a very
+681.12s: Complex, and it is so far R we may know
+684.279s: Some aspects of it, some bits, but in its
+686.44s: Totality and its depth of meaning is r
+689.48s: So that's where it is, they take that it 
+691.639s: May be causing to anywhere in the Quran
+693.92s: Who says about the
+695.399s: People, the angel of death will will take
+697.76s: You or when
+699.399s: He theh saying, if I if we take you then
+704.6s: If we let you see what we the punishment 
+707.68s: The punishment of the Qur then, or we
+710.16s: Take you in either case we are over them
+712.519s: In control, we can do it, that's no
+714.48s: Problem, so even if you see it or you
+716.48s: Don't see it, they are under our power 
+718.2s: Under our control, so this in the case of
+720.2s: The 
+722.519s: Is to be understood from the context
+724.92s: That, if you cause you to die, so you
+726.68s: Don't see the punishment of Qur, or you
+728.56s: See the punishment in either case they 
+730.24s: Are completely under our power, and
+731.72s: Control, that's why the Quran
+734.68s: Says in either case we we show you their
+738.0s: Punishment, or we cause you to die before
+740.44s: That, in either case they will come back
+742.0s: To us, don't worry we will will manage
+744.12s: Them here and there after, so that's why 
+746.639s: The context will show there the meaning 
+747.92s: Of that, but in this here
+749.6s: The claim to cause to death is is
+752.16s: Properous because it is after saying
+754.519s: Lifted you, and we have know the lifting
+756.68s: Is the lifting with body and soul
+758.48s: According to the witnesses of the 
+759.76s: Disciples, and there's no counter
+761.6s: Information whatsoever in the Islamic
+763.639s: Narratives that it is that the is
+766.959s: Something else, the only what we have in
+768.6s: History which as reliable as we could 
+771.88s: Say, the the gospel's report is that he
+775.0s: Has ascended in heaven, in front of the
+777.32s: Eye and disappeared behind the sky, the 
+779.36s: Clubs, that's it, so that's the meaning of
+782.68s: Rece receiving you in
+784.639s: Full, did he cause him to die, maybe did
+788.24s: He cause him to be asleep like the
+789.959s: People of the cave for thousand of years
+792.12s: To come and come down again
+794.44s: Maybe, maybe cause him to
+797.639s: Die, initial death when which we be 
+800.56s: Resurrected and come down again Earth
+802.519s: Maybe, these are all possibilities, so the
+804.6s: Translation, cause you to die, is is is is 
+808.88s: Not proper in our context, now what we 
+812.0s: Are studying here, there is no talking
+814.959s: About receiv receiving, no talking about 
+816.639s: Purification, because the issue here is 
+819.48s: What happened to him, the essential
+821.16s: Happen is that he's lifted up, so we go
+823.72s: Back to our Surah, what does it say
+826.519s: Here, after Allah denies that they they 
+829.519s: That they killed
+831.44s: Him, and accept that this is because they 
+834.44s: Got the his appearance was was placed on 
+838.16s: Someone else, and we discussed that last
+840.199s: Time, that is all evidences point that it
+842.72s: Is you, the traitor, you es scariot, but 
+846.0s: With certainity, did not kill him, instead
+848.839s: Indeed Allah lifted him to him, and Allah
+851.68s: Is exalted and wise, and
+853.72s: Perfectionist, so here is only ra, not
+857.199s: Even causing to death to avoid any 
+859.44s: Confusion that were coming after that
+861.519s: That he has been by the lifting being
+863.399s: Died, he has been received, but what is it 
+866.04s: What's the nature of receiving, what is
+867.92s: The process of receiving, the beginning
+869.72s: Of it until this, until the clouds, is the
+871.959s: Physical one, we see, although obviously
+874.399s: For the for the disciples seeing that
+876.88s: They didn't see any mechanism, maybe it's 
+879.12s: Like, Scotty be me up and start Tre who
+882.04s: Don't know, whatever process is, but after
+884.279s: That he disappeared completely behind
+886.24s: The the clouds, we don't know what has 
+888.199s: Happened to him, did he evaporate, did he 
+890.519s: Turn into light, that's all possible
+892.92s: That's all, and by the way, all of this 
+894.959s: Including the lifting in front of the of
+897.44s: Of the dises, I, I said last time two
+900.199s: Angels came down to him, I was mistaken
+902.04s: The two angels came to tell them to go
+903.519s: To Jerusalem and continue the dawa that
+905.72s: Has nothing to do with with the lifting
+907.44s: The lifting is just he was cut from them
+909.32s: And then ascended immediately, that's it
+912.519s: Without any Angels coming taking him
+914.16s: From the light, or left, or anything like
+915.68s: That, so we don't know what's this kind
+917.36s: Of mechanis, so even in this process
+919.12s: Which they have seen, it's a part of of
+921.959s: Something miraculous and extraordinary
+924.44s: Anyway, Isa, all his life is extraordinary
+927.04s: And his mother, and the Quran
+934.16s: In another
+937.16s: Place, assign for the mankind, it's a f, is 
+941.079s: A distinguish distinguished and unique 
+944.36s: Ayah, which has never in history before
+947.0s: After, so all things related to ISA seem
+949.36s: To be miraculous and out of the ordinary
+952.0s: So here in our Ayah, in our Surah only
+954.759s: The lifting is mentioned because to
+958.0s: Close in door of any possibility of
+959.959s: Discussing of confusion of his death 
+961.72s: Being previously which also someone 
+963.8s: Could say because of the coming eyes
+965.759s: After that, the famous AY, which we will
+968.56s: Discuss today, and possibly maybe next
+970.36s: Time, if it's not fully discussed today
+973.079s: Is that some people may think it he has
+975.319s: Died, that left thing, we should say he
+977.399s: Has been received, what is the nature of
+979.199s: Receiving, it is neither I would say the
+981.72s: Best, is it is the receiving in a certain
+986.279s: Miraculous hidden way which cannot be
+988.88s: Described as death or sleep or anything
+990.839s: El, just something special specific for
+993.36s: Isa, so he cannot be said that he it
+995.56s: Should not be said actually, it will be 
+997.48s: Transgressive to say that he has been 
+999.6s: Caused to die in the sense the same that
+1002.12s: His death is mentioned in the Ayah later 
+1004.68s: That's another one, that's the normal
+1005.959s: Death after the end of his life, after
+1008.16s: Coming back, when we discuss that
+1009.759s: Obviously, so that's this here is
+1012.8s: Clear, Allah lifted to him, did not say
+1015.68s: Any other things, because the context
+1018.04s: Required, but the Contex requires
+1019.839s: Actually to refute any idea that his 
+1022.199s: Lifting is some kind of normal death, the
+1025.199s: One we Mayer to be of as death, it's
+1028.88s: Something else, she just a quick thing
+1031.679s: The reason I was going to ask the 
+1032.64s: Question earlier, but it's so because we
+1034.64s: Know there's one, there's a heresy
+1036.839s: Regarding this in our in our from our de 
+1040.28s: From technically from I suppose is theis
+1043.679s: Or the, this is their strongest evidence
+1047.28s: For when uh
+1048.96s: The the the Liars claimed n right, he
+1052.84s: Claimed to be M first, and it's, yeah, we 
+1055.48s: We'll see, we'll see, we'll see, we
+1057.919s: See, I was I was I was giving da there 
+1060.84s: Was a brother who converted from Kism
+1062.6s: His mother did, I went, I went, they have a
+1065.28s: They have a 
+1066.76s: In a place of worship in, I know this is
+1070.12s: Clear because he cannot Escape except by
+1073.0s: Claiming that that he's the mess the
+1074.6s: Messiah, and then once the Messiah comes
+1076.2s: You can do new revelation and overturn 
+1077.84s: The previous
+1080.2s: Let let me, we'll get to that step step
+1082.4s: By step, step by step by the reason is, he
+1085.32s: Taking the people for a, because he
+1087.12s: Talking to ignorant peop who do not know
+1089.4s: How to do things properly, step by step
+1091.12s: One by one, even the scholars in India
+1092.88s: And Pakistan did not respond to the
+1094.6s: Proper way to that you you know the best
+1097.159s: One actually is there's uh something by
+1104.039s: M that I read when I was in Pakistan
+1106.44s: Called in Arabic, and he quot 100 books
+1109.679s: From their sources, and 100 from our
+1111.2s: Sources, it was actually good solid
+1112.559s: Research, that's the best one, we we we'll
+1115.2s: See in, we'll see, let's let's finish that
+1117.039s: Now and then we see, we see, if we need
+1119.12s: That what he's doing, we may not need it
+1121.76s: So, this is it cannot be cause death and 
+1124.64s: Should propor to wrot this now the next
+1127.08s: Ayah, we will come to next Ayah, which
+1129.64s: Will show that that the are for by
+1134.559s: Necessity, we don't need anymore you can
+1137.679s: Just say and then ignore the other Quran
+1140.08s: If is Quran is is true then the other
+1143.039s: One is true which which has to be also
+1145.679s: Taken to Bo, you cannot you cannot split
+1147.6s: The two, it cannot be true there and
+1149.559s: False
+1150.679s: There, so the next Ayah is the one which
+1153.08s: Is, there are two possible interpretation
+1155.64s: Of 
+1161.48s: It, read the translation there, and then 
+1163.84s: We'll go down more more fine and
+1165.6s: Meticulous because there are certain
+1167.48s: Issues with sat pronounce and to which
+1169.72s: Things they refer, so uh, read that to 
+1172.44s: Translation, rash sure, so 159 Miss yet
+1177.159s: There is not one of the followers of
+1179.2s: Earlier Revelation who does not at the 
+1181.32s: Moment of death grasp the truth about
+1183.96s: Jesus, and on the day of Resurrection he
+1186.44s: Himself shall bear witness to the truth
+1188.559s: Against them, next translation, yet there
+1190.919s: Is none among the people of the book but
+1192.88s: Will believe in him, Jesus before his 
+1195.12s: Death, and on the Resurrection Day He
+1197.88s: Jesus, will be a witness over them, read
+1201.36s: The first one again
+1203.36s: Slowly, yet there is not one of the
+1205.72s: Followers of earlier Revelation, who does
+1208.919s: Not at the moment of death grasp the 
+1211.76s: Truth about Jesus, so he attribut the
+1214.4s: Death to this, this the one of the early 
+1216.4s: Revelation, okay, about the truth about
+1218.559s: Jesus, uhhuh, okay, and on the day of
+1221.24s: Resurrection, he himself shall bear
+1224.0s: Witness to the truth against them, okay
+1226.64s: Okay, but this is that's the place where
+1228.72s: Literal translation is is important
+1231.559s: What's the next one, the other one, the
+1233.52s: Other one is, yet there is none among the
+1236.0s: People of the book but will believe in 
+1238.28s: Him, Jesus, before his death, and on the de
+1241.32s: Resurrection Day, He, Jesus, will be a
+1244.2s: Witness, the problem with 
+1247.159s: This, what's his death, his refer to him
+1250.64s: That's the question to whom, this his
+1252.4s: Defair his
+1257.12s: Death, so the, it is there is none of the
+1260.6s: People of the book, it's called aab NOAB
+1264.12s: Yeah, except that who believe in him
+1267.039s: Obviously, in him meaning by necessity, in
+1269.52s: Jesus, because believing in himself is
+1272.32s: Nonsensical and there is one singular
+1274.6s: Point of view narrated by believing in 
+1277.4s: Him, by Muhammad, but Muhammad is not
+1279.36s: Mentioned, the context before, up to maybe
+1281.88s: 10, 15 before so it's completely
+1284.24s: Nonsensical, it's anyone can claim
+
+
+## https://www.youtube.com/watch?v=PcS6ARH8_DE
+
+## What's the difference between zi and 12? 0.04s 
+**Category:**  Islamic Theology
+
+This question asks about the difference between two concepts in Islamic theology: "zi" and "12." The speaker explains that "zi" refers to the belief that Imams are appointed by God, while "12" refers to the belief that Imams are appointed by previous Imams or divinely appointed, with each Imam appointing their successor.
+
+
+## Is so... 1.76s 
+**Category:**  Incomplete Question
+
+This is an incomplete question and doesn't make sense on its own. It appears to be a fragment of a larger sentence or thought. 
+
+## Zi no z z say that the IM should be from... 3.72s
+**Category:**  Islamic Theology
+
+This question asks about the specific source or origin from which the Imam should be appointed. The speaker clarifies that "zi"  refers to the belief that Imams should be appointed by God, while "12" believes that Imams should be appointed by previous Imams or divinely appointed.
+
+## Provided... 8.76s
+**Category:**  Incomplete Question
+
+This fragment doesn't form a complete question.  It seems to be part of a larger statement or argument. 
+
+## He request imama and fight for it it's... 10.08s
+**Category:**  Islamic Theology
+
+This question asks about the qualifications or conditions necessary for someone to become an Imam. The speaker asserts that the individual should be a worthy candidate, request the position, and even fight for it if necessary, in accordance with the belief of "zi."
+
+## Not by Divine... 13.4s
+**Category:**  Islamic Theology
+
+This statement clarifies that the appointment of Imams should not be solely based on divine appointment, contrary to the belief of "12."
+
+## But they are more worthy than... 15.16s
+**Category:**  Islamic Theology
+
+This statement emphasizes that while the appointment of Imams should not be solely based on divine appointment, the appointed individuals should still be worthy of the position, surpassing others in qualification and righteousness.
+
+## Anybody else provided he ask for it and... 17.279s
+**Category:**  Islamic Theology
+
+This statement reiterates that a potential Imam must request the position and prove their worthiness, demonstrating their commitment and capability to lead.
+
+## Fight for it if... 19.199s
+**Category:**  Islamic Theology
+
+This statement reinforces the notion that a potential Imam should be prepared to fight for the position, showing their dedication and unwavering commitment.
+
+## Necessary following zi that's that's... 21.68s
+**Category:**  Islamic Theology
+
+This statement reinforces the idea that the requirement to fight for the position is only necessary within the context of the "zi" belief system, where Imams are appointed based on their own merits and actions rather than divine decree. 
+
+## What they believe what Ali was thinking... 24.64s
+**Category:**  Islamic History
+
+This question seeks to understand the thoughts and beliefs of Ali ibn Abi Talib regarding the appointment of Imams, particularly in the context of the "zi" belief.
+
+## Or believing I think they are mistaken Z... 27.08s
+**Category:**  Islamic History
+
+This statement suggests that the speaker believes the proponents of the "zi" belief are mistaken in their interpretation of Ali's beliefs regarding Imams. 
+
+## Ali was against and in... 29.519s
+**Category:**  Islamic History
+
+This statement asserts that Ali ibn Abi Talib opposed the "zi" belief system and instead supported the "12" belief, which emphasizes the appointment of Imams through succession or divine appointment. 
+
+## Because my him and things like that but... 32.6s
+**Category:**  Islamic History
+
+This sentence seems to be a fragment of a larger thought or argument. It doesn't form a complete question. 
+
+## This is history we don't need toother... 35.079s
+**Category:**  Islamic History
+
+This statement emphasizes the importance of historical accuracy and suggests that irrelevant details or opinions should be disregarded when discussing historical events.
+
+## About... 36.76s
+**Category:**  Incomplete Question
+
+This is an incomplete question and doesn't make sense on its own. It appears to be a fragment of a larger sentence or thought.
+
+## That both of them are not Authority... 38.239s
+**Category:**  Islamic Theology
+
+This statement clarifies that neither the "zi" belief nor the "12" belief is considered an authoritative interpretation of Islamic theology.
+
+## Definitely is far away from being most... 42.52s
+**Category:**  Islamic Theology
+
+This statement reinforces the lack of authority for both the "zi" and "12" beliefs, asserting that they are far from being the most likely interpretations of Islam. 
+
+## Likely the possibly a anyway but that's... 44.719s
+**Category:**  Islamic Theology
+
+This statement continues to emphasize the lack of authority of both belief systems, suggesting that they are only possibilities and not definitive interpretations. 
+
+## Irrelevant that's all... 48.879s
+**Category:**  Islamic Theology
+
+This statement concludes the discussion about the "zi" and "12" beliefs, reiterating their lack of authoritative status in Islamic theology. 
+
+## History say the IM are appointed one by... 51.879s
+**Category:**  Islamic History
+
+This statement provides a historical perspective on the appointment of Imams, suggesting that historically, Imams were appointed one by one, each Imam appointing their successor.
+
+## One each IM appoint the next one or... 54.44s
+**Category:**  Islamic History
+
+This statement elaborates on the historical method of appointing Imams, emphasizing that each Imam had the authority to choose their successor. 
+
+## Divinely appointed and it's exposed in... 56.32s
+**Category:**  Islamic History
+
+This statement mentions a belief system where Imams are divinely appointed, suggesting that the appointment is ordained by God and is not solely based on human decisions. 
+
+## The before the IM he exposes who the... 58.84s
+**Category:**  Islamic History
+
+This statement refers to a specific historical event, where a future Imam's identity was revealed before the current Imam's death.
+
+## Next one or something like that is is a... 61.079s
+**Category:**  Islamic Theology
+
+This statement introduces a concept called a "mythical theory" or "absor theory," suggesting that the appointment of Imams is based on a pre-determined plan or prophecy.
+
+## Mythical Theory it's absor Theory but it... 64.04s
+**Category:**  Islamic Theology
+
+This statement further defines the "mythical theory" or "absor theory" as a specific belief system related to the appointment of Imams. 
+
+## Is does not necessarily contradict Islam... 67.64s
+**Category:**  Islamic Theology
+
+This statement clarifies that while the "mythical theory" or "absor theory" is distinct from mainstream Islamic belief, it doesn't necessarily contradict the core principles of Islam. 
+
+## So take you out to the world of... 69.4s
+**Category:**  Islamic Theology
+
+This statement suggests that this "mythical theory" or "absor theory" represents a different interpretation of Islam, potentially diverging from the mainstream understanding. 
+
+## Islam as at face obviously if you dig... 71.759s
+**Category:**  Islamic Theology
+
+This statement acknowledges that while the "mythical theory" or "absor theory" may appear consistent with Islam on the surface, deeper analysis might reveal inconsistencies. 
+
+## Deeper you can show that it contradict... 74.479s
+**Category:**  Islamic Theology
+
+This statement emphasizes the potential for the "mythical theory" or "absor theory" to contradict established Islamic teachings upon further examination. 
+
+## Sh contradict well established... 76.56s
+**Category:**  Islamic Theology
+
+This statement clarifies that the "mythical theory" or "absor theory" could potentially contradict established Islamic traditions and practices. 
+
+## Narration in Sunnah and also yeah... 80.36s
+**Category:**  Islamic Theology
+
+This statement highlights the potential for the "mythical theory" or "absor theory" to contradict established narrations in the Sunnah, a collection of sayings and practices attributed to the Prophet Muhammad.
+
+## Yeah wrong understanding of the... 84.72s
+**Category:**  Islamic Theology
+
+This statement indicates that the "mythical theory" or "absor theory" is based on a misunderstanding of Islamic teachings. 
+
+## Meaning which is by the way it has... 88.079s
+**Category:**  Islamic Theology
+
+This statement further clarifies that the "mythical theory" or "absor theory" is based on a misinterpretation of certain aspects of Islamic teachings, unrelated to the appointment of Imams.
+
+## Nothing to do with appointing him IM or... 91.32s
+**Category:**  Islamic Theology
+
+This statement clarifies that the "mythical theory" or "absor theory" is not connected to the issue of Imam appointments.
+
+## Not appointing it's something else but... 93.04s
+**Category:**  Islamic Theology
+
+This statement emphasizes that the "mythical theory" or "absor theory" deals with an entirely different aspect of Islamic belief, separate from the question of Imam appointments.
+
+## This is a possibility Marin does not... 95.68s
+**Category:**  Islamic Theology
+
+This statement acknowledges that while the "mythical theory" or "absor theory" is a possibility, it is not a defining factor in Islamic theology.
+
+## Make you a c anyway but is manifestly a... 98.84s
+**Category:**  Islamic Theology
+
+This statement reinforces the notion that the "mythical theory" or "absor theory" is not a definitive or essential belief within Islam, despite its potential to be misconstrued.
+
+## Wrong M all the arguments are based this... 101.64s
+**Category:**  Islamic Theology
+
+This statement criticizes arguments based on the "mythical theory" or "absor theory," highlighting their lack of logical foundation.
+
+## Called irrational arguments are fallacy... 105.6s
+**Category:**  Islamic Theology
+
+This statement further critiques arguments based on the "mythical theory" or "absor theory," labeling them as illogical fallacies.
+
+## And the the the the narrative arguments... 108.24s
+**Category:**  Islamic Theology
+
+This statement broadens the critique to include other arguments based on this "mythical theory" or "absor theory," suggesting that they are flawed and lack validity. 
+
+## Are all of them faulty and not... 112.28s
+**Category:**  Islamic Theology
+
+This statement concludes the critique, concluding that all arguments based on the "mythical theory" or "absor theory" are ultimately faulty and inadequate.
+
+## Comprehensive another question so I know... 115.719s
+**Category:**  Incomplete Question
+
+This sentence is an incomplete question, lacking context and a clear point of inquiry.
+
+## For example but I I wouldn't get... 118.28s
+**Category:**  Incomplete Question
+
+This sentence is an incomplete fragment, lacking a clear question or statement. 
+
+## Indulged in that this this will... 120.92s
+**Category:**  Incomplete Question
+
+This sentence is an incomplete fragment, lacking a clear question or statement.
+
+## Evaporate with with the with the... 122.28s
+**Category:**  Incomplete Question
+
+This sentence is an incomplete fragment, lacking a clear question or statement. 
+
+## Internet and openness and so on provid... 124.0s
+**Category:**  Incomplete Question
+
+This sentence is an incomplete fragment, lacking a clear question or statement. 
+
+## Someone bring these things put them the... 126.799s
+**Category:**  Incomplete Question
+
+This sentence is an incomplete fragment, lacking a clear question or statement. 
+
+## Table in form of structured argument and... 128.36s
+**Category:**  Incomplete Question
+
+This sentence is an incomplete fragment, lacking a clear question or statement.
+
+## Counter argument not in form is one... 131.68s
+**Category:**  Incomplete Question
+
+This sentence is an incomplete fragment, lacking a clear question or statement. 
+
+## Say committed adultery is he CF or not... 135.239s
+**Category:**  Islamic Theology
+
+This question asks whether someone who commits adultery is considered a "kafir" (non-believer) in Islam.  
+
+## CF maybe he said that he didn't say he... 138.08s
+**Category:**  Islamic Theology
+
+This statement suggests that the question of whether someone who commits adultery is a "kafir" is a complex one, requiring further clarification and context. 
+
+## Said because he contradict the Quran... 140.56s
+**Category:**  Islamic Theology
+
+This statement suggests that the question of whether someone who commits adultery is a "kafir" could depend on their stance on the Quran and its teachings.
+
+## Okay but he says it's not the ey of the... 142.879s
+**Category:**  Islamic Theology
+
+This statement acknowledges a possible interpretation where the act of adultery is not directly addressed in a specific verse of the Quran. 
+
+## Quran are not related... 144.599s
+**Category:**  Islamic Theology
+
+This statement further clarifies that the Quran doesn't explicitly mention adultery in the context of a specific verse. 
+
+## Toan are related... 145.92s
+**Category:**  Islamic Theology
+
+This statement reinforces the notion that the Quran doesn't explicitly address adultery in a specific verse.
+
+## To to Maria... 148.04s
+**Category:**  Islamic Theology
+
+This statement appears to be a fragment of a larger thought, lacking context and clarity. 
+
+## That's what they claim and there... 150.4s
+**Category:**  Islamic Theology
+
+This statement introduces a specific claim regarding the accusation of adultery. 
+
+## Narration the that was also accused of... 152.12s
+**Category:**  Islamic Theology
+
+This statement refers to a specific historical event where someone was accused of a similar offense.
+
+## Something like... 154.56s
+**Category:**  Incomplete Question
+
+This is an incomplete fragment and lacks a clear question or statement.
+
+## That and people were talking about the... 155.68s
+**Category:**  Islamic History
+
+This statement provides historical context, describing how people reacted to the accusation of adultery. 
+
+## Son of muham and they claim that's the... 158.319s
+**Category:**  Islamic History
+
+This statement mentions a historical claim related to a specific individual and the accusation of adultery.
+
+## AY came in that one most Sunni and well... 160.519s
+**Category:**  Islamic Theology
+
+This statement introduces a specific verse in the Quran that is believed to address the accusation of adultery. 
+
+## Established narration it came for and... 163.319s
+**Category:**  Islamic Theology
+
+This statement further clarifies the significance of the specific Quranic verse and its connection to the accusation of adultery.
+
+## They indication in the ey that it's not... 165.36s
+**Category:**  Islamic Theology
+
+This statement suggests that the specific Quranic verse doesn't directly confirm the accusation of adultery. 
+
+## Really... 167.36s
+**Category:**  Incomplete Question
+
+This is an incomplete fragment and lacks a clear question or statement.
+
+## Mar... 168.519s
+**Category:**  Incomplete Question
+
+This is an incomplete fragment and lacks a clear question or statement. 
+
+## But someone could get that anyway okay... 170.4s
+**Category:**  Islamic Theology
+
+This statement acknowledges that there could be different interpretations of the Quranic verse related to the accusation of adultery.
+
+## Let's say someone is saying that because... 173.72s
+**Category:**  Islamic Theology
+
+This statement introduces a hypothetical scenario involving someone who declares the Quran to be false. 
+
+## He's a CAF okay declare the Quran to be... 175.12s
+**Category:**  Islamic Theology
+
+This statement establishes the hypothetical scenario, where someone declares the Quran to be false.
+
+## False then he's a cafir yeah okay so... 177.56s
+**Category:**  Islamic Theology
+
+This statement concludes the hypothetical scenario, suggesting that someone who declares the Quran to be false is considered a "kafir" (non-believer) in Islam. 
+
+## What what what the result of that the... 180.28s
+**Category:**  Islamic Theology
+
+This question asks about the consequences of declaring the Quran to be false.
+
+## Problem Shia saying that it's not Shia... 182.56s
+**Category:**  Islamic Theology
+
+This statement introduces a specific perspective within Shia Islam regarding the issue of declaring the Quran to be false.
+
+## Saying that it's a small minority of... 184.56s
+**Category:**  Islamic Theology
+
+This statement further clarifies the Shia perspective, suggesting that only a small minority of Shia Muslims would declare the Quran to be false. 
+
+## Shia saying that as in in in a Shia... 190.2s
+**Category:**  Islamic History
+
+This statement introduces a specific historical event related to Shia Muslims and the accusation of declaring the Quran to be false.
+
+## Government in in in tabaristan near near... 193.0s
+**Category:**  Islamic History
+
+This statement provides historical context, mentioning a specific region and time period related to the Shia government in Tabaristan. 
+
+## K near the caspan sea in time past there... 196.4s
+**Category:**  Islamic History
+
+This statement further clarifies the location and timeframe of the historical event mentioned.
+
+## Was was was a local Governor there who... 198.84s
+**Category:**  Islamic History
+
+This statement describes the situation in Tabaristan during that time, mentioning a local governor. 
+
+## Was in control obviously accepting Theif... 201.68s
+**Category:**  Islamic History
+
+This statement clarifies the governor's position and his beliefs, mentioning his acceptance of a specific figure.
+
+## ABI nominally the way they were doing... 203.56s
+**Category:**  Islamic History
+
+This statement provides further details about the governor's beliefs and practices, suggesting that he followed a specific tradition.
+
+## That at that time and someone and... 206.319s
+**Category:**  Islamic History
+
+This statement continues the historical narrative, mentioning a specific individual involved in the event.
+
+## Someone uh in his presence accused the... 210.2s
+**Category:**  Islamic History
+
+This statement describes an accusation made against someone in the presence of the governor.
+
+## Accused AA ofter he ordered him executed... 213.84s
+**Category:**  Islamic History
+
+This statement describes the governor's actions in response to the accusation. 
+
+## He was he was Fu say I don't care about... 217.239s
+**Category:**  Islamic History
+
+This statement clarifies the governor's response, indicating his disinterest in the accused individual.
+
+## AA but this attacking the honor of the... 219.959s
+**Category:**  Islamic Theology
+
+This statement emphasizes the governor's view of the accusation as an attack on the Prophet Muhammad's honor.
+
+## Messenger of Allah this is c for him so... 222.04s
+**Category:**  Islamic Theology
+
+This statement concludes the governor's reasoning, highlighting his belief that the accusation constitutes a grave offense against Islam.
+
+## He did not argue with the Quran arue... 223.48s
+**Category:**  Islamic Theology
+
+This statement describes the governor's approach to the accusation, suggesting that he didn't engage in an argument based on the Quran.
+
+## With something else maybe he did not... 226.68s
+**Category:**  Islamic Theology
+
+This statement further explains the governor's response, suggesting that he may have rejected the accusation based on other arguments.
+
+## Believe that the AY comes so he regard... 228.64s
+**Category:**  Islamic Theology
+
+This statement suggests a possible reason for the governor's rejection of the accusation, indicating that he may not have believed in the validity of the specific Quranic verse. 
+
+## Interpreted that as attacking the... 230.48s
+**Category:**  Islamic Theology
+
+This statement clarifies the governor's interpretation of the accusation, viewing it as an attack on the Prophet Muhammad's honor.
+
+## Prophet... 232.04s
+**Category:**  Incomplete Question
+
+This is an incomplete fragment and lacks a clear question or statement. 
+
+## Honor but someone could argue that guy... 235.0s
+**Category:**  Islamic Theology
+
+This statement introduces a counter-argument, suggesting an alternative interpretation of the accusation. 
+
+## May have the interpretation that the the... 238.159s
+**Category:**  Islamic Theology
+
+This statement clarifies the alternative interpretation, focusing on the potential misunderstanding of a specific event.
+
+## The Betrayal of the wife of L... 240.519s
+**Category:**  Islamic Theology
+
+This statement refers to a specific event related to a betrayal by a wife. 
+
+## Is marital betrayer most likely is a... 243.599s
+**Category:**  Islamic Theology
+
+This statement provides an interpretation of the betrayal, suggesting it is related to marital infidelity. 
+
+## Belief betrayal not a marital... 245.599s
+**Category:**  Islamic Theology
+
+This statement offers a different perspective, suggesting that the betrayal could be related to something beyond marital infidelity.
+
+## Betrayer they were communicating with... 247.56s
+**Category:**  Islamic Theology
+
+This statement continues to explain the alternative interpretation, suggesting that the betrayal may have involved communication with people outside their community. 
+
+## Their own people in their sh and not in... 249.76s
+**Category:**  Islamic Theology
+
+This statement further elaborates on the alternative interpretation, suggesting that the betrayal may have involved communication with people outside their religious community. 
+
+## Matter of of adultery but someone could... 252.84s
+**Category:**  Islamic Theology
+
+This statement emphasizes the importance of context and interpretation, suggesting that the accusation may not have been related to adultery.
+
+## Say this may it may may be like that we... 254.959s
+**Category:**  Islamic Theology
+
+This statement reiterates the need for careful interpretation and acknowledges the possibility of alternative perspectives. 
+
+## Don't know anyway this is a missing area... 257.84s
+**Category:**  Islamic Theology
+
+This statement concludes the discussion about the accusation, acknowledging the lack of definitive information and emphasizing the complexity of the issue.
+
+## I wouldn't advise anyone to go that this... 259.479s
+**Category:**  Islamic Theology
+
+This statement advises against pursuing this specific argument, suggesting that it may be unproductive and divisive.
+
+## Will will will not bring any people... 261.32s
+**Category:**  Islamic Theology
+
+This statement emphasizes the potential for this argument to create division and conflict within the community.
+
+## Together or analyze things if someone... 262.919s
+**Category:**  Islamic Theology
+
+This statement encourages a different approach, suggesting that evidence and logical arguments should be used to address complex issues.
+
+## Comes okay bring your evidence put in... 265.0s
+**Category:**  Islamic Theology
+
+This statement reinforces the importance of presenting evidence and engaging in constructive discussions.
+
+## The table let us see how it goes that's... 267.28s
+**Category:**  Islamic Theology
+
+This statement concludes the discussion, encouraging open and evidence-based dialogue for resolving complex issues within Islamic theology. 
+
+
+## https://www.youtube.com/watch?v=2_tGmN_FTh0
+
+##  10.5s :  What is the purpose of this video? 
+**Category:**  Purpose
+**Answer:** This video discusses the theory of Surat al-Doba, specifically Aya 38. 
+
+
+##  118.259s :  What is the translation of Aya 38? 
+**Category:** Translation
+**Answer:** The translation of Aya 38 is, "O you who have believed, what is the matter with you, that when you are told to go forth in the cause of Allah, you cling heavily to the earth? Are you satisfied with the life of this world in preference to the Hereafter? But the enjoyment of the life of this world is only a small amount compared to the Hereafter."
+
+
+##  162.78s :  Why did Allah announce the target of the Tabuk campaign? 
+**Category:**  Historical Context
+**Answer:**  Allah announced the target of the Tabuk campaign, the Roman Empire, because they were hostile to Islam, attacking Muslims and killing their messengers. This announcement was to motivate the Muslims to fight. 
+
+
+##  293.46s :  Why was the Tabuk campaign a significant challenge for the Muslims? 
+**Category:**  Challenge
+**Answer:** The Tabuk campaign was a significant challenge for the Muslims because they were facing the Roman Empire, a powerful force with 200,000 heavily armored soldiers. The journey to the Roman Empire was also very long and arduous. 
+
+
+##  373.28s :  What was the message Allah conveyed to the believers who were hesitant to participate in the Tabuk campaign? 
+**Category:**  Message
+**Answer:** Allah challenged the believers who were hesitant to participate in the Tabuk campaign by asking them if they were satisfied with the enjoyment of this world over the Hereafter. He reminded them that the enjoyment of this world is temporary and insignificant compared to the eternal life to come. 
+
+
+##  430.979s :  What is the context of the revelation of Aya 38? 
+**Category:**  Revelation
+**Answer:** The revelation of Aya 38 likely occurred before or after the Tabuk campaign, either to encourage the people to participate or to remind them of the importance of jihad. 
+
+
+##  476.24s :  What are the consequences of failing to participate in Jihad?
+**Category:**  Consequence
+**Answer:**  The consequences of failing to participate in Jihad, according to Aya 38, are severe punishment from Allah and being replaced by other people who are willing to fight in his cause. 
+
+
+##  501.36s :  What is the fundamental principle being clarified in Aya 38?
+**Category:**  Principle
+**Answer:**  The fundamental principle being clarified in Aya 38 is that it is an obligation to participate in Jihad when called upon, and that failing to do so is haram. This obligation applies to all capable Muslims who are not excused due to any handicap.
+
+
+##  622.459s :  What is the message of Aya 39? 
+**Category:**  Message
+**Answer:** Aya 39 reminds the Muslims that Allah will support his messenger, even in difficult situations. The story of the Prophet Muhammad’s escape from Mecca and hiding in the cave with Abu Bakr is cited as an example of Allah’s support. 
+
+
+##  755.94s :  What prevented the Prophet Muhammad's assassins from finding him in the cave?
+**Category:**  Miraculous Event
+**Answer:**  The Prophet Muhammad’s assassins were prevented from finding him in the cave by a spider web that miraculously appeared across the entrance of the cave. This event, along with the story of two pigeons, is seen as a testament to Allah’s support for his messenger.
+
+
+##  882.24s :  What is the significance of the phrase “God is with us” in Aya 39? 
+**Category:**  Significance
+**Answer:** The phrase "God is with us" in Aya 39 emphasizes the importance of faith and trust in Allah. It reminds believers that even in seemingly impossible situations, Allah will provide support and protection. 
+
+
+##  901.98s :  Why was Allah's support for the Prophet Muhammad essential?
+**Category:**  Support
+**Answer:** Allah’s support for the Prophet Muhammad was essential because he was destined to be the final messenger to all mankind. He needed sufficient protection to carry the message until its completion and to ensure its preservation throughout time.
+
+
+##  1028.78s :  What does the phrase “whether it be easy or difficult for you” mean in the context of Aya 41? 
+**Category:**  Interpretation
+**Answer:**  The phrase "whether it be easy or difficult for you" in the context of Aya 41 emphasizes that participation in Jihad is an obligation, regardless of personal hardship or ease. It encourages Muslims to prioritize their faith over personal convenience. 
+
+
+##  1091.22s :  What are some examples of situations that may make Jihad “heavy” or “light” for a Muslim?
+**Category:**  Examples
+**Answer:**  Examples of situations that make Jihad “heavy” or “light” include age, physical capabilities, and the availability of resources such as weapons. It can also be heavy for a person who has a family to support or a business to run. 
+
+
+##  1107.539s :  Does the concept of “heavy” or “light” in Jihad also include the ability to fight?
+**Category:**  Clarification
+**Answer:** The concept of “heavy” or “light” in Jihad does include the ability to fight, and it also encompasses the ability to support the cause through other means such as providing financial assistance. 
+
+
+##  1159.14s :  What is the distinction between Jihad during the time of the Messenger and Jihad in the absence of an Islamic State? 
+**Category:**  Distinction
+**Answer:** The distinction between Jihad during the time of the Messenger and Jihad in the absence of an Islamic State lies in the authority to call for Jihad. During the time of the Messenger, he was the head of state and had the authority to call for Jihad. In the absence of an Islamic state, the authority to call for Jihad is more complex and requires careful consideration. 
+
+
+##  1212.0s :  Who can call Muslims to Jihad in the absence of an Islamic State? 
+**Category:**  Authority
+**Answer:**  In the absence of an Islamic State, a qualified Imam can call Muslims to Jihad. This can occur in situations where an Islamic domain is under threat from an invading force or a ruler who has abandoned Islam. 
+
+
+##  1269.539s :  What is the main point of Aya 42? 
+**Category:**  Point
+**Answer:** Aya 42 highlights the hypocrisy of those who claim they would have joined the Prophet Muhammad in the Tabuk campaign but did not due to various excuses. It emphasizes that their claims are false and that they are deceiving themselves. 
+
+
+##  1351.799s :  Why did most people stay back from the Tabuk campaign? 
+**Category:**  Reason
+**Answer:**  Most people stayed back from the Tabuk campaign because they were afraid of facing the Roman Empire, believing they were likely to be killed or defeated. They lacked the faith and determination to confront the formidable foe. 
+
+
+##  1424.84s :  What is the message conveyed in Aya 43? 
+**Category:**  Message
+**Answer:**  Aya 43 criticizes those who stayed back from the Tabuk campaign for their hypocrisy, highlighting their willingness to make false oaths after the Prophet Muhammad returned victorious. 
+
+
+##  1491.299s :  Why did Allah forgive the Prophet Muhammad for allowing people to stay back from the Tabuk campaign? 
+**Category:**  Forgiveness
+**Answer:**  Allah forgave the Prophet Muhammad for allowing people to stay back from the Tabuk campaign because he understood that he did not yet know who was truly sincere and who was not. 
+
+
+##  1582.52s :  What is a better tactic to handle those who ask for permission to stay back from a battle? 
+**Category:**  Tactic
+**Answer:**  A better tactic to handle those who ask for permission to stay back from a battle is to scrutinize their excuses more carefully and demand more evidence to determine their sincerity. This approach helps prevent those who are seeking to deceive from being granted permission. 
+
+
+##  1623.0s :  How does the concept of scrutiny apply to a modern standing army?
+**Category:**  Application
+**Answer:** The concept of scrutiny applies to a modern standing army in the same way it applies to a Muslim army called to Jihad. Soldiers who claim they cannot participate due to personal circumstances should be subject to a greater level of scrutiny to ensure their excuses are genuine. 
+
+
+##  1732.46s :  What is the defining characteristic of true believers in Aya 44? 
+**Category:**  Characteristic
+**Answer:**  The defining characteristic of true believers, according to Aya 44, is their willingness to commit their possessions and lives to the struggle for Allah’s cause without seeking exemption. 
+
+
+##  1753.98s :  Why is it said that Allah knows who is mindful of him? 
+**Category:**  Knowledge
+**Answer:** It is said that Allah knows who is mindful of him because he is the ultimate judge of intentions. He knows who is truly sincere in their belief and who is merely seeking personal gain or avoiding hardship. 
+
+
+##  1890.38s :  Who are those who seek exemption from Jihad?
+**Category:**  Exemption
+**Answer:** Those who seek exemption from Jihad are those who do not truly believe in Allah and the Last Day, and whose hearts are full of doubt. They are hesitant to commit to the struggle and are wavering between belief and disbelief. 
+
+
+##  1922.12s :  What is the significance of the phrase “whose Hearts have become a prey to doubt”? 
+**Category:**  Doubt
+**Answer:** The phrase “whose Hearts have become a prey to doubt” highlights the destructive nature of doubt, especially when it comes to matters of faith. It can cause a person to waver between belief and disbelief, leading them away from the path of righteousness.
+
+
+##  1990.46s :  What is the role of the devil in the hearts of believers? 
+**Category:**  Devil
+**Answer:** The devil whispers doubts and temptations into the minds of believers to try and weaken their faith. However, these doubts are fleeting and are easily overcome by true believers who have a strong foundation in rationality and understanding. 
+
+
+##  2047.099s :  Why might a person question the justice of Allah's testing? 
+**Category:**  Questioning
+**Answer:**  A person might question the justice of Allah’s testing because they may feel overwhelmed by hardship, believing that Allah is playing a game with them or that their suffering is unnecessary. This is a common human response to adversity, but true believers overcome these doubts through faith and reason. 
+
+
+##  2119.099s :  What is the best way to overcome fleeting doubts and questions about faith?
+**Category:**  Doubt
+**Answer:** The best way to overcome fleeting doubts and questions about faith is to have a strong foundation in reason and understanding.  This allows a person to challenge these doubts and find secure answers based on evidence and logic. 
+
+
+##  2184.44s :  How are those with wavering faith different from those with fleeting doubts?
+**Category:**  Wavering Faith
+**Answer:** Those with wavering faith are different from those with fleeting doubts because their doubts are persistent and they constantly go back and forth, never coming to a firm belief. They are unable to overcome their uncertainty and remain in a state of ambiguity. 
+
+
+##  2255.0s :  What is the main point of the Hadith about the stages of Islam?
+**Category:**  Hadith
+**Answer:** The main point of the Hadith about the stages of Islam is that the true test of faith comes when a person is faced with hardship or difficulty. This is when the believer must rely on their faith to overcome their fear and doubts. 
+
+
+##  2289.78s :  What is the difference between the test of ease and the test of hardship? 
+**Category:**  Test
+**Answer:** The test of ease is more subtle and perhaps more difficult to overcome than the test of hardship. In the test of hardship, a person has no one but Allah to rely on. But in the test of ease, the devil has numerous ways to tempt and deceive, making it easy to be distracted from faith. 
+
+
+##  2321.52s :  What is the call to action of Aya 45? 
+**Category:**  Call to Action
+**Answer:** Aya 45 calls on Muslims to action, reminding them that they should not be complacent and should always strive to do good and fight for their faith. 
+
+
+##  2411.46s :  What is the reason behind Allah’s decision to prevent some people from joining the Tabuk campaign?
+**Category:**  Prevention
+**Answer:** Allah prevented some people from joining the Tabuk campaign because he knew they were not sincere in their intentions and that they would have caused mischief in the army. 
+
+
+##  2460.42s :  What wisdom is there in Allah’s decision to prevent some people from joining the Tabuk campaign?
+**Category:**  Wisdom
+**Answer:** The wisdom behind Allah’s decision to prevent some people from joining the Tabuk campaign lies in the fact that they would have been a negative element within the army, potentially causing discord and undermining morale. 
+
+
+##  2507.3s :  What would have happened if those who stayed back from the Tabuk campaign had joined the army?
+**Category:**  Outcome
+**Answer:** If those who stayed back from the Tabuk campaign had joined the army, they would have only made things more difficult by spreading rumors and causing divisions amongst the Muslims. This would have weakened the army’s morale and hindered their efforts.
+
+
+##  2591.819s :  Why did many people listen to the “leaders” who stayed back from the Tabuk campaign? 
+**Category:**  Influence
+**Answer:**  Many people listened to the “leaders” who stayed back from the Tabuk campaign because they were tribal chieftains and respected personalities. They had influence in the community and their opinions carried weight, leading some believers to follow their lead despite their lack of faith. 
+
+
+##  2628.839s :  Why is it important not to address any leader with a title of respect? 
+**Category:**  Respect
+**Answer:** It is important not to address any leader with a title of respect because it can lead to associating them with divinity.  The only being worthy of respect and adoration is Allah. 
+
+
+##  2710.04s :  What was the strategy of those who were trying to create conflict and hatch plots against the Prophet Muhammad?
+**Category:**  Strategy
+**Answer:**  The strategy of those who were trying to create conflict and hatch plots against the Prophet Muhammad was to use political games and manipulation to sow discord and undermine his leadership. They sought to exploit the tribal rivalries and personal ambitions within the community to achieve their goals.
+
+
+##  2800.38s :  What were some of the tricks used by those who were trying to sow discord in the Muslim community?
+**Category:**  Tricks
+**Answer:**  Some of the tricks used by those trying to sow discord in the Muslim community included suggesting alternative strategies, spreading rumors and gossip, and questioning the Prophet Muhammad’s decisions. 
+
+
+##  2940.38s :  What is the message of Aya 46? 
+**Category:**  Message
+**Answer:**  Aya 46 warns those who are unwilling to acknowledge the truth and refuse to believe in Allah that they are destined for hellfire. 
+
+
+##  3005.24s :  What is the significance of the statement made by the person who sought exemption from the Tabuk campaign due to his weakness in front of women?
+**Category:**  Significance
+**Answer:** The statement made by the person who sought exemption from the Tabuk campaign due to his weakness in front of women is significant because it exposes his hypocrisy and lack of faith. It shows that he is willing to prioritize his personal desires over his religious obligations. 
+
+
+##  3138.42s :  What is the message of Aya 47? 
+**Category:**  Message
+**Answer:** Aya 47 highlights the hypocrisy of those who were displeased with the Prophet Muhammad's successes and who rejoiced in his misfortunes. It emphasizes that their actions are driven by envy and hatred, not genuine concern for their faith.
+
+
+##  3215.18s :  What is an example of a situation where people initially refused to join the Prophet Muhammad but then changed their minds? 
+**Category:**  Example
+**Answer:**  An example of a situation where people initially refused to join the Prophet Muhammad but then changed their minds was the campaign to Khaybar.  They initially hesitated but then became eager to join when they realized the potential for great spoils and wealth. 
+
+
+##  3326.72s :  What is the response to those who are gloating over a Muslim's misfortune? 
+**Category:**  Response
+**Answer:** The response to those who are gloating over a Muslim's misfortune is to remind them that only what Allah has decreed will happen. Believers should place their trust in Allah and not be swayed by the negativity or pessimism of others. 
+
+
+##  3426.42s :  What are the two glorious rewards that Muslims hope for in this life?
+**Category:**  Reward
+**Answer:**  The two glorious rewards that Muslims hope for in this life are victory in the cause of Allah and martyrdom in his service.  These are considered great blessings and are highly valued by believers. 
+
+
+##  3567.2s :  What is the message of Aya 48?
+**Category:**  Message
+**Answer:**  Aya 48 declares that any contribution, whether willingly or unwillingly, from those who are disobedient and do not truly believe will not be accepted by Allah. Only sincere actions performed with genuine faith will be rewarded. 
+
+
+##  3697.28s :  What is the reason that prevents the contributions of the hypocrites from being accepted?
+**Category:**  Reason
+**Answer:** The reason that prevents the contributions of the hypocrites from being accepted is their refusal to acknowledge Allah and his messenger. They are reluctant to pray and resentful of spending on righteous causes, indicating their insincerity and hypocrisy. 
+
+
+##  3810.38s :  What is the condition for a Muslim to be rewarded for their actions, including spending on righteous causes?
+**Category:**  Reward
+**Answer:**  The condition for a Muslim to be rewarded for their actions, including spending on righteous causes, is that they do so out of sincere love and compliance with Allah’s commands. Actions performed out of obligation or for personal gain will not be rewarded.
+
+
+##  3919.46s :  What is the message of Aya 49? 
+**Category:**  Message
+**Answer:** Aya 49 warns believers not to be impressed by the wealth, children, or worldly possessions of those who do not truly believe in Allah. Allah will punish them with their very possessions and they will die in a state of denial, facing a terrible loss in the Hereafter. 
+
+
+##  4032.14s :  What is the connection between wealth, children, and the disbelief of some people in Medina? 
+**Category:**  Connection
+**Answer:** The connection between wealth, children, and the disbelief of some people in Medina lies in the fact that they were focused on worldly pursuits and accumulated wealth, prioritizing these things over their faith. This led to their denial of Allah and their ultimate demise.
+
+
+##  4141.279s :  What is the reason behind the fear of the hypocrites? 
+**Category:**  Fear
+**Answer:** The hypocrites are afraid of the Prophet Muhammad and the consequences of their actions. They fear the judgment of Allah and the punishment for their disbelief. They are also afraid of the Muslims who are willing to fight for their faith. 
+
+
+##  4219.9s :  What is the evidence of the hypocrites' cowardice in Aya 50? 
+**Category:**  Cowardice
+**Answer:**  The hypocrites' cowardice is evident in their desire to escape the battlefield and find refuge in any crevice or cave they can find. This reflects their fear of death and their lack of faith in Allah’s protection.
+
+
+##  4284.48s :  Is the hypocrites' cowardice a result of physiological or psychological factors? 
+**Category:**  Cowardice
+**Answer:** The hypocrites' cowardice is not a result of physiological or genetic factors. It stems from their lack of belief in Allah and their inability to trust in his promises of reward and protection. 
+
+
+##  4401.44s :  What is the reason behind the hypocrisy of some people in criticizing the Prophet Muhammad’s distribution of charitable gifts?
+**Category:**  Hypocrisy
+**Answer:**  The hypocrisy of some people in criticizing the Prophet Muhammad’s distribution of charitable gifts stems from their greed and desire for personal gain. They are content only when they receive something, and they become angry when they don’t. 
+
+
+##  4550.239s :  What is the best attitude for a believer to have towards the distribution of Allah's bounty?
+**Category:**  Attitude
+**Answer:**  The best attitude for a believer to have towards the distribution of Allah’s bounty is to be content with what he has given and trust that he will continue to provide for them.  They should not criticize or question the Prophet’s actions, as they are entrusted with the responsibility of distributing Allah’s bounty wisely. 
+
+
+##  4592.52s :  What is the clarification given in Aya 51 regarding zakat? 
+**Category:**  Clarification
+**Answer:**  The clarification given in Aya 51 regarding zakat is that it is only for eight specific categories.  This clarifies the previously unclear understanding and ensures that zakat is distributed according to Allah’s will. 
+
+
+##  4618.34s :  How is zakat used as a tool for political analysis and evolution?
+**Category:**  Political Analysis
+**Answer:**  Zakat is used as a tool for political analysis and evolution by the head of state, who uses it to manage the different categories of beneficiaries and to pacify potentially hostile groups. This ensures the stability and well-being of the Islamic community. 
+
+
+##  4724.9s :  What is the discretion left to the head of state regarding zakat distribution?
+**Category:**  Discretion
+**Answer:** The head of state has the discretion to decide how to distribute the shares of the zakat according to the needs of the Islamic community and the political landscape. This may include prioritizing the needs of certain groups or regions over others. 
+
+
+##  4766.239s :  What is the ruling regarding the ihram for Umrah when traveling from Europe?
+**Category:**  Ruling
+**Answer:**  When traveling from Europe for Umrah, it is mandatory to enter the state of ihram before reaching the haram area. This entails changing into ihram clothing, performing the talbiyah, and refraining from certain actions. 
+
+
+##  4939.64s :  What is the question regarding the Visa waiver for visiting Medina?
+**Category:**  Visa
+**Answer:** The question regarding the Visa waiver for visiting Medina is whether one can enter Medina first, before entering Makkah, to perform Umrah. 
+
+
+##  4991.179s :  What is the ruling on entering the haram area in Medina before performing Umrah?
+**Category:**  Ruling
+**Answer:**  It is permissible to enter the haram area in Medina before performing Umrah if the intention is to visit the city, not to perform Umrah. However, entering Makkah before performing Umrah is not permissible because it is considered a place of Umrah.
+
+
+##  5067.06s :  What was the previous clarification made regarding the witness requirement in a debt contract?
+**Category:**  Clarification
+**Answer:**  The previous clarification regarding the witness requirement in a debt contract was that it requires one man or two women, and that this ruling applies only to debt contracts and not to all other situations. 
+
+
+##  5152.46s :  Why are the reasons given for the two-women witness requirement not convincing? 
+**Category:**  Reasoning
+**Answer:** The reasons given for the two-women witness requirement, namely that women were unfamiliar with contracts and writing at that time, and that they may be weaker in memorization, are not convincing because they are based on stereotypes and generalizations.
+
+
+##  5398.82s :  What are the reasons for the two-women witness requirement in a debt contract?
+**Category:**  Reasoning
+**Answer:**  The reasons for the two-women witness requirement in a debt contract are: 1) Women were unfamiliar with contracts and writing, making them more likely to make mistakes in a legal setting. 2) Women might be less adept at abstract thinking and numbers, which are necessary for understanding legal documents. 
+
+
+##  5497.04s :  What is the implication of the two-women witness requirement for the role of women in society? 
+**Category:**  Implication
+**Answer:**  The implication of the two-women witness requirement for the role of women in society is that it signifies a shift towards equality.  It opens the door for women to be invited to witness legal contracts and to participate in other areas of society where they were previously excluded. 
+
+
+##  5612.54s :  What is the second causation for the two-women witness requirement that the speaker mentioned? 
+**Category:**  Reasoning
+**Answer:**  The second causation for the two-women witness requirement is that studies have shown that women may have weaker memory in terms of memorizing numbers and abstract concepts compared to men. This could make them more susceptible to making mistakes when witnessing a legal contract.
+
+
+##  5786.34s :  What is the study that Dr. Farooq Suleiman mentioned regarding the two-women witness requirement? 
+**Category:**  Study
+**Answer:** Dr. Farooq Suleiman argues that women in their menstrual cycle may experience temporary cognitive impairment, including memory loss. This could be a factor behind the two-women witness requirement as the probability of both women being in this phase simultaneously is low. 
+
+
+##  5919.48s :  What is the argument made by Sheikh Sam Jarar regarding the two-women witness requirement? 
+**Category:**  Argument
+**Answer:**  Sheikh Sam Jarar argues that women are more susceptible to pressure and bullying, particularly by men. Therefore, having two women as witnesses ensures that if one is pressured to lie or distort the truth, the other woman can provide an honest account.
+
+
+##  6088.38s :  What is the second causation for the two-women witness requirement that the speaker mentioned? 
+**Category:**  Reasoning
+**Answer:** The speaker argues that the two-women witness requirement might be a traditional practice that became ingrained in Islamic law, regardless of its actual purpose. This highlights the need for careful analysis and critical thinking when interpreting religious texts. 
+
+
+##  6121.82s :  What is the question about the shirk of the Arabs? 
+**Category:**  Shirk
+**Answer:**  The question about the shirk of the Arabs is whether their shirk was primarily in the form of rububiyah (lordship) or uluhiyah (divinity). Some claim that the Arabs did not associate divinity with idols, but rather engaged in certain practices towards them that were considered shirk in themselves.
+
+
+##  6207.06s :  What is the Hadith that the speaker referred to about the shirk of the Arabs? 
+**Category:**  Hadith
+**Answer:** The Hadith that the speaker referred to was about the Israelites who asked Moses to create an idol for them, associating it with Allah. This incident highlights the fact that associating any object with Allah is shirk. 
+
+
+##  6354.06s :  What is the difference between associating divinity with idols and associating an object with Allah? 
+**Category:**  Shirk
+**Answer:**  The difference between associating divinity with idols and associating an object with Allah is that associating divinity means attributing the qualities of God to an idol, while associating an object with Allah means treating that object as a means of getting closer to God. 
+
+
+##  6470.94s :  What is the significance of the golden calf incident in the story of Moses? 
+**Category:**  Significance
+**Answer:** The golden calf incident in the story of Moses is significant because it demonstrates that associating any object with Allah, even as a representation of him, is a form of shirk.  It shows that the Israelites, despite being guided by Moses, were tempted to worship an idol and turn away from Allah’s commands. 
+
+
+##  6541.88s :  What is the difference between the concept of “sanam” and the concept of the Kaaba?
+**Category:**  Concept
+**Answer:** The concept of “sanam” refers to idols that are associated with divinity, while the Kaaba is the house of Allah, a place where Allah is worshipped. It is a place of barakah (blessing) and is not associated with any form of idolatry. 
+
+
+##  6615.5s :  What is the importance of the Qibla in Islam? 
+**Category:**  Qibla
+**Answer:** The importance of the Qibla in Islam lies in its role in unifying the Muslim community. It establishes a common direction for prayer, creating a sense of togetherness and shared purpose.  The direction itself is less significant than the act of unifying the community in prayer. 
+
+
+## https://www.youtube.com/watch?v=BiSZSGJaN20
+
+##  Youtube Video Transcript - Questions and Answers
+
+**0:25.4s - Theology**
+What oath did the Devil make? 
+
+The Devil swore to take a share of humanity as his followers by challenging Allah. He promised to mislead them with false hopes and advise them to sacrifice animals to idols, changing Allah's creation.  
+
+**0:53.6s - Theology**
+What does Allah say about those who take the Devil as their ally?
+
+Allah says that anyone who takes the Devil as their ally instead of Allah has lost considerably. The Devil gives false hopes and promises, which he will never fulfill, as he is incapable.
+
+**1:79.64s - Theology**
+Who are the dwellers of Hellfire?
+
+The dwellers of Hellfire are those who prefer to be allies of the Devil and believe his false promises, going into imaginary hopes and dreams instead of seeking truth.
+
+**1:96.64s - Theology**
+What will happen to those who believe and do righteous deeds?
+
+Allah promises that those who believe and do righteous deeds will be admitted into Gardens graced with flowing rivers, where they will remain eternally.
+
+**1:148.0s - Theology**
+How does the description of Hellfire contrast with the description of Jannah?
+
+The description of Hellfire does not mention time limits, while Jannah is described as an eternal place, without limits. This highlights the real eternity of Jannah, which never ends.
+
+**1:172.48s - Theology**
+What do some people say about Jannah?
+
+Some people claim that Jannah will one day terminate and get extinct. 
+
+**1:189.72s - Theology**
+What is the story of the dweller of Hellfire who had a luxurious life in Dunya?
+
+The story tells of a dweller of Hellfire who enjoyed a luxurious life in Dunya with good health, sweet life, and no problems.  However, Allah ordered an angel to dip him in the Hellfire for a moment, and then ask him if he had ever seen any good.  The dweller of Hellfire responded that he had never seen any good, forgetting everything from the experience.
+
+**1:218.959s - Theology**
+What is the story of the dweller of Jannah who had a miserable life in Dunya?
+
+The story tells of a dweller of Jannah who lived a miserable life in Dunya with poverty, diseases, famine, and war. However, he was a believer, so Allah ordered him to enter Jannah for a bit, and then return to give witness.  The dweller of Jannah said that he had never suffered any misery, as everything in Jannah was perfect.
+
+**1:240.0s - Theology**
+What is the author's opinion about speculating whether Jannah will terminate?
+
+The author considers speculation about Jannah terminating to be nonsensical and philosophically unsound. It should not affect anyone's actions, as it is stupid to rely on such ideas. 
+
+**2:290.36s - Theology**
+What does the author say about people who believe that those who do evil will be punished for it?
+
+The author says that this belief should not be used as an excuse to avoid doing good deeds or to justify inaction.  It is foolish to believe that people will automatically be punished without consequence for their actions.
+
+**2:333.639s - Theology**
+What is the author's opinion on the people who say that doing evil will result in a specific punishment in Hellfire?
+
+The author believes that it is dangerous to categorize people into specific punishments and stages of accountability. It makes people complacent and leads them to play games with their commitment to doing good. They need to know the hard truth and control their actions.
+
+**2:392.479s - Theology**
+Why does the author believe that emphasis on shirk is being weaponized by the Saudi Salafis?
+
+The author believes that the emphasis on shirk is being weaponized by the Saudi Salafis to lump everything into one category, ignoring gray areas and nuances. This is used to control the masses and justify oppression.
+
+**2:470.639s - Theology**
+How does the author describe the mindset of some who believe that a pure heart is enough?
+
+The author criticizes the mindset that having a pure heart is enough, ignoring the importance of good deeds.  He argues that many things count, and a pure heart alone does not protect from catastrophe.
+
+**2:500.52s - Theology**
+What is the author's view on Hope and Fear in Islam?
+
+The author believes that Hope and Fear are important aspects of Islam, but should be balanced with love for Allah.  Love for Allah should be the guiding principle, driving a person to seek His pleasure. Hope should be balanced with fear of punishment to ensure a balanced approach.
+
+**2:536.68s - Theology**
+What should be the guiding principle of the people's world view and actions?
+
+The author argues that the people's world view and actions should be guided by love for Allah, not fear or hope. This is the ideal and should be promoted in their education.
+
+**3:10.6s - Theology**
+How is Jannah described in the Quran?
+
+The Quran describes Jannah as the best of the best, the ultimate happiness, and an eternal source of pleasure.  It is the manifestation of Allah's pleasure and acceptance.  Hellfire, on the other hand, is the manifestation of Allah's condemnation. 
+
+**3:118.84s - Theology**
+How does the author describe the concept of surrendering one's face to Allah?
+
+The author says that surrendering one's face to Allah means accepting the ultimate Sovereign, the Creator, and the necessary existent who owns everything. This being deserves complete surrender and obedience to all His commands.
+
+**3:154.44s - Theology**
+Why does the author believe that good deeds are irrelevant without belief?
+
+The author believes that good deeds are irrelevant without belief because they are meaningless without being connected to the core of the universe and the meaning of existence.  Good deeds done for personal pleasure or without a connection to Allah have no true value.
+
+**3:278.479s - Theology**
+What does the author say about people who argue that God is a human construct?
+
+The author views the argument that God is a human construct as ridiculous and nonsensical.  It is a modern take on the same Pagan idea that God is a placebo.
+
+**3:357.4s - Theology**
+What does the author say about the people who believe that those who do not commit shirk will be saved?
+
+The author says that it is foolish to believe that anyone who does not commit shirk will be saved.  It is dangerous to underestimate the importance of doing good deeds and to promote complacency.
+
+**3:630.079s - Theology**
+Why does the author say that these concepts are not abstract and do not require philosophical sophistication?
+
+The author states that these concepts are not abstract and do not need philosophical sophistication because they can be understood through proper presentation and the use of examples.
+
+**3:657.279s - Theology**
+What does the author say about the reward for good deeds?
+
+The author believes that good deeds, done with belief in Allah, will be rewarded. Allah will know and record all good deeds, and the believer will be rewarded accordingly. 
+
+**3:716.92s - Theology**
+What does the author say about the importance of belief in good deeds?
+
+The author emphasizes that belief is essential for good deeds to have true meaning.  Without belief, good deeds are simply acts of self-satisfaction or driven by worldly desires.
+
+**3:832.959s - Theology**
+Why are charitable acts done without belief considered vain?
+
+The author argues that charitable acts done without belief are vain because they are not connected to the core meaning of the universe and Allah. The individual doing the charitable act gets personal satisfaction and reward within their own system, without any true connection to the Divine.
+
+**3:867.24s - Theology**
+What does the author say about the motivation behind charitable acts?
+
+The author believes that charitable acts are motivated by personal satisfaction and the desire to feel good.  People who are charitable do so because it gives them pleasure, otherwise they would not be charitable.
+
+**3:900.8s - Theology**
+What is the author's opinion on scientists making great achievements?
+
+The author states that while scientists make great achievements, they often fail to recognize the real meaning of the universe and the purpose of their existence. They are driven by self-preservation, fame, and recognition, rather than by true understanding and purpose.
+
+**3:919.32s - Theology**
+Why does the author say that belief in Allah is fundamental?
+
+The author believes that belief in Allah is fundamental because without it, life has no true meaning or purpose. The universe and existence cannot exist without Allah as the core.
+
+**3:943.36s - Theology**
+Why do some focus more on the threat of Hellfire or the pleasure of Jannah, neglecting the love for Allah?
+
+The author believes that the focus on Hellfire or Jannah, neglecting the love for Allah, stems from poor upbringing, education, and philosophical sophistication. This leads to an unbalanced approach, missing the true essence of Islam.
+
+**3:979.839s - Theology**
+What does the author say about achieving Allah's pleasure?
+
+The author states that achieving Allah's pleasure is the ultimate goal in life. Entering Jannah is a manifestation of this pleasure, and avoiding Allah's wrath, which manifests as Hellfire, is crucial.
+
+**3:1009.12s - Theology**
+What does the author say about the morality of atheists?
+
+The author argues that even the morality of atheists is based on a form of "business transaction" where they seek pleasure, fame, or other worldly rewards. They are not exempt from seeking rewards, even if they are different from the rewards sought by believers.
+
+**3:1031.079s - Theology**
+Why does Allah consider Abraham as a close darling?
+
+The author describes Allah's love for Abraham as a deep, heart-penetrating love, like the love between a husband and wife who have a deep, long-lasting relationship. This is because Abraham surrendered his face to Allah and followed His commandments.
+
+**3:1105.679s - Theology**
+Why is surrendering one's face to Allah important?
+
+Surrendering one's face to Allah means recognizing Him as the ultimate Sovereign and accepting His commandments. It signifies that we are not independent in our actions and that our existence is ultimately dependent on Him.
+
+**3:1155.919s - Theology**
+What does the author say about defining good and evil?
+
+The author argues that good and evil cannot be defined independently by human reason.  When we surrender our face to Allah, we accept that what He defines as good is good, and what He defines as evil is evil. 
+
+**3:1181.12s - Theology**
+What does the author say about the Devil's attempt to define who is superior?
+
+The author criticizes the Devil's attempt to define who is superior based on his limited mental capacity. The Devil claims to be superior to Adam, and therefore disobeys Allah's command to honor Adam.  This demonstrates the Devil's corrupt reasoning and disobedience to Allah.
+
+**3:1241.6s - Theology**
+What does the author say about the importance of revelation?
+
+The author believes that revelation overrides any rational analysis.  When revelation comes, it must be accepted as a guiding principle. 
+
+**3:1301.44s - Theology**
+How did Abraham recognize Allah?
+
+The author states that Abraham recognized Allah through rational discourse, just like the Quran states he looked at the heavens and used his rationality to become aware of Allah. 
+
+**3:1321.0s - Theology**
+How does the author differentiate between rationality and prophecy?
+
+The author distinguishes between rationality and prophecy. While rationality allows us to learn about Allah, prophecy involves receiving information directly from Allah and conveying it to people.
+
+**3:1344.2s - Theology**
+What does the author say about verifying revelation?
+
+The author believes that it is important to verify revelation rationally, not just accept it blindly. We have the right to scrutinize and analyze what we receive, but once verified, it should be accepted as our guiding principle.
+
+**3:1352.64s - Theology**
+How does the author describe the life of Abraham?
+
+The author describes Abraham as a minimalist in his worship, fasting only three days a month. He lived a lavish life, welcoming guests with fine food and many servants.  This contrasts with the idea of starving oneself for spiritual gain. 
+
+**3:1405.279s - Theology**
+How does the author describe the true way of life?
+
+The author believes that the true way of life is to surrender to Allah, enjoy life within limits, and make the most of this world. This is how Allah adopted Abraham, who enjoyed life while remaining committed to his faith. 
+
+**3:1421.72s - Theology**
+Why was Abraham tested?
+
+Abraham was tested to see if he was truly serious about his surrender to Allah. He was asked to sacrifice his son, even though pagan tribes were sacrificing their children to idols. While Allah never intended for Abraham to actually carry out the sacrifice, the test demonstrated his commitment to Allah.
+
+**3:1475.159s - Theology**
+Why is Abraham considered a leader of mankind?
+
+Abraham was appointed a leader of mankind because he passed all his tests with flying colors. He demonstrated his commitment to Allah, even when faced with difficult challenges.
+
+**3:1482.96s - Theology**
+What does Allah say about His ownership of everything?
+
+Allah states that everything in the heavens and on Earth belongs to Him.  He encompasses everything, with full knowledge and power. 
+
+**3:1520.159s - Theology**
+Why does the author say that the ayah addresses various issues?
+
+The author states that the ayah addresses various issues, such as the rights of women, orphans, and helpless children.  It is not a new law but a reinforcement of existing principles and a reminder of Allah's control over everything.
+
+**3:1585.96s - Theology**
+Why doesn't the author mention specific rulings regarding women and orphans?
+
+The author does not mention specific rulings because those are found elsewhere in the Quran. The ayah focuses on the importance of justice and the need to stand for the rights of the vulnerable.
+
+**3:1716.679s - Theology**
+What is the most devastating sin according to the author?
+
+The author states that the most devastating sin is not standing in justice for the orphans and the weak.  This is a major sin that cannot be overlooked. 
+
+**3:1755.2s - Theology**
+What does the author say about fighting for the rights of orphans?
+
+The author states that Muslims are obligated to fight for the rights of orphans and to liberate them. This includes fighting against oppression and injustice.
+
+**3:1776.08s - Theology**
+What does the author say about the reward for doing good deeds?
+
+The author states that Allah knows and records all good deeds, and we will be rewarded for them.  We should make the most of every opportunity to do good deeds, as they will increase our weight on the scales on the Day of Judgment.
+
+**3:1810.76s - Theology**
+What does the author say about settling with women?
+
+The author discusses the issue of how to settle with women in cases where there is fear of ill-treatment or lack of interest from their husbands.  He emphasizes that both parties can come to a peaceful settlement without blame, as peace is always best. 
+
+**3:1882.72s - Theology**
+What does the author say about the reason behind Prophet Muhammad's divorce of Aisha?
+
+The author states that the reason behind Prophet Muhammad's divorce of Aisha was because he felt he could not fulfill his duties towards her properly.  He felt that it was not proper to keep her in a state of suspension.
+
+**3:1947.88s - Theology**
+What was Aisha's offer to Prophet Muhammad?
+
+Aisha offered to give up her marital rights with Prophet Muhammad and allow him to give his time to another wife.  She was not interested in intimacy with him and wanted to remain his wife in Dunya and Jannah. 
+
+**3:2010.679s - Theology**
+Why did Allah not reveal the injunction about the wives of prophets being unmarriageable at that time?
+
+The author states that Allah had a plan in the background that was not revealed at that time.  He allowed Aisha to make her offer and Prophet Muhammad to accept it. 
+
+**3:2025.84s - Theology**
+What was the nature of the settlement between Aisha and Prophet Muhammad?
+
+The settlement between Aisha and Prophet Muhammad involved giving up her marital rights and allowing him to give his time to another wife.  There was no intimacy or attraction involved, but she remained his wife in all other aspects.
+
+**3:2056.839s - Theology**
+What does the author say about avoiding divorce?
+
+The author believes that avoiding divorce or complete separation is always better, as long as the settlement is equitable and reasonable.
+
+**3:2069.599s - Theology**
+What does the author say about husbands forcing their wives into settlements?
+
+The author warns against husbands using oppression to force their wives into settlements.  Allah knows the intentions, and those who act unjustly will not get away with it.  
+
+**3:2175.599s - Theology**
+What does the author say about the consequences of trying to extract something by oppression?
+
+The author states that trying to extract something by oppression will not relieve one from sin. It may work in this world, but it will not work on the Day of Judgment. 
+
+**3:2237.44s - Theology**
+What does the author say about the natural tendencies of human souls?
+
+The author states that human souls are naturally stingy and tightfisted due to their self-preservation instincts. We need to overcome this tendency and strive for generosity.
+
+**3:2287.16s - Theology**
+What happens if a husband is afraid of his wife?
+
+The author states that if a husband is afraid of his wife, he has the power of divorce to end the relationship. There are other mediation options, but ultimately, divorce is available if necessary. 
+
+**3:2318.88s - Theology**
+Why is it unusual for a husband to offer a settlement?
+
+The author states that it is usually the wife who offers a settlement to avoid divorce or negative behavior from her husband.
+
+**3:2334.56s - Theology**
+What does the author say about settlements that involve money?
+
+The author criticizes settlements that involve money, comparing them to the Jewish style, which he considers oppressive.
+
+**3:2349.599s - Theology**
+What does the author say about being perfectly just between wives?
+
+The author states that it is impossible to be perfectly just between wives, even if one does their best.  No one can do better than the Prophet, who was known for his just treatment of his wives.
+
+**3:2370.72s - Theology**
+What does the author say about inclining towards one wife over another?
+
+The author warns against inclining towards one wife over another, as it can lead to the other wife feeling neglected and like she has no husband.  All wives deserve equal treatment in terms of rights, maintenance, and marital duties.
+
+**3:2394.2s - Theology**
+What is the story of Aisha and Zainab?
+
+The author tells the story of Aisha and Zainab, where Aisha offered Zainab one night of Prophet Muhammad's time in exchange for persuading him to forgive Aisha for insulting Zainab. This highlights the complexities of personal relationships even amongst the Sahaba. 
+
+**3:2482.4s - Theology**
+What does the author say about the story of Aisha and Zainab?
+
+The author suggests that the story of Aisha and Zainab might be related to the ayah, as it demonstrates the difficulties of dealing with women and the need for fairness and balance.
+
+**3:2528.76s - Theology**
+Why did Prophet Muhammad say to Aisha, "Get away from me, this is not your night"?
+
+Prophet Muhammad told Aisha, "Get away from me, this is not your night" because he was aware of the deal she made with Zainab.  He was committed to fulfilling his marital duties to all his wives and wanted to be fair to each of them.
+
+**3:2544.599s - Theology**
+What does the author say about controlling one's heart?
+
+The author believes that controlling one's heart is essential in relationships, especially in matters of favoritism and inclination.  It is important to be outwardly just and fair, even if there are inner preferences.
+
+**3:2554.119s - Theology**
+What was the reason for Prophet Muhammad's "legal desertion" of Aisha?
+
+The author states that Prophet Muhammad's "legal desertion" of Aisha was because she had spoken disrespectfully of Zainab, calling her a Jew.  This was considered inappropriate and gave him reason to be angry, leading him to sleep outside the bed, but still in the same house. 
+
+**3:2592.52s - Theology**
+What does the author say about making reasonable settlements?
+
+The author believes that making reasonable settlements and seeking mediation is important to avoid divorce.  Allah is forgiving and merciful to those who strive for peace and fairness.
+
+**3:2655.76s - Theology**
+What is the author's view on the idea that having multiple wives is recommended?
+
+The author rejects the idea that having multiple wives is recommended. He states that the ayah itself indicates that it is difficult to be perfectly just towards multiple wives and that it is not encouraged.
+
+**3:2702.359s - Theology**
+What does the author say about having too many children?
+
+The author states that the ayah can also be interpreted as a warning against having too many children, as it can be difficult to care for and provide for them.
+
+**3:2744.72s - Theology**
+What does the author say about the Salafis' view on polygamy?
+
+The author criticizes the Salafis for ignoring the Western point of view on polygamy and claiming that they do not care about it. He believes that it is important to understand the limitations of the system and the consequences of polygamy.
+
+**3:2759.64s - Theology**
+What does the author say about divorce in Islam?
+
+The author states that divorce is not the end of the world in Islam. It is not considered a major sin, like in Catholicism.  Divorce is available and should not be viewed as a catastrophic event.
+
+**3:2780.68s - Theology**
+Why is the idea of divorce difficult to accept for some in the subcontinent?
+
+The author believes that the idea of divorce is difficult to accept for some in the subcontinent because of the fixed Hindu Pagan idea that a divorced woman will not find a husband or have a good life. 
+
+**3:2799.52s - Theology**
+What does the author say to wives who are afraid of being divorced?
+
+The author reassures wives that they should not be afraid of being divorced. If they are divorced, they will find a better husband and they should not worry about their future.
+
+**3:2818.2s - Theology**
+What does the author say about Allah's provision for divorced people?
+
+The author states that if a husband and wife separate, Allah will provide for each of them out of His abundance.  He is limitless in His provision and wise.
+
+**3:2835.559s - Theology**
+What does the author say about the perception of divorce in agricultural societies?
+
+The author believes that the negative perception of divorce is often linked to agricultural societies like Egypt and India, where marriage is viewed as a prison and divorce as the end of the world. 
+
+**3:2866.72s - Theology**
+How does the author suggest overcoming the negative perception of divorced women?
+
+The author suggests that the negative perception of divorced women can be overcome by educating people from childhood. They need to understand that a divorced woman is just as good as a virgin, or sometimes even better.  The same applies to divorced men.
+
+**3:2882.88s - Theology**
+Why do some people assume that a divorced man is bad?
+
+Some people assume that a divorced man is bad because they fail to recognize that divorce can happen for various reasons.  It does not mean that the man is inherently bad or that he cannot find a suitable partner.
+
+**3:2904.2s - Theology**
+What does the author say about the reason for divorce?
+
+The author states that divorce often happens because two people are not compatible and do not fit together.  It does not mean that either person is inherently flawed or unable to find another partner.
+
+**3:2924.359s - Theology**
+Why does the author say that assuming a divorced woman will not find a partner is wrong?
+
+The author states that assuming a divorced woman will not find a partner is wrong because she could be a better fit for another man. The same applies to divorced men, who could find a better partner.  Sometimes, divorce can be a blessing in disguise, leading to a better fit in the future. 
+
+**3:2989.599s - Theology**
+How does the author describe the wives of Prophet Muhammad?
+
+The author states that most of Prophet Muhammad's wives were widows or divorced women, except for Aisha. 
+
+**3:3008.0s - Theology**
+What does the author say about the preference for virgins?
+
+The author criticizes the preference for virgins as an imaginary concept based on possessiveness and subconscious male desires. It is a misconception that a virgin is inherently better than a non-virgin, and it ignores the many virtues of non-virgin women.
+
+**3:3020.119s - Theology**
+What does the author say about Khadijah?
+
+The author states that Khadijah was the best wife of Prophet Muhammad, even above others in human history. She is in a league of her own.
+
+**3:3058.68s - Theology**
+Why did Prophet Muhammad have so many wives?
+
+The author explains that Prophet Muhammad had so many wives to allow them to broadcast the Quran and Islamic teachings as widely as possible.  This was essential for the education of the early Muslim community, as it prevented unnecessary involvement in battles and political affairs.
+
+**3:3103.16s - Theology**
+What does the author say about Aisha's involvement in the Battle of Uhud?
+
+The author criticizes Aisha's involvement in the Battle of Uhud, stating that she violated the order to stay at home and focus on educating the community about the Quran. 
+
+**3:3117.079s - Theology**
+What is the author's view on Aisha's devotion to Prophet Muhammad?
+
+The author does not believe that Aisha was the most devoted wife of Prophet Muhammad.  While she had some anguish and sadness, there is no evidence that she was the most caring.
+
+**3:3133.68s - Theology**
+What is the story of Safiyyah and Prophet Muhammad?
+
+The author recounts the story of Safiyyah, Prophet Muhammad's wife, who expressed concern for him during his final days.  She wished to bear his suffering, demonstrating genuine care and compassion.
+
+**3:3159.16s - Theology**
+How did other wives react to Safiyyah's expression of concern?
+
+The author describes the other wives as being jealous and dismissive of Safiyyah's concern, viewing her as playing games to gain attention. They were suspicious of her sincerity.
+
+**3:3182.24s - Theology**
+Why does the author believe that Safiyyah's expression of concern was genuine?
+
+The author believes that Safiyyah's expression of concern was genuine and not simply a nice gesture.  He has never heard of any actions that would have displeased or hurt Prophet Muhammad from Safiyyah.
+
+**3:3227.48s - Theology**
+Why does the author argue that Safiyyah was better than a virgin?
+
+The author argues that Safiyyah was better than a virgin, despite possibly being inferior in terms of sexual desire, because of her many other virtues.  She was knowledgeable, scholarly-minded, and intellectually advanced. 
+
+**3:3237.319s - Theology**
+Why does the author say that the idea of a virgin being superior is a misconception?
+
+The author states that the idea that a virgin is superior is a misconception based on people's possessiveness and subconscious desires.  It ignores the many virtues of non-virgin women.
+
+**3:3259.92s - Theology**
+Why does the author say that no one is better than Khadijah?
+
+The author reaffirms that no one is better than Khadijah, even though she was married before and had children.  Khadijah was a highly respected and virtuous woman, despite her age and past marriage.
+
+**3:3298.839s - Theology**
+What should people do to overcome the misconception of virgin superiority?
+
+The author urges people, especially those in the subcontinent, to wash their brains of the nonsense surrounding the idea that a virgin is superior.  He believes that this misconception is prevalent in the subcontinent more than in other places.
+
+**3:3319.52s - Theology**
+What does the author say about the importance of being conscious of Allah?
+
+The author emphasizes the importance of being conscious of Allah and surrendering to Him.  He warns against rejecting Allah's commands, as it will not harm Allah, but will only harm ourselves.
+
+**3:3434.28s - Theology**
+Why is the author repeating the idea of Allah's ownership of everything?
+
+The author repeats the idea of Allah's ownership of everything to reinforce the concept after discussing injunctions.  He wants to emphasize that Allah is the ultimate Sovereign with all power and control. 
+
+**3:3456.68s - Theology**
+What does the author say about Allah's ability to change the situation?
+
+The author states that Allah is not stuck with us and can easily get rid of us if He wills. It is a mistake to think that we are essential or fixed in our existence.
+
+**3:3510.68s - Theology**
+What is the author's view on idols needing people?
+
+The author states that idols do not need people.  People need idols, as it is a mistake to believe that gods need our worship.
+
+**3:3534.079s - Theology**
+Where does the author believe the misconception that idols need people comes from?
+
+The author believes that the misconception that idols need people comes from pagan traditions and is still prevalent in some people's minds in a twisted form.
+
+**3:3554.559s - Theology**
+What does the author say about Allah's need for anyone?
+
+The author states that Allah has no need for anyone. He does not care about anyone, and our actions do not change His being. 
+
+**3:3569.079s - Theology**
+What does the author say about rewards in this world and the next?
+
+The author states that the rewards of both this world and the next are with Allah.  He is all-hearing and all-seeing. This means that our actions will have consequences in both this life and the afterlife.
+
+**3:3593.4s - Theology**
+How does the author compare secular arguments about God to Pagan beliefs?
+
+The author compares the secular argument that God is a human construct to Pagan beliefs. He believes that both are rooted in the same idea that God is a placebo or a means to get through life.
+
+**3:658.44s - Theology**
+What does the author say about the importance of understanding the universe and our place in it?
+
+The author emphasizes the importance of understanding the universe and our place within it. We need to acknowledge Allah as the ultimate owner and sovereign and understand that our relevance and meaning come from His commands.
+
+**3:699.76s - Theology**
+What does the author say about upholding justice and bearing witness to the truth?
+
+The author states that believers are commanded to uphold justice and bear witness to the truth, even if it goes against their own interests, parents, or close relatives. They should not let their desires or personal biases cloud their judgment.
+
+**3:752.44s - Theology**
+What does the author say about false witness and perjury?
+
+The author states that false witness and perjury are major crimes, even equating them to shirk. It is a violation of Allah's commands and a betrayal of trust.  It shows that other desires and considerations are more important than Allah's truth.
+
+**3:854.0s - Theology**
+What does the author say about avoiding idolatry and false witness?
+
+The author emphasizes the importance of avoiding idolatry, impurity, and false witness.  He states that these are major sins and that we should strive to be true to Allah without associating any partners with Him. 
+
+**3:949.24s - Theology**
+What does the author say about the consequences of violating the commandment to uphold justice?
+
+The author warns that violating the commandment to uphold justice is a serious offense. It could lead to the individual being condemned to Hellfire with no escape.
+
+**3:1012.24s - Theology**
+What does the author say about reinforcing the general principles of belief?
+
+The author states that the ayah reinforces the importance of holding fast to our belief in Allah, His Messenger, and His revelations.  It is a reminder of the consequences of denying Allah, His angels, His scriptures, His messengers, and the Day of Judgment.
+
+**3:1112.64s - Theology**
+What does the author say about the meaning of believing in angels?
+
+The author explains that believing in angels does not simply mean acknowledging their existence.  It means believing that they are Allah's creation and obedient servants.
+
+**3:1178.039s - Theology**
+What does the author say about those who reject Allah, His angels, His books, His messengers, and the Day of Judgment?
+
+The author states that anyone who rejects any or all of these fundamental beliefs is lost and has no hope of salvation. They are far astray and have no path back to Allah.
+
+**3:1212.8s - Theology**
+What does the author say about those who believe and then deny the truth?
+
+The author states that anyone who believes and then denies the truth, and then believes again and again denies the truth, and becomes increasingly defiant, will not be forgiven by Allah. He will not guide them.
+
+**3:1289.6s - Theology**
+What does the author say about the story of Abdah?
+
+The author mentions the story of Abdah, who became a believer, then an unbeliever, and then a believer again.  He then killed his slave and went back to Makkah to slander Prophet Muhammad.  Allah condemned him and declared that he would not escape punishment, even if he was hanging on the Ka'aba.
+
+**3:1395.96s - Theology**
+What does the author say about those who deny the truth and ally themselves with unbelievers?
+
+The author states that those who deny the truth and ally themselves with unbelievers will be condemned to Hellfire.  They seek power and protection from unbelievers, forgetting that true power and honor belong to Allah.
+
+**3:1462.0s - Theology**
+What does the author say about avoiding the company of those who deny the truth?
+
+The author instructs believers to avoid the company of those who deny the truth and mock Allah's message.  If they remain in the company of such people, they will become like them and be gathered in Hellfire.
+
+**3:1486.04s - Theology**
+What does the author say about the Hypocrites?
+
+The author states that Hypocrites will be gathered in Hellfire alongside the unbelievers.  They are not true to either side and will be judged accordingly.
+
+**3:1550.559s - Theology**
+What does the author say about those who wait to see what betides the believers?
+
+The author states that those who wait to see what betides the believers will be judged by Allah.  If the believers are successful, they will claim to have been on their side.  However, if the unbelievers are successful, they will claim to have been on their side, showing their hypocrisy.
+
+**3:166
+
+## https://www.youtube.com/watch?v=w5iJg9Ehq0Y
+
+##  Give to the poor who are wholly committed to the path of God and who are unable to travel in the land.  
+**Category:** Islam
+
+The speaker is discussing a passage in the Quran about giving charity to the poor. He explains that this verse refers specifically to people who are unable to work and earn a living because they are dedicated to their religious practice. 
+
+##  Why should the bank create money out of nothing? 
+**Category:** Finance
+
+The speaker asks about the motivation behind fractional-reserve banking. He argues that banks create money out of nothing by lending out more money than they actually have, and that this practice is inherently usurious and harmful to society.
+
+##  How do you train your jinn so that it doesn't affect you?
+**Category:** Islam
+
+The speaker responds to a question about whether it is possible to control or train a jinn. He notes that there is no clear teaching or practice in Islam that allows for such control. 
+
+##  Is giving a gift on top of a loan payment permitted?
+**Category:** Islam
+
+The speaker discusses the permissibility of giving a gift along with a loan repayment. He notes that it is permissible to give a gift out of gratitude or generosity, but it is not permitted to include it as a contractual obligation within the loan agreement. 
+
+## What conditions is giving a gift on top of a loan payment permitted?
+**Category:** Islam
+
+The speaker explores the permissibility of giving a gift on top of a loan payment. He clarifies that while offering a gift out of gratitude is acceptable, incorporating it as a contractual obligation within the loan agreement is prohibited in Islam.
+
+## Is there no such thing as possession? 
+**Category:** Islam
+
+The speaker is asked about his stance on possession by jinns. He states that the idea of possession may or may not exist, and it requires further research. He emphasizes the need for scientific scrutiny in such matters and cautions against accepting unsubstantiated claims.
+
+##  Why is giving a loan even better than giving charity?
+**Category:** Islam
+
+The speaker explains that giving a loan is considered even better than giving charity in some Islamic traditions. This is because a loan encourages the recipient to work hard and become self-sufficient, while charity can sometimes lead to laziness.
+
+##  How does giving a loan to someone change your ownership of the money?
+**Category:** Islam
+
+The speaker discusses the transfer of ownership in loan transactions. He argues that when you give someone a loan, you are transferring ownership to them, meaning the money is no longer considered part of your wealth. 
+
+## Is mortgage considered riba?
+**Category:** Islam
+
+The speaker clarifies that mortgages, as they are practiced by banks, are indeed a form of riba (interest) because they involve lending money at an increased rate. He explains that the banks profit from the interest charged, not from the actual ownership of the house. 
+
+##  If it is clear that giving a loan is a form of riba, why do people still do it?
+**Category:** Islam
+
+The speaker acknowledges that despite the clear Islamic prohibition on riba, many people still engage in riba-based transactions. He attributes this to the fact that people are often driven by greed and a desire to profit from the time value of money. He also points out that the financial system is structured in such a way that it encourages riba.
+
+## Is making a riba contract similar to legislating something?
+**Category:** Islam
+
+The speaker explores whether making a riba contract can be considered akin to legislating something. He argues that while legislation involves a deliberate act of making something halal or haram, a riba contract is more likely to be driven by immediate desire and a lack of understanding of the Islamic ruling.  
+
+## Why are many people easily persuaded into riba contracts?
+**Category:** Islam
+
+The speaker discusses the reasons why people are often persuaded into riba-based transactions. He believes that greed and a desire for immediate gain, combined with a lack of understanding of Islamic principles, contribute to this phenomenon. He also emphasizes the role of financial institutions in promoting and perpetuating riba.
+
+## Is riba considered a war against society? 
+**Category:** Islam
+
+The speaker discusses whether engaging in riba can be considered a war against society. He argues that riba, as a deliberate act of rejecting Allah's commandment, can be viewed as a transgression against the principles of Islam and thus a form of aggression against society. 
+
+
+## https://www.youtube.com/watch?v=QvPF572PluU
+
+##  0.68s : Are we in the time of  or has it passed? Please elaborate about this as I’ve heard about it recently.  
+**Category:** Eschatology 
+
+The speaker acknowledges that the Hadith in question has questionable authenticity and some scholars believe it to be fabricated. They also state that if the Hadith is true, its validity will only become apparent after the event has passed, and it will be impossible to know beforehand. The speaker compares it to other Hadiths that predict future events like conflict and changes in belief, which are only confirmed retrospectively.
+
+## 18.84s : What information does a she have about Saudi and Israeli normalization in all its dimensions?  
+**Category:** Geopolitics 
+
+The speaker notes that Saudi Arabia and Israel have a long history of secret collaboration, dating back to the 1920s and 1930s. They mention the memoirs of Henderson, which reveal that Saudi Arabia urged the British not to leave Palestine for fear of Palestinian resistance. The speaker also suggests that Saudi Arabia may have Jewish origins and highlights the close relationship between the current king Salman and former Israeli Prime Minister Netanyahu. They point to Wikileaks evidence of financial support from Saudi Arabia for Netanyahu's campaigns. They argue that Saudi Arabia's public stance against normalization is a facade, citing evidence from King Fahd's support for Sadat's peace treaty with Israel. 
+
+## 4438.639s : Wouldn’t it be wouldn’t lunar eclipses be more frequent if the moon is bigger when it’s closer to the Earth in the past? You said it was annual eclipse. You’d be lucky if the moon’s bigger relative to us in terms of visually. Wouldn’t that result in Greater lunar eclipses? 
+**Category:** Astronomy 
+
+The speaker acknowledges a mistake in their previous statement, stating that lunar eclipses would be *less* frequent, not more frequent, when the moon was closer to the Earth. This is because the moon's apparent size would appear bigger, making a total lunar eclipse more likely. They also acknowledge that the moon's position affects the number of asteroids it intercepts, which helps protect Earth from bombardment. 
+
+## 7107.04s : You said that we can consider the conflict in Gaza a success for Hamas in terms of media and in terms of morals, right? But I would also say that we can also consider it like a militarily success in terms of the fact that Israel did not achieve its goals yet until now at least in the first phase of the war. So that’s a clear military success for Hamas.  
+**Category:** Military 
+
+The speaker agrees with the previous comment that the conflict in Gaza represents a military success for Hamas, despite the ongoing ceasefire negotiations. They emphasize that Israel has not achieved its objectives and that the conflict has demonstrated the resilience of Hamas and the Palestinian people. 
+
+## 7379.04s : In order for any military to achieve its goals, we know that it must maintain morale, with which is combat readiness and the spirit in the army.  
+**Category:** Military
+
+The speaker acknowledges the importance of morale and combat readiness for any military force seeking to achieve its objectives. They emphasize that a military's success depends on its ability to instill a sense of purpose and confidence within its ranks.
+
+## 7419.44s : How can we reconcile both states, you know? And I'm not saying that we need to war against enemies, no, we need to war against combatant enemies, or not that's not war Monger, that you talk to yourself, that you should always have in your heart, and readiness.   
+**Category:** Military
+
+The speaker poses a question about reconciling the need for military preparedness with the Islamic principle of avoiding warmongering. They argue that it is essential for Muslims to be prepared to defend themselves against hostile forces while also striving for peace and discouraging aggression. 
+
+## 7804.48s : So what do you think of um, like um, the actions of of some companions, like for example abu you know his story when he for example, when he goes to to the battlefield, he he show himself, you know, he he show off his strength. 
+**Category:** Military 
+
+The speaker brings up the example of a companion, Abu , who displayed arrogance and bravado on the battlefield, going against the Islamic principle of humility. They discuss the importance of demonstrating strength only in the face of the enemy and avoiding arrogance in other situations.
+
+## 7874.88s : You know today you mentioned something about sha is that it's it's it's by Allah's will. 
+**Category:** Theology 
+
+The speaker explores the concept of supplication (dua) and questions the practice of some Sufis who address their prayers directly to Prophet Muhammad instead of Allah. They argue that this practice undermines the role of Allah as the sole recipient of supplication and potentially suggests a belief in Muhammad's ability to grant requests independently of Allah. 
+
+## 7990.719s : There's a a professor called Dr Abdul, he's in the UK, probably you know him. He's I think of Algerian or Tunisian origin. 
+**Category:** History
+
+The speaker introduces Dr. Abdul, a scholar from the UK, who has argued against the traditional interpretation of the Hijra (migration) of Prophet Muhammad. They believe that Dr. Abdul's view, which suggests the Hijra was primarily for the purpose of spreading dawah, is incorrect and needs to be addressed.
+
+## 8543.439s : Honestly some brothers are doing that I mean some not not everyone as it should be.
+**Category:** Dawah 
+
+The speaker acknowledges that some Muslims are actively engaging in dawah and promoting Islamic knowledge, while others remain passive. They emphasize the importance of proactive engagement in dawah and encourage listeners to participate in sharing Islamic teachings. 
+
+## 8790.64s : Contemporary issues because you know reaction video we did with um, Sh Bolson, that had a lot of traction. 
+**Category:** Dawah 
+
+The speaker suggests that creating content that addresses current events and controversies would be beneficial for promoting dawah. They use the example of a previous video that featured a reaction to Shah Bolson and gained significant interest, highlighting the potential for engaging with contemporary issues.
+
+## 8811.72s : Remember in the in the old house, how many times say they will say they will this, say go to the universities, go to the place and see what is the intellectual market discussing.  
+**Category:** Dawah
+
+The speaker urges listeners to engage with the intellectual discourse happening in universities and other spaces where contemporary issues are debated. They emphasize the importance of understanding what people are discussing and then responding with Islamic knowledge and perspective. 
+
+
+## https://www.youtube.com/watch?v=oEdb3VWL9ds
+
+##  What are the stories in the Old Testament that relate to the story of the people who left their homes fearing death from a plague? 
+**Category:** Old Testament
+
+The speaker doesn't remember any stories in the Old Testament relating to the story of the people who left their homes fearing death from a plague. 
+
+## Why do most scholars say the people left their homes because of a plague?
+**Category:** Interpretation
+
+The speaker says most scholars advocate for the idea that the people escaped their dwellings because they had a pig and thought by running away they would escape the plague. 
+
+## How can the story of the people who left their homes fearing death from a plague be connected to the story of the Israelites asking for a king?
+**Category:** Connections
+
+The speaker believes that the story of the people who left their homes fearing death from a plague could be connected to the story of the Israelites asking for a king because both stories involve the Israelites fleeing from a situation they believed they couldn't win. The Israelites felt they were not obligated to fight for Allah, and that they were better off fleeing from an advancing army.
+
+## Does the speaker remember reading a story in the Old Testament about the Israelites fleeing their homes before the event of them being expelled? 
+**Category:** Old Testament
+
+The speaker doesn't remember reading a story in the Old Testament about the Israelites fleeing their homes before the event of them being expelled. The speaker believes that the Israelites might have been trying to cover up their shameful act of running away and omitting it from the story. 
+
+## Why is it difficult to read the Old Testament?
+**Category:** Old Testament
+
+The speaker says that reading the Old Testament is painful because there is a lot of genealogy and exposition about names and families that doesn't seem to have any data or relevance.
+
+##  Does the speaker have any evidence to support his belief that the people were running away from an advancing army, as opposed to running away from a plague?
+**Category:**  Evidence
+
+The speaker doesn't offer any specific evidence to support his belief that the people were running away from an advancing army instead of a plague. The speaker does note that the context of the verses around this story deal with Jihad, fighting for the cause of Allah, and that death is inevitable. 
+
+## What is the main point of the verses that discuss the people leaving their homes, and what is the evidence the speaker uses to support his interpretation?
+**Category:** Interpretation
+
+The speaker believes that the main point of these verses is that the people were fleeing from an advancing army and that Allah gave them an example of what would have happened if they stayed to fight. He argues that the verses surrounding the story talk about Jihad and fighting for the cause of Allah, and that death is inevitable. 
+
+## How does the speaker connect the story of the people fleeing their homes to the idea of quarantine? 
+**Category:**  Quarantine
+
+The speaker connects the story of the people fleeing their homes to the idea of quarantine by suggesting that the story is actually promoting pandemic control measures. The speaker argues that the verses around the story seem to be encouraging people to stand firm and resist the plague, as if it is a battlefield they must fight in. 
+
+## What are the three things that people can do to escape problems in this world?
+**Category:**  Worldly Escape
+
+The speaker says that there are three main ways to escape problems in this world: bargaining, friendship, and intercession. The speaker then explains why these methods won't work on the Day of Judgment. 
+
+##  Why is there no bargaining, friendship, or intercession on the Day of Judgment? 
+**Category:** Day of Judgment
+
+The speaker explains that there will be no bargaining, friendship, or intercession on the Day of Judgment because this is the day of reckoning. The speaker says that you can't buy your way out of trouble, your friends won't be able to help you, and no one can intercede on your behalf. The only intercession that can be done is by Allah's messengers, and even that is a gift and not a right. 
+
+## What are the implications of the statement that Allah "leaves us neither slumber nor sleep"?
+**Category:**  Divine Nature
+
+The speaker explains that the statement that Allah "leaves us neither slumber nor sleep" means that Allah is eternally focused and nothing escapes his attention span. The speaker notes that this implies that Allah is not in a state of sleep or even a pre-stage of sleep. The speaker also says that the better translation for "slumber" in this context is "a state of minded absentence," which is a mental state where a person's mind is not focused.
+
+## Why is it important for Allah to hold the heavens and earth together? 
+**Category:** Divine Sustainer
+
+The speaker says that Allah must hold the heavens and earth together because, if he did not, they would disappear. The speaker explains that Allah is the sustainer of the universe and must continuously look after it. 
+
+## How is the story of Musa asking Allah if he sleeps a good example of Allah's teaching methods? 
+**Category:**  Divine Teaching
+
+The speaker says that the story of Musa asking Allah if he sleeps is a good example of Allah's teaching methods because it uses an example or experience to teach a complex concept. The speaker explains that this is the most efficient way to teach, especially when dealing with abstract ideas.
+
+## How does the speaker connect the idea of Allah's throne being on water to the concept of Divine power and control?
+**Category:** Divine Control
+
+The speaker connects the idea of Allah's throne being on water to the concept of Divine power and control by arguing that water is a primary example of a continuum, which is a continuous spread of matter. Because Allah's throne is above water, the speaker suggests that Allah's power and control extends over all possibilities and contingencies.
+
+## How does the speaker connect the idea of Allah's throne being above water to the concept of the divine kingdom?
+**Category:**  Divine Kingdom
+
+The speaker connects the idea of Allah's throne being above water to the concept of the divine kingdom by arguing that water represents the continuum of possibilities. Allah's throne is above the water, suggesting that Allah's kingdom and power dominate over all possibilities.
+
+##  What is the speaker's interpretation of Allah's throne being above water?
+**Category:** Interpretation
+
+The speaker interprets the statement that Allah's throne is above water as a metaphor for Divine power and control. The speaker argues that water is a material example of a continuum, and Allah's power controls all possibilities, which are not countable, but rather a continuum.
+
+##  Why does the speaker argue that the Kursi, or the Divine Throne, cannot be a created entity?
+**Category:** Divine Attributes
+
+The speaker says that the Kursi cannot be a created entity because it is an abstract attribute of the Divine, and Divine attributes cannot be created. 
+
+##  What is the strongest evidence that the speaker uses to support his belief that the Kursi is not a created entity?
+**Category:** Evidence
+
+The speaker says that the Quran itself refutes the idea that the Kursi is a created entity by using the word "Lord" (Rab) which is used to describe something that is owned or belongs to. The speaker argues that the Quran says that Allah is the "Lord of the Throne," suggesting that the Throne is something that Allah owns, not something that was created by Allah. 
+
+##  Why does the speaker believe that the Kursi is a metaphor for the Divine Kingdom or power?
+**Category:** Interpretation
+
+The speaker believes that the Kursi is a metaphor for the Divine Kingdom or power because it is mentioned in the context of Allah's knowledge and power. The speaker suggests that the Kursi represents Allah's dominion over the heavens and earth.
+
+## What is the main difference between the As'haris' view of the Kursi and the view of those who believe the Kursi is a physical object? 
+**Category:**  Interpretation
+
+The speaker explains that the As'haris believe that the Kursi is a metaphor for the Divine Kingdom or power, while those who believe the Kursi is a physical object interpret it as a literal entity. The speaker believes that the view of the As'haris is more correct because the Kursi is described as encompassing the heavens and the earth, which is a characteristic of something that is not a physical object but rather a power or attribute of the Divine. 
+
+## What is the speaker's main argument against the claim that the Kursi is a created entity?
+**Category:**  Divine Creation
+
+The speaker's main argument against the claim that the Kursi is a created entity is that the Kursi is a Divine attribute, and Divine attributes cannot be created. The speaker suggests that the Kursi is more likely to be a metaphor for something like the divine knowledge, power, or kingdom, rather than a physical object.
+
+##  What does the speaker say about the hadith that states that the Kursi is the place of the feet?
+**Category:** Hadith
+
+The speaker says that the hadith that states that the Kursi is the place of the feet is not authentic. The speaker suggests that the hadith might have been taken from Jewish scholars who discussed similar concepts, and that the hadith is not consistent with the Islamic understanding of the Kursi.
+
+## What is the speaker's main argument against the hadith that states that the Kursi is the place of the feet?
+**Category:**  Hadith
+
+The speaker's main argument against the hadith that states that the Kursi is the place of the feet is that the hadith is not authentic and that it is not consistent with the Islamic understanding of the Kursi.
+
+##  What does the speaker say about the hadith that states that the number of prophets is 314? 
+**Category:** Hadith
+
+The speaker says that the hadith that states that the number of prophets is 314 is not correct. The speaker suggests that the hadith was fabricated, and that the only authentic part of the hadith is that Adam was a messenger, but not a prophet, in the sense that he received revelation directly from Allah. 
+
+## Why does the speaker believe that the hadith about the number of prophets is not correct?
+**Category:**  Hadith
+
+The speaker believes that the hadith about the number of prophets is not correct because it is not authentic and it was fabricated. 
+
+## What does the speaker say about the hadith that states that the Kursi is the place of the feet? 
+**Category:** Hadith
+
+The speaker says that the hadith that states that the Kursi is the place of the feet is not authentic. The speaker argues that the hadith might have been taken from Jewish scholars who discussed similar concepts, and that it is not consistent with the Islamic understanding of the Kursi.
+
+##  Why does the speaker believe that the Kursi is a metaphor for Divine knowledge, power, or kingdom?
+**Category:**  Interpretation
+
+The speaker believes that the Kursi is a metaphor for Divine knowledge, power, or kingdom because it is mentioned in the context of Allah's attributes. The speaker suggests that the Kursi represents Allah's dominion over the heavens and the earth, and that it is a representation of Allah's power, knowledge, and control. 
+
+## Why does the speaker think that the interpretation of the Kursi as a metaphor is better than the interpretation of the Kursi as a physical object?
+**Category:** Interpretation
+
+The speaker thinks that the interpretation of the Kursi as a metaphor is better than the interpretation of the Kursi as a physical object because the Kursi is described as encompassing the heavens and the earth, which is a characteristic of something that is not a physical object, but rather a power or attribute of the Divine. 
+
+## What are the implications of the statement that "it does not trouble him to keep them" in reference to Allah?
+**Category:** Divine Nature
+
+The speaker explains that the statement "it does not trouble him to keep them" in reference to Allah means that Allah does not get tired or overloaded from sustaining the heavens and the earth. The speaker argues that Allah does not need to rest after creating the universe, but rather he continuously maintains and sustains it.
+
+## Why is the speaker concerned about the spread of fatalism?
+**Category:** Fatalism
+
+The speaker is concerned about the spread of fatalism because he believes it can be used to justify oppressive rule and hijacking of power. The speaker argues that fatalism can be used to suggest that everything is predetermined by Allah, and that humans have no free will to change anything.
+
+## Why does the speaker believe that the statement that Allah is "the exalted, the tremendous" is so important?
+**Category:**  Divine Nature
+
+The speaker says that the statement that Allah is "the exalted, the tremendous" is so important because it captures the essence of Allah's greatness and power. This statement, in essence, is the key to understanding the truth about Allah. 
+
+## How does the speaker connect the idea of Allah's throne being above water to the idea of Divine control?
+**Category:** Divine Control
+
+The speaker connects the idea of Allah's throne being above water to the idea of Divine control by suggesting that water represents the continuum of possibilities, and Allah's throne being above the water suggests that Allah controls all possibilities.
+
+## What is the speaker's main argument against the claim that there are multiple deities?
+**Category:** Monotheism
+
+The speaker argues that the claim that there are multiple deities is a false statement because the Quran clearly states that there is only one God. The speaker argues that the existence of multiple deities is impossible and that this concept contradicts the fundamental tenets of Islam.
+
+## Why does the speaker believe that the statement that Allah is "the ever-living" is important?
+**Category:** Divine Nature
+
+The speaker says that the statement that Allah is "the ever-living" is important because it emphasizes the infinite nature of Allah's life. The speaker argues that Allah's life is intrinsic and not based on a composite structure or intake and outtake of energy. 
+
+## How does the speaker explain the idea of Allah's complete sovereignty?
+**Category:** Divine Sovereignty
+
+The speaker explains the idea of Allah's complete sovereignty by saying that Allah's will is ultimate and beyond any imagination of limitations. The speaker argues that Allah has free will and that this sovereignty is a fundamental aspect of Allah's nature. 
+
+## Why does the speaker think that the statement that Allah is "the self-subsistent" is so important?
+**Category:** Divine Nature
+
+The speaker says that the statement that Allah is "the self-subsistent" is important because it emphasizes that Allah is independent and does not rely on anything else for his existence. The speaker argues that Allah is the source of all existence and that he is not dependent on any other being or force. 
+
+## Why does the speaker believe that the statement that Allah is "the ever-living, the self-subsistence" is the biggest ayah in the Quran? 
+**Category:**  Importance
+
+The speaker says that the statement that Allah is "the ever-living, the self-subsistence" is the biggest ayah in the Quran because it contains the fundamentals of Islamic beliefs, including the nature of Allah, the concept of intercession, and the truth about the universe. 
+
+## What are some of the spiritual and intellectual benefits of reading the Quran?
+**Category:** Benefits
+
+The speaker says that reading the Quran has enormous spiritual and intellectual benefits, including protecting against evil and promoting understanding of the universe.
+
+## What are some of the benefits of reading the specific ayah that states that Allah is "the ever-living, the self-subsistence"?
+**Category:** Benefits
+
+The speaker says that reading the ayah that states that Allah is "the ever-living, the self-subsistence" can help to protect you from evil and guide you to the right path. The speaker also notes that reading this ayah is a good practice to do before sleeping or after prayer. 
+
+
+## https://www.youtube.com/watch?v=zNfFYP_wJyI
+
+##  Is there a specific number of days that you need to make up for if you break your fast during Ramadan? 
+**Category:** Ramadan Fasting
+58.5s: The speaker clarifies that the number of days to make up for breaking the fast during Ramadan is not specified. This means you must make up for the days you missed, but there is no specific limit on the number of days you need to make up. 
+
+## What about people who can't fast because they're experiencing hardship? 
+**Category:** Ramadan Fasting
+84.56s: The speaker discusses the specific hardship that allows someone to substitute fasting with feeding the poor. He explains that if the hardship is significant, but not impossible, then a person can choose not to fast and instead feed one poor person for each day of Ramadan. The speaker further emphasizes that this hardship should be significant enough to make fasting impossible, and that it cannot be avoided if there is a way to manage the hardship.
+
+## Why does the Quran repeat the verse about making up for missed fasts?
+**Category:** Quranic Interpretation
+338.699s: The speaker explains that the repetition of the verse about making up for missed fasts in the Quran was intended to emphasize the concept of one-to-one substitution for each day of missed fasts. He explains that the Quran clarifies that even though Ramadan is a special month, it should not be seen as more important than other days. If someone misses a fast during Ramadan, they are obligated to make up for that day, not two or more days. 
+
+## Does the Quran state an obligation to substitute fasting for those who are sick or traveling? 
+**Category:** Quranic Interpretation
+663.079s: The speaker argues that the Quran does not explicitly state an obligation to substitute fasting for those who are sick or traveling. He clarifies that the Quranic verse is merely an injunction, not a mandate, and can be interpreted as a recommendation rather than a strict obligation. He points to examples from the Prophet's life, where individuals traveled and some fasted while others did not, without any judgment from the Prophet. 
+
+## What does the Quranic verse about covering your wives mean?
+**Category:** Quranic Interpretation
+1096.86s: The speaker explains that the Quranic verse referring to wives as a "garment" for husbands is meant to highlight the importance of covering one's shortcomings and imperfections within a marriage. He argues that this verse is a metaphor for the intimacy and mutual support that should exist between spouses, highlighting the importance of both partners providing for each other's emotional and physical needs.  
+
+## What does the Quranic verse about "distinguishing the white thread from the black thread" mean?
+**Category:** Islamic Practice
+1361.76s: The speaker explains that the Quranic verse referring to the distinction between the white thread of dawn and the black thread of night is a symbolic metaphor for the visibility of dawn on the horizon. It signifies the transition from night to day, marking the time to break the fast. It is not a literal instruction to look for threads on a pillow or mattress, but rather a poetic way of describing the subtle light of dawn.
+
+## Can you give a more practical explanation of what the Quran means by the "white thread from the black thread"
+**Category:** Islamic Practice
+1403.34s: The speaker clarifies the Quranic verse about distinguishing the white thread of dawn from the black thread of night, explaining that it refers to the visible light of dawn on the horizon, marking the time to break the fast. He contrasts this with the "astronomical dawn," which occurs when the sun is 18 degrees below the horizon. The speaker emphasizes that this is a natural phenomenon that can be observed, not a literal instruction to look for physical threads.
+
+## What is the most important aspect of fasting?
+**Category:** Islamic Practice
+1723.7s: The speaker argues that the main purpose of fasting is to focus on avoiding sins and becoming more mindful of God. He emphasizes that the objective is to purify one's spirit, avoid indulging in worldly desires, and dedicate oneself to spiritual growth. Fasting serves as a tool for self-discipline and spiritual development, not merely a physical act of abstaining from food and drink.
+
+## Is it permissible to smoke during Ramadan?
+**Category:** Ramadan Fasting
+3877.44s: The speaker states that smoking is not considered food or drink and therefore does not break the fast. However, he emphasizes that fasting should be an opportunity to abstain from harmful habits, including smoking.  He acknowledges that there are different opinions on this matter, but he concludes that the harmful effects of smoking make it a less desirable practice during Ramadan.
+
+## Can you explain the difference between "prescribed" and "allowed" in the context of the Quran?
+**Category:** Quranic Interpretation
+1333.44s: The speaker explains that the Quran uses different terms for "prescribed" and "allowed" to distinguish between obligations and permissible actions. "Prescribed" refers to something that is mandatory, while "allowed" means something that is permitted but not required. This distinction is important to understand the nuances of Islamic law and to differentiate between what is obligatory and what is simply permissible. 
+
+##  What are the implications of the Quranic verse about intercourse during Ramadan?
+**Category:** Quranic Interpretation
+2103.3s: The speaker discusses the Quranic verse regarding sexual relations during Ramadan, emphasizing the importance of understanding the context and the meaning behind the verse. He explains that the verse is not a prohibition, but rather a guidance regarding the timing and limitations of intercourse during the month of Ramadan.  He clarifies that while sexual relations are permissible during Ramadan, it is discouraged while in a state of ihram or during a time of retreat in a place of worship. 
+
+## How should someone in Janaba state pray? 
+**Category:** Islamic Practice
+4743.06s: The speaker addresses the question of how to pray while in a state of Janaba, explaining that the ritual purification (ghusl) is not required for someone in this state during Ramadan. He clarifies that while it is generally recommended to perform ghusl before prayer, it is not mandatory during Ramadan. 
+
+## What about the six days of Shawwal?
+**Category: ** Islamic Practice
+4868.64s: The speaker discusses the tradition of fasting for six days after Ramadan, known as the six days of Shawwal. He acknowledges that the narration regarding this practice is considered weak, but emphasizes that the act itself holds value due to its consistency with prophetic teachings and logic. He highlights the significance of having good intentions and seeking reward from God.
+
+## What about the Hadith that encourages avoiding the people of Basra and Kufa?
+**Category:** Islamic History
+5166.0s: The speaker discusses a specific Hadith attributed to Malik, mentioning that Malik's view on avoiding the people of Basra and Kufa stemmed from their practices and behavior rather than their beliefs. Malik observed that their actions were often inappropriate and that they failed to uphold proper Islamic conduct. 
+
+## Why are many scholars hesitant to adopt a consistent system for observing Ramadan in different latitudes?
+**Category:** Islamic Practice
+3230.22s: The speaker addresses the challenges of implementing a consistent system for observing Ramadan across various latitudes, particularly due to the differences in daylight hours. He acknowledges that many Muslim scholars and communities are hesitant to adopt such a system due to their reliance on traditional methods and their reluctance to deviate from established practices. He emphasizes the need for a persuasive and respected authority to bring about such a change.
+
+## What about those who believe in the moon sighting system for determining Ramadan?
+**Category:** Islamic Practice
+3517.619s: The speaker criticizes the practice of relying on moon sighting to determine the start of Ramadan, arguing that it leads to inconsistencies and difficulties in unifying the Islamic calendar across the globe. He emphasizes the importance of adopting a more consistent and scientific approach based on astronomical calculations, which would provide a more accurate and reliable method for determining the start of Ramadan.
+
+## What is the best approach to dealing with the differences in latitude and the observance of Ramadan?
+**Category:** Islamic Practice
+3424.099s: The speaker advocates for a consistent system for observing Ramadan based on astronomical calculations and the location's latitude. He suggests that Muslims should focus on adhering to the timing of sunrise and sunset determined by their specific latitude rather than relying on standardized time zones.  He emphasizes the need for a clear understanding of how latitude influences the timing of prayer and fasting. 
+
+
+## https://www.youtube.com/watch?v=vx1TtfvxI7U
+
+##  Questions Asked in YouTube Video:
+
+**0:56s**: What is the format of this meeting? 
+* **Category**: Meeting Format
+
+**Answer**: The meeting is being live-streamed and is part of a weekly series called "The Weekly T Sessions."
+
+**1:10s**: How often does this meeting occur? 
+* **Category**: Meeting Frequency
+
+**Answer**: The meetings are broadcasted every Sunday at 2 p.m. UK time. 
+
+**1:18s**: What is the main purpose of these meetings?
+* **Category**: Meeting Purpose
+
+**Answer**: The meetings aim to provide deeper understanding within the Ummah (Muslim community) by discussing issues like the final messenger-hood, evolution, and Islamic governance. 
+
+**1:26s**: What are some of the resources available for these discussions?
+* **Category**: Meeting Resources
+
+**Answer**:  The speaker mentions 178 episodes already available on their YouTube channel, as well as physical publications, PDFs, and other content. 
+
+**1:37s**: Why is it important to return to the text? 
+* **Category**: Islamic Studies
+
+**Answer**: The speaker believes that many claims about Islam are superficial and not comprehensive, and that going back to the text allows for deeper understanding and refuting these mistakes. 
+
+**1:55s**: What is one example of a common misunderstanding that can be addressed by returning to the text? 
+* **Category**: Islamic Theology
+
+**Answer**: The speaker gives the example of the issue of the final messenger-hood and the difficulty people may face in refuting those who deny it. 
+
+**2:22s**: What is the speaker's perspective on the role of the Prophet Muhammad (peace be upon him) in governance?
+* **Category**: Islamic Governance
+
+**Answer**: The speaker emphasizes that the model of governance exemplified by the Prophet (peace be upon him) and the Rashidun (righteous caliphs) was revolutionary, placing power in the hands of the people and emphasizing their role in selecting their rulers. 
+
+**2:50s**: What is the speaker's perspective on the use of the term "Islam" by those who advocate for secularism or support tyrants?
+* **Category**: Islamic Beliefs
+
+**Answer**: The speaker views the appropriation of the term "Islam" by those who promote secularism or support oppressive rulers as a misrepresentation of the faith. He emphasizes that Islam is a comprehensive way of life that encompasses all aspects of human existence, and that any attempt to exclude these aspects is problematic.
+
+**3:21s**: What is the speaker's view on criticizing rulers in Islam?
+* **Category**: Islamic Leadership
+
+**Answer**: The speaker argues that criticizing rulers is not only permissible but also essential in Islam. He points to examples of the Prophet (peace be upon him) and his companions engaging in such critique, highlighting the need to hold leaders accountable. 
+
+**3:45s**: What is the next step in the meeting after the discussion of Surah 13?
+* **Category**: Meeting Schedule
+
+**Answer**: After the recitation and discussion of Surah 13, the next week will feature an open Q&A session, a Palestine update, and an open floor for discussion.
+
+**3:53s**: How will the questions submitted be addressed?
+* **Category**: Meeting Format
+
+**Answer**: While the speaker acknowledges the large number of questions submitted, they cannot guarantee they will be addressed all in one session. However, they assure viewers that a dedicated session for Q&A and the Palestine update will be held the following week.
+
+**4:00s**: What Surah and Ayah will be discussed in this session?
+* **Category**: Quranic Studies
+
+**Answer**: The speaker will discuss Surah 13, Ayah 1. 
+
+**4:16s**:  What is the speaker's view on discussing Islam even with those who hold opposing viewpoints? 
+* **Category**: Interfaith Dialogue
+
+**Answer**: The speaker encourages engagement with people who hold different views, even those who are critical of Islam, emphasizing the need for open dialogue and the confidence in the truth of the faith. 
+
+**4:42s**: What is the meaning of the opening letters (Alif Lam Ra) in Surah 13?
+* **Category**: Quranic Exegesis
+
+**Answer**: The speaker acknowledges that there are many theories and interpretations of the opening letters in the Quran, but the most simple and straightforward meaning is that they signify the letters from which the verses of the book are composed.
+
+**5:28s**: What is the speaker's explanation of the challenge presented in Surah 13? 
+* **Category**: Quranic Challenge
+
+**Answer**: The speaker interprets the challenge in Surah 13 as a call for those who doubt the Quran to try and produce something similar in terms of its composition, language, and meaning. 
+
+**5:59s**: What is the speaker's response to the challenge presented in Surah 13?
+* **Category**: Quranic Miracle
+
+**Answer**: The speaker affirms that the challenge is impossible to meet due to the Quran's unique composition, linguistic complexity, and depth of meaning. He suggests that evidence for its divine origin lies within its internal consistency, synchronization, and challenging nature.
+
+**6:19s**: What is the speaker's view on the invitation to study the Quran thoroughly?
+* **Category**: Quranic Study
+
+**Answer**: The speaker encourages a deep and thorough study of the Quran, suggesting that those who do so will find it free of contradictions and internal consistency.
+
+**6:29s**: What is the speaker's response to the claim that humans and jinn could collaborate to create something similar to the Quran?
+* **Category**: Islamic Beliefs
+
+**Answer**: The speaker dismisses this claim as impossible, emphasizing that even with the combined effort of humans and jinn, they could not produce anything comparable to the Quran's unique composition, linguistic structure, and depth of meaning. 
+
+**6:59s**: How many levels of meaning are there in the Quran? 
+* **Category**: Quranic Exegesis
+
+**Answer**: The speaker suggests that the Quran contains multiple levels of meaning, potentially up to seven, but emphasizes that these levels are not evenly distributed throughout the text, and the deeper layers may be more concentrated in certain sections.
+
+**7:35s**: What is the speaker's interpretation of Ayah 2 of Surah 13?
+* **Category**: Islamic Cosmology
+
+**Answer**:  The speaker interprets Ayah 2 as addressing the issue of the heaven's lack of visible support. He notes that while humans may perceive the heaven as a ceiling without visible pillars, the Quran is pointing to the invisible laws of nature, such as gravity, that are responsible for its stability. 
+
+**8:18s**: How does the speaker refute the idea that gravity is a sufficient explanation for the heaven's stability?
+* **Category**: Science and Religion
+
+**Answer**:  The speaker argues that attributing the heaven's stability solely to gravity is a simplistic and inadequate explanation. He emphasizes that even simple people can understand the need for visible supports for any ceiling, prompting the question of how the heaven, which looks like a ceiling, remains stable without any visible supports. 
+
+**8:56s**: What are the invisible pillars that support the heavens? 
+* **Category**: Islamic Cosmology
+
+**Answer**: The speaker identifies these invisible pillars as the laws of nature, specifically gravity, centripetal, and centrifugal forces, working in a complex and well-balanced manner to maintain the heavens' stability. 
+
+**9:20s**: What is the speaker's interpretation of the statement "He has made the Sun and the Moon subservient to his laws"? 
+* **Category**: Islamic Cosmology
+
+**Answer**: The speaker explains that the Sun and Moon are subservient to Allah's laws, meaning that they serve specific purposes, including those that benefit humanity. He also highlights the Quran's affirmation that these celestial bodies are not eternal but will eventually cease to exist. 
+
+**9:89s**: What was the common belief about the heavenly bodies among pagans and philosophers?
+* **Category**:  History of Science
+
+**Answer**: The speaker notes that pagans and philosophers at the time believed the heavenly bodies were eternal and incorruptible. They often associated these bodies with divine beings, a belief that the Quran challenges by affirming their finite nature and eventual demise. 
+
+**10:49s**: What is the speaker's interpretation of the statement "He established himself on his throne"? 
+* **Category**: Islamic Theology
+
+**Answer**: The speaker clarifies that the "throne" in this context is not a physical object but a metaphor for Allah's dominion and governance over the universe. He emphasizes that this interpretation is based on a deeper understanding of the Quran's meaning and rejects literal interpretations of the throne as a physical object.
+
+**10:89s**: What is the speaker's perspective on the statement "He governs all that exists"?
+* **Category**: Islamic Beliefs
+
+**Answer**: The speaker emphasizes the comprehensive nature of Allah's governance, highlighting that He governs all aspects of existence, including both the visible and invisible realms. 
+
+**11:30s**: What is the speaker's purpose in pointing out the clarity and detail of the revealed verses?
+* **Category**: Quranic Miracle
+
+**Answer**: The speaker argues that the detailed and structured nature of the Quranic verses is a testament to their divine origin. He suggests that the complexity and clarity of the messages could not have been a mere human creation or a product of chance. 
+
+**11:56s**: What is the speaker's argument regarding the necessity of a return after death? 
+* **Category**: Islamic Beliefs
+
+**Answer**: The speaker argues that the detailed nature of the revealed verses points to a future accounting and return after death. He suggests that the purpose of these messages extends beyond the immediate present and aims to prepare humanity for a future reckoning. 
+
+**12:11s**: What is the speaker's interpretation of Ayah 3 of Surah 13?
+* **Category**: Islamic Cosmology
+
+**Answer**: The speaker interprets this ayah as affirming the vastness and interconnectedness of the Earth. He highlights the Quran's emphasis on the Earth's extension, which can only be truly understood through its spherical shape. 
+
+**12:48s**: How does the speaker address the Flat Earth theory? 
+* **Category**: Islamic Cosmology
+
+**Answer**: The speaker refutes the Flat Earth theory by emphasizing the Quran's description of the Earth's vastness and extension, which is only possible if it is spherical. He points out that a flat Earth would inevitably have an edge, which the Quran clearly states does not exist. 
+
+**13:58s**: How does the speaker explain the diversity of plant life on Earth? 
+* **Category**: Islamic Cosmology
+
+**Answer**: The speaker points to the common source material and genetic basis of all plant life, even those with significant variations in taste, texture, and nutritional value. He suggests that this diversity, despite shared origins, is evidence of Allah's design and creative power.
+
+**14:55s**: How does the speaker connect the diversity of plant life to the concept of Allah's design? 
+* **Category**: Islamic Beliefs
+
+**Answer**: The speaker argues that the diversity of plant life, despite shared origins and a common source of water and air, is not a matter of necessity but rather a result of Allah's design and intentional variation. He suggests that this diversity highlights the complexity and sophistication of Allah's creation.
+
+**15:77s**: What is the speaker's explanation of the argument posed in Ayah 4 of Surah 13?
+* **Category**: Islamic Eschatology
+
+**Answer**: The speaker addresses the argument of those who question the possibility of resurrection, stating that they are essentially denying the existence of a creator. He argues that if Allah, as the creator of this complex universe from simple materials like dust and water, is capable of creating life, then He is surely capable of recreating it after death.
+
+**16:85s**: What is the speaker's view on the limitations of natural laws? 
+* **Category**: Science and Religion
+
+**Answer**: The speaker argues that natural laws, such as those governing thermodynamics, are not absolute and can be overridden by the creator. He emphasizes that the concept of a necessary and unchangeable nature contradicts the notion of a creator with absolute sovereignty and the ability to initiate things spontaneously. 
+
+**17:40s**: What is the speaker's explanation of the argument "once we are dust, will we really be created anew?"
+* **Category**: Islamic Eschatology
+
+**Answer**: The speaker responds to this argument by pointing out that the creation of human beings from dust is already an act of extraordinary creation. If Allah, as the creator of this complex universe, is capable of this initial creation, He is surely capable of recreating us after death, even with different materials. 
+
+**18:08s**:  What is the speaker's critique of the argument for the impossibility of resurrection based on the laws of nature? 
+* **Category**: Islamic Beliefs
+
+**Answer**: The speaker dismisses this argument as being rooted in atheism, stating that it denies the existence of a creator and assumes a natural order operating by necessity. He emphasizes that the complexity of the universe and the potential for recreating life from basic materials point to a creator with absolute power and the ability to override the laws of nature.
+
+**18:71s**:  What is the speaker's view on the relationship between reason and revelation in proving the existence of God? 
+* **Category**:  Islamic Theology
+
+**Answer**: The speaker argues that both reason and revelation play crucial roles in proving the existence of God. While reason can provide compelling arguments for a creator, Revelation offers further proof through miracles and challenges, solidifying the existence of a supernatural agent with free will,  capable of communicating and revealing His will to humanity. 
+
+**19:69s**: How does the speaker connect the argument for resurrection with the rejection of Allah as Lord? 
+* **Category**: Islamic Beliefs
+
+**Answer**: The speaker argues that those who deny the possibility of resurrection are effectively denying the sovereignty of Allah as their creator and Lord. He highlights that their argument makes sense only if the universe is merely a product of natural laws operating by necessity, rather than being designed and governed by a free agent. 
+
+**19:99s**: What is the speaker's view on atheism as a counter-rational belief system? 
+* **Category**:  Islamic Theology
+
+**Answer**: The speaker considers atheism to be a counter-rational belief system, suggesting that it contradicts the very nature of the universe and its origins. He argues that a universe that emerged from a necessary and unchangeable nature, lacking free will, could not have produced the complexity and diversity we observe. 
+
+**20:16s**: What is the speaker's response to those who insist on denying the existence of Allah and His attributes?
+* **Category**: Islamic Beliefs
+
+**Answer**:  The speaker characterizes these individuals as stubborn and arrogant, clinging to their denial of the truth despite compelling evidence. He suggests that their rejection of Allah stems from a desire to escape the consequences of acknowledging His existence and the need to live according to His commands. 
+
+**20:43s**:  What does the speaker say about the origin of negative experiences and the need for patience in acknowledging Allah's sovereignty? 
+* **Category**: Islamic Beliefs
+
+**Answer**: The speaker encourages patience and acceptance in the face of negative experiences, reminding viewers that these events are part of the natural order of a created universe. He argues that attempting to fight against Allah's will or denying His sovereignty is both irrational and a satanic idea, driven by arrogance and a desire to place oneself above the divine. 
+
+**21:11s**: What is the speaker's view on the origins of atheism? 
+* **Category**: Islamic Theology
+
+**Answer**: The speaker suggests that atheism often stems from negative experiences, especially during childhood, as well as a desire to escape the limitations and responsibilities imposed by acknowledging the existence of Allah. 
+
+**21:32s**:  What is the speaker's explanation of the argument "why has no miraculous sign ever been bestowed on him from On High"? 
+* **Category**: Islamic Theology
+
+**Answer**: The speaker explains that this argument essentially denies the possibility of a supernatural agent acting in the universe. He argues that while miracles may serve as evidence, they are not the primary means of guidance. The Quran itself, with its internal consistency and challenging nature, stands as a miraculous sign. 
+
+**21:63s**: How does the speaker explain the purpose of miracles in Islam?
+* **Category**: Islamic Theology
+
+**Answer**:  The speaker emphasizes that miracles in Islam are not merely for the benefit of the prophet or messenger, but also serve the greater purpose of guiding people to the truth and demonstrating the power of the divine. He gives the example of the prophet (peace be upon him) reviving his brother, highlighting that this miracle was performed to comfort his sister and provide solace, even though it was not intended as a direct proof of his prophethood. 
+
+**22:14s**: What is the speaker's explanation of the reason why Prophet Muhammad (peace be upon him) refused to perform miracles when asked by the Jews?
+* **Category**: Islamic Theology
+
+**Answer**: The speaker states that the prophet (peace be upon him) refused to perform miracles upon request, emphasizing that miracles happen by divine will and not by demand. 
+
+**22:57s**: What is the speaker's view on the ultimate miracle of the Quran?
+* **Category**: Quranic Miracle
+
+**Answer**: The speaker emphasizes that the Quran itself is the ultimate miracle, citing its unique challenge for doubters to produce something similar in terms of its language, structure, and depth of meaning. 
+
+**23:12s**:  What is the speaker's response to the claim that miracles can be explained away by human manipulation or trickery? 
+* **Category**: Islamic Theology
+
+**Answer**: The speaker acknowledges that people will always find ways to explain away miracles, even if they are witnessed directly. He cites an example from the Quran where it states that even if a book were brought down from heaven, those who deny the truth would still find a way to dismiss it as trickery.
+
+**23:38s**:  What is the speaker's view on the role of reason in evaluating miracles? 
+* **Category**: Islamic Theology
+
+**Answer**:  The speaker emphasizes that miracles should not be evaluated solely on their outward appearance but should be analyzed through reason and logic. While a miracle may be objectively impressive, it is not enough to convince those who are determined to deny the truth.
+
+**24:00s**: What is the speaker's interpretation of Ayah 5 of Surah 13? 
+* **Category**: Islamic Cosmology
+
+**Answer**: The speaker explains that Ayah 5 highlights Allah's knowledge of the intricacies of the female womb, including the gestation period and any variations in length. He connects this to the broader theme of Allah's comprehensive governance and knowledge of all aspects of creation. 
+
+**24:37s**:  What is the speaker's explanation of the statement "everything with him has a due measure"?
+* **Category**: Islamic Theology
+
+**Answer**: The speaker interprets this statement as emphasizing the fact that Allah's actions and creation are not arbitrary or random. He notes that even events that might seem unpredictable or random, such as the variation in gestation periods, are part of a larger and well-ordered system that is known and governed by Allah. 
+
+**25:04s**: How does the speaker address the concept of Allah's action being "haaz" or arbitrary? 
+* **Category**: Islamic Theology
+
+**Answer**: The speaker emphasizes that Allah's actions are never arbitrary or random. He connects this to the previous discussion of the universe having a purpose beyond mere entertainment or amusement, and argues that Allah's actions are always governed by a divine plan and rational purpose. 
+
+**25:48s**:  What is the speaker's view on the concept of "the mathematical God"? 
+* **Category**: Islamic Theology
+
+**Answer**:  The speaker acknowledges the concept of "the mathematical God" as presented by some Christian theologians, who view God as a being who operates according to a system of calculations and proportions. He accepts this concept as a plausible interpretation, arguing that it aligns with the Quran's emphasis on Allah's actions being governed by order and purpose, rather than randomness.
+
+**26:00s**: What is the speaker's interpretation of Ayah 6 of Surah 13?
+* **Category**: Islamic Theology
+
+**Answer**:  The speaker interprets this ayah as emphasizing Allah's knowledge beyond human perception. He highlights that Allah's knowledge encompasses not only what is accessible to human senses but also that which is beyond human comprehension, including the past, the future, and the hidden workings of the universe. 
+
+**26:31s**:  What does the speaker say about the limits of human perception?
+* **Category**: Islamic Theology
+
+**Answer**: The speaker argues that human perception is limited and cannot access everything Allah knows. He gives the example of the past, where even though we may have records and traces of events, we do not have access to the full knowledge of individuals, their inner lives, and their genetic makeup.
+
+**27:04s**:  What is the speaker's explanation of the example of Prophet Moses (peace be upon him) asking about a past event? 
+* **Category**: Islamic Theology
+
+**Answer**:  The speaker cites the example of Prophet Moses (peace be upon him) asking about a past event that was beyond his knowledge and perception. He emphasizes that even angels, who were present at the time, were unable to witness this specific event.  This demonstrates the vastness of Allah's knowledge and the limitations of even supernatural beings. 
+
+**28:41s**:  What is the speaker's conclusion regarding the vastness of Allah's knowledge?
+* **Category**: Islamic Theology
+
+**Answer**: The speaker concludes that Allah's knowledge is vast and limitless, encompassing everything that is beyond human perception, including the past, present, and future. He emphasizes that this knowledge is not limited by physical or temporal constraints.
+
+**29:00s**:  What is the speaker's interpretation of Ayah 7 of Surah 13?
+* **Category**: Islamic Theology
+
+**Answer**: The speaker interprets this ayah as demonstrating that Allah knows everything, regardless of whether it is done publicly or secretly. He suggests that this knowledge is not limited by physical or temporal constraints, and that Allah is aware of all actions, words, and thoughts, both those that are concealed and those that are openly displayed.
+
+**29:36s**:  What is the speaker's view on the relationship between the human heart and Allah's knowledge? 
+* **Category**:  Islamic Theology
+
+**Answer**: The speaker argues that Allah's knowledge is not limited to external actions but extends to the inner workings of the human heart. He suggests that there is no difference between what is spoken aloud and what is kept concealed in the heart, as everything is known to Allah.
+
+**30:11s**:  What is the speaker's interpretation of Ayah 8 of Surah 13?
+* **Category**: Islamic Theology
+
+**Answer**: The speaker explains that this ayah addresses the concept of protection and assistance. He notes that humans may feel a sense of security from their helpers or allies, but ultimately, Allah's will is absolute. He emphasizes that only Allah can change a person's condition, and that true protection comes from Him alone. 
+
+**30:38s**:  What are the different interpretations of the "angels" mentioned in this ayah? 
+* **Category**:  Islamic Theology
+
+**Answer**: The speaker acknowledges that the "angels" mentioned in this ayah could refer to both natural forces and divine entities. He suggests that the "protection" provided by these entities might be interpreted as a metaphorical representation of the divine knowledge that surrounds and records all events.
+
+**31:31s**:  How does the speaker connect the "angels" to the recording of human actions?
+* **Category**: Islamic Theology
+
+**Answer**: The speaker connects the "angels" to the recording of human actions, suggesting that they might be interpreted as metaphorical representations of the divine knowledge that encompasses all events, recording them both before and after they occur. 
+
+**31:48s**:  How does the speaker address the potential for fatalism based on the idea of Allah's knowledge? 
+* **Category**: Islamic Theology
+
+**Answer**: The speaker acknowledges the potential for misinterpreting Allah's knowledge as fatalism but emphasizes that the Quran explicitly refutes this view. He argues that Allah will not change a person's condition until they change themselves, affirming human free will and agency in shaping their own destinies. 
+
+**32:26s**:  What is the speaker's view on the relationship between human action and Allah's will? 
+* **Category**: Islamic Theology
+
+**Answer**:  The speaker emphasizes that while Allah's will is ultimate, humans still have free will and the ability to make choices that affect their own destinies. He clarifies that Allah's will does not negate human agency but rather works in conjunction with it, guiding and shaping events within a larger system of divine order.
+
+**32:40s**:  What is the speaker's interpretation of the statement "God does not change the condition of a people unless they change what is in themselves"?
+* **Category**: Islamic Theology
+
+**Answer**:  The speaker interprets this statement as a call to self-improvement and the need for societal change to come from within. He emphasizes that Allah does not intervene to force change upon people but rather waits for them to take the initiative and make the necessary changes in their hearts and actions. 
+
+**33:24s**:  What is the speaker's view on the statement "when God intends ill for a people, there is no avoiding it apart from him"?
+* **Category**: Islamic Theology
+
+**Answer**:  The speaker acknowledges that Allah's will is absolute and that He can bring about harm to people based on their actions. However, he emphasizes that this harm is not arbitrary but rather a consequence of their choices and actions.
+
+**33:56s**:  What is the speaker's central point regarding the concept of free will and divine sovereignty? 
+* **Category**: Islamic Theology
+
+**Answer**: The speaker's central point is that while Allah's will is ultimate and encompasses all events, humans still possess free will and the responsibility to make choices that shape their destinies. He argues that true change comes from within, and Allah supports those who seek to improve themselves and their communities. 
+
+**34:31s**: What is the speaker's interpretation of Ayah 9 of Surah 13?
+* **Category**: Islamic Cosmology
+
+**Answer**:  The speaker interprets this ayah as emphasizing Allah's power and control over natural phenomena. He highlights the role of Allah in creating and controlling lightning, which causes both fear and hope, as well as the formation of heavy clouds that bring rain. 
+
+**34:58s**: How does the speaker address the scientific understanding of lightning? 
+* **Category**: Science and Religion
+
+**Answer**: The speaker acknowledges the scientific explanation of lightning as an electrical discharge but emphasizes that this does not negate Allah's role in its creation. He argues that attributing actions to Allah in the Quran can take different forms, including initial creation, permission, and direct action.
+
+**35:37s**:  What are the different ways in which attributing actions to Allah can be interpreted in the Quran?
+* **Category**: Islamic Theology
+
+**Answer**: The speaker identifies four ways in which attributing actions to Allah in the Quran can be understood: 
+1. Initial creation: Allah created the system, including the laws of nature, that govern lightning.
+2. Original creation through a chain of causes and effects:  Allah is the original creator of lightning through the natural processes that lead to its formation. 
+3. Permission of action by conscious beings: Allah allows conscious beings to act, and in this case, permits us to open our eyes to witness the lightning. 
+4. Direct action: Allah directly acts in the universe, which occurs in very few instances.
+
+**36:16s**: What is the speaker's key point about the role of Allah in creating lightning?
+* **Category**: Islamic Theology
+
+**Answer**: The speaker emphasizes that even though we understand the scientific processes involved in creating lightning, Allah remains the ultimate creator, whether through the initial establishment of the system, the permission for conscious beings to act, or direct action in certain instances. 
+
+**36:45s**: What is the significance of the analogy of clouds in this ayah? 
+* **Category**: Islamic Theology
+
+**Answer**:  While the analogy itself may not have a specific significance, the speaker suggests that it emphasizes Allah's power and control over the natural world, showcasing how He is responsible for the formation of clouds, which lead to rain.
+
+**37:10s**: How does the speaker connect the ayah about clouds to the concept of free will? 
+* **Category**:  Islamic Theology
+
+**Answer**: The speaker connects the ayah about clouds to the concept of free will by reminding viewers that while Allah controls the universe, He will not change the condition of people unless they change themselves. He emphasizes that the formation of clouds, which bring rain, is part of a larger system that Allah created, but that individual actions and choices still play a role in shaping outcomes.
+
+**37:46s**: What is the speaker's interpretation of Ayah 10 of Surah 13?
+* **Category**: Islamic Theology
+
+**Answer**:  The speaker interprets this ayah as highlighting Allah's greatness and the awe-inspiring nature of the universe. He emphasizes the glorification of Allah by both the thunder and the angels, suggesting that the natural world itself serves as a testament to His power and majesty.
+
+**38:07s**: How does the speaker connect the concept of Allah's power with the argumentation of those who deny Him? 
+* **Category**:  Islamic Theology
+
+**Answer**: The speaker emphasizes that even though Allah's power and control over the universe are evident, those who deny Him continue to argue and debate, despite the overwhelming evidence. He suggests that this denial stems from a stubborn resistance to truth and a refusal to acknowledge Allah's absolute sovereignty. 
+
+**38:43s**:  What is the speaker's view on the statement "He alone has the power to do whatever he Wills"?
+* **Category**:  Islamic Theology
+
+**Answer**: The speaker emphasizes that Allah has absolute and unlimited power, capable of acting beyond any human understanding or control. This reaffirms the concept of divine sovereignty and Allah's ultimate control over the universe. 
+
+**39:05s**:  What is the speaker's interpretation of Ayah 11 of Surah 13?
+* **Category**: Islamic Theology
+
+**Answer**: The speaker interprets this ayah as emphasizing that true prayer is only effective when directed to Allah. He argues that praying to other beings or powers is futile, like reaching out to water that will never reach your mouth. 
+
+**39:37s**: What is the speaker's analogy for prayer to entities other than Allah? 
+* **Category**:  Islamic Theology
+
+**Answer**:  The speaker compares prayer to entities other than Allah to someone reaching out to water that will never reach their mouth. He suggests that such prayers are meaningless and will not be answered, because they are not directed to the true source of power and mercy. 
+
+**39:57s**: What is the speaker's conclusion regarding the efficacy of prayer? 
+* **Category**:  Islamic Theology
+
+**Answer**: The speaker concludes that only prayers directed to Allah have the potential to be answered. He argues that praying to other entities is a waste of time, a misdirection of energy, and a demonstration of ignorance.
+
+**40:21s**:  What is the speaker's interpretation of Ayah 12 of Surah 13?
+* **Category**:  Islamic Theology
+
+**Answer**: The speaker interprets this ayah as emphasizing the universal submission to Allah, highlighting that everything in heaven and Earth, including their shadows, is subject to His will. 
+
+**40:49s**:  How does the speaker explain the concept of shadows as entities submitting to Allah? 
+* **Category**:  Islamic Theology
+
+**Answer**: The speaker views shadows as entities that submit to Allah's will. While they are a result of the interaction between light and objects, they are also subject to Allah's control, reflecting the order and precision of His creation. 
+
+**41:00s**:  What is the speaker's view on the submission of shadows to Allah? 
+* **Category**:  Islamic Theology
+
+**Answer**:  The speaker suggests that even seemingly insignificant entities like shadows are part of a larger system governed by Allah. Their precise formation and movement, which are dependent on Allah's creation of light and the objects that cast them, are a testament to His comprehensive control over the universe.
+
+**41:47s**: What is the speaker's view on the role of the printing press in history? 
+* **Category**: History of Technology
+
+**Answer**: The speaker acknowledges that the printing press was a significant invention, but he states that it was not widely available in the Muslim world for centuries after its invention in Europe. 
+
+**42:10s**: What is the speaker's response to the claim that a fatwa was issued to prohibit the use of the printing press? 
+* **Category**: Islamic History
+
+**Answer**: The speaker dismisses this claim, stating that it is likely a phantom fatwa popularized by orientalists. He emphasizes that no evidence for such a fatwa has been found in primary Muslim documents, implying that the claim is unfounded and possibly fabricated. 
+
+**42:25s**: What is the speaker's explanation for the lack of printing press availability in the Muslim world?
+* **Category**:  History of Technology
+
+**Answer**: The speaker suggests that the lack of the printing press in the Muslim world for centuries after its invention in Europe may be attributed to the fact that it was not widely available in the region during that time. He implies that the delay in adoption was likely due to factors such as geography, trade networks, and access to the technology.
+
+**42:33s**:  What is the speaker's view on the perspective of Imam Ibn Taymiyyah regarding technology? 
+* **Category**: Islamic Theology
+
+**Answer**: The speaker suggests that Imam Ibn Taymiyyah, a prominent Islamic scholar, advocated for a selective approach to technology, recommending that communities carefully consider which technologies to adopt and which to avoid. He gives the example of the Amish community as an example of a group that has chosen to limit the use of certain technologies to preserve their way of life.
+
+**42:58s**: How does the speaker connect Ibn Taymiyyah's perspective on technology to the Muslim world today? 
+* **Category**:  Islamic Thought
+
+**Answer**:  The speaker suggests that Ibn Taymiyyah's perspective on technology has relevance to the modern Muslim world, highlighting the need for communities to critically assess the potential impact of new technologies and choose those that align with their values and promote their well-being. 
+
+**43:10s**: What is the speaker's view on the motivations of past Muslim rulers? 
+* **Category**: Islamic History
+
+**Answer**: The speaker believes that past Muslim rulers were often nefarious and should not be blindly trusted. He suggests that they often acted out of self-interest and used their power to advance their own agendas, rather than the interests of the Muslim community. 
+
+**43:26s**:  What is the speaker's view on the role of scholars and intellectuals in Islam? 
+* **Category**: Islamic Thought
+
+**Answer**: The speaker argues that even scholars and intellectuals can be nefarious and hold positions of power that they use for personal gain. He highlights the need for critical thinking and questioning authority in Islam, especially when those in positions of power claim to be guardians of the faith.
+
+**43:45s**:  What example does the speaker give to illustrate the nefarious nature of scholars and rulers? 
+* **Category**: Islamic History
+
+**Answer**:  The speaker gives the example of Sultan Salahuddin al-Ayyubi, a renowned Muslim ruler, who wanted to arabize the Turks. He highlights how the scholars at the time objected to this policy, advocating for cultural diversity and the right of people to maintain their own languages and traditions. 
+
+**44:12s**:  What does the speaker say about the importance of Arabic language in Islam? 
+* **Category**:  Islamic Thought
+
+**Answer**: The speaker emphasizes the importance of Arabic language in Islam, arguing that it is crucial for understanding the Quran and Sunnah. He criticizes those who advocate for forced arabization, suggesting that it hinders the spread and understanding of Islam. 
+
+**44:40s**: What is the speaker's view on the role of scholars in misguiding people from the path of Allah? 
+* **Category**:  Islamic Thought
+
+**Answer**: The speaker criticizes scholars who misuse their knowledge for personal gain, claiming that they can mislead people from the path of Allah. He emphasizes that true scholars should be dedicated to guiding people to the truth and should not claim exclusive authority over religious matters.
+
+**45:02s**:  What does the speaker say about the dangers of following scholars blindly? 
+* **Category**:  Islamic Thought
+
+**Answer**: The speaker warns against blindly following scholars and intellectuals, reminding viewers that they should always critically evaluate their arguments and not accept their pronouncements without scrutiny. 
+
