@@ -26954,3 +26954,1130 @@ The speaker states that the Israelites, even during the time of Moses, insisted 
 ##  3278.76s :  Why does the speaker say that the Israelites could not be liberated from their pagan beliefs?
 **Category:**  
 
+## https://www.youtube.com/watch?v=Yv9xYCPLYzQ
+
+## What is the evidence of the insult? 
+**Category:** Evidence
+**Timestamp:** 0.28s 
+This question asks about the evidence of the insult directed towards the Prophet. The speaker is looking for proof or documentation of this alleged insult. 
+
+## What is the evidence of that but it does not mean that it is an obligation?
+**Category:** Legal Obligation
+**Timestamp:** 6.759s 
+This question explores the relationship between the evidence of an insult and the obligation to react.  The speaker notes that even if there is evidence of an insult, it doesn't automatically necessitate a specific action in response.
+
+## What is the only evidence we have? 
+**Category:** Evidence
+**Timestamp:** 10.92s
+The speaker is seeking a definitive piece of evidence related to the insult. The question implies that the evidence is limited or unclear.
+
+## What is the best what we have in that as far as I remember?
+**Category:** Evidence 
+**Timestamp:** 59.32s 
+This question asks for the best available evidence related to the incident. The speaker is looking for a clear and reliable account.
+
+## What if the French government did something like that? 
+**Category:** International Relations
+**Timestamp:** 210.84s 
+The speaker compares the situation of an insult to the prophet to a hypothetical scenario where a foreign government makes a hostile action against France. The question explores the appropriate diplomatic response in such a situation. 
+
+## What if the blind man acted in a moment of temporary insanity?
+**Category:**  Motivation
+**Timestamp:** 147.0s 
+This question seeks to explore alternative interpretations of the blind man's actions. The speaker wonders if his behavior might have been motivated by temporary insanity or anger, rather than deliberate malice.
+
+## Why did the Quran condemn the Christian claim of Allah having a son?
+**Category:** Islamic Theology
+**Timestamp:** 395.479s 
+This question explores the Quran's response to the Christian belief in the Trinity.  The speaker clarifies that the Quran views this belief as a major insult to Allah and condemns it. 
+
+## Why is the reaction of Muslims not consistent in this matter? 
+**Category:** Islamic Practice
+**Timestamp:** 448.96s 
+The speaker observes that the Muslim response to insults against Islam or the Prophet is not uniform. This question raises the issue of inconsistencies in how Muslims handle such situations. 
+
+
+## https://www.youtube.com/watch?v=GwPSruTbSV4
+
+##  17.76s: What were the issues with the calendar? 
+**Category:** Calendar
+
+The speaker explains that there were issues with the calendar that Islamic history did not address correctly. The calendar, which is lunar based, needed to be more accurately aligned with the moon's cycles. 
+
+## 44.36s: How is a new month determined? 
+**Category:** Lunar Cycle
+
+The speaker explains that the start of a new month is determined by sighting the new moon or crescent after sunset. If the crescent is visible above the horizon, even for a moment, the next day marks the beginning of the new month. If the crescent is not visible, the next day is the final day of the current month.
+
+## 183.2s: What is the definition of a month?
+**Category:**  Islamic Calendar 
+
+The speaker clarifies that the definition of a month in Islamic tradition is not based on the solar cycle. The month is determined by the lunar cycle, specifically by observing the appearance of the new moon after sunset. The visibility of the new moon after sunset is the crucial factor in determining the beginning of the new month. 
+
+## 217.28s:  Why is there a problem with relying on visibility for determining the start of a month? 
+**Category:**  Calendar Calculation
+
+The speaker states that relying solely on visibility to determine the start of a month is problematic due to the fact that lunar cycles can be precisely calculated. This, according to the speaker, is a misunderstanding of the Quranic teachings which, they argue, emphasize the importance of calculation.
+
+## 240.92s: What is the Quran's view on calculating the lunar cycle? 
+**Category:** Quranic Interpretation
+
+The speaker emphasizes the Quran's emphasis on accurate calculation of celestial movements, including the lunar cycle. They point to specific verses which, they argue, demonstrate the Quran's support for accurate calculation and understanding of time.  
+
+## 2985.799s: What makes a valid calendar? 
+**Category:** Calendar System 
+
+The speaker states that a calendar must be consistent and follow the same rules to be considered valid and aligned with the Quran's teachings. This consistency is crucial, according to the speaker, for harmonizing different interpretations and unifying the Islamic calendar. 
+
+## 3052.0s: How can Muslims have a consistent calendar?
+**Category:**  Unified Calendar 
+
+The speaker asserts that a consistent calendar can be achieved by calculating lunar cycles based on a specific location,  preferably Mecca. This, according to the speaker, would create a synchronized calendar for the entire Muslim community. 
+
+## 3582.16s: Why does the speaker find the question about the moon's formation unanswerable? 
+**Category:**  Quranic Interpretation
+
+The speaker compares the question about the moon's formation to the question about the "spirit" or soul. They argue that both are questions that cannot be fully answered through human knowledge and are ultimately answered by acknowledging God's creation and power.  
+
+## 3662.839s: What is the importance of symbolism in Islamic teachings?
+**Category:**  Symbolism 
+
+The speaker discusses the importance of symbolism in Islamic teachings, comparing it to memes. The speaker emphasizes that such symbolism requires divine revelation to be understood and interpreted correctly. 
+
+## 3711.0s: Why did the Prophet Muhammad (PBUH) take different routes when going to and from prayer? 
+**Category:**  Prophetic Tradition
+
+The speaker explores the reason behind the Prophet Muhammad (PBUH) taking different routes when going to and from prayer. They suggest that this had several purposes, including the ability to greet more people, receive gifts, and symbolize a fresh start and a new year. 
+
+## 3854.279s: What is the most important aspect to consider when observing the lunar calendar?
+**Category:**  Lunar Calendar Observation
+
+The speaker reemphasizes the importance of understanding and following the Quran's teachings as the primary source of knowledge and guidance for interpreting the lunar calendar. They argue that the Quran should take precedence over other traditions and interpretations. 
+
+
+## https://www.youtube.com/watch?v=WpyAmSZwdOw
+
+##  0:50.719s
+**Category:** Analogy 
+**Question:** Why is it imperative to spread the material of these sessions far and wide?
+**Answer:** The speaker uses an analogy of stagnant water. He argues that when knowledge isn't shared, it stagnates and allows falsehoods and corruption to fester. By spreading knowledge widely, the truth is exposed, preventing these issues from taking root. 
+
+## 1:03.64s
+**Category:** Current Events
+**Question:** What happened this week that highlights the current reality of the situation? 
+**Answer:** The speaker points out two key events. Firstly, a Zionist publication reported on how M shami are effectively working for the entity (Israel), which exposes the hidden agenda of their work. Secondly, the UAE-sponsored, nefarious hybrid understanding of Islam that normalizes Israel and negates Islamic law, is now being publicly challenged. 
+
+## 1:57.64s
+**Category:** Purpose 
+**Question:** What is the purpose of the hkas (lectures/talks) that are being produced? 
+**Answer:** The purpose of these lectures is to provide a deeper understanding of Islamic principles and contemporary issues.  The speaker believes these ideas stem from generations of a lax attitude towards rulership and a lack of engagement with Islamic texts. 
+
+## 2:18.56s
+**Category:**  Rebuttal
+**Question:** What is a contemporary issue that was addressed this week? 
+**Answer:** The speaker highlights a rebuttal video they produced addressing Pierce Morgan's views. While the video successfully defended the Muslim community, the speaker found it unique in its approach as it highlighted the need for Muslims to take the fight to those who challenge their faith. 
+
+## 2:52.76s
+**Category:**  Resources
+**Question:** Besides the live broadcasts and video segments, what other resources are available to further the understanding of these ideas?
+**Answer:**  In addition to the videos, the speaker mentions a GitHub repository where translated works, including Arabic material, are available. This content is instrumental in equipping people to combat false arguments and promote a deeper understanding of Islam. 
+
+## 3:10.759s
+**Category:**  Q&A
+**Question:** How will future Q&A sessions be conducted? 
+**Answer:** The speaker explains that next week there will be a dedicated Q&A session where people can participate using a microphone. He also clarifies that restrictions may be imposed in future sessions for security purposes, to ensure the safety and integrity of the discussion. 
+
+## 3:71.4s
+**Category:**  Interpretation
+**Question:** What is the meaning of Ayah 43 of Surah Al-An'am? 
+**Answer:** The speaker interprets the ayah as meaning that simply looking or listening to the messenger does not equate to understanding. Some people may appear attentive but their internal eye, their perception, is blind. Guiding the blind is impossible, just as guiding someone with a blind internal eye is impossible. 
+
+## 4:93.36s
+**Category:**  Divine Knowledge
+**Question:** What is the meaning of Ayah 44 of Surah Al-An'am? 
+**Answer:** The speaker addresses the common misconception that everything is predetermined and humans have no free will. He explains that Allah's knowledge is based on his own choices and creative actions. Humans have been given free will and the ability to shape their own destiny, though this is a complex concept that is difficult to fully grasp. 
+
+## 5:90.0s
+**Category:**  Future
+**Question:** Why is it impossible for the future to be known beforehand? 
+**Answer:** The speaker argues that the future, in its essence, does not exist. It only becomes knowable when Allah chooses to create something or allow something to occur. Therefore, the Divine knowledge is not fixed, but rather contingent upon Allah's will and actions. 
+
+## 6:20.799s
+**Category:**  Injustice
+**Question:** Why is it false to claim that someone has been wronged by Allah? 
+**Answer:** The speaker clarifies that Allah cannot do wrong. If someone experiences hardship, it is due to their own choices and actions. Allah does not force anyone to do wrong.  However, those with a deficiency in their capabilities, like blindness, are not held accountable as Allah understands their limitations. 
+
+## 7:15.279s
+**Category:**  Divine Knowledge
+**Question:**  What is the basis of Divine Knowledge? 
+**Answer:** The speaker emphasizes that Divine Knowledge is not fixed or predetermined. It is contingent upon Allah's previous choices, actions, and creative will. When Allah decides something, that thing is not bound to happen but rather depends on his ongoing creative activity. 
+
+## 7:82.8s
+**Category:**  Injustice
+**Question:** Why is it impossible for Allah to do injustice to humans?
+**Answer:** The speaker reiterates that Allah cannot do wrong. Any injustice or transgression committed by people is a consequence of their own choices, not Allah's will.  
+
+## 8:52.279s
+**Category:**  Resurrection
+**Question:** What is the meaning of Ayah 45 of Surah Al-An'am?
+**Answer:** The speaker interprets the ayah as saying that on the Day of Judgement, time will feel subjective and the duration of life on Earth will seem like a fleeting moment.  Those who denied the existence of Allah will be the losers, as they were not guided to the truth and will face the consequences of their disbelief. 
+
+## 9:91.439s
+**Category:**  Meaning
+**Question:**  What is the main meaning of the verse where people meet on Judgement Day and realize they didn't stay on Earth for long? 
+**Answer:** The speaker clarifies that the main meaning of the verse is not that people will meet and recognize each other.  It is that they will be surprised by the brevity of their time on Earth, feeling as though they were there for only a short period. This reinforces the importance of making the most of our time in this life. 
+
+## 10:31.72s
+**Category:**  Resurrection
+**Question:** What happens after people are resurrected and realize the shortness of their time on Earth? 
+**Answer:** The speaker explains that the resurrection is a time for reflection and questioning, as people try to understand the time they spent on Earth. However, the real focus of the Judgement Day will be on their actions and deeds, as they face the consequences of their choices. 
+
+## 10:76.679s
+**Category:**  Return
+**Question:** What is the meaning of Ayah 46 of Surah Al-An'am? 
+**Answer:** The speaker interprets the ayah as meaning that regardless of whether we witness the fulfillment of Allah's promises in this life or die before that happens, we will all ultimately return to Allah. He emphasizes that Allah is always a witness to all our actions, regardless of what occurs in this world. 
+
+## 12:01.48s
+**Category:**  Divine Promise
+**Question:** What does the speaker mean when he says that Muhammad may die before the fulfillment of Allah's promises? 
+**Answer:** The speaker explains that Allah may choose to reveal certain events to his messenger, Muhammad, as possibilities, but not firm promises.  If Muhammad were to die before these events occurred, it would not change the fact that they will happen according to Allah's plan and that they will be witnessed on Judgement Day. 
+
+## 14:00.039s
+**Category:**  Justice
+**Question:**  What is the meaning of Ayah 47 of Surah Al-An'am? 
+**Answer:** The speaker explains that the ayah emphasizes that every community will be judged justly and fairly by Allah after their messenger has delivered his message. There will be no injustice, but rather an abundance of mercy and forgiveness, with more weight placed on good deeds and less on bad deeds. 
+
+## 15:01.0s
+**Category:**  Judgment
+**Question:** When does judgement begin for a community?
+**Answer:** The speaker clarifies that judgement for a community begins only after a messenger has been sent and delivered their message.  Communities that have not received a message will not be held accountable. 
+
+## 16:01.6s
+**Category:**  Divine Management
+**Question:**  What happens to communities that have not received a message from Allah? 
+**Answer:** The speaker states that communities that have not received a divine message will not be judged as they did not have the opportunity to follow or reject it. He leaves the management of these communities to Allah, emphasizing that Allah is better at guiding and judging than humans can ever be. 
+
+## 17:08.12s
+**Category:**  Guidance
+**Question:** Why are communities that have received a distorted message or have not been able to verify it not held accountable? 
+**Answer:** The speaker explains that only those who have received a clear message and had the opportunity to verify its truth will be held accountable for accepting or rejecting it. Communities that receive a distorted message or lack the means to verify it are excused from accountability. 
+
+## 17:91.399s
+**Category:**  Waste of Energy
+**Question:** Why is it a waste of energy to speculate about the fate of communities that did not receive a message? 
+**Answer:** The speaker argues that speculating about the fate of communities that did not receive a message is a pointless endeavor. Allah is the ultimate judge, and he knows best how to manage all his creations.  He discourages these inquiries, suggesting they are often influenced by the devil who seeks to distract people from more important matters. 
+
+## 18:23.919s
+**Category:**  Firm Ground
+**Question:**  What is the main point that the speaker wants people to understand about their belief? 
+**Answer:**  The speaker wants people to remain firmly grounded in their faith and not be swayed by doubts or distractions.  He emphasizes Allah's ultimate knowledge, justice, and mercy, reminding people that Allah will manage things in the best way possible. 
+
+## 18:56.24s
+**Category:**  Resurrection 
+**Question:** What do those who deny the truth often ask? 
+**Answer:** The speaker explains that those who deny the truth often ask when the promised day of resurrection and judgement will occur.  He urges those who believe to remain steadfast in their faith, reminding them that Allah's promises are absolute and inevitable. 
+
+## 19:29.96s
+**Category:**  Day of Judgement 
+**Question:** Is the Day of Judgement fixed or dynamic? 
+**Answer:** The speaker suggests that the timing of the Day of Judgement is not fixed.  It may be postponed or advanced based on humanity's response to the message. This allows for more people to have the opportunity to accept the truth and enter Paradise. 
+
+## 20:11.44s
+**Category:**  Flexibility 
+**Question:**  Why does Allah say that he is "almost hiding" the Day of Judgement? 
+**Answer:** The speaker explains that Allah saying he is "almost hiding" the Day of Judgement does not mean he is concealing it from himself. It means that the time is not yet decided and is flexible, but it will come inevitably. 
+
+## 20:66.919s
+**Category:**  Timing 
+**Question:** Is it possible to say with certainty when the Day of Judgement will occur?
+**Answer:** The speaker clarifies that it is impossible to say with certainty when the Day of Judgement will occur. While certain signs are predicted to happen beforehand, the exact timing is unknown and could be sooner or later than we anticipate. 
+
+## 20:84.359s
+**Category:**  Stupid Question
+**Question:** Why is asking "when" the Day of Judgement will occur a "stupid question"?
+**Answer:** The speaker argues that asking "when" the Day of Judgement will occur is pointless as it is inevitable. The speaker suggests that we should instead focus on our own preparations for that day, as it is far more important to be ready for our personal Judgement than to speculate about the exact timing of a universal event. 
+
+## 21:39.24s
+**Category:**  Personal Judgement
+**Question:** When does our individual hour of Judgement occur? 
+**Answer:** The speaker emphasizes that our personal Judgement begins at the moment of our death.  We enter a state of sleep, good or bad depending on our deeds, until the Day of Resurrection. This highlights the importance of preparing for our death and our accountability to Allah. 
+
+## 22:23.76s
+**Category:**  Term
+**Question:**  What is the meaning of Ayah 48 of Surah Al-An'am? 
+**Answer:** The speaker interprets the ayah as meaning that every person, community, group, or tribe has an appointed time. He encourages listeners to prepare for that time and fulfill their duties, emphasizing that it is irrelevant to worry about the precise timing of the Day of Resurrection. 
+
+## 23:35.119s
+**Category:**  Recreating 
+**Question:** How is it possible for Allah to recreate beings after they die? 
+**Answer:** The speaker compares the process of resurrection to backing up data on a computer and loading it onto a new one. Allah, with his unlimited power, can recreate a new body, potentially in a different universe, and load our essence, our consciousness, and our memories onto it. This demonstrates that the resurrection is not outside the realm of possibility, but rather a testament to Allah's immense power. 
+
+## 25:20.64s
+**Category:**  Possibility
+**Question:** Why is the resurrection of the dead not impossible? 
+**Answer:** The speaker uses the analogy of backing up computer data to demonstrate the feasibility of resurrection. He argues that Allah, the creator of the universe, can easily recreate a new body and reload the essence and memories of a person onto it. This demonstrates that resurrection is not impossible but rather a testament to Allah's immense power. 
+
+## 25:75.16s
+**Category:**  Punishment 
+**Question:** What is the meaning of Ayah 49 of Surah Al-An'am? 
+**Answer:** The speaker interprets the ayah as asking us to contemplate how we would feel if Allah's punishment were to befall us suddenly. He emphasizes that those who reject the truth and try to hasten the punishment would likely regret their actions when it finally occurs. 
+
+## 26:38.359s
+**Category:**  Irrationality
+**Question:**  Why is it irrational to ask Allah for punishment? 
+**Answer:** The speaker points out that it is irrational to ask for punishment instead of guidance. When people are presented with the truth, they should seek to understand it and embrace it, not to hasten a consequence that will ultimately bring them harm. 
+
+## 28:00.52s
+**Category:**  Mentality
+**Question:** What does the speaker's story about the man who swore at God illustrate about the human mentality? 
+**Answer:**  The speaker recounts a story about a man who swore at God in an attempt to provoke a response.  This highlights a flawed mentality of attempting to force Allah into action rather than seeking his guidance and mercy. 
+
+## 28:84.68s
+**Category:**  Intellectual Basis 
+**Question:** What is a problem the speaker sees amongst Muslims? 
+**Answer:**  The speaker highlights a problem amongst Muslims: the lack of intellectual engagement with their faith. Many simply learn rituals without exploring the deeper meaning and evidence behind their beliefs. This can lead to a weak foundation for faith and vulnerability to doubt and atheism. 
+
+## 29:75.0s
+**Category:**  Following the Jews
+**Question:** How does the speaker connect the lack of intellectual engagement amongst Muslims to a warning from the prophet? 
+**Answer:** The speaker refers to a prophecy by the Prophet Muhammad that warned Muslims would follow the steps of the Jews and Christians, even in their deviations. He links this to the tendency of Muslims to focus on rituals and individual aspects of faith while neglecting the social and intellectual aspects, potentially leading to similar deviations seen in other religions. 
+
+## 30:10.04s
+**Category:**  Worship 
+**Question:**  What is the speaker's point about the meaning of worship? 
+**Answer:** The speaker emphasizes that worship should not be reduced to mere rituals but should be a conscious and meaningful act of recognizing Allah as the center of existence, the origin of creation, and the purpose of our lives. 
+
+## 31:35.319s
+**Category:**  Rationality
+**Question:** How can Muslims instill a rational understanding of Islam in their children? 
+**Answer:**  The speaker encourages parents to engage their children in discussions about their faith, answering their questions and providing evidence to support their beliefs.  This approach aims to foster a deeper understanding of Islam based on reason and evidence rather than inherited beliefs. 
+
+## 32:22.559s
+**Category:**  Atheism
+**Question:**  Why is there a substantial percentage of atheists in Saudi Arabia, despite the country's emphasis on Islamic faith? 
+**Answer:**  The speaker attributes the higher than expected percentage of atheists in Saudi Arabia to the lack of intellectual engagement with Islam.  The speaker criticizes the Saudi approach to Islam, highlighting the absence of meaningful discussion and evidence-based arguments in support of their beliefs, which can lead to doubt and skepticism. 
+
+## 32:80.88s
+**Category:**  Judgment
+**Question:**  What is the meaning of Ayah 50 of Surah Al-An'am? 
+**Answer:** The speaker explains that the ayah is a rebuke to those who ask for punishment to come first and then claim to believe once it occurs. He stresses that this approach is futile, as belief after punishment is meaningless and irrelevant. It is essential to seek guidance and understanding before punishment arrives. 
+
+## 33:83.0s
+**Category:**  Evil Doing
+**Question:**  What is the meaning of Ayah 51 of Surah Al-An'am? 
+**Answer:** The speaker interprets the ayah as meaning that those who have committed evil deeds in this life will face the consequences of their actions in the form of eternal punishment. He emphasizes that this punishment is just and proportionate to their deeds and there will be no escape from it. 
+
+## 34:13.88s
+**Category:**  New Topic
+**Question:**  Is this a good place to stop for a break, or should we continue until we reach a new topic? 
+**Answer:** The speaker agrees that this is a convenient point to stop for a break and to resume the discussion later with the next ayah.  
+
+## 35:34.96s
+**Category:**  Palestine Update
+**Question:** What is the latest update regarding the situation in Palestine? 
+**Answer:** The speaker provides a summary of the current conflict in Gaza, stating that the Israeli army is stuck in a swamp.  He questions the claims of success in destroying tunnels, suggesting they are likely false.  The speaker also discusses the Israeli claims of civilian casualties, which have been exposed as blatant lies, and the resistance's claims of destroyed Israeli vehicles and helicopters. 
+
+## 39:03.039s
+**Category:**  Netanyahu's Actions
+**Question:**  What does the speaker believe Netanyahu is considering doing?
+**Answer:**  The speaker suggests that Netanyahu is blinded by Allah and is considering attacking Lebanon in an attempt to provoke Russia and America into the conflict.  He believes Netanyahu hopes to use this as a means of staying in power and avoiding prison.  
+
+## 39:71.559s
+**Category:**  Victory
+**Question:**  What do some military experts believe is the only victory Israel can achieve now?
+**Answer:**  The speaker explains that some military experts believe that the only victory Israel can achieve at this point is to withdraw their forces from Gaza and remove Netanyahu from power.  This would involve acknowledging their criminal actions and entering negotiations with Hamas. 
+
+## 40:71.039s
+**Category:**  Netanyahu's Insanity
+**Question:**  What are the two possible scenarios for the future of the conflict in Palestine?
+**Answer:**  The speaker outlines two scenarios.  One is that Netanyahu attacks Lebanon, which would likely lead to a wider conflict that America would likely avoid due to Russian involvement.  The second scenario is that Netanyahu is removed from power, leading to a withdrawal of forces from Gaza and potential negotiations with Hamas.  
+
+## 42:90.92s
+**Category:**  Iranian Actions
+**Question:** What recent actions by Iran suggest potential internal conflict? 
+**Answer:** The speaker points to a recent attack on a Saudi oil tanker, which was possibly carried out by Iran, despite no official claim of responsibility. This suggests potential internal conflict and dissent within the Iranian government, particularly between the Revolutionary Guards and other factions. 
+
+## 44:06.84s
+**Category:**  Syrian Regime
+**Question:** Who does the speaker believe is responsible for the killing of seven Iranian commanders in Damascus? 
+**Answer:**  The speaker believes that the Syrian regime, particularly the Assad family, is likely responsible for the killing of the Iranian commanders.  He warns against trusting the Syrian regime's claims of resistance, as they have a history of treachery. 
+
+## 45:04.96s
+**Category:**  Palestine's Future
+**Question:** How will the situation in Palestine be settled? 
+**Answer:**  The speaker believes that the future of the Palestinian conflict will be determined by the actions of the Palestinians in Gaza and the West Bank.  He hopes for a revolutionary movement in the West Bank, which would require the removal of Abbas from power. 
+
+## 46:61.639s
+**Category:**  Arab Regimes
+**Question:**  What is the latest news regarding the Arab regimes' stance on the conflict in Palestine? 
+**Answer:** The speaker suggests that the Arab regimes remain in disarray and are hoping that Israel will succeed. However, he points to a recent photo of Ben praying as a sign of potential change, though he believes it is a ploy to maintain power and will not be effective in the long run. 
+
+## 47:72.96s
+**Category:**  Exposure
+**Question:**  What is a major benefit of the current situation in Palestine? 
+**Answer:**  The speaker highlights that the current conflict has exposed the Arab regimes, Iran, and Hezbollah.  He believes this has weakened their positions and opened an opportunity for a more genuine and Islamic resistance. 
+
+## 48:71.08s
+**Category:**  Focus
+**Question:**  What should Muslims focus on instead of Iran and Hezbollah? 
+**Answer:**  The speaker suggests that Muslims should focus on mobilizing the Palestinians in the West Bank, as they are in a critical position in the conflict. He believes that Hezbollah and Iran are unlikely to take further action, making the West Bank a more strategic area for mobilization. 
+
+## 49:45.48s
+**Category:**  Mobilization
+**Question:**  Why is it necessary to mobilize the West Bank? 
+**Answer:**  The speaker explains that Netanyahu is determined to finish the conflict militarily and is sending additional brigades to Gaza, especially Kanun.  He fears that this could lead to a victory for Israel if the conflict continues. Therefore, mobilizing the West Bank is crucial to counter Israel's military advantage. 
+
+## 50:85.76s
+**Category:**  Responsibility
+**Question:** Why does the speaker believe that every Muslim should participate in mobilizing the West Bank? 
+**Answer:** The speaker emphasizes that it is not enough to simply leave the mobilization to the Palestinians themselves. Every Muslim has a responsibility to support the resistance. 
+
+## 51:08.96s
+**Category:**  Resistance
+**Question:** Who is leading the resistance in the West Bank?
+**Answer:** The speaker explains that the resistance in the West Bank is led by a combination of Fatah and Hamas.  He stresses that it is not appropriate to call for the removal of Abbas and the PLO leadership, as Hamas should be solely focused on fighting against Israel. 
+
+## 51:53.32s
+**Category:**  Abbas Removal
+**Question:**  Who is calling for Abbas's removal? 
+**Answer:**  The speaker mentions that Abbas's removal is being called for by various factions, including some Fatah members and those who sent messages anonymously.  He also mentions a general strike that was called for on Friday. 
+
+## 52:14.199s
+**Category:**  Global Muslim Duty
+**Question:** What should Muslims globally do to support the West Bank? 
+**Answer:** The speaker encourages Muslims worldwide to contact and pressure the Palestinian Authority to remove Abbas and take action against Israel.  He believes this is essential regardless of the outcome of the conflict in Gaza. 
+
+## 52:67.52s
+**Category:**  Israeli Army Defeat
+**Question:** Do the experts believe that the Israeli army will be able to defeat Hamas? 
+**Answer:** The speaker believes that the Israeli army is defeated and their only option is to withdraw their forces from Gaza.  He emphasizes that they are suffering major losses and that sending more brigades will not change the outcome. 
+
+## 52:82.48s
+**Category:**  Logistical Advantage
+**Question:** Why is it not accurate to say that Israel has a logistical advantage in the conflict? 
+**Answer:** The speaker refutes the claim that Israel has a logistical advantage, stating that they only have a few weeks worth of provisions. He also points out that Gaza has a strategic advantage in the form of tunnels and terrain, similar to the situation in Vietnam. 
+
+## 53:50.08s
+**Category:**  Warfare
+**Question:** How does the nature of the conflict in Gaza differ from conventional warfare? 
+**Answer:** The speaker explains that the conflict in Gaza involves a different type of warfare that utilizes guerrilla tactics, tunnels, and unconventional weaponry. This makes it difficult for the Israeli army, which relies on conventional methods, to effectively combat the resistance. 
+
+## 54:33.0s
+**Category:**  Sin
+**Question:**  What does the speaker say about the responsibility of Muslims in the West Bank? 
+**Answer:** The speaker believes that Muslims in the West Bank have a responsibility to support their brothers in Gaza and to fight against the Israeli occupation. He argues that failing to do so would make them closer to kufur (disbelief) than to Islam. 
+
+## 54:62.08s
+**Category:**  Palestinian Leadership
+**Question:**  Why is it not feasible to wait for the Palestinian leadership to be released from Israeli prisons?
+**Answer:**  The speaker explains that it is unrealistic to expect a change in Palestinian leadership to emerge from Israeli prisons.  He believes that even those who have left the PLO and Abbas's security forces do not have a problem with the Fatah ideology, but rather with the corrupt leadership. 
+
+## 55:34.96s
+**Category:**  Pan-Islamic Messages
+**Question:**  Why is it important to avoid sending pan-Islamic messages to the West Bank? 
+**Answer:**  The speaker explains that the West Bank is primarily driven by nationalistic sentiments, not pan-Islamic ones. He believes that directly advocating for pan-Islamic ideals could be counterproductive and alienate them. 
+
+## 55:64.28s
+**Category:**  Mistake
+**Question:** What is the mistake the speaker is referring to?
+**Answer:** The speaker believes that promoting a pan-Islamic message to the Palestinians in the West Bank would be a mistake similar to the one made by al-Qaeda, which congratulated the Houthis for their victory, despite their actions against the Muslim Brotherhood. He argues that it is important to address the Palestinians as Muslims and not try to impose a specific ideology on them. 
+
+## 56:18.88s
+**Category:**  Correct Message
+**Question:**  What is the correct message to convey to the Palestinians in the West Bank?
+**Answer:**  The speaker believes that the message should focus on the need to remove Abbas and start fighting against Israel. He stresses that it is important to be direct and practical in delivering this message and avoid focusing on feasibility or trying to tailor the message to specific groups. 
+
+## 56:79.6s
+**Category:**  Practical Engagement
+**Question:**  Why is it important to be more practical and engaging in our messaging to the Palestinians? 
+**Answer:** The speaker believes that simply sending general messages about resistance will not be effective in addressing the nationalistic and atheistic tendencies in the West Bank.  He argues for a more nuanced approach that directly addresses the specific issues and challenges faced by the Palestinian people. 
+
+## 57:03.0s
+**Category:**  Private Discussion
+**Question:**  Why is it important to discuss the removal of Abbas privately rather than publicly?
+**Answer:** The speaker suggests that the removal of Abbas should be discussed privately to avoid causing further divisions and potentially alienating the Palestinian people.  He emphasizes that the public message should be clear and simple: Abbas is a traitor and needs to be removed. 
+
+## 57:35.679s
+**Category:**  Publicity
+**Question:**  What should be done with the names and information of the PLO security forces?
+**Answer:** The speaker believes that the names and information of the PLO security forces should be publicized through social media platforms such as Twitter and Facebook.  This would expose their treachery and encourage the Palestinian people to take action against them. 
+
+## 57:86.639s
+**Category:**  Benefit
+**Question:** What is the benefit of publicizing the names of the PLO security forces?
+**Answer:**  The speaker emphasizes that publicizing their names and information would expose their treachery and encourage the Palestinian people to take action against them. This would help to weaken the PLO's control and create space for a more genuine resistance. 
+
+## 58:11.88s
+**Category:**  Halal
+**Question:**  What does Islamic law state about those who collaborate with the Israeli occupation? 
+**Answer:**  The speaker clarifies that Islamic law considers those who collaborate with the Israeli occupation to be legitimate targets for resistance.  It is halal to fight them and even to shed their blood. However, this applies to the individuals themselves and not their families. 
+
+## 58:58.88s
+**Category:**  Worse Enemy
+**Question:** Why are the PLO security forces considered to be a worse enemy than the Israeli soldiers?
+**Answer:** The speaker argues that the PLO security forces are a greater threat than the Israeli soldiers because they are collaborators and traitors who provide cover for the Israeli occupation.  They are the shield protecting the real enemy, making them a primary target for resistance.  
+
+## 59:24.8s
+**Category:**  International Law
+**Question:** Why is it legitimate, according to secular law, to target those who collaborate with the Israeli occupation? 
+**Answer:**  The speaker explains that international law considers those who cooperate with an occupying force to be collaborators and can be targeted by the resistance.  This highlights the legal and moral justification for removing the PLO security forces, who are shielding the Israeli occupation. 
+
+## 59:80.04s
+**Category:**  Practical Suggestions
+**Question:** What practical suggestions does the speaker have for removing the PLO security forces?
+**Answer:**  The speaker says that he has some practical suggestions that he will share in a private session. He also encourages the use of social media to publicize the names and information of the PLO security forces, which could lead to their removal from power. 
+
+## 60:03.159s
+**Category:**  Palestinian People's Fate
+**Question:** What is the speaker's recommendation regarding the information on the PLO security forces? 
+**Answer:** The speaker encourages the Palestinian people to use the information on the PLO security forces to determine their own fate. He urges them to recognize these individuals as traitors and to take action against them, emphasizing that they are a greater threat than the Israeli soldiers. 
+
+## 61:29.639s
+**Category:**  Enemy Within
+**Question:** Why is it important to focus on removing the PLO security forces before directly confronting the Israeli soldiers? 
+**Answer:**  The speaker emphasizes that the PLO security forces are a greater enemy than the Israeli soldiers because they provide cover and protection for the occupation.  They are the "shield" that needs to be removed in order to effectively target the Israeli soldiers. 
+
+## 62:34.96s
+**Category:**  Awakening
+**Question:** How can the Palestinian people be awakened to the truth about the PLO security forces? 
+**Answer:** The speaker believes that by publicizing the names and information of the PLO security forces, the Palestinian people will be able to recognize their treachery and take action against them.  This will start a chain reaction that will eventually dismantle the PLO's control. 
+
+## 62:56.4s
+**Category:**  Siege
+**Question:**  How can Muslims in Gaza circumvent the siege imposed by Israel? 
+**Answer:**  The speaker believes that the only way to circumvent the siege is to continue fighting the Israelis until they are forced to lift it. He rejects the idea of surrendering or accepting a ceasefire that does not fully address the issue of the siege. 
+
+## 63:39.719s
+**Category:**  Israeli Suggestion
+**Question:** What is the Israeli suggestion being presented through Egypt?
+**Answer:** The speaker explains that the Israeli suggestion, presented through Egypt, is for a temporary ceasefire and the exchange of prisoners.  He believes this is a ploy to buy time and strengthen Israel's position, and therefore it should be rejected. 
+
+## 64:80.639s
+**Category:**  Breather
+**Question:** Why is a temporary ceasefire not a solution to the siege?
+**Answer:**  The speaker argues that a temporary ceasefire would only give Israel a breather to recover and regroup, without providing any real relief for Hamas and the Palestinian people.  He believes it would be counterproductive and should be rejected. 
+
+## 64:87.159s
+**Category:**  Supply
+**Question:** How can Muslims in Gaza receive supplies despite the siege?
+**Answer:** The speaker suggests that by demanding the complete withdrawal of Israeli forces from their territorial waters, Muslims in Gaza could potentially receive supplies from Syria and Turkey.  This would involve Iran supplying goods through the open sea, bypassing the Israeli blockade. 
+
+## 65:16.52s
+**Category:**  Genocide
+**Question:** What does Scott McGregor believe needs to be done about Israel?
+**Answer:** The speaker mentions that Scott McGregor, a political analyst, believes that Israel should be dismantled as a criminal entity committing genocide.  He supports McGregor's view, arguing that Israel's actions in Gaza constitute genocide and ethnic cleansing. 
+
+## 65:60.4s
+**Category:**  Army Guilt
+**Question:**  Is it reasonable to expect Israeli soldiers to feel guilty about their actions? 
+**Answer:** The speaker believes it is unlikely that Israeli soldiers will feel guilty for their actions, given their history of brutality and disregard for civilian lives. He suggests that while it is good to appeal to their conscience, it is not a reliable solution and other methods of resistance are necessary. 
+
+## 66:01.36s
+**Category:**  State
+**Question:**  Why does the speaker state that the Taliban's actions negate the argument that a state is required for effective resistance? 
+**Answer:** The speaker points to the Taliban's success in resisting the US, despite not being a formal state, as evidence that a state is not a prerequisite for effective resistance. He argues that Hamas has also demonstrated this by achieving significant victories against Israel despite being under siege. 
+
+## 66:34.719s
+**Category:**  Delusion
+**Question:**  What does the speaker believe is wrong with the way some Muslims view the Taliban?
+**Answer:** The speaker believes that some Muslims are deluded in their view of the Taliban. He criticizes those who continue to claim that the Taliban are American agents or that their withdrawal was a ploy, arguing that these individuals are clinging to a distorted reality and are hopeless in their belief system. 
+
+## 66:81.28s
+**Category:**  Turkish Response
+**Question:** What was the speaker's reaction to the initial response of some Turkish Muslims to the conflict?
+**Answer:**  The speaker expressed shock and disbelief at the views of some Turkish Muslims who initially claimed that the conflict was a Hamas plot to destroy Palestine.  He found this perspective to be indicative of a distorted understanding of the reality. 
+
+## 67:40.84s
+**Category:**  Erdogan's Actions
+**Question:**  What does the speaker believe Erdogan should have done in response to the conflict? 
+**Answer:** The speaker criticizes Erdogan for only offering empty words of support, arguing that he should have taken more concrete actions, such as
+
+## https://www.youtube.com/watch?v=Ea9Xubsq0-c
+
+## Is there any announcement? 
+**Timestamp:** 0.08s
+**Category:** Announcement
+**Question:** Is there an announcement regarding the new moon sighting?
+**Answer:**  There is an announcement that Saudi Arabia has declared the start of the new month. 
+
+## How reliable is the announcement? 
+**Timestamp:** 6.12s 
+**Category:** Reliability
+**Question:** How reliable is the announcement, and is it based on calculations?
+**Answer:** The announcement's reliability is questioned because it's unclear if the sighting was based on actual observation or calculations.
+
+## Is it possible to see the moon under these circumstances? 
+**Timestamp:** 9.04s 
+**Category:** Visibility 
+**Question:** Is it possible to see the new moon under these conditions, given the short time between sunset and the new moon?
+**Answer:**  The speaker argues that it is unlikely to see the new moon because it would need to be separated from the sun by at least 17° to be visible. 
+
+## What would the moon look like if it was barely visible?
+**Timestamp:** 132.239s
+**Category:** Visibility
+**Question:** If the moon were barely visible, would it look like it's just slightly deviating from the sun?
+**Answer:** The speaker argues that if the moon were so close to the sun, the brightness of the sun would make it impossible to see the reflection from the moon. 
+
+
+## https://www.youtube.com/watch?v=inZf51Ykabg
+
+## 25.38s: foreign
+**Category:** Arabic
+**Question:** What does the speaker say at 25.38s? 
+**Answer:**  The speaker recites a portion of the Quran in Arabic.
+
+## 39.18s: study Circles of Professor Dr Muhammad
+**Category:** Youtube Channel
+**Question:** What does the speaker say at 39.18s?
+**Answer:** The speaker refers to the YouTube channel "Study Circles of Professor Dr. Muhammad." 
+
+## 41.399s: Master YouTube channel every Sunday at
+**Category:** Schedule
+**Question:** What does the speaker say at 41.399s?
+**Answer:** The speaker says that the YouTube channel broadcasts live episodes every Sunday.
+
+## 43.92s: 2PM UK time
+**Category:** Schedule
+**Question:** What does the speaker say at 43.92s?
+**Answer:** The speaker states that the live broadcasts on the YouTube channel are at 2 PM UK time. 
+
+## 55.199s: don't forget to interact with us during
+**Category:** Interaction
+**Question:** What does the speaker say at 55.199s?
+**Answer:** The speaker encourages viewers to interact during the broadcasts by participating in the comments and asking questions.
+
+## 63.239s: don't forget to support our activities
+**Category:** Donations
+**Question:** What does the speaker say at 63.239s?
+**Answer:** The speaker asks viewers to support their activities by donating when asking questions or through the thank you button.
+
+## 73.26s: the doctor continues the interpretation of
+**Category:** Interpretation
+**Question:** What does the speaker say at 73.26s?
+**Answer:** The speaker states that the doctor continues the interpretation of Surah Al-A'raf.
+
+## 123.96s: from my messages shall I cause to turn
+**Category:** Quran
+**Question:** What does the speaker say at 123.96s?
+**Answer:** The speaker recites a portion of the Quran in English, specifically the beginning of verse 155 of Surah Al-A'raf.
+
+## 185.18s: does not mean direct action it may be
+**Category:** Interpretation
+**Question:** What does the speaker say at 185.18s?
+**Answer:** The speaker explains that "turning away" in the Quran does not necessarily mean direct action but can be a metaphorical concept referring to a system or process of rejection.
+
+## 221.04s: so last one secondly uh
+**Category:** Linguistics
+**Question:** What does the speaker say at 221.04s?
+**Answer:** The speaker introduces a discussion about a linguistic aspect of the Quran.
+
+## 285.78s: so the gate with these people these the
+**Category:** Quran
+**Question:** What does the speaker say at 285.78s?
+**Answer:** The speaker refers back to a verse in the Quran about a group of people who have turned away from Allah.
+
+## 318.08s: based on the irrationality
+**Category:** Misguidance
+**Question:** What does the speaker say at 318.08s?
+**Answer:** The speaker connects misguidance to irrationality and an "inflammation of Desire," highlighting how it can lead to sin.
+
+## 406.44s: foreign
+**Category:** Arabic
+**Question:** What does the speaker say at 406.44s?
+**Answer:** The speaker recites a portion of the Quran in Arabic.
+
+## 425.24s: hence all who give the light to our
+**Category:** Quran
+**Question:** What does the speaker say at 425.24s?
+**Answer:** The speaker continues reciting the Quran in English, moving on to verse 156 of Surah Al-A'raf.
+
+## 494.0s: not an issue then you just do whatever
+**Category:** Belief
+**Question:** What does the speaker say at 494.0s?
+**Answer:** The speaker discusses the concept of belief and how actions of those who truly believe are not in vain.
+
+## 557.66s: and how
+**Category:** Action
+**Question:** What does the speaker say at 557.66s?
+**Answer:** The speaker brings up the concept of actions, discussing how they are evaluated based on the intention behind them.
+
+## 662.899s: first translation and into his absence
+**Category:** Quran
+**Question:** What does the speaker say at 662.899s?
+**Answer:** The speaker starts to read the first translation of verse 157 of Surah Al-A'raf, continuing the interpretation of the chapter.
+
+## 714.56s: actually it's actually like like a like
+**Category:** Idol worship
+**Question:** What does the speaker say at 714.56s? 
+**Answer:** The speaker explains that the "Effigy" mentioned in the Quranic verse refers to an idol, relating it to the story of the Israelites and the golden calf.
+
+## 822.32s: it starts from the beginning of the eye
+**Category:** Quran
+**Question:** What does the speaker say at 822.32s?
+**Answer:** The speaker explains that the section they are interpreting begins at the start of the next verse.
+
+## 880.56s: personalization and Moses chose out of
+**Category:** Quran
+**Question:** What does the speaker say at 880.56s?
+**Answer:** The speaker starts reading the first translation of verse 158 of Surah Al-A'raf, continuing the interpretation.
+
+## 949.92s: um here is is only only mentioning that
+**Category:** Quran
+**Question:** What does the speaker say at 949.92s?
+**Answer:** The speaker provides a commentary on verse 158, explaining that it only mentions the earthquake's effect on the 70 men and not the full context of their request to see Allah.
+
+## 1047.54s: National one the the one who manages
+**Category:** Rationality
+**Question:** What does the speaker say at 1047.54s? 
+**Answer:** The speaker begins explaining the concept of "rationally" managing affairs, contrasting it with the actions of those who are immature or lack prudence.
+
+## 1096.44s: what's what answer now the focus is
+**Category:** Quran
+**Question:** What does the speaker say at 1096.44s?
+**Answer:** The speaker focuses on the answer given by Allah in the Quran after Moses's plea for forgiveness.
+
+## 1153.02s: first translation and ordained thou for
+**Category:** Quran
+**Question:** What does the speaker say at 1153.02s? 
+**Answer:** The speaker reads the first translation of verse 159 of Surah Al-A'raf, continuing the chapter's interpretation.
+
+## 1201.64s: is used in it only this place
+**Category:** Linguistics
+**Question:** What does the speaker say at 1201.64s? 
+**Answer:** The speaker discusses the word "repentance" in the Quran, explaining its specific usage and Semitic origins.
+
+## 1265.059s: I think I made the notice at that time
+**Category:** Repetition
+**Question:** What does the speaker say at 1265.059s? 
+**Answer:** The speaker acknowledges a potential repetition of a point previously made and asks the audience to keep it in mind.
+
+## 1327.46s: [Music]
+**Category:** Quran
+**Question:** What does the speaker say at 1327.46s?
+**Answer:** The speaker introduces the first translation of verse 160 of Surah Al-A'raf.
+
+## 1372.32s: those who shall follow the last prophet
+**Category:** Quran
+**Question:** What does the speaker say at 1372.32s?
+**Answer:** The speaker reads the first translation of verse 160, focusing on the characteristics and qualities of the last prophet.
+
+## 1440.679s: here when one Festival is that's the
+**Category:** Interpretation
+**Question:** What does the speaker say at 1440.679s?
+**Answer:** The speaker clarifies the meaning of the "Last Prophet" mentioned in the Quranic verse, emphasizing the specific characteristics and role of the prophet mentioned in both the Torah and the Gospel.
+
+## 1493.88s: the gospel is announced also implicit but
+**Category:** Interpretation
+**Question:** What does the speaker say at 1493.88s?
+**Answer:** The speaker explains that although the Gospel is implicitly announced, it's not as explicitly stated in the text as the mention of the Torah.
+
+## 1511.539s: the correct understanding is the one who
+**Category:** Interpretation
+**Question:** What does the speaker say at 1511.539s?
+**Answer:** The speaker provides an interpretation of the final messenger, highlighting their accountability and the characteristics of their rule.
+
+## 1568.299s: Apple fruits for example are good for
+**Category:** Interpretation
+**Question:** What does the speaker say at 1568.299s?
+**Answer:** The speaker uses the example of apples to illustrate the concept of "good things" being intrinsically good by Allah's design and being permitted in Islam.
+
+## 1628.059s: all things evil and bad
+**Category:** Interpretation
+**Question:** What does the speaker say at 1628.059s?
+**Answer:** The speaker continues to discuss the "good things" and "bad things" in life, explaining how the final prophet will forbid all things evil and bad.
+
+## 1646.279s: also a hint that he will be the one who
+**Category:** Interpretation
+**Question:** What does the speaker say at 1646.279s?
+**Answer:** The speaker explains that the removal of shackles and burdens in the Quranic verse hints at the final prophet being the one announced by previous prophets.
+
+## 1697.779s: as a punishment he did not bring that he
+**Category:** Interpretation
+**Question:** What does the speaker say at 1697.779s?
+**Answer:** The speaker discusses the false accusations made against Jesus by the Jews, claiming that he brought rebellion, and clarifies that he did not come with rebellion but with new commandments.
+
+## 1743.419s: ordered to rebel against oppressive and
+**Category:** Interpretation
+**Question:** What does the speaker say at 1743.419s?
+**Answer:** The speaker contrasts the Islamic stance of rebelling against oppressive rulers with the Jews' submission to pagan kings, highlighting the different approaches to authority.
+
+## 1767.48s: so that's that's the the this is the
+**Category:** Interpretation
+**Question:** What does the speaker say at 1767.48s?
+**Answer:** The speaker reiterates the importance of the final prophet's announcement in Mount Sinai and its implications. 
+
+## 1785.779s: so all the mercy would be after that
+**Category:** Interpretation
+**Question:** What does the speaker say at 1785.779s?
+**Answer:** The speaker explains that the final prophet will bring the message in its purest form, and mercy will be allocated to him and his followers.
+
+## 1822.17s: [Music]
+**Category:** Quran
+**Question:** What does the speaker say at 1822.17s? 
+**Answer:** The speaker introduces the first translation of verse 161 of Surah Al-A'raf.
+
+## 1849.34s: first translation
+**Category:** Quran
+**Question:** What does the speaker say at 1849.34s?
+**Answer:** The speaker reads the first translation of verse 161, stating that the prophet is sent to all mankind.
+
+## 1897.7s: is in paraphrase because it's not in the
+**Category:** Interpretation
+**Question:** What does the speaker say at 1897.7s?
+**Answer:** The speaker explains that the translation is a paraphrase because the Quran shifts from Allah speaking directly to the prophet Muhammad speaking.
+
+## 1965.919s: most likely is that the one who would be
+**Category:** Interpretation
+**Question:** What does the speaker say at 1965.919s?
+**Answer:** The speaker interprets the verse, suggesting that the prophet sent to the children of Israel from outside would not only be for them but for all mankind.
+
+## 2003.46s: if so next I yeah
+**Category:** Quran
+**Question:** What does the speaker say at 2003.46s?
+**Answer:** The speaker moves on to the next verse, indicating a transition to the next part of the Quranic interpretation.
+
+## 2012.539s: first translation and among the folks of
+**Category:** Quran
+**Question:** What does the speaker say at 2012.539s? 
+**Answer:** The speaker reads the first translation of verse 162 of Surah Al-A'raf, highlighting the existence of a righteous group among the people of Moses.
+
+## 2034.559s: because some people may come because
+**Category:** Interpretation
+**Question:** What does the speaker say at 2034.559s?
+**Answer:** The speaker explains that even in the history of the Israelites, there have been periods of both guidance and misguidance, highlighting the cyclical nature of human behavior.
+
+## 2106.08s: announced online carry on
+**Category:** Quran
+**Question:** What does the speaker say at 2106.08s?
+**Answer:** The speaker moves on to the next verse in Surah Al-A'raf.
+
+## 2112.42s: [Music]
+**Category:** Quran
+**Question:** What does the speaker say at 2112.42s?
+**Answer:** The speaker introduces the first translation of verse 163 of Surah Al-A'raf.
+
+## 2158.4s: that one
+**Category:** Quran
+**Question:** What does the speaker say at 2158.4s?
+**Answer:** The speaker begins reading the first translation of verse 163, highlighting the division of the Israelites into 12 tribes.
+
+## 2225.78s: mentioned all the details on the autism
+**Category:** Interpretation
+**Question:** What does the speaker say at 2225.78s?
+**Answer:** The speaker acknowledges that the Quran does not explicitly mention all the details about the Israelites' behavior, like their abuse of prophets and disobedience. 
+
+## 2250.18s: [Music]
+**Category:** Interpretation
+**Question:** What does the speaker say at 2250.18s?
+**Answer:** The speaker continues to explain the events described in verse 163, focusing on the miracle of the 12 springs and how they were provided with food and shade.
+
+## 2383.22s: there's a general name what has been
+**Category:** Interpretation
+**Question:** What does the speaker say at 2383.22s?
+**Answer:** The speaker continues to discuss "Mana" and "Salwa" as sustenance given to the Israelites, explaining that "Mana" was likely a general term encompassing different types of food.
+
+## 2443.86s: [Music]
+**Category:** Quran
+**Question:** What does the speaker say at 2443.86s?
+**Answer:** The speaker introduces the first translation of verse 164 of Surah Al-A'raf.
+
+## 2445.42s: first translation and remember when we
+**Category:** Quran
+**Question:** What does the speaker say at 2445.42s?
+**Answer:** The speaker reads the first translation of verse 164, highlighting the Israelites' request for forgiveness and their promise to enter the gate humbly. 
+
+## 2485.04s: it's not clear what's this Village it
+**Category:** Interpretation
+**Question:** What does the speaker say at 2485.04s?
+**Answer:** The speaker discusses the "Village" mentioned in verse 164, stating that its exact location and significance are not entirely clear. 
+
+## 2540.599s: substituted another saying for that
+**Category:** Quran
+**Question:** What does the speaker say at 2540.599s?
+**Answer:** The speaker reads the first translation of verse 165 of Surah Al-A'raf, highlighting the Israelites' change in their words and actions. 
+
+## 2596.46s: wheat like someone playing with words
+**Category:** Interpretation
+**Question:** What does the speaker say at 2596.46s?
+**Answer:** The speaker explains that the Israelites twisted the words they were given, comparing their behavior to a person playing with words and changing their meaning.
+
+## 2675.839s: if you don't listen carefully you will
+**Category:** Interpretation
+**Question:** What does the speaker say at 2675.839s?
+**Answer:** The speaker stresses the importance of carefully listening and understanding the subtleties of the Quran, as some interpretations may be overlooked if not paid attention to. 
+
+## 2743.64s: first translation and ask them about
+**Category:** Quran
+**Question:** What does the speaker say at 2743.64s?
+**Answer:** The speaker introduces the first translation of verse 166 of Surah Al-A'raf, focusing on the story of the people who profaned the Sabbath.
+
+## 2839.14s: but they were living foreign
+**Category:** Interpretation
+**Question:** What does the speaker say at 2839.14s? 
+**Answer:** The speaker continues to interpret verse 166, highlighting that the Israelites disobeyed the Sabbath by fishing on that day.
+
+## 2850.359s: and
+**Category:** Interpretation
+**Question:** What does the speaker say at 2850.359s? 
+**Answer:** The speaker continues to discuss the story of the Israelites and their violation of the Sabbath.
+
+## 2916.619s: that's how you try to detest how they
+**Category:** Interpretation
+**Question:** What does the speaker say at 2916.619s? 
+**Answer:** The speaker explains how the Israelites failed the test by trying to trick Allah's commandments through their actions.
+
+## 2968.64s: [Music]
+**Category:** Quran
+**Question:** What does the speaker say at 2968.64s?
+**Answer:** The speaker introduces the first translation of verse 167 of Surah Al-A'raf.
+
+## 2985.44s: first translation
+**Category:** Quran
+**Question:** What does the speaker say at 2985.44s?
+**Answer:** The speaker reads the first translation of verse 167, highlighting the discussion between those who tried to prevent Sabbath breaking and those who argued that it was pointless to stop them.
+
+## 3010.02s: the people of the British person and
+**Category:** Interpretation
+**Question:** What does the speaker say at 3010.02s?
+**Answer:** The speaker explains the context of verse 167, contrasting those who upheld the Sabbath with those who believed that the Sabbath breakers were hopeless and would be punished regardless.
+
+## 3061.83s: [Music]
+**Category:** Quran
+**Question:** What does the speaker say at 3061.83s? 
+**Answer:** The speaker introduces the first translation of verse 168 of Surah Al-A'raf.
+
+## 3075.92s: forgotten all that they had been told to
+**Category:** Quran
+**Question:** What does the speaker say at 3075.92s?
+**Answer:** The speaker reads the first translation of verse 168, highlighting the consequence of forgetting Allah's teachings and the punishment for those who persisted in wrongdoings.
+
+## 3113.94s: definitely they couldn't have
+**Category:** Interpretation
+**Question:** What does the speaker say at 3113.94s? 
+**Answer:** The speaker explains that the "forgotten" in the Quranic verse doesn't mean they literally forgot but that they deliberately ignored warnings and continued with their wrongdoings. 
+
+## 3141.839s: the Quran silent about them and this is
+**Category:** Interpretation
+**Question:** What does the speaker say at 3141.839s?
+**Answer:** The speaker discusses the fate of those who were not Sabbath breakers but didn't actively prevent it, stating that the Quran doesn't explicitly mention their status or punishment.
+
+## 3178.65s: [Music]
+**Category:** Quran
+**Question:** What does the speaker say at 3178.65s?
+**Answer:** The speaker introduces the first translation of verse 169 of Surah Al-A'raf. 
+
+## 3185.72s: first translation and then when they
+**Category:** Quran
+**Question:** What does the speaker say at 3185.72s?
+**Answer:** The speaker reads the first translation of verse 169, explaining the consequence of the Israelites' continued disobedience.
+
+## 3202.92s: um the first one the second one is
+**Category:** Interpretation
+**Question:** What does the speaker say at 3202.92s?
+**Answer:** The speaker compares different translations of verse 169, discussing the meaning of being "as apes" and whether it refers to a literal physical transformation or a metaphorical state. 
+
+## 3275.96s: so he was deformed down
+**Category:** Interpretation
+**Question:** What does the speaker say at 3275.96s? 
+**Answer:** The speaker explains that the punishment of being transformed into apes could be interpreted as both a physical and a metaphorical degradation, reducing them to the level of apes.
+
+## 3299.78s: let me just double check
+**Category:** Quran
+**Question:** What does the speaker say at 3299.78s?
+**Answer:** The speaker checks their notes before introducing the next verse.
+
+## 3330.38s: [Music]
+**Category:** Quran
+**Question:** What does the speaker say at 3330.38s? 
+**Answer:** The speaker introduces the first translation of verse 170 of Surah Al-A'raf.
+
+## 3345.599s: and loads I sustainer made it known that
+**Category:** Quran
+**Question:** What does the speaker say at 3345.599s?
+**Answer:** The speaker reads the first translation of verse 170, highlighting Allah's swift retribution and forgiveness.
+
+## 3374.28s: they're switching forward for much later
+**Category:** Interpretation
+**Question:** What does the speaker say at 3374.28s? 
+**Answer:** The speaker explains that verse 170 refers to a much later period in the history of the Israelites, predicting their continuous suffering for their transgressions.
+
+## 3437.66s: and this is
+**Category:** Interpretation
+**Question:** What does the speaker say at 3437.66s?
+**Answer:** The speaker continues to discuss the punishment for the Israelites, suggesting that it's a cyclical process that continues even to the present day.
+
+## 3451.38s: that's this kind of claim for
+**Category:** Interpretation
+**Question:** What does the speaker say at 3451.38s? 
+**Answer:** The speaker connects the Israelites' self-righteousness to similar claims made by people today, even those who identify as secular or liberal.
+
+## 3495.14s: he dismantled many of them and many of
+**Category:** History
+**Question:** What does the speaker say at 3495.14s?
+**Answer:** The speaker refers to historical events, mentioning how leaders like MBs have punished those who made claims of self-righteousness.
+
+## 3522.68s: first translation and we disperse them
+**Category:** Quran
+**Question:** What does the speaker say at 3522.68s?
+**Answer:** The speaker introduces the first translation of verse 171 of Surah Al-A'raf, explaining that Allah dispersed the Israelites into different communities. 
+
+## 3559.67s: [Music]
+**Category:** Interpretation
+**Question:** What does the speaker say at 3559.67s? 
+**Answer:** The speaker acknowledges the clear meaning of verse 171, highlighting the Israelites' diversity and how they were tested with both blessings and afflictions.
+
+## 3603.66s: um
+**Category:** Quran
+**Question:** What does the speaker say at 3603.66s?
+**Answer:** The speaker prepares to introduce the next verse.
+
+## 3622.22s: first translation and they have been
+**Category:** Quran
+**Question:** What does the speaker say at 3622.22s?
+**Answer:** The speaker reads the first translation of verse 172 of Surah Al-A'raf, discussing how later generations inherited the book but clung to worldly pleasures. 
+
+## 3693.359s: just apply that about the most Muslims
+**Category:** Interpretation
+**Question:** What does the speaker say at 3693.359s?
+**Answer:** The speaker applies the interpretation of verse 172 to Muslims today, suggesting that many prioritize worldly desires over the hereafter.
+
+## 3745.26s: yes sir yeah
+**Category:** Quran
+**Question:** What does the speaker say at 3745.26s?
+**Answer:** The speaker introduces the first translation of verse 173 of Surah Al-A'raf.
+
+## 3757.64s: first translation
+**Category:** Quran
+**Question:** What does the speaker say at 3757.64s? 
+**Answer:** The speaker reads the first translation of verse 173, explaining that Allah will reward those who hold fast to the book and pray regularly.
+
+## 3780.059s: there's only a note about the
+**Category:** Interpretation
+**Question:** What does the speaker say at 3780.059s? 
+**Answer:** The speaker clarifies the meaning of "constant in prayer," emphasizing that it's about making prayer a central point in one's life, influencing their actions and schedules.
+
+## 3819.72s: metaphorical Darkness
+**Category:** Interpretation
+**Question:** What does the speaker say at 3819.72s?
+**Answer:** The speaker continues interpreting verse 173, explaining that "constant in prayer" signifies a life lived in accordance with Allah's guidance.
+
+## 3890.18s: [Music]
+**Category:** Quran
+**Question:** What does the speaker say at 3890.18s?
+**Answer:** The speaker introduces the first translation of verse 174 of Surah Al-A'raf.
+
+## 3905.18s: First Transformation and did we not say
+**Category:** Quran
+**Question:** What does the speaker say at 3905.18s?
+**Answer:** The speaker reads the first translation of verse 174, emphasizing the event of Mount Sinai shaking and the Israelites being told to hold fast to the covenant.
+
+## 3943.92s: a few remarks about that meaning is very clear and the
+**Category:** Interpretation
+**Question:** What does the speaker say at 3943.92s?
+**Answer:** The speaker clarifies the meaning of the verse, highlighting its connection to the story of Mount Sinai in the Old Testament.
+
+## 4011.0s: necessarily modular anyone because the
+**Category:** Interpretation
+**Question:** What does the speaker say at 4011.0s?
+**Answer:** The speaker explains that the earthquake mentioned in verse 174 doesn't necessarily signify a catastrophic event but a symbolic representation.
+
+## 4042.76s: that's most likely before than after
+**Category:** Interpretation
+**Question:** What does the speaker say at 4042.76s?
+**Answer:** The speaker discusses the location of Mount Sinai, clarifying that the events described in the Quran took place before the Israelites entered the Promised Land. 
+
+## 4078.16s: I get the opportunity inshallah and then
+**Category:** Interpretation
+**Question:** What does the speaker say at 4078.16s?
+**Answer:** The speaker expresses their desire to further discuss the location of Mount Sinai in the future, highlighting historical discrepancies. 
+
+## 4148.759s: stopping here is making good sense
+**Category:** Conclusion
+**Question:** What does the speaker say at 4148.759s? 
+**Answer:** The speaker concludes the discussion, suggesting that it's appropriate to end there as they have covered a significant portion of the interpretation.
+
+## 4157.699s: um I've got one question on the
+**Category:** Question
+**Question:** What does the speaker say at 4157.699s?
+**Answer:** A viewer asks a question about the story of the Sabbath, suggesting that it shows a lack of understanding of Allah among some Jews.
+
+## 4180.92s: uh I didn't understand the question what
+**Category:** Clarification
+**Question:** What does the speaker say at 4180.92s? 
+**Answer:** The speaker asks for clarification about the viewer's question about the Sabbath story.
+
+## 4220.58s: and the people did not have really that
+**Category:** History
+**Question:** What does the speaker say at 4220.58s? 
+**Answer:** The speaker explains that during the time of Moses, the concept of a specific Divine name for the creator of the universe wasn't widely known, and paganism was prevalent. 
+
+## 4260.659s: it may have been in ancient languages of
+**Category:** History
+**Question:** What does the speaker say at 4260.659s? 
+**Answer:** The speaker explains that the name "Illah" may have existed in ancient languages but lost its significance over time, evolving into a generic term for God. 
+
+## 4286.06s: send me to you and then later on then
+**Category:** History
+**Question:** What does the speaker say at 4286.06s? 
+**Answer:** The speaker connects the revelation of Allah's name to Moses with the later development of Aramaic and Arabic languages.
+
+## 4300.5s: the discussion at the beginning three
+**Category:** Interpretation
+**Question:** What does the speaker say at 4300.5s?
+**Answer:** The speaker explains that the Quran doesn't mention the initial discussion about Allah's name due to the passage of time and its irrelevance to later audiences.
+
+## 4319.719s: the the concept of Allah and the
+**Category:** Interpretation
+**Question:** What does the speaker say at 4319.719s?
+**Answer:** The speaker clarifies that the understanding of Allah and his attributes was limited even during Moses' time.
+
+## 4364.1s: if that's answered the question that's
+**Category:** Response
+**Question:** What does the speaker say at 4364.1s?
+**Answer:** The speaker confirms that their explanation addresses the viewer's question about the Sabbath story.
+
+## 4370.28s: and that's so the the problem which many
+**Category:** Interpretation
+**Question:** What does the speaker say at 4370.28s?
+**Answer:** The speaker explains that the misconception among atheists that religion originated from paganism is based on a misunderstanding of the development of religious beliefs.
+
+## 4387.5s: and so on but that is
+**Category:** Interpretation
+**Question:** What does the speaker say at 4387.5s? 
+**Answer:** The speaker explains that the Old Testament doesn't reflect the same kind of Divine revelation as the Quran and is more like a historical record of events and teachings.
+
+## 4418.64s: that a lot because the Jews kill him the
+**Category:** Interpretation
+**Question:** What does the speaker say at 4418.64s? 
+**Answer:** The speaker clarifies a common misconception about the Torah, stating that it's not the same as the Quran and is more like a collection of Divine words. 
+
+## 4445.52s: the rest there may be also in we can add
+**Category:** Interpretation
+**Question:** What does the speaker say at 4445.52s?
+**Answer:** The speaker explains that the Torah, like the Quran, may have additional explanations and interpretations beyond its core text. 
+
+## 4501.02s: generally as we said maybe foreign
+**Category:** Interpretation
+**Question:** What does the speaker say at 4501.02s?
+**Answer:** The speaker discusses the content of the five books of Moses, clarifying that they contain historical accounts and teachings.
+
+## 4559.58s: so so in that home we have in
+**Category:** Interpretation
+**Question:** What does the speaker say at 4559.58s?
+**Answer:** The speaker explains that the Torah, as we know it today, might be different from what existed in Moses' time, with potential changes and additions over generations.
+
+## 4599.38s: over generation maybe we can't excluded
+**Category:** Interpretation
+**Question:** What does the speaker say at 4599.38s? 
+**Answer:** The speaker acknowledges that the current Torah might have accumulated teachings and sayings of Moses that were not originally part of the tablets.
+
+## 4613.12s: foreign unlikely to be anywhere anything
+**Category:** Interpretation
+**Question:** What does the speaker say at 4613.12s?
+**Answer:** The speaker reiterates that the Torah's core text is relatively short, focused on the Ten Commandments and other Divine words.
+
+## 4622.34s: so that that's what confused some people
+**Category:** Interpretation
+**Question:** What does the speaker say at 4622.34s?
+**Answer:** The speaker explains that the misconception about the Torah being
+
