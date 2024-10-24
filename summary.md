@@ -17047,3 +17047,543 @@ Category:  Islamic Rulings
 **Question:** What is the speaker's point about the story? 
 **Answer:**
 
+## https://www.youtube.com/watch?v=UB4nhMZlAkc
+
+## 0.12s: This mentality of that scholar would be... 
+**Category:** Mentality 
+**Question:** What mentality is being discussed? 
+**Answer:** The speaker is critiquing a mentality that views scholars as divinely inspired and infallible. 
+
+## 2.52s: Somehow Divine inspired no but actually... 
+**Category:** Mentality 
+**Question:** What is the speaker's view on scholars being divinely inspired?
+**Answer:** The speaker believes that scholars should not be considered divinely inspired and that their knowledge is ultimately limited.
+
+## 6.279s: Scholar should be distrusted more than...
+**Category:** Scholar's Role
+**Question:**  According to the speaker, who should be distrusted more, the scholars or the common people?
+**Answer:** The speaker believes that scholars should be distrusted more than the common people. 
+
+## 8.04s: The common people because of first of...
+**Category:** Scholar's Role
+**Question:** Why should scholars be distrusted more than the common people?
+**Answer:** The speaker argues that scholars are more likely to mislead due to their position of authority and potential for pride.
+
+## 9.679s: All the telling...
+**Category:** Scholar's Role
+**Question:**  What is the speaker referring to when they say "all the telling"? 
+**Answer:**  The speaker is referring to the teachings and pronouncements of scholars, implying they may not always be reliable.
+
+## 11.96s: Us... 
+**Category:** Scholar's Role
+**Question:** Who is the speaker referring to when they say "us"?
+**Answer:** The speaker is likely referring to the audience, suggesting they should be critical of scholars' teachings.
+
+## 16.16s: Believe plenty many of the scholars and... 
+**Category:** Scholar's Role
+**Question:** Who does the speaker suggest people should believe instead of scholars?
+**Answer:**  The speaker suggests people should believe in the teachings of monks instead of scholars.
+
+## 21.4s: Monks so the one who will excel in... 
+**Category:** Scholar's Role
+**Question:**  According to the speaker, who is more likely to excel in scholarship, monks or scholars? 
+**Answer:** The speaker believes that monks are more likely to excel in scholarship than scholars.
+
+## 24.48s: Scholarship with people called first... 
+**Category:** Scholar's Role
+**Question:** What is the speaker's suggestion for those who excel in scholarship?
+**Answer:** The speaker suggests that those who excel in scholarship should be called "readers" or "scholars," not just scholars.
+
+## 27.0s: They should be called or reader or... 
+**Category:** Scholar's Role
+**Question:**  What are the two alternative terms the speaker suggests instead of simply "scholar"?
+**Answer:** The speaker suggests the terms "reader" and "scholar" to emphasize the importance of critical thinking and study. 
+
+## 28.8s: Scholar or... 
+**Category:** Scholar's Role
+**Question:** What is the speaker's concern about calling someone simply a "scholar"?
+**Answer:**  The speaker suggests that simply being called a scholar can lead to a sense of arrogance and authority, potentially hindering true knowledge.
+
+## 30.92s: And thean the monks the one eses the... 
+**Category:** Scholar's Role
+**Question:**  What is the speaker's view on the role of monks in acquiring knowledge? 
+**Answer:** The speaker believes that monks prioritize worship and devotion, which leads to a deeper understanding of faith and knowledge.
+
+## 33.6s: Voting for worship and this forsaking... 
+**Category:** Scholar's Role
+**Question:** What does the speaker believe is the reason monks excel in scholarship?
+**Answer:** The speaker suggests that monks prioritize worship and devotion, which leads to a deeper understanding of faith and knowledge.
+
+## 35.68s: Life many of these they Dev people will... 
+**Category:** Scholar's Role
+**Question:** What does the speaker believe will happen to people who prioritize scholarship over worship?
+**Answer:** The speaker believes that people who prioritize scholarship over worship are likely to be misled from the true path. 
+
+## 39.36s: Rightfully and misguide from the way of... 
+**Category:** Scholar's Role
+**Question:** What does the speaker believe is the consequence of being misled from the true path?
+**Answer:** The speaker believes that being misled from the true path leads to a deviation from Allah's teachings.
+
+## 41.36s: Allah and said the majority of the are... 
+**Category:** Scholar's Role
+**Question:** Who does the speaker believe is responsible for misleading people from the true path?
+**Answer:** The speaker believes that the majority of scholars are responsible for misleading people from the true path. 
+
+## 45.0s: From the the reader reader and meaning... 
+**Category:** Scholar's Role
+**Question:** What does the speaker mean by "reader" in this context?
+**Answer:** The speaker is using the term "reader" to refer to scholars who prioritize study and critical thinking over simply acquiring titles. 
+
+## 47.8s: Gener reader meaning Scholars C the... 
+**Category:** Scholar's Role
+**Question:** What does the speaker mean by "general readers"?
+**Answer:** The speaker uses "general readers" to refer to scholars who are more focused on gaining authority and recognition than true knowledge. 
+
+## 50.6s: Majority in two narrations so this a... 
+**Category:** Scholar's Role
+**Question:** What evidence does the speaker provide to support their claim about misleading scholars?
+**Answer:** The speaker references two narrations that highlight the dangers of misleading scholars and the importance of seeking knowledge from those who prioritize worship and devotion.
+
+## 53.28s: Warning don't say talk about the PO... 
+**Category:** Scholar's Role
+**Question:** What warning does the speaker give about scholars?
+**Answer:** The speaker warns against blindly following scholars, implying they may not always be reliable sources of knowledge.
+
+## 55.52s: Street sber or the cam Rider he may be... 
+**Category:** Scholar's Role
+**Question:** What does the speaker suggest about someone who appears unassuming and less knowledgeable than a scholar?
+**Answer:** The speaker suggests that someone who appears less knowledgeable than a scholar may actually possess greater wisdom and understanding.
+
+## 58.079s: Better than the scholars so get out of... 
+**Category:** Mentality
+**Question:** What does the speaker suggest people do about their view of scholars?
+**Answer:** The speaker encourages people to abandon the mentality of viewing scholars as infallible and to seek knowledge from those who are truly dedicated to seeking truth.
+
+## 60.719s: This mentality and start doing your... 
+**Category:** Mentality
+**Question:** What does the speaker suggest people do instead of relying on scholars?
+**Answer:** The speaker encourages people to actively seek knowledge through study and personal exploration rather than passively accepting the pronouncements of scholars. 
+
+## 62.879s: Homework 
+**Category:** Mentality
+**Question:** What does the speaker suggest people do to further their understanding?
+**Answer:** The speaker encourages people to engage in critical thinking, questioning, and independent study to deepen their understanding. 
+
+
+## https://www.youtube.com/watch?v=ryFXT70kaQo
+
+## 0.56s: What is the significant event that happened?
+
+**Category:** Politics
+
+The speaker describes the election of Gal Roale in an unnamed district, where he defeated all of the major parties and received more votes than all of them combined. He believes this shows a change in the British public, with common people waking up and rejecting the status quo. 
+
+## 12.36s: How has this event affected the political landscape?
+
+**Category:** Politics
+
+The speaker believes that this event has shown the ruling elite, including the Bank of England, that the common people are valuing their personal liberty and their own homes, and that they will not accept further intrusions into their lives. This is seen as a challenge to the established order and the narrative that the state provides true democracy. 
+
+## 198.08s: What does the speaker say about the “razza”?
+
+**Category:** Politics
+
+The speaker states that the recent events, particularly the court case where an English barrister representing the Arab League questioned the legitimacy of the state of Israel, have exposed the true nature of the Israeli entity as being genocidal. This challenges the narrative that Israel is a democratic state and has no right to exist.
+
+## 201.72s: What does the speaker say about the narrative surrounding the state of Israel?
+
+**Category:** Politics
+
+The speaker argues that the narrative surrounding the state of Israel as a model of democracy and oppression is false, and the recent events have exposed its true nature as a genocidal and illegitimate entity. 
+
+## 266.919s: What is the speaker's reaction to the events in Gaza?
+
+**Category:** Politics
+
+The speaker is shocked by the events in Gaza and believes the Israeli claims about a Hamas attack are false. They emphasize the heroic resistance of the Palestinian people and the bravery shown by brave women who have been targeted by the Israeli state. 
+
+## 299.639s: What does the speaker say about Rishi Sunak?
+
+**Category:** Politics
+
+The speaker believes that Rishi Sunak will likely be kicked out of office soon, possibly before the election, due to the pressure he is facing and the dissatisfaction with his policies. 
+
+## 330.319s: What is the speaker's opinion on the involvement of the Modi government in British politics?
+
+**Category:** Politics
+
+The speaker believes that the attempts by the Indian government to influence British politics, using figures like Rishi Sunak, are merely an attempt to advance their own agenda in India and that the threat of extremism on the right and left is nothing more than a tactic to distract from the real issues. 
+
+## 391.84s: How does the speaker view Sunak's comments about police action against extremist elements?
+
+**Category:** Politics
+
+The speaker believes that Sunak's comments about the police taking action against extremist elements are a desperate attempt to play the "9/11 card" and distract from the real issues at hand. He believes Sunak should instead focus on studying the situation and analyzing what happened in the recent elections.
+
+## 430.479s: What does the speaker consider to be a revolutionary change in British politics?
+
+**Category:** Politics
+
+The speaker considers the election of Gal Roale in an unnamed district to be a revolutionary change in British politics. He emphasizes that no independent candidate has ever won against all the major parties and received more votes than all of them combined. This is seen as a significant shift in the political landscape. 
+
+## 465.68s: How does the speaker feel about the situation in Gaza?
+
+**Category:** Politics
+
+The speaker believes that the tide is turning in favor of the Palestinian people and that the international community, particularly the US, will be forced to respond to the situation in Gaza. They emphasize the need for courage and resilience in the face of oppression and advocate for a strategic response to the crisis.
+
+## 495.879s: What does the speaker say about the glorification of terrorism laws?
+
+**Category:** Politics
+
+The speaker believes that the glorification of terrorism laws are being used by the British government to suppress dissent and that it is important to challenge these laws and stand up for freedom of speech. 
+
+## 541.04s: How does the speaker feel about the current situation in Gaza?
+
+**Category:** Politics
+
+The speaker is frustrated by the lack of action from the international community and believes that it is important to stand firm against the Israeli government's actions. They argue that it is important to challenge their narratives and expose their lies.
+
+## 581.56s: What does the speaker say about the situation in Gaza?
+
+**Category:** Politics
+
+The speaker discusses the siege of Gaza and the Israeli actions that are killing civilians. They highlight the lack of international response and the false narratives being spun by the Israeli government. 
+
+## 602.519s: How does the speaker view the shooting of Palestinians in Gaza?
+
+**Category:** Politics
+
+The speaker views the shooting of Palestinians in Gaza as a genocidal act and believes that the Israeli claims about the incident are false. He highlights the fact that the New York Times has analyzed the situation and concluded that the Israeli claims are false.
+
+## 663.76s: How does the speaker explain the Israeli government’s response to the events in Gaza?
+
+**Category:** Politics
+
+The speaker believes that the Israeli government waited ten hours before releasing their narrative about the events in Gaza, hoping to control the information flow and silence any evidence that contradicts their claims. He sees this as an attempt to manipulate public opinion. 
+
+## 699.6s: What does the speaker say about the role of the United States in the conflict?
+
+**Category:** Politics
+
+The speaker is critical of the United States' complicity in the conflict, believing that Joe Biden has been forced to announce a more substantial air drop of aid to Gaza due to the severity of the situation. They criticize the lack of effectiveness of previous air drops and the hypocrisy of the international community. 
+
+## 776.76s: What does the speaker say about the situation in Gaza?
+
+**Category:** Politics
+
+The speaker believes that the situation in Gaza is life-threatening and that the Israeli government is planning a large-scale military operation before Ramadan to empty the area. They believe that Hamas, the Palestinian government, is doing its best to maintain order and protect the people.
+
+## 834.8s: How does the speaker describe the situation in Gaza?
+
+**Category:** Politics
+
+The speaker describes the situation in Gaza as a stalemate, where the Israeli forces are essentially under siege and require supplies and medication by air drop. He believes that the situation is highly volatile and could escalate at any moment.
+
+## 875.04s: What does the speaker say about the movement of ISIS forces?
+
+**Category:** Politics
+
+The speaker believes that ISIS is advancing slowly in the region and that the Israeli government is using this as an opportunity to justify a larger military operation in Syria. They believe that the ultimate goal is to seize control of Damascus and potentially Jerusalem.
+
+## 901.6s: What does the speaker say about the possibility of collaboration between ISIS and the Israeli government?
+
+**Category:** Politics
+
+The speaker acknowledges the possibility of collaboration between ISIS and the Israeli government but dismisses it as a 10-15% probability. They believe that this is more likely an Israeli strategy to achieve their own goals.
+
+## 953.72s: What is the speaker's opinion on the current Israeli leadership?
+
+**Category:** Politics
+
+The speaker believes that the current Israeli leadership is deceitful and driven by hidden agendas. They emphasize the hypocrisy of their actions, pointing out the targeted bombing of specific leadership figures within the Iranian Revolutionary Guard. 
+
+## 1018.16s: What does the speaker say about the possibility of the Iranian Revolutionary Guard turning against the regime?
+
+**Category:** Politics
+
+The speaker believes that the rank and file of the Iranian Revolutionary Guard are sincere and devoted Muslims who are currently in a state of shock and confusion. They believe that there is a possibility of them turning against the regime in the future.
+
+## 1042.52s: How does the speaker explain the Israeli bombing campaign in Syria?
+
+**Category:** Politics
+
+The speaker believes that the Israeli bombing campaign in Syria is aimed at weakening the resistance and that it is not just about power politics. They believe that the Israeli government is intentionally targeting Syrian government facilities and individuals, including those within the Iranian Revolutionary Guard. 
+
+## 1093.64s: What does the speaker say about the Israeli government’s strategy?
+
+**Category:** Politics
+
+The speaker believes that the Israeli government is deliberately employing a gradual strategy of attrition, aiming to weaken the resistance and gain control without triggering a full-scale conflict. 
+
+## 1121.44s: What does the speaker say about the possibility of a major military attack by the resistance?
+
+**Category:** Politics
+
+The speaker believes that a major military attack by the resistance could happen, and that it would involve targeting key Israeli military and civilian facilities. They emphasize that this could trigger a catastrophic response from Israel, with potentially devastating consequences for the region. 
+
+## 1162.44s: What does the speaker say about the future of the conflict?
+
+**Category:** Politics
+
+The speaker believes that the conflict will continue to escalate, with the resistance eventually launching a major attack against Israel. They warn that the situation could quickly turn into a full-scale war, with a high risk of further bloodshed and destruction. 
+
+## 1183.84s: What does the speaker say about the potential for a major escalation of the conflict?
+
+**Category:** Politics
+
+The speaker believes that a major escalation of the conflict is possible, with the resistance eventually launching a major attack against Israel. This could lead to a catastrophic response from Israel, potentially involving their allies in the region and escalating the conflict beyond the borders of the Middle East.
+
+## 1215.52s: What does the speaker say about the possibility of a major attack against Israel?
+
+**Category:** Politics
+
+The speaker believes that a major attack against Israel is inevitable, and that it will be a decisive moment in the conflict. This could lead to a catastrophic response from Israel, potentially involving their allies in the region and escalating the conflict beyond the borders of the Middle East.
+
+## 1245.64s: What does the speaker say about the possibility of a change in the Israeli government’s strategy?
+
+**Category:** Politics
+
+The speaker believes that the Israeli government may be forced to change their strategy due to the pressure they are facing. This could involve making concessions to the Palestinian people, or potentially even stepping back from the conflict entirely.
+
+## 1307.44s: What is the speaker's perspective on the potential outcomes of the conflict?
+
+**Category:** Politics
+
+The speaker believes that the conflict will ultimately be resolved according to Allah's plan, and that any outcome is ultimately in the hands of God. They emphasize the importance of trust in Allah's decision and accept any outcome as being ultimately for the good of the Muslim people.
+
+## 1321.24s: What does the speaker hope for in the future of the conflict?
+
+**Category:** Politics
+
+The speaker hopes for a decisive victory against Israel, leading to their imperial collapse. They believe that a massive military attack against key Israeli infrastructure could achieve this, potentially leading to a mass exodus of Israeli citizens and a collapse of their economy.
+
+## 1390.279s: How does the speaker feel about the Israeli threat of nuclear war?
+
+**Category:** Politics
+
+The speaker dismisses the Israeli threat of nuclear war, believing that it is based on fearmongering and a flawed analysis of the situation. They argue that the use of nuclear weapons is only a viable option for strategic defense and not for offensive purposes.
+
+## 1425.52s: What is the speaker’s opinion on the role of Russia in the conflict?
+
+**Category:** Politics
+
+The speaker believes that Russia views Israel as a Western implant and that they are not willing to allow Israel to use nuclear weapons against other countries, particularly in the context of the Ukrainian conflict.
+
+## 1447.08s: What does the speaker say about the potential for nuclear war?
+
+**Category:** Politics
+
+The speaker dismisses the threat of nuclear war as being unrealistic and unlikely. They believe that Israel would be met with strong opposition if they attempted to use nuclear weapons, and that it would be a disastrous move for all parties involved.
+
+## 1485.2s: What does the speaker say about the situation in Ukraine?
+
+**Category:** Politics
+
+The speaker believes that the Ukrainian government is essentially controlled by the United States and that the true number of casualties is significantly higher than what is being reported. They emphasize the brutal nature of the war and the lack of any real effort for peace. 
+
+## 1565.64s: What does the speaker say about the Ukrainian military?
+
+**Category:** Politics
+
+The speaker believes that the Ukrainian military is severely depleted and that they are resorting to desperate measures, like forcing civilians into service, to maintain their fighting capacity. They emphasize the lack of experience and training among the Ukrainian forces. 
+
+## 1628.399s: What does the speaker say about the focus of the Israeli government?
+
+**Category:** Politics
+
+The speaker believes that the Israeli government is more focused on the situation in Gaza and the international pressure they are facing than they are on the conflict in Ukraine. They attribute this to their reliance on funding from Zionist donors and their belief that the coming of Christ will be accelerated by their presence in Palestine. 
+
+## 1684.88s: What does the speaker say about the potential for a rapid collapse of the Ukrainian government?
+
+**Category:** Politics
+
+The speaker believes that the Ukrainian government is on the verge of collapse, and that the situation will only worsen in the coming months. They attribute this to the lack of military support from the West and the growing internal divisions within the country.
+
+## 1701.0s: What is the speaker's opinion on the Russian military goals in Ukraine?
+
+**Category:** Politics
+
+The speaker believes that Russia’s military goals in Ukraine are limited to protecting Russian-speaking areas and preventing further aggression against Russian cities. They emphasize the historical context of the conflict and believe that Russia was justified in taking action after being ignored for years by the West. 
+
+## 1755.039s: What does the speaker say about the future of the conflict in Lebanon?
+
+**Category:** Politics
+
+The speaker believes that an attack against Lebanon, potentially leading to a full-scale conflict, is inevitable. They believe that Israel is unlikely to be able to achieve a decisive victory in Gaza and is looking for a way to salvage their military reputation.
+
+## 1775.84s: What does the speaker say about the possibility of a backfire for Israel?
+
+**Category:** Politics
+
+The speaker believes that any attempt by Israel to secure a victory in Lebanon will likely backfire. They believe that this will give Hamas a chance to focus on a more offensive strategy and potentially achieve a decisive victory in Gaza.
+
+## 1801.44s: How does the speaker explain the difficulty for Israel in achieving a victory in Gaza?
+
+**Category:** Politics
+
+The speaker believes that Israel is unlikely to be able to achieve a decisive victory in Gaza because they cannot completely eliminate Hamas. They believe that Hamas has proven resilient and will continue to resist Israeli aggression. 
+
+## 1845.519s: What does the speaker say about the establishment of an ISIS settlement in Gaza?
+
+**Category:** Politics
+
+The speaker believes that the establishment of an ISIS settlement in Gaza is purely symbolic and that they are living in a dream world. They are confident that the resistance will ultimately prevail and that the Israeli government is likely to overestimate their own capabilities.
+
+## 1880.88s: What does the speaker say about the possibility of a major change in the West Bank?
+
+**Category:** Politics
+
+The speaker believes that there is a possibility of a major change in the West Bank, potentially leading to a more unified resistance. They mention a recent meeting between Hamas and the remnants of Fatah, which could lead to a new alliance and a more effective resistance movement.
+
+## 1964.2s: What is the speaker's message to the Palestinians in the West Bank?
+
+**Category:** Politics
+
+The speaker encourages the Palestinians in the West Bank to continue resisting Israeli aggression, emphasizing the importance of persistence and unity. He believes that the current situation presents an opportunity for a more effective and coordinated resistance effort. 
+
+## 1999.72s: What does the speaker say about the need to destroy the “shield” protecting Israel?
+
+**Category:** Politics
+
+The speaker believes that the Palestinians in the West Bank are facing an enemy that is protected by a “shield” that needs to be destroyed. They believe that this shield is represented by the Palestinian Authority and its leader, Mahmoud Abbas, and that removing him from power is essential for a successful resistance.
+
+## 2035.399s: What does the speaker say about the importance of targeting Mahmoud Abbas?
+
+**Category:** Politics
+
+The speaker believes that removing Mahmoud Abbas from power is essential for a successful Palestinian resistance. They believe that Abbas is a puppet of the Israeli government and that his removal would cripple the Israeli government’s control over the West Bank, allowing for a more effective resistance. 
+
+## 2057.96s: How does the speaker compare the resistance in the West Bank to that in Gaza?
+
+**Category:** Politics
+
+The speaker believes that the resistance in the West Bank will be vastly different from the resistance in Gaza. They believe that the West Bank is more integrated with Israeli settlements and that a military campaign similar to that in Gaza is not feasible. 
+
+## 2092.8s: What does the speaker say about the need for courage and capability in the West Bank?
+
+**Category:** Politics
+
+The speaker encourages the Palestinians in the West Bank to show their courage and capability, emphasizing the need for a more active and direct resistance. They believe that the current situation calls for a more aggressive and assertive strategy. 
+
+## 2109.28s: How does the speaker compare the situation in Gaza to that in the West Bank?
+
+**Category:** Politics
+
+The speaker believes that the situation in Gaza is more difficult for the resistance due to the constant bombardment of civilian areas. They believe that the resistance in the West Bank has a better chance of success because they can target Israeli military units and avoid direct confrontations with civilians. 
+
+## 2137.48s: How does the speaker describe the Israeli government’s plans for the West Bank?
+
+**Category:** Politics
+
+The speaker believes that the Israeli government is planning a major military operation in the West Bank, potentially involving the use of force against civilians. They characterize the Israeli government as being murderous and criminal and believe that their actions are driven by a desire to eliminate the Palestinian people.
+
+## 2163.319s: What does the speaker say about the need to remove the “Zionist wolves in sheep’s clothing”?
+
+**Category:** Politics
+
+The speaker believes that the Palestinian people need to identify and remove those who are working with the Israeli government, even if they appear to be Palestinian. They emphasize the importance of not being deceived by outward appearances and taking decisive action against any collaborators with the enemy.
+
+## 2191.04s: How does the speaker view the Palestinian Authority and its leadership?
+
+**Category:** Politics
+
+The speaker believes that the Palestinian Authority and its leadership are irrelevant and that they should be removed from power. They believe that the PA is a puppet of the Israeli government and that it is hindering the Palestinian resistance effort.
+
+## 2209.16s: What does the speaker say about the potential for Palestinian collaborators?
+
+**Category:** Politics
+
+The speaker believes that some Palestinians may choose to collaborate with the Israeli government, either out of self-preservation or opportunism. They argue that these individuals should be exposed and dealt with accordingly, and that they are ultimately traitors to the Palestinian cause.
+
+## 2229.04s: What does the speaker say about the hope for change in the Arab regimes?
+
+**Category:** Politics
+
+The speaker believes that there is very little hope for change in the Arab regimes, unless individual soldiers or citizens decide to take a more active stance against the Israeli government. They believe that this requires a shift away from emotional and irrational responses and towards a more strategic and calculated approach. 
+
+## 2289.56s: What does the speaker say about the need for a change in mentality?
+
+**Category:** Politics
+
+The speaker believes that the Arab world needs to move away from an emotional and irrational response to the Israeli conflict and adopt a more strategic and calculated approach. They emphasize the importance of critical thinking and a willingness to challenge the status quo. 
+
+## 2303.839s: What does the speaker say about the demonstrations in Jordan?
+
+**Category:** Politics
+
+The speaker mentions the ongoing demonstrations in Jordan against the bridge supplying Israel. They believe that these demonstrations are a positive sign, but that they are not enough. They believe that more direct action, such as destroying the bridge, is necessary to effectively disrupt the flow of supplies to Israel. 
+
+## 2346.8s: What does the speaker say about the legitimacy of action against the bridge supplying Israel?
+
+**Category:** Politics
+
+The speaker believes that direct action, such as destroying the bridge supplying Israel, is both feasible and legitimate under Islamic law and morality. They dismiss the authority of the Jordanian King and any potential legal repercussions, arguing that the fight against oppression justifies such actions. 
+
+## 2364.64s: What does the speaker say about the situation in Iraq?
+
+**Category:** Politics
+
+The speaker believes that the situation in Iraq is dire, with the resistance weakened and subdued by the Iraqi government, which is seen as an agent of the United States. They are concerned that the Iraqi resistance has been compromised and may be acting under the command of the Iranian Revolutionary Guard.
+
+## 2414.599s: How does the speaker feel about the current state of the Iraqi resistance?
+
+**Category:** Politics
+
+The speaker is disappointed by the state of the Iraqi resistance, believing that their pride and strength have been subdued. They are concerned that the Iraqi people have been controlled and manipulated by their own government, which is seen as an agent of the United States. 
+
+## 2431.4s: What does the speaker say about the situation in Yemen?
+
+**Category:** Politics
+
+The speaker is optimistic about the situation in Yemen, believing that they are advancing and have successfully defeated British and American forces. They believe that they are prepared for further challenges and that they have more surprises in store for their enemies. 
+
+## 2482.2s: What does the speaker say about the possibility of intervention in Gaza?
+
+**Category:** Politics
+
+The speaker believes that there is no immediate threat of intervention in Gaza by foreign powers, such as the United States. They believe that the international community is more focused on other issues, but that they may be preparing to intervene elsewhere.
+
+## 2502.92s: What does the speaker say about the behind-the-scenes plotting against the Palestinian people?
+
+**Category:** Politics
+
+The speaker believes that there is a lot of behind-the-scenes plotting and criminal activity aimed at harming the Palestinian people. They point to a lack of unity among Arab leaders and the constant scheming and manipulations from the United States and its allies. 
+
+## 2537.8s: What does the speaker call for in response to the situation?
+
+**Category:** Politics
+
+The speaker calls for mass demonstrations against the United States government, particularly against the White House and the Capitol. They see this as a way to honor the sacrifice of those who have died in the fight against oppression and to pressure the US to change its policies.
+
+## 2559.44s: What does the speaker say about the lack of organization among Arab and Muslim communities in America?
+
+**Category:** Politics
+
+The speaker believes that Arab and Muslim communities in America are not as well-organized as other minority groups, such as the Black community. They believe that this lack of organization has limited their ability to effectively protest against injustice and oppression.
+
+## 2608.48s: How does the speaker feel about the sacrifice of Aaron Bushner?
+
+**Category:** Politics
+
+The speaker believes that the sacrifice of Aaron Bushner, a Palestinian activist killed by the Israeli military, should not be in vain. They emphasize the importance of continuing the fight for justice and freedom, even in the face of oppression and loss. 
+
+## 2631.119s: What does the speaker say about the significance of Ramadan?
+
+**Category:** Politics
+
+The speaker believes that Ramadan will be a critical period in the West Bank, particularly due to the potential for increased conflict and violence. They mention the issue of Al-Aqsa mosque and the restrictions imposed by the Israeli government, potentially leading to a major confrontation. 
+
+## 2676.839s: What does the speaker say about the movement to rebuild the Temple Mount?
+
+**Category:** Politics
+
+The speaker believes that there is a movement among ultra-orthodox Jews to rebuild the Temple Mount in Jerusalem, which they see as a dangerous and ominous development. They believe that this could lead to a major escalation of the conflict and that it is a sign of the growing extremism among certain elements within the Israeli government.
+
+## 2700.24s: What does the speaker say about the upcoming weeks?
+
+**Category:** Politics
+
+The speaker believes that the coming weeks will be crucial for the conflict, with the potential for major events in both Gaza and the West Bank. They emphasize the importance of remaining vigilant and prepared for any possible developments. 
+
+
