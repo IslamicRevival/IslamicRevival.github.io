@@ -40681,3 +40681,2501 @@ The speaker is outlining the conditions for a self-governing community. They are
 The speaker is emphasizing the importance of following their religion. They are suggesting that living in accordance with Islamic principles is the primary requirement for their community. 
 
 
+## https://www.youtube.com/watch?v=pGmwh-TrPbU
+
+## 3.399s: What is worship? 
+**Category:**  Islam 
+Worship is the act of showing devotion or reverence to a higher power, in Islam, this is primarily directed towards Allah. 
+
+## 5.56s: What is grave worship?
+**Category:**  Islam
+Grave worship is a term used to describe practices that are seen as inappropriate veneration of the dead, often involving seeking intercession or blessings from deceased individuals.  It is considered a deviant practice in mainstream Islam.
+
+## 8.76s: What is the basis of the claim that Islam is deficient in its teachings about grave worship?
+**Category:**  Islam
+The accusation that Islam is deficient in addressing grave worship is based on the belief that the Quran and the teachings of the Prophet Muhammad do not explicitly condemn the practice. 
+
+## 11.96s: What is the accusation against the Messenger of Allah and the Quran regarding grave worship?
+**Category:**  Islam
+The accusation is that the Quran and the Prophet Muhammad failed to adequately address and condemn grave worship, implying that Islam is incomplete or lacks clarity on this issue.
+
+## 20.16s: What is the argument regarding the addition of practices related to grave worship?
+**Category:**  Islam
+The argument is that the practices associated with grave worship, such as seeking intercession from the dead, were not part of the original teachings of Islam and were introduced later.
+
+## 23.68s: What is the accusation against the Messenger of Allah regarding grave worship?
+**Category:**  Islam
+The accusation is that the Messenger of Allah failed to deliver a complete message regarding grave worship, implying that he did not condemn the practice or provide sufficient guidance on the issue.
+
+## 28.199s: What is the argument regarding the completion of the message of Islam?
+**Category:**  Islam
+The argument is that the message of Islam, as revealed through the Quran and the teachings of the Prophet Muhammad, is complete and does not require further additions or modifications. 
+
+## 38.6s: What is the speaker's view on individuals who practice grave worship?
+**Category:**  Islam
+The speaker views individuals who practice grave worship as intellectually impaired or lacking the capacity to understand the true teachings of Islam. 
+
+## 41.64s: What is the speaker's recommendation for individuals who practice grave worship despite being aware of its impropriety?
+**Category:**  Islam
+The speaker recommends that individuals who persist in grave worship despite acknowledging its incompatibility with Islam should be deemed as apostates, a term referring to those who have renounced their faith. 
+
+
+## https://www.youtube.com/watch?v=KxinloxIAXA
+
+##  12.2s : streaming or I can't see you okay see
+
+**Question:** How does the speaker make sure viewers are notified of new content? 
+**Category:**  Youtube 
+**Answer:**  The speaker encourages viewers to subscribe and like the channel to be notified of new content. 
+
+
+## 39.719s : just realized on
+
+**Question:** What is the name of the speaker? 
+**Category:** Host
+**Answer:** The speaker's name is Dr. Muhammad al-Mi. 
+
+
+## 47.239s : with Dr Dr Muhammad almi these sessions
+
+**Question:** When are the sessions broadcast? 
+**Category:** Schedule
+**Answer:** The sessions are broadcast every Sunday at 2 pm. 
+
+
+## 65.0s : dedicated Q&A session so be sure to bring your any
+
+**Question:** What will the Q&A session focus on? 
+**Category:** Topics
+**Answer:** The Q&A session will focus on questions viewers have about the topics discussed. 
+
+
+## 76.36s : be having our Palestine update which is
+
+**Question:** How often does the Palestine update occur? 
+**Category:** Schedule
+**Answer:** The Palestine update happens every first Sunday of the month. 
+
+
+## 101.2s : to say a few words it's been an
+
+**Question:** What does the speaker discuss in his opening remarks? 
+**Category:** Islam 
+**Answer:** The speaker discusses the story of Muhammad in the Surah and how it relates to contemporary issues such as the response to the situation in Palestine. 
+
+
+## 180.92s : reference this to the other con that's
+
+**Question:** What is the "other con" that the speaker is referring to? 
+**Category:** Palestine
+**Answer:**  The speaker is referring to the narrative that Muslims should trust their leaders in relation to the situation in Palestine. 
+
+
+## 229.48s : Masid he actually um coined the phrase
+
+**Question:** What is the phrase that Sami Hamdi coined? 
+**Category:** Islam 
+**Answer:** Sami Hamdi coined the phrase "one-Muslims" to describe Muslims who only read the Surah but don't apply its teachings to their lives. 
+
+
+## 255.959s : justice to what was said and he was
+
+**Question:** What was Sami Hamdi's central argument in his talk? 
+**Category:** Islam 
+**Answer:** Sami Hamdi argued that Muslims are not weak but rather pacified, asleep, and distracted. 
+
+
+## 300.8s : what we we all have a part to
+
+**Question:** What does the speaker believe is needed to address the issue of "one-Muslims"? 
+**Category:** Islam 
+**Answer:** The speaker believes that a stronger narrative about ruling, which is incontrovertible, is needed to address the issue of "one-Muslims." 
+
+
+## 332.88s : understanding and we hope that these
+
+**Question:** What is the speaker's goal with the upcoming sessions? 
+**Category:** Islam 
+**Answer:** The speaker hopes that the upcoming sessions will help viewers to build a deeper understanding of the Quran and its teachings. 
+
+
+## 352.36s : that um somebody said great warrior once
+
+**Question:** What story does the speaker use to illustrate a point about the situation in Palestine? 
+**Category:**  Palestine
+**Answer:**  The speaker tells the story of three bears and a lion to illustrate the danger of complacency in the face of the "lion," representing oppressive regimes, and how we need to learn from children's stories.
+
+
+## 417.44s : charlatans who say they have a big game
+
+**Question:** Who does the speaker consider to be "charlatans"?
+**Category:** Leaders
+**Answer:** The speaker considers those who claim to have a big game ahead and know what they're doing in relation to the Palestine issue to be "charlatans." 
+
+
+## 471.56s : Did you mention the the Daye the date today
+
+**Question:** What is the date of the session?
+**Category:** Schedule
+**Answer:** The date of the session is August 25, 2024. 
+
+
+## 492.639s : okay we are on Surah IIM Ayah
+
+**Question:** What Surah and Ayah are being discussed in the session? 
+**Category:** Quran
+**Answer:** The session is discussing Surah Al-Imran, Ayah 19. 
+
+
+## 515.44 : art th not aware that God had has
+
+**Question:** What is the main point of Ayah 19 of Surah Al-Imran?
+**Category:** Quran
+**Answer:** The main point of the Ayah is that Allah is the creator of the heavens and earth, and he has the power to do whatever he wills, including replacing mankind with a new creation.
+
+
+## 579.04 : will establish there there must be a
+
+**Question:** What is the speaker's argument for the existence of a necessary existing being?
+**Category:**  Islam 
+**Answer:**  The speaker argues that we are contingent beings who exist by necessity and that, therefore, a necessary existing being must have created us.
+
+
+## 660.519s : alternative of that but his philosoph
+
+**Question:** What is the speaker's perspective on the debate between atheists and Salafi scholars? 
+**Category:**  Islam 
+**Answer:**  The speaker believes that the Salafi scholars were manhandled by the atheist in the debate because their understanding of the Quran, Sunnah, and the world is shallow and irrational. 
+
+
+## 750.56 : problem in the west where a is still
+
+**Question:** What is the speaker's point of view on the argument that a God must be a free agent and completely good? 
+**Category:**  Islam 
+**Answer:**  The speaker believes that the argument for God being a free agent and completely good is flawed. He argues that concepts of good and evil are only meaningful in relation to conscious beings who have a purpose, and that blind nature acting by necessity cannot be judged in terms of good or evil. 
+
+
+## 846.68 : the purpose there many POS purposes
+
+**Question:** What is the speaker's point of view on the purpose of creation? 
+**Category:**  Islam 
+**Answer:** The speaker argues that Allah chooses the purpose of creation based on his own knowledge and perspective, and that it is not up to humans to determine what is good or bad.
+
+
+## 884.639s : meaning he created the truth meaning
+
+**Question:**  What is the speaker's explanation of the phrase "Allah created the heavens and earth with truth"? 
+**Category:** Quran 
+**Answer:**  The speaker explains that "truth" refers to the purpose of creation, which is to test mankind and elevate some to paradise and punish others. 
+
+
+## 948.72 : purpose and and so on are very deep and
+
+**Question:** What is the speaker's advice for understanding the concept of purpose in relation to Allah's creation? 
+**Category:** Quran
+**Answer:** The speaker advises viewers to understand the concept of purpose systematically and not just take it at face value. 
+
+
+## 989.12 : physic Universe which we are in is
+
+**Question:** Why is this physical universe important according to the speaker? 
+**Category:**  Islam 
+**Answer:** The speaker explains that the physical universe is a testing ground for creation, with a particular focus on humans. 
+
+
+## 1011.68 : moment he promises reward it's final is
+
+**Question:** What is the speaker's point of view on Allah's promises of reward and punishment? 
+**Category:**  Islam 
+**Answer:**  The speaker emphasizes that Allah's promises of reward are absolute and cannot be changed, but his promises of punishment can be averted. 
+
+
+## 1060.16 : will start that's fine but until then it
+
+**Question:** What is the speaker's position on the nature of this world? 
+**Category:**  Islam 
+**Answer:** The speaker argues that this world is a testing ground and that it will continue to be this way until the test is over, regardless of whether people like it or not. 
+
+
+## 1113.4s : other don't think that you that you are
+
+**Question:**  What is the speaker's point of view on Allah's power to remove humans from existence? 
+**Category:**  Islam 
+**Answer:**  The speaker clarifies that while Allah has the power to remove humans from existence, he is not in need of their worship and will not erase them simply because they do not worship him correctly. 
+
+
+## 1187.919s : ay just comment on the first a what's
+
+**Question:** What is the speaker's explanation of the first translation of Ayah 19?
+**Category:** Quran 
+**Answer:**  The speaker explains that the first translation emphasizes Allah's power and that changing the creation is approachable to him. 
+
+
+## 1249.159s : first
+
+**Question:** What is the main point of the speaker's discussion of the next ayah? 
+**Category:**  Islam 
+**Answer:**  The speaker is discussing the idea that everyone will appear before Allah on the day of judgment and that the weak who followed arrogant leaders will not have an excuse for their actions. 
+
+
+## 1303.44 : translation made conning if Allah guided
+
+**Question:** What is the speaker's main point about the first translation of the ayah? 
+**Category:**  Islam 
+**Answer:** The speaker argues that the first translation mistakenly interprets the ayah as if Allah is speaking about himself, when in fact it is the arrogant people who are admitting they were not guided by Allah. 
+
+
+## 1421.4s : have and think Allah does not expose
+
+**Question:** How does the speaker respond to those who believe that they have not committed sins? 
+**Category:**  Islam 
+**Answer:**  The speaker responds that those who think they have not committed sins are lying because they have received enough evidence to know that they have done wrong, such as legislating laws that encroach on Allah's sovereignty. 
+
+
+## 1521.84 : take away from this ey the most
+
+**Question:** What is the speaker's main takeaway from the ayah? 
+**Category:**  Islam 
+**Answer:** The speaker's main takeaway from the ayah is that those who followed tyrannical oppressors have no excuse for their actions. 
+
+
+## 1621.679s : follower there's no so excuse for those
+
+**Question:**  What is the speaker's response to those who claim they were forced to commit crimes by their leaders? 
+**Category:**  Islam 
+**Answer:**  The speaker argues that there is no excuse for following a leader who commands the commission of crimes, as individuals have the capacity to choose not to obey such commands. 
+
+
+## 1716.36 : after lying claiming Allah did not guide
+
+**Question:** What is the speaker's response to those who claim that Allah did not guide them? 
+**Category:**  Islam 
+**Answer:** The speaker argues that those who claim Allah did not guide them are lying, as they were presented with guidance and chose to follow misguidance. 
+
+
+## 1751.519s : that's what the the tyrants will tell
+
+**Question:** What is the speaker's point about the tyrannical leaders' response to those who suffer? 
+**Category:**  Islam 
+**Answer:** The speaker points out that tyrannical leaders will try to silence those who are suffering by telling them to shut up and not bother them with their mourning. 
+
+
+## 1840.72 : it first translation and when everything
+
+**Question:** What does the speaker say Satan will say in Jannah?
+**Category:**  Islam 
+**Answer:** The speaker says that Satan will say in Jannah that he deceived people with promises, but he had no real power over them, and they are to blame for their own actions. 
+
+
+## 1904.88 : so says the the devil gives fin final
+
+**Question:** What does the speaker say is the devil's final speech?
+**Category:**  Islam 
+**Answer:** The speaker says that the devil's final speech in Jannah is a confession of his deception and a reminder that those who committed kufr are to blame for their own actions. 
+
+
+## 1934.519s : himself is a hopeless case what he says
+
+**Question:** How does the speaker respond to Satan's claims? 
+**Category:**  Islam 
+**Answer:** The speaker argues that Satan's claims are a hopeless case because he is admitting that Allah's promises are always true, while his own promises were lies.
+
+
+## 1999.24 : you know that ful them but he gave them
+
+**Question:** How does Satan try to deceive people according to the speaker? 
+**Category:**  Islam 
+**Answer:**  The speaker argues that Satan deceives people by making promises of enjoyment and fulfillment in this life, while downplaying the reality of the afterlife and the consequences of their actions. 
+
+
+## 2065.399s : people of religion and so on invented
+
+**Question:**  What is the speaker's point of view on religion and its role in society? 
+**Category:**  Islam 
+**Answer:** The speaker argues that religion is often used to subdue people and keep them under control. 
+
+
+## 2074.52 : that starts with some kind of whispering
+
+**Question:**  What is the origin of class struggle according to the speaker? 
+**Category:**  Society 
+**Answer:**  The speaker believes that class struggle is often instigated by Satan, who whispers lies and confusion to people, preventing them from seeing the true purpose of the universe. 
+
+
+## 2110.16 : persuation is quite limited he comes
+
+**Question:** How does Satan try to persuade people?
+**Category:**  Islam 
+**Answer:**  Satan tries to persuade people by exploiting their weaknesses, such as their desire for wealth, power, and sexual fulfillment.
+
+
+## 2149.56 : indulg in science and philosophy and if
+
+**Question:** How does Satan tempt those who indulge in science and philosophy? 
+**Category:**  Islam 
+**Answer:** Satan tempts those who indulge in science and philosophy by encouraging them to feel superior to those who believe in prophets and revelation, and to dismiss ancient ideas as irrelevant.
+
+
+## 2194.2s : rulers by tyrants and this and the devil
+
+**Question:**  How has Satan been able to corrupt scriptures? 
+**Category:**  Islam 
+**Answer:**  The speaker argues that Satan has been able to corrupt scriptures through the actions of scholars, rulers, and tyrants who have inserted their own interpretations and biases into the text. 
+
+
+## 2223.96 : there contradiction there so so he plays
+
+**Question:** How does Satan use contradictions in scriptures to deceive people?
+**Category:**  Islam 
+**Answer:**  The speaker says Satan plays on the weaknesses of humans by using contradictions in scriptures to make people doubt the authenticity of religious texts and follow their own desires.
+
+
+## 2277.8s : something El there you have to look at
+
+**Question:** What does the speaker encourage viewers to do with their understanding of the world?
+**Category:**  Islam 
+**Answer:** The speaker encourages viewers to examine the world with more scrutiny and appreciation, recognizing that humans are capable of higher-level thinking and not just acting on biological desires. 
+
+
+## 2298.0s : the game in all kinds of quarters right
+
+**Question:**  How does Satan operate according to the speaker? 
+**Category:**  Islam 
+**Answer:**  The speaker explains that Satan operates by sowing discord and confusion from all sides, attacking both left and right, and playing against both front and back. 
+
+
+## 2324.359s : best you have no power over my my my
+
+**Question:**  How does Allah respond to Satan's attempts to deceive people? 
+**Category:**  Islam 
+**Answer:** Allah tells Satan that he has no power over his servants except those who have already been misled by him.
+
+
+## 2356.28 : power on you and then he makes two
+
+**Question:** What two important statements does Satan make in his final speech? 
+**Category:**  Islam 
+**Answer:**  Satan first rejects any attribution of Divinity to himself and secondly rejects any claim that he has the power to legislate or create laws. 
+
+
+## 2382.24 : that devil whisper that to the ideas is
+
+**Question:** What is the speaker's explanation of why some people attribute divinity to the devil? 
+**Category:**  Islam 
+**Answer:** The speaker argues that some people attribute divinity to the devil because they cannot reconcile the existence of evil with the idea of a completely good God. 
+
+
+## 2404.28 : evil or Evil coming from Allah they not
+
+**Question:** What is the speaker's point of view on the nature of evil?
+**Category:**  Islam 
+**Answer:** The speaker argues that those who attribute evil to Allah do not understand the nature of evil and are falling into a trap set by the devil. 
+
+
+## 2413.88 : reject all attribution of divinity to me
+
+**Question:** How does Satan explain his lack of power over those in Jannah? 
+**Category:**  Islam 
+**Answer:** Satan explains his lack of power over those in Jannah by saying that he has no ability to help them, just as they have no ability to help him, and that he has always rejected the idea of being associated with God. 
+
+
+## 2447.92 : it may have saved him but it didn't say
+
+**Question:** What is the speaker's point about Satan's confession in Jannah? 
+**Category:**  Islam 
+**Answer:** The speaker argues that Satan's confession in Jannah will not save him from punishment because he did not confess when it mattered. 
+
+
+## 2486.079s : translation but those who have attained
+
+**Question:** What is the speaker's discussion of the next ayah?
+**Category:**  Islam 
+**Answer:** The speaker is describing the blessings that await those who have faith and do righteous deeds. 
+
+
+## 2510.44 : under which rivers flow doesn't see
+
+**Question:** What is the speaker's point about the description of rivers in Jannah? 
+**Category:**  Islam 
+**Answer:** The speaker argues that the description of rivers in Jannah is metaphorical, meaning it is not necessarily just literal water but could also include other forms of sustenance, like milk, honey, and even energy sources like electricity. 
+
+
+## 2624.92 : the whole Spirit there is peace
+
+**Question:** What is the main point of the speaker's discussion about Jannah? 
+**Category:**  Islam 
+**Answer:** The speaker emphasizes that the main point of the description of Jannah is not just the physical comforts, but rather the atmosphere of peace and tranquility that permeates all aspects of existence there. 
+
+
+## 2686.28 : second first
+
+**Question:** What is the next ayah that the speaker discusses? 
+**Category:** Quran 
+**Answer:** The speaker is now discussing the next ayah, which compares a good word to a good tree. 
+
+
+## 2719.8s : him said what is this this three so the
+
+**Question:** What does the speaker say the people thought Allah would use as an example in the ayah? 
+**Category:** Quran 
+**Answer:** The speaker says that the people thought Allah would use an example of a unique tree that was special or rare to them. 
+
+
+## 2769.64 : the the palm tree the simp M Medina is
+
+**Question:** What tree did people believe was the example in the ayah? 
+**Category:**  Quran 
+**Answer:** The people believed that the example in the ayah was a palm tree. 
+
+
+## 2811.88 : would be the P
+
+**Question:** What did Abdar say was the example in the ayah? 
+**Category:** Quran 
+**Answer:** Abdar said that the example in the ayah was the palm tree, but he didn't say it out loud because he was afraid of being wrong. 
+
+
+## 2840.52 : sometime an example far away on this
+
+**Question:** What is the speaker's point about Allah's use of examples in the Quran? 
+**Category:** Quran 
+**Answer:** The speaker emphasizes that Allah often uses examples that are very obvious and close at hand, even if people fail to recognize them. 
+
+
+## 2863.68 : is the Give an example that is the most
+
+**Question:**  What is the speaker's explanation of the phrase "good word"? 
+**Category:**  Islam 
+**Answer:**  The speaker explains that a good word is like a good tree with deep roots that produces fruit, meaning it is based on deep conviction and brings forth positive actions. 
+
+
+## 2910.52 : only a remaining stem a dead stem that's
+
+**Question:** What is the speaker's explanation of a "corrupt word"? 
+**Category:**  Islam 
+**Answer:**  The speaker compares a corrupt word to a dead tree that has been cut off at the stem, meaning it is not rooted in conviction and does not produce good fruits.
+
+
+## 2942.92 : the
+
+**Question:** What is the next ayah that the speaker is discussing? 
+**Category:** Quran 
+**Answer:** The speaker is discussing the next ayah, which describes the fruitfulness of a good tree. 
+
+
+## 3003.839s : because remember remember the knowledge
+
+**Question:** What is the speaker's point about the difference between the two translations of the ayah? 
+**Category:**  Quran 
+**Answer:**  The speaker explains that both translations are valid, with the first focusing on remembering the truth and the second emphasizing reflection and study. 
+
+
+## 3035.079s : they they they they thought the meaning
+
+**Question:** What did the people understand about the example of the tree in the ayah? 
+**Category:**  Quran 
+**Answer:**  The people understood that the example of the tree meant that it had deep roots and produced fruit, but they missed the obvious example of the palm tree in front of them. 
+
+
+## 3071.599s : because no no tree you know nothing
+
+**Question:** What is the speaker's explanation of the phrase "yielding its fruit at all times by its Sustainer's leave"? 
+**Category:**  Islam 
+**Answer:** The speaker explains that nothing happens without Allah's permission, and that even the palm tree, which produces fruit seasonally, does so with Allah's leave. 
+
+
+## 3100.319s : example of an evil
+
+**Question:** What is the speaker's point about the next ayah? 
+**Category:** Quran 
+**Answer:** The speaker is about to discuss the next ayah, which compares a corrupt word to a rotten tree. 
+
+
+## 3146.24 : is is not not one who AB rooted there one
+
+**Question:** What is the speaker's explanation of the phrase "corrupt tree"? 
+**Category:** Quran 
+**Answer:** The speaker explains that a corrupt tree is not one that has been uprooted and lies flat on the ground, but rather one that has shallow roots and produces bitter fruits. 
+
+
+## 3214.64 : is evil evil here meaning evil evil
+
+**Question:** What is the speaker's explanation of the phrase "evil word"? 
+**Category:**  Islam 
+**Answer:** The speaker explains that an evil word is one that contradicts the fundamental truth about Allah and produces bitter fruits, meaning it is not rooted in conviction and does not motivate positive actions.
+
+
+## 3293.96 : next first translation
+
+**Question:** What is the main point of the next ayah that the speaker discusses?
+**Category:**  Islam 
+**Answer:** The speaker discusses the ayah which states that Allah gives steadfastness to those who have faith and firm speech, while he lets the unjust go astray.
+
+
+## 3325.96 : second
+
+**Question:**  What is the speaker's point about the translation of the phrase "God lets the unjust go astray"?
+**Category:**  Islam 
+**Answer:** The speaker argues that the phrase "God lets the unjust go astray" can be interpreted in a few ways, including the idea that Allah might give them additional misguidance as a punishment for their persistence in rejection, or that he simply lets them go astray without offering them any help.
+
+
+## 3352.64 : nature of the Mind the nature of the
+
+**Question:** What is the speaker's point about the nature of the universe in relation to Allah's actions? 
+**Category:**  Islam 
+**Answer:** The speaker argues that the unjust are not necessarily misled by Allah's direct action, but rather by the nature of their own minds, the nature of the universe, or by Allah's permission. 
+
+
+## 3410.28 : System of the universe or Allah by
+
+**Question:** How does Allah punish those who reject him according to the speaker?
+**Category:**  Islam 
+**Answer:**  The speaker says Allah can punish those who reject him by either working through the system of the universe, such as by causing them to suffer calamity, or by taking direct action to harden their hearts. 
+
+
+## 3431.28 : there's a video an atheist discussing
+
+**Question:**  What video does the speaker mention? 
+**Category:**  Islam 
+**Answer:**  The speaker mentions a video of an atheist discussing the Old Testament, which he finds interesting because it demonstrates how some atheists misrepresent the message of the prophets.
+
+
+## 3481.28 : also to to clarify that what in the Old
+
+**Question:** What does the speaker say is a fabrication in the Old Testament?
+**Category:**  Islam 
+**Answer:**  The speaker says that the Old Testament contains a fabrication about God telling Moses to harden Pharaoh's heart so that he wouldn't accept guidance and could be punished.
+
+
+## 3503.0s : it in description the video about about
+
+**Question:** What is the topic of the video that the speaker mentions? 
+**Category:**  Islam 
+**Answer:** The speaker mentions a video about the Old Testament story of God hardening Pharaoh's heart. 
+
+
+## 3535.2s : when I hear that you it's amazing
+
+**Question:** What does the speaker say is amazing about the Old Testament story of God hardening Pharaoh's heart? 
+**Category:**  Islam 
+**Answer:**  The speaker finds it amazing that the Old Testament story of God hardening Pharaoh's heart attributes such a malicious and unethical action to God. 
+
+
+## 3612.119s : so why this that I send you just just to
+
+**Question:**  What does the speaker say is the reason for the fabrication in the Old Testament? 
+**Category:**  Islam 
+**Answer:**  The speaker argues that the fabrication in the Old Testament is likely meant to make God seem mischievous and powerful. 
+
+
+## 3622.64 : multiple times and clarify many many
+
+**Question:** What does the speaker say the Quran clarifies? 
+**Category:**  Islam 
+**Answer:**  The speaker says that the Quran clarifies many blunders and fabrications in the Old Testament, especially concerning the issue of predestination and God's actions. 
+
+
+## 3654.72 : the beginning Allah affirms the believer
+
+**Question:**  What is the speaker's explanation of the phrase "God gives stead steadfastness to those who believe with firm speech"? 
+**Category:**  Islam 
+**Answer:** The speaker explains that this refers to the believer's firm conviction in their faith, which is reflected in their actions and speech. 
+
+
+## 3672.28 : death someone would be questioned by the
+
+**Question:** What is the speaker's point of view about the questioning in the grave?
+**Category:**  Islam 
+**Answer:** The speaker believes that the questioning in the grave is a spiritual experience that occurs in a spiritual state, not a literal physical encounter. 
+
+
+## 3713.2s : comes to
+
+**Question:** What happens to the believer in the grave according to the speaker?
+**Category:**  Islam 
+**Answer:** The speaker says that the believer in the grave is brought to a spiritual state and questioned by two angels about their faith. 
+
+
+## 3735.799s : him who is your
+
+**Question:** What do the angels ask the believer in the grave? 
+**Category:**  Islam 
+**Answer:** The angels ask the believer in the grave who their Lord is and what their religion is. 
+
+
+## 3771.559s : and reported they say people were
+
+**Question:** What does the speaker say happens to the believer if they don't know the answers to the angels' questions?
+**Category:**  Islam 
+**Answer:** The speaker says that if the believer doesn't know the answers to the angels' questions, they will be struck with fire and told that they will never achieve anything. 
+
+
+## 3790.52 : what what some people interpret that is
+
+**Question:** What does the speaker say is the significance of the questioning in the grave? 
+**Category:**  Islam 
+**Answer:**  The speaker says that the questioning in the grave is a test of the believer's firm conviction and not just their knowledge of the Quran. 
+
+
+## 3803.16 : stck everyone would be unable to but who
+
+**Question:**  What is the speaker's point about the Day of Judgment? 
+**Category:**  Islam 
+**Answer:**  The speaker argues that on the Day of Judgment, all those who were not firm in their belief and did not perform good deeds will be unable to defend themselves, but those who had a deep conviction and followed their faith will be rewarded. 
+
+
+## 3844.64 : know
+
+**Question:**  What does the speaker say is required for a firm belief?
+**Category:**  Islam 
+**Answer:** The speaker emphasizes that a firm belief is more than just knowledge; it involves a transformation of the heart, affecting one's trust, love, hate, and affections. 
+
+
+## 3865.119s : perly on it in and and Allah misu the
+
+**Question:** What does the speaker say happens to those who are not firm in their belief?
+**Category:**  Islam 
+**Answer:**  The speaker explains that Allah misguides those who are not firm in their belief, which could mean either giving them additional misguidance as punishment or simply letting them go astray without offering help. 
+
+
+## 3895.88 : you know the this stuff that you're
+
+**Question:** What does the speaker say about the material discussed in the sessions? 
+**Category:** Youtube 
+**Answer:** The speaker is asked whether the content discussed, which criticizes Christianity, should be published for others to use. 
+
+
+## 3931.119s : in a systematic way okay I'll see if I
+
+**Question:** What does the speaker say about the material discussed in the sessions? 
+**Category:** Youtube 
+**Answer:** The speaker acknowledges that the material discussed has not been organized in a systematic way and that he will see if he can find someone to help with researching Christianity.
+
+
+## 3946.72 : obviously the amount OFA that's crept
+
+**Question:** What does the speaker say about the influence of Sufi teachings on Islam? 
+**Category:** Islam 
+**Answer:** The speaker expresses concern about the amount of "fana" (annihilation) that has crept into some Sufi circles, leading people to abandon the Quran and follow misguided teachings. 
+
+
+## 3983.07 : [Music]
+
+**Question:** What is the next ayah the speaker discusses?
+**Category:** Quran 
+**Answer:** The speaker is discussing the next ayah, which speaks of those who reject truth for worldly gain and lead their people to ruin. 
+
+
+## 4005.599s : do you not see those who in exchange for God's
+
+**Question:** What is the speaker's explanation of the ayah? 
+**Category:** Quran 
+**Answer:** The speaker explains that the ayah is about those who reject Allah's truth for worldly benefits and lead their people astray.
+
+
+## 4082.48 : themselves and their their people into D
+
+**Question:** What does the speaker say happens to those who reject Allah's truth?
+**Category:**  Islam 
+**Answer:** The speaker says that those who reject Allah's truth end up in a state of loss, desolation, and abandonment.
+
+
+## 4099.719s : is yeah next ay so see don't this people
+
+**Question:** What is the speaker's point about the next ayah? 
+**Category:** Quran
+**Answer:** The speaker is discussing the next ayah which describes Jannah as the dwelling of desolation.
+
+
+## 4114.44 : Affairs first translation hell which
+
+**Question:**  How does the speaker explain the phrase "the dwelling of desolation"? 
+**Category:** Quran 
+**Answer:** The speaker explains that "the dwelling of desolation" refers to Jannah, which is a state of loss, abandonment, and forsakenness.
+
+
+## 4168.39 : [Music]
+
+**Question:** What is the speaker discussing in the next ayah?
+**Category:**  Islam 
+**Answer:**  The speaker is discussing the next ayah, which speaks of those who claim that there are powers equal to Allah and stray from his path. 
+
+
+## 4194.88 : that's that's what's what's really
+
+**Question:**  What is the speaker's point about those who reject Allah's truth?
+**Category:**  Islam 
+**Answer:**  The speaker says that the real act of ingratitude is not just failing to thank Allah, but rather attributing to him equals in power or authority, such as by giving legislative power to rulers or kings. 
+
+
+## 4298.02 : [Music]
+
+**Question:** What is the speaker's discussion of the next ayah? 
+**Category:**  Islam 
+**Answer:** The speaker is discussing the next ayah, which instructs believers to establish prayer and give charity. 
+
+
+## 4341.8s : constant in prayer that's not a
+
+**Question:** What does the speaker mean by "establish prayer"? 
+**Category:** Islam 
+**Answer:**  The speaker explains that "establish prayer" means to be constant in prayer, but also to make sure that it is a regular and stable part of one's life, with rituals and routines that structure one's days and home environment. 
+
+
+## 4451.32 : next is spending from that what you have
+
+**Question:**  What does the speaker say about giving charity? 
+**Category:**  Islam 
+**Answer:**  The speaker encourages viewers to give charity from what Allah has bestowed on them, reminding them that everything they have is a gift from Allah. 
+
+
+## 4495.04 : close relation of friendship so you can
+
+**Question:**  What is the speaker's explanation of the phrase "there will come a day when there will be no bargaining and no friendship"?
+**Category:**  Islam 
+**Answer:** The speaker explains that this refers to the Day of Judgment, when there will be no opportunity to bargain with Allah or appeal to friends for help. 
+
+
+## 4530.5s : [Music]
+
+**Question:**  What is the speaker's point about the next ayah? 
+**Category:** Quran
+**Answer:**  The speaker is discussing the next ayah, which introduces Allah as the creator of the heavens and earth and highlights his power and authority.
+
+
+## 4578.36 : you what sub servant you yeah that was
+
+**Question:** What is the speaker's point about the phrase "subservient to his laws"? 
+**Category:**  Islam 
+**Answer:**  The speaker explains that the phrase "subservient to his laws" means that Allah has made these things available for humans to benefit from, including natural resources and energy sources like hydroelectric power.
+
+
+## 4619.159s : attributes what Allah made available for
+
+**Question:** What does the speaker say Allah made available for mankind? 
+**Category:**  Islam 
+**Answer:**  The speaker
+
+## https://www.youtube.com/watch?v=0at1DUFwBxY
+
+## 0.88s: Category Analysis
+
+**Question:**  What is category 15 analysis?
+
+**Category:**  Hadith Analysis 
+
+**Answer:**  Category 15 analysis is about identifying the conditions of a Hadith, such as whether the transmitter is a reliable source and if there are any other sources that corroborate the story.
+
+## 3.68s: Parallelisms
+
+**Question:**  What is parallelism in Hadith analysis?
+
+**Category:**  Hadith Analysis 
+
+**Answer:**  Parallelism refers to having multiple independent transmitters relate the same Hadith, which strengthens its authenticity. It provides corroborating evidence from different sources.
+
+## 12.12s: Attestations
+
+**Question:**  What are attestations in Hadith analysis?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  Attestations are instances where a Hadith is related with the same meaning but through a different chain of transmission. Even if a Hadith lacks parallelism, an attestation can support its authenticity.
+
+## 15.799s: Hadith Condition
+
+**Question:**  What is the condition of a Hadith?
+
+**Category:**  Hadith Analysis 
+
+**Answer:** The condition of a Hadith refers to its authenticity and reliability. This involves assessing factors such as the trustworthiness of the transmitters, the consistency of the narration, and the presence of supporting evidence.
+
+## 18.279s: Transmitter Condition
+
+**Question:**  Is the transmitter alone in transmitting the Hadith?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  To determine the condition of a Hadith, it is important to assess whether the transmitter is the sole source or if others have also transmitted the same Hadith. If there are multiple transmitters, it strengthens the authenticity.
+
+## 20.88s: Known or Unknown
+
+**Question:**  Is the Hadith well-known or not?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  The degree of familiarity with a Hadith is an important consideration. If a Hadith is widely known and transmitted by multiple reliable sources, it is more likely to be authentic.
+
+## 23.64s: Expert Opinion
+
+**Question:**  What is the opinion of the expert Abu Muhammad on the Hadith?
+
+**Category:**  Hadith Analysis 
+
+**Answer:** The expert Abu Muhammad offers guidance on the process of analyzing Hadith. He provides a framework for assessing the authenticity and reliability of a Hadith based on its transmission and source.
+
+## 31.0s: Procedure for Analysis
+
+**Question:**  What is the procedure for analyzing a Hadith?
+
+**Category:**  Hadith Analysis 
+
+**Answer:**  The procedure for analyzing a Hadith involves examining its transmission chain, looking for parallels, and assessing the reliability of the transmitters. 
+
+## 83.92s: Parallelism Example
+
+**Question:**  What is an example of parallelism?
+
+**Category:**  Hadith Analysis 
+
+**Answer:**  An example of parallelism occurs when multiple individuals, other than the original transmitter, relate the same Hadith from the same source. This shows the Hadith is not isolated to a single individual.
+
+## 116.64s: Complete Parallelism
+
+**Question:**  What is complete parallelism?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  Complete parallelism exists when multiple independent chains of transmission corroborate a specific Hadith, making it highly reliable. This means the Hadith is not reliant on a single source.
+
+## 141.8s: Attestation 
+
+**Question:**  What is an attestation?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  An attestation is a type of supporting evidence for a Hadith. It occurs when a Hadith with the same meaning is related through a different chain of transmission, even if the primary Hadith lacks parallelism.
+
+## 143.56s: Attestation Example
+
+**Question:**  What is an example of an attestation?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  An example of an attestation involves a Hadith that is not directly transmitted from the main sources but is related with the same meaning through a different channel. This signifies that the idea or content is supported by multiple sources.
+
+## 160.319s: Uniqueness
+
+**Question:**  How is the uniqueness of a Hadith established?
+
+**Category:**  Hadith Analysis 
+
+**Answer:**  The uniqueness of a Hadith is established when there are no parallel chains of transmission or attestations that support its content. This indicates that it might be a unique transmission with potential limitations.
+
+## 173.64s: Abu's Transmission
+
+**Question:**  When they say Abu was alone in transmitting it from the prophet, what does it mean?
+
+**Category:**  Hadith Analysis 
+
+**Answer:**  It means that Abu was the only transmitter who related the Hadith directly from the Prophet. This situation can raise questions about the authenticity of the Hadith. 
+
+## 197.0s: Non-Existence of Transmission
+
+**Question:**  What does the non-existence of transmission lines for a Hadith mean in terms of parallelism?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  If a Hadith lacks parallel transmission lines, it raises concerns about its authenticity.  It is essential to consider the reliability of the single transmitter and potential factors contributing to the absence of other sources.
+
+## 203.56s: Weak Transmitter
+
+**Question:**  When should a Hadith not be cited as proof if it is related by someone alone?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  A Hadith related by a weak transmitter should not be used as evidence if it is not corroborated by other sources. Weak transmitters are known for inaccuracies or potential bias in their narrations.
+
+## 210.879s: Weak Transmitter as Evidence
+
+**Question:**  When can a weak transmitter be included in establishing parallelism?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  Sometimes, a weak transmitter's narration can be included to establish parallelism, but it is not considered conclusive evidence. It is usually used as a supporting factor, not as a primary source of authentication.
+
+## 220.76s: Weak Transmitters in Bukhari and Muslim
+
+**Question:**  Do Bukhari and Muslim include Hadith from weak transmitters as parallels and attestations?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  Bukhari and Muslim, despite their high standards, may include Hadith from weak transmitters as parallels or attestations. However, they carefully evaluate each case and consider the context and potential limitations.
+
+## 228.519s: Suitability of Weak Transmitters
+
+**Question:**  Is every weak transmitter suitable for use as a parallel or attestation?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  Not every weak transmitter is suitable for use as a parallel or attestation.  The reliability of a weak transmitter must be carefully assessed and their narration must be viewed with caution.
+
+## 232.159s: Weak Transmitter Transmission
+
+**Question:**  When can a weak transmitter's transmission be taken into consideration?
+
+**Category:**  Hadith Analysis
+
+**Answer:** A weak transmitter's transmission can be considered in specific situations, such as when it helps establish parallelism or when it provides additional context or details. However, their testimony is not conclusive evidence.
+
+## 239.84s: Weak Transmitter Transmission
+
+**Question:**  When might a weak transmitter's transmission not be taken into consideration?
+
+**Category:**  Hadith Analysis 
+
+**Answer:**  A weak transmitter's transmission might not be considered when their overall reliability is questionable, or if their narration contradicts other known and reliable sources.
+
+## 245.519s: Parallel and Attestation Example
+
+**Question:**  What is an example of a parallel and attestation?
+
+**Category:**  Hadith Analysis
+
+**Answer:** An example of a parallel and attestation involves the Prophet's statement about the benefits of using a dead animal's hide. It is related through different chains of transmission, highlighting that the Prophet emphasized the importance of utilizing resources efficiently, even from deceased animals. 
+
+## 274.919s: Parallel Version
+
+**Question:** What is a parallel version?
+
+**Category:**  Hadith Analysis
+
+**Answer:** A parallel version is a different account of the same Hadith related by a separate transmitter. It can provide different details or perspectives on the same event or saying.
+
+## 296.28s: Attestation
+
+**Question:** What is an attestation?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  An attestation is a statement supporting the content of a Hadith. It occurs when a different source, through a distinct chain of transmission, confirms the essence of the Hadith.
+
+## 319.759s: Checking the Story
+
+**Question:**  How do we check if the parallel and attestation stories are the same?
+
+**Category:**  Hadith Analysis
+
+**Answer:** It is essential to check if the story in the parallel and attestation versions aligns with the original Hadith. If they narrate different events, it might not be considered true parallelism or attestation.
+
+## 330.8s: Independent Situation
+
+**Question:**  What is an independent situation?
+
+**Category:**  Hadith Analysis 
+
+**Answer:**  An independent situation refers to a separate context or event that is not directly related to the original Hadith. It can be used to distinguish if the parallel or attestation is a genuine corroboration or a separate incident.
+
+## 365.28s: Memorization
+
+**Question:**  If the stories are the same, who memorized the Hadith better?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  If the parallel and attestation stories are the same, the transmitter who provided a more comprehensive and detailed account, likely memorized the Hadith more accurately. 
+
+## 418.759s: Narrative Point of View
+
+**Question:**  What is the focus from a narrative point of view?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  From a narrative point of view, the focus is on whether the parallel and attestation versions relate the same story. If the stories align, the analysis can move towards comparing the details and the reliability of the transmitters.
+
+## 447.199s: Additions of Reliable Transmitters
+
+**Question:**  What is category 16 about?
+
+**Category:**  Hadith Analysis 
+
+**Answer:**  Category 16 examines additions made by reliable transmitters to a Hadith. It explores the conditions under which such additions are considered acceptable and how they are evaluated.
+
+## 457.72s: Treatment of Additions
+
+**Question:**  How are the additions of reliable transmitters treated?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  The treatment of additions by reliable transmitters is a complex area. It involves considering the context of the addition, the reliability of the transmitter, and whether the addition is consistent with the overall meaning of the Hadith.
+
+## 484.68s: Doctrine of Majority
+
+**Question:**  What is the doctrine of the majority of scholars on additions by reliable transmitters?
+
+**Category:**  Hadith Analysis 
+
+**Answer:**  The majority of scholars believe that additions by reliable transmitters are acceptable, even if the transmitter is the sole source. This view prioritizes the trustworthiness of the transmitter. 
+
+## 507.08s: Scholars' Views on Additions
+
+**Question:**  What are the views of scholars who reject additions?
+
+**Category:**  Hadith Analysis 
+
+**Answer:**  Some scholars reject additions without exception, regardless of the reliability of the transmitter. Others may accept additions from secondary sources but not from the original transmitter. This view emphasizes preserving the original text of the Hadith.
+
+## 519.12s: Majority of Hadith Experts
+
+**Question:**  What is the consensus of Hadith experts on additions?
+
+**Category:**  Hadith Analysis 
+
+**Answer:**  The majority of Hadith experts believe that if a Hadith is related in a comprehensive and a concise manner, the more comprehensive version is preferred, even if it is from a single source. This emphasizes the accuracy of the transmission.
+
+## 542.959s: Loose Version 
+
+**Question:** What does "loose" refer to in Hadith transmission?
+
+**Category:**  Hadith Analysis 
+
+**Answer:**  "Loose" refers to a Hadith transmission that is not fully elaborated or complete. It might be missing details, phrases, or even entire sections compared to other versions. 
+
+## 545.72s: Broken Isnad
+
+**Question:**  Is a broken Isnad the same as a loose Hadith?
+
+**Category:**  Hadith Analysis 
+
+**Answer:**  While related, a broken Isnad refers to a chain of transmission that has a missing link or an unreliable transmitter, while a loose Hadith simply refers to a version that is less detailed or complete.
+
+## 560.279s: Addition of Reliable Narrator
+
+**Question:**  Is the addition of a reliable narrator acceptable?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  The addition of a reliable narrator to a Hadith is generally acceptable, especially if it provides clarification or adds valuable information. It is important to consider the context and the reliability of the addition.
+
+## 567.279s: Types of Additions
+
+**Question:**  What are the different types of additions?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  There are two main types of additions: textual additions, where words or phrases are added to the original text, and additions to the Isnad, where an additional transmitter is introduced into the transmission chain.
+
+## 586.32s: Relevant Section
+
+**Question:**  Why does a narrator sometimes mention the relevant section?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  A narrator might mention the relevant section to provide context or emphasize a specific part of a Hadith. They may focus on the relevant part to address a particular issue or question.
+
+## 642.48s: Full Narration
+
+**Question:**  How can we be sure that a Hadith has been fully narrated?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  To be certain that a Hadith has been fully narrated, it is important to compare different versions and sources. Checking other books and comparing the narrations can help identify if any parts are missing.
+
+## 651.72s: Dropping Isnad
+
+**Question:** Is it acceptable to drop a part of the Isnad?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  Dropping a part of the Isnad is generally not acceptable unless there are specific circumstances. If a narrator is aware of the full chain but cannot remember a specific part, they must acknowledge that they are relying on their memory or notes.
+
+## 674.8s: Wavering Isnad
+
+**Question:**  What does it mean to waver in the Isnad?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  Wavering in the Isnad indicates that a narrator is uncertain about the exact chain of transmission or the specific transmitters involved. This can weaken the authenticity of the narration.
+
+## 685.76s: Issue of Loss
+
+**Question:**  What is the issue of loss related to?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  The issue of loss pertains to missing parts or sections of a Hadith. It is distinct from additions, which involve adding content. Loss can occur due to memory lapses, incomplete manuscripts, or intentional omissions.
+
+## 690.12s: Variation in Name
+
+**Question:**  How does variation in name affect Hadith analysis?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  Variation in names can lead to confusion and potential errors in transmission. If a transmitter mentions a name slightly differently from the original, it can raise questions about the accuracy of the narration.
+
+## 701.32s: Outclassed by Many
+
+**Question:**  What does it mean when someone is outclassed by many in narrating a Hadith?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  Being outclassed in narration means that multiple other transmitters have related the Hadith more accurately or consistently. It suggests that the outclassed transmitter might have made a mistake or had a less accurate understanding of the narration.
+
+## 720.04s: Confusion of Names
+
+**Question:**  What is the possible reason for confusion in names?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  Confusion in names can arise due to similar-sounding names, family relationships, or the narrator's memory lapses. It is important to identify potential sources of error and assess the impact on the reliability of the narration.
+
+## 745.12s: Multiple Narrations
+
+**Question:**  What is it like when someone says both of them narrated to me?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  When someone says both of them narrated to me, it means that they received the Hadith from multiple sources, which helps corroborate the story. This strengthens the reliability of the narration.
+
+## 753.24s: Checking Hadith Sources
+
+**Question:**  What is it like when someone checks 20 or 30 narrators?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  Checking 20 or 30 narrators is a way to verify the consistency and accuracy of a Hadith. If a significant number of reliable transmitters report the same Hadith with the same details, it significantly strengthens the authenticity of the narration.
+
+## 781.8s: Isnad Significance
+
+**Question:** Why is Isnad so important?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  Isnad is crucial because the reliability of the chain of transmission directly affects the authenticity of the Hadith. A strong Isnad, with trustworthy transmitters, ensures that the message has been accurately passed down.
+
+## 793.279s: Fabricators of Hadith
+
+**Question:**  How do fabricators manipulate Hadith?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  Fabricators attempt to manipulate Hadith by introducing errors, altering the text, or creating false chains of transmission. They aim to undermine the authenticity of the Hadith and promote their own agendas. 
+
+## 803.16s: Unsatisfactory Narration
+
+**Question:**  What happens if a narration is not satisfactory?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  If a narration is found to be unsatisfactory due to errors, inconsistencies, or unreliable transmitters, it is not considered a reliable source of information. It should be discarded and not used as evidence.
+
+## 805.72s: Fixing Isnad
+
+**Question:**  What does it mean to fix an Isnad?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  Fixing an Isnad means correcting any errors or inconsistencies in the chain of transmission. It involves verifying the transmitters, the sequence of narration, and ensuring that the information has been accurately preserved.
+
+## 810.24s: Publication of Fabricated Hadith
+
+**Question:**  What is the outcome for those who publish fabricated Hadith?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  Publishing fabricated Hadith is a serious offense in Islam. Individuals who engage in this practice are considered liars and their work is rejected.
+
+## 820.48s: Summarizing Narrators
+
+**Question:**  Why is it not possible to summarize all narrators?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  It is not possible to summarize all narrators in a chain of transmission because the details of each individual's reliability and potential weaknesses are important for evaluating the authenticity of the Hadith.
+
+## 835.079s: Weak Memory
+
+**Question:**  What does it mean to have a weak memory in relation to Hadith?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  A weak memory in the context of Hadith signifies that a narrator has difficulty remembering the exact details of the narration, which can lead to inaccuracies. 
+
+## 838.16s: Excusable Errors
+
+**Question:**  Are errors excusable if a narrator drops a transmitter from the Isnad?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  Errors are generally not excusable if a narrator drops a transmitter from the Isnad.  It is considered a serious offense that undermines the authenticity of the narration.
+
+## 852.0s: Doubting Narration
+
+**Question:**  What happens if someone drops a transmitter from the Isnad?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  Dropping a transmitter from the Isnad raises doubts about the authenticity of the narration. People will question the accuracy of the information and the reliability of the narrator.
+
+## 867.639s:  Scholar's Suspicion
+
+**Question:**  What does a scholar suspect if a transmitter is dropped?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  If a transmitter is dropped from the Isnad, a scholar may suspect that the narrator is attempting to manipulate the transmission. It raises concerns about the integrity of the narration and the motivations behind the omission.
+
+## 871.759s: Public Science
+
+**Question:**  Why is Hadith considered a public science?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  Hadith is considered a public science because its knowledge is meant to be shared and disseminated widely. It is essential for everyone to access and verify the teachings of the Prophet.
+
+## 877.36s: Catching Fabricators
+
+**Question:**  How do scholars catch fabricators of Hadith?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  Scholars catch fabricators by carefully analyzing the chains of transmission, comparing different versions, and scrutinizing the content of the Hadith. They also rely on their knowledge of the principles of Hadith criticism and the established criteria for evaluating authenticity.
+
+## 890.839s: Accepting Single Channel
+
+**Question:**  Why is a single channel of narration sometimes accepted?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  A single channel of narration can be accepted if it comes from a highly reliable transmitter whose authenticity has been repeatedly tested and verified through numerous other Hadith. 
+
+## 899.12s: Fabricating Hadith
+
+**Question:** Why would someone fabricate a Hadith in their lifetime?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  People may fabricate Hadith for various reasons, including personal gain, promoting a specific ideology, or seeking fame and influence.  
+
+## 905.6s:  Fear of Detection
+
+**Question:**  Why are fabricators afraid of someone else narrating a conflicting version?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  Fabricators are afraid of someone else narrating a conflicting version because it would expose their fabrication. The existence of different chains of transmission allows for cross-checking and verification of information. 
+
+## 919.959s: Allah's Protection
+
+**Question:**  What is the metaphysical proof for the protection of Hadith?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  The metaphysical proof for the protection of Hadith lies in the belief that Allah safeguards the authentic teachings of the Prophet. This belief provides assurance that the true message will be preserved over time. 
+
+## 924.88s: Intelligent Individuals
+
+**Question:**  Why were intelligent individuals who fixed the Isnad cautious?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  Intelligent individuals who fixed the Isnad were cautious because they understood the potential for error and manipulation in the transmission of Hadith. They recognized the importance of meticulously verifying each link in the chain to ensure accuracy. 
+
+## 935.0s: Piety and Participation
+
+**Question:**  Why was the phenomena of fabricated Hadith limited in the early generations?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  The phenomena of fabricated Hadith was limited in the early generations due to the strong piety and dedication of the scholars. They were deeply committed to preserving the authentic teachings of the Prophet and were rigorously scrutinized by their peers.
+
+## 945.68s: Scrutinizing Scholars
+
+**Question:**  What is the process of scrutinizing scholars in later generations?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  Scrutinizing scholars in later generations involves examining their scholarly work, their methods of transmission, and their overall reliability. It is a continuous process of verifying knowledge and ensuring accuracy.
+
+## 952.48s: Question Mark
+
+**Question:**  What does a question mark indicate in Hadith analysis?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  A question mark in Hadith analysis signifies a doubt or uncertainty about the authenticity of the narration. It can relate to a weak link in the Isnad, potential errors in the text, or inconsistencies with other known sources.
+
+## 957.68s: Banning from Scholarship
+
+**Question:**  What is the consequence of a serious question mark about a scholar's work?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  A serious question mark about a scholar's work can lead to their being banned from scholarship and their work being rejected. It is a severe consequence for individuals whose work is found to be unreliable or fabricated.
+
+## 964.759s:  Excusable Mistakes
+
+**Question:**  Are mistakes excusable in Hadith analysis?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  Mistakes in Hadith analysis are generally not excusable. Scholars are expected to be meticulous and accurate in their work. Even a single mistake can undermine the reliability of a scholar's work.
+
+## 976.24s: Singularity in Addition
+
+**Question:**  How is singularity in addition different from Isnad?
+
+**Category:**  Hadith Analysis 
+
+**Answer:**  Singularity in addition refers to a unique addition to a Hadith text made by a single narrator, while singularity in Isnad refers to a unique chain of transmission with no parallel sources.
+
+## 981.56s:  Expanded Text
+
+**Question:**  How does an expanded text affect a Hadith?
+
+**Category:**  Hadith Analysis
+
+**Answer:** An expanded text, while potentially providing additional information, can also raise concerns about accuracy. It is important to determine if the expansion is a faithful transmission of the original or a personal interpretation.
+
+## 991.36s: Skipped Word
+
+**Question:**  What happens when a narrator skips a word?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  Skipping a word can significantly alter the meaning of a Hadith. It is essential to identify any omissions and assess their impact on the overall message.
+
+## 998.399s: Forgotten Narrations
+
+**Question:**  Why do narrators sometimes remember only a few parts of a Hadith?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  Narrators sometimes remember only a few parts of a Hadith due to memory lapses, incomplete manuscripts, or limited knowledge of the narration. They may focus on specific aspects or key points based on their understanding.
+
+## 1005.639s: Reliance on Books
+
+**Question:**  What does it mean when someone says a Hadith is in their book?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  When someone says a Hadith is in their book, it means they have access to a written record of the narration. This provides evidence that the Hadith was previously documented and supports its potential reliability. 
+
+## 1010.88s: Forgotten Name
+
+**Question:**  What happens if someone remembers a man but not his name?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  If someone remembers a man but not his name, it signifies a potential weakness in the narration. It raises concerns about the accuracy of the transmission and may require further investigation to identify the missing name.
+
+## 1017.279s:  Finding a Book
+
+**Question:**  What is the significance of finding a book after many years?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  Finding a book after many years can be crucial for verifying the authenticity of a Hadith. It provides evidence that the narration was previously recorded and supports its potential reliability.
+
+## 1037.88s: Trustworthy Authority
+
+**Question:**  What is the principle behind accepting additions by a trustworthy authority?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  The principle behind accepting additions by a trustworthy authority is that if they are considered reliable in their overall narration, their additions are likely to be accurate. This principle is based on the idea that a trustworthy narrator would not intentionally distort the original meaning of the Hadith.
+
+## 1045.12s: Basic Narrative 
+
+**Question:**  If an addition is not accepted, how can we accept the basic narrative?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  If an addition is not accepted, it does not necessarily invalidate the entire narrative. The basic narrative can still be considered valid, but the specific addition needs further scrutiny.
+
+## 1059.24s: Subcategories of Hadith
+
+**Question:**  What are the three subcategories of Hadith?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  The three subcategories of Hadith are: 1) Contradictory Hadith, 2) Compatible Hadith, and 3) Mixed Hadith.  These categories help classify Hadith based on their consistency and compatibility with other known narrations.
+
+## 1065.24s: Contradictory Hadith
+
+**Question:**  What is a contradictory Hadith?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  A contradictory Hadith is one that conflicts with the teachings or narrations found in other reliable sources. Such Hadith are usually rejected as they pose a challenge to the established body of Islamic knowledge. 
+
+## 1079.84s: Compatible Hadith
+
+**Question:**  What is a compatible Hadith?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  A compatible Hadith is one that does not contradict or conflict with other reliable sources. It is typically considered authentic and accepted as a valid part of Islamic knowledge.
+
+## 1114.08s: Mixed Hadith
+
+**Question:**  What is a mixed Hadith?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  A mixed Hadith is one that contains both compatible and incompatible elements. It is more challenging to evaluate as it requires careful analysis and consideration of the specific parts.
+
+## 1123.0s: Obligation of Zakat
+
+**Question:**  What is the Hadith about the obligation of Zakat?
+
+**Category:**  Hadith Analysis 
+
+**Answer:** The Hadith about the obligation of Zakat discusses the importance of paying alms tax and its application to different groups of people. It specifies who is obligated to pay Zakat and who is eligible to receive it.
+
+## 1146.24s:  Addition in Zakat Hadith
+
+**Question:**  What is the addition related to the Zakat Hadith?
+
+**Category:**  Hadith Analysis
+
+**Answer:** The addition to the Zakat Hadith clarifies that the obligation of Zakat applies to both men and women, free people and slaves, who are Muslim. It helps to narrow down the scope of the obligation.
+
+## 1174.32s:  Logical Addition
+
+**Question:**  Is the addition to the Zakat Hadith logical?
+
+**Category:**  Hadith Analysis 
+
+**Answer:**  The addition to the Zakat Hadith is considered logical and makes sense because it clarifies the scope of the obligation. The original Hadith stated the obligation of Zakat for Muslims but did not explicitly include all categories, so the addition makes it more precise. 
+
+## 1193.24s: Child Exemption
+
+**Question:**  Is there a case where someone is exempt from Zakat?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  Children, especially those who are not Muslim, are exempt from Zakat because they are not obligated to fast or pay Zakat. They are not considered financially liable for the obligation.
+
+## 1210.84s:  Application of Zakat
+
+**Question:**  How does the addition clarify the application of Zakat?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  The addition to the Zakat Hadith clarifies that the obligation applies specifically to Muslim slaves. It emphasizes that while Muslims are responsible for their dependents, the primary obligation of Zakat is for those who are both Muslim and enslaved. 
+
+## 1221.44s: Overcautiousness
+
+**Question:**  Why do some people choose to pay Zakat for those not obligated?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  Some people choose to pay Zakat for those not obligated, such as Christian or Hindu slaves, out of overcautiousness or a desire to be generous. It is considered an act of voluntary charity.
+
+## 1245.76s: Obligation vs. Voluntary Act
+
+**Question:**  What is the difference between the obligation and voluntary act regarding Zakat?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  The obligation of Zakat applies to Muslim slaves, while paying Zakat for those who are not Muslim is a voluntary act of charity. The obligation is specifically directed towards those who are financially liable and meet the criteria.
+
+## 1253.64s: Earth as Mosque and Purifier
+
+**Question:**  What is the Hadith about the Earth?
+
+**Category:**  Hadith Analysis
+
+**Answer:** The Hadith about the Earth states that it is a mosque for Muslims and that its soil is a purifier. This highlights the sanctity of the Earth and its role in prayer and ritual purity.
+
+## 1263.6s:  Addition to Earth Hadith
+
+**Question:**  What is the addition to the Earth Hadith?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  The addition to the Earth Hadith specifies that it is the soil of the Earth that is considered a purifier. This further clarifies the scope of the Hadith and emphasizes the particular aspect of the Earth that has purifying properties.
+
+## 1278.0s:  General vs. Specific
+
+**Question:**  How do the general and specific versions of the Earth Hadith relate?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  The general version of the Earth Hadith simply states that it is a mosque and a purifier, while the specific version specifies that it is the soil that is considered a purifier. Both versions are considered valid but offer different perspectives on the same concept. 
+
+## 1286.96s: Malik's Addition
+
+**Question:**  What is Malik's addition to the Earth Hadith?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  Malik's addition to the Earth Hadith emphasizes the soil as a purifier. It highlights the specific aspect of the Earth that has purifying properties, while the original version simply states that the Earth itself is a purifier.
+
+## 1299.48s: No Contradiction
+
+**Question:**  Why is there no contradiction in the different versions of the Earth Hadith?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  There is no contradiction because the general version states that the Earth is a purifier, while the specific version specifies that the soil is a purifier. Both versions are consistent with the concept of the Earth being a source of purity, offering different levels of detail.
+
+## 1304.559s: Special Case
+
+**Question:**  What is the special case regarding soil in the Earth Hadith?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  The special case regarding soil is that it is explicitly mentioned as a purifier. While other parts of the Earth might also possess purifying qualities, the soil is specifically highlighted as a source of purification.
+
+## 1311.72s: General Principle
+
+**Question:**  What is the general principle regarding purity?
+
+**Category:**  Hadith Analysis
+
+**Answer:** The general principle regarding purity is that everything in the universe is considered pure unless proven otherwise. This applies to various materials, including soil, rocks, and other natural substances.
+
+## 1319.679s: Accidental Difference
+
+**Question:**  What is the accidental difference between the general and specific Earth Hadith?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  The accidental difference lies in the level of specificity. While the general version states that the Earth is a purifier, the specific version mentions the soil. The focus on soil does not contradict the general principle, but rather clarifies a particular aspect.
+
+## 1327.4s: Legal Rulings
+
+**Question:**  How do the different versions of the Earth Hadith affect legal rulings?
+
+**Category:**  Hadith Analysis
+
+**Answer:** The different versions of the Earth Hadith can lead to variations in legal rulings depending on the interpretation. The general version implies that the entire Earth is a purifier, while the specific version focuses on the soil. 
+
+## 1337.96s: Fundamental Incompatibility
+
+**Question:**  Is there a fundamental incompatibility between the versions of the Earth Hadith?
+
+**Category:**  Hadith Analysis
+
+**Answer:**  There is no fundamental incompatibility between the versions of the Earth Hadith because both emphasize the purifying nature of the Earth. The general version acknowledges the broader concept, while the specific version highlights a particular aspect. 
+
+## 13
+
+## https://www.youtube.com/watch?v=Rf-VryQO5Ew
+
+##  Why are people so interested in the red cow? 
+**Category:** Religion
+The speaker states that the red cow has been found and has been watched for several years. They say that the cow is remaining completely red and that people think this year, the cow will be slaughtered. They are expecting this to be a big deal.
+
+## When is the red cow expected to be slaughtered?
+**Category:** Religion
+The speaker states that the red cow is expected to be slaughtered on Easter or on a spring festivity. They note that this is only a few weeks away. 
+
+## What is the significance of the red cow? 
+**Category:** Religion
+The speaker explains that according to some myths, the red cow needs to be slaughtered on Mount Gerizim, which is near Nablus, in order to play the role of the Nar. They state that there is a rumor that it has already been slaughtered.
+
+## What is the "Nar" and how does it relate to the red cow? 
+**Category:** Religion
+The speaker explains that the red cow is believed to be a key part of a ritual called "Nar." They say that this ritual is connected to the idea of the "Antichrist." 
+
+
+## https://www.youtube.com/watch?v=KbQ1jARy-tY
+
+##  0.04s: How can we understand the concept of necessary existence? 
+
+**Category:** Metaphysics
+
+If there are two beings, each with their own unique features, then one being would have a feature that the other does not, and vice versa. This would mean that one being lacks something that the other has, creating a deficiency.  Therefore, there can only be one being, which is necessary existence. This being is complete and indivisible; it cannot be split into two parts, as each part would be incomplete and dependent on the other. 
+
+## 1.399s: What is the relationship between necessary existence and individual features?
+
+**Category:** Metaphysics
+
+If something has a specific feature or characteristic, it's because of its inherent nature or modality. This modality necessitates that the feature exists, and this same modality applies to all beings that have necessary existence.  
+
+## 4.2s: How can we reconcile the idea of two beings with the concept of necessary existence?
+
+**Category:** Metaphysics
+
+If there were two necessary existences, they would have to be identical in every way. They wouldn't be distinct entities, but rather two aspects of the same being. There cannot be any distinguishing features, otherwise, one would be lacking something the other has, leading to a deficiency. 
+
+## 6.48s:  Why does the presence of a feature necessitate the existence of the being? 
+
+**Category:** Metaphysics
+
+A feature, or characteristic, is a reflection of the underlying nature or modality of a being. The presence of a particular feature implies that the being possessing it must have a specific nature or modality that necessitates that feature's existence. 
+
+
+## https://www.youtube.com/watch?v=GI6jdY62fs4
+
+## Why are the people watching Abbas? 
+**Category:** Politics 
+0.24s:  The speaker is commenting on how many people who believe in fat (meaning Islamic law) find the current situation offensive.  
+**Answer:** People are watching Abbas because they believe in Islamic law and want to follow the right decisions.
+
+## What does the speaker say about the people watching Abbas?
+**Category:** Politics
+5.0s:  The speaker explains that the people are just watching and waiting for Abbas to give them orders, like they are hypnotized. 
+**Answer:** The speaker compares the people who are watching Abbas to snakes being hypnotized. They are unable to act independently and are waiting for Abbas to give them orders.
+
+## What is the speaker’s analogy for Abbas's followers? 
+**Category:**  Politics
+7.04s: The speaker is comparing the people following Abbas to snakes who are hypnotized by a snake charmer. 
+**Answer:** The people who follow Abbas are likened to snakes being hypnotized by a snake charmer. They are unable to move or act independently.
+
+## What is the speaker saying about Abbas’s followers?
+**Category:** Politics
+14.759s: The speaker is saying that Abbas is the master and his followers are unable to act against him or do anything irrelevant to his commands. 
+**Answer:**  Abbas is seen as the master, and his followers are powerless to disobey him or take independent action.
+
+## What is the speaker saying about Abbas’s followers?
+**Category:** Politics
+19.24s:  The speaker is saying that Abbas's followers are numerous, but they are not doing anything. 
+**Answer:** Although the speaker states that there are about 70,000 followers, the speaker emphasizes that they are not taking any action against Abbas. 
+
+## What is the speaker saying about Abbas’s followers?
+**Category:** Politics
+24.56s: The speaker is saying that a smaller group of Abbas’s followers split off a few days ago, but the rest are still waiting for Abbas to give them orders.
+**Answer:** There was a recent split within Abbas's followers, but the majority remain passive and reliant on Abbas's instructions.
+
+##  Why are the people watching Abbas?
+**Category:** Politics
+36.96s: The speaker states that Abbas’s followers are not taking action because of the past sins and mistakes they have made.
+**Answer:**  Abbas's followers are unable to act because of the past mistakes they have made. These mistakes are preventing them from making the right decisions. 
+
+## What has Abbas’s followers done wrong in the past? 
+**Category:** Politics
+43.0s: The speaker is saying that Abbas's followers fought for reasons other than Islam, such as nationalism and socialism, and now they are paying the price for it.
+**Answer:** The speaker is implying that Abbas’s followers prioritized nationalism and socialism over fighting for the sake of Allah. As a consequence, they are now facing the repercussions of their actions.
+
+## What is the speaker saying about Abbas’s followers?
+**Category:** Politics
+54.96s: The speaker is saying that Abbas’s followers lack internal composure, guidance, enlightenment, and the ability to make the right decisions. 
+**Answer:**  Abbas’s followers are described as lacking internal stability, guidance, and the ability to make wise decisions. They are unable to see the situation clearly.
+
+## What does the speaker think Abbas’s followers should do?
+**Category:** Politics
+64.56s: The speaker is suggesting that Abbas’s followers should remove him from power and start a new movement in the West Bank.
+**Answer:**  The speaker believes that Abbas’s followers should overthrow him and take over, following the same strategy as Hamas in the West Bank.
+
+## Why does the speaker think Abbas cannot see the right course of action?
+**Category:** Politics
+80.24s: The speaker believes that Abbas is either corrupt or blinded, and therefore cannot see the right course of action.
+**Answer:** The speaker suggests that Abbas is either a corrupt or traitorous individual or that he is simply blinded by his own failings. 
+
+## What is the speaker saying about Abbas’s followers?
+**Category:** Politics
+90.88s: The speaker states that Abbas’s followers are being haunted by their past mistakes.
+**Answer:**  The speaker suggests that Abbas’s followers are paying for their past sins and wrongdoings, which prevents them from seeing the truth.  
+
+## What is the speaker saying about Abbas’s followers?
+**Category:** Politics
+95.28s: The speaker states that Allah is not giving Abbas’s followers guidance because they haven't done the right work in the past. 
+**Answer:** The speaker asserts that Abbas's followers have not earned divine guidance because their past actions have been flawed. 
+
+
+## https://www.youtube.com/watch?v=M-yOyNQCUtE
+
+##  What are the limitations of the Army?
+
+**Category:**  Military Strategy 
+
+**Timestamp:** 25.08s 
+
+**Question:** What is the difficulty if you are not on the ground in Muslim Lands?
+
+**Answer:**  Being on the ground allows for greater awareness of the issues and enables effective coordination with other Muslims working in the region.  It provides a more realistic approach to tackling problems. 
+
+
+## Is cooperation essential for an effective Muslim Army?
+
+**Category:**  Military Strategy
+
+**Timestamp:** 33.16s
+
+**Question:** Is coordination with other Muslims essential?
+
+**Answer:**  Yes, it is essential to coordinate with other Muslims who are actively working to bring about positive change.  Cooperation is crucial for effective action. 
+
+##  Why is it a mistake to create a separate, exclusive Muslim Army? 
+
+**Category:**  Military Strategy
+
+**Timestamp:** 63.76s
+
+**Question:** Why is it a mistake to create a separate Muslim Army?
+
+**Answer:** It creates division and undermines unity among Muslims. It creates a separation that goes against the idea of bringing everyone together under one banner. 
+
+##  Why does the idea of a Muslim Army often fail to translate into reality? 
+
+**Category:**  Military Strategy
+
+**Timestamp:** 76.799s
+
+**Question:** Why is the call for a Muslim Army often disconnected from reality?
+
+**Answer:** The dream of a Muslim army often fails to account for the realities of the situation. The call lacks engagement in the real world and struggles to gain traction in actual cultural discourse. 
+
+
+## https://www.youtube.com/watch?v=ULYGur_Qf1A
+
+## 1.36s : has started broadcasting the meeting on YouTube
+Category: YouTube broadcast
+
+The speaker notes that the meeting has begun broadcasting on YouTube. 
+
+
+## 3.24s : YouTube
+Category: YouTube
+
+The speaker is referring to the platform on which the meeting is being broadcasted. 
+
+
+## 4.72s : alert maximize makes the window full screen
+Category: Zoom settings
+
+The speaker is explaining a Zoom feature that maximizes a window to full screen. 
+
+
+## 7.76s : Buton Zoom meeting stop my video
+Category: Zoom meeting issues
+
+The speaker is describing an issue they encountered where the Zoom meeting stopped their video feed.  
+
+
+## 28.96s : button
+Category: Zoom button
+
+The speaker is referring to a button within the Zoom application.
+
+
+## 91.439s : obviously all of our recent series we've aimed to discuss the issue of Palestine 
+Category: Palestine
+
+The speaker is explaining the recent focus of the group's meetings, which has been on the issue of Palestine. 
+
+
+## 194.879s : now I think there is Palestine has definitely woken us all up 
+Category: Palestine
+
+The speaker believes that the current events in Palestine have served as a wake-up call for Muslims globally.
+
+
+## 252.76s : to cower the Muslims in the UK for example 
+Category: UK Muslims
+
+The speaker notes that there are attempts to intimidate Muslims in the UK, specifically in relation to Palestine.
+
+
+## 273.68s : because what have we been doing for many years I use certain terms which is the empty words 
+Category: Empty words
+
+The speaker is introducing the concept of "empty words" which they believe Muslims have been relying on for too long.
+
+
+## 312.639s : if the immediate reaction when these cowards like Suella bravoman and rishy silver spoon sunet make this thing about trying to evoke that it's anti-semitic or you know we're going to curtail these kind of things and then people making making the connection oh prevent what have we got to lose 
+Category: Anti-Semitism
+
+The speaker is discussing the reaction of some Muslims to being accused of anti-Semitism, and the question of whether there is anything to lose by standing up for Palestine. 
+
+
+## 361.319s : how can we at this juncture be scared when children bear the burden of Nations 
+Category: Children in Palestine
+
+The speaker highlights the courage of Palestinian children and argues that Muslims should not be afraid to stand with them.
+
+
+## 381.88s : be child we are with you if you want motivation check Sami Sami Hami 
+Category: Motivation
+
+The speaker is urging Muslims to seek inspiration from figures like Sami Sami Hami, who demonstrate real dedication to their cause. 
+
+
+## 405.56s : inadequate part is to provide you with a material to use in your discussions to trigger a an intellectual Revolution 
+Category: Revolution
+
+The speaker explains the group's goal of providing material for intellectual discussions and ultimately inspiring a revolution.
+
+
+## 424.4s : into it we realize it is a revolutionary message from this very fundamental principle 
+Category: Islamic principles
+
+The speaker emphasizes that the core principles of Islam are inherently revolutionary.
+
+
+## 469.479s : people whose new jerk reaction to this alleged hypothetical potential coercion from the government 
+Category: Coercion
+
+The speaker is addressing a common reaction among some Muslims to perceived threats of coercion from the government. 
+
+
+## 483.8s : so in summarizing we will provide you with material whether it's video whether it's on request as in you have a burning question or whether it's written to forment and cement ideas 
+Category: Providing resources
+
+The speaker is summarizing the group's plan to provide various resources to help Muslims better understand and promote Islamic ideals. 
+
+
+## 560.399s : is part of part of this self-serving narcissistic mentality that we seem to have adopted we become Covetous with knowledge 
+Category: Knowledge hoarding
+
+The speaker is criticizing a tendency among some Muslims to hoard knowledge and not share it with others.
+
+
+## 603.48s : Palestine update with a with a professor and we will open up to question and answers inshallah 
+Category: Palestine update
+
+The speaker announces the upcoming Palestine update, which will be followed by a Q&A session.
+
+
+## 670.2s : yes let us attend to the Palestine update first then we go to questions and the and question Q Q&A question and answers 
+Category: Palestine update
+
+The speaker reiterates the schedule of the meeting, starting with the Palestine update and then moving to the Q&A session. 
+
+
+## 686.04s : whole of studies especially study of year which we started almost now two years because I think we have passed the 150 yeah maybe almost almost three years now the purpose is to bring deeper understanding of the Quran connected with the reality of the universe connected with evidences of prophethood 
+Category: Quran studies
+
+The speaker explains the group's ongoing Quran study program, aiming to connect Quranic teachings to the realities of the universe and provide evidence for prophethood.
+
+
+## 728.0s : but the question is it true or not true you believe it's true but but is it can we verify it's true or critize it and establish it further is usually ignored 
+Category: Belief vs. evidence
+
+The speaker contrasts mere belief with the importance of verification and critical analysis, arguing that many Muslims simply inherit beliefs without proper examination.
+
+
+## 747.88s : disease was Christianity Christianity not the Christianity of the son of Mary the Christ of God the Lord Of Glory no not this one that one has been swept over by historic development 
+Category: Christianity
+
+The speaker distinguishes between the true teachings of Christianity and the version that has been corrupted by historical developments.
+
+
+## 814.56s : intellectual and spiritual diet the European have been fed in Early Times feudalism and so on ignorance tribalism and so on and the church did not play any Ro to indicate 
+Category: European history
+
+The speaker describes the historical context of Europe, highlighting the role of ignorance and tribalism fostered by the church.
+
+
+## 834.68s : about Islam being spreading by the S they actually spread in Europe by the SW review the history of the toonic knights 
+Category: Spread of Islam
+
+The speaker refutes the claim that Islam spread by the sword, providing historical examples of how Christianity spread through violence in Europe.
+
+
+## 875.279s : Islam but when Enlightenment came and science techology started and critical thinking started here and there that what they they have in their hand collapsed 
+Category: Enlightenment
+
+The speaker explains how the Enlightenment and advancements in science led to a decline in blind faith and a critical re-evaluation of religious doctrines.
+
+
+## 905.839s : they went into so called rationalism which obviously was not completely rational just a mere fact that discussing these old scriptures and so on from the fallacy of claiming that all it is divinely 
+Category: Rationalism
+
+The speaker criticizes a form of rationalism that merely focuses on old scriptures without true critical thinking or evidence.
+
+
+## 958.04s : that's the development in the West in Islam not to that level but it it did happen especially in the decline phase in the last six seven Century 
+Category: Islamic decline
+
+The speaker acknowledges that a similar decline in faith and critical thinking occurred in the Islamic world, particularly in the last few centuries.
+
+
+## 975.639s : of of Quran is really to get the people to respond to the Quran in challenge don't they they think so on even the challenge if you think that's not from Allah then bring something similar show me 
+Category: Quranic challenge
+
+The speaker highlights the challenge presented in the Quran for those who doubt its divine origin.
+
+
+## 997.079s : hypocrit some others generally all human why do p the Quran if you have been from anybody except Allah you will find many contradiction meaning go ahead right dig out contradiction let us see this rational discourse 
+Category: Quranic contradictions
+
+The speaker encourages Muslims to engage in rational discourse, seeking out potential contradictions in the Quran as a way to strengthen their belief. 
+
+
+## 1015.44s : belief based on rational conviction based on EV es it becomes a f belief that's not just aism an inherited belief 
+Category: Faith and conviction
+
+The speaker emphasizes the difference between inherited belief and a belief rooted in rational conviction and evidence.
+
+
+## 1030.319s : conviction that you act upon it you are ready to sacrifice for it ready to to to go to the conclusion which is dictated by that belief which has been proven by rational comparing rational and other evidences but all evidences go ultimately back to rationality rational 
+Category: Faith and action
+
+The speaker asserts that true belief should lead to actions, including sacrifice, and that all evidence ultimately relies on rational analysis.
+
+
+## 1054.76s : result is that in at least after the peak of Islamic civilization when the decline started because of because of fighting rationalism and intellectualism because of because of scholarship becoming a century either a faction of and and Frozen on certain M and not willing to think and develop 
+Category: Decline of civilization
+
+The speaker explains how the decline of Islamic civilization was partly due to a rigid approach to scholarship and a lack of critical thinking.
+
+
+## 1093.679s : still with us M and so on and that obviously such such a belief just inherited part of a culture culture Islam will not motivate you and get you to the level of ready to sacrifice and fight for it 
+Category: Motivation and sacrifice
+
+The speaker emphasizes that a purely inherited belief in Islam will not motivate people to sacrifice and fight for it.
+
+
+## 1111.559s : simply very simple because Quran has been forsaken it has not been studied and not studied in rational grounds and this the weak Faith the weakness in faith led to the weakness in the heart and what Hadith of said prophesy said almost almost soon all the nation will come attacking you 
+Category: Faith and weakness
+
+The speaker links the decline of the Islamic world to a lack of proper Quranic study and the resulting weakness in faith.
+
+
+## 1148.6s : because we are few at that time that's the only thing you could Envision that's because the numbers are few you don't have the Manpower they didn't even think about wealth 
+Category: Military power
+
+The speaker explains that the Hadith about nations attacking Muslims does not refer to a lack of wealth but to a lack of manpower dedicated to defending the faith.
+
+
+## 1170.44s : the people are the one who produce who work and produce the wealth so the wealth is secondary so is that because we are few at the time so you know you are plenty but you are like the form above above the current of of running 
+Category: Wealth and manpower
+
+The speaker emphasizes that wealth is secondary to the manpower of a nation, and that a large population without proper motivation is like a river carrying rubbish.
+
+
+## 1205.84s : the weakness the weakness in the wrong sense the weakness will be in your heart and say what is this Wan have no concept of didn't understand what even before Islam they were ferocious fighter but for and for water and for Cs and take 
+Category: Weakness of the heart
+
+The speaker defines a different kind of weakness, not in physical strength but in the lack of understanding of the faith, which can lead to complacency.
+
+
+## 1226.919s : and the hate for death does not mean that you biologically do you like death or wish for death no that's not I mean but this love for D and hating death is because you don't understand that life and death and after death it has repercussion and that has a system 
+Category: Love for D and hate for death
+
+The speaker clarifies that loving D and hating death comes from understanding the consequences of life and death, not a biological desire for death.
+
+
+## 1258.12s : thinking much deeper and going much deeper anyway we don't want go very much in philosophy the situation of the is like that they are in the state of Wan 
+Category: Complacency
+
+The speaker reiterates that the current situation of Muslims is characterized by complacency and a lack of understanding. 
+
+
+## 1270.159s : September 11 happened the stat of America R bed all over the world either with us or against us although the act itself I wrote treaties about that and it's in the hand of the American I were confronted with some legal team discussed with them the issue 
+Category: 9/11
+
+The speaker discusses the events of 9/11 and the global reaction, stating that he wrote treaties about the event from a legal perspective.
+
+
+## 1294.2s : against civilian in Lebanon and Palestine and in we see now that at that time it was visible only for few people like abdah and others and they deserve more than that but they all over the world in said civilian have been killed terrorism 
+Category: Terrorism
+
+The speaker discusses the issue of civilian casualties in Lebanon and Palestine, pointing out that many people failed to recognize the true context of the events.
+
+
+## 1312.44s : see here Tony Blair the pole of bush according to George Gallow uh campaigned and the majority of Muslim were in a state of fear I remember Dr he passed away he's an specialist and he was the head of the Institute of International Institute of Islamic thought 
+Category: Political figures
+
+The speaker mentions political figures like Tony Blair and George W. Bush, and talks about a specialist in Islamic thought who died recently.
+
+
+## 1348.36s : American government and he said Doctor you don't know how much Terror and oppression we are facing here and the FBI can storm any house Etc and that's true that's true I told I fully understand that I would understood that I would appreciate that if you just held your mouth but what provoked you and others to come forward and supporting you could have seen we're not going to condemn or approve 
+Category: Fear and oppression
+
+The speaker acknowledges the terror and oppression experienced by Muslims in the US at the time, but questions why some Muslims chose to support the US government despite the injustices.
+
+
+## 1379.919s : not going to condemn or approve we have to analyze that we have to see that's not an event coming from Heaven it is grown through historic development and through Deeds of the United States of America before connected to that 
+Category: Analysis of events
+
+The speaker emphasizes the importance of analyzing events instead of simply condemning or approving, and connects 9/11 to historical actions of the US government. 
+
+
+## 1393.919s : everyone was c activities went up underground barely anyone was meeting except few people rash rememb charar and sister Evo Ridley who were meeting meeting there Abu Hamza 
+Category: Underground activity
+
+The speaker describes the state of fear that led to many Muslims going underground and limiting their interactions after 9/11.
+
+
+## 1417.48s : were agent for the wrong Master like Saudi Arabia at that time was not really the one in charge at the time abdalah and so on they were not really that that the men of the military industrial complex in America rather men of Britain and the oligarchy 
+Category: Political influence
+
+The speaker discusses the real forces behind the political landscape at the time, indicating that Saudi Arabia was not in control but rather influenced by the military-industrial complex and British oligarchy.
+
+
+## 1436.48s : they were terrified by and they were C into submission to military industrial complex so that's that what happened because of the WAN and because of inability to understand what's going on and because buying on these these Imperial and oppressive powers 
+Category: Fear and submission
+
+The speaker explains that Muslims were terrified and submitted to the military-industrial complex due to their complacency and lack of understanding.
+
+
+## 1455.6s : Imperial and oppressive powers and tyrants who would appoint themselves as Divine being on Earth and divine good and evil which is which cannot be accepted the one who Divine good and evil right is Allah that's that's the minimum you get if you really believe in the Quran and you have studyed properly 
+Category: Divine sovereignty
+
+The speaker criticizes those who claim divine authority on earth, emphasizing that only Allah has the right to define good and evil.
+
+
+## 1474.799s : counter wave moving how the counter was was stly established by the Americans being almost defeated in Iraq 
+Category: American defeat
+
+The speaker discusses a counter-wave to the previous complacency, which was partly caused by the US's near-defeat in Iraq. 
+
+
+## 1482.039s : unfortunately because some some idiots from group and some salafi and they they mutilated wrong understanding of and Islam which led them to pursue magician and Graves 
+Category: Misunderstanding of Islam
+
+The speaker blames a distorted understanding of Islam, particularly by some Salafis, for misdirected actions, like focusing on pursuing magic and graves instead of fighting the real enemy. 
+
+
+## 1501.76s : pursuing magician and Graves and then the whole resistance really collapse in Iraq but still the American got a blue eye but they they should have gone blind 
+Category: Defeat in Iraq
+
+The speaker describes the failure of the Iraqi resistance due to their misguided actions, and argues that the US should have been completely defeated.
+
+
+## 1514.159s : Afghanistan they persisted and they fought in the mountains and took 20 years for them forsaken by almost everyone in the world to kick America give the biggest defeat and kick in the in the back side 
+Category: Afghan resistance
+
+The speaker praises the Afghan resistance that fought for 20 years against the US and achieved a significant victory. 
+
+
+## 1528.32s : actually C if you see the picture of cab the disaster picture of americ is much worse than what happened in saon much wor if you come if you if you scale the matter look what has happened in kab by the 
+Category: US defeat in Afghanistan
+
+The speaker compares the US defeat in Afghanistan to their defeat in Vietnam, arguing that the former is even more significant.
+
+
+## 1551.88s : is a very powerful State led by sincere people sincere to their ideology and their own people oim and his commander and Military and the vi they voted for a cause and they were millions in numbers by the way not millions in numbers 
+Category: North Vietnam
+
+The speaker discusses the strength and determination of North Vietnam in their struggle against the US, highlighting their ideological commitment and large numbers.
+
+
+## 1582.84s : than than they defeat in saon I have compared it at that time with the retreat of the oani forces from the war of Vienna in 1680 that was the the countdown for the to go to decline 
+Category: US defeat in Afghanistan
+
+The speaker continues to compare the US defeat in Afghanistan to historical events, specifically the decline of the Ottoman Empire after their retreat from Vienna in 1680.
+
+
+## 1621.76s : slow in our time things are much more faster it needs only few years that this Empire collapses we see that collapsing it's almost in a free so that's that's that's what we have to present to the people and apply the the statements of the Quran to the reality 
+Category: Rapid decline
+
+The speaker argues that the current decline of empires is happening much faster than in the past, and urges Muslims to apply the Quran to current reality.
+
+
+## 1641.36s : reality so that they can overcome the W they can believe and know that life and death are ultimately a test and it is inevitable and it is make absolutely no difference if you die today or die after thousand years 
+Category: Life and death
+
+The speaker emphasizes the importance of understanding that life and death are ultimately tests and that the timing of death is irrelevant.
+
+
+## 1664.32s : understanding and they have to have the evidences for that and that's the purpose of some of our or all of our that's number one secondly then we have this miraculous event on 7th of October 
+Category: Quranic evidences
+
+The speaker explains the purpose of their studies is to provide evidence for understanding the realities of life and death.
+
+
+## 1676.64s : which 10 upside down but this would not have been thinkable without C before and the Arab Spring before that and events before that it developed from that it developed unfortunately a little bit slower than I was hoping for when I came to Britain in 1994 it's almost now 
+Category: Arab Spring
+
+The speaker connects the current situation to events like the Arab Spring and the slower development of change than anticipated.
+
+
+## 1710.72s : shoud in in the back metaphorically I don't think I will will be back home alive and won't be possible but then she says that's assume that and then hope it would be not like that so ultimately this happened and then it sh has shaken the whole 
+Category: Personal reflection
+
+The speaker reflects on their personal experience and hopes for a faster development of change.
+
+
+## 1729.36s : world and by Allah's act in the universe not even by by by the muslim's act just by Allah's Grace there was a good preparation for that in the west by by the pandemic which weakened them 
+Category: Allah's plan
+
+The speaker attributes the current situation to Allah's plan and notes the weakening of the West by the pandemic.
+
+
+## 1762.679s : more more pressing and there some demagogues coming forward like Johnson here like Trump and they're Leading the People into a direction which increases the gap between them and the elite the ruling Elite 
+Category: Political demagogues
+
+The speaker identifies figures like Boris Johnson and Donald Trump as demagogues who are increasing the divide between the ruling elite and the people.
+
+
+## 1776.64s : and here Johnson taking the UK out of out of the European Union to its own demise not own benefit 
+Category: Brexit
+
+The speaker criticizes Boris Johnson's decision to take the UK out of the European Union, arguing it will lead to the country's decline.
+
+
+## 1797.64s : borders but these people do not comprehend that because that's not their philosophy that's not their vision of the real reality now recently now for the plastin ab Pro 
+Category: Political vision
+
+The speaker criticizes the political vision of certain leaders, arguing that they fail to comprehend the need for cooperation and mutual respect.
+
+
+## 1805.799s : plastin ab Pro let me start with a significant event it seemed to be first a very small event but had enormous significance is the win of G roale in which he smashed all the major parties and got more votes than all of them 
+Category: Political upset
+
+The speaker highlights the unexpected political victory of a new candidate, suggesting a shift in the British public's thinking.
+
+
+## 1828.44s : the British the British public is waking up the common people who have been taken for a ride for a thousand years 
+Category: Public awakening
+
+The speaker believes that the British public is waking up to the reality that they have been manipulated by the ruling elite.
+
+
+## 1835.2s : this this Common Man here is essentially a serve is a slave and the Kings and Feud the Lords and then later when when feudalism transformed into capitalism to the capital the people controlling Capital controlling wealth money the of England 
+Category: Historical oppression
+
+The speaker describes the historical oppression of the common people in Britain, from feudalism to capitalism.
+
+
+## 1860.0s : over time in it intelligent way so that the Common Man May believe that he is have something really to say which reality has nothing to say 
+Category: Manipulation of the masses
+
+The speaker emphasizes that the ruling class has skillfully manipulated the common people into believing they have power when they don't.
+
+
+## 1872.84s : that the people of this island seems to be valuing their own personal Liberty and their own house that's expressed in the in the English example my house is my castle 
+Category: English individualism
+
+The speaker notes that the English seem to value their own personal freedom and privacy, represented by the saying "my house is my castle."
+
+
+## 1886.159s : between one of the Kings I his name another one and he suggested certain things and and the King was suggesting something like more state power in certain areas and one objecting say what I'm suggesting would not touch everyone's and his castle 
+Category: State power
+
+The speaker discusses a historical example of conflict between those who sought more state power and those who valued individual liberty.
+
+
+## 1902.519s : these people are Li people of Liberty don't go to their home and they don't bother about how you manage the world so we take the management of the world of the Marcus and the streets but keep them home 
+Category: Individual liberty
+
+The speaker emphasizes that the English value their homes and their privacy, while leaving the management of the world to the ruling class.
+
+
+## 1918.12s : touch if we do that then we don't have a problem very very shrewd and intelligent man but this this could be span like that and go for decades and centuries 
+Category: Political strategy
+
+The speaker acknowledges the intelligence of this political strategy but notes that it can only work for so long.
+
+
+## 1929.799s : for decades and centuries but now ultimate it came to a break point because this worked the last few centuries 
+Category: Break point
+
+The speaker suggests that the previous political strategy has reached a breaking point, likely due to changing circumstances.
+
+
+## 1938.799s : worked when the empire was looting other places India and Africa and so on and South America Etc and bringing wealth and money and some of it will will will driel down to the common masses 
+Category: Imperial looting
+
+The speaker explains that the previous strategy worked because the empire was able to loot other countries and distribute some of the wealth to the masses.
+
+
+## 1964.88s : step by step but people do not know said there's not enough for the oligarchy and the fud Lords to give to the masses so they started cutting benefit cutting this cutting that thinking to sell the the health services 
+Category: Cutting benefits
+
+The speaker discusses how the ruling class is cutting benefits and privatizing services because they can no longer afford to distribute wealth to the masses.
+
+
+## 1984.799s : now the encouragment of the oligarchy of the of the bank cartel in your house is becoming Fair people feel it and that's the beginning of the people starting to be 
+Category: Public awareness
+
+The speaker describes how people are becoming aware of the oligarchy's influence and the impact on their lives.
+
+
+## 1999.679s : disassociated disengaging from the ruling Elite come Raza the came then there was a shock there was an exposition that all what they have spun about this state is a model of democracy 
+Category: Loss of faith in democracy
+
+The speaker notes that the public is losing faith in the idea that their government is a true democracy.
+
+
+## 2014.039s : is a model of democracy it gives the Jews Refugee they are oppressed people because that's what thetive put on the table the narative reverse 
+Category: False narrative
+
+The speaker criticizes the false narrative that Israel is a state of democracy and that Palestinians are oppressed refugees. 
+
+
+## 2025.919s : it turns out that this entity is a genocidal zazi cancerous entity it has no right to exist as a matter of fact the recent discussion in the uh court of 
+Category: Israel's legitimacy
+
+The speaker exposes Israel's true nature as a genocidal entity and questions its right to exist.
+
+
+## 2037.6s : uh court of justice goes to the level of if even almost touching on isra's legitimacy in existence this English barister who was representing the Arab League 
+Category: Legal challenges to Israel
+
+The speaker describes how legal challenges are starting to question Israel's legitimacy, even in the court of justice.
+
+
+## 2071.359s : rights of Defense because that occupation for from day one this is completely shocking the Imperial story spun to the common people 
+Category: Israel's illegal occupation
+
+The speaker emphasizes the illegality of Israel's occupation and the deceptive narrative that has been presented to the public. 
+
+
+## 2084.44s : board and fight for the Imperial forces thinking they are doing the right thing is exposed we see the demonstration we see how Brave man have got to got got her her backside kicked 
+Category: Public opposition
+
+The speaker highlights the growing public opposition to the government's support of Israel, as evidenced by the protests against Suella Braverman.
+
+
+## 2104.56s : out and soon you will see I hope this you'll notice this prob soon you'll see R sonak would be kicked out maybe if he continue what he's doing now maybe he'll be kicked out well before even the election 
+Category: Political changes
+
+The speaker predicts that Rishi Sunak will likely be kicked out of office before the election due to his policies.
+
+
+## 2129.44s : that winning that labor would win the election is almost axiomatic unless we take the events of Raza on and unless we see what George Gala we did in inale to them now they are in state of panic 
+Category: Election predictions
+
+The speaker believes that Labour will win the election unless events like the situation in Gaza change the political landscape.
+
+
+## 2146.96s : the claims and the attempts of of hindutva implant Modi implant is no more than that he's just a hind iist hind who implanted in Britain to serve that hind agenda for Britain is just a b to do his activity for back home he's appealing now 
+Category: Hindutva agenda
+
+The speaker criticizes the Hindutva agenda being pushed by Modi in Britain, suggesting it is not in the best interest of the country.
+
+
+## 2171.76s : to threatening the people the democracy is in danger Mall you're really Democratic or British values are in danger we have extrem extremism on the right and on the left 
+Category: Threat to democracy
+
+The speaker warns about the threat to democracy posed by extremism on both the right and left, specifically in the case of Modi and his rhetoric.
+
+
+## 2196.28s : situation don't think this is a threat that's that's what Muslims should understand what he's saying it appears like threat and he said the police should do more against these elements 
+Category: Modi's tactics
+
+The speaker suggests that Modi's rhetoric about extremism is actually a tactic to distract from the real issues and gain more power.
+
+
+## 2214.839s : catastrophe in rdale for them and for laor he should stood aside make no comments study things and analyze that would a rational person would do that 
+Category: Rational response
+
+The speaker believes that a rational leader would have stood aside and analyzed the situation after the political upset in rdale.
+
+
+## 2232.04s : yeah there may some independent some places of significant character they may have one but one in the usual one 2% extra but no one as far as you know any in election history of Britain no one more independent one against all 
+Category: Election history
+
+The speaker emphasizes the unprecedented nature of the rdale election results, where one candidate garnered more votes than all other major parties combined.
+
+
+## 2255.839s : I may be corrected that's revolutionary change in the society in the way of people elect I think this is catastrophic for him for that you have to sit back and think how we can deal with that what to do instead he comes 
+Category: Societal change
+
+The speaker views this as a revolutionary change in society, but criticizes the incumbent's response and urges Muslims to think about how to deal with the situation.
+
+
+## 2271.76s : later and start his blabber completely irrational and sensal blubbery which will backf so Muslim should understand that that it will backfire against him and tell him okay send your police and see what will happen to them 
+Category: Irrational response
+
+The speaker criticizes the incumbent's irrational response to the election results, predicting it will backfire.
+
+
+## 2283.28s : happen to them the police will not obey you because the police is more sensible than and it has proven in the case of Brave man when she blubbered and asked the police to step against the 
+Category: Police response
+
+The speaker suggests that the police are more sensible than the incumbent, referencing their previous inaction against the protests.
+
+
+## 2297.68s : give s this necessary signal to remove her so that's so the tide is in our favor we have to manage it courageously we should not be intimidated say well okay fine 
+Category: Political momentum
+
+The speaker believes that the tide is turning in favor of Muslims and urges them to act courageously.
+
+
+## 2312.2s : like for example when they establish their glorification of the of of terrorism laws at that time I was invited I don't remember where they EXA which channel in one channel myself and George Gallow and we both were said okay we say at the time it Wastin or Hamas no Hamas was already established 
+Category: Terrorism laws
+
+The speaker recalls an incident where he and George Galloway spoke out against the labeling of Hamas as a terrorist organization. 
+
+
+## 2331.96s : was already established Hamas is a freedom freedom freedom fighting organization not terrorist we glorify them we waiting for an order to come to the court no order came 
+Category: Hamas
+
+The speaker emphasizes that Hamas is a freedom-fighting organization, not a terrorist group, and criticizes the lack of action against them despite the government's claims. 
+
+
+## 2346.76s : today the same should be our response to these guys now L as much as you like come to the battlefield you want to do legal action show me your legal action you want to do this show me do this you want to to order the police to do that 
+Category: Confrontation
+
+The speaker encourages Muslims to confront the government's actions and demands that they back up their claims with real action.
+
+
+## 2364.04s : police will not obey you first of all the police is more sensible than that generally secondly the police is not under the prime Min police is under the constabulary which is connected directly to the cow 
+Category: Police independence
+
+The speaker explains that the police are not under the direct control of the prime minister but rather connected to the Crown, making them more independent. 
+
+
+## 2380.48s : go back to to India if if you want to have the hind agenda there here it will not work in Britain 
+Category: Hindutva agenda
+
+The speaker repeats his criticism of Modi's Hindutva agenda, asserting that it will not succeed in Britain. 
+
+
+## 2392.48s : that's part of the result of 7 October now in the situation in RZA itself I think you're following the news more than myself it's essentially a Siege 
+Category: Gaza Siege
+
+The speaker links the current situation in Gaza to the events of October 7th and describes it as a siege.
+
+
+## 2410.599s : that that unicid act shooting people who are just coming to collect flower and they tried to spin it that there was a stamped it's proven false even the New York timeses has analyzed 
+Category: Israeli atrocities
+
+The speaker condemns the Israeli shooting of civilians in Gaza, describing it as a unicid act and exposing the Israeli government's attempts to justify it. 
+
+
+## 2424.079s : was a journalist from Al jazer who was in side street shooting video just as record for documentation that's it not expecting anything see how the people going to the truck taking the 
+Category: Al Jazeera footage
+
+The speaker mentions the importance of the Al Jazeera footage, which captured the Israeli atrocity in Gaza. 
+
+
+## 2442.76s : and plenty of the IDF ammunition is is is having a trace up so you can see where they're coming and you see it in the video they're coming from place where the IDF has a has a has a control point it's very clear 
+Category: Tracing ammunition
+
+The speaker points out that the ammunition used by the IDF is traceable, confirming that the shooting came from a controlled IDF location.
+
+
+## 2456.8s : clear that the Israeli claims is false cannot be accepted and even the isi I think I think hearts or Hearts said the story is completely incredible the fact that it came with they came with this story 
+Category: Israeli lies
+
+The speaker confirms that the Israeli claims are false and notes that even some Israeli commentators have called the story incredible. 
+
+
+## 2473.4s : after 10 hours bring the most severe doubt that they were spinning it and waiting a bit to see if there's any information here or there or anything publicized who could
+
+## https://www.youtube.com/watch?v=N80WSLSWH1g
+
+## What is the difference between the Quran and other previous scriptures? 
+
+**Category:** Scripture Comparison
+
+**Timestamp:** 20.119s 
+
+The Quran is the most comprehensive and supreme book because it contains principles of logic, philosophy, how to conclude, how to make evidences, and how to make dialogues. Unlike other books, it is self-contained and provides instructions on verifying prophecies and dealing with false prophets. 
+
+##  What does the Quran say about death and the day of resurrection?
+
+**Category:** Eschatology
+
+**Timestamp:** 106.32s
+
+Every human being is bound to experience death, but the day of resurrection is when people will be fully rewarded or punished for their deeds. Those who are drawn away from the fire and brought into paradise will have gained a triumph, for the life of this world is merely an enjoyment of self-delusion. 
+
+## What is the meaning of the phrase "every soul shall experience death"? 
+
+**Category:** Eschatology
+
+**Timestamp:** 131.76s
+
+The speaker explains that this phrase means all living souls, including angels, will experience death, except for the Divine Soul which is eternal. The reward for good deeds will be given on the Day of Resurrection, and this world is a world of testing. 
+
+## What does the Quran say about trials and tribulations?
+
+**Category:** Trials and Tribulations
+
+**Timestamp:** 395.28s
+
+The verse states that people will certainly be tested in their possessions and their persons, and will hear hurtful things from those who received revelation before them and from those who have come to ascribe divinity to others besides God. If people remain patient and conscious of God, it is a sign of their strength of resolve.
+
+## Why do those who have been given the book before Muslims insult them?
+
+**Category:** Interfaith Relations
+
+**Timestamp:** 477.96s
+
+The speaker explains that people who have been given the book before Muslims (Jews and Christians) sometimes insult them because of jealousy, unwillingness to accept a new message, or because they don't want to abandon their misconceptions about God or the prophets. Insults also come from pagans, atheists, and those who don't attribute divinity to a being in the strict sense. 
+
+## What is the appropriate response to insults against Muslims?
+
+**Category:** Responding to Insults
+
+**Timestamp:** 587.04s
+
+The speaker emphasizes that the best response to insults is to be patient and conscious of Allah. It is important to avoid headless responses, and instead, to respond in a measured and balanced way, such as boycotting goods, ignoring insults, and taking diplomatic action.
+
+##  Is it permissible to kill those who insult the prophet?
+
+**Category:**  Violence and Insult 
+
+**Timestamp:** 812.279s 
+
+The speaker explains that the evidence about killing those who insult the prophet is complex and not clear-cut. There is some evidence, but it does not mean that killing is an obligation. He gives the example of a blind man who killed his wife after she repeatedly insulted the prophet, but it is not clear whether he acted on divine instruction or in a moment of anger. 
+
+## What is the Quran's stance on the concept of God having a son?
+
+**Category:** Trinitarianism
+
+**Timestamp:** 1226.52s 
+
+The speaker highlights that the Quran states that claiming Allah has a son is one of the biggest insults to Him, as it implies that He is not necessarily existing and perfect. Although this insult is worse than insulting the prophet, Muslims' reactions to it are not always consistent. 
+
+##  What is the covenant that God made with the people of the book?
+
+**Category:** Covenants
+
+**Timestamp:** 1307.159s 
+
+The speaker states that God made a covenant with the people of the book (Jews and Christians) to show the revealed scriptures to mankind and not hide them. However, they broke the covenant and hid certain books, such as the Apocrypha, for personal gain.  This act of hiding the books was considered a major crime and source of misguidance. 
+
+##  What does it mean that God created the universe for a purpose? 
+
+**Category:** Purpose of Creation
+
+**Timestamp:** 3554.559s 
+
+The speaker explains that the creation of the heavens and the Earth, as well as the succession of night and day, are all signs for those who are endowed with insight. It is impossible for Allah to create the universe for pure enjoyment, as He is perfect and complete in himself.  The purpose of creation is for conscious beings to reflect on the universe and their creator, and to recognize that there is a message from God. 
+
+##  Why is it important to study the universe with a metaphysical approach?
+
+**Category:** Metaphysics and Science
+
+**Timestamp:** 3830.68s 
+
+The speaker argues that while the scientific approach can describe the universe, it is not enough. Metaphysical questions about the purpose and mind of the universe must also be answered. He notes that the universe cannot have started with absolute spontaneity, and therefore there must be a necessary existing being who created it. This being is not driven by enjoyment or games, but by a higher purpose. 
+
+##  What is the message of the Quran concerning belief in God? 
+
+**Category:** Belief in God 
+
+**Timestamp:** 4185.159s 
+
+The speaker quotes a verse from the Quran that emphasizes that belief in God is the foundation of faith. The verse says: "Our Lord, we have heard one calling us to faith, believe in your Lord, so we believed." This call to believe in God as the ultimate sovereign, the source of good and evil, and the one who defines purpose is crucial for salvation. 
+
+## How did the people of the book come to believe in the afterlife and punishment?
+
+**Category:**  Evidence for the Afterlife
+
+**Timestamp:** 4162.719s
+
+The speaker emphasizes that belief in the afterlife and punishment comes from a channel of information that is absolutely trustworthy and reliable. This information was verified by people who were mindful and pondered the universe. 
+
+## Why did the people of the book hide the revealed scriptures?
+
+**Category:** Hidden Scriptures
+
+**Timestamp:** 2985.28s 
+
+The speaker explains that the people of the book hid the revealed scriptures to maintain power and control over the masses. This act of hiding the scriptures and fabricating historical events is a major catastrophe, as it prevents people from receiving divine guidance.
+
+##  What is the nature of Allah's promise?
+
+**Category:**  Promise and Covenant
+
+**Timestamp:** 4906.44s
+
+The speaker states that Allah's promise, whether it be of favor, goodness, or forgiveness, is unbreakable and binding. This promise is a necessity that Allah has obligated himself to fulfill. It is impossible for Allah to break his promise, as it would be equivalent to denying his own power and being. 
+
+##  What does Allah's response to the believers' prayer signify?
+
+**Category:**  Divine Response
+
+**Timestamp:** 5117.6s 
+
+The speaker explains that Allah's response to the believers' prayer signifies His promise to not let their deeds go to waste, whether they are men or women. He will wipe away the sins of those who immigrated, were expelled from their homes, suffered for His sake, fought, and were killed. These believers will be granted entry into heavenly gardens as a reward. 
+
+##  Why should people not fall into the fallacy of thinking that only those with certain conditions will be forgiven?
+
+**Category:**  Forgiveness and Rank
+
+**Timestamp:** 5181.76s
+
+The speaker warns against the fallacy of thinking that only people who meet certain conditions, such as being killed in battle, will be forgiven. He clarifies that while some people may be granted a higher rank in paradise, there are still lower ranks for those who may not have met all the conditions but still believe and strive to do good. 
+
+##  What is the key takeaway from the discussion of fabricating history? 
+
+**Category:**  Historical Analysis
+
+**Timestamp:** 2894.16s 
+
+The speaker emphasizes that it is crucial to read ancient historic documents critically, as they are often written to glorify the current king or demonize others. This applies to accounts by priests and kings, as they are often biased and not objective. It is essential to verify information with other sources and to be cautious of any claims that are designed to praise a particular king or ruler. 
+
+
