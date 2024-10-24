@@ -28081,3 +28081,12298 @@ The speaker reemphasizes the importance of understanding and following the Quran
 **Question:** What does the speaker say at 4622.34s?
 **Answer:** The speaker explains that the misconception about the Torah being
 
+## https://www.youtube.com/watch?v=9dJvuZQQWys
+
+## What did the Prophet Muhammad say about Paradise? 
+**Timestamp:** 49.32s 
+**Category:** Religion
+**Answer:**  The Prophet Muhammad said he was not fighting for Paradise. He was fighting for the honor of his people and for Medina, his city. He stated he didn't believe in Paradise and that it didn't exist. 
+
+## How does Allah support Islam and Muslims? 
+**Timestamp:** 70.08s
+**Category:** Religion
+**Answer:**  Allah supports Islam and Muslims through sinful and rebellious men, as well as through the enemies of the religion. Even those who are fighting for worldly gains can end up defending Islam and helping Muslims, even unknowingly. 
+
+
+## https://www.youtube.com/watch?v=K55Ugt9u3Q8
+
+##  0.12s 
+**What is the job of retaining the authority to remove this filth from the body politic?** 
+**Category:** Politics 
+The speaker suggests the job is to remove "this filth" from the body politic, which could refer to corruption or oppressive systems. 
+
+## 2.08s 
+**How can we remove this filth from the body politic?** 
+**Category:**  Social Change
+The speaker says removing "this filth" requires education, scholarship, and developing strategies to resist oppressive rulers. 
+
+## 5.56s 
+**What is the purpose of removing this cancer from the body?**
+**Category:** Social Change
+The speaker refers to "this cancer" as something that needs to be removed to liberate people. This likely refers to oppressive systems or ideologies. 
+
+## 7.64s
+**How do we remove this cancer from the body?**
+**Category:** Social Change
+The speaker emphasizes the need for education, scholarship, and developing strategies to resist oppressive rulers. 
+
+## 10.16s
+**What is the primary job?**
+**Category:** Social Change
+The speaker emphasizes that the primary job is to regain authority and remove oppression.  
+
+## 12.679s
+**How do we regain authority?**
+**Category:** Politics
+The speaker suggests regaining authority requires campaigning, education, and scholarship. 
+
+## 17.08s 
+**How do we achieve this?** 
+**Category:** Social Change
+The speaker emphasizes education and scholarship are crucial to fighting oppression. 
+
+## 26.599s
+**What are some strategies for dealing with oppressive rulers?**
+**Category:** Politics
+The speaker suggests developing strategies for dealing with oppressive rulers, including identifying those who can be fought against. 
+
+## 30.679s 
+**What is the goal of fighting against these rulers?**
+**Category:** Social Change
+The speaker mentions research into fighting and resisting oppressive groups, suggesting a desire to create a more just and equitable society. 
+
+## 38.16s
+**How confident are you in the strategy for achieving this goal?**
+**Category:** Social Change
+The speaker expresses confidence in the strategies being developed to resist oppression. 
+
+## 41.52s
+**How does the speaker describe the goal?**
+**Category:** Metaphor
+The speaker describes the goal as something that is "as close to what have come above seven heaven." This suggests a highly desirable and transcendent goal. 
+
+## 51.239s
+**How does the speaker defend the strategy?**
+**Category:** Social Change
+The speaker defends the strategy by stating it is the best available and challenging others to present a better alternative. 
+
+
+## https://www.youtube.com/watch?v=u4FJxjGs8Dk
+
+## 4.68s: How many vehicles have been destroyed in the last few days? 
+**Category:** Military Operations
+
+The speaker states that roughly 20 to 25 vehicles are destroyed each day, totaling around 80 to 100 vehicles over the past four or five days. 
+
+## 8.36s: What types of vehicles are being destroyed? 
+**Category:** Military Equipment
+
+The speaker mentions tanks, infantry carrier vehicles, tractors, and equipment used for demolishing. 
+
+
+## https://www.youtube.com/watch?v=byBOe5hmKI0
+
+## What is the Muslim Brotherhood's slogan?
+
+**Category:**  Political Slogan
+
+0.12s:  The Muslim Brotherhood has a slogan. What is it? 
+
+The Muslim Brotherhood's slogan is "We must get Islam ruled."  
+
+## What is the aim of the Muslim Brotherhood's slogan?
+
+**Category:**  Religious Ideology
+
+2.24s: The slogan "We must get Islam ruled" means that we must get Islam to rule. Why is this the goal?
+
+The aim of the Muslim Brotherhood's slogan is to establish an Islamic state where Islamic law is enforced in all aspects of life. 
+
+## Why is enforcement of Islam necessary?
+
+**Category:**  Religious Law
+
+6.0s: Why does Islam need to be enforced?
+
+Enforcement of Islamic law is necessary because it is believed that without it, people will not follow the true path of Islam. 
+
+##  Who is the speaker referring to?
+
+**Category:**  Religious Figure
+
+8.719s:  The speaker mentions a person. Who is this person?
+
+The speaker refers to a person, potentially a religious figure or scholar, who has advocated for the establishment of an Islamic state. 
+
+## Why does the speaker believe the person mentioned is wrong?
+
+**Category:**  Religious Argument
+
+11.519s: The speaker has reservations about the person's beliefs. Why does he disagree with this person? 
+
+The speaker believes that the person is mistaken in believing that the Quran itself is not enough to guide people towards the right path. He suggests that a fundamental problem exists with those who cannot find guidance through the Quran.
+
+## How is the person's belief problematic?
+
+**Category:**  Religious Authority
+
+16.119s:  The speaker gives an argument against the person's belief. What is the argument?
+
+The speaker's argument is that if someone needs a ruler to enforce religious laws, it indicates a fundamental lack of faith or understanding of the Quran's teachings.
+
+##  Why is enforcement by a state problematic?
+
+**Category:**  Religious Authority
+
+21.88s: The speaker makes a point against the person's argument. What is it?
+
+The speaker argues that enforcement of religious law by a state is problematic, as it implies that the Quran itself is not sufficient to guide people towards righteousness. 
+
+## How does the speaker feel about the state's role?
+
+**Category:**  Religious Interpretation
+
+23.72s: The speaker states his opinion on the state's role. What is it?
+
+The speaker believes that the state should not be the primary force behind the enforcement of Islamic law.
+
+## What is the speaker's belief about the role of the Quran?
+
+**Category:**  Religious Authority
+
+29.72s:  The speaker argues against a particular concept. What is it?
+
+The speaker believes that people should be guided by the Quran and not rely on the state to enforce religious laws.
+
+## Why is reliance on the Quran important?
+
+**Category:**  Religious Authority
+
+35.68s: The speaker states a belief about the power of the Quran. What is it?
+
+The speaker believes that the Quran should be sufficient to guide people towards the right path and that reliance on the state for enforcement undermines the authority of the Quran.
+
+## What is the speaker's perspective on the role of the state in religious matters?
+
+**Category:**  Religious Authority
+
+44.719s:  The speaker critiques a certain view. What is it?
+
+The speaker criticizes the idea that a state can impose religious laws and argues that the Quran should be the primary source of guidance. 
+
+## What does the speaker believe is the true deterrent for crime?
+
+**Category:**  Religious Law
+
+62.039s: What does the speaker believe is the true deterrent for crime in Muslim society?
+
+The speaker believes that the true deterrent for crime in Muslim society is the understanding that certain actions are prohibited by Islamic law and the fear of divine punishment. 
+
+## What is the speaker's position on the role of state punishment?
+
+**Category:**  Religious Law
+
+76.119s:  The speaker makes a point about state punishment. What is it?
+
+The speaker acknowledges that state punishment may deter crime but believes that the primary deterrent should be the individual's understanding of the religious prohibitions and the fear of divine judgment. 
+
+
+## https://www.youtube.com/watch?v=3XloWPN-_4Y
+
+##  1.14s:  Translation
+**Category:** Translation 
+**Question:**  What is the correct translation of the phrase “I will cause you to die”?
+**Answer:**  The correct translation should be "I will receive you,"  as the original Arabic phrase refers to God receiving Jesus, not causing him to die. The speaker points out that there can be multiple meanings for a single phrase, so careful translation is important.  
+
+## 38.12s:  Prophecy
+**Category:** Prophecy
+**Question:**  What is the prophecy concerning Jesus' death and resurrection?
+**Answer:** The prophecy states that God will cause Jesus to die and then raise him up to be purified. God will exalt the followers of Jesus over those who deny him until the Resurrection Day.  Then, everyone will return to God, who will judge them.
+
+## 73.5s:  Gethsemane
+**Category:**  Gethsemane
+**Question:**  What happened to Jesus in Gethsemane?
+**Answer:** According to the New Testament, Jesus was in distress and supplicating while his disciples slept. He asked Peter, James, and John to stay awake with him but they fell asleep.  Two angels came to comfort him, but the disciples were asleep and didn't know what happened. God gave Jesus the message that he shouldn't worry, as God would face the transitions.
+
+## 136.58s:  Death and Resurrection 
+**Category:**  Death and Resurrection
+**Question:**  Does the prophecy summarize the process of Jesus' death and resurrection or just the outcome? 
+**Answer:** The speaker suggests that the prophecy summarizes the process of Jesus' death and resurrection, including his being lifted up to God, rather than just stating the outcome. He plans to explain this process in detail by analyzing historical evidence and narratives.
+
+## 168.739s:  Death and Resurrection 
+**Category:**  Death and Resurrection
+**Question:**  How does the prophecy relate to those who do not die in their sleep?
+**Answer:**  The speaker proposes that the prophecy also includes a type of reception for those who do not die in their sleep, which could be seen as a parallel to Jesus' experience. 
+
+## 182.04s:  Apprehension 
+**Category:**  Apprehension
+**Question:**  What happened when Jesus was apprehended?
+**Answer:**  The speaker describes the scene of Jesus' apprehension, suggesting that the Roman soldiers approached cautiously in the dark, without torches. They were a large force, possibly around 700 strong. They surrounded the area and moved slowly towards the house where Jesus was. When they got close, they likely saw a small light from an oil lamp inside and charged forward. The soldiers identified Jesus as the one being embraced by someone in the house.
+
+## 277.74s:  Apprehension
+**Category:** Apprehension
+**Question:**  What happened to those who were present when Jesus was apprehended?
+**Answer:**  Some of those present were apprehended, while others ran away. There are reports of some people trying to fight, but it's not clear if this is accurate or fabricated. One account says that someone struck a temple servant, but it's unclear if this is true.
+
+## 320.479s:  Transfiguration 
+**Category:** Transfiguration
+**Question:**  What is the speaker's theory about the Transfiguration?
+**Answer:**  The speaker believes that the Transfiguration, where Jesus’ clothing was changed, is a possible event that actually happened.  He uses the account in Luke's Gospel as an example, where Jesus went uphill and met with two persons who came from heaven in the clouds.  The two persons radiated like sunlight and the people witnessed a transfiguration. The speaker believes this could have been a model for what happened to Jesus.
+
+## 389.52s:  Transfiguration
+**Category:**  Transfiguration 
+**Question:**  Why does the speaker believe that the Transfiguration of Jesus was a demonstration of divine power?
+**Answer:** The speaker argues that there is no reason for the Transfiguration to happen, other than as a demonstration of God's power. The story has no basis in the Old Testament or other events in Jesus’ life. He suggests that the story could have been based on similar events in other religions and serves as a model for the possibility of such events.
+
+## 406.86s:  Apprehension
+**Category:** Apprehension
+**Question:**   Why does the speaker believe the Roman soldiers apprehended the wrong man?
+**Answer:** The speaker believes that the Roman soldiers apprehended the wrong man because they relied on their eyesight.  They knew Jesus, but they were focused on the exterior appearance of the man being embraced. The speaker argues that Jesus could have undergone a transfiguration or miracle, internally, which allowed him to extend his image to those around him.
+
+## 438.3s:  Transfiguration
+**Category:** Transfiguration 
+**Question:**  How did Jesus react to being apprehended?
+**Answer:** The speaker states that Jesus, being the only one who knew what was going on, recognized that there was no escape. This could have been because of his internal transfiguration.  Jesus saw himself, his extended image, in front of him. He might have seen his clothes changed and recognized that some form of transfiguration or miracle had taken place.  This realization could have led to a state of shock.
+
+## 479.099s:  Apprehension 
+**Category:** Apprehension
+**Question:** Why didn't Jesus identify himself to his captors?
+**Answer:**  The speaker explains that Jesus remained silent because he realized that his captors wouldn’t believe him if he said he was Jesus. He was in a state of shock and knew that his words wouldn’t be accepted. This silence is reflected in the Gospel accounts, where Jesus remained silent throughout his trial.
+
+## 518.039s:  Trial
+**Category:** Trial
+**Question:**  Why didn't Jesus defend himself during his trial?
+**Answer:** The speaker argues that Jesus didn't defend himself during his trial because he was in a state of shock. He knew that his captors wouldn't believe him and felt powerless to change the situation.
+
+## 523.26s:  Trial
+**Category:** Trial 
+**Question:**  What is the speaker's opinion on the account of Jesus being brought before Pontius Pilate? 
+**Answer:** The speaker believes that the account of Jesus being brought before Pontius Pilate is likely fabricated to accelerate the Roman narrative of the crime. He argues that this account places blame on the Jews and exonerates the Romans, which he doesn't find credible.
+
+## 544.82s:  Trial
+**Category:** Trial 
+**Question:**  What is the speaker's opinion on the date of Jesus' trial?
+**Answer:**  The speaker argues that Jesus' trial happened in the year 27, and that Pontius Pilate was not known for respecting Jewish customs or being tolerant. The speaker suggests that the trial was more likely a fabrication, intended to promote a specific agenda. 
+
+## 579.42s:  Philosophical Debate
+**Category:**  Philosophical Debate
+**Question:**  What is the speaker's opinion on the philosophical debate between Jesus and Pontius Pilate?
+**Answer:** The speaker finds the account of a philosophical debate between Jesus and Pontius Pilate to be fabricated.  He points out that the discussion of good and evil seems contrived and doesn't align with the historical context.
+
+## 619.92s:  Crucifixion
+**Category:** Crucifixion
+**Question:**  What is the speaker's evidence that the person crucified was not Jesus? 
+**Answer:** The speaker argues that the person on the cross was not Jesus because he remained silent.  He points out that someone claiming to be Jesus would have spoken out and defended themselves.
+
+## 632.16s:  Trial
+**Category:** Trial
+**Question:**  How long did the trial of Jesus last? 
+**Answer:** The speaker estimates that Jesus’ trial lasted about a day and a half. He suggests that Jesus was detained in Gethsemane on Wednesday evening, the trial took place overnight, and he was presented to Pontius Pilate on Friday morning.
+
+## 648.66s:  Trial
+**Category:**  Trial
+**Question:**   Why does the speaker doubt that Jesus was ever presented to Pontius Pilate?
+**Answer:** The speaker doubts that Jesus was ever presented to Pontius Pilate because the Roman governor would have been needed to authorize the crucifixion.  The Romans wouldn't have allowed a person to claim to be a king and lead a rebellion without authorization from the governor. The speaker also states that the Romans were primarily concerned with power, not religion.
+
+## 670.8s:  Crucifixion
+**Category:** Crucifixion
+**Question:**  What was the inscription placed on the cross? 
+**Answer:** The speaker states that the inscription on the cross read "King of the Jews," which was meant to mock Jesus.  The Romans saw him as a rebellious figure, not a religious leader.
+
+## 691.92s:  Crucifixion
+**Category:** Crucifixion
+**Question:**  What is the speaker's opinion on the accounts of events that happened around Jesus' crucifixion?
+**Answer:** The speaker believes that many of the accounts surrounding Jesus’ crucifixion are likely imaginary or fabricated. He suggests that the disciples ran away, and the women who were watching from afar reported events second-hand. He finds it unlikely that the events around the crucifixion were witnessed by many people.
+
+## 720.3s:  Crucifixion
+**Category:**  Crucifixion 
+**Question:**   What did Jesus say on the cross?
+**Answer:** The speaker states that the only well-reported statement Jesus made on the cross was "My God, my God, why have you forsaken me?” This statement is found in all the gospels and is often interpreted as a cry of despair and abandonment. The speaker suggests that this expression reflects the combination of pain, suffering, and the feeling of failure. 
+
+## 775.86s:  Crucifixion
+**Category:**  Crucifixion
+**Question:** What does the speaker believe was the cause of Jesus' death?
+**Answer:** The speaker believes that Jesus' death was a combination of pain, suffering, and a possible stroke or heart attack. He suggests that the combination of physical and emotional distress led to his collapse and death on the cross.
+
+## 824.1s:  Judas 
+**Category:** Judas 
+**Question:**  How does the speaker interpret the account of Judas' death?
+**Answer:**  The speaker believes that the accounts of Judas' death are not accurate. He suggests that both the story of Judas hanging himself and the story of him buying land and splitting his body are fabricated to explain his disappearance. He believes that Judas’ death happened on the cross, as the Quran does not go into detail about his death but does acknowledge that he was crucified.
+
+## 890.459s:  Crucifixion 
+**Category:**  Crucifixion
+**Question:**  What does the Quran say about the crucifixion of Jesus?
+**Answer:** The speaker points out that the Quran does not go into detail about the crucifixion of Jesus, but it does state that the people who claimed to have crucified him were mistaken. The Quran leaves the interpretation open for individuals to understand the events as they wish.
+
+## 937.74s:  Resurrection 
+**Category:**  Resurrection
+**Question:** How does the speaker relate the resurrection to the sign of Jonah?
+**Answer:** The speaker sees the resurrection as a gradual process, similar to Jonah's experience. He believes that Jesus' death was symbolic, like Jonah being in the belly of the whale, and that his resurrection is a metaphor for his return from seclusion.  He suggests that Jesus' resurrection is a gradual process of transfiguration and that his death was a necessary step for his return to life.
+
+## 994.079s:  Resurrection
+**Category:** Resurrection
+**Question:**  How does the speaker view the Resurrection of Jesus?
+**Answer:** The speaker believes that the so-called resurrection was an appearance of Jesus. He suggests that the appearance happened gradually and was followed by the ascension to heaven. This appearance was witnessed by 500 people, as mentioned in the New Testament.  He considers the appearance and ascension to be well-established events.
+
+## 1045.04s:  Disbelievers
+**Category:**  Disbelievers 
+**Question:**  What happens to disbelievers according to the prophecy? 
+**Answer:**  The speaker states that the prophecy mentions that disbelievers will be punished on the Day of Judgment.  He interprets this as a reference to the final judgment when everyone will be judged for their actions.
+
+## 1057.16s:  Followers
+**Category:** Followers 
+**Question:**  What has recent research revealed about the followers of Jesus? 
+**Answer:** Recent research has shown that the followers of Jesus were able to establish themselves within Jewish society and even exert influence on the temple.  The speaker mentions that James, Jesus' brother, was allowed to enter the Holy of Holies, a privilege usually reserved for the High Priest. This demonstrates the followers’ growing power and influence within the Jewish community.
+
+## 1173.24s:  Dominance
+**Category:**  Dominance
+**Question:**  What does the speaker believe about the dominance of the followers of Jesus?
+**Answer:** The speaker believes that the followers of Jesus have always held dominance over those who are not followers. He cites historical examples, such as the story of the Abyssinians intervening and restoring the situation after Jews persecuted Christians. He argues that the followers have consistently held a position of power and influence, and that the idea of Jews controlling or guiding Christians is not true. 
+
+## 1203.059s:  Dominance
+**Category:** Dominance
+**Question:**  Why does the speaker believe that the Jews have never been dominant over the followers of Jesus?
+**Answer:** The speaker believes that the Jews have never held dominance over the followers of Jesus because of their faith and belief in Jesus as a prophet or divine figure.  The followers of Jesus have consistently held a strong position, despite challenges, and have never been completely controlled by the Jews. He suggests that this dominance will continue in the future. 
+
+
+## https://www.youtube.com/watch?v=z0QmoJthKEQ
+
+## 2.12s: What is the current situation in Bangladesh? 
+**Category:** Politics
+
+The speaker is referring to recent student protests in Bangladesh related to a quota system that favors descendants of those who resisted Pakistani oppression. The protests have resulted in a government crackdown, leading to numerous deaths and the suppression of news. 
+
+## 7.279s: What is the quota system? 
+**Category:** Politics
+
+The quota system in Bangladesh allocates about 30% of government jobs to descendants of those who resisted Pakistani oppression. However, the system is easily manipulated, leading to the regime favoring its own members and granting them prestigious government jobs. 
+
+## 9.8s: What are the Five Pillars doing to address this issue? 
+**Category:** Activism
+
+The speaker mentions that the Five Pillars did a video with blogging theology on this subject, highlighting the severity of the situation with clampdowns, killings, and even rape by the government militia. 
+
+## 91.68s: What advice can you give to those who are trying to make a difference in Bangladesh? 
+**Category:** Activism
+
+The speaker recognizes the potential for change in Bangladesh due to its large Muslim population. However, they warn that the secular regime is strong and has influence in the region. They encourage the exchange of ideas and information to make an impact. 
+
+## 120.479s: What is the historical context for the current situation in Bangladesh? 
+**Category:** History
+
+The speaker believes the situation in the Indian subcontinent took a wrong turn in the last century when the liberation movements created divisions, particularly among Muslim factions. One faction advocated for a separate Muslim state, leading to the creation of Pakistan, while another faction wanted to remain part of India. The speaker believes this was ultimately a British tactic to divide and conquer.
+
+## 197.76s: Why did the British choose to split India into Pakistan and India?
+**Category:** History
+
+The speaker argues that the British recognized the Muslims' ability to establish a powerful state, given their historical role as rulers in the Mughal Empire. They believed that separating Muslims from Hindus would prevent a unified Indian power that could rival their own. This strategy aimed to weaken India and allow for continued exploitation.
+
+## 263.96s: How did the different religious groups in India contribute to the situation? 
+**Category:** History
+
+The speaker believes that Hindus and Sikhs lacked a state ideology and were more focused on family and tradition. They were not actively involved in governing or creating a state, making them less of a threat to the British. This contrasted with the Muslims, who had a history of state building and a vision for their own nation.
+
+## 323.319s: What was the role of the British in the final stages of India's independence? 
+**Category:** History
+
+The speaker explains that after weakening the Mughal Empire, Britain established itself as the dominant force in India. The pressure from the Soviet Union's anti-imperialist stance and the international community eventually forced Britain to grant independence, but they strategically divided India to ensure their influence. 
+
+## 394.639s: Why was it important for the British to separate Muslims from Hindus? 
+**Category:** History
+
+The speaker emphasizes that the British wanted to remove Muslims from India's leadership to prevent a unified state like the Mughal Empire. They feared that a Muslim-led India would regain its historical power and economic strength, which was once a significant portion of the world's GDP. 
+
+## 446.56s: What was the British strategy for dealing with the Muslims in India?
+**Category:** History
+
+The speaker argues that the British sought to isolate Muslims from other groups like Hindus to weaken their influence and prevent them from assuming leadership roles. This strategy stemmed from a fear of Muslim power and the historical conflict between Europe and Islam.
+
+## 475.8s: What were the consequences of the creation of Pakistan? 
+**Category:** History
+
+The speaker highlights the challenges of Pakistan's formation, including the separation of East and West Pakistan by a large distance, creating logistical and administrative difficulties. Additionally, the speaker criticizes the leadership of West Pakistan for failing to manage relations with East Pakistan, leading to further tensions.
+
+## 512.159s: How did the leadership of West Pakistan contribute to the eventual separation of Bangladesh? 
+**Category:** History
+
+The speaker blames the dictatorships in West Pakistan for contributing to the nation's division. They argue that authoritarian regimes are not suitable for uniting a diverse country and often lead to fragmentation and conflict. The speaker cites the tendency of dictatorships to focus on security and power rather than fostering unity and development.
+
+## 553.6s: How did the rise of Bengali nationalism lead to the creation of Bangladesh? 
+**Category:** History
+
+The speaker explains that Bengali nationalism, fueled by resentment against the oppressive West Pakistani regime, played a significant role in the independence of Bangladesh. This movement, supported by India, sought to remove West Pakistani influence and establish a separate nation. 
+
+## 604.2s: What was the political landscape in Bangladesh after its independence? 
+**Category:** History
+
+The speaker describes the emergence of a secular regime in Bangladesh, led by Sheikh Mujibur Rahman, which was pro-Hindu and hostile to Pakistan. This regime adopted Indian symbols and mythology, furthering the division between Bangladesh and Pakistan. 
+
+## 627.04s: Why did Islamic movements fail to take hold in Bangladesh?
+**Category:** History
+
+The speaker attributes the failure of Islamic movements in Bangladesh to the lack of strong leadership and the inadequacy of classical scholars. They criticize the scholars for being unable to inspire and educate Muslims effectively. 
+
+## 749.16s: How does the current Bangladeshi society view Islam? 
+**Category:** Religion
+
+The speaker observes that many Bangladeshis are more concerned with economic security and personal well-being than with religious ideals. This is reflected in their focus on jobs and material wealth, highlighting a disconnect between Islamic values and everyday life. 
+
+## 842.079s: What can be done to address the current situation in Bangladesh? 
+**Category:** Activism
+
+The speaker acknowledges the challenges of mobilizing people in Bangladesh, especially with the lack of patience and the focus on immediate needs. They emphasize the importance of building a long-term Islamic movement with a strong foundation and commitment to tackling the underlying issues.
+
+## 917.48s: Why is the current situation in Bangladesh more about Islam than about jobs?
+**Category:** Religion
+
+The speaker stresses that the current situation in Bangladesh is fundamentally a matter of Islamic identity and values. They believe that the government's anti-Islamic policies, coupled with the injustices faced by the Rohingya Muslims, have ignited a sense of Islamic awareness and a need for a more assertive stance.
+
+## 1000.44s: What is the significance of the support from Afghanistan and Raza for the Islamic movement in Bangladesh?
+**Category:** Religion
+
+The speaker highlights the support from Afghanistan and Raza as a sign that the Islamic feeling in Bangladesh is growing stronger. This indicates a desire for greater action against the oppressive regime and a willingness to defend Islamic values.
+
+## 1022.759s: What is the long-term solution for Bangladesh? 
+**Category:** Politics
+
+The speaker suggests that the ultimate goal should be to remove the secular regime and establish a more Islamically-oriented government. This is a long-term project that requires a sustained effort to weaken the current power structure and promote a more just and Islamic society.
+
+## 1061.559s: Why is a military intervention not a viable solution for Bangladesh? 
+**Category:** Politics
+
+The speaker rejects the idea of a military intervention as a solution, comparing it to unrealistic calls for external intervention in other conflicts like Palestine. They emphasize that a real solution requires a deep understanding of the situation and a commitment to long-term change through internal efforts. 
+
+
+## https://www.youtube.com/watch?v=VhQEg2xMlUo
+
+## 0.68s:  
+**Question:** What are the risks of a war between Hezbollah and Israel?
+**Category:** International Relations
+**Answer:** The speaker suggests that a war between Hezbollah and Israel could escalate quickly, potentially leading to a regional conflict. 
+
+## 3.24s: 
+**Question:** What are the potential outcomes of a war between Hezbollah and Israel?
+**Category:** International Relations
+**Answer:** The speaker highlights the possibility of a war escalating to a point where either Israel or Hezbollah is on the verge of defeat.
+
+## 5.24s:
+**Question:** Why might Hezbollah attack Israel's air bases?
+**Category:** Military Strategy
+**Answer:** The speaker suggests that Hezbollah could target Israel's air bases to prevent them from launching counter-attacks against Lebanon.
+
+## 7.52s:
+**Question:** Is it possible to overwhelm Israel's Iron Dome defense system?
+**Category:** Military Technology
+**Answer:** The speaker argues that a concentrated missile barrage could potentially overwhelm the Iron Dome system.
+
+## 10.32s:
+**Question:** How many missiles would it take to overwhelm the Iron Dome system?
+**Category:** Military Technology
+**Answer:** The speaker estimates that a large-scale attack with thousands of missiles could overwhelm the Iron Dome's capacity. 
+
+## 12.96s:
+**Question:** How many missiles does Hezbollah have?
+**Category:** Military Resources
+**Answer:** The speaker mentions that Hezbollah possesses a large arsenal of missiles, with credible estimates reaching 200,000.
+
+## 15.279s:
+**Question:** What might Hezbollah's strategy be in a war with Israel?
+**Category:** Military Strategy
+**Answer:** The speaker suggests that Hezbollah might launch a two-pronged attack, initially targeting Israel's Iron Dome system and then focusing on air bases.
+
+## 18.68s:
+**Question:** How would a large-scale missile attack impact Israel's air force?
+**Category:** Military Strategy
+**Answer:** The speaker believes a concentrated missile attack on Israel's air bases would prevent them from effectively using their air force in a war.
+
+## 20.92s:
+**Question:** What is the potential for Israel to make a deep incursion into Lebanon?
+**Category:** Military Strategy
+**Answer:** The speaker believes Israel's ability to launch a deep incursion into Lebanon is limited, suggesting a potential for stalemate.
+
+## 24.24s:
+**Question:** What options does Israel have if Hezbollah launches a large-scale attack?
+**Category:** Military Strategy
+**Answer:** The speaker suggests that Israel may face a difficult situation, with few strategic options if Hezbollah launches a massive attack.
+
+## 26.56s:
+**Question:** What impact would a large-scale missile attack have on the Israeli public?
+**Category:** Civilian Impact
+**Answer:** The speaker suggests that a massive missile barrage could cause significant fear and anxiety within the Israeli population.
+
+## 29.32s:
+**Question:** How would a potential conflict affect the region?
+**Category:** Regional Security
+**Answer:** The speaker suggests that a conflict could destabilize the region, potentially leading to further conflicts and humanitarian crises.
+
+## 33.28s:
+**Question:** How would a potential conflict impact Lebanon?
+**Category:** Civilian Impact
+**Answer:** The speaker implies that Lebanon would likely face significant damage and suffering in the event of a war.
+
+## 35.32s:
+**Question:** What are the potential repercussions for Hezbollah if they attack Israel?
+**Category:** International Relations
+**Answer:** The speaker suggests that Hezbollah would face significant consequences if they initiate a conflict with Israel, potentially leading to international condemnation and sanctions.
+
+## 38.079s:
+**Question:** What are the potential consequences for Israel if they launch a ground invasion of Lebanon?
+**Category:** International Relations
+**Answer:** The speaker suggests that a ground invasion of Lebanon could result in a significant loss of life and potentially lead to international backlash.
+
+## 41.0s:
+**Question:** What are the potential consequences for Israel if they fail to effectively respond to a Hezbollah attack?
+**Category:** International Relations
+**Answer:** The speaker suggests that Israel would face significant consequences if they fail to respond effectively to a Hezbollah attack, potentially leading to a loss of credibility and regional influence.
+
+## 44.879s:
+**Question:** What are the potential consequences for Israel if they do not engage in a conflict with Hezbollah?
+**Category:** International Relations
+**Answer:** The speaker suggests that Israel would face significant consequences if they do not respond to a Hezbollah attack, potentially leading to a perception of weakness and emboldening Hezbollah. 
+
+## 47.399s:
+**Question:** How might a conflict between Israel and Hezbollah affect the Israeli government?
+**Category:** Domestic Politics
+**Answer:** The speaker suggests that a conflict could lead to internal pressure on the Israeli government, potentially affecting its stability.
+
+## 49.84s:
+**Question:** How might a conflict between Israel and Hezbollah affect the pace of negotiations between the two sides?
+**Category:** International Relations
+**Answer:** The speaker suggests that a conflict could significantly slow down any potential negotiations between Israel and Hezbollah. 
+
+
+## https://www.youtube.com/watch?v=s5gzR3jJMeU
+
+##  Why is the American aircraft carrier Theodore Roosevelt moving back to the Far East? 
+**Category:**  Military Movements 
+0.24s:  The speaker says that during the week the Theodore Roosevelt, with two accompanying destroyers and some submarines, left the Middle East for the Far East. They said that the reason for the move is the friction between the American and Chinese navies, which was escalating.
+##  What happened between the Chinese and American navies? 
+**Category:** International Relations 
+81.439s:  The speaker says that there was some kind of friction between the American and Chinese navies in the region, specifically the Chinese ships getting too close to American ships and being considered too dangerous.  The American Admiral, who contacted the Chinese general, told them to "F off" and get going. 
+##  What are the potential reasons for the Chinese navy's actions? 
+**Category:**  Military Strategy 
+120.439s:  The speaker suggests that the Chinese navy's actions might be a response to the fact that there are no American aircraft carriers nearby in the area. It may have been a test to see if they could get away with pushing the limits with the American navy in the region.
+##  Why did the American Admiral contact Washington about the incident? 
+**Category:** International Relations 
+137.8s:  The speaker says that the American Admiral contacted Washington after the incident to inform them about the Chinese navy's increasingly assertive and aggressive behavior. The American Admiral suggested that they needed more power in the region.
+##  What are the potential reasons for the American aircraft carrier's departure from the Middle East? 
+**Category:**  Military Strategy 
+160.879s:  The speaker suggests that the American withdrawal is a symbolic message to the Israeli government, especially Netanyahu, showing them that they might not receive significant support from the Americans if a major war breaks out. This is a way of telling them to behave themselves. 
+##  What is the speaker's opinion about the relationship between Netanyahu and Biden? 
+**Category:** International Politics
+192.319s: The speaker suggests that Netanyahu might have incriminating information about Biden and his son, which is why Biden might be going out of his way to avoid criticizing Netanyahu. The speaker also believes that America might be encouraging Netanyahu to attack Gaza, which is why they're giving him a "free hand". 
+##  What kind of information might Netanyahu have about Biden? 
+**Category:** International Politics 
+201.239s: The speaker believes that Netanyahu has recorded information about Biden during a meeting with the Israeli Council of Ministers. The speaker suspects that Biden may have encouraged Netanyahu to attack Gaza and remove "these gods" from existence. 
+##  What are the implications of this information if it were to be revealed? 
+**Category:** International Politics 
+233.439s: The speaker states that if the information about Biden's encouragement of an attack on Gaza is exposed, it could be catastrophic for Biden and the United States government, causing shockwaves internationally. 
+##  What is the current situation in Ukraine and how is America reacting? 
+**Category:**  International Relations
+251.799s: The speaker says that the Russian forces are advancing in Ukraine and the situation is becoming increasingly desperate. America, however, does not want to be directly involved in the war for fear of it escalating into a nuclear conflict. 
+##  Why is Netanyahu planning to attack Lebanon? 
+**Category:**  Military Strategy 
+285.12s:  The speaker says that Netanyahu is planning to attack Lebanon because his plan to attack Gaza has failed. He believes that he has no other option, as the alternative is to have a civil war in Gaza which would lead to his own government collapsing, his imprisonment, and a new election, which he wants to avoid.
+##  What evidence suggests that Netanyahu might be preparing to attack Lebanon? 
+**Category:**  Military Strategy 
+332.319s:  The speaker states that there are signs that Netanyahu is planning to attack Lebanon, including the fact that the Israeli military is increasing their attacks on Golan Heights and that they have reached Safad, which is a new target for them.
+##  What was the attack against Unit 8200, and what were the results? 
+**Category:** Military Operations
+367.0s: The speaker discusses the attack against Unit 8200, which is Israel's equivalent of the National Security Agency (NSA). This attack, which involved a cyber attack, was quite successful, resulting in the death of over 20 people, including two commanders, and over 70 wounded. 
+##  What was the hypersonic missile test and what was its purpose? 
+**Category:** Military Technology 
+427.879s:  The speaker mentions a hypersonic missile test with a 500 kg warhead. It was fired from Yemen and likely hit a power generation station. While it was intercepted by the Israelis, the speaker believes it may have still caused damage and was primarily a test to see if the missiles could be intercepted. 
+##  What is the speaker's opinion about the potential impact of the hypersonic missile test? 
+**Category:** Military Analysis 
+494.96s:  The speaker suggests that the hypersonic missile test was likely a way for Yemen to show its capability and potentially a test to see if it could be used for a saturation attack using drones and cheap rockets to overwhelm the Iron Dome system. 
+##  Why is the speaker concerned about the hypersonic missile test? 
+**Category:** International Security
+539.64s:  The speaker expresses concern because this missile was based on an Iranian model but manufactured in Yemen, highlighting the advancement of Yemen's industrial capabilities. The speaker believes that this is a serious threat, given the country's advanced weapons capabilities. 
+##  What kind of information might be gleaned from the hypersonic missile test? 
+**Category:**  Military Analysis 
+580.2s:  The speaker believes that after the test, Yemen will wait a few days to obtain information from spies and Israelis who might be against the war. This information will then be used to understand the missile's impact and effectiveness. 
+##  How does the speaker view the accuracy of these hypersonic missiles? 
+**Category:**  Military Technology 
+615.16s: The speaker describes how hypersonic missiles have a very high accuracy and notes that they are far more accurate than the Scud missiles used in the Gulf War. 
+##  Why does the speaker consider this hypersonic missile attack to be significant? 
+**Category:**  Military Analysis 
+664.959s: The speaker argues that the attack on the power generation station is significant due to the missile's accuracy. Even a slight miss would still cause significant damage. This is a big change from the old Scud missiles, which were not very accurate. 
+##  What is the speaker's overall assessment of the situation? 
+**Category:**  Military Analysis
+704.32s: The speaker believes that these attacks, especially the hypersonic missile attack, could have devastating impacts on Israel and put them in a strategically defensive position. He argues that there is nothing Israel can do about it now.
+##  What does the speaker believe the attack on the power station represents? 
+**Category:**  Military Analysis 
+717.48s:  The speaker believes that this represents a challenge to the Israeli government's perceived cowardice and a lack of courage in confronting the increasing threats from Hamas and other groups. 
+##  How does the speaker view Hamas's actions? 
+**Category:**  Military Analysis 
+736.24s: The speaker praises Hamas for their courage and tenacity in calling the Israeli government's bluff and engaging in a fight on their own terms, despite the odds.  The speaker believes Hamas's actions have significantly weakened Israel's position. 
+##  What is the speaker's assessment of Israel's current state? 
+**Category:**  Military Analysis 
+762.639s:  The speaker states that Israel has been strategically defeated by Hamas and that they will never be able to defeat them unless they engage in a prolonged war lasting for another year.  He believes this would lead to the destruction of the IDF, the Israeli economy, and potentially the Israeli government itself. 
+##  What is the speaker's opinion on Netanyahu's timing for an attack on Lebanon? 
+**Category:**  Military Analysis
+787.519s: The speaker believes that Netanyahu should act now and attack Lebanon instead of waiting for the United Nations meeting in September or the upcoming election.  He argues that waiting will only prolong the suffering and that Netanyahu needs to act to stop the political turmoil in Israel. 
+##  What are the potential risks of waiting until the United Nations meeting or the election? 
+**Category:**  Military Analysis 
+803.36s:  The speaker believes that if Netanyahu waits until the United Nations meeting or the election, he will face increasing political pressure and potential unrest within Israel.  The speaker believes that Netanyahu is likely to use the United Nations platform to spread propaganda but it will not achieve anything significant. 
+##  What is the speaker's overall assessment of Netanyahu's options? 
+**Category:**  Military Analysis 
+861.079s: The speaker believes that an attack on Lebanon is highly likely within the next few days, as he doesn't see any other viable options for Netanyahu. He feels delaying the attack until September would be illogical. 
+##  What is the speaker's opinion about the current political climate at the United Nations? 
+**Category:**  International Relations 
+879.44s: The speaker believes that the United Nations is largely ineffective, with America's veto power being the only factor keeping Israel from facing more consequences for its actions.  He believes that even Britain and France are merely playing a game of abstaining from votes to avoid taking a strong stance. 
+##  What is the speaker's opinion about waiting for the election before attacking Lebanon? 
+**Category:**  Military Analysis 
+902.24s: The speaker believes that waiting for the election is not feasible, as the time is too long and the strain on the IDF in Gaza and the West Bank is too great.  He thinks the Israeli government will be forced to act soon.
+##  What is the speaker's opinion on the attack on the missile manufacturing facility in Yemen? 
+**Category:**  Military Analysis 
+923.199s: The speaker believes that the attack on the missile manufacturing facility in Yemen was likely a ground assault by Israeli forces. The speaker thinks that this attack was significant if it was successful but is skeptical of the Israeli government's claims that they got documents related to the missiles.  
+##  What does the speaker think about the possibility of Syrian involvement in the attack on the missile facility? 
+**Category:**  Military Analysis 
+982.959s:  The speaker believes that the attack on the missile facility could not have been carried out without the cooperation of the Syrian regime. He cites previous attacks on the Syrian regime and notes that there is a long history of cooperation between Israel and the Syrian regime on this issue. 
+##  What is the speaker's opinion about the Syrian regime's actions? 
+**Category:**  International Politics 
+1013.639s: The speaker strongly condemns the Syrian regime, calling them evil.  He believes the regime is manipulating the Iranians and using them to cover up their own actions. 
+##  What are the speaker's thoughts on the implications of the attack on the missile facility? 
+**Category:**  Military Analysis
+1081.12s: The speaker believes that while the impact of the attack on the missile facility is primarily focused on Syria, it could have wider implications. He suggests that it might affect the situation in Yemen. 
+##  What is the speaker's opinion about the recent military exercises in Syria? 
+**Category:**  Military Analysis 
+1118.2s:  The speaker views the military exercises taking place in Syria, particularly the ones involving the Russians, as a way for the Syrian regime to create an excuse for future actions. He thinks that the regime will use the presence of the Russians to avoid taking responsibility for any future conflict.  
+##  What is the speaker's final assessment of the situation? 
+**Category:**  Military Analysis 
+1155.2s:  The speaker ends by describing the Syrian regime as "satanically intelligent" and believes they are cunning in their actions. He also criticizes the IRG for being too trusting of the Syrian regime. 
+
+
+## https://www.youtube.com/watch?v=LHiU1ZrjGVI
+
+## 1.719s: Why do some people lack consciousness? 
+**Category:** Morality 
+The speaker states that some people lack consciousness because they don't recognize the humanity of others, viewing them as subhuman or animalistic. This lack of recognition leads them to disregard the sanctity of human life and treat others poorly, even resorting to violence. 
+
+## 4.319s: What are the shared moral values that guide humanity?
+**Category:** Morality
+The speaker asserts that a shared set of moral values guides humanity, including truths like the sanctity of human life, human dignity, and respect for others. These values are considered fundamental to a civilized society, even though they may not be consistently adhered to by all individuals. 
+
+
+## https://www.youtube.com/watch?v=8X8zPblrYyc
+
+## Why do some people declare themselves to be lords beside Allah? 
+**Category:** Religion 
+0.199s:  The speaker discusses how certain individuals appoint themselves as lords beside Allah. They claim to speak for God and demand obedience from others. This is similar to the behavior of Jewish and Christian scholars and monks who were rebuked by Allah for claiming authority over others.
+##  Why are people who declare themselves to be lords beside Allah worse than those who appoint others as lords? 
+**Category:** Religion
+63.28s:  The speaker explains that those who declare themselves as lords beside Allah are worse than those who appoint others as lords. This is because they are taking on the role of God themselves, while the latter are simply misinterpreting or misrepresenting a higher authority. 
+## How do people who claim to be lords beside Allah justify their actions?
+**Category:** Religion 
+101.799s:  The speaker describes how those claiming to be lords beside Allah often mask their claims with sophisticated rhetoric and religious interpretations. They might argue that they receive divine guidance or protection from the Holy Spirit, which allows them to speak for God and guide others. 
+## Why is it wrong to claim to be a lord beside Allah?
+**Category:** Religion
+135.08s:  The speaker argues that claiming to be a lord beside Allah is a false and misleading claim. True reason, which is given by Allah, allows humans to recognize the truth.  Instead of relying on divine guidance, they use manipulation and rhetoric to deceive others.
+## Why do some people claim to be atheist but still believe in a divine being? 
+**Category:** Atheism 
+166.519s: The speaker discusses the case of an atheist who believed in the divinity of man. This individual, who was a leader of a communist party, argued that since there is no God, humans are essentially gods. This claim highlights a flawed understanding of both atheism and the concept of divinity. 
+
+
+## https://www.youtube.com/watch?v=zUuqVx4epYw
+
+##  Is there a conflict between serving in the British Armed Forces and being Muslim? 
+
+**Timestamp:** 3.84s 
+
+**Category:** Islam 
+
+**Question:**  The speaker quotes an article from the BBC which states that a Muslim can serve in the British armed forces without conflict. The speaker questions this statement.  
+
+**Answer:** The speaker believes that the quoted individual lacks understanding of Islamic principles regarding allegiance, fighting under non-Islamic banners, and the meaning of kufar. He argues that serving in the British armed forces would be a direct contradiction to these Islamic tenets.  
+
+##  What is the speaker's opinion on the use of the term "terrorist"? 
+
+**Timestamp:** 91.32s
+
+**Category:** Politics
+
+**Question:** The speaker expresses concern about the use of the term "terrorist" to describe individuals fighting against American and British forces in Afghanistan and Iraq. He believes that the term is misapplied and reflects a misunderstanding of the situation. 
+
+**Answer:** The speaker argues that the term "terrorist" is often used inaccurately to label individuals fighting against foreign occupation forces. He believes that those fighting against the American and British invasion of Iraq and Afghanistan are not necessarily terrorists, but are resisting an occupying force. 
+
+##  What is the speaker's critique of the individual quoted in the BBC article?
+
+**Timestamp:** 131.8s 
+
+**Category:** Politics
+
+**Question:** The speaker criticizes the individual quoted in the BBC article for characterizing resistance fighters as "terrorists" without addressing the root cause of the conflict. 
+
+**Answer:** The speaker points out that the individual does not adequately consider the context of the conflict, namely the American and British invasion of Iraq and Afghanistan, when labeling individuals as "terrorists." The speaker believes that this perspective ignores the legitimate grievances of the people fighting against the invading forces.
+
+## What does the speaker believe is the flaw in the argument that Muslims should be able to serve in the British Armed Forces without conflict?
+
+**Timestamp:** 175.599s
+
+**Category:**  Islam
+
+**Question:** The speaker contends that the argument that a Muslim can serve in the British Armed Forces without conflict ignores the reality of civilian casualties inflicted by the British and American forces. 
+
+**Answer:**  The speaker believes that the argument for compatibility between serving in the British Armed Forces and being Muslim ignores the significant human cost of the war in Iraq and Afghanistan, including civilian casualties caused by British and American military actions. 
+
+##  What is the speaker's opinion on the term "Islamic state"?
+
+**Timestamp:** 229.84s
+
+**Category:** Politics
+
+**Question:** The speaker expresses a nuanced view on the label "Islamic state," suggesting that not all individuals claiming to be part of this group are actually terrorists. 
+
+**Answer:** The speaker acknowledges that the group known as the "Islamic State" is responsible for terrorist acts, particularly against Muslims. However, he emphasizes that the term "terrorist" should not be applied to all individuals associated with the "Islamic state," particularly those who are fighting against foreign forces and oppressive regimes.
+
+##  What is the speaker's overall criticism of the individual quoted in the BBC article?
+
+**Timestamp:** 254.84s
+
+**Category:**  Islam
+
+**Question:** The speaker concludes that the individual quoted in the BBC article lacks a fundamental understanding of Islamic principles regarding allegiance, fighting for justice, and opposing oppression.  
+
+**Answer:** The speaker believes that the individual's perspective is limited and does not reflect a true understanding of Islamic principles, which include concepts like allegiance, fighting for justice, and opposing oppression. The speaker suggests that this lack of understanding stems from a background rooted in spiritualism rather than a deep understanding of Islamic theology.
+
+
+## https://www.youtube.com/watch?v=mY147wBJI48
+
+## What are the five things that will cause corruption, chaos, and destruction in society? 
+**Category:** Islam
+**Timestamp:** 2.879s
+The speaker discusses the five things that lead to corruption and destruction in society. They include:
+* Sexual immorality
+* Fornication
+* Adultery
+* Sodomy
+* Spreading of diseases (which are not present in previous generations)
+
+## What will happen if a leader, who is an "IM", doesn't rule according to what Allah has revealed?
+**Category:** Leadership
+**Timestamp:** 24.68s
+The speaker states that if a leader, who is an "IM" (a leader with power and authority), doesn't rule according to what Allah has revealed, it will lead to societal chaos, unrest, and bloodshed. This will happen because the leader will fail to establish rules based on God's commandments and will instead focus on human desires, leading to divisions, factions, and violence.
+
+## What will happen if a leader doesn't apply or rule with what Allah has revealed?
+**Category:** Leadership
+**Timestamp:** 37.44s
+The speaker emphasizes that if leaders, even intellectual ones, don't rule according to Allah's revelations and instead choose human-made laws and societal norms, it will lead to chaos and bloodshed. 
+This is because failing to follow Allah's guidance results in a society based on human desires rather than divine principles, leading to divisions, conflicts, and ultimately, violence. 
+The example of France after elections, where the left and right clashed violently, illustrates this point.  
+
+
+## https://www.youtube.com/watch?v=EEoKdvwRkgU
+
+## What do you mean by the other thing? 
+**Category:** Islam
+**Timestamp:** 0.04s 
+The speaker is asking for clarification about an unspecified "other thing" related to the implementation of Islam. It is unclear what the previous discussion was, so this question cannot be fully answered.
+
+## How should Islamic laws be implemented?
+**Category:** Islam
+**Timestamp:** 2.8s
+The speaker is asking about the best way to implement Islamic laws in a society, specifically using the example of alcohol consumption. They suggest that implementation should be gradual.
+
+## Why is it wrong to prevent drinking in public? 
+**Category:** Islam
+**Timestamp:** 4.88s
+The speaker argues that it's not appropriate to prevent people from drinking alcohol in public if they are not doing so in a way that harms others. They use the example of Saudi Arabia, where religious police often intervene in such situations. 
+
+## Is it wrong to intervene in private situations?
+**Category:** Islam
+**Timestamp:** 11.32s
+The speaker is asking about the legality and morality of religious authorities intervening in private situations, like people drinking in their homes, and  argues against it. They suggest that people should be allowed to drink privately without interference.
+
+##  Is it right to command good and forbid evil in public?
+**Category:** Islam
+**Timestamp:** 15.52s 
+The speaker is questioning the practice of "commanding good and forbidding evil" that some Islamic groups engage in, arguing that it can be misused and lead to abuse. They suggest that this practice is often used to impose moral codes that may not be universally accepted.
+
+##  What about banking and interest?
+**Category:** Finance
+**Timestamp:** 72.36s 
+The speaker asks about the application of Islamic principles to banking. They are specifically interested in how to deal with existing contracts that involve interest, as Islamic banking forbids interest. 
+
+## What happens to existing contracts when moving to Islamic banking? 
+**Category:** Finance
+**Timestamp:** 74.159s 
+The speaker is asking how to transition from a conventional banking system to an Islamic one, specifically focusing on what happens to contracts that are already in place and involve interest. They acknowledge that the transition requires accounting adjustments and winding down existing contracts. 
+
+## Why should the banks collapse?
+**Category:** Finance
+**Timestamp:** 112.24s 
+The speaker suggests that traditional banks that operate on the basis of interest should be allowed to collapse and be replaced by Islamic banks.  They advocate for a complete shift to a system that operates according to Islamic principles.  
+
+
+## https://www.youtube.com/watch?v=MV6zNu3RDdg
+
+## What is your personal view based on your understanding of the Quran, of the obligation of establishing the khilafah? Is it something that is, and if so, the level of obligation, and where do we get this from? Is it something that is, is it something from the Quran? Is it something that is necessary, or is it something that is desirable? So what is the role of the khilafah in our discourse as Muslims? 
+**Category:** Islamic Politics
+
+The speaker clarifies that the conversation is not about concepts like loyalty to Muslims, unity, or order vs. anarchy. Instead, the focus is on the specific idea of a single, global political leadership for the entire Muslim community. He questions the desirability and feasibility of such a centralized government, noting that the Quran and Sunnah are not up for debate on these other concepts. He argues that a singular global leadership would be a desirable outcome, but not a necessary or sufficient cause for Islamic revival. 
+
+## The question itself is quite loaded: what is it, or is it desirable, not desirable? Let us let us see where the where the the people are usually coming from. 
+**Category:** Islamic History
+
+The speaker explains that the historical starting point for the Khilafah is the appointment of Abu Bakr as the head of state after the Prophet's death. He highlights the assumption that the Prophet's da'wah progressed in three phases: 1) semi-private da'wah, 2) educating the masses about the key features of the da'wah, and 3) establishing the khilafah with the help of allies. He then contrasts the Prophet's approach to seeking protection with the rise of groups like ISIS, who claimed to establish a khilafah despite lacking the necessary authority and support. 
+
+## The question is: is it an obligation? Obligation does not make any sense if a state like that emerges naturally. 
+**Category:** Islamic Jurisprudence
+
+The speaker argues that the obligation to establish an Islamic system of governance arises only when Muslims have sufficient power and authority. He highlights the key components of establishing an Islamic state, which include prayer, zakat collection, commanding good and forbidding evil, and a just judiciary. He states that Muslims are obligated to establish Islamic rule if they possess the power to do so, as they are not allowed to be ruled by non-Muslims under these circumstances. 
+
+## It would be uh, what is it exactly that is forbidden? Establishing an Imam in different areas uh, is of course a forbidden thing, the Prophet Sallallahu wa sallam said whoever dies without having pledged an allegiance to an Imam, he will die in a state of Jahilliyyah. 
+**Category:** Islamic Jurisprudence
+
+The speaker clarifies that while it is forbidden to promote anarchy or rebel against legitimate authority, there is a distinction between establishing order through multiple Imams and having a singular, global leadership for all Muslims. He stresses the importance of working towards unity and realizing that unity in a way that is feasible considering the sociopolitical realities of different times. 
+
+## He does comment on this uh, because obviously I've done a bit of check on it, he does mention this uh, again tying back into the issue of uh, Imam, having an Imam in complete Anarchy. 
+**Category:** Islamic Jurisprudence
+
+The speaker acknowledges that scholars often use quotations from the Prophet and other prominent figures to support the notion of a khilafah. He cites examples of scholars who affirm the importance and necessity of establishing an Imam to defend the weak, protect borders, and enforce law and order. However, he stresses that these quotations are not about a single, global Imam, but rather the need for leadership within any Islamic entity.
+
+## Here's what happens when you always happens, they have effs, so, but it does not um, I uh, said in the beginning that we have to separate between Imam or im, as an order versus anarchy, versus having one IM for the entire um, these are two different discussions. 
+**Category:** Islamic Jurisprudence
+
+The speaker reiterates that the need for multiple Imams within an Islamic entity is distinct from the concept of a single global Imam. He highlights the importance of understanding these two concepts separately. While the need for an Imam to enforce order is a certainty, the idea of a single, global Imam is a different discussion. 
+
+## That that that that entity, let's say, the Medina, the Medina State, the Medina established by med constitution, emerged by natural phenomena in the universe, the Jews come negotiate about what happened to the, he wed War. So we we took Liberty to to eliminate him because he's a warrior and Warrior who's aggressive and rallying people against us while hiding in his in fortification, we all that his assassination that's perfectly legitimate, that's that's that's clear. 
+**Category:** Islamic History
+
+The speaker provides a historical example of how the khilafah in Medina emerged organically. He describes the interaction between the Prophet and Jewish leaders, the establishment of the Medina constitution, and the subsequent assassination of a Jewish leader who posed a threat.  He emphasizes that the assassination was justified due to the leader's aggressive behavior and threat to the community. 
+
+##  That's that's how it emerged emerged naturally, so it happens naturally. So the question is: is it an obligation? Obligation does not make any sense if a state like that emerges naturally. 
+**Category:** Islamic Jurisprudence
+
+The speaker emphasizes that the need for an Islamic state should not be viewed as an obligation in the same way that the Prophet's da'wah was not an obligation before its natural emergence. He argues that the emergence of an Islamic state is a natural consequence of the strength and authority of the Muslim community, not a predetermined mandate. 
+
+## So without the, the Deen can be established, one of his sweeping arguments that the whole Junction of, has come to establish, bring and prevent, no it's not true, it it does that, but it is not established for that, established to establish, that's that's that's that's the creation of man and Jin is to to acknowledge Allah as the ultimate Supreme Lord, and submit to him, that's I think the fact that they they framed The Prophet's Mission as being to establish uh, Islamic Authority, in retrospect makes all this, you know, this entire perspective, the whole thing is being misunderstood, following and you get nowhere and then you find some a good man like, like no who issh with a simple-minded man, making such formulation and so on.
+**Category:** Islamic Theology
+
+The speaker refutes the claim that the Prophet's mission was solely about establishing Islamic authority. He argues that the purpose of creation is to acknowledge and submit to Allah, and that framing the Prophet's mission as an attempt to establish a khilafah leads to a misunderstanding of his true purpose.  
+
+## He does make a point about the Anarchy. So I'll just continue playing in me, be clear with you here, I would not have any faith crisis if we never had a khilafah until the day of judgment, it would not cause me any faith crisis, it would not cause me any like discomfort about my faith. There is a particular Hadith that people quote often, I grew up quoting this Hadith, I grew up believing in this wholeheartedly that, known, reported from which conveyed from the Prophet, that he said, so the Prophet said that you would have the Prophet among you for as long as Allah wills, and Allah will then raise it, or remove it when he wills, and then there will be a uh, on the prophetic method, for as long as Allah wills, and then Allah would raise it when he wills, and then there would be kingship, a reign of oppressive kingship, for as long as Allah wills, and Allah will raise it, and then there will be a reign of compulsive kingship, and then and then there will be then there will be on the prophetic me, on the prophetic mage, we were certain, and that is basically the problem of uh, the problem of lack of knowledge, uh, we were certain that this meant that we are waiting for a uh, on the prophetic method. Growing up I was like, when I was 17, I had given my first Jihad, when I was 17, and it was about that, was your first yes, that like overconfidence, that I have regretted afterwards, but anyway, uh, so so I was certain that this is this would be this is we were expecting this, and it would have caused any fifth crisis, then uh, to have been told that that no, this may never uh, materialize you know, a singular Global Leadership, political leadership for all Muslims may never materialize, uh, because uh, this Hadith meant to me, and and other and end times Hadith or Traditions meant to me that this is what we're waiting for, and we were also certain that Muhammad would not be the first khilafah, sometimes we thought that it may be, sometimes we thought that then we came to learn that no, it's likely not, he's not going to be the first Khalifa, and uh, our understanding of the end of times uh, Traditions also was was pretty uh, strict, and uh, to a great deal literalist, and I am a scripturalist you know, so some people that would be unkind to me would say literalist, but I believe I'm a scripturalist, uh, so I don't be the importance of of those reports, but I have like a little bit more flexible understanding of them that is not saying metaphorical, but I am someone who subscribes to contextual language Theory, um, and I I have a little bit more flexible understanding of those reports. Now, this particular Hadith, this particular Hadith, this is how I would look at this particular Hadith, that that would be basically uh, presented to Muslim youth to tell them that you must believe in this uh, as you believe in, you know, Allah being uh, for instance, above his throne, or you must believe in this as you believe in the day of judgment being true, um, you know, and uh, and the angels, and and and all of that stuff, I don't believe so anymore for several reasons, one of them to begin with being a scripturalist, uh, I believe in what said that which means that the rank of the Sunnah is subsequent to the Quran, is not equal to the Quran, it's subsequent to the Quran, in consideration, is speculative mostly speculative, and certainty is with the Quran, not the this is the default, but certainty is not with the Sunnah, sh himself says that certainty applies to the Sunnah, to the collective body of the Sunnah, not individual Hadith, not individual Hadi, so you may say that you belong to tradition and I do, um, that does not mean at all that we don't have basically the concept of texal textual critique, or the the concept of critiquing the M of the Hadith, not only the Quran, so we recognize that the you know, is needs to be critiqued, but the M also needs to be CRI, there is there is a particular book by which would translate to the lofty Lighthouse concerning the authentic and the weak in in which he says that uh, there is a report from the prophet Sallallahu alaihi wasallam, uh, you know, in which the prophet was reported to have said, reported to have said, so when a man sneezes while in conversation, it's a sign on his truthfulness. So says despite the fact that some have authenticated the chain of narration, this, the the observable reality contradicts the Hadith, the observable reality contradicts the Hadi, it's a very sensitive topic of course, we this this quotation, uh, it causes consternation amongst many who don't even know this is from our own many even the the notion of using and common sense to look at an is and mentions this for multiple examples, is not the only one, that when something is observably patently false, right, and if you find some solitary chain that even if some people might think that the chain is authentic, observed reality is going to be more important than a v chain right, and this is something that again I also brought up a number of my lectures with regards especially eschatology because this is another issue I wanted to mention and that is, it's understandable that especially at a young age, we all went through that eschatology, and and and uh, um, signs, the day of judgment, they they they occupy or preoccupy a type of obsession that actually perhaps even is not as useful as other sciences, and disciplines, and we've all, sorry I thought I just interrupt there, um, so so this this is the, I I put this in because this is a pretty good discussion around the is, this the the issue of Quran and Sunnah, is definitely we discussed the book of we refer to it, definitely Sunnah is lower than the Quran with certitude, the Sunnah as such, if you are present with the messenger of Allah, and you're hearing it directly, is as if you are hearing the Quran in matter of reliability, no doubt about that, last number, that's the issue number one, now the Quran is is transmitted to us letter by letter in writing, and by the way let me stress what we said in at the beginning, that the Quran, the Quran Revelation, is is is being read, and the first the M who was shown A parchment and J asked him read, say I'm not reader, I'm litered, I can't read, so it was in a parchment, it is written, it's a written Revelation, some people say okay, if it's written Revelation, maybe the sahaba wrote, I I argue that even the writing of the Quran dictated them how to do, and order them to remove for example, the dot on the top of, and and without dots, leave it like that, so this is by by divine order, and this is clearly also in the Quran, direct, it's in a protected tablet, some people say that things written before the creation, this is Imagination Running wide, it's not that, it's something else, but this clear, it's written, and written and Transit written and transmitted, also in pronunciation, that's no doubt, so it was certitude about transmission, and also now certified by by carbon dating for the doubter in the west, it's finished, that's gone, we don't need to discuss that, it's just we just we have just to prove is it from divine origin, or from Muhammad's Invasion, that's all point to remaining to be discussed, B on internal and external evidence, for Muslims, I believe it's well established with by necessity of reason, that is from a divine origin, cannot be from Muhammad nor can it be from the Arabs, nor from a community in the time, nor nor from the Devil, it has be has to be done as it claims about from Allah, that's fine. Theah, is by itself definitely, that's the utterances and and the action of the Prophet and his approval because he unable as we argued in the book of know that, but problem is Sunnah is not is not protected in its totality, protected in the sense, because it's part of the the you could read the Quran will be nice, no many people think Quran is wrong in the Quran, if in the case of Revelation means both Quran and Sunnah, is also and we have proven that with certitude, in the protection of the Quran, we know how it is protected, being written and the Quran say the tablet, so that makes the certitude it is a revelation in writing, the Sunnah is not like that, it's nature and it's narrated, and you plenty of it is written at the time, plenty of it definitely you have EST that, and in private collection, so a private collection is not like a public book like the Quran because a public book is all impossible to to to to misprint or falsify, or anything like that, but but a private, private notes, come CH, that one who wrote the note, me later change it, or was it like that, or did they make a mistake, or he cannot read a certain word, and corrected, and so on, and turned out to be false, that's not possible in the Quran, it's possible in the Sunnah, so the Sunnah is narrated, a private collections of writing, and pure oral translation, but actually it's mostly private notes, this by its own nature, can cannot what, the meaning that is protected, the only meaning that is possible is protected, Accord to its nature which meaning the totality of the sun is protected in the sense, that no false can encro, until which we cannot find out, that is fabricated, and no correct which we need in there are which don't need any that, that that one day saw a type of dat is a very nice type and P, it we don't need that, it's not part of it's his personal preference, he like that of, doesn't anything depend about that, that can be many of the things definitely have been lost, many of it has been lost, what's we need in Deen meaning, in in what we do, what's legitimate to do or obligation, desirable, permissible, undesirable, and Haram, definitely not and also matter of and and perception, and belief, nothing can be lost, single Hadith may be questionable, secondly if it's the question was the really the there's a problem in that sense you exct the the meaning properly, then you canot conclude, assume you expected it properly fine is no is like the Quran, but this is very few and very rare, very few and so single Hadith, one mistakes of the said, is that the correctness of the is theoretically indicate that the M is correct is not, because the correct of the is is not establish with absolute certitude for one single isnat, it can't be one single isnat cannot be, because one witness can make a mistake, can confus, can get that we know that by necessary, so that even if it is connected, and if the whole chain say, and really connected and many of the shes in the books they are we assume they are connect because and could be connected and not connect, usually it's assumed to be connected and this is reasonable, but not necessary, so that's that's another point, so if you want to invoke a Hadith, you have to collect all the channels of narration, to various sah, or the same sahabi, to see what what was the original wedding, that's number one, because the wedding could could differ from one to another, it's a is a major mistake to to on only one, for example he mentioned about then will be with you until Allah decide to lift it up, then there will be, and then there will be there will be a kingship, made difference between oppressive and compulsive, in reality this is a mistake, that Hadi is not correct, the correct one is that will be will be will be, after that King, kingship which is biting which is op Ive and Kings will be Tyrant and will be shedding blood, and so on, so on, it's the same level, there's no two levels, there's let say there's a fabricated clearly fabricated which say there will be, this one which is for example, the darling of, claim this applies to Mu, is not true, there's none there, that's is the fabricated one, this this this chain container fabricator, there, so the correct is that uh, than then kingship which is oppressive and tyranical Etc ET no, and they may be called nominal, meaning head of state, after the Prophet, just nomin but they are not leg khilafah, and is only one chel of narration and said one, the one who narrated that I wrot with that, who people regard him as becoming almost like khilafah Rashid and he was very pleased to see this Hadith, this man maybe the one who wrote, I'm not saying he's fabricated it, maybe he he someone not a reliable one, and maybe this man meant maybe later on they will be a or later on will come back that's what he meant, but he thought it's appli to for example, so even application to whom it applies is unknown, besides I think it's only one channel saying then he remain silent of that, didn't say anything, so the I'm saying even that one has to be roniz study again, we doing that study now, some people are working on it, all possible channels, East and West, collecting all of them, that's number one, secondly if it refers to the Future, it is dangerous to get in in indulg in eschatology, because many of these things are based on imagination, people wishful thinking, that the Mahi will come, and in the operation people thinking that, people thinking this, people fabricating, people imagining, people having a sleep, and dreaming something, and think they have seen it, a reality, all of these things are there and have to be avoided, so that's number one general rule about, so that that's one, so we have to be very careful even, we have toiz, again, because I starting to have some doubt in certain issue there, but but it it may be valid because it can be given a good meaning, as I explained, which is enforced by another Hadith, which show that leaving the community is breaking the that's breaking the and so on, so I mean both of you did coincide with the fact that it's it's relation to being not being an anarchic type of situation, and it doesn't necessarily mandate having a khilafah per se, it's just in in his in his his existence, um, there's another section, so this is this is from um, so I've skipped ahead somewhat because it was a very good discussion on the MU scrutiny etc etc, it's good to good to see you know, it articulated by these these these Noble sh. Um, so this next B, he's he will discuss, no's um statement about on being a, because it ties into what I says and is also a bit of Mor which I know you have an opinion on, as well, so I think it's a good moment to also interject, many levels, I'm sympathetic but I wanted to quote you quotations that are well known in our tradition and I will quote very quickly, but it needs to be quoted because these are quotations always found in these discourses online, so for example, the says that the Muslims have to elect, or put up a leader, and of course says in that there is no difference of opinion, even in the entire, except for the, and then he made a pun because means the one that is deaf, and so he said, he was deaf or mute from the, so there is no uh, that there must be that is established, and says in his famous book that, and then he goes on, and another this translat as it must be known that the, that the leadership for the Affairs of the Muslims is the greatest of of this religion, rather the religion cannot be established except through it, and that is because the, or the necessary requirements of good of the children of Adam, will never take place unless they come together and help one another, and when they do so, there must be a leader amongst them, like the Prophet Sallallahu alaihi wasallam said, if three people go on traveling, then one of them should be in charge, and let me quot one or two more because again, these are the quotations we given, says that all of them have agreed that it is W to have an Imam, and that it is obligatory upon the um to then submit to a just Imam, and then of course you have, and I'll finish here, and I have other coures, I have a whole bunch of quotations, because again this is the whole point, anytime you start about this, you're immediately bombarded with these quotations, so let us discuss them of course, is one of the few people has written the treaties on Islamic political science, we wish more had been written, but as you're aware, this is a topic that is not elaborated on, it can maybe discuss this later on in this in this podcast. 
+
+## Says that the is a basic continuation in translating by by meaning of the, that the Prophet established and it is a protection of the deen, and it is the politics of this world, it is how we run this world, and to establish it for those who are going to be sufficient for it, it is W for by of the scholars, I can go on, and as you're aware, there's so many quations so one could say, so he does comment on this uh, I because obviously I've done a bit of check on it, he does mention this uh, again tying back into the issue of uh, Imam, having an Imam in complete Anarchy. Um, I mean if if you want I can continue playing it, and then you can comment at the end of it, or yeah, okay, so I mean because yeah, let's just let's just crack on with it. Your sentiment at the beginning, 5 minutes ago, seems to clash with all of these quotations. What would you respond to this? 
+**Category:** Islamic Jurisprudence
+
+The speaker highlights that scholars often use a variety of quotations to argue for the necessity of having an Imam, citing the consensus of scholars that it is Wajib to have an Imam and that the Ummah is obligated to submit to a just Imam. He emphasizes that the Khilafah is a continuation of the Prophet's legacy and a means to establish the Deen and govern the affairs of the world. 
+
+## What would you respond to this? Here's what happens when you always happens, they have effs so, but it does not um, I uh, said in the beginning that we have to separate between Imam, or im, as an order versus anarchy, versus having one IM for the entire um, these are two different discussions. So, his book points out that difference, that one is, and one is not. One is a certainty which is the importance of installing an IM, or appointing an Imam basically to defend the weak, to protect the borders, to establish uh, Law and Order, there is no question about this whatsoever, this is now plurality of IMS, multip of IMS versus Singularity uh, that is a different discussion, realistically speaking, we have one IM for a very short period of time and thereafter we have not been uh, all under one IM for the vast majority of our history, but theologically speaking, you know speaking from the F Viewpoint, uh, the first one is a matter of consensus, the second one, you know, can we have several imams, several khalifas, if you use the word khilafah in its linguistic sense, which appears to be how the sah viewed it, himself, said if you say, and then said to him, he said okay, that works, so said if if you say the successor of the successor of the messenger of Allah, Abu Bakr was the successor of the messenger, if you say the successor of the successor of the messenger of Allah, this will be long, then said to him, and in other reports, others that we are the Believers, you are our leader, Prince Amir um, so you are the leader of the Believers, you are Amir, I think some of this is being covered already, I mean, so he frames it in from the point of view of um, I first, the issue of that is one one entity which has a head alone, we we we we finish that before that, when we discuss the Hadith about, in in our research, that's that's gone, that's any claim otherwise, against that it's just nonsensical, I mean, in his framing, he's for example, saying having multiplicity of IMS, your your work on Hijra and citizenship already covers that, you both conclusion, leave the word IM multiplicity of Islamic entities, which each one is an independent state, and an entity of the international law in that sense, an independent international law like Muslim, so so this framing for example, Imam noi saying about no, etc etc, I mean what what about what, well that's no, we said about having an IM, and let me just go back to the to the actual wording, don't worry anyone, we have the clear that there could be several entities now, in every entities the ruling of Islam applies, the question now, an entity has to be run, if they are believers, and the majority of the power is in the hand of the Believers, otherwise, it's not an Islamic, it's something else, we not discussing that, if it's an entity, Islamic entity, and the people are doing their Duty, and do not don't allow to be rud with that, Allah does not reveal, the question is: is it possible, conceivable, in the real universe that a community of people, even a village, can be run without a head, all history has shown that you have to have a head, that's a necessity dictated by by the real situation in the universe, like said and it is it's not possible, really to to to have a such entity without a head, betting disputes, because dispute will happen in human interaction, humans are fallible and they have interaction, and someone will transgress, and someone mistakes, and then there will be disputes, and who settled the dispute will be the Judiciary belonging to a certain Imam, and also protecting the weak from the strong, because the strong, T, we cannot be assume that everyone, if the people are will WR us and P us like Angels, you don't need the management of the affair of the common Affairs, should be done by, but despite the sh, you cannot have sh in every in every single point, and every moment, so you'll have to have people who do there some executive, and other adopting laws, and things like that, that's how States emerged, that's the reality of the universe, since it is the reality, and no peace and Tranquility can be established, and ruling without cannot be done without having a structure of the state, with a head of state, or a prime minister, or or power distributed between certain entities, that that that state structure must be established, so that ruling with that has revealed, is established, how it is exactly, is it one Imam, or two, one one IM, and Deputy IM, or the im a council of imams, and they vote, and then, if the equal votes, the the the head gives the balancing vote, all of that will be is procedures to be settled by a constitution, so they're confusing two things, that people in human Community could not be established, could not live in peace, and the just, and the ruling with that Allah has revealed, and establishing that, collecting zakat for example, all of these things could not be established permanently, and well in a continuous proper way, except by having a state structure, by having a leadership, and it has to be in the cas of Islamic, Islamic entity, has to be by by Shah based on Shah, which obviously the technicality of election and B and things like, have to be structured in, if that's the meaning, yes, in that case, an IM let's say im is just a metaphor for the state, IM is just a state essentially, it could be one single person, could be a complicated structure, could be like a head of state, Council of ministers and the head, the and the Prime Minister, different than the head of state, or equal to the head of State, and then we have different chambers of Parliament, and we have a supreme court, and other courts, that's the IM, is totally as entity, but some structure must be there, because it it has been proven, since maybe the time of Hunter gather, is not possible without having a leader of the group, and clear, that even if people are having a casual togetherness, along the a because said the traveler alone is a shan, is a devil, the two Travelers are a devil, three are a caravan or or Travel Group, and if you are three and more, you must appoint one to be the leader, question is this is this by rational principles, for if you in TR, you have to in any life situation, you need any any three ABS need need need one to lead and dispute, and organize, what to do, what to do next.
+**Category:** Islamic Jurisprudence
+
+The speaker emphasizes that the need for an Imam is rooted in the practicalities of human nature and the necessity of having order within any community, regardless of size.  He explains that the presence of an Imam is not a theological mandate, but rather a practical necessity that has been evident throughout history.  
+
+## I mean you you both kind of coincide on the issue of by virtue of the fact, even if you have independent state entities they still will have to have elected auth have have structure, it Cann be an anarchic, complete Anarchy, is not is not possible, so you you both kind of coincide, how you got there, is probably through different mechanisms, um, I'm going to skip ahead, the only thing you can is that Hadith about, if you are three in travel, then you have to appoint one of you, that means that there's a need Ash of of one, in that case, of three, four obviously you don't have a council of Minister you don't, it's only one who do the job, who say now we start a travel, now we stop there, and and and and have lunch, someone may the sent it does not, we have decided this, want to be our leader, we'll go, we'll go this way, so that the structure, travel is safe and organized, otherwise it's very well conceivable that we are three in travel together, we're supposed to be together, otherwise we arean, so together, protect each other, help other, and then without leader, someone say I I fancy L, now, the say no, no let us wait until the sun inclines a little bit, it's cold, the leader will say, we settle now, or we settle after, things like that must be managed, like there's no way, it has to be, but the per injunction, make it obligatory, one one traveler isan, two Travelers are two shans, three are a, and if they are a and upwards they have to have leader, who organized the thing, just so just that's that's that's that's that's and argument, at the same time, because if you say it is necessary, it will not work, Society will not function except with this then it is W because Society has to function, ring that Allah has revealed, has to be established, zakat has to be collected, brought to the poor, it can't be done by by by by uh, by each one arbitrary, and and in a confusing way, the moment you have sufficient number, even a travel, three aboard need need someone to command, so we don't want to discuss, is it by by by reason, or it is by reason, and Sh and both that's it now, how it is is it a single man, or it is a council with a voting principle, and who has the final vote, all of these things that to be established in sh, but whatever it is, it must be by sh and even the Constitution, which the specifi that should be also made the best possible procedures, which had be experienced with other people, and applied correctly and shown to be a good procedure, but must be chosen by that's part of all, must be by, this is also discussed later in this video, because he mentions about and it being in agreement, I'm let's keep ahead to 35 because it's good that the mentions about sh but concerning what what what said, and they made blunder, first say tell say the deen cannot establish without, it's not true, the deen can establish without IM, that's not true, that's just nonsensical, what do you mean by what, did he mean by that, what do you mean by that say without IM, the deen will not be established, no, the deen can be established without IM, in what respect, I mean for example, as a political, in that's the, but the social order will not work proper, according to without IM dictated by necessity, so no need to make such waving arguments, they want to make it like like a Cornerstone of Deen, it's not a Cornerstone of, it's not a Cornerstone of Deen in that sense, I mean, ultimately, it still gets to the end product because if you are no but but for the formulation is dangerous, makes the IM like a necessity, like a prophet is not in that sense, they have some and not to sorry, protection and guarding the deed, he has not o to, has nothing to do with guarding the deed, he has prot something else, but not guarding the deen, guarding the deen meaning you go you call you call International Council, make a judgment about issue, and force the people to that believe, thus guarding the deen, what in their mind, comes like the like the church councils from the Christians, it doesn't work like that, in and should not have this Authority, and if anyone dares claiming against Authority should be stopped in his track, that's none of your business, your business is to prohibit user, and anyone doing user, after the first time warning like said, his neck will be struck period, this and this, if you call that guarding, Call It Whatever it is, but guarding the deen and the beliefs and establishing is issue of, is none of your business, you should even not interfere in that in the first place, your is what what we need to be run practically, for the living in this, including protecting the borders, okay, I'm going to carry on playing now.
+**Category:** Islamic Jurisprudence
+
+The speaker refutes the argument that the Khilafah is a necessary requirement for the establishment of the Deen, emphasizing that the social order within any Muslim community requires an Imam, but not necessarily a singular global Imam. He argues that the Khilafah is a practical tool for managing the
+
+## https://www.youtube.com/watch?v=0fKISPQFPes
+
+## What happened in England? 
+**Category:**  Political Events
+**Timestamp:** 0.08s 
+**Answer:** The speaker discusses events happening in England without providing specifics, so the answer cannot be summarized further. 
+
+## What are the studies and indications that show this "extreme" right is not what it seems?
+**Category:**  Political Analysis
+**Timestamp:** 1.839s
+**Answer:** Studies and indications show that this "extreme" right is not an organic movement but rather a fabrication orchestrated by individuals with personal agendas, possibly motivated by a Zionist agenda to portray Muslims as terrorists.  
+
+## What is the problem with the "extreme right" in England?
+**Category:**  Political Ideology
+**Timestamp:** 3.52s 
+**Answer:**  The speaker argues that the "extreme right" is not a genuine political force but a collection of individuals with personal grievances and mental problems. They lack a coherent political ideology and are not representative of any significant political movement. 
+
+## What is wrong with the “right” in England?
+**Category:**  Political Analysis
+**Timestamp:** 5.919s 
+**Answer:** The speaker argues that the “right” in England is comprised of individuals lacking political awareness and understanding. Their claims about issues like jobs, crime, and social conditions are unfounded and often reflect ignorance or prejudice. 
+
+## What is the point of the King’s comment?
+**Category:**  Royal Commentary
+**Timestamp:** 81.799s
+**Answer:** The speaker discusses a comment made by the King, which he believes was intended to condemn the actions of the police, but also highlights that the King's neutrality as a monarch should have prevented him from expressing such an opinion.
+
+## How is the media trying to spin the King's comment?
+**Category:**  Media Analysis
+**Timestamp:** 119.36s
+**Answer:**  The speaker alleges that certain media outlets, potentially influenced by Zionist interests, are attempting to paint the King's comment in a negative light, claiming he should have remained neutral and not engaged in political commentary. 
+
+## Why are the Zionists criticizing the Prime Minister?
+**Category:**  Political Allegations
+**Timestamp:** 141.64s 
+**Answer:** The speaker alleges that Zionist factions are criticizing the Prime Minister for acting as a prosecutor instead of a prime minister.  This criticism stems from the Prime Minister's involvement in a legal case related to a detention order against an individual.
+
+## Why are the Zionists trying to damage the Prime Minister?
+**Category:**  Political Analysis
+**Timestamp:** 203.44s 
+**Answer:**  The speaker suggests that Zionist factions are attempting to undermine the Prime Minister's authority by portraying him as overly aggressive or even politically motivated in his actions, emphasizing that his role is as a prime minister and not as a prosecutor.
+
+## What is the speaker's opinion on the Zionist influence? 
+**Category:**  Political Conspiracy 
+**Timestamp:** 232.319s
+**Answer:** The speaker believes that Zionist interests are actively involved in English politics, suggesting they may be manipulating events and manipulating public opinion to their advantage. He warns of potential political actions orchestrated by these groups, emphasizing the need for vigilance.
+
+## What should be the focus of political discourse?
+**Category:**  Political Strategy
+**Timestamp:** 316.039s
+**Answer:** The speaker believes that the focus of political discourse should shift away from general right-wing rhetoric and focus on exposing the Zionist influence on the political landscape. He suggests that Zionists pose a significant threat to British interests and should be recognized as the true enemy. 
+
+## What is the speaker's opinion about the British media?
+**Category:**  Media Criticism
+**Timestamp:** 381.68s
+**Answer:** The speaker expresses skepticism towards the objectivity of major news organizations like the BBC and Sky, believing they are infiltrated by Zionist influence and unlikely to report accurately on the true nature of the Zionist threat.
+
+## What is the speaker's advice for addressing the Zionist threat?
+**Category:**  Political Action
+**Timestamp:** 419.84s 
+**Answer:** The speaker emphasizes the need for a unified front against Zionist influence, advocating for collaboration between ordinary English citizens and non-Zionist Jewish individuals. He suggests that recognizing the Zionist agenda as a threat to British interests will help garner support for Palestinian causes and counter the influence of Zionist propaganda. 
+
+
+## https://www.youtube.com/watch?v=l7xcv0dgVuQ
+
+## 0.32s:  Why is information mostly from Israeli media? 
+**Category:** Media Bias 
+**Answer:** The speaker suggests that information about the conflict is mostly from Israeli media because Arab media are in collusion with Israel. This means that the Arab media only publishes what the Israelis want them to publish, even if it's not the full truth. 
+
+## 24.24s:  What evidence is there that the Israelis have failed in their military campaign?
+**Category:** Military Strategy
+**Answer:** The speaker states that Israeli media is reporting that Netanyahu has failed in his military campaign. They reference specific actions, such as the blocking of a road by a group of Palestinians, which resulted in a large number of casualties for the Israeli forces. The speaker also mentions that the Israeli military is under siege and needs to rely on air drops for supplies.  
+
+
+## https://www.youtube.com/watch?v=bU8izMnuxa4
+
+##  Saudi Arabia's Response to the Conflict
+
+**Question:**  At what point did Saudi Arabia become irrelevant in the conflict?
+**Timestamp:** 1.8s
+**Category:** Geopolitics
+**Answer:** The speaker believes Saudi Arabia has become irrelevant in the current conflict, indicating a decline in their influence or effectiveness. 
+
+**Question:** What is the speaker's assessment of Saudi Arabia's position in the conflict?
+**Timestamp:** 4.839s 
+**Category:** Geopolitics
+**Answer:** The speaker views Saudi Arabia's stance as significantly weaker and worse than Iran's. They believe Saudi Arabia has lost influence and taken a less effective position.
+
+**Question:** How does the speaker characterize Iran's response to the conflict?
+**Timestamp:** 9.24s
+**Category:** Geopolitics
+**Answer:** The speaker portrays Iran's response as clear and assertive, contrasting it with Saudi Arabia's perceived lack of intelligence and meaningful action.
+
+**Question:** What is the speaker's view on Saudi Arabia's silence regarding the conflict?
+**Timestamp:** 61.32s
+**Category:** Geopolitics
+**Answer:** The speaker suggests that Saudi Arabia's silence stems from their vulnerability and fear of potential consequences,  emphasizing their precarious position.
+
+**Question:** Why is the speaker critical of certain Arab countries' stance on a ceasefire?
+**Timestamp:** 27.32s
+**Category:** Geopolitics
+**Answer:** The speaker expresses disapproval of some Arab countries' opposition to a humanitarian ceasefire and negotiation with Hamas. They view this opposition as enabling Hamas and potentially harming their own interests.
+
+**Question:** What is the speaker's concern about the potential consequences of a Hamas victory?
+**Timestamp:** 35.36s
+**Category:** Geopolitics
+**Answer:** The speaker believes a Hamas victory could lead to future retaliation against Arab countries who currently support Israel, emphasizing a potential consequence of failing to support a ceasefire.
+
+**Question:** What is the speaker's assessment of the communication channels regarding a ceasefire?
+**Timestamp:** 79.08s
+**Category:** Geopolitics
+**Answer:** The speaker believes the communication regarding a potential ceasefire likely originates from the Emirates, Jordan, and potentially Egypt, suggesting these countries are playing a role in diplomatic efforts.
+
+**Question:** How does the speaker characterize Jordan's involvement in the conflict?
+**Timestamp:** 84.079s
+**Category:** Geopolitics
+**Answer:** The speaker describes Jordan's involvement as treacherous, accusing them of enabling the conflict and suggesting they are ultimately siding with Israel.
+
+**Question:** What is the speaker's hope for the future of the conflict?
+**Timestamp:** 95.92s
+**Category:** Geopolitics
+**Answer:** The speaker expresses hope that people will see through the manipulation and eventually support a solution. They believe this is possible especially if the conflict ends with a Hamas victory or a negotiated settlement.
+
+**Question:** What does the speaker believe will be the long-term consequence of the conflict for certain Arab regimes?
+**Timestamp:** 110.64s
+**Category:** Geopolitics
+**Answer:** The speaker predicts that Arab regimes who are allowing or being forced to allow Israel to operate bases in their countries will face further exposure and criticism. This is due to their support of Israel's actions, particularly the supply of weapons.
+
+**Question:** What is the speaker's view on the historical precedent of Arab betrayal?
+**Timestamp:** 133.44s
+**Category:** History
+**Answer:** The speaker draws a parallel to the 1948 Arab-Israeli War, highlighting the betrayal by Arab leadership and emphasizing that historical patterns can repeat. This suggests that regaining power and achieving justice can take time and effort.
+
+**Question:** How does the speaker contrast the speed of historical events with contemporary expectations?
+**Timestamp:** 144.319s
+**Category:** History
+**Answer:** The speaker emphasizes that historical change is often slow and gradual, challenging the expectation for immediate results. This is contrasted with the belief that things will work out quickly, highlighting the need for patience and a long-term perspective. 
+
+**Question:** What is the speaker's view on the duration of recovering from a mistake?
+**Timestamp:** 165.0s
+**Category:** History
+**Answer:** The speaker highlights that recovering from mistakes and mishaps can take a significant amount of time, referencing the example of the Muslim community's struggle after a specific blunder. This suggests that setbacks can have lasting consequences and require sustained effort to overcome.
+
+**Question:** How does the speaker describe the impact of Netanyahu's rhetoric on the conflict?
+**Timestamp:** 290.84s
+**Category:** Geopolitics
+**Answer:** The speaker believes Netanyahu's inflammatory rhetoric, which demonizes Palestinians and Muslims, may contribute to a longer and more violent conflict. This suggests that his aggressive language could exacerbate tensions and hinder peace efforts. 
+
+
+## https://www.youtube.com/watch?v=Q22A4IV4jQo
+
+##  What did the second verse say about women? 
+**Category:**  Quran Interpretation
+
+The speaker points out that the second verse refers to women from among the listener's own community, and specifies married women. This means that the verse is exclusively talking about married women who are committing adultery or other sexual misconduct. 
+## What does it mean both who are committing it?
+**Category:**  Quran Interpretation
+
+The speaker discusses the interpretation of the phrase "both who are committing it," which refers to adultery and fornication.  One interpretation is that it refers to women who are not in wedlock and men who are, and the other is that it refers to both parties who are committing adultery within the context of marriage.  The speaker suggests that the latter interpretation is more widely accepted, and that the misconduct referenced is the same as that discussed in the previous verse.
+## How did abrogation develop and how does it work? 
+**Category:**  Quran Interpretation
+
+The speaker explains that abrogation occurs when a later verse supersedes an earlier one, making the earlier verse no longer applicable.  This process is often hinted at in the Quran through wording such as "Allah has made a way out" or "take from me this ruling." The speaker provides an example of abrogation with the imprisonment of married women for adultery, which was later replaced by a new ruling.
+## Why is this an unsafe claim?
+**Category:**  Quran Interpretation
+
+The speaker argues that the claim that the imprisonment of married women for adultery was abrogated by stoning is unsafe because the Quran states that if a verse is removed, it will be replaced by a similar or better one. Since stoning is not mentioned in the Quran, it seems unlikely that it completely abrogated an earlier verse.
+## What is the most important thing to remember about abrogation? 
+**Category:**  Quran Interpretation
+
+The speaker stresses that only another verse can abrogate a verse in the Quran. He also emphasizes that abrogation is a complete removal, not just a restriction or clarification of the general meaning.
+## What is the story of the two Jews? 
+**Category:**  Quran Interpretation
+
+The speaker tells the story of two Jews who saw a man and a woman being punished for adultery. They confirmed with the Torah that stoning was indeed a punishment for adultery. This story is presented as evidence that stoning was a punishment for adultery in the Torah. 
+## What is the significance of the story of the two Jews?
+**Category:**  Quran Interpretation
+
+The speaker explains that the story of the two Jews highlights the fact that the Prophet Muhammad used the Torah as a tool to demonstrate that his law, in this case, stoning, is in accordance with the previous revelation. By forcing them to admit that their law was the same as his, he established his authority as an independent messenger. 
+## What did the Prophet Muhammad say about stoning?
+**Category:**  Quran Interpretation
+
+The speaker highlights that the Prophet Muhammad stated that stoning was a practice that had been abrogated from the Quran. This statement is significant because it undermines the argument that stoning was a valid punishment under Islamic law. 
+## Why is the issue of stoning so important? 
+**Category:**  Quran Interpretation
+
+The speaker explains that the issue of stoning is crucial because it highlights the ongoing debate among Islamic scholars regarding abrogation. Some argue that stoning is still applicable, while others believe it was abrogated. This debate is important because it has significant implications for the application of Islamic law in modern times.
+## What is the best way to understand the issue of stoning?
+**Category:**  Quran Interpretation
+
+The speaker argues that the most straightforward approach is to acknowledge that the verse about imprisoning women for adultery was abrogated. Since stoning is not mentioned in the Quran, it is likely that the punishment for adultery is now limited to flogging. 
+## How does repentance relate to ignorance?
+**Category:**  Quran Interpretation
+
+The speaker clarifies that repentance is only accepted from those who commit evil out of ignorance. This ignorance is not simply a lack of knowledge but a state of being undisciplined and rebellious against Allah's commands. The speaker distinguishes this from genuine ignorance, where a person is unaware of an injunction and therefore not punishable.
+##  What is the importance of repenting before death?
+**Category:**  Quran Interpretation
+
+The speaker stresses that repentance must happen before death is certain. This means that a person cannot wait until they are on their deathbed to repent and expect their sins to be forgiven. The speaker emphasizes that repentance must be sincere and immediate.
+## Why is repentance not accepted from those who die as kufar?
+**Category:**  Quran Interpretation
+
+The speaker states that repentance is not accepted from those who die denying God's existence. This is because those who die as kufar have chosen to reject God's guidance and will therefore face a painful punishment.
+## What are the limitations of repentance? 
+**Category:**  Quran Interpretation
+
+The speaker mentions that there are certain signs that indicate that the door of repentance has been closed. These signs, such as the appearance of a supernatural creature that marks people's heads, are symbolic of a time when it is too late to repent. The speaker emphasizes that people should not wait for these signs but should embrace faith and do good deeds before it is too late.
+## How does the Quran address the issue of inheriting women against their will?
+**Category:**  Quran Interpretation
+
+The speaker highlights that Islam forbids inheriting women against their will and treating them harshly to regain a dowry. This prohibition is a direct response to the practices of pre-Islamic Arabia, where women were often denied basic rights.  This verse emphasizes the importance of treating wives with fairness and kindness.
+## What are the implications of this verse for marital relationships?
+**Category:**  Quran Interpretation
+
+This verse emphasizes the importance of mutual respect and consent in marriage. It emphasizes that men should consult with their wives and try to resolve any disagreements in a good manner. The speaker also clarifies that  men should not use the concept of "disliking" their wives as a justification for mistreatment or financial exploitation.
+## What is the significance of the prohibition against taking anything away from a wife upon divorce?
+**Category:**  Quran Interpretation
+
+The speaker explains that this verse prohibits men from taking back any gifts or dowry given to their wives upon divorce. This prohibition reflects the importance of maintaining justice and fairness in marital relationships. 
+## How does the Quran address the issue of tricking a wife into giving up her rights?
+**Category:**  Quran Interpretation
+
+The speaker highlights that Islam forbids men from tricking their wives into relinquishing their rights through mistreatment or manipulation. This prohibition emphasizes the importance of honesty and integrity in marital relationships.
+##  What are the implications of this verse for marital contracts? 
+**Category:**  Quran Interpretation
+
+The speaker stresses that marriage is a solemn and binding contract that requires respect and integrity from both parties. It is not simply a legal agreement but a sacred commitment that requires careful consideration. 
+## Why is it forbidden to marry a woman whom your father previously married? 
+**Category:**  Quran Interpretation
+
+This verse prohibits men from marrying their father's wives. This prohibition is rooted in the idea that such a marriage would be considered a shameful and evil act. The speaker also clarifies that the prohibition applies even if the father has passed away.
+## What are the consequences of violating this prohibition?
+**Category:**  Quran Interpretation
+
+The speaker states that violating the prohibition against marrying one's father's wife is considered an act of war against the Islamic system. The consequences for this violation are severe, including the death penalty and confiscation of property.
+## What is the difference between Zina and a public offense?
+**Category:**  Quran Interpretation
+
+The speaker distinguishes between zina, which is a sexual act committed in secret, and a public offense, such as marrying a prohibited woman. Zina is considered a sin with its own punishment, while a public offense is seen as a direct challenge to the Islamic system and therefore merits harsher consequences.
+## Does a private act of marriage with a prohibited woman constitute a public offense?
+**Category:**  Quran Interpretation
+
+The speaker clarifies that even a private marriage with a prohibited woman is still considered a public offense and warrants severe consequences. This emphasizes the importance of upholding the rules and regulations established by Islamic law.
+## How does this verse clarify the concept of fostering? 
+**Category:**  Quran Interpretation
+
+The speaker clarifies that fostering, in the context of this verse, refers to being raised in the same household as a woman.  This means that a man cannot marry a woman who was raised in his household, even if he did not directly foster her. 
+##  Does fostering require a specific duration?
+**Category:**  Quran Interpretation
+
+The speaker emphasizes that there is no specific time frame for fostering that would make a woman prohibited.  Any time spent being raised in the same household as a man, regardless of duration, would make her prohibited to him. 
+## What are the implications of this verse for the concept of adoption?
+**Category:**  Quran Interpretation
+
+The speaker explains that the verse about fostering is relevant to the issue of adoption because adoption has been abolished in Islam. This means that a foster child is not considered a son or daughter and does not inherit the same restrictions as a biological child. 
+## How does the verse clarify the prohibition against marrying the wives of one's sons?
+**Category:**  Quran Interpretation
+
+The speaker explains that the verse prohibits marrying the wife of a son who has been born from the man's own loins.  This prohibition extends even to daughters-in-law with whom the man has not consummated the marriage.
+## What is the significance of the prohibition against marrying two sisters simultaneously?
+**Category:**  Quran Interpretation
+
+The speaker states that this prohibition is designed to prevent rivalry and conflict between two women who are closely related.  It is considered inappropriate and harmful to have two women who are sisters or aunts in the same household. 
+## What is the implication of this verse for the concept of marrying a deceased wife's sister?
+**Category:**  Quran Interpretation
+
+The speaker clarifies that this verse only prohibits marrying two sisters simultaneously. It does not prohibit marrying a deceased wife's sister, which is considered acceptable in Islam.
+## What are some of the key points to remember regarding marriage restrictions?
+**Category:**  Quran Interpretation
+
+The speaker summarizes the key prohibitions regarding marriage:
+- It is forbidden to marry a woman whom your father previously married, even if the father is deceased.
+- It is forbidden to marry two sisters or a woman and her aunt simultaneously.
+- It is forbidden to marry a woman who was raised in your household.
+- It is forbidden to marry the wives of your own sons.
+
+This summary provides a clear understanding of the boundaries of marriage within Islam. 
+## What is the key takeaway from the verses discussed?
+**Category:**  Quran Interpretation
+
+The speaker concludes by emphasizing the importance of following Allah's guidelines for marriage and family life.  He stresses that these guidelines are designed to promote harmony, justice, and purity in society. 
+
+
+## https://www.youtube.com/watch?v=5zXuRC-Ij9w
+
+## Question 1: 74.4s
+**Category:** Hadith Interpretation
+
+**Question:** The Speaker paraphrases a hadith about following predecessors even into a lizard's hole. Who are the predecessors that the companions are referring to?
+
+**Answer:** The companions of the prophet are referring to the Jews and Christians. 
+
+## Question 2: 99.759s
+**Category:** Textual Corruption
+
+**Question:** The Speaker mentions that Jews and Christians can't tamper with their texts, but they can hide things. What does the Speaker mean by 'hide things'?
+
+**Answer:** The Speaker argues that certain groups, like rulers, can hide evidence that would hold them accountable. They can also misrepresent the text by applying it to individuals instead of those in authority.
+
+## Question 3: 217.159s
+**Category:** Islamic Rulership
+
+**Question:** The Speaker states that the concept of 'Hakim' (ruler) is central to Islam. How does the Speaker explain the importance of this concept?
+
+**Answer:** The Speaker emphasizes that 'Hakim' is pervasive in Islam, affecting all aspects of life. They argue that the importance of rulership and the need for a Muslim voice in governance should be communicated to the public.
+
+## Question 4: 271.52s
+**Category:** Historical Context
+
+**Question:** The Speaker talks about the Crusaders and their conquest of institutions to control the voice of Muslims. How does the Speaker connect this to the idea of 'Clergy Mentality'?
+
+**Answer:** The Speaker argues that the Crusaders' conquest of institutions, especially in India, exemplifies the 'Clergy Mentality'. They believe that this mentality allows certain groups to control information and circumvent Islamic teachings.
+
+## Question 5: 314.08s
+**Category:** Islamic Knowledge
+
+**Question:** The Speaker emphasizes the importance of equipping oneself with knowledge to counteract misinformation. How does the Speaker suggest we do this?
+
+**Answer:** The Speaker encourages us to question those who present arguments that contradict the Islamic text. By tracing their arguments back to the Quran and Sunnah, we can expose inconsistencies and ensure that our understanding is grounded in authentic sources.
+
+## Question 6: 345.319s
+**Category:** Textual Corruption
+
+**Question:** The Speaker connects the Jewish practice of covering over texts to the revelation of an ayah concerning stoning. What is the significance of this connection?
+
+**Answer:** The Speaker implies that the Jewish practice of covering over texts was a form of concealment of Islamic knowledge, similar to what the Speaker claims is happening today. They highlight the importance of uncovering the truth and resisting any attempt to hide or distort the divine message.
+
+## Question 7: 393.12s
+**Category:**  Islamic Discourse
+
+**Question:**  The Speaker mentions a plan to use the 'T' as a springboard for understanding Allah's Kalam. What is the 'T' referred to?
+
+**Answer:** The 'T' refers to the 'Tafsir' (Quranic commentary) that the Speaker has been sharing in previous episodes. The Speaker intends to build upon this foundation and delve into various issues related to Islamic knowledge.
+
+## Question 8: 432.319s
+**Category:**  Islamic Accountability
+
+**Question:**  The Speaker encourages viewers to ask questions and think from a fundamental perspective. What is the underlying message behind this encouragement?
+
+**Answer:**  The Speaker emphasizes the importance of critical thinking and holding everyone accountable, including ourselves, for our understanding of Islam. They suggest that we should not rely on superficial understandings and instead strive to plug gaps in our knowledge.
+
+## Question 9: 6123.84s
+**Category:**  Beard Interpretation
+
+**Question:** The Speaker discusses the beard and asks what constitutes a beard. What are the different types of beards discussed, and how does the Speaker address the question of what is deemed socially acceptable?
+
+**Answer:** The Speaker mentions a short beard, a goatee beard, and the shaving of the sides.  They acknowledge that society might have different definitions of a beard, but anything that is considered a beard by the community is acceptable.
+
+## Question 10: 6192.719s
+**Category:**  Knowledge & Sahaba
+
+**Question:** The Speaker addresses the misconception that the Sahaba had the best understanding of Islam due to their proximity to the Prophet. Why does the Speaker disagree with this perspective?
+
+**Answer:** The Speaker refutes the idea that the Sahaba were the sole arbiters of Islamic knowledge. They argue that the Sahaba's primary concerns were the practical issues of their time, such as the definition of 'Kufr' and the conflicts with other groups. They didn't necessarily delve into more complex theological issues, which emerged later in Islamic history.
+
+## Question 11: 6576.56s
+**Category:**  Reason & Rulings
+
+**Question:** The Speaker discusses a question about the permanence of Islamic rulings if the underlying reason for them ceases to exist. The Speaker provides the example of wearing the 'Tuba' (garment) below the ankles out of pride. How does the Speaker address this question?
+
+**Answer:**  The Speaker explains that the prohibition of wearing the 'Tuba' below the ankles is primarily based on the intention behind the act, which is arrogance. If someone doesn't have that intention, the prohibition might not apply. They clarify that the ruling is tied to the motivation behind the action.
+
+## Question 12: 6844.8s
+**Category:**  Quranic Interpretation
+
+**Question:** The Speaker is asked about the ayah where Allah forgives those who followed the Prophet, but excludes the Prophet's father. Why are the Prophet's father and the Prophet excluded from this specific forgiveness? 
+
+**Answer:**  The Speaker explains that the ayah is simply describing those who wavered in their faith and later received forgiveness. It is not intended to imply a universal forgiveness or to include the Prophet's father or the Prophet himself. 
+
+## Question 13: 6904.76s
+**Category:**  Limits of Allegiance
+
+**Question:** The Speaker is asked to reiterate the meaning of 'Mu' (ruler) in the context of the ayah. They are specifically asked to clarify whether this includes all those who were in alliance with the Prophet.
+
+**Answer:** The Speaker states that the 'Mu' in this context refers to those who were Mu'ajen (aligned with the Prophet) up to the day of Badr.  Later 'Mu' are questionable, and those who gave up before Badr are not included. The Speaker acknowledges that there are complex discussions about who constitutes a 'Mu' and emphasizes that it's not simply about being an immigrant or citizen.
+
+## Question 14: 7014.0s
+**Category:**  Repentance & Forgiveness
+
+**Question:**  The Speaker is asked about the distinction between 'Toba' (repentance) and 'Gufran' (forgiveness) in the context of the ayah.
+
+**Answer:**  The Speaker clarifies that 'Toba' refers to an individual's regret and seeking forgiveness for a specific mistake. 'Gufran' refers to Allah's acceptance of that repentance.  They further explain that Allah's acceptance of repentance in the ayah is specific to the mistake made by those who hesitated before joining the Prophet, not a general forgiveness of all their past sins. 
+
+## Question 15: 7218.159s
+**Category:**  Prophetic Authority
+
+**Question:**  The Speaker is asked whether the Prophet had authority to call upon those who were not citizens of Medina to join the battle of Tabuk.
+
+**Answer:**  The Speaker states that the Prophet had a specific authority to call upon all Muslims, regardless of their citizenship, because he was a messenger of Allah. However, this authority was unique to him, and other Muslim leaders would not have the same right to compel people to join a battle. 
+
+## Question 16: 7569.719s
+**Category:**  Islamic State & Revolutions
+
+**Question:**  The Speaker is asked whether armed rebellion is permissible in the context of establishing an Islamic state. 
+
+**Answer:**  The Speaker acknowledges that armed rebellion is not the typical method of establishing a proper Islamic state. However, they argue that it is permissible to use force to prevent a state from deviating from Islam or to restore Islamic governance. 
+
+## Question 17: 7813.199s
+**Category:**  Shariah Implementation
+
+**Question:**  The Speaker is asked to elaborate on how Shariah should be implemented in a modern world, specifically in relation to the idea of placing scholars in government positions.
+
+**Answer:**  The Speaker argues that Islam does not have a centralized church or institution that dictates religious law. Instead, they believe that Shariah should be applied by the existing legal structures within a society, including parliaments, courts, and government officials. They suggest that Islamic scholars should play an active role in advising and educating the community about how to apply Islamic law.
+
+## Question 18: 7954.32s
+**Category:**  Q&A Format
+
+**Question:**  The Speaker is asked to consider dedicating a specific Sunday of every month for Q&A sessions to address the numerous questions they receive.
+
+**Answer:**  The Speaker agrees to this suggestion and proposes that the first Sunday of each month will be dedicated to Q&A sessions. They emphasize that this will help address the backlog of questions and ensure that all the viewers have the opportunity to get their questions answered.
+
+## https://www.youtube.com/watch?v=cFCYA8cqbd8
+
+## The Speaker discusses how understanding of the Quran's language is essential for its interpretation.
+
+**Question: "the section where he talks about uh the understanding at the time of the it was centered around the language of the people at that time yeah" (19.48s) **
+Category: Linguistics
+
+**Answer:** The Speaker mentions that the understanding of the Quran in its time centered around the language of the people then, Arabic. He clarifies that the language was fully recorded and preserved beyond the initial two generations.
+
+**Question: "the he say it's it seemed to tie in with you know the first two generations so about self understanding there's a fallacy the language of the at that time but this language is fully recorded it's more than two two generation fully recorded as a language and that's all that's needed so if you say the the studing of Sal is a mistake if say the language of Sal yes so there there is there is a with words here because he won't say we understand Quran andah with the how the understood it no with the Arabic language in some places the did not understand properly let let me expound on that it may belong to the end but should we keep it to the end let me continue so we can cut it and separate it if needed the first of all the the language is sufficient by itself as the people speak it has nothing to do with Sal and believer nonbeliever other thean would not how they don't ponder about the Quran if it happens to someone else beside Allah they will find contradiction it that's address it to they don't believe in Sal there was no at that time they don't even believe in Muhammad tell them okay you are Arabs Quran is in Arabic read it and see find contradiction so read it on the language level as a language as a text as a literary piece read the literary piece and see what's it could be this literary piece being produced by Muhammad or by the Arabs or by yourself or by some sual being maybe the devil maybe analyze all of these possibilities for that you need to know the language and the Medina and mea they are Arab genuine Arabs they definitely genuine Arabs and if one is by by accident not the genuine Arab like a slave or something that then he can ask Arab friends and them until he analyze the meaning completely he know some good part of the meaning but not the full nuances of the meaning" (30.039s) **
+Category: Linguistics & Interpretation**
+
+**Answer:** The speaker clarifies that the Arabic language used in the Quran was fully recorded, and therefore, the understanding of the language is paramount to comprehending the Quran. He emphasizes that Sal (a supposed linguistic influence on the Quran) isn’t relevant for interpretation.  He urges listeners to study the Quran as a literary piece, analyzing its language to assess its origin and authenticity. He explains that even non-Arab speakers can consult with Arab friends to fully grasp the nuances of the Quran's meaning. 
+
+**Question: "secondly we have narration that some words in the Quran some some were not known to some of the sah even the biggest like Abbas Abbas explained that the Quran is dominant over and controlling over the previous scripture and they say Shah use the word witness Shah but we we dug in the book of that's in the book of we dug deer and we found that of poetry about that time in a complet independent issue not explain the Quran in which m means dominant on controlling holding someone from the neck dominant so even AB being AI being eloquent missed one word so what do you mean even even in the linguistical way he because m is very rare extremely we find only one poetry from someone in that's it which show that the meaning is this one not Shah it's definitely Shah but Shah in other situation controlling which has two meanings obviously in matter of of of ruling an injunction M mean it's it can abrogate dominate it can abrogate in matter of reports and so on it corrects hey no this is wrong that's not correct that's good this is the one you have to adopt the other one must be fabrication or falsification or something lost and so on that's for Scholars to find what are the reason for this different but the Quran tell you clearly for that you need only the linguistic aspect" (155.8s) **
+Category: Linguistics & Interpretation**
+
+**Answer:** The speaker explains that some words in the Quran were not known even to some of the companions of the Prophet Muhammad, like Abbas. This highlights the Quran's dominance over previous scriptures and the importance of understanding the Quran's unique linguistic nuances.  He cites an example of a word, "m,"  which is rare in Arabic and its meaning in context. The speaker concludes that understanding the linguistic aspects of the Quran is crucial for accurate interpretation.
+
+**Question: "thirdly the people after taking the witness that he completed the Miss may Allah have Mery or may beautify the faith of anyone who memorized my my speech and report it as he memorized it because someone who receives May understand better than someone who reports are essentially reporter some of the Next Generation May understand better May comprehend things better or may not so all of this no agree agree they don't have another language it's exactly the Arabic and the Arabic essentially in most eloquent is the form the and but also the Arabs of n for example the the high level of n that's in in in east of and before like and so who they first CL first class eloquent the other tribes like are not to that level they would were not taking language on them the only plus qur and and there other tries and so but they are secondary so up to that level of distillation they were using so that's what we are dealing with is we are dealing with Arabic language in the time of Revelation which is the same persistently until the time of and persistently until the time of the next Generation Next Century third Century recording of of the dictionaries and the meaning of the things okay that's it and you remember sometimes I commented on the word that original meaning is is sincerity and really good faith sincerity not what people say advice advice is Quran advice them but because advice is theoretic and by in should be sincere should not make except out of sincere of sincerity for for his best the best for him not for the best for you the best for him and as good as you can in in finding the meaning of Shar and so on so but then somehow the word was was limited to the sermons in the in the Masid and things like that and from people who they call people of religion and so on and while advising anybody like advising was called because the people offering initially off say I have a I have a sincere advice to you and the word took over slowly so until now if you had anyone mean usually meaning advice and like a written document of advice not sincerity and good faith that's one another one which we have detected also I mentioned it sever time the Divine name come from means the complete capacity of mind it's better than the word so is the one who perfectly rational but the scholars do not like use it for Allah because is usually connect things together and the Divine knowledge is based on spontaneous seeing the reality as it is so it's not connecting things together in that some sense or another so they don't like talking about Allah alth some use that some that but Alim is not the one who forbearing you insult and hurt and he does not take revenge immediately that's that's one characteristic of someone who's fully IR rational then the specific characteristics how to behave in the case of has overshadowed the original General meaning that's another example that's in general usage in these two terms in some areas of the of the of the Muslim World Arab world some have taken out out of because of sat repeating of prayers and so on took that different meaning for example if you meet someone from Morocco don't wish him AIA he will become angry AIA saving being saved being protected what's the reason the word AIA in in Mor in the far west is used for the fire because every time the h fire is mentioned time may Allah protect us we ask for divine protection until it came in people mind fire is protection protection fire so the right protection became enous for fire that's how it developed these guys will go to the the mind now if you say I wish you become angry meaning I wish you to go to the hell for or if you visit some of the hospital beware that it goes the healing not yeah so that claim is is is a misn and the dangerous way to go meaning the way they understood is a binding one it is the Sue one besid it's contradict a very important aspect of the Quran that the Quran is having NeverEnding amazement like says how come you get more amazement by finding more deeper meaning and layers of meaning so the generation of the did not understand many things in certain areas we understand more than them I gave an example last time or time before last about the only they know is this this this creature which is usually in in hot countries and swamps and so on which she stuck to your skin it's like a worm will suck your blood and you can pull it away H leech leech leech and the only way to pull it out safely is to have some fire or something and touch it so it pulls his needle out and then you can throw it away if you pull it like that you have a severe injury that's what they but what the come from what something which Lees something sticks something clings and that's found by whom and by whom correctly to be the egg the human egg is okay it has to wait almost 120000 years because that's all what and they see the mation blood oh this maybe the is going down that's all what they know medically so the amazement of Quran came clearly in the 20th century and who find it a fren man it's okay perfectly fine no problem completely no problem amazing never ends so Thea I don't me that is not we have in several issues clearly at fault I don't think so can compete in my being a Sal and being ancient with and he did he did not know what to do with Kal we discussed that in the one who dies without offsprings or parents and grandparents Etc so only have ha who are surrounding nothing down and nothing up like the com from is that that with a Roman foot made out of what's the name of that tree or that leaves around it smells good wreath they call it wreath what's the name of the the plant is well known in Arabic it's a good smelling one it's well known anyway if you ask anyone show him there a picture of a Roman with this around his head this is made of this plant it's used as spice also because it's around the head clean around so nothing in the top nothing in the bottom the top is parents and grandparents the bottom is children and of grandchildren that's kalala linguistically Omar was never able to understand the ruling of kalal he knows what's Kal in Arabic but he was never able to understand the AY of the Quran because have certain wrong premises to the level that he asked was the only one who could read and write said if you find relaxed and peaceful then ask him about what is so waited until sometime relax and and got to she said I didn't I would like to ask you so that I write it down say who told you to ask about that immediately detected the FL om she could not say no he said yes he will never understand it is it sufficient the AY in and the one at the end of the which came down in is not sufficient for him he will never understand and she told he he caught me red hand that I'm writing on your behalf and said of Allah is right I will never understand that it's a very simple issue while one one generation one Young when when he he the story told told the the the old T who reported that from Omar he he it from Omar say what's the problem with it's the one who has no no no no origin and no no no offsprings it's only what's wrong with that say they were doubting about the parents which is UT nonsense just read the AY it's clear like sun in the daylight so this is just playing games they want to remove them and go back to some some understanding of claim Superior because he's more anian no has nothing to do be more Asian nothing to do being a sahabi there are people after sah who understood certain is much better than S much much better much better issues not only words I mentioned the case of like for example and M and so on I barely found that that poetry in modern times when say about it's translated now withy of the Imperial powers and so on it is common nobody will have even an think one second it means anything we witness or no it is it is dominance it is hemony it's exactly hemony that's the translation in in in and Geo in in geopolitics and Geo geopolitical Sciences hegemonial powwers power who want to dominate Hony imperialism and so on Hony Western Hony being undermined Now by multipolar World Hony is and that's us now in the two last centuries extensively and nobody's that but it was a by AB so all of this is just is just just beating around the bush attempt to create aab which is no which is a phy besides of we have clear injunction in theith of in the long form of the had of who was asking about about fan and tribulation coming later time and and he said ask was asking about evil which will come in the future because I know the good he wrot the good I know what good and every time tell him that's the full narration in with it's not as good or better than b by the way and they have a sheet of that and even even tweeted it several times it ask him would be evil after this said why you asking avoid the learn the book of Allah and do do act accordingly three times then he tell him this will happen then he ask after that he say the book of what is need you come to me Arab Quran is Arab learn it and if a point or a construction is a bit difficult because not all the Quran is straightforward 99% is just even a common VI we now will understand plenty of it but there are some difficult passages some deep issues in some places in that case you go to other people who have scholar maybe a current scholar is more Superior than an ancient scholar you go to the book go to current scholar I would go for the word for example and the meaning something clings he scientist and heon that issue spent half of his lifeon that issue is superior to any sah that simple Le the book of Lear you learn you do the learning what tool you need for that a sound brain be unbiased withdraw yourself this the book of Allah it has Comm it will lead me I don't need it it lead me you don't find something you don't like I don't like that let me try to twist and find another meaning and find a that's the way of going downhill no let it lead you make yourself like a sheep which being pulled by by by a robe from the neck behind the shepherd just let the Quran lead you and a she knows how to deal with the Rob and how to follow to walk you know Arabic that's all what you need make the Quran your IM read it and if there something difficult there'll be difficulty for some people to have ask other people who have learned and third one a fourth one an ancient one a current one future one you canot because he's not yet here so you canot ask for the future and if you don't achieve anything satisfactory you say I don't know the meaning Allah Knows Best because we have now overwhelming evidence before that that's from Allah so Allah intended something maybe it's not clear for me at the moment maybe it's for the future it will come one day maybe it's for too dumb to understand not twisting so all of this all this this is this is nonsense just check it in the B with all respect to everyone nobody should be and this is is exactly what what what for examp sh sh is one of the follower middle follower he born 17 H his mother was one of the Sabi one of the SP war of Jala J was fought in 1617 so he's born immediately about a year after that so 178 and he died 104 105 and he was maybe his time's sup most Supreme memorizer and exactness and if someone ask him he for somehow he was regarding himself as narrator memorizer not someone who analyzed although he's shows in many occasion extreme intelligence and sophistication but he was too worried to give fatwa so someone ask him what is this say has this view previous generation him what's your point of view so what do you want with my point of view take my point of view and urinate over it that's and he's a second generation according to me from someone say refering to because he want to withdraw from the responsibility he did not trust himself to that to do that and maybe in that he is he is a bit sinful maybe he said no I will take the point Abbas I think he's more C to understand the Quran myself and he's more a better Arabic speaker than myself and he has lived with the prophet more than myself so his point of view isasia the better one and it's proven otherwise yeah so all of this is just just beating around the bush and refusing to go and and and find something which does not fit with your M and you are then in a conflict no you're not in a conflict you be in a conflict only if you think that this is the way to go no that's not the way to go the way to go is clear follow what has to you from your lord what has revealed is a script and in a language which is completely protected more protected almost protected like the Quran and more protected than the if that's not enough then there's a problem with you problem with you not with the text or not with the Arabic language and the problem could be a natural problem you don't have the sufficient to to to connect a deep problem sufficiently well or you are falling in one of the classical TRS of reading a scripture is that reading sentences and verses out of context not reading verses before and after until you comprehensively cover a complete content and then reading them alone without another one Rel to similar the same topic in another place until you comprehend all the Quran then you are in the safe ground to conclude something but this is because you're failing to do this static way not not cut cut the Quran into pieces take it a whole and not twisting things out of their context taking out of context part of twisting words out of their meaning so here the problem will come come really to the daylight if it was s out of their meaning that's the main one and then not addressing the all the eyes of the Quran related to that topic or or issues with connect with somehow putting all of them and synchronize them properly or find the contradiction so it's not from Allah that's the only way to go that's it not referring to Sal and that doesn't work it has not work you see most the references to Sala and so on is is end in in in in fallacies and and contradictions and we are willing everything they this said that and so person to show that is not a Sal it's or one of the of who are usually maybe good memorizer and good reporter and even they question mark about that but definitely not good thinker and anist they are shallow and surface and most of them they're Arabic is questionable anyway so so that that's that's that's the whole situation if you dig deeper you find say the Sal agreed on issue of and so on that no one guides himself orti fatalism no go see what report of there are most of them if weize the narration Chuck in the B everything anti fatalist but they made him fatalist obviously had fabricated a Hadith and broken Hadith and so on then you will end in utter confusion which ends nowhere for example in serious issue like like Destiny and fism and so let alone in issues anyway I think I red too much about that but what do you mean you mean the language as it was in the time of Quran that's resd completely reserved besid most of the Quran explain itself like the word vi is use in five six meanings I have that in the book of listing all of them and analyzing them" (1395.679s) 
+Category: Interpretation & Controversy
+
+**Answer:** The speaker refutes the claim that understanding the Quran requires a reliance on Sal. He argues that the Quran is self-explanatory, drawing attention to how certain words can have multiple meanings. He suggests that those who claim to rely on Sal often fall into fallacies and contradictions, pointing out that a deep understanding of the Arabic language is crucial for avoiding such pitfalls.
+
+**Question: "what do you mean you mean the language as it was in the time of Quran that's resd completely reserved besid most of the Quran explain itself like the word vi is use in five six meanings I have that in the book of listing all of them and analyzing them" (1395.679s) **
+Category: Interpretation & Controversy
+
+**Answer:** The speaker reiterates that the Quran’s Arabic language is fully preserved and that the Quran itself explains its meanings through various words that have multiple interpretations. He refers to a book where he lists and analyzes the different meanings of a particular word in the Quran. 
+
+
+## https://www.youtube.com/watch?v=Pg78WU0GApE
+
+## Why is Saudi Arabia in trouble? 
+**Timestamp**: 0.04s 
+**Category**: Geopolitics
+**Answer**: The speaker asserts that Saudi Arabia is in trouble because they have been denied access to a certain resource. The denial is based on the belief that Saudi Arabia would use this resource for nefarious purposes, specifically to attack Yemen. The speaker suggests this is clear collusion, and not simply a coincidence.
+
+## What is the resource that Saudi Arabia is being denied?
+**Timestamp**: 1.319s 
+**Category**: Geopolitics
+**Answer**: The speaker does not explicitly state what resource Saudi Arabia is being denied. However, the context suggests it is a vital resource for warfare, possibly a type of military technology or aid. The speaker highlights the potential ramifications of Saudi Arabia acquiring this resource, suggesting it would be used for aggression in Yemen.
+
+## What is the concern about Saudi Arabia's intentions in Yemen?
+**Timestamp**: 3.32s 
+**Category**: Geopolitics
+**Answer**: The speaker believes that if Saudi Arabia were to obtain the denied resource, they would inevitably use it to attack Yemen.  This is based on the assumption that Saudi Arabia would not hesitate to use any means necessary to achieve their goals in Yemen, despite the potential for widespread damage and loss of life.
+
+## How could Saudi Arabia be prevented from using the resource against Yemen?
+**Timestamp**: 5.799s 
+**Category**: Geopolitics
+**Answer**: The speaker suggests that there are systems in place to prevent Saudi Arabia from using the resource against Yemen. These systems are likely surveillance and monitoring technologies that would track the resource's movement and use. The speaker implies that if these systems are not implemented, it would indicate collusion and deliberate inaction, further raising concerns about Saudi Arabia's intentions.
+
+## What is the significance of Saudi Arabia's actions regarding Yemen?
+**Timestamp**: 8.16s 
+**Category**: Geopolitics
+**Answer**: The speaker emphasizes the importance of preventing Saudi Arabia from using the resource in Yemen. They argue that the resource is essential for Saudi Arabia's operations in Yemen and that any attempt to use it could be catastrophic. The speaker suggests that Saudi Arabia's actions in Yemen are part of a larger geopolitical struggle and have significant consequences for the region and beyond. 
+
+## What is the speaker's perspective on the individuals who claim to be pro-Yemen and pro-Palestine?
+**Timestamp**: 85.64s
+**Category**: Geopolitics
+**Answer**: The speaker is skeptical of individuals who claim to be pro-Yemen and pro-Palestine but are actually supporting Iran's agenda. They believe these individuals are not sincere in their support for Yemen and Palestine and are instead using these causes to advance Iran's interests. The speaker suggests that these individuals are manipulative and ultimately do not have the best interests of Yemen and Palestine at heart.
+
+## What strategy does the speaker suggest for dealing with Saudi Arabia's involvement in Yemen?
+**Timestamp**: 161.76s
+**Category**: Military Strategy
+**Answer**: The speaker suggests a strategy of attacking Saudi Arabia from the rear, focusing on key areas such as the Air Force Base at Kam and targeting supply lines. This strategy aims to destabilize Saudi Arabia's operations in Yemen,  limiting their ability to wage war and effectively forcing them to withdraw.
+
+## What is the speaker's ultimate goal regarding Saudi Arabia's presence in Yemen?
+**Timestamp**: 200.2s
+**Category**: Geopolitics
+**Answer**: The speaker believes that Saudi Arabia should be forced to withdraw from Yemen, allowing the Yemeni people to determine their own future. They suggest that after Saudi Arabia's withdrawal, Yemen should hold elections and establish a government that represents the will of the people. The speaker believes that this is the only way to achieve a lasting peace and ensure the stability of Yemen.
+
+## How can Saudi Arabia be further pressured to withdraw from Yemen?
+**Timestamp**: 218.84s
+**Category**: Military Strategy
+**Answer**: The speaker proposes targeting Saudi Arabia's economic interests by destroying their oil pumping stations in Yemen. This strategy aims to cripple Saudi Arabia's financial capacity to support its military operations in Yemen and force them to withdraw due to unsustainable costs.
+
+## What is the specific target for disrupting Saudi Arabia's oil production?
+**Timestamp**: 240.959s 
+**Category**: Military Strategy
+**Answer**: The speaker identifies the "R-Nora" pumping station as a primary target for disrupting Saudi Arabia's oil production. The speaker believes that destroying this station would significantly impact Saudi Arabia's ability to export oil and generate revenue, weakening their military and economic capabilities. 
+
+## What is the significance of the speaker's statements about the impact of destroying the pumping station?
+**Timestamp**: 254.28s
+**Category**: Military Strategy
+**Answer**: The speaker assures that destroying the pumping station would have minimal environmental impact, as the oil would remain safely in the ground. The strategy aims to disrupt the flow of oil, not to cause environmental damage. By targeting the pumping station, Saudi Arabia's financial capacity would be significantly hampered, forcing them to withdraw from Yemen. 
+
+
+## https://www.youtube.com/watch?v=lJ8sFCLh0zI
+
+## 251.0s :  Please could you give us an update on Palestine? 
+**Category:** Palestine
+
+The speaker provides an overview of the events surrounding the anniversary of the 7th of October 2023 when Hamas launched a surprise attack against Israel, which they call the Glorious 7th of October. The speaker talks about the Israeli response, the involvement of the US, and the current state of the conflict. They also discuss the role of Iran and other countries in the conflict. 
+
+## 3807.96s :  In terms of the as is an anniversary the situation of the Arab lands uh Arab Thrones do you think it's becoming even more and more precarious what's oh this if any every the Victor comes all of these will lose the justification of the existence they will be exposed they will expose what they are filthy miserable evil criminals and agents of the of the Zionist of the West and all the past that they are working for the um and they want to revive it but they have to work slow they have to conclude the temporary peace all of this will be exposed because we know most of the regime not all of them most of the regime are just British and then American implants and they have they have even they don't have even the destiny in their hand look at Jordan for example some people say Jordan announced that they will participate in any American attack against Iran obviously they have to say that because American told them we are going to use your space you just say it's with your permission and your order or against your will say whatever you want and it's clearly that they canot say the American are forcing us we don't have any power then the people will know that this regime is just a shadow of itself and they will Rebel immediately so the best for them to gain some time and they think maybe they think we get a longer time but they don't think so because the wife of abdah for example is the country and they say she's selling jewelry and buying real estate in America so they they're buying some place that to live most likely so I advise him really package and go quickly I just let let that go to that that is they they are there for almost a c no more than a century I think Abdullah was implanted there yeah about 20 1924 25 yeah it's almost a century enough is enough just leave just leave and that's that's the one which is clearly exposed and everyone knows even Western anist say commenting on his statement in the United Nation we say will never accept that the palestin will be expelled to to Jordan say not to accept or reject is not in his power and everyone in the Arab world and also in the westernland no this is man the Arabs all agree that he's a traitor so he has no place in history not so clearly with Al and so but they will be clear bahini are very clear but it's is the tiny country not elevance it exist only because of Sai National Guard giving protection there and now they're demonstration ongoing there uh we'll see what the Iraqi government which is the puppet of the Americans is now in a in a very Troublesome situation if they move against the resistance front the people will slaughter them if they don't move the American pariz them I think they they would be this this one will collapse they be removed and the same apply for for Saudi Arabia andat on that subject the dogs of Al they're stoking up sectarian Rec rhetoric any any recommendations for us in the da sphere which is just just say okay okay you are the sun with come show us in the show what to do in the battlefield you have longer time than for example are in power longer than the Irani revolutionary fine you are long much longer power and you have much more oil and you have long time to develop your industry and your facilities where it is you had a longer time to to get ready to confront this F the brother of Muhammad is from another mother but they share the same father this said in a tweet a couple of years ago we have commenting on that that India is now become a major industrial power competing all coming close to to uh to to China uh he said we have missed 40 years in which we could have develop to our industrial power like India and China and he's right I responded to him with a nasty tweet but anyway that's the time to wish the content of that nasty response but they're admitting that they know that so where it is show correct a clearly you busy with something else not fighting for Islam not being Muslims not helping Muslim it's just oppos you're doing the opposite undermining getting getting Muslims everywhere if possible subdued and H you were with G against Sudan you fought against Al abdah and then with Al abdah against sometime with the some against the what do you want what do you think you are that's all I wouldn't I wouldn't involve very much if there is some maybe maybe we'll make a structural response to some of these people who are playing the secretan card to show more detailed aspect but for shabab I think just don't get to engaged I personally think I some of these maybe in a dedicated video and that's it okay but there is there is Merit in exposing for example so so basically it's it's politically charged because look look none of us agrees with what with what happened in Syria etc etc however this is a different scenario yeah yeah but we we we'll we'll get to that other we Arabic very very detailed response to that but maybe in the English domain we need some better maybe one video or something we okay I'll move to question answers this will we got a number that been submitted uh by message okay there's one this one that's been pending for a while this is on the subject of uh free mixing I mean you can probably dismiss this as you feel um there's a somebody just sent these evidence Abu da V4 Hadith number 5274 it is narrated upon the authority of Abu Ansari that he heard the messenger of Allah say when he saw people mixing together in the street oh men and women separate yourselves it is not allowed for you to be in the same place another one in Abu da it is rated from I Omar that he said the prophet prohibited men from walking between two women in abuth number 52 yeah it is narrated do not walk between women and third number four AB the prophet married me at seven and we had a relationship at 9ine and when I moved to Medina some women prepared me for the wedding and they they nor I never mixed with men in the in a in a house of women the women receiv received me and Men received the prophet and then we went to the house that's we we we we'll see all of these but the one who who brought is want to show that there evidences if he has theth with with their number and so on is he is he not able to give the isnad well he's just given this Hadith the the numbers Hadith without is is is just blah blah blah blah let him go and get the discuss it man by man I will show you where is the problem with all okay so so basically from your research from before it's about the you you I know all of these I know say but I'm not going to comment until he does some effort and get thatth with not okay this was submitted some time ago and it was just literally just a screenshot from Facebook so yeah doesn't doesn't work this way you have to do a little bit more work for that yeah thing is this is publicly accessible stuff so the finding the is isn't going to be besides this the translation where is the Arabic and in all Arabic there's no word mix or something like that the one with the street yes that's one uh I will tell you that that one now because I have done something in that a couple of years ago all others have very old hat anyway and weak isnad and broken and so on the one of the St is that the narration says that the messenger of Allah exiting for the Masid so women and men going along the street and he said addressing Roman is not for you to to be in the middle of the road go to the side of it it's some kind of traffic regulation but when we check the isad it is only one channel of narration to this sahabi and the one narrator or the one narrator from the alleged narrator is a man who is his is very interesting he he is a man who is obsessed with woman to such a level that he prayed to Allah that's the that's the story in and in the books of of men and their their certification he prayed to Allah to take his eyesight so he said he became blind so he's so extreme in that point that he blinded himself because we know that's this is this is the effect and then said then he said that blindness was too heavy for we pray to Allah to remove the blindness and became seeing again so if someone is like that in matter because because he don't want to see woman he's attracted to woman if someone is like that how which guarantee we have that this Hadith he he did not hear it from his she while awake maybe he so with in a vision or in a dream or he dreamed that he hear if someone is so obsessed that's a story in the book of and there's no other chel in the word this one that's an example the others even worse no that's no no the well established which are solid is that is being in seclusion this theith well established even the Hadith of travel we once discussed it casually I don't know in Arabic podcast the of no woman who believe in Allah should travel more than three days and a verion say two days it's the same story it's the one story it's a famous called and theth the full narration which clarify everything is that the messenger of Allah was talking in addressing and then he said addressing someone who a man obviously most likely a man so came home and found his wife with with one man from qur and then he felt a little bit strange and he mentioned that to Allah said your wife is a good woman this is what come in your mind is not correct but then he stood in the p and say no one should go to a woman who husband is not present except in the company of another man or two other men and then a man stood now story of the travel a man stood say Allah I have register myself in is famous mention the narator not remember the man he did not say this that most like and but my wife went into to to makah for or for for most or something like that so talking about seclusion so the man from this context if you read it carefully the man said my wife went and she went alone nobody with her and the travel to meccah will be several days it'll be overnight some part of it overnight she has to sleep the night in some side of the road but along the way there will be stretches and PES where she's alone and maybe one single man passing there would be a situation of almost certainly because this is the road of Haj there would be people going men and woman but it could happen and there reason we expect that uh that uh that uh that uh at night a man may be nearby at night is like a seclusion or a day she's resting to roadside and single man comes there and and settle next to her there will be a seclusion because nobody up to the Horizon there and there and this is seclusion seclusion is the place where you could have intercour with your wife essentially safely and this is in the open desert is possible if you look from the beginning of the road miles away and front nobody is there and such stes are easily available at the time so what to him go cancel your registration for the go and perform or with your wife that's the oration of Abbas Abbas was there he he it he was present he was sitting under the ppit and so on and this is the one which is was the source which people span various but this has to be studied obviously other our way of studying structure that's all that's there so even the travel and is not because of travel on and not even like IM Malik said because of security issues no it's because of is that's the only one that's the only one and many other things you find in barari no woman believe in there travel more than two days and one version of three days and shows the wavering show you that the narrator did not memorize properly they did something and did something like that that's only one this occasion only referring to that that story and it is related to seclusion that's the only thing anyway those are it's good if this person will will get us the the ask someone who knows Arabic to get to get the the the issue with with the the mar of and so on because this is Contra contradicting the later action of he they he asked and said they went to a wedding and say did you have some music or someone hting the drums and so on and it's known that in the wedding proc at the time men and women were mixing and they going and they call Za getting the the bride or the groom to usually the bride is there I don't know what happen in Medina because some countries the the the bride is is taken to the groom house and in N for example the groom is coming to the to the bride house and spending the first night at her father's house in hij the groom comes for the dinner and wait and pick her at the near dawn or late at night and take her to his home it depending but they come in in a group of people usually mixed and there's no Hadith which say Don't Go mixed or something like that that's encouraging to have drums and music and so on and he even mentioned some poetry of the an the love this PO poetry and so on that's in bukari so you have to scan all these Hadi you don't get couple of fa from Abu and ignore the other Hadith which is better in isad and better narrated and in other books ofth okay but this is just quick a quick something like that just mentioned Hadith without knowing the full wording all channels of narration how reliable the narration what's the problem of that Etc is is it only a single narration for this alleged occasion by the way it's well established that the messenger of Allah said once to to if we would separate men and woman in Doors door of the M because they were mixing at the door just because most likely men were more powerful and pushing woman aside that's the reason because Arab before Islam also be doings quite rough and not not polished not really that civilized whatever civilization mean and but he did not make another door was only one door and later in time of om when he extended the M he made the door dedicate for woman the door dedicated for men so time of Omar understood that would love to have the woman most obviously they were going at the same time and this men are almost like who were pushing woman and so on rushing out some people are rushing out for their work and business and things like that so this issue of and has has become like like a like a a nightmare haunting some people's brain because they have been conditioned over generation the same La what we we see that now happen in in Afghanistan with it became obsessive I mentioned that the source of obsession especially in I mentioned the famous laughable story of that 700 years ago I think this mentioned in the fwa fwa and so on I think or some other major book and that one she said the woman is that's obviously the word used in or for woman meaning shame or something which need to be covered or a private part and uh when she goes out this is this is narrat and some people some weak narrator lifted up to the prophet and if he goes out the devil is waiting okay and then the best for her and then the The Scholar said the best for her best cover for this is either husband or the grave and then one of the stud ask him she which is my the best cover of the two say the grave so this obsession is there and it fits the tribal mentality of Afghanistan and you see even what they call the scholar ABD who is like the Chief Justice there there there he has some tweets so he lived in the 21st century and he has tweets 50 tweets they they collected 52 they call Jewels or pears from these 50 or 40 something 25 about about three weeks so it's an obsession it's understandable some historical reasons some tribal origin some one some tribes are more than others in that area yeah that's that's that's well known but it does not make it Shar issue ald is well defined Quran first and and will establish especially in issues like that which obviously certain tribal background certain issues like that we have to be more scrutinizing than otherwise yeah we have to be more scrutinizing otherwise okay I've got a backlog of questions from somebody who's asked a while back okay one of them um just I'll just go through them very quickly Allah's messenger said God has 99 Names he hasn't given a reference 100 names less than one he said and he said he who will enter Paradise what's the meaning of if you're familiar the scholars are disputing that for hundred count them linguistically some people say just counting them is does not to make you really entitled for what meaning count them understand their meaning and act accordingly so then you get in the habit of make everything you do you look for Allah mercy and so that means you have fulfilled all IM it's it's it's one of the Hadith which is really interpretation and even the reliability is questionable all of that most likely it's something which is deliberately kept obscure so the people try to struggle with the meaning of definitely not just counting 1 2 3 4 5 that can't be the meaning by necessity of reason and Sh so understand them and respond accordingly so like if you if you it is one of the is is jaar the compell then you know that you are under Allah's absolute control and you have to submit and be humble Etc things like you have to be the opposite you have to be meek you have to be submissive to Allah because he's the compell canot be Jabar because for human being and for a created being jabarut is a negative for Allah it is positive things like that the response will be this and this and this and this yeah okay you want to say something um on the 99 Names of Allah even the Hadith that is in most of the book it just says for Allah there are 99 names and then it says but one of theth which then starts to say that is mud it's only a sub narrator who came up with those 99 names it's not the Hadith or the statement of wasallam so until this day we actually do not know all the N or nobody has actually compiled that in a way extracted from Quran and Sunnah because what they have done is some of the names that don't exist they have they've taken the F and from the action they have dered a name and Associated that to Allah and if we do that we come up from the Quran and Sunnah with like hundreds of names I strongly believe that's not the right approach because for example when Allah says he is they have to extract the name for that from the door file like and associated name to Allah and I think that's not right to extract Nam talk such a name like that is not good no yeah so for that reason the Hadith that mentions the names of Allah it's called mudra which is uh yeah it's the it's one of the sub narrator has attempted with all good intention to come up with the names and it's not the statement of wasallam and people make a mistake because half the Hadith isah the other half even I think it's IM th he at the botom he mentioned that this is um this is just a statement of a sub narrator and it's not found definitely there's no doubt that is M but to add that even that the Hadith is the body of the there's a question mark because we have the other Hadith which it's better establish every name of yours which you have read in your book or reserved it in in the in the hidden with you so they Divine names which is reserved for Allah the only one who knows them some them may be not knowable for any finite people so so this will be much more than 100 so there's a question mark about the whole Hadith anyway I I wouldn't get stuck with you have enough Divine names to the Quran just use them mention them make them for Dua like what the Quran says said Muhammad tell us he has only one God and he's supplicated to two Gods because he was saying in his Allah so he's supplicated to two de because of the with stupidity or just most likely just just just stubbornness but they should know that Allah has very Allah maybe they should I don't know maybe they so maybe like a solo like donkeys do not even understand that Allah may have multip names I don't know or multiple attributes anyway so ET in the Dua that's it so I wouldn't I wouldn't really spend much energy in that honestly there is this if you want to De the meaning it extract from them action and behavior and Fe and and spiritual States go to the Supreme the Supreme uh Target in in explaining or exes of the of the beautiful names IM Al gazali gazali yeah this will be sufficient I don't bother about 100 or million or trillion yeah okay um got some more submitted okay another one uh is watching Pro pornography prohibited absolutely regardless of its negative consequences that's what I've received no I I don't I don't know what what does the question that's what he said is watching prohibited pornography prohibited the issue is that um is clearly looking at is deliberately is is prohibited and exposing is even worse that's concerning as also exposing intercourse is is is an act of Shan you have to cover up for intercourse you don't do inter course in public all even if it's because most likely because because that people describing what happened them between their wife even verbally is not desirable or Haram okay it's it's most like Haram because said this is like a Shan who is doing intercourse with the Shan in publicly from that is that was in disregarding what what effect and he means that some people argue maybe for that because it has negative effects that's what that's what arguing from from what what lead what whatever it is for the the uh prohibiting by the called what leads to undesirable is or harmful is Haram and the question what does it mean leads by certainity and things like that that's an point so it's it question is not clear he said is it prohibited in itself or because it leads to some that's be question because it leads and doesn't lead is not is is not an argument until you prove either from text or from necessity of reason and perception that it leads there it may not lead for example some some may was something was something sexually exciting let's say pornography or imagine imagine your mind and for masturbation for example is that desirable undesirable just imagine it close his eye and imagine set a nice position and masturbate let let him answer that depending think about masturbation correct Point View it is it's no problem but even even that closing imagining that some have a viid fantasy and to each things they they imagine a certain position and so on so the pro prohibition here is in looking to the to the the the question was as discussed is it is it is looking at the picture of or the video of is looking like directly to or not is it is the picture of or not that's the point and and there's various issues there because the believer believing men women are ordered to to lower their gaze and if they see if they suddenly see like Allah what to do the sudden look you enter you push the door of the toilet and there's a woman there you don't know that she is inside then you see the Look Away close the door that's it but if you go there and look deliberately then you are looking into theat that would be because of the the various a and so on is prohibited because looking to private person people and their privacy is prohibited because someone was looking from the between the the the house of prophet was partly made out of like African huts with these these leaves woven leaves and there's some gaps and someone one man was looking through the gaps the almost punched his eye with with with a with with a long big needle and then he saw him the door what you doing here looking at that why why Allah ordered to make a to knock on the door to prevent looking to a to look to privacy so that's from that is looking at but real and so is a movie made besid most movies are usually made with with with c and so on assuming no believer participating such movies question is the hour of C the same like believer most likely you should not look at that you should prevent being in public so it's PR to look at that anyway would I I I don't understand why many people ask about that too much well it's obviously and if if you need it for masturbation use a good oil and cream and close your eyes and have nice imagination if it's if it helps okay we like to shy away from controversy here no it's not matter of controversy matter of simple question people made it complex the reason for this is becoming a big issue recently is that said the picture of is not and the Muslim Brotherhood went country up country down druming say you can look at you can watch pornography and so on and some shabab developed it further and looking into pornography and going to pornographic movies and so on I would say just just exercise good sense okay yeah I mean in this in this case I mean ultimately I can look there is an endemic problem especially with social media people with mobile devices there's many many examples of the youth you know even even Society even Kfar haven't recognized it there's even for example there's a famous um psychologist not psychologist neuroscientist examining the the detrimental impact on on this on people's psychologies in terms of relationships and all this kind of stuff even the kufar are recognizing that the detriments of it but the point is so so what I'm saying it's not it's not because of because his hasn't been relevant for 20 years it's because it's we're living in a society which is very promiscuous and the availability of this kind of mon on on devices on internet etc etc it's going to become it's going to affect everyone regardless of even if they're even remotely not Islamic it's going to affect our Generations that's that's I can see the merits of asking the question yeah so I agree in this case on the side of is what your what your recommendation is yeah and masturbation itself not being an absolute is not being there's no evidence to prohibit it so I guess s oh definitely definitely not no definitely definitely not I mean ultimately as a community make marriage easier is probably the best solution here yeah yeah obviously burn your the stupid culture the culture which makes it difficult to marry and but but there should in in in in a society ruled by by by Islamic law there will be no production of of definity of pornography definitely not this will require Zena and so on and there will be no selling or distribution because of prohibited material and and this is that done as a criminal act and they the LA will manage how to punish the people doing that and then they but you cannot prevent the people in the way of kuf to do that and broadcasted in television so can advise the people this a pornographic Chanel don't watch it say it has good news broadcast okay after the news shut it down and everyone with common sense will do that yeah so this became WID spread because of the decadence and the and the general easement in in matter of extra military relations and then both both a normal relation and homosexual relations and then became then then people started displaying that because they already for example in the west when they talk about pornography and so on you have already agreed that Zen is okay you call it love and then you agreed later to make also homo homosexual s sodic relation okay call it the other love so what's the problem of displaying it and having pictures and having movies no problem it's already permissible for you so so even they here discussion they discussing the wrong point of view the problem Start From Start zero that's where the problem started in time P there was barely any pornography when people were chased and most most women for example and until the end of the first world war almost every American woman 100% went into woodlock and she was virgin after the second world war only 60 46% were virgin so 50 were Al virginity within 30 years and after that now it's even catastrophic there's barely any there was one one girl she's virgin she said she is willing to to offer her virginity at again whatl or something for a million dollars and they were they were they were like an auction Facebook because he want to fin study became so Rarity that she's auctioning it things develop into a moer but the starting point is really that that extra relations are okay and then sodic relations are okay so then the issue of so the people in the west discussing por this damages and so on it's just just plowing in the sea it will lead nowhere the problem started there okay another question I'm not sure I mean look I I I get these questions and I ask them just as they are this this is an obvious one some somebody asked is lesbianism prohibited and what the evidence is to prohibit it yeah but the evidence is that because the the woman or you mean lesbian is a meaning meaning obviously women and women the the sexual action yeah that that's it yeah yeah no no no brushing it will be touching and and seeing the and the of include also the the strict from that from that point on for men is different there's a clear a clear clear statement the Quran for men for male that's a clear this is very clear but for woman it's only the issue of because it's necessar connected with seeing the and touching the yeah because of that cool so I got a following question from the same brother because what about non-muslims a do they have a especially if they explose themselves to publicly what is their a is is which is that because the for the believing Muslim men and woman is a honor is not is not because of anything physiological so for for Muslim woman most likely her body is not except the six genitals like from half the the that's what what in the in the AY concerning ta when they were naked in J and was send in the nth year with the caign read by Abu Bakr nth year and announced prohibiting to although it was part of their belief that's some kind of a devotion so it is interfering in their belief but never the less publicly you don't expose the and that was for men the genitals six genitals and woman a little bit more from half the thigh up to below the the G line essentially the hip hip and all the way to half the the knee the half the the thigh that cannot be exposed and that will be enforced by this the state by force if necessary for everyone otherwise that's all you can conclude from the I think we discussed that casually when we were at the not I think number 6 when Allah say now this because it's so it applies to two without the gender both male or female and the Ayah says you have to um punish them until they sorry you have to confine them until they um they repent yeah um so um so maybe you can expl expand on that because that would be applicable to um ladies and male L it maybe but the question you remember when we were at that if you read that session I said there are details of there which I don't want to indulge in it is it is it man and woman or is it and excluding the married woman who are who are married and they will be locked in the houses that's for married woman and then uh and then because it talks about so it's about inter so the the strongest point of view is that it talks about man and woman and the woman is not is not married because if she's married then the previous Ayah one a before is looking for Life till the death uh overtake them yeah and what is this referring to those who committed from woman then have four Witnesses but then the witness bring a prop witness which stand in a court of law then they are imprisoned at home or prevented from going until they die and then except those woman anybody else the man and the a woman who has not married etc for these they will be they they will be just just either insulted verbally or or flogged or something like that is not specified it seems to be this this ay just came after that when and both are abrogated by the AY of rajim and and and fling and then rajim has been Abate after that and flogging with has been modified to just flogging with but this is very deep but I think is almost certainly referring because talking about andah must be defined before and the case of woman and so is clearly fah meaning intercourse because you have to four Witnesses witness like like the usual detailed WI that they saw it they s the real intercourse you see my point so this is a detail of f which is I wouldn't really waste much time in that unless you are doing F or trying to drive a law for punishment final and so which can be done by the sh in the but the scholars discuss something it is man with man but doesn't work this way it could work for man with man also then it will give a punishment which has not been abated from man with man because this isah itah yes defined by was and that's that's that's the only evidence Quran that the man man relation is is because Allah pred allit all and this this speciic characteristic for Muhammad so the old prohibition of of sodomi is still valid reenacted by the by the general prohibition of f in the hand of otherwise we have no other by the way there's Noth about about sodomi or there's one or two that are most likely fabricate there tons of poor which everyone knows they fabricate but the even there's not Hadi about penalty and so that claim that Abu Bakr stoned someone or throw it from even that it's not valid yeah but that's prohibited definitely based on that Allah described for the people of of of L that they committing and they're doing evil acts and definitely are all prohibited by generally whatever is declar to be a it is prohibited mhamad must have prohibited by necessity just by mere being sent to prohibit allish and to prohibit all uh which is sexual immoralities in the narrow sense and and to prohibit to to to prohibit all all evil things yeah okay I got a brother wants to unmute um okay so too quick yes the brother want to unmute our brother with a Gmail account far away I was going to ask the question of what is your definition of an idol of an Idol idol yes Idol is is you mean which is having a shape of animal or shape man or something like Idol is is a statue which is supposed to refer or be a place of dwelling of a an entity which regarded as the F and I have another question uh that's that's that's what make statue an idol for example in book of do do you speak Arabic you read Arabic one second let me allow to unmute um yes bra can you answer the question no no no of course the chapter six when when we discussing the story of ibraim ibraim told his people what is this Tam this statue are devoted to they said they answered him you are mistaken this is not Idol meaning supposed to be connected to and the body of a certain deity those deities are for people of IIM we know they are the heavenly bodies and stars and some of them also satanic entities deep in the earth theim so Idol is AAL or a picture which has a human or animal form and the human body animal head and so on representing an deity if something which is not a of a living thing like head of animal body of or an shape of human or shape of animal with human or an animal with lion head or the lion with with with human head Etc uh that is if it's not like that like the cross that's Swan Wan is not so every Idol is wan but Wan is something general it's ID an idol or a symbol representing a a false Creed a Sher like the cross why the cross is an is a w some people could call it Idol but it's not it should not be called Idol it's SW the symbol of a belief that because the cross is a symbol of the the Christ dying on the cross to save Humanity from or or take them out of the clutches of the devil or or or or all of these are CER beliefs and this that's the reason the course is an idol it's a I don't know what but in in the in the Arabic language there's a clear distinction between and but this in the book of in chapter is much details which is not yet in the translation unfortunately okay braad if you got any following questions far away if not um next brother sad I advise everyone really to to go who who can read Arabic to go to the book of as available the 10 first chapters and these definitions are not in the first volume which is in Amazon not yet no unfor it will comes later not even the next one the next one will be only evidences of profood and so on it will come to the volume number three possibly insh good okay thank you okay bra can you hear me yes we can yeah I have two questions regarding what's happening I have a question regarding the who did not make his uh this week uh do you have any news about him or maybe he was contacted by to play a role because they are lacking of uh of leaders uh this is my first question and the second question is uh let me yeah let me answer this one first I have no idea I was wondered why he is not this Friday maybe he he is that your your options are reasonable ones especially the second one will be a good one if he's contacted this will be good that they coming to sense regarding that the sh is an asset uh my guess is that he decided not to give this time so that he doesn't need to comment on the matter because if he will comment he will be a little bit critical for the past and Advising things and he felt this maybe not the right time to do it Poss it could be that that he in a place which had been bumped Allah we don't know it could be very well that he mured why not but you don't know so then may Allah Elevate his yes I I don't I know that it is a very good idea to put him as a leader because he can move forward the sectarian thing which is between Sunni and Sh absolutely absolutely I agree with you but this is this is a dream hopefully maybe we should dream if Iran has moved forward this sectarian ideas and this uh hopefully we can only make Dua in that anyway we discuss that inan issue in more detail insh what's the second question yes my second question is I saw I I come from Moroccan origin and I saw today there is a March a demonstration for one year for and uh we saw uh hundred of thousand of people pictures of is Yassin and even fuad Sher so it was really good thing to see but the thing maybe I am too young to understand I want to ask you this question
+
+## https://www.youtube.com/watch?v=tN-3XE5j6CU
+
+## What’s the situation with the Israel-Gaza conflict?
+
+**Timestamp:** 2.56s 
+**Category:** Conflict
+
+**Question:** How are the Israelis trying to split the conflict? 
+
+**Answer:** The Israelis are trying to divide the conflict into two separate battles, one in the north and one in the south, to confuse the Palestinians and gain an advantage.
+
+## What is the situation with the roads in Gaza? 
+
+**Timestamp:** 5.08s 
+**Category:** Conflict
+
+**Question:** Is the road visible from satellites being used by the Israelis? 
+
+**Answer:**  Yes, the road is visible from satellites. The Israelis are using this road, and it's being targeted by Palestinians with rockets.
+
+##  How are the Israelis controlling Gaza?
+
+**Timestamp:** 9.96s 
+**Category:** Conflict
+
+**Question:** Are there videos and reports showing that Israel has complete control of Gaza? 
+
+**Answer:** No, the speaker believes Israel does not have full control of Gaza. Videos and reports indicate that there is ongoing conflict and Israel has failed to take full control of the region.
+
+## What is the situation with the Gaza border?
+
+**Timestamp:** 37.84s 
+**Category:** Conflict
+
+**Question:** How are the Israelis attempting to control the border with Gaza? 
+
+**Answer:** The Israelis are using settlers to prevent aid supplies from reaching Gaza, despite the presence of the Egyptian border. This is a new tactic.
+
+##  What is happening in the West Bank? 
+
+**Timestamp:** 353.28s 
+**Category:** Conflict
+
+**Question:** Is there any recent news on the West Bank?
+
+**Answer:** The speaker suggests that there is a rise in tensions in the West Bank, leading to increased conflict between Palestinians and Israeli settlers, potentially escalating to a full-blown conflict.
+
+##  Who is leading the fight against Israel? 
+
+**Timestamp:** 383.759s 
+**Category:** Conflict
+
+**Question:** Did Hamas achieve a strategic victory in the current conflict? 
+
+**Answer:** Yes, the speaker believes that Hamas has achieved a strategic victory.  They managed to inflict significant damage on the Israeli military, forcing them to retreat and suffer a significant defeat.
+
+## Who is the American politician the speaker is criticizing?
+
+**Timestamp:** 174.08s 
+**Category:** Politics
+
+**Question:** What statement did Biden make about the Middle East and why is the speaker upset? 
+
+**Answer:** Biden reportedly stated that he would not hesitate to kill women and children if he were in the same position as Yasser Arafat, a statement the speaker finds offensive and indicative of Biden's genocidal tendencies.
+
+## How will the collapse of Ukraine affect the Middle East?
+
+**Timestamp:** 269.32s 
+**Category:** Politics
+
+**Question:** Will the conflict in Ukraine impact the Israeli-Palestinian conflict? 
+
+**Answer:** The speaker believes that the collapse of Ukraine is imminent and will force a negotiation or a nuclear war. This will also significantly impact the Israeli-Palestinian conflict.
+
+## Why is the speaker against the Israeli attacks on Gaza?
+
+**Timestamp:** 334.72s 
+**Category:** Conflict
+
+**Question:** What is the reason for the speaker's opposition to the Israeli attacks on Gaza? 
+
+**Answer:** The speaker fears that an Israeli attack on Gaza will result in a violent backlash and potentially escalate the conflict. They also believe the Israelis are planning to push Palestinian refugees to Cairo, where they would be confined to an open-air prison. 
+
+
+## https://www.youtube.com/watch?v=DSYPjsy94QI
+
+##  What type of Ribba is mentioned in the Quran? 
+**Category:** Islamic Finance 
+**Timestamp:** 19.72s
+**Summary:** The speaker, referring to a video by M ABD, asserts that the Ribba (interest) discussed in the Quran is a form of oppressive loan sharking using gold and silver as currency. This type of Ribba, according to the video, was prevalent in ancient societies where there was a limited supply of gold and silver, leading to states engaging in wars to acquire more. 
+
+## What word does the Quran use to describe the type of Ribba it condemns?
+**Category:** Quranic Terminology
+**Timestamp:** 108.52s
+**Summary:**  The speaker questions the source of the claim that the Quran specifically uses a word for a particular type of Ribba. They point out that this assertion appears to come from a video, not a direct reading of the Quran, emphasizing the need to verify such information from reputable sources.
+
+##  What is the Quranic perspective on taking interest?
+**Category:** Quranic Interpretation 
+**Timestamp:** 146.319s
+**Summary:**  The speaker draws attention to a Quranic verse that condemns even the slightest amount of interest. They then discuss the potential implication of this verse, suggesting that taking interest could weaken hearts and make people greedy. This, however, is a debatable interpretation and the primary message of the verse remains the prohibition of interest itself.
+
+##  Is compounded interest prohibited in Islam?
+**Category:** Islamic Finance 
+**Timestamp:** 186.599s
+**Summary:** The speaker tackles the question of whether compounding interest is the only type of Ribba prohibited in Islam. They suggest that, while compounded interest might be the main focus,  the Islamic prohibition against Ribba encompasses a broader range of interest-based practices.
+
+##  Does Islam encourage giving loans?
+**Category:** Islamic Finance 
+**Timestamp:** 207.599s
+**Summary:** The speaker discusses the perspective that if someone gives a loan expecting an increase in wealth, it's not considered Ribba. However, this is contradicted by the Islamic emphasis on not profiting from the money of others. The emphasis is on helping others in need, rather than seeking personal gain through lending.
+
+## How does Islam address the practice of compounding interest?
+**Category:** Islamic Finance
+**Timestamp:** 238.48s
+**Summary:** The speaker explains how compounding interest functions, highlighting how it's calculated on the principal amount plus accumulated interest. This practice is deemed prohibited in Islam due to its exploitative nature. 
+
+## What is the Islamic perspective on exchanging goods of unequal value?
+**Category:** Islamic Finance 
+**Timestamp:** 357.919s
+**Summary:**  The speaker discusses a dispute among companions of Prophet Muhammad about the exchange of goods of unequal value. This exchange is deemed permissible if it involves immediate transactions where both parties agree to the difference in value. However, the speaker emphasizes that this principle does not apply to situations where the value difference is based on delayed payment or an attempt to extract interest.
+
+## Why is exchanging a commodity for itself considered a more severe form of Ribba?
+**Category:** Islamic Finance
+**Timestamp:** 568.0s
+**Summary:** The speaker clarifies that exchanging a commodity for itself, especially money for money, is considered a more severe form of Ribba. This practice is seen as directly extracting interest without any real exchange of value.
+
+## What constitutes a "currency" in Islamic finance?
+**Category:** Islamic Finance
+**Timestamp:** 589.8s
+**Summary:** The speaker argues that the Ribba prohibition extends beyond gold and silver. They explain that any commodity meeting certain criteria, like being a stable and renewable store of value, can be considered a currency. This includes goods like wheat, barley, dates, and even milk and salt.
+
+## What is the underlying principle behind the Islamic prohibition of Ribba?
+**Category:** Islamic Finance
+**Timestamp:** 641.88s
+**Summary:**  The speaker emphasizes that the core principle behind the prohibition of Ribba is the idea that exchange should be based on the actual value of goods, not on the expectation of interest. This principle applies to commodities with both intrinsic value (like food) and those used as currencies for exchange. 
+
+##  Why is gold considered a better form of currency than shells? 
+**Category:** History of Currency
+**Timestamp:** 681.0s
+**Summary:** The speaker explains that gold became a preferred currency over shells because its consistent properties, like being readily made into coins, made it easier to measure and standardize transactions. 
+
+## Is the current banking system compatible with Islamic finance?
+**Category:** Islamic Finance
+**Timestamp:** 719.8s
+**Summary:** The speaker asserts that the current banking system, with its reliance on paper currencies and interest-based loans, is fundamentally incompatible with Islamic principles. They argue that the current system allows for the creation of money out of thin air and contributes to economic instability.
+
+## How can Muslims avoid the pitfalls of the current banking system? 
+**Category:** Islamic Finance
+**Timestamp:** 797.88s
+**Summary:** The speaker proposes a solution for Muslims to avoid the pitfalls of the current system by using gold as a basis for contracts. They suggest that loans could be made in gold ounces, with both the principal and interest being settled in gold at the end of the contract period. This method, however, faces challenges due to government restrictions on gold transactions. 
+
+##  What is the Islamic perspective on installment contracts?
+**Category:** Islamic Finance 
+**Timestamp:** 989.759s
+**Summary:** The speaker distinguishes between installment contracts and mortgages, arguing that the latter is not a genuine installment contract. They argue that mortgages involve a debt between the borrower and the bank, while the house remains in the bank's ownership. The speaker suggests that an Islamic alternative could involve a full purchase of the house by the borrower, followed by a resale to them.
+
+## What is the fundamental reason for the Islamic prohibition of interest?
+**Category:** Islamic Finance 
+**Timestamp:** 1111.12s
+**Summary:** The speaker goes beyond the common explanation that interest is wrong because it involves exploiting the money of others. They emphasize that the real issue lies in the long-term devaluation of currency that interest encourages. The pursuit of interest leads to the creation of excessive money supply, ultimately devaluing the currency and hurting the economy.
+
+## What is the Islamic perspective on dealing with debt?
+**Category:** Islamic Finance
+**Timestamp:** 1909.36s
+**Summary:**  The speaker discusses the historical context of debt in pre-Islamic societies. They point out that debtors could even be sold into slavery to repay debts. They then emphasize that Islam abated this practice and introduced a system based on fairness and compassion.
+
+##  Why is the analogy of loan sharking relevant to modern finance?
+**Category:** Islamic Finance
+**Timestamp:** 1948.919s
+**Summary:** The speaker suggests that the analogy of loan sharking, while seemingly from the past, remains relevant to modern financial practices. They argue that the current system, with its excessive interest rates and debt-driven economy, shares similarities with the oppressive practices of loan sharks. 
+
+##  What is the issue with drawing a line on what constitutes excessive interest?
+**Category:** Islamic Finance
+**Timestamp:** 1959.0s
+**Summary:**  The speaker questions the feasibility of setting a clear limit on what constitutes excessive interest. They argue that there's no objective standard and any attempt to define a limit would likely be subjective and open to interpretation.
+
+
+## https://www.youtube.com/watch?v=wvu8JUpnd1s
+
+## 19.279s: US Politics & Biden's Future 
+**Question:** Is Biden going to continue his campaign for presidency?
+**Answer:** The speaker believes Biden is likely to withdraw his candidacy due to his recent health struggles, specifically the incident where he collapsed during a debate. His party, the Democrats, seem to be in panic mode, as they recognize his inability to effectively campaign. Despite the public's generally forgiving nature, the speaker believes Biden cannot recover from this incident and survive the election campaign. 
+
+## 20.68s: Trump's Recent Events & Assassination Attempt
+**Question:** What are some of the major events that have recently occurred in the US, specifically those affecting Trump and the political climate?
+**Answer:** Two major events have transpired: Biden's health struggles, which have benefited Trump, and an alleged assassination attempt on Trump. The assassination attempt is still shrouded in mystery, with reliable analysts investigating the details. The incident is attributed to a major failure in the Secret Service, who are responsible for protecting important figures like ex-presidents. The speaker expresses distrust in the FBI's involvement in investigating this attempt, due to their history of collusion in similar cases.
+
+## 29.24s: Democrats in Panic Mode
+**Question:** What is the state of the Democratic Party in the midst of these recent events?
+**Answer:** The Democratic party is described as being in a state of panic due to Biden's declining health and ability to campaign. They are increasingly concerned about the upcoming election and the possibility of losing the presidency.
+
+## 45.6s: Biden's Resignation 
+**Question:** What is the speaker's prediction for Biden's future in the presidency?
+**Answer:** The speaker predicts that Biden is likely to announce his resignation, potentially even from the presidency. This prediction is based on the perception of Biden's inability to continue in office due to his health issues.
+
+## 72.2s: Impact of Biden's Struggles on Trump 
+**Question:** How has Biden's recent decline in health affected Trump's political standing?
+**Answer:** The speaker states that Trump has directly benefited from Biden's health struggles. Trump has used the situation to his advantage by capitalizing on Biden's weaknesses and gaining momentum in the political landscape.
+
+## 82.92s: The Assassination Attempt on Trump
+**Question:**  What details are known about the alleged assassination attempt on Trump?
+**Answer:** The assassination attempt on Trump is shrouded in mystery. While there are analysts investigating the incident, no concrete information has been released. The speaker identifies a significant failure in the Secret Service as a contributing factor, highlighting the lack of security around Trump. 
+
+## 100.799s: Secret Service Failures & FBI Involvement
+**Question:** What were the specific shortcomings in security during the assassination attempt on Trump? 
+**Answer:** The speaker claims that the location where the shots were fired was incredibly insecure, with no one guarding or controlling the area. This leads them to believe there was either serious negligence or potentially collusion involved in the attempt. The speaker also expresses concern about the FBI's involvement in the investigation due to their history of manipulating similar cases.
+
+## 143.28s: Possible Collusion in the Assassination Attempt
+**Question:** Are there any suspects or theories about potential collusion in the assassination attempt on Trump?
+**Answer:** The speaker notes that despite the lack of clarity, there are some who suspect collusion in the incident. This is particularly concerning given the involvement of the FBI. However, the speaker finds it strange that the alleged shooter, a 20-year-old with no known connections, would be involved in such a high-profile attempt.
+
+## 160.48s: The Motivation of the Alleged Shooter
+**Question:**  What is known about the 20-year-old alleged shooter and his motives?
+**Answer:** The speaker highlights the lack of information regarding the 20-year-old shooter's motives. The speaker notes that the shooter is seemingly unconnected to any prominent individuals or organizations.  
+
+## 175.519s: Lack of Clarity in the Assassination Attempt
+**Question:** What is the current status of the investigation into Trump's assassination attempt?
+**Answer:** The speaker emphasizes that the investigation remains unclear, with no definitive answers regarding the motive behind the assassination attempt. The FBI's involvement raises concerns about potential manipulation of the investigation, with many questioning their credibility. 
+
+## 199.879s: Trump's Role in the Assassination Attempt
+**Question:** Is there any evidence that Trump orchestrated the assassination attempt on himself?
+**Answer:** The speaker dismisses the idea of Trump orchestrating the assassination attempt, deeming it extremely unlikely given the severity of the situation. The speaker emphasizes that the attack was genuine and resulted in casualties, making self-inflicted harm illogical. 
+
+## 202.44s: Unlikely Motive of the Shooter
+**Question:** Why might a young person have targeted Trump in an assassination attempt?
+**Answer:** The speaker finds it highly unlikely that the 20-year-old shooter was motivated by any personal vendetta against Trump or any political agenda.  There is no evident connection between the shooter and Trump or any political affiliations, making the motive unclear. 
+
+## 228.319s: Political Landscape & Trump's Reelection 
+**Question:** What are the speaker's predictions for Trump's reelection?
+**Answer:** The speaker predicts that the recent events, including the assassination attempt, are likely to bolster Trump's chances of reelection. He believes the public will sympathize with Trump and view him as a stronger candidate. However, the speaker acknowledges that a strong Democratic candidate could still pose a threat to Trump's victory.
+
+## 261.04s: Republican Conferences & Nomination
+**Question:** What significant political events took place during recent Republican conferences?
+**Answer:** The speaker discusses the Republican conferences where Trump was nominated as the party's presidential candidate. This was considered a formality, given Trump's previous primary win.  
+
+## 273.56s: Trump's Running Mate
+**Question:** Who is Trump's running mate for the presidential election?
+**Answer:** Trump's running mate for the upcoming election is a man named Vance, who is known for his strong Zionist views and anti-Muslim stance. Despite this, Vance is against the war in Ukraine and advocates for a peaceful resolution, even if it means Ukraine's potential loss.
+
+## 296.24s: Netanyahu's Desperate Situation & Assassination Attempt
+**Question:** What is the current situation with Israeli Prime Minister Netanyahu and what significant events have occurred?
+**Answer:** Netanyahu is in a desperate situation, facing significant political pressure. An alleged assassination attempt against him, involving a drone strike on a refugee camp where he was meeting with his deputy, further complicates his situation. The speaker believes this event to be highly unlikely, as it makes little sense for Netanyahu to be above ground during a potential attack.
+
+## 311.4s: Netanyahu's Assassination Attempt
+**Question:** What was the nature of the alleged assassination attempt on Netanyahu?
+**Answer:**  Netanyahu claims he was targeted in a drone attack while he was in a refugee camp with his deputy.  However, the speaker finds this account nearly impossible, highlighting the lack of logical reason for a leader to be above ground in such a vulnerable situation.
+
+## 340.6s: Doubt About Netanyahu's Assassination Attempt 
+**Question:** What is the speaker's level of confidence in the veracity of the alleged assassination attempt on Netanyahu?
+**Answer:** The speaker expresses near-absolute certainty that the alleged assassination attempt on Netanyahu is a fabrication. They believe the claim is a tactic for political gain, emphasizing that there is no logical reason for Netanyahu to be in such an exposed location.
+
+## 347.4s: Security Breaches in Netanyahu's Assassination Attempt 
+**Question:** What are the security implications of the alleged assassination attempt on Netanyahu?
+**Answer:** The speaker highlights the alleged assassination attempt as a major security breach, as there's no reason for a leader to be exposed in such a way. The speaker emphasizes that this incident exposes serious weaknesses in security procedures, especially in the face of potential drone attacks. 
+
+## 395.88s: Aftermath of Netanyahu's Alleged Assassination Attempt 
+**Question:** What has been the reaction to the alleged assassination attempt on Netanyahu?
+**Answer:** The speaker mentions that there has been a public outcry demanding an investigation into the alleged assassination attempt. However, the speaker anticipates that any investigation will be unproductive and will likely result in a cover-up.
+
+## 407.759s: Information Gathering Through Drones
+**Question:**  How has Hamas been able to gather intelligence and map Israeli targets? 
+**Answer:**  The speaker notes that Hamas has recently been able to successfully send drones into Israeli airspace, which they couldn't previously locate or take down. This has allowed them to map out key locations and obtain valuable intelligence on strategic targets.
+
+## 429.72s: Hamas' Strategic Advantage
+**Question:** What are the implications of Hamas gaining information about Israeli targets?
+**Answer:**  The speaker emphasizes that the data collected by Hamas is a significant strategic advantage. They can use this information to launch more targeted attacks, potentially impacting Israel's defenses. The speaker believes this information will benefit both Hamas and their allies, including Yemen. 
+
+## 445.36s: Internal Israeli Conflicts & Netanyahu's Position
+**Question:** What internal conflicts are occurring within Israel, and how are they affecting Netanyahu's leadership?
+**Answer:** The speaker highlights a growing divide between the Israeli military and civilian leadership, with Netanyahu facing increasing pressure. This conflict is exacerbated by the ongoing tensions with Hamas and the perceived need for a symbolic victory. Netanyahu's desperate attempts to secure a win are further weakening his position.
+
+## 472.879s: Netanyahu's Quest for Victory
+**Question:** What kind of victory is Netanyahu seeking to secure his position?
+**Answer:** Netanyahu is determined to obtain a symbolic victory to consolidate his power. The speaker mentions that Netanyahu is considering an invasion of Lebanon, although this is a challenging option.  
+
+## 480.4s: Israeli Military's Recent Admission
+**Question:** What has been the Israeli military's recent admission regarding the conflict?
+**Answer:** The speaker points out that the Israeli military has recently acknowledged significant losses, specifically confirming casualties of tanks and personnel carriers, which were previously only reported by Hamas. This admission demonstrates the extent of the Israeli military's difficulties in the conflict.
+
+## 507.8s: Hamas's Changing Tactics
+**Question:** How has Hamas's strategy evolved in the ongoing conflict? 
+**Answer:** Hamas has shifted its approach in the conflict, moving away from close-range attacks to utilizing mortar fire and other tactics. This change focuses on creating confusion and forcing Israeli soldiers to disperse, making them vulnerable to sniper attacks and other ambushes.
+
+## 549.36s: Casualties in the Ongoing Conflict
+**Question:** What is the approximate daily death toll in the conflict? 
+**Answer:** The speaker states that according to reliable sources, approximately 10 Israeli soldiers are killed daily. This information, while not always officially confirmed, indicates the significant toll the conflict has taken on the Israeli military.
+
+## 572.76s: Control of the Gaza Crossing
+**Question:** Who currently controls the Gaza Crossing?
+**Answer:** The speaker explains that the Gaza Crossing is mostly controlled by the Egyptians, with limited Hamas presence. The speaker notes that Netanyahu, through a propaganda tactic, visited the crossing and claimed to have secured control, highlighting the political nature of this control.
+
+## 596.76s: Skirmishes & Verbal Conflicts
+**Question:** What has been the nature of recent confrontations between Yemen and Israel? 
+**Answer:** The speaker describes the recent confrontations as primarily verbal, involving threats and disagreements over financial and other issues. However, this tension escalated when Yemen launched a drone attack against Israel.
+
+## 615.48s: Yemen's Surprise Action & Drone Attack
+**Question:** What was the nature of Yemen's surprise action that caught Israel off guard? 
+**Answer:** Yemen launched a surprise drone attack on Israel, which caught Israeli defenses unprepared. The speaker states that Yemen successfully sent multiple drones, with only one being lost and the others successfully reaching their target. 
+
+## 641.36s:  Israeli Response to the Drone Attack
+**Question:** What was the immediate response of Israel to Yemen's drone attack?
+**Answer:** The speaker describes the drone attack as causing significant headaches for Israel, as it exposed vulnerabilities in their defense systems. While the explosion caused by the drone was relatively small, the speaker believes it targeted a military complex or other strategically important location.
+
+## 692.36s: Public Reaction to the Drone Attack
+**Question:** What was the public reaction to Yemen's successful drone attack on Israel?
+**Answer:**  The public in Israel expressed shock and confusion, questioning the effectiveness of their defense forces. The speaker believes this attack will likely further undermine public confidence in the government's handling of the conflict. 
+
+## 703.32s: Netanyahu's Response to the Drone Attack
+**Question:** How did Netanyahu respond to the drone attack from Yemen? 
+**Answer:** The speaker believes that Netanyahu saw the drone attack as an opportunity to launch retaliatory strikes.  He retaliated by bombing a refinery, oil storage facilities, and an electrical generation station in Yemen. 
+
+## 728.32s: Anticipation of a Counterattack
+**Question:** Did Israel anticipate Yemen's drone attack and their subsequent retaliation? 
+**Answer:** The speaker expresses doubt about Israel's ability to anticipate the attack, as the attack was a significant success for Yemen.  However, they believe that the retaliatory strikes against Yemen were likely pre-planned and meant to be symbolic, aiming to bolster Netanyahu's leadership.
+
+## 741.639s: Netanyahu's Need for a Symbolic Victory
+**Question:** What are Netanyahu's motivations behind launching retaliatory strikes against Yemen?
+**Answer:** The speaker believes Netanyahu's actions are driven by his desperate need for a symbolic victory to bolster his leadership. The retaliatory strikes, while ultimately ineffective, serve as a way to show force and maintain a facade of strength.
+
+## 753.76s: Incompetence of Netanyahu's Response
+**Question:** What are the speaker's views on the effectiveness of Netanyahu's response to the drone attack?
+**Answer:** The speaker views Netanyahu's response as foolish and ineffective, believing it will only escalate the conflict and exacerbate the situation.  The speaker believes the attack was planned with the knowledge of Netanyahu's desire for a symbolic victory, making it a trap.
+
+## 784.24s: Saudi Involvement & Yemen's Motivation
+**Question:** What might have motivated Yemen to launch a drone attack on Israel?
+**Answer:**  The speaker speculates that Yemen's attack was a response to Israel's recent strengthening of ties with Saudi Arabia.  They believe that Yemen views the Saudi regime as a threat and that by attacking Israel, they can potentially undermine the alliance and create an opportunity to retaliate against Saudi Arabia.
+
+## 801.88s: Saudi Arabia as a Target for Yemen
+**Question:**  Why might Saudi Arabia be a target for Yemen's retaliation? 
+**Answer:**  The speaker explains that Yemen has a strong motivation to attack Saudi Arabia due to their perceived support for the Yemeni government. By striking Saudi infrastructure, Yemen aims to inflict significant damage and send a powerful message. 
+
+## 836.44s: Potential Retaliation Targets in Saudi Arabia
+**Question:** What specific targets in Saudi Arabia might Yemen strike in retaliation for Israeli attacks? 
+**Answer:** The speaker identifies oil storage facilities and electrical generation stations as potential targets for Yemen's retaliation. These sites are considered vulnerable and poorly protected, making them easier to attack.
+
+## 852.639s: Public Recognition of Israeli Actions
+**Question:** What is the public perception of Israel's actions in Yemen, particularly the recent bombing raids? 
+**Answer:** The speaker believes that Israel's actions in Yemen, specifically the recent bombing raids, are widely known and recognized internationally. There is no denial of their involvement, and Israel has even boasted about their attacks. This public awareness will likely lead to retaliation from Yemen. 
+
+## 866.0s: Imminent Retaliatory Strikes from Yemen
+**Question:** What are the speaker's predictions for Yemen's immediate actions?
+**Answer:** The speaker anticipates that Yemen will retaliate against Saudi Arabia within the next few days.  They believe Yemen has gathered enough information and justification for a major counterattack, fueled by the recent bombing raids by Israel.
+
+## 889.72s: Saudi Arabia's Potential Punishment
+**Question:** What might be the consequences for Saudi Arabia if it is confirmed that they provided Israel with aerial refueling?
+**Answer:** The speaker suggests that Saudi Arabia could face severe consequences if it is confirmed that they allowed Israeli aircraft to refuel in their airspace. They believe that Yemen will likely retaliate with a major attack on Saudi targets, potentially resulting in the downfall of the Saudi regime.
+
+## 906.04s: Vulnerable Targets in Saudi Arabia
+**Question:** What makes specific targets in Saudi Arabia particularly susceptible to attacks? 
+**Answer:**  The speaker points out that oil storage facilities and electrical generation stations in Saudi Arabia are highly vulnerable due to their outdated technology and lack of robust defenses. These facilities rely heavily on coal and are poorly constructed for handling attacks. 
+
+## 926.68s: The Next Targets for Yemen
+**Question:** What targets in Saudi Arabia are likely to be attacked by Yemen?
+**Answer:** The speaker predicts that Yemen will target Saudi Arabia's oil storage facilities and power generation stations in retaliation. These vulnerable and poorly protected targets are considered prime for attack and represent a critical component of Saudi infrastructure. 
+
+## 944.639s: Israeli Miscalculation & Yemen's Advantage
+**Question:** What potential errors did Israel make that might have led to the current situation? 
+**Answer:** The speaker believes that Israel may have miscalculated the situation by failing to anticipate Yemen's response. They believe that Yemen has taken advantage of this miscalculation and has established a strong position to retaliate.
+
+## 957.319s: Benefitting from Israeli Actions
+**Question:** How will Yemen benefit from Israel's recent actions? 
+**Answer:** The speaker believes that Yemen is now in a stronger position to launch counterattacks, thanks to Israel's recent actions. These actions have provided them with a clear reason for retaliation and have exposed vulnerable targets within Saudi Arabia. 
+
+## 972.48s: The Trap Set for Netanyahu
+**Question:** How has the current situation created a potential trap for Netanyahu?
+**Answer:** The speaker believes that Yemen has intentionally provoked Netanyahu into launching a counterattack, knowing his desire for a symbolic victory. This attack has provided Yemen with a justification for retaliation and a clear opportunity to exploit Israel's weaknesses.
+
+## 985.399s: Ballistic Missile Attacks Against Iran
+**Question:** What recent events have occurred in Iran? 
+**Answer:** The speaker mentions that ballistic missile attacks occurred in Iran, targeting specific facilities. Although claims of interception were made, local witnesses reported significant explosions, suggesting some missiles may have been successful. 
+
+## 1000.48s: Significance of the Attacks on Iran
+**Question:**  What is the speaker's view on the significance of the ballistic missile attacks on Iran?
+**Answer:** The speaker considers these attacks on Iran to be less important than the overall conflict. The attacks are seen as a minor footnote to the larger conflict, which will not be resolved quickly.
+
+## 1010.24s: Netanyahu's Upcoming Address to Congress
+**Question:** What plans does Netanyahu have for his upcoming visit to the US?
+**Answer:** Netanyahu is scheduled to address the US Congress on the 24th, but there are rumors that he may postpone this visit due to the escalating conflict.  The speaker believes this is unlikely and that Netanyahu will leverage the opportunity to secure American support for any potential actions against Lebanon.
+
+## 1014.16s: American Support for Israel
+**Question:** What is the level of American support for Israel in the current situation?
+**Answer:** The speaker highlights the strong support for Israel from the US, specifically from Democratic members of Congress who view Israel as a key ally. They believe that the US is willing to provide extensive support for any Israeli actions against Lebanon. 
+
+## 1042.0s: Biden's Passivity & Democrat's Desire for Action
+**Question:** How is Biden's administration responding to the escalating conflict, and what are the motivations of the Democrats involved?
+**Answer:** Biden is described as being passive and ineffective in responding to the crisis. The Democrats, however, are eager to take action, believing this could benefit them in the upcoming election. They are desperate to achieve some sort of success in the Middle East to shore up their position before the election.
+
+## 1071.64s: Incentives for the Democrats
+**Question:**  What are the motivations for those close to Biden, such as Lincoln J. Sullivan, to take action in the conflict?
+**Answer:** The speaker believes that those close to Biden, particularly figures like Lincoln J. Sullivan, are eager to take action in the Middle East to secure a political win before the election. They hope that by showing success in the conflict, they can bolster their own positions and secure a continued role in the administration after the election.
+
+## 1091.44s: Political Gains from the Conflict
+**Question:** What political gains are the Democrats hoping to achieve through involvement in the conflict?
+**Answer:** The Democrats are seeking a victory in the conflict to showcase their strength and effectiveness to the American public. They believe this will strengthen their position and help them secure votes in the upcoming election.
+
+## 1111.44s: Importance of the Conflict for the Democrats
+**Question:** Why is the conflict in the Middle East so important for the Democrats' political ambitions?
+**Answer:** The speaker believes that the conflict in the Middle East provides the Democrats with a rare opportunity to achieve a significant political win. They cannot easily gain traction in the upcoming election without any tangible accomplishments, making the conflict a crucial stage for demonstrating their capabilities. 
+
+## 1127.679s: Expectation of an Attack on Lebanon
+**Question:** What is the speaker's prediction for the next phase of the conflict?
+**Answer:** The speaker predicts that Israel will launch an attack on Lebanon in the coming weeks. This prediction is based on Israel's need for a symbolic victory, the strong American support for Israel, and the potential for political gains for the Democrats through a successful operation. 
+
+## 1151.0s: Challenges Facing Israel in the Coming Weeks 
+**Question:** What challenges might Israel face in the coming weeks?
+**Answer:** The speaker believes that the first few weeks of any attack on Lebanon will be difficult for Israel.  They expect Israel to face significant resistance and potentially suffer heavy losses.  This is due to Israel's failure to launch a preemptive strike, which would have given them a significant advantage.
+
+## 1164.28s: Importance of a First Strike
+**Question:**  What is the strategic importance of a first strike in a conflict?
+**Answer:** The speaker emphasizes the importance of launching a first strike to gain a strategic advantage in any conflict. They believe that by failing to act first, Israel has placed itself at a disadvantage, allowing their opponents to launch a preemptive attack and potentially causing greater damage.
+
+## 1183.4s: Defense Through Offense
+**Question:**  What is the speaker's perspective on the relationship between offense and defense?
+**Answer:** The speaker highlights the principle of defense through offense. They believe that the best defense strategy is often a preemptive attack, as it allows for the disruption of an opponent's plans and reduces the potential for damage.
+
+## 1196.28s: Iran's Restraint in the Conflict 
+**Question:**  What factors are influencing Iran's level of involvement in the conflict?
+**Answer:** The speaker notes that Iran has been hesitant to launch a full-scale attack in Palestine. Their actions have been limited to indirect support for the Palestinians, potentially waiting for an attack on Lebanon before launching a major intervention.
+
+## 1209.72s:  First Strike Advantage in the Conflict 
+**Question:**  What is the speaker's prediction for the outcome of a first strike in the conflict?
+**Answer:** The speaker believes that the party launching the first strike in the conflict will be able to inflict significant damage, even if they cannot completely eliminate their opponent. They expect the first strike to result in significant losses and casualties, but the outcome will likely depend on the specific tactics employed. 
+
+## 1225.039s:  Predictions for the Upcoming Two Weeks 
+**Question:** What are the speaker's predictions for the next two weeks in the conflict?
+**Answer:**  The speaker predicts that the next two weeks will be crucial in the conflict, with increased tensions and potential for major escalations. They expect Israel to launch an attack on Lebanon, with potential counterattacks from Iran and Yemen.
+
+## 1235.72s:  Confirmation of Saudi Involvement
+**Question:** What is the speaker's view on the confirmation of Saudi Arabia's involvement in the conflict? 
+**Answer:** The speaker highlights the importance of confirming Saudi Arabia's involvement in providing aerial refueling for Israel. If this is proven true, it will have serious consequences for Saudi Arabia, potentially leading to a retaliatory attack from Yemen.
+
+## 1251.72s:  Saudi Arabia's Fear and Denial 
+**Question:** What is Saudi Arabia's response to the allegations of providing refueling to Israeli aircraft?
+**Answer:** The speaker notes that Saudi Arabia has immediately denied any involvement, expressing fear of the potential consequences. They have attempted to deflect blame by mentioning unnamed Arab countries who might have provided assistance, but their denial is considered suspect.
+
+## 1272.919s:  Potential Downfall of the Saudi Regime
+**Question:** What are the potential consequences for Saudi Arabia if their involvement is proven?
+**Answer:** The speaker believes that if it is confirmed that Saudi Arabia provided assistance to Israel, it could lead to their downfall. Yemen might launch a major retaliation, leading to the collapse of the Saudi regime. 
+
+## 1285.44s:  Israeli Defeat in Gaza
+**Question:** What is the speaker's assessment of the current situation in Gaza? 
+**Answer:** The speaker believes that Israel has lost the conflict in Gaza and has no chance of winning. They see this as a definitive defeat for Israel, with their only remaining hope for a victory lying in Lebanon. 
+
+## 1295.12s:  Israeli Plans for Lebanon 
+**Question:**  What are Israel's current plans for Lebanon? 
+**Answer:** The speaker mentions that some within the Israeli military believe they can still achieve a victory in Lebanon, potentially through a swift and decisive attack. This strategy aims to capitalize on Lebanon's vulnerability and achieve a quick win to salvage something from their losses in Gaza.
+
+## 1303.919s: Netanyahu's Strategic Approach
+**Question:** What is Netanyahu's strategy for garnering support in the upcoming conflict?
+**Answer:** Netanyahu is focusing his efforts on portraying the conflict as a battle against Iran. He hopes to drum up support for his actions by emphasizing the threat posed by Iran and potentially winning over the US Congress to his side. 
+
+## 1318.159s:  Iran's Potential Losses
+**Question:** What might be the consequences for Iran if they are drawn into the conflict?
+**Answer:** The speaker believes that if Iran becomes directly involved in the conflict, they could suffer significant losses. They would be targeted by Israel and potentially other countries, leading to significant casualties and damage.
+
+## 1336.36s:  Saudi Airspace Usage Confirmed
+**Question:** What new information has come to light regarding Israel's use of Saudi airspace?
+**Answer:** The speaker confirms that Israel has admitted to using Saudi airspace for their recent operations. They claim to have informed the Saudi government beforehand, but the speaker believes this to be a mere formality and does not necessarily negate the violation of airspace.
+
+## 1366.72s:  Saudi Arabia's Denial of Airspace Use
+**Question:** How has Saudi Arabia responded to Israel's confirmation of using their airspace?
+**Answer:** Saudi Arabia has vehemently denied that Israel used their airspace, emphasizing that no Israeli aircraft were allowed to pass through. They maintain that this action did not happen and that any reports to the contrary are false.
+
+## 1398.4s:  Confirmation of Israeli Aircraft Movement 
+**Question:** What is the speaker's view on the available evidence regarding Israel's aircraft movement through Saudi airspace?
+**Answer:** The speaker believes that evidence exists indicating Israel's aircraft did indeed fly through Saudi airspace. This information, while denied by Saudi Arabia, is likely to be confirmed through various tracking systems and satellite imagery. 
+
+## 1413.76s:  Strategic Implications of Israeli Airspace Use
+**Question:** What are the strategic implications of Israel's use of Saudi airspace for their operations?
+**Answer:** The speaker highlights the strategic significance of Israel's aircraft traversing Saudi airspace.  This route is the most efficient, minimizing flight distance and fuel consumption compared to other routes.  However, it also represents a significant violation of Saudi sovereignty and a potential cause for conflict.
+
+## 1482.279s:  Shortest Route through Saudi Airspace
+**Question:** What makes the route through Saudi airspace the most strategic?
+**Answer:** The speaker emphasizes that the route through Saudi airspace is the shortest and most efficient for Israeli aircraft. It significantly reduces flight time and fuel requirements, making it the preferred option.  
+
+## 1518.44s:  Saudi Arabia's Complicity
+**Question:** What are the implications if it is confirmed that Saudi Arabia allowed Israeli aircraft to cross their airspace?
+**Answer:** The speaker highlights the potential for accusations of collusion if it is confirmed that Saudi Arabia allowed Israel to use their airspace.  This would further implicate Saudi Arabia in the conflict, potentially leading to escalated retaliatory actions from Yemen.
+
+## 1538.6s:  Saudi Arabia's Powerlessness
+**Question:** What is the speaker's assessment of Saudi Arabia's ability to respond to Israel's actions?
+**Answer:** The speaker believes that Saudi Arabia is effectively powerless to prevent Israel's actions, despite their denials.  They are forced to comply with Israel's demands due to their reliance on the US and the potential for more severe consequences if they resist.
+
+## 1561.279s:  Exposure of Israel's Actions
+**Question:** How will the information regarding Israel's actions be revealed? 
+**Answer:** The speaker believes that the truth about Israel's actions, including their use of Saudi airspace, will be revealed through various sources, including tracking systems and satellite imagery.  There is no way for Israel to completely conceal their actions. 
+
+## 1572.0s:  Confirmation of Israeli Airspace Use
+**Question:**  What is the current status of the information regarding Israel's use of Saudi airspace? 
+**Answer:** The speaker confirms that Israel's use of Saudi airspace has been officially confirmed, indicating that there is no longer any doubt regarding their actions. 
+
+## 1584.72s:  Warnings to Yemen
+**Question:** What warnings has the speaker previously given to Yemen? 
+**Answer:** The speaker states that they have repeatedly cautioned Yemen against trusting individuals who claim to be supportive of their cause but are secretly working with the Saudis. They believe these individuals have ulterior motives and will not truly act in Yemen's best interests. 
+
+## 1603.279s:  Yemen's Strategic Errors
+**Question:** What strategic errors has Yemen made in the past?
+**Answer:** The speaker highlights Yemen's strategic mistakes, particularly their reliance on external forces, including Emirati troops, who ultimately withdrew, leaving Yemen vulnerable. They also criticize Yemen's alliance with the Muslim Brotherhood, which they believe has contributed to their current difficulties.
+
+## 1666.039s:  Consequences of Wrong Choices
+**Question:** What is the speaker's view on the impact of making wrong decisions in life?
+**Answer:** The speaker emphasizes the importance of making sound choices, as wrong decisions can lead to negative consequences. They use Yemen's situation as an example, highlighting how their strategic errors have significantly weakened their position. 
+
+## 1674.88s:  Challenges for Attacking Yemen
+**Question:**  What are the challenges associated with directly attacking Yemen's forces?
+**Answer:** The speaker identifies the difficulty of launching a direct attack against Yemen's forces. They are protected by an air cover and are positioned in a flat, desert area with few natural hiding spots.  
+
+## 1688.559s:  Alternative Strategy for Attacking Yemen
+**Question:** What is the speaker's recommended strategy for attacking Yemen's forces?
+**Answer:** The speaker suggests a strategic attack on Yemen's forces from the back, utilizing their skill in mountainous terrain. They recommend targeting airbases and supply lines to weaken Yemen's position and create opportunities for further advances. 
+
+## 1705.399s:  Targeting Airbases in Yemen
+**Question:** What is the speaker's recommended target for a strategic attack on Yemen?
+**Answer:** The speaker believes that targeting Yemen's airbases, particularly those located in mountainous areas, is a strategic priority. They believe these airbases are vulnerable to attacks and have insufficient local defenses, making them a high-value target.
+
+## 1720.08s:  Liberating Abha and Avoiding Mistakes
+**Question:** What is the speaker's recommendation for the next phase of operations in Yemen? 
+**Answer:** The speaker recommends liberating the city of Abha and avoiding claims of territorial ownership. They believe focusing on strategic objectives and avoiding unnecessary complications will contribute to a more effective campaign. 
+
+## 1742.84s:  Cutting Off Supply Lines
+**Question:**  What is the speaker's suggestion for further strategic action against Yemen?
+**Answer:** The speaker advocates for cutting off supply lines from the back to weaken Yemen's position. They believe that by targeting support routes, they can significantly hinder their operations and potentially force them to retreat. 
+
+## 1753.559s:  Targeting Saudi Oil Infrastructure
+**Question:**  What specific infrastructure within Saudi Arabia should be targeted to weaken their support for Yemen?
+**Answer:** The speaker recommends targeting Saudi Arabia's oil pumping stations, particularly those in the Rannura region. They believe that by destroying these stations, they can significantly disrupt Saudi Arabia's oil production and ultimately weaken their ability to support Yemen. 
+
+## 1769.159s:  Targeting Rannura Oil Pumping Station
+**Question:**  Why is the Rannura oil pumping station a strategic target for disrupting Saudi Arabia's support for Yemen?
+**Answer:** The speaker identifies the Rannura oil pumping station as a key target for undermining Saudi Arabia's ability to fund Yemen. By destroying the pumping station, they can effectively halt oil production and significantly reduce Saudi Arabia's financial resources, thereby weakening their capacity to support Yemen. 
+
+## 1813.08s:  Focus on Palestine 
+**Question:**  What is the speaker's view on the current situation in Palestine and its immediate implications?
+**Answer:** The speaker believes that the situation in Palestine is not a top priority for immediate action in the coming weeks or months. They suggest a longer-term focus on the issue, while prioritizing strategic operations in Yemen and Lebanon.
+
+## 1823.76s:  Iraqi Resistance's Involvement
+**Question:** How might the Iraqi resistance be involved in the conflict?
+**Answer:** The speaker believes that the Iraqi resistance could potentially launch attacks from their border with Saudi Arabia, particularly if they perceive that Saudi Arabia is actively assisting Israel. They see this as a potential avenue for retaliation against Saudi Arabia for their perceived complicity.
+
+## 1835.48s:  Continued Attacks on Saudi Infrastructure
+**Question:**  What are the speaker's predictions for the future involvement of the Iraqi resistance?
+**Answer:** The speaker believes that the Iraqi resistance will continue to target Saudi infrastructure, specifically oil storage facilities and refineries. They consider this to be a legitimate response to Saudi Arabia's actions and believe that the Iraqi resistance has the capability to inflict significant damage.
+
+## 1859.519s:  Limitations of the Iraqi Resistance
+**Question:** What are the limitations of the Iraqi resistance in their current actions?
+**Question:** The speaker recognizes that the Iraqi resistance's capabilities are limited. They primarily rely on ballistic missiles, with a limited number of targets they can strike effectively. However, they believe that even a few well-placed strikes can significantly impact Saudi infrastructure.
+
+## 1884.44s:  Targeting Saudi Infrastructure
+**Question:** What are the speaker's recommendations for the Iraqi resistance's future actions?
+**Answer:** The speaker recommends that the Iraqi resistance focus their attacks on Saudi Arabia's oil
+
+## https://www.youtube.com/watch?v=tAS2QVjsBOs
+
+## 2.52s: Allah when created the mercy he... 
+**Category:** Creation
+
+**Question:** How did Allah create mercy?
+
+**Answer:**  The speaker explains that when Allah created mercy, he created 100 units of it. This is a metaphor, and not a literal number. 
+
+## 5.16s: created 100 Mercy obviously Mercy is a...
+**Category:**  Divine Attribute
+
+**Question:** Is mercy a divine attribute?
+
+**Answer:** Mercy is a divine attribute, meaning it is a characteristic of God. This is distinct from something being created.
+
+## 7.319s: Divine attribute is not created but this...
+**Category:** Metaphor
+
+**Question:**  Why is this a metaphor?
+
+**Answer:**  The speaker states that the 100 units of mercy is a metaphor to show the vastness of God's mercy. It's not meant to be taken literally.
+
+## 12.4s: m is 100 say 100 units or something like...
+**Category:**  Measurement
+
+**Question:** What does the speaker mean by 100 units?
+
+**Answer:**  The speaker doesn't define a precise unit of measurement for mercy, but uses the number 100 to represent an incredibly large amount. 
+
+## 15.16s: that and he broadcasted in the universe...
+**Category:** Distribution of Mercy
+
+**Question:**  How is mercy distributed?
+
+**Answer:**  The speaker explains that Allah distributed 99 units of mercy throughout the universe and kept one unit with him on the throne.
+
+## 17.64s: one of these 100 so 99 is kept on the...
+**Category:** Location of Mercy
+
+**Question:**  Where are the 99 units of mercy located?
+
+**Answer:**  The speaker explains that 99 out of the 100 units of mercy are distributed throughout the universe. The one unit is kept with Allah on the throne.
+
+## 22.72s: metaphorical obviously from this...
+**Category:** Metaphorical Interpretation
+
+**Question:**  Is the distribution of mercy a literal event?
+
+**Answer:**  The speaker reiterates that the distribution of mercy is a metaphor, not a literal occurrence.
+
+## 26.279s: one% all the mercy in the universe you...
+**Category:** Source of Mercy
+
+**Question:**  What is the source of mercy in the universe?
+
+**Answer:**  According to the speaker, the one percent of mercy kept with Allah on the throne is the source of all mercy in the universe.
+
+## 28.92s: see is coming from this one...
+**Category:**  Mercy Manifestations
+
+**Question:**  How do we experience this mercy?
+
+**Answer:**  The speaker suggests that we experience mercy through acts of kindness and compassion, even seemingly small gestures like a mother sheep protecting its baby. 
+
+## 31.599s: person including you see for example the...
+**Category:**  Examples of Mercy
+
+**Question:**  Can you give an example of mercy?
+
+**Answer:**  The speaker uses the example of a mother sheep lifting its leg to protect its baby from sound as an illustration of how mercy manifests in the world.
+
+## 37.48s: doesn't hear its baby that's from this...
+**Category:** Mercy's Origin
+
+**Question:**  What is the source of this mercy?
+
+**Answer:**  The speaker connects the mother sheep's act of protection to the one unit of mercy kept with Allah.
+
+## 39.719s: Mery from that...
+**Category:** Mercy's Extension
+
+**Question:**  How does this apply beyond Earth?
+
+**Answer:**  The speaker introduces the question of whether this mercy extends beyond Earth and if other galaxies and creatures experience it. 
+
+## 41.039s: what and this not only an Earth how do...
+**Category:**  Cosmic Mercy
+
+**Question:**  Does mercy exist in other galaxies?
+
+**Answer:**  The speaker asks if other galaxies have their own forms of life and if mercy is present there as well.
+
+## 43.96s: we know that these remote galaxies do...
+**Category:**  Extra-Terrestrial Life
+
+**Question:**  Do other galaxies have life?
+
+**Answer:**  The speaker acknowledges that the existence of life in other galaxies is not definitively proven.
+
+## 45.44s: not have other animals and creature...
+**Category:**  Diversity of Life
+
+**Question:**  Could other galaxies have different types of life?
+
+**Answer:**  The speaker suggests that other galaxies might have diverse forms of life, potentially different from what we know on Earth. 
+
+## 47.32s: almost certainly they...
+**Category:**  Life Beyond Earth
+
+**Question:**  Is it likely there is life in other galaxies?
+
+**Answer:**  The speaker believes it's almost certain that other galaxies contain some form of life.
+
+## 48.84s: have almost certainly there's a hint in...
+**Category:**  Quranic Evidence
+
+**Question:**  Does the Quran mention life beyond Earth?
+
+**Answer:**  The speaker mentions that the Quran hints at the existence of life in the heavens, implying creatures made of similar material as humans. 
+
+## 51.0s: the Quran that in the heavens is full of...
+**Category:**  Quranic Description
+
+**Question:**  What does the Quran say about life in the heavens?
+
+**Answer:**  The speaker quotes the Quran, stating that the heavens are full of creatures made from a similar material as humans.
+
+## 52.6s: the of creature which have made out of...
+**Category:**  Material Composition
+
+**Question:**  What are these creatures made of?
+
+**Answer:**  The speaker clarifies that the creatures mentioned in the Quran are made of a material similar to humans.
+
+## 55.239s: material all like us
+**Category:**  Human Similarity
+
+**Question:**  What is the significance of this material similarity?
+
+**Answer:**  The speaker emphasizes that the creatures mentioned in the Quran are made from a material similar to humans, suggesting a connection. 
+
+
+## https://www.youtube.com/watch?v=MW_4N5-AtIc
+
+## Is it permissible to vote for a candidate who has views contrary to Islam? 
+**Category:** Islamic Jurisprudence
+
+3.36s:  Is it permissible to vote for a candidate who has views contrary to Islam, and does this indirectly legitimize kufr ideologies?  
+
+**Answer:** Voting for a candidate with views contrary to Islam is a complex issue. The speaker acknowledges the potential for indirectly legitimizing kufr ideologies, but emphasizes the need to consider the specific context and purpose of voting. He argues that if voting is done solely to punish a worse candidate, it might be permissible. 
+
+## Should we be considering a candidate's overall manifesto, rather than a single issue? 
+**Category:** Political Strategy
+
+21.4s: Should we be considering a candidate's overall manifesto, rather than a single issue they campaign on?
+
+**Answer:** The speaker emphasizes the importance of considering a candidate's overall manifesto, even if they campaign on a single issue. He argues that candidates, even those with a single-issue focus, will have a broader set of policies and plans they intend to implement. 
+
+## Is protest voting still kufr? 
+**Category:** Islamic Jurisprudence
+
+73.68s: Is protest voting still kufr? How can you conclude that without evidence?
+
+**Answer:** The speaker challenges the assertion that protest voting is always kufr. He argues that the nature of voting and its purpose should be considered. He explains that voting to punish a specific candidate, rather than endorsing their policies, might not be considered kufr. 
+
+## Does protest voting require a public declaration of intent? 
+**Category:** Political Strategy
+
+104.399s: How can a hardly noticeable protest vote by Muslims override the notion that voting must mean endorsement?
+
+**Answer:** The speaker highlights the need for clarity in protest voting. He argues that if Muslims are voting tactically to punish a candidate, they must make their intentions public and clear. This involves condemning the candidate's policies and explicitly stating that they are not endorsing their agenda. 
+
+## Can tactical voting be used to justify any action? 
+**Category:** Political Philosophy
+
+436.199s: This argument of yours can be used in every election, as people might vote for whomever to punish a certain candidate.
+
+**Answer:** The speaker acknowledges the potential for abuse of tactical voting. He emphasizes that it should be used strategically and with a clear purpose, and it shouldn't be seen as a justification for voting against anyone for any reason. 
+
+## Can we consider voting for a lesser of two evils? 
+**Category:** Ethics
+
+700.44s: If the right-wing candidate is problematic for Muslims, and the left-wing candidate has pledged to harm Muslims, is there a necessity to vote?
+
+**Answer:** The speaker discusses the concept of voting for the lesser of two evils. He argues that if a candidate explicitly threatens the Muslim community, it may be permissible to vote for another candidate, even if they are not ideal, to mitigate the risk of harm. 
+
+## Does the act of voting always imply endorsement? 
+**Category:** Political Philosophy
+
+731.8s: We are accustomed to seeing voting as a single act, but every action is fundamentally based on intention. 
+
+**Answer:** The speaker emphasizes that the act of voting is not inherently an endorsement. He argues that if a person is voting tactically for a specific purpose, such as punishment, and not for the candidate's agenda, then it is not necessarily kufr. 
+
+## What happens when people use Islamic arguments for their own agendas? 
+**Category:** Religious Practice
+
+1440.279s: The only people that are really affected by the halal meat issue are those who use it for their own agendas.
+
+**Answer:** The speaker criticizes the misuse of Islamic arguments for personal gain. He observes that some people exploit religious issues for bragging rights or to advance their own agendas, creating unnecessary conflict and division. He urges sincerity and direct discussion when engaging with sensitive topics. 
+
+
+## https://www.youtube.com/watch?v=-6e1F-DqE8o
+
+## 2.2s:  to you to devour you like people calling
+**Category:**  Psychology 
+The speaker is discussing the importance of believing in yourself and your cause and overcoming the fear of being defeated.  They compare it to an enemy devouring you like people calling you.
+
+## 5.359s: for for for the for for the faithful for
+**Category:**  Faith 
+The speaker discusses the importance of faith. It is necessary to be devoted to something and to have conviction. It is the key to success. 
+
+## 8.519s: food and shock is that because we are 
+**Category:**  Strategy 
+The speaker discusses a psychological tactic. The shock and fear of an enemy will be magnified by the fear of losing something. It causes the opponent to be hesitant to fight and more easily defeated.
+
+## 11.0s: few at the time so no you are plenty but 
+**Category:**  Warfare 
+The speaker states that even if your forces are outnumbered, it is more important to believe in your cause than to worry about numbers.  You must have conviction to be successful. 
+
+## 13.679s: you are like the form above the above
+**Category:**  Leadership
+The speaker is stating that a leader should be an example for their followers. This leader should have conviction and be able to instill confidence in their followers. 
+
+## 16.6s: River dry Valley running with water now 
+**Category:**  Metaphor 
+The speaker uses a metaphor of a dry river valley that is now running with water to illustrate how the lack of resources can be overcome.  It is important to focus on the potential of the situation instead of the current limitations.  
+
+## 19.279s: carries plenty of
+**Category:**  Warfare
+The speaker is discussing the importance of believing in yourself and your cause. It is critical to have faith in your strengths and to utilize those strengths to achieve your goals.
+
+## 22.8s: form and the the the the fear the fear
+**Category:**  Psychology
+The speaker is discussing the importance of having the mental fortitude to overcome fear.  It is crucial to have conviction in your abilities and beliefs to be successful.
+
+## 26.92s: from you is taken away from the heart of
+**Category:**  Psychology
+The speaker is discussing the importance of motivation. It is necessary to have the will to fight and not let the enemy get to you.
+
+## 29.0s: your enemy and the the weakness will be
+**Category:**  Psychology
+The speaker is discussing the importance of understanding your opponent.  The enemy will have weaknesses that you can exploit.  
+
+## 31.279s: put in your heart say what's the what's
+**Category:**  Motivation
+The speaker is discussing the importance of maintaining focus. It is necessary to keep your goals in mind to stay motivated to fight and overcome challenges.
+
+## 33.96s: this how what's
+**Category:**  Strategy
+The speaker is discussing the importance of having a clear strategy and understanding how to achieve your goals. 
+
+## 36.68s: weakness and hate of death you want to
+**Category:**  Psychology
+The speaker is discussing the importance of having the mental strength to confront fear. You must be willing to face your fears and not be overcome by them.
+
+## 39.719s: stay in D you don't want to fight you
+**Category:**  Psychology
+The speaker is discussing the importance of having the mental fortitude to fight. You must overcome your fear of death and be willing to fight to achieve your goals.
+
+## 41.76s: think fighting will exterminate you will
+**Category:**  Psychology
+The speaker is discussing the importance of having confidence. It is necessary to believe in yourself and your abilities to succeed.
+
+## 43.28s: finish you which is not true as proven
+**Category:**  History
+The speaker is discussing the importance of understanding history. It is necessary to learn from the past and recognize that defeat is not inevitable.
+
+## 45.399s: through history is not true but it is
+**Category:**  History
+The speaker is discussing the importance of learning from history. It is necessary to understand that even when things seem bleak, it is possible to overcome.
+
+## 47.399s: not that it's not true there not that
+**Category:**  Psychology
+The speaker is discussing the importance of having conviction in your beliefs. It is necessary to be confident in yourself and your abilities. 
+
+## 49.079s: everyone is convinced that's not true
+**Category:**  Psychology
+The speaker is discussing the importance of having faith in your beliefs. It is necessary to be able to convince yourself and others to believe in your cause.
+
+## 51.12s: and everyone is convinced that he can
+**Category:**  Leadership
+The speaker is discussing the importance of being a leader. It is necessary to inspire others to believe in your vision and to follow you.
+
+## 53.239s: that can he can achieve Victory either
+**Category:**  Victory
+The speaker is discussing the importance of believing in victory. It is necessary to have the faith that you can win, even when the odds are against you.
+
+## 55.399s: here or in you have to have conviction
+**Category:**  Motivation
+The speaker is discussing the importance of being motivated. It is necessary to have the will to succeed and to never give up.
+
+## 58.16s: have to willing to devote yourself
+**Category:**  Dedication
+The speaker is discussing the importance of being dedicated. It is necessary to be willing to put in the effort and to make sacrifices in order to achieve your goals. 
+
+
+## https://www.youtube.com/watch?v=kfKSNBSNdRk
+
+##  2.399s: What did the speaker want to create? 
+**Category:**  System Development 
+
+The speaker mentions that someone wanted to create a system. This system was intended to be Islamic and align with the teachings of Islam. It's suggested that this individual wanted to make this system as comprehensive as possible, within the boundaries of Islamic principles. 
+
+## 9.639s: What was the speaker's intention for the system? 
+**Category:** System Purpose 
+
+The speaker states that the person creating the system wanted to ensure it was "Islamic within the fairest possible borders of Islam."  The goal was to develop a system that adhered to Islamic principles while remaining inclusive within the scope of the religion. 
+
+## 23.119s: Why was the system considered “kufur" or violating Islam by some? 
+**Category:**  Religious Dispute 
+
+Some individuals considered the proposed system to be "kufur" (unbelieving) and violating Islam.  This suggests there were disagreements about the interpretation of Islamic principles and whether the system's implementation was aligned with those principles.
+
+## 28.0s: What was the speaker's perspective on the system? 
+**Category:**  System Evaluation
+
+The speaker implies that the system might have been "stretched" to accommodate various interpretations of Islam. The system might not be a true representation of Islamic principles and could be considered a compromise or adaptation to make it more acceptable. 
+
+
+## https://www.youtube.com/watch?v=MoPbr8J_K6k
+
+##  0.12s: What happened in the latest Israeli military operation? 
+**Category:** Military Operation 
+The speaker describes the Israeli Defense Forces' attempted invasion of Gaza.  They started an operation late on Thursday or Friday, aiming to take Gaza.  The operation was marked by heavy media coverage initially, but the media went strangely quiet around midnight.  Hamas claimed victory, stating that the operation was a failure, and that many Israeli soldiers and vehicles were destroyed.  They also indicated that one high-ranking officer, a Colonel, was captured.   
+
+## 147.599s: What was the human frog operation? 
+**Category:** Military Tactics 
+The Israeli military claimed a "human frog" operation, a type of special forces operation, targeting a specific location.  Hamas claims this operation was a lie, and that the actual number of soldiers involved was much smaller.  They also state that most of the soldiers were killed, with only a couple returning alive. 
+
+## 264.08s: How did the UN General Assembly vote on the Israeli-Palestinian conflict?
+**Category:** International Relations 
+The UN General Assembly voted for an immediate ceasefire between Israel and Hamas.  The vote was two-thirds in favor of the ceasefire, with the United States and some other countries voting against.  The speaker emphasized the symbolic value of the vote, as the Assembly has no power to enforce its decisions.
+
+## 313.88s: Why did the speaker say Israel is responsible for the conflict?
+**Category:** Conflict Analysis 
+The speaker argues that the attack on Israel on October 7th did not happen in a vacuum.  They state that Israel's actions in the past, including settlement building and ignoring UN resolutions, created conditions that led to the conflict.   They also mention the lack of implementation of UN resolutions condemning settlements as a major contributing factor.
+
+## 383.24s: What was significant about Erdogan's speech?
+**Category:** Political Rhetoric 
+The speaker highlights a speech by Erdogan at Istanbul airport, describing it as significant.  Erdogan's speech was marked by strong rhetoric, almost threatening a "new crusade" against Israel.  He also stated that Turkey doesn't owe anything to the West and is willing to fight if necessary.  While some believe Erdogan is using the speech for political gain, the speaker argues that it signals a shift in the rhetoric.
+
+## 508.12s: What is the current state of the conflict?
+**Category:** Conflict Analysis 
+The speaker suggests Hamas sees itself as victorious, having inflicted a significant blow to Israel.  The Israelis, in turn, are shocked and attempting to salvage their reputation.  The speaker describes the situation as a stalemate, with both sides claiming victory while facing challenges.
+
+## 615.279s: What is the US position on the conflict?
+**Category:** International Relations 
+The United States is attempting to limit the conflict to just Israel and Hamas, preventing it from escalating.  They are pushing for a ceasefire and peace, but the speaker argues that their true goal is to protect their strategic interests in the region.  They are attempting to keep Iran from intervening and prevent a wider conflict.
+
+## 670.32s: What are the possibilities for Iran in the conflict? 
+**Category:** Military Strategy 
+While Iran has formidable potential to cause damage, the speaker states that it's unlikely they can defeat Israel militarily.  However, there is a possibility that Iran could achieve a "partial victory" without significant sacrifice, although this is seen as naive by some.  
+
+## 696.079s: What is happening with the prisoner situation?
+**Category:** Negotiations 
+The speaker suggests there is a deal in the works to release all Palestinian prisoners in Israeli prisons.  This is seen as a major concession by Israel, and is likely the result of backroom negotiations.  However, many prisoners of war have already been killed in Israeli air strikes.
+
+## 769.68s: What is the likely outcome of the negotiations?
+**Category:**  Conflict Resolution 
+The speaker believes that the current negotiations will likely lead to a ceasefire and the release of all Palestinian prisoners.  They also predict that a new world order will emerge, with clear statements against settlements and the dismantling of existing ones.  However, the speaker expresses doubt about the long-term effectiveness of such an agreement, as it may be sabotaged by Netanyahu. 
+
+## 843.24s: What is the future of the conflict?
+**Category:** Conflict Outlook 
+The speaker believes that the conflict has reached a turning point, with Hamas achieving a military victory and the Israeli military image being tarnished.  They argue that Israel's reliance on unlimited Western support is unsustainable.  However, the speaker does not believe the conflict is over and anticipates a period of negotiation and potential escalation.  A possible regional conflict is a concern, but the speaker believes that it will ultimately lead to the defeat of the United States. 
+
+## 973.519s: Will Netanyahu be able to hold onto power? 
+**Category:** Political Analysis 
+The speaker suggests that Netanyahu's position is precarious.  He is facing pressure from within his own party, with some members advocating for a more aggressive approach to the conflict.  However, the speaker believes that Netanyahu may be able to maintain his hold on power due to the influence of his hardline supporters, who believe that the conflict should continue.
+
+## 1021.959s: What will be the impact of the conflict on Israeli society? 
+**Category:** Societal Impact 
+The speaker predicts that Israeli society will disintegrate, with a significant increase in emigration.  This, combined with economic and social instability, will weaken Israeli society.  While the speaker hopes for a decisive military victory for Hamas, they acknowledge the complex nature of the conflict and the potential for a wider regional war.
+
+## https://www.youtube.com/watch?v=lS997UMcgiI
+
+## 0.08s: Why is Allah's command considered supreme? 
+**Category:** Theology
+
+The speaker argues that Allah's command is the supreme law due to his status as a Supreme Being. This is based on the concept of the "necessity of reason," which dictates that Allah's command must be above all else for logical consistency. If it were not, it would contradict the very foundation of reason itself.  
+
+## 5.319s: How does the "necessity of reason" dictate Allah's command as supreme?
+**Category:** Philosophy
+
+The speaker asserts that the "necessity of reason" demands that Allah's command be the ultimate rationality. This means his command cannot be subject to any other law or principle, as it is the foundation of all rationality. Any other interpretation would lead to a contradiction and undermine the very concept of reason. 
+
+## 13.12s: What happens if Allah's command is not considered the ultimate rationality?
+**Category:** Logic
+
+The speaker suggests that if Allah's command is not the ultimate rationality, reason itself would collapse. This implies that a contradiction arises, creating a scenario where reason can no longer function effectively. To avoid this, reason necessitates the acceptance of Allah's command as the supreme authority. 
+
+
+## https://www.youtube.com/watch?v=u6uoYK57o84
+
+## How do you know that they were hiding in tunnels? 
+**Category:**  Military Tactics 
+**Timestamp:** 22.0s
+**Answer:** The speaker doubts the Israeli claim that Hamas fighters were hiding in tunnels.  They question how the Israelis would know this information, and suggest that it is just another lie.
+
+## What is the Israeli Army's current situation?
+**Category:**  Military Analysis
+**Timestamp:** 80.36s
+**Answer:** The speaker believes that the Israeli army is in a weakened state, having suffered significant losses. They argue that morale is low, and they are not capable of continuing the fight for much longer.
+
+## What are the two possible outcomes of the situation?
+**Category:**  Geopolitical Analysis
+**Timestamp:** 266.16s
+**Answer:** The speaker outlines two possible outcomes: 1) Netanyahu, blinded by his own ambitions, attacks Lebanon, potentially provoking Russian and American involvement. 2)  Netanyahu is forced to withdraw due to mounting pressure from both the military and the American government, leading to potential negotiations with Hamas and the possibility of a two-state solution.
+
+## Why is the situation in Yemen significant?
+**Category:**  International Relations
+**Timestamp:** 883.279s
+**Answer:** The speaker highlights the symbolic significance of Yemen's actions against American interests, which exposes the weakness of the American military. This action has led to the disintegration of the American coalition and has emboldened other nations to challenge American dominance.
+
+## What is the speaker's perspective on the Arab regimes?
+**Category:**  Political Analysis
+**Timestamp:** 1058.76s
+**Answer:** The speaker is critical of the Arab regimes, suggesting that they are hoping for Israel's success and are clinging to their outdated and misguided alliances. They highlight the hypocrisy of these regimes as seen in the recent display of Ben Zion praying.
+
+## What is the speaker's overall message?
+**Category:**  Outlook
+**Timestamp:** 988.959s
+**Answer:** The speaker believes that Israel is in a state of decline and is facing its demise. They urge listeners to rejoice at this prospect but also to learn from the situation and work towards eliminating oppressive regimes in other Arab countries. 
+
+
+## https://www.youtube.com/watch?v=54VMfvEntT4
+
+## What is the expected outcome of Netanyahu’s trip to America? 
+
+**Category:** Politics
+
+**Question:** 10.759s :  America and depend how was the reception
+
+**Answer:** The speaker believes that the reception of Netanyahu in America was important because it would show his strength and give him a chance to attack Lebanon. 
+
+## What was the reaction of Congress to Netanyahu's visit?
+
+**Category:** Politics
+
+**Question:** 13.28s : obvious the reception of Congress the
+
+**Answer:** The speaker believes that the reaction of Congress towards Netanyahu was disgraceful, highlighting how the strongest power in the world has declined to such a level.
+
+## What was the purpose of Netanyahu’s meeting with Trump?
+
+**Category:** Politics
+
+**Question:** 69.36s : asked by the way for a meeting with with
+
+**Answer:** Netanyahu requested a meeting with Trump because he believes Trump will be elected as president again and could be assassinated. 
+
+## What is the significance of the attack on the football field in Ma Sham?
+
+**Category:** Military
+
+**Question:** 151.0s :  he about ma Sham this this Village or
+
+**Answer:** The speaker suggests the attack on a football field in Ma Sham, where a bomb killed children, was a deliberate act aimed at causing a backlash and escalating tensions.
+
+## What is the speaker’s theory about the attack in Ma Sham?
+
+**Category:** Conspiracy Theory
+
+**Question:** 221.439s :  something my guess looks like conspir
+
+**Answer:** The speaker speculates that Netanyahu deliberately orchestrated the attack in Ma Sham, using it as a pretext to justify an attack on Lebanon and blaming it on Hamas. 
+
+## What are the speaker’s thoughts on the future of Israel?
+
+**Category:** Prediction
+
+**Question:** 637.399s : he's doubting What's happen I say I told
+
+**Answer:** The speaker believes that Israel is already defeated, and that the current situation is a final opportunity for Netanyahu to launch an attack before he loses control.
+
+## What is the speaker’s view on a potential attack on Lebanon?
+
+**Category:** Prediction
+
+**Question:** 999.72s :  will he attack Lebanon I would say 99
+
+**Answer:** The speaker believes that Netanyahu will attack Lebanon, with a 99.95% probability. He also believes that Netanyahu will use the upcoming holiday period as an opportunity to launch the attack.
+
+## What are the potential consequences of a conflict in Yemen?
+
+**Category:** Military
+
+**Question:** 1132.24s :  updates on
+
+**Answer:** The speaker predicts that Yemen will launch a significant attack against Israel, targeting its oil storage, electricity generation, and other vulnerable infrastructure. 
+
+## What is the speaker’s opinion on Israel’s defenses?
+
+**Category:** Military
+
+**Question:** 1149.12s :  relying on the air Iron Dome and Air
+
+**Answer:** The speaker believes that Israel's defenses are weak and easily penetrable, making them vulnerable to attacks.
+
+## What is the speaker’s prediction about the future of Israel?
+
+**Category:** Prediction
+
+**Question:** 1216.76s :  they're they're going in
+
+**Answer:** The speaker believes that Israel will lose its population and resources due to the conflict, ultimately leading to its downfall. 
+
+
+## https://www.youtube.com/watch?v=g4NPhCtWd3k
+
+
+
+## https://www.youtube.com/watch?v=tezr9-d8KKU
+
+## What does the phrase "listen people" have to do with the divine promise for Israel? 
+**Category:** Religion
+This is not explained in the text. 
+
+##  Is there a connection between the divine promise for ancient Israel and the present day? 
+**Category:** Religion
+The speaker states that the "divine promise for ancient Israel" is gone and forgotten and has no bearing on the present day. 
+
+## What is meant by an “imperial, Nazi-style state”?
+**Category:** Politics 
+The speaker explains that an “imperial, Nazi-style state” refers to a state created by imperial powers, in this case Britain and America. This state uses imperialist and exploitative policies to control and benefit from other nations, particularly those in the developing world.  
+
+## What is the connection between the "divine promise for Israel" and the present-day situation? 
+**Category:** Religion 
+The speaker contends that the current situation in Israel has no relation to the "divine promise for ancient Israel". Instead, it is a result of the actions of imperial powers who have created a state based on their own interests and policies.
+
+## What is the role of the "common population" in the imperialist state? 
+**Category:** Politics
+The speaker acknowledges that while the "common population" in the imperial state may be aware of the exploitative nature of the state's policies, they are still ultimately subject to them. 
+
+## What is the speaker's main point about the current situation?
+**Category:** Politics 
+The speaker believes the present situation in Israel, and similar situations globally, is not based on any divine promise or traditional values. It is a product of imperial powers imposing their own agenda on other nations through exploitative and oppressive policies. 
+
+
+## https://www.youtube.com/watch?v=nVTtdh2xLqk
+
+## 0.64s: What is this meeting? 
+**Category:** Meeting Purpose
+**Answer:** This is a weekly study circle hosted by Professor Muhammad Alm and is part of a larger initiative called "T."
+
+## 26.76s: Who is Professor Dr. Muhammad Alm? 
+**Category:** Speaker Identity
+**Answer:** The speaker doesn't provide specific details about the Professor, but he does indicate that the Professor is known for speaking the truth to authority.
+
+## 32.76s: When is the weekly session broadcasted? 
+**Category:** Schedule 
+**Answer:** The weekly session is broadcasted every Sunday at 2 p.m., but will change to 2 p.m. due to British summertime.
+
+## 48.0s: What should viewers do to support this channel?
+**Category:** Channel Support
+**Answer:** Viewers are encouraged to subscribe to the channel, share the content with others, and tell their friends about the unique nature of the content.
+
+## 79.88s: What is Michael Gove trying to do?
+**Category:** Politics
+**Answer:** Michael Gove is attempting to change definitions of "extremism" to give the government more power to suppress people, particularly Muslims. He's accused of being a puppet for Zionist interests. 
+
+## 132.0s: What is the message of Muslims?
+**Category:** Islam
+**Answer:** Muslims are not afraid to speak truth to power, even to tyrannical regimes. The speaker argues that Muslims should be proud to discuss issues like ongoing genocide, even if it means facing suppression. 
+
+## 157.519s: How can Britain claim to value free speech while suppressing discussion of genocide?
+**Category:** Free Speech
+**Answer:** The speaker criticizes Britain's double standards for valuing free speech while simultaneously suppressing the discussion of the Palestinian genocide.
+
+## 167.56s: What changes have Muslim communities undergone in the United Kingdom over time?
+**Category:** Community Development
+**Answer:** The speaker observes a positive shift in Muslim communities, citing the example of Five Pillars, an organization that is successfully countering media propaganda against Muslims and providing a platform for objective discussion.
+
+## 188.239s: Why is the Five Pillars event important?
+**Category:** Community Development
+**Answer:** The Five Pillars event demonstrated a refreshing level of organization, coordination, and unity among Muslims. The speaker emphasizes the need for such initiatives and encourages viewers to support them.
+
+## 237.64s: Why do Muslims go through certain changes in the United Kingdom?
+**Category:** Identity
+**Answer:** Muslims in the UK previously adopted a ghetto mentality and were defeated. They clung to the left's ideology, but now are embracing their own voice, which is more confident and independent.
+
+## 267.24s: What is visionary about Five Pillars?
+**Category:** Initiative 
+**Answer:** Five Pillars is visionary because it has the confidence to discuss issues with people on the "far right" without compromising its values. This open forum approach is what the Islamic way is about. 
+
+## 289.88s: Why do the speakers try to make their content public?
+**Category:** Content Purpose
+**Answer:** The speakers believe that truth should be shared openly and publicly, not kept in a confined space.
+
+## 321.88s: How has Gaza woken up people?
+**Category:** Impact of Events
+**Answer:** The conflict in Gaza has raised awareness and empathy for Palestinians among non-Muslims, leading them to question and inquire about Islam. 
+
+## 359.0s: What is the subject of today's session?
+**Category:** Session Content
+**Answer:** The session is focused on Surah Al-Hud, verse 36, and will be followed by a Palestine update and a dedicated Q&A.
+
+## 394.72s: Does the Professor have anything to add about Surah Al-Hud, verse 36? 
+**Category:** Session Commentary
+**Answer:** The Professor adds that the verses of Surah Al-Hud speak of a clear, irrevocable decision. He emphasizes the facts of the Palestinian situation, including the number killed and the number of Israeli tanks destroyed. 
+
+## 419.84s: Why are Zionist circles trying to twist the narrative?
+**Category:** Politics
+**Answer:** The Professor asserts that the oligarchy and Zionist circles are deliberately trying to distort the narrative of the Palestinian conflict and ignore the facts on the ground. They are driven by a desire to cover up their history of genocide.
+
+## 489.759s: What is Britain's stance on the Palestinian conflict?
+**Category:** Politics
+**Answer:** The Professor believes that Britain, under Zionist influence, is deliberately adopting a Zionist point of view to avoid acknowledging its own history of genocide. 
+
+## 552.519s: Why does Britain avoid acknowledging its own history of genocide?
+**Category:** Politics 
+**Answer:** The Professor argues that Britain, if it were to acknowledge the Palestinian genocide, would be forced to confront its own history of genocide against Native Americans and the atrocities committed in Kenya.
+
+## 631.88s: Who is recognizing the Palestinian genocide?
+**Category:** Public Awareness
+**Answer:** The Professor notes that not only have Western people recognized the Palestinian genocide as immoral, but the younger generation (under 40) in America and likely Britain are also deeply opposed to it. 
+
+## 688.24s: What is the translation of Surah Al-Hud, verse 36?
+**Category:** Quran Translation
+**Answer:** The speaker provides a translation of Surah Al-Hud, verse 36, explaining that Allah revealed to Noah that none of his people would believe except those who had already done so, and that Noah shouldn't be distressed by their actions. 
+
+## 738.56s: What is the main miracle of Noah? 
+**Category:** Prophetic Miracle 
+**Answer:**  Noah's main miracle was his survival and his ability to carry on his mission of preaching to his people for over 950 years despite their constant rejection and disbelief. 
+
+## 813.56s: Why did Noah supplicate to Allah?
+**Category:** Prophetic Supplication
+**Answer:** Noah supplicated to Allah to not leave any disbelievers alive after the flood, but the speaker says that this will be addressed later.
+
+## 853.519s: What is the translation of Surah Al-Hud, verse 37? 
+**Category:** Quran Translation
+**Answer:** The speaker provides a translation of Surah Al-Hud, verse 37, which instructs Noah to build the ark under Allah's guidance and inspiration, and not to plead for the transgressors who are destined to be drowned. 
+
+## 884.72s: What is the significance of Allah's decision in verse 37? 
+**Category:** Quran Commentary 
+**Answer:** The Professor emphasizes that Allah's decision in verse 37 is final and irrevocable. Noah is instructed to build the ark and gather the believers, and not to worry about the fate of those who will be drowned. 
+
+## 940.92s: Why is Noah told not to ask anything about those who will be drowned? 
+**Category:** Quran Commentary
+**Answer:** The speaker explains that this verse ties into the story of Noah's son who is destined to drown. The speaker believes that the son represents Noah's disobedient family members who are not included in Allah's promise of salvation.
+
+## 978.24s: Why are people mocking Noah for building the ark? 
+**Category:** Quran Commentary
+**Answer:** The Professor notes that the people are mocking Noah because they believe he has gone mad for building a ship in a land far from any sea or river, and they don't understand his divine mission. 
+
+## 1001.959s: What is the translation of Surah Al-Hud, verse 38? 
+**Category:** Quran Translation
+**Answer:** The speaker provides a translation of Surah Al-Hud, verse 38, which recounts the story of Noah building the ark and the notables of his people mocking him. Noah responds by saying that if they are mocking him, he will mock them in return, and he will ultimately prove them wrong. 
+
+## 1051.76s: What is a better translation for "notables" in verse 38?
+**Category:** Translation
+**Answer:** The Professor suggests that "ruling Elite" or "dominant Elite" is a more accurate translation than "notables" because the verses are referring to the people who are in positions of power and authority.
+
+## 1109.64s: What does Noah continue to say in Surah Al-Hud, verse 39?
+**Category:** Quran Commentary
+**Answer:** Noah continues to say that those who reject his message and mock him will ultimately face a humiliating punishment. The speaker interprets this punishment as the drowning of Noah's people.
+
+## 1170.52s: What are the two types of suffering Noah is referring to in verse 39?
+**Category:** Quran Commentary 
+**Answer:** The Professor explains that Noah is referring to both a humiliating suffering in this world (drowning) and an enduring suffering in the afterlife (Hellfire). 
+
+## 1226.32s: What is the translation of Surah Al-Hud, verse 40?
+**Category:** Quran Translation
+**Answer:** The speaker provides a translation of Surah Al-Hud, verse 40, which describes the moment when Allah's judgment comes to pass and the waters flood the earth. Noah is instructed to bring a pair of each animal, male and female, and his family onto the ark, excluding those already condemned and including those who have attained faith. 
+
+## 1269.52s: What is the significance of the phrase "only a few of Noah's people shared his faith"?
+**Category:** Quran Commentary 
+**Answer:** This verse highlights the fact that only a small number of people believed Noah's message. 
+
+## 1273.039s: What is a "tan" in the context of verse 40?
+**Category:** Quran Commentary
+**Answer:**  A "tan" is a large oven used for baking bread.  The water rising in this tan symbolizes the rising water level of the flood. 
+
+## 1336.88s: When did the destruction from the flood start? 
+**Category:** Quran Commentary
+**Answer:** The speaker indicates that the water first rose from below the ground, then also from the sky through heavy rain. 
+
+## 1368.64s: Why is the idea that Noah took a pair of every animal on Earth impossible?
+**Category:** Quran Commentary
+**Answer:** The speaker refutes the idea that Noah took a pair of every animal on Earth as being a myth created by Jewish scholars who mixed mythical stories with revelations. 
+
+## 1389.52s: What is the significance of excluding those already condemned from the ark? 
+**Category:** Quran Commentary 
+**Answer:** The Professor clarifies that the condemned individuals are those who have already been warned and chosen not to believe. 
+
+## 1413.48s: What is the example of disbelievers mentioned in the Quran?
+**Category:** Quran Commentary
+**Answer:** The speaker refers to the stories of Lut and his wife, and L and his wife, as examples of disbelievers who betrayed their prophets and husbands. 
+
+## 1483.08s: How many people believed Noah's message?
+**Category:** Quran Commentary
+**Answer:** The speaker states that only a few people believed Noah's message, but the exact number is not specified. 
+
+## 1500.159s: Did the flood cover the whole earth?
+**Category:** Quran Commentary 
+**Answer:** The Professor states that the idea of the flood covering the entire Earth is a fantasy. The flood likely covered a specific region in northwest Iraq or southeast Turkey.
+
+## 1551.0s: When did the first Semitic language emerge?
+**Category:** Language 
+**Answer:** The speaker states that the first Semitic language likely emerged at least 5,000 years before Christ, but the exact date is unknown. 
+
+## 1584.52s: What is the translation of Surah Al-Hud, verse 41? 
+**Category:** Quran Translation
+**Answer:**  The speaker provides a translation of Surah Al-Hud, verse 41, where Noah instructs his followers to embark on the ark in the name of Allah, emphasizing that his Lord is forgiving and merciful.
+
+## 1615.12s: What is the significance of Noah's words in verse 41?
+**Category:** Islamic Practice
+**Answer:** The Professor points out that this verse highlights the importance of doing everything in the name of Allah, which is considered a good tradition in Islam. 
+
+## 1660.72s: What is the translation of Surah Al-Hud, verse 42?
+**Category:** Quran Translation
+**Answer:** The speaker provides a translation of Surah Al-Hud, verse 42, which describes the ark sailing on waves as high as mountains. Noah cries out to his son to join them, warning him not to stay with the unbelievers. 
+
+## 1697.44s: Why does the Quran abruptly change scenes in verse 42?
+**Category:** Quran Commentary
+**Answer:** The speaker acknowledges that the Quran shifts scenes suddenly, moving from the ark being in calm waters to being on mountainous waves. The details about how this transition happened are not explicitly explained. 
+
+## 1723.519s: When did the water rise from below the earth?
+**Category:** Quran Commentary
+**Answer:**  The speaker explains that the first sign of the flood was the water boiling up from the ground.
+
+## 1738.279s: Where else did the water come from?
+**Category:** Quran Commentary
+**Answer:** The speaker explains that not only did the water rise from below, but it also rained heavily from the sky.
+
+## 1747.36s: What is the most reasonable explanation for the flood?
+**Category:** Quran Commentary
+**Answer:**  The speaker suggests that the most plausible geological explanation for the flood is the formation of the Black Sea, which involved major earthquakes and a rising water level. 
+
+## 1760.76s: Where is Mount Judi located?
+**Category:** Geography
+**Answer:**  The speaker does not confirm the location of Mount Judi but speculates that it is near the Black Sea region.
+
+## 1780.96s: What is the credibility of the claims of artifacts related to Noah's ark?
+**Category:** Historical Evidence
+**Answer:** The speaker expresses skepticism about the authenticity of ark artifacts, citing the lack of strong evidence to support their claims.
+
+## 1814.72s: What evidence supports the idea of a massive flood?
+**Category:** Geology
+**Answer:** The speaker cites tsunamis and earthquakes as evidence for the possibility of massive geological events that can cause a sudden rise and fall of water levels.
+
+## 1865.679s: Why did Noah's son stay behind?
+**Category:** Quran Commentary
+**Answer:** Noah's son chose to stay behind on a mountain, believing it would protect him from the flood. Noah attempts to convince him to join them on the ark, but the son refuses.
+
+## 1891.519s: What is the response of Noah's son?
+**Category:** Quran Commentary
+**Answer:**  The son replies that he will stay on the mountain, as he believes it will protect him from the flood. 
+
+## 1915.679s: What is the translation of Surah Al-Hud, verse 43? 
+**Category:** Quran Translation
+**Answer:** The speaker provides a translation of Surah Al-Hud, verse 43, which states that Noah's son refused to join him on the ark, believing that a mountain would protect him from the flood. Noah warns him that there is no protection from Allah's judgment except for those who have earned His mercy. 
+
+## 1943.24s: What happens to Noah's son?
+**Category:** Quran Commentary
+**Answer:** The speaker clarifies that a wave separated Noah and his son, and the son drowned. 
+
+## 1956.919s: Why was the son among those who drowned? 
+**Category:** Quran Commentary
+**Answer:** The speaker asserts that the son was among those who drowned because he did not earn Allah's mercy. 
+
+## 1969.2s: Why did Noah attempt to convince his son to join the ark?
+**Category:** Quran Commentary
+**Answer:** Noah believed that there was still hope for his son and attempted to save him by calling him to the ark. 
+
+## 2057.919s: What is the translation of Surah Al-Hud, verse 44?
+**Category:** Quran Translation
+**Answer:** The speaker provides a translation of Surah Al-Hud, verse 44, which describes Allah's command to the Earth to swallow up the water and the sky to stop raining. The waters recede, and the ark rests on Mount Judi. Allah commands the evildoing people to be swept away.
+
+## 2098.839s: How long did the flood last? 
+**Category:** Quran Commentary
+**Answer:**  The speaker mentions a narrative of the flood lasting 40 days, but doesn't confirm its accuracy. 
+
+## 2115.28s: Who pronounced Allah's command to stop the flood?
+**Category:** Quran Commentary
+**Answer:** The speaker states that Allah's command to stop the flood was pronounced by angels or through miraculous physical processes. 
+
+## 2144.16s: What caused the water to recede?
+**Category:** Quran Commentary
+**Answer:** The speaker suggests that the water receded due to Allah's command, which could have involved openings in the earth, splitting mountains, and a cessation of rain. 
+
+## 2169.88s: Where did Noah's ark come to rest?
+**Category:** Quran Commentary
+**Answer:** The speaker says that Noah's ark came to rest on Mount Judi, though the exact location of this mountain is not confirmed.
+
+## 2187.119s: Why does the Quran mention Mount Judi by name? 
+**Category:** Quran Commentary
+**Answer:** The Professor explains that the Quran explicitly mentions Mount Judi because the Old Testament uses a different name, Mount Ararat, for the location where the ark came to rest. The Quran is correcting this discrepancy. 
+
+## 2225.56s: Why is it likely that there are no archaeological records of Mount Judi? 
+**Category:** Historical Evidence
+**Answer:** The speaker notes that writing was likely not invented at the time of Noah, so it is unlikely to find archaeological evidence to confirm the existence of Mount Judi.
+
+## 2269.44s: How is the story of Mount Judi similar to the story of the city of Iram?
+**Category:** Quran Commentary
+**Answer:**  The speaker compares the story of Mount Judi to the story of the city of Iram, which was mentioned in the Quran but did not exist in historical records until it was discovered in the 20th century. 
+
+## 2325.599s: Is there evidence to support the claim that the ark structure on Mount Judi is Noah's ark?
+**Category:** Historical Evidence
+**Answer:** The speaker dismisses the claim that the structure found on Mount Judi is Noah's ark, citing the lack of strong evidence and the possibility that it could be a different, unrelated structure. 
+
+## 2366.359s: What is the translation of Surah Al-Hud, verse 45?
+**Category:** Quran Translation 
+**Answer:** The speaker provides a translation of Surah Al-Hud, verse 45, which recounts Noah's supplication to Allah after his son drowned. Noah pleads for mercy for his son, acknowledging that Allah's promises always come true and that He is the most just of judges. 
+
+## 2399.88s: Why is Noah's supplication for his son a mistake?
+**Category:** Quran Commentary
+**Answer:** The Professor points out that Noah is making a mistake by supplicating for his son, who had already separated himself and was condemned. 
+
+## 2444.4s: Was Noah's wife the same age as him?
+**Category:** Quran Commentary
+**Answer:** The speaker asserts that there is no indication that Noah's wife was the same age as him, and the Quran doesn't mention her age. 
+
+## 2496.68s: Does the term "son" include grandsons?
+**Category:** Quran Commentary
+**Answer:** The speaker acknowledges that the term "son" can also include grandsons and great-grandsons, but believes that the son who drowned was likely a son of Noah from a later wife. 
+
+## 2538.359s: What is the Egyptian perspective on the relationship between grandparents and their offspring?
+**Category:** Culture
+**Answer:** The speaker mentions that in Egyptian culture, grandchildren are considered closer to their grandparents than even their own children. 
+
+## 2574.8s: What story did the speaker remember about the concept of "son"?
+**Category:** Story
+**Answer:** The speaker remembers a story from Indo-Pakistani folklore where a character has many sons and grandsons, illustrating the complex nature of family relationships. 
+
+## 2613.079s: Did Noah have a wife?
+**Category:** Quran Commentary
+**Answer:** The speaker tells a story of a person questioning why Noah didn't have a wife, based on the Quran's verses about adopting prophets and their offspring. The speaker finds this to be a humorous invention, not a serious inquiry.
+
+## 2696.04s: What is the translation of Surah Al-Hud, verse 46? 
+**Category:** Quran Translation 
+**Answer:** The speaker provides a translation of Surah Al-Hud, verse 46, where Allah responds to Noah's supplication by saying that his son was not a true member of his family because he was unrighteous. 
+
+## 2721.92s: Why does Allah say Noah's son was not part of his family in verse 46? 
+**Category:** Quran Commentary
+**Answer:** The Professor explains that Allah's statement indicates that Noah's son's actions and beliefs separated him from his family. The biological relationship is irrelevant when it comes to faith and conduct.
+
+## 2802.319s: Why do some scholars interpret "unrighteous conduct" differently?
+**Category:** Quran Commentary
+**Answer:**  The speaker criticizes scholars who interpret "unrighteous conduct" as relating to the possibility of Noah's son being born out of adultery. He believes this is a misunderstanding of the Arabic meaning, which refers to a person's overall actions and beliefs. 
+
+## 2875.839s: What is the translation of Surah Al-Hud, verse 47?
+**Category:** Quran Translation
+**Answer:**  The speaker provides a translation of Surah Al-Hud, verse 47, where Noah seeks refuge with Allah, vowing never to ask again about matters he has no knowledge of. 
+
+## 2928.48s: Why does the Quran mention Noah's plea immediately after the flood?
+**Category:** Quran Commentary 
+**Answer:** The speaker believes that the Quran mentions Noah's plea immediately after the flood to refute the story in the Old Testament that portrays Noah as disrespectful and angry with Allah.
+
+## 2993.68s: What does the Old Testament portray Noah as? 
+**Category:** Biblical Narrative 
+**Answer:** The speaker criticizes the Old Testament's portrayal of Noah as disrespectful and angry towards Allah. He believes this is a fabrication and that Noah, in reality, was simply upset with his son's decision. 
+
+## 3055.64s: What is the translation of Surah Al-Hud, verse 48? 
+**Category:** Quran Translation
+**Answer:** The speaker provides a translation of Surah Al-Hud, verse 48, where Allah grants Noah peace and blessings. He also blesses those who followed Noah, and those who would come from them. However, those who descend from Noah but are unrighteous will enjoy life for a short time, followed by severe punishment. 
+
+## 3139.319s: What is the difference between the two translations of verse 48?
+**Category:** Translation 
+**Answer:** The speaker notes that the two translations differ in their phrasing regarding who will be blessed and who will be punished. The speaker prefers the second translation because it clarifies that the blessings are for those who descend from Noah's followers, while the unrighteous descend from the people with Noah but are not blessed. 
+
+## 3253.28s: Why does verse 48 seem to start a new sentence?
+**Category:** Quran Commentary
+**Answer:**  The speaker argues that the second part of verse 48, regarding the unrighteous, is a new sentence because it introduces a different group of people. 
+
+## 3259.64s: Is there any significance in the use of the word "memes" in verse 48? 
+**Category:** Quran Commentary
+**Answer:** The speaker was told that the use of "memes" in verse 48 has a specific meaning, but he is unsure what it is. 
+
+## 3332.2s: What is the origin of the word "memes"?
+**Category:** Language 
+**Answer:** The speaker explains that the word "memes" comes from the Arabic word "M," which means "lead" or "head."
+
+## 3377.05s: What is the translation of Surah Al-Hud, verse 49?
+**Category:** Quran Translation
+**Answer:** The speaker provides a translation of Surah Al-Hud, verse 49, where Allah reveals to Muhammad that the accounts of previous prophets were beyond his and his people's knowledge. He encourages Muhammad to be patient like Noah in the face of adversity, reminding him that the future belongs to those who are mindful of Allah.
+
+## 3419.039s: Why was the story of Noah unknown to Muhammad?
+**Category:** Prophetic Knowledge
+**Answer:** The speaker explains that the story of Noah was largely unknown to Muhammad and most people at the time, except for Jews and Christians who may have known it as a secondary story.
+
+## 3494.599s: How did the Old Testament become corrupted?
+**Category:** Biblical Narrative
+**Answer:** The speaker believes that the Old Testament became corrupted after the Babylonian exile, when it was rewritten with pagan myths and legends. 
+
+## 3517.359s: What did Nebuchadnezzar do to the temple in Jerusalem?
+**Category:** History
+**Answer:** The speaker explains that Nebuchadnezzar destroyed the temple in Jerusalem, removing even its foundation and stones. This action makes it impossible to find any archaeological evidence of the original temple.
+
+## 3580.839s: What did Jeremiah do before the Babylonian conquest? 
+**Category:** History
+**Answer:** The speaker mentions that Jeremiah hid the Ark of the Covenant, which contains a jar of manna and the original tablets with old Hebrew script, before the Babylonian conquest.
+
+## 3634.72s: Why are the original tablets important if the ark is found?
+**Category:** History
+**Answer:** The speaker emphasizes that finding the Ark would mean finding the original tablets with the ancient Hebrew script, allowing scholars to learn more about the language and writing system used before the Babylonian exile.
+
+## 3654.079s: What is the difference between the ancient Hebrew alphabet and the current one?
+**Category:** Language
+**Answer:** The speaker notes that the current Hebrew alphabet is different from the one used before the Babylonian exile.
+
+## 3686.16s: What sources influenced the Old Testament narrative? 
+**Category:** Biblical Narrative 
+**Answer:** The speaker points out that the Old Testament was influenced by pagan traditions, Egyptian stories, and Babylonian myths.
+
+## 3710.16s: When does the Old Testament become more historical?
+**Category:** Biblical Narrative 
+**Answer:** The speaker states that the Old Testament becomes more historical after the story of Abraham, though embellishments are still present.
+
+## 3724.52s: Why are the events in the Old Testament after the Exodus more reliable?
+**Category:** Biblical Narrative
+**Answer:**  The speaker believes that the Old Testament events after the Exodus are more reliable because they lack any motivation for embellishment, such as changing the number of years spent in the wilderness. 
+
+## 3750.92s: How did the number 40 become significant in Jewish tradition?
+**Category:** Religion 
+**Answer:** The speaker says that the number 40 became significant in Jewish tradition because Moses stayed 40 days on Mount Sinai and later spent 40 years in the wilderness. 
+
+## 3795.4s: Why do Jewish scholars add the number 40 to everything? 
+**Category:** Religion
+**Answer:** The speaker observes that the number 40 is deeply rooted in Jewish scholarship, and it is frequently added to various events, even when it is inaccurate.
+
+## 3825.96s: Why is the dating in the Old Testament after the time of the Judges considered accurate?
+**Category:** Biblical Narrative
+**Answer:** The speaker argues that the dating in the Old Testament after the time of the Judges is likely accurate because it can be synchronized with other historical events. 
+
+## 3840.839s: Why were crimes attributed to ancient kings?
+**Category:** Biblical Narrative
+**Answer:** The Professor believes that crimes were attributed to ancient kings to preserve a historical record of those events, even if there was some exaggeration. 
+
+## 3860.039s: Why was the Old Testament rewritten after the Babylonian exile?
+**Category:** Biblical Narrative
+**Answer:** The speaker believes that the Old Testament was rewritten after the Babylonian exile because the original texts were destroyed, leaving only fragments and memories to rely on. 
+
+## 3882.279s: Is there a mountain called Mount Judi today?
+**Category:** Geography
+**Answer:**  The speaker states that there is possibly a mountain called Mount Judi today, but he is not aware of its specific location. 
+
+## 3910.319s: What is the difference between Mount Sinai in Arabic and the one in the Old Testament?
+**Category:** Geography
+**Answer:** The speaker explains that Mount Sinai in Arabic is a different location from the one mentioned in the Old Testament, which is associated with Saint Catherine's Monastery.
+
+## 3947.44s: How was the interaction between Noah and Allah different from the Old Testament?
+**Category:** Biblical Narrative 
+**Answer:** The speaker contrasts the casual nature of Noah's interaction with Allah in the Quran with the more disrespectful and angry portrayal in the Old Testament. 
+
+## 3979.279s: What does the phrase "with the Believers" at the end of the flood narrative signify? 
+**Category:** Quran Commentary 
+**Answer:** The speaker explains that the phrase "with the Believers" refers to the ultimate victory and salvation of those who are mindful of Allah.
+
+## 4035.44s: What is the translation of Surah Al-Hud, verse 50?
+**Category:** Quran Translation
+**Answer:** The speaker provides a translation of Surah Al-Hud, verse 50, which describes the mission of the Prophet Hud to the tribe of Ad. Hud warns his people to worship Allah alone, as they have no other deity, and urges them to repent and seek forgiveness. 
+
+## 4067.799s: What is the core message of Hud's message to the tribe of Ad?
+**Category:** Prophetic Message
+**Answer:** The speaker explains that the core message of Hud's preaching is to worship Allah alone and reject any other deity.
+
+## 4134.44s: What is the translation of Surah Al-Hud, verse 51?
+**Category:** Quran Translation
+**Answer:** The speaker provides a translation of Surah Al-Hud, verse 51, where Hud tells the tribe of Ad that he is not seeking any reward for his message. He reminds them that his reward comes from Allah, and urges them to use their reason. 
+
+## 4160.359s: Why did the tribe of Ad doubt Hud's message? 
+**Category:** Quran Commentary
+**Answer:**  The tribe of Ad doubted Hud's message because they believed he was seeking power, wealth, and prestige. They viewed his message as a threat to their existing social order and traditions. 
+
+## 4206.88s: How do pagans view the universe?
+**Category:** Paganism
+**Answer:** The Professor explains that pagans tend to view the universe in terms of benefit, wealth, and improving their strength. Their beliefs center around material gain and don't encompass concepts like divine reward or punishment.
+
+## 4234.679s: What is the translation of Surah Al-Hud, verse 52? 
+**Category:** Quran Translation
+**Answer:** The speaker provides a translation of Surah Al-Hud, verse 52, where Hud encourages his people to seek forgiveness from Allah, turn towards Him in repentance, and avoid becoming lost in sin. 
+
+## 4290.239s: Why do the two translations differ in their wording at the end?
+**Category:** Translation
+**Answer:** The speaker notes that the two translations have different wordings at the end, but ultimately convey the same message. 
+
+## 4353.96s: What is the general interpretation of Allah showering His people with blessings?
+**Category:** Quran Commentary 
+**Answer:** The speaker explains that the phrase "shower you with abundant Heavenly Grace" is a general translation that could also hint at a period of drought followed by rain, which is something that the tribe of Ad may have been experiencing.
+
+## 4396.62s: What is the translation of Surah Al-Hud, verse 53? 
+**Category:** Quran Translation
+**Answer:** The speaker provides a translation of Surah Al-Hud, verse 53, where the tribe of Ad refuses to listen to Hud's message. They claim that he has not presented clear evidence and they will not abandon their gods.
+
+## 4446.88s: Did Hud bring any signs to his people?
+**Category:** Quran Commentary
+**Answer:** The speaker explains that the Quran doesn't mention specifically what signs Hud presented to his people. It's possible that he presented evidence from history or scripture that they did not recognize. 
+
+## 4490.52s: Why do people insist on denying the truth? 
+**Category:** Human Nature
+**Answer:** The Professor reflects on the tendency for people to reject truth, even when faced with evidence. He believes that those who are set on denying the truth will find any excuse to dismiss it.
+
+## 4518.56s: Why did Moses bring material miracles? 
+**Category:** Prophetic Miracles
+**Answer:** The speaker acknowledges that Moses was the only prophet who brought material miracles, which had little effect on his people. He concludes that miracles alone aren't sufficient to convince those who have already rejected the truth. 
+
+## 4545.159s: What is the translation of Surah Al-Hud, verse 54?
+**Category:** Quran Translation
+**Answer:** The speaker provides a translation of Surah Al-Hud, verse 54, where the tribe of Ad claims that Hud has been struck by a curse from one of their gods, and that his message is simply nonsense. 
+
+## 4586.0s: What was Hud's response to the tribe of Ad's accusation?
+**Category:** Quran Commentary 
+**Answer:** Hud declares that he is innocent and opposes those who attribute divinity to anyone other than Allah. He calls on Allah to witness his innocence.
+
+## 4606.44s: What is the "holy disease" that the Greeks believed in?
+**Category:** History
+**Answer:** The Professor mentions that the Greeks called epilepsy "the holy disease" and attributed it to divine intervention. 
+
+## 4625.32s: What did the tribe of Ad believe about the "holy disease"?
+
+
+## https://www.youtube.com/watch?v=xlqugBAdAeo
+
+## 59.12s : What will you do after that update? 
+**Category:**  Schedule
+**Answer:** The speaker will discuss Palestine and then have an open question and answer session. 
+
+## 62.039s : Where can people submit questions? 
+**Category:**  Communication
+**Answer:**  Questions can be submitted through various channels such as YouTube, email, Twitter, and in-person. 
+
+## 140.04s :  Why are many regimes trying to project the image that they are on the side of the Palestinians?
+**Category:** Politics
+**Answer:** The speaker believes regimes attempt to project this image to justify their actions, even though they are not truly supportive of Palestinians. 
+
+## 182.879s : Can you give an example of how regimes hide behind weak narrations?
+**Category:**  Islamic Studies
+**Answer:** The speaker mentions a narration that advises advising a ruler in private. They argue that this does not negate other clear evidences that allow rebellion against a ruler when necessary. 
+
+## 305.199s : Can you find the translation of this ayah?
+**Category:**  Islamic Studies
+**Answer:** The translation of the ayah is: "For verily in the alternating of Night and Day and in all that God has created in the heavens and on Earth are messages indeed for people who are conscious of him."
+
+## 351.36s : What is the meaning of this ayah?
+**Category:**  Islamic Studies
+**Answer:** The speaker explains that the ayah reinforces the principle that the universe is a sign for the existence of Allah. It also emphasizes the importance of examining and analyzing the world to understand its signs. 
+
+## 401.96s : What is the meaning of "those who protect themselves?"
+**Category:**  Islamic Studies
+**Answer:** The speaker clarifies that "those who protect themselves" refers to people who protect themselves from everything that is worthy of protection, including losing the meaning of existence. 
+
+## 481.56s : If the universe is created, what does this indicate?
+**Category:**  Islamic Studies
+**Answer:** The speaker argues that a created universe indicates a free agent or supernatural being who created it with a certain plan and direction. This necessitates recognizing the existence of God and following the direction He has set.
+
+## 530.279s : How can you protect yourself from early aging?
+**Category:**  Health
+**Answer:** The speaker mentions that fasting can help protect against early aging and a variety of health issues. 
+
+## 596.32s : Why are these signs for these people? 
+**Category:**  Islamic Studies
+**Answer:** The speaker explains that these signs are meant for people who can look beyond the superficial beauty of the world and examine the underlying causes and reasons behind it. They are for people who are searching for the ultimate initiator and actor behind creation.
+
+## 685.2s : Are these signs just for people who know?
+**Category:**  Islamic Studies
+**Answer:** The speaker emphasizes that these signs are not just for those who already know or understand, but for those who want to protect themselves from losing the meaning of life and direction. 
+
+## 747.519s : Can you read the ayah and translate it?
+**Category:** Islamic Studies
+**Answer:** The speaker reads the ayah and translates it as: "Verily as for those who do not believe that they are destined to meet us but content themselves with the life of this world and do not look Beyond it and are heedless of our messenges our messages."
+
+## 791.48s : What is the goal of those who do not believe they will meet Allah?
+**Category:** Islamic Studies
+**Answer:** The speaker clarifies that the goal of those who do not believe they will meet Allah is the fire in return for all the evil that they do. 
+
+## 809.6s : What is the meaning of "that which you earn by your own doing?" 
+**Category:**  Islamic Studies
+**Answer:** This phrase refers to the consequences of one's actions. It implies that those who reject faith will face the consequences of their choices in the afterlife. 
+
+## 830.759s : What is another category of people besides those who are conscious of Allah?
+**Category:** Islamic Studies
+**Answer:** The speaker introduces a category of people who have no hope or expectation of meeting Allah, and they see life as ending in death and dust. 
+
+## 903.839s : What is the logical conclusion for those who believe in just a single biological life? 
+**Category:** Islamic Studies
+**Answer:** The speaker suggests that for those who believe in only one life, the logical conclusion would be to focus on survival of the fittest and might is right. This leads them to commit all kinds of crimes and mischief since they have no fear of consequences in the afterlife. 
+
+## 935.839s : What is the reason for this attitude? 
+**Category:** Islamic Studies
+**Answer:** The speaker explains that these people see nothing inherently bad in actions like killing, as long as they can get away with it. They lack a moral compass and only act out of self-preservation. 
+
+## 9704.439s : What is the correct understanding of the covenant between a Muslim and a disbeliever?
+**Category:**  Islamic Studies
+**Answer:** The speaker clarifies that the covenant between a Muslim and a disbeliever requires the Muslim to not fight against them, but it does not obligate them to support the disbeliever's hostile actions against other Muslims. 
+
+## 9793.16s :  What is the meaning of war tax?
+**Category:**  Islamic Studies
+**Answer:** The speaker clarifies that war tax does not exist in Islamic jurisprudence. Taxes are distributed for various purposes, including social services, healthcare, and warfare.
+
+## 10040.88s : Should a Muslim break his oath with a disbeliever if he sees the disbeliever harming another Muslim? 
+**Category:**  Islamic Studies
+**Answer:** The speaker answers that if a Muslim witnesses a disbeliever breaking the covenant of security with Muslims, then he is at liberty to fight back.  
+
+## 10216.96s : What is wrong with the idea that paying taxes makes you a warrior for the disbeliever? 
+**Category:**  Islamic Studies
+**Answer:** The speaker explains that paying taxes does not automatically make you a warrior for the disbeliever. It is a necessary part of being a citizen, and it does not mean you are supporting their hostile actions. 
+
+## 10247.92s : What does Islamic law regulate regarding the covenant with a disbeliever?
+**Category:** Islamic Studies
+**Answer:** The speaker emphasizes that Islamic law is clear about the covenant between Muslims and disbelievers. This covenant can be broken if the disbeliever directly targets Islam or violates the rights of Muslims within their domain. 
+
+## 10412.399s : Should Muslims leave the West?
+**Category:** Islamic Studies
+**Answer:** The speaker clarifies that the question of whether Muslims should leave the West is similar to the question of whether they should leave Palestine. It depends on individual circumstances and the level of oppression they face. 
+
+## 10606.359s :  Can you have personal covenants with disbelievers? 
+**Category:** Islamic Studies
+**Answer:**  The speaker states that while a Muslim may have personal covenants with disbelievers, those covenants do not extend to the entire Muslim community. If the disbeliever violates the covenant with other Muslims, the individual covenant is also broken. 
+
+## 10701.72s : Would a hijab ban be a violation of the covenant of security? 
+**Category:**  Islamic Studies
+**Answer:** The speaker clarifies that a hijab ban would be a violation of the covenant of security, as it directly targets Muslim women and restricts their freedom of expression of faith. 
+
+## 10735.04s : What is the oath that is required when becoming an American citizen?
+**Category:** Citizenship
+**Answer:** The speaker mentions that new American citizens are required to swear an oath to renounce any allegiance to other countries and pledge their allegiance to the United States, including fighting for its interests. 
+
+## 10833.439s : Is the entire world essentially a domain of disbelievers now? 
+**Category:**  Islamic Studies
+**Answer:** The speaker acknowledges that many countries are ruled by disbelievers, but emphasizes that this does not mean that all Muslims are obliged to leave these countries. 
+
+## 10864.8s : What is the main point of obedience in Islam? 
+**Category:** Islamic Studies
+**Answer:** The speaker states that the main point of obedience in Islam is obeying Allah exclusively, and it should not be extended to any other entity or person. 
+
+## 10942.6s : Did anyone else before Muhammad bin Abdul Wahab list items to specify Islamic rituals? 
+**Category:** Islamic History
+**Answer:** The speaker acknowledges that the practice of listing specific rituals started before Muhammad bin Abdul Wahab, pointing to the example of Ali ibn Abi Talib warning his son about the dangers of engaging in rituals excessively. 
+
+## 11076.239s : What is the catastrophic mistake of attributing divine attributes to anything other than Allah? 
+**Category:** Islamic Studies
+**Answer:** The speaker emphasizes that attributing divine attributes to anything other than Allah is a serious mistake. It undermines the concept of Allah's absolute sovereignty and can lead to polytheism. 
+
+## 11242.12s : What is grave worship? 
+**Category:**  Islamic Studies
+**Answer:** The speaker asserts that grave worship does not exist and is an absurdity. It involves attributing divine attributes to graves and seeking intercession through them, which contradicts the principles of Islamic monotheism. 
+
+
+## https://www.youtube.com/watch?v=bEUe0J6GuQM
+
+##  Palestine Update
+
+**Question:** What are the most important updates about Palestine? 
+
+**Timestamp:** 154.84s 
+
+**Category:** Palestine 
+
+**Answer:**  There is a lot of tension in the West Bank, and the Israelis have responded with significant force. Janine, a known stronghold of resistance, has been bombed from the air. Hamas and Jihad Islami are actively operating in the West Bank and are coordinating with Hezbollah in Lebanon. The situation is becoming more volatile.
+
+## Legal Situation 
+
+**Question:** What is the legal situation in the West Bank, and how do we deal with these people?
+
+**Timestamp:** 265.84s
+
+**Category:**  Legal 
+
+**Answer:**  The Palestinian Authority's actions against Palestinians are considered to be an act of betrayal. They are collaborating with the Israelis and are essentially Israeli agents.  There is a debate about how to classify them. Some say they are no longer Palestinians but have become Israeli agents, while others say they are still Palestinians but are acting like Israeli agents. Either way, they must be treated as belligerent enemies and punished.
+
+##  Islamic Movement Failure
+
+**Question:** Why have we not seen mass social movements in the Muslim world against the genocide?
+
+**Timestamp:** 2515.319s
+
+**Category:**  Islamic
+
+**Answer:**  The reason is a lack of organization and leadership in most Muslim countries. The level of oppression and control in these countries is so high that even though people may see the genocide, they feel helpless. Additionally, there is a lack of clear vision and purpose in many Islamic movements, resulting in a failure to mobilize people effectively. 
+
+## Vitamin D Treatment
+
+**Question:** Do you have any recommendations for people with multiple sclerosis? 
+
+**Timestamp:** 3133.2s
+
+**Category:** Health 
+
+**Answer:**  A Brazilian doctor, Dr. Cicero Gy, pioneered the use of high-dose Vitamin D3 treatment for multiple sclerosis.  The recommended dose is 200,000 IU per day with precautions, such as reducing calcium intake and drinking plenty of water. It is crucial to balance Vitamin D3 with K2 mk7 to control hypercalcemia.
+
+## Vitamin D for Intertial Lung Disease
+
+**Question:** What are your recommendations for Vitamin D for interstitial lung disease and fibrosis? 
+
+**Timestamp:** 3780.079s
+
+**Category:** Health 
+
+**Answer:**  Vitamin D can be beneficial for interstitial lung disease and fibrosis, but it is important to balance it with K2 mk7 to prevent hypercalcemia. There are no other known side effects of Vitamin D.
+
+##  Blogging Theology 
+
+**Question:**  Did you mention a narration of Ib Abbas where Isaam would find some written scriptures and use those to discuss with others?
+
+**Timestamp:** 3937.799s
+
+**Category:**  Religion
+
+**Answer:**  The narration is about Isaam finding books in the mountains of Lebanon.  He used these books to debate with Jews and Christians, showing them that these were the lost books of the prophets.  The mountains of Lebanon are a plausible place to find ancient manuscripts, as many scrolls have been found in caves in Lebanon and Palestine.
+
+##  The Prophet's Parents
+
+**Question:**  Were the Prophet's parents, and Abu Talib, believers or not?
+
+**Timestamp:** 6083.88s 
+
+**Category:**  Religion 
+
+**Answer:**  The Prophet's parents died before Islam, and there is no definitive evidence that they became Muslim. Abu Talib, the Prophet's uncle, did not accept Islam before he died, and it is commonly said that the Quranic verse about guiding whom Allah wants applies to him. 
+
+## Apostasy Punishment
+
+**Question:**  Is the hadith about Mu'awiyah being punished for apostasy sound?
+
+**Timestamp:** 6953.079s
+
+**Category:** Religion
+
+**Answer:**  The hadith is not sound, as it is narrated only by one person. It is also questionable because of the claim that Mu'awiyah's neck was struck without a trial. The more reliable narrations tell us that Mu'awiyah left the Islamic community and was not obliged to be returned.  Furthermore, the hadith is based on a faulty interpretation of the Quran, which states that only belligerent enemies should be punished.
+
+##  Second Wife Condition
+
+**Question:**  What happens if a woman makes a condition in her marriage contract that her husband cannot marry another wife?
+
+**Timestamp:** 8186.8s 
+
+**Category:**  Law
+
+**Answer:**  The condition itself is invalid.  However, if the husband breaches the condition, the wife is entitled to leave the marriage without paying any compensation. The second marriage is still valid, but the first wife is free to leave.
+
+##  Palestine Situation Update
+
+**Question:** What is the latest update about the situation in the West Bank?
+
+**Timestamp:** 8382.12s
+
+**Category:**  Palestine 
+
+**Answer:**  Three Israeli policemen were killed by Palestinian resistance fighters in the West Bank. This is a significant development, suggesting the resistance is becoming more bold and active.
+
+##  Adan Rashid's Argument
+
+**Question:**  Brother Adan Rashid made a comment about the hadith of Al-Hasan al-Basri; what is your opinion?
+
+**Timestamp:** 8473.76s
+
+**Category:** Religion 
+
+**Answer:**  Adan Rashid invoked a hadith about Abu Bakr and the Prophet, which is not sound. Al-Hasan al-Basri did not hear this hadith directly from Abu Bakr.  Furthermore, the hadith is used to endorse the ruling of Mu'awiyah, which is incorrect.  The Prophet could not have endorsed Mu'awiyah, who demolished the Sharia. 
+
+##  Step-by-Step Action Plan for Muslims
+
+**Question:**  What is a step-by-step action plan for awakening Muslims in the Gulf?
+
+**Timestamp:** 10387.2s
+
+**Category:**  Islamic 
+
+**Answer:** The first step is to educate oneself thoroughly in Islam. The next step is to build a strong foundation of organization and fellowship among the people.  Then, you can move to more public actions such as demonstrations, depending on the local context. 
+
+##  Libya Solution
+
+**Question:**  What is the solution for Libya?
+
+**Timestamp:** 11083.359s
+
+**Category:**  International
+
+**Answer:** The people of Libya need to be educated and rallied to fight for their liberation. The Western powers need to stop meddling in Libya's affairs. Currently, there is a lack of clear leadership and organization, which prevents a unified movement. 
+
+##  Touching One's Private Parts
+
+**Question:**  What if someone touches their private parts by accident?
+
+**Timestamp:** 11180.04s 
+
+**Category:** Religion 
+
+**Answer:**  It is not considered invalid. This is a fabrication invented to instill fear in Muslims. 
+
+##  Thick Socks
+
+**Question:**  Is it valid to perform wudu with thin socks that go below the ankle? 
+
+**Timestamp:** 10893.319s
+
+**Category:**  Religion 
+
+**Answer:**  No, the socks must cover the whole ankle area. 
+
+##  Lifelong Illness
+
+**Question:**  If someone made a niya to perform Umrah but has a lifelong illness, can they pay money to fulfill the niya?
+
+**Timestamp:** 10969.0s
+
+**Category:**  Religion 
+
+**Answer:**  If the niya was made with a condition, such as the recovery of a sick son, then yes, the person can fulfill the niya by paying the equivalent of the Umrah expenses. 
+
+## Divorce By Text
+
+**Question:**  Do you need two witnesses for divorce by text message?
+
+**Timestamp:** 10853.56s
+
+**Category:**  Law
+
+**Answer:**  No, you don't need witnesses for a divorce by text message.  The divorce is valid, but it's advisable to get confirmation that the message was received. 
+
+##  Arrogance of the Muslims
+
+**Question:**  If Muslims have the truth, why are they hiding?
+
+**Timestamp:** 10170.2s
+
+**Category:** Islamic
+
+**Answer:** There is a lot of arrogance and pride among Muslims, especially those who are part of the establishment. They believe they are so pure that they don't need to engage with those who have different viewpoints. This arrogance prevents them from spreading the truth and challenging falsehoods.  It's time for Muslims to overcome their pride and engage in open and honest dialogue with all those who wish to learn. 
+
+
+## https://www.youtube.com/watch?v=dVrx_bSx7kk
+
+## 60.84s: Palestine Update & Open Q&A
+
+**Question:**  What are some of the recent updates from Palestine? 
+
+**Category:** Palestine
+
+**Answer:** There have been numerous demonstrations in America, Canada, and the UK protesting against the Israeli occupation of Palestine. There is also a build-up of Israeli troops near Rafah with the possibility of an imminent attack. There was a failed Israeli offensive in Lebanon.
+
+## 113.88s: Scholarly Discussion on Muslim Responsibility
+
+**Question:**  Are there any scholars who have discussed the responsibility of the Ummah (Muslim community) in relation to Palestine?
+
+**Category:** Islamic Theology
+
+**Answer:** The speaker notes that scholars often criticize the state of the Ummah but don't directly address what the Ummah should be doing or its level of accountability. This lack of direct engagement on the responsibility of the Ummah is concerning. 
+
+## 137.68s: Resending Baaya (Pledge of Allegiance)
+
+**Question:**  How do you resend your baaya to a monarchy, given that it may not be valid in the first place?
+
+**Category:** Islamic Jurisprudence
+
+**Answer:** The speaker questions the validity of baaya to a monarchy, suggesting that it's not a valid form of allegiance in the first place. The speaker highlights the lack of discussion about this issue, suggesting a need for greater engagement with the concept of authority in Islam.
+
+## 171.92s: Apathy and the Liberation of the Ummah
+
+**Question:** Why do people think that mere words or seeking their rights is sufficient for liberation, without actively working towards it? 
+
+**Category:** Islamic Thought
+
+**Answer:** The speaker criticizes the apathy of the Ummah and highlights the disconnect between words and actions. The speaker argues that a true commitment to liberation requires active engagement and efforts to free themselves.
+
+## 189.239s: The Importance of Radical Messages
+
+**Question:**  What is the significance of radical messages based on Islamic texts?
+
+**Category:** Islamic Thought
+
+**Answer:** The speaker emphasizes the importance of radical messages based on Islamic texts, suggesting that they can act as a catalyst for change and awaken the Ummah from its slumber. The speaker encourages individuals to propagate such messages, recognizing the crucial role they play in promoting a genuine understanding of Islam.
+
+## 246.28s: American Universities and the Palestine Movement
+
+**Question:**  What is happening with universities in America regarding the Palestine movement?
+
+**Category:** Palestine
+
+**Answer:**  American universities are witnessing significant protests and demonstrations in support of Palestine, with some academics even facing arrest and the deployment of snipers. The speaker compares this to the civil rights movement of the 1960s and questions the silence of Muslims in comparison to the activism of non-Muslims.
+
+## 313.52s: Disbeliever's Honor vs. Muslim Apathy
+
+**Question:** How do you feel about the fact that disbelievers have more honor and courage in defending Palestine than Muslims? 
+
+**Category:** Islamic Ethics
+
+**Answer:** The speaker expresses his frustration with the apathy of Muslims in comparison to the courage of non-Muslims in standing up against injustice. He calls out the those who dismiss the issue and those who perpetuate misinformation, demanding greater engagement and action from the Ummah.
+
+## 471.159s: Caravan in the Quran and Old Testament
+
+**Question:** Does the mention of the caravan in the Quran contradict the Old Testament?
+
+**Category:** Quranic Exegesis
+
+**Answer:**  The speaker points out that the Quran contradicts the Old Testament's account of the caravan transporting Joseph to Egypt. He argues that the Old Testament's account is factually inaccurate and likely fabricated to malign the children of Israel.
+
+## 681.279s: The Word "Rabi" (Lord) in the Quran
+
+**Question:** Why does Joseph use the word "rabi" (Lord) when referring to his master?
+
+**Category:** Quranic Exegesis
+
+**Answer:** The speaker explains that while the word "rabi" is permissible to use for human masters in the Arabic language, it is considered undesirable in Islam. It emphasizes the concept of Allah as the only true Lord. The speaker suggests that Joseph may be referring to Allah as the ultimate source of his master's kindness. 
+
+## 7979.84s: Obligations of Muslims in Surrounding Countries
+
+**Question:**  Are Muslims living in countries surrounding Palestine religiously obliged to aid their brothers who are being exterminated by the Israelis?
+
+**Category:** Islamic Jurisprudence
+
+**Answer:** The speaker asserts that Muslims in surrounding countries are religiously obligated to provide aid to their brothers in Palestine, using all available means, including financial support, resources, and physical capabilities. He states that this obligation extends to all Muslims, especially those in Jordan, Syria, Lebanon, Saudi Arabia, and Egypt. 
+
+## 8257.479s: Disobeying Rulers who Prevent Aid to Palestine
+
+**Question:** If rulers prevent Muslims from providing aid to Palestine, are Muslims obligated to obey their orders or disobey and fight against them? 
+
+**Category:** Islamic Jurisprudence
+
+**Answer:** The speaker firmly states that obedience to rulers who prevent Muslims from fulfilling their obligation to aid their brothers in Palestine is a major sin. He argues that these rulers are not a valid authority and their orders should be disobeyed. Muslims are obligated to resist any attempt to hinder their support for Palestine, using all available means to ensure their aid reaches the rightful recipients.
+
+## 8404.24s: Lack of Scholarly Articulation on Obligations
+
+**Question:** Have any Muslim scholars from the region articulated the Islamic obligations related to aiding Palestine?
+
+**Category:** Islamic Thought
+
+**Answer:** The speaker expresses disappointment at the lack of clear articulation of Islamic obligations regarding supporting Palestine from Muslim scholars in the region. He mentions that while some scholars like the Mufti of Oman and the Mufti of Libya have made general statements, none have definitively addressed the specific obligations for Muslims in the region. He highlights the need for greater clarity and education for the Ummah.
+
+## 8645.16s: Legitimacy of the Jordanian Monarchy
+
+**Question:**  Does the Muslim Brotherhood's recognition of the Jordanian monarchy as a legitimate ruling authority contradict the principles of Islam? 
+
+**Category:** Islamic Jurisprudence
+
+**Answer:** The speaker argues that the Jordanian monarchy is not a legitimate ruling authority in the eyes of Islam, given that it lacks a valid baaya (pledge of allegiance). He points out that Hamas's avoidance of seeking Jordanian assistance is a sign of their recognition of this fact. 
+
+## 8703.76s: Resending Allegiance to a Monarchy
+
+**Question:**  What are the Sharia steps required to resend allegiance to a monarchy?
+
+**Category:** Islamic Jurisprudence
+
+**Answer:** The speaker states that there is no valid allegiance to a monarchy in Islam, as it is not a legitimate form of rulership. He emphasizes that any perceived allegiance is invalid and should be revoked. 
+
+## 8888.72s: The Interpretation of  Quranic Verses about Joseph
+
+**Question:**  Does the Quranic verse about Joseph and the wife of the governor indicate that Joseph had any desire or intention towards her?
+
+**Category:** Quranic Exegesis
+
+**Answer:** The speaker argues that the Quranic verse does not indicate that Joseph had any desire or intention towards the wife of the governor.  He explains that the English translation is not accurate and that the verse only implies that Joseph was tempted, but he never succumbed to it.  He cites other Quranic verses that emphasize Allah's protection of Joseph from any inclination towards sin.
+
+## 9465.72s: Distribution of Assets in a Father's Lifetime
+
+**Question:** Can a father distribute his assets in his lifetime, even if he is ill and nearing death, without violating the rules of inheritance?
+
+**Category:** Islamic Jurisprudence
+
+**Answer:** The speaker clarifies that a father can distribute his assets in his lifetime through gifting, as long as he is just and equitable in his distribution. The speaker emphasizes the importance of clarity and fairness in the distribution, especially if a child has special needs. 
+
+## 9714.279s: Equitable Distribution of Gifts
+
+**Question:**  Does the distribution of gifts in a father's lifetime need to be equal between boys and girls, or can it be adjusted according to the principles of justice?
+
+**Category:** Islamic Jurisprudence
+
+**Answer:**  The speaker states that a father can distribute gifts according to principles of justice, which may involve unequal distribution, but it needs to be within the same categories.  For example, if a father divides his assets into shares for sons and daughters, the shares within the same category (sons or daughters) need to be equal.
+
+## 9800.72s: Gifting 30% of Inheritance
+
+**Question:**  Can the 30% of inheritance that a person can choose to give away be given to an inheritor, or does it have to be given to someone else?
+
+**Category:** Islamic Jurisprudence
+
+**Answer:** The speaker clarifies that the 30% of inheritance cannot be given to an inheritor. He emphasizes that Allah has already ordained the fair share of inheritance for each inheritor, and this provision is not intended to alter that.
+
+## 9986.92s: Beliefs of Christians at the Time of the Prophet
+
+**Question:**  Did Christians at the time of the Prophet believe that Jesus was the son of God, and were there any exceptions to the rules regarding the People of the Book?
+
+**Category:** Islamic History
+
+**Answer:** The speaker states that the vast majority of Christians at the time of the Prophet were Trinitarian and believed that Jesus was the son of God.  He clarifies that only a few isolated individuals remained monotheistic and that the rules regarding the People of the Book, including those related to the Christians, apply to the majority who held Trinitarian beliefs. 
+
+## 10159.239s: Applying Rules to All Christians
+
+**Question:**  Do the rules applying to the People of the Book apply to all Christians of the Prophet's time, including those who believed in the Trinity?
+
+**Category:** Islamic Jurisprudence
+
+**Answer:** The speaker confirms that the rules for the People of the Book apply to all Christians of the Prophet's time, including those who believed in the Trinity. He argues that the historical context and Quranic verses clearly demonstrate that the majority of Christians at the time held Trinitarian beliefs.
+
+## 10228.479s: Working for Police in America
+
+**Question:** Is it permissible for Muslims to work for the police in America?
+
+**Category:** Islamic Jurisprudence
+
+**Answer:** The speaker acknowledges the broad scope of the term "police" and distinguishes between police forces that enforce state security and those that maintain public order. He argues that working for police forces primarily focused on public order, like traffic enforcement, is generally permissible. However, he cautions that Muslims should abstain from obeying orders that directly violate Islamic principles.
+
+## 10621.88s: Reconciling Questioning and Accountability
+
+**Question:** How does the concept of questioning individuals on their actions after death reconcile with the idea that Allah judges people according to His knowledge?
+
+**Category:** Islamic Theology
+
+**Answer:** The speaker clarifies that the concept of questioning individuals on their actions after death is not a contradiction of Allah's knowledge.  He explains that the questioning is more about understanding the motivations and intentions behind actions, not about challenging Allah's knowledge. The speaker stresses that all good and bad deeds will be measured, with Allah ultimately being the judge.
+
+## 10869.88s: Trading Futures
+
+**Question:** Is trading futures halal (permissible)?
+
+**Category:** Islamic Finance
+
+**Answer:** The speaker, having discussed this topic previously, affirms that trading futures is generally permissible. He compares it to the Islamic concept of Salam, which involves buying goods in the future for an agreed-upon price. 
+
+## 10960.16s: Lofty Things and the Quran
+
+**Question:**  Does the pursuit of "lofty things" contradict the Quran's verses about Allah's attributes and His oneness?
+
+**Category:** Islamic Theology
+
+**Answer:** The speaker clarifies that the pursuit of "lofty things" does not contradict the Quranic verses about Allah's attributes and His oneness.  He emphasizes that the question's phrasing is problematic and requires further clarification of the specific "lofty things" being referred to. The speaker recommends examining the wording of the Hadiths related to this topic for a more accurate understanding.
+
+## 11217.319s: Virtue and Knowledge of the Companions
+
+**Question:**  Is it true that the Companions of the Prophet were superior in imaan (faith) to Ali, even to Hasan and Hussein?
+
+**Category:** Islamic History
+
+**Answer:**  The speaker emphasizes that the Companions were not a source of legislation and that their status in terms of imaan is not subject to definitive rankings. He stresses the importance of studying all Hadiths related to this topic to determine the most accurate and reliable wording.
+
+## 11400.0s: Practical Import of the Companions' Status
+
+**Question:**  Does the status of the Companions, particularly Ali's superior status, have any practical implications for Islamic jurisprudence or legislation?
+
+**Category:** Islamic Jurisprudence
+
+**Answer:** The speaker emphasizes that even if one accepts the notion of a superior status for the Companions, particularly Ali, this does not make them sources of legislation. He asserts that the Quran and the Prophet's Sunnah remain the primary sources of Islamic law. The speaker suggests that any attempt to establish legislation based on the Companions' status requires careful scrutiny of the Hadiths and a deep understanding of the historical context.
+
+## 12038.08s: The Prophecy of Being for 30 Years
+
+**Question:**  Why wasn't the prophecy of being for 30 years used during the disputes between Ali and his opponents?
+
+**Category:** Islamic History
+
+**Answer:** The speaker acknowledges that the prophecy of being for 30 years was not explicitly used during the disputes between Ali and his opponents. He suggests that this might be due to the fact that the prophecy itself was disputed by some, and Ali's actions and decisions were primarily based on his understanding of the Quran and the Sunnah, rather than relying solely on prophecies. 
+
+## 12270.359s: Compilation of the Quran
+
+**Question:** Does the majority of Hadiths regarding the compilation of the Quran rely on Ibn Mas'ud?
+
+**Category:** Islamic History
+
+**Answer:** The speaker affirms that a significant portion of Hadiths related to the compilation of the Quran rely on Ibn Mas'ud, highlighting the need for a comprehensive study of these Hadiths to determine their authenticity and accuracy. 
+
+## 12371.08s: Handling Questions on Telegram
+
+**Question:**  Why aren't all the questions submitted on Telegram addressed during the live sessions? 
+
+**Category:** Youtube Content
+
+**Answer:** The speaker acknowledges that many questions are received on their Telegram channel, but they cannot address all of them due to time constraints and a need for structured questions.  He encourages those with serious questions to join their weekly Q&A sessions, which offer a more interactive and comprehensive platform for discussion. 
+
+
+## https://www.youtube.com/watch?v=1ZbWJ5zmHzs
+
+
+
+## https://www.youtube.com/watch?v=R3-P83S-02Q
+
+## What is the difference between the cut off Hadith and the interrupted Hadith? 
+**Category:** Hadith Terminology
+
+**Timestamp:** 4.279s
+
+The speaker explains that there is a distinction between the "cut off Hadith" and the "interrupted Hadith." He states that the cut off Hadith is a report that concerns the words and deeds of the Prophet's followers and ends there. In contrast, the interrupted Hadith is one that is interrupted or disconnected from the Prophet's chain of narration.
+
+
+## What is the general point of view regarding the cut off Hadith?
+**Category:** Hadith Interpretation
+
+**Timestamp:** 79.6s
+
+The speaker explains that the general view regarding cut off Hadiths is that they are not considered as reliable. He argues that the companions were not infallible and might have made mistakes in their reports. Therefore, it is necessary to be cautious when accepting such Hadiths as authentic.
+
+
+## How do the scholars of Hadith classify the companions? 
+**Category:** Hadith Classification
+
+**Timestamp:** 128.56s
+
+The speaker talks about how the companions are classified by Hadith scholars. He states that the companions are divided into three categories: 
+1. The senior companions who could have become companions if they had come to Medina but missed the opportunity.
+2. The companions who met the Prophet before his death but were adults. 
+3. The companions who met the Prophet but were very young. 
+
+
+## Why are the companions who were very young when they met the Prophet often classified differently?
+**Category:** Hadith Classification
+
+**Timestamp:** 160.239s
+
+The speaker explains that the companions who were very young when they met the Prophet are classified differently because they were not able to fully comprehend the teachings of the Prophet. He cites the example of Umar ibn al-Khattab's obituary and how it was narrated by a companion who was very young at the time. 
+
+
+## Why do the books of the companions not present an issue of scrutiny in the Hadith science? 
+**Category:** Hadith Authenticity
+
+**Timestamp:** 213.92s
+
+The speaker asserts that the books of the companions do not present an issue of scrutiny because they were written during a time when manuscripts and written materials were readily available. He suggests that the books were widely accessible and in the hands of the people, allowing for easy verification.
+
+
+## What is the argument that the cut off Hadith is interpreted as 'interrupted'? 
+**Category:** Hadith Terminology
+
+**Timestamp:** 307.84s
+
+The speaker mentions that the term "cut off Hadith" is sometimes interpreted as "interrupted." He explains that this interpretation is based on the remarks of Imam Shafi'i and other scholars who considered cut off Hadiths as unconnected to the Prophet's chain of narration.
+
+
+## Why are the statements of the companions, such as 'we used to do such and such,' categorized as 'halted Hadiths'? 
+**Category:** Hadith Classification
+
+**Timestamp:** 347.72s
+
+The speaker states that statements by the companions, like "we used to do such and such," fall under the category of "halted Hadiths" if they do not explicitly link the action to the Prophet's time. This is because the companions' actions or sayings might not necessarily represent the Prophet's teachings. 
+
+
+## Why is Abu Bakr al-Barani's opinion about the statement of the companions' 'tacit ascent' considered incorrect? 
+**Category:** Hadith Interpretation
+
+**Timestamp:** 439.52s
+
+The speaker explains that Abu Bakr al-Barani's view on the companions' "tacit ascent" as a form of Sunnah is refuted because it assumes that the Prophet tacitly approved every action or saying of his companions. However, this is not necessarily true, as the Prophet might not have been aware of everything his companions were doing or saying. He clarifies that Allah's witness is relevant in the context of legislation, not the Prophet's, and that the Prophet might have rebuked certain actions even if he wasn't present when they were taking place. 
+
+
+## Why is the argument that the companion's silence indicates approval problematic? 
+**Category:** Hadith Interpretation
+
+**Timestamp:** 663.279s
+
+The speaker challenges the notion that the Prophet's silence indicates approval by saying that this interpretation is "strange." He argues that silence does not necessarily imply approval, and that the Prophet's silence might have been due to other reasons, such as not knowing about a specific action or not considering it relevant to legislation.
+
+
+## What is the key issue with the companions' statements about 'we used to do such and such'? 
+**Category:** Hadith Interpretation
+
+**Timestamp:** 1301.44s
+
+The speaker highlights the main issue with statements by the companions like "we used to do such and such." He explains that these statements often indicate actions or practices that were considered permissible or desirable at the time, but not necessarily obligatory. The speaker emphasizes that such statements need to be scrutinized to understand their context and true meaning.
+
+
+## What is the argument against the statement of Umar ibn al-Khattab regarding the diyah (blood money) of a woman? 
+**Category:** Islamic Law
+
+**Timestamp:** 1705.12s
+
+The speaker refutes a statement by Umar ibn al-Khattab about the diyah of a woman. He argues that the statement is wrong because it contradicts the established principle that the diyah of a woman is half that of a man. This is a significant issue as it involves legal rulings and should be properly clarified.
+
+
+## Why is the argument that 'we only take the verbal order of the messenger' incorrect? 
+**Category:** Hadith Interpretation
+
+**Timestamp:** 2383.76s
+
+The speaker rejects the notion that we should only consider the Prophet's verbal orders and disregard his actions. He argues that this approach is not accurate and that the Prophet's actions can also be considered a source of guidance and authority. He emphasizes that both verbal orders and actions are integral parts of Islamic teachings.
+
+
+## What is the point of view on the companions' commentary regarding the circumstances of revelation of a Quranic verse? 
+**Category:** Hadith Interpretation
+
+**Timestamp:** 2120.88s
+
+The speaker clarifies that the companions' commentary regarding the circumstances of revelation of a Quranic verse is considered a "supported Hadith" because it provides valuable insights into the historical context of the verse. He states that such interpretations are important for understanding the meaning and application of the verse. 
+
+
+## https://www.youtube.com/watch?v=JEM9TNv6w1E
+
+## Why was the Quran not taken as IM after the time of the Sahabah? 
+**Category:** Islamic Theology
+
+**Question:** (6.439s) After the time of the Sahabah but even some of the Sahabah, after that until very recently, they did not take the Quran as IM?
+
+**Answer:**  The speaker claims that scholars after the time of the Sahabah, and even some of the Sahabah themselves, did not take the Quran as their ultimate guide (IM).  
+
+## What is the problem with taking the Quran as IM? 
+**Category:** Islamic Theology 
+
+**Question:** (60.64s)  That's that's the problem which has happened after ESS after the time s started with mu the c one when he started changing the religion and undermining the ruling system of Islam?
+
+**Answer:** The speaker suggests that taking the Quran as the sole source of guidance led to problems, particularly after the time of the prophet Muhammad. He attributes this to individuals who attempted to alter the religion and its governing system. 
+
+## What did the person who changed the religion do? 
+**Category:** Islamic History 
+
+**Question:** (68.159s) He started changing the religion and undermining the ruling system of Islam?
+
+**Answer:** The speaker alleges that this individual, presumably referring to a historical figure, manipulated the religion and challenged its established laws. 
+
+## What did the person who changed the religion prohibit? 
+**Category:** Islamic History
+
+**Question:** (86.28s) He prohibited except his permission so this man has done things which are where the where the not protected the Quran not protected?
+
+**Answer:**  The speaker claims that this individual forbade certain actions, specifically narrating stories about Jihad and encouraging fighting. This, the speaker argues, undermined the Quran's protection and led to corruption.
+
+## How was Christianity corrupted? 
+**Category:** Religious History
+
+**Question:** (106.0s) Theus the alleged Apostle of Christ who met him in imaginary world of Glory deformed Christianity into a completely different religion?
+
+**Answer:** The speaker compares the corruption of Islam to that of Christianity, claiming a figure known as "Theus" (likely a mispronunciation of "Theudas") warped the religion into something unrecognizable. 
+
+## How are the Quran and other Islamic texts used as a source of guidance? 
+**Category:** Islamic Theology
+
+**Question:** (130.56s) Totality not this one and this one and review again validation of but secondary issue because really for these we don't need even but there are some which are very helpful?
+
+**Answer:** The speaker acknowledges that the Quran is not the only source of Islamic knowledge, and that other texts, while not necessary for core understanding, can be useful for guidance. They emphasize that the Quran itself should be taken as the primary source. 
+
+
+## https://www.youtube.com/watch?v=CUxoXx0GYg4
+
+## Youtube Video Transcript Questions and Answers
+
+**0.76s : the ongoing battle in in Raz is ongoing and the for being ham badly**
+*Category:  Conflict Analysis*
+The speaker is discussing the ongoing fighting in Gaza and the difficulties faced by the Israeli forces. They claim that the Israeli army is struggling despite their superior weaponry and are suffering significant losses. They also suggest that Hamas is being more truthful in their reporting about casualties compared to the Israelis.
+
+**17.4s : although they continue lying play we found some T we eliminated some but they have not shown even one dead body of the H Hamas Fighter the muah that's number one they did not present any prisoners of War so they were unable to get even one prison war from the other side**
+*Category:  War Reporting & Propaganda*
+The speaker questions the Israeli government's claims of success in their attacks on Hamas fighters. They point out that despite claiming numerous kills, the Israelis have not presented any evidence, such as dead bodies or prisoners of war, to substantiate their claims. 
+
+**36.92s : the hamsa videos and and reports are very very conservative by the way the reports for example say we destroy the tank or we damag the tank not completely destroyed very precise secondly they show videos and they show bodies they show dead bodies and they they they made also presidents of War additional preson of war in the battle so all evidences present by Hamas and all non evidence present byi make us conclude with almost bothering certitude that the Israelis are mostly lying and Hamas is essentially telling the truth actually**
+*Category:  War Reporting & Propaganda*
+The speaker is contrasting the Israeli and Hamas accounts of the fighting in Gaza. They argue that Hamas reports are conservative and truthful, while the Israeli reports are misleading and exaggerated.  They cite the Hamas presentation of precise details and evidence, such as showing destroyed enemy tanks and captured soldiers, as proof of their honesty.
+
+**77.479s : that's number one that's in the battlefield so all that blah blah blah you hear here and there and so on and the Pro zist media is is when they report that is gave these numbers and say this and this is interestingly some of the I think two uh two one ton one 1,000 kilogram or 2,000 pound bombs uh who did not explode**
+*Category:  Military Tactics & Technology*
+The speaker is describing a tactic allegedly employed by Hamas, where unexploded Israeli bombs are recovered and repurposed as roadside bombs against Israeli forces. They state that this is a sign of the desperation and cunning of Hamas, who are using their enemy's weapons against them.
+
+**91.28s : some bombs do not explode because of failure of the Ignitor Ignition device and things like that were appropriated by Hamas and use them as roadside bombs huge roadside bombs annihilating a complete Battalion like four four Jeeps five tanks things like that with a soldier around them imagine one t exploding next to you obviously it will sweep everything away**
+*Category:  Military Tactics & Technology*
+The speaker provides an explanation for why some Israeli bombs fail to detonate, attributing it to malfunctioning ignition devices. They then go into detail about how Hamas is capitalizing on this by using these unexploded bombs as powerful roadside devices, inflicting significant damage on Israeli military units. 
+
+**133.2s : aspect that the Israeli bombs are used as the one who did not explode are used as roadside bombs against them the gulan Bri Brigade which is the the pride and the elite Brigade of the isi Golani will send you the Golani the guani will discipline you that Brigade is is is withdrawn and has been decimated about 40% of them are killed and destroyed and injured they're out of service forever and the other one are demoralized and and in a terrible state of so they were withdrawn after of the battlefield completely**
+*Category:  Military Tactics & Analysis*
+The speaker describes the heavy losses sustained by the Israeli Golani Brigade, an elite unit, in the fighting in Gaza. They claim the brigade suffered a significant 40% casualty rate, both killed and injured, and was forced to withdraw from the battlefield due to heavy losses and low morale.
+
+**170.72s : revenge in sh because in 2014 they have suffered some losses in Shu sh is it in anyway time passed and they said we are going to take revenge for that and uh that was announced by by some general and other high ranking officer in in in a small conference like like when they when they entered in Raza in the South part of Raza and uh the same guys were attacked and and killed by themselves one of them was shot immediately after this statement right away by a sharp shooter from about half a kilometer distance because they have special obviously sh shooting hunting guns were hunted directly so he didn't get a poor guy did not get any opportunity to get any Revenge anyway**
+*Category:  Military Tactics & Analysis*
+The speaker tells the story of an Israeli attempt to seek revenge for losses suffered in 2014. They were ultimately killed by Hamas fighters in a swift counterattack, ironically thwarting their revenge mission.
+
+**221.4s : some isi newspaper admitted say we have Hamas somehow have allowed us in a sneaking way to penetrate deep along two main roads and we thought we are progressing they were obvious run and so on and we thought we are victorious and we're going against them in the in reality the hit and run was just to lock us deeper and deeper and deeper now all these two two major units now are in circle and being anhil**
+*Category:  Military Tactics & Analysis*
+The speaker reveals an admission by Israeli newspapers about being lured into a Hamas trap. Hamas allowed Israeli forces to penetrate deep into their territory, leading them to believe they were gaining ground. However, this was a strategic maneuver, resulting in the Israeli units being surrounded and facing annihilation.
+
+**252.879s : very miserable to the Israeli definitely without any doubt and even the Western media are recognizing that this is what isi reporting is a mistake the the defense minister of America Austin said that the isra have sacrificed sacrificed iic defeat they they prefar some tactical gains uh and sacrificed for that major strategic losses**
+*Category:  Conflict Analysis*
+The speaker discusses the overall situation of the Israeli forces in Gaza, claiming their position is miserable and their tactics have resulted in major strategic losses. They cite the statement of the US defense minister, who acknowledged that Israel has suffered major strategic losses in their pursuit of tactical gains.
+
+**278.52s : possibly he means that this massive bombing of Raza may have G them some some tactical gains I don't think even G tactical G because if you demolish buildings they become an excellent place for for for for Guerilla Warfare Warrior to to hide and interact while if the building are standing they are not not that useful as the collapse building because they can be collapsed and attack but now they collaps what we're going to do with a collapse building already just a pile of rubble someone can be hide behind it that's all you can't do anything about that and you canot bum it again and again and again it will not bring anything except scatter the rubble and make another pile here and there so just I don't think there a tactical Advantage the Strategic loss is the medor loss and the loss of more the moral moral High Ground completely annihilated throughout the world and even SE several countries are filing for Crime uh cases in the international it may be symbolic maybe it will not lead nowhere but this is definitely could not have been Invision or imagined in time before even even the American president is now being called by the many people genocidal joke and being being declared senile or or tra and mental and is a subject even secr by the parliament not because of that because of his Sun Hunter and Corruption and so on but obviously his weakness in this area reflect on all other areas**
+*Category:  Conflict Analysis*
+The speaker challenges the notion that Israel's bombing of Gaza has provided them with tactical advantages. They argue that the destruction of buildings creates ideal cover for Hamas fighters, while standing buildings would be less effective. They also highlight the significant strategic losses suffered by Israel, including a loss of moral ground and international condemnation, which has led to calls for war crimes investigations.
+
+**370.639s : interesting things really the ongoing battle is going on most interesting the following developments first of all Yen the Yen are proceeding with their with their blockade consistently and strongly and uh since they declared any Israeli part even only part owned by by by Israeli inip disregarding its destination if it's part is owned by isi or if it's carrying any Goods going to Israel will not be allowed to go through bab**
+*Category:  International Relations*
+The speaker transitions to discussing the ongoing naval blockade of Israel by Yemen. They describe the Yemeni blockade as consistent and strong, with any vessels partially owned by Israelis or carrying goods destined for Israel being prohibited from passing through the Bab el-Mandab strait.
+
+**402.68s : Mand and we we know that Americans said this is against international law and things like that and they started making a coalition you may have followed the news that the Coalition has already essentially collapsed the French have withdrawn uh I think Holland has withdrawn Netherland Spain has withdrawn I think Austria has withdrawn Germany anyway they are withdrawing only the British the Eternal friend of America with with America but this is just pure symbolism and bahin and some some insignificant country in the mid mid Indian Ocean called s that's all what's there and the American are just sign they cannot do anything but what was more was very significant that act of thei put really the Irani leadership which I believe they MAF and traitor and under moral pressure that they have to do something to cover their their shame and their failure to do anything significant before that anything really significant battle**
+*Category:  International Relations*
+The speaker describes the US's failed attempt to form a coalition against Yemen's blockade of Israel. They note that most countries, including France, Holland, Spain, and Austria, withdrew their support, leaving only Britain in the coalition.  They argue that this is symbolic and ineffective, and reflects the moral pressure on Iran to act against Israel due to their perceived failure to do so previously.
+
+**447.759s : the Irani leadership which I believe they MAF and traitor and under moral pressure that they have to do something to cover their their shame and their failure to do anything significant before that anything really significant battle decisive it seems to be and also it seems to be encouraging the milit the the Revolutionary guard inside Iran to to put pressure on the leadership or even act independent from leadership**
+*Category:  International Relations*
+The speaker suggests that Iran's leadership is under pressure to act against Israel, driven by a desire to cover their perceived inaction in the conflict and save face. This pressure, they argue, might be encouraging Iran's Revolutionary Guard to take independent action, or to push for more decisive action from the leadership.
+
+**475.68s : information about that because there was an attack against and an Israeli own ship uh partly own ship which was carrying oil from Saudi Arabia towards the malore in India it was attacked in the Indian Ocean the AR east of the Arab sea which is usually called Indian Ocean part of the Indian Ocean and this attack could not have been Poss come from any place except from Iran now I think it's confirmed the the the missile or the Drone which attacked the ship and the tanker is now on fire most likely it will sink most likely will will be destroyed and will sink**
+*Category:  International Relations*
+The speaker discusses an attack on an Israeli-owned ship in the Indian Ocean, which they believe was carried out by Iran. The attack is described as a significant escalation and a sign of Iran's willingness to act directly against Israel.
+
+**513.44s : sink and the American did not say anything they say Iran is behind that as the usual rhetoric but no action whatsoever because they know any action which is not less than a massive Invasion with 100,000 people which is impossible now and not conceivable will fail will end a disaster so the YY started really calling the American Bluff and they exposed they exposed it now it seems to be their forces inside Iran not the leadership and not the the the the Deep state which is still inherited from the time of Bah and so on like the Ministry of Foreign Affairs and all these guys semi secular semi maaf no the Revolutionary God which is all in all generally Islamic and and internationalist and pro Palestine genuinely Pro Palestine they seem to be ass setting you may you may have here last time we discussed that there are two significant statement coming from two important generals of the Revolution God one was I did not regard that as very significant at the beginning but now it GES more significant is from is**
+*Category:  International Relations*
+The speaker discusses the US response to the attack on the Israeli ship, highlighting their lack of action despite blaming Iran. They argue that the US is unable to take significant military action due to the potential for disaster. They then suggest that the attack was likely carried out by Iran's Revolutionary Guard, acting independently or against the wishes of the leadership.
+
+**570.48s : aani this one was Ilia but after the miserable speech of Hass what does he say uh he said addressing it to the leader of Hamas under his name with his sign that we are with you until the end and we'll fight with you until the end I said that maybe the leadership that wanted to cover the shame and ordered him to send something like that but seems to be that's his own writing without even getting a green light from the leadership that's the commander of the British revolutionary God in Syria then later on a much more significant statement from salami husin salami General salami in a meeting of the either Commander rary God or in a in a in a public lecture or something like in a function in he said the following very interesting and significant sentence what did he say**
+*Category:  International Relations*
+The speaker discusses two significant statements from Iran's Revolutionary Guard generals, suggesting that they are acting independently from the Iranian leadership. They point out that one general declared their support for Hamas, seemingly without the leadership's approval. This is followed by a statement from another general directly contradicting the Iranian government's stance on the conflict.
+
+**629.2s : say what's going on in now show that is can be demolished now can be finished now is not like is not like what believes that it needs 25 years until we get in the level that we can finish it right so clearly he is mentioning that according to his word obv he will not say I may say the seems to be in his meeting with them because when never h said that publicly something like that so in his meeting with he's telling them yeah we we W but it takes 25 years we need a quarter of century to be ready for that it's not possible now that's what was told them and this man salami Hussein salami said that's not true the reality shows that it can't be demolished now telling perception of the reality when this is wrong he's not saying he's a he is wrong publicly telling what he was seeing behind closed doors think about that it's very significant I believe this these two general statement especially the first one which I going that the time that maybe just just a fig Leaf trying to cover their Shame by order by high Authority it seems to be not it seem no gen from the commander of one of the major commanders the the commander of the Revolution guard Syria the overall commander high ranking general and also from salami inside Iran that it seems to be there's a now conflict and contradiction developing bit by bit between the Revolutionary God and Kamai and I guess this shooting of the of this part partly this is owned partly owned ship carrying oil to India along the way uh is is done by the definitely by Visionary God no doubt or that and most likely is done either without green light for the command or they they acted on their own or they told we will do it and the leadership did not there saying don't do it they we'll show you we can do it and we'll get away with it and they they did it and they got away with it there's not even one statement from America in this matter not even a single state and there would be no statement trust me there would be international law and so on but what they are going to do call for another Coalition call the existing coalition against is disintegrated so they have no other way there's no other way to to to to stop that and prevent there's one way but it's impossible it will be the end of the world World War World using nuclear weapons anything else will not work and they know that very it's out of question that's not possible**
+*Category:  International Relations*
+The speaker delves deeper into the statement made by the Iranian General, highlighting his contradiction of the Iranian government's line on the conflict with Israel. The general insists that the conflict is winnable now, contradicting the government's previous claim that it would take 25 years to achieve victory. This suggests a growing internal conflict within Iran regarding their strategy and involvement in the conflict.
+
+**791.32s : meaning the the sending of the two aircrafts carer immediate few days after the beginning of the 7th of October to intimidate everyone was as I said at that time to everyone and they commented especially in Arabic this is not pure Bluff they were not going to do anything that bluff was not called by anybody really genuinely neither byan they chickened out or they have already never they were never bothered but they liked that and took it as a pretext to to to to bail out and betray either whatever the analis may be they did not call the bluff they do not call the BL with the result is that they missed the opportunity to be really making history they are out of History whatever they do now maybe bring a bit of fig Leaf maybe help them a little bit but it is it's not going to save them they have lost they have lost the that what they could have achieved by standing really beside of Gaza something more more firm and strong because of their n hypocrisy or Cardis while the Y called The Bluff they insisted they called for General mobilization and they made such statement and such action which is very clear showing putting America in his corner but also interesting for the statements it's not this week that was before they said we know exactly what happened to America in Saigon and in Cabo meaning you will get another Cabo here so don't try just stay where you are and the reality and most most shipping companies they World recognizes that America is not they they recognized Al they called the American say we're not going to go in a risk we're just going to go around**
+*Category:  International Relations*
+The speaker reflects on the US's failed attempt to intimidate Yemen with the deployment of aircraft carriers. They argue that the US ultimately backed down from any meaningful action, missing an opportunity to make a significant impact on the situation. In contrast, they praise Yemen for calling the US bluff and showing greater resolve in their support of Palestine.
+
+**910.44s : Additionally the action of the Yemen encouraged someone who was qu generally quite weak and Mild that's Anar Ibrahim the prime minister of Malaysia to is an order that no Israeli ship or ships carrying goods for Israel can stop in any and any Malaysian Port hopefully this would encourage may take some time May encourage Indonesia to do the same the same for their own for and also for the street of Maraga that's will be really an international shock now can they do that is there a danger for America no the same way like bab Mand we are not preventing anybody the the international trade is guaranteed and perfect but those criminals in Palestine those committing genocide no neither any ship owned by them or in full or part or any Goods going to them will be allowed to if they want to go they can go behind South ofia near Australia and go there adding 5,000 km to the road that's they can chose that but they not going to go the street of Maraga we are not allowing that everyone else is welcome here go we protect international trade and so but not not those committing war crimes and genocide I think the can do that hopefully they will do that soon this will add one further component to this C**
+*Category:  International Relations*
+The speaker discusses the growing international pressure on Israel, highlighting the actions of Malaysia and the potential for Indonesia to follow suit. These countries have implemented restrictions on Israeli ships and goods, effectively isolating Israel further. They argue that these actions are not a threat to international trade, but a measure to hold Israel accountable for their actions.
+
+**982.319s : questions uh so what what is obviously uh houti had some uh assistance from Iran uh throughout history you know um to undermines Saudi how in people are of the impression maybe this is instigated by Iran how do you determine that they're independent they independent that's that's clear every analyst know that there was analysis one one analyst lady from chatam Institute some was commenting and she said it's laughable to claim that the are are proxy for Iran said the Iranian they were forced to give the H some support the H approached them seven eight years back because they are in general time Shia and so on and also the father ABD Maliki was in Iran for many years in Exile and so on so they were obliged to do something but at the same time she said clearly that a very important sentence they at the same time also supporting some separation separationist forces in South in which are hostile to thei so they're playing all CS so they cannot be a proxy that's what she said unless we say that the Sai are proxy to to Britain because Britain is supplying massive amount of weapons and so on she actually said if any one of these two is a proxy for the one who supplying with the Saudi is are more proxy than the Y that's it Iran has shown it shown what salami said is clear Iran is not interested to to the conflict they're not interested and has been fooling the Revolution by saying we need 25 years maybe he thinks that maybe he's a coward maybe that's what the way his level of analys of but anyway that's what he what his stand at that moment he's F the sh bson one the sh bson like BS way of doing things in terms of normalize strengthen and whatever you know like it's a parallel Multiverse there are people like that mentality people have lost trust in Allah and in themselves**
+*Category:  Conflict Analysis*
+The speaker addresses the question of Iranian support for the Houthis in Yemen, arguing that they are not simply proxies of Iran. They cite an analyst's statement that while Iran has provided support to the Houthis, they are also supporting separatist forces in the South, indicating they are playing a complex geopolitical game.  They further argue that Iran is not truly committed to the conflict and is likely using the Houthis to achieve its own strategic goals.
+
+**1107.84s : question relates to how much uh does the houthi zi ideolog ideas factor in in their stance so just reading out so what's in Islam in islamist anyone belong to Islam would should have the same stance the question is he sincerely committed to that and willing to fight for it or not that's the question that's a question has nothing to do with being being being zi or being imami or being Sunni or something no are you committed to to fight for Islam and Muslim and defend and willing to fight and sacrifice are you really trusting Allah trusting yourself fine otherwise you're not I know this is a natural question because obviously we're from Sunny background and a lot of copies no no no Iran has has always claimed they are supporting and so on and they they did plenty of support in material things in supplies and in technology and so on but when the moment came where you have to stand and face the sword they seconden out or their their NE has been exposed so all what we are doing before that is either to cover up the crime in Syria claiming are we doing that in Syria just because allowing that what's happening in Syria that that regime is sted meaning the the the resistance front will collapse and then isra will get away that's what the argument they have been blabbering for the last 10 years it could it is very possible that this argument is a fake one and they hypocrit and liar from the beginning that's a possibility another possibility no maybe they will be they they were F by the because the because the Syrian regime B party of Syria is one of the most cunning and filthy uh secular organization the Muslim world as as as hostile to Islam and Muslim as you could imagine and they were they were intelligent enough to to get Iran on their side claiming that they are resistance gr and they are protecting the the graves of the imams of the Shia and protecting this and protecting this and protecting this they may have F the Iranian so the Iranian were really fighting they thinking they are helping the palestin kid but they were not up to the historic challenge to stand firm in in the confrontation and clearly it seemed to be Hamas was having some doubt about the Iranian position and hisbah position so they did not inform them about about the exact there was an idea that we'll do something like that it was generally agreed upon we we fix the date in due course and we do the action let's say for example it may be agreed we do it at Christmas but then hamsa we decided we do it well ahead of time so that the issue does not leak or they got a news that the Israelis are aware because Egyptian having also spies inside Hamas and so on and is well known that abas K the intelligence chief of Egypt is is an Israeli agent and he passes all information to Israel so to preempt that and he possibly he passed to isra there's a plan for something like that and so in general but we don't know the date and the Israelis or we know that the date is later for example Christmas or something like that and relying on that were happy that nothing will happen now and then they were surprised by the DAT what whatever it is very dark until we get all these details what's going behind the scene but all indication is that everyone was surprised by the fixing of the date as was surprised and the the one who gave him the news said he was he appeared to be confused and not and he was asking did isra start attack who who did start what's going on what's Happening he completely unaware until he he was clearly told it is actually Hamas who started which seems to be here he could not conceive that it's happening at that time that was not agreed upon time or there was no agreement yet so sise why Hamas did not inform them I believe partly obviously to keep the secrecy as much as possible or they informed about another fake date because they knew somehow it will leak to to the Egyptian intelligence abas Kam this Zionist agent in Cairo the intelligence Chief and the will be leaked so it's better to give a PA date down the road maybe next year or Christmas or something like that and then strike before that in another occasion where nobody is prepared or and or they have doubt about this the the firmness and the sincerity of of hisbah and Iran that they will stand in the case of Confrontation which had turned out to be true and they may have doubt if they have doubt and this part of the reason they did not inform them**
+*Category:  Conflict Analysis*
+The speaker explores the role of ideology in the Houthis' actions, arguing that genuine commitment to Islamic principles should lead to a unified stance among Muslims against oppression. However, they question the Houthis' sincerity and their willingness to fight for their beliefs. They also discuss the complexities of Iranian support for the Houthis, raising doubts about their true intentions and highlighting the potential for hypocrisy and manipulation.
+
+**1408.52s : that's that's a great news because this means that they are now becoming sufficiently politically anal analytic and Savvy to to to recognize that these people are not reliable 100% that's good because generally organization coming from the womb of Muslim Brotherhood are known to be derish to be derish in in matter of political analysis easily taken for a ride and behaving like idiots politically which has happened through history until now we see it every day almost but seem to be Hamas had graduated out of that most likely because they are interacting and cooperating with the Jihad that's not that's not originally it's not originally aani group cooperating with some factions of fat the sincere part of f with the with the popular front which are not islamist Etc that widen their Horizon and they have access to information about fat the fat past and the communication and the relation with the other uh with the other regimes and groups and they they sufficiently sa to recognize most of these in the field cannot be relied upon they are the traitor or they sell outs or they are cards and or ready to sit out so be cautious cooperate with them but watch carefully know the limit of disclosure and things like that I hope that's my that's my hope if that's it then this is a great news because we need need Hamas to be up to the challenge of historical moment you cannot be at the historic moment if you just trust everyone blindly even even the fact that that that they give q a lot of because is obviously adopted the Muslim Brotherhood and used them as a shield for the regime fine okay we use you and give you even some bonuses and let you do negotiation and give you some achievements and make you look nice okay perfectly fine but trust them completely does not seem to be the case because the meeting of is and and and and mush and other leaders who went from Lebanon they did not meet inq nor in Iran where did they meet they meet in Turkey now some say turkey is is is a mavian and possibly maaf maybe but the Turkish State and the Turkish intelligence is firmly on our count despite allism of ofan and so on Vian is definitely in our C without any doubt although obviously because of nature of turkey and politics in Turkey for the last century is a extremely anti-islamic maavan European style management not an Islamic sty so he may appear doing the same like the Western powers do negotiating selling out buying and so on but not and to some part is are in our camp so that meeting in which they were discussing obviously how to proceed what will happen in the future how to deal with the situation Iran hisbah did not happen in Q Al the Q doing negotiation on their behalf with isra and they gave them a lot of benefit and address it to them thanks publicly and things like that by the way America also Biden always thank k for their mediation and so on putting them high up they don't do that they don't do in Iran which is clear because the position of Iran and the failure to stand firm is clear or the or the their loss of courage and chickening out is clear so they did it in the only place remaining which makes some sense and there's some protection is in Turkey Des spite of all what is being rumored and said now partly through that still business people in Turkey still are communicating with isra and sending goods and services and so on and th had not been cut it will be cut it will be one day it will be cut be cut because we should not forget that turkey is part of the West until now politically and constitutionally part of the West they are member of NATO they are not they are not an Islamic country like that the rest of Muslim country only nominally it belongs internationally and according to the current situation at least in the last century they belong to the West they don't belong to us so whatever they do with us will be under the cover done in a certain Secret way cutting the relation directly like for stopping the shiing and so on to isra cannot be done immediately and it could be it could be if had the courage but his nature being a mavan and opportunist prevented from there he could have done that the other things which do not cost money and do cause much problem he can do like talking big like a drum drumming and also filing genocidal claims against isra in the IC that he can attacking nany calling him a traitor and enemy of turkey all this he can do but real action like stopping the the contracts and the supply of oil and so on he is not yet to the stage or he doesn't recognize that as beneficial to be done now it should have been done don't misunderstand it should have been done from a sincere Muslim it should have been done but he's not doing it so that's that's roughly the situation it looks like it looks like I I don't think that that uh that uh uh that uh the skirmishes and the fight and R will continue for several more months maybe one or two weeks because uh Biden is is is sinking and he he cannot continue and also all his demand for money for for Ukraine and for Israel is being stuiz by the parliament very sely uh especially by the Senate but also by the House of Representative is under now an impeachment investigation and also there's a there's a strong popular wave against him all in all even you see even the campaign of trump election campaign in the recent all his recent statement about the poison of the immigrants poisoning the blood of America he's barely mentioning anything about iside because you know this is a losing card so it's clear that the pressure from America will be mounting further further on Israel does not prevent that the isra leadership lose their lose their mind like they lost after seven of October and started this bombing C gu which destroyed them internationally and morally that they may think we have just just we are sinking in a in an never ending deep hole let's attack Lebanon or something that is unlikely but if someone loses his mind and is blinded by by by fear of imprisonment like Netanyahu and fear of of admitting feet he may try to do something something like James Bond action Rambo that style action against against hisb or something like that and thenb will have no choice except to attack in the depth of we should finish the business much faster but this is only if they are completely blinded and if America does not put enormous pressure on them not to do so they're putting definitely pressure but will they increase the pressure to the listen any wrong move no more weapons no more money nothing finish we finish with you until that they didn't reach that level now but I think they will reach it soon because you look at what what the disaster in in the in the Red Sea with the Y it's gone it's finished the defeat is complete there and now what the Irani are doing in the Indian Ocean attacking ships and they got away with this attack you will see tomorrow one day after tomorrow more attacks of this Ty it will increase**
+*Category:  Conflict Analysis & Political Analysis*
+The speaker discusses Hamas's growing sophistication in political analysis, recognizing that not all allies are reliable. They highlight Hamas's cooperation with other factions and their engagement with non-Islamist groups, which has broadened their understanding of the political landscape and made them less vulnerable to manipulation.
+
+**1888.32s : you mentioned about you mentioned about West Bank earlier um there was a video that was sent where alleging to address uh elections for the someone who the man I put that video in Enterprise yeah this one seems to be from background his language is more like like patriotic nationalistic with some Islamic flavor and moral appeals but not really islamist but he says clearly that the leadership should be given to Hamas but they are accepted as the leader and asking the people to Rebel asking Abbas government to to leave the leave power peacefully otherwise the people should should repel against against against him and calling for the next Friday to be a day of a general sit in um general strike and demonstration against the authority if the authority is not resign until that day so this is the I think this is to be a significant announcement we didn't have something structured like that to someone who veiled and obviously the voice seems to be changed maybe maybe not maybe say Genuine Voice and U and uh it's very clear that that things are going to to to a confrontation in the West Bank between the people and the authority although he could not for whatever reason because his philosophical and educational background historic background and so on he could not declare Abbas and so on as as although he all what he described that they are really trait they betray the Palestinian issue and they are really just an agent of the Israeli but he didn't go to the Limit that they enemy of of Palestine and they are maaf or CF that language can be used only by us and we use it we use it the others will adopted one day but the general public will adopt that faster you will see that it will become the real Islamic against against CER confrontation it it will be it will become but until now many fesan faction are still afraid to go this one step and then thus lose what they called National or patriotic cohesion which is not true but this is this is the based on the that most of them the most leadership and personality they are born in the last 50 70 years yeah and that generation is the generation of Bly Islamic education background uh with barely anyone was was was member of even Muslim Brotherhood and things like that to get some background most of them are are from from B and nationalistic and Arab nationalism pan arabism background which is amorphous and is not clear what is it really semi secular not really genuine secular CAF secular no not Islamic so they still still the generation is not purified enough but they are improving they improving they're improving it's just you know we have to keep moning this week so so it looks like that we maybe we'll see until this Friday we have to watch care Friday will be I think uh will be the 29th yeah 29th we're still in this year it seems it's very interesting to see what will be going on there and also what's be going what will be going in the Indian Ocean in in the Red Sea and around that it's it's gone it's finished it's gone the Yem has everything firm in control and they're ready for the the major confrontation and they have made a general mobilization that's not and the sais and the emiratis traitors are their pants that's it they know that anything going out of control the knife will be at their neck and I can't guess now that they are absolute dis they don't know what to do they're absolutely unable to do anything absolutely unable to do anything or the some of their media is trying to play the Iranian card oh Iran is behind that and so on hey you have settled already Iran became semi friends under Chinese Chinese leadership and so on okay so continue There continue um any thoughts on sdan you know San in terms of uh the state falling apart someone just asked a question Sudan because of what's going inaz everything was out of the focus of the whole world but is being really almost a genocide by these rapid forces which is obviously financed by the Emirates and by the Israeli and the Army is struggling uh Allah what will develop I don't follow the details um and although the public seems to be in the side of the army because they have recognized that this rapid Force really criminal and although they originally they were not very happy with the situation with the previous government which is allegedly have relation to the Muslim Brotherhood and and tabi the tabi faction of the Muslim Brotherhood which made such severe blenders over the
+
+## https://www.youtube.com/watch?v=EwPxn25qDrI
+
+## Youtube Video Transcript Analysis
+
+**Question:** What happened in the recent events concerning the Palestinian situation? (0.359s)
+**Category:** Palestine
+**Answer:** The speaker congratulates the Palestinian people and their families, indicating a positive development in the situation. However, the speaker doesn't specify what this development is. 
+
+**Question:** What is the speaker's opinion on the current situation with Israel, the US, and Iran? (39.2s)
+**Category:** Israel-US-Iran Relations
+**Answer:** The speaker believes the US is heavily influenced by the Zionist Lobby, which promotes Israel's interests. They criticize the American political system, claiming it has been compromised by interest groups. They also believe Israel is attempting to provoke a war with Iran and Hezbollah, potentially using the recent events as a catalyst. 
+
+**Question:** What was the motive behind the recent attack in Majdal Shams, a Syrian city? (164.959s)
+**Category:** Majdal Shams Attack
+**Answer:** The speaker believes the attack was deliberate and planned to provoke a response from Hezbollah and Iran. They argue that Israel assassinated a Hezbollah leader beforehand to ensure a counterattack, knowing Hezbollah's policy of responding to attacks from the source.  
+
+**Question:** What is the speaker's opinion on the future of the conflict and the potential responses from Iran? (299.72s)
+**Category:** Conflict Analysis
+**Answer:** The speaker believes Israel is aiming to involve Iran in a major attack to then justify further actions, potentially even invading Lebanon. They think Iran will retaliate strongly, potentially ending with a decisive defeat for Israel and the US, comparing this to their recent withdrawal from Afghanistan. 
+
+**Question:** Is there any collusion between Iran and Syria? (1079.64s)
+**Category:** Iran-Syria Relations
+**Answer:** The speaker believes there is no current collusion between Iran and Syria, despite past instances of cooperation. They describe Bashar al-Assad as an agent of the oligarchy and an enemy of Iran, highlighting that both countries are playing complex geopolitical games. 
+
+**Question:** Can Syria recover from the current situation, similar to how Iraq recovered from the US invasion? (1369.799s)
+**Category:** Syria Recovery
+**Answer:** The speaker believes Syria's situation is more dire than Iraq's was after the US invasion. The Syrian opposition has made significant mistakes, and their cooperation with Israel further complicates the situation. The speaker advises focusing on defeating Israel and the US before addressing Syria. 
+
+**Question:** What is the speaker's view on the sectarian tensions in Syria? (1603.52s)
+**Category:** Syria Sectarianism
+**Answer:** The speaker believes the sectarian card was intentionally played by external forces, like Saudi Arabia, to manipulate the Syrian revolution for their own gains. They accuse Saudi Arabia of using sectarianism to support the Syrian regime and incite further conflict, a strategy often employed by Western powers. 
+
+**Question:** Is Iran truly a puppet of the US? (1811.08s)
+**Category:** Iran-US Relations
+**Answer:** The speaker refutes the idea of Iran being a puppet of the US, arguing that Iran's recent actions suggest they are acting independently, possibly due to a realization that America's military strength is exaggerated. They believe Iran's retaliation will be significant, but may also be motivated by pressure from their own people. 
+
+**Question:** What will be the role of Saudi Arabia in the conflict? (2090.2s)
+**Category:** Saudi Arabia
+**Answer:** The speaker believes Saudi Arabia will likely not take an active role in the conflict unless Iran launches a major attack on Israel. They describe Saudi Arabia as essentially powerless, being controlled by external forces. The speaker believes Saudi Arabia's recent actions are merely a facade, and they are incapable of taking any meaningful action. 
+
+
+## https://www.youtube.com/watch?v=Be4CvHWrRKM
+
+## Why did Netanyahu make such a statement? 
+**Category:** Political Analysis
+
+0.199s: A couple of people have asked about you know this gutless statement this damp squib. 
+
+**Answer:** The speaker believes Netanyahu's statement was a cowardly and weak attempt to appear strong. He feels it was a poor choice of words, and did not achieve the desired effect. 
+
+## What is your current status and what is your view of the recent events?
+**Category:** Political Analysis 
+
+6.72s: From what's your current status and what is your view of the recent events?
+
+**Answer:** The speaker believes Netanyahu's statement is a turning point in the conflict. He believes it's the beginning of the end for Israel and that the recent events have caused a significant backlash.
+
+## Why has there been such a negative reaction to Netanyahu’s recent statements?
+**Category:** Political Analysis
+
+13.08s: He yeah that's that's definitely has created against him such an enormous backlash and uh the whole accusation and discussion of time past have been open. 
+
+**Answer:** The speaker believes that Netanyahu's statement has been met with such strong negative reactions because it was a blatant lie, and he believes there is a possibility that the mullahs in Iran were fooled by Netanyahu into supporting the resistance front. 
+
+## Why were previous theories about the motivations behind the Syrian conflict relatively subdued?
+**Category:** Political Analysis
+
+28.199s: They were relatively subdued. 
+
+**Answer:** Previous theories about the Syrian conflict were more subdued because they were based on the belief that the conflict was part of a larger regional conflict between Iran and Israel. The speaker believes that Netanyahu's statement has changed the narrative and exposed the truth about the conflict. 
+
+## What is your analysis of the situation in Syria?
+**Category:** Political Analysis
+
+42.559s: Whatever we analyze my analysis that my old analysis which seems to be now becoming again the focus is that the the whole the whole crime which have in Syria is instigated by the regime itself. 
+
+**Answer:** The speaker's analysis of the Syrian conflict is that the regime in Syria is responsible for the violence and suffering of the Syrian people. He believes that the regime is a puppet of Israel and the United States, and that they are using the conflict to advance their own interests. 
+
+## What is the significance of the statement Netanyahu made?
+**Category:** Political Analysis 
+
+120.399s: He said is the the Arabic say is an Arabic saying about someone who remains silent for a long time and then when he opens his mouth utters something so outrageous and that it is shocking. 
+
+**Answer:** The speaker believes that Netanyahu's statement is a sign of desperation and that it is a significant moment in the conflict. He feels it is a major miscalculation that may backfire on Netanyahu.  
+
+## What is your opinion on Netanyahu’s statement and how it may affect the situation?
+**Category:** Political Analysis
+
+167.36s:  Not to talk keep m in suspense at least keep m in suspense there was no need for this lengthy uh rhetoric description of the Great sacri of the Palestinian and all this PR on this that's not relevant. 
+
+**Answer:** The speaker believes that Netanyahu's statement was unnecessary and counterproductive. He believes it will only make the situation worse and that it will have negative consequences for both Israel and the Palestinians.
+
+## What would have been a better approach for Netanyahu to take?
+**Category:** Political Analysis
+
+205.799s:  Remain silence better would have been to say if bombing hospitals and civilian continue in then we will take decisive action yes there such a way we will take decisive action much more destraction than what he now that's enough to keep them in suspense. 
+
+**Answer:** The speaker believes that Netanyahu should have remained silent and only spoken if there was a real threat to Israel. He feels a more direct and measured response would have been more effective. 
+
+## What is the significance of the Lebanese leader’s reaction to Netanyahu’s statement? 
+**Category:** Political Analysis
+
+243.56s: Actually banned he finished it because next same day maybe next day and the coming days unless he corrects that there a possibility of Correction I mention now but before the correction Sam the leader of the marun Fist a very vicious fascist group leing to be Christian and Christianity is far away from them theor night and who who is famously with his crimes.
+
+**Answer:** The speaker believes that the Lebanese leader’s reaction to Netanyahu's statement is a sign of the deep divisions within Lebanon. He feels it is a clear sign of how desperate the situation is. 
+
+## What is the significance of the recent events?
+**Category:** Political Analysis
+
+398.0s: The the speech immediately all Israeli organs and so on especially Ed kohin who is is known to to to to have poisonous tweets and so on trying to undermine the Muslim confidence with themselves and AR confidence with themselves they said Thank you Mr because you you're speech was very IR rational very and and then a few minutes later they bombed the Sher Hospital.
+
+**Answer:** The speaker believes that Netanyahu's statement and the subsequent bombing of the Sher Hospital are part of a larger pattern of Israeli aggression. He feels that Israel is trying to provoke a conflict and that they are not interested in peace.
+
+## What are some of the possible explanations for Netanyahu’s recent statement?
+**Category:** Political Analysis
+
+440.96s: Small minority tiny say he has been really there was really a real threat from America to to wage war the was and he has no other way he could if if that's true there's a real threat he should have said there is a real threat or example a threat of nuclear weapons but then if he said that would have said that the people will tell him how do you know that this this threat is real. 
+
+**Answer:** The speaker believes that Netanyahu's statement is a sign of weakness and that he is trying to distract from the real threat that Israel faces, which is a growing Palestinian resistance.  
+
+## What is your opinion on the possibility of redemption for Netanyahu?
+**Category:** Political Analysis
+
+795.839s: There's a possibility I I don't give that much weight I don't give that much weight but there's still a possibility of redemption they can redeem themselves otherwise they are gone which is all will be good whatever Allah designed for us Allah is managing for us because we are bad in our self management that's my conviction and the events will show that inshah so let us watch the event and analyze and continue our work. 
+
+**Answer:** The speaker believes that there is a possibility of redemption for Netanyahu, but he does not give it much weight. He believes that the events of the last few days have shown that Netanyahu is a dangerous and reckless leader. 
+
+## What is your take on the ongoing conflict between Israel and Palestine?
+**Category:** Political Analysis
+
+823.48s:  So I mean our own analysis you know on our previous broadcast as well we we effectively went for a optimistic scenario that there was any good in these scumbags um and you know they would get embroiled but they obviously because it's a dynamic thing um you go with the apparent so you know we don't have any instead of be the the first option easy option we have the difficult and longer option that's it but fact that add that to the four the three initial facts I mentioned earlier the Betrayal of the British Empire in establishing this cancerous entity secondly that entity has no right of existence thirdly they have right of cence fourthly that they are a nail like occupation Force which have additionally no right of self-defense even if they originally would have been limited legitimate which they are not so they have various reasons for no right of self-defense not only that they are not no right to exist but they also they are Nazi State genocidal entity which had an occupation entity which has no right of self-defense even if it's originally was legitimate the fifth fact is that the victory of ham and the Muslims in in in 7th of October cannot be undone the victory is there the the invisibility of the Israeli Army is gone the Army the back of the Army is broken.
+
+**Answer:** The speaker believes that the victory of Hamas and the Muslims in the 7th of October is a turning point in the conflict. He believes that Israel is a cancerous entity with no right to exist and that the victory of Hamas is a sign that Israel is on the way out. 
+
+## What are some of the challenges facing the Palestinian people?
+**Category:** Political Analysis
+
+917.04s: I say the Israeli Army their legs have been cut their leg is cut but still their arms are strong and they have knives and they can stab right and left and Center like that and and injure you severely if you come close but that's all what they have and then the the strong arms and the knives and the the arms are the Air Force that's all what they really have but they are defeated and their back is broken even if the at most extreme case of Hamas Community eliminated which seems to be at the moment almost bothering on the impossibility even that will not negate the fact that they have been defeated and the beginning the countdown of The Disappearance of Israel has start hold to that and based on that things will develop but the question how painful or less painful it is and what will be maybe it is by the sign of Allah so that there will be sufficient anger and and and an explosive uh movement in in Egypt or in Arabia Saudi Arabia or the Emirates or something like that which you don't see now but boiling is was fuming under the surface and then because of What's Happen now it will explode and there's no guarantee that will not explode because we have now almost two years now that we know that the Egyptian Army is unhappy with with with this with this with this pig CCE and they want to to him now the the unhappiness will will develop into anger but this will not happen overnight it takes some time now it make develop inside Saudi Arabia maybe some remote wings of the Royals may be move because one of them wanted to do aita in during the Y War he did it in a simpleminded way and he was caught and I think he was tried and I don't know if he's executed or not but there may be some other one this is a big family there may be one or two men of some standing remaining maybe we don't know about them even the UAE some people say how can the people the seem to be lethargic yes they lethargic or they have booted all the MD and so on the all these are all of the the population is just passively reacting yes so and the majority of the inhabitants of Dubai and so on are really Hindus and so on they will not be concerned about doing anything against the regime because the regime is their Lifeline the income so where something can happen oh something can very well happen sh sh is very Islamic and the and uh the the ruling family there having a long long history of confronting the British and so yes they have been subdued and made dile but you never know out of the dile suddenly an eruption comes it's like a volcano which is not completely dead how do we know if it's completely or not that's Islam for example in the border for between Dubai and sha no one crosses who has any Israeli relation no one no one with gbt signs can't be Crossing and so on there's almost two different worlds there on the border the Border strict control nobody passes with drugs or alcohol or something like that so there's a possibility of an eruption from there and seeing these these mbz and and these dub Dubai criminals we don't know it may so that may be and hopefully it is conducive in this direction ushering a new Arab Spring or new Islamic spring that's very well possible so the long painful uh grinding fight is painful because you have more sh but we should remember that m is is is not as painful as it appear for us from the human eye in this D from from the view point of Allah it is a great success let keep that in mind so we are we don't fall in Despair and start neglecting doing our duties our duty here is that what we have been doing that. 
+
+**Answer:** The speaker believes that despite the current situation, the Palestinian people should not give up hope. He feels that the victory of Hamas is a sign of Allah's will and that ultimately, the Palestinians will be victorious. He encourages patience and persistence in the face of adversity. 
+
+
+## https://www.youtube.com/watch?v=i9YSrLpvCUU
+
+##  1.14s:  [Theorism]
+
+**Question:** Why is the classical theorism considered faulty?
+
+**Category:** Religion
+
+**Answer:** The speaker argues that attributing certain attributes to Allah (God) within classical theorism is incorrect and a mistake. These attributes, based on the premises of necessity, possibility, and contingency, lead to contradictions.  The speaker believes that these premises are often obscure, undefined, and blatantly false. 
+
+## 71.4s:  [Classical Theorism]
+
+**Question:** What is the main issue with the classical theorism? 
+
+**Category:** Religion
+
+**Answer:**  The speaker points out that the classical theorism attributes certain attributes to Allah (God) that are wrong. This error stems from the theorism's focus on necessity and determinism, which contradicts the reality of free will and choice. This contradiction makes the classical theorism incompatible with human perception and experience.
+
+## 98.579s:  [Scriptural Interpretation]
+
+**Question:**  How should one approach understanding the scriptures?
+
+**Category:** Religion
+
+**Answer:** The speaker suggests returning to the scriptures and analyzing them correctly. This means starting from basic assumptions about necessities and contingencies and working from there. This approach helps remove fallacies and avoids relying on flawed premises.
+
+## 150.84s:  [Mind and God]
+
+**Question:** Why is it important that the human mind has even a limited understanding of concepts like time and space? 
+
+**Category:** Philosophy
+
+**Answer:** The speaker argues that for a human mind to comprehend the Divine, it must have some fundamental understanding of concepts like time and space. This limited understanding allows for a projection of the infinite (God) onto the finite (human mind). The speaker uses the idea of "being created in God's image" as a metaphor for this projection.
+
+## 200.159s:  [Free Will]
+
+**Question:** Why is free will essential for the existence of commands and revelations?
+
+**Category:** Philosophy
+
+**Answer:** The speaker asserts that free will is essential for the existence of commands and revelations. If there is no genuine freedom, then commands would be meaningless and revelations would be illusions. The human mind, despite its limitations, must possess a degree of freedom to make sense of divine directives. 
+
+## 253.879s:  [Human Knowledge]
+
+**Question:** How does human knowledge compare to comprehensive knowledge?
+
+**Category:** Epistemology
+
+**Answer:** The speaker points out that human knowledge is inherently limited. We cannot fully comprehend the details of everything, such as a person's tissues and organs or the development of cancer cells. However, we can grasp essential facts and principles without needing to know every detail. This limitation in human knowledge doesn't invalidate our ability to understand fundamental truths.
+
+## 292.8s:  [Quran and Human Mind]
+
+**Question:** What does the Quran say about the human mind's capabilities?
+
+**Category:** Religion
+
+**Answer:** The speaker cites the Quran to emphasize that the human mind is designed to make sense of the world through naming, conceptualization, and language. This capability allows us to attribute meaning and understanding to our experiences. The Quran asserts that God bestowed this capability on humans.
+
+## 332.039s:  [Human Knowledge and Truth]
+
+**Question:** Does the human mind's limitations preclude us from understanding the core of truth? 
+
+**Category:** Philosophy
+
+**Answer:** The speaker argues that the human mind, while limited, is capable of understanding core truths. The argument that we only know what we are taught is not entirely accurate. Our minds are fundamentally capable of making sense of the world and grasping essential concepts. This ability is necessary for any meaningful discourse on reality or revelation.
+
+## 371.82s:  [Language and the Impossible]
+
+**Question:** Can language encompass the impossible?
+
+**Category:** Language
+
+**Answer:**  The speaker explains that despite the limitations of language, we can still refer to or name impossible concepts. This happens through linguistic references that point to something that doesn't exist in a concrete way. Just like a null pointer in programming, these linguistic references can hold a placeholder for an impossible concept.
+
+## 449.94s:  [General Capability and Truth]
+
+**Question:** Can our general capability as humans lead us to truths as they truly are?
+
+**Category:** Philosophy
+
+**Answer:** The speaker believes that our general capabilities, if properly applied, can lead us to truths as they exist. If this capability is dismissed as illusory, then the whole concept of revelation and even the Quran itself becomes an illusion. This understanding of truth is crucial for interpreting divine messages and understanding the world.
+
+## 476.46s:  [Expanding Divine Knowledge]
+
+**Question:**  How can we expand our understanding of divine knowledge?
+
+**Category:** Religion
+
+**Answer:**  The speaker suggests that we can expand our understanding of divine knowledge by using our limited tools and capabilities. This involves analyzing divine messages and examining them thoroughly through our own intellectual processes. While we may not be able to fully grasp the entirety of divine knowledge, we can still explore it from various angles and deepen our understanding.
+
+## 515.94s:  [Existence and the Trivial]
+
+**Question:** Why does the speaker say the existence of a "square circle" is a trivial matter? 
+
+**Category:** Logic
+
+**Answer:** The speaker uses the concept of a "square circle" to illustrate the absurdity of some claims.  The speaker emphasizes that the existence of a "square circle" is a trivial impossibility. It's a concept that is so fundamentally contradictory that it doesn't require extensive analysis to understand its impossibility.
+
+## 533.82s:  [Ontological Argument]
+
+**Question:**  What was the speaker reading about and what point did they make regarding this topic? 
+
+**Category:** Philosophy
+
+**Answer:** The speaker was reading about the purely ontological argument of Anselm of Canterbury. The speaker argues that the definition of God as "the one who knows no perfect being" leads to a contradiction.  Knowing a negative requires comprehensive knowledge of the positive, which then creates a paradox where the being who knows no perfect being must be God.
+
+## 619.14s:  [Perfect Knowledge]
+
+**Question:**  How should we approach understanding the attribute of "perfect knowledge"?
+
+**Category:** Religion
+
+**Answer:** The speaker suggests that we should analyze the attribute of "perfect knowledge" in a more structured way. This means focusing on one attribute at a time and considering its implications.  Instead of trying to grasp the entirety of God's perfect knowledge, we can start with smaller, more manageable steps.
+
+## 709.38s:  [Inductive and Deductive Reasoning]
+
+**Question:**  What are the two methods of reasoning the speaker mentions and how do they apply to understanding God?
+
+**Category:** Philosophy
+
+**Answer:**  The speaker emphasizes the use of both inductive and deductive reasoning.  Inductive reasoning involves gathering information from specific examples and building generalizations. Deductive reasoning starts with general principles and applies them to specific cases. Applying both methods is essential for understanding God, starting with the basic premise of God's existence and then deducing implications from that premise.
+
+## 758.7s:  [Scrutiny of Arguments]
+
+**Question:** What does the speaker consider essential for analyzing arguments?
+
+**Category:** Philosophy
+
+**Answer:** The speaker emphasizes the importance of rigorous scrutiny when analyzing arguments.  They argue that often, arguments are not scrutinized rigorously enough, leading to faulty conclusions.  A thorough and clean examination of premises and arguments is crucial for avoiding contradictions and arriving at valid conclusions.
+
+## 781.62s:  [Perfect Being and Knowledge]
+
+**Question:** What is the speaker's critique of the term "perfect being" in the context of God?
+
+**Category:** Religion
+
+**Answer:** The speaker believes that focusing on the attribute of "perfect being" can lead to problems. They advocate for focusing on specific attributes like "perfect knowledge" instead. This allows for a more manageable and less potentially contradictory approach to understanding God.
+
+## 805.92s:  [Omnipotence]
+
+**Question:** How does the definition of omnipotence become problematic?
+
+**Category:** Philosophy
+
+**Answer:** The speaker argues that defining omnipotence as the ability to do everything can lead to contradictions. They explain that the concept of omnipotence cannot encompass necessary actions or impossible actions. Only contingent things can be created or attended to. This implies that omnipotence has its own limitations, which need to be considered when defining the attribute.
+
+## 863.899s:  [Attributes of God]
+
+**Question:**  What is the issue with defining God solely by the attribute of omnipotence?
+
+**Category:** Religion
+
+**Answer:**  The speaker criticizes the definition of God solely by omnipotence, arguing that it's problematic in both Western and Christian discourse.  This attribute alone leads to contradictions and raises questions about how God allows evil in the world.  Adding other attributes can also create further contradictions, as seen in Christian theology with the concept of God having a son.
+
+## 929.22s:  [Classical Definition of God]
+
+**Question:** What is the speaker's critique of the classical definition of God in both Christian and Muslim contexts?
+
+**Category:** Religion
+
+**Answer:**  The speaker critiques the classical definition of God in both Christian and Muslim contexts.  The speaker argues that both definitions are flawed, leading to contradictions. They believe that the Christian image of God is based on myths and exaggerations, while the Ash'ari understanding of God leads to a deterministic worldview where there is no room for events happening in God's being.
+
+## 952.8s:  [Time and God]
+
+**Question:** What issues arise when considering time in relation to God?
+
+**Category:** Philosophy
+
+**Answer:** The speaker addresses the complexities of time in relation to God. They argue that things that begin in time must have a cause, but the classical theorism runs into contradictions when trying to reconcile this with the concept of an eternal, non-eventful God.  This issue highlights the challenges of understanding the relationship between time and the Divine.
+
+## 1059.32s:  [Event and Beginning]
+
+**Question:** What is the speaker's critique of the idea that anything with events must have a beginning? 
+
+**Category:** Philosophy
+
+**Answer:** The speaker disagrees with the idea that anything with events must have a beginning. They argue that this is not a true principle and that the Quran offers a different perspective. The example of the leaves falling in time suggests that God's knowledge of events happening in time doesn't imply that these events exist eternally or are outside of time.
+
+## 1100.88s:  [Scriptural Guidance and Philosophy]
+
+**Question:** Why does the speaker suggest that Ash'ari theologians should have taken more guidance from the Quran?
+
+**Category:** Religion
+
+**Answer:** The speaker believes that Ash'ari theologians made a mistake by mixing Quranic teachings with philosophical ideas that were not yet fully developed.  They argue that the Ash'ari approach led to a focus on events and determinism, neglecting the more complex and nuanced understanding of contingency and necessity found in the Quran.
+
+## 1127.0s:  [Best Possible Universe]
+
+**Question:** How does the idea of a "best possible universe" become problematic?
+
+**Category:** Philosophy
+
+**Answer:** The speaker questions the concept of a "best possible universe." They argue that since the universe may be multi-dimensional and potentially infinite, there may be no absolute "best" possible universe.  This challenges the assumption that God must have created the "best" possible world, as there may be an infinite number of options.
+
+## 1214.52s:  [Starting Point for Understanding God]
+
+**Question:**  What is the best starting point for understanding God?
+
+**Category:** Religion
+
+**Answer:** The speaker believes that the best starting point for understanding God is to acknowledge the existence of reason and self-existence. These basic principles, along with our internal perceptions of space and time, offer a solid foundation for further philosophical inquiry. 
+
+## 1261.2s:  [Time's Direction]
+
+**Question:**  What is the fundamental nature of time's direction?
+
+**Category:** Physics
+
+**Answer:** The speaker explains that time has a unidirectional nature, moving forward from the past to the future. This is fundamentally different from the idea of moving backward in time. This understanding of time's direction is essential for considering the nature of the universe and its origins.
+
+## 1285.14s:  [Time and Quantum Mechanics]
+
+**Question:**  How does quantum mechanics view the concept of time?
+
+**Category:** Physics
+
+**Answer:**  The speaker refers to quantum mechanics' understanding of time, which acknowledges the possibility of time having a beginning but also the idea of time going to absolute zero. They mention the Penrose model, which suggests a cyclic universe that expands and contracts without reaching a complete state of nothingness.
+
+## 1334.88s:  [Determinism and Quantum Fluctuation]
+
+**Question:** What contradiction arises when considering determinism and quantum fluctuation?
+
+**Category:** Physics
+
+**Answer:** The speaker highlights the contradiction between determinism and quantum fluctuation. They argue that a deterministic universe would not allow for quantum fluctuation, as these fluctuations are inherently indeterminate. However, experiments have shown that quantum fluctuation exists. This suggests that the universe is not completely deterministic.
+
+## 1373.94s:  [Free Will and Experimentation]
+
+**Question:** How does the existence of free will relate to the scientific process?
+
+**Category:** Philosophy
+
+**Answer:** The speaker emphasizes that free will is essential for the scientific process.  They argue that our free will allows us to make choices, conduct experiments, and explore the universe.  A completely deterministic universe would not allow for these choices, leading to a contradiction with our own experience and the scientific evidence.
+
+## 1425.419s:  [Mathematical Models and Infinity]
+
+**Question:** Why does the speaker suggest that mathematical models are better suited for analyzing concepts like infinity and circularity? 
+
+**Category:** Mathematics
+
+**Answer:** The speaker believes that mathematical models are better suited for analyzing concepts like infinity and circularity.  They argue that verbal expressions and ontological arguments struggle to adequately capture the complexities of these concepts.  Mathematical formulas allow for a more precise and rigorous exploration of infinite and cyclic phenomena.
+
+## 1470.48s:  [Penrose Model and the Universe]
+
+**Question:**  How does the Penrose model affect our understanding of the universe's origins?
+
+**Category:** Physics
+
+**Answer:** The speaker suggests that the Penrose model, which describes a cyclic universe that expands and contracts without reaching a complete state of nothingness, offers an alternative to the Big Bang theory. This model suggests that the universe may not have a true beginning, which challenges traditional understandings of its origins.
+
+## 1485.72s:  [Big Bang Theory]
+
+**Question:** What is the speaker's stance on the Big Bang theory?
+
+**Category:** Physics
+
+**Answer:** The speaker seems to be open to the idea of a "big bug" solution, which suggests a universe that expands from a small black hole.  They argue that this model, combined with evidence of universal expansion, may be a more accurate representation of the universe's origins.
+
+## 1510.38s:  [Universal Expansion]
+
+**Question:**  What is the speaker's question regarding the expansion of the universe?
+
+**Category:** Physics
+
+**Answer:** The speaker questions whether the expansion of the universe is truly from a singularity or from a small black hole. They argue that if it's from a small black hole, then this black hole must have been shrinking before its expansion, suggesting a cyclic model for the universe. 
+
+## 1530.24s:  [Circular Universe]
+
+**Question:**  Why does the speaker believe the universe must be circular?
+
+**Category:** Physics
+
+**Answer:** The speaker believes that the universe must be circular to avoid reaching a true beginning. A circular universe, where the process of expansion and contraction repeats infinitely, avoids the issue of a single point of origin. However, experimental evidence has suggested that a circular universe is not a likely possibility.
+
+## 1571.88s:  [Modality]
+
+**Question:**  How long has the concept of modality been discussed and when did it become formalized?
+
+**Category:** Philosophy
+
+**Answer:** The speaker explains that modality has been discussed for centuries, with early discussions by Aristotle. However, the formalization of modality occurred in the late 19th and early 20th centuries.  This concept is crucial for understanding concepts like necessity, contingency, and obligation.
+
+## 1625.179s:  [Islamic Discourse on Modality]
+
+**Question:**  Is the speaker aware of any Muslim scholars who are discussing modality?
+
+**Category:** Religion
+
+**Answer:**  The speaker doesn't seem to be aware of any prominent Muslim scholars currently discussing modality. They mention that the discourse in the Muslim world tends to focus on other arguments, like those presented by William Lane Craig and other Christian apologists.
+
+## 1650.32s:  [Validity of Modality]
+
+**Question:**  What does the speaker say about the validity of modality arguments?
+
+**Category:** Philosophy
+
+**Answer:**  The speaker acknowledges that modality arguments are valid but require further development and clarification. They suggest that these arguments need to be rephrased and made more robust by addressing specific issues within modality.
+
+## 1659.659s:  [Agnosticism]
+
+**Question:** How do agnostics use the idea of limited knowledge to support their position?
+
+**Category:** Philosophy
+
+**Answer:** Agnostics often argue that our limited knowledge prevents us from definitively knowing whether God exists. They suggest that we should defer judgment until we have a clearer picture. The speaker counters this by stating that our knowledge is capable of discerning truth and falsity within certain axiomatic frameworks. 
+
+## 1724.64s:  [Limited Mind]
+
+**Question:** What is the speaker's view on the limitations of the human mind?
+
+**Category:** Philosophy
+
+**Answer:** The speaker acknowledges the limitations of the human mind but argues that these limitations don't prevent us from understanding essential truths.  We may be limited in our knowledge, but our minds are capable of making judgments about the world and deciding on truth and falsity within certain frameworks. 
+
+## 1742.84s:  [Agnosticism and Knowledge]
+
+**Question:** Why does the speaker consider agnosticism a form of "Hiatus" in discussions about God?
+
+**Category:** Philosophy
+
+**Answer:**  The speaker sees agnosticism as a kind of "Hiatus" in discussions about God. They believe that while agnostics may claim they lack knowledge, this is often a form of avoiding the issue rather than genuinely seeking knowledge. The speaker believes that we have ways of knowing, and while the path to understanding God may be challenging, we shouldn't stop searching for answers.
+
+## 1764.24s:  [Prophethood]
+
+**Question:** How does prophethood provide a "fast track" to understanding God?
+
+**Category:** Religion
+
+**Answer:** The speaker suggests that prophethood offers a "fast track" to understanding God. They argue that through the fulfilled prophecies of prophets, we can gain insight into the divine. The "Einstein condition" for prophethood, which requires a prophecy to be established, fulfilled independently of the prophet, and unique enough to rule out chance, adds further weight to the evidence for prophetic claims.
+
+## 1844.539s:  [Supernatural Knowledge]
+
+**Question:** What does the speaker say about the source of knowledge for someone who can know the future?
+
+**Category:** Religion
+
+**Answer:** The speaker believes that the knowledge of the future must come from a supernatural source. They reject the idea of a person controlling the future, arguing that this is impossible.  Instead, they believe that the ability to know the future stems from a power beyond the natural world, a power that can even influence the course of evolution.
+
+## 1876.74s:  [Daniel's Prophecy]
+
+**Question:** What example does the speaker give to illustrate the validity of prophecy? 
+
+**Category:** Religion
+
+**Answer:** The speaker refers to the prophecy of the coming of the Messiah in the book of Daniel. This prophecy, written approximately 150 years before Christ, has been verified through extensive research and analysis of calendars, eclipses, and other historical details.  This example, according to the speaker, strengthens the claim for the existence of prophecy and its supernatural origin.
+
+## 1987.2s:  [Prophecies of Muhammad]
+
+**Question:** What other examples of prophecies does the speaker mention?
+
+**Category:** Religion
+
+**Answer:** The speaker briefly mentions other prophecies, such as the coming of the Prophet Muhammad, which are supported by evidence within the Quran and Islamic traditions. These prophecies include the conquest of Mecca by Muslims, the split of the moon, and the defeat of the Roman Empire, all of which are considered to be fulfilled prophecies.
+
+## 2011.82s:  [Purpose of Prophets]
+
+**Question:** What is the main purpose of prophets, according to the speaker?
+
+**Category:** Religion
+
+**Answer:** The speaker explains that prophets serve a vital purpose in guiding humanity. They act as a bridge between the divine and the human, clarifying complex issues and dispelling doubts. Prophets, especially through their material miracles, offer evidence of their divine mission and help to solidify faith.
+
+## 2048.04s:  [Testing Prophets]
+
+**Question:** What test does the speaker mention for identifying true prophets?
+
+**Category:** Religion
+
+**Answer:** The speaker cites a passage from the Old Testament where the test for identifying a true prophet is the fulfillment of their prophecies.  If the prophecies come true, then the person is a prophet; if not, they should be ignored. This test emphasizes the importance of verifiable evidence in determining the authenticity of prophetic claims.
+
+## 2079.0s:  [Miracles and Prophethood]
+
+**Question:** Why does the speaker consider prophecies more important than miracles?
+
+**Category:** Religion
+
+**Answer:** The speaker prioritizes prophecies over miracles as a more reliable sign of a true prophet. They argue that miracles, like the parting of the sea or the splitting of the moon, can be explained away with claims of hypnosis, witchcraft, or other natural phenomena.  Prophecies, on the other hand, are more difficult to dismiss, as they are not subject to the same level of interpretation or manipulation.
+
+## 2143.02s:  [Physical Miracles in Primitive Societies]
+
+**Question:** Why might physical miracles be more prevalent in primitive societies?
+
+**Category:** Anthropology
+
+**Answer:** The speaker suggests that physical miracles might be more prevalent in primitive societies due to their reliance on physical manifestations as a means of establishing truth.  As societies become more advanced, they develop more sophisticated ways of understanding the world, and the reliance on physical miracles might diminish.
+
+## 2158.82s:  [Claiming Prophethood]
+
+**Question:** What are the potential consequences of claiming prophethood?
+
+**Category:** Religion
+
+**Answer:** The speaker acknowledges that claiming prophethood can be dangerous.  Someone claiming to be a prophet could be mentally deranged or deliberately deceiving people. This underscores the importance of careful scrutiny when evaluating prophetic claims.
+
+## 2167.079s:  [Miracles and Reviewability]
+
+**Question:**  What is the speaker's point regarding the reviewability of miracles?
+
+**Category:** Religion
+
+**Answer:** The speaker emphasizes that some miracles, like those involving a physical event like a meteorite strike, are impossible to review or verify objectively. This is because the prophet has no control over the universe and the probability of such an event happening exactly as described is extremely low. This suggests that such miracles might offer strong evidence for a divine intervention.
+
+## 2217.18s:  [Divine Control]
+
+**Question:**  What conclusion can even a hunter-gatherer society reach regarding miracles?
+
+**Category:** Anthropology
+
+**Answer:** The speaker believes that even a hunter-gatherer society, with its basic understanding of the world, could conclude that miracles like a meteorite strike are evidence of divine intervention.  The speaker argues that a miracle that defies natural laws and probability would point to a power beyond the control of human beings, suggesting a divine force at work.
+
+## 2231.66s:  [Volcanic Eruption and Moses]
+
+**Question:**  What is the speaker's critique of the attempt to connect the Exodus story with a volcanic eruption?
+
+**Category:** Religion
+
+**Answer:** The speaker rejects the attempt to connect the Exodus story with a volcanic eruption, claiming that the connection is faulty and that the volcanic eruption is dated much earlier than the events described in the Exodus account. They argue that this connection is not persuasive and that the volcanic eruption itself doesn't fit the descriptions of the plagues mentioned in the biblical story.
+
+## 2290.74s:  [Geological Dating]
+
+**Question:**  What is the speaker's point about geological dating and its role in the Exodus story?
+
+**Category:** History
+
+**Answer:** The speaker argues that geological dating is a powerful tool for understanding the timeline of events, especially when it comes to volcanic eruptions.  They believe that the volcanic eruption linked to the Exodus story has been accurately dated to a period much earlier than the biblical narrative. This discrepancy challenges the theory that the eruption was responsible for the plagues.
+
+## 2364.06s:  [Volcano Theory]
+
+**Question:** Why does the speaker consider the volcano theory as a possible explanation for the Exodus plagues to be problematic?
+
+**Category:** Religion
+
+**Answer:** The speaker argues that the volcano theory falls apart due to the 100-year difference between geological dating and the biblical timeline.  They believe that geological dating is reliable and irrefutable, based on the evidence of ash deposits and other scientific methods. This discrepancy throws into question the entire volcano explanation for the Exodus plagues.
+
+## 2383.38s:  [Mass Death of Firstborn]
+
+**Question:** What evidence does the speaker cite regarding the death of the firstborn in Egypt?
+
+**Category:** History
+
+**Answer:** The speaker mentions recent archaeological discoveries of mass graves containing primarily young men. These findings, according to the speaker, corroborate the biblical narrative of the death of the firstborn in Egypt. This evidence, combined with other historical and geological details, supports the claim that this event occurred.
+
+## 2421.32s:  [Volcano and Observation]
+
+**Question:**  Could ancient Egyptians have observed a volcanic eruption in Italy or Greece and incorporated it into their religious narratives?
+
+**Category:** History
+
+**Answer:**  The speaker rejects the idea that ancient Egyptians could have observed a volcanic eruption in Italy or Greece and incorporated it into their religious narratives. They point out that the Exodus narrative was written after the events, suggesting that the people later interpreted the volcanic eruption as a miracle associated with Moses.
+
+## 2442.2s:  [Inscriptions and Moses]
+
+**Question:**  What type of evidence would be most compelling to validate the Exodus story?
+
+**Category:** History
+
+**Answer:**  The speaker suggests that finding inscriptions from the time of Moses himself would be the most compelling evidence for the Exodus story.  These inscriptions should be written by contemporaries and not just later interpretations of the event. This evidence would provide direct confirmation of the events described in the Bible.
+
+## 2481.0s:  [Old Testament Versions]
+
+**Question:** What is the speaker's view on the reliability of older versions of the Old Testament?
+
+**Category:** History
+
+**Answer:**  The speaker acknowledges that finding older versions of the Old Testament, such as those possibly buried by Jeremiah, could offer greater historical accuracy. However, they emphasize that even older versions would still be subject to interpretation and potential errors. 
+
+## 2515.619s:  [Prophecy and Trust]
+
+**Question:** Why does the speaker suggest that we can have more trust in a prophet's writings if they are corroborated by other evidence?
+
+**Category:** Religion
+
+**Answer:**  The speaker argues that we can have more trust in a prophet's writings if they are supported by other evidence. For example, if we have reason to believe that Jeremiah was a genuine prophet, then his writings, potentially found in a cave, would be more reliable. 
+
+## 2554.079s:  [Prophecy and Historical Analysis]
+
+**Question:**  What is the speaker's point about Jeremiah's writings and their historical context?
+
+**Category:** History
+
+**Answer:** The speaker notes that Jeremiah's writings, while potentially containing prophecies, might also reflect a political and historical context.  They argue that Jeremiah's warnings about the Babylonian invasion and the subsequent captivity of the Israelites could have been deduced from the political situation at the time.  This analysis suggests that not all of Jeremiah's writings need to be considered supernatural prophecies.
+
+## 2590.079s:  [Preservation of Books]
+
+**Question:** What possible motivation does the speaker suggest for Jeremiah's preservation of his writings?
+
+**Category:** History
+
+**Answer:** The speaker offers a possible explanation for why Jeremiah might have preserved his writings.  They argue that Jeremiah, recognizing the political instability of the Israelite kingdom and the threat of Babylonian invasion, might have preserved his writings for future generations, knowing that the Israelites could be taken into captivity. 
+
+## 2625.3s:  [Historical Reports and Miracles]
+
+**Question:**  What does the speaker say about the historical reports of the plagues in Egypt?
+
+**Category:** History
+
+**Answer:** The speaker acknowledges that historical reports and research seem to confirm the events of the plagues in Egypt.  They suggest that the plagues, including famine, locusts, frogs, and blood, actually occurred.  However, they also emphasize that the connection between these plagues and the volcanic eruption is questionable, particularly due to the geological dating that places the eruption much earlier.
+
+## 2671.04s:  [Supernatural Explanation]
+
+**Question:** What is the speaker's conclusion about the explanation for the plagues in Egypt?
+
+**Category:** Religion
+
+**Answer:**  The speaker suggests that the plagues in Egypt, if confirmed by historical evidence, could be attributed to a supernatural force.  They believe that a natural explanation like the volcanic eruption is unlikely, leaving a supernatural intervention as the most probable cause. 
+
+## 2681.24s:  [Einstein Condition and Material Miracles]
+
+**Question:**  Why does the speaker say that the "Einstein condition" doesn't apply to material miracles?
+
+**Category:** Religion
+
+**Answer:** The speaker explains that the "Einstein condition," which applies to fulfilled prophecies, doesn't directly apply to material miracles. Material miracles, like those experienced by Moses during the Exodus, leave physical traces and evidence in the world. This evidence can be analyzed and corroborated, making it different from prophecies that rely on predictive power.
+
+## 2703.3s:  [Physical Traces and Miracles]
+
+**Question:**  What kind of physical evidence does the speaker point to as evidence for the Exodus story?
+
+**Category:** History
+
+**Answer:** The speaker refers to the discovery of mass graves containing primarily young men as evidence for the Exodus story.  They argue that these graves, which indicate a mass death of firstborn sons, are significant because they are unlikely to have been caused by war or disease. This evidence, they suggest, points towards a supernatural event that could be connected to the biblical narrative.
+
+## 2714.22s:  [Unconceivable Events and Miracles]
+
+**Question:**  Why does the speaker consider the discovery of mass graves of young men to be an inconceivable event?
+
+**Category:** History
+
+**Answer:**  The speaker believes that the discovery of mass graves of young men is an unusual and improbable event.  They argue that it's unlikely that such a large number of young men would die from war or disease without any other evidence of injury, broken bones, or mixed ages in the graves. This leads them to suggest that a supernatural event might be responsible.
+
+## 2753.94s:  [Firstborn and Volcanic Gas]
+
+**Question:** How does the speaker connect the death of the firstborn in Egypt to the volcano theory?
+
+**Category:** Religion
+
+**Answer:** The speaker attempts to explain the death of the firstborn through the volcano theory by suggesting that the firstborn, who had the privilege of sleeping on beds on the first floor, were exposed to poisonous gases from the volcanic eruption. This theory, according to the speaker, explains why only the firstborn died and not the rest of the family who slept on higher floors. 
+
+## 2784.42s:  [Volcano Theory and Natural Phenomena]
+
+**Question:** What is the speaker's main criticism of the volcano theory?
+
+**Category:** Religion
+
+**Answer:**  The speaker argues that the volcano theory fails to account for the historical evidence. They believe that the volcano eruption occurred far earlier than the events described in the Exodus narrative. This discrepancy, combined with the questionable connection between the volcanic eruption and the plagues, leads the speaker to reject this theory.
+
+## 2802.599s:  [Refuting Counter-Arguments]
+
+**Question:**  What does the speaker consider essential for analyzing historical events?
+
+**Category:** History
+
+**Answer:** The speaker emphasizes the importance of considering all possible counter-arguments and refuting them one by one when analyzing historical events. They argue that a thorough and systematic approach is essential for arriving at a valid conclusion, especially when dealing with complex and controversial topics.
+
+## 2810.4s:  [Quran and Historical Events]
+
+**Question:** What does the speaker say about the Quran's relationship to historical events?
+
+**Category:** Religion
+
+**Answer:** The speaker believes that the Quran provides reliable information about historical events. They argue that the Quran's internal evidence and external corroboration support the claim that the events described within it are accurate.  This understanding of the Quran's historical accuracy is crucial for interpreting its messages and understanding its divine origins.
+
+## 2821.319s:  [Roman Victory and Prophecy]
+
+**Question:** What example of a prophecy does the speaker use to demonstrate the Quran's historical accuracy?
+
+**Category:** Religion
+
+**Answer:**  The speaker refers to the prophecy in the Quran about the victory of the Romans over the Persians. This prophecy, according to the speaker, was accurate and impossible for anyone to predict at the time, as the Roman Empire was believed to be declining.  This fulfilled prophecy provides evidence for the Quran's divine origin and its accuracy in describing historical events.
+
+## 2892.72s:  [Virgin Birth of Jesus]
+
+**Question:**  How does the speaker approach the story of Jesus's virgin birth?
+
+**Category:** Religion
+
+**Answer:** The speaker addresses the story of Jesus's virgin birth, particularly the part where Mary travels eastwards for seclusion and gives birth. They acknowledge that the story has been filled in with details but focuses on the core elements. The speaker suggests that the story was a private miracle and not publicly known, implying that the detailed stories about Mary's journey and Jesus's birth are likely later interpretations.
+
+## 2950.98s:  [Muhammad's Creativity]
+
+**Question:**  What question arises for those who reject the Quran's story of Jesus's virgin birth?
+
+**Category:** Religion
+
+**Answer:**  Those who reject the Quran's account of Jesus's virgin birth often question why Muhammad would invent such a story.  They claim that the story must have originated from somewhere else.  The speaker argues that this theory doesn't hold up, as there is no evidence of this particular story in other ancient books or apocryphal texts. 
+
+## 2995.859s:  [Muhammad's Genius and Stupidity]
+
+**Question:** What is the speaker's point about Muhammad's intelligence and supposed mistakes?
+
+**Category:** Religion
+
+**Answer:**  The speaker argues that it's impossible for Muhammad to be both extremely intelligent and ingenious in some aspects of his story while simultaneously making "stupid" mistakes in other areas. They believe that the claim that Muhammad confused the father of Mary, Imran, with the father of Moses and Aaron is a flawed argument, as it doesn't make sense for someone as intelligent as Muhammad to make such a fundamental error. 
+
+## 3035.04s:  [Virgin Birth and Christian Discourse]
+
+**Question:** How does the speaker approach the Christian debate about the virgin birth?
+
+**Category:** Religion
+
+**Answer:** The speaker mentions that some Christian scholars have criticized the story of the virgin birth, claiming it's a fallacy. They note that some of these critiques also mention Islam but fail to engage with the Quran's account of the event. They believe that these critics often have pre-conceived notions about Islam and don't engage with the actual text. 
+
+## 3076.26s:  [Studying the Quran]
+
+**Question:**  What is the speaker's point about those who criticize the Quran without properly studying it?
+
+**Category:** Religion
+
+**Answer:** The speaker criticizes those who criticize the Quran without making a genuine effort to study it. They believe that these critics often have a fixed idea about the Quran, based on preconceived notions or biased
+
+## https://www.youtube.com/watch?v=V5VUEi_us-c
+
+##  Why does it not make sense to attribute the dotting of the letters in the Quran to the devil? 
+
+**Category:**  Quranic Studies
+
+**Question Timestamp:** 31.84s 
+
+**Summary of the Question:** The speaker raises the question of whether attributing the dotting of the letters in the Quran to the devil makes sense. He argues that it would imply the devil has divine powers, leading to contradictions.
+
+**Summary of the Answer:** It is not logical to attribute the dotting of the letters to the devil because it would imply he possesses divine powers, contradicting monotheistic belief. It would also lead to dualism, where God and the devil are seen as equal forces. 
+
+## Why was there a need to dot the letters in the Quran?
+
+**Category:**  Quranic Studies
+
+**Question Timestamp:** 307.199s
+
+**Summary of the Question:**  The speaker discusses the historical context of dotting the letters in the Quran and why it was necessary. 
+
+**Summary of the Answer:** After the destruction of Jerusalem by the Romans, the Jews felt the need to preserve their language and pronunciation. This led them to introduce dots to clarify pronunciation, which later influenced Arabic script.
+
+##  How did the dots on letters in the Quran come about?
+
+**Category:**  Quranic Studies
+
+**Question Timestamp:** 379.039s
+
+**Summary of the Question:**  The speaker presents a hypothesis about the origin of the dotting of letters in the Quran, emphasizing the role of a Jewish scholar.
+
+**Summary of the Answer:**  The speaker suggests that the dotting of letters was influenced by the practice of the Jews, possibly introduced by a Jewish scholar named "Wans" who converted to Islam. 
+
+## How did the dotting of letters in the Quran evolve?
+
+**Category:**  Quranic Studies
+
+**Question Timestamp:** 701.519s
+
+**Summary of the Question:**  The speaker explains how the dotting system used in the Quran evolved over time and transitioned into the "Harakat" system.
+
+**Summary of the Answer:** The speaker notes that the original dotting system was later replaced with the "Harakat" system, likely due to confusion with the intrinsic dots of letters. This shift aimed to create a clearer system for pronunciation.
+
+## What is the significance of different readings of the Quran?
+
+**Category:**  Quranic Studies
+
+**Question Timestamp:** 1046.799s
+
+**Summary of the Question:**  The speaker discusses whether different readings of the Quran are permissible and if they are intended by God.
+
+**Summary of the Answer:**  The speaker argues that multiple readings of the Quran are possible and may be intended by God. He suggests that different readings can reveal multiple aspects of a complex reality.
+
+## What are the conditions for a reading to be considered valid?
+
+**Category:**  Quranic Studies
+
+**Question Timestamp:** 1252.159s
+
+**Summary of the Question:**  The speaker outlines the conditions that must be met for a Quranic reading to be considered permissible.
+
+**Summary of the Answer:** To be considered valid, a Quranic reading must be consistent with the Arabic script, must be supported by reliable narrators, and must have been transmitted through a chain of reliable narrators.
+
+## What is the significance of the story of Yusuf in the Quran?
+
+**Category:**  Quranic Studies
+
+**Question Timestamp:** 1401.679s
+
+**Summary of the Question:**  The speaker discusses a historical case of a leader who chose to read a specific verse differently, leading to a debate about its validity. 
+
+**Summary of the Answer:**  The speaker mentions a case of a leader named "Evil," who chose to read a verse differently, highlighting the issue of singular readings and their acceptance within the context of Quranic interpretation.
+
+## What is the meaning of "Najib" in the Quran?
+
+**Category:**  Quranic Studies
+
+**Question Timestamp:** 2146.96s
+
+**Summary of the Question:** The speaker delves into a specific example of a reading that was rejected, "Najib" instead of "Najib." 
+
+**Summary of the Answer:** The speaker points to a historical instance where the reading "Najib" was replaced with "Najib" in a specific verse, emphasizing the need to evaluate readings based on their consistency with the context and the Quran's overall meaning. 
+
+
+## https://www.youtube.com/watch?v=Zr8DCWeKGUA
+
+## 0:599s - YouTube Broadcast Alert 
+**Category:** YouTube
+
+**Question:** The speaker mentions a meeting on YouTube and Zoom.  What is the purpose of this meeting? 
+
+**Answer:** The speaker is hosting a weekly T session and Q&A, which is broadcast live on Sundays at 1 p.m. UK time. This session is a discussion of the Quran and related topics, including current events. 
+
+## 8:84s - Scheduled Zoom Meeting
+**Category:** Zoom Meeting
+
+**Question:** The speaker mentions a scheduled Zoom meeting. What is the purpose of this meeting?
+
+**Answer:** The speaker is referring to the weekly T session and Q&A that takes place on Sundays at 1 p.m. UK time. This session is broadcast live on YouTube and the link is shared on various chat channels. 
+
+## 86.36s - Updates and Q&A
+**Category:** Updates and Q&A
+
+**Question:** The speaker says that there will be some updates and Q&A. What are the updates going to be about?
+
+**Answer:** The speaker will be providing updates on the ongoing situation in Gaza. They will be discussing the reactions from people and the lack of reaction, as well as the importance of accountability. They will also address the role of governments and scholars in the conflict.
+
+## 256.04s - Accountability
+**Category:** Islamic Philosophy
+
+**Question:** The speaker brings up an example of a Prophet being held accountable for the length of cloth he was wearing. What does this example tell us about the understanding of self-accountability?
+
+**Answer:** The speaker emphasizes that even the Prophet, who was considered the best of characters, held himself accountable for even the smallest of things. This shows that accountability is paramount in Islamic teachings and extends beyond mere outward actions. 
+
+## 273.52s - Boycott and Naming and Shaming 
+**Category:** Current Events
+
+**Question:** The speaker references "mouthpieces" naming and shaming Faris Al-Shami. What is the context for this?
+
+**Answer:** The speaker is referring to the response of some individuals to the recent conflict in Gaza.  They criticize the behavior of those who participate in a boycott while also condemning individuals who have spoken out against the conflict, suggesting that they are too quick to name and shame without proper understanding of the situation. 
+
+## 317.24s - Islam and the UAE 
+**Category:** Islamic Philosophy
+
+**Question:** The speaker refers to "Islam the UAE propagates". What is this referring to?
+
+**Answer:** The speaker criticizes the version of Islam that is propagated in the UAE, arguing that it is a neutered, government-friendly version which focuses on personal aspects while neglecting the broader social and political implications of faith. 
+
+## 363.72s - Bite-sized Chunks
+**Category:** Islamic Education
+
+**Question:** The speaker asks viewers to take the material presented and "spread it". What is the speaker asking viewers to do?
+
+**Answer:** The speaker encourages viewers to share the information about Islam that they have learned, particularly in relation to the ongoing situation in Gaza. They emphasize the importance of promoting the correct understanding of Islamic principles and countering misinterpretations. 
+
+## 414.039s - Apathy and Silence
+**Category:** Islamic Ethics
+
+**Question:** The speaker mentions that non-Muslims are more vocal about the situation in Gaza than Muslims.  What is the speaker implying about the silence of Muslims?
+
+**Answer:** The speaker argues that silence in the face of injustice, especially when it comes to the Palestinian situation, is not acceptable.  They criticize the notion that being apolitical or neutral absolves Muslims of responsibility to speak out against wrongdoing. 
+
+## 482.68s - Accountability and Rebuttal
+**Category:**  Islamic Ethics
+
+**Question:** The speaker declares that everyone is accountable for their actions. What is the speaker urging viewers to do?
+
+**Answer:** The speaker is calling for active engagement and participation in discussions about the Palestinian situation. They encourage viewers to express their opinions and participate in the Q&A portion of the session.  
+
+## 538.2s - Spotlighting Video
+**Category:**  YouTube Technical
+
+**Question:** The speaker asks the professor if there is anything to add before moving on.  What is the context for this question?
+
+**Answer:** Before starting the discussion of a specific verse in the Quran, the speaker checks with the professor for any additional points or comments to make. This indicates a collaborative format for the session.
+
+## 620.92s - Translation of Verse 111
+**Category:** Quranic Interpretation
+
+**Question:** The speaker reads out verse 111 of Surah Toba and then provides several translations. What is the speaker trying to highlight with these translations? 
+
+**Answer:** The speaker emphasizes the importance of examining different translations of the Quran to ensure a deeper understanding of the verse. They also highlight the relevance of verse 111 to the current situation in Gaza, drawing parallels between the context of the verse and the events unfolding in the region.
+
+## 686.2s - Divine Design 
+**Category:** Quranic Interpretation
+
+**Question:** The speaker mentions that they have stopped at verse 111 "by accident or by Divine Design". What is the speaker implying?
+
+**Answer:** The speaker suggests that the choice of verse 111 as a starting point for discussion may have been divinely guided, as it resonates with the current events and the broader message of faith and struggle.
+
+## 717.839s - Q&A on Gaza
+**Category:** Current Events
+
+**Question:** The speaker says that certain issues and questions will be raised in the Q&A. What is the likely focus of these issues and questions?
+
+**Answer:** The Q&A will likely focus on the situation in Gaza, discussing the events that are unfolding, the response from different communities, and the role of various actors involved in the conflict. 
+
+## 725.16s - Allah's Bargain 
+**Category:** Quranic Interpretation
+
+**Question:** The speaker explains the direct meaning of verse 111. What is the essence of this meaning?
+
+**Answer:** The speaker explains that Allah is making a bargain with believers: He is purchasing their souls and possessions in return for Paradise. This is a powerful concept that emphasizes the importance of prioritizing faith over worldly possessions. 
+
+## 785.88s - Fighting in the Cause of Allah
+**Category:** Quranic Interpretation
+
+**Question:** The speaker raises a question about the "case of fighting" referenced in the verse. What is the speaker trying to understand?
+
+**Answer:** The speaker is trying to define the specific circumstances under which fighting is justified in Islamic teachings. They are trying to distinguish between legitimate fighting for the sake of Allah and other types of conflict that are driven by worldly motives. 
+
+## 851.8s - The Meaning of Allah's Cause
+**Category:**  Quranic Interpretation
+
+**Question:** The speaker mentions the need to discuss the meaning of "the cause of Allah". What is the speaker's intention in doing this?
+
+**Answer:** The speaker wants to clarify what constitutes legitimate fighting in the cause of Allah. They aim to differentiate between fighting for the sake of truth, defending one's religion, and fighting for purely political or worldly interests. 
+
+## 917.519s - Pain of Killing and Being Killed 
+**Category:**  Islamic Ethics
+
+**Question:** The speaker mentions that getting killed and killing are painful. What is the speaker's point in bringing this up?
+
+**Answer:**  The speaker emphasizes the inherent human aversion to death and violence, contrasting this with the willingness of believers to sacrifice themselves in the cause of Allah. This highlights the spiritual strength and commitment required for such actions. 
+
+## 963.399s -  Killing and Humanity
+**Category:** Islamic Ethics
+
+**Question:** The speaker says that killing is not easy for true human beings. What is the speaker implying about the difference between believers and non-believers in this regard?
+
+**Answer:** The speaker suggests that believers struggle with the act of killing, as it goes against their natural instincts. They contrast this with the apparent ease with which non-believers kill, attributing this to their departure from their original humanity and embracing a satanic way of life. 
+
+## 1006.8s - Price of Allah 
+**Category:** Islamic Ethics
+
+**Question:** The speaker mentions that believers have to overcome their natural aversion to killing. What is the motivation for doing so?
+
+**Answer:** The speaker explains that believers are willing to overcome their natural aversion to killing because they know the price that Allah offers in return: Paradise and eternal life. This highlights the powerful incentive for believers to act according to their faith, even when faced with difficult choices. 
+
+## 1021.24s -  The Sake of Allah
+**Category:** Islamic Ethics
+
+**Question:** The speaker emphasizes that fighting should only be "in the sake of Allah".  What is meant by this?
+
+**Answer:**  The speaker clarifies that fighting for the sake of Allah is distinct from fighting for tribalism, nationalism, or expansion of power.  It is about upholding the truth, defending one's faith, and removing obstacles in the path of dawah (spreading the message of Islam).
+
+## 1047.839s -  Obstacles in the Way of Dawah
+**Category:** Islamic Ethics
+
+**Question:** The speaker gives the example of a messenger being killed instead of being protected.  What is the speaker illustrating with this example?
+
+**Answer:**  The speaker explains that fighting in the cause of Allah can include removing obstacles in the way of dawah. This can involve confronting those who prevent the spread of Islam, whether through violence, hostility, or simply refusing to engage in dialogue.
+
+## 1111.2s -  Good Relations and the Kufar 
+**Category:** Islamic Law
+
+**Question:** The speaker mentions that Allah does not prohibit good relations with anyone "except those who have expelled you out of your land". How does this apply to the current situation?
+
+**Answer:** The speaker argues that this verse applies directly to the current situation in Palestine, suggesting that Muslims are prohibited from having good relations with those who have expelled them from their land, including America and Britain. This reinforces the concept of legitimate fighting in self-defense.
+
+## 1151.799s - The Sake of Allah
+**Category:** Islamic Ethics
+
+**Question:**  The speaker reiterates that fighting "for the sake of Allah" is not about nationalism or tribalism.  What is the speaker trying to clarify?
+
+**Answer:** The speaker continues to emphasize that legitimate fighting is about defending the religion and removing obstacles to the propagation of Islam, not about pursuing worldly interests or expanding power.
+
+## 1177.28s - Bloodshed in the Way of the Devil
+**Category:**  Islamic Ethics
+
+**Question:**  The speaker states that any bloodshed that is not "in the way of Allah" is "in the way of the devil".  What does this mean?
+
+**Answer:**  The speaker highlights that violence, war, and bloodshed are inherently negative. It is only when these actions are justified by the principles of Islam, such as defending the faith or removing obstacles to dawah, that they become permissible.
+
+## 1187.32s -  Government Scholars and Rulers
+**Category:** Islamic Ethics
+
+**Question:**  The speaker warns against being fooled by rulers and scholars who claim that fighting is for the sake of the country or a particular state.  What is the speaker's concern?
+
+**Answer:** The speaker cautions against being misled by rhetoric that promotes nationalism and patriotism.  They argue that true believers should be guided by Islamic principles and not be swayed by appeals to national interests that contradict those principles.
+
+## 1201.919s - Invading Enemy 
+**Category:** Islamic Law
+
+**Question:**  The speaker challenges the idea of protecting borders from "an invading enemy" as a justification for war.  What is the speaker's perspective?
+
+**Answer:** The speaker argues that the concept of "invading enemy" as justification for war is often used to mask true intentions. They highlight that many wars are actually about land grabbing, resource acquisition, or expanding power, which are not legitimate reasons for conflict under Islamic teachings.
+
+## 1251.96s -  The German Invasion of WWII
+**Category:**  History
+
+**Question:**  The speaker mentions the German invasion of World War II as an example of an illegitimate invasion. What is the speaker's intention in bringing this up?
+
+**Answer:**  The speaker is drawing a parallel between the German invasion of World War II and the current situation in Palestine, highlighting that both instances involved taking over land that did not belong to the invaders, which is considered illegitimate under international law.
+
+## 1275.96s -  The Saudi Bombing of Yemen
+**Category:**  Current Events
+
+**Question:**  The speaker cites the Saudi bombing of Yemen as an example of a conflict that is not justified by Islamic principles. What is the speaker's argument?
+
+**Answer:**  The speaker criticizes the Saudi regime for bombing Yemen and claiming that those involved are fighting "for the sake of their duty." They argue that there is no Islamic duty to bomb another country without clear justification and question the Saudi regime's motives and actions. 
+
+## 1305.559s - Muslim Scholars and Activists 
+**Category:** Islamic Ethics
+
+**Question:**  The speaker raises a question about whether there has been any discussion among Muslim scholars and activists about the Saudi bombing of Yemen.  What is the speaker implying?
+
+**Answer:**  The speaker implies that there has been a lack of open and critical discussion among Muslim scholars and activists about the Saudi bombing of Yemen. They criticize the absence of a structured debate on the moral and legal implications of this conflict, suggesting that this silence allows for continued injustices.
+
+## 1352.76s -  The Promise in the Torah and Gospel 
+**Category:** Quranic Interpretation
+
+**Question:**  The speaker emphasizes that the promise mentioned in verse 111 is not unique to the Quran. What does the speaker mean?
+
+**Answer:**  The speaker clarifies that the promise of Paradise for those who fight in the cause of Allah is also found in the Torah and the Gospel.  They argue that the Quran is not contradicting those previous revelations but affirming and building upon them.
+
+## 1400.08s -  The Good News 
+**Category:** Quranic Interpretation
+
+**Question:**  The speaker mentions that the main message of Isa (Jesus) was "announcing the good news". What is this good news referring to?
+
+**Answer:**  The speaker explains that the good news announced by Isa was the coming of the kingdom of God on Earth and the coming of the final messenger (Muhammad) who would establish that kingdom. This is a key message of the Gospel that the Quran acknowledges and reinforces.
+
+## 1414.32s -  Why Gospels are Not Revelations
+**Category:** Quranic Interpretation
+
+**Question:**  The speaker mentions that the gospels in our hands are not necessarily the revelations to Isa. What does the speaker mean?
+
+**Answer:**  The speaker distinguishes between the actual revelations received by Isa and the later biographies and interpretations that have been compiled as gospels. They suggest that the gospels we have today may not accurately reflect the original messages received by Isa.
+
+## 1455.279s -  Illiteracy of Muhammad and Education of Isa
+**Category:** Quranic Interpretation
+
+**Question:**  The speaker mentions that Muhammad was illiterate while Isa was educated. What is the speaker trying to highlight with this comparison?
+
+**Answer:**  The speaker emphasizes that Muhammad's illiteracy was a key factor in his prophethood, as it demonstrated the miraculous nature of his revelation. He was not a scholar or learned man but a simple man who received divine guidance. Isa, on the other hand, was educated and eloquent, and his miracle lay in different areas, such as healing and reviving the dead.
+
+## 1501.0s -  Languages of Isa
+**Category:** Quranic Interpretation
+
+**Question:**  The speaker mentions that Isa mastered Hebrew and Greek. What is the significance of this?
+
+**Answer:**  The speaker highlights Isa's education and fluency in multiple languages, including Hebrew, the language of the scriptures, and Greek, the language of philosophy and scholarship in his time. This indicates that Isa was a man of great intellect and erudition.
+
+## 1542.44s -  The Use of the Greek Word 
+**Category:** Quranic Interpretation
+
+**Question:**  The speaker discusses Isa's use of the Greek word "Evangelion" for his revelation. What is the significance of this?
+
+**Answer:**  The speaker suggests that Isa's use of a Greek term to describe his revelation indicates his sophisticated understanding of the world around him.  He was able to communicate effectively with both the common people and the educated elite.
+
+## 1579.08s -  The Good News of the Quran 
+**Category:** Quranic Interpretation
+
+**Question:**  The speaker explains that the "good news" of the Quran is not the same as the gospels we have today. What is the speaker's point?
+
+**Answer:**  The speaker clarifies that the "good news" of the Quran is not the same as the biographies of Isa that we have as gospels.  The Quran is a separate revelation with its own unique message, and it is not meant to be a replacement or direct interpretation of the Gospel. 
+
+## 1641.679s -  Historic Jesus
+**Category:**  Quranic Interpretation
+
+**Question:**  The speaker mentions the study of the "historic Jesus". What is the speaker trying to emphasize?
+
+**Answer:** The speaker acknowledges the importance of studying the historical context of Jesus and examining the various documents that have been compiled about him. They emphasize that this study is distinct from interpreting the Quran and should be done in a separate manner. 
+
+## 1698.679s -  The Good News for Gaza
+**Category:** Quranic Interpretation
+
+**Question:**  The speaker describes the situation in Gaza as a "good news" for the people there.  What does the speaker mean?
+
+**Answer:** The speaker refers to the hardship and suffering in Gaza as a "good news" because it is a test of faith and an opportunity for believers to attain a higher state of reward. They argue that those who die under the rubble have already sealed their destiny and will be rewarded in the afterlife. 
+
+## 1777.64s - Legitimacy of Targets
+**Category:**  Current Events
+
+**Question:** The speaker mentions that they will answer questions about the legitimacy of targets in the Q&A.  What is this question likely to be about?
+
+**Answer:**  This question likely relates to the ongoing conflict in Gaza and the targeting of individuals.  The speaker is hinting at a discussion about the ethical and legal implications of the actions taken by both sides in the conflict.
+
+## 1795.039s - Nazi State of Israel
+**Category:** Current Events
+
+**Question:** The speaker refers to Israel as a "Nazi State".  What does this refer to?
+
+**Answer:**  The speaker uses strong language to condemn the actions of Israel, drawing parallels between its treatment of Palestinians and the atrocities committed by the Nazi regime.  They are likely to expand on this accusation in the Q&A portion of the session. 
+
+## 1811.14s - Description of the Promise 
+**Category:**  Quranic Interpretation
+
+**Question:**  The speaker says they will now describe the promise made to believers who fight and are killed in the cause of Allah. What is the speaker's intention?
+
+**Answer:**  The speaker is likely to provide further context and detail regarding the promise mentioned in verse 111. This could involve discussing the different levels of reward and the characteristics of those who qualify for this promise.
+
+## 1847.039s -  Arbitrary People
+**Category:** Quranic Interpretation
+
+**Question:** The speaker mentions that the promise of Paradise is not for "just arbitrary people". What does the speaker mean?
+
+**Answer:**  The speaker is suggesting that there are specific qualifications for receiving the promise of Paradise. They are likely to discuss the characteristics and actions that qualify believers for this reward, as outlined in the Quran.
+
+## 1855.32s -  Usman from the Ansar
+**Category:** Islamic History
+
+**Question:** The speaker mentions Usman from the Ansar.  What is the speaker doing by bringing up this example?
+
+**Answer:**  The speaker is illustrating a point by citing a historical example. They are likely to use the story of Usman to demonstrate that the promise of Paradise is not automatic but is earned through actions and character, even in the case of individuals who were not initially believers. 
+
+## 1959.159s -  The Shock of the Ansar
+**Category:** Islamic History
+
+**Question:**  The speaker mentions that the Ansar were shocked to learn that Usman fought for the protection of his tribe. What does this reveal?
+
+**Answer:** The speaker highlights that even those who were close to the Prophet and had embraced Islam could still be influenced by tribalism and nationalistic loyalties. This illustrates the ongoing struggle for believers to prioritize faith above worldly attachments.
+
+## 1977.08s -  Allah's Support
+**Category:** Quranic Interpretation
+
+**Question:**  The speaker mentions that Allah supported his religion "with a rebellious man". What is the speaker trying to explain?
+
+**Answer:** The speaker is emphasizing that Allah can use even seemingly unlikely individuals, including those who have questionable motivations, to advance his cause. This demonstrates the divine power and the unpredictable ways in which Allah operates.
+
+## 1998.48s -  The Agreement with Believers 
+**Category:** Quranic Interpretation
+
+**Question:**  The speaker states that the agreement between Allah and believers is not with non-believers.  What is the speaker trying to clarify?
+
+**Answer:**  The speaker clarifies that the promise of Paradise is made specifically to believers, those who have committed to Islam. This underscores the importance of faith as a prerequisite for receiving divine blessings.
+
+## 2027.559s - Translation of the Ayah 
+**Category:** Quranic Interpretation
+
+**Question:** The speaker asks if viewers have read the translation of the ayah. Why does the speaker ask this?
+
+**Answer:**  The speaker wants to make sure that viewers have followed the translation of the ayah before continuing their explanation. They want to ensure that everyone is on the same page before diving into the deeper meaning of the verse. 
+
+## 2034.559s - Characteristics of Believers
+**Category:** Quranic Interpretation
+
+**Question:** The speaker says the ayah describes various types and appearances of believers. What is the speaker's intention in doing so?
+
+**Answer:**  The speaker wants to outline the key characteristics of true believers, as they are defined by the Quran.  They are highlighting that these characteristics are not just outward appearances but internal traits and attitudes that reflect a deeper commitment to faith.
+
+## 2097.72s - The First Step to Becoming a Believer
+**Category:** Islamic Philosophy
+
+**Question:**  The speaker mentions that the first step to becoming a Believer is to repent to Allah. What does the speaker mean by this?
+
+**Answer:** The speaker emphasizes that repentance is essential for embracing Islam. It involves turning back to Allah, directing one's intentions and actions toward him, and seeking his forgiveness. This is a conscious act of choosing faith over worldly desires. 
+
+## 2144.16s -  Worship 
+**Category:** Islamic Philosophy
+
+**Question:** The speaker discusses the issue of worship. What is the speaker trying to clarify?
+
+**Answer:**  The speaker clarifies the meaning of worship in Islam, explaining that it goes beyond simply performing rituals like prayer or fasting. True worship involves recognizing Allah as the ultimate Sovereign and Lord and submitting to his will. 
+
+## 2182.319s -  Purpose of Creation 
+**Category:** Islamic Philosophy
+
+**Question:**  The speaker mentions the verse that says "man and Jinn were created to worship me."  What is the speaker trying to convey with this verse?
+
+**Answer:** The speaker is emphasizing the ultimate purpose of creation, which is to worship and serve Allah. This is not a mere obligation but the core reason for human existence.
+
+## 2202.72s -  Command to Adam
+**Category:** Islamic History
+
+**Question:**  The speaker refers to the single command given to Adam.  What is the speaker's intention in bringing this up?
+
+**Answer:** The speaker is contrasting the simplicity of the command given to Adam with the complex rituals and laws often emphasized in subsequent religions. This emphasizes the core principle of Islam, which is submission to Allah, rather than adherence to specific rituals.
+
+## 2253.119s - Adam as a Muslim
+**Category:** Islamic History
+
+**Question:** The speaker suggests that Adam would not be considered a "noral sh" (follower of Sharia law). What does this tell us about the nature of Sharia law?
+
+**Answer:** The speaker implies that Sharia law is a complex system that evolved over time and was not fully revealed to Adam. This highlights that the Islamic legal framework is not a static set of rules but a system that has been revealed and refined progressively through divine guidance.
+
+## 2266.96s -  The Summary on Mount Sinai
+**Category:** Islamic History
+
+**Question:**  The speaker mentions the covenant made at Mount Sinai.  What is the speaker's point in discussing this?
+
+**Answer:** The speaker highlights the core message of the covenant, which is the recognition of Allah as the only god worthy of worship.  They use this example to further distinguish worship from the performance of specific rituals.
+
+## 2290.76s -  Establish Prayer
+**Category:** Islamic Practice
+
+**Question:** The speaker differentiates between worship and "establish prayer". What does this distinction mean?
+
+**Answer:** The speaker explains that establishing prayer is a specific ritual that serves as a reminder and means of connecting with Allah.  It is a practice that helps believers maintain their focus on Allah's sovereignty and presence throughout their lives.
+
+## 2343.839s - Salah as a Reminder
+**Category:** Islamic Practice
+
+**Question:**  The speaker says that Salah is not worship, but a reminder. What does this mean in practical terms?
+
+**Answer:** The speaker emphasizes that Salah is a ritual that helps believers stay connected to Allah's presence and remember his sovereignty.  It is not about performing specific actions but about maintaining a conscious relationship with Allah.
+
+## 2375.119s -  Video Disconnection
+**Category:**  YouTube Technical
+
+**Question:** The speaker acknowledges a problem with the video feed. What is the speaker's intention in doing so?
+
+**Answer:** The speaker acknowledges that the video feed may have been interrupted due to technical difficulties. They assure viewers that this is not a major issue and that the session will continue as planned. 
+
+## 2395.4s - Characteristics of Believers
+**Category:** Quranic Interpretation
+
+**Question:** The speaker lists various characteristics of believers that are mentioned in the ayah. What is the speaker's goal in doing this?
+
+**Answer:** The speaker continues to elaborate on the key traits and actions that define believers, as they are outlined in the verse. They are highlighting that a commitment to faith is not simply about belief but also involves specific actions, attitudes, and behaviors.
+
+## 2401.64s -  Praise Allah Plenty
+**Category:** Islamic Practice
+
+**Question:**  The speaker mentions that believers "praise Allah plenty". What does this mean in practice?
+
+**Answer:**  The speaker emphasizes that praising Allah is an integral part of a believer's life.  This involves not only expressing gratitude for his blessings but also acknowledging his greatness, perfection, and beauty. 
+
+## 2431.2s - The Meaning of  "Sayyah"
+**Category:** Quranic Interpretation
+
+**Question:**  The speaker acknowledges that the term "Sayyah" is difficult to translate accurately. What is the speaker trying to understand?
+
+**Answer:** The speaker seeks to clarify the meaning of the term "Sayyah," which refers to traveling or journeying.  They explore different interpretations and discuss the potential for misunderstanding and misinterpretations. 
+
+## 2477.72s -  Tourists and Dawah
+**Category:** Islamic Practice
+
+**Question:**  The speaker suggests that "Sayyah" could mean being a tourist.  What does the speaker mean by this?
+
+**Answer:**  The speaker suggests that the term "Sayyah" might encourage Muslims to engage in travel and exploration, not just for enjoyment but also as an opportunity to spread dawah (the message of Islam) and connect with other communities.
+
+## 2518.079s -  Previous Religions
+**Category:** Islamic History
+
+**Question:** The speaker mentions that there was a habit of some people in previous religions to travel and journey. What is the speaker's intention in bringing this up?
+
+**Answer:** The speaker is making a connection between the term "Sayyah" in the verse and the historical practice of some religious individuals in previous religions to engage in travel and pilgrimage. They are trying to understand the origins and significance of this concept in Islamic teachings.
+
+## 2545.48s - Dawah in Islamic History
+**Category:** Islamic History
+
+**Question:** The speaker says that there was a neglect of "Sayyah" in Islamic history. What does this refer to?
+
+**Answer:** The speaker is highlighting the fact that Muslims have not always actively pursued travel and exploration as a means of spreading dawah. This is attributed to various historical factors, such as ongoing wars and conflicts, as well as misinterpretations of Islamic teachings. 
+
+## 2584.16s - Those Who Perform Formal Prayer
+**Category:** Quranic Interpretation
+
+**Question:**  The speaker refers to "those who perform the formal prayer with humility." What is the speaker trying to clarify?
+
+**Answer:** The speaker highlights that the verse is specifically emphasizing the importance of performing the formal prayer (Salah) with humility and devotion. This emphasizes the need for believers to engage in prayer with reverence and a sincere connection to Allah. 
+
+## 2615.4s - The Deformed Form of Prayer
+**Category:** Islamic History
+
+**Question:**  The speaker mentions that previous religions may have had "deformed forms of prayer". What does the speaker mean by this?
+
+**Answer:** The speaker speculates that the forms of prayer practiced in previous religions may have deviated from the original teachings and become corrupted. This is an open question, as the speaker acknowledges that there is no definitive answer.
+
+## 2623.64s -  Christian and Jewish Prayer
+**Category:** Islamic History
+
+**Question:** The speaker mentions the practices of Christians and Jews at the time of Islam. What is the speaker trying to understand?
+
+**Answer:** The speaker is examining the forms of prayer practiced by Christians and Jews in the early Islamic period to gain insight into how these practices may have differed from the original teachings of the prophets. 
+
+## 2650.319s - The Practice of Sujud
+**Category:**  Islamic History
+
+**Question:**  The speaker references the prophet's practice of "sujud" (prostration).  What is the speaker's intention in bringing this up?
+
+**Answer:** The speaker is highlighting the historical practice of sujud, which is a key part of Islamic prayer. They are trying to determine if this practice was a formal part of prayer in previous religions or simply an individual act of devotion.
+
+## 2677.48s -  Extinction of Salah
+**Category:**  Islamic History
+
+**Question:**  The speaker mentions the "extinction" of the formal prayer in previous religions. What does this refer to?
+
+**Answer:**  The speaker is exploring the possibility that the formal prayer, as it is practiced in Islam, may have been lost or corrupted in previous religions. This is a point of debate and discussion, as there is no clear historical consensus. 
+
+## 2743.119s - Sujud in the Salah of Previous Religions
+**Category:** Islamic History
+
+**Question:**  The speaker discusses whether sujud was an extensive part of prayer in previous religions. What is the speaker's point?
+
+**Answer:** The speaker is trying to determine if sujud was a regular and compulsory practice in previous religions or if it was optional. They acknowledge that there is no clear evidence to answer this question definitively. 
+
+## 2789.48s - Command Good and Forbid Evil
+**Category:** Islamic Ethics
+
+**Question:**  The speaker mentions "command good and forbid evil" as a fundamental characteristic of believers. Why is this so important?
+
+**Answer:**  The speaker is highlighting the principle of "amr bil ma'ruf wa nahy an al munkar," which translates to "command good and forbid evil." This principle is a core tenet of Islamic ethics, requiring Muslims to actively promote righteous behavior and oppose wrongdoing.
+
+## 2820.839s -  Obligation for Everyone
+**Category:** Islamic Ethics
+
+**Question:** The speaker says that everyone is obligated to "command good and forbid evil" at a minimal level. What does this obligation entail?
+
+**Answer:** The speaker explains that everyone has a responsibility to oppose wrongdoing, even at a basic level. This could involve privately expressing disapproval of immoral actions, avoiding association with those who commit them, or holding a belief in one's heart that these actions are wrong. 
+
+## 2831.0s - Higher Levels of Command Good
+**Category:** Islamic Ethics
+
+**Question:**  The speaker mentions higher levels of "command good and forbid evil" that are only for the "Selected Few."  What does this distinction refer to?
+
+**Answer:**  The speaker acknowledges that there are different levels of responsibility and action when it comes to "command good and forbid evil". While everyone is obligated to have a basic level of rejection of wrongdoing, certain individuals may have the capability and authority to actively speak out against it, or even intervene physically to prevent it. 
+
+## 2924.2s -  Mustard Seed of Iman
+**Category:** Islamic Philosophy
+
+**Question:**  The speaker quotes a hadith that says if you don't have rejection of wrongdoing in your heart, you don't even have a "mustard seed" of faith. What is the speaker trying to emphasize?
+
+**Answer:**  The speaker is emphasizing the importance of internal faith and the impact of a sincere belief in Allah's teachings. They argue that even if someone does not outwardly express their disapproval of wrongdoing, they should at least hold it in their hearts as unacceptable.  
+
+## 2958.48s - Change It
+**Category:** Islamic Ethics
+
+**Question:**  The speaker says that you should not only reject wrongdoing but "change it." What does this refer to?
+
+**Answer:** The speaker highlights that actively opposing wrongdoing is not enough.  Muslims are obligated to take steps to change the situation, whether through their actions, words, or influence.
+
+## 2990.48s -  Paradise and True Believers
+**Category:** Islamic Philosophy
+
+**Question:**  The speaker says that those who prize Paradise are the true believers. What does this mean?
+
+**Answer:** The speaker is suggesting that those who genuinely desire Paradise are the ones who truly understand the values and principles of Islam. They are willing to sacrifice their worldly interests and comfort to earn Allah's favor and strive for a better life in the hereafter. 
+
+## 3003.68s -  Hating Monkar
+**Category:** Islamic Ethics
+
+**Question:**  The speaker states that if you don't hate "monkar" (wrongdoing) in your heart, you are finished. What does this imply?
+
+**Answer:**  The speaker emphasizes that a true believer must have a deep aversion to wrongdoing.  They should not be indifferent or complacent about sin but actively seek to oppose it in their hearts, even if they are unable to do so publicly or physically. 
+
+## 3013.28s -  The Deal with Believers
+**Category:** Islamic Philosophy
+
+**Question:**  The speaker mentions that the "deal" mentioned in verse 111 is only with believers. What does the speaker mean by this?
+
+**Answer:**  The speaker reiterates that the promise of Paradise is only for those who are truly committed to Islam and hold the necessary characteristics of faith. Those who do not meet these requirements are excluded from this divine agreement.
+
+## 3030.52s -  Fine Details of Da'wah
+**Category:** Islamic Philosophy
+
+**Question:**  The speaker mentions the "fine details" of da'wah and limitations. What does this refer to?
+
+**Answer:**  The speaker acknowledges that there are complex and nuanced questions related to da'wah, such as how to engage with non-Muslims, who is permitted to use force in promoting Islam, and what constitutes a legitimate authority in enforcing Islamic principles.  
+
+## 3041.799s -  Commanding Good and Forbidding Evil and Jihad
+**Category:** Islamic Ethics
+
+**Question:**  The speaker mentions the connection between "command good and forbid evil" and Jihad. What is the speaker trying to clarify?
+
+**Answer:**  The speaker distinguishes between "command good and forbid evil" and Jihad.  Jihad is specifically about fighting in the cause of Allah in certain circumstances, while "command good and forbid evil" is a broader principle of promoting righteousness and opposing wrongdoing, which can be applied in
+
+## https://www.youtube.com/watch?v=OsPQsK5bDmc
+
+## 2.879s: Any comments on that Rishi Sunak had a photo opportunity in the region? 
+**Category:** Politics
+
+The speaker believes that Rishi Sunak's visit was a politically motivated photo opportunity, suggesting it was meant to garner support and show a connection with the region, rather than being a genuine visit with substantive goals.
+
+## 8.08s: Video opportunity in um regions par mosque?
+**Category:** Politics
+
+The speaker believes that Rishi Sunak's visit to the mosque was a publicity stunt aimed at showing his connection with the region and its people. They suggest that the mosque's control by Saudi and Egyptian regimes makes the visit problematic, implying that it reflects the influence of these regimes over the mosque and possibly over the region as a whole. 
+
+
+## https://www.youtube.com/watch?v=ZOauc4DwCD4
+
+##  0.599s : the commander of 
+**Question:** What did the commander of the brigades do? 
+**Category:** Military Action
+**Answer:**  The commander of the brigades wrote a letter to Hamas expressing full support.
+
+## 4.879s : is wrote a letter to Hamas saying we are
+**Question:** What was the content of the letter sent to Hamas?
+**Category:** Political Communication
+**Answer:**  The letter stated that the writer and their group fully support Hamas and are not like others who oppose them. 
+
+## 11.16s : the the nasty degenerous speech of
+**Question:** What kind of speech was the commander referring to?
+**Category:** Political Rhetoric
+**Answer:**  The commander was referring to the "nasty degenerated speech" of those who do not support Hamas. 
+
+## 15.76s : of we are with you and fight with you to
+**Question:** What was the message of the letter in terms of action?
+**Category:** Military Support
+**Answer:**  The letter stated that the writer and their group will fight alongside Hamas to the very end. 
+
+## 18.199s : the end will not allow one to be
+**Question:** What was the commander's opinion on the outcome of the conflict?
+**Category:** Military Strategy
+**Answer:**  The commander believed that the conflict would continue until one side was completely destroyed.
+
+## 20.279s : destroyed I thought first that maybe
+**Question:** What was the initial interpretation of the letter's message?
+**Category:** Political Analysis
+**Answer:**  Initially, it was believed that the commander was simply following orders from his leadership to write the letter and cover up their tracks.
+
+## 26.32s : seems to be no this is genuinely from
+**Question:**  What changed the interpretation of the letter's message?
+**Category:** Political Analysis
+**Answer:** It became clear that the letter was not merely a cover-up, but a genuine statement from the commander himself. 
+
+## 28.039s : him and from God inan one of General
+**Question:**  What specific detail changed the interpretation of the letter's message? 
+**Category:** Political Analysis
+**Answer:**  A General named Salami made a comment that indicated the letter was genuine.
+
+## 33.8s : called
+**Question:**  What was the comment made by the General? 
+**Category:** Political Comment
+**Answer:**  The speaker did not specify the content of the comment made by General Salami, only that it was significant. 
+
+## 42.559s : said this situation in Gaza has shown
+**Question:** What did General Salami say about the situation in Gaza?
+**Category:** Military Analysis
+**Answer:** General Salami stated that the situation in Gaza has proven that Gaza can be destroyed and finished quickly. 
+
+## 54.239s : notice the
+**Question:** What was the point of interest regarding General Salami's comment?
+**Category:** Military Strategy
+**Answer:**  The point of interest was that General Salami's comment contradicted a previous assessment about the length of time it would take to destroy Gaza.
+
+## 55.92s : point obviously never said that publicly
+**Question:**  What had never been stated publicly before?
+**Category:** Military Strategy
+**Answer:**  General Salami's opinion that Gaza could be destroyed quickly had never been stated publicly.
+
+## 59.16s : so in his meeting with the ref God he
+**Question:** What had General Salami said previously in private meetings? 
+**Category:** Military Strategy
+**Answer:** General Salami had previously stated in private meetings that it would take at least 25 years to destroy Gaza.
+
+## 71.72s : it's not true the reality has shown this
+**Question:** What did General Salami say about his previous assessment?
+**Category:** Military Strategy
+**Answer:**  General Salami stated that his previous estimate was wrong and that the reality of the situation showed that Gaza could be destroyed quickly.
+
+## 77.72s : saying it publicly ex stating something
+**Question:** What was the significance of General Salami publicly stating his change of opinion?
+**Category:** Political Communication
+**Answer:**  By publicly stating his change of opinion, General Salami was publicly correcting his judgment and challenging previous assessments.
+
+## 83.439s : which Kam never said publicly in public
+**Question:** What had not been stated publicly before?
+**Category:** Political Communication
+**Answer:**  General Salami's change in assessment about Gaza had never been stated publicly before.
+
+## 99.399s : that's a very significant Point meaning
+**Question:** What was the significance of General Salami's change of opinion? 
+**Category:** Political Analysis
+**Answer:** General Salami's public change of opinion indicates that there are internal questions and disagreements within the leadership about their current strategies and assessments. 
+
+## 101.079s : the leadership of the god is starting to
+**Question:**  What is the leadership of the God doing?
+**Category:** Political Analysis
+**Answer:** The leadership of the God is starting to question their leadership, specifically questioning the leadership of Kamai and his office.
+
+## 115.079s : behind the scene there must be some
+**Question:** What is happening behind the scenes?
+**Category:** Political Analysis
+**Answer:**  There are likely ongoing discussions and debates between different factions within the leadership, questioning their current strategy and the information they have been given. 
+
+## 119.119s : definitely if they come to the
+**Question:**  What would happen if the leadership comes to a specific conclusion?
+**Category:** Political Analysis
+**Answer:** If the leadership concludes that they have been misled or given incorrect information, they may confront the leaders who gave them that information.
+
+## 128.52s : they have wrong estimate now they could
+**Question:** What would the leadership do if they realize their assessment was wrong? 
+**Category:** Political Strategy
+**Answer:** If the leadership realizes their estimate was wrong, they may try to shift blame onto others, like Salami, for the incorrect assessment.
+
+## 134.16s : your estimate is wrong what are you
+**Question:** What question would the leadership likely ask Salami?
+**Category:** Political Strategy
+**Answer:**  The leadership would likely confront Salami and question him about his wrong assessment and what he plans to do about it. 
+
+## 141.92s : the scene such a discussion is ongoing
+**Question:**  What is happening behind the scenes regarding the leadership's discussions?
+**Category:** Political Analysis
+**Answer:**  The speaker believes there are ongoing discussions and debates within the leadership about their current strategy and leadership.  
+
+## 151.08s : boiling we have a Bo sitation boiling
+**Question:** What is happening regarding the situation within the leadership?
+**Category:** Political Analysis
+**Answer:** The situation within the leadership is tense and volatile, with disagreements and discussions boiling over. 
+
+
+## https://www.youtube.com/watch?v=inZXpnDN_zc
+
+## How did the borders of existing Arab entities in the Muslim world get established? 
+**Category:** History 
+**Timestamp:** 3.08s
+The speaker explains that the borders of modern Arab states were not historically established. Instead, they were created by the British and French after World War I, dividing up the Ottoman Empire. They disregarded existing cultural and historical boundaries, drawing new lines based on their own interests. 
+
+## What did the Sharif of Mecca believe the British promised him?
+**Category:** Politics
+**Timestamp:** 16.359s
+The speaker states that the Sharif of Mecca, a powerful religious figure, believed the British promised him control over Syria, Arabia, and Iraq after World War I. He was upset when the British did not fulfill this promise. 
+
+## Why did the Sharif's sons rebel against the British? 
+**Category:** Politics
+**Timestamp:** 33.84s
+The Sharif of Mecca's sons, including Ali, rebelled against the British because they felt betrayed by the British's failure to deliver on their promises. They felt they were entitled to rule over the territories the British had promised them. 
+
+## How did the British resolve the Sharif's claims over Syria?
+**Category:** Politics
+**Timestamp:** 71.72s
+The British promised the Sharif of Mecca control over Syria, but the French, who had their own interests in the region, refused to concede. The French sent an army and seized control of Syria and Lebanon by force, despite the British agreement with the Sharif. 
+
+## What happened to the Sharif's son, Faisal, after he was promised the kingdom of Syria?
+**Category:** History
+**Timestamp:** 88.4s
+Faisal, the Sharif's son who was promised the kingdom of Syria, was left with nothing after the French took control. He spent two years traveling around Europe, complaining about the British betrayal. Eventually, the British gave him control over Iraq as a consolation prize, but he was later overthrown in a 1958 coup. 
+
+
+## https://www.youtube.com/watch?v=2Lw3kSto7t4
+
+### What does it mean that you should have an authority? 
+**Category:** Islamic Law
+**Timestamp:** 26.64s 
+The speaker explains that  having an authority means you should have a community. It means that you should be part of a politically organized entity, such as a Jama.
+
+### How is that excess in your neck there?
+**Category:** Islamic Law
+**Timestamp:** 68.32s 
+The speaker is explaining that the idea of  binding everyone to a certain authority in a community (like an Imam) is a good one, but not always possible. It would be difficult to get everyone to agree to this, especially when it comes to physically shaking hands or electing a leader.
+
+### How do we know that the Bayah is binding?
+**Category:** Islamic Law
+**Timestamp:** 235.959s 
+The speaker explains that the Bayah, or pledge of allegiance, is a crucial part of Islamic law.  It is binding, even if not everyone agrees to it. This is because it's impossible to have everyone agree, even in the time of the Prophet Muhammad. There were always those who rejected his leadership.
+
+### What does the election process have to do with Bayah?
+**Category:** Political Science
+**Timestamp:** 118.92s
+The speaker says that the first part of the Bayah in modern times is the election process.  He gives an example of how in a modern democracy, when someone is elected by a majority, they become the leader. This is analogous to the Bayah in Islamic law, as those who did not vote for the elected leader are still bound by their leadership.
+
+### What is the meaning of the Bayah in modern society?
+**Category:** Islamic Law
+**Timestamp:** 292.52s
+The speaker emphasizes that even in modern society, the concept of the Bayah still applies.  You are obligated to obey the laws of the community you are in, even if you didn't personally elect the leaders. The speaker suggests that if you disagree with the leaders, you have options like running for office yourself or waiting for the next election.  But you cannot simply leave the community and reject its authority. 
+
+
+## https://www.youtube.com/watch?v=NzMTlU-ewNg
+
+
+
+## https://www.youtube.com/watch?v=mf4L7Sj7MoU
+
+##  The story of Omar and the Quran 
+
+**At what point in time did the incident with Omar and the Quran occur?**  
+Category: History 
+It likely occurred in the 9th or 10th year after the Hijra,  as Omar is noted to have embraced Islam after the conquest of Mecca. 
+
+**What was Omar's criticism of the Quran reading?**
+Category: Quranic Studies 
+Omar found that Hisham's recitation of the Quran differed from the Prophet's teachings, specifically in terms of certain letters and pronunciations.  
+
+**How did the Prophet address Omar's concerns about the Quranic variations?**
+Category: Quranic Studies 
+The Prophet said he was aware of the different dialects and tribal pronunciations, and allowed for some variations to make it easier for people to learn the Quran. He said that the Quran's meaning was the primary factor, and pronunciation variations would be allowed within certain limits. 
+
+**What is the significance of the Hadith regarding Omar and the Quran?**
+Category: Hadith 
+This Hadith suggests that the Prophet acknowledged the variations in Arabic dialects and pronunciations, and that some variations in Quranic reading were permissible. This is important for understanding the complexities of Quranic recitation and the development of different Quranic readings.
+
+**What is the connection between the development of the Quranic text and the spread of Islam among non-Arabs?**
+Category: History 
+The speaker explains that the development of diacritical marks, dots, and other writing conventions became necessary as Islam spread beyond Arabia to non-Arab populations. These conventions helped non-Arabs learn the language and read the Quran correctly.
+
+**What is the evidence that the Quran was originally written without diacritical marks?**
+Category: Quranic Studies 
+The speaker mentions that the Prophet’s personal copy of the Quran, which was kept in his room, did not have diacritical marks, dots, or vowels. 
+
+**What is the argument of the speaker regarding the origin of the Quranic text?**
+Category: Quranic Studies
+ The speaker argues that the Quranic text was originally revealed without diacritical marks and other writing conventions. He believes that these marks were added later by scholars to aid in pronunciation and reading for non-Arabs. 
+
+**What is the significance of the Codex of the Quran given to Uthman?**
+Category: Quranic Studies
+The speaker believes this Codex was the primary copy, a reference copy which was preserved and later used to standardize the Quran.  
+
+**What are the different interpretations of the ayah 43:61 regarding Isa?**
+Category: Quranic Studies
+The speaker discusses how the ayah can be interpreted in two ways. Some scholars believe that the ayah is referring to Isa’s second coming as a sign of the Day of Judgement. Others believe that it refers to his first coming as a sign of the Day of Judgement. 
+
+**What does the speaker say is the greater controversy regarding Imran Hussein’s teachings?**
+Category: Quranic Studies 
+The speaker argues that the greater controversy regarding Imran Hussein's teachings lies in his belief that the original Quran was revealed without diacritical marks and that these marks were later added by scholars. This view is controversial because it suggests that some aspects of the Quranic text are not directly from God, but rather human additions.
+
+**What does the speaker say is the rationale behind the Quran being revealed in a way that allows for multiple interpretations?**
+Category: Quranic Studies
+The speaker suggests that Allah purposefully revealed the Quran in a way that allows for multiple interpretations, requiring human intellect and contemplation. This allows for intellectual development and a deeper understanding of the Divine message. 
+
+**What does the speaker say about the Multiverse theory?**
+Category: Cosmology 
+The speaker criticizes the Multiverse theory as a "circus talk" that does not elevate daily suffering or provide meaningful insights. He believes that the theory simply pushes the question of origins to another, even more complex and difficult-to-explain level. 
+
+**What is the speaker's understanding of science and its limits?**
+Category: Epistemology 
+The speaker distinguishes between science as a method for classifying reality and scientism, which he defines as a worldview that attempts to answer all questions using only scientific methods. He argues that scientism has limits and cannot adequately address questions of origin and ultimate purpose. 
+
+**What is the speaker's argument against the theory of the Quran's origin from aliens?**
+Category: Quranic Studies 
+The speaker points out that the Quran references stories of past generations that align with historical evidence, suggesting a continued presence of these aliens throughout history, which is not supported by any historical records.  
+
+**What is the speaker's view on the importance of the Quranic text?**
+Category: Quranic Studies
+The speaker emphasizes the importance of preserving the original Quranic text, as it is a divine revelation that needs to be carefully studied and understood. He acknowledges the challenges of identifying the original text, given the numerous variations and copies that have emerged over time.
+
+**What does the speaker say about the second coming of Isa?**
+Category: Quranic Studies
+The speaker argues that the Quran strongly supports the concept of the second coming of Isa. He references several verses and interpretations that suggest Isa’s return is an inevitable event. 
+
+**What is the speaker's overall perspective on the Quranic text?**
+Category: Quranic Studies
+The speaker sees the Quran as a complex and multifaceted text with multiple levels of meaning. He advocates for a critical and thorough examination of the text, recognizing that it requires careful study and contemplation to fully grasp its divine message. He also emphasizes the importance of applying the principles of sound scholarship and reasoning when interpreting the Quran. 
+
+
+## https://www.youtube.com/watch?v=fOKSBWsu2GM
+
+## 45.64s:  What is unique about this T Ser? 
+**Category:** Quran Study
+
+The speaker emphasizes that this particular Quran study session differs from others by delving into significant details and analysis of issues discussed in the Quran, incorporating modern discoveries, and being unafraid to present innovative interpretations.  This approach encourages a deeper understanding and a holistic picture of the Quran, aligning with Islamic principles of analysis and discussion.
+
+## 49.039s: I clarify this issue. 
+**Category:** Quran Interpretation
+
+The speaker clarifies that the Quranic challenge to disbelievers to produce 10 chapters of similar merit is not about predicting future events. The challenge is primarily focused on eloquence,  meaning, and the ability to convey profound ideas concisely.
+
+## 571.68s: Okay, so that's that's that's what will happen if they don't respond and they never responded.
+**Category:** Quran Interpretation
+
+The speaker discusses how the disbelievers never responded to the Quranic challenge. However, they did acknowledge that they could produce similar texts but would not waste their time on mythical stories or the legends of prophets, preferring to focus on worldly affairs. This highlights the disbelievers' lack of interest in spiritual matters and their focus on material concerns.
+
+## 662.279s: They they never came with anything relevant say to come to say he this show us respond to that that's all what they had. 
+**Category:** Quran Interpretation
+
+The speaker states that the disbelievers never presented any texts that could match the Quran's eloquence, depth of meaning, and comprehensiveness. They instead tried to distract with mundane stories and poetry, demonstrating their inability to truly understand the Quran's message.
+
+## 688.76s: That will be the real response to the challenge not that you can have some some songs and see my songs are nice. 
+**Category:** Quran Interpretation
+
+The speaker emphasizes that the true response to the Quran's challenge is not merely entertaining people with songs and music. The challenge requires producing a text that rivals the Quran in eloquence, meaning, and content, to be judged by experts of language and literature.
+
+## 708.399s: And the Arabs have judges for example in in in the markets after H they were have they having competition between poets. 
+**Category:** Quran Interpretation
+
+The speaker points out that the Arabs had established judges and competitions to evaluate eloquence and poetry, making them qualified to judge the Quran's merit. The Quran's challenge demanded a comparison on this very ground, which the disbelievers were unable to meet.
+
+## 1013.36s: The issue is the challenging is a matter of eloquence. 
+**Category:** Quran Interpretation
+
+The speaker reiterates that the Quran's challenge is fundamentally a matter of eloquence and the ability to convey profound meaning in a concise and impactful way. This aspect is essential for understanding the Quran's message and its superiority to any human-created text.
+
+## 1101.12s: Why assuming this the guy they referring to is really they don't believe in maybe he believes and he's not saying it publicly. 
+**Category:** Quran Interpretation
+
+The speaker addresses the Quranic verse stating that those who focus only on worldly matters will be fully compensated for their deeds in this life.  The speaker clarifies that the verse is not limited to those who outwardly deny faith but also includes those who may hold beliefs privately without openly expressing them.
+
+## 1192.84s: That's that's worshiping attributing him all Divinity and denying any Divinity to anybody else. 
+**Category:** Islamic Theology
+
+The speaker emphasizes the core principle of worship in Islam, which involves recognizing Allah as the sole source of Divinity, including sovereignty and rulership. This involves denying any divine attributes to any other entity, a fundamental aspect of monotheism.
+
+## 1297.279s: Then we forsake you sorry you're not welcome here nothing can be given to you here. 
+**Category:** Islamic Theology
+
+The speaker explains the consequences of failing to acknowledge Allah's existence and his role as the judge and rewarder of actions. Those who have completely forsaken this belief and never considered their accountability will be rejected and receive no reward in the afterlife.
+
+## 1389.96s: And without any reduction. 
+**Category:** Islamic Theology
+
+The speaker reiterates that all actions, regardless of whether they were performed for Allah or for worldly reasons, will be fully accounted for. There will be no reduction or injustice in the Divine accounting of deeds.
+
+## 1436.84s: This is the one who rejected that who denied and rejected it. 
+**Category:** Islamic Theology
+
+The speaker clarifies that the Quranic verse about those destined for Hellfire refers to those who have consciously denied and rejected the truth of Allah's existence and his message.
+
+## 1493.399s: Rejected then they cannot expect anything except the punishment. 
+**Category:** Islamic Theology
+
+The speaker emphasizes that those who choose to deny and reject the truth of Allah's existence and message will inevitably face punishment and Hellfire. There is no possibility of reward or positive outcomes for those who choose this path.
+
+## 1552.32s: Can then he who cares for no more than the life of this world be compared with with one who takes his stand and on a clear evidence from his sustainer. 
+**Category:** Quran Interpretation
+
+The speaker questions whether someone who focuses solely on worldly matters can be considered equal to someone who bases their life on the clear evidence of Allah's existence and his message. The Quran emphasizes the vast difference between these two approaches to life.
+
+## 1630.0s: Can they become B someone who has evidence from his Lord evidence not Faith. 
+**Category:** Quran Interpretation
+
+The speaker highlights the importance of evidence as a foundation for belief. The Quran emphasizes that those who possess evidence from Allah, confirmed by previous revelations like the Torah, are in a different category than those who rely solely on worldly pursuits.
+
+## 1655.399s: Intellectual and philosophical leader IM leader. 
+**Category:** Quran Interpretation
+
+The speaker explains that the word "hujja" in the Quran, often translated as "guide," carries a deeper meaning of leadership. It signifies someone who provides intellectual and philosophical guidance, leading others towards truth and understanding.
+
+## 1716.84s: Is not only just showing the way it's also guides to the way. 
+**Category:** Quran Interpretation
+
+The speaker emphasizes that the Quranic message is not merely a guide that points out the path, but actively leads people towards truth and righteousness. This active guidance is essential for overcoming challenges and misconceptions.
+
+## 1725.12s:  One of is that that these harsh rulings many there are harsh rulings in in the Old Testament over in the so-call five books. 
+**Category:** Quran Interpretation
+
+The speaker points out that the Quran's message of mercy contradicts many harsh rulings found in the Old Testament, suggesting that these rulings may have been added later to the scriptures.
+
+## 1752.399s: Anything before ibim is essentially mythical centy maybe there are few Legends. 
+**Category:**  Biblical History 
+
+The speaker differentiates between myth and legend, suggesting that much of the Old Testament before the time of Abraham contains mythical elements, while stories about Abraham and onwards contain historical elements mixed with legends and fabrications.
+
+## 1791.96s: The book of Levi. 
+**Category:**  Biblical History 
+
+The speaker mentions the book of Leviticus, which focuses on the priesthood and its regulations. This book has been criticized by modern scholars, as it's unclear if the priesthood was originally restricted to the descendants of Aaron.
+
+## 1830.84s:  And that's one of the main attacks which modern scholar attacks the PTI is that it can't be there seem to be. 
+**Category:**  Biblical History 
+
+The speaker discusses the modern scholarly criticism of the book of Leviticus, suggesting that it was created later to give the Levites a special privilege.  This contradicts the possibility of it being an authentic revelation from God.
+
+## 1901.36s:  So the word clarify many things go to these old books anything which. 
+**Category:**  Biblical History 
+
+The speaker encourages critical examination of the Old Testament, noting that any elements contradicting the principles of mercy and justice may be later insertions or fabrications. This approach emphasizes the importance of using reason and critical thinking when evaluating religious texts.
+
+## 1942.559s: And there don't serve any other purpose so we can put a question mark on this. 
+**Category:**  Biblical History 
+
+The speaker argues that certain punishments described in the Old Testament lack any basis in mercy and have no clear purpose.  This raises questions about their authenticity and whether they were genuinely revealed to Moses.
+
+## 1950.799s: For example, most stories about anting the enemy including killing woman children and so on are most likely fabricated. 
+**Category:**  Biblical History 
+
+The speaker discusses the historical context of the Old Testament, suggesting that many accounts of genocide and the extermination of enemies, including women and children, were likely fabricated during the Babylonian Exile.
+
+## 1998.48s: And he went to the grave of of samel the Prophet samel asking him why I F in this favor did I do. 
+**Category:**  Biblical History 
+
+The speaker addresses the story of King Saul seeking guidance from the prophet Samuel in the Old Testament, questioning the authenticity of the account and its portrayal of Saul's actions. This story has been used to justify the extermination of enemies, but the speaker highlights its questionable nature.
+
+## 2027.76s: That's BR down so it's clearly the Davidian part dispute between thean andan descent and The Descent of talut. 
+**Category:**  Biblical History 
+
+The speaker explains that the story of Saul's downfall in the Old Testament reflects the historical rivalry between the tribe of David and the tribe of Saul, which likely influenced the way these events were recorded.
+
+## 2041.519s: L writing history the stronger party is the party of David they wrote history the LA. 
+**Category:**  Biblical History 
+
+The speaker emphasizes that historical accounts are often biased towards the victors. The tribe of David, after achieving power, may have shaped the historical record to favor their own lineage and discredit Saul's rule.
+
+## 2073.28s: Only that these books actually the claim of burning certain cities if you shake the if you shake the burning to the ground will leave some Tres. 
+**Category:**  Biblical History 
+
+The speaker argues that the historical claims of burning cities to the ground in the Old Testament are unlikely, as archaeological evidence would show remnants of destruction. The absence of such evidence suggests the possibility of exaggeration or fabrication in these accounts.
+
+## 2119.72: See just the will indicate anything which is Extreme and contradict the principle of rahma. 
+**Category:**  Biblical History 
+
+The speaker points out that elements in the Old Testament that contradict the principles of mercy and compassion, particularly those involving the indiscriminate killing of women, children, and even animals, raise questions about their authenticity and whether they reflect true Divine injunctions.
+
+## 2172.64s:  The word the word IM is better than guide it should be leader. 
+**Category:**  Quran Interpretation
+
+The speaker highlights that the word "hujja" in the Quran, often translated as "guide," implies a deeper meaning of leadership. It signifies someone who leads intellectually and spiritually, directing others towards truth and righteousness.
+
+## 2196.359s: Scripturally um being dismissive of that which isn't Rah in the event if if it's clearly. 
+**Category:**  Quran Interpretation
+
+The speaker emphasizes that any scriptural injunctions that contradict the Quran's principle of mercy and justice should be critically examined.  These verses may be later additions or fabrications, not reflecting the true Divine message.
+
+## 2211.04s: Okay, so you need external validation because the reason I was G to ask was on the issue. 
+**Category:** Quran Interpretation
+
+The speaker explains that the Quran's emphasis on mercy and justice provides an external criterion for evaluating other religious texts. Any verses that contradict these principles should be questioned and examined carefully.
+
+## 2279.04s: The most important issue in the Ayah why mention the Rah there look it was a guide. 
+**Category:**  Quran Interpretation
+
+The speaker highlights the importance of mercy in the Quran, suggesting that the inclusion of the word "rahma" (mercy) in a verse about the Torah points to a potential contradiction. The speaker implies that the Torah, although a guide, may contain elements that conflict with the principle of mercy.
+
+## 2284.0s:  It was a guide that was full of Rah so that what you read there which is clearly contradicting rahma must be a question mark. 
+**Category:** Quran Interpretation
+
+The speaker emphasizes that the Torah, despite being a guide, may contain contradictory elements.  The Quran's message of mercy acts as a benchmark for evaluating scriptural claims, suggesting that verses that contradict this core principle require further examination.
+
+## 2316.359s: Because there no contradiction and no like that's number one secondly. 
+**Category:** Quran Interpretation
+
+The speaker highlights the Quran's internal consistency and lack of contradictions, arguing that this is a key factor in its authenticity. Any contradictions or inconsistencies in other scriptures raise questions about their divine origin.
+
+## 2334.56s: Then you find in the old test your first born is is is not a first born unless you deny. 
+**Category:** Biblical History
+
+The speaker points out a contradiction in the Old Testament regarding the concept of "firstborn" in the context of the story of Abraham sacrificing his son. This contradiction highlights potential inconsistencies within the scripture and raises doubts about its authenticity.
+
+## 2352.359s: But himself is regarded as as a prophet. 
+**Category:**  Biblical History
+
+The speaker emphasizes that Ishmael, although a central figure in the story of Abraham and his sacrifice, is considered a prophet in the Islamic tradition. This highlights a difference in interpretation compared to some Christian traditions, where Ishmael is often portrayed less favorably.
+
+## 2386.28s:  And there may be some added fabrication there like the story of I just mention. 
+**Category:**  Biblical History
+
+The speaker reiterates that some elements within the Old Testament, including specific stories like the extermination of the Amalekites, may be later fabrications, added for various reasons, including political or social agendas.
+
+## 2401.48s: Criminal genocide criminal referring to quoting don't forget what the am did you and you should fight the am. 
+**Category:**  Biblical History
+
+The speaker addresses the historical rivalry between the Israelites and the Amalekites, questioning the validity of the injunction to fight them "until the end of time." This verse is often cited as a justification for violence, but the speaker suggests that the historical context is complex and needs further examination.
+
+## 2423.96: Facated that was not the reason there was some conflict between the and possibly. 
+**Category:**  Biblical History
+
+The speaker doubts the reasons given in the Old Testament for the conflict between the Israelites and the Amalekites, suggesting that the true historical reasons may be different and may be more related to worldly affairs than religious disputes.
+
+## 2465.28:  Story certainly is fabricated. 
+**Category:**  Biblical History
+
+The speaker discards the story of Saul's downfall in the Old Testament as fabricated, suggesting that it was created to justify the actions of David and his tribe and to discredit Saul's legacy.
+
+## 2481.52:  What's about children who are not responsible not addressed by any command. 
+**Category:**  Biblical History
+
+The speaker criticizes the indiscriminate killing of children, women, and even animals in certain Old Testament accounts, pointing out that such actions are not justified by any divine command and contradict fundamental principles of justice and mercy.
+
+## 2507.76:  There must have been considerable wholesale Fabrications. 
+**Category:**  Biblical History
+
+The speaker argues that the inclusion of extreme and contradictory elements in the Old Testament, particularly regarding violence and extermination, suggests that substantial fabrications were added to the text over time.
+
+## 2528.24: The context is about believing in and and the promise of and there's no place to there's no reason say that the book. 
+**Category:** Quran Interpretation
+
+The speaker analyzes the Quranic verse mentioning the Torah as a guide and a source of mercy, suggesting that the inclusion of this statement signifies a clear distinction between the Quran's message and certain elements in the Torah. 
+
+## 2546.319s: Some hint for something. 
+**Category:** Quran Interpretation
+
+The speaker argues that the Quranic inclusion of a statement about the Torah being a guide and a source of mercy highlights a potential contradiction between this claim and certain verses within the Torah. This suggests that the Quran is pointing to specific problems with the authenticity of the Torah.
+
+## 2556.04:  No question of Mercy or non Mercy. 
+**Category:** Quran Interpretation
+
+The speaker emphasizes that the Quranic verse about the Torah being a guide and a source of mercy, even though the Torah contains contradicting elements, is not about debating mercy. The verse is a statement about the importance of recognizing the Torah as a true revelation from God, despite its limitations.
+
+## 2594.2s: It gives certain meaning it gives you certain hint for things. 
+**Category:** Quran Interpretation
+
+The speaker emphasizes that the Quran's message of mercy provides a framework for interpreting other religious texts. The inclusion of this message in the verse about the Torah highlights potential contradictions and fabrications within the Torah that need to be addressed.
+
+## 2606.599s: Evidences from this Divine R and EV from previous Revelation which has given to M. 
+**Category:** Quran Interpretation
+
+The speaker reiterates that the Quran's message is based on evidence from Allah and is confirmed by previous revelations, like the Torah given to Moses. The Quran emphasizes the importance of relying on this divine evidence for understanding the truth.
+
+## 2631.92: Why why the stories about exmination is highly suspect when Allah addressed the issues who are Waging War. 
+**Category:** Quran Interpretation
+
+The speaker discusses the Quran's stance on war and punishment, arguing that the indiscriminate extermination of entire groups contradicts the Quran's principles of justice and mercy. This raises doubts about the authenticity of certain stories in the Old Testament that promote genocide.
+
+## 2659.319s:  We made we we we better obligatory on to to assume and to believe and recognize that killing someone without. 
+**Category:** Islamic Law
+
+The speaker highlights the Quran's clear stance on killing, stating that it's prohibited except in cases of retaliation, self-defense, or to prevent corruption in the land.  This clarifies that the Quran does not endorse indiscriminate violence or genocide.
+
+## 2736.04s:  And obvious definitely because after that definitely by necessity on us no doubt by by by next. 
+**Category:** Islamic Law
+
+The speaker emphasizes that the Quran's strict prohibition on taking innocent life is absolute. This principle applies to all individuals, regardless of their beliefs or actions, and emphasizes the sanctity of human life.
+
+## 2776.64: Fabrication because they and those schol of the are the one who wrote the books. 
+**Category:** Biblical History
+
+The speaker emphasizes that certain elements in the Old Testament, particularly those promoting violence and extermination, were likely added later by scholars during the Babylonian Exile. These additions reflect the political and social context of the time and do not represent the true divine message.
+
+## 2812.88: Compare with history you don't. 
+**Category:** Biblical History
+
+The speaker encourages using historical evidence to evaluate scriptural accounts, particularly those involving violence and extermination. This approach can help distinguish between authentic revelations and later additions that reflect historical biases.
+
+## 2837.76: Children are not responsible they did not indulge into into killing someone else. 
+**Category:** Islamic Law
+
+The speaker clarifies that children cannot be held responsible for crimes they did not commit, reiterating the Quran's emphasis on individual accountability. This principle directly contradicts the Old Testament's injunctions to exterminate even infants and pregnant women.
+
+## 2869.92: It's not only the mercy even that eye also so Al there are many hands there not only. 
+**Category:** Quran Interpretation
+
+The speaker argues that the Quran's message of mercy is not limited to a single verse or concept but is woven throughout the entire text. The Quran's emphasis on justice, fairness, and the sanctity of life contradicts certain elements in the Old Testament that promote violence and extermination.
+
+## 2880.76:  Don't be fool plenty of that is fabricated written. 
+**Category:** Biblical History
+
+The speaker encourages a critical examination of the Old Testament, suggesting that many of its elements may be fabricated additions. This approach emphasizes the importance of using reason and historical evidence to distinguish between genuine revelations and later insertions.
+
+## 2897.2s: Away from the eyes of the uninitiated away from the so that the elite can keep power. 
+**Category:**  Biblical History
+
+The speaker suggests that some elements in the Old Testament were intentionally kept hidden from the general public, allowing the elite to maintain control and power. This highlights the potential influence of political agendas on religious texts.
+
+## 2918.72: Like in movies Old Testament type of justice as in there is always a clear distinction. 
+**Category:**  Biblical History
+
+The speaker points out that the Old Testament and New Testament often present different views on justice and how God treats humanity. This highlights the potential for different interpretations and emphasizes the importance of critical analysis.
+
+## 2962.4s: Who could be more wicked than they who attribute their own lying inventions to God. 
+**Category:** Islamic Theology
+
+The speaker condemns those who attribute their own lies and fabrications to Allah, arguing that this act is the most wicked form of injustice. Such actions are a direct affront to the Divine and will face severe consequences in the afterlife.
+
+## 3031.72: Public public humiliation by the the witness standing there and screaming loud these are the one who who fabricate. 
+**Category:** Islamic Theology
+
+The speaker describes the scene of judgment day when those who have fabricated lies against Allah will face public humiliation and condemnation before the witnesses and the Divine. This emphasizes the seriousness of such actions and their consequences.
+
+## 3057.28: How can you accuse this man of the and after they have even failed the chall to bring a comparable. 
+**Category:** Quran Interpretation
+
+The speaker refutes accusations against the Prophet Muhammad by emphasizing that those making such claims have failed to produce a text comparable to the Quran in eloquence, meaning, and comprehensiveness. This highlights the Quran's superiority and the hypocrisy of its detractors.
+
+## 3119.839s: The truth of the life to come and this is the same people who that one fabricate. 
+**Category:** Islamic Theology
+
+The speaker connects the act of fabricating lies against Allah to the denial of the afterlife. The speaker argues that those who engage in such actions are ultimately diverting people from the path of truth and denying the reality of accountability and judgment in the hereafter.
+
+## 3151.359s: According to the truth itself so they they want to get you in a crooked way. 
+**Category:** Quran Interpretation
+
+The speaker explains that those who fabricate lies against Allah are trying to mislead people by presenting falsehoods as truth. This action is motivated by a lack of belief in Allah's existence and authority, and ultimately leads people astray.
+
+## 3169.119s: Believe thatting he want to go to that level believe. 
+**Category:** Islamic Theology
+
+The speaker emphasizes that those who fabricate lies against Allah are driven by a sense of arrogance and a belief that they can manipulate truth and reality.  This attitude stems from a lack of genuine faith and an inability to accept the Divine authority.
+
+## 3179.16: Like like Paul said I was lying for Christ I stole for Christ with which authority you lie for Christ. 
+**Category:**  Biblical History
+
+The speaker uses the example of Paul, a prominent figure in Christianity, who openly admitted to lying and stealing in the name of Christ.  This illustrates the potential for hypocrisy and fabrication in the name of religion, even when it's attributed to divine authority.
+
+## 3231.88:  Really believe in some some fundamental problem. 
+**Category:**  Christian Theology
+
+The speaker points to internal contradictions within Christianity, particularly regarding the concept of God's death for the sins of humanity. This raises questions about the coherence and legitimacy of such beliefs, particularly in the context of attributing divinity to a human being.
+
+## 3253.359s: Which is instead the original straight path. 
+**Category:** Quran Interpretation
+
+The speaker emphasizes that the path to truth is fundamentally simple and straight. Those who fabricate lies and distort the truth are ultimately leading people astray by creating a crooked and twisted path.
+
+## 3270.16:  The people get many people get persuaded and led downhill this way. 
+**Category:** Quran Interpretation
+
+The speaker warns about the dangers of being misled by those who distort the truth and create false narratives. This highlights the importance of critical thinking, questioning assumptions, and seeking evidence-based truth.
+
+## 3316.839s:  Never will they find anyone who could protect them from God in the Life to Come. 
+**Category:** Islamic Theology
+
+The speaker emphasizes that those who fabricate lies against Allah and mislead others will face Divine judgment in the afterlife. There is no escape from Allah's justice, and no one can protect them from its consequences.
+
+## 3347.119s:  One point someone maybe someone here say oh but what's about why your God does not step in and preent prevent. 
+**Category:** Islamic Theology
+
+The speaker addresses the question of why Allah does not intervene immediately to punish those who fabricate lies against him. The speaker explains that Allah's intervention is not automatic but is based on a system of testing and free will. 
+
+## 3368.64s: D is a domain of testing that's the decision made at the foundation of the world. 
+**Category:** Islamic Theology
+
+The speaker reiterates that this world is a domain of testing, where individuals are given free will to choose between truth and falsehood. Allah's intervention is not always immediate, allowing for the development of individual character and accountability.
+
+## 3381.96:  Abund instead of sinking down to the levels of animality. 
+**Category:** Islamic Theology
+
+The speaker explains that Allah's decision to allow testing in this world is about allowing humans to reach their full potential by developing their faith, understanding, and moral character. This process is about ascending towards divinity, not descending into animalistic behavior.
+
+## 3391.76: Except a rare occasion that Allah would step in space on time and punish. 
+**Category:** Islamic Theology
+
+The speaker clarifies that Allah's intervention is not commonplace but is a rare occurrence, usually reserved for specific situations and purposes. This highlights that Allah's justice operates within a framework of wisdom and divine plan.
+
+## 3401.48:  Some who is fabricate say let me do that if Allah really exist he should step in and bur me no he will not. 
+**Category:** Islamic Theology
+
+The speaker addresses the common argument used by those who deny Allah's existence - that if Allah exists, he would intervene immediately to punish wrongdoing. The speaker refutes this logic, highlighting that Allah's justice operates within a greater plan and does not always involve immediate intervention.
+
+## 3414.28:  I mentioned once the story of that one was in his young years wavering about 80s and American he said read the sty I read it in the 60. 
+**Category:** Personal Anecdote
+
+The speaker shares a personal anecdote about an American individual who, in their younger years, actively swore at God to provoke a response. This example illustrates how some individuals, in their disbelief, may seek to challenge God's existence through provocative actions.
+
+## 3437.44: Show me the way guide me I'm desperate do something instead he was swearing. 
+**Category:** Personal Anecdote
+
+The speaker continues the anecdote about the American individual, highlighting the difference between seeking guidance and challenging God's existence through disrespectful actions. The individual's choice to swear at God demonstrates a lack of faith and a misdirected approach to seeking a connection with the Divine.
+
+## 3451.52:  I concluded at this he was a bit rational I concluded either he doesn't exist. 
+**Category:** Personal Anecdote
+
+The speaker concludes the anecdote about the American individual, noting their eventual rationalization that if God exists, he is either irrelevant or does not care about answering the individual's challenges. This demonstrates a superficial understanding of faith and a lack of willingness to genuinely seek truth.
+
+## 3478.079s: Then he recognized that oh life without believing in God is is miserable. 
+**Category:** Personal Anecdote
+
+The speaker discusses a possible shift in the American individual's perspective, suggesting that they may have eventually realized the emptiness of a life without faith. This highlights the potential for individuals to change their views through personal experience and introspection.
+
+## 3497.079s:  A tool which make your life easier. 
+**Category:**  Christian Theology
+
+The speaker criticizes a common misconception about God in Christianity, where He is perceived as a tool for personal gain and comfort. This view distorts the true nature of faith and reduces God to a means to an end, rather than a source of ultimate purpose and meaning.
+
+## 3503.76:  Coming from a pin Christian background Pine Christian is not a Christianity Rea we know that but Christian is that the whole meaning. 
+**Category:** Christian Theology
+
+The speaker distinguishes between true Christianity and a specific form of Christian practice known as Pentecostalism. This highlights the diversity within Christian beliefs and practices, and the potential for different interpretations of core doctrines.
+
+## 3513.76: He died for you and for your sin so he's God dies for humans he's a super Frid. 
+**Category:** Christian Theology
+
+The speaker criticizes the core doctrine of atonement in Christianity, where God's sacrifice on the cross is viewed as a way to atone for human sins. The speaker argues that this concept distorts the relationship between humanity and God, reducing God to a mere servant of humanity.
+
+## 3557.28: They commit suicide sacrificing them for God our God is different he sacrificed himself for us. 
+**Category:**  Christian Theology
+
+The speaker addresses a statement made by a US official after 9/11, where they contrasted Muslim actions of self-sacrifice with the Christian concept of God sacrificing himself for humanity.  This statement highlights a misunderstanding of both Islam and Christianity, demonstrating the dangers of judging other faiths based on stereotypes and limited understanding.
+
+## 3567.88:  He's got this imaginary construct in his mind because he started the wrong way with the wrong philosophy. 
+**Category:**  Christian Theology
+
+The speaker criticizes the US official's understanding of Christian theology, suggesting that their statement about God's sacrifice is based on a flawed and distorted view of the faith. The speaker emphasizes the importance of a sound theological foundation for understanding religious concepts.
+
+## 3591.68: They should not fools while they're sitting and fabricating that Allah is not. 
+**Category:** Islamic Theology
+
+The speaker warns against the folly of those who fabricate lies against Allah, reminding them that Allah is aware of their actions and will hold them accountable for their falsehoods. 
+
+## 3604.559s:  Usually to benefit of someone a by stand up. 
+**Category:** Islamic Theology
+
+The speaker explains that while Allah's intervention is not always immediate, it does happen, often in unexpected ways and for the benefit of those who are righteous and seek truth.
+
+## 3610.16:  Do not don't get to know know that it can very well happen Allah has the Liberty to do that. 
+**Category:** Islamic Theology
+
+The speaker reiterates that Allah has the power and freedom to intervene in the world, but he does not always do so for immediate punishment. This highlights the concept of Divine sovereignty and the complexity of Allah's actions.
+
+## 3626.68: In the New Testament when some of them challenged for for for miracles and so on all his miracles everyone has reporting. 
+**Category:**  Christian Theology
+
+The speaker discusses the request for miracles within Christianity, pointing out that Jesus, despite being reported to have performed miracles, refused to perform them on demand. This highlights the limitations of human perception and the importance of relying on faith and testimony rather than demanding physical manifestations.
+
+## 3635.039s: He refused to do it see the sons of snakes are not worthy of seeing America. 
+**Category:**  Christian Theology
+
+The speaker mentions the story of Jesus refusing to perform a miracle for those who doubted his authority, suggesting that Divine intervention is not always granted to those who lack faith. This highlights the importance of a sincere and open heart in receiving divine guidance.
+
+## 3651.599s:  Like the Revival of completely accidental or was once in a trip by Revelation obviously you cannot see. 
+**Category:**  Christian Theology
+
+The speaker discusses the concept of miracles and revelation, emphasizing that divine intervention can occur unexpectedly and often in ways that are not easily explained.  This highlights that human understanding is limited and faith plays a crucial role in receiving divine guidance.
+
+## 3669.559s:  Or needed some affirmation whatever his situation and by pure grace of Allah said do you want me to you don't do you want me to show you an eye man. 
+**Category:**  Islamic Theology
+
+The speaker shares a story from the Prophet Muhammad's life, where he performed a miracle for a companion who had doubts in his heart. This demonstrates that Allah's grace and intervention are not always limited to specific requests but can also be a response to sincere needs and doubts.
+
+## 3687.92: Go to the tree and ask her to come hold her and bring her to me to sayam to he went to say come with me. 
+**Category:**  Islamic Theology
+
+The speaker describes the Prophet Muhammad's miracle of commanding a tree to come to him. This story is a testament to the Prophet's authority and the power of faith in receiving divine intervention.
+
+## 3721.4s: Should maybe only rational argument instead of seeing material Miracle but this one needed that. 
+**Category:**  Islamic Theology
+
+The speaker emphasizes that Allah's intervention is not limited to physical manifestations but can also be a response to intellectual and spiritual needs. This highlights that faith is not merely about seeing miracles but also about understanding and accepting the truth.
+
+## 3738.079s: Been offers Ione to show him an a anyone asking a have never been received except with rejection. 
+**Category:** Islamic Theology
+
+The speaker clarifies that Allah's miracles are not offered on demand. They are granted based on a deeper purpose and are often reserved for those who have genuine faith and need divine confirmation.
+
+## 3750.4s: That's not the way it works in this universe. 
+**Category:**  Islamic Theology
+
+The speaker reiterates that Allah's intervention in the world is not based on human demands but on a larger plan and purpose. This highlights the importance of accepting and trusting the Divine will, rather than expecting immediate results.
+
+## 3774.839s:  They have squandered their own selves for on the day of the Resurrection all their false IM imagery will have forsaken them. 
+**Category:** Islamic Theology
+
+The speaker condemns those who reject the truth and fabricate false beliefs, highlighting that their actions will ultimately lead to their downfall and separation from Allah. This emphasizes the importance of seeking truth and avoiding falsehoods.
+
+## 3791.0s:  Allowed themselves to be lost and the invented Gods will have deserted them. 
+**Category:** Islamic Theology
+
+The speaker describes the fate of those who have strayed from the path of truth and embraced false gods. These individuals will be left abandoned by their fabricated deities and face the consequences of their choices in the afterlife.
+
+## 3803.88:  Are not only lying about Allah but they misguide people. 
+**Category:**  Islamic Theology
+
+The speaker emphasizes that those who fabricate lies against Allah are not only engaging in personal falsehood but also actively misleading others. This act of misguidance carries a heavy burden of responsibility and will be judged
+
+## https://www.youtube.com/watch?v=Iw4z3JXhuLw
+
+## What is the current situation in Gaza and what are the updates? 
+**Category:** Gaza Conflict
+0.08s: The speaker mentions that there is not much to be updated except that everything is as it was previously stated.
+**Answer:** The situation in Gaza remains largely unchanged, according to the speaker.  The speaker implies that the conflict is continuing in a similar manner as before.
+
+##  What is the main objective of Israel regarding the situation in Gaza?
+**Category:** Israeli Strategy
+15.879s: The speaker states that Israel aims to provide Biden with a temporary break, avoiding more intense actions.
+**Answer:**  Israel wants to give Biden a temporary respite. The speaker suggests that by avoiding more aggressive actions, Israel hopes to prevent further international pressure and criticism directed at Biden and the US.
+
+## Why does Israel want to delay a major offensive?
+**Category:** Israeli Strategy
+21.199s: The speaker explains that Israel is choosing a slower pace of operations in order to prolong the conflict. 
+**Answer:** Israel is pursuing a strategy of slowing down the offensive. The speaker suggests that this is done to extend the conflict, allowing Netanyahu more time in office, and to avoid exposing Biden further on the world stage.
+
+## What are the current developments on the ground in Gaza?
+**Category:**  Gaza Conflict
+61.239s: The speaker details that Israel's claims of full control over Gaza are false, as Hamas has significant fighting power.
+**Answer:** The speaker contradicts Israel's claims of control over Gaza, stating that Hamas is still active and powerful. The speaker mentions specific examples, such as the destruction of Israeli tanks and casualties among Israeli soldiers.
+
+## What is the reality of the situation in Gaza and what does it reveal about Israel's strategy?
+**Category:**  Gaza Conflict
+91.439s: The speaker reveals that Israel has been misleading the public, as Hamas's forces are not fully eradicated. 
+**Answer:**  Israel's claims of eliminating Hamas's fighting forces are false, according to the speaker. This highlights the misinformation being spread by the Israeli government, and suggests that the conflict may be far from over.
+
+## What is the truth behind the ceasefire in Gaza and what is the real motive?
+**Category:**  Gaza Conflict
+124.64s: The speaker asserts that the ceasefire is merely a political tactic by Israel, as they intend to prolong the conflict. 
+**Answer:**  The ceasefire is a strategic maneuver by Israel.  The speaker believes that the ceasefire is a tactic to buy time and further Netanyahu's political agenda, not a genuine attempt at peace. 
+
+## How will the Gaza conflict affect Biden and what are the potential consequences?
+**Category:**  Gaza Conflict
+145.0s:  The speaker argues that the conflict puts Biden in a difficult position, exposing him to criticism over his role in the situation.
+**Answer:**  The Gaza conflict creates political challenges for Biden.  The speaker suggests that continuing the conflict could lead to increased scrutiny of Biden's actions and potentially harm his political standing.
+
+## What is the role of Arab countries in the conflict?
+**Category:** Arab Countries
+215.04s:  The speaker reveals that several Arab countries are supporting Israel, despite their claims of neutrality. 
+**Answer:**  Several Arab countries are covertly backing Israel. The speaker claims that countries like Saudi Arabia, UAE, and Egypt have provided financial aid and are actively pushing for the eradication of Hamas.
+
+##  What is the current state of negotiations for a ceasefire or resolution in Gaza?
+**Category:**  Gaza Conflict
+242.239s: The speaker claims that any solution to the conflict is unlikely, as there is no clear path forward for negotiations. 
+**Answer:**  A lasting solution to the Gaza conflict seems impossible.  The speaker expresses doubts about the success of any negotiations due to conflicting interests and a lack of concrete proposals.
+
+##  What are the potential developments that could escalate the conflict?
+**Category:**  Gaza Conflict
+288.24s:  The speaker identifies possible factors that could escalate the conflict, such as the collapse of Jordan's regime or other countries joining the war. 
+**Answer:**  Several events could potentially escalate the conflict, such as political instability in neighboring countries or foreign intervention.  The speaker emphasizes that while unlikely, these events could dramatically alter the course of the conflict.
+
+## What is the current political situation in Israel, and how might it influence the conflict?
+**Category:**  Israeli Politics
+301.84s: The speaker points to political divisions within Israel, with factions pushing for more extreme actions in the conflict. 
+**Answer:**  There are significant political divisions within Israel. The speaker suggests that right-wing factions are increasingly pushing for more aggressive actions in Gaza, which could further escalate the conflict.
+
+## What is the current tactic being used by Hamas?
+**Category:**  Hamas Strategy
+350.479s: The speaker explains that Hamas is employing a strategy of drawing Israeli forces deeper into Gaza and engaging in guerilla warfare.
+**Answer:** Hamas is using a strategy of luring Israeli forces deeper into Gaza and targeting them through ambushes and long-range attacks. 
+
+## What is the likelihood of a quick resolution to the conflict?
+**Category:**  Gaza Conflict
+387.039s: The speaker believes that a quick resolution is unlikely, due to the complex nature of the situation and the political agendas involved. 
+**Answer:**  A swift resolution to the Gaza conflict is not anticipated.  The speaker emphasizes that the conflict is driven by complex political and strategic interests, making a quick resolution difficult.
+
+## What is the potential impact of a US vote on Palestinian statehood?
+**Category:**  Palestinian Statehood
+429.599s: The speaker highlights the significant implications of a US vote in favor of Palestinian statehood, affecting the future of the conflict.
+**Answer:** A US vote in favor of Palestinian statehood would have a major impact on the conflict.  The speaker suggests that this vote could affect the prospects for a two-state solution and would be a significant shift in US policy.
+
+## What is the current state of the conflict in Israel and what are the future possibilities?
+**Category:**  Gaza Conflict
+464.159s: The speaker highlights the uncertainty surrounding the conflict's outcome, with various internal conflicts and external pressures.
+**Answer:**  The future of the conflict is uncertain. The speaker mentions internal divisions within Israel, external pressures from other countries, and a lack of clear solutions, making it difficult to predict how the conflict will evolve.
+
+## Where can people find evidence of Arab countries' involvement in the conflict?
+**Category:**  Arab Involvement
+484.479s: The speaker believes that information about Arab countries' support for Israel should be widely publicized.
+**Answer:** The speaker believes that evidence of Arab countries supporting Israel should be shared publicly.  The speaker urges for wider dissemination of this information, particularly through Arabic language media. 
+
+
+## https://www.youtube.com/watch?v=8FRl3w4PeNs
+
+##  0:44 What is the purpose of a nonbinding resolution? 
+**Category:** International Relations
+
+The speaker suggests that the nonbinding resolution on the ceasefire is merely a political maneuver by the US to appear as though they are taking action to prevent the genocide in Palestine, while simultaneously appealing to certain voter demographics in the US. 
+
+
+## 1:27 Why didn't the US veto the resolution if it wasn't binding?
+**Category:** International Relations
+
+The speaker argues that the US's insistence on not vetoing the nonbinding resolution exposes their complicity in the genocide, as they know it does not hold any real weight and are therefore able to remain supportive of Israel's actions without facing any consequences. 
+
+
+## 2:36 What is happening with the situation in the hospital in Gaza?
+**Category:** Conflict
+
+The speaker describes how Israeli forces attempted to encircle a hospital in Gaza in an effort to kill everyone inside, believing that there was a high-level Palestinian commander present. However, the Palestinians managed to circle the hospital and prevent the Israelis from withdrawing their forces. Additionally, an Israeli building was struck by an explosive, resulting in a significant loss of life. 
+
+## 3:41 Are there any rumors about what is happening in Gaza?
+**Category:** Conflict
+
+The speaker mentions rumors that Israel is attempting to evacuate people from the hospital, but notes that this is not confirmed. 
+
+## 4:04 What is happening with the demonstrations in Jordan?
+**Category:** Conflict
+
+The speaker notes that the demonstrations in Jordan are increasing and that the Israeli embassy in Jordan has been under siege for six days. They argue that the Jordanian police are hesitant to use force to disperse the demonstrators, fearing an escalation of violence, and that the situation mirrors the pre-revolution in Iran. 
+
+## 4:54 What is the significance of the Mufti of Libya's fatwa?
+**Category:** Religious Authority
+
+The speaker highlights the significance of the Mufti of Libya's fatwa calling for the people to open the borders to Gaza and storm the bridge to help the Palestinians, arguing that it has caused controversy and upheaval in the region. 
+
+## 5:21 What is the situation with the protests in the Muslim world?
+**Category:** Conflict
+
+The speaker notes that the protests in the Muslim world are increasing in frequency and intensity, but they are not yet widespread or coordinated. He suggests that the protests may be growing in response to the atrocities being committed in Gaza. 
+
+## 5:48 What is the significance of the Ramadan month?
+**Category:** Conflict
+
+The speaker posits that the protests may slow down due to the upcoming Eid celebration, as people may change their focus to celebrating the holiday. 
+
+## 6:38 Is the current situation in Gaza a result of Ramadan?
+**Category:** Conflict
+
+The speaker argues that the current situation in Gaza is not simply a result of Ramadan, but rather a culmination of the increasing outrage over the atrocities being committed. 
+
+## 7:20 What is the Israeli government's goal in Gaza?
+**Category:** Conflict
+
+The speaker asserts that the Israeli government's goal is to remove all Palestinians from Gaza and then annihilate Hamas. However, they suggest that this plan is unrealistic, as it is met with international opposition and because Hamas would be able to retaliate fiercely if they were freed from the constraints of protecting civilians. 
+
+## 8:10 What is happening with the internal pressure on the Israeli government?
+**Category:** Conflict
+
+The speaker notes that the Israeli government is facing increasing internal pressure due to the demonstrations in Israel, and they are increasingly concerned about the possibility of a public outcry over the ongoing situation in Gaza. 
+
+## 8:44 What is the role of the Saudi government in the protests?
+**Category:** Conflict
+
+The speaker suggests that the Saudi government is supporting the Jordanian monarchy and suppressing the protests, because they are fearful of the growing anti-establishment sentiment in the region.
+
+## 9:18 What is the term for "rebellion" according to Islamic jurisprudence? 
+**Category:** Islamic Theology
+
+The speaker contends that the term "rebellion" is a politically charged term that was invented to justify the suppression of dissent, and that a more accurate and appropriate term in Islamic jurisprudence is "contesting the rulers." 
+
+## 9:54 What is the proper way to deal with rulers who are unjust?
+**Category:** Islamic Theology
+
+The speaker argues that Islamic jurisprudence instructs to correct a ruler who is unjust, but not to rebel against them unless they are truly tyrannical, and that the term "rebellion" is a misinterpretation of Islamic law.
+
+## 10:34 What is the significance of the ongoing protests in the context of the community?
+**Category:** Conflict
+
+The speaker points out that the protests are a sign of a community that is becoming increasingly aware of the injustices being committed and is willing to stand up against the rulers.
+
+## 10:50 What is the significance of the upcoming Eid celebration?
+**Category:** Conflict
+
+The speaker believes that the upcoming Eid celebration may cause a slight slowdown in the protests, but that the momentum will likely pick up again after the holiday.
+
+## 11:23 What will be the possible outcomes of the current situation?
+**Category:** Conflict
+
+The speaker expresses concern that the situation may escalate quickly if Israel follows through on its threat to take further military action, and suggests that the situation will likely remain volatile in the coming days. 
+
+
+## https://www.youtube.com/watch?v=Zf98iR3TYAw
+
+## What was the contract Prince Abdul-Ahad made with the BBC? 
+**Category:** Contractual Agreement 
+**Timestamp:** 1.36s
+Prince Abdul-Ahad made a contract with the BBC to have an Arabic station broadcast in Saudi Arabia. The contract included guarantees for editorial freedom and a penalty clause for cancellation of approximately 500 million pounds. 
+
+## Why wasn't the interview with the speaker broadcast in Saudi Arabia? 
+**Category:** Media Censorship 
+**Timestamp:** 53.359s
+The interview was critical of the Saudi regime and was not broadcast in Saudi Arabia. The BBC claimed the link to the station in Italy was down, but the satellite confirmed the link was working. The BBC ultimately claimed that not broadcasting the interview violated their contract with Prince Abdul-Ahad.
+
+## How did the BBC's decision to not broadcast the interview lead to the creation of an Arabic channel? 
+**Category:** Media Evolution 
+**Timestamp:** 114.96s
+The speaker and his colleagues were already working on establishing an Arabic channel. The BBC's decision to cancel the contract and pay compensation gave them the opportunity to move forward with their channel. The equipment, facilities, and building were already in place. The story of the interview and its consequences is available in an Arabic video clip. 
+
+
+## https://www.youtube.com/watch?v=EdMYPd9oT-c
+
+## What is the sign of the hours in regards to the Zionists? 
+Category: Zionism
+
+**2.72s:** The speaker is stating that the Zionists are relying on old tactics, such as intimidation and scare tactics.
+
+**Answer:** The Zionists are still using old tactics such as intimidation and scare tactics in order to maintain control. 
+
+
+## What is the biggest bluff on the field? 
+Category: American Politics
+
+**28.08s:** The speaker states that the biggest bluffer on the field is the United States of America. 
+
+**Answer:** The speaker believes that the United States has been bluffing for decades, and that many people did not recognize this fact.  
+
+
+## What are the Zionists doing in regards to the humanitarian crisis in Gaza? 
+Category: Gaza Conflict
+
+**214.319s:** The speaker questions why Joe Biden is not acknowledging the humanitarian crisis and is supplying weapons to Israel despite the crisis.
+
+**Answer:** The speaker questions Biden's actions regarding the humanitarian crisis in Gaza, believing that Biden should be taking action to stop the crisis and not supplying weapons to Israel.
+
+
+## What is Joe Biden's stance on the situation in Gaza? 
+Category: American Politics
+
+**211.239s:** The speaker describes Joe Biden's stance as being in a squeeze, unsure how to handle the situation in Gaza. 
+
+**Answer:** The speaker believes that Biden knows there's a humanitarian crisis in Gaza, but is not taking action to address it because he's concerned about the political ramifications of doing so. 
+
+
+## What is the situation with the bridge being built in Gaza? 
+Category: Gaza Conflict
+
+**279.759s:** The speaker calls the bridge being built a mockery because it is unclear how it will be used or who will be distributing supplies through it.
+
+**Answer:** The speaker describes the bridge being built as a mockery because it is unclear how it will be used or who will be distributing supplies through it. 
+
+
+## What is the situation with the airdrops in Gaza? 
+Category: Gaza Conflict
+
+**319.08s:** The speaker describes the airdrops as a tragic comedy, with the Americans and Jordanians presenting themselves as caring for the people under siege, while the airdrops are actually expired items or purely symbolic.
+
+**Answer:** The speaker believes that the airdrops are a facade to make the Americans and Jordanians appear as though they care about the people under siege. The airdrops are being used to mask the true intentions of these countries. 
+
+
+## How has the recent Palestinian update unfolded? 
+Category: Gaza Conflict
+
+**432.96s:** The speaker states that the recent Palestinian update is mostly information leaked from Israeli media, which is colluding with Israel. 
+
+**Answer:** The speaker discusses the recent updates concerning the Palestinian situation. It's revealed that information leaks are primarily coming from Israeli media and that Arab media is colluding with Israel, not fully reporting on the events. 
+
+
+## What is the situation with the Israeli forces in Gaza? 
+Category: Gaza Conflict
+
+**465.36s:** The speaker states that the Israeli forces have failed in Gaza and that this is now a well-established fact.
+
+**Answer:** The speaker emphasizes the Israeli forces' failure in Gaza, claiming that this is now a widely recognized truth,  
+
+
+## What is the significance of Ramadan in regards to the current situation? 
+Category: Ramadan
+
+**828.72s:** The speaker believes that Ramadan could be a time when tensions erupt due to the current situation. 
+
+**Answer:** The speaker believes Ramadan could be a catalyst for heightened tensions and conflict, potentially leading to major confrontations. 
+
+
+## What is the situation with the negotiations in Cairo? 
+Category: Cairo Negotiations
+
+**885.199s:** The speaker believes that the negotiations in Cairo have ended and will not be fruitful because the offer presented is unacceptable to Hamas. 
+
+**Answer:** The speaker reveals that the negotiations in Cairo have ended and are unlikely to lead to a positive outcome, as Hamas deems the Egyptian and Israeli offer unacceptable. 
+
+
+## How has the situation in Jordan changed in regards to the conflict? 
+Category: Jordan Politics
+
+**721.8s:** The speaker mentions demonstrations that are attacking the king directly in Jordan, showing a change in the country's political climate.
+
+**Answer:** The speaker suggests that the situation in Jordan is escalating, with recent demonstrations against the king indicating a rise in public dissent. 
+
+
+## What should be done to address the situation in the West Bank? 
+Category: West Bank
+
+**740.56s:** The speaker believes that the situation in the West Bank is scattered and needs a unified front to be effective. 
+
+**Answer:** The speaker believes that the situation in the West Bank requires strong leadership and a unified front to achieve meaningful change. 
+
+
+## Why is the situation in Gaza so painful? 
+Category: Gaza Conflict
+
+**517.919s:** The speaker believes that the most pressing and painful aspect of the current situation is the daily starvation of the people in Gaza. 
+
+**Answer:** The speaker believes that the most pressing and painful aspect of the current situation is the daily starvation that the people of Gaza are enduring. 
+
+
+## What is the impact of the airdrops on the people of Gaza? 
+Category: Gaza Conflict
+
+**546.36s:** The speaker describes the airdrops as poorly managed, with some even being dropped like rocks on the people, causing injury and death.
+
+**Answer:** The speaker criticizes the poorly managed airdrops, highlighting instances where supplies were dropped like rocks, injuring and killing people, rather than providing aid. 
+
+
+## What is the likelihood of Biden being sued for war crimes? 
+Category: American Politics
+
+**1073.24s:** The speaker believes that Biden's actions could lead to him being sued in the international criminal court for war crimes. 
+
+**Answer:** The speaker believes that Biden's actions in supporting Israel could result in him being sued for war crimes in the international criminal court.
+
+
+## What is the significance of Ramadan in regards to the Muslim world? 
+Category: Ramadan
+
+**1112.12s:** The speaker believes that Ramadan could create a greater potential for something to precipitate from within the Muslim world, particularly in Egypt.
+
+**Answer:** The speaker sees Ramadan as a potential catalyst for increased action within the Muslim world, particularly in Egypt, where the speaker hopes for a revolution. 
+
+
+## What is the role of the imams in Egypt? 
+Category: Egypt Politics
+
+**1121.4s:** The speaker suggests that the imams in Egypt could be instrumental in sparking a revolution if they dare to speak out against the government. 
+
+**Answer:** The speaker highlights the potential power of Egyptian imams, suggesting that their influence could ignite a revolution if they dare to speak out against the government.  
+
+
+## What is the impact of the current situation on the Muslim world? 
+Category: Muslim World
+
+**1256.679s:** The speaker believes that Ramadan will hopefully energize people to take more forceful action against the current situation. 
+
+**Answer:** The speaker expresses hope that Ramadan will energize people to take more forceful action against the current situation, potentially leading to significant changes in the Muslim world. 
+
+
+## What is the biggest takeaway from the situation? 
+Category: Conclusion
+
+**1342.0s:** The speaker encourages people to rise up and spread the message against the current situation. 
+
+**Answer:** The speaker encourages people to rise up and spread the message against the current situation, urging them to use all means necessary to fight against injustice. 
+
+
+## https://www.youtube.com/watch?v=cnJbz_2OlH4
+
+## 4.08s:  Iran did not publicize anything.  
+**Category:**  Politics
+**Question:** Why didn't Iran publicize information about the helicopter crash? 
+**Answer:** The speaker suggests that Iran is intentionally keeping quiet about the helicopter crash, possibly to avoid being forced to take action against those involved. 
+
+## 6.799s: Definitive
+**Category:**  Politics
+**Question:**  What information is definitive in regard to the helicopter crash?
+**Answer:** The speaker does not explicitly state what information is definitive, but implies that it's clear that the crash was not a simple accident. 
+
+## 7.88s: About uh assassination of I say 
+**Category:**  Politics
+**Question:**  What is being discussed in regards to the assassination? 
+**Answer:**  The speaker is referring to the potential assassination of President Ibrahim Raisi. 
+
+## 10.639s: Assassination delity of President
+**Category:**  Politics
+**Question:** What information points to the assassination of President Ibrahim Raisi? 
+**Answer:** The speaker suggests that there are indications pointing to the assassination of President Ibrahim Raisi, but doesn't provide specific details. 
+
+## 16.6s: Indication Point strongly that there's
+**Category:**  Politics
+**Question:**  What are the strong indications regarding the helicopter crash? 
+**Answer:** The speaker mentions "some f play" and "disturbance of the navigation system" as strong indications of foul play in the helicopter crash. 
+
+## 23.32s: Disturbance of the navigation system and
+**Category:**  Technology
+**Question:**  What kind of disturbance was there in the navigation system? 
+**Answer:** The speaker talks about the disruption of the navigation system and avionics of the specific helicopter, suggesting the possibility of sabotage.
+
+## 29.519s: Um yeah navigation system and avionics
+**Category:**  Technology
+**Question:**  What specifically was affected in the helicopter crash? 
+**Answer:** The speaker clarifies that both the navigation system and avionics of the helicopter were affected, implying a deliberate attempt to disable the aircraft. 
+
+## 32.439s: Of that specific helicopter in such a
+**Category:**  Technology
+**Question:** How were the navigation system and avionics of the helicopter affected? 
+**Answer:** The speaker suggests that the navigation system and avionics of the helicopter were affected in a way that most likely caused the crash. 
+
+## 34.84s: Way that it and most likely were
+**Category:**  Politics
+**Question:**  What were the helicopter's systems likely affected by? 
+**Answer:** The speaker suggests that the helicopter was likely targeted and sabotaged, possibly by "Pak on on the field." 
+
+## 41.039s: Possibly a certain certain uh group of
+**Category:**  Politics
+**Question:**  What specific group is suspected of being involved? 
+**Answer:** The speaker alludes to the possibility of Israeli agents and their allies in the area being responsible for the helicopter crash. 
+
+## 44.92s: Of of uh possibly Israeli agents and
+**Category:**  Politics
+**Question:**  What role did the agents play in the crash? 
+**Answer:** The speaker suggests that Israeli agents and their allies in the area were waiting for the helicopter and potentially carried out the sabotage.
+
+## 51.28s: There roughly in the expected area and
+**Category:**  Politics
+**Question:**  Where did the agents carry out the sabotage? 
+**Answer:** The speaker indicates that the agents were in the expected area where the helicopter was supposed to be and carried out the sabotage. 
+
+## 53.64s: Then just finished the plane uh the
+**Category:**  Politics
+**Question:**  How did the agents finalize the act of sabotage? 
+**Answer:** The speaker suggests that the agents "finished off" the helicopter, confirming their involvement in the crash. 
+
+## 56.64s: Helicopter but they didn't publish and
+**Category:**  Politics
+**Question:**  Why isn't the incident being publicized? 
+**Answer:** The speaker suggests that Iran is not publishing information about the crash because it could force them to take action against those responsible. 
+
+## 58.64s: Because if they publish anything
+**Category:**  Politics
+**Question:**  What would Iran be obligated to do if they publicized the incident? 
+**Answer:** The speaker suggests that if Iran publicized the incident, they would be obligated to take action against those involved, potentially escalating the situation. 
+
+## 63.879s: The game of possibly some people would
+**Category:**  Politics
+**Question:** What is Iran potentially playing in regards to the crash?
+**Answer:** The speaker suggests that Iran is playing a game of "intelligent politics" by keeping quiet about the crash, possibly to avoid international repercussions. 
+
+## 69.08s: Intelligent politics but anyway sooner
+**Category:**  Politics
+**Question:**  How will the truth eventually come out? 
+**Answer:** The speaker is confident that all the facts about the incident will eventually be revealed, despite Iran's efforts to keep them hidden. 
+
+## 75.04s: Maybe they also waiting for
+**Category:**  Politics
+**Question:** What else is Iran potentially waiting for?
+**Answer:**  The speaker suggests that Iran might be waiting for the election before releasing information about the crash. 
+
+## 81.24s: This the continuation of the crimes and
+**Category:**  Politics
+**Question:**  What is the speaker referring to as a "continuation of crimes and the genocide"? 
+**Answer:** The speaker is likely referring to ongoing conflicts in the region, possibly including the ongoing conflict between Israel and Palestine. 
+
+## 84.079s: The genocide and Raa is continuing but
+**Category:**  Politics
+**Question:**  What are the major points of conflict? 
+**Answer:** The speaker mentions ongoing conflicts in the region, specifically referencing the "genocide" and the fight against division in the north. 
+
+## 90.56s: In the north which uh uh erupted and
+**Category:**  Politics
+**Question:**  What happened in the north? 
+**Answer:** The speaker mentions a conflict that erupted in the north, possibly referring to ongoing tensions in the region. 
+
+## 96.84s: And also from the north there was
+**Category:**  Politics
+**Question:**  What happened in the north that caused the speaker to talk about it?
+**Answer:** The speaker mentions a "symbolic barrage" of rockets fired from the north, potentially indicating a shift in the conflict. 
+
+## 109.96s: The north to AI refuting all claims of
+**Category:**  Politics
+**Question:**  What claims are being refuted?
+**Answer:** The speaker is referencing claims made by Netanyahu about the state of Hamas, refuting his statements about their strength. 
+
+## 113.32s: Netanyahu that Hamas is gone there only
+**Category:**  Politics
+**Question:**  What was Netanyahu's claim about Hamas? 
+**Answer:** Netanyahu claimed that Hamas was essentially destroyed, with only a few battalions remaining in the south. 
+
+## 117.68s: Four battalions or four regiments in in
+**Category:**  Politics
+**Question:** What is Netanyahu's claim about the number of Hamas fighters?
+**Answer:** Netanyahu claimed that Hamas only had four battalions or regiments in the south, significantly underestimating their strength. 
+
+## 122.32: Me jor came for say this is all nonsense
+**Category:**  Politics
+**Question:** Who refuted Netanyahu's claims about Hamas? 
+**Answer:** The speaker mentions "Me jor" refuting Netanyahu's claims about Hamas, highlighting the disagreement about the conflict's state. 
+
+## 125.56: Nat want to continue the war at least
+**Category:**  Politics
+**Question:**  What are Netanyahu's plans regarding the conflict? 
+**Answer:**  The speaker suggests that Netanyahu wants to continue the war for at least another year, potentially for several more years. 
+
+## 131.56: Possible but the most significant things
+**Category:**  Politics
+**Question:**  What are the most significant things that happened during the week?
+**Answer:**  The speaker suggests that the most significant events of the week involve the International Criminal Court (ICC) and a ceasefire proposal from Biden. 
+
+## 138.48: Last week I commented on the on the
+**Category:**  Politics
+**Question:** What happened last week regarding the ICC?
+**Answer:** The speaker mentions the International Prosecutor's application to the ICC for detention orders against Netanyahu, highlighting the ongoing legal challenges he faces. 
+
+## 150.28: Detention orders for Netanyahu and I
+**Category:**  Politics
+**Question:**  What is the current status of the ICC's decision regarding Netanyahu? 
+**Answer:** The speaker mentions that the ICC has not yet completed its meeting to decide on the detention orders against Netanyahu. 
+
+## 159.599s: The detention ERS the prosecutor can
+**Category:**  Politics
+**Question:** Who can issue the detention orders? 
+**Answer:** The speaker clarifies that only the court itself can issue detention orders, and the prosecutor can only apply for them. 
+
+## 167.84: To be this is going to go there's no way
+**Category:**  Politics
+**Question:**  What is the speaker's prediction regarding the ICC case against Netanyahu? 
+**Answer:** The speaker believes that the case against Netanyahu will continue, suggesting that the ICC will not be pressured to dismiss it. 
+
+## 173.959s: Delayed um the most interesting is I
+**Category:**  Politics
+**Question:** What event is the speaker finding most interesting? 
+**Answer:** The speaker finds Biden's ceasefire proposal to be particularly interesting. 
+
+## 176.319s: Think yesterday or one day before today
+**Category:**  Politics
+**Question:** When did Biden announce his ceasefire proposal?
+**Answer:** The speaker suggests that Biden announced his ceasefire proposal either yesterday or the day before. 
+
+## 179.2s: Biden came with a suggestion claiming he
+**Category:**  Politics
+**Question:**  What was Biden's ceasefire proposal? 
+**Answer:** Biden proposed a ceasefire between Israel and Palestine, claiming to have received the suggestion from Israel. 
+
+## 181.599s: Received it from Israel but there's a
+**Category:**  Politics
+**Question:** Is the speaker suspicious about Biden's claim?
+**Answer:** The speaker questions whether the ceasefire proposal truly originated from Israel, suggesting it might have been a fabrication by Biden. 
+
+## 189.64s: Rece is it doesn't contain anything
+**Category:**  Politics
+**Question:**  What is missing from Biden's ceasefire proposal? 
+**Answer:** The speaker criticizes Biden's proposal for lacking substance, highlighting the lack of clear terms and details. 
+
+## 195.2s: And which some exchange of of of
+**Category:**  Politics
+**Question:**  What does the ceasefire proposal include?
+**Answer:** The proposal includes a six-week ceasefire, prisoner exchange (including hostages), and the return of bodies. 
+
+## 204.44s: And and civilian and things what they
+**Category:**  Politics
+**Question:**  What else does the ceasefire proposal involve? 
+**Answer:** The speaker mentions the return of civilians, including women, children, and those considered hostages, as part of the proposed exchange. 
+
+## 211.599s: Another six or eight weeks for
+**Category:**  Politics
+**Question:**  What happens after the initial six-week ceasefire? 
+**Answer:** The proposal includes an additional six to eight weeks of negotiation to release remaining prisoners and address other issues. 
+
+## 214.519s: Negotiating further how to to release
+**Category:**  Politics
+**Question:**  What is the objective of the further negotiations?
+**Answer:** The speaker suggests that the negotiations aim to establish a permanent ceasefire, the release of prisoners, and possibly other issues related to the conflict. 
+
+## 220.08s: And uh and he and he has the AUST to say
+**Category:**  Politics
+**Question:**  What is Biden's stance on the ceasefire proposal?
+**Answer:** The speaker mentions that Biden has the authority to resume attacks if the negotiations fail after the six-week ceasefire.
+
+## 228.76: Attack so it's from the beginning it's a
+**Category:**  Politics
+**Question:**  What is the speaker's opinion of the ceasefire proposal?
+**Answer:** The speaker considers Biden's proposal a dead symbolic action, suggesting that it lacks sincerity and genuine intent. 
+
+## 233.56: What who advised Biden to present that
+**Category:**  Politics
+**Question:**  Who advised Biden to present the proposal?
+**Answer:**  The speaker questions who advised Biden to present the proposal, implying suspicion about its origins and purpose. 
+
+## 238.64: Isra suggestion
+**Category:**  Politics
+**Question:**  Was the ceasefire proposal actually from Israel?
+**Answer:** The speaker doubts that the ceasefire proposal was actually from Israel, suggesting it might have been a fabrication by Biden. 
+
+## 240.36: And then after that if everything is
+**Category:**  Politics
+**Question:**  What happens if the negotiations are successful?
+**Answer:**  The speaker suggests that if negotiations are successful, a permanent ceasefire and the start of reconstruction in Gaza would follow. 
+
+## 249.0s: Raza immediately was received with a
+**Category:**  Politics
+**Question:**  What was the reaction to the ceasefire proposal?
+**Answer:**  The speaker states that the proposal was met with immediate rejection by the Israelis, while Hamas has not yet responded.
+
+## 253.319s: The way Hamas did not respond and he
+**Category:**  Politics
+**Question:**  What is the current situation regarding Hamas's response?
+**Answer:**  The speaker mentions that Hamas has not responded to the proposal, but has passed it to Qatar and Egypt for further evaluation. 
+
+## 262.759s: Pass it to Hamas for further evaluation
+**Category:**  Politics
+**Question:**  What is Hamas's next step?
+**Answer:**  The speaker indicates that Hamas is currently evaluating the ceasefire proposal and will likely respond in the future.
+
+## 267.28: Accept because it's the last chance and
+**Category:**  Politics
+**Question:**  What is Biden urging Hamas to do?
+**Answer:** The speaker suggests that Biden is urging Hamas to accept the ceasefire proposal, claiming it is their last chance.
+
+## 274.56: The social medias not the official nobody
+**Category:**  Politics
+**Question:**  Who is responding to the ceasefire proposal? 
+**Answer:**  The speaker mentions that official responses are being delayed, while social media is highly critical of the proposal. 
+
+## 277.72: They said it's a Sabbath Sabbath night we are
+**Category:**  Religion
+**Question:**  What is the official reason for the delay in response? 
+**Answer:** The speaker indicates that official responses are being delayed due to the Sabbath, a day of rest and prayer in the Jewish faith. 
+
+## 286.12: Fasting nanah is praying and
+**Category:**  Religion
+**Question:** What religious observances are being followed?
+**Answer:** The speaker mentions praying and fasting as part of the Sabbath observances, explaining the delay in official responses. 
+
+## 292.36: Respond to anything but the social media
+**Category:**  Politics
+**Question:**  What are people's reactions on social media?
+**Answer:** The speaker highlights that social media reactions in Israel are predominantly against the ceasefire proposal, even going as far as suggesting breaking with America. 
+
+## 301.919s: He went to the extreme some
+**Category:**  Politics
+**Question:**  What extreme stance is being taken by some in Israel? 
+**Answer:** Some in Israel are calling for breaking ties with the US and seeking support from Russia and China, demonstrating their strong opposition to the ceasefire proposal.
+
+## 310.24: China for support for Israel obviously
+**Category:**  Politics
+**Question:**  Who is Israel seeking support from? 
+**Answer:** The speaker suggests that Israel is seeking support from Russia and China, despite their previously lukewarm responses to Israel's requests. 
+
+## 314.6s: Turned this back to Israel bit by bit
+**Category:**  Politics
+**Question:**  What has Russia and China done in response to Israel's requests? 
+**Answer:** The speaker suggests that Russia and China have been hesitant to fully support Israel, gradually turning back Israel's requests for support. 
+
+## 322.56: Just but show them a huge amount of
+**Category:**  Politics
+**Question:**  What kind of reaction is being shown towards the ceasefire proposal?
+**Answer:** The speaker mentions a significant amount of negative reaction towards the proposal, particularly from the general public in Israel. 
+
+## 330.16: So that's this is this is a dead
+**Category:**  Politics
+**Question:**  What is the speaker's overall assessment of the ceasefire proposal?
+**Answer:** The speaker firmly believes that the proposal is a dead one, suggesting it has no chance of success.
+
+## 334.639s: Beginning uh obviously also inside Egypt
+**Category:**  Politics
+**Question:**  What is the situation in Egypt regarding the ceasefire proposal? 
+**Answer:** The speaker mentions that there's internal tension in Egypt, particularly amongst the upper class and military who are embarrassed by their position as American allies. 
+
+## 342.16s: Beneficiary for from their position as
+**Category:**  Politics
+**Question:** Why are the Egyptians embarrassed?
+**Answer:** The speaker states that the upper class and military in Egypt are embarrassed by their role as American allies and puppets. 
+
+## 348.08: Are they are embarrassed in front of the
+**Category:**  Politics
+**Question:** Who is the Egyptian upper class and military embarrassed in front of?
+**Answer:**  The speaker suggests that the Egyptian upper class and military are embarrassed in front of the general population. 
+
+## 353.479s: Under under surface forces are are
+**Category:**  Politics
+**Question:**  What is happening under the surface in Egypt? 
+**Answer:**  The speaker suggests that there are "under surface forces" in Egypt that are potentially building up to a rebellion, but are not yet ready to act. 
+
+## 358.759s: To explode they may explode any moment
+**Category:**  Politics
+**Question:**  What might cause the "under surface forces" to erupt in Egypt? 
+**Answer:**  The speaker suggests that the "under surface forces" in Egypt might explode any moment, possibly due to their dissatisfaction with the current situation.
+
+## 360.8s: Especially the threatment of this few
+**Category:**  Politics
+**Question:**  What event specifically might trigger a rebellion in Egypt?
+**Answer:** The speaker suggests that the recent treatment of those killed in Gaza, particularly the lack of military funerals and the denial of the number of casualties, might incite a rebellion. 
+
+## 377.68: Then the number has not been quity they
+**Category:**  Politics
+**Question:**  What is the situation regarding the number of casualties?
+**Answer:** The speaker mentions that the Egyptian government has admitted to only one death, but the true number is believed to be higher, potentially four. 
+
+## 385.68: A rumor that that the CC and his General
+**Category:**  Politics
+**Question:**  What is the rumor regarding the casualties in Gaza?
+**Answer:** There is a rumor that the Egyptian General ordered the confiscation of ammunition from soldiers on the border, possibly disarming them. 
+
+## 399.759s: Big messy situation in Egypt only Allah
+**Category:**  Politics
+**Question:** What is the overall situation in Egypt? 
+**Answer:** The speaker describes the situation in Egypt as messy and unpredictable, stating that only Allah knows how it will develop. 
+
+## 405.639s: Meanwhile in concerning Yemen uh
+**Category:**  Politics
+**Question:** What is the speaker turning their attention to?
+**Answer:** The speaker shifts their focus to the situation in Yemen, discussing the ongoing conflict and the actions of the allied forces. 
+
+## 409.759s: They the so-called Allied Forces or the
+**Category:**  Politics
+**Question:** Who is the speaker referring to as "Allied Forces"? 
+**Answer:** The speaker is referring to the forces supporting the Yemeni government, sarcastically calling them "Allied Forces" or "Freedom of the Seas."
+
+## 419.72: Attacks against various installation
+**Category:**  Politics
+**Question:** What are the "Allied Forces" doing in Yemen? 
+**Answer:** The speaker mentions that the "Allied Forces" are carrying out attacks on various installations in Yemen. 
+
+## 422.28: None of them is military for example
+**Category:**  Politics
+**Question:**  What is the target of the attacks?
+**Answer:**  The speaker suggests that the attacks are on civilian targets, not military ones, highlighting the alleged indiscriminate nature of the attacks. 
+
+## 424.199s: They bombed the H the broadcasting
+**Category:**  Politics
+**Question:** What is the specific example of a civilian target?
+**Answer:**  The speaker mentions the bombing of a broadcasting station, a civilian target with no military function. 
+
+## 433.639s: There's a good strong news coming from
+**Category:**  Politics
+**Question:** What good news is coming from Yemen?
+**Answer:** The speaker suggests that there is good news from Yemen, mentioning a successful attack on an American aircraft carrier. 
+
+## 436.52s: Yemen all the CNN said the the the claim
+**Category:**  Politics
+**Question:** What did CNN say about the attack?
+**Answer:** The speaker mentions that CNN reported on the attack but dismissed it as an unsubstantiated claim. 
+
+## 440.96: But anal said State clearly that they
+**Category:**  Politics
+**Question:** What did Yemen's government say about the attack?
+**Answer:** The Yemeni government confirmed that they hit the American aircraft carrier, suggesting that they believe the attack was successful.
+
+## 443.12: Have scored one hit on the Eisenhower
+**Category:**  Politics
+**Question:**  What was targeted in the attack? 
+**Answer:** The speaker mentions that the Yemeni government successfully hit the Eisenhower aircraft carrier. 
+
+## 445.84: Aircraft
+**Category:**  Politics
+**Question:** What type of aircraft was targeted? 
+**Answer:** The speaker mentions that an American aircraft carrier was successfully hit. 
+
+## 447.44: Carrier which is huge although did not
+**Category:**  Politics
+**Question:** What is significant about the attack? 
+**Answer:** The speaker emphasizes the importance of the attack, noting that a missile was able to hit a massive and technologically advanced aircraft carrier.
+
+## 458.879s: One missile or one or one one drone was
+**Category:**  Technology
+**Question:** What was used in the attack? 
+**Answer:** The speaker mentions that either a missile or a drone was used in the successful attack on the aircraft carrier. 
+
+## 462.44: Able to penetrate and hit the one of the
+**Category:**  Politics
+**Question:**  What does the successful attack highlight? 
+**Answer:** The speaker suggests that the successful attack on the aircraft carrier highlights the vulnerability of even the most technologically advanced weapons.
+
+## 471.039s: Catastrophic for the Americans so most
+**Category:**  Politics
+**Question:** How does the speaker feel about the attack? 
+**Answer:** The speaker considers the successful attack on the aircraft carrier a major blow to the Americans, possibly a catastrophic event. 
+
+## 473.56: Like if it has happened and I think that
+**Category:**  Politics
+**Question:**  How reliable is the information about the attack? 
+**Answer:** The speaker expresses confidence in the reliability of the information about the attack, suggesting that it's credible. 
+
+## 486.36: That's all that they said so it seems to
+**Category:**  Politics
+**Question:**  What does the speaker think about CNN's response? 
+**Answer:** The speaker believes that CNN's dismissive response lacks substance and that the attack likely occurred. 
+
+## 490.639s: News this is a huge embarrassment for
+**Category:**  Politics
+**Question:**  How does the speaker view the impact of the attack on America?
+**Answer:** The speaker considers the attack a major embarrassment for the American Navy, challenging their image of invincibility.
+
+## 493.08s: The American Navy who used to flex the
+**Category:**  Politics
+**Question:**  What has the American Navy been known for? 
+**Answer:** The speaker mentions that the American Navy is known for flexing its muscle and threatening other countries. 
+
+## 501.759s: This muscle flexing is is just bling the
+**Category:**  Politics
+**Question:** What does the speaker think about America's military might? 
+**Answer:** The speaker suggests that America's military might is more about appearance than substance, emphasizing that brute force doesn't always guarantee victory. 
+
+## 503.8s: Only yes does not mean America is not
+**Category:**  Politics
+**Question:** Is America still capable of carrying out large-scale violence? 
+**Answer:** The speaker clarifies that the recent attack doesn't diminish America's ability to inflict widespread damage, highlighting their capacity for bombing cities and causing mass casualties. 
+
+## 509.639s: Thousand 100,000 people oh they they are
+**Category:**  Politics
+**Question:** What is America still capable of doing? 
+**Answer:** The speaker emphasizes America's ability to bomb cities and kill hundreds of thousands of people, demonstrating their destructive potential. 
+
+## 511.639s: Master of this and does not mean that
+**Category:**  Politics
+**Question:** What is America still capable of doing? 
+**Answer:** The speaker reiterates that America's ability to cause mass destruction is still intact, even with the recent attack on the aircraft carrier.
+
+## 513.56: They cannot destroy themselves for the
+**Category:**  Politics
+**Question:**  What is America still capable of doing? 
+**Answer:** The speaker highlights America's ability to trigger a nuclear war, potentially destroying the whole world. 
+
+## 515.08: Whole world with with nuclear war yes
+**Category:**  Politics
+**Question:** What is America capable of doing?
+**Answer:** The speaker suggests that America is capable of destroying the world with nuclear war. 
+
+## 517.279s: They can that's only what they can but
+**Category:**  Politics
+**Question:** What is America not capable of doing?
+**Answer:** The speaker suggests that despite their destructive capabilities, America cannot maintain control over conquered regions long-term. 
+
+## 519.32s: Coming down in a place invading it and
+**Category:**  Politics
+**Question:**  What has America struggled to do in the past? 
+**Answer:** The speaker mentions that America has struggled to maintain control over countries they invade and occupy.
+
+## 521.88: Controlling it and and governing for
+**Category:**  Politics
+**Question:** What are America's limitations in maintaining control?
+**Answer:** The speaker indicates that America is unable to govern and control conquered territories for extended periods. 
+
+## 524.08: Decades is not possible even against
+**Category:**  Politics
+**Question:**  What is an example of America's inability to control a region? 
+**Answer:** The speaker mentions that America failed to maintain control in Afghanistan, even against a relatively small and less equipped enemy. 
+
+## 526.399s: 70,000 Barefoot Afghani they have lost
+**Category:**  Politics
+**Question:**  What happened in Afghanistan?
+**Answer:** The speaker suggests that America failed to conquer and control Afghanistan, even against a small and less equipped force. 
+
+## 529.48: In Iraq they they were kicked out
+**Category:**  Politics
+**Question:**  What happened in Iraq? 
+**Answer:**  The speaker mentions that America was forced to withdraw from Iraq, highlighting their inability to maintain long-term dominance.
+
+## 533.8: Unfortunately not completely because the
+**Category:**  Politics
+**Question:**  Why was the withdrawal from Iraq incomplete? 
+**Answer:** The speaker suggests that America's withdrawal from Iraq was not complete due to the ongoing crimes committed by various figures and factions. 
+
+## 540.04s: You just need to to get the firm will
+**Category:**  Politics
+**Question:**  What is necessary to defeat America?
+**Answer:** The speaker suggests that a firm will and a well-organized, asymmetric warfare strategy are crucial to defeat America. 
+
+## 544.92: Your act together organize properly for
+**Category:**  Politics
+**Question:**  What type of warfare is needed against America?
+**Answer:** The speaker recommends an asymmetric warfare strategy to effectively combat America's military dominance.
+
+## 549.839s: Symmetric Warfare will not be very
+**Category:**  Politics
+**Question:**  What type of warfare is not effective against America? 
+**Answer:**  The speaker suggests that a symmetrical warfare strategy, engaging in direct military confrontations, is not effective against America. 
+
+## 556.279s: Warfare Gila type Warfare Tel Warfare
+**Category:**  Politics
+**Question:** What type of warfare is effective against America?
+**Answer:** The speaker recommends a guerilla-style warfare strategy, emphasizing the use of unconventional tactics and methods.
+
+## 560.76: And they will they will run away in due
+**Category:**  Politics
+**Question:** What is the speaker's prediction for America's fate in the conflict? 
+**Answer:** The speaker is confident that America will eventually be defeated and withdraw from the conflict. 
+
+## 568.24s: These these regimes r in the Muslim World they
+**Category:**  Politics
+**Question:**  What is the speaker's observation about regimes in the Muslim world? 
+**Answer:** The speaker suggests that regimes in the Muslim world are controlled by fear and have failed to liberate themselves from the influence of foreign powers. 
+
+## 573.88: They cannot liberate themselves from the from
+**Category:**  Politics
+**Question:**  What prevents Muslim regimes from breaking free? 
+**Answer:** The speaker suggests that Muslim regimes are bound by their dependence on financial benefits and support from foreign powers, particularly from the US and international banking institutions. 
+
+## 576.36: The nice money and benefits coming to
+**Category:**  Politics
+**Question:**  What are the benefits that the Muslim regimes are receiving? 
+**Answer:** The speaker mentions financial benefits and support from Western powers as key factors influencing Muslim regimes. 
+
+## 582.32: And and American imperialist and the
+**Category:**  Politics
+**Question:** Who are the Muslim regimes influenced by?
+**Answer:** The speaker highlights American imperialism and Western financial institutions as the main forces influencing Muslim regimes.
+
+## 587.279s: Coming for them and they have sold every
+**Category:**  Politics
+**Question:**  What have Muslim regimes sacrificed? 
+**Answer:** The speaker suggests that Muslim regimes have traded their dignity and humanity for the financial benefits they receive from Western powers.
+
+## 595.68: Miserable Easy Living that's that's what
+**Category:**  Politics
+**Question:** What is the motivation behind Muslim regimes' actions?
+**Answer:** The speaker suggests that Muslim regimes prioritize their own comfort and easy living, sacrificing their principles for material gain. 
+
+## 600.279s: They are really they don't have the
+**Category:**  Politics
+**Question:**  What are Muslim regimes lacking?
+**Answer:** The speaker suggests that Muslim regimes lack the courage and dedication to stand up to foreign pressures when it is needed. 
+
+## 606.2s: Comes forward so that's that's
+**Category:**  Politics
+**Question:**  What is the speaker's assessment of Muslim regimes? 
+**Answer:** The speaker is critical of Muslim regimes, suggesting that they are unwilling to take a stand against foreign influence despite their need for it. 
+
+## 611.519s: Proposal it's almost certain that Hamas
+**Category:**  Politics
+**Question:**  What is the speaker's prediction regarding Hamas's response? 
+**Answer:** The speaker believes that Hamas will likely reject Biden's ceasefire proposal, highlighting their desire for a comprehensive solution. 
+
+## 614.16: Will rejected because H said
+**Category:**  Politics
+**Question:**  Why will Hamas likely reject the proposal? 
+**Answer:**  The speaker states that Hamas has made it clear that they want a complete ceasefire with the withdrawal of Israeli forces from Gaza before they will consider negotiations. 
+
+## 619.44: Ceasefire all forces outside of Raza and
+**Category:**  Politics
+**Question:** What is Hamas's demand regarding the ceasefire?
+**Answer:** The speaker mentions that Hamas demands a complete withdrawal of Israeli forces from Gaza before they will accept a ceasefire. 
+
+## 622.56: Then we see the other things we are
+**Category:**  Politics
+**Question:**  What else does Hamas want?
+**Answer:**  The speaker mentions that Hamas is also demanding the release of Palestinian detainees held in Israeli jails, especially those who have been sentenced to death or long-term imprisonment. 
+
+## 637.16: Mar but also those who have been tried
+**Category:**  Politics
+**Question:** Who does Hamas want released?
+**Answer:** Hamas specifically wants prominent figures like Maran Mar released from Israeli prisons, as well as those sentenced to death or long-term imprisonment.
+
+## 650.12: Most likely this proposal will be
+**Category:**  Politics
+**Question:**  What is the likely outcome of the ceasefire proposal? 
+**Answer:** The speaker suggests that the ceasefire proposal will likely be rejected by Hamas, due to their insistence on specific conditions. 
+
+## 657.2s: May be different than the world this
+**Category:**  Politics
+**Question:**  What might change in the world next week?
+**Answer:** The speaker suggests that the world might be different next week due to the evolving situation in Ukraine, with potential escalation involving France, Baltic states, and Russia. 
+
+## 661.56: Claims of uh France and I think one
+**Category:**  Politics
+**Question:**  What is France proposing? 
+**Answer:** The speaker mentions that France is proposing to support Ukraine in using long-range missiles to attack military targets in Russia. 
+
+## 664.92: Other and some Baltic uh tiny dwarf
+**Category:**  Politics
+**Question:** Who else is supporting Ukraine's use of long-range missiles?
+**Answer:**  The speaker mentions that some small Baltic states are also supporting Ukraine in using long-range missiles against Russia. 
+
+## 672.639s: They will support Ukraine with the in it
+**Category:**  Politics
+**Question:** What kind of support are these countries offering? 
+**Answer:** The speaker states that France and Baltic states are providing support for Ukraine's use of long-range missiles against Russia. 
+
+## 675.72: In its effort to use longrange missiles
+**Category:**  Military
+**Question:** What kind of weapons is Ukraine planning to use? 
+**Answer:**  The speaker mentions that Ukraine is planning to use long-range missiles to attack Russian military targets. 
+
+## 681.639s: And Russia response is very clear that
+**Category:**  Politics
+
+## https://www.youtube.com/watch?v=C8E_l_dh5E0
+
+## Questions Asked in Youtube Video
+
+**9.12s:**  Can you hear me? 
+**Category:** Audio Check
+
+**Answer:** Yes, I can hear you.  I am just waiting for the stream to show.
+
+**242.56s:** Is all this true?
+**Category:** Quranic Interpretation
+
+**Answer:** The speaker states that the question is asked in a challenging or hostile way because the answer clearly shows that those asking cannot escape the punishment.
+
+**420.44s:**  This shows that the previous answer was a bit harsh. 
+**Category:** Quranic Interpretation
+
+**Answer:** The previous answer was harsh because the question was not an innocent one, but a loaded question.
+
+**518.279s:** What does the next verse say?
+**Category:** Quranic Interpretation
+
+**Answer:** The speaker recites the next verse which emphasizes Allah's ownership over everything in heaven and earth.
+
+**727.079s:** What does the next verse say?
+**Category:** Quranic Interpretation
+
+**Answer:** The speaker reads the next verse which states that Allah alone gives life and deals death, and all will be returned to Him.
+
+**10598.239s:** Can a wife lead a prayer with her husband if the husband finds it difficult to pray due to medical reasons such as forgetting how to pray but he is persistent that he wants to pray?
+**Category:** Islamic Law
+
+**Answer:** Yes, according to the speaker, there is no fundamental problem with this.  This practice is supported by narrations of the Prophet. 
+
+**10612.08s:** Can we as Muslims boycott Hajj and use the funds to feed our brothers and sisters in Gaza?
+**Category:** Islamic Law
+
+**Answer:** While Muslims are not obliged to immediately perform Hajj, the speaker suggests that deliberately boycotting Hajj to undermine the Saudi regime and divert funds to Gaza is not the most effective approach.
+
+**10718.359s:**  Wouldn't boycotting Hajj be more effective if there was a general fatwa from a prominent Islamic scholar?
+**Category:** Islamic Law
+
+**Answer:** The speaker mentions a fatwa issued by a Libyan Mufti suggesting a boycott of Hajj because of the Saudi regime.  He suggests reading the fatwa for a more structured argument.
+
+**11495.239s:** Are laws and constitutions that are not exclusively derived from the Quran and Sunnah considered un-Islamic?
+**Category:** Islamic Law
+
+**Answer:** Yes, the speaker states that any law or constitution must be justified by the Quran and Sunnah.
+
+**11766.76s:** How do you know the intention of the legislator when deriving Islamic law from secular laws?
+**Category:** Islamic Law
+
+**Answer:** The speaker states that the intention of the lawmaker is not relevant.  He clarifies that a law can be derived from the Quran and Sunnah even if it is not explicitly mentioned.
+
+**12133.199s:** When interpreting laws, does the intention of the lawmaker matter?
+**Category:** Islamic Law
+
+**Answer:**  The speaker clarifies that the intention of the lawmaker is relevant in interpretation, but it is not relevant to the derivation of the law itself.
+
+**12243.0s:** When deriving Islamic law, should we be looking at the explicit text of the Quran and Sunnah, or should we also consider the intention of those who wrote it?
+**Category:** Islamic Law
+
+**Answer:**  The speaker emphasizes that we should not rely on the intention of the lawmaker, but rather derive Islamic law from the explicit text of the Quran and Sunnah.
+
+**12411.04s:** What about laws and regulations that rely on constitutional principles derived from the Quran and Sunnah?
+**Category:** Islamic Law
+
+**Answer:** The speaker states that we do not need to go into the details of every law or regulation because they are typically based on constitutional principles that are ultimately derived from the Quran and Sunnah.
+
+**12513.72s:**  Is a constitution derived from the Quran and Sunnah considered Islamic?
+**Category:** Islamic Law
+
+**Answer:** Yes, but any constitution must be referenced back to the Quran and Sunnah.
+
+**12954.56s:** Can you join in prayer after the time for prayer has passed?
+**Category:** Islamic Law
+
+**Answer:**  The speaker clarifies that the question was regarding a person in a different time zone who had missed the prayer, and that the prayer can be performed together if it is still within the time for that particular prayer.
+
+**13182.92s:** Can we say that Umrah is not necessary and the money can be used to help Muslims in need instead?
+**Category:** Islamic Law
+
+**Answer:** The speaker agrees that it is permissible to give the money to help Muslims in need, and that Umrah is not absolutely necessary.
+
+**13385.92s:** Is foreign exchange trading permissible in Islam?
+**Category:** Islamic Law
+
+**Answer:**  The speaker states that while currency exchange itself is permissible, he advises against engaging in foreign exchange trading unless one is a professional, as the market is very risky.
+
+**13634.72s:** Is it permissible to participate in cryptocurrency trading?
+**Category:** Islamic Law
+
+**Answer:**  The speaker recommends against participating in cryptocurrency trading, especially short-term trading, as it is very risky. He encourages long-term investment in cryptocurrency.
+
+**13786.359s:** Should Muslims boycott Hajj while the Saudi regime remains in power?
+**Category:** Islamic Law
+
+**Answer:** The speaker states that it is permissible to boycott Hajj, especially if one is in danger. He emphasizes that  helping needy Muslims is more important than performing Hajj.
+
+**1405.6s:**  Can we say that if someone accepts Islam and becomes a believer, it will cure them?
+**Category:** Quranic Interpretation
+
+**Answer:** The speaker states that if someone accepts Islam, it will cure them and bring them mercy. But if someone rejects Islam, then they will not receive these benefits. 
+
+**1601.48s:**  Will there be any discussion about social services in an Islamic society?
+**Category:** Islamic Law
+
+**Answer:**  The speaker argues that there would be no such discussion in a truly Islamic society, as the obligation of Zakat would make clear the responsibility of society to care for the needy.
+
+**1811.399s:** What does it mean that "it is better than all the worldly wealth they may amass"?
+**Category:** Quranic Interpretation
+
+**Answer:**  The speaker explains that the guidance and mercy that comes from Allah in revelation is more valuable than any worldly wealth, as wealth cannot cure the diseases of the heart.
+
+**1955.0s:** Is there an authority for Allah for what is lawful and unlawful?
+**Category:** Quranic Interpretation
+
+**Answer:** The speaker emphasizes that the classification of Halal and Haram must be based on divine authority, not personal desires or opinions.
+
+**2106.8s:** What about those who claim things are Halal and Haram based on their own opinions?
+**Category:** Quranic Interpretation
+
+**Answer:** The speaker warns those who attribute their own opinions to Allah and claim that things are Halal or Haram based on their own judgments.
+
+**2157.0s:** Why does Allah give people this warning in the Quran? 
+**Category:** Quranic Interpretation
+
+**Answer:**  The speaker explains that it is a testament to Allah's limitless bounty that He chooses to warn people despite their wrong actions.
+
+**2287.839s:** What does this verse mean?
+**Category:** Quranic Interpretation
+
+**Answer:** The speaker explains that this verse emphasizes the comprehensive knowledge of Allah, who knows everything, even the smallest of things.
+
+**2389.92s:**  What does it mean to be "loyal to God"?
+**Category:** Quranic Interpretation
+
+**Answer:** The speaker states that being loyal to God means having a close relationship with Him, and that this brings peace and security.
+
+**2796.64s:** How can this be considered a "Supreme Triumph"?
+**Category:** Quranic Interpretation
+
+**Answer:** The speaker states that Allah's promises are absolute and cannot be changed, making the good tidings for believers a "Supreme Triumph" that guarantees their ultimate happiness in this life and the next.
+
+**3093.16s:**  Why should the Prophet not be grieved by the sayings of those who deny the truth?
+**Category:** Quranic Interpretation
+
+**Answer:** The speaker explains that although the Prophet is human and could be upset by the actions of those who reject the truth, he should not be grieved because Allah is all-hearing and all-knowing, and ultimately, their actions will backfire.
+
+**3338.039s:**  Why was the Prophet grieving?
+**Category:** Quranic Interpretation
+
+**Answer:**  The speaker explains that the Prophet was grieving because those close to him, including his family members, were initially hostile to Islam.
+
+**3415.359s:**  Why does this verse say that "all persons in the heavens and earth belong to God"?
+**Category:** Quranic Interpretation
+
+**Category:** Quranic Interpretation
+
+**Answer:**  The speaker explains that this verse reinforces the concept of Allah's sole ownership over everything, including conscious beings in heaven and earth, and refutes the notion of any partners in divinity.
+
+**3573.599s:** What does this verse mean?
+**Category:** Quranic Interpretation
+
+**Answer:**  The speaker explains that this verse points to the signs of Allah in the creation of night and day, intended for those who are willing to think and listen.
+
+**3679.799s:** Why are the words "son" and "offspring" both blundering translations of the Arabic word?
+**Category:** Quranic Interpretation
+
+**Answer:**  The speaker explains that the Arabic word used is not actually "son" but rather "offspring" which can be a boy or a girl.  He clarifies that the verse is addressing the belief in Allah having offspring, which is a false belief.
+
+**3833.76s:** Why is it illogical to think that Allah would need or want to have offspring?
+**Category:** Quranic Interpretation
+
+**Answer:** The speaker states that Allah is self-sufficient and does not need anything, including offspring. He clarifies that this belief is a remnant of pagan tradition.
+
+**3971.279s:** Do people have any authority to claim that Allah has offspring?
+**Category:** Quranic Interpretation
+
+**Answer:**  The speaker emphasizes that there is no authority for such a claim, as it is a fabrication without any evidence.
+
+**4102.279s:** Why are these verses addressed to the Quran and not to Christians?
+**Category:** Quranic Interpretation
+
+**Answer:** The speaker explains that these verses are addressed to those who believe in Allah having offspring, which includes some Muslims who believe in the existence of female angels and male angels, as well as other celestial beings.
+
+**4132.88s:** Why are those who fabricate against Allah in this way not going to prosper?
+**Category:** Quranic Interpretation
+
+**Answer:** The speaker states that those who falsely attribute their own opinions to Allah will not prosper because their actions are based on fabrication and lack any real authority.
+
+**4175.279s:** Is there any documentation about Paul's early life?
+**Category:** Quranic Interpretation
+
+**Answer:** The speaker states that there is no concrete documentation about Paul's early life. He speculates that Paul may have been a follower of Mithraism, a pagan mystery religion, before converting to Christianity. 
+
+**4607.199s:** How is the belief in Jesus being the Son of God similar to someone claiming they gave you 5,000 imaginary credits?
+**Category:** Quranic Interpretation
+
+**Answer:** The speaker uses this analogy to highlight the absurdity of the belief in Jesus being the Son of God, arguing that it is a fabrication without any basis in reality.
+
+**4857.56s:** Is this verse still referring to those who fabricate against Allah or is it a new issue?
+**Category:** Quranic Interpretation
+
+**Answer:** The speaker clarifies that this verse is a continuation of the previous discussion regarding those who fabricate against Allah and claim that He has offspring.
+
+**4984.84s:** What are some of the recent events happening in Palestine?
+**Category:** Political Updates
+
+**Answer:** The speaker mentions several events:  the ongoing situation in Gaza, including the destruction of tanks and the killing of Israeli soldiers in a tunnel collapse.  He also mentions the US airstrikes on Iraq and Yemen, and the tension between Egypt and Israel over the Philadelphia Triangle.
+
+**5298.52s:** Are the attacks in Iraq continuing?
+**Category:** Political Updates
+
+**Answer:** The speaker states that the attacks by Islamic resistance groups in Iraq have resumed, including attacks on US facilities and the port of Iran.
+
+**5351.76s:**  What is your suggestion to the Islamic resistance groups in Iraq?
+**Category:** Political Updates
+
+**Answer:** The speaker advises the Islamic resistance groups to either communicate their repentance or step aside, as their actions have created an opportunity for the US to escalate.
+
+**5754.719s:**  What is the public position of America regarding the events in Palestine?
+**Category:** Political Updates
+
+**Answer:**  The speaker states that America has publicly condemned the attacks in Palestine and has also publicly opposed moving Palestinians out of Gaza, although their true intentions may be different.
+
+**5883.04s:**  Are there any changes on the ground in Palestine?
+**Category:** Political Updates
+
+**Answer:** The speaker mentions the continued destruction of Israeli military equipment and the recent tunnel collapse that killed Israeli soldiers.  He also mentions that Hamas has taken prisoners of war, but has not publicly revealed their identity.
+
+**6091.28s:**  What does the expulsion of Palestinians to Sinai bring to the situation in Gaza?
+**Category:** Political Updates
+
+**Answer:**  The speaker states that this move will leave Gaza relatively empty, allowing Hamas to operate with more freedom and less risk to civilians. It also allows Israel to focus its military efforts on Lebanon. 
+
+**6373.239s:** What is your take on Netanyahu's rejection of the ceasefire?
+**Category:** Political Updates
+
+**Answer:** The speaker states that Netanyahu is choosing to escalate the conflict in order to avoid a ceasefire, which would weaken his position. 
+
+**6404.56s:** Are there any updates regarding the situation in Lebanon?
+**Category:** Political Updates
+
+**Answer:** The speaker states that Hizbullah in Lebanon has not yet recognized the dangers of their actions and has missed opportunities to escalate the conflict.
+
+**6495.199s:** Is there any truth to the rumor of a bombing attack on Iran?
+**Category:** Political Updates
+
+**Answer:** The speaker states that the rumor of a bombing attack on Iran is plausible, as it aligns with the arrogant nature of American empires to demonstrate their strength. 
+
+**6700.88s:** Has America given any verbal tips or warnings to Israel?
+**Category:** Political Updates
+
+**Answer:** The speaker mentions that America has issued verbal warnings to Israel regarding the expansion of settlements in the West Bank, but these warnings are not sufficient to stop Israeli actions. 
+
+**7120.599s:**  What is the significance of the military cooperation agreement between Russia and Iran?
+**Category:** Political Updates
+
+**Answer:**  The speaker states that the agreement will allow Russia to acquire weapons from Iranian factories and will also provide Iran with access to advanced weapons technology.
+
+**7225.199s:** What is the significance of the removal of Ukraine's army commander?
+**Category:** Political Updates
+
+**Answer:** The speaker states that the removal of the commander is a sign that Ukraine is in a state of collapse and is likely to surrender within a few weeks. He argues that this will force America to escalate its support for Ukraine.
+
+**7337.719s:**  Are there any updates regarding the situation in the West Bank?
+**Category:** Political Updates
+
+**Answer:** The speaker states that the situation in the West Bank remains tense.  He criticizes the leadership of the Palestinian Authority, calling them "thugs" and suggesting that Hamas would eventually take over if given the opportunity.
+
+**7685.92s:**  What are your thoughts on Netanyahu's rejection of the ceasefire and the role of Egypt in mediating?
+**Category:** Political Updates
+
+**Answer:** The speaker states that Netanyahu rejected the ceasefire because it was a weak agreement that was not favorable to Israel.  He also criticizes Egypt for their role in mediating the ceasefire.
+
+**7867.719s:** What is the significance of Putin's recent interview with Tucker Carlson?
+**Category:** Political Updates
+
+**Answer:**  The speaker states that Putin's interview was intended to undermine Biden and demonstrate that America's claims of success in Ukraine are false.  
+
+**8303.319s:**  Is it wrong for people to sympathize with Ukraine and punish Russia?
+**Category:** Political Updates
+
+**Answer:**  The speaker argues that sympathizing with Ukraine simply to punish Russia is a wrong approach, as Russia is not the primary enemy of the Muslim world. He emphasizes that America is the true enemy.
+
+**8464.04s:** What is your take on the recent elections in Pakistan?
+**Category:** Political Updates
+
+**Answer:** The speaker states that the elections were likely rigged and suggests that the Pakistani Taliban may be becoming more active.
+
+**8754.76s:** What is your take on Elon Musk's debate with Western intellectuals regarding the situation in Palestine?
+**Category:** Political Updates
+
+**Answer:** The speaker expresses disappointment that pro-Palestinian activists have not been able to effectively challenge the Western narrative and have condemned Hamas while labeling Israelis as civilians.
+
+**9012.08s:** Why are we ignored by pro-Palestinian activists?
+**Category:** Political Updates
+
+**Answer:** The speaker states that pro-Palestinian activists ignore us because we lack a unified movement and a strong voice. He encourages listeners to engage in the movement through social media and other platforms.
+
+**9279.92s:** What is the plan for outreach to pro-Palestinian activists?
+**Category:** Political Updates
+
+**Answer:**  The speaker states that pro-Palestinian activists with larger followings should contact us, as we are more familiar with Arabic language and media and can help develop effective arguments against those who support Israel.
+
+**9452.56s:**  Why are we not doing more to spread these ideas?
+**Category:** Political Updates
+
+**Answer:**  The speaker states that most of those listening are not taking the cause seriously enough and are not engaging in the movement in a meaningful way. He urges listeners to take action and not be apathetic. 
+
+**9767.2s:**  What is the impact of this information and how is it benefiting people?
+**Category:** Political Updates
+
+**Answer:**  The speaker tells a story about an American Christian rapper who was on the verge of suicide, but was inspired by the information and changed his perspective.
+
+**9835.08s:** Why are so many people inactive and not contributing to the movement?
+**Category:** Political Updates
+
+**Answer:**  The speaker states that many people are inactive and are not doing enough to spread these ideas, and that while some are active in contributing financially, they are not actively engaging in the movement.
+
+**10207.319s:**  Where did you get the conception that the word "Kahal" is used to describe someone past their peak fertility?
+**Category:**  Quranic Interpretation
+
+**Answer:** The speaker explains that "Kahal" is a term used for an older age, and that this perception is derived from the Arabic culture at the time of the Quran's revelation, where people considered those unable to reproduce as old. 
+
+**10249.16s:**  Is there any evidence in old medical books or writing to support this idea of "Kahal" as the time past fertility?
+**Category:** Quranic Interpretation
+
+**Answer:**  The speaker states that this is his own analysis and is based on the understanding of "Kahal" as a term used for older age in Arabic culture, rather than specific evidence from historical books or medical texts.
+
+**10316.319s:**  Wouldn't you consider the age of 40 to be a time of maturity, especially for a Prophet?
+**Category:** Quranic Interpretation
+
+**Answer:** The speaker clarifies that while 40 is typically considered a time of maturity, it is more important to understand the meaning of the term "Kahal" in the context of the Arabic language and culture. 
+
+**10401.68s:** Does the Quran hint that the year 33 AD for the ascension of Jesus is incorrect?
+**Category:** Quranic Interpretation
+
+**Answer:** The speaker states that the Quran hints that the year 33 AD for the ascension of Jesus is incorrect, and that this is supported by his own research which places the year as 27 AD. 
+
+**10499.08s:** Can a wife lead a prayer with her husband if he finds it difficult to pray due to medical reasons?
+**Category:** Islamic Law
+
+**Answer:** The speaker states that there is no fundamental problem with this, and that this practice is supported by narrations of the Prophet.
+
+**11790.399s:** Is the intention of the legislator relevant in deriving Islamic law from secular law?
+**Category:** Islamic Law
+
+**Answer:**  The speaker explains that the intention is not relevant, and that the law itself must be derived from the Quran and Sunnah. 
+
+
+
+## https://www.youtube.com/watch?v=K3nt_ysBJm4
+
+## Is a Muslim who rules with anything other than Allah's laws an apostate? 
+**Category:** Islamic Law 
+**Timestamp:** 0.12s 
+**Summary:** The speaker states that if a Muslim rules with any laws other than those revealed by Allah, then they are outside of Islam.  This is a clear statement about the importance of adhering to divine law in Islamic governance. 
+
+## What are some exceptions to the rule against ruling with laws other than Allah's? 
+**Category:** Islamic Law 
+**Timestamp:** 12.799s 
+**Summary:** The speaker mentions that there are exceptions to this rule, which will be discussed in detail. The exceptions include cases of necessity, such as when a Muslim is forced to join or stay in a kafir (non-Muslim) state. 
+
+## What are some historical examples of exceptions to the rule against ruling with laws other than Allah's? 
+**Category:** Islamic History 
+**Timestamp:** 17.119s 
+**Summary:** The speaker mentions that there are historical examples of Muslims living under the rule of non-Muslims, such as the Prophet Muhammad (peace be upon him) before the rise of Islam, and the case of the Neos region.  Other examples include rulers in Yemen who were forced to accept British sovereignty during occupation.
+
+## How should Muslims deal with the issue of sovereignty under non-Muslim rule?
+**Category:** Islamic Politics
+**Timestamp:** 46.399s 
+**Summary:** The speaker emphasizes that Muslim sovereignty should not be accepted by default. They call for a more systematic discussion of how to navigate these complex situations, particularly regarding the acceptance of foreign rule. 
+
+## Why should the term "excommunication" not be used in Islam?
+**Category:** Islamic Terminology 
+**Timestamp:** 59.359s 
+**Summary:** The speaker expresses strong opposition to the use of the term "excommunication" in Islam.  They argue that this term is inappropriate because Islam does not have a formal organized church structure. The speaker states that excommunication is a concept found in Christianity, not Islam. 
+
+## What is the actual punishment for apostasy in Islam? 
+**Category:** Islamic Law
+**Timestamp:** 89.159s 
+**Summary:** The speaker clarifies that the punishment for apostasy is not necessarily death.  They argue that the punishment is reserved for those who rebel against the public order through actions that directly confront Islamic law, such as public marriage to a close relative or public acts of rebellion against Islamic rules. 
+
+## What are examples of acts that are considered public rebellion against Islamic order? 
+**Category:** Islamic Law 
+**Timestamp:** 104.56s 
+**Summary:** The speaker provides examples of acts considered public rebellion against Islamic order, such as public marriage to a close relative, public celebrations with music and drumming that contradict Islamic norms, or committing zina (illicit sexual intercourse) in public. They emphasize that these acts are not equivalent to private sins and are considered public offenses. 
+
+## Is there a specific process for excommunication in Islam? 
+**Category:** Islamic Law 
+**Timestamp:** 171.959s 
+**Summary:** The speaker explains that excommunication doesn't exist in Islam as a defined process or system.  Muslims are not automatically removed from the community based on their beliefs alone. They remain part of the community until proven guilty of specific crimes in a court of law. 
+
+## How does the concept of punishment in Islam differ from the concept of excommunication in Christianity?
+**Category:** Comparative Religion 
+**Timestamp:** 217.599s 
+**Summary:** The speaker contrasts punishment in Islam with excommunication in Christianity.  He argues that excommunication in Christianity carries the weight of complete exclusion from the community, while in Islam, punishment is specific to actions that violate the law and are proven in court. 
+
+## What is the punishment for those who join the kufar (non-Muslims) in open warfare? 
+**Category:** Islamic Law 
+**Timestamp:** 251.159s 
+**Summary:** The speaker discusses the punishment for those who join the kufar in open warfare, which is execution.  They clarify that this punishment applies to both active and passive participation in warfare against Muslims. 
+
+## Does Islam permit the execution of apostates?
+**Category:** Islamic Law 
+**Timestamp:** 262.72s
+**Summary:** The speaker addresses the contentious issue of apostasy and execution.  They argue that the historical understanding of apostasy as grounds for execution is flawed, based on misinterpretations of early Islamic history. 
+
+## What is the evidence against the claim that apostasy is punishable by death in Islam?
+**Category:** Islamic History
+**Timestamp:** 276.8s 
+**Summary:** The speaker presents evidence against the claim that apostasy is punishable by death in Islam.  They highlight the case of a man who openly declared apostasy in front of the Prophet Muhammad (peace be upon him). Despite this, the Prophet did not order his execution.  This demonstrates, according to the speaker, that apostasy itself was not punishable by death.
+
+## How do the arguments for and against the death penalty for apostasy relate to political motivations?
+**Category:** Islamic Politics
+**Timestamp:** 350.08s 
+**Summary:** The speaker suggests that the argument for the death penalty for apostasy stems from political motives, used by some rulers to suppress dissent and silence opposition. They emphasize that this practice is not rooted in authentic Islamic teaching. 
+
+## What actions actually merit punishment in Islamic law? 
+**Category:** Islamic Law 
+**Timestamp:** 370.12s 
+**Summary:** The speaker reiterates that only those who engage in active acts of rebellion against Islamic law, such as joining or spying for the enemy, are subject to punishment. They emphasize that these actions constitute a direct threat to the community and the security of the Islamic state. 
+
+## How do the accounts of punishment for apostasy in early Islamic history compare with the speaker's interpretation? 
+**Category:** Islamic History
+**Timestamp:** 393.199s 
+**Summary:** The speaker critiques some classical Islamic scholars who argue for the death penalty for apostasy. They point out that the accounts of punishment for apostasy in early Islamic history are often inaccurate and exaggerated, including the case of a man who allegedly declared apostasy and was executed by Omar.
+
+## What is the story of the man who declared apostasy in front of the Prophet Muhammad? 
+**Category:** Islamic History
+**Timestamp:** 404.36s 
+**Summary:** The speaker recounts a story about a man who declared apostasy in front of the Prophet Muhammad.  The man was not executed, but rather, the Prophet turned away from him in response to his arrogance.  This demonstrates that the Prophet did not consider apostasy itself punishable by death. 
+
+## What is the background of the story of the man who declared apostasy? 
+**Category:** Islamic History 
+**Timestamp:** 418.16s 
+**Summary:** The speaker provides background information on the story of the man who declared apostasy. The man had been sent to Yemen on a military campaign and received spoils of war, which he distributed among certain tribes instead of distributing them according to Islamic law. 
+
+## How did the Prophet respond to the man's actions?
+**Category:** Islamic History
+**Timestamp:** 448.08s 
+**Summary:** The speaker describes the Prophet's response to the man's actions. The Prophet turned away from him and declared that he was unjust, refusing to excuse his actions. 
+
+## What is the significance of the man's response to the Prophet?
+**Category:** Islamic History 
+**Timestamp:** 540.04s 
+**Summary:** The speaker emphasizes the man's arrogant response to the Prophet, refusing to apologize or acknowledge his mistake. This highlights the man's stubbornness and refusal to repent, which is ultimately what led to his rejection by the Prophet. 
+
+## What was the Prophet's prediction about those who followed the man's ideology?
+**Category:** Islamic History
+**Timestamp:** 575.88s 
+**Summary:** The speaker recounts the Prophet's prediction that those who followed the man's ideology would eventually emerge with swords to fight against Islam. This prediction, according to the speaker, highlights the potential for those who reject Islamic law to become enemies of Islam. 
+
+## How do the arguments for and against the death penalty for apostasy relate to Islamic scholarship? 
+**Category:** Islamic Scholarship 
+**Timestamp:** 595.36s 
+**Summary:** The speaker discusses the scholarly debate surrounding the death penalty for apostasy. He acknowledges that some scholars have argued in favor of it, while others have presented strong arguments against it. They encourage listeners to explore the topic further through scholarly works. 
+
+## What are the two main categories of those who might be considered "out of the community" in Islam? 
+**Category:** Islamic Law 
+**Timestamp:** 620.0s 
+**Summary:** The speaker identifies two main categories of those who might be considered "out of the community" in Islam: those who actively join the kufar and those who engage in espionage against the Islamic community. 
+
+## How do these categories relate to the concept of excommunication?
+**Category:** Islamic Law 
+**Timestamp:** 659.12s 
+**Summary:** The speaker emphasizes that the term "excommunication" is not applicable in Islam, despite the presence of actions that might lead to individuals being considered "out of the community."  Instead, they are simply subject to punishment according to Islamic law. 
+
+## Is there a specific punishment for religious apostasy in Islam?
+**Category:** Islamic Law 
+**Timestamp:** 665.32s 
+**Summary:** The speaker clarifies that religious apostasy, in and of itself, is not punished by death. It is not considered a crime against the community or state. This distinguishes religious apostasy from acts that directly threaten the safety and security of the Islamic community.  
+
+
+## https://www.youtube.com/watch?v=59LB9e9QH3s
+
+## Palestine Update
+
+**Question:**  What is the latest news on Palestine?  (138.2s)
+**Category:** Politics
+**Answer:**  The speaker congratulates the people of Palestine, mentioning the "M"  which is a high rank, and discusses how it allows Palestinians to enjoy the benefits of a new intercessor.
+
+**Question:**  What is the latest development with regard to Israel's attack on Palestine?  (177.56s)
+**Category:** Politics
+**Answer:**  In the last week or 10 days, there's been an increase in attacks, with Netanyahu in America receiving support from the American Congress, primarily Republicans, and some Democrats. The speaker believes this shows that a significant Zionist Lobby is behind the attacks.  
+
+**Question:**  What is the speaker's view on the election system in America, and how it impacts Israel's actions?  (200.76s)
+**Category:** Politics
+**Answer:**  The speaker argues that the American system is flawed as it is based on elections and general consultations without a firm moral framework. This allows interest groups, like the Zionist Lobby, to dominate and influence political actions. 
+
+**Question:**  How does the speaker explain the recent attack on a building in the Golan Heights? (307.68s)
+**Category:** Politics
+**Answer:**  The speaker suggests that the recent attack was not accidental and that the Israeli government intentionally orchestrated the attack to provoke a response from Iran, in particular to draw them into a conflict, undermine negotiation efforts, and decapitate the political leadership of Hamas. This, according to the speaker, is a calculated step to exploit Iran for Israel's benefit. 
+
+**Question:**  Does the speaker believe there was collusion behind the recent attacks on Israel? (1222.44s) 
+**Category:** Politics
+**Answer:**  The speaker suggests that there is a possibility of collusion between Israel and Bashar al-Assad, as Assad's recent trip to Russia is shrouded in secrecy, possibly meant to strategize a response to prevent further attacks on him.
+
+**Question:**  What is the speaker's view on the recent attack on the Iranian president-elect, and its implications? (438.319s)
+**Category:** Politics
+**Answer:**  The speaker believes that the attack on the Iranian president-elect was pre-planned, with Israel anticipating his inauguration and utilizing this event to trigger a wider conflict. This, according to the speaker, is part of a "master plan" to involve Iran in a large-scale attack, ultimately benefitting Israel. 
+
+**Question:**  Does the speaker believe that the recent attacks will lead to a large-scale war? (514.039s) 
+**Category:** Politics
+**Answer:**  The speaker believes that Israel is attempting to provoke Iran and Hezbollah into a full-scale conflict, knowing they cannot win alone but believing they can benefit from the current political climate and lack of strong opposition. 
+
+**Question:**  What is the speaker's analysis of the relationship between the US and Israel? (537.12s) 
+**Category:** Politics
+**Answer:**  The speaker believes that the US, particularly Trump, has given Netanyahu a clear directive to "finish the job quickly" in Palestine.  This indicates a strong US support for Israel's actions, suggesting they will not face any significant repercussions from the US, even in the event of a wider conflict.
+
+**Question:**  How does the speaker explain the current situation in Syria? (1518.76s)
+**Category:** Politics
+**Answer:**  The speaker believes that Syria is not recovering from the conflict and that the Syrian government is under the control of the US.  The speaker emphasizes the importance of focusing on defeating Israel and America first before dealing with Syria, suggesting that Syria's internal conflicts are not a priority.
+
+**Question:**  What is the speaker's view on the possibility of a Shi'a enclave in Damascus? (1600.399s)
+**Category:** Politics
+**Answer:**  The speaker dismisses the claim that Iran is building a Shi'a enclave in Damascus, suggesting it is a fabrication spread by those who oppose the regime.  The speaker believes that Iran's intentions are not to create an enclave but to influence Syria from within, a strategy commonly employed in other countries. 
+
+**Question:**  What is the speaker's opinion on the role of the US in the Syrian conflict?  (1781.799s)
+**Category:** Politics
+**Answer:**  The speaker believes that the US, through its intelligence agencies, is manipulating the sectarian divide in Syria for its own benefit. The speaker argues that this manipulation is aimed at supporting the Syrian regime while giving it an excuse to attack opposing groups. 
+
+**Question:**  How does the speaker analyze the relationship between the US, Israel, and Saudi Arabia? (1833.96s)
+**Category:** Politics
+**Answer:**  The speaker criticizes Saudi Arabia for using the sectarian card against Shi'a Muslims and Iran to support Israel. The speaker believes that Saudi Arabia is ultimately serving as a tool for the West, a puppet regime acting against the interests of Islam.
+
+**Question:**  How does the speaker explain the recent developments in Hartley Pool?  (4354.6s)
+**Category:** Politics
+**Answer:** The speaker suggests that the events in Hartley Pool are complex and need to be discussed in detail. They argue that it's a separate topic and should be addressed in a separate discussion.
+
+**Question:**  Does the speaker believe that Israel will engage in a full-scale war against Iran? (4143.319s)
+**Category:** Politics
+**Answer:**  The speaker believes that Israel might try to trigger a large-scale conflict by provoking a major response from Iran, aiming to draw in the US and expand the conflict. However, they argue that this scenario is unlikely as the US will likely not engage in a full-scale war with Iran.
+
+**Question:**  What is the speaker's view on the recent statements made by the US concerning its support for Israel? (4191.0s)
+**Category:** Politics
+**Answer:**  The speaker points out that while the US has stated its commitment to defending Israel, this support is conditional on Israel being "attacked." They believe that the US may not intervene if Israel attacks first, suggesting that the US's support is not a guarantee of unwavering backing. 
+
+**Question:**  How does the speaker view the current situation in Iraq? (3340.88s)
+**Category:** Politics
+**Answer:**  The speaker believes that there is a nascent Iraqi resistance forming, although it is too early to tell if it will become a significant force.  They encourage the Iraqi people to focus on removing the US influence in Iraq and to target the US presence in the Green Zone rather than US bases. 
+
+**Question:**  What is the speaker's view on the role of the West Bank in the conflict? (3454.64s)
+**Category:** Politics
+**Answer:**  The speaker suggests that the West Bank is a key strategic location for Israel. They believe that the Palestinian Authority is merely a tool for Israel, serving as a shield to protect its interests in the region. They encourage the Palestinians to resist the authority and to target the US, Israel, and their allies in the region.
+
+**Question:**  Does the speaker believe that the recent attacks will be followed by retaliation from Iran, Lebanon, or Iraq? (3514.44s)
+**Category:** Politics
+**Answer:**  The speaker believes that it is too early to tell if there will be retaliation, but that any response needs to be substantial to prevent Israel from dictating the terms of engagement.
+
+**Question:**  What is the speaker's view on the recent developments in the UN Security Council?  (3536.64s)
+**Category:** Politics
+**Answer:**  The speaker believes that Iran's recent request to the UN Security Council to invoke Article 51 of self-defense and demand a ceasefire in Gaza is a positive step, indicating a possible commitment to a more robust response and demonstrating strategic thinking on their part.
+
+**Question:**  Why does the speaker believe Iran's response to the recent attacks will be more significant than previous attacks?  (3585.319s)
+**Category:** Politics
+**Answer:**  The speaker argues that the current situation is vastly different from previous attacks, as there has been a prolonged period of genocide against Palestinians.  This, along with the recent targeting of a prominent commander, necessitates a more significant response. 
+
+**Question:**  How does the speaker explain Israel's recent shift in military doctrine? (3661.319s)
+**Category:** Military
+**Answer:**  The speaker acknowledges that Israel has shifted its military doctrine, focusing on combating rocket attacks and smaller campaigns. However, they believe that this shift is a sign of weakness and provides an opportunity for Hezbollah and Iran to take the fight directly to Israel. 
+
+**Question:**  Does the speaker believe that Hezbollah will withdraw to the 5-kilometer buffer zone? (3794.76s)
+**Category:** Politics
+**Answer:**  The speaker believes that any suggestion of Hezbollah withdrawing to the buffer zone is a form of psychological warfare and that it is highly unlikely to happen. 
+
+**Question:**  Does the speaker believe that the recent maneuvering of US warships in the Mediterranean is a real threat to Lebanon? (3836.24s)
+**Category:** Politics
+**Answer:**  The speaker dismisses the US warship maneuvering as a bluff, a tactic aimed at intimidating Lebanon and its allies.  
+
+**Question:**  What is the speaker's view on the traditional Israeli military strategy of advancing into enemy territory? (3865.119s)
+**Category:** Military
+**Answer:**  The speaker believes that Israel's traditional strategy of advancing into enemy territory will fail in this instance. The speaker believes the scale of the conflict will be too large and the bloodshed too great to achieve a swift political solution. 
+
+**Question:**  Does the speaker believe that Iran will retaliate against the recent attacks? (5003.88s)
+**Category:** Politics
+**Answer:**  The speaker believes that Iran is under pressure to respond to the attacks, as any inaction will result in a loss of influence and credibility.  However, the speaker acknowledges that Iran's response may be motivated by regret or a miscalculation of the US's true intentions.
+
+**Question:**  What is the speaker's view on the concept of the "hidden Imam"? (5009.36s) 
+**Category:** Religion
+**Answer:**  The speaker dismisses the idea of the hidden Imam as an imaginary story, a fabrication created to address a leadership crisis within Shi'a Islam. They argue that the concept is not supported by any credible evidence and that Shi'a Muslims should abandon this belief.
+
+**Question:**  Does the speaker believe that it is permissible to take interest payments when owed a salary? (8162.4s)
+**Category:** Finance 
+**Answer:**  The speaker considers interest payments haram, arguing that the individual should refuse them and inform the court to allocate the money to the treasury or charity. 
+
+**Question:**  Does the speaker believe that descendants of Hassan and Hussein have a special status in Islam? (8448.72s)
+**Category:** Religion
+**Answer:**  The speaker believes that individuals, regardless of their lineage, should not be given special consideration or treatment in Islam. 
+
+**Question:**  Does the speaker believe it is permissible to make images for the purpose of supporting Muslim causes? (5528.36s)
+**Category:** Religion
+**Answer:**  The speaker believes that making images is inherently haram, regardless of the intended purpose. They dismiss the Hadith regarding image-makers as faulty and clarifies that it applies only to idols. 
+
+**Question:**  Does the speaker believe that every individual is born with knowledge of good and evil, and that there is no need for external guidance? (6015.84s)
+**Category:** Religion
+**Answer:**  The speaker believes that all individuals, including the sons of Adam, have access to guidance through revelation and the teachings of prophets. They argue that the Quran clearly emphasizes the sanctity of life and condemns all forms of killing without justification.  
+
+**Question:**  Does the speaker believe that weak Hadiths are acceptable if they are corroborated by stronger Hadiths? (6176.08s)
+**Category:** Religion
+**Answer:**  The speaker clarifies that a weak Hadith does not automatically become strong simply by corroboration with a stronger Hadith.  They emphasize that the strength of a Hadith is determined by the reliability of its chain of narration (isnad), not merely its content.
+
+**Question:**  What is the speaker's view on the practice of kissing the Quran? (6868.48s)
+**Category:** Religion
+**Answer:**  The speaker considers kissing the Quran as a form of veneration, which may be misguided, but that it is still more respectful than disrespecting the book. 
+
+**Question:**  What is the speaker's advice to Hezbollah regarding retaliation against Israel? (7177.88s) 
+**Category:** Politics
+**Answer:**  The speaker believes that Hezbollah should focus on liberating Palestine and removing the Israeli occupation. He encourages them to avoid revenge-driven actions and to instead focus on establishing a just and peaceful society. 
+
+**Question:**  Is it permissible to torture prisoners, and if so, under what circumstances? (7273.56s)
+**Category:** Law
+**Answer:**  The speaker believes that torture is not permissible under any circumstances, even in retaliation for the enemy's actions. He argues that the rules of war and prisoners of war should be followed even in the face of extreme provocation. 
+
+**Question:**  What is the speaker's view on business partnerships with non-Muslims? (7657.639s)
+**Category:** Finance 
+**Answer:**  The speaker believes that business partnerships are permissible, but they advise against using borrowed money with interest. 
+
+**Question:**  Does the speaker believe that it is permissible to dine at a restaurant that serves alcohol? (7981.599s)
+**Category:** Religion
+**Answer:**  The speaker believes that it is not permissible to sit at a table where alcohol is present, even if one does not consume it. They argue that being in an environment where alcohol is served is a form of association with sin.
+
+**Question:**  Does the speaker believe that it is permissible to take interest payments on a delayed salary? (8162.4s)
+**Category:** Finance 
+**Answer:**  The speaker considers taking interest payments haram, regardless of the circumstances.  They suggest refusing the interest payments and instructing the court to allocate the money to the treasury or charity. 
+
+**Question:**  What is the speaker's view on the practice of calling someone a "munafiq" (hypocrite)?  (9343.68s)
+**Category:** Religion
+**Answer:**  The speaker believes that it is not permissible to call someone a munafiq unless there is clear and undeniable evidence of hypocrisy. They argue that such accusations should be avoided unless they are based on solid proof, as they could lead to slander and false accusations.  
+
+**Question:**  How does the speaker explain the conflict between socialist ideology and Islamic governance? (9716.479s)
+**Category:** Politics
+**Answer:**  The speaker believes that socialist ideology is fundamentally incompatible with Islamic governance. While there may be commonalities in certain policies, the underlying principles are different.  Islam, according to the speaker, emphasizes individual responsibility, ownership, and the sovereignty of Allah, while socialism focuses on collective ownership and the collective good.
+
+**Question:**  Does the speaker believe that it is permissible to persecute someone for attempting to commit a crime? (10582.479s)
+**Category:** Law
+**Answer:**  The speaker believes that persecuting someone for merely attempting to commit a crime is not permissible. He clarifies that punishment can only be imposed when an action has been started and the individual has been caught red-handed. 
+
+
+## https://www.youtube.com/watch?v=IdQZ95Q6Lq4
+
+## 0.16s: There's not very much to be updated 
+
+**Category:** News Update 
+
+**Question:** What is the main focus of this video?
+
+**Answer:**  The speaker is going to discuss recent events surrounding the ongoing conflict between Israel and Hamas. 
+
+## 2.32s: Updating because the whole week was
+
+**Category:** News Update 
+
+**Question:** Why is the speaker providing an update?
+
+**Answer:** The speaker is providing an update because the whole week was filled with claims, counter-claims, rumors, and counter-rumors, with no real progress on the situation.
+
+## 4.64s: Really just uh claims and counter claims
+
+**Category:** Conflict Analysis 
+
+**Question:** What has been the nature of the news surrounding the conflict? 
+
+**Answer:** The news has been characterized by claims and counter-claims, making it difficult to determine the truth. 
+
+## 8.4s: Rumors and counter rumors nothing really
+
+**Category:** Conflict Analysis 
+
+**Question:** What has the information from the news lacked? 
+
+**Answer:** The information has lacked persuasiveness and has been filled with rumors and counter-rumors, with little substance. 
+
+## 10.679s: Persuasive the only thing is that uh the
+
+**Category:** Conflict Analysis 
+
+**Question:**  What is the one clear point that can be made from the news?
+
+**Answer:** The only clear point is that the US is actively working to delay or cancel any action regarding a ceasefire. 
+
+## 14.559s: US is clearly
+
+**Category:** US Foreign Policy
+
+**Question:** What is the US doing regarding the conflict?
+
+**Answer:**  The US is actively working to delay or cancel any action regarding a ceasefire.
+
+## 16.16s: Trying ferociously to delay or cancel
+
+**Category:** US Foreign Policy 
+
+**Question:** What is the US's goal in delaying or canceling any action regarding the ceasefire? 
+
+**Answer:** The speaker believes the US is trying to buy time for their own preparations and possibly to influence Iran's response to the conflict. 
+
+## 20.359s: Any action by calling for for for
+
+**Category:** US Foreign Policy 
+
+**Question:**  How is the US attempting to delay or cancel any action?
+
+**Answer:** The US is calling for renegotiation of the ceasefire, among other things, to stall any immediate action. 
+
+## 24.76s: Renegotiating the ceasefire Etc and so
+
+**Category:** US Foreign Policy
+
+**Question:**  What specific actions is the US taking to delay the ceasefire?
+
+**Answer:** The US is calling for renegotiation of the ceasefire and other measures that would delay any immediate action. 
+
+## 27.4s: And they and they actually persu or
+
+**Category:** US Foreign Policy
+
+**Question:** What did the US do in order to influence the ceasefire negotiations?
+
+**Answer:** The US pressured Qatar and Egypt to attend the ceasefire discussion, hoping to influence the outcome in their favor. 
+
+## 30.439s: Forced qar and Egypt to attend I think
+
+**Category:** US Foreign Policy 
+
+**Question:** What is the US's intention in pushing Qatar and Egypt to attend the ceasefire negotiations?
+
+**Answer:** The US wants to exert influence on the ceasefire talks by ensuring Qatar and Egypt are present.
+
+## 33.0s: it was the attention was inq to discuss
+
+**Category:** Conflict Analysis 
+
+**Question:** What was the focus of the ceasefire discussions?
+
+**Answer:** The main topic of discussion was the ceasefire agreement, with Hamas refusing to attend.
+
+## 36.0s: ceasefire Hamas refused to
+
+**Category:** Conflict Analysis 
+
+**Question:**  What was Hamas's stance on the ceasefire talks?
+
+**Answer:** Hamas refused to attend the ceasefire negotiations.
+
+## 38.6s: attend uh isra was attended obviously
+
+**Category:** Conflict Analysis 
+
+**Question:** Who else was present at the ceasefire negotiations?
+
+**Answer:**  Israel was present at the negotiations, while Hamas refused to attend. 
+
+## 41.32s: the three and ham said there's nothing
+
+**Category:** Conflict Analysis
+
+**Question:** What was Hamas's reasoning for not attending the ceasefire talks?
+
+**Answer:** Hamas argued that there was nothing to discuss, as they believed an agreement had already been reached in May and June.
+
+## 43.239s: to attend there's already an agreement
+
+**Category:** Conflict Analysis
+
+**Question:** When did Hamas believe an agreement was reached?
+
+**Answer:** Hamas stated that an agreement was reached in May and June, and that there was no need to renegotiate it.
+
+## 45.0s: done in May and June and it is the one
+
+**Category:** Conflict Analysis 
+
+**Question:** What is the agreement that Hamas believes has already been reached?
+
+**Answer:** Hamas is referring to an agreement that they believe was reached in May and June, which was presented by Biden as an American proposal.
+
+## 47.6s: presented by by Biden as American
+
+**Category:** Conflict Analysis
+
+**Question:** Who presented the agreement that Hamas is referencing?
+
+**Answer:** The agreement that Hamas is referring to was presented by Biden as an American proposal. 
+
+## 52.12s: proposal suggested by Israel all of that
+
+**Category:** Conflict Analysis
+
+**Question:** What is the origin of the agreement that Hamas believes has already been reached?
+
+**Answer:** Hamas believes that the agreement was suggested by Israel and presented by Biden as an American proposal. 
+
+## 54.84s: is on the table and all is agreed upon
+
+**Category:** Conflict Analysis
+
+**Question:** What is Hamas's current stance on the agreement?
+
+**Answer:** Hamas believes that all points of the agreement are agreed upon and there is nothing left to negotiate. 
+
+## 56.76s: and the one has rejected it's nothing to
+
+**Category:** Conflict Analysis
+
+**Question:**  What does Hamas believe is the only reason for further discussion?
+
+**Answer:**  Hamas believes the only reason for further discussions is that the US is trying to influence the agreement.
+
+## 58.879s: negotiate just in act plan and I think
+
+**Category:** Conflict Analysis 
+
+**Question:**  What is the speaker's opinion on the US's actions?
+
+**Answer:** The speaker believes the US's actions are a delaying tactic and that there is nothing left to negotiate.
+
+## 62.039s: this is a very very shudd and very
+
+**Category:** US Foreign Policy 
+
+**Question:** How does the speaker feel about the US's position?
+
+**Answer:** The speaker believes the US's actions are shrewd and put them in a difficult position.
+
+## 65.64s: excellent way of putting the Americans
+
+**Category:** US Foreign Policy 
+
+**Question:**  What does the speaker see as the US's predicament?
+
+**Answer:**  The speaker believes the US's actions have put them in a difficult position, where they are unable to take decisive action.
+
+## 67.479s: on the spot and now the only question
+
+**Category:** Conflict Analysis
+
+**Question:** What is the main question that remains regarding the conflict?
+
+**Answer:** The main question is why the US is attempting to delay the ceasefire.
+
+## 70.84s: which remains is that why is that
+
+**Category:** US Foreign Policy
+
+**Question:** What is the purpose behind the US's delaying tactics?
+
+**Answer:** The speaker is questioning the motives behind the US's efforts to delay the ceasefire.
+
+## 74.439s: American delaying
+
+**Category:** US Foreign Policy
+
+**Question:** What is the US's strategy regarding the conflict?
+
+**Answer:** The US is utilizing delaying tactics to postpone any decisive action. 
+
+## 76.0s: tactics uh and attempt to delay or or
+
+**Category:** US Foreign Policy 
+
+**Question:** What are the two main theories regarding the US's motives?
+
+**Answer:** The speaker presents two theories: either the US never intended for a ceasefire, or they are genuinely concerned about a potential escalation.
+
+## 79.36s: postpone there are two theories one
+
+**Category:** US Foreign Policy
+
+**Question:** What are the possible explanations for the US's actions?
+
+**Answer:** There are two theories: either the US never intended for a ceasefire or they are genuinely concerned about an escalation.
+
+## 81.439s: theory is that they never really
+
+**Category:** US Foreign Policy 
+
+**Question:**  What is the first theory about the US's motives?
+
+**Answer:** The first theory suggests the US never intended for a ceasefire to happen.
+
+## 85.0s: intended for ceasefire and so on and all
+
+**Category:** US Foreign Policy
+
+**Question:** What is the first theory about the US's intention?
+
+**Answer:**  The first theory suggests the US never intended for a ceasefire to occur.
+
+## 88.479s: the claims that this America is
+
+**Category:** US Foreign Policy
+
+**Question:** What is the second theory about the US's motives?
+
+**Answer:** The second theory suggests the US is genuinely concerned about an escalation of the conflict.
+
+## 89.96s: embarrassed because the genocide and the
+
+**Category:** US Foreign Policy
+
+**Question:** What is the reason behind the US's potential embarrassment?
+
+**Answer:**  The US is potentially embarrassed by the ongoing violence and the pressure from their own citizens regarding it.
+
+## 91.6s: pressure inside America and so on and
+
+**Category:** US Foreign Policy 
+
+**Question:** What other factors might be influencing the US's actions?
+
+**Answer:**  The US is facing pressure from their own citizens regarding the conflict and also political considerations.
+
+## 93.36s: the election issues it's just
+
+**Category:** US Foreign Policy
+
+**Question:** What is the speaker's opinion on the US's actions?
+
+**Answer:** The speaker believes the US is using delaying tactics as a political ploy to influence the upcoming elections.
+
+## 95.68s: just like just propagandistic and and PR
+
+**Category:** US Foreign Policy 
+
+**Question:** How does the speaker view the US's actions in relation to the elections?
+
+**Answer:** The speaker believes the US is using the conflict as a public relations opportunity to benefit their political agenda. 
+
+## 99.36s: stands forth for the election in reality
+
+**Category:** US Foreign Policy 
+
+**Question:** What is the real reason for the US's delaying tactics?
+
+**Answer:** The speaker believes the US is using the conflict as a tool to benefit their political agenda in the upcoming elections. 
+
+## 102.28s: they uh they would like to delay as much
+
+**Category:** US Foreign Policy
+
+**Question:** What is the main goal of the US's delaying tactics?
+
+**Answer:** The US aims to delay the conflict as much as possible to allow for more preparation.
+
+## 105.399s: as possible so they can get their
+
+**Category:** US Foreign Policy
+
+**Question:** Why does the US need more time for preparation?
+
+**Answer:** The US needs more time to prepare for a potential larger conflict, as their forces are exhausted and need to be replaced.
+
+## 106.719s: preparation over because they have
+
+**Category:** US Foreign Policy 
+
+**Question:** What are the challenges facing the US in continuing the conflict?
+
+**Answer:** The US has various challenges in continuing the conflict, including exhausted forces who need to be replaced and the difficult terrain.
+
+## 108.52s: various forces in the area some of them
+
+**Category:** US Military 
+
+**Question:** What is the condition of the US forces in the region?
+
+**Answer:** Some US forces are exhausted and need to be replaced, while others are being repositioned.
+
+## 110.92s: are exhausted and need to go back home
+
+**Category:** US Military 
+
+**Question:** Why are some US forces being recalled?
+
+**Answer:** Some US forces are being recalled due to exhaustion and the need to be replaced. 
+
+## 112.759s: we know that the Eisenhower was hit and
+
+**Category:** US Military 
+
+**Question:** What happened to the USS Eisenhower?
+
+**Answer:** The USS Eisenhower was damaged and had to return home.
+
+## 115.36s: went back home and then we have the T
+
+**Category:** US Military 
+
+**Question:** What other US military assets are involved in the conflict?
+
+**Answer:** In addition to the USS Eisenhower, the USS Roosevelt and USS Abraham Lincoln are involved in the conflict.
+
+## 117.0s: Rosel it was in the Gulf visiting and
+
+**Category:** US Military 
+
+**Question:** What is the status of the USS Roosevelt?
+
+**Answer:** The USS Roosevelt was in the Gulf, but likely had to reposition for safety reasons.
+
+## 119.32s: then they were to the Arab because
+
+**Category:** US Military 
+
+**Question:**  Why was the USS Roosevelt repositioned?
+
+**Answer:** The USS Roosevelt was repositioned due to the dangers of the Gulf being too shallow and narrow for aircraft carriers.
+
+## 121.079s: keeping it the gulf would be would be
+
+**Category:** US Military 
+
+**Question:**  What are the drawbacks of keeping the USS Roosevelt in the Gulf?
+
+**Answer:** Keeping an aircraft carrier in the Gulf would be a tactical risk due to the shallow and narrow waters.
+
+## 122.799s: suicidal the gulf is too shallow and too
+
+**Category:** US Military 
+
+**Question:**  What makes the Gulf a dangerous location for aircraft carriers?
+
+**Answer:** The Gulf is too shallow and narrow, making it vulnerable to attack and unsuitable for aircraft carriers. 
+
+## 125.719s: too narrow to be suitable for aircraft
+
+**Category:** US Military 
+
+**Question:** Why are aircraft carriers particularly vulnerable in the Gulf?
+
+**Answer:** The shallow and narrow waters make it difficult for aircraft carriers to maneuver and leave them vulnerable to attack.
+
+## 128.16s: carriers it will be sunk almost
+
+**Category:** US Military
+
+**Question:** What is the potential outcome of keeping an aircraft carrier in the Gulf?
+
+**Answer:** An aircraft carrier in the Gulf would be highly vulnerable to attack and likely be sunk.
+
+## 129.479s: immediately so they would do to the Arab
+
+**Category:** US Military
+
+**Question:**  What is the US doing with their aircraft carriers?
+
+**Answer:** The US is repositioning their aircraft carriers to the Mediterranean.
+
+## 131.4s: seems to be they taking it getting it to
+
+**Category:** US Military 
+
+**Question:** Where are the aircraft carriers being moved to?
+
+**Answer:** The US is moving their aircraft carriers to the Mediterranean. 
+
+## 134.44s: the
+
+**Category:** US Military 
+
+**Question:** What other movements are the US making with their forces?
+
+**Answer:**  The USS Abraham Lincoln is being ordered to move from the South China Sea.
+
+## 135.239s: Mediterranean and fr of coast of of
+
+**Category:** US Military 
+
+**Question:** What is the destination of the USS Abraham Lincoln?
+
+**Answer:** The USS Abraham Lincoln is being ordered to move to the Mediterranean.
+
+## 138.04s: Lebanon and the and Abraham Lincoln is
+
+**Category:** US Military 
+
+**Question:** What is the specific location the US is moving its forces to?
+
+**Answer:** The US is moving its forces to the Mediterranean, off the coast of Lebanon. 
+
+## 141.84s: ordered to come from the South China Sea
+
+**Category:** US Military 
+
+**Question:**  What was the USS Abraham Lincoln's previous location?
+
+**Answer:** The USS Abraham Lincoln was previously stationed in the South China Sea.
+
+## 146.0s: there far away and it was crossing on I
+
+**Category:** US Military 
+
+**Question:**  What is the current status of the USS Abraham Lincoln?
+
+**Answer:** The USS Abraham Lincoln is currently crossing the Malagas Sea. 
+
+## 149.0s: think on third or was it Friday it was
+
+**Category:** US Military 
+
+**Question:** What day was the USS Abraham Lincoln crossing the Malagas Sea?
+
+**Answer:**  The USS Abraham Lincoln was crossing the Malagas Sea on Friday.
+
+## 151.36s: crossing the malagas sea so it's
+
+**Category:** US Military
+
+**Question:**  Where is the USS Abraham Lincoln expected to be in the near future?
+
+**Answer:**  The USS Abraham Lincoln is expected to be in the Arabian Sea or Indian Ocean by tomorrow or Tuesday.
+
+## 153.16s: expected to be in the
+
+**Category:** US Military 
+
+**Question:**  What is the expected arrival time of the USS Abraham Lincoln?
+
+**Answer:** The USS Abraham Lincoln is expected to be in the Arabian Sea or Indian Ocean by tomorrow or Tuesday.
+
+## 154.84s: area most likely it will be in the Arab
+
+**Category:** US Military 
+
+**Question:** What is the expected location of the USS Abraham Lincoln's arrival?
+
+**Answer:** The USS Abraham Lincoln is expected to arrive in the Arabian Sea or Indian Ocean by tomorrow or Tuesday.
+
+## 157.12s: sea in Indian Ocean Arab Sea by by
+
+**Category:** US Military
+
+**Question:** What is the expected location of the USS Abraham Lincoln's arrival?
+
+**Answer:** The USS Abraham Lincoln is expected to arrive in the Arabian Sea or Indian Ocean by tomorrow or Tuesday.
+
+## 160.56s: tomorrow or Tuesday at last and they
+
+**Category:** US Military
+
+**Question:**  What other actions is the US taking regarding its military presence?
+
+**Answer:** The US is also massing other bomber aircraft and air tankers in the region.
+
+## 163.519s: they also they massing other forces
+
+**Category:** US Military
+
+**Question:**  What other preparations is the US making?
+
+**Answer:** The US is preparing for a potential confrontation by massing more bomber aircraft and air tankers in the region.
+
+## 167.0s: massing other bombers on the area and
+
+**Category:** US Military 
+
+**Question:**  What type of aircraft is the US gathering in the region?
+
+**Answer:** The US is massing more bomber aircraft and air tankers in the region.
+
+## 169.76s: air tanking and so on uh preparing for a
+
+**Category:** US Military 
+
+**Question:** What is the US preparing for?
+
+**Answer:** The US is preparing for a possible confrontation with Iran or other forces in the region.
+
+## 173.48s: possible confrontation so they they are
+
+**Category:** US Military 
+
+**Question:** What are the potential adversaries the US is preparing to confront?
+
+**Answer:** The US is preparing for a possible confrontation with Iran or other forces in the region.
+
+## 175.519s: just using that as a trick another
+
+**Category:** US Foreign Policy 
+
+**Question:**  What is the speaker's perspective on the US's actions?
+
+**Answer:** The speaker believes the US is using its military buildup as a tactic to intimidate potential opponents. 
+
+## 177.84s: theory is that which is not necessarily
+
+**Category:** US Foreign Policy
+
+**Question:** What is the second theory regarding the US's actions?
+
+**Answer:** The second theory is that the US is genuinely concerned about an escalation of the conflict.
+
+## 180.0s: negating the other one maybe both can be
+
+**Category:** US Foreign Policy 
+
+**Question:** How does the speaker see the two theories about the US's motives?
+
+**Answer:**  The speaker believes both theories could be true simultaneously. 
+
+## 182.08s: synchronized that they are really
+
+**Category:** US Foreign Policy 
+
+**Question:** What is the potential outcome of the US's actions?
+
+**Answer:** The US's actions could lead to an escalation of the conflict.
+
+## 184.28s: concerned that and they really sincerely
+
+**Category:** US Foreign Policy 
+
+**Question:** What is the potential cause of concern for the US?
+
+**Answer:** The US is concerned about the potential consequences of a full-scale conflict with Iran.
+
+## 187.2s: want to delay and cancel any because
+
+**Category:** US Foreign Policy
+
+**Question:** What is the US's motivation in delaying any action?
+
+**Answer:** The US is trying to delay any action to avoid a potential escalation that could lead to a larger war with Iran.
+
+## 189.56s: they know and their military analyst
+
+**Category:** US Military 
+
+**Question:** What is the US's understanding of a potential conflict with Iran?
+
+**Answer:** US military analysts believe that any full-scale conflict with Iran would have disastrous consequences.
+
+## 192.48s: have already analyzed that any
+
+**Category:** US Military 
+
+**Question:** What is the outcome that US military analysts predict for a full-scale conflict with Iran?
+
+**Answer:** US military analysts believe that any full-scale conflict with Iran would have disastrous consequences. 
+
+## 194.28s: confrontation Which is less than the
+
+**Category:** US Military 
+
+**Question:** What is the potential outcome of a conflict less than a nuclear attack?
+
+**Answer:** A conflict less than a nuclear attack would still be devastating and could potentially lead to a larger war.
+
+## 195.68s: nuclear 11 nuclear 11 will be the end of
+
+**Category:** Nuclear War
+
+**Question:** What would be the outcome of a nuclear war between the US and Iran?
+
+**Answer:** A nuclear war would be devastating and likely result in a World War.
+
+## 197.44s: the world will be World War I so that's
+
+**Category:** Nuclear War 
+
+**Question:**  What is the speaker's opinion on the possibility of a nuclear war?
+
+**Answer:** The speaker believes a nuclear war between the US and Iran is highly unlikely due to the catastrophic consequences. 
+
+## 199.2s: out of question nobody's analyzing going
+
+**Category:** Nuclear War
+
+**Question:**  What is the general view on nuclear war between the US and Iran?
+
+**Answer:** The speaker believes a nuclear war between the US and Iran is not being considered as a realistic option.
+
+## 201.319s: to nuclear attacks it it will America
+
+**Category:** Nuclear War 
+
+**Question:** What would be the consequence of a nuclear attack on the US?
+
+**Answer:** A nuclear attack on the US would have devastating consequences. 
+
+## 204.84s: will be will be badly hurt and
+
+**Category:** Nuclear War 
+
+**Question:** What is the expected outcome for the US in a nuclear war?
+
+**Answer:** The US would likely suffer a major defeat in a nuclear war with Iran.
+
+## 207.159s: defeated but they want to cover it in
+
+**Category:** US Foreign Policy 
+
+**Question:** What is the US's goal in delaying the conflict?
+
+**Answer:** The US wants to avoid a conflict with Iran, but they want to portray themselves as strong and decisive.
+
+## 209.319s: such a way that doesn't appear to
+
+**Category:** US Foreign Policy 
+
+**Question:** What is the US attempting to avoid?
+
+**Answer:** The US wants to avoid appearing weak or indecisive in the face of potential conflict.
+
+## 211.159s: witness but with strength flexing Muses
+
+**Category:** US Foreign Policy
+
+**Question:**  What is the US trying to accomplish by displaying their military strength?
+
+**Answer:** The US is trying to project an image of strength and deter potential opponents from engaging in conflict.
+
+## 213.76s: so either way maybe both has to be
+
+**Category:** US Foreign Policy
+
+**Question:**  What is the speaker's opinion on the US's motives?
+
+**Answer:** The speaker believes both theories about the US's motives could be true simultaneously. 
+
+## 215.64s: synchronized they then they didn't work
+
+**Category:** Conflict Analysis 
+
+**Question:**  What is the speaker's assessment of the US's strategy?
+
+**Answer:** The speaker believes the US's delaying tactics have not been effective. 
+
+## 218.799s: when now at this stage on on on a
+
+**Category:** Conflict Analysis 
+
+**Question:**  What is the current state of the ceasefire negotiations?
+
+**Answer:** The speaker believes the ceasefire negotiations are at a standstill due to the US's actions. 
+
+## 222.92s: ceasefire so so so
+
+**Category:** Conflict Analysis
+
+**Question:** What is the speaker's belief about the US's actions?
+
+**Answer:** The speaker believes the US is delaying the ceasefire out of self-interest and not out of concern for the Palestinians.
+
+## 226.519s: deligently really because they love the
+
+**Category:** US Foreign Policy
+
+**Question:** What is the speaker's opinion on the US's actions regarding the Palestinians?
+
+**Answer:** The speaker believes the US is not genuinely concerned about the Palestinian people, but rather focusing on their own interests.
+
+## 228.48s: Palestinian they would like to save R
+
+**Category:** US Foreign Policy
+
+**Question:**  What is the US's true intention in delaying the ceasefire?
+
+**Answer:** The speaker believes the US is not truly concerned about the Palestinians and is prioritizing its own interests. 
+
+## 230.28s: they they have the intention as much as
+
+**Category:** US Foreign Policy
+
+**Question:**  What is the speaker's view on the US's involvement in the conflict?
+
+**Answer:**  The speaker believes the US is actively involved in the conflict and has a direct role in the violence. 
+
+## 232.519s: to anate all the people OFA if I think
+
+**Category:** US Foreign Policy 
+
+**Question:**  What is the speaker's opinion about the US's actions?
+
+**Answer:** The speaker believes the US is directly involved in the violence and responsible for the genocide happening. 
+
+## 235.159s: the genocide is is actually ordered and
+
+**Category:** US Foreign Policy
+
+**Question:**  Who is the speaker accusing of ordering the genocide?
+
+**Answer:** The speaker accuses Biden of being directly responsible for the genocide in Palestine.
+
+## 237.799s: and Mastered by by Biden more than n
+
+**Category:** US Foreign Policy 
+
+**Question:**  Who does the speaker believe is most responsible for the genocide?
+
+**Answer:** The speaker believes Biden is directly responsible for the genocide in Palestine.
+
+## 240.599s: they are in full synchronization
+
+**Category:** US Foreign Policy 
+
+**Question:** What is the speaker's view of the relationship between Biden and Israel?
+
+**Answer:**  The speaker believes that Biden and Israel are in full agreement regarding the actions in Palestine.
+
+## 243.159s: but they want to get some time to get
+
+**Category:** US Foreign Policy 
+
+**Question:**  What is the US's goal in delaying the conflict?
+
+**Answer:** The US wants to gain time to better prepare for a potential escalation of the conflict.
+
+## 246.599s: better preparation and possibly
+
+**Category:** US Foreign Policy
+
+**Question:**  What does the US hope to achieve with their preparation?
+
+**Answer:** The US hopes to achieve a decisive victory by using their preparations to intimidate Iran and other potential adversaries.
+
+## 248.76s: hopefully with this preparation the
+
+**Category:** US Foreign Policy
+
+**Question:**  What is the US's ultimate goal?
+
+**Answer:** The US hopes to intimidate Iran and other potential adversaries with their preparations to achieve a decisive victory.
+
+## 250.519s: other side especially Iran will be
+
+**Category:** US Foreign Policy
+
+**Question:** Who is the US trying to intimidate?
+
+**Answer:**  The US is trying to intimidate Iran and other potential adversaries.
+
+## 252.519s: terrified and uh do not some do
+
+**Category:** US Foreign Policy 
+
+**Question:**  What is the desired effect of the US's actions?
+
+**Answer:** The US hopes to terrify Iran and other potential adversaries to prevent them from taking any action. 
+
+## 254.84s: something massive obliging them to do a
+
+**Category:** US Foreign Policy 
+
+**Question:** What does the US hope to prevent by intimidating Iran?
+
+**Answer:** The US wants to prevent Iran from taking any action by terrifying them. 
+
+## 256.799s: Counter Strike this may have some some
+
+**Category:** US Foreign Policy
+
+**Question:**  What is the speaker's view on the US's strategy?
+
+**Answer:** The speaker believes the US's strategy of intimidation might be successful due to the leaks from inside Iran.
+
+## 260.239s: reason to to to to regard it as being
+
+**Category:** US Foreign Policy 
+
+**Question:** What information suggests that the US's strategy of intimidation might be working?
+
+**Answer:**  Leaked information from inside Iran indicates that the US's strategy of intimidation might be working.
+
+## 263.0s: true because there are certain leaks as
+
+**Category:** US Foreign Policy
+
+**Question:** What are the leaks revealing about the Iranian leadership's views?
+
+**Answer:** Leaks from inside Iran suggest that the Iranian leadership might be intimidated by the US's actions.
+
+## 266.44s: I said there are leaks and counter leaks
+
+**Category:** US Foreign Policy 
+
+**Question:** What is the nature of the leaks coming from Iran?
+
+**Answer:**  The leaks from Iran are contradictory, with some suggesting fear of the US and others suggesting more aggressive action. 
+
+## 268.12s: there was there was one leak
+
+**Category:** US Foreign Policy
+
+**Question:** What is one of the leaked statements from Iran?
+
+**Answer:** One leak suggests Iran might only carry out a symbolic strike against Israel to avoid a larger war.
+
+## 270.56s: claim that in the in the meeting last
+
+**Category:** US Foreign Policy
+
+**Question:** Where did the leaked information come from?
+
+**Answer:** The leaked information came from a meeting that took place a week ago.
+
+## 272.32s: Saturday that's now week one week plus a
+
+**Category:** US Foreign Policy 
+
+**Question:** When did the meeting from which the leaks originated take place?
+
+**Answer:** The meeting from which the leaks originated took place last Saturday.
+
+## 276.199s: day in the past there was a meeting of
+
+**Category:** US Foreign Policy
+
+**Question:** Who was present at the meeting where the leaks originated?
+
+**Answer:** The meeting included Iranian leadership, Hamas leadership, and other forces. 
+
+## 278.52s: the Iranian isah Yen and other minor
+
+**Category:** US Foreign Policy 
+
+**Question:**  What was discussed at the meeting?
+
+**Answer:** The meeting discussed potential retaliatory actions against Israel, with Iran suggesting a symbolic strike.
+
+## 282.919s: forces and uh it seems to Iran suggested
+
+**Category:** US Foreign Policy
+
+**Question:**  What was Iran's proposed course of action?
+
+**Answer:** Iran proposed a symbolic strike against Israel to avoid a larger war.
+
+## 286.6s: that to do only a symbolic strike to
+
+**Category:** US Foreign Policy
+
+**Question:**  What was Iran's motivation in proposing a symbolic strike?
+
+**Answer:** Iran proposed a symbolic strike to avoid a larger war. 
+
+## 288.759s: avoid the wi War something and the the
+
+**Category:** US Foreign Policy
+
+**Question:** What did Iran hope to achieve with a symbolic strike?
+
+**Answer:** Iran hoped to avoid a larger war by carrying out a symbolic strike against Israel.
+
+## 291.44s: claims the re claims that and Y and
+
+**Category:** US Foreign Policy
+
+**Question:** What was the response from Hamas leadership?
+
+**Answer:** Hamas leadership was upset with Iran's proposal for a symbolic strike.
+
+## 294.479s: Hamas ham was presis screamed at them a
+
+**Category:** US Foreign Policy
+
+**Question:** How did Hamas leadership react to Iran's proposal?
+
+**Answer:** Hamas leadership was angry with Iran's proposal and accused them of abandoning them.
+
+## 297.44s: loud voice and told them then say
+
+**Category:** US Foreign Policy 
+
+**Question:** What did Hamas leadership say to Iran?
+
+**Answer:** Hamas leadership accused Iran of betraying them and lying about their intentions.
+
+## 300.639s: clearly that you want that you let us
+
+**Category:** US Foreign Policy
+
+**Question:**  What accusation did Hamas leadership level against Iran?
+
+**Answer:**  Hamas leadership accused Iran of letting them down and lying about their intentions. 
+
+## 302.479s: down and you are lying that so they have
+
+**Category:** US Foreign Policy
+
+**Question:** What is the potential consequence of Iran's symbolic strike proposal?
+
+**Answer:** Iran's proposal might damage their relationship with Hamas and other groups.
+
+## 304.84s: to pull their tail it may be just a
+
+**Category:** US Foreign Policy
+
+**Question:**  What is the speaker's opinion on the leak?
+
+**Answer:** The speaker believes the leak might be propaganda aimed at undermining confidence in the Iranian leadership.
+
+## 308.44s: propaganda to to undermine people
+
+**Category:** US Foreign Policy
+
+**Question:** What is the potential purpose of the leak?
+
+**Answer:** The leak might be intended to undermine confidence in the Iranian leadership.
+
+## 310.479s: confidence and maybe the truth on the
+
+**Category:** US Foreign Policy
+
+**Question:** What is the speaker's opinion on the possibility of the leak being true?
+
+**Answer:** The speaker believes the leak might be true, but also acknowledges that it could be propaganda. 
+
+## 312.96s: other hand a man called Amir MWI who
+
+**Category:** US Foreign Policy
+
+**Question:** Who is Amir MWI?
+
+**Answer:** Amir MWI is a journalist who used to work in Iran's diplomatic core.
+
+## 314.759s: used to be I think in the Diplomatic
+
+**Category:** US Foreign Policy
+
+**Question:** What is Amir MWI's current position?
+
+**Answer:** Amir MWI is now an independent journalist. 
+
+## 316.32s: core of Iran now he's an independent
+
+**Category:** US Foreign Policy
+
+**Question:** What does Amir MWI have to say about the situation?
+
+**Answer:** Amir MWI claims that Iran received threats of nuclear attack from the US.
+
+## 318.28s: journalist was speaking the say Iran
+
+**Category:** US Foreign Policy
+
+**Question:** What threat did Iran receive?
+
+**Answer:** Iran received threats of nuclear attack from the US. 
+
+## 321.72s: received received threat of nuclear
+
+**Category:** US Foreign Policy
+
+**Question:** What kind of weapons were threatened to be used against Iran?
+
+**Answer:** Iran received threats of nuclear attack, including the use of nuclear weapons.
+
+## 324.8s: attack and uh and use of nuclear weapons
+
+**Category:** US Foreign Policy 
+
+**Question:** What was Amir MWI's response to the threat?
+
+**Answer:** Amir MWI refused to reveal Iran's plans but warned that any attack would be met with a much stronger response. 
+
+## 329.4s: and said I'm not at La to tell you what
+
+**Category:** US Foreign Policy
+
+**Question:** What is Amir MWI's response to the US's nuclear threat?
+
+**Answer:** Amir MWI refused to reveal Iran's plans but warned that any attack would be met with a much stronger response. 
+
+## 331.28s: Iran but I I assure you in if it happens
+
+**Category:** US Foreign Policy 
+
+**Question:** What is Amir MWI's message to the US?
+
+**Answer:** Amir MWI warns the US that any attack on Iran would
+
+## https://www.youtube.com/watch?v=nPjlWe_YWnk
+
+##  0.16s:  If Allah is the ultimate Sovereign and has ultimate Perfections, how can humans have free will? 
+**Category:** Theology 
+
+If Allah is all-powerful and all-knowing, it would seem that our actions are predetermined by Him.  This would mean we don't have free will.  However,  Muslims believe that Allah has given humans free will, and we are accountable for our choices.  This is a fundamental principle of Islam. 
+
+## 7.12s: How can Allah account us for our actions if we don't have free will? 
+**Category:**  Theology
+
+If humans don't have genuine free will, then they are not responsible for their actions.  This would mean that holding them accountable for their actions would be unjust.  Muslims believe that Allah is just, so there must be a way for humans to have free will and be accountable for their actions.
+
+## 21.8s: How can we have genuine free will if we don't see it? 
+**Category:**  Philosophy
+
+The idea of free will can be difficult to grasp.  If we don't see it directly, how can we be sure that we have it?  The speaker argues that we do have free will, but it may be obscured by our own perceptions or by external forces.   We may be deceived into thinking that we don't have free will. 
+
+## 31.32s: How can our free will synchronize with the Divine knowledge? 
+**Category:**  Theology
+
+The question of how free will and divine knowledge can coexist is a complex one.  If Allah knows everything, including our future actions, then doesn't that mean our choices are predetermined?  Muslims believe that Allah's knowledge does not negate our free will.  The exact way they coexist is a matter of ongoing discussion. 
+
+## 43.0s:  If we have genuine free will, how can we be accountable for our actions and punished for them? 
+**Category:**  Theology
+
+If we truly have free will, it would seem that we should be able to make choices without fear of punishment.  However, Islam teaches that humans are accountable for their actions and will be judged in the afterlife.  This might seem to contradict the idea of free will, but Muslims believe that Allah is just and that His judgments are based on our choices. 
+
+
+## https://www.youtube.com/watch?v=M-iqHC4TMDU
+
+##  Questions Asked and Answered
+
+**0:32.88s**  | **Category:**  Intro 
+> What is the format of the session?
+
+The session is a weekly live broadcast featuring a T and Palestine update, followed by a Q&A. 
+
+**0:77.08s** | **Category:** Format
+> How will Q&A be conducted?
+
+Q&A is a regular feature, but the first Sunday of every month is dedicated to a longer Q&A session following the Palestine update. 
+
+**1:01.36s** | **Category:** Surah
+> What is the meaning of the first Ayah of Surah?
+
+The first Ayah of Surah states that Allah's judgment will inevitably come. Some people may misunderstand the language and assume that the Day of Judgment is near, but Isa spoke in parables to prevent this misconception. 
+
+**1:34.68s** | **Category:**  Surah
+> What is the meaning of the phrase "God's judgment has come"?
+
+The phrase "God's judgment has come" does not necessarily mean that the Day of Judgment has arrived. Rather, it indicates that all judgments, such as punishments for disbelievers and guidance for believers, are inevitable and will eventually come to pass.
+
+**2:25.52s** | **Category:**  Surah
+> What is the general understanding of the phrase "God's judgment is coming"?
+
+The general understanding is that people were expecting Isa to return immediately. This was more of a modern scholar's belief, as they often lack a scriptural background. However, Paul is the only one who believed that the Day of Judgment would occur in his own lifetime, and that belief has been historically proven false.
+
+**2:71.84s** | **Category:**  Surah
+> What does the speaker mean by "reusing of the past tense"?
+
+The speaker is referring to the use of the past tense in the Quran to describe events that are actually future events. This is a rhetorical device common in Arabic and other languages, especially in revealed texts. It highlights the certainty and inevitability of future events, even if they are far off.
+
+**3:46.16s** | **Category:** Surah
+> What is the meaning of the phrase "The judgment of Allah is coming, some people say when is it coming, let it come quickly"?
+
+The phrase highlights the arrogance of those who challenge Allah to bring Judgment soon. Allah will not be rushed. Judgment will come at its appointed time, which may be far in the future. 
+
+**3:85.199s** | **Category:** Surah
+> What does the speaker mean by "Allah is almost hiding it"?
+
+The speaker is addressing a verse that states Allah is almost hiding it.  Scholarly interpretation suggests that this means that Allah has not yet made a final decision about when Judgment will come. It is still being postponed, and the decision may be made in the future.
+
+**4:87.0s** | **Category:**  Surah 
+> What is the meaning of the phrase "He causes the angels to descend with this divine inspiration bestowed at His behest upon whomever He wills of His servants"?
+
+The phrase refers to the sending down of Revelation, which can be interpreted in different ways, including spiritually and internally. The speaker argues that Revelation is an internal experience that connects people to a higher power, providing a feeling of certainty. 
+
+**5:29.88s** | **Category:**  Surah
+> What does the speaker mean by "sending the Angels"? 
+
+The speaker explains that the Angels do not necessarily descend physically. The phrase "sent down" refers to the sending down of Revelation, not necessarily the literal descent of angels.
+
+**6:70.6s** | **Category:**  Surah
+> What does the speaker mean by "he created the heavens and the Earth in accordance with His inner truth"?
+
+The speaker explains that the phrase "in accordance with His inner truth" indicates that creation is not arbitrary, but rather structured according to a system of mathematical necessity and proportions. Allah's creation is not magical, but rather based on a certain order and system. 
+
+**7:50.44s** | **Category:**  Surah
+> What does the speaker mean by "with the truth"?
+
+The speaker explains that Allah's purpose in creating the universe is not arbitrary or simply for enjoyment. He created the universe with a purpose, and that purpose is not a vain objective but rather a meaningful one, such as allowing conscious beings to grow and ascend spiritually.
+
+**8:53.12s** | **Category:**  Surah
+> What is the purpose of creation according to the speaker?
+
+The speaker argues that Allah doesn't need creation for any personal gain or enjoyment.  The most reasonable purpose of creation is to create beings who have free will and mindfulness, so that they can act as finite projections of the Divine. 
+
+**9:35.8s** | **Category:** Surah
+> What is the meaning of the phrase "He created man out of a mere drop of sperm and lo this same being shows himself endowed with the power to think and to argue"?
+
+The phrase highlights the unexpected potential of humans for both good and evil. Despite their simple origin, humans are capable of great thought and argumentation.  This potential can lead to both good and evil, as some humans will choose to be adversaries to Allah.
+
+**9:71.92s** | **Category:** Surah
+> What does the speaker mean by "evident adversary"?
+
+The speaker explains that humans becoming adversaries to Allah is not surprising, as it was always a known and expected possibility.  However, Allah expresses his displeasure with this behavior, as it contradicts the rationality and appreciation for the gifts he has given.
+
+**10:34.44s** | **Category:** Surah
+> What does the speaker mean by "cattle you derive warms from them and various other uses and from them you obtain food"?
+
+The speaker is highlighting the multifaceted benefits that humans derive from animals. Animals provide warmth, food, and various other uses. This is meant to counter the belief of some that there are separate sub-creators for different aspects of the universe, including animals. 
+
+**11:00.08s** | **Category:** Surah
+> What is the speaker's solution to the problem of evil?
+
+The speaker argues that the problem of evil cannot be solved by attributing creation to a separate entity. Allah is the creator of everything, including the good and the bad. The solution lies in understanding free will and the contingent nature of the universe.  A perfect and flawless creation is not possible, as it would be akin to a Divine being, which is not creatable.
+
+**11:53.68s** | **Category:** Surah
+> How does the speaker explain the existence of natural disasters, like tsunamis, in relation to Allah?
+
+The speaker argues that natural disasters are part of the system of the universe. The Earth's core is liquid, leading to the movement of tectonic plates and the formation of mountains, volcanoes, and oceans.  These natural processes are not "evil," but rather necessary for the development and sustainability of life on Earth. 
+
+**12:48.04s** | **Category:** Surah
+> What is the speaker's argument against attributing suffering and evil to another deity or atheism?
+
+The speaker argues that attributing suffering and evil to another deity is a false solution, as there can only be one necessary existing being. Atheism also doesn't solve the problem, because it removes any agent of free will, leading to the idea of a deterministic universe acting only by necessity. The speaker believes that the universe was created by a being who acts in freedom, and that the problem of evil lies in the inherent contingency of the universe and human free will.
+
+**13:43.84s** | **Category:** Surah
+> What is the speaker's argument against the idea of a blind, dead nature creating the universe?
+
+The speaker argues that the universe cannot have been created by blind nature. The universe has various starting conditions and options, indicating that its creation was not by necessity but by free will. This argument is based on the cosmological proof for the existence of God.
+
+**14:11.92s** | **Category:** Surah
+> What is the speaker's argument against the idea that suffering is the reason some people abandon faith?
+
+The speaker suggests that the argument from suffering is a product of a Christian background, as it stems from the belief that a Divine being who shares substance with his father took human form and suffered for the world. If that is true, then why doesn't this being prevent natural disasters?  The speaker argues that this line of reasoning only serves to further complicate the problem of evil and open the door to atheism, which is not a solution.
+
+**15:20.96s** | **Category:** Surah
+> What is the speaker's argument against the idea of a blind, dead nature being responsible for suffering?
+
+The speaker argues that a blind, dead nature, lacking any purpose, cannot be the source of suffering. Such an entity would only be a grinding machine, lacking any reason or meaning. It cannot explain the existence of suffering or provide a solution to the problem.
+
+**15:49.76s** | **Category:** Surah
+> Why does the speaker reject the idea that the universe is created by blind, dead nature?
+
+The speaker rejects the idea of a blind, dead nature creating the universe because it contradicts the idea of a perfect and necessary existing being. A necessary being, by definition, must be perfect and lacking any contingency. The universe, however, is full of contingencies and conditions. 
+
+**15:93.92s** | **Category:** Surah 
+> What is the speaker's response to the idea that the heavens were created by God, but the Earth was created by a devil?
+
+The speaker rejects the idea of a separate creator for Earth. He argues that Allah is the creator of everything, including animals, and that the problem of evil cannot be solved by attributing it to a separate entity.
+
+**16:17.0s** | **Category:**  Surah
+> What is the speaker's argument against the idea that animals were created by a devil?
+
+The speaker states that animals, which provide humans with food, warmth, clothing, and transport, are also a creation of Allah. He argues that the idea of a devil creating animals is not correct and impossible.
+
+**16:35.12s** | **Category:**  Surah
+> How does the speaker compare the Quran's perspective on creation to the Pagan vision of reality?
+
+The speaker contrasts the Quran's perspective on creation, which emphasizes a unified system and purpose, with the Pagan vision, which presents a reality of multiple, often warring, gods and demigods.
+
+**16:90.24s** | **Category:** Surah 
+> What is the speaker's interpretation of the phrase "And you find beauty in them when you drive them home in the evenings and when you take them out to pasture in the mornings"?
+
+The speaker argues that the phrase highlights the artistic and aesthetic beauty of animals. The Quran uses vivid language to create a picture of animals' graceful movement and their inherent beauty, which is worth appreciating beyond their materialistic benefits.
+
+**17:30.24s** | **Category:**  Surah
+> Which book does the speaker recommend for studying the artistic and spiritual aspects of the Quran?
+
+The speaker recommends a book called "In the Shade of the Quran." It is intended to provide insights into the artistic and spiritual dimensions of the Quran rather than its strict, philosophical meaning.
+
+**18:37.96s** | **Category:** Surah
+> What does the speaker mean by "And they carry your loads to many a place which otherwise you would be unable to reach without great harm to yourselves"?
+
+The speaker is emphasizing the practical benefits of animals, particularly for transportation and carrying heavy loads. He argues that without animals, humans would struggle to travel long distances, especially through harsh environments like deserts.
+
+**19:66.04s** | **Category:** Surah
+> What is the speaker's explanation of the phrase "truly your Lord is the compassionate, the mercy giver"?
+
+The speaker explains that "compassionate" has a dual meaning.  It can mean both soft-heartedness, a mixture of love and kindness, and mere kindness, as in showing mercy towards someone who is suffering. 
+
+**19:91.64s** | **Category:** Surah
+> What does the speaker mean by "translated with great hardship"?
+
+The speaker is referring to the literal translation of the phrase "with the splitting of the soul." He explains that the phrase highlights the extreme difficulty of traveling long distances without the help of animals. It is as if you are literally splitting yourself into two parts to achieve such a task.
+
+**20:50.12s** | **Category:** Surah 
+> What does the speaker mean by "And it is He who has created horses and mules and asses for you to ride as well as for their Beauty"?
+
+The speaker explains that Allah created these animals for both practical purposes, such as riding and carrying loads, and for their aesthetic beauty. This is meant to counter the idea that some animals are only useful for practical purposes and not for beauty.
+
+**21:78.24s** | **Category:**  Surah
+> What does the speaker mean by "he will create yet things of which today you have no knowledge"?
+
+The speaker explains that the phrase refers to Allah's ongoing creation. It implies that humans will continue to discover new things and advancements in the future, which are already known to Allah. He gives the example of trucks and trains as modern-day "animals" of strength and beauty, created from materials and using knowledge provided by Allah.
+
+**22:00.12s** | **Category:**  Surah 
+> What does the speaker mean by "And he creates what you do not know"?
+
+The speaker is emphasizing the vastness of Allah's creation. He suggests that there are likely many other creatures and things yet to be discovered, both on Earth and in other planets and galaxies. This is a reminder that human knowledge is limited and Allah's creation is boundless.
+
+**22:97.2s** | **Category:**  Surah 
+> What does the speaker mean by "And he has made the night and the day and the Sun and the Moon subservient to his laws so that they may of so that they be of use to you"?
+
+The speaker explains that the Sun, Moon, and stars were created according to Allah's laws and are meant to serve conscious beings who can think and ponder. This is meant to counter the idea that these celestial bodies exist merely for scientific observation and not for a deeper meaning.
+
+**24:00.71s** | **Category:** Surah
+> What is the speaker's response to the idea that Allah's creation is based on predetermined fate or fatalism?
+
+The speaker argues against fatalism. He states that Allah shows the right path, but it is up to individuals to choose whether to follow it. The existence of free will implies that individuals have the choice to deviate from the right path. This choice is not against Allah's will or purpose.
+
+**24:96.2s** | **Category:** Surah
+> What is the speaker's explanation of the phrase "it rests with God Alone to show you the right path yet there is many a one who strays from it however had he so willed he would have guided you all"?
+
+The speaker clarifies that the phrase emphasizes Allah's power and authority, but also acknowledges the reality of free will. While Allah has the power to guide everyone, he allows individuals to choose their own paths, even if it leads them astray. 
+
+**25:32.599s** | **Category:** Surah
+> What is the speaker's response to the idea that humans have a complete understanding of how rain is created?
+
+The speaker acknowledges the scientific knowledge of how rain is created but emphasizes that Allah is ultimately the one who brings it down.  The complex process of evaporation, wind, and cloud formation is a testament to Allah's power and design, not a reason to deny his role in the process.
+
+**26:00.92s** | **Category:** Surah
+> What is the speaker's argument against the idea that rain happens by itself?
+
+The speaker rejects the idea that rain happens by itself. He argues that it happens through a finely-tuned system designed by Allah.  Other planets may not have rain due to the absence of water, or they may rain metal, indicating that the Earth's rain is a unique and specific design. 
+
+**26:92.96s** | **Category:** Surah
+> How does the speaker explain the diverse array of crops and fruits that grow from simple soil and water?
+
+The speaker uses the diversity of crops and fruits as an example of Allah's incredible creation. He highlights the complexity of living beings emerging from relatively simple materials.  This challenges the idea of evolution as a sole explanation, suggesting that a guiding force is necessary for such complex development.
+
+**28:28.2s** | **Category:** Surah
+> What is the speaker's explanation of the phrase "and he has made the night and the day and the Sun and the Moon subservient to his laws so that they may of so that they be of use that's in Brackets to you"?
+
+The speaker argues that the Sun, Moon, and stars were created according to Allah's laws and are meant to serve conscious beings who can think and ponder. He emphasizes the importance of considering the deeper meaning behind these celestial bodies, rather than focusing solely on scientific observation.
+
+**29:57.44s** | **Category:**  Surah 
+> What does the speaker mean by "and all the beauty of many Hues which he has created for you on Earth"?
+
+The speaker is referring to the beauty and diverse colors found in nature. He argues that this beauty is not simply aesthetic but a message from Allah for those who are willing to ponder and reflect on the meaning behind it.
+
+**31:23.92s** | **Category:** Surah 
+> How does the speaker explain the existence of beautiful landscapes and mountains?
+
+The speaker acknowledges that the beauty of mountains and landscapes is due to natural processes like plate tectonics and geological formations. But he argues that these processes are not random but rather part of Allah's design, resulting in the diverse and beautiful features we see on Earth.
+
+**32:62.84s** | **Category:** Surah
+> What does the speaker mean by "And he is who has made the sea subservient to his Lord so that you might eat fresh meat from it and take from its gems which you may wear"?
+
+The speaker emphasizes the benefits that humans derive from the sea.  He highlights the sea's abundant food source, its precious gems, and its potential for travel and trade. These benefits are a testament to Allah's power and provision for mankind.
+
+**33:24.68s** | **Category:** Surah 
+> What does the speaker mean by "fresh and tender meat"?
+
+The speaker explains that the phrase "fresh and tender meat" refers to the texture of seafood, which is typically softer than land animals. This is due to the unique adaptations of sea creatures, which are designed for floating and movement in the water.
+
+**34:35.04s** | **Category:** Surah 
+> What does the speaker mean by "And he has placed firm mountains on Earth lest it sway with you and rivers and paths so that you might find your way"?
+
+The speaker is highlighting the stability that mountains provide for the Earth. He explains that the mountains act as anchors, preventing the Earth from swaying. The presence of rivers and paths is also essential for navigation and finding one's way. 
+
+**35:06.92s** | **Category:** Surah
+> How does the speaker explain the stability of the Earth in relation to mountains?
+
+The speaker explains that mountains are formed through tectonic plate movements and orogenic cycles. These processes help stabilize the Earth, and earthquakes occur primarily in areas with volcanic activity or island arcs, not continuously across the Earth's surface.
+
+**35:72.12s** | **Category:** Surah 
+> What is the speaker's explanation of the phrase "and these mountains are not just one block because the Earth is surface structure so that they are various Lars they are twisted that"?
+
+The speaker is emphasizing that mountains are not solid, monolithic structures. He points out that they are often twisted and contain valleys, cracks, and passes, allowing for human communication and movement.
+
+**36:67.0s** | **Category:** Surah
+> How does the speaker explain the phrase "as well as various other means of orientation for it is by the stars that men find their way way"?
+
+The speaker argues that humans have always used the stars for navigation, both on land and at sea. This ability has been refined and developed over time, making it an almost unbreakable method of orientation, particularly in flat land. 
+
+**36:67.0s** | **Category:** Surah
+> Why does the speaker say "it is by the stars that men find their way way"? 
+
+The speaker explains that humans have used the stars for navigation since ancient times. The Quran acknowledges this well-known practice,  which has been developed into a highly accurate method of orientation.
+
+**37:00.16s** | **Category:** Surah 
+> What does the speaker mean by "is then he who creates comparable to any being that cannot create will you not then bethink yourselves"?
+
+The speaker challenges the idea that anyone or anything other than Allah can create. He argues that it is illogical to compare a creator to a being that is itself created. This is a direct challenge to the worship of idols and the attribution of divine powers to humans.
+
+**37:34.72s** | **Category:** Surah
+> How does the speaker address the issue of the "divine right of kings"?
+
+The speaker argues against the concept of the "divine right of kings." He states that the right of legislation belongs to Allah, as he is the creator and owner of all things. 
+
+**38:13.28s** | **Category:** Surah
+> What does the speaker mean by "otherwise for should you try to count God's blessings you will you could never count comp them"?
+
+The speaker argues that it is impossible to count all of Allah's blessings. The sheer number and diversity of Allah's gifts to humans are beyond human comprehension.
+
+**38:81.08s** | **Category:**  Surah
+> What does the speaker mean by "and God knows all that you keep secret as well as all that you bring into the open"?
+
+The speaker is emphasizing the all-knowing nature of Allah. He knows not only our actions but also our thoughts, intentions, and secrets.  This is meant to deter anyone from thinking that they can hide anything from Allah.
+
+**39:11.72s** | **Category:**  Surah 
+> What does the speaker mean by "many pagans they believe that for example the following story was narrated that three people were sitting next to the Kaa and swearing at swearing at Muhammad"?
+
+The speaker is referencing a story about pagans who believed that they could hide their blasphemy from Allah. They believed that Allah couldn't hear them because they were inside the Kaaba, but Allah hears everything, even our secret thoughts and intentions. 
+
+**40:03.68s** | **Category:**  Surah
+> What does the speaker mean by "now those beings that some invoke some people invoke beside God cannot create anything since they themselves are but created"?
+
+The speaker argues that those who are worshipped as gods, including idols and human rulers who claim divinity, are themselves created beings and have no power to create. This is a direct challenge to polytheism and the attribution of divine powers to anything other than Allah.
+
+**40:97.84s** | **Category:** Surah
+> What does the speaker mean by "they are dead not living and they do not even know when they will be raised from the dead"?
+
+The speaker argues that idols and those who falsely claim to be divine are not truly alive.  They have no consciousness or awareness of the afterlife. This is a critique of both idol worship and the belief in the divinity of human rulers.
+
+**42:11.84s** | **Category:**  Surah
+> What is the speaker's definition of true life?
+
+The speaker defines true life as being conscious of the reality of the universe and one's own existence. Those who lack this level of consciousness are essentially dead, even if they appear physically alive.
+
+**42:41.0s** | **Category:**  Surah 
+> What does the speaker mean by "your God is the one God but because of their false Pride the hearts of those who do not believe in the Life to Come refuse to admit this truth"?
+
+The speaker addresses the arrogant who refuse to acknowledge Allah as the one true God. Their pride and disbelief in the afterlife prevent them from accepting the truth, even when it is clearly presented.
+
+**43:28.48s** | **Category:** Surah
+> What does the speaker mean by "Allah is beautiful and he loves Beauty"?
+
+The speaker is responding to a question about arrogance. He states that Allah is beautiful and loves beauty. This is a fundamental principle that distinguishes true beauty from arrogance. True beauty does not involve rejecting the truth or looking down on others. 
+
+**44:02.36s** | **Category:**  Surah
+> What are the two main aspects of arrogance according to the speaker?
+
+The speaker identifies two main aspects of arrogance: rejecting the truth and looking down on others. Arrogance involves failing to acknowledge one's mistakes, refusing to accept the truth, and considering oneself superior to others. 
+
+**45:09.48s** | **Category:** Surah
+> What does the speaker mean by "truly God knows all that they keep secret as well as all that they bring into the open and behold he does not love those who are given to arrogance"?
+
+The speaker emphasizes that Allah knows all our actions, both public and private, and he dislikes arrogance.  Those who attempt to deceive Allah or hide their arrogance from him will not succeed, as he is fully aware of their intentions.
+
+**45:42.52s** | **Category:** Surah
+> What is the speaker's argument against the idea that ancient civilizations were the best?
+
+The speaker rejects the notion that ancient civilizations were superior to current ones.  He argues that the current Western civilization, despite its advancements in technology, may not be the peak of human development in terms of morality, vision, or contentment. He highlights the high rate of unhappiness and suicide in countries with good social services, suggesting that material wealth does not necessarily lead to happiness.
+
+**46:55.12s** | **Category:** Surah
+> What is the speaker's point about the people of Bangladesh?
+
+The speaker uses Bangladesh as an example of a country where people, despite their poverty and challenges, have a high level of contentment and happiness. This is a testament to the idea that material possessions do not necessarily equate to happiness and that humility can lead to contentment. 
+
+**47:29.12s** | **Category:**  Surah
+> Why does the speaker say that many people are "fooling themselves" regarding their civilization and morality?
+
+The speaker argues that many people, particularly those who are proud of their civilization, are "fooling themselves." They fail to acknowledge their shortcomings and instead cling to a false sense of superiority. He suggests that this pride stems from an internal sense of deficiency, which they attempt to cover up by projecting an image of greatness.
+
+**47:48.12s** | **Category:**  Surah
+> What is the speaker's example of self-righteousness on a national level?
+
+The speaker uses the example of Israel, which continues to assert its moral superiority despite its actions. The speaker highlights the hypocrisy of this claim, particularly in light of the recent events in Palestine and the Israeli leadership's disregard for international law.
+
+**48:71.12s** | **Category:**  Surah
+> What does the speaker mean by "don't you see those who declare them to be holy and righteous"?
+
+The speaker is referring to those who falsely claim righteousness for themselves or others.  He argues that only Allah has the right to declare someone righteous or holy. True righteousness is characterized by humility and self-criticism, not self-righteousness.
+
+**49:49.04s** | **Category:**  Surah 
+> What does the speaker mean by "don't purify yourself that you are rightous no Allah will sort out the rightousness"?
+
+The speaker is emphasizing the importance of humility. He argues that only Allah can judge our righteousness. We should be self-critical and aware of our own shortcomings, rather than claiming righteousness for ourselves.
+
+**49:97.88s** | **Category:** Surah
+> What does the speaker mean by "and who whenever they are asked what is it that your sustainer has bestowed from on high I want to answer fables of ancient times"?
+
+The speaker addresses the arrogance of those who dismiss Allah's message as mere legends or fables. They reject the truth of revelation and seek to invalidate Allah's message by claiming it is nothing more than stories from the past. 
+
+**51:06.08s** | **Category:**  Surah
+> What does the speaker mean by "hence on Resurrection Day they shall bear the full weight of their own burdens as well as some of the burdens of those ignorant ones whom they have led astray"?
+
+The speaker is highlighting the consequences of arrogance and misguidance. On the Day of Resurrection, those who have led others astray will not only bear the weight of their own sins but also some of the burdens of those they have misled. 
+
+**52:41.32s** | **Category:**  Surah
+> What does the speaker mean by "those who lived before them also schemed and God destroyed their structure from its foundation and the roof fell on top of them suffering came at them suddenly from an from an unexpected source"?
+
+The speaker is warning against the consequences of plotting against Allah and his messengers. He recounts the story of previous nations who were destroyed because they schemed against Allah. Their downfall was swift and unexpected, coming from a source they did not anticipate.
+
+**53:74.28s** | **Category:** Surah 
+> What does the speaker mean by "Allah came from the place where they didn't expect him to come"?
+
+The speaker is referring to the unexpected nature of Allah's punishment. Those who plot against him may believe they can escape his judgment, but he will come from a source they did not anticipate.
+
+**54:28.68s** | **Category:**  Surah
+> What is the speaker's explanation of the phrase "God visited with destruction all that they had ever built striking at its very foundations so that the roof fell in upon them from above and suffering befell them without they having perceived whence it came"?
+
+The speaker is elaborating on the destruction of those who plot against Allah. He explains that Allah's judgment strikes at the very foundation of their systems, causing their entire structure to collapse. 
+
+**55:97.53s** | **Category:**  Surah
+> What does the speaker mean by "and then on Resurrection day he will cover them all with and will say where now are those beings to whom you ascribed a share in my Divinity"?
+
+The speaker is emphasizing the humiliation and judgment that awaits those who ascribe partners to Allah. On the Day of Resurrection, they will be disgraced and questioned about their actions. This is a reminder of the consequences of rejecting monotheism and associating others with Allah.
+
+**56:54.0s** | **Category:** Surah
+> What is the speaker's explanation of the phrase "whereupon those who in their lifetime were endowed with knowledge will say verily igny igny and misery have fallen this day upon those who have been denying the truth"?
+
+The speaker is highlighting the contrast between those who possess knowledge and those who deny the truth. Those with knowledge will recognize the punishment and misery that befall the disbelievers on the Day of Resurrection. 
+
+**58:87.04s** | **Category:**  Palestine Update
+> What are some of the key events that have occurred in Palestine recently?
+
+Recent events in Palestine include the assassination of key personalities, continued rocket attacks reaching as far as the north of Haifa, and the severe damage inflicted on facilities like the base of Rad David in the valley of Maidu.
+
+**59:88.32s** | **Category:** Palestine Update
+> What is the significance of the pager incident in Palestine?
+
+The pager incident, which involved the discovery of a plot to detonate pagers packed with explosives, has been in the making for 15 years.  Security forces had detected and intercepted these pagers, potentially preventing a major catastrophe. However, the presence of intelligence assets and traitors within Palestine indicates that the threat remains.
+
+**1:01:67.96s** | **Category:** Palestine Update
+> What are some of the key developments concerning the military situation in Palestine?
+
+The Israeli military has been intensifying attacks in the north, targeting areas like Safad and Haifa. The destruction inflicted on the base of Rad David in the valley of Maidu is extensive, to the point that NASA has covered the area with a red dot on its satellite photos. 
+
+**1:02:22.12s** | **Category:** Palestine Update 
+> What is the significance of the recent strike on the underground bunker in Palestine?
+
+The strike on the underground bunker, which killed a number of Hamas commanders including  Zab, is significant because it targeted a meeting of key leadership figures.  The use of a bunker buster suggests that the bunker was not deep enough or sufficiently protected. 
+
+**1:03:32.48s** | **Category:** Palestine Update
+> What are the speaker's concerns regarding the recent events in Palestine?
+
+The speaker raises concerns about the lack of adequate security measures in Hamas bunkers. He also expresses concern about the presence of traitors within Hamas, suggesting that it may have contributed to the recent attacks.
+
+**1:04:43.88s** | **Category:**  Palestine Update
+> What does the speaker say about Hamas's approach to dealing with spies?
+
+The speaker criticizes Hamas's approach to dealing with spies.  He cites a Hadith that calls for the immediate execution of spies without mercy. He also criticizes the fact that Hamas does not publicly announce the names of spies, potentially hindering efforts to deter future spying.
+
+**1:05:89.0s** | **Category:** Palestine Update
+> What are the speaker's key takeaways from the recent events in Palestine?
+
+The speaker concludes that the events in Palestine, particularly the recent attacks on Hamas leadership, are a major setback but not a defeat. He emphasizes that the future of Palestine will depend on the new leadership's willingness to overcome past mistakes and take decisive action.
+
+**1:07:19.72s** | **Category:**  Palestine Update
+> What does the speaker say about Iran's role in the situation in Palestine?
+
+The speaker expresses skepticism about Iran's commitment to supporting Hamas and its willingness to engage in a larger war. He suggests that Iran's actions may be motivated by its own economic and political interests. He even raises the possibility of Iranian collaboration with the US in the recent attacks on Hamas. 
+
+**1:08:80.24s** | **Category:** Palestine Update
+> What is the speaker's overall assessment of the situation in Palestine?
+
+The speaker believes that the situation in Palestine is complex and challenging, but ultimately, he maintains that victory for Palestine is inevitable.  However, he acknowledges that it may require further sacrifices and a stronger commitment from both Hamas and the Palestinian people. 
+
+**1:09:95.12s** | **Category:** Palestine Update
+> How does the speaker respond to the suggestion that Hamas should remove Wahhabi elements from the Jihad front?
+
+The speaker dismisses this suggestion. He argues that  Wahabi movements have a history of making statements that are harmful, but that their actions should not be taken seriously.  He also points out that the claim that Wahhabis were involved in killings in Syria is misleading, as they were not under the control of Bashar al-Assad.
+
+**1:11:17.64s** | **Category:**  Palestine Update 
+> How does the speaker address the issue of the Wahabi movement's involvement in Syria? 
+
+The speaker explains that the Wahabi movement's involvement in Syria is a complicated issue, and that their actions were not necessarily under the control of Bashar al-Assad. He argues that the movement's actions should not be used as a reason to exclude them from the Jihad against Israel.
+
+**1:12:97.2s** | **Category:**  Palestine Update
+> What does the speaker suggest Hamas should do to improve its strategic position?
+
+The speaker advises Hamas to move its headquarters to a more secure location, such as underground tunnels or mountainous regions. He believes that Hamas's reliance on open-air meeting spaces in urban areas makes them vulnerable to attack.
+
+**1:13:51.44s** | **Category:**
+
+## https://www.youtube.com/watch?v=f_QTjQf7V_E
+
+##  0:04  
+**Question:** What is the connection between fun and the Quran? 
+**Category:** Religion
+**Answer:** The speaker is suggesting that the Quran itself is inherently interesting and fulfilling, so it doesn't need to be made 'fun'. 
+
+
+## 4:31 
+**Question:** How can we improve our understanding of the Quran? 
+**Category:** Religion
+**Answer:** The speaker suggests that we should strive to understand the Quran by examining its message and reflecting on its meaning. 
+
+## 6:56
+**Question:** How can we correct our understanding of the Quran? 
+**Category:** Religion
+**Answer:** The speaker believes we should focus on correcting any misunderstandings of the Quran by consulting reliable sources and seeking guidance from scholars.
+
+## 8:40 
+**Question:** What are some ways to improve our understanding of the Quran? 
+**Category:** Religion
+**Answer:** The speaker encourages continuous study and reflection on the Quran to improve our understanding.
+
+## 10:12
+**Question:** What is the first step to understanding the Quran?
+**Category:** Religion 
+**Answer:** The speaker highlights making the Quran a central part of one's life as the initial step. 
+
+## 12:88
+**Question:**  What is the significance of the Quran?
+**Category:** Religion 
+**Answer:** The speaker emphasizes the Quran's importance as a divine revelation from Allah.
+
+## 14:68
+**Question:** Who are the key figures in Islamic history?
+**Category:** History 
+**Answer:**  The speaker mentions the significance of figures like Abu Bakr and Omar in early Islamic history.
+
+## 18:88
+**Question:**  What is the connection between the Quran and human understanding?
+**Category:** Religion
+**Answer:** The speaker emphasizes that the Quran is revealed by Allah and its meaning is understood through human interpretation. 
+
+## 22:28
+**Question:** How is the Quran translated into practice?
+**Category:** Religion 
+**Answer:** The speaker highlights the role of the Sunnah in providing practical guidance for applying Quranic teachings in daily life. 
+
+## 24:48
+**Question:**  What is the Sunnah?
+**Category:** Religion
+**Answer:** The speaker explains the Sunnah as a collection of sayings and actions of Prophet Muhammad, serving as a practical guide for understanding and implementing the Quran. 
+
+## 26:48
+**Question:**  What is the relationship between the Quran and the Sunnah? 
+**Category:** Religion
+**Answer:** The speaker clarifies that the Sunnah essentially expands and clarifies the teachings found in the Quran. 
+
+
+## https://www.youtube.com/watch?v=gjZ9wqyS450
+
+##  0:40.879s - Welcome/Introduction 
+**Category:** Intro
+
+Welcome dear viewers brothers and sisters to episode 170 of our the sessions with Professor Dr Muhammad Al. These lessons are broadcast every week and on the new time 2 p.m UK British summertime. 
+
+##  0:54.719s - YouTube Channel 
+**Category:** Channel
+
+These sessions are also brought Live on YouTube and our YouTube channel is growing with more and more content so we do encourage you to subscribe and like our Channel and notify others as well. 
+
+##  0:70.24s - Segmenting Videos
+**Category:** Content
+
+Just to give you a synopsis of what's what's been happening so we have these the sessions and more recently we've have been segmenting all our videos so there is considerable material that is available.
+
+##  1:14.119s - Database of Materials 
+**Category:** Content
+
+We have recently uh we have for example a video a series of videos answering she Dr yadi's U statements around issue ofafa um we've published the first part the second part will be going live tomorrow um so we encourage you if you click the notification Bell for new content you won't miss out and in in addition to that we we segment our video so smaller sections will be made available you will have an entire database worth of material for you to understand understand uh issues of f question answers political issues uh compilation of Quran this we are building out an entire database to make people self-sufficient.
+
+##  1:24.6s - Dissemination of Knowledge
+**Category:** Knowledge
+
+We believe in complete dissemination of knowledge there is none of this hoarding knowledge moreover we show you the how the sausage is made as they say we show you our working. 
+
+##  1:35.36s -  Blind Followers 
+**Category:** Knowledge
+
+We do not want a nation of blind followers we want people who will question will think will become self-sufficient so they cannot be Bamboozled by nefarious actors nefarious actors being the rulers and their government Scholars. 
+
+##  1:53.44s -  Thinking for Yourself 
+**Category:** Knowledge
+
+What they want to do is just to show people hey don't think for yourself we're going to give you the answers exactly the same as the Surfs and the clergy of Britain history repeats itself and we are going through a revisionist phase ourselves and we have been through a revisionist phase of of basically blind in following and this is the that is detrimental to us and we in our honest and humble opinion we believe the material we provide will equip you. 
+
+##  2:04.84s - Questioning Materials
+**Category:** Knowledge
+
+Other notable Scholars of the past like ibim uh worked on this endeavor as well and obviously another another spoiler alert for you we have a nice little section of IM ABA coming out as well so here um and I know the professor has many many complimentary things to say about IM ABA those kind of initiatives where people question those people who provide material go back to the text this is this is imperative for us.
+
+##  2:24.0s -  Sharing the Information
+**Category:** Knowledge
+
+So we encourage you to share this with your friends we've also have a Tik Tok Channel as well which ald has been getting quite a bit of traction where we put smaller sections out there so as I say please do like subscribe and share amongst people because we need to get this material out because this thing this stuff is revolutionary we believe that you can easily follow along with what's happening in which case you can be led to dead ends you'll you'll be following red herrings you will be lost. 
+
+##  2:42.36s -  Being Equipped 
+**Category:** Knowledge
+
+If you become equipped yourself you become you be you're able to see you can preempt problems and you can be of contribute to the Revival of the umah I will now uh I will now end this brief monologue and proceed to the subject of today's Hala so the format will be we do the then we have Palestine updates then we have open Q&A and next week will be a dedicated Q&A so if there's anything that's neglected in this session we'll Endeavor to answer it the next session inshallah uh so bear with us and be patient with us un unfortunately we are quite limited on resource and so today as I mentioned is session 170 we are on Surah sorry and what's the DAT today sorry surah h verse 69 the date is the 31st of March 2024 and Surah verse 69 which I'll briefly recite and read the translation and then hand over to the professor for commentary just a second. 
+
+##  3:53.08s -  First Translation
+**Category:** Quran
+
+And indeed there came unto Abraham our Heavenly Messengers bearing a glad tidding they bade him peace and he answered and upon you be peace and made haste to place before them a roasted C next translation to Abraham our Heavenly Messengers brought good news they said Peace and he answered and upon you be peace without delay he placed a roasted Cal before them.
+
+##  4:06.24s -  Details of the Messengers
+**Category:** Quran
+
+Umex s there's no detail about these The Messengers of Allah what they are most like they are angels but as we see be clear from the following story of L they are not human beings and you recognize them and there just some linguistic fine points they said Sal we greet you Sal we say to you peace and he said all peace are on you mean my greeting is Salam and this is linguistically it is it is a nominal sentence in Arabic or a sentence which is how the verb is migrating is is full peace is peace is the full peace so uh so his response is better than their greeting their greeting is good his response is better and higher more comprehensive just linguistic fine point and the second one did not do just read again the AY in Arabic I think said yeah does it say that the last part of the AY.
+
+##  4:48.44s -  The Roasted Calf
+**Category:** Quran
+
+Yes without any delay he got a roasted C and another place he went quickly to his to his family to the house and asked him to prepare a roasted okay that's very first next.
+
+##  5:31.32s -  Second Translation
+**Category:** Quran
+
+One second translation first translation but when they when he saw their hands when but when he saw that their hands did not reach towards it he deemed their conduct strange and became apprehensive of them but they said fear not behold we are not sent to the people of L lot next translation sorry behold we are sent to the people of lot next translation when he saw that their hands did not reach out towards it he found the strange found the strange and became apprehensive of them they saido not fear we are sent against the people of L lot yeah so that's the other person explain more more details so when he saw that they are not eating they didn't put their hand in the in the in the feast as it should be for guests this is usually usually something to be apprehended of because the tradition in in the area and I think everywhere in the world if you offer food to someone and he sits in your table he's supposed to eat if he doesn't eat meaning he's coming with hostile intent must be something out because they appeared as humans they came to me human shape so if someone refuses to after you have put something on the table to eat with you this is a almost a war declaration a very dangerous sign so he was very apprehensive and obviously that's apparent in his face or he may Express I'm wondering about your behavior are you not guest did I not greet you and invite you and offer you something respectable and they said be afraid we are not humans so we cannot eat obviously we appreciate that you are your your hospitality but we have we are actually angels of your of God and we have we have been sent to the people of L but we are order to make a stop in your place to bring you some extra good news Okay so that's the other place the Quran expanded in points where another place they are summarized and there's a general habit of the Quran the story is never repeated ver word for every every every rep rep soal rep of the story will have additional points or reduced Point summarizing things or explaining things according to the the reason of Revelation and the context and so on so that's what they. 
+
+##  6:88.24s -  Laughing with Happiness
+**Category:** Quran
+
+Next and his wife standing nearby laughed with happiness whereupon we gave her the Glad Tiding of the birth of ishak and after ishak of his son Jacob next translation his wife standing nearby laughed with happiness we gave her the good news of the birth of ishak and after ishak of is's son Jacob yeah and there's one notice both of them are fing the say his wife is standing nearby or something no she was standing there standing for what it is the Habit until even the wife of doing that it's the Habit that the landlord when offer get something the wife stand to help and and ser after coming the hij for the that the wife was uded but it was the usual habit of the sahab but since this is does not fit in the in the image of the picture they people have about the sah and the PE of prophets they were they was wondering that the wife of a prophet is standing to serve the guest that's the way it was with the prophets and the way it was with the Muslims at time of except the wife of the Prophet have been excluded specifically because of an incident when we come to we discuss so they could not overcome say standing standing nearby no he's standing on the table who serve the guest and the Quran here summarizes the situation does not me why did she laugh just laughing like that out of nothing no in other places they told Ibrahim that we are going we are not coming to you don't need to be afraid us we are actually send to destroy the people of lot and because she she was very hostile to the people of L she laughed out of happiness that that the people of L are getting at last what they deserve Abrahim was not in that in that League he tried to save the people of Lord show the difference between Sarah and her nature although she's a female should be gentler and Brahim is the utmost smooth and gentle fellow anyway so she laughed based on the Laughing they IMM reive the Revelation that give her the good news that's the good news they will send that she will she will she will uh she will become pregnant and at last after such a long time and almost not almost definitely giving up the Hope because she became an old woman and their husband is an old man possibly impotent sexually inactive no nothing there to hope for they gave her the good news that she will get is and even after is she will get the name is is coming from it is it is just the Laughing one because she laughed so the name was constructed that moment but most likely the the message that she will become pregnant and so and give birth that that was already told to them before they even arrived at at ibraim the Quran said that our messenger came to ibraim with the good news the good news is that already she would be she will having a child and the child even will have another a child coming from him and and the the name was chosen at that moment because she laughed and that Allah revealed to these angels he would be called y he he he laughs the name of is is he laugh that's the transation of the yes if he laugh in the old Hebrew language so next.
+
+##  7:12.88s -  "Alas for me!"
+**Category:** Quran
+
+A first translation said she oh who is me shall I bear a child now that I'm an old woman and thus and this husband of mine is an old man verily that would be a strange thing indeed next translation she said alas for me how am I to Bear a child when I'm now an old woman and this husband of mine is an old man this would that would be an astonishing thing so again the Quran summarizes doesn't discuss the reason of here laughing and things like that because that's explained in other places but was immediately in a State of Shock how can an old woman which have menes for decades because according to Old Testament that IIM received the the the the guests much later after is became an old a young man and have started his own family and so on so and even at before the birth of is s has given the hope that she will ever conceive so she gifted Haj the mother of is to ibraim and he had a sh there but after that even ibraim became completely retired he's too old he may have been something like 100 years 100 because he supposed to have under 30 or something years which is the maximum really living time you find in the Old Testament for really historic times leave these imaginary thousand years and so on on this is all imagination they Tred to make it like a like a well established age for the previous generation the time of Noah misunderstanding that Noah stayed 950 years because this was a miracle for him it was not a standard lifespan of humans anyway so she said I can't believe that how can I be pregnant as a very old woman who stopped menes so definitely is no way come and her husband is not capable for anything he's an old man well well advancing age this is really astonishing this is shocking now the Angels answer to her next.
+
+##  8:10.96s -  "Are you astonished?"
+**Category:** Quran
+
+First translation answered The Messengers dust thou deem it strange that God should decree what he Wills the grace of God and His blessings be upon you oh people of this house verily verily ever to be praised blim is he next translation they responded are you Aston they The Messengers said are you astonished at God's command May the mercy of God and His blessings be upon you people of this house for he is worthy of all praise and glory yeah San one you should not be astonish about Allah's command or Allah's decision because he has is capable of doing all possible things and this is one of them maybe not physically possible but it is strict and contingent possibility and this is the Divine reach of power and will okay.
+
+##  9:11.96s - Pleading for Lot's People
+**Category:** Quran
+
+Next and when they when the fear had left Abraham and the Glad Tiding had been conveyed to him he began to plead for L's L's people next translation when the fear left Abraham and the good news had been conveyed to him he began to plead with us for Lots people yeah so I said in this context there's no no no no intent to show the difference between Sarah and S was vicious to ha and to ibraim conning having a child from the slave she gifted that to him in the hope that she would bring a child anyway there's a huge difference between ibraim gentleness and pleading for the people Lord and Sarah laughing about the destiny because they were coming to we coming to destroy the vi of Lord so was she was jubilant and she was laughing out of Happiness while ibraim was just getting out of the worrying State and receiving this good news about a child to come and then the moment all this situation of suspense is gone he start pleading for the people of law try to delay the punishment or or or or get it cancelled or.
+
+##  9:12.0s -  Devout
+**Category:** Quran
+
+Devoted next ay first translation behold Abraham was most Clement most tender-hearted intent upon turning to God again and again next translation Abraham was forbearing tender-hearted and devout yeah give him three attribut forbearing a soft-hearted someone who feels pain in the heart empathy with the other so he start almost having difficulty breathing because of the feeling for the others and he returns to Allah and continuously so this is a very high Praise of.
+
+##  10:13.0s -  Judgment has Passed
+**Category:** Quran
+
+Next but God's Messengers replied oh Abraham desist from this pleading Behold thy sustainer judgment has already gone forth and verily there shall fall upon them a chastisement which none can avert next translation God's Messengers replied Abraham stop this pleading your Lord's judgment has already passed punishment is coming to them which cannot be turned back yeah that's very C so that's tell him the decision is already made and made final it cannot no bleeding can delay that.
+
+##  10:33.48s -  A Woeful Day
+**Category:** Quran
+
+Next [Music] ay translation and when our Messengers come unto came came unto lot he was sorely grieved by on their account seeing that it was beyond his power to Shield them and he explain this is a woeful day next translation when our Messengers came to lot he was sad for his people seeing that it was beyond his power to protect them and he said this is a truly terrible day yeah so before that in the other place of the Quran in the pleading of irim is that also part of the beinging that lot is living there and they thought him we know who is living there he will be saved except his wife so that's in that context here in this Surah the focus is on the perod of L not on the the pleading the details of the pleading of so the pleading of is much longer than just pleading for the people is TR to give him another chance do this and lot is there what's about there and then after all of that obviously told him you have no more bleeding left stop it will the the punishment is coming there's no way it can be scaped now they when they come toim there's no report how they were looking like like men with beard and so on when they come to L they became hairless clean shaved beautiful young men and the real of L having this what what what should we call it LGBT disease and L knew this will be a major problem now with the people there because they are obsessed with beautiful young boys and these guys look at most likely they took a very beautiful shape very attractive possibly body with curves you can LIF your imagination run and lo say that's the Calamity How can I protect these guys from the people who will definitely either peacefully or by force will rape them that is the difficult yeah.
+
+##  11:42.799s -  "Fear not"
+**Category:** Quran
+
+Next [Music] [Music] next and his people came running to him impelled towards his house by their desires by their desire for they had ever want because for they had ever want to commit such Abominations said lo oh my people take these daughters take instead these Daughters of mine they are purer for you for you than men but be then conscious of God and disgrace me not by assaulting my guest is there not among you even one right right-minded man next translation his people came running to him they were accustomed to committing foul Deeds lot said my people take my daughters instead they are purer for you than men fear God and do not disgrace me with my guess then not a single right-minded man among you yeah that's very clear but the scholars have difficulty understanding that L is offering his daughters in instead of these men almost certainly offering them in in wedlock he is my daughter if you have strong sexual desire here is the the natural correct way of fulfilling it almost said in wedlock but anyway this is a minor point this is matter of just argument right to stop them to decrease their their there the fire of gu of gness and on going through them but to no.
+
+##  12:15.559s -  "You know very well what we want"
+**Category:** Quran
+
+Avail they answered thou Hast always known that we have no use whatsoever for you for thy daughters and verily well dust thou know what we want they answered you have always known that we have no right to your daughters you know very well what we want okay that's very clear so.
+
+##  12:16.78s -  "I don't have even a corn"
+**Category:** Quran
+
+Next [Music] lean to like what they call in Arab Corner because if you're fighting someone then the best protection for you is to lean your back towards a corner so the back is protected the right is protected the left is protected and the enemy isn't is forced to come in the front directly and then you can then work with the sword or the arrow with the with the with the Spears and so what you ever do so the best place to have a protection in Man toan fight is to have your back to a corner so nobody can attack you back and it'll be a corner of walls usually meet almost in in most every con structure almost with a with a with a 90° so you have protection to the right or protection to the left only the front is open and the front you can deal with the sword so say I don't have even a corn that's a metaphoric I don't have one supporting me in this fight and may Allah have mercy on L he was indeed in a very strong Corner which corner he was on the corner of Allah strength of Allah is protecting him but at that moment he was so desperate and so fearful about the situation that he that slipped his mind so may Allah have Mery on he was in a strong corner he had strong protection but he did not visualize it or have it present in his mind at all so then now they respond to him next I show that this this this this this this exclamation is toward the three angel not toward his own people I think in this instance you definitely want to have your back against the wall as well yeah but but in the Arabic to the corner the corner is G better protection than just a wall because the meeting of two walls your back is protected your right is protected your left protected yeah you definitely want to cover your back this okay uh next completely cover and also s at least a good side of the right and good side so the adversary had to come forward maybe a slight but you can manage with the sword or the spear the situation that's in such situation you have the utmost strong situation even if you are like for example kickboxing with some if you are in a corner like that a world Corner then the other guy had to come straight forward maybe the small angle and then you have better opportunity of kicking back intercepting and so on yeah it's not like the Kung Fu films where you get people fighting all sides yeah that's that's it. 
+
+##  13:34.64s - "We are messengers from your lord"
+**Category:** Quran
+
+[Music] [Music] okay [Music] [Applause] [Music] first translation whereupon the angel said they exp to him yeah no whereupon the angel said oh loot behold we are messengers from thy sustainer never shall th enemies attain to thee depart then with th with thy household while it is yet night and let none of them of you look back and take with thee thy family with the exception of thy wife for behold that which is to Beall these people these people of Sodom shall befall her as well verily their appointed time is the morning and it's and is not the morning day next translation the angel said lot we are messengers from your lord your enemies will never reach you leave with your household in the dead of night and do not look back take all of your family with you with the exception of your wife the Fate which will befall the people of Sodom will befall befall her as well their appointed time is in is the morning is not the morning near yeah so that's that's the the summary of the story obviously another P of Quran shows that they there the people have been they obviously drunk and in an excited state and the angels blind Ed them so they were not able they were touching the walls trying to find the door during that mess lot and family departed maybe from the back door we can imagine that obviously that would not waste time with such small details which you can figure and imagine back door side door fly over it doesn't matter they departed and he told don't look back obviously uh he understood it very so nobody should turn back and see what's happening or maybe it's metaphorically except your wife she will be looking back because she is internally connected with the people she is a traitor and she will be falling with the same Calamity like they will before the people of L their appointment is the morning next morning isn't the morning nearby is near is not there's not very much much time because that whole Affair at the door and so on is going on for for the Quran summarize it in a sentence which take maybe five 5 20 seconds to but it was going be several hours back and forth and there was a movie in which that's depicted and then when most of the night was gone near near the morning then L was was shown by the Angels you don't we are the the messenger of your lord they will never be able to get anywhere just leave with your family with the household and don't turn except your wife you turn to see because she is she want to see what's happenening to them the others no know they trust Allah's punishment is coming and the people will be exterminated so they don't need to turn and reality nobody turn except the wife of L because he will be befen with that them and this will be in the morning isn't the morning nearby it it is now the wife of lot is an example of a a woman betraying there's even some some people speculate that she may be the one who because he when he when the Angels Came he was tending his his his farm outside the city and then when you saw these beautiful young men said we we want to spend the night with you we hear this this place is dangerous and people will be can be intercepted and raided can you give us protection so he got stuck he has to take them said okay so he delayed his going until the night fall so he can sneak in the city so so go some narration and stories and then reaching home safely the wife is the one who communicated with her own people are there look is Haring beautiful young men come enjoy yourself so he's a traitor that's her betrayal most likely and the Quran gives give her and the wife of no as examples for disbelieving disbeliever generally men and women in in the latest Sur of the Quran that Allah give an example for the Believers the wife of no and the wife of L they were married to to two of our rightous servants but they committed treachery they betrayed them some people thought treachery means here something cheating some like husband no that's not it's a streetery and in ideological in belief sense then these two righteous hband could not help them and they both of them were were told would be told or you told already unn their death enter the hell fire with with those who will enter nobody can help you anymore and the example of the believing woman are the wife of Fon and the wife and Mar the mother of Christ these are example the top example in history of believing woman which the Quran give us an example anyway go back here now obviously lot is reled they recognized that these beautiful soft looking almost gayl looking young men are really very tough devastating angels and they will they will annihilate that that place there's no way there's no Escape you see that obviously lot could not was not even in spirit or the mood to appeal or do anything it was just barely hoping to escape next.
+
+##  14:67.36s -  "As though they had never lived there"
+**Category:** Quran
+
+[Music] a first translation and when our judgment came to pass we turned those sinful towns upside down and rain down upon them Stone hard blows of Chast ement pre-ordained upon one upon another next translation when our judgment came about we turned those sinful towns upside down and rain down on them stones of hard clay layer after layer which were translation says which were and then um it seems to be linked to the iron next so do you just say both of them no no okay okay okay so it say ends on which were no no which where that's that's maybe explanation what is the layers on layer and okay okay well this this this particular translation only ends here so this is when our judgment came about we turned those sinful towns upside down and rain down on them stones of hard play lay after layer and in bracket switch were so we can we can end there layer after layer okay so that's that's what has happened when in the morning came uh it seems volcanic eruption and in Old Testament ibraim was watching from far because is the high plane and these are in in the deep valley at the end of the Dead Sea in the South End of De sea and recently these these annihilated cities and traces of volcanic eruption and and Volcanic ashes which were at the time somehow mixed with with liquids and that's the reason SC they have been they have been showered down with asphal or zift asphal like like thick uh like what you get from the earth because the people know there was some places where you get petroleum and oil black oil coming from the ground it looks black like like the pavement of the street nowadays but more softer so that's but it was hot and destructive and they were annihilated so places have been found in and but the places not even in time past but the the digging out and archaeology has shown that this place has been destroyed by something like a volcanic eruption something like that at the South tip of the Dead Sea next.
+
+##  14:82.76s -  "Designated by your Lord"
+**Category:** Quran
+
+Ayah first first translation marked out in thy sustain sight for the punishment of such as are lost in sin and these blows of God will Doom are never far from evildoer next translation designated by your lord to punish Sinners such punishment is never far from the unjust that's two parts first for that was happen these this punishment is is dedicated and allocated to these special Sinners of L but the Quran make a side kick or side War warning and such a punishment is not far away from the the wicked and unjust one qur listen everyone listens don't think you are far away from punishment any moment such a punishment come before anybody so be alert it's not there no free lunch yeah be alert that can be any any any sinful sinful city or a sinful place especially those who are committing such Grievous crimes like this were committed by the people of rejecting the messenger rejecting Allah's Commandments making Haram Hal that's The Reason by the way just me comment some you find some some symol minded I think of some wab say that that sodomi is an act of no it's not is a sin like any other sin actually is less severe in principle than than for adter and fornication for various reason you can scan the Quran see that but what what is the problem with the PE of lot the problem is that they decided they can Define good and evil and legislate for themselves and declare that to be permissible and nice and they have even adopted that to do it publicly in their Gathering and in their clubbing and so on that's it they they they did not submit to Allah's commands which either commanding something or breing something they made themel leg just Latos and beside our they made themselves the one who Define what's good and bad what is acceptable unacceptable which is a privilege of Allah only and exclusively so that's the CER the CER is really denying rulership of Allah in the story there but also in the Old Testament there's no mention of any Idols nothing it seem to be in the in the formal sense in the technical sense they seem to be non Pagan but they are not monotheist because they attribute to themselves the right of rulership and this is another form of sh which you some people think they were monist but they no it's they were not monist but they were non Pagan they didn't have Idols they have IDE but they made themselves FL beside Allah that's their sh and their and then increased to a level that they even they attacking the the prophet and trying to take the messenger and try to take his guest and uh force them or or use them for for their abomination next.
+
+##  15:25.40s -  Punishment of Sodom
+**Category:** Quran
+
+Ayah question you know the the punishment of this is there any kind of implanation as to what the punishment was no there's no nothing some people claim because they have been thrown from up and so on by Allah that's the punishment that's Allah punish any way he likes for for example is that a punishment for a tyrant let him drown no no this is all nonsense Allah in terms of geological form like for example volcano whatever it may be anything we can ascertain in terms of from a geological perspective as to what actually happened an eruption but any that mean I I mean wise to deduce from that that these people will be that people committing something like that and making should be punished by by for example by showered by stones or thrown from my up and followed by Stone like some Scholars Claim Claim by some scholar th there's no no no evidence for that no warranty whatsoever for that especially talking about you need to have absolute goty evidences yeah.
+
+##  15:43.48s -  "They lay lifeless in their homes"
+**Category:** Quran
+
+Yeah next ay the story of ended there what happened to him and so on and he joined ibraim again and so on that's all in the Old Testament which is for the score of the quranic message is not very relevant not that much such details are of no relevance in the Quran some details are sometime mentioned to show that what is the in the old scripture and the Old Testament that what is there is maybe fabricated Maybe not correct and to clarify them like for example in the story of sa and and and uh the discussion was the the main focus that the people asked for a king so that they can perform Jihad not because they want Kingdom allegedly that's why they came forward with it and in the discussion of Samuel in the Old Testament Allah Expos them that they don't want Allah to be their King they want they want to they want a king because some of them also buying for them for Kingdom so when tal was was appointed they said how come that he he doesn't have much money and for him wealth is a real and some some of them are quite wealthy and they were thinking they will be kings that but their Hope was dashed and then talut was was appointed because he has strong stronger body and which is suitable for Jihad you claim you want to be fighting behind the king so the king who is Cable Jihad and fight will be prepared secondly he he has more knowledge he a knowledgeable man and that's needed for leadership and so so they were shut up but but interesting the Quran mentioned that when we when he separated with the believer him he told them that Allah will test you with a river you should not drink from it he want to test their their their commitment and the Str except just take one handful just to extinguish you that that's all just and then many of them they drank so he tell them you go back you are not you are not disciplined you are not worthy ofing the but that story is not in the book of samel attributed to toal it's actually attributed to J in the Book of Judges so conclusion why the mission this this this test it's relatively a minor isue yes it is shows that's important to to have people going to the battlefield who are really committed and though who's not committed should be sent back you not join not joining me there's no no obligatory DFT in Islam not even previous besid it's counterproductive you don't if you get people in the battlefield who are not devoted and committed yeah it is you have the precondition of losing and people running away doesn't work this way especially if you are fighting for the cause of Allah you have to Beed to the cause not for or something that but why mention such such a special episode to show that the story The Testament that is lacking in it must be must have been removed there and either attributed to J or it may have been he is following the example of J J had a such occasion and he tested the people the same way so he repeat the same test so the one for J does be rejected as not happening it may happen but he applied the same thing to test the people but that has been red why because the writing of the Old Testament is is obviously written mostly by the party of who claim to be anti and they we two two parties and also the descant of talut they claim to have the are the legitimate King and they took the Northern State Israel while the descendant of of D took theia capital city of of Jerusalem where the nor State the capital city was jerim or something near near na C naus so you can expect with such a long history of hostility and partisanship that this the people will be Tumbling With the scripture according to their desire but this that we conclude now but the mere fact that it is not there is clearly that this had been removed it's an important aspect and also the fact that that one of sign that the tabut the Ark of the Covenant will be brought back carried by the Angels now carrying with the angels in the in the book of samel it claims that the Ark of Covenant was put on on a on a on a carriage P by two by two two oxen and for some unexplained reason the the the people of go push them to them without any fight how can it happen that they put it and send it and P on a carriage by by two oxen well the Quran says clearly it's carried by the Angels if it's carried by the Angels most likely it come flying in the sky so you can see it would be an ay clear evidence that that he's a legitimate King appointed by Allah is cannot be evidenced by two two oxen pulling a a carriage with with a with a with a AR of the Covenant on top of it to add himself to injury say the people of of the am Amica they put it there and send it back to S without 25 that doesn't make sense story is really clearly fabricated and the story about the correct story that was really a miraculous re re regaining of the Arc of the Covenant that that is is the correct one what the Quran says correcting that that that deliberate because that cannot be a mistake just Omission it's too significant to be omitted by by mistake or by forgetfulness it must have been clipped out edited out deliberately by some anti faction and that's exactly what we have in our hand yeah so that's that's sometimes say Quran mentioned a bit of things just to clear clarify issues which but what happened to R after that and where he set it and so is of little relevance for anything related to Revelation and so on and so the Quran does not address that next now now it comes to the people of M so we have obviously we have a chronological then ibraim and Truth at the same time and then we have after that uh the people of Madan coming and it's before the time of M the chrony is very clear so next a
+
+## https://www.youtube.com/watch?v=ABYBKHgNUrE
+
+## What is the latest on the West Bank situation? 
+**Category:** News
+
+**Timestamp:** 4.44s
+
+The speaker is discussing the recent developments in the West Bank and how tensions seem to be escalating. He mentions the use of significant Israeli forces, including several brigades, suggesting a major military operation. This operation has involved airstrikes and bombings, particularly in Jenin, a known hotbed of resistance. 
+
+
+## Why is the current situation in the West Bank significant?
+**Category:** Analysis 
+
+**Timestamp:** 10.84s 
+
+The speaker highlights that the current situation is significant because it represents a departure from the previous focus on maintaining Palestinian unity. The Palestinian Authority and various groups have traditionally stressed avoiding internal conflict, but this focus has now been challenged due to the actions of a specific group, referred to as "THS," who have separated from the main Palestinian factions.  
+
+
+## What are the legal and religious considerations regarding THS?
+**Category:** Law & Religion
+
+**Timestamp:** 104.04s 
+
+The speaker addresses the legal and religious implications of THS's actions. He notes that some people are seeking guidance on how to approach this group, as they deviate from traditional Palestinian unity efforts. The speaker emphasizes the importance of clear religious and legal frameworks to address this new development. 
+
+## What are the implications of the recent attacks in the West Bank?
+**Category:** Implications
+
+**Timestamp:** 222.319s
+
+The speaker argues that the recent events in the West Bank could lead to a breakdown of Israeli society, culminating in a civil war. This scenario involves intensified conflict within Israel itself, with settlers confronting Palestinians in both the West Bank and within Israel. This, according to the speaker, would make reliance on external military interventions like airstrikes or nuclear weapons impractical, leading to a more localized and brutal conflict. 
+
+## What is the significance of the growing presence of drones in the West Bank?
+**Category:** Technology
+
+**Timestamp:** 523.159s
+
+The speaker highlights the growing role of drones in the West Bank conflict, noting that their use is changing tactics.  He mentions videos circulating that offer advice on counter-drone strategies, including using tires, blankets, and other simple methods to impede their surveillance capabilities. The speaker emphasizes that these tactics are often more effective than relying on weapons and can be utilized even against tanks. 
+
+## What is the speaker's view of the Palestinian Authority's involvement in the recent killings?
+**Category:** Allegations
+
+**Timestamp:** 623.8s
+
+The speaker expresses uncertainty about the Palestinian Authority's exact role in the recent killings of Palestinians. While he acknowledges that the Authority was present during the operation, he is unsure whether they were directly involved in the executions or simply acting as a shield for the Israeli forces. 
+
+## Why is the speaker critical of the Palestinian Authority?
+**Category:** Critique
+
+**Timestamp:** 737.56s
+
+The speaker argues that the Palestinian Authority's actions are inconsistent with their claimed identity as Palestinians and Muslims. He contends that their cooperation with Israeli forces, including acting as shields during operations that lead to the deaths of Palestinians, makes them effectively part of the Israeli entity. This, according to the speaker, disqualifies them from being considered Palestinians or Muslims, as their actions contradict these identities.  
+
+## How should the Palestinian Authority be viewed in light of their actions?
+**Category:** Classification
+
+**Timestamp:** 833.519s
+
+The speaker argues that the Palestinian Authority should be viewed as a belligerent enemy. He justifies this by stating that their cooperation with Israel in suppressing Palestinians, particularly Muslims, amounts to an act of betrayal of Islam. Consequently, they should be treated as an enemy and engaged with accordingly, until they cease their hostile actions. 
+
+## Why is the speaker critical of Hamas's approach to the current situation?
+**Category:** Critique
+
+**Timestamp:** 948.319s
+
+The speaker criticizes Hamas for failing to fully embrace a clear distinction between Palestinians and those collaborating with the Israeli forces. He argues that Hamas's historical emphasis on Palestinian unity, even in the face of treachery, has hindered them from adequately addressing the issue. He suggests that they need to adopt sharper language and actions to decisively target those cooperating with the enemy, even if this breaks from past principles of unity.
+
+## What are the speaker's thoughts on the potential for Iran to launch retaliatory attacks?
+**Category:** Prediction
+
+**Timestamp:** 1500.159s
+
+The speaker believes Iran's retaliatory strikes will involve coordinated drone and ballistic missile attacks. He suggests that Iran will likely target Israeli oil and energy facilities, mirroring the Israeli attacks on Iranian facilities in Yemen. He adds that while Iran has a significant number of ballistic missiles, they won't be used indiscriminately, and a coordinated effort with Hezbollah will likely be involved to maximize impact. 
+
+## Why does the speaker believe Iran's retaliation will be a drone attack?
+**Category:** Tactics
+
+**Timestamp:** 1552.0s
+
+The speaker suggests that Iran's retaliation will primarily involve drone attacks, either launched from the sea or from the mountains, similar to previous operations. He expects that the Israeli air defense system will engage the drones, creating an opening for Iran to simultaneously launch ballistic missiles to inflict significant damage on Israel. 
+
+## How does the speaker characterize the actions of the Western countries?
+**Category:** Critique
+
+**Timestamp:** 1639.159s
+
+The speaker refers to the Western countries, particularly the US and UK, as "Western criminals." He criticizes their hypocrisy regarding environmental concerns, claiming that their concern for potential ecological damage from a burning tanker is insincere, as they exhibit no similar concern for the plight of Palestinians in Gaza. 
+
+## What is the speaker's view on the potential for a ceasefire?
+**Category:** Negotiations
+
+**Timestamp:** 1791.32s
+
+The speaker does not believe a ceasefire is imminent. He states that Iran is waiting for a finalization of the ceasefire, but the absence of such an agreement does not necessarily force their hand. He believes that Iran will act regardless of any Western or Israeli attempts to downplay the situation. 
+
+## What is the speaker's analysis of the current military posture of the US and Israel?
+**Category:** Military Analysis
+
+**Timestamp:** 1891.919s
+
+The speaker notes that the US and Israel are currently engaged in muscle-flexing, attempting to intimidate opponents with their military presence. He argues that this approach is ineffective, as history has shown that the US, even with superior firepower, has been unable to achieve decisive victories in recent conflicts, particularly in Afghanistan. He emphasizes that the military buildup is largely symbolic, as the US forces in the region are inadequate to achieve significant military goals. 
+
+## How does the speaker characterize the situation in Iraq and Syria?
+**Category:** Conflict Analysis
+
+**Timestamp:** 2000.679s
+
+The speaker critiques the current situation in Iraq and Syria, where the US continues to fight against ISIS despite the group's origin as a Western intelligence tool. He argues that ISIS was initially used to weaken Shia Muslims in Iraq and later to counter the Syrian revolution. He believes the current efforts to combat ISIS are a facade, intended to maintain US influence in the region and justify further intervention.
+
+## What is the speaker's view on the possibility of a solution in Iraq and Syria?
+**Category:** Prediction
+
+**Timestamp:** 2040.76s
+
+The speaker believes that the situation in Iraq and Syria requires a decisive stand against those who continue to manipulate the situation, particularly the US. He suggests that the Iraqi government should adopt a more assertive stance, similar to how the Palestinian Authority is dealing with internal collaborators, to remove the US from the region. 
+
+## What is the speaker's view on the future of the Israeli entity?
+**Category:** Prediction
+
+**Timestamp:** 2143.2s
+
+The speaker believes that the Israeli entity is on a path towards collapse. He predicts a future of urban warfare within the West Bank, which will be extremely bloody for Israel. While he admits that the timeline is uncertain, he believes the process is inevitable, and that Israel will likely not last more than a few years.  
+
+## Why does the speaker believe Israel's collapse is inevitable?
+**Category:** Reasons
+
+**Timestamp:** 2185.0s
+
+The speaker identifies several reasons for Israel's inevitable collapse. He argues that external support from Arab countries and Iran will be insufficient to save Israel, as both will focus on internal struggles. He also believes that Israel's internal divisions, including within the West Bank and Palestinian communities, will be insurmountable and will lead to a civil war. 
+
+
+## https://www.youtube.com/watch?v=zCuIv2x3_AA
+
+## What is the format of the session? 
+**Category:** Format 
+The session will start with a brief introduction and then delve into the main topic.  After that, there will be an update and then open Q&A.
+
+## Why do you ask people to register their name on Zoom?
+**Category:** Zoom 
+It encourages greater participation, discussion, and engagement. It also helps to protect people from nefarious individuals, which has been a problem in the past. 
+
+## What are the benefits of attending the session live?
+**Category:** Benefits 
+The session allows for a more in-depth exploration of the topic, covering many areas and making connections between seemingly unrelated issues. The format also allows for questions and discussion. 
+
+## Why is it important to have open discussion and critique?
+**Category:** Critique 
+It is important to have open discussion and critique because it allows for the strongest point of view to emerge.  The speaker states that they are not the kind of people who hide from discussion or claim to have the absolute truth. They believe in seeking truth and are open to any perspective, even from enemies. 
+
+## What is the meaning of "we do not believe in it although the way which those evildoers of olden times had to go has long been within their Ken quite undecipherable"?
+**Category:** Quran 
+The speaker explains that the message of the prophet is being rejected, similar to how earlier prophets were mocked and rejected. The speaker uses the example of going to America and telling people that homosexuality is wrong - they would be shocked and resistant to the idea. 
+
+## How does the speaker interpret the phrase "in that way we insert Discord into the hearts of those who Force others to reject our messages"? 
+**Category:** Quran 
+The speaker interprets this phrase as meaning that those who reject the message of the prophet often do so because they are engaging in certain crimes, such as rejecting the truth of God's Oneness or engaging in behaviors like homosexuality.  These individuals, because of their crimes, will react with mockery and rejection. 
+
+## What is the difference between the reaction of a criminal to a message and the reaction of someone who is not a criminal? 
+**Category:** Quran 
+Those who are not criminals will react to a message with a sense of uncertainty and a desire to investigate the evidence.  They will seek to understand the truth.  On the other hand, criminals will react with mockery, rejection, and a sense of superiority. They are not open to considering the evidence. 
+
+## What is the meaning of "yet even had we opened to them a gateway to heaven and they had ascended on and on up to it"?
+**Category:** Quran 
+The speaker is emphasizing that even if the prophet were to perform miracles, such as opening a gateway to heaven, those who have already made up their minds to reject the message would still find a way to dismiss it.
+
+## How does the speaker interpret the phrase "they would have said it is only our eyes that are Spellbound, nay we have been Bewitched"?
+**Category:** Quran 
+The speaker interprets this as meaning that people would claim that their vision is clouded, or that they are under a spell. This is a way of rejecting the message and dismissing the evidence.  The speaker also notes that this could be interpreted as a metaphorical expression for being deceived by trickery or illusions, rather than a literal satanic influence. 
+
+## What is the meaning of "we have placed constellations in the sky and have beautified It For The Observers"?
+**Category:** Quran 
+The speaker explains that the beauty of the constellations is due to the structure of the solar system and our location within the Galaxy.  The speaker highlights the beauty of the Milky Way, which is visible due to the density of stars in that area.
+
+## What does the speaker mean by saying that the heavens are protected from every satanic force? 
+**Category:** Quran 
+The speaker interprets this phrase as meaning that the heavens are protected from all kinds of evil, corruption, and destructive forces.  The speaker uses the example of the black hole at the center of the galaxy, which is a powerful force, but it doesn't threaten our solar system.  
+
+## What is the speaker's opinion on the nature of the Devil?
+**Category:** Quran 
+The speaker believes that the Devil exists both as a personified entity and as a metaphorical representation of evil thoughts and psychological states. The speaker emphasizes that the heavens are protected from all kinds of evil forces. 
+
+## How does the speaker interpret the phrase "and provided them there on means of livelihood for you oh men as well as for all living beings whose sustenance does not depend on you"?
+**Category:** Quran 
+The speaker interprets this phrase as meaning that God provides for all living things, including those that are not reliant on humans. He points out that the Earth has been designed to sustain life in a balanced manner.
+
+## How does the speaker interpret the phrase "for no single thing exists that does not have its source with us and not do we bestow from on high unless it be in accordance with a measure well defined"?
+**Category:** Quran 
+The speaker interprets this phrase as meaning that all things are under the control of God, and He provides for them in accordance with a specific measure. He uses the example of the creation of heavier elements through the process of nuclear fusion in stars.
+
+## How does the speaker interpret the phrase "we have the storehouse of everything that exists and we send it down only in a known measure"?
+**Category:** Quran 
+The speaker interprets this phrase as meaning that God has a plan for everything, and that all things are provided according to His design. He uses the example of the creation of heavier elements in stars and how they are eventually dispersed into space, providing the building blocks for planets and life.  
+
+## How does the speaker respond to the claim that iron was created outside of the Earth?
+**Category:** Quran 
+The speaker acknowledges that iron could be said to have originated in the stars and then been dispersed to Earth, but he emphasizes that the word "anzela" (meaning "sent down") doesn't necessarily have to be interpreted literally.  He suggests that it could be a metaphorical expression for the process of creation and distribution of elements.
+
+## How does the speaker interpret the phrase "and we let loose the winds to fertilize plants and we send down water from the skies and let you drink thereof and it is not you who dispose of its source"?
+**Category:** Quran 
+The speaker interprets this phrase as meaning that God provides for all living things, and that humans are not in control of the natural processes that sustain life. He highlights the role of wind in seeding clouds and producing rain.
+
+## What is the speaker's opinion on the scientific accuracy of the Quran? 
+**Category:** Quran 
+The speaker believes that the Quran is scientifically accurate, and that it contains information that was not known to humans at the time of its revelation. He cites the example of the Quran's mention of wind seeding clouds, which was a relatively recent scientific discovery. 
+
+## How does the speaker interpret the phrase "and well do we know the hearts and deeds of all human beings both those who live before you and those who will come after you"? 
+**Category:** Quran 
+The speaker interprets this phrase as meaning that God knows the hearts and deeds of all people, both past and present. He uses the example of a woman praying in the mosque, and the men who looked at her with lust.
+
+## How does the speaker interpret the phrase "and behold it is I sustainer who will gather them all together on Judgment Day verily he is wise all knowing"? 
+**Category:** Quran 
+The speaker interprets this phrase as meaning that God will judge all people on the Day of Judgement. This includes those who acted righteously and those who acted wrongly. He emphasizes that God is just and knows all things. 
+
+## What is the speaker's opinion on the origin of the story of Adam's creation?
+**Category:** Quran 
+The speaker believes that the story of Adam's creation, as presented in the Quran, is a true account. He emphasizes that the process of creation may have taken billions of years, but it is ultimately the act of God. The speaker points out that the creation of Adam from "sounding clay" is a more specific description than the earlier mention of Adam being created from "dust."
+
+## What is the speaker's response to the idea that the story of Adam and the Angels is allegorical? 
+**Category:** Quran 
+The speaker believes that the story is a literal account of a real event, but he acknowledges that some people may interpret it as an allegory for the conflict between good and evil. He emphasizes that the story highlights the absolute authority of God.
+
+## What is the speaker's opinion on the claim that Satan is a fallen Angel? 
+**Category:** Quran 
+The speaker believes that Satan is a real entity, but he doesn't necessarily subscribe to the idea that he was once an angel.  He points out that Satan was present when the angels were ordered to prostrate to Adam, and that he was included in the address to the angels, even though he ultimately refused to obey. 
+
+## How does the speaker interpret the phrase "go forth then from this in Brackets Angelic state for behold Thou Art henceforth a cursed"? 
+**Category:** Quran 
+The speaker interprets this phrase as meaning that Satan was expelled from the Divine presence for rejecting God's command. The speaker emphasizes that Satan's rejection of God's command is a fundamental flaw in his logic and rationality. 
+
+## What is the speaker's response to the claim that Satan was expelled from Paradise?
+**Category:** Quran 
+The speaker believes that Satan was expelled from the Divine presence, but he doesn't necessarily believe that he was expelled from Paradise. He emphasizes that the story is a literal account of a real event, and that Satan's rejection of God's command is a fundamental flaw in his logic and rationality. 
+
+## How does the speaker interpret the phrase "and my rejection and my rejection shall be thy due until the day of judgment"?
+**Category:** Quran 
+The speaker interprets this phrase as meaning that Satan is cursed until the Day of Judgement. He highlights the certainty of the Day of Judgement and the need for humans to be prepared for it.
+
+## How does the speaker interpret the phrase "said El then oh my sustainer grant me a respite till the day when all shall be raised from the dead"?
+**Category:** Quran 
+The speaker interprets this phrase as meaning that Satan asked God for a delay in his punishment. He believes that Satan likely thought he could deceive God or manipulate the situation, but God granted him respite. 
+
+## How does the speaker interpret the phrase "upon where said oh my sustainer thou since thou Hast thwarted me I shall indeed make all that is evil on Earth seem goodly to them and shall most certainly beguile them into Grievous error"?
+**Category:** Quran 
+The speaker interprets this phrase as meaning that Satan, having been rejected by God, vowed to make evil appear attractive to humans and lead them astray. He points out that Satan is blaming God for his own actions and that he is planning to take revenge on Adam, who he sees as being favored by God. 
+
+## How does the speaker interpret the phrase "all save such of them as are truly thy servants"? 
+**Category:** Quran 
+The speaker interprets this phrase as meaning that Satan will not have power over the sincere believers who follow God's commands.  He emphasizes that these are individuals who have been purified and chosen by God.
+
+## How does the speaker interpret the phrase "said he this is with me a straight way"? 
+**Category:** Quran 
+The speaker interprets this phrase as meaning that God has provided a straight path for those who seek to follow him.  He emphasizes that God is the source of truth and that He will fulfill His promises.
+
+## How does the speaker interpret the phrase "verily Thou shalt have no power over my creatures unless it be such as are already lost in Grievous error and follow thee of their own will"? 
+**Category:** Quran 
+The speaker interprets this phrase as meaning that Satan has no power over those who are sincere believers. He can only influence those who have already lost their way and who choose to follow him. 
+
+## What is the speaker's opinion on the story of Job in the Old Testament? 
+**Category:** Old Testament 
+The speaker believes that the story of Job, as presented in the Old Testament, is a fabrication. He points out that there is no mention of this story in the Quran, and that the story contradicts the Quran's portrayal of Satan. He believes that the story was created to address the problem of evil, and that it attempts to explain why good people sometimes suffer while bad people prosper.  
+
+## What is the speaker's opinion on the Old Testament and New Testament?
+**Category:** Old Testament/New Testament 
+The speaker believes that the Old Testament and New Testament have been corrupted by the scribes and that they do not provide reliable guidance. He points out that the Old Testament contains stories that are not true, such as the story of Job. He also critiques the way that Jesus was elevated to a divine status in the New Testament. 
+
+## What is the speaker's opinion on free will? 
+**Category:** Free Will 
+The speaker believes that humans have free will, and that their actions have consequences. He uses the example of Pharoah to illustrate this point. The speaker argues that if God's knowledge of the future was absolute and unchanging, then God would be deceiving Moses and Aaron by giving them a mission that was destined to fail. 
+
+## How does the speaker interpret the phrase "with seven Gates leading into it each gate receiving its a lotted share of Sinners"?
+**Category:** Quran 
+The speaker interprets this phrase as meaning that there are seven gates to Hell, and that each gate is for a different category of sinners. He emphasizes that Hell is a place of unimaginable punishment. 
+
+## What is the speaker's response to the claim that there was a successful attack on the Israeli 8200 unit?
+**Category:** Palestine 
+The speaker is skeptical of the claim that the Israeli 8200 unit was successfully attacked, pointing out that major news outlets and even Iranian media have not confirmed the deaths of the unit's leader or the total number of casualties. 
+
+## What is the speaker's opinion on the political situation in Palestine?
+**Category:** Palestine
+The speaker believes that the situation in Palestine is serious and that the Israeli government is becoming increasingly aggressive and tyrannical. He points out that the Israeli government is desperate and that they are likely to escalate their attacks against Gaza.
+
+## What is the speaker's opinion on the political situation in Syria?
+**Category:** Syria 
+The speaker believes that the Syrian government is complicit in the Israeli attacks against the Iranian Revolutionary Guard in Syria. He points out that there have been numerous attacks against the Revolutionary Guard, including the killing of their commanders, and that these attacks could not have been carried out without the cooperation of the Syrian regime.
+
+## What is the speaker's opinion on the political situation in Lebanon?
+**Category:** Lebanon 
+The speaker believes that Israel is likely to attack Lebanon in the near future, citing the failure of negotiations between Israel and Hezbollah and the increasing number of Israeli attacks in the border region.
+
+## What is the speaker's opinion on the importance of engaging in discussion and debate?
+**Category:** Discussion
+The speaker believes that it is important to engage in open discussion and debate in order to arrive at the truth. He encourages people to question him and challenge his ideas, even if they disagree with him. He believes that this process is essential for understanding the truth and for disseminating knowledge. 
+
+## What is the speaker's opinion on the importance of da'wah?
+**Category:** Da'wah 
+The speaker believes that da'wah, the propagation of the message of Islam, is of paramount importance. He argues that we have a responsibility to share our knowledge and understanding of Islam with others, and that this is essential for making a positive impact on the world.
+
+## What is the speaker's opinion on the use of the Arabic language?
+**Category:** Arabic 
+The speaker is a proponent of learning and using the Arabic language, even if it is challenging. He emphasizes that the Quran and other Islamic texts are more authentically understood in Arabic, and that there are many nuances that are lost in translation.  However, he is also open to engaging with those who speak other languages and to finding ways to communicate effectively. 
+
+
+## https://www.youtube.com/watch?v=SKHY-VDUJdM
+
+## 40.57s:  Why are you not on contemporary media platforms? 
+**Category:** Media  
+The speaker argues that the Western media is as bad as the Arab media, but more skilled at spinning and lying. He mentions being interviewed by the BBC and feeling disappointed with the coverage.
+
+## 48.02s:  What about voting and participating in government elections? 
+**Category:** Politics
+ The speaker claims that there is a video that fully explains this, but a short synopsis is not enough. He emphasizes that participation in secular political parties is a no-go, and a clear distinction needs to be made between secular and Islamic law.
+
+## 49.06s: What is the difference between Allah being thankful and humans being thankful? 
+**Category:** Theology
+The speaker explains that Allah doesn't need any help or support and is self-sufficient, so his thankfulness is out of favor for his Creator. Humans, on the other hand, are thankful because they are in need of help and support.
+
+## 50.10s: What is the “mid-prayer” mentioned in the Quran? 
+**Category:** Theology
+The speaker suggests that Allah didn't specify the “mid-prayer” because he wanted us to take extra care of all five prayers. He argues that they are all connected and continuous, so the “mid-prayer” could be understood as the one between yesterday and tomorrow. 
+
+## 51.81s: Why does the Quran mention a “mid-prayer” when the daily prayers are already established? 
+**Category:** Theology
+The speaker points out that the “mid-prayer” mentioned is likely the third prayer, as there must be two prayers before it to reach a total of five. This could be a way to connect space and time in one reference point.
+
+## 57.85s: What is the meaning of "abandoning him" in regards to the ruling on rebelling against a ruler? 
+**Category:** Theology 
+The speaker is unsure about the meaning of “abandoning him” in the context of rebelling against a ruler, especially when it comes from a Shafi perspective. He believes that it could mean removing obedience, but the statement needs clarification from the author.
+
+## 58.87s:  Why does the Quran emphasize that rebelling against a ruler should be based on Islam? 
+**Category:** Theology 
+The speaker points out that this is a key point in the Quran, and rebelling without justification in Islam is considered transgression. He asks for the Arabic origin of the statement in question to better understand its meaning.
+
+## 60.77s: What is the meaning of "abandoning him" in regards to the ruling on rebelling against a ruler? 
+**Category:** Theology 
+The speaker emphasizes that the statement about "abandoning him" doesn't make sense in this context. He believes that the correct interpretation is that rebelling against a ruler should involve enjoining right and forbidding wrong.
+
+## 62.48s: What is the sheikh’s position on the Madhab in regards to rebelling against a ruler? 
+**Category:** Theology 
+The speaker notes that the sheikh is not explicitly referencing a Madhab in his statement, but rather making his own ruling. 
+
+## 69.07s: Why is a narrator being classified as due to the Sahaba? 
+**Category:**  Theology
+ The speaker emphasizes that the term “due to the Sahaba”  is not a definitive classification. He explains that the term “leas” is used when a narrator didn’t directly witness an event but heard it from someone else. He clarifies that this doesn't necessarily mean the narrator is unreliable.
+
+## 70.82s: What are the three types of Riba discussed in the video mentioned? 
+**Category:** Finance 
+The speaker clarifies that Riba, mentioned in the Quran, is not just limited to oppressive lone sharking. He explains that the video mentioned three types: the Draconian type of Riba, which is more like lone sharking, and two other types that involve compounding interest.
+
+## 71.74s: What does the Quran say about declaring war on Riba? 
+**Category:** Finance 
+The speaker clarifies that the Quran does not say that there should be a declaration of war on all types of Riba. He points out that the Quran explicitly states that whatever remains of Riba should be abandoned.
+
+## 72.33s: What are the different interpretations of Riba mentioned in the Quran? 
+**Category:** Finance 
+The speaker explains that the Quran prohibits compounded interest, which is a form of Riba. He mentions that the Quran also talks about Riba in the context of exchanging goods, like dates for dates.
+
+## 79.99s:  What is the correct way to overcome inflation? 
+**Category:** Finance 
+The speaker suggests that contracts should be made in gold nominally to avoid the problems of inflation. He mentions that in some countries, even having a contract expressed in gold is prohibited and can lead to imprisonment.
+
+## 80.33s: Is the interest on bank loans considered Riba? 
+**Category:** Finance 
+ The speaker argues that the interest on bank loans is still considered Riba, even if the money has been transformed into a property. He emphasizes that mortgage contracts are fundamentally loan contracts.
+
+## 81.90s: Why are banks willing to give out loans with interest? 
+**Category:** Finance 
+The speaker explains that banks give out loans with interest because they are expecting a return on their investment. He argues that if there were no interest, banks would not be incentivized to lend money.
+
+## 83.14s: Why is the installment contract for buying a car problematic from an Islamic perspective? 
+**Category:** Finance 
+The speaker points out that the installment contract is still a loan contract, even though it is structured in installments. He argues that there is a legal distinction between installment contracts and mortgage contracts.
+
+## 84.39s: Is it permissible to buy a car on finance if the price is higher than the cash price? 
+**Category:** Finance 
+The speaker suggests that it is okay to buy a car on finance if the price is higher than the cash price, as long as both parties agree on the terms of the contract. He clarifies that the dealer doesn’t own the car; it is owned by the bank.
+
+## 89.99s: What is the Islamic ruling on loan sharking in the past? 
+**Category:** Finance 
+The speaker disagrees with the analogy made about lone sharking in the past, claiming that it is not accurate. He mentions that people in debt could be sold into slavery in the past.
+
+## 90.52s: What is the Islamic perspective on constitutional monarchy? 
+**Category:**  Politics
+The speaker argues that a constitutional monarchy is not compatible with Islamic principles. He clarifies that rulership cannot be inherited and that the ultimate authority belongs to Allah.
+
+## 98.89s: What is the Islamic perspective on evil eye? 
+**Category:**  Theology
+The speaker points out that the specific Hadith mentioned about the evil eye is not very strong or well-established. He suggests that it’s more likely that the evil eye is a result of the mind affecting the body, and that scientific research could be helpful in understanding this phenomenon.
+
+## 101.10s: Is there any evidence that people can be affected by the evil eye? 
+**Category:**  Theology
+The speaker shares an anecdote about a friend who experienced a change in their child’s behavior after someone looked at them, and how this changed his perspective on the evil eye. 
+
+## 103.91s: What is the meaning of the ayah that mentions Allah’s creation of all things? 
+**Category:**  Theology
+The speaker suggests that the ayah mentioning Allah’s creation of all things could be interpreted as a reference to Allah’s power over all possible contingencies, not just those that are discreet. He believes this interpretation is deeper and more general. 
+
+## 106.20s: What is the meaning of the ayah that mentions Allah’s creation of all things? 
+**Category:**  Theology
+The speaker clarifies that this ayah could also be interpreted as a reference to Allah’s power over all living things. However, he believes the interpretation about all possible contingencies is more befitting. 
+
+## 108.70s: How does Dua affect the decree? 
+**Category:**  Theology
+The speaker explains that Dua can indeed affect the decree, as it can even fight against the decision that has been made. He emphasizes that everything is ultimately under Allah’s control.
+
+## 110.01s: What is the Islamic perspective on human evolution? 
+**Category:**  Theology
+The speaker says that he doesn’t have a problem with the theory of evolution, even if Adam is considered a new creation. He believes that Adam's creation was a separate event from the evolutionary process. 
+
+## 114.29s: What is the meaning of the term “mu’allaq” in regards to narration? 
+**Category:**  Theology
+The speaker explains that “mu’allaq” means that the narrator is not 100% sure about the reliability of the narration. He clarifies that this doesn’t necessarily mean that the narration is completely unreliable.
+
+## 115.63s: What was the political nature of the Da’wah of Prophet Muhammad (peace be upon him)? 
+**Category:**  Theology
+The speaker states that the Da’wah of Prophet Muhammad (peace be upon him) was inherently political because it challenged the existing power structures and defined a new way of life, based on Islamic principles. 
+
+## 117.63s: Is the Ansar’s protection of Prophet Muhammad (peace be upon him) a justification for rebelling against rulers? 
+**Category:**  Theology
+ The speaker clarifies that the Ansar’s protection of Prophet Muhammad (peace be upon him) is not a justification for rebelling against rulers. He emphasizes that the Quran states that Muslims should only rebel against a ruler if they command Haram publicly or commit other acts of oppression.
+
+## 119.73s: What is the correct way to understand the concept of Allah’s attributes? 
+**Category:**  Theology
+The speaker rejects the argument of Al-Albani, which claims that Allah’s attributes can be understood by comparing them to human attributes. He explains that Allah’s attributes are unique and not composed of separate entities.
+
+## 121.68s: What is the meaning of “Ya” (hand) in the Arabic language? 
+**Category:**  Theology
+The speaker points out that “Ya” in Arabic is used to emphasize that an action was done by a person, not by someone else. It’s not just a word for “care” or “attention,” as some people mistakenly believe. 
+
+## 122.70s: What is the Islamic perspective on creating a state? 
+**Category:**  Theology
+The speaker argues that when Muslims are in a majority in a specific location, they are obligated to establish a state. He emphasizes the importance of establishing a system of justice and accountability within the state.
+
+## 124.70s:  What is the Islamic perspective on the current situation in the Muslim world? 
+**Category:**  Theology
+The speaker believes that the current situation in the Muslim world requires Muslims to take matters into their own hands and establish a system of Islamic rule. 
+
+## 127.01s:  How do we understand the metaphorical language in the Quran? 
+**Category:**  Theology
+The speaker emphasizes that understanding the primary and fundamental concepts of the Quran is crucial. He explains that understanding metaphors can be difficult, but focusing on the primary concepts can lead to a deeper understanding.
+
+## 129.99s:  How do we understand the concept of Allah’s knowledge? 
+**Category:**  Theology
+The speaker rejects the argument of Al-Albani, which claims that Allah’s knowledge can be understood by comparing it to human knowledge. He emphasizes that Allah’s knowledge is infinite, unlike human knowledge, which is finite. 
+
+## 131.29s: What is the Islamic perspective on the Hadith that says that Allah created Adam in His image? 
+**Category:**  Theology
+The speaker accepts the validity of the Hadith, which states that Allah created Adam in His image, but interprets it metaphorically. He explains that Allah is pure mind and will, and that Adam’s image reflects this aspect of Allah’s being.
+
+## 138.05s: What is the Islamic perspective on the number “one” used to describe Allah? 
+**Category:**  Theology
+The speaker explains that the number “one” used to describe Allah is not just a prescriptive term, but a fundamental concept that reflects the unity and oneness of Allah. 
+
+## 142.87s: What is the Islamic perspective on the concept of “al-qada wa al-qadar” (the divine decree)? 
+**Category:**  Theology
+The speaker emphasizes that the concept of the divine decree does not negate the importance of Dua (supplication). He explains that Dua can affect the decree, and that ultimately, everything is under Allah’s control. 
+
+## 146.75s:  What is the Islamic perspective on free mixing between men and women? 
+**Category:**  Social
+The speaker argues that free mixing between men and women is not prohibited in Islam, as long as there is no seclusion or discussion of sexual matters. He mentions that there are specific prohibitions against talking about sexual matters in the presence of women. 
+
+## 157.88s: Does the Islamic perspective on “al-qada wa al-qadar” (the divine decree) apply to the life of angels and Jinns? 
+**Category:**  Theology 
+The speaker believes that the concept of the divine decree could be interpreted as applying to all forms of life, including angels and Jinns. 
+
+## 161.15s:  What is the Islamic perspective on evil eye? 
+**Category:**  Theology 
+The speaker explains that the evil eye is a real phenomenon, but it's not as simple as someone striking you with their eyes. He believes it’s more likely that the evil eye is a result of negative thoughts and energy, which can affect the body.
+
+## 167.28s: Is there any evidence that the evil eye is a real phenomenon? 
+**Category:**  Theology 
+The speaker shares another anecdote about a nuclear chemist friend who witnessed their baby being affected after someone looked at them, and how this convinced him that the evil eye is real.
+
+## 170.92s: How do we deal with the ambiguity of the evil eye? 
+**Category:**  Theology 
+The speaker suggests that it's important to avoid excessive criticism of others on the issue of the evil eye, as it is a sensitive and somewhat ambiguous area. He recommends doing research on the mind-body interaction and looking into the handbook of parapsychology. 
+
+## 172.01s: What is the Islamic perspective on Jinn entering the body? 
+**Category:**  Theology
+The speaker believes that the idea of Jinn entering the body is not a simple explanation for the phenomenon of possession. He suggests that it’s more likely that the person is experiencing psychological distress and using different voices.  
+
+## 178.97s: Is it permissible to work for a grocery store that sells Haram items? 
+**Category:**  Social
+The speaker argues that it is not permissible to work for a grocery store that sells Haram items, such as alcohol or pork. He believes that doing so would constitute participation in the Haram.
+
+## 183.68s: What is the correct angle for Salat (prayer)? 
+**Category:**  Social
+The speaker believes that the correct angle for Salat is 15 degrees, not 18. 
+
+## 186.93s:  What is the Islamic perspective on using a specific angle for Salat (prayer)? 
+**Category:**  Theology
+The speaker explains that the correct angle for Salat is not clearly defined in Islamic texts and is open to interpretation. He believes that the optimal time for Salat is during the third part of the night.
+
+## 191.57s: What is the Islamic perspective on the concept of "al-qada wa al-qadar" (the divine decree)? 
+**Category:**  Theology
+The speaker believes that the concept of the divine decree could be interpreted as a reference to all possible contingencies, which are a continuum of events, rather than just discreet events. 
+
+## 193.29s: How do we understand the role of Dua (supplication) in changing the decree? 
+**Category:**  Theology
+The speaker explains that the concept of Dua does not negate the divine decree, but rather allows for the possibility of influencing the decree. He emphasizes that everything is ultimately under Allah’s control. 
+
+## 196.07s: What is the Islamic perspective on human evolution? 
+**Category:**  Theology
+The speaker believes that Adam’s creation was a separate event from the evolutionary process. He clarifies that human evolution is a natural process that does not conflict with the Islamic belief in Allah’s creation.
+
+## 200.94s: What is the Islamic perspective on the Da’wah of Prophet Muhammad (peace be upon him)? 
+**Category:**  Theology
+The speaker reaffirms that the Da’wah of Prophet Muhammad (peace be upon him) was political in nature. He explains that Islam provides guidance for all aspects of life, including politics. 
+
+## 205.30s: What is the Islamic perspective on the concept of "al-qada wa al-qadar" (the divine decree)? 
+**Category:**  Theology
+The speaker reiterates that the concept of the divine decree does not mean that everything is predetermined and that there is no room for free will. He explains that the Quran emphasizes the importance of commanding good and forbidding evil.
+
+## 207.91s: What is the blueprint for establishing an Islamic state? 
+**Category:**  Politics
+ The speaker believes that establishing an Islamic state requires Muslims to embrace Islam and become a majority. This allows for the establishment of a system of Islamic governance, which includes establishing Salat, a system of finance, and a system of accountability for rulers.
+
+## 212.02s: What is the Islamic perspective on the concept of “al-qada wa al-qadar” (the divine decree)? 
+**Category:**  Theology
+The speaker rejects Al-Albani’s argument that Allah’s attributes can be understood by comparing them to human attributes. He clarifies that Allah’s attributes are unique and not composed of separate entities.
+
+## 218.97s: What is the Islamic perspective on the role of political parties in establishing an Islamic state? 
+**Category:**  Politics
+The speaker believes that the role of political parties is to move the Ummah towards establishing an Islamic state. 
+
+## 222.58s: What is the Islamic perspective on the concept of “al-qada wa al-qadar” (the divine decree)? 
+**Category:**  Theology
+The speaker explains that understanding the concept of “al-qada wa al-qadar” involves understanding the primary concepts of Allah’s attributes, such as His knowledge, power, and decree. He emphasizes that this understanding is not dependent on human logic.
+
+## 226.73s: What is the Islamic perspective on the concept of “al-qada wa al-qadar” (the divine decree)? 
+**Category:**  Theology
+The speaker rejects the idea that Allah’s knowledge can be understood by comparing it to human knowledge. He emphasizes that Allah’s knowledge is infinite, unlike human knowledge, which is finite. 
+
+## 229.95s: What is the Islamic perspective on the concept of Allah’s creation? 
+**Category:**  Theology
+The speaker clarifies that Allah’s creation is not limited to a specific method or process. He emphasizes that Allah’s will and power are the ultimate factors in creation. 
+
+## 231.24s: What is the Islamic perspective on the Hadith that says that Allah created Adam in His image? 
+**Category:**  Theology
+The speaker explains that the Hadith about Allah creating Adam in His image is valid, but needs to be interpreted metaphorically. He believes that Allah’s image refers to His attributes of knowledge and will, which are reflected in Adam’s creation.
+
+## 237.97s: What is the Islamic perspective on using the number “one” to describe Allah? 
+**Category:**  Theology
+ The speaker emphasizes that the number “one” is not just a number but a fundamental concept that reflects the unity and oneness of Allah. It’s a concept that is essential for understanding Allah’s attributes. 
+
+
+## https://www.youtube.com/watch?v=-d-GJzG5xbg
+
+## 8.2s: 
+**Question:** What is *jizya* and how is it defined? 
+
+**Category:** Islamic law
+
+**Answer:** *Jizya* is a tax levied on non-Muslims living under Islamic rule who do not convert to Islam. It is a form of tribute acknowledging the authority of the Islamic state and its protection, allowing non-Muslims to live under Islamic law while maintaining their own faith and customs. It is distinct from *zakat*, which is a mandatory charity obligation for Muslims.
+
+## 11.719s:
+**Question:** Is *jizya* a tax in exchange for benefits and services, or is it similar to *zakat*?
+
+**Category:** Islamic law
+
+**Answer:** *Jizya* is not an exchange for benefits and services, but rather a tax that acknowledges the authority of the Islamic state and its protection. While non-Muslims under *jizya* benefit from the services provided by the state, the tax is not a direct payment for those services. *Jizya* is similar to a community tax, akin to council tax in the modern sense.
+
+## 14.599s: 
+**Question:** Do non-Muslims benefit from *zakat* funds in an Islamic system?
+
+**Category:** Islamic law
+
+**Answer:** Non-Muslims do not directly benefit from *zakat* funds, which are allocated to Muslims in need. However, they benefit indirectly from the overall economic and social stability that *zakat* contributes to within the Islamic state.
+
+## 37.0s:
+**Question:** How can people join the *Ters* sessions?
+
+**Category:** Program announcement
+
+**Answer:** People can join the *Ters* sessions via Zoom or watch them on YouTube. 
+
+## 46.36s:
+**Question:** What is the format of the *Ters* sessions?
+
+**Category:** Program announcement
+
+**Answer:** The *Ters* sessions are structured with a *Tafsir* of a portion of the Quran, followed by Palestine updates and then open Q&A.
+
+## 71.0s:
+**Question:** What suggestions are welcome in relation to the *Ters* sessions?
+
+**Category:** Program feedback
+
+**Answer:** The speaker welcomes suggestions for topics that need further discussion in more detail, as well as feedback on the format and content of the sessions.
+
+## 91.24s: 
+**Question:** How can people donate to the *Ters* sessions?
+
+**Category:** Program funding
+
+**Answer:** Donations are welcome and can be made through various mechanisms provided on the channel. 
+
+## 106.759s:
+**Question:** What is the nature of the new *Ters* sessions that will be starting on September 16th?
+
+**Category:** Program announcement
+
+**Answer:** The new sessions will be initially private and on Zoom. They will focus on the core book of the professor, Muhammad al-Masri, *Hisab*, which has been published in English.
+
+## 169.519s: 
+**Question:** When will the new Zoom sessions be starting? 
+
+**Category:** Program announcement
+
+**Answer:** The new Zoom sessions will be starting on September 16th, at 9:00 PM UK time.
+
+## 178.08s:
+**Question:** What points are open for discussion in the *Ters* sessions?
+
+**Category:** Program discussion topics
+
+**Answer:** The speaker mentions that any points in the *Ters* content that are found to be erroneous can be discussed in a structured format.
+
+## 203.64s:
+**Question:** What Surah will the speaker be commencing?
+
+**Category:** Quran recitation
+
+**Answer:** The speaker will be commencing *Surah Ibrahim*, beginning from the first verse. 
+
+## 245.319s:
+**Question:** What is the meaning of the brackets in the Arabic verse?
+
+**Category:** Quran translation
+
+**Answer:** The brackets in the Arabic verse indicate that it is a revelation bestowed upon the Prophet Muhammad, and that it is a message for all mankind. 
+
+## 283.16s: 
+**Question:**  Is the meaning of the first verse clear?
+
+**Category:** Quran discussion
+
+**Answer:** The speaker believes the meaning of the verse is self-evident and clear, and therefore does not require extensive discussion.
+
+## 311.039s: 
+**Question:** Why does the speaker not comment on the meaning of the letters in the verse?
+
+**Category:** Quran discussion
+
+**Answer:** The speaker refrains from commenting on the meaning of the letters due to the vast number of viewpoints and interpretations, as well as the difficulty of finding a definitive explanation.
+
+## 331.319s:
+**Question:** What are some of the issues discussed in the first letter of the Surah? 
+
+**Category:** Quran discussion
+
+**Answer:** The speaker notes that the first letter of the Surah discusses various issues, including resurrection and the accounting of deeds.
+
+## 357.36s: 
+**Question:** What is the significance of the number 19 in *Surah Ibrahim*?
+
+**Category:** Quran discussion
+
+**Answer:** The speaker mentions that the number 19 is significant in *Surah Ibrahim*, as it is mentioned for a specific purpose and is connected to the concept of resurrection.
+
+## 372.96s:
+**Question:** What is the speaker's view on the possibility of the occurrences in the Surah being accidental?
+
+**Category:** Quran discussion
+
+**Answer:** The speaker considers the occurrences in the Surah to be deliberate and not accidental, pointing to the consistent use of the word *innah* instead of *ikhwan* when referring to the people of Lot.
+
+## 403.44s:
+**Question:** How does the speaker explain the deliberate avoidance of the word "brothers" when referring to the people of Lot in *Surah Ibrahim*?
+
+**Category:** Quran discussion
+
+**Answer:** The speaker believes the consistent use of *innah* instead of *ikhwan* (brothers) is deliberate and impossible for Muhammad to have fabricated, suggesting a Divine origin. 
+
+## 437.68s:
+**Question:** What are the two concluding names of the Divine in the Arabic verse?
+
+**Category:** Quran translation
+
+**Answer:** The speaker requests a reminder of the two concluding names of the Divine in the Arabic verse, which are *al-Rahman* (The Most Merciful) and *al-Rahim* (The Most Compassionate).
+
+## 450.919s:
+**Question:** Who is the message of the verse intended for?
+
+**Category:** Quran translation
+
+**Answer:** The verse is explicitly addressed to all mankind, not just the Prophet Muhammad's people.
+
+## 475.96s:
+**Question:** What is the significance of the phrase "from darknesses to the light" in the verse?
+
+**Category:** Quran discussion
+
+**Answer:** The "darkness" in the verse refers to the state of ignorance and error, while the "light" represents guidance and truth. The multiple ways of error are contrasted with the singular path to truth.
+
+## 502.599s:
+**Question:** What are some examples of darknesses that the verse refers to?
+
+**Category:** Quran discussion
+
+**Answer:**  The "darknesses" that the verse refers to include paganism, misunderstanding of the universe,  incorrect understanding of destiny and fatalism, and flawed views on law and social balance. 
+
+## 543.68s:
+**Question:** What is the purpose of the messenger in the verse?
+
+**Category:** Quran discussion
+
+**Answer:** The messenger's purpose is to guide people from confusion and darkness into the light of Revelation, which comes from the source of absolute truth, Allah.
+
+## 561.399s:
+**Question:** How is the messenger's mission both legalistic and creative?
+
+**Category:** Quran discussion
+
+**Answer:** The messenger's mission is legalistic in the sense that it is based on a Divine order to guide people. It is also creative because it involves bringing a new message that would not have been possible without a Divine permission.
+
+## 587.16s:
+**Question:** Can anyone suddenly become a prophet?
+
+**Category:** Islamic law
+
+**Answer:** No, someone cannot suddenly become a prophet. It requires Divine permission, design, and permission.
+
+## 605.68s:
+**Question:** Why is the phrase "the exalted, the praiseworthy Allah" repeated numerous times in the Quran?
+
+**Category:** Quran discussion
+
+**Answer:** The phrase "the exalted, the praiseworthy Allah" is frequently repeated in the Quran because it emphasizes Allah's irresistible power, invincibility, and the only way to approach Him, which is through submission.
+
+## 639.76s:
+**Question:** What is the translation of the second verse?
+
+**Category:** Quran translation
+
+**Answer:** The translation of the second verse is: "To God belongs all that is in the heavens and all that is on Earth, but woe unto those who deny the truth for severe suffering awaits them."
+
+## 693.519s:
+**Question:** Is there a discrepancy between the two translations of the second verse?
+
+**Category:** Quran translation
+
+**Answer:**  There is a difference in the wording of the two translations of the second verse. While the first translation emphasizes the punishment awaiting disbelievers, the second focuses on God's absolute ownership of all creation.
+
+## 705.92s:
+**Question:** What is the name of God that is being referenced in the verse?
+
+**Category:** Quran discussion
+
+**Answer:** The verse refers to Allah, His personal name in Arabic.
+
+## 731.0s:
+**Question:** Why are some people in the West ignorant about the name of Allah?
+
+**Category:** Quran discussion
+
+**Answer:** Many people in the West are ignorant about the name of Allah because they have been influenced by historical misinformation and propaganda spread by the church and secular authorities.
+
+## 760.88s: 
+**Question:** Who is Allah, according to the verse?
+
+**Category:** Quran discussion
+
+**Answer:** Allah is the absolute owner of everything in Heaven and Earth. There is no other master, Lord, or deity in the universe.
+
+## 816.279s:
+**Question:** Who are the "rejectors of the truth" referenced in the verse?
+
+**Category:** Quran discussion
+
+**Answer:** The "rejectors of the truth" are those who deny the message of the Quran and the existence of Allah.
+
+## 849.959s:
+**Question:** What is the translation of the third verse?
+
+**Category:** Quran translation
+
+**Answer:** The translation of the third verse is: "Woe unto those who choose the life of this world as a sole object of their love, preferring it to all thought of the life to come. They turn others away from the path of God and try to make it appear crooked. Such as these have indeed gone far astray."
+
+## 885.92s:
+**Question:** What does the speaker explain about the translation of the third verse?
+
+**Category:** Quran discussion
+
+**Answer:** The speaker explains that the third verse is related to a corrupt ideology that makes the straight path to Allah seem irrelevant or crooked.
+
+## 900.12s:
+**Question:** What are the two ways that people might declare the path to Allah to be corrupt?
+
+**Category:** Quran discussion
+
+**Answer:**  People might declare the path to Allah corrupt by claiming their own way is the true path or by seeing it as corrupt because of their own distorted perspective. 
+
+## 927.399s:
+**Question:** What is the meaning of the concluding phrase of the third verse?
+
+**Category:** Quran translation
+
+**Answer:** The concluding phrase of the verse, "they are in error or lost far away," indicates a fundamental and irreversible error.
+
+## 963.88s:
+**Question:** What is the most severe form of the fundamental error mentioned in the third verse?
+
+**Category:** Quran discussion
+
+**Answer:**  The most severe form of the fundamental error is the denial of resurrection and the accounting of deeds.
+
+## 989.44s:
+**Question:** What did the Jews believe about the punishment in the afterlife? 
+
+**Category:** Quran discussion
+
+**Answer:** The Jews believed that punishment in the afterlife would be limited to a few days, contrasting with the Quran's emphasis on an eternal accounting.
+
+## 1001.04s:
+**Question:** Who said that the fire will touch only for a few days for each day of the *dunyah*?
+
+**Category:** Quran discussion
+
+**Answer:** The Jews believed that the fire of the afterlife would touch only for a few days, one for each day of the *dunyah*, after which they would be considered the chosen people.
+
+## 1028.36s: 
+**Question:**  What is the reality of the Jews' beliefs about the afterlife?
+
+**Category:** Quran discussion
+
+**Answer:** The speaker argues that the Jews' beliefs about the afterlife are based on their own imaginations and whims, not on a true understanding of Allah's justice.
+
+## 1051.039s: 
+**Question:** What should people be focused on, according to the verse?
+
+**Category:** Quran discussion
+
+**Answer:** The verse emphasizes that people should be focused on the afterlife, as it is unlimited and never-ending.
+
+## 1078.24s: 
+**Question:** What is the fundamental aspect of those who deny the existence of Allah?
+
+**Category:** Quran discussion
+
+**Answer:** The speaker explains that those who deny the existence of Allah give preference to worldly life over the afterlife, believing there is no purpose or accountability after death.
+
+## 1105.799s:
+**Question:** What are the two ways that people might give preference to *dunyah*?
+
+**Category:** Quran discussion
+
+**Answer:**  People might give preference to *dunyah* by denying the existence of Allah or by minimizing His importance and focusing solely on worldly matters.
+
+## 1117.039s:
+**Question:** What do some Jewish factions believe about the afterlife?
+
+**Category:** Quran discussion
+
+**Answer:** Some Jewish factions believe that there is no resurrection, and therefore all punishment and reward will be in the *dunyah*. This leads them to dismiss the importance of moral behavior and accountability.
+
+## 1126.32s:
+**Question:** Why did the Jews commit major problems and sins?
+
+**Category:** Quran discussion
+
+**Answer:** The speaker attributes the Jews' past transgressions to their belief that all punishment and reward would be in the *dunyah*, leading them to feel they could get away with almost everything.
+
+## 1137.0s:
+**Question:** What is the warning of severe punishment directed at?
+
+**Category:** Quran discussion
+
+**Answer:** The warning of severe punishment is directed at those who prioritize *dunyah* over the afterlife, regardless of their beliefs about spirituality or the Divine.
+
+## 1180.96s:
+**Question:** What is the translation of the fourth verse?
+
+**Category:** Quran translation
+
+**Answer:** The translation of the fourth verse is: "We sent forth Moses with our messages. We have never sent forth any Apostle otherwise than with a message in his own people's tongue so that he might make the truth clear unto them. But God lets go astray him that wills to go astray, and God guides him that wills to be guided, for He alone is Almighty, truly wise."
+
+## 1209.84s:
+**Question:** Why do messengers use their people's language?
+
+**Category:** Quran discussion
+
+**Answer:** Messengers use their people's language to make the truth clear to them, as it is the most accessible way to communicate.
+
+## 1259.36s:
+**Question:** What does the speaker say about the translation of the phrase "God lets astray the one who wants to go astray and let's guide that one who guide"?
+
+**Category:** Quran discussion
+
+**Answer:** The speaker emphasizes that this phrase is not a literal translation but a correct interpretation. It highlights that while God created a system for free choice, He does not directly cause people to stray or be guided.
+
+## 1270.48s: 
+**Question:** What does the speaker say about the apparent fatalism in the verse?
+
+**Category:** Quran discussion
+
+**Answer:**  The speaker refutes the idea of fatalism in the verse, arguing that attributing an action to Allah does not necessarily mean it is a direct act.
+
+## 1283.44s: 
+**Question:** What are the two ways that attributing an act to Allah could be interpreted? 
+
+**Category:** Quran discussion
+
+**Answer:** Attributing an act to Allah can either refer to a direct act, as in the case of miracles, or to a creation of a system that allows for free choice.
+
+## 1302.0s:
+**Question:** What do fatalists believe when they read the fourth verse?
+
+**Category:** Quran discussion
+
+**Answer:** Fatalists believe that the verse implies that Allah directly guides and misguides people, regardless of their free will. 
+
+## 1311.2s: 
+**Question:** Is the fatalistic interpretation of the fourth verse possible according to the Quran?
+
+**Category:** Quran discussion
+
+**Answer:** The speaker argues that a fatalistic interpretation of the verse is not possible according to the Quran, which emphasizes free will and accountability.
+
+## 1319.159s:
+**Question:** What is the most likely way that acts are attributed to Allah?
+
+**Category:** Quran discussion
+
+**Answer:** Attributing acts to Allah is most likely done because they result from a system He created that allows for free choice.
+
+## 1333.039s:
+**Question:** What system did Allah create that allows for free choice?
+
+**Category:** Quran discussion
+
+**Answer:** Allah created a system in which people can choose guidance and be guided if they choose it, or choose misguidance and be misguided. 
+
+## 1353.44s:
+**Question:** Who are guided by instinct and not necessarily responsible for their actions? 
+
+**Category:** Quran discussion
+
+**Answer:**  Some creatures, guided by instinct, are not responsible for their actions.
+
+## 1376.4s:
+**Question:** What is the nature of Divine freedom?
+
+**Category:** Quran discussion
+
+**Answer:** Divine freedom is infinite and absolute. Human freedom, on the other hand, is limited to the circle allocated by Allah.
+
+## 1393.799s:
+**Question:** Are humans responsible for things outside of their free will?
+
+**Category:** Quran discussion
+
+**Answer:** Humans are not responsible for things outside of their free will, such as controlling their heartbeats.
+
+## 1409.039s:
+**Question:** When are humans responsible for their heartbeats? 
+
+**Category:** Quran discussion
+
+**Answer:** Humans are responsible for their heartbeats if they take actions that negatively affect them, such as taking harmful medication.
+
+## 1429.039s: 
+**Question:** What are the two meanings of attributing Divine action in the verse?
+
+**Category:** Quran discussion
+
+**Answer:**  Attributing Divine action can refer to the creation of a system that allows for free choice or a direct act.
+
+## 1453.279s:
+**Question:** Does attributing an act to Allah negate that it could be attributed to someone else? 
+
+**Category:** Quran discussion
+
+**Answer:** No, attributing an act to Allah does not negate that it could be attributed to someone else through a chain of cause and effect. 
+
+## 1478.52s:
+**Question:** When does attributing an act to a government mean it is a direct action of the government?
+
+**Category:** Quran discussion
+
+**Answer:** Attributing an act to a government does not necessarily mean it is a direct action of the government, as it can be a result of its decisions, laws, and administrative bodies.
+
+## 1518.48s:
+**Question:** Does Allah directly bring down the rain?
+
+**Category:** Quran discussion
+
+**Answer:** No, Allah does not directly bring down the rain. He creates the system that allows for rain through evaporation and the formation of clouds.
+
+## 1531.72s:
+**Question:** How does Allah bring down the rain?
+
+**Category:** Quran discussion
+
+**Answer:** Allah brings down the rain by creating clouds that rise high and become cumulative, and then the rain comes out of them.
+
+## 1543.76s:
+**Question:** What does the speaker say about acts attributed to the Divine?
+
+**Category:** Quran discussion
+
+**Answer:**  The speaker advises careful analysis when interpreting acts attributed to the Divine, as they often involve a chain of cause and effect, not direct intervention.
+
+## 1575.64s: 
+**Question:** What is the metaphorical meaning of Allah ordering the pen to write the proportions of the universe?
+
+**Category:** Quran discussion
+
+**Answer:** This metaphor suggests that Allah had decided the fundamental laws and proportions of the universe before creation, even before the creative act took place.
+
+## 1591.88s: 
+**Question:** How should one analyze acts attributed to Allah?
+
+**Category:** Quran discussion
+
+**Answer:**  When encountering an act attributed to Allah, it is essential to determine if it is a direct act or a result of the system He created. 
+
+## 1604.08s: 
+**Question:** What is the correct interpretation of the fourth verse?
+
+**Category:** Quran discussion
+
+**Answer:** The speaker emphasizes that the correct interpretation of the fourth verse is that Allah guides whom He wishes and allows free will.
+
+## 1632.6s:
+**Question:** How are people's choices made in relation to Allah's allowance?
+
+**Category:** Quran discussion
+
+**Answer:** People's choices are contingent on Allah's allowance and the proportions of the universe He created. They are not acting solely based on their own sovereignty. 
+
+## 1676.36s:
+**Question:** What is the translation of the fifth verse?
+
+**Category:** Quran translation
+
+**Answer:** The translation of the fifth verse is: "And lo, Moses spoke thus unto his people, 'Remember the blessings which God bestowed upon you when He saved you from Pharaoh's people who afflicted you with cruel suffering.'"
+
+## 1697.84s:
+**Question:** What is the second translation of the fifth verse?
+
+**Category:** Quran translation
+
+**Answer:** The second translation of the fifth verse is: "We sent Moses with our messages, 'Lead your people out of dark ignorance into Enlightenment, and remind them of the days of God. Verily, in this reminder there are messages indeed for all who are wholly patient in adversity and deeply grateful to God.'"
+
+## 1731.44s:
+**Question:** What does the Quran confirm about the Old Testament?
+
+**Category:** Quran discussion
+
+**Answer:** The Quran confirms that Moses was a messenger sent by God, as mentioned in the Old Testament.
+
+## 1741.919s:
+**Question:** Why did a new name for the Supreme Being have to be constructed in the Old Testament?
+
+**Category:** Quran discussion
+
+**Answer:** A new name for the Supreme Being had to be constructed because the concept of a supreme Divine being had been largely lost through centuries of paganism.
+
+## 1753.679s:
+**Question:**  What is the origin of paganism?
+
+**Category:** Quran discussion
+
+**Answer:** Paganism likely started with people settling into agriculture around 10,000 to 12,000 years ago.
+
+## 1765.2s: 
+**Question:** What was the state of belief before paganism?
+
+**Category:** Quran discussion
+
+**Answer:** Before paganism, there was a form of symbolic monism, where the Supreme Being was represented through symbols.
+
+## 1771.48s: 
+**Question:** What influences led to the development of the name Allah?
+
+**Category:** Quran discussion
+
+**Answer:** The name Allah developed under the influences of Abraham and the House of Jacob, emerging from the Arabic language.
+
+## 1789.76s:
+**Question:** What happened to the Hebrew language and the name Yehovah?
+
+**Category:** Quran discussion
+
+**Answer:** The Hebrew language and the name Yehovah fell into oblivion with the extinction of the Hebrew language.
+
+## 1798.72s:
+**Question:** What is the meaning of "taking people from darkness into the light" in the verse?
+
+**Category:** Quran discussion
+
+**Answer:** The Israelites in Egypt were in darkness because they were confused, many had converted to paganism, and were enslaved by Pharaoh. Moses' mission was to guide them towards the light of monotheism and freedom.
+
+## 1804.279s: 
+**Question:** What is the significance of the name *Kon* being mentioned in the Quran?
+
+**Category:** Quran discussion
+
+**Answer:** *Kon* was one of the leaders opposing Moses. He was not from the Egyptians, but from the Israelites, highlighting their involvement in the oppression of their own people. 
+
+## 1811.24s: 
+**Question:**  What is the modern equivalent of *Kon* within Britain?
+
+**Category:** Quran discussion
+
+**Answer:** The speaker draws a parallel between *Kon* and Muslims in Britain who have aligned themselves with the British Empire and become part of its elite class.
+
+## 1836.799s:
+**Question:** Who was *Kon*?
+
+**Category:** Quran discussion
+
+**Answer:** *Kon* was the head of the elite class of the Israelites who collaborated with Pharaoh and contributed to the oppression of their own people.
+
+## 1849.76s: 
+**Question:** How does the speaker explain the presence of Muslims in Britain who have aligned with the British Empire?
+
+**Category:** Quran discussion
+
+**Answer:**  The speaker suggests that these Muslims have become part of the elite class by collaborating with the British Empire and seeking wealth and power.
+
+## 1873.96s: 
+**Question:** What was the state of the Israelites in Egypt?
+
+**Category:** Quran discussion
+
+**Answer:** The Israelites were in a state of confusion and darkness, with some still practicing monotheism and others turning to paganism, while all were enslaved by Pharaoh.
+
+## 1884.159s: 
+**Question:** What does the speaker mean by saying the Israelites were in misguidance?
+
+**Category:** Quran discussion
+
+**Answer:**  The speaker refers to the Israelites' acceptance of Pharaoh as their master and their submission to his authority, which represents a form of misguidance.
+
+## 1903.72s: 
+**Question:** What are "the days of God" mentioned in the verse?
+
+**Category:** Quran discussion
+
+**Answer:** The "days of God" refer to historical events that reveal Divine action in a clear and unmistakable way, such as the day of judgment, the stories of previous nations, and the trials faced by prophets.
+
+## 1941.96s: 
+**Question:** What does the speaker mean by reminding the Israelites of the days of God? 
+
+**Category:** Quran discussion
+
+**Answer:** The speaker explains that reminding the Israelites of the "days of God" is a form of guidance, drawing upon their collective memory of past events and the lessons they offer.
+
+## 1957.48s:
+**Question:** What does the speaker say about the five books of Moses?
+
+**Category:** Quran discussion
+
+**Answer:** The speaker criticizes the five books of Moses, arguing that they lack significant references to the Divine tablets and  mentioning the Quran's clearer account of their content.
+
+## 2003.36s: 
+**Question:** What does the speaker say about the earliest scrolls of the Abrahamic tradition?
+
+**Category:** Quran discussion
+
+**Answer:** The speaker suggests that the earliest scrolls of the Abrahamic tradition, which were revealed before Moses' time,  contained the most important information about the days of God.
+
+## 2035.279s:
+**Question:** What is the scribes' claim about the oral tradition of Moses?
+
+**Category:** Quran discussion
+
+**Answer:** The scribes claim that the oral tradition of Moses is woven into the five books of Moses, which the speaker refutes as a lie.
+
+## 2051.079s: 
+**Question:** What book of Moses might be partially derived from the original scrolls of Abraham?
+
+**Category:** Quran discussion
+
+**Answer:** The speaker believes that Deuteronomy is the only book of Moses that might have some elements derived from the original scrolls of Abraham, with the rest being largely fabricated.
+
+## 2067.399s:
+**Question:** What scroll was found during the reign of King Josiah?
+
+**Category:** Quran discussion
+
+**Answer:** During King Josiah's reign, a scroll was found that seemed to be one of the original scrolls of Moses.
+
+## 2079.76s: 
+**Question:**  Why was the scroll found in the temple?
+
+**Category:** Quran discussion
+
+**Answer:** The scroll was found in the temple during a time when the temple had been neglected and used as an idol house.
+
+## 2111.8s: 
+**Question:** What did King Josiah do after he read the scroll?
+
+**Category:** Quran discussion
+
+**Answer:**  King Josiah tore his clothes out of shock at the neglect of the scroll's teachings and ordered a general reform in the land.
+
+## 2134.92s: 
+**Question:** What was done with the idol houses based on the scroll?
+
+**Category:** Quran discussion
+
+**Answer:** All of the idol houses around Jerusalem were demolished based on the teachings of the scroll.
+
+## 2143.56s:
+**Question:** What is the speaker's opinion about the scribes' claims about the scroll?
+
+**Category:** Quran discussion
+
+**Answer:** The speaker believes that the scribes' claims about the scroll being fabricated are false.
+
+## 2153.64s: 
+**Question:** What scroll was found in the 19th century?
+
+**Category:** Quran discussion
+
+**Answer:** In the 19th century, a scroll was found in Jordan by a man named Shapiro.
+
+## 2171.24s: 
+**Question:**  Why was Shapiro's scroll rejected by the Jewish community?
+
+**Category:** Quran discussion
+
+**Answer:** Shapiro's scroll was rejected because it was written in the old Hebrew script, which was different from the script adopted after the exile.
+
+## 2185.2s: 
+**Question:** What is the speaker's view on the old Hebrew script?
+
+**Category:** Quran discussion
+
+**Answer:** The speaker describes the old Hebrew script as being similar to the Phoenician and Tami scripts.
+
+## 2193.56s:
+**Question:** What happened to Shapiro and his scroll?
+
+**Category:** Quran discussion
+
+**Answer:** Shapiro was accused of being a fabricator, and his scroll was rejected by the community. He later died or was killed.
+
+## 2203.48s:
+**Question:**  What does the speaker say about the content of Shapiro's scroll?
+
+**Category:** Quran discussion
+
+**Answer:** The speaker suggests that Shapiro's scroll was a version of Deuteronomy, not an exact copy.
+
+## 2214.52s:
+**Question:** What happened to many ancient texts and books?
+
+**Category:** Quran discussion
+
+**Answer:** Many ancient texts and books were lost or forgotten over time, often hidden in places like caves or palaces.
+
+## 2228.4s:
+**Question:** What is an example of a lost text that was rediscovered centuries later?
+
+**Category:** Quran discussion
+
+**Answer:** The speaker mentions the *Epistle of James*, a text allegedly written by James that was unknown until the 18th century.
+
+## 2247.52s: 
+**Question:** Where was the *Epistle of James* found?
+
+**Category:** Quran discussion
+
+**Answer:**  The *Epistle of James* was found in a hidden place, likely in a cave.
+
+## 2260.48s:
+**Question:** What is the name of the oldest and best manuscript of the New Testament? 
+
+**Category:** Quran discussion
+
+**Answer:** The oldest and best manuscript of the New Testament is called the *Codex Sinaiticus*.
+
+## 2265.16s: 
+**Question:** Where was the *Codex Sinaiticus* found?
+
+**Category:** Quran discussion
+
+**Answer:** The *Codex Sinaiticus* was found in the St. Catherine's Monastery in Sinai.
+
+## 2272.319s: 
+**Question:** What is the truth about the establishment of St. Catherine's Monastery?
+
+**Category:** Quran discussion
+
+**Answer:** The speaker refutes the claim that St. Catherine's Monastery is an ancient site, arguing that it was established by Queen Helena, the mother of Constantine, after his conversion to Christianity.
+
+## 2291.16s: 
+**Question:** How long was the *Codex Sinaiticus* stored in St. Catherine's Monastery before it was discovered?
+
+**Category:** Quran discussion
+
+**Answer:** The *Codex Sinaiticus* was stored in St. Catherine's Monastery for approximately 1500 years before it was rediscovered.
+
+## 2304.839s:
+**Question:** What does the speaker say about the potential rediscovery of other scrolls? 
+
+**Category:** Quran discussion
+
+**Answer:** The speaker suggests that more ancient scrolls could be rediscovered in the future, providing more insights into the history of the Abrahamic traditions.
+
+## 2318.28s:
+**Question:** What does the speaker say about the lack of traces of the "days of God" in the Old Testament?
+
+**Category:** Quran discussion
+
+**Answer:** The speaker criticizes the Old Testament's lack of references to the "days of God," which he believes are crucial for understanding the Divine message.
+
+## 2325.119s: 
+**Question:** What do some modern scholars say about the origin of the concepts of the Devil and other pagan elements?
+
+**Category:** Quran discussion
+
+**Answer:** Some modern scholars claim that the concepts of the Devil and other pagan elements were developed later and are not rooted in the original monotheistic tradition.
+
+## 2347.359s:
+**Question:** Who are the main proponents of the theory that monotheism came from paganism?
+
+**Category:** Quran discussion
+
+**Answer:** Atheists and secular scholars are the main proponents of the theory that monotheism evolved from paganism.
+
+## 2349.72s:
+**Question:** What does the Quran clarify about Moses' teachings? 
+
+**Category:** Quran discussion
+
+**Answer:** The Quran clarifies that Moses brought the original messages about the "days of God," which were later obscured or lost.
+
+## 2352.04s: 
+**Question:** What does the speaker ask in response to the claim that Moses' teachings have been lost or obscured?
+
+**Category:** Quran discussion
+
+**Answer:** The speaker asks how such important information could have been lost or covered up, highlighting the Quran's emphasis on the preservation of the Divine message.
+
+## 2364.52s: 
+**Question:** Where are some of the lost scrolls likely located? 
+
+**Category:** Quran discussion
+
+**Answer:** The speaker suggests that some of the lost scrolls might be found in caves in Jordan, Lebanon, and Palestine.
+
+## 2376.16s:
+**Question:** What does the speaker say about the concluding phrase of the fifth verse?
+
+**Category:** Quran discussion
+
+**Answer:** The concluding phrase of the verse, "there are signs for all who are patient and grateful," highlights the importance of perseverance, patience, and thankfulness in receiving and understanding the Divine message.
+
+## 2404.599s: 
+**Question:** What does the speaker say about the meaning of "appreciation" in the verse?
+
+**Category:** Quran discussion
+
+**Answer:** The speaker explains that appreciation in the verse refers not only to thanking Allah but also acknowledging the messenger and His message as valuable gifts. 
+
+## 2439.359s: 
+**Question:** What are the two main characteristics of those who recognize the signs of God? 
+
+**Category:** Quran discussion
+
+**Answer:** Those who recognize the signs of God are characterized by their perseverance and patience, as well as their appreciation and thankfulness for the Divine message and creation.
+
+## 2455
+
+## https://www.youtube.com/watch?v=XYY506iVwEk
+
+## Recent Events
+
+### Question: "Just recent events obviously this..." (1.56s)
+**Category:** News Summary
+**Answer:** The speaker is talking about the recent situation in Gaza and the Israeli-Palestinian conflict. They are providing an update on the current events.
+
+### Question: "These seven worker they white the..." (4.12s)
+**Category:** International Relations
+**Answer:** The speaker is discussing the nationality of the people killed in a recent attack. They mention seven people being killed, including three British, one Australian, and one Canadian.  The speaker implies there is a potential bias in reporting, linking the nationality with the 'white' race.
+
+### Question: "British American one American I think..." (8.36s)
+**Category:** International Relations
+**Answer:**  The speaker is clarifying the nationalities of the victims, stating that there was one American in addition to the British and Australian victims. 
+
+### Question: "Three three British one Australian one..." (10.48s)
+**Category:** International Relations
+**Answer:** The speaker is confirming the number of British victims, stating there were three British, one Australian, and one Canadian. 
+
+### Question: "Canadian and maybe one other nationality..." (12.559s)
+**Category:** International Relations
+**Answer:** The speaker is speculating on the nationality of another victim, stating that it might be a different nationality, besides the ones already mentioned. 
+
+### Question: "And because they're white from the..." (15.759s)
+**Category:** Bias
+**Answer:** The speaker is connecting the nationalities to their race, implying that the victims being 'white' might contribute to a bias in how the situation is being reported and understood. 
+
+### Question: "Supreme races the whole world is is..." (17.199s)
+**Category:** Bias
+**Answer:**  The speaker is suggesting that the focus on the victims' 'white' nationality reflects a perceived "Supreme races" mindset, implying that the world is categorized in terms of racial hierarchies.
+
+### Question: "Going up and down in in and because also..." (20.439s)
+**Category:** Bias
+**Answer:** The speaker is suggesting that the way the events are being reported is not neutral and that there is a bias in how the information is being presented. 
+
+### Question: "The way it's done done such a way that..." (23.24s)
+**Category:** Bias
+**Answer:** The speaker is further criticizing the reporting of the events, stating that the way the information is presented makes it clear that the Israeli narrative is being prioritized. 
+
+### Question: "It's very clear that all the Israelis..." (25.4s)
+**Category:** Bias
+**Answer:** The speaker is continuing to critique the biased reporting, stating that the Israeli narrative is being presented as the only truth, despite possible manipulation of facts. 
+
+### Question: "Spinning and uh and lying has been..." (27.88s)
+**Category:** Deception
+**Answer:** The speaker is accusing the Israeli government of manipulating and distorting the information to their advantage. They believe that the truth is being obscured through lies and propaganda. 
+
+### Question: "Exposed first of all initially they..." (30.96s)
+**Category:** Deception
+**Answer:** The speaker is stating that the Israeli government's attempts at deception have been exposed. They initially claimed the attack was a mistake but it is clearly a deliberate act. 
+
+### Question: "Claimed it was by mistake and clearly is..." (33.32s)
+**Category:** Deception
+**Answer:** The speaker is refuting the Israeli claim that the attack was accidental. They believe that the attack was deliberate and not a mistake.
+
+### Question: "Impossible especially when the founder..." (37.04s)
+**Category:**  International Relations
+**Answer:**  The speaker is highlighting the lack of action from the "founder of World Kitchen," seemingly a key figure in a political context. This person appears to be a friend of Blinken (likely Secretary of State Antony Blinken), and their lack of action after the attack is seen as questionable.
+
+### Question: "Of this world kitchen who just by by the..." (40.36s)
+**Category:**  International Relations
+**Answer:** The speaker is referring to a political figure often associated with the term "World Kitchen," likely someone involved in international diplomacy and politics. 
+
+### Question: "Way doile person seems to be the friend..." (43.12s)
+**Category:**  International Relations
+**Answer:** The speaker is identifying the "World Kitchen" figure as "doile person" who is known to be a friend of Blinken, suggesting a connection between the two individuals. 
+
+### Question: "Of blink and so on I did not take any..." (45.48s)
+**Category:**  International Relations
+**Answer:**  The speaker is expressing disapproval over the inaction of the "World Kitchen" figure, stating that they haven't taken any meaningful action in response to the attack. 
+
+### Question: "Real stand after that of any value like..." (47.92s)
+**Category:**  International Relations
+**Answer:** The speaker is emphasizing the lack of concrete action from the "World Kitchen" figure, suggesting that they haven't taken a strong enough stance or demonstrated significant support for the victims. 
+
+### Question: "For example..." (49.96s)
+**Category:**  International Relations
+**Answer:** The speaker is introducing an example to further demonstrate the lack of action from the "World Kitchen" figure. 
+
+### Question: "Because is a kitchen Ambassador..." (51.359s)
+**Category:**  International Relations
+**Answer:** The speaker is highlighting the influential position of the "World Kitchen" figure, suggesting that they hold a significant diplomatic role, potentially as an ambassador for the White House.
+
+### Question: "Ambassador of the White House or..." (54.239s)
+**Category:**  International Relations
+**Answer:** The speaker is clarifying the potential role of the "World Kitchen" figure, suggesting that they might hold a position within the White House. 
+
+### Question: "Something like that he did not even..." (55.879s)
+**Category:**  International Relations
+**Answer:** The speaker is reiterating the lack of action from the "World Kitchen" figure, stating that they haven't even taken a step as an ambassador, highlighting their passive stance.
+
+### Question: "Assign that so he's quite a weak and..." (57.48s)
+**Category:**  International Relations
+**Answer:** The speaker is criticizing the "World Kitchen" figure for their perceived weakness and lack of commitment to the issue.
+
+### Question: "Just High character that's number one..." (60.84s)
+**Category:** International Relations
+**Answer:** The speaker is using a critical tone towards the "World Kitchen" figure, suggesting that they are not a strong or moral individual. 
+
+### Question: "But he came forward and say know this is..." (63.199s)
+**Category:**  International Relations
+**Answer:**  The speaker is describing the "World Kitchen" figure's statement that the attack was deliberate, suggesting that they have finally acknowledged the truth. 
+
+### Question: "What deliberate targeting they attack..." (65.439s)
+**Category:**  International Relations
+**Answer:** The speaker is emphasizing the "World Kitchen" figure's acknowledgement that the attack was a targeted act of aggression, suggesting that they finally understand the severity of the situation.
+
+### Question: "The first car the..." (68.04s)
+**Category:**  Attack Details
+**Answer:** The speaker is providing details of the attack, describing how multiple vehicles were targeted in succession. The first car was attacked, then the second and third, with the third being a UN vehicle.
+
+### Question: "First Convoy of the cars I think attack..." (69.799s)
+**Category:**  Attack Details
+**Answer:** The speaker is describing the attack on the first car as part of a convoy. The details are unclear, but it seems that the convoy included at least three vehicles.
+
+### Question: "The first one they not killed everyone..." (72.88s)
+**Category:**  Attack Details
+**Answer:**  The speaker is describing the outcome of the attack on the first car, stating that not everyone was killed in that initial attack.
+
+### Question: "There and the people of the second car..." (75.32s)
+**Category:**  Attack Details
+**Answer:** The speaker is describing the attack on the second car, indicating that survivors from the first car sought refuge in the second car, making it a secondary target.
+
+### Question: "Took the people from the first car got..." (77.439s)
+**Category:**  Attack Details
+**Answer:** The speaker is explaining how survivors from the first car ended up in the second car, highlighting the continued targeting. 
+
+### Question: "To them second car second car was..." (79.04s)
+**Category:**  Attack Details
+**Answer:** The speaker is emphasizing that the second car was specifically targeted by the attackers, resulting in deaths.
+
+### Question: "Targeted some people killed and the..." (80.96s)
+**Category:**  Attack Details
+**Answer:** The speaker is further describing the attack on the second car, stating that some people were killed, and others survived. 
+
+### Question: "Surviving one went to third one and the..." (82.72s)
+**Category:**  Attack Details
+**Answer:** The speaker is describing the sequence of events, stating that survivors of the second car sought refuge in a third vehicle.
+
+### Question: "Third one was UN so that's what has..." (84.439s)
+**Category:**  Attack Details
+**Answer:** The speaker is revealing that the third vehicle was a UN vehicle, emphasizing the escalation of the attack and the potential involvement of international organizations. 
+
+### Question: "Developed so there was no escape and..." (87.439s)
+**Category:**  Attack Details
+**Answer:** The speaker is describing the lack of escape for the victims, highlighting the deliberate targeting of the convoy and the consequences.
+
+### Question: "Then the came the fiction that there was..." (89.079s)
+**Category:**  Deception
+**Answer:** The speaker is highlighting the Israeli government's attempt to justify the attack by claiming it was a mistake due to faulty intelligence.
+
+### Question: "Some kind of intelligence error because..." (91.4s)
+**Category:**  Deception
+**Answer:** The speaker is outlining the justification used by the Israeli government for the attack, citing intelligence failure as the reason. 
+
+### Question: "They got a news intelligence information..." (94.799s)
+**Category:**  Deception
+**Answer:** The speaker is detailing the Israeli narrative, stating that they had intelligence suggesting a leading Hamas figure was in the convoy, which they used as a justification for the attack. 
+
+### Question: "That one lead leading Hamas person is in..." (96.96s)
+**Category:**  Deception
+**Answer:** The speaker is highlighting the Israeli claim that they had intel indicating the presence of a significant Hamas figure in the convoy, used to explain the targeting.
+
+### Question: "The Convoy and this was refuted try to..." (100.439s)
+**Category:**  Deception
+**Answer:** The speaker is refuting the Israeli claims, stating that the intelligence they cited has been contested, suggesting that it was fabricated to justify the attack. 
+
+### Question: "From even from American administrator..." (103.079s)
+**Category:**  International Relations
+**Answer:** The speaker is mentioning that even American officials have refuted the Israeli claims, suggesting that there is widespread skepticism about the narrative of intelligence failure. 
+
+### Question: "Say this the Convoy has three persons..." (104.84s)
+**Category:**  Deception
+**Answer:** The speaker is reiterating the refutation of the Israeli claims by stating that there were only three people in the convoy. 
+
+### Question: "Actually three of the persons in the..." (107.32s)
+**Category:**  Deception
+**Answer:** The speaker is further undermining the Israeli narrative by highlighting the identities of the people in the convoy, suggesting they were not Hamas figures as claimed.
+
+### Question: "Convoy are security specialist from the..." (108.759s)
+**Category:**  Deception
+**Answer:** The speaker is revealing that the people in the convoy were security specialists, not Hamas members, further contradicting the Israeli explanation.
+
+### Question: "One of the best security companies in..." (111.439s)
+**Category:**  Deception
+**Answer:** The speaker is highlighting the professional nature of the individuals in the convoy, emphasizing that they were not Hamas members, undermining the Israeli claims. 
+
+### Question: "The world and they're extremely..." (112.96s)
+**Category:**  Deception
+**Answer:** The speaker is reinforcing the expertise of the individuals in the convoy, suggesting that their presence in the convoy was not a sign of involvement with Hamas.
+
+### Question: "Ridiculous they have communicated with..." (114.52s)
+**Category:**  Deception
+**Answer:** The speaker is labeling the Israeli claims as absurd, stating that the individuals in the convoy were highly professional and in communication with their headquarter.
+
+### Question: "The with the Israeli they kept record..." (116.24s)
+**Category:**  Deception
+**Answer:** The speaker is emphasizing the clear documentation and communication between the convoy and their headquarter, further refuting the Israeli narrative of intelligence failure. 
+
+### Question: "For that they communicated to their..." (118.479s)
+**Category:**  Deception
+**Answer:** The speaker is reiterating the consistent communication between the convoy and their headquarter, emphasizing that there is a record of their activities.
+
+### Question: "Headquarter and there no way even in a..." (120.28s)
+**Category:**  Deception
+**Answer:** The speaker is declaring that it is impossible for the individuals in the convoy to be Hamas figures, highlighting the established communication and recordkeeping. 
+
+### Question: "Dreamland that they would get..." (123.719s)
+**Category:**  Deception
+**Answer:** The speaker is emphasizing the impossibility of the Israeli claims, suggesting that it is inconceivable that professional security personnel would be involved with Hamas. 
+
+### Question: "Any Palestinian personality in the..." (125.68s)
+**Category:**  Deception
+**Answer:** The speaker is strongly refuting the Israeli claims, stating that it is highly unlikely that a Palestinian figure would be in the convoy, especially with security specialists present. 
+
+### Question: "Convoy and expore the Convoy to the..." (128.08s)
+**Category:**  Deception
+**Answer:** The speaker is highlighting the risks associated with having a Palestinian figure in the convoy, emphasizing the potential danger in the context of Israeli aggression.
+
+### Question: "Danger of attack that's simply blatant..." (130.16s)
+**Category:**  Deception
+**Answer:** The speaker is stating that the Israeli justification for the attack is entirely implausible and unbelievable, based on their understanding of the situation. 
+
+### Question: "Life and uh even the American could not..." (132.959s)
+**Category:**  International Relations
+**Answer:** The speaker is highlighting the difficulty for even the American administration to spin the narrative of the attack, suggesting that the truth is becoming increasingly difficult to hide. 
+
+### Question: "Spin it properly so that's just the..." (136.28s)
+**Category:**  Deception
+**Answer:** The speaker is emphasizing the challenge for the American administration to present a convincing narrative that aligns with the Israeli claims. 
+
+### Question: "Interesting..." (138.8s)
+**Category:**  Opinion
+**Answer:** The speaker is acknowledging the irony of the situation, suggesting that the Israeli government's attempts to cover up their actions are becoming more apparent.
+
+### Question: "Point is not that I started doing that..." (140.8s)
+**Category:**  Deception
+**Answer:** The speaker is clarifying that they are not the first to expose the Israeli government's deception, stating that this has been happening from the beginning. 
+
+### Question: "They're doing it from day one but it has..." (143.36s)
+**Category:**  Deception
+**Answer:** The speaker is reiterating the ongoing nature of the Israeli government's manipulation, stating that their deception has been a constant tactic. 
+
+### Question: "Been always denied and denied and denied..." (145.08s)
+**Category:**  Deception
+**Answer:** The speaker is emphasizing the consistent denial of the Israeli government's actions by Biden and his administration.
+
+### Question: "By by Biden and Co and..." (147.44s)
+**Category:**  International Relations
+**Answer:** The speaker is directly implicating Biden and his administration in the cover-up of the Israeli government's actions. 
+
+### Question: "Uh but because these are from it's so..." (150.84s)
+**Category:**  Deception
+**Answer:** The speaker is acknowledging the increasing difficulty for Biden to deny the truth of the Israeli government's actions due to the growing evidence.
+
+### Question: "Public and so clear and so it's now..." (153.879s)
+**Category:**  Deception
+**Answer:** The speaker is emphasizing the transparency of the Israeli government's deception, suggesting that the truth is becoming increasingly difficult to conceal.
+
+### Question: "Causing an international outage which is..." (156.72s)
+**Category:**  International Relations
+**Answer:** The speaker is highlighting the international backlash against the Israeli government's actions, suggesting that their actions are being condemned globally.
+
+### Question: "Good finishing off really what they and..." (159.159s)
+**Category:**  International Relations
+**Answer:**  The speaker is acknowledging the positive impact of the international outrage, suggesting that it will ultimately lead to the exposure of the Israeli government's deception and their actions. 
+
+### Question: "Fabrication and so on that's number one..." (163.4s)
+**Category:**  Deception
+**Answer:** The speaker is summarizing the Israeli government's use of fabrication and manipulation to cover up their actions. 
+
+### Question: "Today is obvious the first day of the..." (165.56s)
+**Category:**  Time
+**Answer:** The speaker is marking a specific point in time, stating that it is the first day of the seventh month, signifying a passage of time and a point for reflection. 
+
+### Question: "Seventh month we have completed six..." (166.959s)
+**Category:**  Time
+**Answer:** The speaker is acknowledging the passage of time, mentioning that six months have passed since a specific starting point. 
+
+### Question: "Months exactly uh yesterday and today is..." (168.599s)
+**Category:**  Time
+**Answer:** The speaker is further emphasizing the significance of the date, stating that yesterday marked the end of the sixth month, and today marks the beginning of the seventh month.
+
+### Question: "The..." (171.64s)
+**Category:**  Time
+**Answer:** The speaker is continuing to emphasize the date, implying a transition to a new period.
+
+### Question: "First day in the seventh month so it's..." (172.68s)
+**Category:**  Time
+**Answer:** The speaker is repeating the date, suggesting that it is an important point for reflection. 
+
+### Question: "Worth taking a little bit longer look..." (175.36s)
+**Category:**  Opinion
+**Answer:** The speaker is proposing that the current date is a good time to reflect on the events of the past six months, highlighting the significance of the moment. 
+
+### Question: "What has been achieved by the way news..." (178.64s)
+**Category:**  News Summary
+**Answer:** The speaker is transitioning into a summary of the key developments that have occurred over the past six months, introducing a new topic. 
+
+### Question: "Just came now on my son abdah told me..." (180.92s)
+**Category:**  News Summary
+**Answer:** The speaker is sharing a piece of recent news they received from their son, mentioning the Israeli withdrawal from a specific location.
+
+### Question: "That the is have completely withdrawn..." (183.799s)
+**Category:**  News Summary
+**Answer:** The speaker is summarizing the news they received, stating that the Israeli forces have completely withdrawn from the UN.
+
+### Question: "From un what the purpose is not clear..." (186.0s)
+**Category:**  News Summary
+**Answer:** The speaker is sharing the news that Israeli forces have withdrawn from the UN, but the reason for the withdrawal remains unclear. 
+
+### Question: "And also from the rest of Raza possibly..." (188.959s)
+**Category:**  News Summary
+**Answer:**  The speaker is providing additional information about the Israeli withdrawal, stating that they have also withdrawn from most of Gaza, with the exception of a specific area. 
+
+### Question: "To attack ra but also they occupying..." (191.68s)
+**Category:**  News Summary
+**Answer:** The speaker is speculating on the reason for the Israeli withdrawal, suggesting that it might be a tactic to focus their efforts on a specific part of Gaza. 
+
+### Question: "Only this one road which splitting the..." (194.2s)
+**Category:**  News Summary
+**Answer:** The speaker is describing the current situation in Gaza, where the Israelis have withdrawn from most of the area, but are still controlling a key road separating the north and south.
+
+### Question: "North and South rather to prevent anyone..." (195.959s)
+**Category:**  News Summary
+**Answer:** The speaker is explaining the Israeli strategy in Gaza, stating that they are preventing movement between the north and south by controlling the key road. 
+
+### Question: "Go going from the south to the north..." (198.4s)
+**Category:**  News Summary
+**Answer:** The speaker is reiterating the Israeli restriction on movement, emphasizing that they are preventing individuals from traveling from the south to the north. 
+
+### Question: "Which hints that possibly uh they want..." (200.519s)
+**Category:**  News Summary
+**Answer:** The speaker is speculating on the Israeli strategy, suggesting that they are trying to prevent anyone from escaping north, potentially forcing them south.
+
+### Question: "To block anyone from escaping toward the..." (204.12s)
+**Category:**  News Summary
+**Answer:** The speaker is outlining the potential motivation behind the Israeli control of the road, suggesting that they are trying to prevent individuals from escaping towards the north.
+
+### Question: "North and rather forcing them to further..." (206.879s)
+**Category:**  News Summary
+**Answer:** The speaker is further elaborating on the potential Israeli strategy, suggesting that they are forcing people to move further south.
+
+### Question: "South which meaning outside Raza into..." (209.2s)
+**Category:**  News Summary
+**Answer:** The speaker is explaining the outcome of the Israeli strategy, stating that by controlling the road, they are forcing people to leave Gaza, potentially into Egypt or other nearby areas.
+
+### Question: "Egypt or somewhere as ared by the Scag..." (211.72s)
+**Category:**  News Summary
+**Answer:** The speaker is providing a specific destination for the potential displacement of individuals forced to leave Gaza, mentioning Egypt as a potential option.
+
+### Question: "Egyptian..." (217.159s)
+**Category:**  News Summary
+**Answer:** The speaker is mentioning the Egyptian president as a potential figure involved in the situation, suggesting that there might be arrangements in place for individuals forced to leave Gaza.
+
+### Question: "President the most likely it's already..." (218.68s)
+**Category:**  News Summary
+**Answer:** The speaker is speculating on the situation, suggesting that a plan has already been established to deal with the potential displacement of individuals forced to leave Gaza.
+
+### Question: "Arranged and T are being built in in in..." (221.72s)
+**Category:**  News Summary
+**Answer:** The speaker is adding details to the speculation, suggesting that preparations are being made to create an open-air prison to house those forced to leave Gaza. 
+
+### Question: "An open air prison with ws and so on..." (225.519s)
+**Category:**  News Summary
+**Answer:** The speaker is further describing the potential preparations for the displacement of individuals forced to leave Gaza, mentioning the construction of an open-air prison with specific features.
+
+### Question: "That's on going now for mons so it seems..." (228.72s)
+**Category:**  News Summary
+**Answer:** The speaker is indicating that the preparations for the displacement of individuals have been ongoing for months, suggesting that the plan is well-established.
+
+### Question: "To be ready it seems to be want to do..." (230.84s)
+**Category:**  News Summary
+**Answer:**  The speaker is expressing their belief that the Israelis are preparing to implement their plan to force people to leave Gaza.
+
+### Question: "This and then to to..." (233.319s)
+**Category:**  News Summary
+**Answer:** The speaker is indicating that the Israelis have a clear objective in mind, suggesting that the plan to force people to leave Gaza is part of a larger strategy. 
+
+### Question: "His as a general summary uh one of the..." (235.76s)
+**Category:**  Summary
+**Answer:** The speaker is providing a general overview of the situation, highlighting the significance of the Israeli strategy.
+
+### Question: "Most important obviously weide the..." (240.36s)
+**Category:**  Summary
+**Answer:** The speaker is emphasizing the significance of the Israeli strategy, suggesting that it is designed to break the back of the resistance in Gaza.
+
+### Question: "Breaking the back of his side because if..." (242.239s)
+**Category:**  Summary
+**Answer:** The speaker is elaborating on the Israeli strategy, explaining that the goal is to dismantle the resistance in Gaza, potentially ending their ability to operate.
+
+### Question: "You remember the first few weeks I told..." (244.36s)
+**Category:**  Summary
+**Answer:** The speaker is referencing previous statements about the Israeli strategy, suggesting that their current actions are consistent with their earlier predictions. 
+
+### Question: "This..." (248.36s)
+**Category:**  Summary
+**Answer:** The speaker is continuing to summarize the Israeli strategy, emphasizing their focus on dismantling the resistance.
+
+### Question: "Is is the back is broken the question is..." (248.36s)
+**Category:**  Summary
+**Answer:**  The speaker is highlighting a key question about the effectiveness of the Israeli strategy: How long will it take for the resistance to be completely dismantled?
+
+### Question: "Only is it a few months to a year before..." (251.799s)
+**Category:**  Summary
+**Answer:** The speaker is posing a potential timeframe for the dismantling of the resistance in Gaza, suggesting it could happen within a few months to a year. 
+
+### Question: "Disappears or is a few years to a deade..." (254.439s)
+**Category:**  Summary
+**Answer:** The speaker is exploring different possibilities for the timeframe of the resistance's dismantling, suggesting that it could take several years or even a decade.
+
+### Question: "No more than that it's gone it's..." (256.84s)
+**Category:**  Summary
+**Answer:**  The speaker is stating their belief that the resistance will eventually be dismantled, regardless of the exact timeframe.
+
+### Question: "Finished and still the question is still..." (258.759s)
+**Category:**  Summary
+**Answer:** The speaker is acknowledging that the timeframe for the resistance's dismantling is still uncertain and requires further observation.
+
+### Question: "Pending um it could have been few few..." (261.04s)
+**Category:**  Summary
+**Answer:** The speaker is highlighting the possibility that the resistance could be dismantled much sooner than anticipated, possibly within a few months. 
+
+### Question: "Months..." (265.44s)
+**Category:**  Summary
+**Answer:** The speaker is reiterating the possibility of a shorter timeframe for the resistance's dismantling.
+
+### Question: "For through a year maximum if uh Iran..." (266.919s)
+**Category:**  Summary
+**Answer:** The speaker is suggesting that the maximum timeframe for the resistance's dismantling could be a year, emphasizing the role of Iran in the situation.
+
+### Question: "Did know was not yeah this before we..." (271.32s)
+**Category:**  Summary
+**Answer:**  The speaker is transitioning to a discussion of Iran's involvement in the situation, suggesting that their actions might influence the timeframe for the resistance's dismantling. 
+
+### Question: "Discuss Iran it has exposed almost..." (273.479s)
+**Category:**  Summary
+**Answer:** The speaker is stating that the current situation has exposed the true nature of many actors on the international stage, including Iran. 
+
+### Question: "Everyone in the world expose the I think..." (276.96s)
+**Category:**  Summary
+**Answer:** The speaker is suggesting that the events have revealed the true intentions and actions of various international actors, including Iran.
+
+### Question: "Now it's clear that Joe Biden is a..." (279.759s)
+**Category:**  International Relations
+**Answer:** The speaker is making a direct accusation against Biden, labeling him as a genocidal person, highlighting their critical stance towards his actions. 
+
+### Question: "Himself is genocidal person especially..." (282.24s)
+**Category:**  International Relations
+**Answer:** The speaker is reiterating their accusation against Biden, stating that his actions demonstrate his intent to commit genocide, a serious charge. 
+
+### Question: "After..." (285.12s)
+**Category:**  International Relations
+**Answer:**  The speaker is introducing a specific event that supports their accusation against Biden, suggesting that his past actions reflect a genocidal intent. 
+
+### Question: "The I think Max plumen an American..." (287.16s)
+**Category:**  International Relations
+**Answer:** The speaker is mentioning a specific individual, Max Plumen, an American journalist, who has unearthed evidence to support the accusation against Biden.
+
+### Question: "Journalist and researcher and so on dug..." (290.32s)
+**Category:**  International Relations
+**Answer:** The speaker is describing Max Plumen's role as a journalist and researcher, suggesting that he has uncovered significant information about Biden. 
+
+### Question: "Out that in in during manah be's..." (294.08s)
+**Category:**  International Relations
+**Answer:**  The speaker is indicating that the evidence uncovered by Max Plumen concerns a specific event involving Biden during a visit to Beirut.
+
+### Question: "Visit in 198 to during the invasion of..." (297.6s)
+**Category:**  International Relations
+**Answer:** The speaker is providing context for the event involving Biden, stating that it occurred during the invasion of Beirut in 1982. 
+
+### Question: "Beirut he was obviously received by by a..." (301.479s)
+**Category:**  International Relations
+**Answer:** The speaker is explaining that Biden was met by a committee of senators during his visit to Beirut, suggesting that it was an important diplomatic visit.
+
+### Question: "Committee from the from the Senators a..." (304.36s)
+**Category:**  International Relations
+**Answer:** The speaker is clarifying the nature of the meeting, stating that Biden met with a committee of senators, implying a high-level discussion. 
+
+### Question: "Small committee but obviously a very..." (308.84s)
+**Category:**  International Relations
+**Answer:** The speaker is emphasizing the significance of the meeting with the senatorial committee, even though it was a small group.
+
+### Question: "Important one meeting under closed all..." (310.759s)
+**Category:**  International Relations
+**Answer:** The speaker is indicating that the meeting with the senatorial committee was a closed-door meeting, implying a confidential discussion.
+
+### Question: "Doors and so on and all of them except..." (313.36s)
+**Category:**  International Relations
+**Answer:** The speaker is describing the general sentiment during the meeting, suggesting that all the senators except one criticized Biden's actions.
+
+### Question: "One rebuked him for invading byut this..." (315.68s)
+**Category:**  International Relations
+**Answer:** The speaker is highlighting the dissenting opinion, mentioning that one senator criticized Biden's actions during the invasion. 
+
+### Question: "Way you used destabilize the area you..." (319.84s)
+**Category:**  International Relations
+**Answer:** The speaker is conveying the criticisms leveled at Biden, stating that his actions led to instability in the region. 
+
+### Question: "Endanger American interest American..." (322.039s)
+**Category:**  International Relations
+**Answer:** The speaker is highlighting the negative consequences of Biden's actions, suggesting that they jeopardized American interests. 
+
+### Question: "Forces in the area which they have been..." (324.36s)
+**Category:**  International Relations
+**Answer:** The speaker is providing further context for the criticisms against Biden, mentioning American forces operating in the region, suggesting a potential conflict of interests. 
+
+### Question: "Here and there and sometime in secret..." (326.4s)
+**Category:**  International Relations
+**Answer:** The speaker is adding detail about the presence of American forces, stating that they operate both publicly and secretly in the region.
+
+### Question: "Places but sometime publicly known..." (328.8s)
+**Category:**  International Relations
+**Answer:** The speaker is reiterating the presence of American forces in the region, acknowledging their both public and clandestine operations. 
+
+### Question: "Places and also endanger in theong..." (330.4s)
+**Category:**  International Relations
+**Answer:** The speaker is suggesting that Biden's actions also negatively impacted Israeli security, further highlighting the scope of the criticisms against him.
+
+### Question: "Israeli security that's mistake the only..." (332.479s)
+**Category:**  International Relations
+**Answer:** The speaker is summarizing the criticisms against Biden, stating that his actions endangered Israeli security, suggesting that the dissenting senator was the only one who disagreed. 
+
+### Question: "One desending from the American Senators..." (335.68s)
+**Category:**  International Relations
+**Answer:** The speaker is emphasizing the uniqueness of the dissenting senator's opinion, suggesting that they were alone in their stance against Biden's actions.
+
+### Question: "Only one young sen at that time it was..." (337.88s)
+**Category:**  International Relations
+**Answer:** The speaker is providing further details about the dissenting senator, stating that they were young and relatively new to the Senate. 
+
+### Question: "His first time in Senate a young man..." (340.759s)
+**Category:**  International Relations
+**Answer:**  The speaker is continuing to describe the dissenting senator, emphasizing their youth and lack of experience. 
+
+### Question: "Called at that time a young man called..." (343.4s)
+**Category:**  International Relations
+**Answer:** The speaker is finally revealing the identity of the dissenting senator, stating that it was Joe Biden.
+
+### Question: "Joe Biden he said no no I I I..." (344.96s)
+**Category:**  International Relations
+**Answer:** The speaker is quoting Biden's response to the criticisms against him, highlighting his disagreement with the other senators. 
+
+### Question: "Criticized the V of I I criticized him..." (349.919s)
+**Category
+
+## https://www.youtube.com/watch?v=1H6XJy43l3U
+
+##  What are your thoughts on Faris Al-Hamedi's comment that Muawiyah was the first King of Islam and the best King on Earth? 
+**Category:** Islamic History
+The speaker refutes the statement, saying it's nonsense. They believe there were many better Kings than Muawiyah in the past, and there's no evidence to support the claim. They point out that Muawiyah's actions were more about establishing a kingdom rather than serving Islam.  
+
+##  What is the shamelessness of the document that mentions Muawiyah being the first King of Islam, and how does it reflect the reality of the situation?
+**Category:** Historical Interpretation 
+The speaker highlights the lack of historical evidence to support this claim.  They point out that the document is simply a way to sneak in a monarchy as a legitimate part of Islamic governance. Even though the document claims Muawiyah as the first King, there's no clear comparison or argument, suggesting an attempt to push an agenda without solid evidence.  
+ 
+## Why are some people rallying around the idea of Muawiyah being the first King of Islam?
+**Category:** Political Motivation
+The speaker argues that the goal is to establish a kingdom within the Islamic system. They believe those who support this view are motivated by power and a desire to gain standing, wealth, and other benefits. This desire overrides any concerns about historical accuracy or Islamic principles.  
+
+
+## https://www.youtube.com/watch?v=bHHs-gwqUJE
+
+## What do they mean immigrate? 
+**Timestamp:** 11.639s
+**Category:**  Immigration
+**Summary:** The speaker clarifies that "immigrate" in this context doesn't refer to physical relocation. They are discussing Muslims who embrace the faith but haven't migrated to a Muslim-majority region.
+
+## Are those who embrace the faith but did not immigrate free from obligation?
+**Timestamp:** 18.68s
+**Category:**  Obligations
+**Summary:** The speaker explains that individuals who have embraced Islam but haven't physically migrated to a Muslim-majority area are not automatically exempt from Islamic obligations.  Their obligations are separate and distinct from those who live in Muslim-majority communities.
+
+## Does embracing Islam, but not migrating, create a citizenship relationship?
+**Timestamp:** 36.8s
+**Category:** Citizenship
+**Summary:** The speaker states that embracing Islam but not migrating does not establish a citizenship relationship or any sort of  legal connection to a Muslim-majority nation. 
+
+## What is the Quran's view on inheritance for those who have embraced Islam but didn't immigrate?
+**Timestamp:** 45.079s
+**Category:** Inheritance
+**Summary:** The speaker mentions that the Quran addresses the issue of inheritance for non-immigrant Muslims, specifically for close family members. This is a complex topic with ongoing discussions regarding the exact application of the Quranic verse. 
+
+## Was there a time when inheritance laws didn't allow for inheritance between relatives of different regions?
+**Timestamp:** 53.399s
+**Category:**  Inheritance
+**Summary:** The speaker explains that initially, even if a relative died in Madina and their family lived in another region, they wouldn't inherit from each other. This is a significant example of how the concept of inheritance has evolved over time within Islam.
+
+## Is the right of self-determination well established? 
+**Timestamp:** 100.799s
+**Category:**  Self-determination
+**Summary:** The speaker confirms that the right of self-determination is a firmly established concept within Islam, and there are no remaining questions or debates regarding its validity. 
+
+
+## https://www.youtube.com/watch?v=zhH0MsXn0yo
+
+##  0.16s : da is to go out of the room and announce
+**Category:**  Religion
+
+**Question:** What is the purpose of going out of a room and announcing?
+
+**Answer:**  The speaker compares  going outside and announcing to how Islam operates. They are explaining that Islam is not about hiding or being secret. 
+
+## 3.36s : from the top of the mountain and from
+**Category:**  Religion
+
+**Question:** What is the analogy of shouting from the top of the mountain? 
+
+**Answer:** The analogy of shouting from the top of a mountain is used to illustrate the idea that Islamic teachings should be openly declared and accessible to everyone. 
+
+## 5.2s : the top of hilltops that's the way da
+**Category:**  Religion
+
+**Question:** How does the analogy of shouting from the top of a mountain relate to Islam?
+
+**Answer:** This analogy highlights the principle of openness and public proclamation within Islam. It suggests that Islamic teachings should be shared widely and without secrecy.
+
+## 8.0s : Works talking in a closed room that's
+**Category:**  Religion
+
+**Question:** How does the idea of "talking in a closed room" relate to religion?
+
+**Answer:**  The speaker explains that secretive practices and closed-door discussions are not characteristic of true religion, especially Islam. 
+
+## 10.36s : the way secret religion and secret
+**Category:**  Religion
+
+**Question:** What are some examples of practices that are not characteristic of true religion? 
+
+**Answer:** The speaker highlights that secret societies, plots, and hidden knowledge are not in line with Islamic principles.
+
+## 12.12s : societies and plots work that's not our
+**Category:**  Religion
+
+**Question:** What is the speaker's point about secret societies and plots?
+
+**Answer:** They emphasize that such practices are not part of Islam and go against its teachings. 
+
+## 14.559s : work that's not what Islam and the Quran
+**Category:**  Religion
+
+**Question:**  What does Islam and the Quran teach about secrecy?
+
+**Answer:**  The speaker asserts that Islam emphasizes truthfulness and openness, rejecting secrecy and hidden knowledge.
+
+## 16.68s : teaches it say says you have to tell the
+**Category:**  Religion
+
+**Question:**  What does the Quran teach about telling the truth?
+
+**Answer:**  The speaker explains that the Quran emphasizes the importance of speaking the truth and being prepared to face the consequences of doing so.
+
+## 19.08s : truth and be be ready to to face trouble
+**Category:**  Religion
+
+**Question:** What is the consequence of speaking the truth?
+
+**Answer:**  The speaker emphasizes that truthfulness can lead to challenges and difficulties.
+
+## 21.96s : because of that and announce it publicly
+**Category:**  Religion
+
+**Question:** How does Islam approach the idea of announcing teachings publicly? 
+
+**Answer:** The speaker highlights that Islamic teachings should be shared publicly without fear, even if it means facing potential difficulties.
+
+## 24.119s : and there's nothing secret and there's
+**Category:**  Religion
+
+**Question:**  What is the relationship between secrecy and Islam?
+
+**Answer:** The speaker emphasizes that Islam does not condone secrecy, suggesting that all knowledge and teachings should be accessible to everyone.
+
+## 26.439s : no hidden knowledge no secret the main
+**Category:**  Religion
+
+**Question:** What does the speaker mean by the phrase "no hidden knowledge no secret"?
+
+**Answer:** The speaker emphasizes that Islam does not have hidden or secret teachings. All fundamental knowledge is accessible to everyone.
+
+## 28.359s : the fundamental knowledge is public
+**Category:**  Religion
+
+**Question:** What is the speaker's view on the accessibility of Islamic knowledge?
+
+**Answer:** The speaker clarifies that fundamental Islamic knowledge is readily available to everyone, not restricted to a select few.
+
+## 30.199s : there are various lers of knowledge
+**Category:**  Religion
+
+**Question:**  Are there different levels of knowledge in Islam?
+
+**Answer:** The speaker acknowledges that there are different levels of knowledge within Islam, but they emphasize that the core teachings are accessible to all.
+
+## 32.239s : there's as we say the Quran as a that's
+**Category:**  Religion
+
+**Question:** What is the most fundamental source of knowledge in Islam? 
+
+**Answer:** The speaker identifies the Quran as the primary source of knowledge in Islam, emphasizing that it is accessible and understandable to all.
+
+## 34.8s : a dominant one which everyone can ponder
+**Category:**  Religion
+
+**Question:**  How accessible is the Quran?
+
+**Answer:** The speaker highlights the accessibility of the Quran, stating that everyone can read and contemplate its teachings.
+
+## 37.44s : and then they may be B obviously B will
+**Category:**  Religion
+
+**Question:** Are there different interpretations of the Quran?
+
+**Answer:** The speaker acknowledges that different interpretations of the Quran exist, but emphasizes that these interpretations should not contradict the core teachings. 
+
+## 39.719s : never contradict otherwise contradictory
+**Category:**  Religion
+
+**Question:** What is the speaker's view on interpretations of the Quran that contradict its core teachings?
+
+**Answer:** They dismiss such interpretations as being nonsensical and contradictory to the fundamental message of Islam.
+
+## 42.96s : and nonsensical and so on but this is
+**Category:**  Religion
+
+**Question:** What is the relationship between the Quran and other knowledge in Islam?
+
+**Answer:** The speaker explains that there are deeper levels of knowledge that go beyond the Quran, accessible to scholars, mystics, and philosophers.
+
+## 45.28s : deeper for academician and Mystics and
+**Category:**  Religion
+
+**Question:** Who is the deeper level of knowledge in Islam for?
+
+**Answer:** The speaker suggests that these deeper levels of knowledge are more relevant for scholars, mystics, and philosophers. 
+
+## 48.039s : philosoph general message is clear
+**Category:**  Religion
+
+**Question:**  How clear is the message of Islam? 
+
+**Answer:** The speaker clarifies that the fundamental message of Islam is clear and accessible to everyone.
+
+## 50.879s : accessible to everyone straightforward
+**Category:**  Religion
+
+**Question:** How straightforward is the message of Islam?
+
+**Answer:** The speaker reiterates that the message of Islam is straightforward and easily understandable.
+
+## 52.92s : and simple
+**Category:**  Religion
+
+**Question:** How simple is the message of Islam?
+
+**Answer:** The speaker emphasizes that the core message of Islam is simple and uncomplicated. 
+
+
+## https://www.youtube.com/watch?v=-S7aFJYY4Yw
+
+## 0.4s: demonstrations attacking the king 
+
+**Category:** Politics 
+
+**Question:** What is happening with demonstrations attacking the king? 
+
+**Answer:** The speaker is discussing demonstrations against the King, which are likely happening in Jordan, though they don't specify the exact location or context. 
+
+## 2.24s: directly in Jordan
+
+**Category:** Location
+
+**Question:** Where are these demonstrations occurring? 
+
+**Answer:** The demonstrations are directly in Jordan, but the speaker doesn't provide specifics about their location or nature. 
+
+## 3.88s: after yesterday so at last something and 
+
+**Category:** Event
+
+**Question:** What happened yesterday that is relevant to these demonstrations? 
+
+**Answer:** The speaker mentions an event that happened yesterday, but they don't elaborate on what it was. They only say that something is happening now as a result of it. 
+
+## 8.08s: also in the West Bank the resistance is 
+
+**Category:** Location/Resistance
+
+**Question:** What is happening in the West Bank? 
+
+**Answer:** The speaker mentions that there's resistance in the West Bank. It's unclear what kind of resistance or who it's directed against.
+
+## 10.559s: increasing and they are using the same
+
+**Category:** Tactics
+
+**Question:** What are the tactics being used in the West Bank?
+
+**Answer:**  The resistance in the West Bank is increasing and using the same tactics used against American forces in Iraq, such as roadside bombs.
+
+## 13.28s: tactics which were used against American
+
+**Category:** Tactics
+
+**Question:** What are the tactics the West Bank resistance is using?
+
+**Answer:**  The resistance is employing the same tactics used against American forces in Iraq, such as roadside bombs. 
+
+## 15.519s: forces in in Iraq roadside bombs and
+
+**Category:** Tactics
+
+**Question:** What specific tactic are the West Bank resistance using?
+
+**Answer:** The speaker mentions "roadside bombs" as one of the tactics being used by the West Bank resistance.
+
+## 18.119s: things like that but still the West Bank 
+
+**Category:** Resistance
+
+**Question:** What is the state of the West Bank resistance?
+
+**Answer:**  Despite using similar tactics to those employed against American forces in Iraq, the West Bank resistance is still in a state of flux and needs leadership to unite and guide them.
+
+## 21.0s: until we have really leadership coming
+
+**Category:** Leadership
+
+**Question:** What is lacking in the West Bank resistance?
+
+**Answer:** The West Bank resistance is lacking unified leadership. They are scattered activists without a common goal.
+
+## 24.08s: forward and guiding the people it seems
+
+**Category:** Leadership
+
+**Question:** What role does leadership play in the West Bank resistance? 
+
+**Answer:**  Without strong leadership, the West Bank resistance will remain fragmented and scattered, lacking a unified direction. 
+
+## 27.439s: to be it will be a scattered activist 
+
+**Category:** Resistance
+
+**Question:** What will happen without strong leadership in the West Bank resistance?
+
+**Answer:**  The West Bank resistance will remain fragmented and scattered, lacking a unified direction without strong leadership. 
+
+## 29.16s: here and there without any general line
+
+**Category:** Resistance
+
+**Question:** How will the resistance function without leadership? 
+
+**Answer:**  The resistance will be composed of scattered individuals without a clear objective or strategy, making them ineffective. 
+
+## 32.119s: thread connecting them in in a unified
+
+**Category:** Resistance
+
+**Question:** What is missing from the West Bank resistance? 
+
+**Answer:**  The West Bank resistance lacks a unifying element, like a clear ideology or shared goal, that would bring them together. 
+
+## 34.879s: front but it may be there it may still
+
+**Category:** Resistance
+
+**Question:** Is there a possibility of a unified West Bank resistance?
+
+**Answer:**  While the speaker believes that unified leadership is crucial for a successful resistance, they leave open the possibility that a unified front could still emerge in the future.
+
+## 37.2s: develop
+
+**Category:** Resistance
+
+**Question:** What is the potential future of the West Bank resistance?
+
+**Answer:** The speaker suggests that the West Bank resistance could potentially develop and become more unified. However, they emphasize that strong leadership is essential for this to happen. 
+
+
+## https://www.youtube.com/watch?v=mrnVUfehY30
+
+## 28.76s :  What is the meaning of the ayah?  
+**Category:** Quran 
+
+The ayah is a Divine injunction against praying for the forgiveness of those who have openly rejected Allah and His Messenger. It states that it is not permissible to pray for forgiveness for them, even if they are close relatives. This is because they have seen the evidence and have deliberately rejected it. 
+
+## 3683.44s :  What is the real meaning of the ayah? 
+**Category:** Quran 
+
+The ayah is a statement encouraging marriage, particularly for those who are poor or disadvantaged. It emphasizes that wealth should not be a barrier to marriage and that Allah will provide for those who are faithful.  
+
+## 3842.76s :  Is the Islamic State obliged to take zaka from people? 
+**Category:** Islamic Law
+
+Yes, it is a fundamental obligation of the Islamic State to collect and distribute zaka. The state acts as a manager and distributor of zaka funds, ensuring they reach those in need. It is not permissible for individuals to personally collect and distribute zaka.
+
+## 3903.48s :  If the state shouldn't be surveilling money, how would a state ascertain someone's wealth?
+**Category:** Islamic Law
+
+The Islamic State does not engage in surveillance of private wealth. Instead, it relies on individuals to honestly declare their wealth and pay zaka based on their assets. The state acts as a manager and distributor of zaka funds, not a collector by force or intrusion.
+
+## 4173.4s :  Do you have a source or script of the hadith about Abd bin taking votes in one of the elections?
+**Category:** Hadith
+
+The hadith in question is well-known and commonly narrated. It states that Abd bin asked everyone in Medina, including women, to vote in the election. While the specific source is not provided, it is commonly found in various hadith collections. 
+
+## 4293.52s :  If someone on telegram is considered a "Mujtahid" scholar or a "Mujtahid" in general, is there no requirement to have a teacher with an unbroken chain?
+**Category:** Islamic Law
+
+No, there is no requirement for a "Mujtahid" scholar to have an unbroken chain of teachers. A "Mujtahid" is someone who is capable of deriving legal rulings from primary sources, such as the Quran and Sunnah, independently.  
+
+## 4319.36s :  How would there be a validation mechanism for someone in the absence of a formal mechanism, like a "Jami'ah"?
+**Category:** Islamic Law
+
+The validation mechanism for a scholar is not based on formal institutions or certifications, but rather on their knowledge and understanding of Islamic law. Anyone can be asked about their understanding of Islamic law and their rulings. The validity of their knowledge can be assessed by comparing their rulings to primary sources, engaging in debate, and seeking opinions from other scholars.
+
+## 4894.199s :  Is there a requirement to have a connected chain of "sheikhs" for Islamic knowledge?
+**Category:** Islamic Law
+
+No, there is no requirement to have a connected chain of sheikhs for Islamic knowledge. Individuals can learn directly from the Quran, Sunnah, and other Islamic texts. 
+
+## 5358.92s :  Is it allowed to buy something from an ex-muslim who mocked the Prophet?
+**Category:** Islamic Law 
+
+While it is encouraged to show rejection of someone who mocks the Prophet, it is not necessarily a requirement to completely boycott them. It is permissible to engage in transactions with them unless they are actively mocking the Prophet in your presence. In that case, it is appropriate to leave their company.
+
+## 5438.56s :  Is the hadith "There is good in me and good in my ummah until the Day of Resurrection" fabricated?
+**Category:** Hadith
+
+The hadith in question is fabricated and does not exist in authentic hadith collections. While there are various hadith that discuss the virtue of the Prophet and his ummah, this specific statement is not found in any reliable sources.
+
+## 5955.28s :  Why is there a moon symbol on top of most mosques? Is that not idolatry?
+**Category:** Islamic Practice
+
+The moon symbol on top of mosques is not an idol and has nothing to do with idolatry. It is a symbol representing Islam and is often used as a decorative element on mosques. 
+
+## 6041.159s :  Do you give importance to the sahabah who narrate certain hadiths, such as prioritizing the narrations of Ibn Abbas over others?
+**Category:** Hadith
+
+While some sahabah, like Ibn Abbas, are known for their strong memory and understanding, it is essential to prioritize the content of the hadith itself. It is important to critically assess the authenticity and reliability of the hadith based on its chain of narration and content, rather than solely relying on the status of the narrator.  
+
+## 6923.56s :  Are there any updates on the Palestine situation? 
+**Category:** Current Events
+
+The speaker gives a detailed update on the situation in Palestine, specifically addressing the ongoing conflict in Gaza. He emphasizes the recent statements by Hamas and Hezbollah leaders and the ongoing battles between Hamas and the Israeli military. He also provides information on the casualties and the current state of the conflict. 
+
+## 7877.159s :  There's a point you mentioned during the lesson that I believe might have a hidden nuance, specifically on the justification side. Could you elaborate on this?
+**Category:** Quran
+
+The speaker discusses the hadith about Prophet Muhammad's prayer for Abu Jahal after his death.  He points out that Omar objected to this prayer, arguing that Abu Jahal was an enemy of Islam. The speaker explains that even though the Quran later clarifies that it is not permissible to pray for forgiveness for those who openly reject Allah and His Messenger, Prophet Muhammad still made the prayer.  He argues that the Prophet's action is not about the possibility of Allah forgiving Abu Jahal, but rather about demonstrating that he had fulfilled the promise he had made to his father. The speaker further highlights that this specific instance is not about the general issue of forgiveness, but about fulfilling a promise. He emphasizes the importance of understanding the context of the hadith and the specific situation in which it occurred.
+
+## 8580.84s :  Could we review the issue about Imam Shafi'i rejecting the testimony of four companions, including Abu Hurairah?
+**Category:** Hadith
+
+The speaker explains that the narration about Imam Shafi'i rejecting the testimony of four companions, including Abu Hurairah, is weak and possibly fabricated. He points out that this narration does not appear in any of Imam Shafi'i's known books and is likely attributed to him based on an unreliable chain of narration. He then discusses Imam Shafi'i's actual views on the importance of companions' narrations, noting that he did not have a blanket rejection of any particular companion's testimony.  
+
+## 8730.24s :  Is the narration about Imam Shafi'i rejecting four companions' testimony fabricated? 
+**Category:** Hadith
+
+The speaker states that the narration about Imam Shafi'i rejecting the testimony of four companions is indeed weak and possibly fabricated. He suggests it may be a case of a later historian or scholar misattributing the statement to Imam Shafi'i or finding it in an unreliable source.  He emphasizes the need to verify the authenticity of such narrations and to not blindly accept all statements attributed to scholars. 
+
+## 9030.84s :  Do you know if there are any websites or blogs that have forged or faked the sayings of Imam Shafi'i?
+**Category:** Hadith
+
+The speaker acknowledges that some websites and blogs have indeed forged and faked sayings attributed to Imam Shafi'i, especially in the realm of hadith.  He explains that it is important to be cautious when encountering such statements and to rely on authentic and well-established sources when seeking knowledge.  
+
+## 9247.8s :  Do you have a backlog of questions you plan to address? 
+**Category:** Q&A
+
+The speaker confirms that he has a backlog of questions and plans to address them in future sessions. He encourages viewers to send their questions through various channels, such as Facebook, WhatsApp, Telegram, and Twitter. He also mentions the possibility of dedicated Q&A sessions. 
+
+
+## https://www.youtube.com/watch?v=JTzXywLA1sA
+
+## Why did Salman rely on hijacking the so-called commission for enjoying good and forbidding evil?  
+**Category:** Politics 
+**Timestamp:** 24.599s 
+**Answer:** Salman lacked control over crucial power structures like the military and intelligence agencies within Turkey. To gain influence, he resorted to exploiting the "commission for enjoying good and forbidding evil." This commission was corrupted by Salman, who used money and resources to empower it to oppress the people.  
+
+## How did Salman increase his international standing? 
+**Category:** International Relations 
+**Timestamp:** 52.039s
+**Answer:** Salman enhanced his international standing by forming a close alliance with the Zionist and banking powers. This allowed him to gain favor and influence on the global stage, despite lacking internal power within Turkey. 
+
+
+## https://www.youtube.com/watch?v=Dt1X0h4EbqE
+
+## 7.04s:  
+**Question:** You say the Muslim news are... 
+**Category:** Media
+**Answer:** The speaker states that the Western media and some regimes are presenting a sanitized and negative view of the situation in Gaza, focusing on Hamas and painting the situation as hopeless.
+
+## 29.32s: 
+**Question:** What's the reality really in the field?
+**Category:** Situation
+**Answer:** The speaker asserts that the reality on the ground is different from what is being presented by the Western media. 
+
+## 43.32s: 
+**Question:** There's some significant happening has happened in that time?
+**Category:** Military
+**Answer:** The speaker mentions that there has been significant military activity in the last few weeks, but not much has been publicized.
+
+## 94.479s:
+**Question:** There have been also some kind of semi mutiny mutiny inside these these brigades?
+**Category:** Military
+**Answer:** The speaker says that there have been instances of mutiny within the Israeli brigades, which led to their withdrawal from Gaza. 
+
+## 111.04s: 
+**Question:** What we did not I think cover in the last time which has been now well established and well known?
+**Category:** Military
+**Answer:** The speaker highlights that five additional Israeli brigades have been withdrawn from Gaza, raising questions about tactical versus strategic reasons. 
+
+## 131.64s: 
+**Question:** What has transpired from the Israeli media? 
+**Category:** Media
+**Answer:** The Israeli media reports suggest that the withdrawal of five brigades is not tactical but a result of significant losses and potential mutiny.
+
+## 182.28s:
+**Question:** What's the announcement? 
+**Category:** Military
+**Answer:** The speaker notes that the Israeli government hasn't given a clear reason for the withdrawal of five brigades, but the Israeli media suggests they were badly damaged and have signs of mutiny. 
+
+## 200.2s:
+**Question:**  What did Netanyahu claim? 
+**Category:** Politics
+**Answer:** Netanyahu claimed that the brigades were withdrawn to join the workforce due to economic hardship, implying their removal from the battlefield.
+
+## 213.56s: 
+**Question:** Is it a tactical or strategic withdrawal?
+**Category:** Military
+**Answer:** The speaker suggests that the withdrawal is not strategic but a sign of dismantling, suggesting a significant decline in the brigades' effectiveness. 
+
+## 225.36s: 
+**Question:** How many brigades is that?
+**Category:** Military
+**Answer:**  The speaker emphasizes that the withdrawal of five brigades is a significant force, equivalent to one and a half divisions, which can wage war or attack an entire front.
+
+## 2694.64s:
+**Question:** Is Syrian intelligence behind Isis?
+**Category:** Intelligence
+**Answer:** The speaker asserts that the Syrian intelligence is deeply involved in the ISIS activities and has influenced their actions.
+
+## 2702.079s: 
+**Question:** How is Iran possibly able to act accordingly?
+**Category:** Intelligence
+**Answer:** The speaker explains that the Iranian deep state, characterized by Bahai influence, is likely unaware of the Syrian intelligence involvement in ISIS activities.
+
+## 2881.8s: 
+**Question:** What's your understanding of what's happening internally within the West Bank?
+**Category:** West Bank
+**Answer:** The speaker highlights the ongoing tensions in the West Bank, mentioning a veiled man calling for rebellion against Abbas, but emphasizes the need to assess his sincerity and intentions.
+
+## 3267.2s:
+**Question:** Any updates on the Arab regimes? 
+**Category:** Regimes
+**Answer:** The speaker discusses the Arab regimes' current stance, highlighting their desperation to achieve something but ultimately remaining in a defensive position.
+
+## 3322.96s:
+**Question:** If they withdraw from northern Gaza, what's their end game?
+**Category:** Politics
+**Answer:** The speaker suggests that a complete withdrawal from Gaza, including territorial waters, is a minimum requirement for a permanent ceasefire. 
+
+
+## https://www.youtube.com/watch?v=s28C7_vMczo
+
+##  Questions Asked and Answered
+
+**Timestamp:** 495.879s
+**Question:** What is a list of objective factual things that MBS has done or is doing that make you so mad?
+**Summary:** The speaker requests a list of concrete facts about MBS's actions that his audience finds objectionable. He emphasizes that he wants factual evidence, not just accusations, and promises to address each point.
+**Category:** Criticism
+
+**Timestamp:** 824.199s
+**Question:** Do we have any background on how Brother Shah came to Islam? Was he born Muslim or did he convert?
+**Summary:** The speaker questions the background and origins of Brother Shah's conversion to Islam, speculating that it might have been influenced by Wahhabi scholars.
+**Category:**  Background
+
+**Timestamp:** 988.959s
+**Question:** How does Brother Shah's theological background inform his arguments? 
+**Summary:** The speaker discusses Brother Shah's pragmatic approach to issues, comparing him to Sami Hami, a political analyst. They also wonder if Brother Shah's background might have influenced his views on certain issues.
+**Category:** Background
+
+**Timestamp:** 1052.799s
+**Question:** Does Brother Shah's approach have a similar pragmatic focus as Butan's? 
+**Summary:** The speaker compares Brother Shah's pragmatic approach to that of Butan, who often doesn't delve deeply into issues. They speculate on Butan's background and its possible influence on his views. 
+**Category:**  Comparison
+
+**Timestamp:** 1145.88s
+**Question:** Is Brother Shah on the payroll of MBS?
+**Summary:** The speaker addresses the possibility of Brother Shah being financially influenced by MBS, considering his background in Malaysia and previous comments on normalization.
+**Category:**  Criticism
+
+**Timestamp:** 1216.76s
+**Question:** What is the problem if a leader presents himself as an Islamic leader while doing good for the economy?
+**Summary:** The speaker discusses the issue of a leader claiming Islamic legitimacy while pursuing economic interests. They argue that while economic prosperity is important, it doesn't equate to valid Islamic leadership. 
+**Category:**  Islamic Leadership
+
+**Timestamp:** 1229.72s
+**Question:**  What is the problem with Iran acting as a nation state with an Islamic agenda?
+**Summary:**  The speaker expresses concern that Iran's actions, particularly the recent attacks against Israel, are being portrayed as a revival of Islamic power.  They argue that while Iran's actions might be politically strategic, they are not necessarily justified on Islamic grounds.
+**Category:**  Islamic Politics
+
+**Timestamp:** 1668.32s
+**Question:** What is Brother Shah's background and how did he embrace Islam?
+**Summary:** The speaker returns to the question of Brother Shah's background and conversion, suggesting that his understanding of Islam might be shallow and influenced by Wahhabi teachings. 
+**Category:**  Background
+
+**Timestamp:** 1733.039s
+**Question:**  Is there an excuse or way to understand Brother Shah's perspective?
+**Summary:** The speaker questions whether Brother Shah's views are rooted in a genuine belief that economic and military power serve Islam, despite their potential consequences. 
+**Category:**  Interpretation
+
+**Timestamp:** 1767.399s
+**Question:**  What does Brother Shah think of the laws in Saudi Arabia, particularly their claim to follow Sharia law?
+**Summary:** The speaker questions Brother Shah's stance on the Saudi government's claim to implement Sharia law, suggesting that he may not have a full understanding of the complexities of the issue. 
+**Category:**  Islamic Law
+
+**Timestamp:** 1802.76s
+**Question:**  Why is Brother Shah's perspective relevant to the discussion about MBS's actions?
+**Summary:** The speaker emphasizes the importance of understanding Brother Shah's motivations for defending MBS, as his perspective could be influenced by a naive belief that economic and political power serve Islam.
+**Category:**  Interpretation
+
+**Timestamp:** 1908.84s
+**Question:** What is Brother Shah challenging and what points is he putting on the table?
+**Summary:** The speaker questions what Brother Shah's challenge entails and what specific arguments he is presenting. 
+**Category:**  Criticism
+
+**Timestamp:** 2011.399s
+**Question:**  What does Muhammad Ibn Abd al-Wahhab's claim about his own past understanding of Islam reveal about his personality?
+**Summary:**  The speaker analyzes Muhammad Ibn Abd al-Wahhab's statement about his past misunderstanding of Islam, arguing that it reflects an obsessive and potentially psychopathic mindset.
+**Category:**  Islamic History
+
+**Timestamp:** 2480.04s
+**Question:** Does Muhammad Ibn Abd al-Wahhab have a solution for the issue of Haram income? 
+**Summary:** The speaker describes a historical interaction between Muhammad Ibn Abd al-Wahhab and a sheikh, focusing on the question of whether he had a solution for the ruling family's reliance on Haram income.
+**Category:**  Islamic History
+
+**Timestamp:** 2822.52s
+**Question:**  Do you believe the Saudi textbook's explanation of why Mamud Ibn Saud secluded himself? 
+**Summary:** The speaker discusses a historical account of Mamud Ibn Saud's seclusion, questioning the Saudi textbook's explanation and suggesting it was a forced act rather than a personal choice.
+**Category:**  Islamic History
+
+**Timestamp:** 3034.96s
+**Question:** What happened to the children of the people killed in the city of Seat? 
+**Summary:**  The speaker questions the fate of the children of those killed in the city of Seat by the first Saudi state, considering the implications of the reported massacre of 1500 men and women.
+**Category:**  Islamic History
+
+**Timestamp:** 3591.559s
+**Question:** What sinful acts did Mubarak Ibn Saud perform, particularly regarding Ramadan? 
+**Summary:** The speaker relays a story about Mubarak Ibn Saud's public sins, including his alleged public consumption of food during Ramadan.  This story is significant as it reveals the hypocrisy and corruption within the ruling family.
+**Category:**  Islamic History
+
+**Timestamp:** 4582.199s
+**Question:** How come King Abd al-Aziz changed his title from Sultan to King? 
+**Summary:** The speaker points to a perceived contradiction in King Abd al-Aziz's title change, questioning how he could claim to be an Islamic leader while adopting a title associated with secular rulers.
+**Category:**  Islamic History
+
+**Timestamp:** 5056.199s
+**Question:** What is the truth about King Abd al-Aziz's meeting with President Roosevelt? 
+**Summary:** The speaker questions the official accounts of King Abd al-Aziz's meeting with President Roosevelt, suggesting a possible discrepancy between the public narrative and the actual events.  
+**Category:**  Islamic History
+
+**Timestamp:** 5218.52s
+**Question:**  What is unequivocally un-Islamic about King Abd al-Aziz's actions?
+**Summary:**  The speaker reiterates the argument that King Abd al-Aziz's actions, particularly his alliance with America, are un-Islamic. 
+**Category:**  Islamic Law
+
+**Timestamp:** 5352.84s
+**Question:** Who was involved in the secret dealings with America, particularly the Contra affair, during the time of usury banking?
+**Summary:** The speaker brings up the issue of usury banking in Saudi Arabia and its connection to the Contra affair, questioning who was involved in these secret dealings.
+**Category:**  Islamic History
+
+**Timestamp:** 5696.159s
+**Question:**  Why does ABD al-Aziz's brother believe Saudi Arabia wasted 40 years on economic development?
+**Summary:** The speaker discusses ABD al-Aziz's brother's criticism of Saudi Arabia's economic development, attributing the missed opportunities to the ruling family's corruption and lack of focus on industrialization. 
+**Category:**  Economic Development
+
+**Timestamp:** 6687.4s
+**Question:**  Is the idea of MBS gravitating towards China genuine? 
+**Summary:** The speaker questions whether MBS's recent overtures towards China are genuine or a strategic maneuver to escape the pressure of America. 
+**Category:**  Political Strategy
+
+**Timestamp:** 6710.88s
+**Question:** Is MBS's recent overture to China for the benefit of Islam?
+**Summary:** The speaker questions the potential impact of MBS's alleged shift towards China, highlighting that it might not benefit Islam or the Ummah in the long run.
+**Category:**  Islamic Politics
+
+**Timestamp:** 6811.639s
+**Question:** What is Brother Shah's motivation for defending the Saudi regime?
+**Summary:** The speaker questions Brother Shah's motives for defending the Saudi regime, considering the regime's history of corruption and treachery. 
+**Category:**  Interpretation
+
+**Timestamp:** 7515.119s
+**Question:** Why is normalization with Israel ridiculous?
+**Summary:**  The speaker reiterates their position against normalization with Israel, arguing that it is not legitimate on international or Islamic grounds and that it betrays the Palestinian people's right to self-determination.
+**Category:**  Palestine
+
+**Timestamp:** 7620.599s
+**Question:**  What are the actual benefits of normalizing relations with Israel? 
+**Summary:** The speaker challenges the idea of normalizing relations with Israel, asking for concrete benefits beyond shallow justifications or personal desires. They emphasize the importance of focusing on real progress and development.
+**Category:**  Palestine
+
+**Timestamp:** 7851.44s
+**Question:**  Did anyone threaten Saudi Arabia with nuclear bombs if they didn't allow goods for Israel to pass through their territory? 
+**Summary:** The speaker critiques the Saudi government's decision to allow goods for Israel to be transported through their country, questioning whether any actual threats forced them to do so.
+**Category:**  Political Strategy
+
+**Timestamp:** 7961.079s
+**Question:**  Is NE another example of embezzlement? 
+**Summary:** The speaker discusses the failure of the NE project and questions whether it was a result of embezzlement or mismanagement. 
+**Category:**  Economic Development
+
+**Timestamp:** 8215.719s
+**Question:** Why is it naive to think that the Saudi regime will change on its own? 
+**Summary:**  The speaker criticizes the notion that the Saudi regime will change on its own, emphasizing that their history of treachery and corruption suggests they will continue their current course.
+**Category:**  Political Change
+
+**Timestamp:** 8401.04s
+**Question:**  Is it naive to believe there's even a 1% chance that MBS is not a complete scumbag?
+**Summary:** The speaker questions whether it's naive to believe that MBS might have a chance of changing his ways, considering his history of corruption and brutality.
+**Category:**  Interpretation
+
+**Timestamp:** 8982.52s
+**Question:** Why does Brother Shah think he's obliged to defend MBS?
+**Summary:** The speaker returns to the question of Brother Shah's motivation for defending MBS, suggesting that it could be due to fear, financial gain, or a misguided understanding of Islam.
+**Category:**  Interpretation
+
+**Timestamp:** 9007.56s
+**Question:** How would you evaluate a ruler like Hamza Yusuf?
+**Summary:** The speaker brings up Hamza Yusuf, highlighting his flaws and potential biases. They also emphasize the importance of not defending individuals based on their religious affiliation but rather on their actions and motivations.
+**Category:**  Islamic Leaders
+
+**Timestamp:** 9093.92s
+**Question:** Should Brother Shah be open to direct critique and discussion?
+**Summary:** The speaker advocates for open and direct dialogue with Brother Shah, suggesting a public discussion with Sami Hamdi or other critics. 
+**Category:**  Dialogue
+
+**Timestamp:** 9124.68s
+**Question:** What do the recent actions of the Israelis reveal about their relationship with Arab regimes?
+**Summary:** The speaker highlights a recent policy shift by Israel to publicly expose and shame Arab regimes that are secretly cooperating with them. 
+**Category:**  Palestine
+
+**Timestamp:** 9240.04s
+**Question:** Why does Saudi Arabia have to cover up its relationship with Israel?
+**Summary:** The speaker explains that Saudi Arabia's secret cooperation with Israel is being kept hidden from the public to avoid a backlash and possible political instability.
+**Category:**  Political Strategy
+
+**Timestamp:** 9301.359s
+**Question:** How can someone born in a country with a margin of freedom be so politically naive?
+**Summary:** The speaker questions how Brother Shah, who was born in a country with some degree of freedom and accountability, can be so politically naive and unable to see the Saudi regime's corruption and treachery. 
+**Category:**  Interpretation
+
+**Timestamp:** 9334.64s
+**Question:** Is it true that Saudi Arabia helped Israel against Iran? 
+**Summary:**  The speaker points to evidence suggesting that Saudi Arabia is actively supporting Israel against Iran, highlighting the hypocrisy of their position and their betrayal of the Muslim world. 
+**Category:**  Palestine
+
+**Timestamp:** 9393.6s
+**Question:**  Is it true that there is a US-Saudi command and control center in Yemen? 
+**Summary:** The speaker questions the presence of a US-Saudi command and control center in Yemen, considering its implications for the ongoing conflict and the US's involvement in the region.
+**Category:**  Military Strategy
+
+**Timestamp:** 9461.0s
+**Question:**  Is it politically naive to think that the Saudi regime will care about the Ummah?
+**Summary:** The speaker emphasizes that it is politically naive to believe that the corrupt and sociopathic Saudi regime will ever genuinely care about the Ummah or its interests.
+**Category:**  Interpretation
+
+**Timestamp:** 9531.04s
+**Question:** What is the real agenda of Iran in its recent actions?
+**Summary:**  The speaker clarifies their position on Iran's recent actions, arguing that they are not motivated by a desire to serve Islam or Palestine but rather by a sectarian and nationalistic agenda.
+**Category:**  Iran
+
+**Timestamp:** 9591.96s
+**Question:** What should Iran do if its goal is to be a great nation and power? 
+**Summary:** The speaker suggests that if Iran's goal is to be a great nation and power, it should be honest about its intentions and not try to deceive the public with claims of serving Islam.
+**Category:**  Iran 
+
+**Timestamp:** 9663.12s
+**Question:** What should Muslims do to confront and defeat the enemies of Islam?
+**Summary:** The speaker advocates for active engagement and confrontation against the enemies of Islam, emphasizing the need for awareness, education, and empowerment through social media.
+**Category:**  Islamic Politics
+
+**Timestamp:** 9680.76s
+**Question:** What is the current situation with Saudi Arabia's collusion with the West? 
+**Summary:**  The speaker discusses the ongoing collusion between Saudi Arabia and Western powers, highlighting their history of treachery and their continued support of anti-Islamic agendas.
+**Category:**  Political Strategy
+
+**Timestamp:** 9771.08s
+**Question:** How can we get away from American influence?
+**Summary:**  The speaker discusses the challenges of freeing the Muslim world from American influence, emphasizing that simply turning away from America isn't enough and that internal reform and empowerment of the people are crucial. 
+**Category:**  Political Strategy
+
+**Timestamp:** 9855.76s
+**Question:**  How did Hamza Yusuf's education influence his perspective on Islam?
+**Summary:** The speaker discusses the influence of Hamza Yusuf's education, speculating that it might have contributed to his flawed understanding of Islam and his naive admiration for certain individuals.
+**Category:**  Islamic Leaders
+
+
+## https://www.youtube.com/watch?v=PVuO0Ee3vgw
+
+## 0.12s : the one in the in in these countries
+**Category:**  Geography
+
+**Question:** Which countries are being discussed? 
+
+**Answer:** The speaker is discussing countries in the Middle East, particularly those with a large Muslim population. 
+
+## 2.56s : around especially Egypt and and Jordan
+**Category:**  Geography
+
+**Question:**  Which specific countries are being highlighted? 
+
+**Answer:** The speaker emphasizes Egypt and Jordan as being particularly relevant to the discussion. 
+
+## 5.2s : and also the West Bank I repeat what I
+**Category:**  Geography
+
+**Question:**  What other geographical region is mentioned?
+
+**Answer:** The speaker includes the West Bank, a Palestinian territory, in the discussion. 
+
+## 8.2s : said to them for you because you are
+**Category:**  Social
+
+**Question:** Who is the speaker addressing?
+
+**Answer:** The speaker is addressing individuals who are residents or citizens of the countries mentioned, specifically those living in the West Bank.
+
+## 10.559s : living there you resident or you citizen
+**Category:**  Social
+
+**Question:**  What is the speaker asking about the listeners' status?
+
+**Answer:** The speaker wants to know if the listeners are residents or citizens of the countries they are living in. 
+
+## 13.16s : there for you it's legitimate and the
+**Category:**  Law
+
+**Question:**  What is the speaker claiming is legitimate?
+
+**Answer:** The speaker is stating that according to Islamic law, it is legitimate for residents or citizens of these countries to take action against their rulers.
+
+## 16.039s : Islamic law to address these
+**Category:**  Law
+
+**Question:** What does Islamic law allow these individuals to do?
+
+**Answer:** The speaker says Islamic law allows individuals to address their rulers with force, including the use of weapons. 
+
+## 18.88s : rulers with the sword with the guns with
+**Category:**  Law
+
+**Question:** What methods are the individuals permitted to use against their rulers?
+
+**Answer:**  According to the speaker, individuals can use swords, guns, and even bombs to fight their rulers if they deem it necessary.
+
+## 22.039s : the bombs because they are having power
+**Category:**  Politics
+
+**Question:** Why are these rulers being targeted?
+
+**Answer:** The speaker suggests that these rulers have power and are using it unjustly, which justifies the use of force against them.
+
+## 25.119s : they have the sword in their hand and
+**Category:**  Politics
+
+**Question:** What is the speaker accusing the rulers of doing?
+
+**Answer:** The speaker accuses the rulers of holding power and using force against their people, similar to how they are being targeted.
+
+## 26.48s : they using The Sword and the power
+**Category:**  Politics
+
+**Question:** How are the rulers using their power?
+
+**Answer:** The speaker accuses the rulers of using force and power against their people. 
+
+## 28.519s : against the um killing the people
+**Category:**  Politics
+
+**Question:** What specific actions are the rulers taking against their people? 
+
+**Answer:** The speaker claims the rulers are killing their people and supporting the genocide of Gazans. 
+
+## 30.119s : supporting the genocide of Gaza so they
+**Category:**  Politics
+
+**Question:** What is the speaker accusing the rulers of supporting?
+
+**Answer:** The speaker accuses the rulers of supporting the genocide of people in Gaza, a Palestinian territory.
+
+## 32.36s : are Warrior they war criminals they
+**Category:**  Law
+
+**Question:** What are the rulers being labeled as?
+
+**Answer:** The speaker calls the rulers "war criminals" and argues they should be eliminated. 
+
+## 35.16s : should be taken out no mercy to them
+**Category:**  Law
+
+**Question:** What action does the speaker advocate for against these rulers?
+
+**Answer:** The speaker believes these rulers deserve no mercy and should be eliminated. 
+
+## 37.96s : don't hesitate don't mother if they call
+**Category:**  Law
+
+**Question:** What does the speaker tell the listeners to do?
+
+**Answer:** The speaker urges the listeners to not hesitate or feel remorse when taking action against these rulers.
+
+## 39.96s : we are Muslim or not Muslim is not
+**Category:**  Religion
+
+**Question:** What factor does the speaker say is irrelevant?
+
+**Answer:** The speaker emphasizes that religious affiliation, whether Muslim or not, is irrelevant in this situation.
+
+## 41.6s : relevant they are in the battlefield
+**Category:**  War
+
+**Question:** What defines the situation, according to the speaker?
+
+**Answer:** The speaker claims that being in a battlefield, not religion, defines the situation.
+
+## 42.96s : with isra whoever in the battlefield as
+**Category:**  War
+
+**Question:** Who is the speaker referring to as being in the battlefield?
+
+**Answer:** The speaker refers to anyone in the battlefield, including Israelis, as a legitimate target.
+
+## 45.8s : long he's the battlefield and his sword
+**Category:**  War
+
+**Question:** What are the criteria for being a target in the battlefield?
+
+**Answer:**  The speaker states that anyone in the battlefield with a sword or effectively spying for the enemy is a legitimate target.
+
+## 47.8s : is in his hand or effectively spying for
+**Category:**  War
+
+**Question:** What else qualifies someone as a target in the battlefield?
+
+**Answer:**  The speaker clarifies that anyone effectively spying for the enemy, even without holding a weapon, is also a target. 
+
+## 50.199s : them they should they should be killed
+**Category:**  War
+
+**Question:** What should be done to these individuals in the battlefield?
+
+**Answer:** The speaker believes that anyone who meets the criteria should be killed and eliminated. 
+
+## 52.28s : eliminated and especially in the West
+**Category:**  Geography
+
+**Question:** What geographical region is specifically highlighted?
+
+**Answer:** The speaker emphasizes that the actions discussed should be applied especially in the West Bank.
+
+## 54.039s : Bank that should be the first action I'm
+**Category:**  Law
+
+**Question:** What does the speaker recommend as the first action to be taken?
+
+**Answer:** The speaker recommends that the first action should be taken against the rulers in the West Bank.
+
+## 56.28s : still appealing to the people there
+**Category:**  Politics
+
+**Question:** What is the speaker still trying to do?
+
+**Answer:** The speaker is still trying to convince people in the West Bank to take action against their rulers. 
+
+## 58.719s : don't do roadside bombs for the Israeli
+**Category:**  War
+
+**Question:** What specific action does the speaker advise against? 
+
+**Answer:** The speaker advises against targeting Israelis with roadside bombs.
+
+## 60.76s : colon and so on do them for the for the
+**Category:**  War
+
+**Question:** Who should be the target of these actions?
+
+**Answer:** The speaker emphasizes that these actions should be directed towards Palestinian leaders like Abbas, not Israelis.
+
+## 63.68s : thugs of Abbas and Abbas himself because
+**Category:**  Politics
+
+**Question:** Why does the speaker target Palestinian leaders?
+
+**Answer:** The speaker believes these leaders are acting as a shield for Israel and should be eliminated.
+
+## 66.84s : these are the shield of isra if you get
+**Category:**  Politics
+
+**Question:** What is the speaker's belief about the role of Palestinian leaders?
+
+**Answer:** The speaker believes that Palestinian leaders like Abbas are protecting Israel by controlling the Palestinian population. 
+
+## 68.759s : these out the Israelis will be in this
+**Category:**  Politics
+
+**Question:** What will happen if Palestinian leaders are removed?
+
+**Answer:**  The speaker believes removing these leaders will leave Israelis vulnerable and easier to target.
+
+## 70.799s : array they have to come by themselves
+**Category:**  Politics
+
+**Question:** What is the speaker's prediction about Israeli's ability to operate without Palestinian leaders?
+
+**Answer:**  The speaker claims that Israel will be in a difficult position if they lose the support of these leaders, who provide a shield for them. 
+
+## 73.2s : they don't have the support they have
+**Category:**  Politics
+
+**Question:**  What does the speaker claim Israel lacks without Palestinian leaders? 
+
+**Answer:** The speaker claims that Israel will lack the support and control over the Palestinian people without these leaders. 
+
+## 74.6s : don't have the eyes of the of abas taxs
+**Category:**  Politics
+
+**Question:**  What will Israel lose without Palestinian leaders?
+
+**Answer:** The speaker believes Israel will lose the eyes and ears of the Palestinian people, who are currently controlled by Abbas.
+
+## 77.6s : and it would be easier to get them then
+**Category:**  War
+
+**Question:**  What will happen to Israel after the removal of Palestinian leaders?
+
+**Answer:**  The speaker believes that Israel will be easier to target and defeat without Palestinian leaders.
+
+## 80.119s : not before before you you bomb the
+**Category:**  War
+
+**Question:** What action should be taken before targeting Israelis?
+
+**Answer:** The speaker advises against attacking Israelis directly before eliminating the Palestinian leadership. 
+
+## 82.6s : Israelis your back is to abas abas will
+**Category:**  Politics
+
+**Question:**  What will happen if Palestinian leaders are not removed before attacking Israel?
+
+**Answer:**  The speaker warns that if Palestinian leaders remain in power, they will betray and attack those targeting Israel.
+
+## 85.04s : stab you in the as you have seen many
+**Category:**  Politics
+
+**Question:**  What has happened in the past that proves the speaker's point?
+
+**Answer:** The speaker claims that there are historical examples of Palestinian leaders betraying those attacking Israel. 
+
+## 87.64s : times it is continuously and choose your
+**Category:**  War
+
+**Question:** What does the speaker urge the listeners to do carefully?
+
+**Answer:** The speaker encourages the listeners to carefully choose their targets in the conflict. 
+
+## 91.04s : target proper the first Target is abas
+**Category:**  Politics
+
+**Question:**  Who is the speaker's primary target?
+
+**Answer:** The speaker identifies Abbas as the first and most important target. 
+
+## 93.32s : and his taret the same in Egypt the the
+**Category:**  Politics
+
+**Question:**  Who else should be targeted in Egypt?
+
+**Answer:** The speaker identifies the Egyptian ruling elite, including military leaders and government officials, as targets.
+
+## 97.2s : ruling the the ruling Elite that's bti
+**Category:**  Politics
+
+**Question:**  Who are the primary targets in Egypt?
+
+**Answer:** The speaker clarifies that the targets in Egypt are the ruling elite, not the general population.
+
+## 99.479s : military and the president and the
+**Category:**  Politics
+
+**Question:** Who specifically are the targets within the ruling elite?
+
+**Answer:** The speaker names the military, the president, ministers, and the Secret Service as targets.
+
+## 101.479s : minister and the people around them and
+**Category:**  Politics
+
+**Question:**  Who are the specific targets within the ruling elite?
+
+**Answer:** The speaker includes the president, ministers, military leaders, and their close associates as targets. 
+
+## 103.079s : the Secret Service not the usual police
+**Category:**  Politics
+
+**Question:**  What group of people are specifically mentioned as targets?
+
+**Answer:** The speaker specifies the Secret Service as targets, distinguishing them from regular police officers.
+
+## 105.56s : traffic police has nothing to do with
+**Category:**  Politics
+
+**Question:**  What group of people are excluded from the targets?
+
+**Answer:** The speaker clarifies that regular police officers, like traffic police, are not targets. 
+
+## 107.079s : that these one these are a legitimate
+**Category:**  Law
+
+**Question:**  What is the speaker's justification for targeting these individuals?
+
+**Answer:** The speaker claims that targeting these individuals is legitimate because they are using force unjustly.
+
+## 108.88s : Target because they are using Force to
+**Category:**  Politics
+
+**Question:**  What are the Egyptian rulers using force to prevent?
+
+**Answer:** The speaker states that the Egyptian rulers are using force to prevent their citizens from fighting alongside their Palestinian brethren.
+
+## 112.32s : prevent the people of Egypt of fighting
+**Category:**  Politics
+
+**Question:**  What are the Egyptian rulers trying to suppress?
+
+**Answer:** The speaker claims that the Egyptian rulers are preventing their citizens from joining the fight in Palestine. 
+
+## 115.28s : with their brethen in in many people
+**Category:**  Politics
+
+**Question:**  Who are the Egyptian people being prevented from fighting alongside?
+
+**Answer:** The speaker refers to the Palestinians as "brethren," suggesting a shared religious or cultural identity.
+
+## 117.56s : would like to fight if they are allow
+**Category:**  Politics
+
+**Question:**  What is the desire of the Egyptian people?
+
+**Answer:** The speaker claims that many Egyptian people want to join the fight in Palestine, but they are prevented. 
+
+## 119.52s : they not not allowed they are being
+**Category:**  Politics
+
+**Question:**  What are the Egyptian people being subjected to?
+
+**Answer:** The speaker states that the Egyptian people are being prevented from joining the fight and are even imprisoned for expressing support. 
+
+## 121.0s : prisoned if they express something like
+**Category:**  Politics
+
+**Question:**  What happens to Egyptians who express support for the Palestinian cause?
+
+**Answer:** The speaker claims that Egyptians are punished with imprisonment for expressing support for the Palestinian cause.
+
+## 122.719s : that so these are using violent Force
+**Category:**  Politics
+
+**Question:**  What is the speaker's accusation against the Egyptian rulers?
+
+**Answer:** The speaker accuses the Egyptian rulers of using violence against their own people to suppress their support for the Palestinian cause.
+
+## 125.24s : against Muslims and they are it's a
+**Category:**  Law
+
+**Question:**  What is the speaker's justification for eliminating the Egyptian rulers?
+
+**Answer:** The speaker argues that the Egyptian rulers are using violence against Muslims, justifying their elimination.
+
+## 127.92s : perfect legitimate to eliminate
+**Category:**  Law
+
+**Question:**  What does the speaker declare is legitimate?
+
+**Answer:** The speaker asserts that eliminating these rulers who are using violence against Muslims is a legitimate act.
+
+## 131.28s : them that's it that's a legitimate fight
+**Category:**  War
+
+**Question:**  What does the speaker declare is a legitimate fight?
+
+**Answer:** The speaker calls the action against these rulers a legitimate fight for freedom.
+
+## 133.959s : this is freedom fight it's not terrorism
+**Category:**  War
+
+**Question:**  How does the speaker characterize the fight against these rulers?
+
+**Answer:** The speaker describes the fight as a freedom fight, not terrorism.
+
+## 136.2s : nothing like that
+**Category:**  War
+
+**Question:**  What is the speaker denying?
+
+**Answer:** The speaker rejects the characterization of the fight as terrorism. 
+
+
