@@ -40376,3 +40376,308 @@ The speaker confirms that he has a backlog of questions and plans to address the
 **Answer:** The speaker rejects the characterization of the fight as terrorism. 
 
 
+## https://www.youtube.com/watch?v=N4Ft47GHcPc
+
+##  What is the name of the resistance group in Iraq? 
+**Category:**  Politics 
+0.04s - 2.36s:  The speaker mentions a resistance group in Iraq, called an alliance of various resistance groups. 
+They are referred to as "Islamic resistance" and "resistance of Iraq."
+
+## What has the resistance group in Iraq announced?
+**Category:**  Politics
+12.719s - 20.56s:  The resistance group has announced they will stop engaging in activities to avoid embarrassing the Iraqi government.
+
+## What is the speaker's opinion on the resistance group's announcement? 
+**Category:**  Opinion
+22.08s - 31.679s:  The speaker considers the group's announcement a "filthy excuse" and believes they should not have announced anything. They believe that the group is trying to avoid responsibility and is not truly committed to their cause.
+
+## What is the speaker's opinion on the group's relationship with Iran?
+**Category:**  Politics
+34.16s - 42.039s:  The speaker believes that the resistance group was backed by Iran. He believes the group's recent announcement shows they are no longer being supported by Iran and are essentially out of business.
+
+## What advice does the speaker give to other resistance groups? 
+**Category:**  Politics
+44.92s - 56.8s: The speaker advises other resistance groups not to associate with or accept the group as a member. He believes they failed to support the cause when it mattered most.
+
+## What does the speaker say about the resistance group's role in the Islamic State of Iraq and the Levant (ISIL)?
+**Category:**  Politics
+58.92s - 79.28s: The speaker believes that the resistance group had been a part of ISIL, and states that they should be excluded because they did not stand with their supposed cause during a critical moment.
+
+## What is the speaker's opinion on the resistance group's current status? 
+**Category:**  Opinion
+86.2s - 112.079s: The speaker believes the resistance group is currently silent and may not be active, but they should still be watched closely. The speaker thinks the group remains committed to their cause and is likely upset by their recent failure. However, they are not actively challenging the Iraqi government yet. 
+
+## What does the speaker believe the real enemy is?
+**Category:**  Politics
+116.96s - 124.36s: The speaker concludes that the real enemy is the Iraqi government, and that it needs to be eliminated. 
+
+
+## https://www.youtube.com/watch?v=AgqdRPlsnIE
+
+## What is the news from yesterday and this morning? 
+**Category:**  News Summary
+
+**Timestamp:** 0.16s 
+
+The news is about a barrage of hundreds of rockets launched by Hamas near the Israel border, an attack on an Israeli ship (possibly a military ship or tanker), and potentially attacks on other strategic targets. 
+
+## Why did Hamas launch this preemptive strike? 
+**Category:**  Military Action
+
+**Timestamp:** 37.76s
+
+Hamas claims they launched the attack because they were observing Israel preparing to launch approximately 3,000 rockets.
+
+## What are some of the claims Israel has made about the attack?
+**Category:**  Military Action
+
+**Timestamp:** 46.32s
+
+Israel claims they successfully intercepted most of the rockets by attacking the launch pads and facilities. 
+
+## How does this information relate to previous statements made by Israel?
+**Category:**  Military Analysis
+
+**Timestamp:** 96.32s
+
+The speaker believes that Israel's previous statements, particularly those made since October 7th, have been full of lies and exaggerations. They cite examples of claims that Hamas was destroyed and only two brigades remained as false.
+
+## Is it concerning that Israel has air superiority in the region?
+**Category:**  Military Analysis
+
+**Timestamp:** 116.759s
+
+The speaker finds it concerning that Israel can fly freely over Gaza, despite Hamas's ability to shoot down planes. They believe that holding back on using these defenses is a good strategic move.
+
+## How are the actions of Israel impacting the situation with Iran?
+**Category:**  International Relations
+
+**Timestamp:** 310.039s
+
+The speaker believes that delaying action against Israel from Iran's side has merits. However, they also note that Iran should not let Israel gain too much ground during this delay.
+
+## What strategy could Iran use to successfully attack Israel?
+**Category:**  Military Strategy
+
+**Timestamp:** 373.479s
+
+The speaker suggests that Iran should saturate the Iron Dome defense system with drones and attacks from Lebanon and the seaside. They could then use guided missiles to target Iron Dome assets, while launching ballistic missiles after the saturation begins.
+
+## What are some potential reasons for the delay in Iranian retaliation? 
+**Category:**  International Relations
+
+**Timestamp:** 434.639s
+
+The speaker believes that Iran's delay could be due to intensive negotiations and a possible offer from Iran to the UN Security Council. They mention that Iran may be waiting for a permanent ceasefire and withdrawal of Israeli forces.
+
+## Does Muhammad bin Salman fear assassination?
+**Category:**  Political Analysis
+
+**Timestamp:** 1793.559s
+
+The speaker believes that Muhammad bin Salman is afraid of assassination due to peace negotiations with Israel. They cite a US Journal report that says he is fearful that his fate will be similar to that of Anwar Sadat, who was assassinated after making peace with Israel.
+
+## Why might this concern about assassination be a bluff?
+**Category:**  Political Analysis
+
+**Timestamp:** 1845.919s
+
+The speaker notes that some analysts believe that Muhammad bin Salman may be using the fear of assassination as a bluff to secure more benefits from the US. 
+
+## Why might the assassination concern be a logical argument? 
+**Category:**  Political Analysis
+
+**Timestamp:** 1906.72s
+
+The speaker states that it would be more logically sound for Muhammad bin Salman to fear being overthrown by his people due to the ongoing Palestinian slaughter, rather than a peace treaty with Israel. 
+
+## What are the potential motivations behind Muhammad bin Salman's statements?
+**Category:**  Political Analysis
+
+**Timestamp:** 1990.399s
+
+The speaker suggests that Muhammad bin Salman may be leaking his fear of assassination to gain favor with his people, or that he may be using it as leverage against the US to secure benefits. 
+
+## Why is the UAE pushing for a peace treaty with Israel?
+**Category:**  International Relations
+
+**Timestamp:** 2032.36s
+
+The speaker says that the UAE is pushing for a peace treaty with Israel because they are afraid of a wider war in the region. They believe the UAE would be greatly impacted by such a conflict and are concerned about losing power.
+
+## What does Muhammad bin Salman want from the US?
+**Category:**  Political Analysis
+
+**Timestamp:** 2103.0s
+
+The speaker believes that Muhammad bin Salman wants more security, armaments, and possibly even a nuclear program from the US.
+
+## Why might the UAE be pushing for a Palestinian State?
+**Category:**  International Relations
+
+**Timestamp:** 2126.0s
+
+The speaker suggests that the UAE's calls for a Palestinian state are likely hypocritical and are merely a way to appease the public.
+
+## What is the real reason for the detention of the Telegram CEO in Iran?
+**Category:**  Political Analysis
+
+**Timestamp:** 2244.8s
+
+The speaker says that the Iranian government is using money laundering charges against the Telegram CEO as an excuse to silence dissent. They believe that he was detained for refusing to cooperate with the government in exposing certain groups and websites.
+
+## Why has Hamas launched this barrage of rockets?
+**Category:**  Military Action
+
+**Timestamp:** 1223.24s
+
+The speaker believes that the recent barrage of rockets was a primary retaliation against Israel, but that there are other, more substantial, retaliations to come.
+
+## What is the significance of Israel's preemptive strike against Hamas's long-range missiles?
+**Category:**  Military Analysis
+
+**Timestamp:** 1263.72s
+
+The speaker suggests that Israel's preemptive strike against the launchpads was a response to Hamas's initial retaliation. This is a major development as it demonstrates the level of intelligence Israel has on Hamas and the extent to which they are willing to preemptively strike.
+
+## How did Hamas respond to Israel's claims about destroying their launchpads?
+**Category:**  Military Analysis
+
+**Timestamp:** 1430.12s
+
+Hamas denies Israel's claims and argues that the rockets launched were decoys. The speaker believes this is possible given the Yemeni tactic of using decoys against American forces.
+
+## What does this preemptive strike say about the level of intelligence Israel has on Hamas?
+**Category:**  Military Analysis
+
+**Timestamp:** 1703.08s
+
+The speaker sees the preemptive strike as a sign that Israel has a significant level of intelligence about Hamas's operations, possibly even involving leaks within Hamas's ranks.
+
+## What is the overall outlook for the current situation?
+**Category:**  Political Analysis
+
+**Timestamp:** 1125.36s
+
+The speaker remains cautiously optimistic about the situation but feels that things are not going as well as many hope. They believe it will take time to see if things will turn in a more positive direction. 
+
+## What does the letter sent by Nasrallah to the Palestinian people indicate?
+**Category:**  Political Analysis
+
+**Timestamp:** 832.24s
+
+The speaker believes that the letter sent by Nasrallah to the Palestinian people indicates that Hezbollah is becoming frustrated with other countries for abandoning the Palestinians. The letter also suggests that Hezbollah is ready to take a stronger stance in support of the Palestinians. 
+
+
+## https://www.youtube.com/watch?v=ADcnHAX4cdk
+
+## What does this bring in the situation in Gaza?  
+**Category:**  Military Strategy 
+**Timestamp:** 12.12s 
+**Question Summary:** The speaker asks what impact the potential expulsion of Palestinians from Gaza would have on the overall situation in the region. 
+**Answer Summary:** The speaker suggests that expelling Palestinians would create a situation where Hamas could operate with more freedom and less concern for civilian casualties. It's a risky strategy, but one that Hamas could potentially exploit to its advantage. 
+
+## What is is make empty obviously they have to go again to the north and push the people to the South and from push to ra so they have to do that but assume they do that and they succeed and the door is open to to S okay so above the ground there's barely any Palestinian all of them are gone out to S fine but Hamas is downstairs and they were all the time downstairs they never went up except for fighting and back now the ises have two options either just having some forces around to watch so that Hamas does not come out and launch any attacks or something like that in the hope that maybe after some time they will give up or die or something and lack of food and so but it seems to be they have they have sustenance and they have even it it is now proven I think Beyond doubt that they have even agriculture down there and they are having access to the Sea which they have they have fish they seem to they have sufficient storage for energy for a long hold secondly if they want to eliminate Hamas he may do that initially so that he can have most division going toward we come to leanon or he continue the fighting against Hamas the same way have done before but then Hamas will have a better situation without any civilian around they have no responsibility for any civilian they don't feel the pain of the civilian because the civilian are relatively safe and Cai so that's will be a relief for them actually will be it will be stupidity from from but that's how Allah blind some peopleas will feel more free now they can roam whoever they want and still the demolished building are there the the rubble is there and this hiding and and the mouse and Cat game will continue like it has been before now with more Liberty because there's no need for Hamas to be very cautious about the existence of some civilian here and there they can't take complete anybody
+**Category:**  Military Strategy
+**Timestamp:** 19.48s 
+**Question Summary:** The speaker ponders what the potential impact of clearing the civilian population from Gaza would be on the Israeli military strategy.
+**Answer Summary:** The speaker believes that eliminating the civilian population from Gaza would allow the Israelis to focus their efforts on Hamas, potentially leading to an easier victory.  However, it would also leave Hamas free to operate without concern for civilian casualties, leading to a more brutal and protracted conflict.  The speaker questions whether this outcome would be strategically beneficial or a fool's errand. 
+
+
+## https://www.youtube.com/watch?v=a7wj02eiyBI
+
+
+
+## https://www.youtube.com/watch?v=fmpg1n8UZDQ
+
+##  What have coming from dig exactly what  (2.56s) 
+**Category:** History
+
+The speaker is asking about the significance of the historical event they're discussing. They're curious about what was unearthed during the digging process and its relevance to the larger narrative.  
+
+## Has happened in the messenger of Allah  (5.04s)
+**Category:** Islamic History
+
+The speaker is asking about the role of the Prophet Muhammad in the events they're discussing. They are interested in understanding what actions the Prophet took and how they impacted the situation. 
+
+## From between meca and Medina and they (7.08s) 
+**Category:** Geography
+
+The speaker is asking about the location and the actions of a particular group of people. They are curious about the geographical context of the events and the specific actions taken.
+
+## Did not dig in the in the Medina even  (9.12s) 
+**Category:** History 
+
+The speaker is asking about the specific actions of a group of people in a particular location. They are curious about why this group did not dig in a certain area.
+
+## They ignored it completely neglected it  (12.2s)
+**Category:** History
+
+The speaker is emphasizing the inaction of a group of people. They are highlighting their deliberate disregard for a certain event or situation.
+
+## They did not dig in the Nan Tre and they  (14.639s) 
+**Category:** History
+
+The speaker is highlighting the inaction of a group of people in a specific location. They are drawing attention to their failure to investigate a particular matter.
+
+## Did not dig in in about the end of if (16.6s)
+**Category:** History 
+
+The speaker is highlighting the inaction of a group of people regarding a specific event. They are focusing on the lack of investigation and understanding surrounding the conclusion of this event.
+
+## They just looked at the it will be clear (22.039s) 
+**Category:** History
+
+The speaker is describing the passive approach taken by a group of people. They are suggesting that the group simply observed the situation without taking any active measures.
+
+## That that they are faulty so we don't (24.599s)
+**Category:** History
+
+The speaker is drawing a conclusion about the actions of a group. They are claiming that their actions were flawed and that there is no need for further discussion.
+
+## Need to discuss that anymore we have the (28.0s) 
+**Category:** History
+
+The speaker is reiterating their stance on a previous point. They are saying that they believe the evidence is conclusive and that there is no need for further debate.
+
+## Evidence from Allah and his messenger we  (29.72s)
+**Category:** Religion
+
+The speaker is emphasizing the importance of divine guidance. They are suggesting that they have access to evidence that supports their claim and that this evidence comes directly from God.
+
+## Just we just strike with everyone other  (31.4s) 
+**Category:** Philosophy
+
+The speaker is suggesting a course of action that involves a confrontational approach. They are advocating for a strong stance against those who disagree with them.
+
+## Against the world it is ultimately the (34.0s) 
+**Category:** Philosophy
+
+The speaker is emphasizing the importance of standing up for what they believe in. They are suggesting that their beliefs are ultimately correct and that they are willing to fight for them.
+
+## Right of the people the right of (36.16s)
+**Category:** Politics
+
+The speaker is emphasizing the importance of autonomy and freedom. They are advocating for the right of individuals to make their own decisions and determine their own fate.
+
+## Self-determination if the people decide (38.52s) 
+**Category:** Politics
+
+The speaker is emphasizing the importance of self-governance. They are suggesting that people have the right to choose their own leaders and shape their own destiny.
+
+## We we we seclude ourself and our own (40.48s) 
+**Category:** Politics
+
+The speaker is suggesting a course of action involving separation and self-sufficiency. They are advocating for a community that is independent and self-governed. 
+
+## Entity as long as they are applying (42.559s) 
+**Category:** Religion
+
+The speaker is outlining the conditions for a self-governing community. They are suggesting that as long as they adhere to their religious principles, they can maintain their independence.
+
+## Islam and living Islam that's it (44.92s)
+**Category:** Religion
+
+The speaker is emphasizing the importance of following their religion. They are suggesting that living in accordance with Islamic principles is the primary requirement for their community. 
+
+
