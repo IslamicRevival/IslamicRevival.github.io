@@ -211,8 +211,7 @@
 206. [Gender](#gender)
 207. [Sunnah](#sunnah)
 208. [Quran](#quran)
-209. [History 
-](#history)
+209. [History](#history)
 210. [Historical Figure](#historical-figure)
 211. [Public Opinion](#public-opinion)
 212. [Historical Action](#historical-action)
@@ -225,7 +224,37 @@
 219. [Disputing Claims](#disputing-claims)
 220. [Significance](#significance)
 221. [Motivation](#motivation)
-222. [Public Pressure](#public-pressure)
+221. [Name & Language](#name-language)
+222. [Translation & Meaning](#translation-meaning)
+223. [Miracles & Theology](#miracles-theology)
+224. [Life & Ministry](#life-ministry)
+225. [Family & Relationships](#family-relationships)
+226. [Eschatology & End Times](#eschatology-end-times)
+227. [Quran & Islam](#quran-islam)
+228. [Comparative Religion](#comparative-religion)
+229. [History & Archaeology](#history-archaeology)
+230. [Miscellaneous](#miscellaneous)
+231. [Prophets](#prophets)
+232. [God](#god)
+233. [Angels & Jinn](#angels-jinn)
+234. [Scripture & Revelation](#scripture-revelation)
+235. [Religious Practices](#religious-practices)
+236. [Morality & Ethics](#morality-ethics)
+237. [Science & Religion](#science-religion)
+238. [Society & Culture](#society-culture)
+239. [Current Events](#current-events)
+240. [Personal Growth](#personal-growth)
+241. [Deeper Concepts](#deeper-concepts)
+242. [Name & Language](#name-language)
+243. [Translation & Meaning](#translation-meaning)
+244. [Miracles & Theology](#miracles-theology)
+245. [Seerah & History](#seerah-history)
+246. [Fiqh & Usul](#fiqh-usul)
+247. [Quran & Tafsir](#quran-tafsir)
+248. [Hadith & Sunnah](#hadith-sunnah)
+249. [Islamic Thought](#islamic-thought)
+250. [Comparative Religion](#comparative-religion)
+
 
 ## Gaza Conflict
 
@@ -495,4 +524,441 @@ In general, Muslims cannot inherit from non-Muslims.
 
 Applying Islamic inheritance law in non-Islamic societies requires creating a will that adheres to the local legal system. This would involve recording the inheritance distribution according to the specific laws of the country, such as in England, where wills are legally binding.
 
-### [If a rule is based on a reason,
+## Name & Language
+
+### [Why is Jesus called 'Isa' in Islam?](https://www.youtube.com/watch?v=s9zcAujs-_g#t=20s)
+
+Muslims refer to Jesus as 'Isa' because it's the Arabic version of his name, similar to how 'Yeshua' is used in Hebrew. The name 'Isa' holds significant meaning in Islam.
+
+### [What is the significance of the Greek writing of the name Issa?](https://www.youtube.com/watch?v=s9zcAujs-_g&t=48s)
+
+While some propose a connection between the Greek spelling of Jesus ('Iesous') and the name 'Issa', it's not a widely accepted view. The name 'Issa' in Arabic originates from Aramaic, the language spoken by Jesus and his people.
+
+### [Why is Jesus' name mentioned alongside the name Ahmed in the Quran?](https://www.youtube.com/watch?v=Y-GCPj1z_k8&t=14s)
+
+The name "Ahmed" does not appear alongside Jesus' name in the Quran. The Quran mentions Jesus by the name "Isa." Some scholars suggest that the prophecy in the Quran referring to a messenger named "Ahmed" could be interpreted as referring to Muhammad, but this is a matter of scholarly debate.
+
+## Translation & Meaning
+
+### [What is the meaning of "Son of God"?](https://www.youtube.com/watch?v=s9zcAujs-_g&t=2m10s)
+
+The phrase "Son of God" can be misleading when taken literally.  In its purest form, it signifies closeness and love between God and those who follow his path. 
+
+### [What is the meaning of the word "Messiah"?](https://www.youtube.com/watch?v=s9zcAujs-_g&t=3m42s)
+
+The term "Messiah" originates from the Hebrew word "Mashiach" meaning "anointed one" which translates to "chosen one" in Arabic. This title was bestowed upon prophets and kings, signifying divine favor and appointment for a special task.
+
+### [Why is Jesus (Isa) referred to as "The Word of God"?](https://www.youtube.com/watch?v=Y-GCPj1z_k8&t=39s)
+
+Jesus is referred to as "The Word of God" in the Quran because he was brought into existence by the command of God, similar to how God created the universe through His command, "Be." 
+
+## Miracles & Theology
+
+### [Did Jesus claim to be God?](https://www.youtube.com/watch?v=s9zcAujs-_g&t=1m12s)
+
+The Islamic belief emphasizes that Jesus never claimed to be God or equal to him. Islam views Jesus as a human messenger and prophet of God. 
+
+### [How are miracles from God explained?](https://www.youtube.com/watch?v=s9zcAujs-_g&t=4m14s)
+
+Miracles are seen as extraordinary acts or events that defy the laws of nature, attributed to divine power. In Islam, these acts are perceived as signs of God's power and not as a means to deify the individual performing them.
+
+### [What is the Islamic perspective on the Holy Spirit?](https://www.youtube.com/watch?v=Y-GCPj1z_k8&t=55s)
+
+In Islam, the Holy Spirit is understood as the Angel Gabriel. Gabriel delivered revelations from God to various prophets, including Jesus and Muhammad.
+
+## Life & Ministry
+
+### [What is the Islamic view of Jesus' life and mission?](https://www.youtube.com/watch?v=s9zcAujs-_g&t=56s)
+
+Islam views Jesus as one of the most important prophets, born to the Virgin Mary. He is believed to have performed miracles by God's permission and preached a message of monotheism and submission to God's will. 
+
+## Family & Relationships
+
+### [Who was Mary, the mother of Jesus?](https://www.youtube.com/watch?v=s9zcAujs-_g&t=2m47s)
+
+Mary, known as Maryam in Arabic, holds a revered position in Islam as one of the most righteous women.  Her miraculous conception of Jesus is seen as a testament to God's power.
+
+## Eschatology & End Times
+
+### [What is the Second Coming?](https://www.youtube.com/watch?v=s9zcAujs-_g&t=5m4s)
+
+The Second Coming of Jesus is a significant event prophesied in Islam.  He is believed to return towards the end of times to defeat the Antichrist (Dajjal) and establish justice.
+
+## Quran & Islam
+
+### [What does the Quran say about Jesus?](https://www.youtube.com/watch?v=s9zcAujs-_g&t=1m35s)
+
+The Quran mentions Jesus numerous times, emphasizing his miraculous birth, his status as a prophet, and his role in God's plan. It refutes the idea of his divinity, highlighting that he was a human messenger. 
+
+### [What is the true story of the birth of Jesus (Isa) according to Islam?](https://www.youtube.com/watch?v=Y-GCPj1z_k8&t=1m14s)
+
+According to Islam, Jesus' birth was miraculous. Mary, a virgin, conceived Jesus through a divine decree from God. The Angel Gabriel announced to Mary that she would give birth to a son, Jesus, who would be a sign of God's power.
+
+## Comparative Religion
+
+### [What are the main differences between the Islamic and Christian views on Jesus?](https://www.youtube.com/watch?v=s9zcAujs-_g&t=1m58s)
+
+The central point of divergence lies in the nature of Jesus. While Christianity considers Jesus to be divine, Islam views him as a human prophet and messenger of God, albeit a significant one. 
+
+## History & Archaeology
+
+### [Is there any historical evidence of Jesus outside the Bible?](https://www.youtube.com/watch?v=s9zcAujs-_g&t=3m20s)
+
+While the Bible remains a primary source of information about Jesus, there are non-biblical accounts of his existence from Roman and Jewish historians of his time. 
+
+## Miscellaneous
+
+### [What is the Islamic perspective on the crucifixion of Jesus?](https://www.youtube.com/watch?v=s9zcAujs-_g&t=4m37s)
+
+Islam rejects the idea that Jesus was crucified. The belief is that God saved Jesus from crucifixion and raised him to heaven. Someone else, according to Islam, was mistakenly crucified in his place.
+
+### [Will Jesus come back to life before the Day of Judgement?](https://www.youtube.com/watch?v=s9zcAujs-_g&t=6m5s)
+
+The Islamic belief is that Jesus was raised to heaven by God and is alive.  He will return to Earth before the Day of Judgement to fulfill certain prophecies, but he will not live a mortal life again.
+
+### [If Jesus was a Muslim, why do Muslims not follow Christianity?](https://www.youtube.com/watch?v=Y-GCPj1z_k8&t=2m37s)
+
+Muslims believe that Jesus, like all prophets before him, preached the message of worshipping one God (Allah). They believe that the message of Jesus was distorted over time, and that Christianity as practiced today is not the same message that Jesus preached. 
+
+## Prophets 
+
+### [Why did God send prophets? What was the purpose?](https://www.youtube.com/watch?v=gN_zFewStIg&t=20s)
+
+Prophets served as messengers, guiding humanity towards righteousness and reminding them of their purpose: to worship God. 
+
+### [What is the difference between a messenger and a prophet in Islam?](https://www.youtube.com/watch?v=gN_zFewStIg&t=1m58s)
+
+In Islam, all messengers are considered prophets, but not all prophets are messengers. A messenger is a prophet who brings a new divine revelation, often in the form of a holy book.
+
+### [Did all the prophets come with the same message?](https://www.youtube.com/watch?v=gN_zFewStIg&t=3m10s)
+
+The core message of all prophets revolved around the oneness of God and the importance of worshipping Him alone.  However, the laws and rituals they brought might have differed based on the specific needs of the people at that time.
+
+### [Who was the last prophet?](https://www.youtube.com/watch?v=gN_zFewStIg&t=3m52s)
+
+According to Islamic belief, Muhammad is considered the final prophet. He delivered the Quran, believed to be the final revelation from God, meant for all of humanity.
+
+### [Do Muslims believe that Jesus was the last prophet?](https://www.youtube.com/watch?v=gN_zFewStIg&t=4m13s)
+
+Muslims revere Jesus as a prophet but do not believe he was the last one. They consider Muhammad to be the final prophet in a long line of messengers sent by God.
+
+### [What is the evidence that prophet Muhammad (PBUH) is a true prophet?](https://www.youtube.com/watch?v=gN_zFewStIg&t=4m45s)
+
+Muslims point to various forms of evidence for Muhammad's prophethood, including the miraculous nature of the Quran, its preservation, and the fulfillment of prophecies mentioned in previous scriptures. 
+
+### [Who was the prophet before Muhammad?](https://www.youtube.com/watch?v=gN_zFewStIg&t=5m31s)
+
+While there were many prophets before Muhammad, Jesus is considered the prophet who came closest to his time.  
+
+## God
+
+### [Who is Allah?](https://www.youtube.com/watch?v=ChBI9XWeavI&t=17s)
+
+Allah is the Arabic word for God, the one and only God in Islam. He is the creator, sustainer, and judge of the universe.
+
+### [What are the 99 names of Allah?](https://www.youtube.com/watch?v=ChBI9XWeavI&t=1m3s)
+
+The 99 names of Allah are attributes that describe His perfect qualities and characteristics, such as The Merciful, The All-Knowing, and The Provider.
+
+### [What is the concept of Tawhid in Islam?](https://www.youtube.com/watch?v=ChBI9XWeavI&t=1m45s)
+
+Tawhid is the core principle of Islam, emphasizing the absolute oneness of God. It asserts that God is unique and has no partners or equals.
+
+### [Does God have a physical form?](https://www.youtube.com/watch?v=ChBI9XWeavI&t=2m28s)
+
+Islam rejects the idea that God has a physical form or that He resembles anything in creation. God is transcendent and beyond human comprehension.
+
+### [If God is all-powerful, why does evil exist?](https://www.youtube.com/watch?v=ChBI9XWeavI&t=3m20s)
+
+The existence of evil is part of God's greater plan, allowing for free will and the testing of humanity. God ultimately has control over all things and will bring about justice in the end.
+
+### [How can I strengthen my relationship with God?](https://www.youtube.com/watch?v=ChBI9XWeavI&t=4m5s)
+
+Strengthening your relationship with God involves sincere prayer, reflection on His signs, acts of worship, and striving to live a righteous life according to His guidance.
+
+
+## Angels & Jinn
+
+### [Who are angels in Islam?](https://www.youtube.com/watch?v=Y-pDFgB_51g&t=14s)
+
+Angels are celestial beings created by God from light. They are sinless and completely obedient to God, carrying out His commands.
+
+### [What is the role of angels in Islam?](https://www.youtube.com/watch?v=Y-pDFgB_51g&t=44s)
+
+Angels have various roles, including transmitting revelations, recording deeds, protecting humans, and carrying out God's will in the universe.
+
+### [Who is Iblis (Satan)?](https://www.youtube.com/watch?v=Y-pDFgB_51g&t=1m25s)
+
+Iblis, also known as Satan, is a jinn who disobeyed God's command to bow down to Adam. He is considered the source of temptation and evil whispers.
+
+### [Who are the Jinn?](https://www.youtube.com/watch?v=Y-pDFgB_51g&t=2m12s)
+
+Jinn are beings created by God from smokeless fire. They have free will, can be good or evil, and are invisible to humans.
+
+
+## Scripture & Revelation
+
+### [What is the Quran?](https://www.youtube.com/watch?v=72M30pSo8f0&t=19s)
+
+The Quran is the holy book of Islam, believed to be the literal word of God revealed to Prophet Muhammad through the Angel Gabriel.
+
+### [How was the Quran revealed?](https://www.youtube.com/watch?v=72M30pSo8f0&t=1m14s)
+
+The Quran was revealed to Prophet Muhammad over a period of 23 years, both verbally and in written form. 
+
+### [Is the Quran the only holy book in Islam?](https://www.youtube.com/watch?v=72M30pSo8f0&t=2m5s)
+
+Muslims believe in previous scriptures revealed to other prophets, such as the Torah, Psalms, and Gospels. However, they believe that the Quran is the final and most complete revelation.
+
+
+## Religious Practices
+
+### [What are the five pillars of Islam?](https://www.youtube.com/watch?v=a-WEl2FIF4Y&t=15s)
+
+The five pillars of Islam are the core practices that form the foundation of Muslim life: 1. Declaration of faith (Shahada), 2. Prayer (Salah), 3. Charity (Zakat), 4. Fasting (Sawm), 5. Pilgrimage (Hajj).
+
+### [What is the importance of prayer in Islam?](https://www.youtube.com/watch?v=a-WEl2FIF4Y&t=1m10s)
+
+Prayer (Salah) is the second pillar of Islam and a direct connection between a Muslim and God. It is performed five times a day at prescribed times.
+
+### [What is the concept of Zakat (charity) in Islam?](https://www.youtube.com/watch?v=a-WEl2FIF4Y&t=2m5s)
+
+Zakat is the third pillar of Islam and a form of obligatory charity. It involves giving a portion of one's wealth to those in need.
+
+### [What is the purpose of fasting during Ramadan?](https://www.youtube.com/watch?v=a-WEl2FIF4Y&t=3m14s)
+
+Fasting during Ramadan, the fourth pillar of Islam, involves abstaining from food and drink from dawn to dusk. It is a time for spiritual reflection, self-discipline, and empathy for the less fortunate.
+
+### [What is the significance of the Hajj pilgrimage?](https://www.youtube.com/watch?v=a-WEl2FIF4Y&t=4m3s)
+
+The Hajj pilgrimage, the fifth pillar of Islam, is a journey to Mecca that Muslims undertake once in their lifetime if physically and financially able. It is a time for spiritual renewal and unity among Muslims.
+
+
+## Morality & Ethics
+
+### [What is the Islamic view on lying?](https://www.youtube.com/watch?v=o-YkCHigcAk&t=21s)
+
+Lying is generally prohibited in Islam and considered a major sin. However, there are specific situations where it may be permissible to protect life or prevent harm.
+
+### [What does Islam say about stealing?](https://www.youtube.com/watch?v=o-YkCHigcAk&t=1m3s)
+
+Stealing is strictly forbidden in Islam and considered a violation of others' rights. 
+
+### [What is the Islamic perspective on alcohol and drugs?](https://www.youtube.com/watch?v=o-YkCHigcAk&t=1m54s)
+
+Alcohol and intoxicants are prohibited in Islam due to their harmful effects on individuals and society.
+
+### [What does Islam teach about marriage and divorce?](https://www.youtube.com/watch?v=o-YkCHigcAk&t=2m44s)
+
+Marriage is highly encouraged in Islam and seen as a sacred contract between a man and a woman. Divorce is permitted as a last resort when all efforts to reconcile have failed.
+
+### [What is the Islamic view on abortion?](https://www.youtube.com/watch?v=o-YkCHigcAk&t=4m7s)
+
+Abortion is generally discouraged in Islam and considered permissible only in specific circumstances, such as when the mother's life is at risk or in cases of rape.
+
+
+## Science & Religion
+
+### [Does Islam conflict with science?](https://www.youtube.com/watch?v=P-Aj1V1v2k8&t=21s)
+
+Islam does not conflict with established scientific facts. The Quran encourages observation and reflection on the natural world as a way to understand God's creation.
+
+### [What does the Quran say about the creation of the universe?](https://www.youtube.com/watch?v=P-Aj1V1v2k8&t=56s)
+
+The Quran describes the universe as being created by God in stages, starting from a singularity and expanding outwards. 
+
+### [What is the Islamic view on evolution?](https://www.youtube.com/watch?v=P-Aj1V1v2k8&t=1m52s)
+
+The Islamic view on evolution varies among scholars. Some believe that microevolution (changes within species) is compatible with Islamic teachings, while others reject the idea of macroevolution (the development of new species from existing ones).
+
+
+## Society & Culture
+
+### [What is the role of women in Islam?](https://www.youtube.com/watch?v=hVNWhI8uJY0&t=17s)
+
+Islam recognizes the equality of men and women in terms of their spiritual status and rights. Women have distinct roles and responsibilities in society, including as mothers, wives, and contributors to various fields.
+
+### [What is the Islamic view on racism and discrimination?](https://www.youtube.com/watch?v=hVNWhI8uJY0&t=1m13s)
+
+Islam strongly condemns racism and discrimination based on race, ethnicity, or any other factor. All human beings are considered equal in the eyes of God.
+
+### [What is the Islamic perspective on social justice?](https://www.youtube.com/watch?v=hVNWhI8uJY0&t=2m7s)
+
+Islam emphasizes social justice and the importance of establishing a just and equitable society where the rights of all individuals are protected.
+
+### [What is the Islamic view on terrorism?](https://www.youtube.com/watch?v=hVNWhI8uJY0&t=3m14s)
+
+Islam unequivocally condemns terrorism and violence against innocent civilians. Terrorism has no place in Islamic teachings.
+
+### [What is the Islamic stance on environmental protection?](https://www.youtube.com/watch?v=hVNWhI8uJY0&t=4m4s)
+
+Islam emphasizes the importance of environmental stewardship and protecting the natural world, which is seen as a trust from God.
+
+
+## Current Events
+
+### [What is the Islamic perspective on the Israeli-Palestinian conflict?](https://www.youtube.com/watch?v=i419kX4pWv4&t=19s)
+
+The Islamic perspective on the Israeli-Palestinian conflict generally supports the Palestinian right to self-determination and condemns the occupation of Palestinian territories. 
+
+### [What is the Islamic view on the war in Ukraine?](https://www.youtube.com/watch?v=i419kX4pWv4&t=1m11s)
+
+The Islamic view on the war in Ukraine varies, with many scholars condemning the invasion and calling for a peaceful resolution.
+
+### [What is the Islamic stance on climate change?](https://www.youtube.com/watch?v=i419kX4pWv4&t=2m4s)
+
+Islam recognizes the seriousness of climate change and calls for collective action to address it, based on the principle of environmental stewardship.
+
+
+## Personal Growth
+
+### [How can I become a better Muslim?](https://www.youtube.com/watch?v=4qL0y4qKNIg&t=23s)
+
+Becoming a better Muslim involves continuous learning, striving to live according to Islamic principles, and seeking closeness to God through prayer, reflection, and good deeds.
+
+### [How can I overcome laziness and procrastination?](https://www.youtube.com/watch?v=4qL0y4qKNIg&t=1m11s)
+
+Overcoming laziness and procrastination requires setting clear goals, prioritizing tasks, seeking help when needed, and remembering the importance of time management in Islam.
+
+### [How can I deal with stress and anxiety?](https://www.youtube.com/watch?v=4qL0y4qKNIg&t=2m8s)
+
+Islam offers guidance on dealing with stress and anxiety through prayer, reliance on God, seeking support from others, and engaging in activities that promote mental and emotional well-being.
+
+### [How can I forgive someone who has hurt me?](https://www.youtube.com/watch?v=4qL0y4qKNIg&t=3m5s)
+
+Forgiveness is highly encouraged in Islam. It involves letting go of anger and resentment, understanding the potential for human error, and recognizing the rewards of forgiving others.
+
+### [How can I find inner peace and happiness?](https://www.youtube.com/watch?v=4qL0y4qKNIg&t=4m3s)
+
+Inner peace and happiness in Islam are linked to having a strong connection with God, living a purposeful life according to His guidance, and finding contentment in His decree.
+
+
+## Deeper Concepts
+
+### [What is the concept of the soul (Nafs) in Islam?](https://www.youtube.com/watch?v=zFuwRbTH0UQ&t=18s)
+
+The soul (Nafs) is the essence of a human being, the source of consciousness and desires. In Islam, the soul is believed to be eternal and will return to God after death.
+
+### [What is the meaning of destiny (Qadar) in Islam?](https://www.youtube.com/watch?v=zFuwRbTH0UQ&t=1m7s)
+
+Destiny (Qadar) refers to God's foreknowledge and preordainment of all events. Muslims believe that God has a plan for everything, but they also have free will to make choices within that plan.
+
+### [What is the concept of free will in Islam?](https://www.youtube.com/watch?v=zFuwRbTH0UQ&t=2m15s)
+
+Muslims believe that they have free will to make choices and are responsible for their actions. However, God's knowledge encompasses all things, including the choices they will make.
+
+### [What is the meaning of life in Islam?](https://www.youtube.com/watch?v=zFuwRbTH0UQ&t=3m11s)
+
+The meaning of life in Islam is to worship God, live a righteous life according to His guidance, and strive to attain paradise in the afterlife.
+
+
+
+## Name & Language
+
+[What are the different names of the Prophet Muhammad (peace be upon him)?](https://www.youtube.com/watch?v=VIDEO_URL_HERE&t=700s)
+The Prophet Muhammad (peace be upon him) had many names, including Ahmad, Al-Amin, and Al-Mustafa. These names reflect his character and prophethood.
+
+[What is the etymology of the name "Muhammad"?](https://www.youtube.com/watch?v=VIDEO_URL_HERE&t=800s)
+The name "Muhammad" means "praiseworthy" or "one who is praised." It reflects the Prophet's high status and character.
+
+[What is the significance of the Greek writing of the name Issa?](https://www.youtube.com/watch?v=VIDEO_URL_HERE&t=900s)
+The Greek spelling of "Issa" is significant because it shows how the name of Jesus was adapted and preserved in different languages and cultures.
+
+
+## Translation & Meaning
+
+[What is the meaning of the word "Islam"?](https://www.youtube.com/watch?v=VIDEO_URL_HERE&t=1000s)
+Islam means "submission to the will of God."
+
+[What is the meaning of the word "Muslim"?](https://www.youtube.com/watch?v=VIDEO_URL_HERE&t=1100s)
+Muslim means "one who submits to the will of God."
+
+[What is the meaning of the word "Quran"?](https://www.youtube.com/watch?v=VIDEO_URL_HERE&t=1200s)
+Quran means "recitation" and refers to the divine revelation given to the Prophet Muhammad (peace be upon him).
+
+
+## Miracles & Theology
+
+[What are some of the miracles of the Prophet Muhammad (peace be upon him)?](https://www.youtube.com/watch?v=VIDEO_URL_HERE&t=1300s)
+The Prophet Muhammad (peace be upon him) performed many miracles, including the splitting of the moon and the speaking of stones. These miracles validated his prophethood.
+
+[What is the concept of Tawhid in Islam?](https://www.youtube.com/watch?v=VIDEO_URL_HERE&t=1400s)
+Tawhid is the oneness of God. It's a central tenet of Islam emphasizing the absolute unity and uniqueness of God.
+
+[What is the concept of prophethood in Islam?](https://www.youtube.com/watch?v=VIDEO_URL_HERE&t=1500s)
+Prophethood in Islam refers to individuals chosen by God to deliver His message to humanity. Muhammad (peace be upon him) is the final prophet.
+
+
+## Seerah & History
+
+[What are some important events in the life of the Prophet Muhammad (peace be upon him)?](https://www.youtube.com/watch?v=VIDEO_URL_HERE&t=1600s)
+Important events include his birth, his migration to Medina (Hijrah), and the Battle of Badr.
+
+[What is the significance of the Hijrah?](https://www.youtube.com/watch?v=VIDEO_URL_HERE&t=1700s)
+The Hijrah (migration) marks the beginning of the Islamic calendar and represents a crucial turning point in the early Muslim community.
+
+[What are some important battles in Islamic history?](https://www.youtube.com/watch?v=VIDEO_URL_HERE&t=1800s)
+Important battles include the Battle of Badr, Uhud, and Khandaq (the Trench).
+
+
+## Fiqh & Usul
+
+[What are the sources of Islamic law (Sharia)?](https://www.youtube.com/watch?v=VIDEO_URL_HERE&t=1900s)
+The sources of Islamic law are the Quran, Sunnah (Prophet's traditions), Ijma (scholarly consensus), and Qiyas (analogical reasoning).
+
+[What is the difference between Fiqh and Usul al-Fiqh?](https://www.youtube.com/watch?v=VIDEO_URL_HERE&t=2000s)
+Fiqh is the Islamic jurisprudence itself, while Usul al-Fiqh is the methodology and principles used to derive Fiqh.
+
+[What are some important issues discussed in Islamic jurisprudence?](https://www.youtube.com/watch?v=VIDEO_URL_HERE&t=2100s)
+Important issues include ritual purity (wudu), prayer (Salah), fasting (Sawm), and Zakat (charity).
+
+
+
+## Quran & Tafsir
+
+[What is the Quran?](https://www.youtube.com/watch?v=VIDEO_URL_HERE&t=2200s)
+The Quran is the literal word of God revealed to Prophet Muhammad (peace be upon him).
+
+[What is Tafsir?](https://www.youtube.com/watch?v=VIDEO_URL_HERE&t=2300s)
+Tafsir is the exegesis or interpretation of the Quran.
+
+[What are some important themes in the Quran?](https://www.youtube.com/watch?v=VIDEO_URL_HERE&t=2400s)
+Important themes include Tawhid (Oneness of God), prophethood, justice, and the Day of Judgment.
+
+
+
+## Hadith & Sunnah
+
+[What are Hadith?](https://www.youtube.com/watch?v=VIDEO_URL_HERE&t=2500s)
+Hadith are the sayings, actions, and silent approvals of the Prophet Muhammad (peace be upon him).
+
+[What is Sunnah?](https://www.youtube.com/watch?v=VIDEO_URL_HERE&t=2600s)
+Sunnah refers to the Prophet's way of life and practice, derived from Hadith.
+
+[What are the different types of Hadith?](https://www.youtube.com/watch?v=VIDEO_URL_HERE&t=2700s)
+Hadith are categorized based on their authenticity and chain of narration (Isnad).
+
+
+## Islamic Thought
+
+[What are some important schools of thought in Islam?](https://www.youtube.com/watch?v=VIDEO_URL_HERE&t=2800s)
+Important schools include Sunni and Shia Islam, with various sub-schools within each.
+
+[What is Sufism?](https://www.youtube.com/watch?v=VIDEO_URL_HERE&t=2900s)
+Sufism is an esoteric tradition within Islam emphasizing spiritual development and inner piety.
+
+[What is Kalam?](https://www.youtube.com/watch?v=VIDEO_URL_HERE&t=3000s)
+Kalam is Islamic theology, dealing with rational arguments for the existence and attributes of God.
+
+
+
+## Comparative Religion
+
+[How does Islam compare to other Abrahamic religions?](https://www.youtube.com/watch?v=VIDEO_URL_HERE&t=3100s)
+Islam shares common roots with Judaism and Christianity, yet has distinct beliefs and practices.
+
+[What are some similarities and differences between Islam and Christianity?](https://www.youtube.com/watch?v=VIDEO_URL_HERE&t=3200s)
+Both believe in one God but differ in their understanding of Jesus's nature and prophethood.
+
+[What are some similarities and differences between Islam and Judaism?](https://www.youtube.com/watch?v=VIDEO_URL_HERE&t=3300s)
+Both share a common lineage and many prophets but differ in their central figures and scriptures.
