@@ -4164,3 +4164,83 @@ The speaker believes that the United States has been bluffing for decades, and t
 
 The speaker questions why Joe Biden is not acknowledging the humanitarian crisis and is supplying weapons to Israel despite the crisis.
 
+
+### [What's the meaning of reformer or moderate?](https://www.youtube.com/watch?v=yBbzu0izgd0#t=33.28s)
+
+ What is the meaning of reformer or moderate in the context of Palestinian politics? 
+
+ The speaker clarifies that the terms 'moderate' and 'reformer' are often used by the West, implying a willingness to compromise with Israel. He questions the Western definition of these terms, arguing that true reform should be about upholding the rights of the Palestinian people and not compromising with Israel. 
+
+### [What is the real meaning of "reformer" or "moderate" in this context?](https://www.youtube.com/watch?v=RO2o-HWZrWE#t=292.84s)
+
+ The West often labels those who are willing to compromise with Israel as "reformers" or "moderates". However, this term often disregards genuine concerns about human rights and liberties. This mischaracterization is particularly problematic when it comes to issues like the Islamic state and its values. 
+
+### [What is the ruling on political parties?](https://www.youtube.com/watch?v=yBbzu0izgd0#t=3403.28s)
+
+ What is the ruling on political parties?
+
+ The speaker refers to the Quranic verse that prohibits consuming food upon which the name of Allah has not been mentioned. He interprets this verse as applying to political parties, suggesting that if a Muslim chooses to not mention Allah's name when aligning with a political party, it could be considered a rejection of Islam. He clarifies that this rejection could even constitute apostasy, depending on the Muslim's intentions.
+
+### [Are there any moves for Islamic political parties to move away from alliances with Pro-US and Pro-Israel Arab states?](https://www.youtube.com/watch?v=yBbzu0izgd0#t=3795.44s)
+
+ Are there any moves for Islamic political parties to move away from alliances with Pro-US and Pro-Israel Arab states?
+
+ The speaker mentions that the Muslim Brotherhood in Lebanon has announced their support for Hezbollah in their fight against Israel. He welcomes this move, highlighting the importance of Islamic unity against Israel. He criticizes the Muslim Brotherhood's past collaboration with rulers, considering it a major catastrophe and a mistake that needs to be rectified.
+
+### [Are Erdogan's recent moves regarding Syria, Cyprus, and the Syrian opposition aimed at fighting Israel or just opportunistic?](https://www.youtube.com/watch?v=yBbzu0izgd0#t=3826.88s)
+
+ Are Erdogan's recent moves regarding Syria, Cyprus, and the Syrian opposition aimed at fighting Israel or just opportunistic?
+
+ The speaker is skeptical about Erdogan's motives, stating that he has proven to be a master manipulator and opportunist in recent years. He expresses concern that Erdogan's understanding of Islam is flawed, potentially bordering on kufr. He highlights that Erdogan's actions have not yet demonstrated a genuine commitment to fighting Israel and that he seems to be focused on self-interest and maintaining power.
+
+### [Is joining the UN kufur?](https://www.youtube.com/watch?v=yBbzu0izgd0#t=9587.439s)
+
+ Is joining the UN kufur?
+
+ The speaker argues that joining the UN can be considered kufur because the UN requires its members to accept certain rulings that contradict Islamic principles, such as those related to human rights.
+
+## History
+
+### [What is the South African Solution?](https://www.youtube.com/watch?v=NmLgun0nn3A#t=3.36s)
+
+ How did the apartheid regime in South Africa end?
+
+ After years of conflict and international pressure, the South African regime realized their cause was failing. Recognizing they would likely face annihilation if they continued their fight, they chose a path of reconciliation, releasing Nelson Mandela, and creating a peace settlement. This transition was considered relatively peaceful, despite the deep-seated racism present within South African society.
+
+## Religion
+
+### [Is Pakistan an Islamic State?](https://www.youtube.com/watch?v=yBbzu0izgd0#t=52.199s)
+
+ Does the speaker consider Pakistan to be an Islamic State? 
+
+ The speaker doubts that Pakistan is a true Islamic State, despite it being an Islamic entity. He argues that a nation state with democratic mechanisms for electing a ruler cannot be an Islamic state, according to his understanding of Islam. 
+
+### [Is the Islamic State obligated to uncover any internal plots against the state?](https://www.youtube.com/watch?v=yBbzu0izgd0#t=109.92s)
+
+ Is the Islamic State obligated to uncover any internal plots against the state, even if it means creating suspicion and doubt amongst the people? 
+
+ The speaker states that the Islamic State does not need to uncover anyone because if you start exposing everyone, society will become corrupt. He quotes a Hadith stating that a ruler who instigates suspicion and doubt will corrupt the state and society.  He argues that a healthy society is more than capable of detecting and exposing internal threats through police investigations and due process. 
+
+### [Is the Dua about tongues and hearts being full of IM authentic?](https://www.youtube.com/watch?v=yBbzu0izgd0#t=150.76s)
+
+ Does the speaker consider the Dua about tongues and hearts being full of IM to be authentic? 
+
+ The speaker states he has never bothered about the authenticity of this Dua and considers it to be a good one. He mentions that he receives many questions and this is just one of them, and he doesn't consider this a high priority. 
+
+### [Is it sh to say a and saying for example Ali Hussein?](https://www.youtube.com/watch?v=yBbzu0izgd0#t=1881.639s)
+
+ Is it sh to say a and saying for example Ali Hussein?
+
+ The speaker reiterates his previous answer, stating that it is sh to invoke anyone as a Divine being unless they have a creative power and independent knowledge, which he argues Ali Hussein does not possess. He suggests viewers refer to previous videos on this topic for a more detailed explanation.
+
+### [What is your view on M pre-seminal fluid in relation to Wudhu?](https://www.youtube.com/watch?v=yBbzu0izgd0#t=2085.04s)
+
+ What is the speaker's view on M pre-seminal fluid in relation to Wudhu?
+
+ The speaker summarizes the Hadith where Ali asked Mikdad to ask the Prophet about the pre-seminal fluid. He emphasizes that Ali was trying to show the fallacy of equating pre-seminal fluid with ejaculation, which is considered impure. He highlights the Prophet's response, stating that every man experiences M, and it is a natural characteristic of manhood. He clarifies that the Prophet recommended washing away the pre-seminal fluid if it contaminates clothing. 
+
+### [How do you reconcile your view on slaughtering with the Hadith about killing with an arrow?](https://www.youtube.com/watch?v=yBbzu0izgd0#t=2856.96s)
+
+ How does the speaker reconcile his view on slaughtering with the Hadith about killing with an arrow? 
+
+ The speaker explains that the Hadith in question does not mention the requirement of slaughtering and that it refers specifically to hunted animals. He argues that the standard way to determine the permissibility of eating hunted animals is based on whether the name of Allah has been mentioned during the hunt.  He further highlights a Hadith where the Prophet states that if you are
